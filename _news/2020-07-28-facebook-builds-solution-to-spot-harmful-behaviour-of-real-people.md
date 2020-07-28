@@ -34,6 +34,22 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Facebook AI will help simulate real human behaviour: Know what it means"
+    excerpt: "Facebook has created a machine learning solution to train bots to realistically simulate the behaviour of real people on a social media platform, a move that will improve software testing for complex environments particularly in product areas related to safety,"
+    publishedDateTime: 2020-07-28T08:46:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-facebook-builds-solution-to-spot-harmful-behaviour-of-real-people-637700"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-facebook-builds-solution-to-spot-harmful-behaviour-of-real-people-637700"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-facebook-builds-solution-to-spot-harmful-behaviour-of-real-people-637700"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/07/facebook-app-2-1595925942.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facebook builds solution to spot harmful behaviour of real people"
     excerpt: "Facebook has created a machine learning solution to train bots to realistically simulate the behaviour of real people on a social media platform, a move that will improve software testing for complex environments particularly in product areas related to safety,"
     publishedDateTime: 2020-07-27T13:33:00Z

@@ -2,6 +2,338 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-07-09-ask-a-techspert-how-do-machine-learning-models-explain-themselves.md",
+      "title": "Ask a Techspert: How do machine learning models explain themselves?",
+      "excerpt": "Editor’s Note: Do you ever feel like a fish out of water? Try being a tech novice and talking to an engineer at a place like Google. Ask a Techspert is a series on the Keyword asking Googler experts to explain complicated technology for the rest of us. This isn’t meant to be comprehensive, but just enough",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/-_ky4crC.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
+      "publishedDateTime": "2020-07-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-lunar-rover-footage-upscaled-with-ai-is-as-close-as-youll-get-to-the-experience-of-driving-on-the-moon.md",
+      "title": "Lunar Rover Footage Upscaled With AI Is as Close as You'll Get to the Experience of Driving on the Moon",
+      "excerpt": "The last time astronauts walked on the moon was in December of 1972, decades before high-definition video cameras were available. They relied on low-res grainy analog film to record their adventures,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bvsvydnbbayrymqooops.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664/amp",
+      "publishedDateTime": "2020-07-09T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-jadc2-tops-pentagons-artificial-intelligence-efforts.md",
+      "title": "JADC2 tops Pentagon’s artificial intelligence efforts",
+      "excerpt": "The Pentagon’s Joint Artificial Intelligence Center is focused on overlaying AI tools on the military’s mega information-sharing platform effort, called Joint All Domain Command and Control.",
+      "sourceUrl": null,
+      "webUrl": "https://fcw.com/articles/2020/07/09/williams-jaic-ai.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIdatamodel.jpg",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Federal Computer Week",
+        "domain": "fcw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories.md",
+      "title": "AI at the Edge is enabling the push toward defect-free factories",
+      "excerpt": "On-floor factory edge computing is enabing manufacturers to identify 99.6% of errors before a product ever leaves the line.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/09/ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-726796087.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/09/ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories/amp/",
+      "publishedDateTime": "2020-07-09T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall.md",
+      "title": "New York City public schools will reopen with 'blended learning' in the fall",
+      "excerpt": "New York City, the largest school district in the US, revealed that students will partially return to schools in the fall using \"blended learning.\" Mayor Bill de Blasio on Wednesday said that public school students will attend in-person classes two to three days a week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/FVZ4WPALIpd6pmHVCuQWAfRpRFk=/756x567/2020/04/24/a210ff3d-ed5d-459c-b234-7f29daf261bf/coronavirus-students-online-learning-schools-education-6137.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
+      "publishedDateTime": "2020-07-09T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-vecna-robotics-recognized-for-excellence-in-robotics-supply-chain-and-logistics-automaton.md",
+      "title": "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automaton",
+      "excerpt": "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced it has been recognized as the recipient of three indus",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200709005592/en/Vecna-Robotics-Recognized-Excellence-Robotics-Supply-Chain",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200709005592/en/804309/23/Vecna_RGB_Large.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-google-cloud-lands-renault-as-analytics-machine-learning-ai-customer.md",
+      "title": "Google Cloud lands Renault as analytics, machine learning, AI customer",
+      "excerpt": "Automaker Renault said it will use Google Cloud's analytics, machine learning and artificial intelligence services on a wide range of initiatives to make the company more efficien",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-cloud-lands-renault-as-analytics-machine-learning-ai-customer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/06/6e9b52e0-b81b-4e65-885d-e3d864d25019/thumbnail/1200x675/b1057c38f5ec4d51d8e0631e886fb62d/nokia-data-center-customers.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-lands-renault-as-analytics-machine-learning-ai-customer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-lands-renault-as-analytics-machine-learning-ai-customer/",
+      "publishedDateTime": "2020-07-09T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-researchers-propose-ai-for-detecting-fraudulent-crowdfunding-campaigns.md",
       "title": "Researchers propose AI for detecting fraudulent crowdfunding campaigns",
       "excerpt": "In a new preprint study, researchers propose AI to detect fraudulent crowdfunding campaigns at publication time -- even without donor activity.",
@@ -1084,310 +1416,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida.md",
-      "title": "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida",
-      "excerpt": "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcmiami.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650",
-          "width": 1200,
-          "height": 650,
-          "title": "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp",
-      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp",
-      "publishedDateTime": "2020-07-08T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 6 South Florida",
-        "domain": "nbcmiami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-school-debate-president-trump-pushes-for-in-person-learning-to-resume.md",
-      "title": "School debate: President Trump pushes for in-person learning to resume",
-      "excerpt": "Breaking tonight, how to get students back to school safely amid the coronavirus pandemic? The president and first lady participating in what was billed as a national dialogue on the subject earlier today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1e786f4-809a-4cdd-9722-7073e51af51b/bf181f1d-83c9-4e48-9f79-10247b07dd6a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "School debate: President Trump pushes for in-person learning to resume",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
-      "publishedDateTime": "2020-07-08T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-can-ai-really-distinguish-between-back-pain.md",
-      "title": "Can AI Really Distinguish Between Back Pain?",
-      "excerpt": "The single code for two different conditions prevents appropriate billing and therapy recommendations, including different return-to-work scenarios. The artificial intelligence model in this study, the first of its kind, could be used to improve the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/can-ai-really-distinguish-between-back-pain",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/back-pain-2402708_1920.jpg",
-          "width": 1920,
-          "height": 1271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.md",
-      "title": "The Birth Of The Cloud-Enabled Hybrid-AI Robotics Platform",
-      "excerpt": "While this does make the robot able to function off-line, the trade-offs between processing power, size, battery limitations, and inflexible technology result in minimal AI capabilities. If you can centralize this intelligence and offer it more on an on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
-      "publishedDateTime": "2020-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-releases-preview-of-text-analytics-for-health-battle-tested-in-covid-19-partnership.md",
-      "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
-      "excerpt": "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
-      "publishedDateTime": "2020-07-08T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-welcome-robin-the-ai-robot.md",
-      "title": "Welcome, Robin the AI robot",
-      "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/welcomerobin.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp",
-      "publishedDateTime": "2020-07-08T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ai-save-me-from-my-rude-self-please.md",
-      "title": "AI, save me from my rude self (please)",
-      "excerpt": "Carnegie Mellon University scientists come up with an automated method for making communication more polite, thank you very much.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-save-me-from-my-rude-self-please/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "AI, save me from my rude self (please)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
-      "publishedDateTime": "2020-07-08T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

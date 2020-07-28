@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/2020/07/bengaluru-startup-urvija-ai-data-monet
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/07/bengaluru-startup-urvija-ai-data-monetisation-b2b/amp"
 type: article
 quality: 47
-heat: 57
+heat: 47
 published: false
 
 provider:

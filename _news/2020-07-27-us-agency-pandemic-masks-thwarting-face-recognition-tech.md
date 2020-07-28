@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Study: Masks thwarting facial recognition technology"
+    excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
+    publishedDateTime: 2020-07-28T00:27:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2020/07/27/masks-virus-facial-recognition/112465252/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/112465252"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/112465252"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "r3WFOIMzYUCzqAbR4kwEQea5vp3cPbWZjISYyLDXeOI3HTELXB9jTNEBDMO4GObEzA4XtJK24FteTf4POL4mJ88ewqeON0wax5rMTMGV0/PK/HvR0Knb1jgyevgBpDhG4/E6QE6LSMThh4dLQIy6Q7SI19+yW/n0ls/5f1QVMqExg0x6C3Y77oc+x3KY7lVakd09y4y8dnncAfiDOVDf8WjfN9SGuatd729PdPnRXm/MM7vKJ8xgkC6TcqtEiunrwFaB1G+BtIWy/0n/0t9tKPrue3oPaRyAAV5pSVqfYR8TXgq9diBIO0F4VHxX5yVx8v3ixJwpSJ6/LIkQdfEHpA==;I8BdRIhpFesBa3pMIuHsyg=="
 ---

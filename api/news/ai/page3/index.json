@@ -2,6 +2,97 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-24-machine-learning-how-embeddings-make-complex-data-simple.md",
+      "title": "Machine learning: How embeddings make complex data simple",
+      "excerpt": "Working with non-numerical data can be tough, even for experienced data scientists. A typical machine learning model expects its features to be numbers, not words, emails, website pages ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/a1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
+      "publishedDateTime": "2020-07-23T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-this-cheap-coding-course-is-perfect-for-total-beginners.md",
+      "title": "This cheap coding course is perfect for total beginners",
+      "excerpt": "Beyond that, you'll learn the fundamentals of JavaScript, Java for Android, Swift, Tensorflow, React, and even dabble in Python. Whether you're 18 or 68, it never hurts to learn something new.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F24%252F49%252F8f2ae3e8f79748b2966621fd02a63c05.104e0.jpg%252F1200x630.jpg?signature=GX9ozoWEpRmOgCQTxJ5D24a4ksE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
+      "publishedDateTime": "2020-07-23T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature.md",
       "title": "Railways to revamp the IRCTC website with Artificial Intelligence feature",
       "excerpt": "Mr. Yadav said the portal will have Artificial Intelligence capabilities integrated into it. “When passengers book the ticket, based on the analysis of the past data, the AI feature will be able to forecast the chances of reservation confirmation.",
@@ -191,6 +282,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-23-facebook-will-pay-650-million-to-settle-facial-recognition-privacy-lawsuit.md",
+      "title": "Facebook will pay $650 million to settle facial recognition privacy lawsuit",
+      "excerpt": "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
+      "publishedDateTime": "2020-07-23T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-researchers-ai-system-infers-music-from-silent-videos-of-musicians.md",
       "title": "Researchers’ AI system infers music from silent videos of musicians",
       "excerpt": "In a study accepted to the upcoming 2020 European Conference on Computer Vision, MIT and MIT-IBM Watson AI Lab researchers describe an AI system — Foley Music — that can generate “plausible ...",
@@ -287,6 +428,56 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-sens-sanders-warren-wyden-back-national-facial-recognition-ban-bill.md",
+      "title": "Sens. Sanders, Warren, Wyden back national facial recognition ban bill",
+      "excerpt": "A new scorecard shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/M2ugk7HeWp64WGbHDqCQ0MW_2fE=/756x567/2020/05/01/8c12d2b9-11e2-41b5-8691-c40889483848/facial-recognition-face-id-passw.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/",
+      "publishedDateTime": "2020-07-23T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -496,7 +687,7 @@
       "webUrl": "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 279,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -784,56 +975,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-tech-startup-funding-declines-as-pandemic-drags-on.md",
-      "title": "Tech Startup Funding Declines as Pandemic Drags On",
-      "excerpt": "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-212166/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "publishedDateTime": "2020-07-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1302,156 +1443,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-is-training-an-army-of-malicious-bots-to-research-anti-spam-methods.md",
-      "title": "Facebook is training an army of malicious bots to research anti-spam methods",
-      "excerpt": "In a new experiment, Facebook is training an army of automated bots to simulate bad behavior for testing and researching anti-spam methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp",
-      "publishedDateTime": "2020-07-23T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-is-using-bots-to-figure-out-how-to-stop-harassment.md",
-      "title": "Facebook is using bots to figure out how to stop harassment",
-      "excerpt": "Facebook says its researchers are developing new technology they hope will aid in ongoing efforts to make its platform’s AI have the ability to snuff out harassment. In the Web-Enabled Simulation (WES),",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-bots-simulate-harassment-080003548.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fca2633f0-cb8d-11ea-bfdf-800ad9fc692d&client=amp-blogside-v2&signature=637051b1de4706676fc8b0fb323852b75667e1de",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-bots-simulate-harassment-080003548.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-bots-simulate-harassment-080003548.html",
-      "publishedDateTime": "2020-07-23T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-is-simulating-users-bad-behavior-using-ai.md",
-      "title": "Facebook is simulating users’ bad behavior using AI",
-      "excerpt": "The research is being led by Facebook engineer Mark Harman and the company’s AI department in London. Speaking to journalists, Harman said WW was a hugely flexible tool that could be used to limit a wide range of harmful behavior on the site, and he gave ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/23/21333854/facebook-ai-simulation-bad-behavior-ww-web-base-simulator",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/CSHjp46Zyg7f0We2mFyfFTQfrNo=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67095759/acastro_180720_1777_facebook_0001.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/23/21333854/facebook-ai-simulation-bad-behavior-ww-web-base-simulator",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/23/21333854/facebook-ai-simulation-bad-behavior-ww-web-base-simulator",
-      "publishedDateTime": "2020-07-23T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

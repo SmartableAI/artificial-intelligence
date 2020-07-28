@@ -7,6 +7,7 @@ webUrl: "https://www.law.com/international-edition/2020/07/28/is-legal-ai-making
 type: article
 quality: 37
 heat: 37
+published: false
 
 provider:
   name: Law
@@ -21,6 +22,6 @@ images:
     height: 372
     isCached: true
 
-secured: "wNghycZLWY4mDcjbjpZ+PRLDksXNK6Q2uWhkTHnD1p9+woayqsnpIh6B3lCfXzoiNl+N5YbtJ7zzaetJPUCieyqVBprRhuLzpRfl9S6Anq9qk3IOTnfXWUS+lxVzynSMbF2q6DnbIgNG4GFN3LZADPslet56E+8LrZSaPvJVy/CEvYFB3cea0QE6ZN3ykGyGmKNNk2zw8DewhZWUJfXs1SGAUBscy+fwyMJFCnAuVfK99p1CscpL1hI37yvQmmGY6N0bHv3uz/ORK1bmWM0jU+Xl5QI2IQiTQV5rgvdI09EHTfw65gJTd2rTDHWOpk5LxtPWGqkBdwCfyN2l17/iOg==;Vf8E53EaaooongnQAyMwLA=="
+secured: "McpcEz1WaGAF64vqCSetryHv+A5IzdxqxXi5vrl9DNL22JX+AOuhaYR+6DpsnatBlWTwxwPuKkuLLn2haqpFbAjvtdX/KSn4Mys7Lflu6oel0f5Xv1k6MTxxuNTyRLfPYE8JpC5lL8BERv0PdW81X8DHGAfU27mZ3TVwNYxEP3eDXFGV0ZsOGurQa0Ov0zmlVbFSmESBGXBhi8LkMJow3Bth0J4qxo2I2miwAC9fudLlz+ejZqAtYnKbAmajoC8+zUPzf4r61eOViaAmnbVdavR/wuELUevWjM14WOJizK4WvK5Qi1S3RdW6HWiMaKNbjGyP4enLJnHTq5Jgz/PQjSAFFkJfktNdWJ/6FxJfo3ZGcB+Biz7JwVXmjfIeYHjw7qX42fHBcgKBtRjlr31Kn5SItfwGjDe2LKTmDlPfrDAj0XqtNMiIuL64Wz+yvia85OBoukwWIOq9wH0XtDI747L6X+5aXT0nCxx7UfssPu6oxVGOPf1FpF66jz/A6Hg4;+2ak1BJ1NgxZCCFXOwnAMA=="
 ---
 

@@ -7,6 +7,7 @@ webUrl: "https://thebridge.jp/en/2020/07/mantra-engine-official-release"
 type: article
 quality: 29
 heat: 29
+published: false
 
 provider:
   name: thebridge.jp

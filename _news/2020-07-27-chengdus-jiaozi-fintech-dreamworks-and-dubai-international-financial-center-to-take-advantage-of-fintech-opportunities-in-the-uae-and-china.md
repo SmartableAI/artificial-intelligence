@@ -27,8 +27,8 @@ images:
 
 related:
   - title: "UAE, China to collaborate on fintech, AI as part of China's belt and road initiative"
-    excerpt: "Chinese giant panda Ai Bao gives birth in South Korean zoo Former ... signed a memorandum of understanding with China’s Jiaozi Fintech Dreamworks as part of China’s belt and road economic ..."
-    publishedDateTime: 2020-07-25T11:57:00Z
+    excerpt: "Dubai International Financial Centre has signed a memorandum of understanding with China’s Jiaozi Fintech Dreamworks as part of China’s belt and road economic initiative to co"
+    publishedDateTime: 2020-07-25T11:59:00Z
     webUrl: "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
     ampWebUrl: "https://english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
     cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"

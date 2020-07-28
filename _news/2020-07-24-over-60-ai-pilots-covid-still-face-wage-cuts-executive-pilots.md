@@ -8,7 +8,7 @@ ampWebUrl: "https://www.sify.com/finance/over-60-ai-pilots-covid-still-face-wage
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/over-60-ai-pilots-covid-still-face-wage-cuts-executive-pilots-news-news-uhxqOQbghjhab.html"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

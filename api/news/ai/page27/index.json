@@ -2,6 +2,325 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-07-01-elon-musk-stays-true-to-his-word-tesla-raises-full-self-driving-price-to-8000.md",
+      "title": "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000",
+      "excerpt": "Keeping consistent with what Elon Musk had suggested in May, Tesla (NASDAQ:TSLA) announced today that the cost for the full self-driving (FSD) package is now $8,000 -- a $1,000 in",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580713%2Fmodel3-interior.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 698,
+          "title": "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
+      "publishedDateTime": "2020-07-01T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-google-brings-its-ai-powered-smartreply-feature-to-youtube.md",
+      "title": "Google brings its AI-powered SmartReply feature to YouTube",
+      "excerpt": "Google’s SmartReply, the four-year old, A.I.-based technology that helps suggest responses to messages in Gmail, Android’s Messages, Play Developer Console, and elsewhere, is now being made available to YouTube Creators.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": "Google brings its AI-powered SmartReply feature to YouTube",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
+      "publishedDateTime": "2020-07-01T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics.md",
+      "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
+      "excerpt": "One notable exception is the state of Texas, thanks largely to lobbying from dating app Bumble. Bumble also uses AI to block out to detect lewd images before they reach their destination. Yesterday, its sister app Badoo launched a similar feature.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-90-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
+      "publishedDateTime": "2020-07-01T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-facebook-study-shows-how-social-media-may-influence-our-vacation-behavior.md",
+      "title": "Facebook study shows how social media may influence our vacation behavior",
+      "excerpt": "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=21&itm_content=1x7&itm_term=2376504",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
+      "publishedDateTime": "2020-07-01T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence.md",
+      "title": "YouTuber creates ‘new’ Iron Maiden song ‘Power Gravy’ using artificial intelligence",
+      "excerpt": "YouTuber Funk Turkey has employed artificial intelligence to create a track in imitation of Iron Maiden entitled 'Power Gravy'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2020/07/GettyImages-53634054.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": "YouTuber creates ‘new’ Iron Maiden song ‘Power Gravy’ using artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446?amp",
+      "publishedDateTime": "2020-07-01T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-communications-for-the-enterprise.md",
+      "title": "Geoverse Partners With Orion Labs To Deliver Frontline Workforce Communications For The Enterprise",
+      "excerpt": "Geoverse, a company specializing in interconnected private LTE/5G networks for the enterprise, announced its partnership with Orion Labs, the leading voice communication and automation platform for frontline workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fieldtechnologiesonline.com/doc/geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-0001",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200630005238/en/802032/4/OrionLabs_pic.jpg",
+          "width": 480,
+          "height": 312,
+          "title": "Geoverse Partners With Orion Labs To Deliver Frontline Workforce Communications For The Enterprise",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Field Technologies Online",
+        "domain": "fieldtechnologiesonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments.md",
+      "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
+      "excerpt": "Stanford AI Lab (SAIL) researchers created an AI technique called LILAC to allow reinforcement learning algorithms to operate in dynamic environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/stanford-university.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/amp/",
+      "publishedDateTime": "2020-07-01T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane.md",
       "title": "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane",
       "excerpt": "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021.",
@@ -1067,320 +1386,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027.md",
-      "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
-      "excerpt": "This detailed market study covers AI in fashion market growth opportunities and competitive scenarios, which can assist the stakeholders in understanding market trends and prospects in the AI in the fashion market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
-      "title": "In These Factories, Inspector Robot Will Check Your Work",
-      "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efbb71e9798446ce8080210/master/pass/business_inspection_461971920.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "In These Factories, Inspector Robot Will Check Your Work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factories-inspector-robot-check-work/amp",
-      "publishedDateTime": "2020-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-intento-raises-3-million-to-serve-increasing-demand-of-global-companies-for-ai-transformation.md",
-      "title": "Intento Raises $3 Million to Serve Increasing Demand of Global Companies for AI Transformation",
-      "excerpt": "Round led by Flint Capital; Intento hires top COO to scale global operations BERKELEY, CA / ACCESSWIRE / July 1, 2020 / Intento, a leading AI integration platform, today announces it has closed a $3 million seed round to expand its AI integration platform and meet the growing demand of global companies for AI transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/b27e0212bb0a29103a83f4ea36c439c8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-different-experiences-different-perspectives-better-decision-making-the-neurodiversity-hr-equation.md",
-      "title": "Different experiences + different perspectives = better decision making - the neurodiversity HR equation",
-      "excerpt": "Companies such as SAP, Microsoft, JP Morgan and many others have put a lot ... The idea was to capitalize on the fact that many on the autistic spectrum, have superior cognitive abilities that lend themselves to IT roles such as software testing, data ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/different-experiences-different-perspectives-better-decision-making-neurodiversity-hr-equation",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-07/autism-2377410_1280.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/different-experiences-different-perspectives-better-decision-making-neurodiversity-hr-equation?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/different-experiences-different-perspectives-better-decision-making-neurodiversity-hr-equation?amp",
-      "publishedDateTime": "2020-07-01T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-artificial-intelligence-in-healthcare-diagnosis.md",
-      "title": "Artificial Intelligence In Healthcare Diagnosis",
-      "excerpt": "The artificial intelligence in healthcare diagnosis market was valued at US$ 3,639.02 million in 2019 and is projected to reach US$ 66,811.97 million by 2027; it is expected to grow at a CAGR of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2082806/artificial-intelligence-in-healthcare-diagnosis-market",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T701105391_g.jpg",
-          "width": 624,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2082806/artificial-intelligence-in-healthcare-diagnosis-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2082806/artificial-intelligence-in-healthcare-diagnosis-market",
-      "publishedDateTime": "2020-07-01T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors.md",
-      "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of its sixth generation of Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors-2020-06-11",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-positive-effects-of-grasping-virtual-objects-on-memory-for-novel-words-in-a-second-language.md",
-      "title": "Positive effects of grasping virtual objects on memory for novel words in a second language",
-      "excerpt": "Theories of embodied cognition describe language processing and representation as inherently connected to the sensorimotor experiences collected during acquisition. While children grasp their world, collect bodily experiences and name them,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-020-67539-9",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-67539-9/MediaObjects/41598_2020_67539_Fig2_HTML.png",
-          "width": 685,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

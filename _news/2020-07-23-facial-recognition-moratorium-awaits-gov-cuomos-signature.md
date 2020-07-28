@@ -58,21 +58,19 @@ related:
         width: 645
         height: 363
         isCached: true
-  - title: "New York state approves bill that bans facial recognition technology in schools"
-    excerpt: "The New York state legislature voted Wednesday to pause the use of facial recognition technology in schools until 2022.  Both the state Senate and"
-    publishedDateTime: 2020-07-23T21:50:00Z
-    webUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/"
-    ampWebUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
-    cdnAmpWebUrl: "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
+  - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
+    excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
+    publishedDateTime: 2020-07-24T01:03:00Z
+    webUrl: "https://findbiometrics.com/ny-ban-biometric-facial-recognition-lockport-city-schools-until-2022-072304/"
     type: article
     provider:
-      name: AM New York
-      domain: amny.com
-    quality: 55
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 38
     images:
-      - url: "https://www.amny.com/wp-content/uploads/2020/06/GettyImages-1157932923-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://findbiometrics.com/wp-content/uploads/kyo-azuma-267549-unsplash.jpg"
+        width: 2896
+        height: 1944
         isCached: true
 
 secured: "MmLg+dz6uqLuR2FEPY62x+Bpqrb9iytLXx7KP6QXXbN4LJDaeW6suD9mbGkd5VxUcZndhliugoOeNlDkGGF33QhE2+fYrk41rvE44rtusNm7j/7EHxaV8deslVSvW7C3PpXQuqI7qycgxT3IlAYdIq6rcvMItFcg1xv71tTvv3UEgUJg5vO3TnjZHRoZQ4W/XEu/0uuXHis4x4egJogkYyEna0wLaR5nM0Yfs8KpwIdcnk95ItGsWHM/xIo2lwRKjOVPHAj2YfGfFDeKNirTQT9GcTb3yRnJeFsXMKKjs5Jilu4ED7anWYejug4xv1IKXr9PMgU4nX/MJtOUGJWXzw==;q/u5HddWJPKku5UeHGwstA=="

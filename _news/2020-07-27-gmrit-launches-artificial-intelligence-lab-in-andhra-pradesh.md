@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/gmrit-launches-artifi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/28/w600X390/Artificial_Intelligence.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "Artificial Intelligence Lab Set Up In GMRIT Andhra To Equip Stufents For AI Technologies"
+    excerpt: "GMRIT Andhra Pradesh has set up an Artificial Intelligence laboratory to provide training and certification on AI applications development to its students"
+    publishedDateTime: 2020-07-28T06:45:00Z
+    webUrl: "https://www.republicworld.com/technology-news/science/artificial-intelligence-lab-set-up-in-gmrit-andhra.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 43
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/ndj8mxylkmhn7h2x_1595912105.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
         isCached: true
   - title: "GMR Institute of Technology sets up Artificial Intelligence lab in Andhra"
     excerpt: "Aiming to provide training and certification on Artificial Intelligence (AI) applications development to its students and faculty through a new curriculum, the GMR Institute of Technology (GMRIT) has set up AI laboratory in Srikakulam district of Andhra Pradesh."

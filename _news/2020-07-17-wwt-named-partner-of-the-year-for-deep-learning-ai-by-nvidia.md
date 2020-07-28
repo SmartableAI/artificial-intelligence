@@ -1,9 +1,9 @@
 ---
 category: news
 title: "WWT Named Partner of the Year for Deep Learning AI by NVIDIA"
-excerpt: "ST. LOUIS--(BUSINESS WIRE)--World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the Year for the Americas. This is the third year that WWT has been honored in ..."
-publishedDateTime: 2020-07-17T14:26:00Z
-webUrl: "https://www.businesswire.com/news/home/20200717005015/en/"
+excerpt: "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the"
+publishedDateTime: 2020-07-17T13:30:00Z
+webUrl: "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI"
 type: article
 
 provider:
@@ -13,6 +13,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mms.businesswire.com/media/20200717005015/en/618519/23/wwt-logo-color-horizontal-high.jpg"
@@ -20,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "0Kf+ORKx0VKb1gYyT1o+PPhwLNojZvyV/IXsATfeJ3ZfTJspcariIUiB00ROaiA6g4g0r0Zv5s9EKeOW9WY+3JA2yA0qz0oRWlkd88l7NXECZnrTtnRI9gLrSbhyoDhZPg02yNK5s2Kp/JqBG50p9rZzSVLuGBt1BO7IXXk/QdWi+Vktwvs78xz5VVjN1izcH/JmOD8k6zvamClHgeiBdUMmaHHlpg8QH5yAS3kQ8ROFozReKljzsBgM8S6A7VNVb7Km7MAdABwhgofXFfZ3AslU3yjNDti2lQ+eW381i1j5NJ7W7nNZTcsk3mQ0VHquZLZJRqzQ94B3WjJPosRQZg==;Ck9Cl02qbq/CYVxMhDqi6g=="
+secured: "0SgD0I7TWfuemdpoCuwyA1EFeymyJxcjntk3Ssn03O2eNcTsCeTzR1yy/KCaDB1GdyAjgcnZD9Lw4ATldJt2mT9e5gD/NNMfG2excHySnRcVmpNZ4t/iJUIVz8vJpPR4voPxKRhay4OtV8OtUDSPfNb7NQ9z6/bOgQokZBUYPG5Iax+IZUkvVW8jdKwH/5eXu7RtSrQuzwszkFIx5I2ffmv/mUjI5Jywkv1ZJhHzgTs7zmrztfzP+zazgyieR1+t1EYXFVqB7ZS/t171EUqOMYAaHmpBgpAABH8bU/uIP1D/yJBqTWomGabxPOGHNpz985wrj4XsAyLfhETuzfwvMQ==;PcFeD7obXtXuyqQsS39rNQ=="
 ---
 

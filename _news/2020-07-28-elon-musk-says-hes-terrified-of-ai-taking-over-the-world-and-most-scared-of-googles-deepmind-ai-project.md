@@ -8,8 +8,8 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-dee
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Business Insider

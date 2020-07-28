@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/</loc>
+    <lastmod>2020-07-28T02:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/</loc>
+    <lastmod>2020-07-28T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7</loc>
+    <lastmod>2020-07-27T20:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/</loc>
     <lastmod>2020-07-27T20:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,12 +57,6 @@
   <url>
     <loc>https://newatlas.com/science/bird-identifying-ai/</loc>
     <lastmod>2020-07-27T10:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7</loc>
-    <lastmod>2020-07-27T10:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -151,12 +163,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thehackernews.com/2020/07/artificial-intelligence-training.html</loc>
-    <lastmod>2020-07-27T02:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece</loc>
     <lastmod>2020-07-27T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -177,12 +183,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-booming-worldwide-with-cagr-of-448-during-2020-to-2025-2020-07-27</loc>
     <lastmod>2020-07-27T00:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/</loc>
-    <lastmod>2020-07-26T23:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -259,6 +259,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026</loc>
+    <lastmod>2020-07-25T03:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.openpr.com/news/2096670/artificial-intelligence-in-accounting-market-research-report</loc>
     <lastmod>2020-07-24T22:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -279,6 +285,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/</loc>
     <lastmod>2020-07-24T12:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/</loc>
+    <lastmod>2020-07-24T12:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -391,6 +403,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html</loc>
+    <lastmod>2020-07-23T12:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/</loc>
     <lastmod>2020-07-23T12:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -399,6 +417,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2020-07-23</loc>
     <lastmod>2020-07-23T12:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/</loc>
+    <lastmod>2020-07-23T12:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -459,12 +483,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/</loc>
     <lastmod>2020-07-23T07:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800</loc>
-    <lastmod>2020-07-23T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -531,6 +549,12 @@
   <url>
     <loc>https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/</loc>
     <lastmod>2020-07-23T02:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800?mod=rss_Technology</loc>
+    <lastmod>2020-07-23T02:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1363,6 +1387,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu</loc>
+    <lastmod>2020-07-17T16:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/</loc>
     <lastmod>2020-07-17T16:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1771,6 +1801,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/07/16/altair-releases-new-version-of-altair-xae-knowledge-studio-xae-market-leading</loc>
+    <lastmod>2020-07-16T04:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/a-robot-walks-into-white-castle/</loc>
     <lastmod>2020-07-16T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1809,12 +1845,6 @@
   <url>
     <loc>https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html</loc>
     <lastmod>2020-07-15T21:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://stockhouse.com/news/press-releases/2020/07/16/altair-releases-new-version-of-altair-xae-knowledge-studio-xae-market-leading</loc>
-    <lastmod>2020-07-15T21:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2143,8 +2173,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138</loc>
-    <lastmod>2020-07-15T02:51:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation</loc>
+    <lastmod>2020-07-15T02:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2353,6 +2383,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200714005118/en/Concentric-Extends-Data-Protection-Coverage-Widening-Range</loc>
+    <lastmod>2020-07-14T08:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025-2020-07-14</loc>
     <lastmod>2020-07-14T07:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2499,6 +2535,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-technology-industry-2020-07-14</loc>
     <lastmod>2020-07-14T00:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.html</loc>
+    <lastmod>2020-07-13T23:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2911,7 +2953,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-opportunities-and-analysis-by-apple-inc-google-dolbey-system-inc-hewlett-packard-ibm-corporation-2020-07-10</loc>
+    <loc>https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-opportunities-and-analysis-by-apple-inc-google-dolbey-system-inc-hewlett-packard-ibm-corporation-2020-07-10?mod=mw_quote_news</loc>
     <lastmod>2020-07-10T11:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3157,13 +3199,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-827107719.html</loc>
-    <lastmod>2020-07-09T09:13:00-07:00</lastmod>
+    <loc>https://www.bbc.com/news/technology-53349313</loc>
+    <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/technology-53349313</loc>
+    <loc>https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html</loc>
     <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

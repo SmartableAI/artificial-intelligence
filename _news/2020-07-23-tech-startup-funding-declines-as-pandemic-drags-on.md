@@ -2,14 +2,11 @@
 category: news
 title: "Tech Startup Funding Declines as Pandemic Drags On"
 excerpt: "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies."
-publishedDateTime: 2020-07-23T14:00:00Z
-webUrl: "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800"
+publishedDateTime: 2020-07-23T09:14:00Z
+webUrl: "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800?mod=rss_Technology"
 ampWebUrl: "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
   name: Wall Street Journal
@@ -29,6 +26,6 @@ images:
     height: 640
     isCached: true
 
-secured: "akHgyc1C77K4ameXiULSHhwmELQdJJGJkb2hrFJWMxxOV6EIKutEnWUu/d80yc/B/966K3hn7dZhyHvaGQVqUfbTOND6Da+F0ESoU0hb1ttDRGhSOfCxXLQSMM43e9ogBOhiGlvyHwGvnSdGW4Kcpuy2fbIH6Xy29xSmqNFvZQZymd6iMvVYJx0w8DYtpP580XWvxeKjWeO736JcHGuZxnpMuaU+kktDjhIr6EJKPhf/tUKsi13OBsJoIXmdrVZ4zqw3kY6raZdB8bTUXQpT/CJxpdNFH+1CkSkNMhcsVmqiNV/Q6+zy3K9PxBSWwpkjEf7noEhbBhDNWFwBKrsvsKn/GRT9+i5MDCNDJxoWrkYFiSOkc6n9SKIe5lRSZDJjMtXyv2K2zdPFi8u7eSAJsV7LxQmHtLMg148fWAwb0i+a5aP5haqXRDr5pHJP7ByDXv/yM3gUsMnz+iRnDIK3ct1EBjGqA27HHlRCH583K+pjlQ+zi/+rimwf4lyrDqKhc42InkLy+2vi8v/TVqJmzg==;Z2xaNmD1bfU/Xw3hQ2jxrQ=="
+secured: "5+Pon6wk+791u6JY3ca3JSRSUzuBW3n2X+WMyUrTIf2LPhcuQdt9SuLJnhJ77IIG1W4GzGIBQkNvlt8xaiir+ZZV2H5nSdLFSifa+UtnNpex1scZYYlUMqHvOEaRXMrJeZm1eBorT9W7pvhPSxpg1mFjegug5CCpcfAf5gLHWrSUkl+i+8VhI97HP0QH0KffeD06Z4iFvqtCXEE7rFiVCDrpjKzTALdilAttpNtODXUyt27nr9dzCdTgM1Oz2bhB1J+pHh8eEbgw2NyAd75fwRcXeHmlGn4rxttnWVml7w/Kq2c2832SFhz27bhB8ebglhZ2SM0bIPnIoyQFXCDfLg==;jJHqT8opi2F10e9nWfok3A=="
 ---
 

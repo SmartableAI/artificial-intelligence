@@ -2,6 +2,156 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-28-embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read.md",
+      "title": "Embarking on a Python journey? Then ‘Hands-on Machine Learning’ is a must read",
+      "excerpt": "Writing an all-encompassing book on Python machine learning is difficult, given how expansive the field is. But reviewing one is not an easy feat either, especially when it’s a highly acclaimed title such as Hands-On Machine Learning with Scikit-Learn,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/1-9-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
+      "publishedDateTime": "2020-07-28T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors.md",
+      "title": "Advertima raises $17 million for AI that tracks in-store shopping behaviors",
+      "excerpt": "Advertima, a startup leveraging AI to customize in-store experiences, today closed a €15 million ($17.3 million) funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/83b26f72-63b0-4172-beec-932f134a5f86-e1595362730251.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
+      "publishedDateTime": "2020-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-most-scared-of-googles-deepmind-ai-project.md",
+      "title": "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project",
+      "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said he was most worried about Google's AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
+      "publishedDateTime": "2020-07-27T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-demand-for-autonomous-delivery-robots-rises-as-pandemic-continues.md",
       "title": "Demand For Autonomous Delivery Robots Rises As Pandemic Continues",
       "excerpt": "Answering the need for deliveries that minimize human contact, companies are stepping up R&D efforts in autonomous robot development.",
@@ -341,56 +491,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-27-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-is-most-scared-of-googles-deepmind-ai-project.md",
-      "title": "Elon Musk says he's terrified of AI taking over the world, and is most scared of Google's 'DeepMind' AI project",
-      "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said that he's most worried about Google's AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
-      "publishedDateTime": "2020-07-27T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-27-nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms.md",
       "title": "NIST study finds that masks defeat most facial recognition algorithms",
       "excerpt": "A National Institutes of Science and Technology found that 89 commercial facial recognition algorithms were defeated by masks.",
@@ -398,7 +498,7 @@
       "webUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -689,7 +789,7 @@
       "webUrl": "https://www.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -821,7 +921,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1085,96 +1185,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience.md",
-      "title": "How 5G, Wi-Fi 6 and AI will provide a smarter home experience",
-      "excerpt": "The demand for smart home technology is driving diversification in device categories – virtually any appliance you can think of comes in a connected variant today – and also opening up new ways in which advanced technologies like AI and 5G can be used to drive new consumer experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YXL4dK3RBKZ4viQ5Jqnj2M-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
-      "publishedDateTime": "2020-07-27T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-the-real-reason-were-afraid-of-robots.md",
-      "title": "The real reason we’re afraid of robots",
-      "excerpt": "Make no mistake AI does pose many real dangers to us: to our personal privacy and security and to the future of the economy. These are all very good reasons to watch it closely and regulate it aggressively.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2019/07/15/Artificial-Intelligence--AI-_16bf61c847a_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "publishedDateTime": "2020-07-27T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

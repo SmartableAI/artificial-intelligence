@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T22:57:00Z
 webUrl: "https://www.kpbs.org/podcasts/kpbs-midday-edition-segments/2020/jul/27/cars-qualcomm-new-tech-self-driving/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

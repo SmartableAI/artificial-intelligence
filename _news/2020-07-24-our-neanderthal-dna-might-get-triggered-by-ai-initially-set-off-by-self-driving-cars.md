@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 417
     isCached: true
+
+related:
+  - title: "NVIDA: AI, Robotics and Self-Driving Cars"
+    excerpt: "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid"
+    publishedDateTime: 2020-07-28T09:04:00Z
+    webUrl: "https://www.moneyshow.com/articles/dailyguru-54699/"
+    type: article
+    provider:
+      name: MoneyShow.com
+      domain: moneyshow.com
+    quality: 71
+    images:
+      - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg"
+        width: 555
+        height: 370
+        isCached: true
 
 secured: "JOfbi2UxGBtoMGPYw0ebAtjS0SjGd68PYbLDZe3L8tef7++qETzB57LQ+ktXbjtbVDZHIXEac47uOlg+3RSOI32yhY7muQAJhlpuO8JheyU/NDLsPZXc12xWNfN57HtML60Z1HrzW2JS4wLKssNU1BFWvwLcq2BsaGjKp+VLS3HqpFdTbS5ZwK+roGEoFpiKN7tCSGBjDkzDfgWXW8LCbO3R0XJeIA9Vy10PoBkS+JbV7BKbj0sTjEJGW3jHIZBhJ/aHtjX8qQfGq5WTzEsxKmu8x3oCpoFC89YlHYTZxlJq/Cw+LgGu1r4Tu6meYBFZrwQLCQvZiXS9MC5Y6GmZR7/EtsofJmj2LuM9oNhe9vvoLiewe7Y5KGyezsJbSezg4pUvxZbj+BRF5GD4BOPvdVJkVKvhOMEZyuOnix7egafvx6Q7dHGg/fRIiku1eC4vPhQTYvg0zeGPx7CDlS7MbLwYDsXxkznruEO28/CM/KqfpjoIZncFouZ66FeLRsMDzIKLOmT6lcnlzoTXv0A0aA==;qh+9bzAg2gj9NU+yMv9CHg=="
 ---

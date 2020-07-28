@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T08:15:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2025-analysis-company-profiles-competitive-landscape-and-key-regions-2020-07-27"
 type: article
 quality: 49
-heat: 59
+heat: 49
 published: false
 
 provider:

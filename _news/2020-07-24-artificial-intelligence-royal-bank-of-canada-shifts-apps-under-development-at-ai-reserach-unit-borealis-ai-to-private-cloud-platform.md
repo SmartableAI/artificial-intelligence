@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/07/164468-artificial-intellige
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/164468-artificial-intelligence-royal-bank-of-canada-shifts-apps-under-development-at-ai-reserach-unit-borealis-ai-to-private-cloud-platform/amp/"
 type: article
 quality: 42
-heat: 72
+heat: 42
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Royal Bank of Canada Deploys AI Private Cloud"
-    excerpt: "The Royal Bank of Canada (RBC) and its AI research institute Borealis AI have teamed with Red Hat and Nvidia to develop an AI private cloud platform"
-    publishedDateTime: 2020-07-23T15:36:00Z
-    webUrl: "https://www.hpcwire.com/2020/07/23/royal-bank-of-canada-deploys-ai-private-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/RBC_600x.jpg"
-        width: 600
-        height: 363
-        isCached: true
   - title: "Royal Bank of Canada, Borealis AI partner with Red Hat, NVIDIA on new AI computing platform"
     excerpt: "RBC has developed its own cloud-based artificial intelligence computing platform upon which to create and maintain AI-powered banking applications."
     publishedDateTime: 2020-07-23T18:47:00Z
@@ -54,15 +40,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Royal Bank and Borealis AI announce new AI private cloud platform"
-    excerpt: "TORONTO — Royal Bank of Canada (RBC) and its AI research institute Borealis AI have partnered with enterprise software provider Red Hat and hardware and chip manufacturer NVIDIA to develop a new AI computing platform. RBC says it and Borealis AI set out ..."
-    publishedDateTime: 2020-07-23T14:06:00Z
-    webUrl: "https://www.canadianmanufacturing.com/technology/royal-bank-and-borealis-ai-announce-new-ai-private-cloud-platform-257743/"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 19
 
 secured: "yLeJRl9xlIGDKg0t6wiFOAIe1m8/uhhWjmLr3XMxFaebjmZ+HK0XC75Eq5MM39lyqwp6jGpSDyWeQovjTsaK2WObdqrlYlJGIDno7ynXYrGGwHI3pJ1UNiRM4YOPeHlQY/4uXMmwwVspdXuQeGph1KtT6OZkVYUqXz5zt1mlNnaN5AyXH52pvbIO6pN9K6mhIKJU+ajankrKNMhOowk2otAz4tHoUp4wryiQfMSrcSd8TBWvXTwpGztbu4TfL6dNrWTXCrH6mJPzF1IKWcalO4H/onW5UPiJvAssLeeBXZvqUVF02HFgJroE2EaronL2KAUSMB8Fs0V7slWd9yVEUbxJTwMS0bWX/n6t/e38/AVON4eqTOFfOQKU+t82lknQ1+L0gF/plBp4H/oo3ka7gjBeOq8wQ7suMcoFeTVd06OeuE+9ypB4Oi+80Esn9kJLVObVOBojL14FFtk7vExZktN0vOnRd5eaUPHxE2V3fem3Jl5bFd/P4xT26Imxn7qE;DwzvdyoECNfVN9LMvfWxBg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-i
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/7-researchersb.jpg"
         width: 2880
         height: 1620
+        isCached: true
+  - title: "Artificial intelligence identifies prostate cancer with near-perfect accuracy"
+    excerpt: "A study published today in The Lancet Digital Health by UPMC and University of Pittsburgh researchers demonstrates the highest accuracy to date in recognizing and characterizing prostate cancer ..."
+    publishedDateTime: 2020-07-27T22:30:00Z
+    webUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-prostate-cancer-near-perfect.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-prostate-cancer-near-perfect.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-artificial-intelligence-prostate-cancer-near-perfect.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/38-artificialin.jpg"
+        width: 1601
+        height: 1031
         isCached: true
   - title: "Artificial intelligence model trained to identify birds in new images"
     excerpt: "For the first time, researchers have developed an AI model that is able to identify individual small. Identifying individual animals in animal behaviour studies is an important step to answering many questions in evolutionary biology."
@@ -127,6 +143,6 @@ related:
         height: 800
         isCached: true
 
-secured: "2RwdOSkiU03NXP2MFcc7c4XvVSLGfj6kFTgLRbpvgC2uod1yvjWCyqT39D0WAkUfojBXk+NZb/aRP+hqZqyTTT9d76zkcmBjcS5bbuYNurFyZi2aIHYF+xAOQRK0pdr6AkaszaLW0Rs0/yVA2AUMBV2mJOoDKvKC8jOIQoAgz3qew/1NytNBY9r8vDqS+ib16/NHJAv1Y5sL1Uf8vaKiEGRmZG90KiLBYLp0IKWs33gq9A1cX/YQxD9AFYYS3cJYEaM/A/V5LMX5VqF3TpYGAtsyZ45rutCuJAmacTOA36iOP2IX6y8HIApz85dE5wZuVBSoP58oqz4OpRXTMKsc5A==;MrbK/ITZq8msxu7HiDEl4A=="
+secured: "nifQLa/XP8d0dZmn5gggYylTeFaFQqtjj/2umYATuJdJA/xEJO9Pfqa1/C65gh99yxQSmxxqiC9R3N/cZzUfwn0nbdXhvxuWBrtjn2ViWjB0wwTOxX2Qcc7lLrCLHmb5k57Iu2bH0zIjA/UvvwQGFL2AS2DJNk9QDOgYCwI8b5GFH+oCEsTghP3oq+0QIUQa62gyTiZhqmekV3Tqxj6CADko/jcmAhBMvlN3kpgWXlmkP4oz5dbvh9RbY7WjWL2SSL3dyaE5BhmZuu4OeoEkRelIte3q2Jez5EKBsYR9uNYA15/IqfGi6EcR6Ojx3cBwZT1LDhrGjrfZbxLzCHl9a2XKoPlBiPsJWFAtrUwICoKP21uRhL3XKFgxEZdKBXovyidAP+Fa4Yw3nGZsibocB+rI8kvrCS47kHVgjz8QxFTqJE/erSL5tAAVEsdztwk2X0jDNGybK2JgJu8Slq/jDLzE3RzHGd2VS54Gfu4prF7o8XKX3Q8E9WK6ZAKkkaIW;YkaJXd81IOIjHC4PucDBYg=="
 ---
 

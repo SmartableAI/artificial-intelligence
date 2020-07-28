@@ -7,6 +7,7 @@ webUrl: "https://steelguru.com/gas-oil/halliburton-microsoft-accenture-to-advanc
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Steel News

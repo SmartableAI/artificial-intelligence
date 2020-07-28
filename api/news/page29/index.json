@@ -2,6 +2,338 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials.md",
+      "title": "Learn PyTorch: The best free online courses and tutorials",
+      "excerpt": "Look no further than these excellent free resources to master the development of deep learning models using PyTorch",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/04/abstract-fire-rays-100152558-100264577-large.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": "Learn PyTorch: The best free online courses and tutorials",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
+      "publishedDateTime": "2020-07-06T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-natural-language-processing-market-size-trends-outlook-opportunity-till-2025.md",
+      "title": "Natural Language Processing Market Size, Trends, Outlook, Opportunity Till 2025",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2020 (AmericaNewsHour) -- The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-trends-outlook-opportunity-till-2025-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Size, Trends, Outlook, Opportunity Till 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-improving-the-accuracy-of-gastrointestinal-neuroendocrine-tumor-grading-with-deep-learning.md",
+      "title": "Improving the accuracy of gastrointestinal neuroendocrine tumor grading with deep learning",
+      "excerpt": "The Ki-67 index is an established prognostic factor in gastrointestinal neuroendocrine tumors (GI-NETs) and defines tumor grade. It is currently estimated by microscopically examining tumor tissue single-immunostained (SS) for Ki-67 and counting the number of Ki-67-positive and Ki-67-negative tumor cells within a subjectively picked hot-spot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-020-67880-z",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-67880-z/MediaObjects/41598_2020_67880_Fig1_HTML.png",
+          "width": 685,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-self-driving-car-market-size-outlook-trend-and-forecast-2020-2024.md",
+      "title": "Self-Driving Car Market Size, Outlook, Trend and Forecast, 2020 – 2024",
+      "excerpt": "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-size-outlook-trend-and-forecast-2020-2024-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-Driving Car Market Size, Outlook, Trend and Forecast, 2020 – 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-tsmc-may-commercialize-info_sow-for-supercomputer-ai-chips-in-two-years.md",
+      "title": "TSMC may commercialize InFO_SoW for supercomputer AI chips in two years",
+      "excerpt": "TSMC, after launching 3D SoIC backend service, has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips and is expected to enter commercial production with the InFO-derived process within two years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20200706PD207.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitimes.com/newsshow/20200706PD207_files/4_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": "TSMC may commercialize InFO_SoW for supercomputer AI chips in two years",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-05T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-computer-vision-have-you-seen-the-light.md",
+      "title": "Computer vision – have you seen the light?",
+      "excerpt": "From detecting tumours to identifying wear in machines, computer vision can help improve our world – but not everything is plain sailing",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1593772338/itpro/2020/07/shutterstock_robotic_vision_computer_vision.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": "Computer vision – have you seen the light?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light?amp",
+      "publishedDateTime": "2020-07-05T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-the-biggest-robot-companies-and-their-most-scary-inventions.md",
+      "title": "The Biggest Robot Companies And Their Most Scary Inventions",
+      "excerpt": "Robots are come becoming more ubiquitous in different parts of our lives. Here we look at some of the world’s largest and most successful robot companies and explore their latest, most innovative, and sometimes scary,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/06/the-biggest-robot-companies-and-their-most-scary-inventions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f02a32c44ceaa00071711cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 501,
+          "title": "The Biggest Robot Companies And Their Most Scary Inventions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/06/the-biggest-robot-companies-and-their-most-scary-inventions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/06/the-biggest-robot-companies-and-their-most-scary-inventions/amp/",
+      "publishedDateTime": "2020-07-05T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
       "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
@@ -844,338 +1176,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-kt-and-hyundai-accelerate-digital-transformation-with-smart-robots.md",
-      "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
-      "excerpt": "Under the contracts, KT will acquire a 10 percent equity stake in Hyundai Robotics, the leader in the Korean industrial robotics market, for 50 billion won. KT also signed a business cooperation agreement with Hyundai Heavy Industries Holdings for joint efforts toward digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/kt-and-hyundai-accelerate-digital-transformation-with-smart-robots-2020-06-17-15183012",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
-      "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
-      "excerpt": "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-industry-analysis-and-forecasts-to-2025.md",
-      "title": "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020 | Industry Analysis and Forecasts to 2025",
-      "excerpt": "13.10.4 Apixio (San Mateo) Revenue in Natural Language Processing (NLP) in Healthcare and Life Sciences Business (2015-2020)",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16504272/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-industry-analy",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16504272",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16504272",
-      "publishedDateTime": "2020-07-03T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-study-only-18-of-data-scientists-are-learning-about-ai-ethics.md",
-      "title": "Study: Only 18% of data scientists are learning about AI ethics",
-      "excerpt": "A study by data science firm Anaconda found a \"concerning\" absence of AI ethics initiatives in both academia and industry.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-94-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Study: Only 18% of data scientists are learning about AI ethics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "publishedDateTime": "2020-07-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit.md",
-      "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
-      "excerpt": "Computer vision summit CVPR has just (virtually) taken place, and like other CV-focused conferences, there are quite a few interesting papers. More than I could possibly write up individually, in fact,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/fb-3d.jpg?w=1024",
-          "width": 1024,
-          "height": 594,
-          "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
-      "publishedDateTime": "2020-07-03T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-lemonade-ipo-shows-the-power-of-ai-artificial-intelligence.md",
-      "title": "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)",
-      "excerpt": "Lemonade is a next-generation AI company. The technology is all-pervasive across its operations. Keep in mind that the insurance industry was actually the first industry that was data driven. The roots go back to 1662 when John Graunt helped to create modern statistics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eff578f9756420007f6f6b9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444",
-          "width": 1200,
-          "height": 675,
-          "title": "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-07-03T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-we-need-a-new-field-of-ai-to-combat-racial-bias.md",
-      "title": "We need a new field of AI to combat racial bias",
-      "excerpt": "Responsibly managing machine learning processes is no longer just a desirable component of progress but a necessary one.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-593387043.jpg?w=1024",
-          "width": 1024,
-          "height": 733,
-          "title": "We need a new field of AI to combat racial bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/amp/",
-      "publishedDateTime": "2020-07-03T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-07-physicians-urge-hospitals-art
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-physicians-urge-hospitals-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1800
     height: 1920
     isCached: true
-
-related:
-  - title: "Physicians urge hospitals to become 'artificial intelligence ready'"
-    excerpt: "Disorganized efforts to implement artificial intelligence in hospitals could undermine the technology's vast potential to benefit patients, the group warns."
-    publishedDateTime: 2020-07-23T16:51:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/uovh-puh072320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "CF6GIQvpY8PZfasU7i++p+Tuml5gkJ7zu9KCRhTS/MEgKS5mxMQk1v097jziZlZWfWAyXD1JG6ASyxyiIJjgQ2FGPBfjRa5l10vZqr1yWIfxg6GWbH/1CfC4qz/vqdbqhiPOuSpfpV/F/9GXJaClEyi0sY2bZu59QfzCwGuTJqSXfTNLMQoXxqQVCeG8lq9QaHEX88uqjQPZh3Bjgt41nTiQyPd8bVsRsG+UnbdsqSd124faYoogSdDDepzu5TLG8UaggRBv7Z5kaU3pFlZ6GrBTjuSxVV7djkCapg7ITSqiM6eiV17HL1vWQtcXhsEqfk/nsr4tGbnwpYpARRG5hrlLK2ugN1kG6GJ4ExccDgH3DE4u82sA3Z4TzB9vstMVasZfbxxXy3nuLB27QOSlcZia4d6b640zoskoZY7NFitIMVlg38uKfYAzRJvIE+dW4KJ1RiP0ov4Wb+rIBpG8JBQrGpJE1YYtzLg7Gsyx1qipvATAdrHf9UCApGRB5yiQ;D0TMgiB3ift1uBlpXsz2gQ=="
 ---

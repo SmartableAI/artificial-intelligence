@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Study: Masks thwarting facial recognition technology"
+    excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
+    publishedDateTime: 2020-07-28T00:27:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2020/07/27/masks-virus-facial-recognition/112465252/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/112465252"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/112465252"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "dvcCmL9iHr41mh4ArfUI96Ut4L6vdodkpRVQ3M6xDiPt+PJkDyiPnXnzvvdL1TLZTTp0eVq9aJhUp3H3y6EjmUwmZ9b8L3Wgb3HrGk/xFmTFXsmJfqdks8RZboG6FWFcIv1msY9xSyqW+YNTs5pEXnWGaUU+EoSizo/SFn9xrCi1Ji734qjx/komj6yDpt5QWEalr29X5VCM3SoH0zoAIlWRmo9PxdNNAuqiNvl+gfsAR2dtfZjym2vpFjDtCDVrrt3+FYvcAKF8RGXEeNXXCwlClRGUvc8Qo9uHBGBzjPjePr7JHMczmuyo/1/M/F60w0vNnOHJ1gp5autJfenF87HpwpxQ/hf+gXTMFuTxrZNNbuwOLjtL+68kadCcJsLvwfoyvBcmAI21OQZ4Fj/f1IHTpIEpG9OuYpRdcBwE5RGr1Mp7XbvvdBxaY1awOJCJrk1piy3Dfrj86tK56xoEEgW04FAivbhj9kXThm9+rQfum9fBNk0oOjuBWu9pG8bq;GJkdXwdu7yBAA6mFui8Lxg=="

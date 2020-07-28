@@ -7,6 +7,7 @@ webUrl: "https://optics.org/news/11/7/41"
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: Optics

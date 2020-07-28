@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: TechRepublic
@@ -40,6 +40,17 @@ related:
         width: 728
         height: 380
         isCached: true
+  - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
+    publishedDateTime: 2020-07-27T09:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16783818/2020-insights-into-manufacturing-analytics-featuring-seeq-sensrtrx-sight-machine-among-others-rese"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16783818"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16783818"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "Bdmsm07aSoLmj3euYVWK89Jbh4o333P124AlZInLnJtjipKqrb+7p8IoA+/OWJFh+dfjKbg3oDjX9+qNCn1h0vdfZGIC1jxIuUYWVNSz917M8puPYsiYlaf8l+lnYy3V5TiniXXkRlK2IyJpcNc9GUculxryeZslCVSsIS8HHZ+EkUY2i/Y268Soa9Em3LJfb2vVDAQt1sncMChFt5LO46mR7I4xYt1fPdChDAr2dA8YPyeI5ayPuMg2OWzkIp+ba8tvVD4lOH5xsymgoWid6Uru0HNfozViFRkpE6jV3QuZ8EYP+j46+KWeQmtypMeQK/B2pI9D9LMIxGlGbQkJLw==;Hh+L8KxUjkoE5IKPQnxQ+A=="
 ---

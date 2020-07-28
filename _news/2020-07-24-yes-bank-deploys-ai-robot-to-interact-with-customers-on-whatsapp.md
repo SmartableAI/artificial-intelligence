@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T11:28:00Z
 webUrl: "https://www.finextra.com/newsarticle/36279/yes-bank-deploys-ai-robot-to-interact-with-customers-on-whatsapp"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

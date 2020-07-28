@@ -2,6 +2,187 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-20-why-facial-recognition-algorithms-cant-be-perfectly-fair.md",
+      "title": "Why facial recognition algorithms can’t be perfectly fair",
+      "excerpt": "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop",
+          "width": 320,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
+      "publishedDateTime": "2020-07-20T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-deepminds-ai-automatically-generates-reinforcement-learning-algorithms.md",
+      "title": "DeepMind’s AI automatically generates reinforcement learning algorithms",
+      "excerpt": "In a study published on the preprint server Arxiv.org, DeepMind researchers describe a reinforcement learning algorithm-generating technique that discovers what to predict and how to learn it by ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/amp/",
+      "publishedDateTime": "2020-07-20T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi.md",
+      "title": "Global Precision Medical Imaging Market: Propelling due to Growing Research and Development - PMI",
+      "excerpt": "Pfizer decided to work with Boston-based Concerto HealthAI for a collaboration that will apply Concerto's eurekaHealth artificial intelligence technology to precision oncology research.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi-1029410565",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-senior-vice-president-apache.md",
+      "title": "AI Fueling The Oil And Gas Industry: Interview With Tim Custer, Senior Vice President, Apache",
+      "excerpt": "In industries where data is key to gaining competitive advantage, artificial intelligence and machine learning have become necessities. This is most definitely the case in the oil and gas industries as market demand waxes and wanes for critical resources we’ve come to depend on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f14c82126d6430006147990%2F0x0.jpg",
+          "width": 360,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/",
+      "publishedDateTime": "2020-07-20T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-weride-chooses-wekaio-to-manage-its-ai-data-pipeline.md",
       "title": "WeRide Chooses WekaIO to Manage Its AI Data Pipeline",
       "excerpt": "WekaIO ™ (Weka), the innovation leader in high-performance and scalable file storage, announced today that WeRide, a smart mobility company with industry-leading autonomous driving technologies, has selected the Weka File System (WekaFS™),",
@@ -1193,196 +1374,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors.md",
-      "title": "Enabling humanoid robot movement with imitation learning and mimicking of animal behaviors",
-      "excerpt": "Humanoid robots have not stood up to the expectation set forth by Rosie from The Jetsons in the 1960s, but they’re finally becoming good enough to come to market.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135729958.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
-      "publishedDateTime": "2020-07-19T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow.md",
-      "title": "Caja Robotics offers smart machines for the warehouses of tomorrow",
-      "excerpt": "From the Spanish word for ‘box’ or ‘present,’ Caja offers a flexible set of solutions in an age when COVID-19 is making online shopping bigger than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/460907",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600/amp",
-      "publishedDateTime": "2020-07-19T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-weird-ai-illustrates-why-algorithms-still-need-people.md",
-      "title": "Weird AI illustrates why algorithms still need people",
-      "excerpt": "These days, it can be very hard to determine where to draw the boundaries around artificial intelligence. What it can and can’t do is often not very clear, as well as where it’s future is headed. In fact,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-1-5-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/amp/",
-      "publishedDateTime": "2020-07-19T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-even-the-best-ai-models-are-no-match-for-the-coronavirus.md",
-      "title": "Even the Best AI Models Are No Match for the Coronavirus",
-      "excerpt": "Many so-called “quantitative funds” that mine historical data to make trading decisions fared poorly in March, when stocks fell sharply amid coronavirus fears.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/best-ai-models-no-match-coronavirus/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f0e451db62e19a8767ef204/master/pass/business_quant_1206833303.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/best-ai-models-no-match-coronavirus/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/best-ai-models-no-match-coronavirus/amp",
-      "publishedDateTime": "2020-07-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

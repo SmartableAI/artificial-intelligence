@@ -58,6 +58,22 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Artificial intelligence identifies prostate cancer with near-perfect accuracy"
+    excerpt: "A study published today in The Lancet Digital Health by UPMC and University of Pittsburgh researchers demonstrates the highest accuracy to date in recognizing and characterizing prostate cancer ..."
+    publishedDateTime: 2020-07-27T22:30:00Z
+    webUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-prostate-cancer-near-perfect.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-prostate-cancer-near-perfect.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-artificial-intelligence-prostate-cancer-near-perfect.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/38-artificialin.jpg"
+        width: 1601
+        height: 1031
+        isCached: true
   - title: "Artificial intelligence model trained to identify birds in new images"
     excerpt: "For the first time, researchers have developed an AI model that is able to identify individual small. Identifying individual animals in animal behaviour studies is an important step to answering many questions in evolutionary biology."
     publishedDateTime: 2020-07-27T11:20:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://thehackernews.com/2020/07/artificial-intelligence-training.h
 cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hacker News
@@ -36,7 +36,18 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 66
+    quality: 83
+  - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
+    publishedDateTime: 2020-07-27T09:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16783818/2020-insights-into-manufacturing-analytics-featuring-seeq-sensrtrx-sight-machine-among-others-rese"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16783818"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16783818"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "hTTVTFQqYMrl2JNDtejEMgItNIYYIDrJDSuO7KvHEHOpYKiB3rBCCu8SF52ij+vyi2sd5mDavlgKDELWudtSyfM5nOTSzDZzQRC2CeO1LWWXXLSSaOidRib1MZPdmHI1VODY5X8YbqwH/irMfN/AmRaS6+EQizQNRbsLe+X/MsyVMmQeUXweL90e6aE97yDvvEJ6oFFtpp4WiFJ/aFiGdsr/I4NwzYW3RIPPgXFdkOxwYIZLa8lkasKBunAX797EARyQPeLVCYZKjtz9fFpXHd+/AOzKp3yJwEB39V/VSB7crEy7Ghn8dWSaS7KAf2lAUfQSSa+4xpBUQFw+hrRu4w==;P2+cp7M8nAZFlX4BDNqZGA=="
 ---

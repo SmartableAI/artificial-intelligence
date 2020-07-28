@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Concentric Extends Data Protection Coverage Across Widening Range of Industries and Functions with Launch of MIND Deep Learning-as-a-Service Data Security Solution"
-excerpt: "As the backbone of Concentric’s deep learning solution, MIND automatically manages and deploys data models to extend coverage, improve accuracy and reduce risk – all without requiring any ..."
-publishedDateTime: 2020-07-14T12:52:00Z
-webUrl: "https://www.businesswire.com/news/home/20200714005118/en/"
+excerpt: "Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced the availability of Concent"
+publishedDateTime: 2020-07-14T15:57:00Z
+webUrl: "https://www.businesswire.com/news/home/20200714005118/en/Concentric-Extends-Data-Protection-Coverage-Widening-Range"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 627
     isCached: true
 
-secured: "YFuVEsGSYzGPgooF69gQpAO4MLV6Y1qxQcI8Tjil6yf4ztOQJCnwFIzFzFlpWdNyKcZbuT0Xg5K6rw8GRoFfp2Qy9rVXOEogVqxv91WxrkuLMEQ4/Hnjj4sYAAaCxpfPXtph3+0zUh+7xPT36rY52FhQCjISyF0r3DqdgJYANzKVIgCpx7X0HkoWW+0LRqTXuZZJKWvA0yqe8Hh2vVl5sA9lPoY+n9gXpwQWPzJfCJO6Q2DHecnXy6U/c/tS0ReM8qh2H4OU14YYsEzbKcDHbTRab4TgRahsMfgbGoV76iadFSGgQdkDFeleOMU3IZeTkVI+sDmJLlY0/TABL6c78w==;ICx2ygcAHGig5oDU77MdaA=="
+secured: "kt2QaLasQMP+DDcODVfn6NbYKkZ1upFyjpZsgNfVaYR3dOJ7LcEPX0TiGQV3VsdU9SBaH07/Tuk6K47h0WHQz16U8AeNlvGQj74LOmXt2FsjVmoXd0gRD0utGWH4dOR237rEZxsKOBGQw1eSIcEvocsKYMDYtoG9+U1QiB4xBVcr/lfcrpWNeFdInQBFVMHYqEbLCmaUczhdsnaA5faLHGSkuy53hyhY4POjGxS4xlN46/CVQgMkH+8Whi/dH0P/SvAkb/KEw4kDxiaPrUCZP1kFwc3aaTFfiM7K3nTVmmMS+ZQF0Lx8aKXxO3bYSxN27mHp7qtnsHXtem6tmTwVow==;YOVRi7HFjPAhegaaB8EUIA=="
 ---
 

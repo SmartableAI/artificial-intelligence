@@ -58,21 +58,19 @@ related:
         width: 1057
         height: 630
         isCached: true
-  - title: "New York state approves bill that bans facial recognition technology in schools"
-    excerpt: "The New York state legislature voted Wednesday to pause the use of facial recognition technology in schools until 2022.  Both the state Senate and"
-    publishedDateTime: 2020-07-23T21:50:00Z
-    webUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/"
-    ampWebUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
-    cdnAmpWebUrl: "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
+  - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
+    excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
+    publishedDateTime: 2020-07-24T01:03:00Z
+    webUrl: "https://findbiometrics.com/ny-ban-biometric-facial-recognition-lockport-city-schools-until-2022-072304/"
     type: article
     provider:
-      name: AM New York
-      domain: amny.com
-    quality: 55
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 38
     images:
-      - url: "https://www.amny.com/wp-content/uploads/2020/06/GettyImages-1157932923-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://findbiometrics.com/wp-content/uploads/kyo-azuma-267549-unsplash.jpg"
+        width: 2896
+        height: 1944
         isCached: true
 
 secured: "RrGbqmVfWsqIOAtoqLfFyeAfF3jvw8qDai6MD2vLtfxsWbbyp3I/75DLoZriRytxoRMsA87TpIazLqtiZ2A1S56KP/Gk7VxGcAHmVyqY2U2UjnGkh4qhDJToytvMN34+ddDUQadl/3bedVVIJpFTYNyXUq1e2Pooh5/xoxbd9W2JXLxeSJ7dYrIDzwHlXJd7sxm3y3rMu8oAduZM+KHQ+pd6UBDj8oK/XbKzM14kJsLCYLQwTXuY387BRuH4mwohxykfAFXkOrD6iTlS21Wz090J9x9pZVh7GnHHSku++cZ4/zL+0gjdXd8zuURW6pAe1p3HbfH5G7Q0JfKMLsd8gP0tABb/5tblcLeTIit2IsWsKffQVYCUl8LprAms8/clCbciwhLLz0vdXyj0aSedZ8jLElAHjp3DxKEjARSfi3j+P0F44GPfr5HpIdxscynsIgrJsv7+krN94O8LyY7lnjmF2hsF2tO1Dha9lpN1V2tXl1q5Z42cDxs3XXGX4CnRicxXOf+/rWw8CPTtMoubqg==;wnI7usxGjpTeJeMi7kn4Pg=="

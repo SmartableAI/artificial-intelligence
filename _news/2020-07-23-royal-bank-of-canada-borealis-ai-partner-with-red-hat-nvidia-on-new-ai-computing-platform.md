@@ -40,20 +40,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Royal Bank of Canada Deploys AI Private Cloud"
-    excerpt: "The Royal Bank of Canada (RBC) and its AI research institute Borealis AI have teamed with Red Hat and Nvidia to develop an AI private cloud platform"
-    publishedDateTime: 2020-07-23T15:36:00Z
-    webUrl: "https://www.hpcwire.com/2020/07/23/royal-bank-of-canada-deploys-ai-private-cloud/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/RBC_600x.jpg"
-        width: 600
-        height: 363
-        isCached: true
 
 secured: "54YsyxL4/ZBCZKbkzEWfCksdok4H8eDs4l5nDTy7fK84j+jDk1k/hp/1mqufm1u+OLTIAxL8KjXHJOAvTZo6CUz/V6JnP/pRvDkCP6GQJUU4Ujzrn/Z98+sIWpIxRKzY+oPLEMRd02q5y/DNQA9Nu8ploJIuZEfMg//XC0h7LLCRGtWXnZtcwvqXh8uOoqxjg1GtBKjUcltwpDF9IgmrAbyJTZIDELE22KyM8kfE4CvN55A4ein4e9aNiJ0KHUjfJlxrolvBwWjPk08qSQCBSgYaUX+Xbmw1T6xunqfi/S9FczwRyXilCD7/nlfXtTWHd2cZ5X7jhkfYQ6DhBDoWCXR9qlaAPXrwxsT239BfW6j9DrbfSpzMNl26Rgky+P8pQ4bqNen+nLN5ct7L7PafZj9t5qSusrZftFnCQ4yxy6rzfMOwchDTRc1hlkxGSnY3OOLZRqIhVHgJoqoUeo62Y5a6p5Z6kdiscOLJrHAijTBixrnr2jah+N7rekYVjUNq5k+QXX+ZWWyIpX6/54n1wA==;6T9z2d6TtVmeoODezyezQA=="
 ---
