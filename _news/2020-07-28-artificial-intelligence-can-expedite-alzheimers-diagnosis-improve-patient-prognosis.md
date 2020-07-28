@@ -17,6 +17,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+    width: 620
+    height: 480
+    isCached: true
 
 related:
   - title: "Artificial intelligence could speed up and improve Alzheimer's diagnosis"

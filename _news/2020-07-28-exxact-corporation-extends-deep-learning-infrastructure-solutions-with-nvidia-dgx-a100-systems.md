@@ -1,44 +1,21 @@
 ---
 category: news
 title: "Exxact Corporation Extends Deep Learning Infrastructure Solutions with NVIDIA DGX A100 Systems"
-excerpt: "Exxact Corporation, a leading provider of high performance computing (HPC), artificial intelligence (AI), data center solutions, announced"
+excerpt: "Exxact Corporation, a leading provider of high performance computing (HPC), artificial intelligence (AI), data center"
 publishedDateTime: 2020-07-28T12:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/exxact-corporation-extends-deep-learning-infrastructure-solutions-with-nvidia-dgx-a100-systems-301098388.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16804841/exxact-corporation-extends-deep-learning-infrastructure-solutions-with-nvidia-dgx-a100-systems"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16804841"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16804841"
 type: article
-quality: 27
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-related:
-  - title: "Exxact Extends Deep Learning Infrastructure Solutions with NVIDIA DGX A100 Systems"
-    excerpt: "Exxact Corporation, provider of high performance computing (HPC), artificial intelligence (AI), data center solutions,"
-    publishedDateTime: 2020-07-28T15:12:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/exxact-extends-deep-learning-infrastructure-solutions-with-nvidia-dgx-a100-systems/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 33
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/shutterstock_coronavirus_abc-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
-
-secured: "0zB3BjFTCjmw0CqOeU3Hd10lIxWeGQ/a2TCErxX1uW6WsgHh0Fz/lg1WJ18jc7HGM8GpvGLWNXpVi+1V62h7YJK9nkC4vI91WyolVvD9jW6Pqig6PZ5Kk9B47PAps2QrJsPsM6GtPtNbF0f8K13ZuqlIORLhBIqA9SOlefR+xxuZPXTHgeu90AZVvDzdY+PEeSqKfVrFQyzUb+p5aL+9PZwbmmenR5/boB0YvN+OGcRYwm/wuBarZLTgErulheNbJeBkb2KJG9Y8DTtAU9ZTFnWYG7/n7O2mlKHLv7lExKYU69/dIc45scALd1e2DgsqpgQYy8hxBVVazj/eYsjVtQ==;wgMz87+XAIzzk/59aNSyFw=="
+secured: "nyORdP6dnWcVsvw4pbVZIyhqiqGnYsaB1rh/b8crkLNJ0fc+4M5wbt+BNB0ezYg83NWs/Moa7XPTrieTVsjdsT3wanvSdRzWXn6mVaKcr11g4hje6oaurwx9FKFEwK91H8SPV3HGXKaGqH/oz7kW7WrFJO2q/fRaumUK0Xxm/alF3TPYCDzTdZNvrY2TpZ3S/gVTXLVWMEOcItuvtmnNQhy5+Cj2m1JugaarUU3p67NvYOa0d0ABQ6bAXGL0pXtkKO77cPlL3r57qkGcA4LnqAwXTNayJ1LzM23+U/ltCdBgTgGxtyW5iuBCYcfXGypglpjbPn3nuxjE1ROqZAc9nV7Z/Mdl2Rs9ebJI5l8xDEIAw78xH5/eZy0q2aBrynn2225UqJ/hIEEhuJSISeES8v8hc5kE9VfBOgNeOLbb7JPlMLGJ8h9Y7u8adfZFgC/jz6jiafg8UFZGdpxcN4y6ZqP/CWtWFWSPy+OjkAEfuFf6MFLVJ70LtMus7I8wy3Uj;51a6SpVCtSGn5BC+wUFuxg=="
 ---
 
