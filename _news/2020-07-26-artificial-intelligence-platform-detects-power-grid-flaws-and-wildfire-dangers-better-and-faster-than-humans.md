@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1077
     height: 720
     isCached: true
-
-related:
-  - title: "Buzz Solutions Raises $1.2 Million Seed Round to Deliver AI Tech to Spot and Analyze Power Line Flaws Just as Wildfire Season Begins"
-    excerpt: "StartX startup’s solution dramatically reduces time and cost to review thousands of grid images PALO ALTO, CA / ACCESSWIRE / July 23, 2020 / Just as wildfire season begins, this startup’s AI and Machine Vision technology platform quickly analyzes millions of images of power lines to detect dangerous flaws in the infrastructure,"
-    publishedDateTime: 2020-07-23T11:00:00Z
-    webUrl: "https://apnews.com/099aa720c20bcdcb83c9cf8cde00686e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "j42qKrTupMF9kZUFmSydTJeSgOnnZy71zvRPuXTgWwXQLnKlhRKMRvS/sjx7DfZS8CNFUFKkLZZDo8FbUp3E/qi++ssCINZLAhQFcpL7MA04QRUPkOq1Y5oYMf/22f9e2M//CsrvzzfCVxBY3En2Msc6PeWPwlriJXej8sUfl+1ovebpeF9xRXWBYMmPHsMQmdo6ixCFW8nQEQXxtoElULj7ajVevpANXNhEFqG1OK0t043ojFl8MnnLGiZEdfPy6lR7pL+gjCAQorhJYuClwDiJ3b8cwMKZ5pyeU1rkrBUHxhAjX5LqtE/uuEHOkak+gp4iZnEmjgfBef+DU2qeliHCEGtWGocinc8gtOlW2b8iV8NACHR76LDssEl7shxrwiNkz7ntB6ezNCdpqbz5sW61bzXNr7/1bPFb3yLR21QK0pVupCRgsdwngCl4GrQv11BrOF5TSly7Hb7BA0Pj5ueuDMp56lOrMdqD1HEIUvoQfFv63vv7ACCDi0HXK6IhH/BoVj7ItRJT3wXCUT02JA==;YbF70qD+QmUFpGaVEpKSpQ=="
 ---

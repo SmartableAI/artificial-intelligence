@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robot
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -69,22 +69,6 @@ related:
       - url: "https://cdn.openpr.com/T/7/T723733587_g.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "57.2% Growth Rate for Artificial Intelligence in Manufacturing Market by 2026 | Latest Innovation, Advance Technology, Top Companies"
-    excerpt: "The report titled “Artificial Intelligence in Manufacturing Market” sheds a concentrated ... and handle big data and its applications in real-time speech translation, robotics, and facial analysis are fuelling its growth in the manufacturing market."
-    publishedDateTime: 2020-07-23T09:30:00Z
-    webUrl: "https://www.openpr.com/news/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    ampWebUrl: "https://www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-    images:
-      - url: "https://cdn.openpr.com/T/7/T723907848_g.jpg"
-        width: 640
-        height: 413
         isCached: true
 
 secured: "sjjVGORAZNdpfXFOMLMj4O3+bi/YRuZ88uW35o3wKNnP67IX+M8OTzHcrBFHT7qlzTB3A1U5y4/n3HmasOwtcOhQafu9N4ri5JLwbyoXgNdyCJzWtzzY7RqFWbJ2cMugEvOu1mZr2GpiV7H+Una2W5QdnWvb9CB3l7t3dm7oB8g1YjcFWnmSZ6WEY6tBR9EYetB2NrLNx5nkZMMFBL5VyRFLEpYzg09lhlOLJD+SaqL+XaGODnncuoycnio9Z3XD4tMT6TzWOr69lFGco4fVY8TCXkGQvVz6QEu9MbNcjbWjfrRoVgLA/zEdZddxF/j4ca2V/RmSgbQrJVRe1NSqaupQYENS56aA0wcTlU+wBNXxKPQiOvIHolP+viaJs3HUsxghe53TSGQDBLtYM4JwgjKaXGGTOJhgfK3jALZ85LGRSPVoX4/Ka3sMsvx4lgDx+sAVlzdH1oG6fo0UnUv5HME+X4UCm/1F+hD6F9Mzl4+GU+QhapZKAWk6sIy5Fpaj;JCW6Cf3ld3nkxx4WGIRvcQ=="

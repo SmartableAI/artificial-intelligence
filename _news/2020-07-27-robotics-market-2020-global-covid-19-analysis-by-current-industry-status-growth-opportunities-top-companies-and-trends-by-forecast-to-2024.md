@@ -74,22 +74,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "57.2% Growth Rate for Artificial Intelligence in Manufacturing Market by 2026 | Latest Innovation, Advance Technology, Top Companies"
-    excerpt: "The report titled “Artificial Intelligence in Manufacturing Market” sheds a concentrated ... and handle big data and its applications in real-time speech translation, robotics, and facial analysis are fuelling its growth in the manufacturing market."
-    publishedDateTime: 2020-07-23T09:30:00Z
-    webUrl: "https://www.openpr.com/news/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    ampWebUrl: "https://www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-    images:
-      - url: "https://cdn.openpr.com/T/7/T723907848_g.jpg"
-        width: 640
-        height: 413
-        isCached: true
 
 secured: "e6Jl92G+Im+jZjy3CoGX+UySFrUb3Dm8td+m6oYtdyZ1PffJA2706cAdBWMovdECxIu88QDxhNGZ9VBF1Wf/R5r6M94o5ufWg7GZ+RvhjipT1Nx1q6JhgKctsWK+e58qZ7tzSbiGJtbxWDrb6KgZtR6ypOI+T1k/BWInupWZG/KdFYA/NyM0BSzJenPV9f5K+P5UlkrMwT3FtHDkj0XYWNA7p+/uurVPYdvBinBLJp2STEsrc9wSpVw5fSVYMsflv3AQ7QbL318z91cTz1rbf/IzRAZobE22yq7l/DyzyestKh5vs5rF0OICRo1OE12YZeA29ymbgyiFiTQ7HMaRpA==;Xbi3m19ap5MwQRbEzccrGg=="
 ---

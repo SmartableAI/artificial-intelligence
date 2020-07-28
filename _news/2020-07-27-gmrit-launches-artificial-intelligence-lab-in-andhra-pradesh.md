@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/gmrit-launches-artifi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece/amp/"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Line
@@ -23,6 +23,33 @@ images:
     width: 615
     height: 384
     isCached: true
+
+related:
+  - title: "Artificial Intelligence lab launched at GMRIT"
+    excerpt: "An Artificial Intelligence laboratory was inaugurated at the GMR Institute of Technology (GMRIT) at Rajam in Srikakulam on Monday."
+    publishedDateTime: 2020-07-28T02:23:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2020/jul/28/artificial-intelligence-lab-launched-at-gmrit-2175631.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2020/jul/28/artificial-intelligence-lab-launched-at-gmrit-2175631.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2020/jul/28/artificial-intelligence-lab-launched-at-gmrit-2175631.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 57
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/28/w600X390/Artificial_Intelligence.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "GMR Institute of Technology sets up Artificial Intelligence lab in Andhra"
+    excerpt: "Aiming to provide training and certification on Artificial Intelligence (AI) applications development to its students and faculty through a new curriculum, the GMR Institute of Technology (GMRIT) has set up AI laboratory in Srikakulam district of Andhra Pradesh."
+    publishedDateTime: 2020-07-28T02:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20200728/3599782.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 18
 
 secured: "WLztpvWddLNaWJYct9cenHi0K6sctGgO45tCBG8vIPGpmuejcCgTZHBMfeuH27eZNTSquaqLJl7po1zDdRt3CxRF76F8iTo9kej3geCVMYwDz2jjRSnK1YjME7IxxV+7hpraQRN61Tcp3Pqayj637NQhM7tvQR6K20q/V/FnIf3jCMd0Kgbh4VshnjJ18d1r0Xt3q/UmrzeXUiRjuoHnD41gx2gS2a+wn/stVzMF1zjxqJ2+12lr7qh677BwVEU0fZKscNSALn1NddKL9jzZf9xx6c2icrVc3Jc1jsFxohoeD9l1lbz5/j38aiUAJwUHfE0J6E9X2ZyATkawqE5Ytw==;UhwGclu/undDFazpNcHu3w=="
 ---

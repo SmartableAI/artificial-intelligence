@@ -38,17 +38,6 @@ related:
         width: 1420
         height: 797
         isCached: true
-  - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
-    excerpt: "Self-driving sensor #startup #Luminar hires CFO as it scales up for production. #autotech #siliconvalley #autonomousvehicle #selfdriving"
-    publishedDateTime: 2020-07-23T11:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Ram vans to get self-driving makeover"
     excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
     publishedDateTime: 2020-07-26T07:35:00Z
