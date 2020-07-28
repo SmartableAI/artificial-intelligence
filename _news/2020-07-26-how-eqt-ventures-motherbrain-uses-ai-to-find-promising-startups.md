@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

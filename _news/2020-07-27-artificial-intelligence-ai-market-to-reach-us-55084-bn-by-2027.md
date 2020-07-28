@@ -5,8 +5,8 @@ excerpt: "According to a new market report pertaining to the global artificial i
 publishedDateTime: 2020-07-27T21:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-to-reach-us-55084-bn-by-2027-2020-07-27"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

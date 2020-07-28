@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-26T12:59:00Z
 webUrl: "https://www.linkedin.com/pulse/5-ways-self-driving-cars-could-make-our-world-lives-better-marr"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1158
     height: 720
     isCached: true
+
+related:
+  - title: "Qualcomm Tests New Technology That Could Aid Self-Driving Cars"
+    excerpt: "If we’re ever going to have self-driving cars, they will need to be able to talk wirelessly to one another … and to roadside monitoring infrastructure, like traffic signals. Such technology has been around but has failed to take hold."
+    publishedDateTime: 2020-07-27T22:57:00Z
+    webUrl: "https://www.kpbs.org/podcasts/kpbs-midday-edition-segments/2020/jul/27/cars-qualcomm-new-tech-self-driving/"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 39
+    images:
+      - url: "https://kpbs.media.clients.ellingtoncms.com/img/podcasts-episode/2020/MiddayEd_generic-new_ysu2o3F.jpg"
+        width: 800
+        height: 540
+        isCached: true
 
 secured: "+bB8GInJsew2TG3jBX2zmLyz1ISYPxVdHF8fXzo7pL1Cwkfp/Wkqzs+1ea8MEehhcfZWAoIUM5nl28c2Hlp8G3a+9dgG6Wsi35VYsAWLyMuq6ml1BfwO9jUa45QHwh94UPBGW6C3oJFW9gbg5RNsM97nQoIq+uvBunoXgl/e0DEVTIK5pOKPPsbq60K8OBBC1jST52CdfP9ZkFEQKiayu/60YNZxjR+IyWHc+BOMxIZdsB2IyDUjgB7/uKsLybwdsig1JiqtAXj6auNJn/r/hFuBKRAzfW8kodaepFpqBzR7Ee2LdVRIU6LFm9ujsrK3kPN4QEWwwIMgSnAeJQecGQ==;4AddaCqxEBr6iii3GQiNSA=="
 ---

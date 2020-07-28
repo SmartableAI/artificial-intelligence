@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Azure Databricks Now Available on Microsoft Azure Government"
-excerpt: "Databricks, the data and AI company, today announced that Azure Databricks is now on Azure Government as a public preview. Databricks is"
-publishedDateTime: 2020-07-14T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-now-available-on-microsoft-azure-government-301093038.html"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SAN FRANCISCO, July 14, 2020 /PRNewswire/ -- Databricks, the data and AI company, today announced that Azure Databricks ..."
+publishedDateTime: 2020-07-14T14:22:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/azure-databricks-now-available-on-microsoft-azure-government-1029392533"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/azure-databricks-now-available-on-microsoft-azure-government-1029392533"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/azure-databricks-now-available-on-microsoft-azure-government-1029392533"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-    width: 1094
-    height: 576
-    isCached: true
-
-secured: "yZ+gtkGgjgeywHOyHbdssoRznuT0YYuBRdWAM/4tO3zA6wGMoeOeM1gBlnkfEAhz/M7D+QRTunSKQIyoasBny3isMRwCzXkZtVAOdEBfVOvpRD4n+nOqDvm7XcEge3YPj7d7PlCxVMj6R+MT5AQPIvJxxen13BKs/8cLxxANu1mRDEGYnCKLxMplkRViEMTK9Y3QS1OzpE8eXinDB/CTT/tysDm1OFh7d3yXy43Rr8d1c9pWGrpGSKRUxWNC+4L2RmK5c1sDh/tL/S4wTdzEnydYxBTIR9122MGtyygt1zv32B0fOVh8Dtv7YaW6FKOiU582L33TDnI6EhASDAkg9koD6vgAmZ9N9EzRzlrfWwlf6XefJrH35H8xCPoxgMIk/nyt33wjLFlLguSpKQFylXRmWB0JDwWFvbt6wwX8MoR7NCon+uFRoW6G797KvXi6RrWVNPez31OWo5Skzx/HDEhOc2kDmnFZGotUSDPYqV2rcvdbKeorHuKVWCxSjDftw8RVbYN07IL2rVa0SNIMNA==;3P8HKTsnUFkTVFNb/rx1hA=="
+secured: "pmWPQpRMaZpDVZO5jqfbpBB5YqBJBgi/0EIqsVmZzWvVJeZ3UNY5pEDM8jE+KstgMbJx0A1UGQvbRF5yNBClx+WH6kE4mc/qCY+jHlmHDXCh39/Zs3evKQimA2EaekaTIGK6SUgPrfkwlZLkgI1eUwK8zWCVDQ2LEZr1CVo/h/nvh5TLvpS8vMr16OwJT2YWwv9ueIUYpx93If9YoVDXh7jtY3zpMNu1WFfjBUgyHEdV7xoAdnMg/3mN4tig1SuJ6zQKvXe/F6ow1ZKCgFSbosuUJVKr+BAcvlkv2k7oVBvAPVD7q8Ym3FuTgXcRPPs2eH94BosF/wJAQ0WstWcuDg==;1O+rB6pfIPvNmbzM95TIGg=="
 ---
 

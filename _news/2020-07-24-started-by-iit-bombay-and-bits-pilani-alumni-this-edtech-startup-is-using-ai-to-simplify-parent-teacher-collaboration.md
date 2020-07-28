@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/2020/07/iit-bombay-bits-pilani-alumni-startup-
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/07/iit-bombay-bits-pilani-alumni-startup-illumnus/amp"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "How This FinTech Startup Is Providing A Backbone To Entrepreneurs Using AI"
-    excerpt: "Fintso is planning to be at the forefront of organising the fintech sector by helping existing entrepreneurs be able to provide solutions for their clients."
-    publishedDateTime: 2020-07-23T06:58:00Z
-    webUrl: "https://analyticsindiamag.com/fintech-startup-fintso-entrepreneur-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/fintso.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "A7wIP3Iee8rTCibezVMfK3HNhw/N5hc+3ESPn/fBKkpPT7flvHNTnm2Q1s1f7Doum7L58n1kzJNjbrSXQeHbH30qO6pkNCEmEmvNqH9AlTEOd132oTqaYUtjHwi5dmFUTHLqjDGjDjbN1R3SPRK5T6lqhVwYoKTf7fHDWU68Z0D/0bJ5ComGQdU4mllvBDlFYcLfNRCBEEfWaoXgbKAmlyClmGMDivI313nE7P3GDewK3/u50jUcJOO7/458ZZccQgJzfipWSsaQZiwY5LhGhmkP/rbpnuRkbfcrdzdhMTMyWe4ZGGvO2ZHQITEp0c79naoi2AoRVDjUIH0Rk/guE28F9Rks9jRoGsT2eO+eB/LZU1Y4ZJxn1OpvFz3Y0v04g5zQFJtfiDwioNKWIivC+jkLD9zcN3K0PrFS2OXbbaTgVCPlLu3bQ+iqYlodB819argJGwPl9F6s5SlpDFIqnoV8oa1EkJtyIKOzqJbOyInK0A+VOh6awriuM07ayRKJ2clEJexLZ6geKW+1QwpAjg==;ccW+2K5b/vGXGKEgj/TOzw=="
 ---

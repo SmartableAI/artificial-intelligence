@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-1
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 type: article
 quality: 89
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York lawmakers agree to pause use of facial recognition in schools"
-    excerpt: "New York lawmakers have passed a moratorium that would ban the use of facial recognition in schools until 2022. If you’ll recall, Lockport started testing a facial and object recognition technology called \"Aegis\" in June 2019,"
-    publishedDateTime: 2020-07-23T05:32:00Z
-    webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html"
-    ampWebUrl: "https://www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F7a021ed0-eaaa-11e9-9f77-34e0cf2b42e8&client=amp-blogside-v2&signature=50ef505139d5d6f53d14ab0d5fdcc2749865a6de"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Sens. Sanders, Warren, Wyden back national facial recognition ban bill"
     excerpt: "A new scorecard shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act."
     publishedDateTime: 2020-07-23T19:12:00Z

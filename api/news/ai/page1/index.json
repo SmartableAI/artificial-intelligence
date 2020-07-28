@@ -9,7 +9,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-to-reach-us-55084-bn-by-2027-2020-07-27",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -47,7 +47,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -58,7 +59,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/27/a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -96,7 +97,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {

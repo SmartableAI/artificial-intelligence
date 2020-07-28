@@ -2,6 +2,55 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-07-09-how-artificial-intelligence-is-going-to-change-hotel-stays.md",
+      "title": "How Artificial Intelligence Is Going To Change Hotel Stays",
+      "excerpt": "ModiHost is a new platform for hotels that uses artificial intelligence to offer a better hotel management system, centered around personalization of the guest experience. In turn they aim to drive increased spending and brand loyalty. They say they’ve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1175327832%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/amp/",
+      "publishedDateTime": "2020-07-09T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-ibm-expands-storage-portfolio-to-drive-ai-deployments.md",
       "title": "IBM expands storage portfolio to drive AI deployments",
       "excerpt": "IBM unveils new and updated storage products, including the new IBM Elastic Storage System 5000, which is scalable to yottabyte configurations.",
@@ -1114,47 +1163,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ibm-to-buy-wdg-automation.md",
-      "title": "IBM to Buy WDG Automation",
-      "excerpt": "IBM has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
-      "publishedDateTime": "2020-07-08T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

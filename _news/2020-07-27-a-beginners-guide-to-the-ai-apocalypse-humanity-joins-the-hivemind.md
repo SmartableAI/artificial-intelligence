@@ -7,8 +7,8 @@ webUrl: "https://thenextweb.com/neural/2020/07/27/a-beginners-guide-to-the-ai-ap
 ampWebUrl: "https://thenextweb.com/neural/2020/07/27/a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/27/a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/06/Borg_aboard_Enterprise_NX-01.jpeg"

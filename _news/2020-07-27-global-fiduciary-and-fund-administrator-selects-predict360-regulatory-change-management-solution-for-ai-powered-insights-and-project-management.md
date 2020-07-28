@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Global Fiduciary and Fund Administrator Selects Predict360 Regulatory Change Management Solution for AI-Powered Insights and Project Management"
-excerpt: "A leading global corporate, fiduciary and fund administrator has selected Predict360's AI-powered Regulatory Change Management solutio"
-publishedDateTime: 2020-07-27T17:34:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/global-fiduciary-and-fund-administrator-selects-predict360-regulatory-change-management-solution-for-ai-powered-insights-and-project-management-1029434944"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/global-fiduciary-and-fund-administrator-selects-predict360-regulatory-change-management-solution-for-ai-powered-insights-and-project-management-1029434944"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-fiduciary-and-fund-administrator-selects-predict360-regulatory-change-management-solution-for-ai-powered-insights-and-project-management-1029434944"
+excerpt: "A leading global corporate, fiduciary and fund administrator has selected Predict360's AI-powered Regulatory Change Management solution"
+publishedDateTime: 2020-07-27T17:15:00Z
+webUrl: "https://www.prnewswire.com/news-releases/global-fiduciary-and-fund-administrator-selects-predict360-regulatory-change-management-solution-for-ai-powered-insights-and-project-management-301100367.html"
 type: article
-quality: 31
-heat: 31
+quality: 1
+heat: 1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "xvSjDLLvh+27OnyqpbkHc8c+eofm3oK4bbjAF7kaH2etVTKn64uAbB4nP01DAD4kGQqKyTaQ8y4rqXRMECbaDDevGdZL5LM7yx6Gv9zNzQYZe/wO9QpmDSsf7zhoPGKlTLIx/2MGCSwUT/Y6iGAozaghGy2oqKs6HoPsOu/bqAozxXapGpy1iL+jw7KkJfqVgjRAfVEA+cgyjA7o9Hx9q2DbsyW9M1RYsT87lRkDELeLieCQQVSa/m+qbo+FHBQnIPGQu/JajalLyA0hhBnhnhf5kz0BujzYAUs7qVSk2W6XpaJJAb+b9IFQXiYB/TKU+z4hjtPco/HEqozaOC6he6LpxakXSFVLmT1FQ5MXEgK+RjczKO9Cd2syDjQa7h4oad6+733vqP9tmvuPSO3cvhvE+a/yrxqbrCICyhogpnMR0hNKopZY/zUp1y5RJRF4AG1yLO2be89a7ju3lc/AzVem9K+UfQwdp3PuIIJhb1fhEm6/RBftfWMSPRmoOUO05fC2CNZDpOHXq2AzvCgxdg==;KH484+CgSZDfwSGXJVqsGg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1137123/360factors_Logo.jpg?p=facebook"
+    width: 1500
+    height: 785
+    isCached: true
+
+secured: "bJpCEY9BNS5sVsQLhCc+38CJD5XS5mW0bHee7AoPbfROuH0D8ItSDNrCK8+M9ruPH4gurlpUr8SUgIVcJSySYrA89gdGBjC//vRP2hf1R+Z8j3wPOwkWVKSi/Mwc6FSLEeNMpxFGM/EJ2zy89imrWbZW05nK1AwLftktS9RcaojVGTDDDKJxu4P9d0aY5igaImjXKB7HVGXUWPpqJhGsJYYxa1dxXOd6uyeEQzhRtVp4ASpAz8x+7LsPmxifYjKToXobaS1KcAaHG2J6NBcehjk/be3nBRVCEo0z3rK6E9gpw4nl1Nd7rq0LNNizsFADdGj7Tw6GEOMaFDUrN1tqJQ==;jKwiP3/OAlVzqp0eby8cSw=="
 ---
 

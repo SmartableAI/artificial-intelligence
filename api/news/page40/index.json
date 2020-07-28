@@ -2,6 +2,56 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-06-26-ibm-cloud-suffers-second-global-outage-this-month.md",
+      "title": "IBM Cloud suffers second global outage this month",
+      "excerpt": "It's worth noting that IBM did not immediately address the earlier outage but did release a statement on its Twitter account that services were being \"restored to full services as",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1593164937/itpro/IBM_Cloud_Shutterstock.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "IBM Cloud suffers second global outage this month",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
+      "publishedDateTime": "2020-06-26T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-the-little-known-ai-firms-whose-facial-recognition-tech-led-to-a-false-arrest.md",
       "title": "The little-known AI firms whose facial recognition tech led to a false arrest",
       "excerpt": "The opaque industry that sells facial recognition technology, and the patchwork of police policies that govern its use, have made effective oversight extremely difficult.",
@@ -1069,47 +1119,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-databricks-donates-mlflow-project-to-linux-foundation.md",
-      "title": "Databricks Donates MLflow Project To Linux Foundation",
-      "excerpt": "MLflow is available on Azure and AWS as a managed MLOps platform which comes with tight integration with Azure ML services and Amazon SageMaker. With MLflow project becoming a part of the Linux ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "publishedDateTime": "2020-06-25T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

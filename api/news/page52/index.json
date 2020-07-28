@@ -2,6 +2,56 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-06-18-microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure.md",
+      "title": "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure",
+      "excerpt": "With Azure set to become the John Hopkins inHealth precision medicine initiative's preferred cloud platform, JHM will be looking to advance its medical research with Microsoft's assistance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592497935_microsoft_johns_hopkins_medicine_logo_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/",
+      "publishedDateTime": "2020-06-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-the-ai-eye-episode-371-ibm-announces-watson-works-and-intel-introduces-xeon-processors-with-additions-to-ai-portfolio.md",
       "title": "The AI Eye Episode 371: IBM Announces Watson Works and Intel Introduces Xeon Processors with Additions to AI Portfolio",
       "excerpt": "Point Roberts, WA and Vancouver, BC - June 18, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
@@ -1082,47 +1132,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-sas-and-microsoft-partner-to-democratise-ai-and-analytics.md",
-      "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
-      "excerpt": "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2020/03/MICROSOFT-696x452.jpg",
-          "width": 696,
-          "height": 452,
-          "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "publishedDateTime": "2020-06-18T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

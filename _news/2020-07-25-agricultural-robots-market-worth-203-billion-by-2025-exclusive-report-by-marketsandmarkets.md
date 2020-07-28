@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16602856"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16602856"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -18,33 +18,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
-    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
-    publishedDateTime: 2020-07-23T06:19:00Z
-    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "Apple's Patent-Pending invention for Face ID for Macs may be coming to market if hidden code in macOS Big Sur pans out"
-    excerpt: "Patently Apple posted a patent report titled \"Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more.\" The patent laid out the camera module providing Face ID technologies such light pattern recognition and a dot projector that will be used for unlocking computers along with capturing face gestures and emotions for Animojis and Memojis."
-    publishedDateTime: 2020-07-24T19:53:00Z
-    webUrl: "https://www.patentlyapple.com/patently-apple/2020/07/apples-patent-pending-invention-for-face-id-for-macs-may-be-coming-to-market-if-hidden-code-in-macos-big-sur-pans-out.html"
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 0
-    images:
-      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0263ec29d5bb200c-600wi"
-        width: 600
-        height: 356
-        isCached: true
 
 secured: "gJWNjV98T1sZ16ocvvwe4IfXKCIU9uokt5PmQ5Vf7dn6Rs/wD4EcmWE5aMuIKZH7kElnVvr0DnpqyvdYSukB5zMmkj+iT64jeLK+MhlVtFS08mPePrhGrIODkCgrkpX8or54CcQdZkw96i4gWb5Q8uFO6TNZaOPt3Scq+r0VoISge3RREEFK1m+v1yC+oVboU2EshxhNWV8CD2lHqqc/+/pXNF0/8czm6V+SBU0splqifOVOkcx3x2iD0uFRZ+w2VEP/nG/wkd51KE/+4sNTppC1RQu/4GZbIfiOX/LVgalAk7H16HCsSc08qlPxbhr12CJEFmo2nN4roXmjqvSkqnmaiRC0zHjlP5nQU2zLeqqXJvsdFORf3tWbdldvhNO19Zc7G7obI46g96wt02p2oIIrzDPi/9WXhEBsXi2rjZDFAFTSyyvo0trq1c0lQH1oIvSSwkAyiRqUc1mnh6BiADAhtkaEMpLutkmpluOvUAmApTaNDlANn5eYLHxZQphs;ZDyZI0t8Uw1vSIA/DXNghg=="
 ---

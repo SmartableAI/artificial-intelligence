@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chipset Market to Grow At Healthy Rate Due To Enhanced Usage in COVID-19 Analysis and Forecast to 2026"
+    excerpt: "Jul 25, 2020 (CDN Newswire via Comtex) -- Analytical Research Cognizance adds Global Deep Learning Chipset Industry Market Report to its research database. The report provides information on Industry Trends, Demand, Top Manufacturers, product, revenue ..."
+    publishedDateTime: 2020-07-25T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-to-grow-at-healthy-rate-due-to-enhanced-usage-in-covid-19-analysis-and-forecast-to-2026-2020-07-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Truck Technology Market Global Enhancements and Growth Outlook 2020 to 2026"
     excerpt: "Driving Truck Technology market report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Self-Driving Truck Technology industry."
     publishedDateTime: 2020-07-24T14:14:00Z

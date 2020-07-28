@@ -1,28 +1,28 @@
 ---
 category: news
 title: "U.S. agency: Pandemic masks thwarting face recognition tech"
-excerpt: "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ..."
-publishedDateTime: 2020-07-27T21:58:00Z
-webUrl: "https://www.abc27.com/news/us-world/tech/u-s-agency-pandemic-masks-thwarting-face-recognition-tech/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/u-s-agency-pandemic-masks-thwarting-face-recognition-tech/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/u-s-agency-pandemic-masks-thwarting-face-recognition-tech/amp/"
+excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
+publishedDateTime: 2020-07-27T22:02:00Z
+webUrl: "https://abcnews.go.com/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: ABC
+  domain: go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2019/06/cropped-abc27FavIcon.jpg"
-    width: 512
-    height: 512
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 600
         isCached: true
 
-secured: "wWT7gSFk5mWqO31WG1RN10OZvTGB8wA4XC7sk7Z6rCcAVnODGA9GbTXXf83G86MeBm/yEJgRMK//vTRcjD1MHoECt9A+hleY+9Zr1ABWpCPe/bypEp2aXGTFsQprqOCWqTh6x79cUY/Ty617Gd3a3VLkbwSP+CPcN0o68TVUNgocC4ABmn/izrtYPxnDfVxjS+vyEyo4ixN8CaZ4hvdkEGKLGChvS+Lwo7A0tSG+z+Ecu8hjOvA6VT3pEfh7thbb4nHSUCXI8gmI1NorO91DgaTUISus4Y16WDNMB2KhH/jQKfOImI29qS39yRk29bzYKcXedqAKHvm6r0bP//5aRA==;3w+Z8rVBQXQf2dUwV8oQDg=="
+secured: "r3WFOIMzYUCzqAbR4kwEQea5vp3cPbWZjISYyLDXeOI3HTELXB9jTNEBDMO4GObEzA4XtJK24FteTf4POL4mJ88ewqeON0wax5rMTMGV0/PK/HvR0Knb1jgyevgBpDhG4/E6QE6LSMThh4dLQIy6Q7SI19+yW/n0ls/5f1QVMqExg0x6C3Y77oc+x3KY7lVakd09y4y8dnncAfiDOVDf8WjfN9SGuatd729PdPnRXm/MM7vKJ8xgkC6TcqtEiunrwFaB1G+BtIWy/0n/0t9tKPrue3oPaRyAAV5pSVqfYR8TXgq9diBIO0F4VHxX5yVx8v3ixJwpSJ6/LIkQdfEHpA==;I8BdRIhpFesBa3pMIuHsyg=="
 ---
 
