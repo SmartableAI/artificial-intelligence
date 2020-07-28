@@ -2,6 +2,56 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-15-baidu-tops-chinas-ai-public-cloud-services-market-report.md",
+      "title": "Baidu Tops China's AI Public Cloud Services Market: Report",
+      "excerpt": "Follow @dannyvena Baidu (NASDAQ:BIDU) boasts the highest market share in China's fast-growing artificial intelligence (AI) public cloud services market, according to a recent report by the International Data Corporation (IDC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582423%2Fbaidu-ai-public-cloud-idc.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
+      "publishedDateTime": "2020-07-15T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-purely-satellite-datadriven-deep-learning-forecast-of-complicated-tropical-instability-waves.md",
       "title": "Purely satellite data–driven deep learning forecast of complicated tropical instability waves",
       "excerpt": "Thus, inspired by largely available satellite remote sensing data and the advance of deep learning technology, we developed a purely satellite data–driven deep learning model for forecasting the sea surface temperature evolution associated with a typical ...",
@@ -1371,47 +1421,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
-      "title": "Japanese Robot to Clock in at a Convenience Store in Test of Retail Automation",
-      "excerpt": "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp",
-      "publishedDateTime": "2020-07-15T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

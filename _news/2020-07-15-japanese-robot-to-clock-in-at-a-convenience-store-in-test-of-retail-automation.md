@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Japanese Robot to Clock in at a Convenience Store in Test of Retail Automation"
+title: "Japanese robot to clock in at a convenience store in test of retail automation"
 excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-publishedDateTime: 2020-07-15T09:57:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp"
+publishedDateTime: 2020-07-15T09:51:00Z
+webUrl: "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -20,6 +20,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "1VaEU7ZkOERz44fJ1zhax+TXmkclhQ6zoyF2pYDnqE7xoLWDVo6Uyi4GOV5EPHk2RapX6dusJGqmFfh3v31ZK3lO/HHKcvEVDpiCzUsyww6RYeVW+zfelFFJZXOEM+RKtuGLwFg802tE7D6k0Os7XN0koMQMxqIdMGArn1bCx0Q+81MiqfpQu/fJsQjL9bxXIEYDqACpkicdyxRLZd8iOlLZWo6ZqhsAoWxVckadPxGTfKCjNM4DCDzdnwI/ooSoE+dBcCFA007tivEAkru6U2GzNxGYtD3PUrjmCECg5DLTqkRpbY8O8GyK/08PnPkW2o15TGYyo6YMATTFOSHjUHjqI0k9L3AwYvdUYqrHOBxAbUPWFtqgXZGvrj2Aw4gUYR/znC7XSdbRPVRHsVLapUmJajK7H7Y4yC3/F2z9yv/VtWYXXoNz96VRxhseYSikrqp7Z9uFMKJZJKUwtivP5oqf3DhqH6yD6TPMspYrffk/UD3A0oi8s/PSWEEalHKx;atlAGVCalWsW4Z8jFU4yMA=="
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525982928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM"
+    width: 782
+    height: 545
+    isCached: true
+
+secured: "FRXpEF/S8CRb3zqedexV8gu36cDQwVJvZDm4MPZJOC4al+EO8SBZE2ARMFp+v3vX4ZK3TmweIWCmXAZ8t/fnuNKo6KaVDnFr2y9e71KPjmqYtpJbBkSchsllcbumXuEt6h59Ss8cLTqSUucs0lLAx23WAucDVgKINAi6fOZuOOELFONorITI6WyQlpCx6L/L4cL/FRzWWuJDzbZU045O9u+uG30UCXkuIum3Idn2XiPLQydmEJMTxsPN8fVD+0hqowEz1B0sN99IszPDZGbigDRNb3aGKlVYdj9Umn7JhlkjMdeV7D9106GAfGO20OgqYj3Lp7DOyTSoa/sKktghXg==;grjgAg4cwK0IcLnozRZ0wA=="
 ---
 

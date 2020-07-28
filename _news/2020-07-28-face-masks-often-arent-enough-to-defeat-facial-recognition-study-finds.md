@@ -58,54 +58,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "New York Senate Passes Facial Recognition Moratorium"
-    excerpt: "The legislation temporarily bans facial recognition in state schools and requires the state Education Department to study the issue and craft regulations. Opponents of the technology have criticized its use in schools."
-    publishedDateTime: 2020-07-23T19:19:00Z
-    webUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html"
-    ampWebUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
-        width: 916
-        height: 630
-        isCached: true
-  - title: "Facebook offers $650 million to settle facial recognition suit"
-    excerpt: "Facebook offered $650 million to pay a long-running class-action lawsuit about the use of facial technology. The final offer is $100 million more than the initial settlement, according to USA Today, and follows a rejection of the initial amount by a U."
-    publishedDateTime: 2020-07-24T15:09:00Z
-    webUrl: "https://thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit"
-    ampWebUrl: "https://thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_facebook_72220getty.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "New York state approves bill that bans facial recognition technology in schools"
-    excerpt: "The New York state legislature voted Wednesday to pause the use of facial recognition technology in schools until 2022.  Both the state Senate and"
-    publishedDateTime: 2020-07-23T21:50:00Z
-    webUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/"
-    ampWebUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
-    cdnAmpWebUrl: "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
-    type: article
-    provider:
-      name: AM New York
-      domain: amny.com
-    quality: 55
-    images:
-      - url: "https://www.amny.com/wp-content/uploads/2020/06/GettyImages-1157932923-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Facebook bumps up offer to $650 million to settle facial recognition class action"
     excerpt: "Facebook has agreed to pay $650 million – $100 million more than before – to settle a class action lawsuit over its face recognition technology."
     publishedDateTime: 2020-07-24T01:40:00Z
@@ -121,20 +73,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/fc31eaa651e0d0fe4aa496c77accf6c2d467c460/c=0-235-3592-2264/local/-/media/2018/07/26/USATODAY/USATODAY/636681988519464839-FACEBOOKINDEXFUNDS.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-        isCached: true
-  - title: "N.Y. passes moratorium on use of facial recognition in education"
-    excerpt: "A moratorium on facial recognition in education may soon become a reality, as both chambers of the state legislature now have passed bills mandating a temporary ban, with the state senate passing the bill on Wednesday after the assembly passed its own bill on Tuesday."
-    publishedDateTime: 2020-07-27T17:23:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21147758/ny-passes-moratorium-on-use-of-facial-recognition-in-education"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5f1f06deeaeb0.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "LbjXZakHrsXy5dKk+lsfT83jZhbFjoORH3j4Lg7UlYmhKFXaE2gQDcSo4gJV5tpP51EjOQHxQfakbJXDRu+TOaWwke9nBxgNGr0KoCXBfx2YwZ6dvYf38XFwBfVFaE/axojjVll6mU3AK70Tr7Rz46nLwPEB1DbNK6rRbYmtvd9nrrWuD8fMe4S+01g9o7pap0X9jcBcJNkykz7rAyxw38/baWMqY8eBEQ26Zg0iBT0pSWndvrXG9ffr4Bl1BPQczE86qwDzXVd7fa8XV82eXWWgvlwJ2/zjx80bTQhAZDx1O6Sg62ueCWCtxnqTrVrU6vPCdUZ6IPoy4pzttseH8g==;gfY6yxtlpPOb76A6eicEMw=="

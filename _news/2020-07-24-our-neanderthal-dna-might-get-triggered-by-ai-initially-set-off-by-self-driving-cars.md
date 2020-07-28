@@ -38,7 +38,7 @@ related:
     provider:
       name: MoneyShow.com
       domain: moneyshow.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg"
         width: 555

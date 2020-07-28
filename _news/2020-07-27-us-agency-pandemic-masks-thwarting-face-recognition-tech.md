@@ -3,9 +3,9 @@ category: news
 title: "U.S. agency: Pandemic masks thwarting face recognition tech"
 excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
 publishedDateTime: 2020-07-27T22:02:00Z
-webUrl: "https://abcnews.go.com/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
+webUrl: "https://abcnews.go.com/Business/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018612"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018612"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018612"
 type: article
 quality: 59
 heat: -1
@@ -20,9 +20,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.abcnews.com/images/Technology/WireAP_1620ec9ad802491791ba6e7eaa6c8434_16x9_992.jpg"
+    width: 992
+    height: 557
     isCached: true
 
 related:
@@ -42,23 +42,23 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Study: Masks thwarting facial recognition technology"
-    excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
-    publishedDateTime: 2020-07-28T00:27:00Z
-    webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2020/07/27/masks-virus-facial-recognition/112465252/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/112465252"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/112465252"
+  - title: "Face masks are breaking facial recognition algorithms, says new government study"
+    excerpt: "Face masks are one of the best defenses against the spread of COVID-19, but their growing adoption is having a second, unintended effect: breaking facial recognition algorithms. Wearing face masks that adequately cover the mouth and nose causes the error rate of some of the most widely used facial recognition algorithms to spike to between 5 percent and 50 percent,"
+    publishedDateTime: 2020-07-28T10:14:00Z
+    webUrl: "https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
+      name: The Verge
+      domain: theverge.com
+    quality: 84
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.vox-cdn.com/thumbor/7wBcQXnfx_0Fz6A7TxT_uveln8A=/0x0:5000x3333/1400x933/filters:focal(2100x1267:2900x2067):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67119641/1227809769.jpg.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
 
-secured: "r3WFOIMzYUCzqAbR4kwEQea5vp3cPbWZjISYyLDXeOI3HTELXB9jTNEBDMO4GObEzA4XtJK24FteTf4POL4mJ88ewqeON0wax5rMTMGV0/PK/HvR0Knb1jgyevgBpDhG4/E6QE6LSMThh4dLQIy6Q7SI19+yW/n0ls/5f1QVMqExg0x6C3Y77oc+x3KY7lVakd09y4y8dnncAfiDOVDf8WjfN9SGuatd729PdPnRXm/MM7vKJ8xgkC6TcqtEiunrwFaB1G+BtIWy/0n/0t9tKPrue3oPaRyAAV5pSVqfYR8TXgq9diBIO0F4VHxX5yVx8v3ixJwpSJ6/LIkQdfEHpA==;I8BdRIhpFesBa3pMIuHsyg=="
+secured: "WCw4/cIqGU1X7miDD7YybPyI7LDUVoZE5oPhy8X/T2WeAIvGfVdpKOH4FtRxWDpAaX1DuJqNC/HN86Bwq7s2baG1qykHTQSFeBrwqv1deDjiJXeOsWulGRmpUJEAIpbBcOEvVRFk2B1a2sH4yofkZLNm6nUfprVlZ21F/Bf2dQ0Jg5DNegIinqUrj5SYrS2OKpyw2R1lXU8nWruGtlt08ITqZqobDcqDsnylxCan5B/BtlhnYjSKEh9V7klir0BjDsqiiXzEN4URGJVOc2FK0p+wRo0NJB4cmMs/aWw1wsQd/IMHl+fhiMsco+i6Gfrh/8g8STuZB2Xeu6xu2ImRlw==;JBpgVt6eVsAul8gDoWJ5wg=="
 ---
 

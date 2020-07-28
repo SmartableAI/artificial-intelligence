@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/23/new-york-facial-recognition-morato
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_617755883.jpg"
         width: 1057
         height: 630
-        isCached: true
-  - title: "New York legislature bans use of facial recognition technology in schools"
-    excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."
-    publishedDateTime: 2020-07-23T22:51:00Z
-    webUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools"
-    ampWebUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 58
-    images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
-        width: 645
-        height: 363
         isCached: true
   - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
     excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"

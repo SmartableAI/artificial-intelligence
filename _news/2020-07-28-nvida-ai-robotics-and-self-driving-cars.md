@@ -5,7 +5,7 @@ excerpt: "NVIDIA (NVDA) is the pioneer and leading designer of graphics processi
 publishedDateTime: 2020-07-28T09:04:00Z
 webUrl: "https://www.moneyshow.com/articles/dailyguru-54699/"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - AI Hardware
 
 images:
   - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg"
@@ -42,6 +43,6 @@ related:
         height: 417
         isCached: true
 
-secured: "9r1Om+eIv6MzP1kamahyPg2llHk5LevutN40D9Kg+qCrx6tvOZ7FG1BF4HeAs13Wu227tBjLHey2Ig+GN8/IpGHzx3PmsqBQtcE/VPfSTeQv83QgLtqgVdAnhmPbmxDDg93Pc6kwGZgWvC9Z4nPQzjIHcsgUz8UGPThLhGkrAOAdaGB+YxlBFBrP9sSs7wI9JMYkWCqxaMU/Heb1X5TFMlrxTaReF9T/G1rZljRUvGPIrnvU9Y4V3dqd+WxyAH2t4hGg4V3wQlLjOu+Y3AflmG4Tkk17p8Q0VGGIL6rUy0ZLAecm7gkWvVn/4nVrdWr956EnLRDc3qW3wVar8EsN2A==;9RGP8ddMXouUi5G1FETPaw=="
+secured: "bnrEZ4dOOaoeGTp0oZFIU+4u9yTT8Kiku3+/EHFEqpmIX6ikYCO56qoOok7PjCzBRhYkzynb3BCiakOJirJO59SabNNTmP3FcjndobVwajsvPnIzj7OxeSE+B8QMNTYevutKALcrjMo54vZzC08RyVGKpAkTlFR1XribyZtbObRHVqIsSOlH/k1UMQTruBpmGqrgppx3SPDYxejpua1+oD046Z/GoClfH+AyqevVrmkuDyldnAlxZCvS2sJ840C2e9OVC/s/1a5MI4rm1KcECRqvmXalkHnRIVT8nRVy5vDlpmEPlFMNuXp3wt94frkcgDTzQXV1cOnrhGXib97mSiudW+Rx7X/wHXYM5MQV2s0ypTlOrPilSfGBiUSzW7FwH+VwOXQPxhivfizqFuGmr2kEh1WFd6FHQdhfF756M2CCV1bKjLsBVYKgIY9J0KcwzYnaJ8POcNtOzsFJ6xyfh7HGkqXWHV3qbtCMczPldJ3rYPEpASxIy2SClm/Ml0OtMgsW4BpxseNDyLyKi3ZKjw==;fIuSGiuQ4b0LDqgSLKMiYg=="
 ---
 

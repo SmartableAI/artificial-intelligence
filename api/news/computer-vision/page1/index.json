@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-28-how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology.md",
+      "title": "How Reuters analyzed Rite Aid's use of facial recognition technology",
+      "excerpt": "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology-idUSKCN24T1H5",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527392330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0S8",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24T1H5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5",
+      "publishedDateTime": "2020-07-28T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms.md",
       "title": "NIST study finds that masks defeat most facial recognition algorithms",
       "excerpt": "A National Institutes of Science and Technology found that 89 commercial facial recognition algorithms were defeated by masks.",
@@ -144,47 +194,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-25-2020-macbook-rumors-facial-recognition-technology-unearthed-in-macos-big-sur-beta.md",
-      "title": "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta",
-      "excerpt": "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/13-inch-macbook-pro.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1",
-      "publishedDateTime": "2020-07-25T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-24-this-ai-protects-blm-protestors-from-facial-recognition.md",
       "title": "This AI protects BLM protestors from facial recognition",
       "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
@@ -192,7 +201,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -242,7 +251,7 @@
       "webUrl": "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -292,7 +301,7 @@
       "webUrl": "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 167,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -342,7 +351,7 @@
       "webUrl": "https://www.cnet.com/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 159,
+      "heat": 119,
       "tags": null,
       "images": [
         {

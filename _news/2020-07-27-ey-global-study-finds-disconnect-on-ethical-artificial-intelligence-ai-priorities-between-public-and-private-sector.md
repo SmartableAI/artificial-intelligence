@@ -2,8 +2,8 @@
 category: news
 title: "EY global study finds disconnect on ethical artificial intelligence (AI) priorities between public and private sector"
 excerpt: "EY today releases findings from a global survey finding significant differences in how the public and private sectors view the future"
-publishedDateTime: 2020-07-27T23:02:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ey-global-study-finds-disconnect-on-ethical-artificial-intelligence-ai-priorities-between-public-and-private-sector-301100600.html"
+publishedDateTime: 2020-07-27T23:54:00Z
+webUrl: "https://www.prnewswire.co.uk/news-releases/ey-global-study-finds-disconnect-on-ethical-artificial-intelligence-ai-priorities-between-public-and-private-sector-828811482.html"
 type: article
 quality: 46
 heat: 46
@@ -11,7 +11,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI Ethics
@@ -23,6 +23,6 @@ images:
     height: 314
     isCached: true
 
-secured: "ftQN4ZFom1rvq4c5QK//pSF0rDKLKPv6rj2iONgigAyRSR13B5DZ8FAHpVTi3USA7Dwrok34EcJZkmauKUyoTYSCSNAjFEXzEJoHkjz1IFLIjgO/hP4vc9hd0egzv9MQSEVuNAV/FZTSAwCQhQg/H6bu2oaXGItGstEq5f1tZcef55hovyL6gMZQETRwtmxYKTGaPLqKJnxlYnq6SOVHBrstCJVGLKqyQ0nnwu6FexY2AfBNoArgQK2pZoHQ1krJkarMPpzvYCQoKGgfX1bKfJtC3RkbRd6faBP7E3s4azH+TN0sqyuzeglWYs6r6TM+XM1uWhD1nLvqFVm4yAb7tZhiUiDRpnzW3+sKx8C2SyrceKiHLWCls69795tuSkBT/oBc/GXZ+jg1fPmbonm1PLdNZeFTjLu/5jec+F2kschSbZwityxfqmD2/4MaMq4+Js+0AkjXrVjqntI1s+2eHZIer1ST8JjIZyO/sfJfeUgM5RVp/q1HS3Ux7PWZDq0RSpz4lZa1pxIzjsWgiyU2yg==;l1Dx8Df08VpZn6vDIEJ/nw=="
+secured: "0km5DNtqRDiSmc/c3fhncvTxvywbGr7vOkJfG8gmQkGA3yMZVzwqLvmTpDpxHukUJHVmObv6Jbj9N8zd7aP3nherTpAO6NTvwV1HDykeWYFhmg51i0t2VT/Cfx/Y9uOlg2YJG/OjUqwyy3Gqz4dbbldWfJ217qtFik9wB1ldOa816QdlmcgyJ+40zNK9MHOUJ+eQ/KvPEKXWXLrJbecMu1EZ8px5PVmz0rPb6p744SnXUCKuo5ynvdhmlJWVAjXS8M2qXlcoNg6HBLgwZ0BF6xT18ZnPX5sd06vbXBPMwwleWxI5DZFBdwdN+8mdywPyQZU4NdgUlqUxjtt3hjKs3Q==;rYXDUj1Ye/RK0SamHHrBnQ=="
 ---
 

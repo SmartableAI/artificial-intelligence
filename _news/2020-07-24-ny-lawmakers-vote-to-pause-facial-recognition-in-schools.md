@@ -26,37 +26,78 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook will pay $650 million to settle facial recognition privacy lawsuit"
-    excerpt: "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,"
-    publishedDateTime: 2020-07-23T19:29:00Z
-    webUrl: "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html"
-    ampWebUrl: "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
+  - title: "How Reuters analyzed Rite Aid's use of facial recognition technology"
+    excerpt: "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020."
+    publishedDateTime: 2020-07-28T11:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-riteaid-software-methodology/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology-idUSKCN24T1H5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 104
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57"
-        width: 600
-        height: 350
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527392330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0S8"
+        width: 817
+        height: 545
         isCached: true
-  - title: "New York lawmakers vote to pause facial recognition in schools"
-    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district’s adoption of the technology as part of its security plans and a ..."
-    publishedDateTime: 2020-07-23T18:00:00Z
-    webUrl: "https://www.pbs.org/newshour/education/new-york-lawmakers-vote-to-pause-facial-recognition-in-schools"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/education/new-york-lawmakers-vote-to-pause-facial-recognition-in-schools"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/education/new-york-lawmakers-vote-to-pause-facial-recognition-in-schools"
+  - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
+    excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
+    publishedDateTime: 2020-07-28T11:33:00Z
+    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software/"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/video-01222020_MISIDENTIFICATION_027.JPG"
+        width: 1110
+        height: 620
+        isCached: true
+  - title: "Special Report: Rite Aid Deployed Facial Recognition Systems in Hundreds of U.S. Stores"
+    excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country,"
+    publishedDateTime: 2020-07-28T11:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 76
+  - title: "New York Senate Passes Facial Recognition Moratorium"
+    excerpt: "The legislation temporarily bans facial recognition in state schools and requires the state Education Department to study the issue and craft regulations. Opponents of the technology have criticized its use in schools."
+    publishedDateTime: 2020-07-23T19:19:00Z
+    webUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html"
+    ampWebUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/backtoschool2-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
+        width: 916
+        height: 630
+        isCached: true
+  - title: "Facebook offers $650 million to settle facial recognition suit"
+    excerpt: "Facebook offered $650 million to pay a long-running class-action lawsuit about the use of facial technology. The final offer is $100 million more than the initial settlement, according to USA Today, and follows a rejection of the initial amount by a U."
+    publishedDateTime: 2020-07-24T15:09:00Z
+    webUrl: "https://thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit"
+    ampWebUrl: "https://thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_facebook_72220getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Facebook offers $650M settlement in facial recognition suit"
     excerpt: "That’s what lawyers for the social media site are saying with their latest offer to settle a class-action lawsuit based on what plantiffs say is abuse of their facial recognition system."
@@ -74,37 +115,69 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Facebook agrees to pay record $650M to settle facial recognition lawsuit"
-    excerpt: "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ..."
-    publishedDateTime: 2020-07-24T17:01:00Z
-    webUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition"
-    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+  - title: "Study: Masks thwarting facial recognition technology"
+    excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
+    publishedDateTime: 2020-07-28T00:27:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2020/07/27/masks-virus-facial-recognition/112465252/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/112465252"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/112465252"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "New York legislature bans use of facial recognition technology in schools"
+    excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."
+    publishedDateTime: 2020-07-23T22:51:00Z
+    webUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools"
+    ampWebUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 58
     images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg"
-        width: 1280
-        height: 720
+      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
+        width: 645
+        height: 363
         isCached: true
-  - title: "Facebook adds $100 million to facial recognition settlement over tagged photos"
-    excerpt: "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ..."
-    publishedDateTime: 2020-07-24T17:45:00Z
-    webUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/"
-    ampWebUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
+  - title: "New York state approves bill that bans facial recognition technology in schools"
+    excerpt: "The New York state legislature voted Wednesday to pause the use of facial recognition technology in schools until 2022.  Both the state Senate and"
+    publishedDateTime: 2020-07-23T21:50:00Z
+    webUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/"
+    ampWebUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
+    cdnAmpWebUrl: "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
+      name: AM New York
+      domain: amny.com
     quality: 55
     images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://www.amny.com/wp-content/uploads/2020/06/GettyImages-1157932923-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta"
+    excerpt: "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality."
+    publishedDateTime: 2020-07-25T10:40:00Z
+    webUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026"
+    ampWebUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/13-inch-macbook-pro.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facebook Agrees To Pay $650 Million As Part Of Lawsuit Over Facial Recognition Technology"
     excerpt: "The lawsuit was originally filed in 2015 by three Illinois residents who alleged the social media giant violated the state's Biometric Information Privacy Act, which requires written consent for a company to collect facial recognition data."
@@ -122,29 +195,34 @@ related:
         width: 1024
         height: 700
         isCached: true
-  - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
-    excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
-    publishedDateTime: 2020-07-23T22:50:00Z
-    webUrl: "https://www.law.com/therecorder/2020/07/23/judge-poised-to-approve-updated-650m-facebook-settlement-over-facial-recognition/"
+  - title: "N.Y. passes moratorium on use of facial recognition in education"
+    excerpt: "A moratorium on facial recognition in education may soon become a reality, as both chambers of the state legislature now have passed bills mandating a temporary ban, with the state senate passing the bill on Wednesday after the assembly passed its own bill on Tuesday."
+    publishedDateTime: 2020-07-27T17:23:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21147758/ny-passes-moratorium-on-use-of-facial-recognition-in-education"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 34
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/07/James-Donato-Article-202007231555.jpg"
-        width: 620
-        height: 372
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5f1f06deeaeb0.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Facebook will pay USD 650 mln to settle facial recognition privacy lawsuit"
-    excerpt: "Facebook will pay a total of USD 650 million to settle a lawsuit over the company's use of facial recognition technology, writes local publication Facebook citing court documents presented by Facebook."
-    publishedDateTime: 2020-07-27T08:14:00Z
-    webUrl: "https://www.telecompaper.com/news/facebook-will-pay-usd-650-mln-to-settle-facial-recognition-privacy-lawsuit--1348000"
+  - title: "Facial recognition technology: In our rush to deploy it, are we ignoring the risks?"
+    excerpt: "Taylor Swift uses it to identify stalkers. Retail stores are using it to provide a no-checkout, cashierless experience. Even churches are getting in on it to keep track of their congregants. Increasingly,"
+    publishedDateTime: 2020-07-23T19:41:00Z
+    webUrl: "https://cssh.northeastern.edu/informationethics/facial-recognition-technology-in-our-rush-to-deploy-it-are-we-ignoring-the-risks/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 33
+    images:
+      - url: "https://cssh.northeastern.edu/informationethics/wp-content/uploads/sites/44/2020/07/Screen-Shot-2020-07-17-at-2.13.52-PM.png"
+        width: 1488
+        height: 962
+        isCached: true
 
 secured: "QEYfPTvvTbuOPH/ljwl1Zxr68ACfRa4jtoJzRDeGVvqEW3IztRqRRz9CMRZ7rQ4gY/0DLiMoUFoz1c5lgcTOm689jcFSEkMX+PC3lrL/SL53oWbOX2daHnT5FXblmEKRZWuiq0s5zZzWT6eTAMUwK0a2WtyWWTIy94WLpHhztmbwrQirIrdTjIRe/unSeq8b4HsCA/dtkpYbflXtaOPCBsBQdcz3Ie6WR6xhfXahoMwDNcBkmJeqCe39SnqI4sY9IIiq6cF7uJTDVjiLorXLATZezAfG2ZQUD7Ey4mxnfv98A6ZrQp7TnSTFtHHEcJ7BPZOGSH4/Ekheyvv+KyLtRenClUiFuqWDCUvtV/n1GgyVRmdpGJwd4sEEVzPXF+RjElPGG3c7psoM869I7+F+oWYfPXWafiPQM93KrucVlnGRqke7vg5ZMCxkv06zPTJt92h12CcV4V/zrWI0YzNU+weBz3PsYN6MPYmOK+Hy3AfyiS6eLYYSjmvWC3mYTnrSn14qmduq2tHAfPXraz/d8Q==;UNb9GkcRKNZ4HfvVMhmb4w=="
 ---

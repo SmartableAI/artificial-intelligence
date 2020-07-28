@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.reuters.com/article/us-usa-riteaid-software-methodology/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology-idUSKCN24T1H5</loc>
+    <lastmod>2020-07-28T04:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/</loc>
+    <lastmod>2020-07-28T03:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7</loc>
+    <lastmod>2020-07-28T02:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/</loc>
     <lastmod>2020-07-28T02:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -75,12 +93,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/</loc>
     <lastmod>2020-07-27T09:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/gpu-market-latest-trends-and-new-technologies-research-forecast-to-2024-2020-07-27</loc>
-    <lastmod>2020-07-27T08:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -255,12 +267,6 @@
   <url>
     <loc>https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html</loc>
     <lastmod>2020-07-25T06:23:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026</loc>
-    <lastmod>2020-07-25T03:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -487,6 +493,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800</loc>
+    <lastmod>2020-07-23T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/investing/2020/07/23/livongo-health-peer-ontrak-is-up-99-this-year-as-v.aspx</loc>
     <lastmod>2020-07-23T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -549,12 +561,6 @@
   <url>
     <loc>https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/</loc>
     <lastmod>2020-07-23T02:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800?mod=rss_Technology</loc>
-    <lastmod>2020-07-23T02:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2173,8 +2179,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation</loc>
-    <lastmod>2020-07-15T02:57:00-07:00</lastmod>
+    <loc>https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138</loc>
+    <lastmod>2020-07-15T02:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

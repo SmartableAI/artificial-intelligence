@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://www.cartoonbrew.com/wp-content/uploads/2020/07/the_lion_guard.jpg"
         width: 1280
         height: 600
-        isCached: true
-  - title: "Letter to Pelosi: Cut facial recognition spending from appropriation bills"
-    excerpt: "Democrats in the U.S. House of Representatives seem to be making biometric surveillance a fortified position for the November general elections and beyond. A coalition of Democrats (with names"
-    publishedDateTime: 2020-07-23T17:34:00Z
-    webUrl: "https://www.biometricupdate.com/202007/letter-to-pelosi-cut-facial-recognition-spending-from-appropriation-bills"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
         isCached: true
 
 secured: "TuTCa4YD6CgInahaRb0oO/GqchaNXn9KJfXDHYO1aqZHsR724MUbHNdNDvHMdAFYVwx/ZH8rM7rl8LxFR2upzBVS85OrKziLCrf5SNjkBxpQUX3DBSmR5SDC0xiI8DpTko+Z24ILNP1PjMTWGREOb2iDw5xnIQWyFkl5FOfsxcZnCjniQ7nlCYHDNZjYzXLcFTh6j8PernvevdMgmOmIZM6jMSAqnceG6R/E3Got/8B6oZXniE5w3ZoIDDlxeGb1rNsINbjrlHCNMNHX1fl09Gx6SbyDl/CYRVt8cXg9MGYoi+0k0f0gChJT9xNO+PzwpGiDX1kYmhdKmndNyhslFPRKKPa63IHaS/ePp+IeBd9xMUvRWn2e/Gm5wqJ1zV/BAuSUP0CZEPNYmCh9s+HnjrHz27iklk/sc9DGWx7EBCUGLXkZuCEJTVhkkEumYNpClBHnztbHU/BVKSQbdplNZKyuxEV+us/mroeWYw09EaEBDE4/E5JszQu5pKP+K641;X5d0W612Z5oQn2GVSd5FSA=="

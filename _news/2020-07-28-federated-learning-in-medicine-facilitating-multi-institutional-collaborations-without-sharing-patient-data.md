@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-28T09:25:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-69250-1"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -24,21 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning for predicting pathological complete response in patients with locally advanced rectal cancer after neoadjuvant chemoradiotherapy"
-    excerpt: "For patients with locally advanced rectal cancer (LARC), achieving a pathological complete response (pCR) after neoadjuvant chemoradiotherapy (CRT) provides them with the optimal prognosis. However, no reliable prediction model is presently available."
-    publishedDateTime: 2020-07-28T09:23:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-69345-9"
+  - title: "New machine learning method allows hospitals to share patient data—privately"
+    excerpt: "To answer medical questions that can be applied to a wide patient population, machine learning models rely on large, diverse datasets from a variety of institutions. However, health systems and hospitals are often resistant to sharing patient data,"
+    publishedDateTime: 2020-07-28T09:11:00Z
+    webUrl: "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 1
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-69345-9/MediaObjects/41598_2020_69345_Fig1_HTML.png"
-        width: 685
-        height: 397
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/algorithm.jpg"
+        width: 1500
+        height: 1050
         isCached: true
 
-secured: "iOrH6cc2WqxM7RMu26Ti5e23nh/PFlvwhaoL5ai0MHtsre68Upzg3dudd/f8OGUCJ3FkqNpubRc9c/m4LSIYlUwLHywRWiMSHbk7vdQ7lXdItQh2Hb4pydTy8kHJPpqMtCMOenKmB1bYEUQitajU53stjAdpVL3Cho9e09FWA8DTVA14oeArFWPaqo8yuP2EsIZXNGqujCCTLPs4uKuXZUWNPaBnYZ9DSKCUgCdfnRyqXTqlpxXIwIcymXNJRwK1vKEYNZZHuDdX1ZTIlqcEoGKhlWHROTzZM7LPmwAe8kaxZ90v/PzswaoZkFOEMHb29u/KFb1Cjtj163TRuyq+FA==;9wO8so0oEiTiMQnOVjdJow=="
+secured: "LIjqm4QKoh5d9zUVteLUcH97mmlWNu8NqcvwXkfWKspj6JVwEzyBe2RFfBFeQnNzFWKdyOkDyHQeY+Mup90ly480dPlPd2AGonuoDNRbSr+OcvC8V0aidNo/UdA8IdjBkaX+JdpDVKUpJo+RmCdiW18osGsoRHaljKIIsvtRjPY1RdvNDl7lnp0wTNFBXhwDSc6fOoqTNcvzSML2TX6ywNfBPzrmfi/JoISJeKQrfvh9dVBt+gs1ygKLJiy3EAJSvKlcpfrhQHTDCW2LoOMWPiIQfgsz5fDvXONNJmPIj8/KBVgwzbVter9uMZHLysZrGOXF3eCZFkeJqZE7ELEq0Iz0yFYYLcxLaieMTugvjSJQO650mvXD/cDJ+5ifSnGMs4pFSCeipv2XmPZFqQF2RwgSbgpe+Rs98Pl+IotOl/waFo1hDmU0yBXee4Ac/ImqeYWFMbQbuGiDhtG1O/1MCMjWHhlfHji0bTURv6nOvk+HkgfoNepJO1qxHs1QjTKFSfcg4by7V6geaGH2F6sVXw==;p5F6Fch86oDWX4W8NafJXA=="
 ---
 

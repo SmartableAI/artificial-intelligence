@@ -2,6 +2,47 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-16-karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies.md",
+      "title": "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
+      "excerpt": "Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ® Test uses novel genomics and AI approaches to identify more than 1,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "publishedDateTime": "2020-07-16T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution.md",
       "title": "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution",
       "excerpt": "At the outset, data is improved automatically by replacing missing values and dealing with outliers. AutoML then builds and compares many different models to identify the best available option. Compared to manual approaches, results are optimized in ...",
@@ -1081,56 +1122,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning.md",
-      "title": "How an award-winning AI-powered software is helping students with remote learning",
-      "excerpt": "Amira has received four new awards for effectiveness and innovation with helping students become better readers from afar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/15/8a254762-4df0-47a8-8772-b68921f6bd31/resize/1200x/38d70874f50e1c4b971a8326192b9e43/amira-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
-      "publishedDateTime": "2020-07-15T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

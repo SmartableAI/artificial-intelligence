@@ -2,6 +2,55 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-06-21-how-ethical-is-your-ai.md",
+      "title": "How Ethical Is Your AI?",
+      "excerpt": "Samasource is setting out to prove that ethical data-labeling is not only good for people, but is also good for business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecd17de48a850006bf0594%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Ethical Is Your AI?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
+      "publishedDateTime": "2020-06-21T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-21-model-inference-using-tensorflow-and-tensorrt.md",
       "title": "Model inference using TensorFlow and TensorRT",
       "excerpt": "NVIDIA TensorRT is a high-performance inference optimizer and runtime that delivers low latency and high-throughput for deep learning inference applications. The following notebook demonstrates our recommended inference workflow.",
@@ -1069,55 +1118,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility.md",
-      "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
-      "excerpt": "I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/02/stanford-bci.gif",
-          "width": 480,
-          "height": 270,
-          "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
-      "publishedDateTime": "2020-06-19T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

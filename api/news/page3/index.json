@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-24-this-ai-protects-blm-protestors-from-facial-recognition.md",
+      "title": "This AI protects BLM protestors from facial recognition",
+      "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-24T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-processing-pdf-documents-with-a-human-loop-using-amazon-textract-and-amazon-augmented-ai.md",
       "title": "Processing PDF documents with a human loop using Amazon Textract and Amazon Augmented AI",
       "excerpt": "Businesses across many industries, including financial, medical, legal, and real estate, process a large number of documents for different business operations. Healthcare and life science organizations, for example, need to access data within medical records and forms to fulfill medical claims and streamline",
@@ -756,7 +806,7 @@
       "webUrl": "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -806,7 +856,7 @@
       "webUrl": "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 167,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -956,7 +1006,7 @@
       "webUrl": "https://www.cnet.com/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 159,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1129,55 +1179,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy.md",
-      "title": "Google claims its AI system can grade prostate cancer samples with 72% accuracy",
-      "excerpt": "In a peer-reviewed study, Google reseachers claim to have developed an AI system that grades prostate tumor severity with 72% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/amp/",
-      "publishedDateTime": "2020-07-23T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

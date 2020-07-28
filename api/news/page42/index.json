@@ -2,6 +2,56 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-06-25-artificial-intelligence-set-to-dominate-operating-rooms-by-2024.md",
+      "title": "Artificial Intelligence Set To Dominate Operating Rooms By 2024",
+      "excerpt": "In less than five years, this new study from Frost & Sullivan says that artificial intelligence will dominate operating rooms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intelligence-set-to-dominate-operating-rooms-by-2024/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef4bfd4b002b30007f79a6c%2F0x0.jpg",
+          "width": 1200,
+          "height": 567,
+          "title": "Artificial Intelligence Set To Dominate Operating Rooms By 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intelligence-set-to-dominate-operating-rooms-by-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intelligence-set-to-dominate-operating-rooms-by-2024/amp/",
+      "publishedDateTime": "2020-06-25T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships.md",
       "title": "Renewed IBM and AELTC partnership set to take on the future, launching with a digital recreation of The Championships",
       "excerpt": "The partnership renewal means IBM and Wimbledon will be able to seize new opportunities, with the next phase of their long term partnership",
@@ -1106,56 +1156,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-sino-us-tech-race-turbocharges-china-chip-investment-triggering-bubble-fear.md",
-      "title": "Sino-US tech race turbocharges China chip investment, triggering bubble fear",
-      "excerpt": "An investment boom across China’s semiconductor industry is driving prices of both publicly traded and venture-backed firms into bubble territory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/25/9ab56d58-b679-11ea-94a5-08ba74052128_image_hires_091527.jpeg?itok=dswalvtC&v=1593047733",
-          "width": 1200,
-          "height": 630,
-          "title": "Sino-US tech race turbocharges China chip investment, triggering bubble fear",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
-      "publishedDateTime": "2020-06-24T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

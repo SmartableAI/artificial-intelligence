@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "New York legislature bans use of facial recognition technology in schools"
-    excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."
-    publishedDateTime: 2020-07-23T22:51:00Z
-    webUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools"
-    ampWebUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 58
-    images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
-        width: 645
-        height: 363
-        isCached: true
   - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
     excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
     publishedDateTime: 2020-07-24T01:03:00Z

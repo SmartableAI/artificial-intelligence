@@ -2,6 +2,56 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-07-09-school-debate-president-trump-pushes-for-in-person-learning-to-resume.md",
+      "title": "School debate: President Trump pushes for in-person learning to resume",
+      "excerpt": "Breaking tonight, how to get students back to school safely amid the coronavirus pandemic? The president and first lady participating in what was billed as a national dialogue on the subject earlier today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1e786f4-809a-4cdd-9722-7073e51af51b/bf181f1d-83c9-4e48-9f79-10247b07dd6a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "School debate: President Trump pushes for in-person learning to resume",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
+      "publishedDateTime": "2020-07-08T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-can-ai-really-distinguish-between-back-pain.md",
       "title": "Can AI Really Distinguish Between Back Pain?",
       "excerpt": "The single code for two different conditions prevents appropriate billing and therapy recommendations, including different return-to-work scenarios. The artificial intelligence model in this study, the first of its kind, could be used to improve the ...",
@@ -1095,55 +1145,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-tellius-unveils-on-demand-ai-platform.md",
-      "title": "Tellius unveils on-demand AI platform",
-      "excerpt": "The software-as-a-service (SaaS) offering is intended to lower analytics costs and provide an easy-to-use, comprehensive package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tellius-unveils-on-demand-ai-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/08/07fbd827-e281-4447-9e66-204cd035b782/resize/1200x/bf50a36dcd544574fd1d9564eca03466/saas-istock-1203544876-putilich.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Tellius unveils on-demand AI platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tellius-unveils-on-demand-ai-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tellius-unveils-on-demand-ai-platform/",
-      "publishedDateTime": "2020-07-08T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

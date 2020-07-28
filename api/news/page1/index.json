@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-28-how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology.md",
+      "title": "How Reuters analyzed Rite Aid's use of facial recognition technology",
+      "excerpt": "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology-idUSKCN24T1H5",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527392330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0S8",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24T1H5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5",
+      "publishedDateTime": "2020-07-28T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime.md",
+      "title": "ComplyAdvantage nabs $50M for an AI platform and database to detect and stop financial crime",
+      "excerpt": "The growth of digital banking has opened up a wealth of opportunities for making the world of finance more accessible and transparent to a greater number of people. But the darker underbelly is that it has also created more avenues for illicit activity to flourish,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-909208346.jpg?w=1024",
+          "width": 1024,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/amp/",
+      "publishedDateTime": "2020-07-28T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-a-key-ai-executive-at-tiktok-parent-bytedance-is-leaving-as-geopolitical-pressure-mounts-on-the-app.md",
+      "title": "A key AI executive at TikTok parent ByteDance is leaving as geopolitical pressure mounts on the app",
+      "excerpt": "Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f1fec873ad8614fa66e6803?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7?amp",
+      "publishedDateTime": "2020-07-28T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read.md",
       "title": "Embarking on a Python journey? Then ‘Hands-on Machine Learning’ is a must read",
       "excerpt": "Writing an all-encompassing book on Python machine learning is difficult, given how expansive the field is. But reviewing one is not an easy feat either, especially when it’s a highly acclaimed title such as Hands-On Machine Learning with Scikit-Learn,",
@@ -640,56 +788,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-27-gpu-market-latest-trends-and-new-technologies-research-forecast-to-2024.md",
-      "title": "GPU Market latest Trends and New Technologies Research Forecast to 2024",
-      "excerpt": "Selbyville, Delaware.GPU Market report provides key statistics on the market status of the GPU Industry and is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-latest-trends-and-new-technologies-research-forecast-to-2024-2020-07-27",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-27-mit-csail-employs-machine-learning-to-optimize-vaccine-designs.md",
       "title": "MIT CSAIL employs machine learning to optimize vaccine designs",
       "excerpt": "Researchers at MIT CSAIL designed a system that can identify optimal vaccine designs for a large swath of the population.",
@@ -1084,107 +1182,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-facebooks-red-team-hacks-its-own-ai-programs.md",
-      "title": "Facebook’s ‘Red Team’ Hacks Its Own AI Programs",
-      "excerpt": "Attackers increasingly try to confuse and bypass machine-learning systems. So the companies that deploy them are getting creative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f1b5770c8cbb6d85bec4daf/master/pass/business_red-team.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebooks-red-team-hacks-ai-programs/amp",
-      "publishedDateTime": "2020-07-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.md",
-      "title": "6 ways Alibaba Cloud challenges AWS, Azure, and GCP",
-      "excerpt": "From storage and network innovations to eye-popping AI solutions, Alibaba offers a number of advantages over the leading cloud rivals",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/fighter_boxer_competition_boxing-glove_best_fight_-totokita-getty-100787964-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.amp.html",
-      "publishedDateTime": "2020-07-27T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
