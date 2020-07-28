@@ -7,7 +7,7 @@ webUrl: "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmi
 ampWebUrl: "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp"
 type: article
-quality: 70
+quality: 87
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg"

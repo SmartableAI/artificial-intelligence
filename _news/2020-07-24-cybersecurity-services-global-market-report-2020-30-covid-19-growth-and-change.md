@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Cybersecurity Services Global Market Report 2020-30: Covid 19 Growth and Change"
-excerpt: "Reportlinker.com announces the release of the report \"Cybersecurity Services Global Market Report 2020-30: Covid 19 Growth and Change\""
-publishedDateTime: 2020-07-24T18:16:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-services-global-market-report-2020-30-covid-19-growth-and-change-1029429551"
+excerpt: "Reportlinker.com announces the release of the report \"Cybersecurity Services Global Market Report 2020-30: Covid 19 Growth"
+publishedDateTime: 2020-07-24T17:43:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16773197/cybersecurity-services-global-market-report-2020-30-covid-19-growth-and-change"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16773197"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16773197"
 type: article
-quality: 30
-heat: 30
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Xm9LBg/cSLBu2jFPMDL4KDIA1ZyhXqCJ9NgfcLiona6/l5xQtE/ymHdIASNyyHBG9CQ0ZZFjfkrv6iwPQykHHG16oph6i0AgOH42SmPJTtKyWfQ4oWF1pJK/BYXz9bSrocidA1sulCzr0pPV/M9HqF9SDy2C5BGD2Dic+yJBiX23qxxWzPmSbBvvbAGJKCKeI8fLVm3VIu4FfFFP7vk36/Vtq0690KH1955fTfI/0Ok4fNxFAtsG2kptl0v6WYp3Fm1zz0n5U6c3TSx0Y7YJx2HWgy45KljEI/2yKrFRIZEBuyar6xpWTDngHATZ41qqb9Rxq3DmmXHD01SKQJixeg==;u8KO+lkI26bWmIuO0doAtA=="
+secured: "4w2g7lLl34s3sQm+EYr0PREgk9WRyTg8TuTJucWybYwJ3N1isdDYDAETWHuvTqNMY1GpqoaGWgESoJk9qNysq1c0ucECXSTL0E8dmYHY4tVjyYydgyZ76eJD8GeeYXPG0SWPczp0bOO6ar3QqE2mjF5nttAFcfJfKnEShgHzjOUKrjsJTSpRKPleMDeo5x9kn/2idZEI1HMPoIZJWaW4zHmRoHW8K9CyoofA+Rnd+6ryBPL30UGLoP5xKYPaV7Dkc9zzcC+2Mr4qHan0B5yaNInq3gQ6zGzhnR3OQyHPr8y7SwFvPT1vnyJe8cNPQtPkmjyaoLdl/kZHLoB6jUT9suEaQPEb/7HfM+c107r3oy1yARA/cCY9ZScl9nCS3/PQz6jq7dZ6ojQEWin/7stAuSjycOiNVr2K/Qs2h7VZIACaGk/+tN7lKqvzz+JybNvaaP5wiOTNL3Xl/uHJjD/6i8d5xgj/oODvHhVaATxzsK56p6aS08D5QkMv5zfs6/sP;hEXPLAEMw47XkNy9es06mQ=="
 ---
 

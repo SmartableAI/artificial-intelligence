@@ -2,12 +2,11 @@
 category: news
 title: "Theator is Making its Surgical Intelligence Platform Available in Microsoft Azure Marketplace"
 excerpt: "Theator, the first of its kind surgical intelligence platform, announced today that its AI-powered platform is now available in the"
-publishedDateTime: 2020-07-27T20:00:00Z
-webUrl: "https://www.prnewswire.com/il/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html"
+publishedDateTime: 2020-07-27T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 58
 
 provider:
   name: PR Newswire
@@ -23,22 +22,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and"
-    publishedDateTime: 2020-07-24T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 62
-    images:
-      - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
-        width: 2699
-        height: 1414
-        isCached: true
-
-secured: "6xL4sIVrgNs6XGYpa+D33/Veil8hXyCIHXxpMisd7YXDmXIW053fUVhNRTY/gMBRwID5ahIQUGHAlRdoXPDZ+3VCkcn3pgLPFlZ3EyeEmsBWAI+KKi6WmxZkX4LygGgPhd51AvhRKSrp2T7PcYcMQJkz/HSr7v2KPBZMlFjD68TqQc++A8o4HaPtA8iZPZ4kuKnog0K1vYMgNQIJo0rHZIAnYsLg45eUq92LI7vjrPwv6Z0MRhkedTMB58gTbLADTyx8LdFai5WUdz4CQ05CBK4pSso+JPgMfTp8gbKN/M0PxD3iMynlrJyEPL+fJ06J3tY0gm8s1csKOKEDd3oH0w==;6xc8aThxMoixOLHw+KtVSQ=="
+secured: "gMAUysx2Mo2qkznQowRiCyI/b34j8+ZgZj/R5PFomRpGe2mdFFOIBPLpRPmwdFe2TvuOY9a/K4KEGee7AV9wRldOChcvnjc6ObqdD48sCoP99qayaAfXz4Ab1wRJVg+iPaW8iZLOhj5H8mG8WQDMUvvGMvZGQG9lRxHslk56KImde0BtAU7TQt5qtJ4qWknPuYZlKXYrYyoBS+F/eiUEc7BRU1sbxEa5AMi50f9odDFExyNZn4Y8kM6/PRWfDijExGS66oMUkblvDLLxfoWdjBZQZ2BM5c0ux6PxUxVxbEI7SrVQh3eBCs+svxPwCTA1oIuLBYa6p8fOvFprho0MvQ==;2zzYLwFrTSk/55N/d4DLAA=="
 ---
 

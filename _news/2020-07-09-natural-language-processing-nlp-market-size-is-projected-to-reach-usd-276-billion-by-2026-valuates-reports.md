@@ -2,13 +2,13 @@
 category: news
 title: "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports"
 excerpt: "BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to the rising interest in human-to-machine communications and increasing demand ..."
-publishedDateTime: 2020-07-09T16:13:00Z
-webUrl: "https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-827107719.html"
+publishedDateTime: 2020-07-09T16:10:00Z
+webUrl: "https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html"
 type: article
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
@@ -20,6 +20,6 @@ images:
     height: 482
     isCached: true
 
-secured: "afp8oEp/femfVo1hcdTzOIdxCDwZy7ZPyhxXFYVg2BF17lO+P+sLoardrCJgF44eWXm7Fpi8NFe8Fw1zSb5MgOsy4ohf6yNK2PZWnidJcl0yYE8xspH57nz+1FSjov16+5prCYtRdYW5l6XRGyC9WqXX56YQYG7IRwK8B8vWw3TENP084FeVMxMQw4+hoC5eq3Z7NqgZcycWR242/zmVyb249PxP2IeC5CXo7Q9v6vy0UmbHZ8NkxxEIIvrtLWRaYv5+Kq5USUWBUTpOrkfroS6DdGWzH+XXhPqmNjWIpySy4dqrxpPAYEkB3nnym/ZRtkPkPGGpo7iCnqhTImcWMA==;loYwFzjnSeINORty9zJdJQ=="
+secured: "Bg2eW1dNVqsY6WgQ+IpMUUJcPoZn0kMao78f+d+Hvbtro7SCnaimlhFqZ6NvxMaJn4bh+7eHDB/oWAdHwNVs+zk/DGv4CE7oKCDazKcNSseZc+Ccfx/1ngxQ+S4rYeZ7W+5TviVmJsjyLPQr2LT4l3M8swDhDwfdJvufFko3i+6kPdn/aPj6DHSmWIJMFE80ezSX5QM5jWuJEeZUisSARegv0+pW6eX5QDG+v/tAfn+uGiJG7yvPmOb1/fYNDkbkpKrsX86J7GKTh7/KzqVDdFWygNqt/HLcup4339wm8sdYVM+5k+QEOgUtZZspczLPnBB0seQ5HfiX6Jm2dE6U6g==;vJJfWC7RjRpJD7+uQ0MlBg=="
 ---
 

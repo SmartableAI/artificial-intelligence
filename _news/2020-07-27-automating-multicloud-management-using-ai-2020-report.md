@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T21:45:00Z
 webUrl: "https://www.prnewswire.com/news-releases/automating-multicloud-management-using-ai-2020-report-301100426.html"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:

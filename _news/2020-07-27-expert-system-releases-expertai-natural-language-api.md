@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Expert System Releases expert.ai Natural Language API"
-excerpt: "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural"
-publishedDateTime: 2020-07-27T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html"
+excerpt: "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural Language API that enables data scientists, computational linguists,"
+publishedDateTime: 2020-07-27T18:46:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/expert-system-releases-expert-ai-natural-language-api-1029433300"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/expert-system-releases-expert-ai-natural-language-api-1029433300"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/expert-system-releases-expert-ai-natural-language-api-1029433300"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 69
+heat: 69
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/288932/expert_system_Logo.jpg?p=facebook"
-    width: 702
-    height: 369
-    isCached: true
-
-secured: "FvoKGtyUt+6LZPpUrdsuc3agGHEIFzJ6NzaUKyiwqofFS5pxj5ghKhBAFp+o652yW2ou+MKN1JS25jekqOgcQf1HMupysq0gCHDD1ipvWGB0gcAToJ3W7zwQH1L851n8fMK5P8HNf9BXoIA4qv2OCkCgn+spTitft6GRau7wSYlHXRVEPdwS6Z3sf9zXRtkEMPkLTy2COnH8hQwFYS7+lS0rB++I9r5gQ8nCH+sBloDbbrweCHazfs2xqeGNKoBuw6rVgW1t2AWRUWjGchPdVOrIWUlTK+TpakdxaFa5Umr/hp34CvRA7WOesWS2zqQy5VxJJ5cK26YfCmUjqh4ODbMs9j9coTNvwuWeL3ufcRIhZCgkNGZfVw0pC5S1eFJ13SiTuZjwnheINo4uljcvvVy54HnbFAoc1ev7QQYXaCl+brbYnfjWT7rRoMvpPF0hAyv4UIb8ZQwIIAKKtMbhJY+xmpXFQyPEoLZlsx0VLb/j3JRrbBwKUJTSJ/78AtlCNiEh4W/xsqv6fIO6d4p4cw==;88duKoQXozKjo4Y6elCosA=="
+secured: "Ji3gZxZsWaFcZ3WZsNs+IB34odagHL7Nw/JPKV+LS1RGy2A+agsqKiRpqCtOI6/ptPzvSFkbdREcT2eyZWiJ9juM9tPZW/MbF/vpEDgp9vs9l45KFiJGWetE7QlYpzabCCQmv9EpRVWVkZq4w/Vx2JiYj/a8TwYf2GsEkKskcDFIFOcJtHFH/q+IbwYonZUVfuvQjNrGpiy+Os7oIvyezPhp4LbdC9QqKWMAhV/m2JZ4P/SiSvr3okS9w24YGlTGhpGnFvMbILC03e86bOFj49e/CAuDlEN9nfB4B42J/dKLIami1IXc5UbVnRTggBkKKel6eAlsmhePf7EAtUuk2Q==;XWAzh7GC1GGAhU0xKakddQ=="
 ---
 

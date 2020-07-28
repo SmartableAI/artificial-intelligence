@@ -59,22 +59,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Fawkes protects your identity from facial recognition systems, pixel by pixel"
-    excerpt: "Deep learning tools and facial recognition software has now permeated our daily lives. From surveillance cameras equipped with facial trackers to photo-tagging suggestions on soci"
-    publishedDateTime: 2020-07-23T11:26:00Z
-    webUrl: "https://www.zdnet.com/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/ab7c4fa5-c627-4cc5-b909-1b7edf72255b/resize/1200x900/61da627e58048bffe3cbbd70ae16edca/12.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Face masks are thwarting even the best facial recognition algorithms, study finds"
     excerpt: "Researchers from NIST found that face masks are causing facial recognition algorithms to fail as frequently as 50% of the time."
     publishedDateTime: 2020-07-27T21:43:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/MXKfN-YizAVPgI2BlAXBDDUGEvY=/756x567/2020/07/27/440f5d19-a0fa-4cb1-ba2d-3d4555ab8581/nist-masks.png"
         width: 756
         height: 567
-        isCached: true
-  - title: "Lawmakers pass facial recognition ban"
-    excerpt: "ALBANY, N.Y. (WIVB) — The New York State Legislature is taking action against facial recognition technology being used in schools. It passed a bill which blocks the technology from being used for two years. Assembly member Monica Wallace sponsored the ..."
-    publishedDateTime: 2020-07-23T12:49:00Z
-    webUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/"
-    ampWebUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: WIVB-TV
-      domain: wivb.com
-    quality: 59
-    images:
-      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2020/07/facial-recognition.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Facebook proposes $650M settlement for facial recognition suit"
     excerpt: "Facebook this week offered to pay $650 million to settle a class-action facial recognition lawsuit in federal court in Illinois."
