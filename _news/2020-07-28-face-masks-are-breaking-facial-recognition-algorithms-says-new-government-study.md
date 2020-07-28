@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Face masks often aren't enough to defeat facial recognition, study finds"
+    excerpt: "A new study from the National Institute of Standards and Technology (NIST) found that many commercially available facial-recognition systems are still able to correctly identify people wearing ..."
+    publishedDateTime: 2020-07-28T00:53:00Z
+    webUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus/"
+    ampWebUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 88
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252F95%252F1532e5c976d04dde9692037c735a8d30.87877.jpg%252F1200x630.jpg?signature=yauLpgtXHRASkvuV7i8lF1rVyQA="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
     excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
     publishedDateTime: 2020-07-27T22:02:00Z
@@ -63,6 +79,6 @@ related:
         height: 557
         isCached: true
 
-secured: "6eNOhxs3WhJGG0dgir8oPbrJw02JuznsuPzWWmXEDWL4N/gvXFdA1WAEH+XHJEoCsgwu06LVp8l7NgKLYrmg0s62znozBL5tKE0ysELhQzUFRAMReKnRzLh1oGsLFIgXpBn28efGmJUVxVjoszmJZFCNIWTmhpaW17zfo9cMJk+pJ30ShMj+TerfSHEITBBCzRulyaA+IOHdoztobJ4sdkEZjJWDioZP2LCBnmgH3r1+rC0doD0oZTZ40LmSGjzk8ATdP1fahYV3ntWLFiyElv2FpLFxPFKKvqbebF/xu0XYhQGswZTHYTZAEQl/lgFYbOzakbbn7QXl8SBMRXLLeg==;4FvHY/uILbqRKfjwSdC6Kg=="
+secured: "Gw4dIiLqqkzSSl8tNntd5N/uUbNvPWurKNLAeHofU0c22x4B7ji412irO6h7dEFdZ/ZXQ9k1V/Imq0tuk0+3OOGUcbfXDulAheoEval7II5ACEFsmHek0ZtLHUOlr/2T57LW+R/F8xSsTZ4usNtBXCefCYbkfAPbKdTJjIa26U6RnA4VYobWrFVLb/eSjIHsVr7hDIRGW3INjidvtZDhtMBuxYgY+OvXTeA93Sx2CAGJ9yYhHsWnSJCMrVB4fAUNsOUATFnLQjyZcRocYCit4MM8F+kBzU/xeK8LVK40STX02uETlgCehd2ADizdG1YvnrX+fg/bfckT97hh51PSv12fNjsT8sc0MLXqRNFMFLKEArxhrRjlUwcq0frVcWWKEhutV86D7jDfdx/tu+hNtCILbNRk5zD3Izz/YV0O6fm4GK+4+z6dnKe1zCcwa+Pn6iQAzvoJOUGp+sSjsmr127uqleKN0utZi3wQqzOKW2NrECkl3fOvPqyZJy5hR3JQaHH1CL816wf558gKZuXB5w==;yd4SHYry1uepy+6M4BLNvg=="
 ---
 

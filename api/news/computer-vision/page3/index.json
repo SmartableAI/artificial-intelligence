@@ -2,6 +2,97 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-02-raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api.md",
+      "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
+      "excerpt": "The Raspberry Pi Foundation has announced it's bringing the OpenVX 1.3 API to Raspberry Pi devices to improve computer vision on the popular single-board computers. The new open and royalty-free API comes from the Khronos Group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/02/6401a79a-c8f7-459b-a88d-9de3e85cfb53/openvx1.gif",
+          "width": 600,
+          "height": 371,
+          "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "publishedDateTime": "2020-07-02T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
+      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
+      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/W9FfCiLvOvHWsRU1FXmaKa54oPk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YVN66F2RNBIJ5GAQU25FQITL5I.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Kcrg  9",
+        "domain": "kcrg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition-technology.md",
       "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
       "excerpt": "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology.",
@@ -1257,97 +1348,6 @@
       "provider": {
         "name": "Computerworld",
         "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-seafarers-need-recognition-and-support-from-governments-imo-chief.md",
-      "title": "Seafarers Need Recognition and Support from Governments: IMO Chief",
-      "excerpt": "Restrictions on individual travel have left many seafarers effectively stuck on ships, at sea or at anchor, with their vessels unable to dock, disembark or resupply, and unable to access medical care,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-201157/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Seafarers Need Recognition and Support from Governments: IMO Chief",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
-      "publishedDateTime": "2020-06-22T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-what-to-know-about-computer-vision-syndrome.md",
-      "title": "What To Know About Computer Vision Syndrome",
-      "excerpt": "Computer vision syndrome (CVS) is the term for a group of eye and vision-related problems that develop following the prolonged use of devices with digital screens.",
-      "sourceUrl": null,
-      "webUrl": "https://southfloridareporter.com/what-to-know-about-computer-vision-syndrome/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/southfloridareporter/wp-content/uploads/2020/06/20183231/asian-woman-worker-eye-pain-with-eyeglasses_34670-739.jpg",
-          "width": 626,
-          "height": 417,
-          "title": "What To Know About Computer Vision Syndrome",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-20T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SouthFlorida Reporter",
-        "domain": "southfloridareporter.com",
         "images": null,
         "publishers": null,
         "authors": null

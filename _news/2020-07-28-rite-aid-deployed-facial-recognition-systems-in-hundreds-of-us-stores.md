@@ -31,7 +31,7 @@ related:
   - title: "How Reuters analyzed Rite Aid's use of facial recognition technology"
     excerpt: "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020."
     publishedDateTime: 2020-07-28T11:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-riteaid-software-methodology/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology-idUSKCN24T1H5"
+    webUrl: "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
     type: article
@@ -44,6 +44,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. studies new facial recognition tech built with masked faces in mind"
+    excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
+    publishedDateTime: 2020-07-28T13:58:00Z
+    webUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 88
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/china-coronavirus-outbreak-ai-facial-recognition-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Special Report: Rite Aid Deployed Facial Recognition Systems in Hundreds of U.S. Stores"
     excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country,"
     publishedDateTime: 2020-07-28T11:32:00Z
@@ -55,22 +71,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 76
-  - title: "New York Senate Passes Facial Recognition Moratorium"
-    excerpt: "The legislation temporarily bans facial recognition in state schools and requires the state Education Department to study the issue and craft regulations. Opponents of the technology have criticized its use in schools."
-    publishedDateTime: 2020-07-23T19:19:00Z
-    webUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html"
-    ampWebUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
-        width: 916
-        height: 630
-        isCached: true
   - title: "Facebook offers $650 million to settle facial recognition suit"
     excerpt: "Facebook offered $650 million to pay a long-running class-action lawsuit about the use of facial technology. The final offer is $100 million more than the initial settlement, according to USA Today, and follows a rejection of the initial amount by a U."
     publishedDateTime: 2020-07-24T15:09:00Z
@@ -213,21 +213,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition technology: In our rush to deploy it, are we ignoring the risks?"
-    excerpt: "Taylor Swift uses it to identify stalkers. Retail stores are using it to provide a no-checkout, cashierless experience. Even churches are getting in on it to keep track of their congregants. Increasingly,"
-    publishedDateTime: 2020-07-23T19:41:00Z
-    webUrl: "https://cssh.northeastern.edu/informationethics/facial-recognition-technology-in-our-rush-to-deploy-it-are-we-ignoring-the-risks/"
-    type: article
-    provider:
-      name: Northeastern University
-      domain: northeastern.edu
-    quality: 33
-    images:
-      - url: "https://cssh.northeastern.edu/informationethics/wp-content/uploads/sites/44/2020/07/Screen-Shot-2020-07-17-at-2.13.52-PM.png"
-        width: 1488
-        height: 962
-        isCached: true
 
-secured: "YmLkuXmEOGbRVOjelw35+/M2lAliT8+vOa0gtSYw1u8w59899rIEK02SuTsoDJLgSFO6tGDS9tXTJaFSDLyDY/Q1e2dTIRHr5Qj6jrr3lBG5hg8DMJeb+NmWOnIJrrhQ4lxPLbKkzEUKt8k91sSGTYxDkcyAeN7/Jwoa7t5jy9iSFDtu1l211GSLSCk15NFXaz0Z/dzG2AE507/0HSNarnhQleeIlRJY65oGlMz2bUTuJSNwAorfMe2pCj22H/6TUntSaw7dp7JqQTsFzSTouHGJLkNhIQqwB4lU+UnW05A6/6pohFHBcer2lF+F1SaOxVpf7hHseSz4O1y9Oa2bvw==;grU82B0MfSoks0V89AWS9w=="
+secured: "eDxDLYkntmwrT5a68HhujWCIu3c+AnglB1ZQJBFRlp5wHJ0sTEmErve9YN5fUajdiKSg/6w+Ma+WNf+bC7A80kfcgFwax9mh5JsJpg8csM8dsUdA5CyZlbw0TxmsGcF8Lpi3ov5GVmUEHZV5zHedZVRUTn23ZIMbQlzWvsk9Wq/8P9QJJX4Rro4db2BD4sP1fqNZzL7Zw2hsHAtF1EubKdKmmtVpBgAEZ2D/lKV6y0CvYZQ/bds6ik8BnYyNuZkLndgmdV2PE6c8JCqIKO8N8ASjXoU5ky4YBrK/Npah1L8HPExbcNRcWS0bb3+kvuBJp5reGbQoEsmrwB3csMHhzY9ifCVpmjRmh+CdAJuWHQOjvPZLsyayAjynFeIxXr9+u7gAht58VfRlJtY6B43gP2vHKKpv0N5Xp7X1RdogDoY8KRzBRHE87MjhnpAKl2KNLN9KAatsshm0lGp0y9EFoXJywhnuN7rmGzC22Zj8F40/LGOFaKOzrfFCbx1i+XPnrvEkyS6bEiEyZvjIZRJawQ==;m+dJ1g8OhNHUlZ2ZZO5/IA=="
 ---
 

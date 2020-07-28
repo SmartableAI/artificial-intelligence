@@ -39,15 +39,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "ODNI issues guiding principles for ethical artificial intelligence"
-    excerpt: "The Office of the Director for National Intelligence issued guidance Thursday for the intelligence community‘s ethical development and use of artificial intelligence. The two documents — new principles and a supporting framework — aim to set a foundation for how and when members of the IC should use,"
-    publishedDateTime: 2020-07-23T19:34:00Z
-    webUrl: "https://www.fedscoop.com/odni-guiding-principles-ai/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 17
 
 secured: "3D82LGtjtIa9xcvKshunMYcM21gM0faZ+xcPyQmYbn6hCjeymm1zVvtFYkktMQEublnZ0JBjDF0r7D5bGkoH/B54vskJ4O5epBuvrSlAbPED8Yu3W3srPtdXmvjTC5YTY0+zCdrbcOUpwBbgA2vKQOTT0smh3IeO7wXl3RTuKa3RC6BOUQkzvh4E0choW/OeSxy+GGujBmgx9Z1kxzoLMEbuXyOYG7wizEtWpDg7DAro9zy0JrNq66FYcDsInzUtulbhY9BFDTYcNu5McjVJ4O1muaKGlwxYfIAUp64iKv81IBSmla96K0gLAIE2bKW+pG1BLbnp9Kuoh2b8yFtNg5nUdKEcTTprAmdb2LOBid0TnVOXjkPUFzyLsjIyndXaLGVwS0Khq4BSdaeZjBIoovW+xVq2uDAHzv9BgH20UzJ2bFQBbGAKywDATeMvXJaaoyxqcFNazzaC38aYHCKD0FNQ55M1TNSHIgPkLs975UFfhsMasMP/RQLva0anYu9P;odinRwtC2s1cVQ0RQ+PcEg=="
 ---

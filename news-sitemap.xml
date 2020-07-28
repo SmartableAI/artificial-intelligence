@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.reuters.com/article/us-usa-riteaid-software-methodology/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology-idUSKCN24T1H5</loc>
+    <loc>https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/</loc>
+    <lastmod>2020-07-28T06:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088</loc>
+    <lastmod>2020-07-28T06:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/</loc>
+    <lastmod>2020-07-28T06:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/</loc>
+    <lastmod>2020-07-28T05:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5</loc>
     <lastmod>2020-07-28T04:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -199,6 +223,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/</loc>
+    <lastmod>2020-07-26T23:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www3.nhk.or.jp/nhkworld/en/news/20200727_22/</loc>
     <lastmod>2020-07-26T22:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -319,6 +349,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/</loc>
+    <lastmod>2020-07-24T10:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/</loc>
     <lastmod>2020-07-24T10:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -331,7 +367,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars</loc>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/</loc>
     <lastmod>2020-07-24T08:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1537,8 +1573,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI</loc>
-    <lastmod>2020-07-17T06:30:00-07:00</lastmod>
+    <loc>https://www.businesswire.com/news/home/20200717005015/en/</loc>
+    <lastmod>2020-07-17T07:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1719,6 +1755,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/</loc>
     <lastmod>2020-07-16T09:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2091693/cognitive-services-platform-market-2023-technology-market</loc>
+    <lastmod>2020-07-16T09:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2023,12 +2065,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200715005690/en/Core-Scientific-Acquires-Atrio-Strengthening-AI-Capabilities</loc>
-    <lastmod>2020-07-15T10:32:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/</loc>
     <lastmod>2020-07-15T10:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2037,6 +2073,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/</loc>
     <lastmod>2020-07-15T09:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200715005690/en/</loc>
+    <lastmod>2020-07-15T09:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2703,6 +2745,12 @@
   <url>
     <loc>https://www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/</loc>
     <lastmod>2020-07-13T06:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.crunchbase.com/organization/definedcrowd</loc>
+    <lastmod>2020-07-13T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -4629,6 +4677,12 @@
   <url>
     <loc>https://www.wsj.com/articles/ibm-notre-dame-launch-lab-to-focus-on-tech-ethics-11593682202</loc>
     <lastmod>2020-07-02T03:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://cartoonize-lkqov62dia-de.a.run.app/</loc>
+    <lastmod>2020-07-02T00:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9421595618921/2020/1/3322cb68699ceb551d7c2f4e6512c4ce/v1.5/Facebook-proposes-650M-settlement-for-facial-recognition-suit.jpg"
         width: 800
         height: 534
-        isCached: true
-  - title: "Disney Researchers Have Developed An AI Facial Recognition Tool For Animated Characters"
-    excerpt: "How was it made? Facial recognition tools for photography and live-action footage — in other words, for real human faces — are already well established. But Disney’s archive contains a lot of animation, and animated faces are another matter."
-    publishedDateTime: 2020-07-23T19:44:00Z
-    webUrl: "https://www.cartoonbrew.com/tech/disney-researchers-have-developed-an-ai-facial-recognition-tool-for-animated-characters-194764.html"
-    type: article
-    provider:
-      name: Cartoon Brew
-      domain: cartoonbrew.com
-    quality: 46
-    images:
-      - url: "https://www.cartoonbrew.com/wp-content/uploads/2020/07/the_lion_guard.jpg"
-        width: 1280
-        height: 600
         isCached: true
 
 secured: "TuTCa4YD6CgInahaRb0oO/GqchaNXn9KJfXDHYO1aqZHsR724MUbHNdNDvHMdAFYVwx/ZH8rM7rl8LxFR2upzBVS85OrKziLCrf5SNjkBxpQUX3DBSmR5SDC0xiI8DpTko+Z24ILNP1PjMTWGREOb2iDw5xnIQWyFkl5FOfsxcZnCjniQ7nlCYHDNZjYzXLcFTh6j8PernvevdMgmOmIZM6jMSAqnceG6R/E3Got/8B6oZXniE5w3ZoIDDlxeGb1rNsINbjrlHCNMNHX1fl09Gx6SbyDl/CYRVt8cXg9MGYoi+0k0f0gChJT9xNO+PzwpGiDX1kYmhdKmndNyhslFPRKKPa63IHaS/ePp+IeBd9xMUvRWn2e/Gm5wqJ1zV/BAuSUP0CZEPNYmCh9s+HnjrHz27iklk/sc9DGWx7EBCUGLXkZuCEJTVhkkEumYNpClBHnztbHU/BVKSQbdplNZKyuxEV+us/mroeWYw09EaEBDE4/E5JszQu5pKP+K641;X5d0W612Z5oQn2GVSd5FSA=="

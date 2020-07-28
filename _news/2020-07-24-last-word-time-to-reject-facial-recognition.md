@@ -91,20 +91,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Disney Researchers Have Developed An AI Facial Recognition Tool For Animated Characters"
-    excerpt: "How was it made? Facial recognition tools for photography and live-action footage — in other words, for real human faces — are already well established. But Disney’s archive contains a lot of animation, and animated faces are another matter."
-    publishedDateTime: 2020-07-23T19:44:00Z
-    webUrl: "https://www.cartoonbrew.com/tech/disney-researchers-have-developed-an-ai-facial-recognition-tool-for-animated-characters-194764.html"
-    type: article
-    provider:
-      name: Cartoon Brew
-      domain: cartoonbrew.com
-    quality: 46
-    images:
-      - url: "https://www.cartoonbrew.com/wp-content/uploads/2020/07/the_lion_guard.jpg"
-        width: 1280
-        height: 600
-        isCached: true
 
 secured: "Rfq+PqK0ufCacHEcPVnMl3CwlGZMZVlKvgKPPYQ8td+4+PYiQ3NEADz6C6J6hCNUuwnsgeb/4v2JREe2vFKf3Hzgz1EskrkA6AQTd+D56r6PLAm0LXoRLEhgBaWHi3mhcGmRW119YpeDakjCMrD2Pc65hnFwQJ8oxPWWYV0MOth3dw4Et2MxzgH4Dlhr84zusiB2GQ15CRkYFcM0slzN/PUFjC3w+upqASHgZQRNdUcWiMKfMBzXpRNlk5/liByGQaZrImbEuUIx4MJrltiaVF/27le6FxiRPdTL5kn+TVIU5zDsl4FFCxDAIySV+MOnHrPvZpjuG1ulYRYYIK1Ip41sFLAAHJQhRXa2ztHATM9zMqiSQHllUHuxBA6H/MFCCBY2kWjmbk3VHtdXJ56P+S707cc5DBR+3Qxh+ygdhu9EOdgD6da2urmwj/qfJ0//Z3OZeGvfxuRJk3md4TBfXCLASoJsz963T42FrpkHK7YA8NnwtG5d88CAqZw7SlvYr11xSL1WOe7T9gTsHq3yAQ==;WbbNv1dK5JsvauQcbRajZA=="
 ---

@@ -2,6 +2,276 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-23-ai-predicts-a-dodgers-world-series-win-after-a-covid-shortened-season.md",
+      "title": "AI predicts a Dodgers World Series win after a COVID-shortened season",
+      "excerpt": "Major League Baseball is entering uncharted waters with the start of its COVID-abridged season today. Nobody’s really sure if the 60-game season will even be able to get through the World Series without disruption by the pandemic’s spread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F45816340-cc32-11ea-b35d-1427b237118b&client=amp-blogside-v2&signature=b42420d2ad7e967a9add5af749b10996443c1d79",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html",
+      "publishedDateTime": "2020-07-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes.md",
+      "title": "Safehub taps building-mounted motion sensors and AI to detect earthquakes",
+      "excerpt": "That’s not to mention One Concern, which leverages AI and machine learning to advise fire departments how to plan for earthquakes and respond to them. There’s skepticism among some experts ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/LomaPrietaSFDivisideroCollapseMeyer.jpg?w=1200&#038;strip=all",
+          "width": 1140,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes/amp/",
+      "publishedDateTime": "2020-07-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform.md",
+      "title": "StuffThatWorks raises $9 million to build an AI-powered, crowdsourced medical knowledge platform",
+      "excerpt": "StuffThatWorks, a startup leveraging AI, crowdsourcing, and machine learning to match patients with treatments, today closed a $9 million seed round. CEO Yael Elish says the proceeds will be used ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/the-patient-is-in-stuffthatworks-I7vtKVruFcP-dbH9wJ2Scrp.1400x1400-e1594919808858.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform/amp/",
+      "publishedDateTime": "2020-07-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-technological-advancement-and-growth-analysis-to-2026.md",
+      "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Technological Advancement and Growth Analysis to 2026",
+      "excerpt": "The Global Artificial Intelligence And Robotics In Aerospace And Defense Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T723421293_g.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
+      "publishedDateTime": "2020-07-23T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-robotics-artificial-intelligence-etf-botz-hits-new-52-week-high.md",
+      "title": "Robotics & Artificial Intelligence ETF (BOTZ) Hits New 52-Week High",
+      "excerpt": "Investors seeking momentum may have Global X Robotics & Artificial Intelligence Thematic ETF (BOTZ) on radar now. The fund recently hit a new 52-week high. Shares of BOTZ are up approximately 74.3% from their 52-week low of $14.77/share. But could there ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-hits-new-52-week-high-2020-07-23",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-hits-new-52-week-high-2020-07-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robotics-artificial-intelligence-etf-botz-hits-new-52-week-high-2020-07-23?amp",
+      "publishedDateTime": "2020-07-23T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-check-out-the-pitch-deck-data-intelligence-startup-quantexa-used-to-raise-65-million-from-the-likes-of-accenture-and-hsbc.md",
+      "title": "Check out the pitch deck data intelligence startup Quantexa used to raise $65 million from the likes of Accenture and HSBC",
+      "excerpt": "Founder and CEO Vishal Marria revealed he was \"nervous\" about fundraising during a global pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f195eed5af6cc639d397045?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7?amp",
+      "publishedDateTime": "2020-07-23T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-developers-should-consider-using-graph-databases.md",
       "title": "Developers should consider using graph databases",
       "excerpt": "Twenty years ago, my development team built a natural language processing engine that scanned employment, auto, and real estate advertisements for searchable categories. I knew that we had a difficult data management challenge. The data in some ad types ...",
@@ -1185,307 +1455,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-google-launches-recommendations-ai-ecommerce-tool-in-public-beta.md",
-      "title": "Google launches Recommendations AI ecommerce tool in public beta",
-      "excerpt": "Following a lengthy preview period, Recommendations AI is available to eligible Google Cloud customers in beta from today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/new-model-1_2-Converted.gif?w=1200&#038;strip=all",
-          "width": 960,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
-      "publishedDateTime": "2020-07-22T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars.md",
-      "title": "Airplane Makes Emergency Landing On Busy Highway, Perplexing For Self-Driving Cars",
-      "excerpt": "A news report and an accompanying video clip recently showcased the harrowing escapade of a small airplane that made an emergency landing on a busy highway, doing so amid everyday car traffic. As though we all were a fly-on-the-wall,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216674946%2F0x0.jpg%3FcropX1%3D1043%26cropX2%3D5057%26cropY1%3D70%26cropY2%3D1952",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-07-22T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans.md",
-      "title": "Waymo and Fiat Chrysler Agree to Build Self-Driving Delivery Vans",
-      "excerpt": "Fiat Chrysler Automobiles and Waymo said that they will work together to develop and build a series of self-driving commercial vans, the two companies announced in a statement on",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F583253%2Fram-promaster-2018-orange.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx",
-      "publishedDateTime": "2020-07-22T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-opportunities-in-artificial-intelligence-market-amidst-covid-19-pandemic.md",
-      "title": "Opportunities in Artificial Intelligence Market Amidst COVID-19 Pandemic",
-      "excerpt": "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/opportunities-in-artificial-intelligence-market-amidst-covid-19-pandemic-2020-07-22",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities.md",
-      "title": "Adopting AI: NVIDIA talks about the \"low hanging fruit\" opportunities",
-      "excerpt": "Why would a graphics company care about artificial intelligence? Here's why, and how you can most easily implement AI in your organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/22/b349b6ef-e46c-419e-9885-53385ed11e1e/resize/1200x/968d28be639d8e31a59e2504248272bc/istock-1253237278.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities/",
-      "publishedDateTime": "2020-07-22T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs.md",
-      "title": "IBM Cloud For Financial Services Momentum Builds With BNP Paribas And 30 ISVs",
-      "excerpt": "Nearly all of the financial services firms have tasted the benefits ... such as AI-enabled cognitive services, ease of machine learning capability development, managed databases and more. Their only question is how and when they will find vendors offering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1847bfa0b5e800071f18da%2F0x0.jpg",
-          "width": 1200,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/amp/",
-      "publishedDateTime": "2020-07-22T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

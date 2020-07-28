@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T07:01:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-booming-worldwide-with-cagr-of-448-during-2020-to-2025-2020-07-27"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 13
-  - title: "Artificial Intelligence in the Military Market Worldwide Share, Business Growth, Key Players and CAGR of 14.35% by Foresight to 2024"
-    excerpt: "Artificial Intelligence in the Military Market Worldwide Share Business Growth Key Players and CAGR of 1435 by Foresight to 2024"
-    publishedDateTime: 2020-07-23T19:36:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/265871159/artificial-intelligence-in-the-military-market-worldwide-share-business-growth-key-players-and-cagr-of-1435-by-foresight-to-2024"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 8
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1595489729.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "5QwaXIddeaBnN/FVRhQykV3ti8w4UUNgSvBiaVOd96XV9lBGv867BGX00QnXzmxA4516wEwaab4jJI8pDCcCGNV+mgyM+Hw6upeIrjiozfb8u8z1jm/F2dVJ0jZy9MAMFLBl9B+lhZAQp+VX3UHPEn/QZo29QvHrcmdgMAWEmQ+UEPnouZ6PUQcz3QfpLd9XBuN7xRBkWfDMJtNnZaK1YWYSxGaHJku3/B6tNtiqtekChFH2YQAAkPIAMlyZljnoA9vbWfZA35MmD9If/zCTDo7rrzzzi7WWzZZNU+cN1AESZNnjvW0rOaB8aNzwyzBYgVNRxtRgCFyebVBYtR1Xhw==;HS7aKh4/aZKTU98R7p2/Lw=="
 ---

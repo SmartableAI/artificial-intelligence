@@ -110,6 +110,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Scientists Develop Artificial Intelligence To Identify Individual Birds, Read Details"
+    excerpt: "Artificial intelligence can be trained to identify individual birds as opposed to the human brains, which cannot perform the task, a study demonstrated."
+    publishedDateTime: 2020-07-28T11:43:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/scientists-develop-ai-to-identify-individual-birds.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 47
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/eijjzxpeklwh9tif_1595934849.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 709
+        isCached: true
   - title: "Artificial Intelligence to identify individual birds of a same species"
     excerpt: "at Porto University** have for the very first time identified individual birds with the help of artificial intelligence technology. They have developed a technique that enables them to gather a large number of photographs, taken from various angles ..."
     publishedDateTime: 2020-07-27T15:27:00Z

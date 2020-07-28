@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-28-nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision.md",
+      "title": "NVIDIA, BMW, Red Hat, and more on the promise of AI, edge computing, and computer vision",
+      "excerpt": "The limits of compute power on devices keep getting pushed and computer vision models are becoming faster and more accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-28-at-8.51.01-AM.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
+      "publishedDateTime": "2020-07-28T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind.md",
       "title": "A beginner’s guide to the AI apocalypse: Humanity joins the hivemind",
       "excerpt": "Welcome to the latest article in TNW’s guide to the AI apocalypse. In this series we’ll examine some of the most popular doomsday scenarios prognosticated by modern AI experts. It’s ...",
@@ -911,9 +961,9 @@
     {
       "path": "_news/2020-07-17-wwt-named-partner-of-the-year-for-deep-learning-ai-by-nvidia.md",
       "title": "WWT Named Partner of the Year for Deep Learning AI by NVIDIA",
-      "excerpt": "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the",
+      "excerpt": "In addition, the WWT Advanced Technology Center (ATC) offers Lab-as-a-service environments for AI development, MLOps, Deep Learning, and testing of storage and networking with GPU-accelerated compute. WWT [also] engineered and deployed some of the largest ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI",
+      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -931,7 +981,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T06:30:00-07:00",
+      "publishedDateTime": "2020-07-17T07:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -945,9 +995,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1044,9 +1093,9 @@
     {
       "path": "_news/2020-07-15-core-scientific-acquires-atrio-strengthening-its-ai-capabilities-as-the-cloud-for-data-scientists.md",
       "title": "Core Scientific Acquires Atrio, Strengthening Its AI Capabilities as the Cloud for Data Scientists™",
-      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for Artificial Intelligence (AI) and blockchain led by CEO Kevin Turner, the",
+      "excerpt": "HPC workloads and AI are converging to create solutions that span across a range of industries, from performing seismic analysis in the oil and gas field, to calculating complex risks in financial markets for more informed decision-making.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200715005690/en/Core-Scientific-Acquires-Atrio-Strengthening-AI-Capabilities",
+      "webUrl": "https://www.businesswire.com/news/home/20200715005690/en/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1064,10 +1113,10 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T10:32:00-07:00",
+      "publishedDateTime": "2020-07-15T09:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
+        "name": "The Daily Journal",
         "domain": "businesswire.com",
         "images": null,
         "publishers": null,
@@ -1380,59 +1429,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-graphcore-claims-its-m2000-ai-computer-hits-1-petaflop.md",
-      "title": "Graphcore claims its M2000 AI computer hits 1 petaflop",
-      "excerpt": "Chip startup Graphcore detailed its second-generation IPU and the M2000 AI computer, which the company claims can achieve up to a petaflop of compute.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
-      "publishedDateTime": "2020-07-15T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],
