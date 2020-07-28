@@ -5,6 +5,9 @@ excerpt: "Nedávné prohlášení o tom, že vozy Tesla budou během letoška m
 publishedDateTime: 2020-07-28T07:57:00Z
 webUrl: "https://www.novinky.cz/auto/clanek/plne-samocinne-rizeni-v-tesle-je-nesmysl-mini-experti-40331677"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Novinky

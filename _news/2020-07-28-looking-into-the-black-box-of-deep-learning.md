@@ -7,6 +7,9 @@ webUrl: "https://scienceblog.com/517615/looking-into-the-black-box-of-deep-learn
 ampWebUrl: "https://scienceblog.com/517615/looking-into-the-black-box-of-deep-learning/amp/"
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517615/looking-into-the-black-box-of-deep-learning/amp/"
 type: article
+quality: 59
+heat: 79
+published: true
 
 provider:
   name: ScienceBlog
@@ -21,6 +24,31 @@ images:
     width: 640
     height: 426
     isCached: true
+
+related:
+  - title: "The Rise of Machine Learning"
+    excerpt: "Our August issue explores the way we process, analyze, and clearly present the massive amounts of information collected by scientists today."
+    publishedDateTime: 2020-07-28T14:16:00Z
+    webUrl: "https://eos.org/agu-news/the-rise-of-machine-learning"
+    type: article
+    provider:
+      name: Eos
+      domain: eos.org
+    quality: 39
+    images:
+      - url: "https://eos.org/wp-content/uploads/2020/07/data-streams-eos-august.png"
+        width: 820
+        height: 615
+        isCached: true
+  - title: "Delving Into the Weaponization of AI"
+    excerpt: "Leveraging AI and automation enables bad actors to commit more attacks at a faster rate – and that means security teams are going to have to likewise quicken their speed to keep up. Adding fuel to the fire,"
+    publishedDateTime: 2020-07-24T08:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/weaponization-ai/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "dLVIKZlDUiKpnf99WFfa4HxoY2YKj0bS1k1OLTdGDpvdQqq8iWHcj0sskK5eqPWo5Cw/xURJZIVuBfi38PFkKmh8AwOds/IdM2An3BKCftdlBwKq8QggE464p3jLF7imWoYCnb6fqcEBV0fvU2UQZa5LOwoAWXJR1bKGXNtYkNwcN5pCgrYJtLuQXwX8aQi8p2ZTHVLeXCbiLYu1ezmmP4qQri1IjGKW+spSCcY2FNcGBeSqOfZOJo1lNK9wNjaddZBfl9FhPI01iIQT+7Su0KUhyt0D4AaJ2c4ZeaC55S+sYSc9avf4/3i+q2d3IuoJBcPLgWvoEpG5iSMtolzlxg==;tpT3nF7Pr4AGQVeciPrzIg=="
 ---

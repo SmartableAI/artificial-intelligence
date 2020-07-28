@@ -5,6 +5,9 @@ excerpt: "Duke Robotics, a leader in robotics technology and drone solutions, in
 publishedDateTime: 2020-07-28T19:00:00Z
 webUrl: "https://www.prnewswire.com/il/news-releases/duke-robotics-presents-tikad-combat-drone-equipped-with-innovative-stabilization-technology-301101008.html"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: PR Newswire

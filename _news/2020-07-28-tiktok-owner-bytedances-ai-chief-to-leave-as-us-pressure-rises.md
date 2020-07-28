@@ -8,8 +8,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: The Next Web
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "ByteDance AI research head to leave as pressure mounts on TikTok"
-    excerpt: "Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company, as its short-video app TikTok faces U.S. scrutiny over security and privacy issues."
-    publishedDateTime: 2020-07-28T11:24:00Z
-    webUrl: "https://www.reuters.com/article/us-china-bytedance-idUSKCN24T0MC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T0MC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T0MC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527361356&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0D4"
-        width: 817
-        height: 545
-        isCached: true
   - title: "A key AI executive at TikTok parent ByteDance is leaving as geopolitical pressure mounts on the app"
     excerpt: "Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company."
     publishedDateTime: 2020-07-28T09:33:00Z
@@ -61,6 +45,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "ByteDance AI Research Head to Leave as Pressure Mounts on TikTok"
+    excerpt: "Ying joined ByteDance from Microsoft to become a vice president and head of the AI lab in 2017. His departure comes as TikTok faces regulatory challenges across the globe, and a potential ban by the U."
+    publishedDateTime: 2020-07-28T06:58:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
 
 secured: "19PeWyeTpLNsOOiFrC+8d2Jx8wP08lM1syYz1DwSXKoksx7GgsBJibnrAfUw+UrFvU5AvgrsQz7MD0SWzi2yjf6vY9kwsGygjoZnuzB0uMOWHJdqcrNib4j14Gjig5ktyZQjxGLxm5HAVwT4OOlA4VYZRDywfzDUf5TveFRVdEuXuxdI21r4BKgTZvlUWkgUGkKrHx9Scs8zi23Nep3F/L9CX+4AWDwQYXu2czPjLYvVbzw1ZzsIReLyreIg7+vEESQFltbpJMyogbZ5P01pb59nvfbyAjEgXFqdqReJNWb4sgUtO/ynK07aP2aeOClGJlsjL/L6YBQWDh5P0HAyNvU6WWyAPoemkSCdgOBlo/CWYZjyqbO10hkOjWqWheTFFVR1Dp/FBJCD57Ok7jSGtHekLW83bs3LW+vFzcjHfJr5gdzR/CTXc9uEJw/yt5ij1qVGLLUZgs4kt5SHGmhihR5BxXSUkKtlp2UsGGGy20bmCrbiEGbjk57vAJqkjj4T;xU+SVhAHle25vqJ9Xx7KPQ=="
 ---

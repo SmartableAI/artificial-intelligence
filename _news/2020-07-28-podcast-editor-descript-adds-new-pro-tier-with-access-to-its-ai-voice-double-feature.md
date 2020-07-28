@@ -7,6 +7,9 @@ webUrl: "https://www.theverge.com/2020/7/28/21345063/descript-pro-ai-overdub-pod
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing"
 type: article
+quality: 80
+heat: 80
+published: true
 
 provider:
   name: The Verge

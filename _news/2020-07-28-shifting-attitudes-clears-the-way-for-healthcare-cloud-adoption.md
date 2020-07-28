@@ -5,6 +5,9 @@ excerpt: "Modern platform solutions in healthcare need to allow different deploy
 publishedDateTime: 2020-07-28T16:47:00Z
 webUrl: "https://www.cio.com/article/3568677/shifting-attitudes-clears-the-way-for-healthcare-cloud-adoption.html"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: CIO

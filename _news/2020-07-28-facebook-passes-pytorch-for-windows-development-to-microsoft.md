@@ -7,6 +7,9 @@ webUrl: "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-
 ampWebUrl: "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: VentureBeat

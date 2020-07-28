@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Analytics Market Growth – CAGR of 43.3% Analysis By Size, Share, Growth, Trends And Forecast 2020 – 2027"
+    excerpt: "New York, United States, 28-July-2020, (Via WiredRelease), (Reports and Data) The Global Cognitive Analytics Market is forecast to reach USD 129.99 Billion by 2026, according to a new report by Reports and Data."
+    publishedDateTime: 2020-07-28T16:32:00Z
+    webUrl: "https://apnews.com/d8e8cefa59ae2a10180f8963e9a915f3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 2
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "2zd+1mq1pFXdmKdy0LitptFGA7x4B/vDgDCCVbeP5qs4DkTTcgU0jSCJhQK29A3dtQr8TnEtHKgLQGE8dKo0gy7SbWWIzgNlpCK0jrF6YJGCqWmp/FBQNc4JcM+iZO0hxj9vL7+0p1slx68YvAUU3kQ17XpWZ/SALWOBPymJVuIfkRkOsX6soAaMYc9mUgwtVbfzZnEtJU+QIYtNBtEtH0QWwSd1JEWjcivlW3NGFJUz9MFpcurDhlp4yoHk8B2wZqwrousfhskcakGvKF0eq6oH+Yjj8r34sW/SeWSSZ0yfUQa6oAi3Zj9Hbep0mASLFqlLuIuOL0j+SY5qokYVSg==;GovvO6RzTSP/w4wg8tgWjA=="
 ---

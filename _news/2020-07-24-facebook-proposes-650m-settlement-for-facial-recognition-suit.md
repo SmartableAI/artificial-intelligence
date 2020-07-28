@@ -90,6 +90,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Face Masks Are Thwarting Facial Recognition Tech"
+    excerpt: "New research from the National Institute of Standards and Technology (NIST) suggests face masks are hampering facial recognition systems. Because the protective coverings obscure the bottom half of the face,"
+    publishedDateTime: 2020-07-28T21:25:00Z
+    webUrl: "https://www.popularmechanics.com/technology/security/a33446640/face-masks-facial-recognition/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33446640/face-masks-facial-recognition/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33446640/face-masks-facial-recognition/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/young-woman-wears-a-face-mask-as-she-listens-to-speakers-in-news-photo-1595967818.jpg?crop=1xw:0.76304xh;center,top&resize=1200:*"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "OLw8+6lsT9+yHUF4ILiPpMe1pKmrWIWTF5iYAn5dWBII8Km0sRTS641n4rUi3lMZwoTkl1jd5kMQOJopUISTuQM1PniesPRo1EqUjMPm/ll1FxF6JuCsgxHV4v1NDtwyRL6gcubWtwEmk83WVYWRGrQWxGLguy2QnGyJJQ2Dt9ioVEumBcOTrYVo9aKYljON9LlTGPK1G+akUek1B5q5nHH004S/wClMTjmYu9rvBmgNrwXL6ZYnN34CIqp03EDBLF1LUAW+Uy62Q/A6Hv+m2vqwBg5058y7C01AM1mC3Ozn5awj88kiSYdlIOSk+uu4K9UgsyN57QwJgKes7XwcZSjCx4hweetNcYUKvek44QYGNVySFFY0MRZvEhmBFw9qdac/eaMJcc8SfPVnzWkMH0RSOjJEGFnscT11PkZW7IevD4GF7KZ43AgfC+cDss8Fdpz2wLo45oIFl24Xib0K1EMbyAzlEDfsTchXocf8J0oj87YD8qEhLlWfSYthskJI;XMvHNhl/Cw4qIqDcCskMyw=="
 ---

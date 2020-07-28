@@ -5,6 +5,9 @@ excerpt: "Latest research on brain-inspired end-to-end analog neural networks pr
 publishedDateTime: 2020-07-28T00:08:00Z
 webUrl: "https://www.eetindia.co.in/end-to-end-analog-neural-networks-promise-better-ai-chips/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: eetindia.co.in

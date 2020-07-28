@@ -7,6 +7,9 @@ webUrl: "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-
 ampWebUrl: "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp"
 type: article
+quality: 91
+heat: 91
+published: true
 
 provider:
   name: Digital Trends
@@ -27,6 +30,6 @@ images:
     height: 628
     isCached: true
 
-secured: "jgB+Ct8VhDKhd/v+oNq3UD6bw4h2GOYTnQqJXXZojS6xUqgNG63FnDTCzzA6b6E8t47GFJz0BzFGRRthnlWZi+rcPPW2oMPUB8j57lsHiKAqlJ6fwyQfTbodigBc8pNL5RsfdGVzBUpreFCtpIAAypb3o5/uPfb3yWAilBhYyHx70x7aLO+7QnK2aHixOyOZzoQLPKD9pSJZF2Ln0ra4bVR9j3nqk6XGVo9+VObjU2khNoYBdAV4T9vdAKRj+jYeYEBFoSDQW4oECZvUS0AoHYNtrWUua7GWcDgM5PaX4MmPunvW/mkIszRJBHdW98PUkyLqBV4xXxSqO/J/em5xeg==;wXK6iZ7DHdraQhcDuCeezg=="
+secured: "k1R21rq3ukcek6MGjXq+5fNGu7QHdbwEhr02x8F+TZ5s6rFcuqOpWNW8T5pieiJPm7HxirogIU7DCBi/O82C4nSx494/iY0/Q+IEy7bPRqXm7Y1MlCW8dOSzlKicb4658XXO1cfgAakMF5+wRiMLPQ1wbS2LINFmkEYvwFx5YBFG8J/6UlyiW+ypE8UNrb315Zpmk517CZfd7sVXdKu2jBuMF3mtOxLduEr0mn54doVe8IM9N2iv7u5MOc9u44uakDBCL+vjPkje2GN6FXpzQwILn7q4EUTIgZDmAgtpy3ZG8UdX4fvSX9tEM432hRD1pxBvYwLDm0hU60FXpH+3J8YRYUadfEUcMHrP8jAymUzEMGIF/8MGJav8vxDyZnccOpTOCb2l+i67vh+OyWmhaCBZoSEQHkgTmnZuuur4/8okLj6YMBJ9DFClje52i/P0hmeQTiumDV6b1W/4Z759dpBMzrKJwE6wKseAdvqsYcNX7Yxqzt5rBtaF0VgGt0MDSUeHhmdiXFbnBgF5j2+s6w==;X3lH5cokivSrcrAt5X/llA=="
 ---
 

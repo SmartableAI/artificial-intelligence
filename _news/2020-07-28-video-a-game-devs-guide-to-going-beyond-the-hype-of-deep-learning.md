@@ -5,6 +5,9 @@ excerpt: "GDC talk EA's Magnus Nordin gives an overview of the potential of ne
 publishedDateTime: 2020-07-28T19:40:00Z
 webUrl: "https://www.gamasutra.com/view/news/367170/Video_A_game_devs_guide_to_going_beyond_the_hype_of_deep_learning.php"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Gamasutra

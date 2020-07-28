@@ -7,6 +7,9 @@ webUrl: "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-
 ampWebUrl: "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/"
 type: article
+quality: 91
+heat: 91
+published: true
 
 provider:
   name: VentureBeat
@@ -18,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all"
@@ -25,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "XvYkqhV+oL8fGpCpeiAcUSNojo+n8zelh+6bY4zayPmplxh2KeBOWCrPTwr+JWTRW9d9bSgTKlP0kDJQK0GDEa759FnuDyjbMFpaH4KmOxCz6huq2j2UpJ9gvVmP1h0W6Muq8hn3c8iV6pZtEm8xJw9GTnYC0DVMITlRYM2eNU6ZBJ3yjGWy/+DL7+1sW6a9eaoJmPHYQGTPj0TE1pShbNZ0mPekCLHQK9/BztT9PT1+WRsWBlt8xeER4cW4CjqJXKri13xSQtLq7KY+8JpxjH0r18C4amZfKivqHJu3YI+SJTGzOppU9Dh6vfn1N/lHTX8/xPV9gnr1YessMFQsvQ==;LNSU2mfG5ITQ3LHhpqLrQg=="
+secured: "p4qsS36Ipofy11Tf3ulCGgmFW1lrdalXOx/MnTbtwcr/NJeG+5G5gwUvHKlULWVuGGWnBexXylN4xzL5n7LC4FKVG9nGEGFIkvtFlQe/VZ2I6DpErRWRRUU8hkrCv9QLlKQQJuZSf6REHYpcTav7J/c6l+yFbZhW/Tr4XE2tLAdIBzY1av161BlzVerT1M44pgTFuCcp6GSx2jzNxaCDsdMIeS3dqfBQODgcw39895P0VT1Wvxl7+Hbok6n77YuwpWMJtAaEm927vM2DTD1DybOUshA6i2VxdgUdv1TlWGdjRpnt6SquRICc4mBYwyeW/IQ992da1IlNjJiFPZc6pKIY6ZC6xexhO3DdvdOTGs00Xh2IROdk3CGkHwVI9qyKoV+ygZf3iSoNFoade9z3UFam5Ch5IztPJ/O27gKuXhd9idYx53LZ9g6sMdPCavlg07WHKWw6nzX7XJnThFXPEcgh95iACp0Oe9i8u+HfgNUBGFZ32nQAIemB3w+H57zfu1zhJC4z9YyFCkU/Vs51eQ==;+fEPRr5eab+cNmzX7FhzsQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T14:26:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast-2020-07-24"
 type: article
 quality: 56
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cognitive Analytics Market Growth – CAGR of 43.3% Analysis By Size, Share, Growth, Trends And Forecast 2020 – 2027"
+    excerpt: "New York, United States, 28-July-2020, (Via WiredRelease), (Reports and Data) The Global Cognitive Analytics Market is forecast to reach USD 129.99 Billion by 2026, according to a new report by Reports and Data."
+    publishedDateTime: 2020-07-28T16:32:00Z
+    webUrl: "https://apnews.com/d8e8cefa59ae2a10180f8963e9a915f3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 2
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "F9wucTLzntBXu73Yl6JGZbDUNxoRwuJFeYelHycCD3BDLXti9fVtRWHZu8PBolF/wI40prhmyRLy4BTw7RXTQZ6NLs6iy7cxAqRQOa/Hggzw9n3MJcvHTNWnbsM0L1eP/APuH81OyJF+HuKp0J89uniq/7QNATXFal5Q0fQNm9iWMtFDP7iij9PZH6DxIof01ntExLW+wwuyb///nRDBrgwp40sazxrAP8+EA4uGP8DPgkEw+SZAP6pZcaROsE2xG136/qmH/nZpU1bhhHDsRniji+4HKqD3EqbWZ6aV5kSE4v/e3hE6E1/vQpxvtSi0yNiWW1RrHYJp8Aewxcyv8Q==;9nAd8Q15UgKq3+bvVDJ4cw=="

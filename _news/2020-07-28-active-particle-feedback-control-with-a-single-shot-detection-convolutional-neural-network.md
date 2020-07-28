@@ -5,6 +5,9 @@ excerpt: "The real-time detection of objects in optical microscopy allows their 
 publishedDateTime: 2020-07-28T09:25:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-69055-2"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Nature

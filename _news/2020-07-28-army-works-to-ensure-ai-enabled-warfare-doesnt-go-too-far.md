@@ -5,6 +5,9 @@ excerpt: "What if an Artificial Intelligence-enabled combat system simply goes t
 publishedDateTime: 2020-07-28T17:49:00Z
 webUrl: "https://www.foxnews.com/tech/army-works-to-ensure-ai-enabled-warfare-doesnt-go-too-far"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Fox News

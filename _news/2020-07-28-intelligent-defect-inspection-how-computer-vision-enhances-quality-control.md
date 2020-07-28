@@ -7,6 +7,9 @@ webUrl: "https://www.techzone360.com/topics/techzone/articles/2020/07/28/446123-
 ampWebUrl: "http://www.techzone360.com/topics/techzone/articles/2020/07/28/446123-intelligent-defect-inspection-how-computer-vision-enhances-quality.htm/amp"
 cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/www.techzone360.com/topics/techzone/articles/2020/07/28/446123-intelligent-defect-inspection-how-computer-vision-enhances-quality.htm/amp"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Tech Zone 360

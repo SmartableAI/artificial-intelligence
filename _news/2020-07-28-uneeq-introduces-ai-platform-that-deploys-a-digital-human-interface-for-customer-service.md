@@ -5,6 +5,9 @@ excerpt: "UneeQ Creator with Google Dialogflow unlocks the power of conversation
 publishedDateTime: 2020-07-28T18:37:00Z
 webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142079"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: KMWorld Magazine

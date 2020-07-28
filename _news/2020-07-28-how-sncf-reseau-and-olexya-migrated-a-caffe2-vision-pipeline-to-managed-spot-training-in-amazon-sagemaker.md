@@ -5,6 +5,9 @@ excerpt: "This blog post is co-written by guest authors from SNCF and Olexya. Tr
 publishedDateTime: 2020-07-28T16:54:32Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: AWS

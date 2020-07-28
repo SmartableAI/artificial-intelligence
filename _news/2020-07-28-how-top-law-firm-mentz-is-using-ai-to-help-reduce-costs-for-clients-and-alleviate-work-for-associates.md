@@ -5,6 +5,9 @@ excerpt: "Managing director John Koss offers insight into Mintz Levin's new e-da
 publishedDateTime: 2020-07-28T16:38:00Z
 webUrl: "https://www.businessinsider.com/mintz-levin-harnesses-technology-ai-to-boost-efficiency-and-cut-costs-2020-7"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Business Insider

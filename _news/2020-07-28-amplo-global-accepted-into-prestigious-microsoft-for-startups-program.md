@@ -5,6 +5,9 @@ excerpt: "Amplo Global Inc, offering an AI-driven strategy platform, announced t
 publishedDateTime: 2020-07-28T17:00:00Z
 webUrl: "https://apnews.com/557959582e2a6431c10f383c3af94403"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Associated Press

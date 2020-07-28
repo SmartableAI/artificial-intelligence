@@ -5,6 +5,9 @@ excerpt: "As the most active open-source project in the big data community, Apac
 publishedDateTime: 2020-07-28T16:12:00Z
 webUrl: "https://www.techrepublic.com/resource-library/whitepapers/download-the-new-edition-of-learning-spark-from-o-reilly/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechRepublic

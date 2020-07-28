@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9421595618921/2020/1/3322cb68699ceb551d7c2f4e6512c4ce/v1.5/Facebook-proposes-650M-settlement-for-facial-recognition-suit.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Face Masks Are Thwarting Facial Recognition Tech"
+    excerpt: "New research from the National Institute of Standards and Technology (NIST) suggests face masks are hampering facial recognition systems. Because the protective coverings obscure the bottom half of the face,"
+    publishedDateTime: 2020-07-28T21:25:00Z
+    webUrl: "https://www.popularmechanics.com/technology/security/a33446640/face-masks-facial-recognition/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33446640/face-masks-facial-recognition/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33446640/face-masks-facial-recognition/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/young-woman-wears-a-face-mask-as-she-listens-to-speakers-in-news-photo-1595967818.jpg?crop=1xw:0.76304xh;center,top&resize=1200:*"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "TuTCa4YD6CgInahaRb0oO/GqchaNXn9KJfXDHYO1aqZHsR724MUbHNdNDvHMdAFYVwx/ZH8rM7rl8LxFR2upzBVS85OrKziLCrf5SNjkBxpQUX3DBSmR5SDC0xiI8DpTko+Z24ILNP1PjMTWGREOb2iDw5xnIQWyFkl5FOfsxcZnCjniQ7nlCYHDNZjYzXLcFTh6j8PernvevdMgmOmIZM6jMSAqnceG6R/E3Got/8B6oZXniE5w3ZoIDDlxeGb1rNsINbjrlHCNMNHX1fl09Gx6SbyDl/CYRVt8cXg9MGYoi+0k0f0gChJT9xNO+PzwpGiDX1kYmhdKmndNyhslFPRKKPa63IHaS/ePp+IeBd9xMUvRWn2e/Gm5wqJ1zV/BAuSUP0CZEPNYmCh9s+HnjrHz27iklk/sc9DGWx7EBCUGLXkZuCEJTVhkkEumYNpClBHnztbHU/BVKSQbdplNZKyuxEV+us/mroeWYw09EaEBDE4/E5JszQu5pKP+K641;X5d0W612Z5oQn2GVSd5FSA=="

@@ -5,6 +5,9 @@ excerpt: "AI will now be well-versed in cultural heritage due to a new EU-funded
 publishedDateTime: 2020-07-28T18:27:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/leveraging-the-power-of-ai-for-european-cultural-heritage/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: HPCwire
@@ -20,6 +23,6 @@ images:
     height: 228
     isCached: true
 
-secured: "iv0fQEZb0s9P9F9UTa3g+NihZj+YkX6XqQ+NXCctEPTocOVp3j+qB3W3dIhhoy9I6RyK58q945bR/Mdq+oKM+vEmGM6aVxBOgKT/CO9On6ZuBpiYZVHnYhwxnUhtsoxWrL2eK1JcvEzpJ0ZXbAu7UDZLFTYisWgKY3kkpQo5gro6PRbKtCIJ9FmuSEWogivPX7P9AjRAdjKkeanNsiKVUobk6jKdvEl4UTSq0Y32vKAuGhqDJUZqlRrJKrBf6OmnqWVPOzIm6jkZKzMjqCByA6N/7nohv2WPN+2jypX9Q8X320rCfXrAK6NwrKXvGEFP0vb2772Z2d7MvBzk5SjTpw==;JKhMcEl6N7nYXK6lz0JqWw=="
+secured: "ekLESzatvTEPrtyuxDWu3K6ISbol4FyeGuA8A3feHFhCb0v+tiwKb/Ol3KnOzVuS14APM/5bp8QaUH6aiBMbuHZ5nub4WBm2wi7yfugLgjPjEvLjvEeLARWss/OpUgKTYoDF/h+VHpLhIwuMoYr8/QvHtO3PMuyYhURwVIdVrnLltbCxFJatRPP+eZlaIOybEuw9Ma+vG9Xe1Cz90Ilv1NgSPaSMrFNI4nmfEwMcfLC91vQPVIvT4HLhD00f+ROrjqAlf9rLE6ffymZHoHYQl8Lfc3wWnHP7S2exMZf6cCwW6h+Awm0UBsO1fb7BuJ1R0YDhp9CBDO/vk0JogsBXSwYZknXLRPlJDUYjRN+eGFEYVCa+Xkqvy398nx9s1nov4xJAm7jLlYQNsZeo4eFnQadaV173GD9nbzSpezpEJ6fiAOvDPUT7F9PHyb59BkqIEoezZM0EAbE/+fh11M0pI2cpgQMPb4dmymG/doSir/M8UXqvD+dGS4f+exVhz452FFgwOSSsmQhdmaG7YVhf2w==;m3WSX0XhrEEYJHLkIBiwrg=="
 ---
 

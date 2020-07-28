@@ -7,6 +7,9 @@ webUrl: "https://www.openpr.com/news/2098394/machine-learning-chip-market-expect
 ampWebUrl: "https://www.openpr.com/amp/2098394/machine-learning-chip-market-expected-to-reach-8-27-billion"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2098394/machine-learning-chip-market-expected-to-reach-8-27-billion"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: openpr.com

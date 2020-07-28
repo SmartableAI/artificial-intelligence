@@ -78,6 +78,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Coronavirus masks make it harder for facial recognition algorithms to ID people, study finds"
+    excerpt: "Coronavirus face masks can confuse facial recognition technology, government researchers announced Monday after a preliminary study on the issue. Facial recognition algorithms developed before the outbreak struggle to identify people wearing masks or face coverings,"
+    publishedDateTime: 2020-07-28T21:33:00Z
+    webUrl: "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms"
+    ampWebUrl: "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 78
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Face-recognition-with-mask.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
     excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
     publishedDateTime: 2020-07-27T22:02:00Z
@@ -110,6 +126,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
+    excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
+    publishedDateTime: 2020-07-28T02:20:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/us-agency-pandemic-masks-thwarting-face-recognition-tech/2020/07/27/86d2e930-d070-11ea-826b-cc394d824e35_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/us-agency-pandemic-masks-thwarting-face-recognition-tech/2020/07/27/86d2e930-d070-11ea-826b-cc394d824e35_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/us-agency-pandemic-masks-thwarting-face-recognition-tech/2020/07/27/86d2e930-d070-11ea-826b-cc394d824e35_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PZF6MOGL2II6VGNQQQTOE3JAHM.jpg&w=460&h=306"
+        width: 460
+        height: 306
+        isCached: true
   - title: "Pandemic Masks Thwarting Face Recognition Tech"
     excerpt: "Even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
     publishedDateTime: 2020-07-28T14:45:00Z
@@ -123,6 +155,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/07/16x9/AP20210004604951.5f202f1a363ff.png?auto=format&fit=max&w=1200"
         width: 726
         height: 408
+        isCached: true
+  - title: "U.S. agency: Pandemic masks thwart face recognition tech up to 50% of the time"
+    excerpt: "Under ideal conditions, the failure rate for the best algorithms is only about 0.3%, according to a study by the National Institute of Standards and Technology"
+    publishedDateTime: 2020-07-28T17:05:00Z
+    webUrl: "https://www.policeone.com/coronavirus-covid-19/articles/us-agency-pandemic-masks-thwart-face-recognition-tech-up-to-50-of-the-time-emLR3lL8t6QRwg1W/"
+    type: article
+    provider:
+      name: PoliceOne
+      domain: policeone.com
+    quality: 35
+    images:
+      - url: "https://media.cdn.lexipol.com/uploads/ap20210004604951.jpg?w=860&format=jpg&quality=87"
+        width: 726
+        height: 480
         isCached: true
 
 secured: "GV9Q2xJ/EU+L6WOcJxq6428QYYfm6PJ/lExqHH0R7DsfbavbMTP2AZHi8hTuvnkYxs1fChTtsyZvLLk2/bLFsk/mYXmagTrWKwg5/X+PczHo775JDQgZdnNmrNLTvaNExYMwsnOdyolm8PVgxnZF7YSA6W9LqVNP2APo+nywdlZ5EQd8H8sp1a6Q6U6OkiVcaWUfZb1w0fnmIRSoGX2AVHM4SVHsCBktu/gchuSPIcfGzvmSuE33i7c/SHa8AnNEgLSUTdkMyoC69cykM2DzfYmzNPE4FIBLeCVQ9K0Fn5VK+rX9Ncld9JEC7E14lj1z/IQzn1w370CzlvnD8UDs0A==;qGHbuZGJjLxcYEjWWV+zew=="

@@ -7,6 +7,9 @@ webUrl: "https://www.savannahnow.com/opinion/20200728/opinion-aleshia-howell-new
 ampWebUrl: "https://www.savannahnow.com/opinion/20200728/opinion-aleshia-howell-new-artificial-intelligence-will-change-technology?template=ampart"
 cdnAmpWebUrl: "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/opinion/20200728/opinion-aleshia-howell-new-artificial-intelligence-will-change-technology?template=ampart"
 type: article
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: Savannah Morning News

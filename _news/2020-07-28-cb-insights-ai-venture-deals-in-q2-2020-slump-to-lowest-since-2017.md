@@ -7,6 +7,9 @@ webUrl: "https://venturebeat.com/2020/07/28/cb-insights-ai-venture-deals-in-q2-2
 ampWebUrl: "https://venturebeat.com/2020/07/28/cb-insights-ai-venture-deals-in-q2-2020-slump-to-lowest-since-2017/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/cb-insights-ai-venture-deals-in-q2-2020-slump-to-lowest-since-2017/amp/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: VentureBeat

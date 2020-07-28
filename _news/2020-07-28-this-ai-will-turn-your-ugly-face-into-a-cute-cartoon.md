@@ -7,6 +7,9 @@ webUrl: "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-fa
 ampWebUrl: "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: The Next Web

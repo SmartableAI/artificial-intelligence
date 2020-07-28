@@ -5,6 +5,9 @@ excerpt: "An image-recognition tool trained on individual birds could make ecolo
 publishedDateTime: 2020-07-28T17:03:00Z
 webUrl: "https://www.nature.com/articles/d41586-020-02248-x"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Nature

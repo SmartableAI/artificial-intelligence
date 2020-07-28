@@ -5,6 +5,9 @@ excerpt: "Overall, there were close to 1,300 equity investments in healthcare co
 publishedDateTime: 2020-07-28T19:54:00Z
 webUrl: "https://www.healthcarefinancenews.com/news/healthcare-investment-reached-18-billion-q2-setting-new-record"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Healthcare Finance News

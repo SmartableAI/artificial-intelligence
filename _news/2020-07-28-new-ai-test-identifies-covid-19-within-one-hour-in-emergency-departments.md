@@ -7,6 +7,9 @@ webUrl: "https://medicalxpress.com/news/2020-07-ai-covid-hour-emergency-departme
 ampWebUrl: "https://medicalxpress.com/news/2020-07-ai-covid-hour-emergency-departments.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-ai-covid-hour-emergency-departments.amp"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: Medical Xpress

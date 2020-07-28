@@ -7,6 +7,9 @@ webUrl: "https://www.zdnet.com/article/mind-reading-particles-for-the-military-t
 ampWebUrl: "https://www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/"
 type: article
+quality: 79
+heat: 79
+published: true
 
 provider:
   name: ZDNet
