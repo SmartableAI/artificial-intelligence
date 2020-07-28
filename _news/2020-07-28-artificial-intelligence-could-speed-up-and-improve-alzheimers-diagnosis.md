@@ -1,24 +1,23 @@
 ---
 category: news
 title: "Artificial intelligence could speed up and improve Alzheimer's diagnosis"
-excerpt: "Artificial intelligence (AI) could help to diagnose Alzheimer's faster and improve patient prognosis, a new study from the University of Sheffield has revealed. The new research from the ..."
-publishedDateTime: 2020-07-28T13:26:00Z
-webUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-alzheimer-diagnosis.html"
+excerpt: "Research examines how the routine use of Artificial Intelligence (AI) in healthcare could help to relieve the economic impact neurodegenerative diseases, such as Alzheimer's."
+publishedDateTime: 2020-07-28T19:56:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/07/200728121223.htm"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2013/1-alzheimersdi.jpg"
-    width: 800
-    height: 361
-    isCached: true
-
-secured: "gYUgfuIas4hJRSoRwiOrzWwp8yI8yYnjHoisMr1PGFoTVeTCQS1l3TchQy3jOUN35h30o9TPqky1Ydp3NU6GzDhY+hQV9QhSkg9ub9LSYh10OOLex354oeHSrHpoKKkC9pEW7CTaOmxMCiWXLHvXpYsZGiqmV2WFEPtEoIpHB2g/jZnQVPy5pllIPDOz2+xsF/yHGKEPIBi2jnZm78YTJlRwdV7waxQbVe9bGP31h9nc3mXOhKw+k3h2mY37ZZI2JDgYE73xqZeDz3Ofgz4BzdyKje0NCcgH5QNWj4ABdP5ST6gcftPwX8H2Ifdwa9NXuavFZLT0hR4NPs4nJWVjzQ==;N4R/kF5SwIKNPD/J2JbCGg=="
+secured: "ACB8qXY2kXrVFAa85IHDS5HGko02+uejTvfgPnERSbippLnlPXuIqganJF5TNkADP113qpiaFnDxSyI7ni/TNMVqUsqr1FTCtsGRtS7lt+eIURiiGBcBMTNch4HlHaGPK0CVmqyzVzoG1FSK4A9IQ32nHDDkE7q5/sneUFHD3RWiZIFodk0vL1eKgOt2eEGuD79RxG71tUSEjuldwIWr3IkNnivtjctBCY2v2FxvDOKE5tG0YgmwBF1k3PhGPgRy85chWNhN3ancnUV17FkW9Qn9TCqB7ba3VwvrVqbnMbg+71uO+r+QNlK6z07dU+gRBg7iE4CV6d0sRuW2L+Sapw==;IebYdjnSW6taPfFzShgvGA=="
 ---
 
