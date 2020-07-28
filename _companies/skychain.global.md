@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "skychainglobal"
   url: "https://twitter.com/skychainglobal"
-  followers: 2696
+  followers: 2697
 
 locations:
   - Redwood City, CA
