@@ -39,6 +39,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI Therapeutics announces start of Phase II clinical trial of potential COVID-19 treatment"
+    excerpt: "AI Therapeutics announced the start of Phase II clinical trial for the treatment of newly diagnosed COVID-19 patients in collaboration with Yale University. AI Therapeutics is a biopharmaceutical company that develops novel therapies identified through a ..."
+    publishedDateTime: 2020-07-27T00:00:00Z
+    webUrl: "https://www.news-medical.net/news/20200727/AI-Therapeutics-announces-start-of-Phase-II-clinical-trial-of-potential-COVID-19-treatment.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200727/AI-Therapeutics-announces-start-of-Phase-II-clinical-trial-of-potential-COVID-19-treatment.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200727/AI-Therapeutics-announces-start-of-Phase-II-clinical-trial-of-potential-COVID-19-treatment.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 47
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "MA1Fwuq2M7QzwupiafVkbLdEwBGWsRdDGuThvKzJrrvGgli7trQreO7UffoEwaRw8cltFBOlr7K5Z3yQJoO+0gXomWTVDzldTHe5/crVjXFR0/Mo6OdhMUxNwBhX5ARQLBKuNrLePw3XZs6XBvwd/dGmwBJ78WxqVlfOuhrL+7KBmtbBIHzWBEB7Nxmb/l4UYL4qcPji+LW9v0MLbMJyXogtOYxAnEIMHX5JK5+qKTkF2hSc9uKAq3E2TM6527gsTC9agk4WbCM+EeN7XkhNyqWeUhfH/0N8fM50OHTzdVoRuM5e/z5wLq4/LcHl1LHlgI6VqGdsT/6hFkTLO+bazBLC7yYQ8HawwAu075eNlleLWCca3x9WBHYVSfOO5bhHfCSZw+LsJydLwlMUIyWkLLEUzgtnFX0QrqtOEWbrvGfbXhXjOoetaQYT81tXJUcjEv7JIMsN0Po+2s3BdeLzvdoa9Pd3RR87yhbgTvZHy0zFIUNuHKscueONr8pqa4ciTG7XXXJb8+BBq2konHVoFQ==;aVEupdRnK8WsUYBIA9zQeg=="
 ---

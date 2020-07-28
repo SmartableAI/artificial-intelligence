@@ -5,8 +5,8 @@ excerpt: "Chowdhury, a professor of electrical and computer engineering at UC Ri
 publishedDateTime: 2020-07-27T23:25:00Z
 webUrl: "https://news.ucr.edu/articles/2020/07/27/uc-riverside-computer-scientists-receive-grant-improve-security-visual"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://news.ucr.edu/sites/g/files/rcwecm1816/files/2020-07/2020-03-19_Coronavirus_020.jpg"

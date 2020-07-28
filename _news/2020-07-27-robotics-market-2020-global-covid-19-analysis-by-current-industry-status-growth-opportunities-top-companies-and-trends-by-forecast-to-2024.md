@@ -44,20 +44,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Deep Learning Market Global Outlook 2020-2026: Qualcomm Technologies, Inc, Baidu Inc., Hewlett Packard Enterprise"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 23, 2020 (Market Insight Reports) -- The Global Deep Learning Market Research Report Forecast 2020 – 2026 is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2020-07-23T08:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-outlook-2020-2026-qualcomm-technologies-inc-baidu-inc-hewlett-packard-enterprise-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Non-Medical Biomimetic Robots Market to Witness a Pronounce Growth During 2017 to 2028"
     excerpt: "This XploreMR study offers detailed insights and in-depth research on the global non-medical biomimetic robots market between 2018 and 2028. This study highlights the non-medical biomimetic robot market potential over three intervals,"
     publishedDateTime: 2020-07-23T16:02:00Z

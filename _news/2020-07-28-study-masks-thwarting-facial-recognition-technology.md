@@ -1,26 +1,28 @@
 ---
 category: news
-title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
-excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
-publishedDateTime: 2020-07-24T01:03:00Z
-webUrl: "https://findbiometrics.com/ny-ban-biometric-facial-recognition-lockport-city-schools-until-2022-072304/"
+title: "Study: Masks thwarting facial recognition technology"
+excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
+publishedDateTime: 2020-07-28T00:27:00Z
+webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2020/07/27/masks-virus-facial-recognition/112465252/"
+ampWebUrl: "https://amp.detroitnews.com/amp/112465252"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/112465252"
 type: article
-quality: 38
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: SecuriMetrics HIIDE
-  domain: findbiometrics.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://findbiometrics.com/wp-content/uploads/kyo-azuma-267549-unsplash.jpg"
-    width: 2896
-    height: 1944
+  - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -168,22 +170,6 @@ related:
         width: 344
         height: 250
         isCached: true
-  - title: "Study: Masks thwarting facial recognition technology"
-    excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
-    publishedDateTime: 2020-07-28T00:27:00Z
-    webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2020/07/27/masks-virus-facial-recognition/112465252/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/112465252"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/112465252"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook agrees to pay record $650M to settle facial recognition lawsuit"
     excerpt: "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ..."
     publishedDateTime: 2020-07-24T17:01:00Z
@@ -294,6 +280,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
+    excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
+    publishedDateTime: 2020-07-24T01:03:00Z
+    webUrl: "https://findbiometrics.com/ny-ban-biometric-facial-recognition-lockport-city-schools-until-2022-072304/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 38
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/kyo-azuma-267549-unsplash.jpg"
+        width: 2896
+        height: 1944
+        isCached: true
   - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
     excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
     publishedDateTime: 2020-07-23T22:50:00Z
@@ -318,6 +318,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "QThTTr4Cm7NoTLwfHwuuJ6bjZTqInM7Q9g9Vj2IUTjHql53lLD93jfFjZ++tuIcfkXqSYV57GXqPptfTOWEao6ZaXp6M/tNeYDPCnKN3g/BGz/YmRh170TflySi3FypGmHwbnKOBMHhiGEVaU5S1+BwV2ZACPGYzFk/0ovmnR6XQ8mVHXex7FIwHeJXsbZ8jw45JSDi3Zv4GDhxDx33j5VEb9BwEEmbVSh6G2lS30NP0zzVxqe7mV5/YbJzpy75eHunES7zx7D8uXJu42IQfBmDxSwPDDC2R9Z23AvVss7rjEtSJbJQi4HYRd6Bovabtd85ssCjnJSNkxpaUZQT5mw==;W23L9iUYnL+VaZU6hxExHQ=="
+secured: "2XTNp8ZGcvkv0MjRE5/Jshp5n0HC3WmA6CYCdd7bX0IAJelxqxTgjkRHOZrsa5gOZyJhbwF9KgIhw6KDLsm3e9DzKRZ/pxCpAt3vIByuS+3b7PeU60uxB7bV5UP+xWvAvdmPb+E2v5BmXD3GhFui2QCPfqsQDbAkh6PsJOBj1PyBkEgRA/wjXom+hAbcu/igfYQDnYpYJNx2HUmb3kzSk9hngOJyANbiQN7kgO4Xf/utLcNnEaFP5THIaz3GsvZ1XPrx4xTgYTiB81PJsToHLuDJk3rI3Bk6Lk0ZWM4d0hjy0EJ72ryiU0yP4etKPzS/3xrLiWIpPj0D8deKequvAw==;GpLcXObtA9Mr1X5EuGB90A=="
 ---
 

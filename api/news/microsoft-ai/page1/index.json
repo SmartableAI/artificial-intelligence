@@ -1040,32 +1040,32 @@
     {
       "path": "_news/2020-07-14-azure-databricks-now-available-on-microsoft-azure-government.md",
       "title": "Azure Databricks Now Available on Microsoft Azure Government",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net SAN FRANCISCO, July 14, 2020 /PRNewswire/ -- Databricks, the data and AI company, today announced that Azure Databricks ...",
+      "excerpt": "Databricks, the data and AI company, today announced that Azure Databricks is now on Azure Government as a public preview. Databricks is",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/azure-databricks-now-available-on-microsoft-azure-government-1029392533",
+      "webUrl": "https://www.prnewswire.com/news-releases/azure-databricks-now-available-on-microsoft-azure-government-301093038.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook",
+          "width": 1094,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/azure-databricks-now-available-on-microsoft-azure-government-1029392533",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/azure-databricks-now-available-on-microsoft-azure-government-1029392533",
-      "publishedDateTime": "2020-07-14T07:22:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

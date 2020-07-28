@@ -1,26 +1,28 @@
 ---
 category: news
-title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
-excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
-publishedDateTime: 2020-07-24T01:03:00Z
-webUrl: "https://findbiometrics.com/ny-ban-biometric-facial-recognition-lockport-city-schools-until-2022-072304/"
+title: "Face masks often aren't enough to defeat facial recognition, study finds"
+excerpt: "A new study from the National Institute of Standards and Technology (NIST) found that many commercially available facial-recognition systems are still able to correctly identify people wearing ..."
+publishedDateTime: 2020-07-28T00:53:00Z
+webUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus/"
+ampWebUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
 type: article
-quality: 38
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: SecuriMetrics HIIDE
-  domain: findbiometrics.com
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://findbiometrics.com/wp-content/uploads/kyo-azuma-267549-unsplash.jpg"
-    width: 2896
-    height: 1944
+  - url: "https://mondrian.mashable.com/2020%252F07%252F28%252F95%252F1532e5c976d04dde9692037c735a8d30.87877.jpg%252F1200x630.jpg?signature=yauLpgtXHRASkvuV7i8lF1rVyQA="
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -55,22 +57,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/M2ugk7HeWp64WGbHDqCQ0MW_2fE=/756x567/2020/05/01/8c12d2b9-11e2-41b5-8691-c40889483848/facial-recognition-face-id-passw.jpg"
         width: 756
         height: 567
-        isCached: true
-  - title: "Face masks often aren't enough to defeat facial recognition, study finds"
-    excerpt: "A new study from the National Institute of Standards and Technology (NIST) found that many commercially available facial-recognition systems are still able to correctly identify people wearing ..."
-    publishedDateTime: 2020-07-28T00:53:00Z
-    webUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus/"
-    ampWebUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252F95%252F1532e5c976d04dde9692037c735a8d30.87877.jpg%252F1200x630.jpg?signature=yauLpgtXHRASkvuV7i8lF1rVyQA="
-        width: 1200
-        height: 630
         isCached: true
   - title: "Facebook will pay $650 million to settle facial recognition privacy lawsuit"
     excerpt: "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,"
@@ -294,6 +280,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
+    excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
+    publishedDateTime: 2020-07-24T01:03:00Z
+    webUrl: "https://findbiometrics.com/ny-ban-biometric-facial-recognition-lockport-city-schools-until-2022-072304/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 38
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/kyo-azuma-267549-unsplash.jpg"
+        width: 2896
+        height: 1944
+        isCached: true
   - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
     excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
     publishedDateTime: 2020-07-23T22:50:00Z
@@ -318,6 +318,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "QThTTr4Cm7NoTLwfHwuuJ6bjZTqInM7Q9g9Vj2IUTjHql53lLD93jfFjZ++tuIcfkXqSYV57GXqPptfTOWEao6ZaXp6M/tNeYDPCnKN3g/BGz/YmRh170TflySi3FypGmHwbnKOBMHhiGEVaU5S1+BwV2ZACPGYzFk/0ovmnR6XQ8mVHXex7FIwHeJXsbZ8jw45JSDi3Zv4GDhxDx33j5VEb9BwEEmbVSh6G2lS30NP0zzVxqe7mV5/YbJzpy75eHunES7zx7D8uXJu42IQfBmDxSwPDDC2R9Z23AvVss7rjEtSJbJQi4HYRd6Bovabtd85ssCjnJSNkxpaUZQT5mw==;W23L9iUYnL+VaZU6hxExHQ=="
+secured: "LbjXZakHrsXy5dKk+lsfT83jZhbFjoORH3j4Lg7UlYmhKFXaE2gQDcSo4gJV5tpP51EjOQHxQfakbJXDRu+TOaWwke9nBxgNGr0KoCXBfx2YwZ6dvYf38XFwBfVFaE/axojjVll6mU3AK70Tr7Rz46nLwPEB1DbNK6rRbYmtvd9nrrWuD8fMe4S+01g9o7pap0X9jcBcJNkykz7rAyxw38/baWMqY8eBEQ26Zg0iBT0pSWndvrXG9ffr4Bl1BPQczE86qwDzXVd7fa8XV82eXWWgvlwJ2/zjx80bTQhAZDx1O6Sg62ueCWCtxnqTrVrU6vPCdUZ6IPoy4pzttseH8g==;gfY6yxtlpPOb76A6eicEMw=="
 ---
 

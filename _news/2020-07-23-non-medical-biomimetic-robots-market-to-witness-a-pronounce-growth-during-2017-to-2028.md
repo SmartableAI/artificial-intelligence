@@ -44,20 +44,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Deep Learning Market Global Outlook 2020-2026: Qualcomm Technologies, Inc, Baidu Inc., Hewlett Packard Enterprise"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 23, 2020 (Market Insight Reports) -- The Global Deep Learning Market Research Report Forecast 2020 – 2026 is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2020-07-23T08:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-outlook-2020-2026-qualcomm-technologies-inc-baidu-inc-hewlett-packard-enterprise-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robotics Market 2020: Global Covid-19 Analysis by Current Industry Status, Growth Opportunities, Top Companies and Trends by Forecast to 2024"
     excerpt: "The major players of the global robotics market are BOSTON DYNAMICS (US), Universal Robots A/S (Denmark), iROBOT Corporation (US), Nachi-Fujikoshi Corp (Jap"
     publishedDateTime: 2020-07-27T21:13:00Z

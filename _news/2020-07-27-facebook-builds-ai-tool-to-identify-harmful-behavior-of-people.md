@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-beha
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Ellen
@@ -30,6 +30,15 @@ related:
     excerpt: "Facebook has created a machine learning solution to train bots to realistically simulate the behaviour of real people on a social media platform, a move that will improve software testing for complex environments particularly in product areas related to safety,"
     publishedDateTime: 2020-07-27T13:33:00Z
     webUrl: "https://www.sify.com/finance/facebook-builds-solution-to-spot-harmful-behaviour-of-real-people-news-topnews-uh1n4Cfjhjjjd.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 4
+  - title: "Facebook builds solution to spot harmful behaviour of real people"
+    excerpt: "According to Mark Harman, Research Scientist at Facebook AI, people's behaviour evolves and adapts over time and is different from one geography to the next, which makes it difficult to anticipate all the ways an individual or an entire community might ..."
+    publishedDateTime: 2020-07-28T00:04:00Z
+    webUrl: "https://www.sify.com/news/facebook-builds-solution-to-spot-harmful-behaviour-of-real-people-news-education-uh1n5Mcjidefg.html"
     type: article
     provider:
       name: Sify.com
