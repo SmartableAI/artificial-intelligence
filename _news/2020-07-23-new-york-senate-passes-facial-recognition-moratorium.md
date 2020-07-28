@@ -202,22 +202,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "New York takes major step to keep facial recognition from being used on children"
-    excerpt: "New York state legislatures passed companion bills that place a 2-year moratorium on facial recognition and other biometric surveillance use in schools."
-    publishedDateTime: 2020-07-23T13:39:00Z
-    webUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-bill/"
-    ampWebUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-bill/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-bill/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 54
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/no-student-facial-recognition.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Facebook bumps up offer to $650 million to settle facial recognition class action"
     excerpt: "Facebook has agreed to pay $650 million – $100 million more than before – to settle a class action lawsuit over its face recognition technology."
     publishedDateTime: 2020-07-24T01:40:00Z

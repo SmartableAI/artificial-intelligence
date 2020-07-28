@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-25T05:54:00Z
 webUrl: "https://www.dailypioneer.com/2020/technology/new-google-fund-to-address-missing-data-for-key-research----10-27-----july-25--ians-.html"
 type: article
 quality: 19
-heat: 19
+heat: 29
 published: false
 
 provider:

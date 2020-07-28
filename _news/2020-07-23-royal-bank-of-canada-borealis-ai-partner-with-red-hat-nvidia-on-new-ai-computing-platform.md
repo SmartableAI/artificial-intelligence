@@ -54,15 +54,6 @@ related:
         width: 600
         height: 363
         isCached: true
-  - title: "Royal Bank and Borealis AI announce new AI private cloud platform"
-    excerpt: "TORONTO — Royal Bank of Canada (RBC) and its AI research institute Borealis AI have partnered with enterprise software provider Red Hat and hardware and chip manufacturer NVIDIA to develop a new AI computing platform. RBC says it and Borealis AI set out ..."
-    publishedDateTime: 2020-07-23T14:06:00Z
-    webUrl: "https://www.canadianmanufacturing.com/technology/royal-bank-and-borealis-ai-announce-new-ai-private-cloud-platform-257743/"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 19
 
 secured: "54YsyxL4/ZBCZKbkzEWfCksdok4H8eDs4l5nDTy7fK84j+jDk1k/hp/1mqufm1u+OLTIAxL8KjXHJOAvTZo6CUz/V6JnP/pRvDkCP6GQJUU4Ujzrn/Z98+sIWpIxRKzY+oPLEMRd02q5y/DNQA9Nu8ploJIuZEfMg//XC0h7LLCRGtWXnZtcwvqXh8uOoqxjg1GtBKjUcltwpDF9IgmrAbyJTZIDELE22KyM8kfE4CvN55A4ein4e9aNiJ0KHUjfJlxrolvBwWjPk08qSQCBSgYaUX+Xbmw1T6xunqfi/S9FczwRyXilCD7/nlfXtTWHd2cZ5X7jhkfYQ6DhBDoWCXR9qlaAPXrwxsT239BfW6j9DrbfSpzMNl26Rgky+P8pQ4bqNen+nLN5ct7L7PafZj9t5qSusrZftFnCQ4yxy6rzfMOwchDTRc1hlkxGSnY3OOLZRqIhVHgJoqoUeo62Y5a6p5Z6kdiscOLJrHAijTBixrnr2jah+N7rekYVjUNq5k+QXX+ZWWyIpX6/54n1wA==;6T9z2d6TtVmeoODezyezQA=="
 ---

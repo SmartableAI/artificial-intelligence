@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T23:08:00Z
 webUrl: "https://www.stuff.co.nz/motoring/300064787/fiat-chrysler-waymo-to-put-selfdriving-tech-into-vans"
 type: article
 quality: 39
-heat: 39
+heat: 69
 published: false
 
 provider:

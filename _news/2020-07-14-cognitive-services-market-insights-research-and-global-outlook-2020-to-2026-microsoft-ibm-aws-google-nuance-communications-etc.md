@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.openpr.com/T/7/T714468969_g.jpg"

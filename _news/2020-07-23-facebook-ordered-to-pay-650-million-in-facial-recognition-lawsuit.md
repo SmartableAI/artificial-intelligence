@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-1
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 type: article
 quality: 89
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -203,22 +203,6 @@ related:
     quality: 55
     images:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
-  - title: "New York takes major step to keep facial recognition from being used on children"
-    excerpt: "New York state legislatures passed companion bills that place a 2-year moratorium on facial recognition and other biometric surveillance use in schools."
-    publishedDateTime: 2020-07-23T13:39:00Z
-    webUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-bill/"
-    ampWebUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-bill/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-bill/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 54
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/no-student-facial-recognition.jpg"
         width: 2000
         height: 1000
         isCached: true

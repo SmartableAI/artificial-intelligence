@@ -7,7 +7,7 @@ webUrl: "https://www.techrepublic.com/resource-library/whitepapers/galvanizing-m
 ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
 type: article
-quality: 66
+quality: 83
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Learn Machine Learning and AI – Online Training Program @ 93% OFF"

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-25T05:43:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2020-size-share-comprehensive-research-study-future-plans-competitive-landscape-and-forecast-to-2025-2020-07-12"
 type: article
 quality: 48
-heat: 48
+heat: 78
 published: false
 
 provider:

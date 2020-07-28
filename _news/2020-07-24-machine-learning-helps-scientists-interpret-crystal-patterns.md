@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T03:36:00Z
 webUrl: "https://www.eurekalert.org/features/doe/2020-07/dnl-mlh072320.php"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

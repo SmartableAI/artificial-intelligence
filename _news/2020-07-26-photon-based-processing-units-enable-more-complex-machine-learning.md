@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-26T22:19:00Z
 webUrl: "https://eurekalert.org/pub_releases/2020-07/aiop-ppu072020.php"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:
