@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
 type: article
 quality: 104
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -119,6 +119,22 @@ related:
         width: 344
         height: 250
         isCached: true
+  - title: "Face Masks Are Breaking Facial Recognition Algorithms"
+    excerpt: "A study has found that face masks are causing significant issues with facial recognition software. The Verge has reported that the use of face masks is"
+    publishedDateTime: 2020-07-28T15:26:00Z
+    webUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/03/AH-Coronavirus-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Study: Masks thwarting facial recognition technology"
     excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
     publishedDateTime: 2020-07-28T00:27:00Z
@@ -134,38 +150,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "New York legislature bans use of facial recognition technology in schools"
-    excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."
-    publishedDateTime: 2020-07-23T22:51:00Z
-    webUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools"
-    ampWebUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 58
-    images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
-        width: 645
-        height: 363
-        isCached: true
-  - title: "New York state approves bill that bans facial recognition technology in schools"
-    excerpt: "The New York state legislature voted Wednesday to pause the use of facial recognition technology in schools until 2022.  Both the state Senate and"
-    publishedDateTime: 2020-07-23T21:50:00Z
-    webUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/"
-    ampWebUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
-    cdnAmpWebUrl: "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
-    type: article
-    provider:
-      name: AM New York
-      domain: amny.com
-    quality: 55
-    images:
-      - url: "https://www.amny.com/wp-content/uploads/2020/06/GettyImages-1157932923-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta"
     excerpt: "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality."
@@ -214,6 +198,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Q6hs3VMS+711EK1EBVhY6X2tfrkZrSt4Bb70ByExlCRXkW/jURJCl/sX2EIr/1zMHLsc+Q/XL98ZdxTC+F6M1xXreCQVLI69E2jqXuXj+d4KKtSjqdQ60Vrr6HumKM/SpG+4eUZ1XzPPLwJvhFi2WZgIhwc/70/ZT7TZMLFoN/39SWcXZ3HQeNCtf304J/1SclRyewQxlhKY8XI5f41B0Hfw+5eXfHmLw/hS5tVapiYit7UzweunpNLjDFjBiXA/SiNkefty2TOAZDe4b/+VrghCdyylyktR9JNx9bgOiEvc8cjK/XAiANn95abaq5OsC3WO15grRVcbdvNVvy5DFQ==;8eIrLQfBF8+It26ddI7U0A=="
+secured: "rSzsHmbGHm+Zrfr8RK9WZqzUUT8d5PpHAfavPlZ45sFS+Zh17E3UIUO3M8UzPzdyWk8pY2jPOrcKpmkHWgujklsn6m+NvzGZzm3nx8xKEah+OVaptcSppBun98s4WeHZi8CRRV6FF/G2e5wNcRnYETdPu7hCxTDNX1PdNRa7pA1+ae07m5EIyOI2mHCJilFqYQih83KhPAmm/qUGnMgagy3cZ4+hmZ+n0flVcTeaYhXVQOd67MhSrv6YkjEliDlRqMIiGI25D0GPSgfeZBPvoQAUUDCW8Vl/NC+qbor/7cqSCfsNwlHTVlzYzKSyXYMu62JKGPOBghdZpMEyCa0JnONXK1FrUNJNMs6+NcyackWbyYQIoI74sdbN0Dxnk/JTGIXo/YIyvWKdhBRaEUOP1+X6EYqVl6H6HBbnQplLYoKGDnisDcIjhSRL1wYhRIGhRwqDH8MT2kEnsSLiq5V9qNZVRmxtE/y4MGc0bDrrIIlWUFCxL0z1L7AOIau9mALo;1Ucat3y2Yd8Eot4Et0nASQ=="
 ---
 

@@ -58,6 +58,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Wearing a face mask makes it harder for facial recognition algorithms to see you, according to a new government study"
+    excerpt: "The study was carried out with the Department of Homeland Security and Customs and Border Protection, both of which use facial recognition technology."
+    publishedDateTime: 2020-07-28T15:57:00Z
+    webUrl: "https://www.businessinsider.com/wearing-a-face-mask-fools-facial-recognition-algorithms-study-finds-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/wearing-a-face-mask-fools-facial-recognition-algorithms-study-finds-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wearing-a-face-mask-fools-facial-recognition-algorithms-study-finds-2020-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/5f2027fd3ad8615ed52c8427?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
     excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
     publishedDateTime: 2020-07-27T22:02:00Z
@@ -73,6 +89,36 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_1620ec9ad802491791ba6e7eaa6c8434_16x9_992.jpg"
         width: 992
         height: 557
+        isCached: true
+  - title: "Face masks are thwarting ‘even the best’ facial recognition systems"
+    excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a US agency on Monday found that even the"
+    publishedDateTime: 2020-07-28T15:08:00Z
+    webUrl: "https://nypost.com/2020/07/28/us-agency-pandemic-masks-thwarting-face-recognition-tech/"
+    ampWebUrl: "https://nypost.com/2020/07/28/us-agency-pandemic-masks-thwarting-face-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/28/us-agency-pandemic-masks-thwarting-face-recognition-tech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/facial-recognition-feature.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pandemic Masks Thwarting Face Recognition Tech"
+    excerpt: "Even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
+    publishedDateTime: 2020-07-28T14:45:00Z
+    webUrl: "https://www.manufacturing.net/technology/news/21141476/pandemic-masks-thwarting-face-recognition-tech"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/07/16x9/AP20210004604951.5f202f1a363ff.png?auto=format&fit=max&w=1200"
+        width: 726
+        height: 408
         isCached: true
 
 secured: "LbjXZakHrsXy5dKk+lsfT83jZhbFjoORH3j4Lg7UlYmhKFXaE2gQDcSo4gJV5tpP51EjOQHxQfakbJXDRu+TOaWwke9nBxgNGr0KoCXBfx2YwZ6dvYf38XFwBfVFaE/axojjVll6mU3AK70Tr7Rz46nLwPEB1DbNK6rRbYmtvd9nrrWuD8fMe4S+01g9o7pap0X9jcBcJNkykz7rAyxw38/baWMqY8eBEQ26Zg0iBT0pSWndvrXG9ffr4Bl1BPQczE86qwDzXVd7fa8XV82eXWWgvlwJ2/zjx80bTQhAZDx1O6Sg62ueCWCtxnqTrVrU6vPCdUZ6IPoy4pzttseH8g==;gfY6yxtlpPOb76A6eicEMw=="

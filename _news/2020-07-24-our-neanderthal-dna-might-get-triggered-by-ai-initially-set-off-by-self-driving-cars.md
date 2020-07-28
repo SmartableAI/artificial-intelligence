@@ -3,7 +3,7 @@ category: news
 title: "Our Neanderthal DNA Might Get Triggered By AI, Initially Set Off By Self-Driving Cars"
 excerpt: "Modern-day genetic hunters are using all the tricks of the trade-in conducting DNA analyses to possibly discover a fluke or some standout innate genomic characteristic that might account for the widespread differences in how people react upon COVID-19 exposure."
 publishedDateTime: 2020-07-24T15:59:00Z
-webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars"
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 370
         isCached: true
 
-secured: "kMwXxOCJXADyfMnvGkjavvE0OD87DbgZ10d/jWyojQqGP+kJ57wduDCQNgnfR+N+/rqTARBSACjJukdA65prAvHtkbw5hm7BLU4kAQIv5wimeDoOdZhxldnZggwMHknzbsZ5qwoHSJLDU09L+wOjrakTtlfIFhwLHHzOLWYoDSJDeSEt1bY3KUeUvne9dKhGpn1dyIfCiblQRD/LQI7NnyX+7bZAPy0uFM5W9FY+ARBDW3XZCjcZr/3h2kiUKLinFwjBjpEbb8qA0phdTM8uPsiqIUk6MFxK1OXBSA6VLBveAORjRIuww/7vO6dkYYx9Z/GFP/1xSSVFi21z+Ysy2A==;ynawhmn7Sz/812Ky7d5/fg=="
+secured: "49lo323BEI0ZrFSS3SmxovqFui4ffchJHwMmnV2wFN5CuH1TQB5UWHcZj/0ZCy+KmKw6XFQrt9IO7/8kLuGxJN9sjwtQGaYvaSbvU16sfzmQ3+aYbCWLj9lUHR7EjUG799gl2yIFMizzTMvCMqNcFyuipMl8awJIVAiv/RLJhFPhYO5KWUSf6QbfGoHpnc1JfZoDiHxHwHPzIN/RD8aJfNlSUK6MmdbnoZDiLzdz57UUjOEXDKxKRD+Tu9pw5ZEyjOWgpSvaRmdlrzGDyl4HPLdpZRWzQHiLH6DqhYwP9fq+DrkZOemth5YpYKHq8krHSxJXyIbWZl39TSlrO6rqsA==;zgqXsmxV3sYylQ8CuhNC5w=="
 ---
 

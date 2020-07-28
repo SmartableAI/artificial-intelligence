@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
-    excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
-    publishedDateTime: 2020-07-23T22:50:00Z
-    webUrl: "https://www.law.com/therecorder/2020/07/23/judge-poised-to-approve-updated-650m-facebook-settlement-over-facial-recognition/"
+  - title: "As facial recognition draws scrutiny nationwide, Stanford research raises questions closer to home"
+    excerpt: "“I am entitled to repeat what I have seen, including by means of sharing photographs, an act of speech as well,” Gidari explained. “Facial recognition is simply a mathematical representation of the image,” he added. “If you can take the ..."
+    publishedDateTime: 2020-07-28T15:32:00Z
+    webUrl: "https://www.stanforddaily.com/2020/07/28/as-facial-recognition-draws-scrutiny-nationwide-stanford-research-raises-questions-closer-to-home/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 34
+      name: Stanford Daily
+      domain: stanforddaily.com
+    quality: 42
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/07/James-Donato-Article-202007231555.jpg"
-        width: 620
-        height: 372
+      - url: "https://wp.stanforddaily.com/wp-content/uploads/2020/07/data-01-2048x1153.png"
+        width: 2048
+        height: 1153
         isCached: true
   - title: "Facebook will pay USD 650 mln to settle facial recognition privacy lawsuit"
     excerpt: "Facebook will pay a total of USD 650 million to settle a lawsuit over the company's use of facial recognition technology, writes local publication Facebook citing court documents presented by Facebook."

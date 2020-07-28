@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligence community rolls out guidelines for ethical use of artificial intelligence"
-    excerpt: "The U.S. intelligence community (IC) on Thursday rolled out an “ethics guide” and framework for how intelligence agencies can responsibly develop and use artificial intelligence (AI) technologies."
-    publishedDateTime: 2020-07-23T22:37:00Z
-    webUrl: "https://thehill.com/policy/cybersecurity/508793-intelligence-community-rolls-out-guidelines-for-ethical-use-of"
-    ampWebUrl: "https://thehill.com/policy/cybersecurity/508793-intelligence-community-rolls-out-guidelines-for-ethical-use-of?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/cybersecurity/508793-intelligence-community-rolls-out-guidelines-for-ethical-use-of?amp"
+  - title: "ODNI Released AI Principles Framework for IC"
+    excerpt: "The Office of the Director of National Intelligence (ODNI) has released a list of AI ethics and principles to guide the intelligence community (IC) on its use and development of AI and AI tools. “These Principles supplement the Principles of Professional ..."
+    publishedDateTime: 2020-07-24T15:18:00Z
+    webUrl: "https://www.meritalk.com/articles/odni-released-ai-principles-framework-for-ic/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 49
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 39
     images:
-      - url: "https://thehill.com/sites/default/files/johnratcliffe_05052020.jpg"
-        width: 980
-        height: 551
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_1576838977-min.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "QEL6RB3ydQcXGX98Om1yuVGGdRWRWihT1utDCskaZZPt/dlR+uUmHCc+8MApR9W6vXwiv1zcJarqtlMGN3HflaegLnVuOnc649ipr0ejzJ1uq2rXzvYetp0RfpY34VrDd6dR5TPx9A23uY8CMFiiuUZ1JkjBfTjdVLTcNE9LMtrobtVjacq/RD8wmfWIrLUlf4zKgbGWeIsG2yWZTluRhi8PW8of4HJne+ZYUzWWzzAWADOqTdSTCYPthZUANG01xwOGqHXRzxYRZp8D3tf1Zu/S8ZegyXmeGPzoQ+7Lg68XkmkFCa7PjAZJk/m/z7lFhxgrKGQZCBuLDmvaRRs1qw==;oPXHU6ilWW88O9588T38JA=="

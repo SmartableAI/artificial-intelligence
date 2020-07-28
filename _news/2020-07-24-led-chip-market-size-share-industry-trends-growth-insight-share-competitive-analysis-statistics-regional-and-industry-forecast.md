@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T13:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/led-chip-market-size-share-industry-trends-growth-insight-share-competitive-analysis-statistics-regional-and-industry-forecast-2020-07-21"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,75 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Market Share 2020-2025 | Size, Price, Analaysis, Report and Forecast"
+    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics such as language understanding, reasoning,"
+    publishedDateTime: 2020-07-24T14:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast-2020-07-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
+    publishedDateTime: 2020-07-28T12:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2025-2020-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Self Driving Wheelchair Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
+    excerpt: "The report experts have analyzed various companies to understand the products and/services relevant to the global Self Driving Wheelchair market. The report includes information such as gross revenue,"
+    publishedDateTime: 2020-07-25T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2020-size-share-comprehensive-research-study-future-plans-competitive-landscape-and-forecast-to-2025-2020-07-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Software Market, Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "Software Market, Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The global AI software market revenue will grow at a CAGR of 41.6% between 2019 and 2025, with IBM representing the highest revenue among all competitors during 2016-2018."
+    publishedDateTime: 2020-07-24T09:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16765498/global-artificial-intelligence-ai-software-market-forecast-to-2025-researchandmarkets-com"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16765498"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16765498"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+  - title: "Image Recognition Market In Depth Analysis By Total Revenue And Industry Growth Rate Forecast Till 2026"
+    excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation"
+    publishedDateTime: 2020-07-27T09:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-in-depth-analysis-by-total-revenue-and-industry-growth-rate-forecast-till-2026-2020-07-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "X17XPbFEIqZlJFhJ4B75QoseREu4HHFnzSfMc2Z6JpB5tNMNYLuUyZt2C5ZSRY8uqipSCGsiT3ConcjP5ahsSqonKXrB5IVd15vjg4edMq9jSDpqGN0/yuSX+HXTpJmmizQtbLMIHpGJVxDUYA+HVbdkqj3XKpyg0PH7YA4uaronsQjI2ebb/6CGPvCeVbuGpDLU2T9L+v+CrQv227wmQ/7wrNKhR6s0YoQYpAKSj6cAR+UezbMQJdgeu7zU/pV23qD1sQmeZtkBgCcJp02hf/bCqXjDWrZrI/jYHPeI76RrmUtOP5zzpBWK49WDwakZ99AGVRONSYApZmY8cVNeyA==;Gx6BuvK2WYIY2qs+0fP3Tg=="
 ---

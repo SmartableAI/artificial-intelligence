@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-p
 ampWebUrl: "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Computer Vision
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-28-at-8.51.01-AM.png?w=1200&#038;strip=all"
@@ -29,6 +31,6 @@ images:
     height: 658
     isCached: true
 
-secured: "tgNrbhmZn2f23A4mSMyLUXo8ipEMsbUkOOKzuuek1greQrNGplu0m3SLWUyL/nj0LB8bHp4im3btrGyHxX5q9NPgEj6m4xofCcqSFTj7jXvioGfBh27fBencZajDsOcKLi5565924fwYUQJUy8Lq0KtuSZkmbd35x+43Pc9IJWxeiGp7WgMm4hP3NZlcwJKetHvw3WtS3pFdZoOx+hq15RS/BZOLYky+XC1WmSy9xfKrGzs9J/gkfYy1NQdYKIsOKfKkSqxiluWyUnQqyGQT6GDYFIrV8283tFLj7xa5PNjnmc4She7C7XGPOsPHXrvI2nGIZDvfBq8fIlBr0FWE1w==;73aPY+h1JxCIAoMbecEWIA=="
+secured: "8J41q/k5IGmqkNRG0mEWs71xvUEymYSRHiH97Dg17hLkOCRsH9FvOyTFnRSNr3isgdkK9j9DVrFzQKG1VxEQW+wNt45aFVYOQqbaY6oHCD3vAKc/DdIYNJSmIQxkcS3FVxEKtK/t6mXR2/6xpjn6gjrU8NhwiPCjIHoVBDrHJrJEC2T1jqsbX+7dFpGHwMIQsRYDr6311Kg+6nhAlo6bY9FU2FDb7loKmpUzR1+IeF2yJSkLGGXT2rtCdTpVp7PBfbP5VQ/5oBPRvTdGeIi+ix2Btq1aGpmNJ14GoffUg61Od0PLndk4AW1jCyo4rPUIdc17dxdgwMQpyys/nI+bYix0TWqem5yTstmi9n2aSWGI+0Ur2Cwnqd0L7cHrT5MkJq/8lYJNg5x8vVTWyjs43c5jPs0lpZmDFm7UNUnl1zZvXvqrGMr6quWsg4gIa5c6U4J0KKPtBzI0cUUrUZMeXGzho47utXW/EtyquBp0Mtm6cpFuEf6yYYXBHQ7Ehxdc07jgb6e4umeNeqTXmZOLJw==;hpaCSVg5LOuw+ihVdYVE7w=="
 ---
 

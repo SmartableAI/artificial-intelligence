@@ -22,6 +22,17 @@ images:
     height: 687
     isCached: true
 
+related:
+  - title: "Conversation Intelligence Leader Chorus.ai Secures $45M to Put the “R” in CRM"
+    excerpt: "Chorus.ai, the No. 1 Conversation Intelligence Platform for high growth Revenue teams, today announces it has closed a $45 million Series C round. Georgian Partners led with renewed participation from Emergence Capital,"
+    publishedDateTime: 2020-07-28T13:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200728005130/en/Conversation-Intelligence-Leader-Chorus.ai-Secures-45M-Put"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
+
 secured: "VURcODstoGci+KtaRvBm9YJMMv82uY7Whu1iMGD9yxZ61fbcD0M/rBBomqvFDbcuC3hdL+mGxXyQVfVIokP/XlK32+WQx7tPjYetEYbd1xpOWteTi8cOto2wWR1Wgdzg6XNJPrIVN8ndrQPQP3DcaR86wEcPe2yD2yhPaxXiix1MCnaSmeetDpWkA7euLOIXaBJMxrqHdU9EfXxbqXgEP2PucGlER037PbAIihjPEFElgcMOFyNyBuzmIzGxqK4I9+li0ETVmuo/oMxj6Cx9tDUVPK9rfd+gVrbnvxNqS4SOwy27bOiUtmHwecSRZf1iGNJ1K8kXVjj+nMbDEleDJA==;PtK0Y9B/s2jSZqGVCVGqbw=="
 ---
 

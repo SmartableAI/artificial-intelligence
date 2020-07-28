@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-25T05:43:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2020-size-share-comprehensive-research-study-future-plans-competitive-landscape-and-forecast-to-2025-2020-07-12"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -28,43 +28,68 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chipset Market to Grow At Healthy Rate Due To Enhanced Usage in COVID-19 Analysis and Forecast to 2026"
-    excerpt: "Jul 25, 2020 (CDN Newswire via Comtex) -- Analytical Research Cognizance adds Global Deep Learning Chipset Industry Market Report to its research database. The report provides information on Industry Trends, Demand, Top Manufacturers, product, revenue ..."
-    publishedDateTime: 2020-07-25T06:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-to-grow-at-healthy-rate-due-to-enhanced-usage-in-covid-19-analysis-and-forecast-to-2026-2020-07-25"
+  - title: "Artificial Intelligence Market Share 2020-2025 | Size, Price, Analaysis, Report and Forecast"
+    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics such as language understanding, reasoning,"
+    publishedDateTime: 2020-07-24T14:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast-2020-07-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Truck Technology Market Global Enhancements and Growth Outlook 2020 to 2026"
-    excerpt: "Driving Truck Technology market report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Self-Driving Truck Technology industry."
-    publishedDateTime: 2020-07-24T14:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-global-enhancements-and-growth-outlook-2020-to-2026-2020-07-24"
+  - title: "Artificial Intelligence Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
+    publishedDateTime: 2020-07-28T12:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2025-2020-07-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-driving Cars and Trucks Industry Market Forecast 2025 Top Players Analysis Includes: Volvo Car Corporation, General Motors"
-    excerpt: "A complete research offering of comprehensive analysis of the market share, size, recent developments, and trends"
-    publishedDateTime: 2020-07-24T13:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-and-trucks-industry-market-forecast-2025-top-players-analysis-includes-volvo-car-corporation-general-motors-2020-07-24"
+  - title: "Global Artificial Intelligence (AI) Software Market, Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "Software Market, Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The global AI software market revenue will grow at a CAGR of 41.6% between 2019 and 2025, with IBM representing the highest revenue among all competitors during 2016-2018."
+    publishedDateTime: 2020-07-24T09:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16765498/global-artificial-intelligence-ai-software-market-forecast-to-2025-researchandmarkets-com"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16765498"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16765498"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+  - title: "LED Chip Market Size, Share, Industry Trends, Growth Insight, Share, Competitive Analysis, Statistics, Regional And Industry Forecast"
+    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
+    publishedDateTime: 2020-07-24T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/led-chip-market-size-share-industry-trends-growth-insight-share-competitive-analysis-statistics-regional-and-industry-forecast-2020-07-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market In Depth Analysis By Total Revenue And Industry Growth Rate Forecast Till 2026"
+    excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation"
+    publishedDateTime: 2020-07-27T09:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-in-depth-analysis-by-total-revenue-and-industry-growth-rate-forecast-till-2026-2020-07-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

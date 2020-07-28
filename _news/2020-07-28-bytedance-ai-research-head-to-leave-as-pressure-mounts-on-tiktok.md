@@ -1,28 +1,50 @@
 ---
 category: news
-title: "ByteDance AI Research Head to Leave as Pressure Mounts on TikTok"
-excerpt: "Ying joined ByteDance from Microsoft to become a vice president and head of the AI lab in 2017. His departure comes as TikTok faces regulatory challenges across the globe, and a potential ban by the U."
-publishedDateTime: 2020-07-28T06:58:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
+title: "ByteDance AI research head to leave as pressure mounts on TikTok"
+excerpt: "Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company, as its short-video app TikTok faces U.S. scrutiny over security and privacy issues."
+publishedDateTime: 2020-07-28T11:24:00Z
+webUrl: "https://www.reuters.com/article/us-china-bytedance-idUSKCN24T0MC"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T0MC"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T0MC"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 87
+heat: 107
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527361356&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0D4"
+    width: 817
+    height: 545
+    isCached: true
+
 related:
+  - title: "TikTok owner ByteDance’s AI chief to leave as US pressure rises"
+    excerpt: "ByteDance's head of AI research is leaving the Beijing-based firm amid mounting scrutiny of the company's video app TikTok."
+    publishedDateTime: 2020-07-28T14:38:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T145238.994-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "A key AI executive at TikTok parent ByteDance is leaving as geopolitical pressure mounts on the app"
     excerpt: "Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company."
     publishedDateTime: 2020-07-28T09:33:00Z
@@ -40,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "xrAqvohmwhuN8m9sSftLv4p75eJNnl/EJHtPkNvwYLzBpMYJHHEvkWI1i9JvxG0svV//Yeta983L2GnUqL7FP/wlde0iueCZ8HuE+D/x14bDFPVAKKJT5TSwmS0bwtLS8pYWuaQWTisTwTPw2ZMZ53vuu125hJK4OGuI5jphH6oH5Svc9TsO+S8f7vky5j6TYloJXA1s9+ltCyoM81fOvZR0TACbEpEBo34wvC8n8m7MoGYZ53drdQ+AB7lefl07TmxINocJydUh2yKnVwHFWICTUGhX5X5TaaOfp04Mq1f0OlJFd8RlRl7TStfgosSNhmLBtoS1ua2o++TNrD9vwGYNAnwjx/YLDmQkWQdRz9A98LMrrx409hKkguzive9oIO2R29DSWdyBilku1Sx05ttSmbzbS9mPXa3m62lB2M+LbtLFgngPT2yS+FGhCG4k101VeUtBfSInhQso6KQ3k75024j2u0JUmWRfoNEyKN8LnKHzR0mbzhsmycJI4vtKfERhbE6+0yTdDb4K3/UIIQ==;U3ET+EXwmPaAzrAR3n634w=="
+secured: "315W5BpXpn3oJG/dq/N4dvRz96QjxLuM5KZQaibfYGpzpnHKSKP8BFIOeJZHAIjsO/2W2EkehYayrKSur5/QNgKr62Yh897UgKjU3fbPCATgEGuuQuTFgz/I8HNScR+FPmtiQMdFlugDZwpxReKkQI8XgZgefY0ol0GOuRrK6/1sOiEF/kW2IoIFI3svTbatX6P2vLsPINVmzwXeFrLMt3ioYVMPAtYGcjpnJfwc5D+WyMBW3RzyTx7MS6ke5roJXOEt2EMqXSqRz3oognsBHylXgXm2zDN6Njj68iIQO6WOJUgGesyo/hzpU1TXnUaJ1C38BCFNSOYdedJ4yyW2Tw==;F0gyCIU7A681WutT1TuL1A=="
 ---
 
