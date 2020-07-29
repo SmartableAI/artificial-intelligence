@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Fraud Detector"
-excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-publishedDateTime: 2020-07-28T17:28:00Z
-webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
+excerpt: "Amazon Fraud Detector helps businesses identify online identity and payment fraud in real time using machine learning, based on the same technology developed for Amazon.com."
+publishedDateTime: 2020-07-28T18:36:00Z
+webUrl: "https://www.darkreading.com/cloud/aws-announces-general-availability-of-amazon-fraud-detector/d/d-id/1338466"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Dark Reading
+  domain: darkreading.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xjrMDUNLAyvDUknBcpbzomuBEl5E0aqczCv2dKBGmwqGLcRqJz3gP2KLQPLVpIpd85N7pFYgohTWpCtJ0CD31j0cHnAa3RMwKfNZJTZKSBL0SqHqFcn45fW2HmCmvJaE3K1KpYPQtF7hUXT49UfFgrbuluzXnjqSG4gi6sKiSqLU3qadRyXVkU81pRPGpgDL4eCBU8EwecE9325G/qvshv7FNbpvg1/gykE9C4RATQtMLJEiiMcM3/m6v710UhVqoDvYd19muD7XrTWG0V5iUGHaQhkpSycViaIccs7hxb10sFNHvYF2lzUko7sG099qMU2gk2gHpHg/FXWxoZ/25A==;xt8+9Us69hx7nuZ5Zos+2A=="
+secured: "zO/hGRpHMv19ciTZjwavf/8mQlMETX0ML3rKNsjC28QpPLx9dMpHDQYDNHqX2GvimnB1g0ztZEQgKGi2+d8qOieUr7WoPXP+2nAeEDMuX+rZuP9CIVPWWH4akuKY+3HW7hT6zrHxYWV51OqVNFl2ljWJidKP80cWo6Wxwa3r2cQlEE9CF8P4S06VvvFJagXdkeOSsHqU+uLIEnXTJ6W6Ta0MrA8AQ00Ge6/nKib6ruuZLet5+mDwiB8yPAGH10q8BBpq77lsAS3BlofDtMQtsQp/rXbk0cGt4e17CozPykKX7VhnQX8gkBTFDkDM8a1Kxfq6+eiUjjn/zTTVeNbqOA==;qn+zP0YtTjpjfQ7xDp3z6Q=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-30-adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity.md",
+      "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
+      "excerpt": "Automation Anywhere sees enterprises investing in digital workers to build resiliency in their future business plans",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/bb20c7c0ed449b8d619e48b358411162-1200-80.jpg",
+          "width": 622,
+          "height": 350,
+          "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
+      "publishedDateTime": "2020-06-30T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-cognitive-grc-limited-launches-following-management-buyout-of-cordium-asia-limited.md",
       "title": "Cognitive GRC Limited launches following management buyout of Cordium Asia Limited",
       "excerpt": "2020 /PRNewswire/ -- Cognitive GRC Limited (Cognitive GRC), specialist providers of governance, risk and compliance services, announces its launch following a management buyout of Cordium Asia ...",
@@ -1294,47 +1345,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-sas-microsoft-partner-to-further-shape-future-of-analytics-and-ai.md",
-      "title": "SAS, Microsoft partner to further shape future of analytics and AI",
-      "excerpt": "Microsoft Corporation and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business solutions and unlocking critical value from their digital transformation initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/KBpdg7pzEAzqLEew",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/k-KrNcDkdz_xM9SDHP5O4k9y9X152gcmWw7DNu7IR_QQRsB5vwbWfcT-f09xWshd5LkFrDfwd6SHQda5Zq9D-lk=w400-h312-c",
-          "width": 400,
-          "height": 312,
-          "title": "SAS, Microsoft partner to further shape future of analytics and AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
-      "publishedDateTime": "2020-06-18T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

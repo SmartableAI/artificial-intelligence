@@ -2,6 +2,288 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-29-artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.md",
+      "title": "Artificial intelligence can aid in faster, better Alzheimer’s diagnosis, says study",
+      "excerpt": "London: Artificial intelligence (AI ... at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asianage.com/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200729204429.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
+      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
+      "publishedDateTime": "2020-07-29T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Asian Age",
+        "domain": "asianage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech.md",
+      "title": "Instrumental raises $20M to scale its AI-powered manufacturing tech",
+      "excerpt": "Instrumental, a startup that uses vision-powered AI to detect manufacturing anomalies, announced that it has closed a $20 million Series B led by Canaan Partners. The company had previously raised $10.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Headshot-Anna-Katrina-Shedletsky-CEO.png?w=300",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/amp/",
+      "publishedDateTime": "2020-07-29T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook.md",
+      "title": "Microsoft: We're taking over Windows 10 PyTorch AI library from Facebook",
+      "excerpt": "Facebook has used PyTorch and deep-learning framework Caffe2 for Translate, an AI tool that powers translations for the 48 most commonly used languages on Facebook. PyTorch, as the name suggests, is a package for the hugely popular Python programming language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/07/28/09edeebe-5d34-4c16-b517-2f5431d51418/thumbnail/1200x675/ead4664afaffff3e1ed47e906cacf503/developersistock-665158684a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
+      "publishedDateTime": "2020-07-29T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-a-key-self-driving-car-supplier-is-finally-going-public-through-a-spac.md",
+      "title": "A Key Self-Driving Car Supplier Is Finally Going Public Through a SPAC",
+      "excerpt": "Special purpose acquisition company (SPAC) Graf Industrial Corp. (NYSE:GRAF) announced earlier this month that it will acquire Velodyne Lidar, a company that supplies 3D mapping for self-driving car capabilities. After completing the acquisition sometime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F583902%2Fcars-driving-with-a-communications-field-around-them.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx",
+      "publishedDateTime": "2020-07-29T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-intel-researchers-create-ai-system-that-rates-similarity-of-2-pieces-of-code.md",
+      "title": "Intel researchers create AI system that rates similarity of 2 pieces of code",
+      "excerpt": "Machine programming (a term coined by Intel Labs and MIT) aims to tackle this with automated, AI-driven tools. A key technology is code similarity, or systems that attempt to determine whether two ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/29/intel-researchers-create-ai-system-that-rates-similarity-of-two-pieces-of-code/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/29/intel-researchers-create-ai-system-that-rates-similarity-of-two-pieces-of-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/29/intel-researchers-create-ai-system-that-rates-similarity-of-two-pieces-of-code/amp/",
+      "publishedDateTime": "2020-07-29T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-inveniai-enters-strategic-artificial-intelligence-ai-and-machine-learning-ml-focused-collaboration-with-glaxosmithkline-consumer-healthcare.md",
+      "title": "InveniAI Enters Strategic Artificial Intelligence (AI) and Machine Learning (ML) Focused Collaboration with GlaxoSmithKline Consumer Healthcare",
+      "excerpt": "Three-year strategic collaboration to leverage InveniAI’s AI- and ML-powered Platform, AlphaMeld® after a successful proof-of-value",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/inveniai-enters-strategic-artificial-intelligence-ai-and-machine-learning-ml-focused-collaboration-with-glaxosmithkline-consumer-healthcare-1029444885",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-juniper-extends-ai-driven-network-insights-to-wan-and-branch-locations.md",
       "title": "Juniper extends AI-driven network insights to WAN and branch locations",
       "excerpt": "The new capabilities are a part of Juniper's growing focus on AI-driven operations, which it stepped up last year with its acquisition of Mist Systems. Mist and Juniper have alrea",
@@ -48,47 +330,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study.md",
-      "title": "Artificial intelligence can speed up and improve Alzheimer’s diagnosis: Study",
-      "excerpt": "Artificial intelligence (AI ... Scientists at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/07/alzihmers-660.jpg",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/",
-      "publishedDateTime": "2020-07-29T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -926,245 +1167,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-facebook-passes-pytorch-for-windows-development-to-microsoft.md",
-      "title": "Facebook passes PyTorch for Windows development to Microsoft",
-      "excerpt": "Microsoft has pledged to expand its participation in PyTorch to take ownership of the Facebook-led machine learning framework's development on Windows.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/",
-      "publishedDateTime": "2020-07-28T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker.md",
-      "title": "How SNCF Réseau and Olexya migrated a Caffe2 vision pipeline to Managed Spot Training in Amazon SageMaker",
-      "excerpt": "This blog post is co-written by guest authors from SNCF and Olexya. Transportation and logistics are fertile ground for machine learning (ML). In this post, we show how the French state-owned railway company Soci&eacute;t&eacute; Nationale des Chemins de fer Fran&ccedil;ais (SNCF) uses ML from AWS with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T09:54:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-podcast-editor-descript-adds-new-pro-tier-with-access-to-its-ai-voice-double-feature.md",
-      "title": "Podcast editor Descript adds new pro tier with access to its AI voice double feature",
-      "excerpt": "Descript, the maker of artificial intelligence-powered audio editing software, is launching a new tier of subscription today called Descript Pro that features access to its Overdub feature. Overdub, first released in beta last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/o_8is0wzt7RbChOC5Y9kp8mGoOs=/0x0:2196x1620/1400x933/filters:focal(923x635:1273x985):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67121420/descript_2.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
-      "publishedDateTime": "2020-07-28T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-cheryl-ingstad-director-of-the-ai-and-technology-office-us-department-of-energy-doe.md",
-      "title": "Cheryl Ingstad, Director of the AI and Technology Office, U.S. Department of Energy (DOE)",
-      "excerpt": "The US Department of Energy has been at the forefront of most of the groundbreaking and world-changing revolutions in science and technology including nuclear energy, genomics, and high-performance computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/28/the-us-department-of-energy-is-a-surprising-powerhouse-in-ai-an-interview-with-cheryl-ingstad-director-ai-and-technology-office-at-us-department-of-energy-doe/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f20365d77eef46748b9a9db%2F0x0.jpg",
-          "width": 1200,
-          "height": 1553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/28/the-us-department-of-energy-is-a-surprising-powerhouse-in-ai-an-interview-with-cheryl-ingstad-director-ai-and-technology-office-at-us-department-of-energy-doe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/28/the-us-department-of-energy-is-a-surprising-powerhouse-in-ai-an-interview-with-cheryl-ingstad-director-ai-and-technology-office-at-us-department-of-energy-doe/amp/",
-      "publishedDateTime": "2020-07-28T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-elon-musk-wants-to-unite-the-human-brain-with-ai-using-a-tiny-implant.md",
-      "title": "Elon Musk wants to unite the human brain with AI using a tiny implant",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F28%252F0b%252Fd555b7c7b93142d59e1382b7504f8ac6.29b8b.jpg%252F1200x630.jpg?signature=0ul5lcJR6ywpbjzcZ9m-3rhAnWU=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
-      "publishedDateTime": "2020-07-28T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

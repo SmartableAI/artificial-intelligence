@@ -2,6 +2,659 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-10-exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-13-billion-deal.md",
+      "title": "Exclusive: Amazon plans at least $100 million to keep Zoox talent after $1.3 billion deal",
+      "excerpt": "Amazon.com Inc plans to create at least $100 million in stock awards to retain the 900-plus employees of Zoox, the self-driving car startup it offered to buy last month, and can walk away from the deal if large numbers of them turn down job offers from the technology giant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200709&t=2&i=1525229344&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG681UD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "publishedDateTime": "2020-07-09T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023.md",
+      "title": "AI in Fintech Market 2019: UpStream and Downstream Fundamentals, Import-Export Data, Rapidly Increasing Growth Rate and Revenue Share Till 2023",
+      "excerpt": "According to the latest research “AI in Fintech Market” share is predicted to gain better growth in upcoming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-artificial-intelligence-will-aid-in-better-decision-making-capacity.md",
+      "title": "‘Artificial Intelligence will aid in better decision-making capacity’",
+      "excerpt": "MUMBAI: Artificial intelligence (AI) will not only help to resolve complex global problems but can enable businesses make better decisions on a day-to-day basis if applied well, said panelists at the Mint Pivot or Perish webinar on automation in the new normal post covid pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity-11594342977989.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/07/10/600x338/AI-kkGH--621x414@LiveMint_1594343197035.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "publishedDateTime": "2020-07-09T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-elon-musk-brags-that-tesla-is-very-close-to-full-level-5-self-driving.md",
+      "title": "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving",
+      "excerpt": "That dream, formally known as Level 5 autonomy, is probably still many years out — but Tesla CEO Elon Musk believes it could be right around the corner. In a video message recorded for the opening of Shanghai’s annual World Artificial Intelligence Conference (WAIC),",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-tesla-close-level-5-autonomy/amp",
+      "publishedDateTime": "2020-07-09T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-automated-machine-learning-is-the-rising-star-of-ai-driven-industrial-analytics.md",
+      "title": "Automated Machine Learning is the Rising Star of AI-Driven Industrial Analytics",
+      "excerpt": "To that end, our SKF Enlight AI maintenance 4.0 solution is built on Automated Machine Learning (AutoML). Freddy Hernandez, Director Connected Technologies at SKF explains. Unscheduled downtime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/automated-machine-learning-is-the-rising-star-of-ai-driven-industrial-analytics-2020-07-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive.md",
+      "title": "DeepMind's 'StarCraft' Victory Was as Worrying as It Was Impressive",
+      "excerpt": "At the risk of underselling everything that preceded it, the real Oh Shit moment of DeepMind’s StarCraft II demonstration didn’t arrive until the ninth game. To be fair, the entire event had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/5c5b566ffdd31300072783c6/lede/1549489801706-LegacyoftheVoid2.png?crop=1xw:0.9302325581395349xh;center,center",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive",
+      "publishedDateTime": "2020-07-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-aws-announces-general-availability-of-aws-iot-sitewise.md",
+      "title": "AWS Announces General Availability of AWS IoT SiteWise",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS IoT SiteWise",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200709005928/en/AWS-Announces-General-Availability-AWS-IoT-SiteWise",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200709005928/en/804472/23/AWS_logo_new.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis.md",
+      "title": "Deep Learning Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis",
+      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-elon-musk-tesla-is-close-to-achieving-basic-level-5-autonomy-for-its-cars.md",
+      "title": "Elon Musk: Tesla is close to achieving basic level 5 autonomy for its cars",
+      "excerpt": "Tesla's recent market performance surprised many when the company revealed that it had delivered no less than 90,000 vehicles in the second quarter of this year, which is even more impressive when you account for the pandemic-related factory shutdowns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-34.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html",
+      "publishedDateTime": "2020-07-09T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-a-sushi-restaurant-chain-in-japan-is-using-ai-to-evaluate-tuna-cuts.md",
+      "title": "A sushi restaurant chain in Japan is using AI to evaluate tuna cuts",
+      "excerpt": "A Japanese advertising agency has created an app that uses AI to allow humans to easily grade the quality of a tuna cut.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-dreams-of-sushi-224552215.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Ff6e525a0-c231-11ea-9767-ba6e4c96ee25&client=amp-blogside-v2&signature=36229eb63dc4f49c07c0bb822fe8f32f26476ac0",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-dreams-of-sushi-224552215.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-dreams-of-sushi-224552215.html",
+      "publishedDateTime": "2020-07-09T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-detecting-and-analyzing-incorrect-model-predictions-with-amazon-sagemaker-model-monitor-and-debugger.md",
+      "title": "Detecting and analyzing incorrect model predictions with Amazon SageMaker Model Monitor and Debugger",
+      "excerpt": "Convolutional neural networks (CNNs) achieve state-of-the-art results in tasks such as image classification and object detection. They are used in many diverse applications, such as in autonomous driving to detect traffic signs and objects on the street, in healthcare to more accurately classify anomalies",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-analyzing-incorrect-model-predictions-with-amazon-sagemaker-model-monitor-and-debugger/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/09/detecting-analyzing-model-predictions-021.jpg",
+          "width": 800,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T14:25:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-announcing-the-launch-of-amazon-comprehend-custom-entity-recognition-real-time-endpoints.md",
+      "title": "Announcing the launch of Amazon Comprehend custom entity recognition real-time endpoints",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that can extract key phrases, places, names, organizations, events, sentiment from unstructured text, and more (for more information, see Detect Entities). But what if you want to add entity types unique to your business, like proprietary",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-amazon-comprehend-custom-entity-recognition-real-time-endpoints/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/09/comprehend-custom-real-time-endpoints-001.jpg",
+          "width": 800,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T13:53:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-optimizing-io-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker.md",
+      "title": "Optimizing I/O for GPU performance tuning of deep learning training in Amazon SageMaker",
+      "excerpt": "GPUs can significantly speed up deep learning training, and have the potential to reduce training time from weeks to just hours. However, to fully benefit from the use of GPUs, you should consider the following aspects: Optimizing code to make sure that underlying hardware is fully utilized Using the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/01/gpu-performance-sagemaker-1.gif",
+          "width": 719,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T12:11:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025.md",
+      "title": "Global AI Chips Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 09, 2020 (The Expresswire) -- Global AI Chips Market Research Report\" Provides Detailed Insight Covering all Important Parameters Including Development Trends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-ai-wants-to-make-your-writing-more-polite.md",
       "title": "AI wants to make your writing more polite",
       "excerpt": "Carnegie Mellon University scientists come up with a technique that automatically makes communication better mannered, thank you very much.",
@@ -282,6 +935,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-09-natural-language-processing-nlp-market-size-is-projected-to-reach-usd-276-billion-by-2026-valuates-reports.md",
+      "title": "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591",
+      "publishedDateTime": "2020-07-09T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft.md",
       "title": "AI researchers create testing tool to find bugs in NLP from Amazon, Google, and Microsoft",
       "excerpt": "A testing tool called CheckList found mistakes in commercially available AI from Amazon, Google, and Microsoft; CheckList won Best Paper award at ACL.",
@@ -378,47 +1072,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-natural-language-processing-nlp-market-size-is-projected-to-reach-usd-276-billion-by-2026-valuates-reports.md",
-      "title": "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports",
-      "excerpt": "BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to the rising interest in human-to-machine communications and increasing demand ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
-          "width": 920,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -726,672 +1379,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-artificial-intelligence-the-case-for-regulation.md",
-      "title": "Artificial Intelligence: The Case for Regulation",
-      "excerpt": "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society.",
-      "sourceUrl": null,
-      "webUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png",
-          "width": 850,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
-      "cdnAmpWebUrl": "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
-      "publishedDateTime": "2020-07-09T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cherwell Online",
-        "domain": "cherwell.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ask-a-techspert-how-do-machine-learning-models-explain-themselves.md",
-      "title": "Ask a Techspert: How do machine learning models explain themselves?",
-      "excerpt": "Editor’s Note: Do you ever feel like a fish out of water? Try being a tech novice and talking to an engineer at a place like Google. Ask a Techspert is a series on the Keyword asking Googler experts to explain complicated technology for the rest of us. This isn’t meant to be comprehensive, but just enough",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/-_ky4crC.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "publishedDateTime": "2020-07-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-lunar-rover-footage-upscaled-with-ai-is-as-close-as-youll-get-to-the-experience-of-driving-on-the-moon.md",
-      "title": "Lunar Rover Footage Upscaled With AI Is as Close as You'll Get to the Experience of Driving on the Moon",
-      "excerpt": "The last time astronauts walked on the moon was in December of 1972, decades before high-definition video cameras were available. They relied on low-res grainy analog film to record their adventures,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bvsvydnbbayrymqooops.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664/amp",
-      "publishedDateTime": "2020-07-09T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-jadc2-tops-pentagons-artificial-intelligence-efforts.md",
-      "title": "JADC2 tops Pentagon’s artificial intelligence efforts",
-      "excerpt": "The Pentagon’s Joint Artificial Intelligence Center is focused on overlaying AI tools on the military’s mega information-sharing platform effort, called Joint All Domain Command and Control.",
-      "sourceUrl": null,
-      "webUrl": "https://fcw.com/articles/2020/07/09/williams-jaic-ai.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIdatamodel.jpg",
-          "width": 760,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Federal Computer Week",
-        "domain": "fcw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories.md",
-      "title": "AI at the Edge is enabling the push toward defect-free factories",
-      "excerpt": "On-floor factory edge computing is enabing manufacturers to identify 99.6% of errors before a product ever leaves the line.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/09/ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-726796087.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/09/ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories/amp/",
-      "publishedDateTime": "2020-07-09T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall.md",
-      "title": "New York City public schools will reopen with 'blended learning' in the fall",
-      "excerpt": "New York City, the largest school district in the US, revealed that students will partially return to schools in the fall using \"blended learning.\" Mayor Bill de Blasio on Wednesday said that public school students will attend in-person classes two to three days a week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/FVZ4WPALIpd6pmHVCuQWAfRpRFk=/756x567/2020/04/24/a210ff3d-ed5d-459c-b234-7f29daf261bf/coronavirus-students-online-learning-schools-education-6137.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
-      "publishedDateTime": "2020-07-09T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-vecna-robotics-recognized-for-excellence-in-robotics-supply-chain-and-logistics-automaton.md",
-      "title": "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automaton",
-      "excerpt": "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced it has been recognized as the recipient of three indus",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200709005592/en/Vecna-Robotics-Recognized-Excellence-Robotics-Supply-Chain",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200709005592/en/804309/23/Vecna_RGB_Large.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-google-cloud-lands-renault-as-analytics-machine-learning-ai-customer.md",
-      "title": "Google Cloud lands Renault as analytics, machine learning, AI customer",
-      "excerpt": "Automaker Renault said it will use Google Cloud's analytics, machine learning and artificial intelligence services on a wide range of initiatives to make the company more efficien",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-cloud-lands-renault-as-analytics-machine-learning-ai-customer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/06/6e9b52e0-b81b-4e65-885d-e3d864d25019/thumbnail/1200x675/b1057c38f5ec4d51d8e0631e886fb62d/nokia-data-center-customers.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-cloud-lands-renault-as-analytics-machine-learning-ai-customer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-lands-renault-as-analytics-machine-learning-ai-customer/",
-      "publishedDateTime": "2020-07-09T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-researchers-propose-ai-for-detecting-fraudulent-crowdfunding-campaigns.md",
-      "title": "Researchers propose AI for detecting fraudulent crowdfunding campaigns",
-      "excerpt": "In a new preprint study, researchers propose AI to detect fraudulent crowdfunding campaigns at publication time -- even without donor activity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/09/researchers-propose-ai-that-can-identify-fraudulent-crowdfunding-campaigns/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/01/crowdfunding-e1594302470246.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/09/researchers-propose-ai-that-can-identify-fraudulent-crowdfunding-campaigns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/researchers-propose-ai-that-can-identify-fraudulent-crowdfunding-campaigns/amp/",
-      "publishedDateTime": "2020-07-09T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning.md",
-      "title": "Digital Transformation Isn’t About ERP Anymore, It’s About Automation With Machine Learning",
-      "excerpt": "All good, for sure. But is this a sustainable role given what’s happening with machine learning? Clearly, companies will invest heavily in automaton to save money and eliminate, streamline and optimize processes. They will map and mine their business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1224178306%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
-      "publishedDateTime": "2020-07-09T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-10-ways-ai-is-improving-new-product-development.md",
-      "title": "10 Ways AI Is Improving New Product Development",
-      "excerpt": "Product Development teams the most advanced in their use of AL & ML achieve greater economies of scale, efficiency and speed gains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/09/10-ways-ai-is-improving-new-product-development/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f069da8f98d0200068ca5ee%2F0x0.jpg",
-          "width": 1200,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/09/10-ways-ai-is-improving-new-product-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/09/10-ways-ai-is-improving-new-product-development/amp/",
-      "publishedDateTime": "2020-07-09T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ardigen-enters-into-research-collaboration-with-cvc-to-apply-artificial-intelligence-for-identification-of-t-cell-targets.md",
-      "title": "Ardigen Enters Into Research Collaboration With CVC to Apply Artificial Intelligence for Identification of T-cell Targets",
-      "excerpt": "Ardigen is harnessing advanced Artificial Intelligence methods for novel precision medicine. The company accelerates therapy development by decoding microbiome, designing immunity and providing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ardigen-enters-into-research-collaboration-with-cvc-to-apply-artificial-intelligence-for-identification-of-t-cell-targets-301089273.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/969153/Ardigen_SA_Logo.jpg?p=facebook",
-          "width": 798,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-how-ibm-is-fighting-covid-19-with-ai.md",
-      "title": "How IBM is fighting COVID-19 with AI",
-      "excerpt": "Dr. David Cox, IBM Director of the MIT-IBM Watson AI lab of IBM Research, tells Tonya Hall about ten new projects IBM has launched to combat COVID-19 and highlights some of the biggest projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/how-ibm-is-fighting-covid-19-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/09/8a8ac6f5-dccb-4ccb-844b-825f89213789/thumbnail/770x578/5ff5a512761d1c086e057fcc8956b566/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-break-into-artificial-intelligence-with-this-four-course-online-training-for-35.md",
-      "title": "Break into artificial intelligence with this four-course online training for $35",
-      "excerpt": "Finally, there's the top-rated Tensorflow course, which will teach you how to bring all of this new knowledge together in order to create AI solutions to everyday problems, how to maintain and develop your own neural networks, and more. You don't need to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/29/e320cd29-461a-4c3d-962b-e37a0b349a5a/thumbnail/1200x675/4ef0589d4d8a8d6bf48b94ec3a85550f/uhsvr.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "publishedDateTime": "2020-07-09T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "Machine Learning"
       ]
     }
   ],

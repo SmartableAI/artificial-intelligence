@@ -7,6 +7,7 @@ webUrl: "https://www.bemidjipioneer.com/opinion/columns/6591766-COMMENTARY-The-f
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: Bemidji Pioneer
@@ -22,6 +23,6 @@ images:
     height: 712
     isCached: true
 
-secured: "6S66GQrTE348BW+m8mMDoZWdz5qJJqIwdOjeP5x5/FGP1QDiRQW5wL3FRbIBdzOdZAE3SiDauENWhUzhi1pOBqqzUNwrBEmTl29hjEUpPWRhvpddZa5LY8K1iGNpLGpl89hc1e870YC8jAoiH0xZ6Wb87v0aXVAPbJ8U+OmyViFT94zJg659joC2Uh7K3Xaf4kck8yac6sfFv4k37cqR1G/7ka8RyQkrs3/LmBQBrHHYbyQHjjyX2Ms2vtxtN+xU9OAJl5afElfH/zLGR4C1pmdlCtlyHnLvabdSo3Sz/FHnofoLWfPg5NoJ21B5WnSZHGBBES7dxTTYym2xBGn55A==;02SRPRiz5Jv8/rP73Fb4fg=="
+secured: "TxVF5d5llPcG4UrMe8sOqZjg7GVJwoM7lK37YYzDv6T3hNdWwfO+x/xbhooEF2dLB/08sxkxoPwlyuuR1I36+CSvyTLloU9pGo/V3jjtB9WEFXhPyBmaNGv2YqcAPwqmphzOcK0FEbGJ5Qk4kqXK+MmoJIi+ySF77nhMDj1PqyDOI0VPTth4IMdBJLIrvqFk6W/nThCAnSrC1SRKTrib8ABieQ0Ev5/keaQqjsncVbFmpmukX0BGg+YygYD+ObCmf48ebPGZENBk+FrHs8/2GRuzR7BKRkdIl7NQhLMGgEKyxRbCZIBjrCwihXo+tAAFri+fpImWu9wm+HY/obgHF4JFQ2/P60QNS2LvnFg2Z/CCoQDCXQNf+oFaUm1YiKLjD2JoaVTsHNNUQha2ssI0Q564T7bgGvxM5SNbYZ2XgNf4XZ1JOPBzcVdtaNh32h7ePAZC5/fUxBeTvx7eAoT6lpsJ2JUkpMBtSz0gkTl6SBv+3fFW66q+InK0V2S4Bq+Edk0EIo1c/C4o4NpD6mTlWA==;eViHLS1WeSVZNVphYT4vsw=="
 ---
 

@@ -7,6 +7,7 @@ webUrl: "https://www.eejournal.com/industry_news/stmicroelectronics-releases-stm
 type: article
 quality: 8
 heat: 8
+published: false
 
 provider:
   name: Electronic Engineering Journal

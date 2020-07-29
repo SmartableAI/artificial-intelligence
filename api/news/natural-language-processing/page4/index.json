@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-24-apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly.md",
+      "title": "Apple’s Core ML now lets app developers update AI models on the fly",
+      "excerpt": "Apple's Core ML can now update AI models without the need to ship an App Store update, while Create ML now has an action classification template.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/apple-core-ml.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 574,
+          "title": "Apple’s Core ML now lets app developers update AI models on the fly",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
+      "publishedDateTime": "2020-06-24T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-attacks.md",
       "title": "IRONSCALES Deploys Natural Language Processing to Automatically Prevent Business Email Compromise Attacks",
       "excerpt": "TEL AVIV, Israel and ATLANTA, June 24, 2020 /PRNewswire-PRWeb/ -- IRONSCALES, the pioneer of self-learning email security, today announced that it has deployed natural language processing (NLP), using advanced machine learning (ML) and neural networks ...",

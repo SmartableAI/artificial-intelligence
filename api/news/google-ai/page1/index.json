@@ -487,6 +487,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-22-kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes.md",
+      "title": "Kunstmatige intelligentie DeepMind creëert zelf algoritmes",
+      "excerpt": "Onderzoekers van DeepMind hebben een techniek ontdekt waarbij kunstmatige intelligentie (AI) zelf algoritmes kan genereren. Het bijzondere daarbij is dat het zelflerende algoritmes zijn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzine.nl/nieuws/data/444525/kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.tz.nl/wp-content/uploads/2018/06/shutterstock_678583375.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techzine.nl",
+        "domain": "techzine.nl",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-deepmind-supports-further-scholarships-for-cambridge-students-from-backgrounds-under-represented-in-computer-science.md",
       "title": "DeepMind supports further scholarships for Cambridge students from backgrounds under-represented in Computer Science",
       "excerpt": "New gift builds on the success of first cohort of DeepMind Cambridge scholars. The gift from DeepMind will fund up to three one-year Master’s courses and two three-year PhD scholarships in the fields of Computer Science and Machine Learning,",
@@ -616,6 +657,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-19-openai-und-deepmind-bestimmen-die-debatte-um-kunstliche-intelligenz.md",
+      "title": "OpenAI und DeepMind bestimmen die Debatte um künstliche Intelligenz",
+      "excerpt": "San Francisco/Mountain View Die Möglichkeiten Künstlicher Intelligenz sind unendlich, sagen Forscher. Und doch können wir mitbestimmen, wo die Grenzen liegen. Denn wie in Dürrenmatts „Die ...",
+      "sourceUrl": null,
+      "webUrl": "https://rp-online.de/kultur/openai-und-deepmind-bestimmen-die-debatte-um-kuenstliche-intelligenz_aid-52218247",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rp-online.de/imgs/32/8/6/9/4/3/7/3/9/tok_c22da757dc634ae89633dcd507c91216/w1200_h630_x1500_y1009_DPA_bfunk_dpa_5F9D2400D2601D7B-a95d7fa2b3099e0a.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-19T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RP ONLINE",
+        "domain": "rp-online.de",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1359,81 +1441,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-how-do-i-install-tensorflow.md",
-      "title": "How do I install TensorFlow",
-      "excerpt": "Hello All, I am learning Tensorflow and I want to how do I install tensorflow in my system or I am looking to online tutorial of tensorflow. Can anyone know, Please suggest me.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow/amp",
-      "cdnAmpWebUrl": "https://www-daniweb-com.cdn.ampproject.org/c/s/www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow/amp",
-      "publishedDateTime": "2020-07-03T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daniweb",
-        "domain": "daniweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-tensorflow-tutorial-uses-python.md",
-      "title": "Tensorflow Tutorial Uses Python",
-      "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/07/Switch_thumbnail.png?w=600&#038;h=600",
-          "width": 600,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

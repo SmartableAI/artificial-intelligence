@@ -40,6 +40,15 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Using Machine Learning to Transform Data into Cyber Threat Intelligence"
+    excerpt: "If done correctly, the combination of threat analysis and data analysis utilized with machine learning can help security teams quickly turn raw data into effective operational cyber threat intelligence. Cyber threat intelligence could incorporate any ..."
+    publishedDateTime: 2020-07-29T14:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/machine-learning-data-intelligence/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "JxuNwm7yUt287uDCESqIMSX9VtreRwOPgIoj6e/ynkXF26BO5Lqnuaq1eYvRyOl9Nph1Av1apGRZZ1Xk5FdD1CoerWxH2ZKY1eph+tJZCc92O3NZxUKdEY7eg/6Mqw9dGf71Hb3/DvNAE8RlSKBAfEb5ySokkupLsXOXWnVpR71geDi/dV9xgmg8iQ9oKnfPVZN1hGXwX0WcF7fVjeYj/F+PzqnFFPzfpCDHw9hjlQuL4fzjBAg8aUUlAZGSyAL/9W1dvPmEbnbfegx685dqyhHf2U3W+UXnwjzreZWyQg/9YROuux8mO2KzgO7VI/exC4PSrJnXUDg6Shh1l7kklQ==;XyeLqOqmjvd2WrBktpTtEw=="
 ---

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-29-microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook.md",
+      "title": "Microsoft: We're taking over Windows 10 PyTorch AI library from Facebook",
+      "excerpt": "Facebook has used PyTorch and deep-learning framework Caffe2 for Translate, an AI tool that powers translations for the 48 most commonly used languages on Facebook. PyTorch, as the name suggests, is a package for the hugely popular Python programming language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/07/28/09edeebe-5d34-4c16-b517-2f5431d51418/thumbnail/1200x675/ead4664afaffff3e1ed47e906cacf503/developersistock-665158684a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
+      "publishedDateTime": "2020-07-29T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
       "title": "Facebook develops AI algorithm that learns to play poker on the fly",
       "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
@@ -1351,56 +1402,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-graphcore-returns-with-another-colossus-ai-chip-and-system.md",
-      "title": "Graphcore Returns With Another Colossus AI Chip And System",
-      "excerpt": "The competition to build the most advanced Artificial Intelligence (AI) processor is turning into a race to build some of largest and most advanced semiconductor chips ever made and new server platforms to take advantage of these mega chips. One of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0eff06cbf8d20007293cbd%2F0x0.jpg",
-          "width": 1141,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/",
-      "publishedDateTime": "2020-07-15T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

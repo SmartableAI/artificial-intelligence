@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.zdnet.com/article/juniper-extends-ai-driven-network-insights-to-wan-and-branch-services/</loc>
-    <lastmod>2020-07-29T04:45:00-07:00</lastmod>
+    <loc>https://www.asianage.com/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html</loc>
+    <lastmod>2020-07-29T08:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/</loc>
-    <lastmod>2020-07-29T04:34:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/</loc>
+    <lastmod>2020-07-29T07:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/</loc>
+    <lastmod>2020-07-29T06:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx</loc>
+    <lastmod>2020-07-29T06:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/29/intel-researchers-create-ai-system-that-rates-similarity-of-two-pieces-of-code/</loc>
+    <lastmod>2020-07-29T06:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/inveniai-enters-strategic-artificial-intelligence-ai-and-machine-learning-ml-focused-collaboration-with-glaxosmithkline-consumer-healthcare-1029444885</loc>
+    <lastmod>2020-07-29T05:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/juniper-extends-ai-driven-network-insights-to-wan-and-branch-services/</loc>
+    <lastmod>2020-07-29T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -139,6 +169,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://scienceblog.com/517615/looking-into-the-black-box-of-deep-learning/</loc>
+    <lastmod>2020-07-28T08:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/cognitiveworld/2020/07/28/the-us-department-of-energy-is-a-surprising-powerhouse-in-ai-an-interview-with-cheryl-ingstad-director-ai-and-technology-office-at-us-department-of-energy-doe/</loc>
     <lastmod>2020-07-28T08:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -199,6 +235,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-07-28T02:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/</loc>
     <lastmod>2020-07-28T02:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -207,6 +249,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/</loc>
     <lastmod>2020-07-28T02:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.html</loc>
+    <lastmod>2020-07-28T02:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -373,6 +421,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://thehackernews.com/2020/07/artificial-intelligence-training.html</loc>
+    <lastmod>2020-07-27T02:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece</loc>
     <lastmod>2020-07-27T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -381,6 +435,12 @@
   <url>
     <loc>https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/</loc>
     <lastmod>2020-07-27T01:00:01-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/</loc>
+    <lastmod>2020-07-27T00:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -985,6 +1045,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techzine.nl/nieuws/data/444525/kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes/</loc>
+    <lastmod>2020-07-22T03:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/</loc>
     <lastmod>2020-07-22T03:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1141,6 +1207,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.autoblog.com/press-releases/frost--sullivan-applaudes-aws-for-leading-the-automotive-cloud-services-market-with-a-comprehensive-suite-of-solutions_23870/</loc>
+    <lastmod>2020-07-21T09:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.neowin.net/news/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning</loc>
     <lastmod>2020-07-21T09:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1149,12 +1221,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/</loc>
     <lastmod>2020-07-21T09:22:13-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/frost-sullivan-applaudes-aws-for-leading-the-automotive-cloud-services-market-with-a-comprehensive-suite-of-solutions-1029415604</loc>
-    <lastmod>2020-07-21T08:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1533,6 +1599,12 @@
   <url>
     <loc>https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California</loc>
     <lastmod>2020-07-19T09:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://rp-online.de/kultur/openai-und-deepmind-bestimmen-die-debatte-um-kuenstliche-intelligenz_aid-52218247</loc>
+    <lastmod>2020-07-19T09:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2365,6 +2437,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies/article_ebf9b154-cc75-5a5c-bae3-1b4d304dc64b.html</loc>
+    <lastmod>2020-07-15T06:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/</loc>
     <lastmod>2020-07-15T06:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2571,6 +2649,12 @@
   <url>
     <loc>https://www.zdnet.com/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/</loc>
     <lastmod>2020-07-14T13:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-</loc>
+    <lastmod>2020-07-14T12:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3475,6 +3559,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591</loc>
+    <lastmod>2020-07-09T09:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/</loc>
     <lastmod>2020-07-09T09:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3482,12 +3572,6 @@
   </url>
   <url>
     <loc>https://www.bbc.com/news/technology-53349313</loc>
-    <lastmod>2020-07-09T09:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html</loc>
     <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

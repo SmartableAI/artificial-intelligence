@@ -152,6 +152,22 @@ related:
         width: 460
         height: 306
         isCached: true
+  - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
+    excerpt: "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ..."
+    publishedDateTime: 2020-07-29T15:23:00Z
+    webUrl: "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech"
+    ampWebUrl: "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart"
+    cdnAmpWebUrl: "https://www-uticaod-com.cdn.ampproject.org/c/s/www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart"
+    type: article
+    provider:
+      name: Uticaod
+      domain: uticaod.com
+    quality: 59
+    images:
+      - url: "https://www.uticaod.com/apps/pbcsi.dll/bilde?Site=NY&Date=20200729&Category=NEWS&ArtNo=200729574&Ref=AR"
+        width: 726
+        height: 480
+        isCached: true
   - title: "U.S. agency: Pandemic masks thwart face recognition tech up to 50% of the time"
     excerpt: "Under ideal conditions, the failure rate for the best algorithms is only about 0.3%, according to a study by the National Institute of Standards and Technology"
     publishedDateTime: 2020-07-28T17:05:00Z

@@ -44,22 +44,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Rite Aid used facial recognition in hundreds of stores for years"
-    excerpt: "Rite Aid used facial recognition systems in hundreds of its drugstores across the US over the last several years. According to a Reuters investigation, the technology was deployed in “largely lower-income,"
-    publishedDateTime: 2020-07-28T18:51:00Z
-    webUrl: "https://www.engadget.com/rite-aid-facial-recognition-reuters-183343353.html"
-    ampWebUrl: "https://www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fa12d9400-d102-11ea-bfff-7e127c0f1c8e&client=amp-blogside-v2&signature=bf9cd9495ada5659af3ce77c89c15cef4d3f7e25"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Rite Aid used facial recognition in secret across hundreds of its stores"
     excerpt: "Drugstore chain Rite Aid secretly deployed facial recognition software across a network of security cameras in hundreds of locations in the US, according to a new investigation from Reuters published on Tuesday."
     publishedDateTime: 2020-07-28T17:06:00Z
@@ -75,22 +59,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/B953lFLfq1FhLaf34syt53GoS3c=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67121837/acastro_180730_1777_facial_recognition_0003.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Rite Aid surveilled customers using facial recognition tech with links to China"
-    excerpt: "A new report from Reuters uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government."
-    publishedDateTime: 2020-07-28T22:01:00Z
-    webUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance/"
-    ampWebUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 100
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
-        width: 1200
-        height: 630
         isCached: true
   - title: "U.S. studies new facial recognition tech built with masked faces in mind"
     excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
@@ -212,6 +180,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
+    excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."
+    publishedDateTime: 2020-07-29T13:42:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 54
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/27QQFRYKCVDA5NIMU4CO3KFZEU.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta"
     excerpt: "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality."

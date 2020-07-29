@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -180,6 +180,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
+    excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."
+    publishedDateTime: 2020-07-29T13:42:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 54
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/27QQFRYKCVDA5NIMU4CO3KFZEU.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta"
     excerpt: "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality."

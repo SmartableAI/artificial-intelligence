@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-26T07:35:00Z
 webUrl: "https://www.arkansasonline.com/news/2020/jul/26/ram-vans-to-get-self-driving-makeover/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fiat Chrysler, Waymo to put self-driving tech into vans"
-    excerpt: "Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ProMaster Vans ..."
-    publishedDateTime: 2020-07-24T23:08:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300064787/fiat-chrysler-waymo-to-put-selfdriving-tech-into-vans"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/n/f/h/2/image.related.StuffLandscapeSixteenByNine.1420x800.4ynfgz.png/1595632028459.jpg"
-        width: 1420
-        height: 797
-        isCached: true
   - title: "Rimac using self-driving tech to develop track coaching"
     excerpt: "Dubbed Rimac Driver Coach, the feature will help drivers who have the money to buy a supercar but lack the skills to get the most out of it on a track. The system acts as a \"guardian angel,\" allowing drivers to push the limits while still maintaining a safety net,"
     publishedDateTime: 2020-07-26T12:00:00Z

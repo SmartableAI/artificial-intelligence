@@ -7,6 +7,7 @@ webUrl: "https://www.powermag.com/press-releases/abbs-new-analytics-and-ai-softw
 type: article
 quality: 23
 heat: 23
+published: false
 
 provider:
   name: POWER Magazine

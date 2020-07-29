@@ -193,6 +193,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
+    excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."
+    publishedDateTime: 2020-07-29T13:42:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 54
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/27QQFRYKCVDA5NIMU4CO3KFZEU.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "N.Y. passes moratorium on use of facial recognition in education"
     excerpt: "A moratorium on facial recognition in education may soon become a reality, as both chambers of the state legislature now have passed bills mandating a temporary ban, with the state senate passing the bill on Wednesday after the assembly passed its own bill on Tuesday."
     publishedDateTime: 2020-07-27T17:23:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2098873/quantum-computing-market-global-o
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2098873/quantum-computing-market-global-outlook-2020-2025-microsoft"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 409
     height: 400
     isCached: true
+
+related:
+  - title: "AI Infrastructure Market Size, Status and Future Outlook 2020"
+    excerpt: "Global AI Infrastructure Market Research Report published by market insight reports ... Pure Storage, CiscoNutanix, Xilinx, Facebook, Synopsys Inc., Hewlett-Packard, NVIDIA Corporation, Intel Corporation, Habana Labs, Microsoft, IBM, HPE, Google, ARM ..."
+    publishedDateTime: 2020-07-29T15:40:00Z
+    webUrl: "https://www.openpr.com/news/2099147/ai-infrastructure-market-size-status-and-future-outlook-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2099147/ai-infrastructure-market-size-status-and-future-outlook-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2099147/ai-infrastructure-market-size-status-and-future-outlook-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
 
 secured: "2C1o7jq6xrTfI2dKXzLKwdoLJ/6hRUVpmJO4pVG3ysa2w0Cm8kUCYwcPsAtKCiGj6mluf8vAG4cK3NTQyH3PUfkjPheB2XLxoZYUpKBUcLVGP+iLnF1PDdUNAD4fjatYgcKfwOZw8QYznU2pZx+J6D3DYBHEgl3P1jh4dJhSiNbA5v/bdEuwIBieGJyohC6qBxES1qg41OI4oZogBRwNc/gIw9Ot/f0uNzvF3OvqU7tbY41vAa0iA9/1ALS/ObMov3GsGH5exBPzz0AssSO2svxeSxFTkGHsrPO57Q5Z6yzJ5kaFN9Ji2qA2CKkl3gyzjZhnYU/XqodOWn6WRHCzaA==;K/NAuUYQI+1fsqu0Fp9BBw=="
 ---

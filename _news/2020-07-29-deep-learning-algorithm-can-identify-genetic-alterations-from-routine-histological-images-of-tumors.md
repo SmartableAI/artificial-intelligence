@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200728/Deep-learning-algorit
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200728/Deep-learning-algorithm-can-identify-genetic-alterations-from-routine-histological-images-of-tumors.aspx"
 type: article
 quality: 45
-heat: 55
+heat: 45
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Classifies Cancer Types, Predicts Genetic Alterations"
+    excerpt: "Researchers created a deep learning algorithm that infers molecular alterations directly from routine histology images across multiple common tumor types."
+    publishedDateTime: 2020-07-29T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/artificial-intelligence-classifies-cancer-types-predicts-genetic-alterations/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 34
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/05/Sep1_GettyImages_1140559402_DigitalDNAConcept.jpg"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "Deep learning algorithm identifies tumor subtypes based on routine histological images"
     excerpt: "Researchers at the University of Chicago Medicine Comprehensive Cancer Center, working with colleagues in Europe, created a deep learning algorithm that can infer molecular alterations directly from routine histology images across multiple common tumor types."
     publishedDateTime: 2020-07-28T13:46:00Z

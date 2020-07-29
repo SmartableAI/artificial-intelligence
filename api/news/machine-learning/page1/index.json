@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-29-inveniai-enters-strategic-artificial-intelligence-ai-and-machine-learning-ml-focused-collaboration-with-glaxosmithkline-consumer-healthcare.md",
+      "title": "InveniAI Enters Strategic Artificial Intelligence (AI) and Machine Learning (ML) Focused Collaboration with GlaxoSmithKline Consumer Healthcare",
+      "excerpt": "Three-year strategic collaboration to leverage InveniAI’s AI- and ML-powered Platform, AlphaMeld® after a successful proof-of-value",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/inveniai-enters-strategic-artificial-intelligence-ai-and-machine-learning-ml-focused-collaboration-with-glaxosmithkline-consumer-healthcare-1029444885",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-juniper-extends-ai-driven-network-insights-to-wan-and-branch-locations.md",
       "title": "Juniper extends AI-driven network insights to WAN and branch locations",
       "excerpt": "The new capabilities are a part of Juniper's growing focus on AI-driven operations, which it stepped up last year with its acquisition of Mist Systems. Mist and Juniper have alrea",
@@ -143,6 +185,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-28-looking-into-the-black-box-of-deep-learning.md",
+      "title": "Looking into the black box of deep learning",
+      "excerpt": "Deep learning systems are revolutionizing technology around us, from voice recognition that pairs you with your phone to autonomous vehicles that are increasingly able to see and recognize obstacles ahead. But much of this success involves trial and error ...",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/517615/looking-into-the-black-box-of-deep-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/07/neural-networks-mit-00_0.png",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/517615/looking-into-the-black-box-of-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517615/looking-into-the-black-box-of-deep-learning/amp/",
+      "publishedDateTime": "2020-07-28T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-explorium-raises-30-million-to-automate-data-prep-with-ai.md",
       "title": "Explorium raises $30 million to automate data prep with AI",
       "excerpt": "Explorium, a Tel Aviv-based startup developing an automated data and feature discovery platform, secured $30 million in financing.",
@@ -242,6 +325,47 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-new-machine-learning-method-allows-hospitals-to-share-patient-dataprivately.md",
+      "title": "New machine learning method allows hospitals to share patient data—privately",
+      "excerpt": "To answer medical questions that can be applied to a wide patient population, machine learning models rely on large, diverse datasets from a variety of institutions. However, health systems and hospitals are often resistant to sharing patient data,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/algorithm.jpg",
+          "width": 1500,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp",
+      "publishedDateTime": "2020-07-28T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -509,6 +633,47 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-learn-machine-learning-and-ai-online-training-program-93-off.md",
+      "title": "Learn Machine Learning and AI – Online Training Program @ 93% OFF",
+      "excerpt": "Essential AI & Machine Learning Certification Training Bundle aims to help you explore the technology, with four hands-on video courses working towards certification.",
+      "sourceUrl": null,
+      "webUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehackernews.com/images/-FUHLQOfZuO8/Xx6QR2PQ7cI/AAAAAAAAAdQ/P84ceUYGkSkXV_G5w9KVVkijiPJvFfBBACLcBGAsYHQ/s728-e100/machine-learning-artificial-intelligence.jpg",
+          "width": 728,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
+      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
+      "publishedDateTime": "2020-07-27T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hacker News",
+        "domain": "thehackernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1190,208 +1355,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects.md",
-      "title": "CMU and Facebook AI Research use machine learning to teach robots to navigate by recognizing objects",
-      "excerpt": "Carnegie Mellon today showed off new research into the world of robotic navigation. With help from the team at Facebook AI Research (FAIR), the university has designed a semantic navigation that helps robots navigate around by recognizing familiar objects.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-2.32.52-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
-      "publishedDateTime": "2020-07-20T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.md",
-      "title": "Pick up 87 hours of training on AI, machine learning, and more for under $35",
-      "excerpt": "From self-driving cars to image recognition, machine learning is already transforming the world. The Ultimate Artificial Intelligence Scientist Certification Bundle helps you understand the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/3567088/pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/sale_29690_article_image-100851817-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-everything-you-need-to-know-about-transfer-learning-in-ai.md",
-      "title": "Everything you need to know about transfer learning in AI",
-      "excerpt": "Today, artificial intelligence programs can recognize faces and objects in photos and videos, transcribe audio in real-time, detect cancer in x-ray scans years in advance, and compete with humans in some of the most complicated games.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/20/1306738-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/1-2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/20/1306738-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/20/1306738-syndication/amp/",
-      "publishedDateTime": "2020-07-20T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-deeplearning4j-deep-learning-and-etl-for-the-jvm.md",
-      "title": "Deeplearning4j: Deep learning and ETL for the JVM",
-      "excerpt": "AI products within an enterprise often have a wider scope than just machine learning. The overall goal of the distribution is to provide smart defaults for building deep learning applications. Deeplearning4j competes, at some level, with every other deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
-      "publishedDateTime": "2020-07-20T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

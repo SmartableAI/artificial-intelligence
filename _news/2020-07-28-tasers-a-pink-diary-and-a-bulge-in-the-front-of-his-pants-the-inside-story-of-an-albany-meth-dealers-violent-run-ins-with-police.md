@@ -7,6 +7,7 @@ webUrl: "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---O
 type: article
 quality: 91
 heat: 91
+published: true
 
 provider:
   name: The West Australian

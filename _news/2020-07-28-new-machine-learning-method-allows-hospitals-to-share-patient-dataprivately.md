@@ -8,8 +8,8 @@ ampWebUrl: "https://medicalxpress.com/news/2020-07-machine-method-hospitals-pati
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "New machine learning method allows hospitals to share patient data -- privately"
+    excerpt: "Penn Medicine researchers have shown that an approach called federated learning is successful in the context of brain imaging, by being able to analyze magnetic resonance imaging (MRI) scans of brain tumor patients and distinguish healthy brain tissue from cancerous regions."
+    publishedDateTime: 2020-07-28T09:27:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/uops-nml072720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data"
     excerpt: "Several studies underscore the potential of deep learning in identifying complex patterns, leading to diagnostic and prognostic biomarkers. Identifying sufficiently large and diverse datasets, required for training,"
     publishedDateTime: 2020-07-28T09:25:00Z

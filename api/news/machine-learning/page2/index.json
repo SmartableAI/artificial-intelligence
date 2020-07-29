@@ -2,6 +2,208 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-20-cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects.md",
+      "title": "CMU and Facebook AI Research use machine learning to teach robots to navigate by recognizing objects",
+      "excerpt": "Carnegie Mellon today showed off new research into the world of robotic navigation. With help from the team at Facebook AI Research (FAIR), the university has designed a semantic navigation that helps robots navigate around by recognizing familiar objects.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-2.32.52-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/",
+      "publishedDateTime": "2020-07-20T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.md",
+      "title": "Pick up 87 hours of training on AI, machine learning, and more for under $35",
+      "excerpt": "From self-driving cars to image recognition, machine learning is already transforming the world. The Ultimate Artificial Intelligence Scientist Certification Bundle helps you understand the technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/3567088/pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/sale_29690_article_image-100851817-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-everything-you-need-to-know-about-transfer-learning-in-ai.md",
+      "title": "Everything you need to know about transfer learning in AI",
+      "excerpt": "Today, artificial intelligence programs can recognize faces and objects in photos and videos, transcribe audio in real-time, detect cancer in x-ray scans years in advance, and compete with humans in some of the most complicated games.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/20/1306738-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/1-2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/20/1306738-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/20/1306738-syndication/amp/",
+      "publishedDateTime": "2020-07-20T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-deeplearning4j-deep-learning-and-etl-for-the-jvm.md",
+      "title": "Deeplearning4j: Deep learning and ETL for the JVM",
+      "excerpt": "AI products within an enterprise often have a wider scope than just machine learning. The overall goal of the distribution is to provide smart defaults for building deep learning applications. Deeplearning4j competes, at some level, with every other deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
+      "publishedDateTime": "2020-07-20T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-neural-network-software-market-growth-by-manufacturers-type-and-application-forecast-to-2026.md",
       "title": "Neural Network Software Market Growth By Manufacturers, Type And Application, Forecast To 2026",
       "excerpt": "Neural network software is used to simulate, research, develop, and apply artificial neural networks, software thoughts adapted from biological neural networks, and, in some cases, a wider array of adaptive systems for instance artificial intelligence and ...",
@@ -1225,199 +1427,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-maximizing-the-power-of-deep-learning-for-genomics.md",
-      "title": "Maximizing the Power of Deep Learning for Genomics",
-      "excerpt": "Researchers from the Max Delbrueck Center for Molecular Medicine (MDC) have developed a new tool that makes it easier to maximize the power of deep learning for studying genomics. They describe the new approach, Janggu, in the journal Nature Communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/23274/aImg/43143/july13-2020-mdc-genomics-deep-learning-scientists.jpg",
-          "width": 1440,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274/amp",
-      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274/amp",
-      "publishedDateTime": "2020-07-13T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lab Manager",
-        "domain": "labmanager.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-11-zapata-ceo-christopher-savoie-the-qc-and-ml-business-use-case-is-a-when-not-an-if.md",
-      "title": "Zapata CEO Christopher Savoie: The QC and ML business use case is ‘a when, not an if’",
-      "excerpt": "Zapata CEO Christopher Savoie explains the quantum computing and machine learning business use case: \"It's just a matter of timing that nobody knows.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/christopher-savoie.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/amp/",
-      "publishedDateTime": "2020-07-11T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-11-six-deep-learning-applications-ready-for-the-enterprise-mainstream.md",
-      "title": "Six deep learning applications ready for the enterprise mainstream",
-      "excerpt": "Deep learning, used to classify images, recognize voices and analyze video images, is emerging as the next big wave of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/six-applications-for-deep-learning-as-it-enters-the-enterprise-mainstream/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/11/c93bbf93-f4c1-4a6c-a1a1-c17d8151edff/library-yale-university-july-2015-photo-by-joe-mckendrick.jpg",
-          "width": 1224,
-          "height": 1632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/six-applications-for-deep-learning-as-it-enters-the-enterprise-mainstream/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/six-applications-for-deep-learning-as-it-enters-the-enterprise-mainstream/",
-      "publishedDateTime": "2020-07-11T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-the-path-to-real-world-artificial-intelligence.md",
-      "title": "The path to real-world artificial intelligence",
-      "excerpt": "Experts from MIT and IBM held a webinar this week to discuss where AI technologies are today and advances that will help make their usage more practical and widespread.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/the-path-to-real-world-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "publishedDateTime": "2020-07-10T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

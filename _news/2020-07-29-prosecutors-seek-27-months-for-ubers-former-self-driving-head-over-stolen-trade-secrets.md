@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/business/international-business/
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/international-business/us-business/article-prosecutors-seek-27-months-for-ubers-former-self-driving-head-over/"
 type: article
 quality: 35
-heat: 55
+heat: 35
 published: false
 
 provider:

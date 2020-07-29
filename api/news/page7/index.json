@@ -2,6 +2,494 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-22-elon-musk-said-people-who-dont-think-ai-could-be-smarter-than-them-are-way-dumber-than-they-think-they-are.md",
+      "title": "Elon Musk said people who don't think AI could be smarter than them are 'way dumber than they think they are'",
+      "excerpt": "\"The people I see being the most wrong about AI are the ones who are very smart,\" Tesla CEO Elon Musk said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f18bd914dca685317008a54?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7?amp",
+      "publishedDateTime": "2020-07-22T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-microsofts-ai-powered-eye-contact-feature-is-finally-coming-to-the-surface-pro-x.md",
+      "title": "Microsoft’s AI-powered ‘Eye Contact’ feature is finally coming to the Surface Pro X",
+      "excerpt": "Microsoft’s AI-powered “eye contact” feature for the Surface Pro X is finally starting to roll out, months after it was originally announced for the ARM-powered Surface laptop last year. The new feature is rolling out now as part of Windows 10 Insider Preview Build 20175,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/xR8oAKV3jbaat6T1m-otd2NQpSQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67094197/vpavic_191101_3747_0024.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out",
+      "publishedDateTime": "2020-07-22T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-googles-ai-based-product-recommendations-tool-is-now-available-in-beta.md",
+      "title": "Google's AI-based product recommendations tool is now available in beta",
+      "excerpt": "Google announced today that its Recommendations AI service, designed to provide a personalized product recommendations to online customers, is now rolling out to the public in beta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/googles-ai-based-product-recommendations-tool-is-now-available-in-beta",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2018/02/1518707530_google2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/",
+      "publishedDateTime": "2020-07-22T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-new-york-bans-use-of-facial-recognition-in-schools-statewide.md",
+      "title": "New York bans use of facial recognition in schools statewide",
+      "excerpt": "New York state passed legislation that would ban the use of facial recognition in schools, if signed by Governor Andrew Cuomo.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
+      "publishedDateTime": "2020-07-22T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-ram-promaster-vans-will-test-waymos-self-driving-technology-for-commercial-use.md",
+      "title": "Ram ProMaster Vans Will Test Waymo's Self-Driving Technology for Commercial Use",
+      "excerpt": "The road to autonomous driving is an extremely long journey. While some companies are going it alone, FCA has decided teaming up with Waymo is the best way to bring Level 4 self-driving to its lineup. This means that, when the technology is ready ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.caranddriver.com/news/a33395020/waymo-fca-ram-promaster-self-driving/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ram-promaster-mmp-1-1593097917.jpg?crop=0.667xw:0.686xh;0.176xw,0.187xh&resize=1200:*",
+          "width": 960,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/",
+      "publishedDateTime": "2020-07-22T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend.md",
+      "title": "Extracting custom entities from documents with Amazon Textract and Amazon Comprehend",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that makes it easy to extract text and data from scanned documents. Textract goes beyond simple optical character recognition (OCR) to identify the contents of fields in forms and information stored in tables. This allows you to use Amazon Textract to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T13:24:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-microsoft-reports-38-billion-in-q4-2020-revenue-azure-up-47-surface-up-28-and-linkedin-up-10.md",
+      "title": "Microsoft reports $38 billion in Q4 2020 revenue: Azure up 47%, Surface up 28%, and LinkedIn up 10%",
+      "excerpt": "Microsoft today reported fiscal Q4 2020 earnings, including revenue of $38.0 billion, net income of $11.2 billion, and earnings per share of $1.46.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/amp/",
+      "publishedDateTime": "2020-07-22T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center.md",
+      "title": "Elon Musk claims his brain chip can stimulate your pleasure center",
+      "excerpt": "Neuralink‘s mission has never quite been clear. We know it’s working on a chip designed to be surgically inserted into the human skull called a brain-computer interface (BCI), but exactly what and who it’s for remains a bit of a mystery.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
+      "publishedDateTime": "2020-07-22T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-increasing-engagement-with-personalized-online-sports-content.md",
+      "title": "Increasing engagement with personalized online sports content",
+      "excerpt": "This is a guest post by Mark Wood at Pulselive. In their own words, “Pulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.” At Pulselive, we create experiences sports fans can’t live without; whether that’s the official Cricket World Cup website or the English",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/21/pulselive-2.jpg",
+          "width": 800,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T11:27:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-ibm-innovation-preview-automation-of-ai.md",
+      "title": "IBM Innovation Preview: Automation of AI",
+      "excerpt": "\nIBM’s second Innovation Preview event features AI experts and IBM executives as they share exciting new developments made by IBM Research in the field of Automation of AI. In the event, now available online, these leaders present three ways to leverage automation for AI: Accurately digitize and streamline",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/07/ibm-innovation-preview-automation-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/07/1097_Automation_of_AI_Blog_Leadspace_Final-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T11:26:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-retrievegan-ai-tool-combines-scene-fragments-to-create-new-images.md",
       "title": "RetrieveGAN AI tool combines scene fragments to create new images",
       "excerpt": "Researchers developed an AI system that takes scene descriptions and learns to select compatible image patches to create entirely new images.",
@@ -675,111 +1163,20 @@
       ]
     },
     {
-      "path": "_news/2020-07-22-new-look-for-microsoft-office-and-microsoft-365-will-tackle-work-life-distractions-on-desktop-and-mobile.md",
-      "title": "New look for Microsoft Office and Microsoft 365 will tackle work-life distractions on desktop and mobile",
-      "excerpt": "Microsoft readies a new ribbon UI for Office that can move around the window and offers commands the second they're needed.",
+      "path": "_news/2020-07-22-kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes.md",
+      "title": "Kunstmatige intelligentie DeepMind creëert zelf algoritmes",
+      "excerpt": "Onderzoekers van DeepMind hebben een techniek ontdekt waarbij kunstmatige intelligentie (AI) zelf algoritmes kan genereren. Het bijzondere daarbij is dat het zelflerende algoritmes zijn ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/22/3abb2f18-7749-4c6e-b7e9-b8dc66d38100/thumbnail/1200x675/b2ca1d434b81a43f8b36d8e8ab7e4224/istock-867179816.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "publishedDateTime": "2020-07-22T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-police-claim-violent-extremists-exploit-coronavirus-to-defeat-facial-recognition-leaked-files-show.md",
-      "title": "Police claim 'violent extremists' exploit coronavirus to defeat facial recognition, leaked files show",
-      "excerpt": "Leaked documents reveal the message sent to police behind closed doors: face masks \"embolden some individuals to escalate violence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F22%252F56%252Faa3f838f27ed4b0790aeec22bb0c2b29.eb367.jpg%252F1200x630.jpg?signature=LYdsF0JHdjMt-Mdl8_3CQBS14UU=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "publishedDateTime": "2020-07-22T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-a-residual-based-deep-learning-approach-for-ghost-imaging.md",
-      "title": "A residual-based deep learning approach for ghost imaging",
-      "excerpt": "Ghost imaging using deep learning (GIDL) is a kind of computational quantum imaging method devised to improve the imaging efficiency. However, among most proposals of GIDL so far, the same set of random patterns were used in both the training and test set ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-020-69187-5",
+      "webUrl": "https://www.techzine.nl/nieuws/data/444525/kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-69187-5/MediaObjects/41598_2020_69187_Fig3_HTML.png",
-          "width": 685,
-          "height": 364,
+          "url": "https://cdn2.tz.nl/wp-content/uploads/2018/06/shutterstock_678583375.jpg",
+          "width": 1000,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -788,11 +1185,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T02:12:00-07:00",
+      "publishedDateTime": "2020-07-22T03:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
+        "name": "techzine.nl",
+        "domain": "techzine.nl",
         "images": null,
         "publishers": null,
         "authors": null
@@ -802,369 +1199,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players.md",
-      "title": "Artificial Intelligence in the Healthcare Market Future Scope, Opportunities with Strategic Growth and Top Players",
-      "excerpt": "Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players-2020-07-22",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-modern-development-splice-machine-a-new-strategy-for-application-first-storage.md",
-      "title": "Modern development - Splice Machine: A new strategy for application-first storage",
-      "excerpt": "This contribution comes from Monte Zweben, CEO of Splice Machine — the company is known for its scale-out database built with Machine Learning (ML ... and MapR that were late to the cloud. AWS, Azure and GCP nearly eliminate the operational complexity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
-      "publishedDateTime": "2020-07-22T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-tencent-and-chinese-scientists-use-deep-learning-to-predict-fatal-covid-19-cases.md",
-      "title": "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases",
-      "excerpt": "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1209271729.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
-      "publishedDateTime": "2020-07-21T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-exams-that-use-facial-recognition-may-be-fair-but-theyre-also-intrusive.md",
-      "title": "Exams that use facial recognition may be 'fair' – but they're also intrusive",
-      "excerpt": "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
-      "publishedDateTime": "2020-07-21T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-software-capabilities-for-self-driving-cars.md",
-      "title": "Software Capabilities for Self-Driving Cars",
-      "excerpt": "Self-driving (autonomous) cars have already hit the road. The software capability of these cars, especially those that regulate automated braking or lane departure warning systems, must continuously meet high quality. \"Autonomous vehicles would have to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.unsplash.com/photo-1493238792000-8113da705763?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-          "width": 1050,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars/amp",
-      "publishedDateTime": "2020-07-21T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-fca-waymo-team-up-on-level-4-self-driving-commercial-vehicles.md",
-      "title": "FCA, Waymo team up on Level 4 self-driving commercial vehicles",
-      "excerpt": "Google's experts will work on autonomous commercial vehicles exclusively with Fiat Chrysler. FCA will also use Waymo self-driving tech across its brands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/sh59czTv07-USGuvMDBUi3kShMs=/2018/06/26/98fe0842-a9a4-4477-b19e-094af787eea0/rm019-001pm.jpg",
-          "width": 1200,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
-      "publishedDateTime": "2020-07-21T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-act-now-get-50-off-pack-pride-annual-subscription.md",
-      "title": "Act Now: Get 50% off Pack Pride annual subscription!",
-      "excerpt": "Hurry, this will only be in effect until July 23 at 11:59 p.m. ET! Click here to get 50 percent off your annual Pack Pride subscription! New members who sign up NOW will get all of the inside scoop for an entire year.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "247 Sports",
-        "domain": "247sports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-air-force-goes-with-blackskys-spectra-ai-platform-to-track-impact-of-covid-19.md",
-      "title": "Air Force goes with BlackSky’s Spectra AI platform to track impact of COVID-19",
-      "excerpt": "The contract calls for BlackSky to monitor U.S. military bases overseas and assess the status of supply chains, using its AI-enabled Spectra geospatial data analysis platform. Spectra can analyze satellite data as well as news feeds and social media ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/HartsfieldJacksonAtlantaInternational-630x406.png",
-          "width": 630,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
-      "publishedDateTime": "2020-07-21T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Google AI",
         "AI"
       ]
     }

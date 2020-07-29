@@ -22,21 +22,37 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial intelligence can speed up and improve Alzheimer’s diagnosis: Study"
-    excerpt: "Artificial intelligence (AI ... Scientists at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ..."
-    publishedDateTime: 2020-07-29T11:34:00Z
-    webUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/"
-    ampWebUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/"
+  - title: "Artificial intelligence can aid in faster, better Alzheimer’s diagnosis, says study"
+    excerpt: "London: Artificial intelligence (AI ... at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ..."
+    publishedDateTime: 2020-07-29T15:30:00Z
+    webUrl: "https://www.asianage.com/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html"
+    ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html"
+    cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
+      name: The Asian Age
+      domain: asianage.com
+    quality: 68
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200729204429.Medi.jpeg"
+        width: 800
+        height: 448
+        isCached: true
+  - title: "Artificial intelligence can speed up and improve Alzheimer’s diagnosis: Study"
+    excerpt: "Artificial intelligence can speed up and improve Alzheimer ... Scientists at the UK's University of Sheffield's Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common ..."
+    publishedDateTime: 2020-07-29T11:56:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-artificial-intelligence-can-speed-up-and-improve-alzheimer-s-diagnosis-study-638048"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-artificial-intelligence-can-speed-up-and-improve-alzheimer-s-diagnosis-study-638048"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-artificial-intelligence-can-speed-up-and-improve-alzheimer-s-diagnosis-study-638048"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
     quality: 56
     images:
-      - url: "https://images.financialexpress.com/2020/07/alzihmers-660.jpg"
-        width: 660
-        height: 440
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/07/ai-1596022896.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Artificial intelligence can expedite Alzheimer's diagnosis, improve patient prognosis"
     excerpt: "Artificial intelligence (AI) could help to diagnose Alzheimer's faster and improve patient prognosis, a new study from the University of Sheffield has revealed."
@@ -53,6 +69,22 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Artificial intelligence can speed up and improve Alzheimer’s diagnosis, says study"
+    excerpt: "Widespread implementation of AI can help predict which patients showing mild cognitive impairment will go on to develop Alzheimer’s."
+    publishedDateTime: 2020-07-29T15:09:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/290720/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnos.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/290720/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnos.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/290720/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnos.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 51
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200729203609.Medi.jpeg"
+        width: 800
+        height: 448
         isCached: true
 
 secured: "+ar611AreZlgDt7kw/SK92boyYOWP3kSC3E0p+VemAqmNqkYPZ2HdgBn53/GaTUbNc5uouSV5L8PGohey/ksf+n9W2eDmMDKbJ4hVRcYkZ3ep/4FKDURhF6yKqiBfrmnJyKbLLnr7VSAUurgDKvnwbuHi8sPopjKd4I4eq8oZmscpqXy2jXYZnIVLi5QW1xJg91AtpIp3LPge9gDutaAOHX0VQefeGJ+xJ9H9ymSTmBEMpg19G5MT4mNCRjitNFEshLZ7mqDHVtYhGAH6Ehzn3IJBfdqHse2aPFfwQUtseXHys+DlHCRbCZetN56iYLHB7q21FoTESEwSHl7yQOJyQ==;HXKg4/wXSb4Oo9b+jUK1Fw=="

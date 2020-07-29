@@ -2,6 +2,288 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-28-elon-musk-wants-to-unite-the-human-brain-with-ai-using-a-tiny-implant.md",
+      "title": "Elon Musk wants to unite the human brain with AI using a tiny implant",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F28%252F0b%252Fd555b7c7b93142d59e1382b7504f8ac6.29b8b.jpg%252F1200x630.jpg?signature=0ul5lcJR6ywpbjzcZ9m-3rhAnWU=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
+      "publishedDateTime": "2020-07-28T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises.md",
+      "title": "TikTok owner ByteDance’s AI chief to leave as US pressure rises",
+      "excerpt": "ByteDance's head of AI research is leaving the Beijing-based firm amid mounting scrutiny of the company's video app TikTok.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T145238.994-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
+      "publishedDateTime": "2020-07-28T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision.md",
+      "title": "NVIDIA, BMW, Red Hat, and more on the promise of AI, edge computing, and computer vision",
+      "excerpt": "The limits of compute power on devices keep getting pushed and computer vision models are becoming faster and more accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-28-at-8.51.01-AM.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
+      "publishedDateTime": "2020-07-28T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure.md",
+      "title": "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure",
+      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "publishedDateTime": "2020-07-28T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-explorium-raises-30-million-to-automate-data-prep-with-ai.md",
+      "title": "Explorium raises $30 million to automate data prep with AI",
+      "excerpt": "Explorium, a Tel Aviv-based startup developing an automated data and feature discovery platform, secured $30 million in financing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/aviv-1024x511.png?w=1200&#038;strip=all",
+          "width": 1024,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
+      "publishedDateTime": "2020-07-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-this-ai-generates-hilariously-realistic-startup-acquisition-announcements.md",
+      "title": "This AI generates hilariously realistic startup acquisition announcements",
+      "excerpt": "The Acquisition Blog Post Generator leverages AI to create realistically sounding startup acquisition announcements — and it's pretty funny.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/acquisition-blog-post-thisstartupannouncementdoesntexist-796x414.png",
+          "width": 796,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/startup-acquisition-announcemnet-generator/amp/",
+      "publishedDateTime": "2020-07-28T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-cb-insights-ai-venture-deals-in-q2-2020-slump-to-lowest-since-2017.md",
       "title": "CB Insights: AI venture deals in Q2 2020 slump to lowest since 2017",
       "excerpt": "AI-related startups raised $7.22 billion in 458 deals In Q1 2020, down from $8.4 billion invested in 516 deals during Q1 2020.",
@@ -58,7 +340,7 @@
       "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 254,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -138,6 +420,46 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-tasers-a-pink-diary-and-a-bulge-in-the-front-of-his-pants-the-inside-story-of-an-albany-meth-dealers-violent-run-ins-with-police.md",
+      "title": "Tasers, a pink diary and a bulge in the front of his pants — the inside story of an Albany meth dealer’s violent run-ins with police",
+      "excerpt": "Convicted Albany meth dealer Nicholas Knight broke down in tears in court last week as he was sentenced to prison in a hearing that revealed dramatic details of his violent run-ins with police.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The West Australian",
+        "domain": "thewest.com.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -248,6 +570,47 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-new-machine-learning-method-allows-hospitals-to-share-patient-dataprivately.md",
+      "title": "New machine learning method allows hospitals to share patient data—privately",
+      "excerpt": "To answer medical questions that can be applied to a wide patient population, machine learning models rely on large, diverse datasets from a variety of institutions. However, health systems and hospitals are often resistant to sharing patient data,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/algorithm.jpg",
+          "width": 1500,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp",
+      "publishedDateTime": "2020-07-28T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -781,7 +1144,7 @@
       "webUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1062,371 +1425,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-will-ai-save-us-from-ourselves.md",
-      "title": "Will AI Save Us From Ourselves?",
-      "excerpt": "People are wired for immediate threats. That’s why humanity hasn’t made big progress on solving huge global challenges such as climate change, pandemics, food production, etc. If we are our own worst enemy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1e0b60bdf8e1f6991b2489%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/amp/",
-      "publishedDateTime": "2020-07-27T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy.md",
-      "title": "A New Brain-Inspired Learning Method for AI Saves Memory and Energy",
-      "excerpt": "Rather than processing big batches of data at once, the approach simply learns from data as it becomes available, cutting the required memory and energy.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/02/brain-2676370_1280.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
-      "publishedDateTime": "2020-07-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-this-ai-tool-can-identify-individual-birds-with-90-accuracy.md",
-      "title": "This AI tool can identify individual birds with 90% accuracy",
-      "excerpt": "Luckily for them, a new AI tool can do the tricky task for them — and potentially offer new insights into bird behaviors. Scientists first trained the AI on labeled images of wild great tits and ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-27T135305.160-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/",
-      "publishedDateTime": "2020-07-27T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-ai-can-add-25-to-gdp-with-policy-push-investment-nasscom.md",
-      "title": "AI can add 2.5% to GDP with policy push, investment: NASSCOM",
-      "excerpt": "With coronavirus-led disruption accelerating the adoption of artificial intelligence (AI) and automation, a report released by the IT industry body NASSCOM says that a unit increase in AI intensity (measured as the ratio of AI to total sales) can return up to $67.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/current/economy-politics/ai-can-add-25-to-gdp-with-policy-push-investment-nasscom/story/411198.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/a_i_505_270720060901.jpg?size=1200:675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.businesstoday.in/lite/story/ai-can-add-25-to-gdp-with-policy-push-investment-nasscom/1/411198.html",
-      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ai-can-add-25-to-gdp-with-policy-push-investment-nasscom/1/411198.html",
-      "publishedDateTime": "2020-07-27T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-12-ways-machine-learning-can-revamp-your-sales-process.md",
-      "title": "12 Ways Machine Learning Can Revamp Your Sales Process",
-      "excerpt": "Many technologies, including artificial intelligence (AI), can seriously help a business’s bottom line. Adoption of AI and machine learning allows companies to make needed improvements in the way they do business, but these technologies must be properly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f159806e6c5b300070db3f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 1015,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/amp/",
-      "publishedDateTime": "2020-07-27T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
-      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
-      "excerpt": "SILICON SLOPES, Utah, (GLOBE NEWSWIRE) -- Pluralsight, Inc. (NASDAQ:PS), the technology skills and engineering management platform, today announced",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16786243",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16786243",
-      "publishedDateTime": "2020-07-27T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-facebooks-red-team-hacks-its-own-ai-programs.md",
-      "title": "Facebook’s ‘Red Team’ Hacks Its Own AI Programs",
-      "excerpt": "Attackers increasingly try to confuse and bypass machine-learning systems. So the companies that deploy them are getting creative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f1b5770c8cbb6d85bec4daf/master/pass/business_red-team.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebooks-red-team-hacks-ai-programs/amp",
-      "publishedDateTime": "2020-07-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.md",
-      "title": "6 ways Alibaba Cloud challenges AWS, Azure, and GCP",
-      "excerpt": "From storage and network innovations to eye-popping AI solutions, Alibaba offers a number of advantages over the leading cloud rivals",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/fighter_boxer_competition_boxing-glove_best_fight_-totokita-getty-100787964-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.amp.html",
-      "publishedDateTime": "2020-07-27T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

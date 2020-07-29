@@ -1,31 +1,47 @@
 ---
 category: news
 title: "Artificial intelligence can speed up and improve Alzheimer’s diagnosis: Study"
-excerpt: "Artificial intelligence (AI ... Scientists at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ..."
-publishedDateTime: 2020-07-29T11:34:00Z
-webUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/"
-ampWebUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/"
+excerpt: "Artificial intelligence can speed up and improve Alzheimer ... Scientists at the UK's University of Sheffield's Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common ..."
+publishedDateTime: 2020-07-29T11:56:00Z
+webUrl: "https://www.indiatvnews.com/technology/news-artificial-intelligence-can-speed-up-and-improve-alzheimer-s-diagnosis-study-638048"
+ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-artificial-intelligence-can-speed-up-and-improve-alzheimer-s-diagnosis-study-638048"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-artificial-intelligence-can-speed-up-and-improve-alzheimer-s-diagnosis-study-638048"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://images.financialexpress.com/2020/07/alzihmers-660.jpg"
-    width: 660
-    height: 440
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/07/ai-1596022896.jpg"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
+  - title: "Artificial intelligence can aid in faster, better Alzheimer’s diagnosis, says study"
+    excerpt: "London: Artificial intelligence (AI ... at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ..."
+    publishedDateTime: 2020-07-29T15:30:00Z
+    webUrl: "https://www.asianage.com/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html"
+    ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html"
+    cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html"
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 68
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200729204429.Medi.jpeg"
+        width: 800
+        height: 448
+        isCached: true
   - title: "Artificial intelligence can expedite Alzheimer's diagnosis, improve patient prognosis"
     excerpt: "Artificial intelligence (AI) could help to diagnose Alzheimer's faster and improve patient prognosis, a new study from the University of Sheffield has revealed."
     publishedDateTime: 2020-07-28T14:37:00Z
@@ -42,6 +58,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial intelligence can speed up and improve Alzheimer’s diagnosis, says study"
+    excerpt: "Widespread implementation of AI can help predict which patients showing mild cognitive impairment will go on to develop Alzheimer’s."
+    publishedDateTime: 2020-07-29T15:09:00Z
+    webUrl: "https://www.deccanchronicle.com/technology/in-other-news/290720/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnos.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/290720/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnos.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/290720/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnos.html"
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 51
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200729203609.Medi.jpeg"
+        width: 800
+        height: 448
+        isCached: true
   - title: "Artificial intelligence could speed up and improve Alzheimer's diagnosis"
     excerpt: "Research examines how the routine use of Artificial Intelligence (AI) in healthcare could help to relieve the economic impact neurodegenerative diseases, such as Alzheimer's."
     publishedDateTime: 2020-07-28T19:56:00Z
@@ -52,6 +84,6 @@ related:
       domain: sciencedaily.com
     quality: 48
 
-secured: "jfdNZ7P7G++w3ytHz5OJGQ7iPoFXVS+0/aL1sK/AwZHY0POK14hBp8XhZAl462Nxbfp0giX6irv68o383JBqDI3Bdfj+HP/7dal4ZquJyQ2YIZ+jTX5SlW+g/KnR0iDAfM/1CNJg2kfjShN8MGToZLXTtIFbKqBmF5Ln43fCAYWCpLsDdAm+cR9L+7yvb8JgP/ZVjThye5JbvyBXMIbAQDWaOwzKTjO5LIJmXNbp/E7QTzRu4M/NgjThATzMmbaXkN77G0cWgPc0yT1un8ySRz4eJiA4I4jTdLzj/ZOtyKgHWKLf4SLFP7n1fVAX2V/Q4DLO/8TAM3IINnPVoBtk1yLQ896k25PyeYg25OKpnBL8dvOW4iCmWHQGs83hEt0Dt9fwacQaDm8cvMOOfk/KsPjlk3r5ftroL6tokj0D2rpVECGD14bEFtIRFzWI4sMg4mH/kY+z/5S3ClWU6rT1CvEk1qeqaWHSTsN3EtFPNQp/gaYCsoT1rhdTIHBnoyIs;eHbSjIepCDTgzyw5Dkmdrw=="
+secured: "fztjkk8RA33jrcqPs7vctoAc8IN+HV1Dd90GS2S+E7p3kfHKSv/Wc7Iu0tXODOUqUR+Bmm1Ms0hD9TuPC6AWyBwynebj3PbgNKDjY3MbNi4XxWWL3hVueGkSNNCkAMlTzKZSBrGMdEFrSOsvNTyA4avdkTL+VuuoitpYaQWVR09zXVFhZLEY/MktRPFexUkEb5g5oHO/lGflAwNumuD+55ARYDSLVQIPk7Vzf+x9io1yCE7mjJj1CZA8xf2JQzzjgCa/pP8/l9USX3bKhnC3hkBjYjvvkw6f5dPwMPVRX6jPoTnH0Ud3lVPPS+8YMiCI+cBpLxuzmxURsm0AN2d5hQ==;UA31uL+cEbFd6huKs6x2ww=="
 ---
 

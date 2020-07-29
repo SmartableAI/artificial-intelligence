@@ -7,6 +7,7 @@ webUrl: "https://www.medgadget.com/2020/07/digital-healthcare-market-demandgrowt
 type: article
 quality: 0
 heat: 0
+published: false
 
 provider:
   name: Medgadget
