@@ -22,7 +22,7 @@ topics:
   - TensorFlow
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1281974748558192640/_sHkynnd_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1288241906900561920/akERSVEg_400x400.jpg
     width: 400
     height: 400
     isCached: true
