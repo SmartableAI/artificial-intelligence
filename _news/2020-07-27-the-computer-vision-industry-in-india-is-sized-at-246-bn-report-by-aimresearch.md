@@ -51,6 +51,17 @@ related:
       name: eureporter.co
       domain: eureporter.co
     quality: 24
+  - title: "Global Reinforcement Learning Market Research Report 2020"
+    excerpt: "The \"Towards Being Truly Intelligent: Next Wave of AI Technologies (Wave 2 - Reinforcement Learning)\" report has"
+    publishedDateTime: 2020-07-29T09:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16822946/global-reinforcement-learning-market-research-report-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16822946"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822946"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "qTdkr8vbTMjJnHYj/5VXcWmOz9B6YgdXADBjVmw4nTlDknAZVSidKksUj5AJEet0Ag+PDsbqii/W879l8wgpnqwh68d8HJs2rXVVQPhvAU5aeKCTMy697w+/jTGI8xmmj9u6z+pV+CPspMWQ7Lwiu5DjZG/tyUGsNVUudS4EWu6p+HZhB/4j4wrnP15Hmlm8ivkKsDygkO2oSWIg5S1cxSM3BQ6n0rky5QW4+J44oFbySxeMpr7sxDLBPfjhAB+O8MFSywEZfIeCKfQ+Irjnf3NkEs69Meh3SJifE5dY7Qbr3USFkIiAjjVPNkB/IPkFi+2xxojjm3EDuE/gCYuZ6Sa28nUtuNfSGydJpqDtK6H9raFmvHCQv6y5rKqRpL597dtHzlVdErRAVitcNp+QVkg2CYMGXKjMCKTVYCMYO9h7nj0aXAyqCvFJVR/wAL1Ox0qowpS/G3FoTo7Kie79Fz5YhwvAwD7+kDeUN2VGcOjGRD6CG1OcoMw+xMI+ODPYX9Gt66rr1fJUuHFI1Juoxg==;WsWVOGOBb6wItC/cYtKhLw=="
 ---

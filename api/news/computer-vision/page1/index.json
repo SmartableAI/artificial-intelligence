@@ -111,7 +111,7 @@
       "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 284,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -342,6 +342,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-facebook-adds-100-million-to-facial-recognition-settlement-over-tagged-photos.md",
+      "title": "Facebook adds $100 million to facial recognition settlement over tagged photos",
+      "excerpt": "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
+      "publishedDateTime": "2020-07-24T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1381,57 +1422,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-artie-releases-tool-to-measure-bias-in-speech-recognition-models.md",
-      "title": "Artie releases tool to measure bias in speech recognition models",
-      "excerpt": "Researchers at Artie released a tool to detect bias in speech recognition systems. In a proof of concept, they find evidence of bias in a Google model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/home-mini-aqua.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
-      "publishedDateTime": "2020-07-15T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

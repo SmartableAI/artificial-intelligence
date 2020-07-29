@@ -1,0 +1,97 @@
+{
+  "page": 5,
+  "value": [
+    {
+      "path": "_news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties.md",
+      "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+      "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eeab8bef435e6f478b289f5/master/pass/business_baidu_1211912901.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "publishedDateTime": "2020-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-driver-free-but-virus-free-robo-cars-hit-new-speed-bump.md",
+      "title": "Driver free but virus free? Robo cars hit new speed bump",
+      "excerpt": "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn’t have a driver. Widespread use of autonomous vehicles already had been delayed by a March 2018 fatal crash involving an Uber test vehicle in Tempe,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wspa.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wspa.com/wp-content/uploads/sites/53/2020/06/AP20169709714913.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Driver free but virus free? Robo cars hit new speed bump",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wspa.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/amp/",
+      "cdnAmpWebUrl": "https://www-wspa-com.cdn.ampproject.org/c/s/www.wspa.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/amp/",
+      "publishedDateTime": "2020-06-17T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSPA",
+        "domain": "wspa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    }
+  ],
+  "nextPage": null
+}

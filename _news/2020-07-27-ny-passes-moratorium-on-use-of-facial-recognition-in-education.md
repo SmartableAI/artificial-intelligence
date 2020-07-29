@@ -175,22 +175,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook offers $650 million to settle facial recognition suit"
-    excerpt: "Facebook offered $650 million to pay a long-running class-action lawsuit about the use of facial technology. The final offer is $100 million more than the initial settlement, according to USA Today, and follows a rejection of the initial amount by a U."
-    publishedDateTime: 2020-07-24T15:09:00Z
-    webUrl: "https://thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit"
-    ampWebUrl: "https://thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_facebook_72220getty.jpg"
-        width: 1440
-        height: 880
-        isCached: true
   - title: "Facebook offers $650M settlement in facial recognition suit"
     excerpt: "That’s what lawyers for the social media site are saying with their latest offer to settle a class-action lawsuit based on what plantiffs say is abuse of their facial recognition system."
     publishedDateTime: 2020-07-24T18:33:00Z

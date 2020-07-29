@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-28T19:35:00Z
 webUrl: "https://seekingalpha.com/article/4361451-msci-inc-msci-ceo-henry-fernandez-on-q2-2020-results-earnings-call-transcript"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "China Finance Online's (JRJC) CEO Zhiwei Zhao on Q1 2020 Results - Earnings Call Transcript"
-    excerpt: "natural language processing and machine learning to empower stock markets, banks, insurance companies, brokerage firms and the world's largest asset management companies with our high-quality data ..."
-    publishedDateTime: 2020-07-24T15:47:00Z
-    webUrl: "https://seekingalpha.com/article/4360621-china-finance-onlines-jrjc-ceo-zhiwei-zhao-on-q1-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "yNv3FJJFumfbj//q0D8O96bKkXDgNFYLbh53nZ6+7o/BaFZCz1Ae5qh1L5LSpSqkHKstqMjzKyPpNcQeJJcrlu90Vpdf1JmGk/RIMrgAOSWG26zyaLrT2Pr2F40Ao9lXBbeU5XwbiWB3VNZwjHB0jsQ+SoKa7x7XLoDUTcMUUbIWOYfdmKK5OZAFNMPWoSWNCASCNLM4hnP+8iM1F3Y3L3kujbTjRazdPmi/kjfSmaZapi2ZPvr7b1Q1JM8y1MU/NZWhbdtBFRKHXlZsjTSg+ZsbUsX+IMcfnGHJKfVbKAsW9yVJuEISQx1GciAzqxtgDxLrFWMsuV7pO4NFAr7wjg==;2/xRpKS6XTOVP5Gpguwn1w=="
 ---

@@ -2,6 +2,219 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-29-microsoft-gijima-launch-ai-varsity-programme-for-graduates.md",
+      "title": "Microsoft, Gijima launch AI varsity programme for graduates",
+      "excerpt": "The Central University of Technology has set up an artificial intelligence programme to help graduates create the next generation of intelligent solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/06/Lillian-Barnard-2020.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
+      "publishedDateTime": "2020-07-29T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-aws-launches-ai-tool-to-help-businesses-tackle-online-fraud.md",
+      "title": "AWS launches AI tool to help businesses tackle online fraud",
+      "excerpt": "Businesses with more advanced requirements can use their own models with the service using an integration with SageMaker, Amazon’s managed AI platform. AWS charges no up-front p",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356597/aws-launches-ai-tool-that-helps-businesses-tackle",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1585738240/itpro/AWSApyGlass.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-soa-engineering-students-shine-in-flipkart-grid-robotics-challenge.md",
+      "title": "SOA Engineering Students Shine In Flipkart Grid Robotics Challenge",
+      "excerpt": "Five engineering students of SOA came up with a remarkable performance to qualify for Level-2 in the Flipkart GRiD 2.0 Robotics Challenge as the only team from Odisha other than IIT and NIT.",
+      "sourceUrl": null,
+      "webUrl": "https://odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.odishatv.in/wp-content/uploads/2020/07/Untitled-1-4.jpg",
+          "width": 750,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512/amp",
+      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512/amp",
+      "publishedDateTime": "2020-07-29T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha TV",
+        "domain": "odishatv.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-service-robotics-market-key-industry-development-and-competitive-analysis-till-2026.md",
+      "title": "Service Robotics Market Key Industry Development And Competitive Analysis Till 2026",
+      "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-key-industry-development-and-competitive-analysis-till-2026-2020-07-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-global-artificial-intelligence-in-retail-markets-2020-2027.md",
+      "title": "Global Artificial Intelligence in Retail Markets, 2020-2027",
+      "excerpt": "The global artificial intelligence in retail market is expected to grow at a CAGR of 34.4% from 2020 to reach $19.9 billion by 2027. The growth in the artificial intelligence in retail market is driven by several factors such as the rising number of internet users,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16822677/global-artificial-intelligence-in-retail-markets-2020-2027",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16822677",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822677",
+      "publishedDateTime": "2020-07-29T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
       "title": "Japanese Robot to Clock In at a Convenience Store in Test of Retail Automation",
       "excerpt": "Following that trial, store operator FamilyMart says it plans to use robot workers at 20 stores around Tokyo by 2022. At first, people will operate them remotely - until the machines' artificial intelligence (AI) can learn to mimic human movements.",
@@ -1070,7 +1283,7 @@
       "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 284,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1209,248 +1422,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read.md",
-      "title": "Embarking on a Python journey? Then ‘Hands-on Machine Learning’ is a must read",
-      "excerpt": "Writing an all-encompassing book on Python machine learning is difficult, given how expansive the field is. But reviewing one is not an easy feat either, especially when it’s a highly acclaimed title such as Hands-On Machine Learning with Scikit-Learn,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/1-9-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
-      "publishedDateTime": "2020-07-28T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors.md",
-      "title": "Advertima raises $17 million for AI that tracks in-store shopping behaviors",
-      "excerpt": "Advertima, a startup leveraging AI to customize in-store experiences, today closed a €15 million ($17.3 million) funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/83b26f72-63b0-4172-beec-932f134a5f86-e1595362730251.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
-      "publishedDateTime": "2020-07-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-most-scared-of-googles-deepmind-ai-project.md",
-      "title": "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project",
-      "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said he was most worried about Google's AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
-      "publishedDateTime": "2020-07-27T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-demand-for-autonomous-delivery-robots-rises-as-pandemic-continues.md",
-      "title": "Demand For Autonomous Delivery Robots Rises As Pandemic Continues",
-      "excerpt": "Answering the need for deliveries that minimize human contact, companies are stepping up R&D efforts in autonomous robot development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1f969d138498e307bb28ad%2F0x0.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "publishedDateTime": "2020-07-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-end-to-end-analog-neural-networks-promise-better-ai-chips.md",
-      "title": "End-to-End Analog Neural Networks Promise Better AI Chips",
-      "excerpt": "Latest research on brain-inspired end-to-end analog neural networks promises fast, very low power AI chips, without on-chip ADCs and",
-      "sourceUrl": null,
-      "webUrl": "https://www.eetindia.co.in/end-to-end-analog-neural-networks-promise-better-ai-chips/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2020/07/Rain-Neuromorphics-Concept-1.jpg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eetindia.co.in",
-        "domain": "eetindia.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

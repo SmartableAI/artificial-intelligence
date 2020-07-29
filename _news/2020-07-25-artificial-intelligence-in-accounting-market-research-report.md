@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2096670/artificial-intelligence-in-accoun
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -49,6 +49,17 @@ related:
     provider:
       name: eureporter.co
       domain: eureporter.co
+    quality: 24
+  - title: "Global Reinforcement Learning Market Research Report 2020"
+    excerpt: "The \"Towards Being Truly Intelligent: Next Wave of AI Technologies (Wave 2 - Reinforcement Learning)\" report has"
+    publishedDateTime: 2020-07-29T09:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16822946/global-reinforcement-learning-market-research-report-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16822946"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822946"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 24
 
 secured: "C/BuQUeRvp/H6leVnigpemWf6H7pLzKgXn+hhEz1d3x2ZsjqCHHLbP4HMsxdHrMUIVlX7M4jx5552kYsXBY+N9KQZfgtZHmAJNFmszTKsavzx7dgZGLcTD114f9fb8Tfs7d5jQxyqROsleHuUFj3qcDB2ws4P1kD/MIxWC6H8GbUwqyI2CtX8GoeqdEFnIk/WVWTqwEko6wRwkYnraIMSMZzl2NYuQoeYXpCFmWOqputT0FihbuLcsuWKXL4fDchPZCTBbjKreFO2Hwrbatl9+LMZYyxcyySjn72MgJlNPLfF/dPihcoe+0omQeWxbNJjSjE5Xduql8kLEVrpfumWZRkefPMVfzqhrD0OJcxssYuQjIygGE7P1I/myYktJnSAoXZOnP0j7aOAn7kfTc1brcsWbAjcraiksBkqSPTT7dFs4Eymanf+bvgCBQf7+hSKcWnFaR9dV5yDW/HHAqrvugJ8MfDiMuQG7+tY/HgaGllz0OrLEF0STKw93j6Vp5e;Y1HhBDkn6FrcpmJFXHDFiA=="

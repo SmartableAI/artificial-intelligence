@@ -2,6 +2,309 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-07-15-an-ethics-guide-for-tech-gets-rewritten-with-workers-in-mind.md",
+      "title": "An Ethics Guide for Tech Gets Rewritten With Workers in Mind",
+      "excerpt": "The Ethical Explorer Pack is designed to help Silicon Valley's rank and file—not just CEOs—steer products away from harmful directions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ethics-guide-tech-rewritten-workers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f0e550a669fd9d0df83f383/master/pass/Top_Art_Digital_Illo.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ethics-guide-tech-rewritten-workers/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ethics-guide-tech-rewritten-workers/amp",
+      "publishedDateTime": "2020-07-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains.md",
+      "title": "C.H. Robinson, Microsoft alliance to digitally transform supply chains",
+      "excerpt": "C.H. Robinson and Microsoft Corp. have formed and alliance to digitally transform supply chains of the future by combining C.H. Robinson’s Navisphere®, Microsoft Azure and Azure IoT to meet the changing demands of global supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stattimes.com/statbackend/assets/uploads/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains.jpg",
+          "width": 527,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/amp/",
+      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/amp/",
+      "publishedDateTime": "2020-07-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "air cargo",
+        "domain": "stattimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-memsql-expands-collaboration-with-amazon-web-services-joins-isv-workload-migration-program.md",
+      "title": "MemSQL Expands Collaboration With Amazon Web Services, Joins ISV Workload Migration Program",
+      "excerpt": "MemSQL, The Database of NowTM for operational analytics and cloud-native applications, has expanded its collaboration with Amazon Web Services (AWS) b",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200715005132/en/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200715005132/en/742945/23/MemSQL_square_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions.md",
+      "title": "The Pentagon’s $1 Million Question: Can AI Predict An Enemy’s Emotions?",
+      "excerpt": "The science of using AI to detect and predict emotions is shaky but the U.S. military and a handful of well-funded startups are hoping to prove the doubters wrong, whatever the risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959878254%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
+      "publishedDateTime": "2020-07-15T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure.md",
+      "title": "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure",
+      "excerpt": "Alithya Group inc., a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals offering enterprise solutions across Canada, the United States, and Europe, is proud to announce the launch of its AI-FI™ Trade Surveillance solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/alithya-launches-ai-fitm-trade-surveillance-solution-powered-by-microsoft-azure-2020",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-navistar-plans-to-launch-truly-driverless-class-8-trucks-by-2024.md",
+      "title": "Navistar plans to launch truly driverless Class 8 trucks by 2024",
+      "excerpt": "Navistar plans to launch the driverless technology on its International ... Netradyne is an artificial intelligence (AI) and edge computing technology company that focuses on driver and fleet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/article/21136631/navistar-and-tusimple-plan-to-launch-truly-driverless-highway-trucks-by-2024",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2020/07/16x9/navistar_international_lt_tusimple_truck.5f0e08ee88826.png?auto=format&fit=max&w=1200",
+          "width": 1112,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-drifts-latinx-founders-beat-long-odds-to-build-360-million-ai-powered-sales-startup.md",
+      "title": "Drift’s Latinx Founders Beat Long Odds To Build $360 Million AI-Powered Sales Startup",
+      "excerpt": "Three companies and 12 years later, Cancel and Torres are the founders of Drift, an AI-powered sales software startup that features on Forbes’ second annual AI 50 list of the most promising U.S.-based startups, one of nine companies building productivity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed96235d5799d0007010974%2F0x0.jpg%3FcropX1%3D454%26cropX2%3D5181%26cropY1%3D0%26cropY2%3D3151",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/amp/",
+      "publishedDateTime": "2020-07-15T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-new-constructs-nominated-for-benzinga-fintech-listmakers.md",
       "title": "New Constructs Nominated for Benzinga Fintech Listmakers",
       "excerpt": "The Benzinga Fintech Listmakers is a compilation of companies within various fintech categories that are working to revolutionize the industry. The voting process will close on Oct. 20. Vote for New Constructs at this link.",
@@ -577,6 +880,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-german-court-slams-the-brakes-on-teslas-bogus-autopilot-marketing.md",
+      "title": "German court slams the brakes on Tesla’s bogus ‘Autopilot’ marketing",
+      "excerpt": "In what could be somewhat of a landmark case, a German court has ruled that Tesla can no longer market its Autopilot and Full Self-Driving products as autonomous systems in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/07/15/german-court-slams-the-brakes-on-teslas-bogus-autopilot-marketing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/germany-court-tesla-hand-autopilot-full-self-driving-car-ev-banned-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens.md",
       "title": "Miso Robotics' Brings Advanced Robotics and AI to UK Fast-food and Commercial Kitchens",
       "excerpt": "First UK funding round and crowdfunding campaign gives retail investors the opportunity to invest in a services sector seeing new impetus for",
@@ -1038,389 +1391,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-german-court-says-tesla-self-driving-claims-are-misleading.md",
-      "title": "German Court Says Tesla Self-Driving Claims Are Misleading",
-      "excerpt": "Tesla’s plans to steal buyers from German luxury automakers suffered a setback Tuesday after a court in Munich ruled that the California maker of electric cars made exaggerated promises about its autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/07/14/business/14tesla/14tesla-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html",
-      "publishedDateTime": "2020-07-14T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing.md",
-      "title": "AI startup Abacus goes live with commercial deep learning service, takes $13M Series A financing",
-      "excerpt": "With $18.25 million in venture capital money from Eric Schmidt, Jerry Yang, and other luminaries, Abacus Tuesday opened its deep learning service for general customer availability, with the intent of making it easy for companies to customize and scale AI in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/27/fa97eb58-ce3e-4839-b7aa-dd8934dfb30c/thumbnail/1200x675/a825add05e6df14e53ed8ac733095f6d/dumonteil-and-herrera-covid-19-n-protein-edited.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
-      "publishedDateTime": "2020-07-14T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages.md",
-      "title": "Microsoft’s SoftNER AI uses unsupervised learning to help triage cloud service outages",
-      "excerpt": "In a new paper, Microsoft researchers detail an AI system that parses cloud service interruption incident descriptions to help with triaging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/amp/",
-      "publishedDateTime": "2020-07-14T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020.md",
-      "title": "The nominees for the VentureBeat AI Innovation Awards at Transform 2020",
-      "excerpt": "Here are the nominees for VentureBeat's second annual AI Innovation Awards at Transform 2020. The winners will be announced July 15.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/vb-transform-2020-ai-innovation-awards.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
-      "publishedDateTime": "2020-07-14T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-mr-roboto-and-artificial-intelligence-are-social-distancing-winners.md",
-      "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
-      "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
-      "publishedDateTime": "2020-07-14T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-virgin-active-south-africa-outlines-plans-for-a-safe-re-opening.md",
-      "title": "Virgin Active South Africa outlines plans for a safe re-opening",
-      "excerpt": "The South African arm of Virgin Active has released the procedures it is going to put in place when it re-opens, including online bookings for attendance, capacity monitoring and employee screening.",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.htxt.co.za/wp-content/uploads/2020/07/Virgin-Active-South-Africa-ReOpen-Image.jpg",
-          "width": 797,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/amp/",
-      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/amp/",
-      "publishedDateTime": "2020-07-14T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-ch-robinson-microsoft-partner-to-boost-supply-chain-digitization.md",
-      "title": "C.H. Robinson, Microsoft Partner To Boost Supply Chain Digitization",
-      "excerpt": "As its technological evolution progresses, C.H. Robinson Worldwide Inc (NASDAQ: CHRW) is now expanding its relationship with Microsoft (NASDAQ: MSFT) to bring the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-14_at_1.22.10_pm.png",
-          "width": 1270,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16617586",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16617586",
-      "publishedDateTime": "2020-07-14T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period.md",
-      "title": "The Market Growth for Artificial Intelligence (AI) Chip is Expected to Surge During the Forecast Period",
-      "excerpt": "Increasing applications of AI-based technologies, along with the rising technological advancements in the AI and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

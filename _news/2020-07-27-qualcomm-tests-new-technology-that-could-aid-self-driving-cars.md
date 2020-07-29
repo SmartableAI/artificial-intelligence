@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T22:57:00Z
 webUrl: "https://www.kpbs.org/podcasts/kpbs-midday-edition-segments/2020/jul/27/cars-qualcomm-new-tech-self-driving/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDA: AI, Robotics and Self-Driving Cars"
+    excerpt: "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid"
+    publishedDateTime: 2020-07-28T09:04:00Z
+    webUrl: "https://www.moneyshow.com/articles/dailyguru-54699/"
+    type: article
+    provider:
+      name: MoneyShow.com
+      domain: moneyshow.com
+    quality: 73
+    images:
+      - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg"
+        width: 555
+        height: 370
+        isCached: true
   - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
     excerpt: "With more than 40 companies actively investing in autonomous vehicle technology, it’s fair to say that most traditional car manufacturers – plus the odd tech heavyweight, like Google parent company Alphabet – are busy chasing the self-driving car dream."
     publishedDateTime: 2020-07-26T12:59:00Z

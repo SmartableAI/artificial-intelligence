@@ -33,7 +33,7 @@ related:
     provider:
       name: The National Interest
       domain: nationalinterest.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://nationalinterest.org/sites/default/files/main_images/Robot_0.jpg"
         width: 1444
