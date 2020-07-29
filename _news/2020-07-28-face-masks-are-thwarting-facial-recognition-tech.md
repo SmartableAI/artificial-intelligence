@@ -58,6 +58,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Rite Aid has been using facial recognition tech across hundreds of its stores"
+    excerpt: "This information came to light through a recent investigation by Reuters. During the site's probe, investigative journalists found that a whopping 200 Rite Aid locations used facial recognition technology to detect potential criminals,"
+    publishedDateTime: 2020-07-28T23:06:00Z
+    webUrl: "https://www.techspot.com/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 101
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-28-image-25.jpg"
+        width: 1680
+        height: 1120
+        isCached: true
   - title: "Face masks are thwarting even the best facial recognition algorithms, study finds"
     excerpt: "Researchers from NIST found that face masks are causing facial recognition algorithms to fail as frequently as 50% of the time."
     publishedDateTime: 2020-07-27T21:43:00Z
@@ -106,7 +122,21 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Face masks are screwing up facial recognition software"
+    excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the National Institute of Standards and Technology,"
+    publishedDateTime: 2020-07-28T22:38:00Z
+    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/28/face-masks-are-screwing-up-facial-recognition-software/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 39
+    images:
+      - url: "https://keyt.b-cdn.net/2020/07/hypatia-h_b4971a171a395e6e01a62a4be5d33697-h_3517168e9f91011e110e89992812757b_preview.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
-secured: "QqekbZOgR0gTNfgX3XoYuvVRbCCNygtlSux0DojCr84aL8HNyT/qiA5w0asTkKY3od5kBcjMJhxi6QDywfmC0Se6zILTUDfn0ReRP1Yu1tdHNJHgmOD2Xd4Ddo9fAigvfiWOd06gS1FrKtNLEJ8L5hmmNjwYkkjFx2AoL0Gk42jex8Y2eEVXIdrrkoandiB7qfeeTUY4EJ/Y6M5wGPrwhT3/Pj/UMcEWaNBwOO7qjMWpTx2FF2DeIQgeY4HctnZMBUZSjrX1cATrphVn9hkIPsApllvtX4sJJwa9NeR6Rqnm0kY8sRwtjk1Oj0gLODm7+sZ2o0p47CjbNgChgBaWaw==;7CTm/AxT0eCy+umo0hjiiA=="
+secured: "VvZCdtD/yCkGfRuNQs7obg8EsY9b6PzZdI9CiYtbVA4cwRPEJ+zG+mkXbb7CDtIQHrRFuv4xJ8zQa6FaZSfTL5+xaBe2hPpqYcSD1bACx4hOoyGjIDeEYJgNWUTJcAOVpQ6p+1JMdtgRShps/z0hIWW5bxFP+THtb5Ztf4PEt9EvU1OyXFaHI4VVucXmMZsSU/6RQa/fTWGPi3pox6lnnH3nRtjnBbPD6cie7Bi/+nnw7Jdpf7iisjYtCrlz+uNyCW5aw8MMgarw/DgC05EsQL2qIWhEPlXPicDAz8cDPZ+SVDG9Pxng8DpPumHJZ4/2P193A9yq/hHaFmcJdyZJcUyWaWmJbiB1Mijkvc8DI++4qsV8SU0CIs1uMVk1EH1ZsiVEJQuX1hFVK4F+2eELWgk2bP51EQbJ0kxEuGt8cmEtUxI14MjWWg5SYSsKKQQ6oIcbYC5pRq2XrHBVGhHQTcdRXAfP7zMTmDCHX9YCSLggrSdCyUzviyAwy9CCyc9l;vVJIoUQIlmulw0Q5GZWXPg=="
 ---
 

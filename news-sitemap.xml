@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336</loc>
+    <lastmod>2020-07-28T16:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud</loc>
+    <lastmod>2020-07-28T15:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/googlecloud/2020/07/28/supply-chain-resiliency-begins-in-the-cloud/</loc>
+    <lastmod>2020-07-28T15:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/</loc>
     <lastmod>2020-07-28T12:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -295,12 +313,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/</loc>
-    <lastmod>2020-07-26T23:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www3.nhk.or.jp/nhkworld/en/news/20200727_22/</loc>
     <lastmod>2020-07-26T22:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -421,14 +433,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/</loc>
-    <lastmod>2020-07-24T10:45:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/</loc>
+    <lastmod>2020-07-24T10:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/</loc>
-    <lastmod>2020-07-24T10:10:00-07:00</lastmod>
+    <loc>https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition</loc>
+    <lastmod>2020-07-24T10:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -559,6 +571,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in</loc>
+    <lastmod>2020-07-23T10:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/</loc>
     <lastmod>2020-07-23T09:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -673,6 +691,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://citywireselector.com/news/how-natural-language-processing-could-help-you-unpick-the-fed/a1382858</loc>
+    <lastmod>2020-07-23T01:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/facebook-bots-simulate-harassment-080003548.html</loc>
     <lastmod>2020-07-23T01:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -775,6 +799,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx</loc>
+    <lastmod>2020-07-22T12:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/</loc>
     <lastmod>2020-07-22T11:27:30-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -813,12 +843,6 @@
   <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/</loc>
     <lastmod>2020-07-22T08:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans-2020-07-22</loc>
-    <lastmod>2020-07-22T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1165,7 +1189,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cambridgenetwork.co.uk/news/605369</loc>
+    <loc>https://www.cambridgenetwork.co.uk/news/deepmind-supports-further-scholarships-cambridge-students-backgrounds-under-represented</loc>
     <lastmod>2020-07-20T13:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2383,14 +2407,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
-    <lastmod>2020-07-14T21:11:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568</loc>
+    <lastmod>2020-07-14T21:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-9070783</loc>
-    <lastmod>2020-07-14T21:00:00-07:00</lastmod>
+    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-07-14T21:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

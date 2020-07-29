@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-th
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Facebook ReBel General AI Algorithm Can Probably Beat You At Poker"
+    excerpt: "A group of researchers from Facebook AI Research has now created a more general AI algorithm dubbed ReBel that can play poker better than at least some"
+    publishedDateTime: 2020-07-28T22:03:00Z
+    webUrl: "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "p4qsS36Ipofy11Tf3ulCGgmFW1lrdalXOx/MnTbtwcr/NJeG+5G5gwUvHKlULWVuGGWnBexXylN4xzL5n7LC4FKVG9nGEGFIkvtFlQe/VZ2I6DpErRWRRUU8hkrCv9QLlKQQJuZSf6REHYpcTav7J/c6l+yFbZhW/Tr4XE2tLAdIBzY1av161BlzVerT1M44pgTFuCcp6GSx2jzNxaCDsdMIeS3dqfBQODgcw39895P0VT1Wvxl7+Hbok6n77YuwpWMJtAaEm927vM2DTD1DybOUshA6i2VxdgUdv1TlWGdjRpnt6SquRICc4mBYwyeW/IQ992da1IlNjJiFPZc6pKIY6ZC6xexhO3DdvdOTGs00Xh2IROdk3CGkHwVI9qyKoV+ygZf3iSoNFoade9z3UFam5Ch5IztPJ/O27gKuXhd9idYx53LZ9g6sMdPCavlg07WHKWw6nzX7XJnThFXPEcgh95iACp0Oe9i8u+HfgNUBGFZ32nQAIemB3w+H57zfu1zhJC4z9YyFCkU/Vs51eQ==;+fEPRr5eab+cNmzX7FhzsQ=="
 ---

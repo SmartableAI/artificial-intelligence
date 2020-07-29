@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-28T17:28:00Z
 webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AWS bolsters AI services lineup with general availability of Fraud Detector"
-    excerpt: "That’s made possible through an integration with SageMaker, Amazon’s managed AI platform, which provides developer tools for building and training neural networks. AWS is positioning Fraud ..."
-    publishedDateTime: 2020-07-28T20:28:00Z
-    webUrl: "https://siliconangle.com/2020/07/28/aws-bolsters-ai-services-lineup-general-availability-fraud-detector/"
+  - title: "AWS adds new Amazon Fraud Detector to fight fraud"
+    excerpt: "AWS has launched a new tool called Amazon Fraud Detector. It said the tool will be able to detect and prevent payment and identity fraud in just milliseconds thanks to machine learning."
+    publishedDateTime: 2020-07-28T22:14:00Z
+    webUrl: "https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud"
+    ampWebUrl: "https://www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
+      name: Neowin
+      domain: neowin.net
+    quality: 89
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/aws-1.png"
-        width: 718
-        height: 400
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg"
+        width: 760
+        height: 428
         isCached: true
 
 secured: "ZkrlMmqQzk8MSxpd5uDZI52/tlGMzELZhTogX4myxcJ7zx8xUliCn0RXDTCMmV/uH8MI4EkByI9Hzr1Qw3BddLXfbjdg/xQ6NXyhzzAHeyXagXcyQRFzR9HoV66T+DQWSqJMOuVcVUj8MGRwdEKHiz2R/+lGsFGTdUKOIyuyY8Ln9tumVLr/o6fx8j0/8XMAMcBk7NkLxqOmBtIJJ2VSKNIMGtoArbBBXnhBF/bvs9D4Zg8dAB9N/RYJgKvyY5vJV+uS+GFahXDq7wKQfRRzE9zGHf5iyeMdg1W6ctrS7kmzA5GfVBQgB5HYFUsi7btHoY/SCtrRcEkkOXlQ5XC9dQ==;30tyj7nL8Sx00d4dMPqOrw=="

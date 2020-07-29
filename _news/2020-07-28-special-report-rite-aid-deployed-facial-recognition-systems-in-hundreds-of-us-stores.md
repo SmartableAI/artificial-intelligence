@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Special Report: Rite Aid Deployed Facial Recognition Systems in Hundreds of U.S. Stores"
+title: "Special Report: Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
 excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country,"
-publishedDateTime: 2020-07-28T11:32:00Z
-webUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
+publishedDateTime: 2020-07-28T11:50:00Z
+webUrl: "https://www.reuters.com/article/us-usa-riteaid-software-specialreport-idUSKCN24T1HL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1HL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1HL"
 type: article
-quality: 76
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527456185&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R1MP"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "How Reuters analyzed Rite Aid's use of facial recognition technology"
@@ -72,6 +78,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Rite Aid surveilled customers using facial recognition tech with links to China"
+    excerpt: "A new report from Reuters uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government."
+    publishedDateTime: 2020-07-28T22:01:00Z
+    webUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance/"
+    ampWebUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 100
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. studies new facial recognition tech built with masked faces in mind"
     excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
     publishedDateTime: 2020-07-28T13:58:00Z
@@ -90,17 +112,17 @@ related:
         isCached: true
   - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
     excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
-    publishedDateTime: 2020-07-28T11:33:00Z
-    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software"
+    publishedDateTime: 2020-07-28T23:21:00Z
+    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 84
     images:
-      - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/video-01222020_MISIDENTIFICATION_027.JPG"
-        width: 1110
-        height: 620
+      - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/mastheads/share_B0A2738.jpg?v=523023280720"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Rite Aid deployed facial recognition in hundreds of stores, report finds"
     excerpt: "Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores,"
@@ -275,6 +297,6 @@ related:
         height: 800
         isCached: true
 
-secured: "NHqbAwJAH5hcLbQnLtGkPS7Och5FslZuWZ/xbMsPfYbIKOA/LBzemVyJeD1veP1U0NvWETbzj1/9wZ37d7dB6DBxUsW3SPxIIlud/lztqKpb7xFAB+IX3OxjO77RqiG9sMIgnE5C5njW9BjCZqoDLwdpt29DZduaicpcHj9tK077IMSK9s39q+s1aI+d2qisF2F1vEph2OSz3rODQi9RQasBKjPGR4s/LEPlkK/gvsZeOJtixgqHBhgO9Z4gASCwPrCVo4D3ZdH9UUAmZkXOIPEecS7V4tcE6ef2hw6YPVd1dJbf8Hv8g2gvF+ynen3vUS25H9bmDvgVsC5dMaQd26q103drvOlv7kyElNj2asm8AcDfspjb30LvylMID/KjFf8b6biscT30o9rQIoK1761JQnXCswyEYFRgnJ8cBFhyXL84LypjoU6TDssONzh1LEaifOYPQsKo2m+ShyOF//JBBErnCq83QpFTlBUqPVrz49t3Be3nutY/zyZdfAtCxjymcA4iTLe0z43TGT1UUQ==;9WcMXWl8C9U1CZnDGuEh2g=="
+secured: "MWx6yHvxRp5uKCAwsUYNtKfmTKIyRUjqWEYKDaltl6bRZFG4AXutwbM+LRYpdlaDJHrURdkMyHM7+qlTp62HBrW00zol1iSLqbFWzX7q+TpyFz7v7aIm/Vv53vAoEcXZ/AO8KPyN8+CnAnvYdBWf82VY0wfw3kPxKXEQN72n7QonvcRxZCFFGQ96nI9g1z8fic5yEXmuR3UX27pk07Rb9WF+3T0x32VCacMY7iBIxMMHN1EupAkg+M+ntT9Kzigt2P0WGeJb+em5NRpbKFQT5xNkKLS1KaH05+0RwshElSQ2uFmYpsdASb0Rb+6Bemm8UC/vh2BesOtMRH+QV/5DAQ==;5YPvnLgxGJeB/Puhx3XPoA=="
 ---
 

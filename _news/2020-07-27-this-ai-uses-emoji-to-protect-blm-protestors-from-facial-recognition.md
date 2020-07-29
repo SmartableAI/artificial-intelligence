@@ -46,6 +46,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Rite Aid has been using facial recognition tech across hundreds of its stores"
+    excerpt: "This information came to light through a recent investigation by Reuters. During the site's probe, investigative journalists found that a whopping 200 Rite Aid locations used facial recognition technology to detect potential criminals,"
+    publishedDateTime: 2020-07-28T23:06:00Z
+    webUrl: "https://www.techspot.com/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 101
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-28-image-25.jpg"
+        width: 1680
+        height: 1120
+        isCached: true
   - title: "Face masks are thwarting even the best facial recognition algorithms, study finds"
     excerpt: "Researchers from NIST found that face masks are causing facial recognition algorithms to fail as frequently as 50% of the time."
     publishedDateTime: 2020-07-27T21:43:00Z
@@ -109,6 +125,20 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/young-woman-wears-a-face-mask-as-she-listens-to-speakers-in-news-photo-1595967818.jpg?crop=1xw:0.76304xh;center,top&resize=1200:*"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Face masks are screwing up facial recognition software"
+    excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the National Institute of Standards and Technology,"
+    publishedDateTime: 2020-07-28T22:38:00Z
+    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/28/face-masks-are-screwing-up-facial-recognition-software/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 39
+    images:
+      - url: "https://keyt.b-cdn.net/2020/07/hypatia-h_b4971a171a395e6e01a62a4be5d33697-h_3517168e9f91011e110e89992812757b_preview.jpg"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "WrFosMI6C6I0FoVUsuP/Eh9vgGiZ9M+jkaAFQpOTtG1FljBlC9b22g7b5AxKYx28mgjw+iy252TTtNZddOIJAsB71bqnCm1WK1qDWMTttPOo411jtV+H1UQBR4x0Pjh/3pVrJdNSTOJ1fFo4S8lBXmgrwhacMosz7C9P5SdEnmD1x6ruI9N2xQ7nCnBjDBlk73fVqCQ6ixIoR5VSEsjFqNSKo7hjGtiW+vknqWYz7v9AsBaW4dtY57iPGVbjt60AEMc2es0YSajS9HePjWBp5lRAMV904KkvNHegnpjgrTzNbvH7FOEQTrEJWP6KDXYc7df8PXXaNVzaV/F2k4zIXAkrOwjcjRdmIHTD9ULN1pHKvnRgfxPrNX2ixeV0DG+IQ7quWpaMEMjDk+t0c8spdavnLkuZPVaSJtinKGCPKODq/cQHGT3gswyQY8SHB5ZLRh2QDkxwqmXGN3rSKvafTTb3OhObhd46/hU53BIqsF9id8a/1tYEY+vVdepFRKY/;kRvmN2y2Ji/T+Dz2Axi7sw=="

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-faci
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Fox Business
@@ -26,54 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition style artificial intelligence has been created…for birds"
-    excerpt: "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92% accurate – and will boost conservation efforts."
-    publishedDateTime: 2020-07-27T06:18:00Z
-    webUrl: "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/"
-    ampWebUrl: "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/"
+  - title: "Facebook adds $100 million to facial recognition settlement over tagged photos"
+    excerpt: "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ..."
+    publishedDateTime: 2020-07-24T17:45:00Z
+    webUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/"
+    ampWebUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 74
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 55
     images:
-      - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/07/PRI_159293120.jpg?quality=90&strip=all&zoom=1&resize=600%2C337&ssl=1"
-        width: 600
-        height: 337
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "Scientists have created a facial recognition software for birds"
-    excerpt: "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92 percent"
-    publishedDateTime: 2020-07-27T07:56:00Z
-    webUrl: "https://nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/"
-    ampWebUrl: "https://nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/amp/"
+  - title: "As facial recognition draws scrutiny nationwide, Stanford research raises questions closer to home"
+    excerpt: "“I am entitled to repeat what I have seen, including by means of sharing photographs, an act of speech as well,” Gidari explained. “Facial recognition is simply a mathematical representation of the image,” he added. “If you can take the ..."
+    publishedDateTime: 2020-07-28T15:32:00Z
+    webUrl: "https://www.stanforddaily.com/2020/07/28/as-facial-recognition-draws-scrutiny-nationwide-stanford-research-raises-questions-closer-to-home/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
+      name: Stanford Daily
+      domain: stanforddaily.com
+    quality: 42
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/birds-18.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://wp.stanforddaily.com/wp-content/uploads/2020/07/data-01-2048x1153.png"
+        width: 2048
+        height: 1153
         isCached: true
-  - title: "AI software which recognises individual birds could boost conservation efforts, researchers say"
-    excerpt: "Birds could be spared the stressful process of identification tagging after researchers developed facial recognition software which can recognise individual birds, something humans are unable to do.|  Individual recognition of animals is one of the most expensive and time-consuming problems in research,"
-    publishedDateTime: 2020-07-27T05:18:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/amp/"
+  - title: "Facebook will pay USD 650 mln to settle facial recognition privacy lawsuit"
+    excerpt: "Facebook will pay a total of USD 650 million to settle a lawsuit over the company's use of facial recognition technology, writes local publication Facebook citing court documents presented by Facebook."
+    publishedDateTime: 2020-07-27T08:14:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-will-pay-usd-650-mln-to-settle-facial-recognition-privacy-lawsuit--1348000"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 47
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2020/07/26/TELEMMGLPICT000000856081_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFnimEKN_wSPya1OD16I6gM.jpeg"
-        width: 2501
-        height: 1563
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "Huu6YIo7DOUMLVrNDj0bgi0NfDffzvaEUm71xFwJbqyJOiOhq/ozsk/4GnMzCDKJI1WPlJj9Hp3dhR+UkjS3Pge/tNjEZ72pTwAOax/iW01kBECZLE0lHNJWurKcA6r0OfrE0ZLWix9+EKGWPpfdM4t7YhDI+77oXVH5bw3a7GSA3D0b1MNix+GziZA2lbPuiMVEdCa4FOOsEl23bSPEz1X58aEJIWIceC8mXhviWM0rPbRNtv7NZ5qwNWIfOcmCuUm+r/jLYQ9kkp8oHiK1H/ZeZcTMjnlw5E1g+vGgthh+KxmOaGfjhfEW45p4qSZqkL+nDQNgDaHlW0VulbMOyndoYvPnX1gboFzoWnZD1rPYibd6iOBK5/Xr3QMJObzy7fTXfW2QXD4NawUiOryBaIiAZRww4pfCyFun9Tme9FXyGP7bD+cMM8jQI8AdTyvrawDkER95VbWNRgYu9IwyjqkLRYLmfWBeqnkGpQtwPEu5058BEKVy2Btc7/2FlImy0ao0oehrdqZ2Rq6DC+VoTg==;8whNU0UUmuvOcc2NITLMWA=="
 ---

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlemen
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Daily Dot
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook agrees to pay record $650M to settle facial recognition lawsuit"
+    excerpt: "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ..."
+    publishedDateTime: 2020-07-24T17:01:00Z
+    webUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition"
+    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 58
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "As facial recognition draws scrutiny nationwide, Stanford research raises questions closer to home"
     excerpt: "“I am entitled to repeat what I have seen, including by means of sharing photographs, an act of speech as well,” Gidari explained. “Facial recognition is simply a mathematical representation of the image,” he added. “If you can take the ..."
     publishedDateTime: 2020-07-28T15:32:00Z

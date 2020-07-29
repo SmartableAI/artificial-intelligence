@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Harqen.AI Launches Transformative AI Solution to Produce a More Streamlined and Predictive Hiring Process for Employers"
-excerpt: "Harqen.AI, a leading provider of smart interviewing technologies for recruiters, announces the launch of the Harqen Machine Learning"
-publishedDateTime: 2020-07-28T13:15:00Z
-webUrl: "https://www.prnewswire.com/news-releases/harqenai-launches-transformative-ai-solution-to-produce-a-more-streamlined-and-predictive-hiring-process-for-employers-301101208.html"
+excerpt: "MILWAUKEE, July 28, 2020 /PRNewswire/ -- Harqen.AI, a leading provider of smart interviewing technologies for recruiters, announces the launch of the Harqen Machine Learning Platform, a new solution designed to make the hiring process more productive and ..."
+publishedDateTime: 2020-07-28T23:43:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/harqen-ai-launches-transformative-ai-solution-to-produce-a-more-streamlined-and-predictive-hiring-process/article_48bb0e3e-5791-5454-8abc-2323114da8c1.html"
 type: article
-quality: 13
-heat: 13
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1220526/Harqen_AI_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "82tcMSM286ANRHabFEig6rLwOD2ugS2QwaPYs/wPXpnSf3WDw8UV5Ocg4vNqYAFf7ezxqoCr+MP/Viyftsah/DbGmUwNRGxS1gJXr1OhRzpH90W1effnYt4zP/YYfOmBHcvdoimtwOhq5jLoYE1qsA5aNS/VOS+qlPV3JUPRec97FAc2fgPJD/pn9w+9bR5iqcvSrBp2E406JiTPd3QSrZ2BYYVuA8E8NoVVav1YvQxkh2eAV2QFmY561SXhDoLK365N73QF33pbUejsJdMC5lke8BqVKx13cM4vUtcNpbORIy/sEDJWi7a3Z+e6HnyGuFolphKjO86/lBs9FU5Tog==;Urdq2sleoJZKy+t0tuPQwA=="
+secured: "v1ezodi8WOJw6akLuQovnrUpIT8cfVQ3aLD4si6WevoBzGwce+SahyksrvFzgHVj5HFI5NU6le7CVqePVha/FXvaZHUlgR8gySTySIsCS3hXY3Q6n2+P5oCE3cfC40EmOx0AHIU7KRhtwNZu4bZZDshjCayFohuV8pfIpzj1G86y30RWJgM0iM3yPu9taushtEbpRLDncNQNCVD6rQaOXEvAyyPV5bDjAx4isW3t+Qp6IbPDdQ70Xz3B+JF8vkesmDgsl3dM6/Mp7G/IqcuDiqqLUH/FTLsSTsz4nUQ49V8ByDQBk7agVrk55VNdW8hMhUgYxO2vOtt32zUiOPI3jw==;JNKEcKysTYqFRquwnwNQmw=="
 ---
 

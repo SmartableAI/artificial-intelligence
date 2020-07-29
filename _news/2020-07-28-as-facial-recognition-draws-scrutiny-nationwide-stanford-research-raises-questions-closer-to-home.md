@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook agrees to pay record $650M to settle facial recognition lawsuit"
+    excerpt: "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ..."
+    publishedDateTime: 2020-07-24T17:01:00Z
+    webUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition"
+    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 58
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facebook adds $100 million to facial recognition settlement over tagged photos"
     excerpt: "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ..."
     publishedDateTime: 2020-07-24T17:45:00Z

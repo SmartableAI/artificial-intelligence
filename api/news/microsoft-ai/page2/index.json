@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-14-microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers.md",
+      "title": "Microsoft Power Virtual Agents: Now you can build no-code chatbots without developers",
+      "excerpt": "Microsoft uses its low-code Power Platform to help you quickly author and deploy chatbots on websites or in applications like Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/09/9675ba33-f7eb-45a4-9555-94f67f48eeef/thumbnail/1200x675/91ca737ccb2619d4a34dc4c1a94d0d8d/20200608-lowcode-tom.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
+      "publishedDateTime": "2020-07-14T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-how-to-choose-a-data-analytics-platform.md",
       "title": "How to choose a data analytics platform",
       "excerpt": "For these reasons, the pipelines that load and process data are critically important in analytics and machine learning. The major public clouds, including AWS, GCP, and Azure, all have data ...",
@@ -1311,38 +1361,6 @@
       "provider": {
         "name": "Finanzen",
         "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-ibm-is-it-a-good-investment.md",
-      "title": "IBM: Is “IT” a Good Investment?",
-      "excerpt": "Over the past few years, the company has been transitioning from a computer manufacturer to a leading cloud platform and cognitive solutions company ... AMZN)’s AWS and Microsoft Corporation (NASDAQ:MSFT)’s Azure. Many on Wall Street were optimistic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/ibm-is-it-a-good-investment-847806/?singlepage=1",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null

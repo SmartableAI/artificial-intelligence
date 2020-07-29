@@ -45,17 +45,15 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "ByteDance AI Research Head to Leave as Pressure Mounts on TikTok"
-    excerpt: "Ying joined ByteDance from Microsoft to become a vice president and head of the AI lab in 2017. His departure comes as TikTok faces regulatory challenges across the globe, and a potential ban by the U."
-    publishedDateTime: 2020-07-28T06:58:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
+  - title: "ByteDance AI research head to leave as pressure mounts on TikTok"
+    excerpt: "By Yingzhi Yang and Brenda Goh BEIJING (Reuters) - Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company, as its short-video app TikTok faces U.S."
+    publishedDateTime: 2020-07-28T06:24:00Z
+    webUrl: "https://wsau.com/news/articles/2020/jul/28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok/1043690/?refer-section=technology"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
+      name: WSAY
+      domain: wsau.com
+    quality: 19
 
 secured: "lyePsHViMHwDacH7wy66xrDAcEGGCr/G6zPT7jV9S8vi3q/qsPDm4O3rfScPpcvlsCIAA2dS38BjalvIXQYHg3KAoqDDW0ZSBR12rdbyuoGxC84OgLASVxQTMBgCZ4FCETMbU/uqi5fiiclVg8rOPtrU4FLm+tIMpfJW12ID4VyZGRbRvpB3c0kaUU9sP26O/Ux3/HxUxHgIWHqbp8VXga4jY+dPMWtbl5leLyiZbs1qvL4iG1jGLs3wriYf/fY2RaA17wlDBMyqCat4V8rsaEd4U574JoRjJ/jDz0PtMJjPE4xALwAYG6lEhuCYy8bNyausNKe7sJ5FR87+vcg3GmhniabHyY8PQozRu2f/xNj8XHatvN0Ef1bQvASLvcFeC+ST35DROwrhySEH0DpnaO8PKdBJD5zQEXytDh3UYAarlQrVzC1mPBDd2/cSk2ZxLnJBmaVItCEyek4wWBZDiUwwc0KZbVHnfbl1cYQkWh6uPYvL1vYn4sMqKpdigWbsfc5NAsidgIMzpqFs87BAlQ==;AgYwF6uchdDS4BtVRqKitg=="
 ---

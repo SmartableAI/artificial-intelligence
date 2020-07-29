@@ -3,7 +3,7 @@ category: news
 title: "DeepMind supports further scholarships for Cambridge students from backgrounds under-represented in Computer Science"
 excerpt: "New gift builds on the success of first cohort of DeepMind Cambridge scholars. The gift from DeepMind will fund up to three one-year Master’s courses and two three-year PhD scholarships in the fields of Computer Science and Machine Learning,"
 publishedDateTime: 2020-07-20T20:46:00Z
-webUrl: "https://www.cambridgenetwork.co.uk/news/605369"
+webUrl: "https://www.cambridgenetwork.co.uk/news/deepmind-supports-further-scholarships-cambridge-students-backgrounds-under-represented"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 350
     isCached: true
 
-secured: "Aa7RDKknCoZgcA7+M5w7I19WWc1BfN/X1sn4JY7w5Fkq+ElASo/ApduuHxTslELJKhE1QuZa5J/MGH7nl2VZFt/8eRMz/uYrnuyNpA50lD5wjF5r0+HUAYZLB6EP0mTK0qKKlD9SbZMRlsPgp9635fpORoZRLbmEtQAYlPP1RaMohqMGWl9srgld/zlTw5oNa9D1IvXRWQ71z/5x2qkxiW1fB5mqKKOXqPXXK/+X3EH4+sxt72kZPkEr5qv/yHhqpPmhsxTNtwwZ+y0n2qS7iOdnIuYmDz5ifVXhe5L3Bk3v7PpHXmcv+GjIMwHxS2a+1zHF8u8JmB/DtPCkDt8KnA==;qi8eSt0pV0dzfke+IRW3jQ=="
+secured: "ppHAO1/SwLbvP29Yi+ukqDrCCeaWvzuS5Ez+1iAFJQA7Tm4bYAqbYeqjp4J/AWekVmAq5/wMJKO1puKpagn2J2ZACmo1Cnwr/XkvTHK1Pbyo2a7V9lrIioUYBhy0ZUlniWaoMZjRcHk7cqUmvjJrtEZP+LGwVf5dJb7TGnZX+21ScXlYImC5zti7KXawXqfVQwobKO8DpNLFc8FfkUAR43BQU0XccgjNY+oM0EH6+kKQVkUAtqZPPZCLU63a0pGlbrD4MaqudjuxoH/J4XknzYlu+zn7GZuvZ7zPvr07uVHgqmrwbVTQXvfD/2MmfNM6lx1Cf/qVrdItBmSeazs3oA==;wWdQyRJ2GQGneIA6Ds/mzQ=="
 ---
 

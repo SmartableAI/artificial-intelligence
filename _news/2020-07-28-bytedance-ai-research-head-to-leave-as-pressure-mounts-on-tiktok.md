@@ -1,25 +1,20 @@
 ---
 category: news
-title: "ByteDance AI Research Head to Leave as Pressure Mounts on TikTok"
-excerpt: "Ying joined ByteDance from Microsoft to become a vice president and head of the AI lab in 2017. His departure comes as TikTok faces regulatory challenges across the globe, and a potential ban by the U."
-publishedDateTime: 2020-07-28T06:58:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
+title: "ByteDance AI research head to leave as pressure mounts on TikTok"
+excerpt: "By Yingzhi Yang and Brenda Goh BEIJING (Reuters) - Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company, as its short-video app TikTok faces U.S."
+publishedDateTime: 2020-07-28T06:24:00Z
+webUrl: "https://wsau.com/news/articles/2020/jul/28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok/1043690/?refer-section=technology"
 type: article
-quality: 67
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WSAY
+  domain: wsau.com
 
 topics:
+  - Facebook AI
   - AI
 
 related:
@@ -56,6 +51,6 @@ related:
         height: 600
         isCached: true
 
-secured: "L4MZfkEhd2jYXZP9LrmtvAEERaL4vsIhL8PzJZ07ebGUsGQvplSrtTPSOg+awdH2zoiyRZSkuZZkSuDDIc3yuAD02H4Knrsvws4SI5NAHNcesaBkLhgsQknpAbtAGtJ/VWsfON0meaLwP1ZygxsU8lD6BMXVWCpHOoJYnXgxqUE9CbibOnBOJeHuj+tTIqUd6DFrIjgTrudr7YYW8QCBImPiV6Eq8cpG7Erc3YBgjfFa3a+CtoIymDTuacKdmPaBQqHNVNgQWr8mxDlzuOsyqDJGUYQ5sVd0IZjH+U3XLVrP7kIFFJYGkNGmw06pLTMF1NiPuvuSWbWRGlH6fEkJHy5OLTJ6lhjTIO4si5tmeAxi0Mgqc96i7EFwSEI1DFRfnWshUiuKApM3gxauG0OSfi3j4e62vuWyua60TmDTqxceAp1XrLUYKRiQ6WF16qvVDlHvQjXXihC1ws50JNVh8vEaTx79LCrDxp7n1ZmVVWDOcK0OoCXBd6NzYMcJIAPtu6bfO5ffkYarNbs6c6TrdQ==;ZazWKoy3xmXRupxeKZgCEA=="
+secured: "VcVYncD0TGCBZu4GDvQtDjatnSOukbi9sz55HF7r6/pxA48R10uMlH+ph4rByMQNX487DJLtx/yr6EesMnCStvAAktISh1TGW53+7y5zB4ZMDlCAgGvD9PKhUQtnUfy18Dk+LD9ZAlhp4vw0oMkPKMusamwR6OuqJE5BBgvFmwKmIj4L7v0ZwB4xUGPgW0lg4WZGKtlhx6RDZysi1Db8PT3sf7CtW+tudT6KQIGmlW2gWRuo3DwpSJnqDVdKnZfkbSdC2E5xw4rnLlE6BYwrL6NnaQNPre3A76Q/YU89YiTz9hHIBpCyqltP4iERf4rUHBRSnSBO2w3C5F+QPVdvPKTd+cW+d6tbadnfKjpvOU6NVRpJeKEto6tlZteCJlheJkgXsYCVL/vGq5dhhjj2eAp/loTOCRgJcz70pOYdNux5anO8iehXhV/ANDWjyEDEd12IIPlXBJLIRAd51kX7D7w6xf90Q1MfVUelmwz0knTsvfTOXIOeB13Yz5F7jlDfLk0OiToLgrm77jnDN19Jeg==;xlzhFTO5ODQN/VjF0o6kJw=="
 ---
 

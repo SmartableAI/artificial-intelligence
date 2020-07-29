@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-28-yeah-so-it-turns-out-rite-aid-has-been-using-face-recognition-at-hundreds-of-stores.md",
+      "title": "Yeah, So It Turns Out Rite Aid Has Been Using Face Recognition at Hundreds of Stores",
+      "excerpt": "Rite Aid used face recognition to scan the faces of every single customer who walked into hundreds of its stores in a program encompassing most of the past decade, Reuters reported on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/auqqu8da3sue1vra6wam.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp",
+      "publishedDateTime": "2020-07-28T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision.md",
       "title": "NVIDIA, BMW, Red Hat, and more on the promise of AI, edge computing, and computer vision",
       "excerpt": "The limits of compute power on devices keep getting pushed and computer vision models are becoming faster and more accurate.",
@@ -61,7 +111,7 @@
       "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 264,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -255,48 +305,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-27-facial-recognition-style-artificial-intelligence-has-been-createdfor-birds.md",
-      "title": "Facial recognition style artificial intelligence has been created…for birds",
-      "excerpt": "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92% accurate – and will boost conservation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/07/PRI_159293120.jpg?quality=90&strip=all&zoom=1&resize=600%2C337&ssl=1",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/",
-      "publishedDateTime": "2020-07-26T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-24-this-ai-protects-blm-protestors-from-facial-recognition.md",
       "title": "This AI protects BLM protestors from facial recognition",
       "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
@@ -304,7 +312,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 154,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -347,33 +355,33 @@
       ]
     },
     {
-      "path": "_news/2020-07-24-facebook-adds-100-million-to-facial-recognition-settlement-over-tagged-photos.md",
-      "title": "Facebook adds $100 million to facial recognition settlement over tagged photos",
-      "excerpt": "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ...",
+      "path": "_news/2020-07-24-facebook-agrees-to-pay-record-650m-to-settle-facial-recognition-lawsuit.md",
+      "title": "Facebook agrees to pay record $650M to settle facial recognition lawsuit",
+      "excerpt": "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ...",
       "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/",
+      "webUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 75,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg",
-          "width": 2000,
-          "height": 1000,
+          "url": "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "publishedDateTime": "2020-07-24T10:45:00-07:00",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
+      "publishedDateTime": "2020-07-24T10:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

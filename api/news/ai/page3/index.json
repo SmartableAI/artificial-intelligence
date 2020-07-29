@@ -2,6 +2,105 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-25-sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech.md",
+      "title": "Sinclair Broadcasting Defends Giving ‘Plandemic’ Conspiracy Air Time: ‘We’re A Supporter Of Free Speech’",
+      "excerpt": "We’re a supporter of free speech and a marketplace of ideas and viewpoints, even if incredibly controversial,” the company said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1c5d98caaaf1038b76cca4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D218%26cropY2%3D2468",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/amp/",
+      "publishedDateTime": "2020-07-25T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-25-artificial-intelligence-reduces-the-user-experience-and-thats-a-good-thing.md",
+      "title": "Artificial intelligence reduces the user experience, and that's a good thing",
+      "excerpt": "When it comes to designing user experiences with our systems, the less, the better. We're overwhelmed, to put it mildly, with demands and stimuli. There are millions of apps, applications and websites begging for our attention,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-drives-new-user-experiences/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/04/3cd4dc4c-450b-4b23-bc14-c6bfca2f43cf/thumbnail/1200x675/bef5ecfbcd3f707a7894abde7d72b053/data-center-nasa-photo-credit-nasa-office-of-the-cio.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-drives-new-user-experiences/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-drives-new-user-experiences/",
+      "publishedDateTime": "2020-07-25T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-25-why-the-complete-version-of-tesla-full-self-driving-will-take-longer-than-elon-musk-says-it-will.md",
       "title": "Why the complete version of Tesla Full Self-Driving will take longer than Elon Musk says it will",
       "excerpt": "Driving, or FSD, today for $8,000, but it's not feature complete. CNBC explores why the complete version of FSD has yet to be released.",
@@ -284,7 +383,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 154,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -426,47 +525,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-24-facebook-adds-100-million-to-facial-recognition-settlement-over-tagged-photos.md",
-      "title": "Facebook adds $100 million to facial recognition settlement over tagged photos",
-      "excerpt": "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "publishedDateTime": "2020-07-24T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-24-python-language-what-you-need-to-know.md",
       "title": "Python Language: What You Need To Know",
       "excerpt": "Python is a high-level programming language, easy for beginners and advanced users to get started with,” said Jory Schwach, who is the CEO of Andium.com . “It’s forgiving in its usage, allowing coders to skip learning the nuances that are necessary in other,",
@@ -513,6 +571,47 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-facebook-agrees-to-pay-record-650m-to-settle-facial-recognition-lawsuit.md",
+      "title": "Facebook agrees to pay record $650M to settle facial recognition lawsuit",
+      "excerpt": "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
+      "publishedDateTime": "2020-07-24T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1319,106 +1418,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-sens-sanders-warren-wyden-back-national-facial-recognition-ban-bill.md",
-      "title": "Sens. Sanders, Warren, Wyden back national facial recognition ban bill",
-      "excerpt": "A new scorecard shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/M2ugk7HeWp64WGbHDqCQ0MW_2fE=/756x567/2020/05/01/8c12d2b9-11e2-41b5-8691-c40889483848/facial-recognition-face-id-passw.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/",
-      "publishedDateTime": "2020-07-23T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry.md",
-      "title": "NVIDIA Considers Arm Acquisition In A Deal That Could Upend The Chip Industry",
-      "excerpt": "Arm deal could send shockwaves far and wide in the chip industry, giving its rivals numerous new reasons to lose sleep",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f19d9384414eeb1acf187dd%2F0x0.jpg",
-          "width": 800,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
-      "publishedDateTime": "2020-07-23T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

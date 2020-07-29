@@ -8,8 +8,8 @@ ampWebUrl: "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-i
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Metro
@@ -27,53 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists have created a facial recognition software for birds"
-    excerpt: "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92 percent"
-    publishedDateTime: 2020-07-27T07:56:00Z
-    webUrl: "https://nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/"
-    ampWebUrl: "https://nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/amp/"
+  - title: "Yeah, So It Turns Out Rite Aid Has Been Using Face Recognition at Hundreds of Stores"
+    excerpt: "Rite Aid used face recognition to scan the faces of every single customer who walked into hundreds of its stores in a program encompassing most of the past decade, Reuters reported on Tuesday."
+    publishedDateTime: 2020-07-28T23:13:00Z
+    webUrl: "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336"
+    ampWebUrl: "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 97
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/birds-18.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Facebook agrees to pay record $650M to settle facial recognition lawsuit"
-    excerpt: "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ..."
-    publishedDateTime: 2020-07-24T17:01:00Z
-    webUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition"
-    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 58
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI software which recognises individual birds could boost conservation efforts, researchers say"
-    excerpt: "Birds could be spared the stressful process of identification tagging after researchers developed facial recognition software which can recognise individual birds, something humans are unable to do.|  Individual recognition of animals is one of the most expensive and time-consuming problems in research,"
-    publishedDateTime: 2020-07-27T05:18:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 47
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2020/07/26/TELEMMGLPICT000000856081_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFnimEKN_wSPya1OD16I6gM.jpeg"
-        width: 2501
-        height: 1563
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/auqqu8da3sue1vra6wam.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "MYMY8uLoM9ce+mzCUHNJkN+VczLaSE4DmkAVLhFRQuHXX/ZcutLrQ5VUMWcXN8iJZ7ioIoWYHsC9QBOw5QrIDp8m66o+arVk4H9KP+Y3OGV6vqVDoMzvWmgeqGsavTte04bLuhSxzhtug7aaSHIsMiqaQkZ3jVvkD4vi0CNz15tfBX8aSnr7dcSW2UcQ1LIKFyDN9Mpm/V9hfB7aL3wbhEqSOsaX0a1D9AB8hS4iT82OQYlT9J6If6S1KPcjaDSnehlwRP+9tbSraUZjIORH6bIbRzX8GRKIdZ2iU6hkJsDuh5MqPwx4jsiei4Dv7q8ULDKP7LyR9PQdOU1GIjtKVg==;ZWuLmU8Hm7NnfyvfjnWmoA=="

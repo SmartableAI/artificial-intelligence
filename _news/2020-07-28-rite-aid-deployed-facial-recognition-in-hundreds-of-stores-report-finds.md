@@ -76,6 +76,38 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Rite Aid surveilled customers using facial recognition tech with links to China"
+    excerpt: "A new report from Reuters uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government."
+    publishedDateTime: 2020-07-28T22:01:00Z
+    webUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance/"
+    ampWebUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 100
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Special Report: Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
+    excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country,"
+    publishedDateTime: 2020-07-28T11:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-riteaid-software-specialreport-idUSKCN24T1HL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1HL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1HL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527456185&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R1MP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. studies new facial recognition tech built with masked faces in mind"
     excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
     publishedDateTime: 2020-07-28T13:58:00Z
@@ -94,29 +126,18 @@ related:
         isCached: true
   - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
     excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
-    publishedDateTime: 2020-07-28T11:33:00Z
-    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software"
+    publishedDateTime: 2020-07-28T23:21:00Z
+    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 84
     images:
-      - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/video-01222020_MISIDENTIFICATION_027.JPG"
-        width: 1110
-        height: 620
+      - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/mastheads/share_B0A2738.jpg?v=523023280720"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Special Report: Rite Aid Deployed Facial Recognition Systems in Hundreds of U.S. Stores"
-    excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country,"
-    publishedDateTime: 2020-07-28T11:32:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 76
   - title: "Rite Aid's 200 facial recognition cameras revealed in investigation"
     excerpt: "A sweeping investigative report has revealed that drugstore chain Rite Aid quietly added facial recognition systems to 200 stores across the U.S. in an attempt to bust repeat shoplifters. The Reuters investigation found facial recognition cameras at 33 of ..."
     publishedDateTime: 2020-07-28T21:52:00Z
@@ -276,6 +297,6 @@ related:
         height: 800
         isCached: true
 
-secured: "zetp1EJ91MTSlXNeGcD9LKODCkKayrYk/E2dRKuWndKOGQwcruzcKRekXWmaQ01SNp45nyexnN/N2KNeoXdJTdxEkZsn0TlM+pBbIAD6vM4ztYZ0sGH6CBrVUZK3Xijd/eQ/YLt+mfcBr0R02OY8Eot6hep6fRxtboU8XeL97hh2vu7yk7FAJjzzOQJTd74hScZSeDDUY+NP1pXiPmw6/4vtwxMEoMyYKKgUHwcWTXDev3rSKNWRW6IOjCQtYbffQ+FNo1vYpcazv/1pu83MFLnoP59V7KNcJwi+KfD1zKgttUPyjT40CRrWU1W9mhWuqEb3/PZ5F3O5TzX7b/1fOA==;1Pkg2KEhE2Is+hL8vv/Qvg=="
+secured: "s+yJhujmvx3WQzLA7LHhf7sz7/u4+jXzQ9FmK5puBGE1Kd/Kk5DwIohuKGqCbKaUlb8l40VASU5lhrLgAwKZhopVIUAm+SZrPE/ySPTeyeUrt+sH2eMwubmbEmVOEYXGr8U69p5TsjfRwnvse+VXZKE2S9AkVqhYkm96Fkbq+3LV5gHWDhvLhtxj52ELYj12c4MPfgPYLBdGcfarHi1VWAU1wi3i4JqyEXcRu23yAS9u4gQysOaJCWevX4QF3RGJIn4nKbSR6j7Dxa+3PIguSMyj/invH1KU9DzZUHPEPDMwYbCgBNjUz3AZzCmu2TEvTAivTYzffaUJdEH3ScsF+vIw32/gBy+2j+vKGzX10nEhhqFZKCc2gGIVXYqGJvx3GpaOwt5fi7TIq9q1Dq9Upw92J9oG8AL1wz5eeSwy3S1qAZ905i1HhWflp8heMHl3Y2B3K3Y0ABGsqLqR/CYFAd8Y+DIhjoqQDD/GO5lJ4jOvkM3CJyBKx5UVe9PAJosW;aZnC5BPAvmEuoG4nY1oS5Q=="
 ---
 

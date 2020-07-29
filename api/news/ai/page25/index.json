@@ -2,6 +2,168 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-07-06-new-ai-project-captures-jane-austens-thoughts-on-social-media.md",
+      "title": "New AI project captures Jane Austen’s thoughts on social media",
+      "excerpt": "A new AI project from magician and novelist Andrew Mayne creates simulated conversations with historical figures including Isaac Newton and Edgar Allen Poe.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-95-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New AI project captures Jane Austen’s thoughts on social media",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
+      "publishedDateTime": "2020-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture.md",
+      "title": "AI and robotics to redefine businesses - Accenture",
+      "excerpt": "The 20th edition of Accenture's annual report predicts that artificial intelligence and robotics will be among the key technology trends that will redefine businesses over the next three years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rte.ie/news/business/2020/0706/1151662-ai-and-robotics-to-redefine-businesses-accenture/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.rasset.ie/000d9006-642.jpg",
+          "width": 642,
+          "height": 361,
+          "title": "AI and robotics to redefine businesses - Accenture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rte.ie/amp/1151662/ ",
+      "cdnAmpWebUrl": "https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1151662/ ",
+      "publishedDateTime": "2020-07-06T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RTE Online",
+        "domain": "www.rte.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts.md",
+      "title": "Myriad Partners OptraHEALTH For AI-Based Information Tool Gene - Quick Facts",
+      "excerpt": "Molecular diagnostics company Myriad Genetics, Inc. (MYGN) announced Monday a new collaboration with AI platform OptraHEALTH to implement a cognitive ChatBOT named Gene to provide pre-test genetic and financial assistance information to prospective patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp",
+      "publishedDateTime": "2020-07-06T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis.md",
+      "title": "Sentieo Drives Improved Sector Investment and Competitive Strategies With New Machine Learning-Driven Analysis",
+      "excerpt": "This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,” said Naman Shah, Co-Founder & President, Sentieo. “Using our leading deep learning models,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change.md",
       "title": "Neural Network Software Market Report (2020 to 2025) – COVID-19 Growth and Change",
       "excerpt": "The Neural Network Software Market is expected to exceed more than US$ 22.55 Billion by 2024 at a CAGR of 33.2% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry.",
@@ -1226,189 +1388,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-kt-and-hyundai-accelerate-digital-transformation-with-smart-robots.md",
-      "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
-      "excerpt": "Under the contracts, KT will acquire a 10 percent equity stake in Hyundai Robotics, the leader in the Korean industrial robotics market, for 50 billion won. KT also signed a business cooperation agreement with Hyundai Heavy Industries Holdings for joint efforts toward digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/kt-and-hyundai-accelerate-digital-transformation-with-smart-robots-2020-06-17-15183012",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
-      "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
-      "excerpt": "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-industry-analysis-and-forecasts-to-2025.md",
-      "title": "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020 | Industry Analysis and Forecasts to 2025",
-      "excerpt": "13.10.4 Apixio (San Mateo) Revenue in Natural Language Processing (NLP) in Healthcare and Life Sciences Business (2015-2020)",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16504272/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-industry-analy",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16504272",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16504272",
-      "publishedDateTime": "2020-07-03T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-study-only-18-of-data-scientists-are-learning-about-ai-ethics.md",
-      "title": "Study: Only 18% of data scientists are learning about AI ethics",
-      "excerpt": "A study by data science firm Anaconda found a \"concerning\" absence of AI ethics initiatives in both academia and industry.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-94-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Study: Only 18% of data scientists are learning about AI ethics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "publishedDateTime": "2020-07-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
