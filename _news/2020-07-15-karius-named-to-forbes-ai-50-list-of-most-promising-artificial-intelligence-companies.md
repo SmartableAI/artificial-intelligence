@@ -1,56 +1,25 @@
 ---
 category: news
 title: "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
-excerpt: "Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence"
-publishedDateTime: 2020-07-15T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301093938.html"
+excerpt: "July 15, 2020 /PRNewswire/ -- Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ..."
+publishedDateTime: 2020-07-15T13:30:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies/article_ebf9b154-cc75-5a5c-bae3-1b4d304dc64b.html"
 type: article
-quality: 45
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-related:
-  - title: "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
-    excerpt: "Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ® Test uses novel genomics and AI approaches to identify more than 1,"
-    publishedDateTime: 2020-07-16T11:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-  - title: "Pioneering study uses traffic cameras and AI to predict future, promising to save lives and money"
-    excerpt: "In an effort to prevent deaths and injuries caused by crashes between vehicles, bikes and pedestrians, the city of Bellevue, Wash., set out more than five years ago to foresee the future."
-    publishedDateTime: 2020-07-15T17:15:00Z
-    webUrl: "https://www.geekwire.com/2020/pioneering-study-uses-traffic-cameras-ai-predict-future-promising-save-lives-money/"
-    ampWebUrl: "https://www.geekwire.com/2020/pioneering-study-uses-traffic-cameras-ai-predict-future-promising-save-lives-money/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/pioneering-study-uses-traffic-cameras-ai-predict-future-promising-save-lives-money/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 74
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bellevue-cam-630x362.png"
-        width: 630
-        height: 362
-        isCached: true
-
-secured: "LBj3ckasRDzx3F2P190j+skJLMbLpwE/WtPTy7Hzms8qZp0uhXhA7NyIupELr2M4o9QtOlzinlaZo8k8BkQUGWH9BqhDOu9Nn+bVwbNsrCquhUW23CSW/alDUgmcrIqhqrRGK5DR/W1+r0z0se/gIGoYaQdMoetLqwbDO0HfFSS5Nhr85wOt2zukvF7k3EiTw0JVsq/0JsC0aGI4tC7lCJrP5JsDOjh7NuNdVu9pXmQYxDq44Ql9oaZ36A9asKW0ANVcvg9WfIfGy4+4danGVlQ4aX9iOPfhsXlP2WYBh+B4U2z4zGdxBNlFiSb4XHAoIm0flCCprhS0nyxXEvGK+A==;en4tAA/s7nvxGbrQxF1SKA=="
+secured: "7OCH53joz2UvyiiGnPObhkVtXBgwIcTk/30eYZOnrs2j427ZyPkorwtPReNGRipic1h8y7UZZAYmYku4PxZAKhbJ2o8mG+SVoNzDhQEV68ajiI98ZlVGOraLwVRBxYBtyZnWLPPjufldqKHw+lj5Ab3saoM9JjCMtF+gobpBcKvP0/RAZu/ZzgrcrUExXtlvcEPPXA7/ck3Y/zhJiKp5Upi0+LC+P7uauuODjAouhVBFotvpMjn9NC78L+r/J7mO+557Xd6dJBXyUDtvC1us3c1uADAjYtSLOKG9pmJrscjZYXpndkdH3yPBpj1lDRjomzmysJSeZzh5+wWmeZ01UQ==;KPBj7x0feO3A4yp1zPkKgw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200728/Deep-learning-algorit
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200728/Deep-learning-algorithm-can-identify-genetic-alterations-from-routine-histological-images-of-tumors.aspx"
 type: article
 quality: 45
-heat: 45
+heat: 55
 published: false
 
 provider:

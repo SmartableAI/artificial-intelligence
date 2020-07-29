@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Fraud Detector"
-excerpt: "Amazon Fraud Detector helps businesses identify online identity and payment fraud in real time using machine learning, based on the same technology developed for Amazon.com."
-publishedDateTime: 2020-07-28T18:36:00Z
-webUrl: "https://www.darkreading.com/cloud/aws-announces-general-availability-of-amazon-fraud-detector/d/d-id/1338466"
+excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
+publishedDateTime: 2020-07-28T17:28:00Z
+webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Dark Reading
-  domain: darkreading.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-    width: 600
-    height: 600
+  - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "j/o63qnoUU5Fef6Gx6EI+8Jb0139nNmBG82nufKQ2sDm5oRpmy5xkVR8rekgu/qbtCKYWLnG6EitrHANx1EM5ITr0m6cDOJriTXEyaV4C5CF4ZIW1+qSkeFGld600VXepCgDT+HIzU3fgnz4tLgnbRDYYffQi1lYLidKArzagvL4NpwuGxLyHHzXjaADzREsns6yhqHjDuaa/D2Pz2xHdsOJq839ntAvRTfV3ADJ1aFfqxoe8vok8h2NWdckKJFHRYfz/JuFwfqEhOjiKuJx8nL/5THx79FV0l1FfsaZKoVj7HxUZRrLZQHW7Uunq7oUPfNHsEOQdTfqnCnp6WmpIw==;vyJMEIpNFLihPgYh4HY0Ow=="
+secured: "xjrMDUNLAyvDUknBcpbzomuBEl5E0aqczCv2dKBGmwqGLcRqJz3gP2KLQPLVpIpd85N7pFYgohTWpCtJ0CD31j0cHnAa3RMwKfNZJTZKSBL0SqHqFcn45fW2HmCmvJaE3K1KpYPQtF7hUXT49UfFgrbuluzXnjqSG4gi6sKiSqLU3qadRyXVkU81pRPGpgDL4eCBU8EwecE9325G/qvshv7FNbpvg1/gykE9C4RATQtMLJEiiMcM3/m6v710UhVqoDvYd19muD7XrTWG0V5iUGHaQhkpSycViaIccs7hxb10sFNHvYF2lzUko7sG099qMU2gk2gHpHg/FXWxoZ/25A==;xt8+9Us69hx7nuZ5Zos+2A=="
 ---
 

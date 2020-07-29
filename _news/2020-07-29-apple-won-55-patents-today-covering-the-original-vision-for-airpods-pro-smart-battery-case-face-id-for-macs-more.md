@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-29T00:01:00Z
 webUrl: "https://www.patentlyapple.com/patently-apple/2020/07/apple-won-55-patents-today-covering-the-original-vision-for-airpods-pro-smart-battery-case-face-id-for-macs-more.html"
 type: article
 quality: 16
-heat: 16
+heat: 26
 published: false
 
 provider:

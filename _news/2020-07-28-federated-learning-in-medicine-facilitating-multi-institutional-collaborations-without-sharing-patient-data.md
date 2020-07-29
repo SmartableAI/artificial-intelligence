@@ -40,6 +40,20 @@ related:
         width: 1500
         height: 1050
         isCached: true
+  - title: "New machine learning method allows hospitals to share patient data -- privately"
+    excerpt: "Penn Medicine researchers have shown that an approach called federated learning is successful in the context of brain imaging, by being able to analyze magnetic resonance imaging (MRI) scans of brain tumor patients and distinguish healthy brain tissue from cancerous regions."
+    publishedDateTime: 2020-07-28T09:27:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/uops-nml072720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "LIjqm4QKoh5d9zUVteLUcH97mmlWNu8NqcvwXkfWKspj6JVwEzyBe2RFfBFeQnNzFWKdyOkDyHQeY+Mup90ly480dPlPd2AGonuoDNRbSr+OcvC8V0aidNo/UdA8IdjBkaX+JdpDVKUpJo+RmCdiW18osGsoRHaljKIIsvtRjPY1RdvNDl7lnp0wTNFBXhwDSc6fOoqTNcvzSML2TX6ywNfBPzrmfi/JoISJeKQrfvh9dVBt+gs1ygKLJiy3EAJSvKlcpfrhQHTDCW2LoOMWPiIQfgsz5fDvXONNJmPIj8/KBVgwzbVter9uMZHLysZrGOXF3eCZFkeJqZE7ELEq0Iz0yFYYLcxLaieMTugvjSJQO650mvXD/cDJ+5ifSnGMs4pFSCeipv2XmPZFqQF2RwgSbgpe+Rs98Pl+IotOl/waFo1hDmU0yBXee4Ac/ImqeYWFMbQbuGiDhtG1O/1MCMjWHhlfHji0bTURv6nOvk+HkgfoNepJO1qxHs1QjTKFSfcg4by7V6geaGH2F6sVXw==;p5F6Fch86oDWX4W8NafJXA=="
 ---

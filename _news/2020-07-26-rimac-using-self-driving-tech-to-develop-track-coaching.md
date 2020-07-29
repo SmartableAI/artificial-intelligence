@@ -38,20 +38,6 @@ related:
         width: 1420
         height: 797
         isCached: true
-  - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
-    excerpt: "Luminar Technologies Inc., a prominent tech firm in Orlando, is staffing up key positions, including chief financial officer, as it prepares to begin shipping its self-driving sensor platform in the coming year."
-    publishedDateTime: 2020-07-24T20:22:00Z
-    webUrl: "https://www.wftv.com/news/local/self-driving-tech-startup-luminar-taps-cfo-it-scales-into-production/YEDS2ZOMEZF23HJRX2H2GGVWLQ/"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 24
-    images:
-      - url: "https://www.wftv.com/resizer/9kJDlUhAE6KU9txoYzbd7_v7vC4=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/G3CRDHOT6FFV5GHRJFI7XD5SWM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Ram vans to get self-driving makeover"
     excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
     publishedDateTime: 2020-07-26T07:35:00Z

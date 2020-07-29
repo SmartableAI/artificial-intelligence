@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI protects BLM protestors from facial recognition"
-    excerpt: "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji."
-    publishedDateTime: 2020-07-24T19:37:00Z
-    webUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 104
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "This AI uses emoji to protect BLM protestors from facial recognition"
     excerpt: "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji."
     publishedDateTime: 2020-07-27T07:59:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png"
         width: 796
         height: 417
+        isCached: true
+  - title: "Rite Aid used facial recognition in hundreds of stores for years"
+    excerpt: "Rite Aid used facial recognition systems in hundreds of its drugstores across the US over the last several years. According to a Reuters investigation, the technology was deployed in “largely lower-income,"
+    publishedDateTime: 2020-07-28T18:51:00Z
+    webUrl: "https://www.engadget.com/rite-aid-facial-recognition-reuters-183343353.html"
+    ampWebUrl: "https://www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fa12d9400-d102-11ea-bfff-7e127c0f1c8e&client=amp-blogside-v2&signature=bf9cd9495ada5659af3ce77c89c15cef4d3f7e25"
+        width: 600
+        height: 350
         isCached: true
   - title: "Rite Aid has been using facial recognition tech across hundreds of its stores"
     excerpt: "This information came to light through a recent investigation by Reuters. During the site's probe, investigative journalists found that a whopping 200 Rite Aid locations used facial recognition technology to detect potential criminals,"
@@ -75,6 +75,22 @@ related:
         width: 1680
         height: 1120
         isCached: true
+  - title: "Rite Aid surveilled customers using facial recognition tech with links to China"
+    excerpt: "A new report from Reuters uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government."
+    publishedDateTime: 2020-07-28T22:01:00Z
+    webUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance/"
+    ampWebUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 100
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face masks are thwarting even the best facial recognition algorithms, study finds"
     excerpt: "Researchers from NIST found that face masks are causing facial recognition algorithms to fail as frequently as 50% of the time."
     publishedDateTime: 2020-07-27T21:43:00Z
@@ -90,22 +106,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/MXKfN-YizAVPgI2BlAXBDDUGEvY=/756x567/2020/07/27/440f5d19-a0fa-4cb1-ba2d-3d4555ab8581/nist-masks.png"
         width: 756
         height: 567
-        isCached: true
-  - title: "Facebook proposes $650M settlement for facial recognition suit"
-    excerpt: "Facebook this week offered to pay $650 million to settle a class-action facial recognition lawsuit in federal court in Illinois."
-    publishedDateTime: 2020-07-24T20:36:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/07/24/Facebook-proposes-650M-settlement-for-facial-recognition-suit/9421595618921/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/07/24/Facebook-proposes-650M-settlement-for-facial-recognition-suit/9421595618921/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/07/24/Facebook-proposes-650M-settlement-for-facial-recognition-suit/9421595618921/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/9421595618921/2020/1/3322cb68699ceb551d7c2f4e6512c4ce/v1.5/Facebook-proposes-650M-settlement-for-facial-recognition-suit.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Face masks are screwing up facial recognition software"
     excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
