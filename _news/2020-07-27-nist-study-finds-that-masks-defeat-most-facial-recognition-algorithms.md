@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -170,6 +170,15 @@ related:
         width: 726
         height: 480
         isCached: true
+  - title: "Paravision Achieves Global Top 2 Ranking in NIST Test of Face Recognition with Masks"
+    excerpt: "SAN FRANCISCO, July 29, 2020 /PRNewswire-PRWeb/ -- Paravision, the US-based leader in mission critical computer vision, announced today that it achieved top 2 accuracy globally on the National Institute of Standards and Technology (NIST) Face Recognition ..."
+    publishedDateTime: 2020-07-29T11:55:00Z
+    webUrl: "https://www.medindia.net/health-press-release/paravision-achieves-global-top-2-ranking-in-nist-test-of-face-recognition-with-masks-479646-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 12
 
 secured: "dvcCmL9iHr41mh4ArfUI96Ut4L6vdodkpRVQ3M6xDiPt+PJkDyiPnXnzvvdL1TLZTTp0eVq9aJhUp3H3y6EjmUwmZ9b8L3Wgb3HrGk/xFmTFXsmJfqdks8RZboG6FWFcIv1msY9xSyqW+YNTs5pEXnWGaUU+EoSizo/SFn9xrCi1Ji734qjx/komj6yDpt5QWEalr29X5VCM3SoH0zoAIlWRmo9PxdNNAuqiNvl+gfsAR2dtfZjym2vpFjDtCDVrrt3+FYvcAKF8RGXEeNXXCwlClRGUvc8Qo9uHBGBzjPjePr7JHMczmuyo/1/M/F60w0vNnOHJ1gp5autJfenF87HpwpxQ/hf+gXTMFuTxrZNNbuwOLjtL+68kadCcJsLvwfoyvBcmAI21OQZ4Fj/f1IHTpIEpG9OuYpRdcBwE5RGr1Mp7XbvvdBxaY1awOJCJrk1piy3Dfrj86tK56xoEEgW04FAivbhj9kXThm9+rQfum9fBNk0oOjuBWu9pG8bq;GJkdXwdu7yBAA6mFui8Lxg=="
 ---

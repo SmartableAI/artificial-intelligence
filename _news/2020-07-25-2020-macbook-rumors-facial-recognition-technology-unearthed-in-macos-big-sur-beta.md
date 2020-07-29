@@ -177,22 +177,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook offers $650M settlement in facial recognition suit"
-    excerpt: "That’s what lawyers for the social media site are saying with their latest offer to settle a class-action lawsuit based on what plantiffs say is abuse of their facial recognition system."
-    publishedDateTime: 2020-07-24T18:33:00Z
-    webUrl: "https://thegrio.com/2020/07/24/facebook-650m-settlement-facial-recognition/"
-    ampWebUrl: "https://thegrio.com/2020/07/24/facebook-650m-settlement-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/24/facebook-650m-settlement-facial-recognition/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 59
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2020/07/971974530.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Do face masks make facial recognition tech less accurate?"
     excerpt: "According to a new study by the National Institute of Standards and Technology (NIST), the face masks that we should all be wearing to protect ourselves from the coronavirus can impede the ability of facial recognition systems to correctly identify us."
     publishedDateTime: 2020-07-28T21:30:00Z
@@ -240,22 +224,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facebook Agrees To Pay $650 Million As Part Of Lawsuit Over Facial Recognition Technology"
-    excerpt: "The lawsuit was originally filed in 2015 by three Illinois residents who alleged the social media giant violated the state's Biometric Information Privacy Act, which requires written consent for a company to collect facial recognition data."
-    publishedDateTime: 2020-07-24T17:15:00Z
-    webUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844"
-    ampWebUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 50
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/21/facebook-placed-an-informational-disclaimer-on-a-post.jpg"
-        width: 1024
-        height: 700
         isCached: true
   - title: "N.Y. passes moratorium on use of facial recognition in education"
     excerpt: "A moratorium on facial recognition in education may soon become a reality, as both chambers of the state legislature now have passed bills mandating a temporary ban, with the state senate passing the bill on Wednesday after the assembly passed its own bill on Tuesday."

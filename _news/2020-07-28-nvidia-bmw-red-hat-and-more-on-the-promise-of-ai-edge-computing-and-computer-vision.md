@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-th
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -32,6 +32,17 @@ images:
     isCached: true
 
 related:
+  - title: "Shield AI Recognized As One of the Most Promising Artificial Intelligence Companies"
+    excerpt: "Shield AI, the technology company focused on developing innovative AI technology to safeguard the lives of military service"
+    publishedDateTime: 2020-07-29T10:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16823194/shield-ai-recognized-as-one-of-the-most-promising-artificial-intelligence-companies"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16823194"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16823194"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
   - title: "OnLogic Releases Compact New Series of Industrial Computers to Bring GPU Computing To The Edge"
     excerpt: "OnLogic ( a global industrial and IoT computer hardware manufacturer, today announced its Helix Series of industrial computers is"
     publishedDateTime: 2020-07-28T17:18:00Z

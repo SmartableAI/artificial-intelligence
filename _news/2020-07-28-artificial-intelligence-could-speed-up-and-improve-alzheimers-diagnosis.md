@@ -5,7 +5,7 @@ excerpt: "Research examines how the routine use of Artificial Intelligence (AI) 
 publishedDateTime: 2020-07-28T19:56:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/07/200728121223.htm"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -19,8 +19,25 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
+  - title: "Artificial intelligence can speed up and improve Alzheimer’s diagnosis: Study"
+    excerpt: "Artificial intelligence (AI ... Scientists at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ..."
+    publishedDateTime: 2020-07-29T11:34:00Z
+    webUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/"
+    ampWebUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: "https://images.financialexpress.com/2020/07/alzihmers-660.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Artificial intelligence can expedite Alzheimer's diagnosis, improve patient prognosis"
     excerpt: "Artificial intelligence (AI) could help to diagnose Alzheimer's faster and improve patient prognosis, a new study from the University of Sheffield has revealed."
     publishedDateTime: 2020-07-28T14:37:00Z

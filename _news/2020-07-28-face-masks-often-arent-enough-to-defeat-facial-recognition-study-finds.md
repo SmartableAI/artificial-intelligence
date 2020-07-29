@@ -166,6 +166,15 @@ related:
         width: 726
         height: 480
         isCached: true
+  - title: "Paravision Achieves Global Top 2 Ranking in NIST Test of Face Recognition with Masks"
+    excerpt: "SAN FRANCISCO, July 29, 2020 /PRNewswire-PRWeb/ -- Paravision, the US-based leader in mission critical computer vision, announced today that it achieved top 2 accuracy globally on the National Institute of Standards and Technology (NIST) Face Recognition ..."
+    publishedDateTime: 2020-07-29T11:55:00Z
+    webUrl: "https://www.medindia.net/health-press-release/paravision-achieves-global-top-2-ranking-in-nist-test-of-face-recognition-with-masks-479646-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 12
 
 secured: "5QEcaET/dWttg3eeaxSyjOqMOH+ITnk0sq7DxPjVazXSh3fXp6GS/O7NUes65Jbh7cjSv9+IH5QHq3owQQqZfUXfSQiyn4mujgsgJG0IX3B3qVQRwVekWOqOCELSpuwEi0uv4lvBWtJvShbaoJzS4DKUdpOjPEW8sgQTxR154MK/3Hl0KWwFS/Ttl2rcEvhNBAB3khT01f+7wzDMJiw+s6W5GrdSuMyUkixOuUag8P6MLxwOKmzzU1fA+imWM/M6LYb4DKF2bXPJB765YoJJR6K+Fj0eJpEb+RS6g1zJmLoWh22p359ZZ5GYvPMU22MvlaAagHujBIIzPaWJsCJcAhm0Y9Dj/ZgGDoBolGDsxuTGRVPTruGigs6z2x/UVgW23zoypikSTMKtPhvdAXpayNHcJ6I2UXou2EytUBcptxsU+eLKYPPAfVmGQnENjilMGAhVWmEAyeNw6nwyKjJbMpxmhqqvlpJgIkymcKjUn81hdQrieGecfFERbgVMvaAi;zSXOjp+ZHJ6Jx3josVu3IA=="
 ---

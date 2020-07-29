@@ -5,8 +5,8 @@ excerpt: "Snapshot of Global AI in ProcessorEcosystem: The AI Processor and Syst
 publishedDateTime: 2020-07-29T08:36:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-processor-market-outlook-2026-top-companies-trends-and-growth-factors-details-for-business-development-2020-07-29"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

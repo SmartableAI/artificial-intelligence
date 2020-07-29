@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 658
         isCached: true
+  - title: "Shield AI Recognized As One of the Most Promising Artificial Intelligence Companies"
+    excerpt: "Shield AI, the technology company focused on developing innovative AI technology to safeguard the lives of military service"
+    publishedDateTime: 2020-07-29T10:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16823194/shield-ai-recognized-as-one-of-the-most-promising-artificial-intelligence-companies"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16823194"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16823194"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
 
 secured: "i3SdxI+im0HF0TP2ISSJuvbZS56c4Q7z+aWhqAqKKhRC0sKufsiTfw5FEAM51khFKazam37D6eZ564EazIhym80jeOlslgtL8YtSdxFclo+wdmb/SYNMwQ4ggXuBi4mk7cjyw9NtvAuo4cB+nSc2L25ptEQaJ4sK7sLJyfhqarmvmWi0nblmj67RMmHrHxGZ+ooM5t2OZdPXkjnLCqz4COullcpAANQSdDkT0N04qG3JT0bZEBt8IX901pI91Ja46lDRByIQ7IKE6ZNGHNysVz5aS5LiKcHBJS95YSsFTpec98QMwM+Z9I/5rpNbh8ik0vJZt42WwQ1xMejzCOa4dw==;y5Uxw8fao/2SOPbi0K5SZg=="
 ---

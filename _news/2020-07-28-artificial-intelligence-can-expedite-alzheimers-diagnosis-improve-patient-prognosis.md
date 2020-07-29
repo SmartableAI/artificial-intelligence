@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200728/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200728/Artificial-intelligence-can-expedite-Alzheimers-diagnosis-improve-patient-prognosis.aspx"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence can speed up and improve Alzheimer’s diagnosis: Study"
+    excerpt: "Artificial intelligence (AI ... Scientists at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ..."
+    publishedDateTime: 2020-07-29T11:34:00Z
+    webUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/"
+    ampWebUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnosis-study/2038894/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: "https://images.financialexpress.com/2020/07/alzihmers-660.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Artificial intelligence could speed up and improve Alzheimer's diagnosis"
     excerpt: "Research examines how the routine use of Artificial Intelligence (AI) in healthcare could help to relieve the economic impact neurodegenerative diseases, such as Alzheimer's."
     publishedDateTime: 2020-07-28T19:56:00Z
@@ -34,7 +50,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 46
+    quality: 48
 
 secured: "Ic0k6Xdt5nZvzKzHcwHBNSbB0OZIphdX/Tj23+wxozsTkn3xysKuqtdsX8PRyDX5n+JzIhhH1LUfUtrMy3vgVtG23A8sJs856i20MXMDuTDRZOuFdiOwuM/Y46kW8RYpHKH6rQSHZBA/HPLtJdKYfeEsE2T14LwsXp+qZ2ReRvxqLgI7DG//dVHjexWes0vloRwKw4d7k9WLl8Fu7XRi+zQNRhYF7GBJnu3F4tklDununRPPSJzEcidG5wSgBqV2aZzhCPurlV3FxjSRUc/j/55fOPrqixw1VFQq8bVyxAo2ygk4GHLeqIRZA7zC5aZMSlSMG06PdddGIuVyIESetg==;CO4h/K/V4K9Bce2x3n7nnw=="
 ---
