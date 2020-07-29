@@ -1,28 +1,25 @@
 ---
 category: news
 title: "AWS Announces Amazon Interactive Video Service (Amazon IVS)"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Interactive Video Service (Amazon IVS), a new fully managed service that makes it easy to set up live,"
-publishedDateTime: 2020-07-15T21:10:00Z
-webUrl: "https://apnews.com/cf4fc7ae4ced4cc5bd4843719e68b0ba"
+excerpt: "Amazon IVS gives customers the ability to add live and interactive video in their mobile and web applications in minutes, using same tech as Twitch"
+publishedDateTime: 2020-07-15T22:13:00Z
+webUrl: "https://www.businesswire.com/news/home/20200715005929/en/AWS-Announces-Amazon-Interactive-Video-Service-Amazon"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200715005929/en/805839/23/aws-logo.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "1vReD/ze/hS0P49t6ACVsbJX0zBFd2oB++WFjntaYh6dCpkNTKrWkcl4wMlGBZ0alqVdm/++aIw3aOW3QgeX3VH58xI5/qQxeEO+fDV73rqjNUcarYjWYCwg/Z9ZrlQaE94wONsnFaZXtnFBrOMhUngpTG6kQ31FDSOWdTYlbAuQ997QD6NDAjvojtPpmmtPyQdrPI8qmlpkgpjEltvxx5Zpa8oYN45822bvLppWW/TDKAGmLB4vMj5DX/tAvNtRvU9D9wajsLjIaBxcHL/Ut73bPjrL7zPLJ+MhA40IumEvocoGEmPGzcSb0e7Mv17rFw1Tw+mzYe7RR8kyeufAmw==;2rJ3fjzD9Q9IopaSpiKirA=="
+secured: "svYNWVNe1/IRQbeLNbVNn+Pwy0LBGnOqoRx7pyUsmehQbl0QGQRGrt8uGg7vJ+w2LGWBhdInXw49UY940aloDLevr/mT+Ybu8GkXfDv8EWCEjRmBAk/05qbLqKVUgnJg2vpEXkWE5r4LZi4F/da3w9rPuwys2NkjBNT4TwQxKxWAL5Yb4ZrAcvhgRG8BhmHEp4uKVOeeyMJs7OrZUTHXF2YSXx4T/MRrRLMlggLE6BjUDG8YHdqd1Viar5tkV3JF+1OxlPCYXb8xN1BiGO6ZtY3MvIUkmp4EhaF5bX9+xANIDvSFG2RuBjb7f+79CICJmFFq6yabVGH+4VXDCMmqOQ==;zZhYBH6JGKMwk3jK6S81qA=="
 ---
 

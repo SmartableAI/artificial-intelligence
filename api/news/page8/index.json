@@ -2,6 +2,56 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-22-amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps.md",
+      "title": "Amazon launches Alexa Conversations in beta, lets developers deep-link skills to mobile apps",
+      "excerpt": "During Alexa Live, a virtual event for Alexa vendors and developer partners, Amazon unveiled tools designed to enable new Alexa voice experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
+      "publishedDateTime": "2020-07-22T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-google-launches-recommendations-ai-ecommerce-tool-in-public-beta.md",
       "title": "Google launches Recommendations AI ecommerce tool in public beta",
       "excerpt": "Following a lengthy preview period, Recommendations AI is available to eligible Google Cloud customers in beta from today.",
@@ -1105,38 +1155,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-the-autonomous-cars-big-challenge-using-the-hyperscale-server-fleet-to-train-ai-neural-networks.md",
-      "title": "The Autonomous Car’s Big Challenge: Using the Hyperscale Server Fleet to Train AI Neural Networks",
-      "excerpt": "The world knows that artificial intelligence (AI ... The training of the AI model is computationally intensive because neural networks need to use large data sets. The complexity of neural networks requires hyperscale hardware technology to accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/autonomous-cars-big-challenge-using-hyperscale-server-fleet-train-ai-neural",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

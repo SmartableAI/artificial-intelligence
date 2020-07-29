@@ -2,8 +2,8 @@
 category: news
 title: "Video: A game dev's guide to going beyond the hype of deep learning"
 excerpt: "GDC talk EA's Magnus Nordin gives an overview of the potential of neural nets in game development, and how they can be combined with reinforcement learning to create new forms of AI."
-publishedDateTime: 2020-07-28T19:00:00Z
-webUrl: "https://gamasutra.com/view/news/367170/Video_A_game_devs_guide_to_going_beyond_the_hype_of_deep_learning.php"
+publishedDateTime: 2020-07-28T19:40:00Z
+webUrl: "https://www.gamasutra.com/view/news/367170/Video_A_game_devs_guide_to_going_beyond_the_hype_of_deep_learning.php"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 1068
     isCached: true
 
-secured: "M4zRWpGh18MShOXmlNMegFXmZaMxw7Drm19cFMW0uSRb/tY5zaez64lv7l1Yd8MQzgSiFNDXO4y4F/+7mCTI6+idpK8pCtxFt/E6UCNaVyNOXpVMUrnFtt8qvb/D3F8rx4I4PCCu/j8MBnoaSryNQ60gBHUpHylLynvUPTB0zog9EhgfpUIQe3bEtRKNi4aVlpc1RabNoCrHcrfSOWoFt3uN9g88FueEMxRANwbGYPQdPgWspbL4eeTmGgQvgEDD1TI7uGkJNMo6bXLJn/tnA0VStwA208pQSap9VraI+TxqAuPF/Exx0dp0eMsPEXVcToNDm9dhOGMGDXoFexehMg==;KOKQaTSsYLuWqGKBfqlzuA=="
+secured: "nge79qmtC4Rrk0MrhjIDXtI6yBROZKg1yXWQb/XQpUb/Rmya/99U6HZR719Repw7eVL1EdeTPnCmPk0CDwRSWPSzChvqdix2tsfbMFZV/0SJwJmKO/ec8NtKNNSXHPC0TO6K/1wQ/DYpVoPsAClBVlvlviFvOZQ7LCniTvWTVolsqYq4WjLitJdqrpRfqPi0ut0jl7LrvEzOFHhHpM1bkVltcX6kUQyG09ZB4cmnOTBy1nwZAfiTlsV5aROtmq5BREsg35b/O0v83k3apdASUCkHbN9I+0nBlg+rT8L3+HL0wilMPi72zTZ9yQUl0tsN9CXbcobJwigkibj3o10aOA==;RpUxXGmyFlqogl1csptcRQ=="
 ---
 

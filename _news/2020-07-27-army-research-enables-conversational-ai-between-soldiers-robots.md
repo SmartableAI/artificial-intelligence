@@ -8,7 +8,7 @@ ampWebUrl: "https://www.army.mil/article-amp/237580/army_research_enables_conver
 cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/237580/army_research_enables_conversational_ai_between_soldiers_robots"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -18,6 +18,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Conversational AI eases soldier-robot teaming"
+    excerpt: "The Army Research Laboratory is working on bi-directional conversational technology that will make it easier for soldiers to team with autonomous systems."
+    publishedDateTime: 2020-07-29T21:02:00Z
+    webUrl: "https://gcn.com/articles/2020/07/29/conversational-ai-robots-soldiers.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 54
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/July/darpasquadX.png"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "CX46031AU/igtcaQO1bLhNDvUw836ed4JXb4D3CPlH7weBejD9rQs/8WGxR7R+5dOjJVv6dfvUMs12SXMxJqpijpPeZYdkZXIFVSNfMEGaLGFD93SP358xn9IhPjqs+XUsh76oBPYgqfHTG69ColQmVUYX885Uk0+cK5SHf9ICN1UMXpnuLivwEjoqdqWi0jDa6a9c0f2+kagmrl/tfu+3wjD4HjAgHikLcXtSDiw8XNy2sowm8oU/aQTHhJKXRv/FH33N3Dr7Ibgt7wel8WAR1brD1ZT6xdWK98ws+0zFFlYIvuFRGLOkwtqtmFFHokzbCuH4LYb1XOmN1a9/jH4g==;TigKNlTkig/Gz8UJogX9eQ=="
 ---

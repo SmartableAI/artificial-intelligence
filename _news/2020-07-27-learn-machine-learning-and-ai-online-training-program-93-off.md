@@ -28,8 +28,8 @@ images:
 related:
   - title: "Simplilearn Named Training Industry Magazine Top 20 Online Learning Library Company for 2020"
     excerpt: "For the fourth year in a row, Simplilearn, a global provider of digital skills training, has been named by Training Industry, Inc. to"
-    publishedDateTime: 2020-07-29T12:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/simplilearn-named-training-industry-magazine-top-20-online-learning-library-company-for-2020-301102130.html"
+    publishedDateTime: 2020-07-29T21:37:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/simplilearn-named-training-industry-magazine-top-20-online-learning-library-company-for-2020-865062099.html"
     type: article
     provider:
       name: PR Newswire

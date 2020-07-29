@@ -2,6 +2,38 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-17-tag-aws-reinvent-2018.md",
+      "title": "Tag: AWS re:Invent 2018",
+      "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics.md",
       "title": "Here's what 'LOL' looks like in ancient Egyptian hieroglyphics",
       "excerpt": "A new Google machine learning tool shows that pictogram symbols of yore were pretty similar to emojis of today.",
@@ -1352,56 +1384,6 @@
         "name": "PR",
         "domain": "pr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea.md",
-      "title": "Is Turning To AI In The Midst Of A Healthcare Crisis A Good Idea?",
-      "excerpt": "Well, with artificial intelligence (AI), we don't have to ... Especially at the time when our healthcare system is under intense stress. However, my experience in AI security tells me that the implementation of AI into medicine should not be rushed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/16/is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f06b9db930900063ef98a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/16/is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/16/is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea/amp/",
-      "publishedDateTime": "2020-07-16T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

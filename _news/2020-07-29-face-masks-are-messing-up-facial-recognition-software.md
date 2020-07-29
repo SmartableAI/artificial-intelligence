@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Face masks are messing up facial recognition software"
-excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too.This is the key finding of a new report released Monday from federal researchers at the ..."
-publishedDateTime: 2020-07-29T19:58:00Z
-webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
+publishedDateTime: 2020-07-29T17:35:00Z
+webUrl: "https://www.kcra.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+ampWebUrl: "https://www.kcra.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Computer Vision
@@ -247,6 +247,6 @@ related:
       domain: medindia.net
     quality: 12
 
-secured: "UfVArMvor7P4lr3Imi9hPw7tyb0E1e4/IHrx8EqRQ0hH+ri04DUbFWYkCkohvlbQA5sX8yCLR8uxH0l3/qqnlAvN+Tik9ra1g0LqfHG7mHp/kNXxc7e4NhoUrGET/47U7Ji3DStg7Cn7vS7zIZyiPgn/lQ0U+/sb/IcuPkKINQm9aeUdyOJ1uU4xtr4mYclvATUypkKcaaIOnmhzjRSTqaGFbiVd9WsI20g8ZDM4X7CpNBrM6Pv7H7iEabGFrxOlkC04J7q0oDyYoAjoaRp2Rk5oi8kygqjs8x7tjb5K4N/eNSIkhdEVCLhnZizsgKTfy4AZ1pUzqJHDHD5dfcS93g==;JOSi9akTu+F8jJzw8Jq9mw=="
+secured: "Nd3hJusW1SBUzNE8LPvarHMoojAcQ4W5G5ToN6uSxJ9iSE5/vak42khcqNtnkCSfQtKE4MpCW/LSYQBJO5EihPv8HUNideaonTgUUYwxWuPGDx2eJxZX5bLI+Y/q6UC9whiWDCI6XypVlzSw0Y6HGASw3arXZSMixgyb6OwUw7gDXZEYX1A/OdfgBRR03GZOEEDBEVyE8Lm6ldNwpz1AcmGj9zxBdT4RuTpziuOmmHDzcUgGLpGIDkW8swvYmP1KaWNGo2MLPNf5/lPVQyRysRklCC89xUc5jD04kpua4Kht8sT72DZqEq8i6oRSRB+80UmcgCznwk0gxvikSKABYA==;u3pDKrdTtaUOEfPZeDWGsg=="
 ---
 
