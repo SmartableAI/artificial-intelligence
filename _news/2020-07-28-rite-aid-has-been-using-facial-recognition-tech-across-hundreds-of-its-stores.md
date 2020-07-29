@@ -110,6 +110,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Face masks are screwing up facial recognition software"
+    excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
+    publishedDateTime: 2020-07-28T23:54:00Z
+    webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
+    ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 59
+    images:
+      - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
+        width: 775
+        height: 438
+        isCached: true
   - title: "Face Masks Are Thwarting Facial Recognition Tech"
     excerpt: "New research from the National Institute of Standards and Technology (NIST) suggests face masks are hampering facial recognition systems. Because the protective coverings obscure the bottom half of the face,"
     publishedDateTime: 2020-07-28T21:25:00Z
@@ -125,20 +141,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/young-woman-wears-a-face-mask-as-she-listens-to-speakers-in-news-photo-1595967818.jpg?crop=1xw:0.76304xh;center,top&resize=1200:*"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Face masks are screwing up facial recognition software"
-    excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the National Institute of Standards and Technology,"
-    publishedDateTime: 2020-07-28T22:38:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/28/face-masks-are-screwing-up-facial-recognition-software/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
-    images:
-      - url: "https://keyt.b-cdn.net/2020/07/hypatia-h_b4971a171a395e6e01a62a4be5d33697-h_3517168e9f91011e110e89992812757b_preview.jpg"
-        width: 500
-        height: 333
         isCached: true
 
 secured: "htUFoyz4pEe9tJ7z5N8M78ga0iq6QsNqi9VliWkZhk5iaLWhUqlHnHSdbZIGUcgUAbb64dJEvSOPwZ2vAn1CdJ3FQTCkShb1Iz+p+fstVdGsvhQmT52Obw8y7+xgnq+PzPr8q/APvXfK9De8tZRDZqM7nz2CX1ad6wZnM8QPxsNgQ+8fxh3thm6W7HjE0OSlQCkbwICg2xTAW8zU9LBaZ5L8z/pjPCumpn6ZW00kG/cWo5gwY0anVDpl4VkLVxRIf1M2Vk2RvBWHg5r7QPXa1jwby8pc4n73hV/PxYuYRWvzQrK1RhTGuY954yt4Q1eTfSLHXEAGIUvgexOfZu+m1Q==;Q8sslroFkrgxpcZ4Pn9iGw=="

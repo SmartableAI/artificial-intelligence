@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Face masks are screwing up facial recognition software"
-excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the National Institute of Standards and Technology,"
-publishedDateTime: 2020-07-28T22:38:00Z
-webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/28/face-masks-are-screwing-up-facial-recognition-software/"
+excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
+publishedDateTime: 2020-07-28T23:54:00Z
+webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
+ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
+cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: WHDH
+  domain: whdh.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/07/hypatia-h_b4971a171a395e6e01a62a4be5d33697-h_3517168e9f91011e110e89992812757b_preview.jpg"
-    width: 500
-    height: 333
+  - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
+    width: 775
+    height: 438
     isCached: true
 
 related:
@@ -137,6 +139,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Bxj7GndgmGzKI6hnby8CBRo7HULpDboUvcLcf6jEgRuSDBqbjT8BQkUATUGbeGv9qx/Rqw+Em+tVwFlqExA87dc5BlcT0Z6drFUUW7QjdaToDQXoLZYqm1JiBsprH9EqXzvKRKfzd3LodGiVCvylqjcOFx0IhJ4cZ+vG82hcAGKLk0oRjM2uUL+3OSeOkkjJ9fbczyf9kMWqQK4EGVyQRlrNWkKm2Y9pWSBsW/J9MMFslGU9fFHlwTKoKwN/LaQ/gU4knkd0PFmanhzNhTGq68uMBMqO8+BvA9Kcde8Z2daYF54d7RYC54C0IMubMHNd0Disv6hXWSLtVFN6lOHyrA==;dX2uHqn4yC8K983OS62DKA=="
+secured: "4Kfer83wClvfQ6sL/zWyyWNJwxhgd0Nm5Lpr6jaYX3zA/QbFUG5T1Rlx756QaKTj1fiQNTG+JKqhJnsNxsUiLRB3gQYwkiCrvEh/EVzGOeNBhzdq2OxOXbYy1Xu451Sxz5JuokCtKeHtVQmUX1S3/Fa22TKF84pCmgrFv6uwHqfoRTr9OpSpkrFf42YnwSaNXs442X4bN9NzH2wWwaGeXFATzvDOubw4Se/Mso/FHyhY28mbJv7ZbXD9cILIt4+/PTsKj+CSZBDGzFgbpGGLZ6Q6UKdJJLxFHMQQFRkCvoxQxp2y9GmaYd91ECLMzlvVES0vOdj9sOGaZ9x/zRspHw==;DfIB47SDKAnrx0iFRRVvDQ=="
 ---
 

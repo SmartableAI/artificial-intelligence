@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Special Report: Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
+title: "Special Report: Rite Aid Deployed Facial Recognition Systems in Hundreds of U.S. Stores"
 excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country,"
-publishedDateTime: 2020-07-28T11:50:00Z
-webUrl: "https://www.reuters.com/article/us-usa-riteaid-software-specialreport-idUSKCN24T1HL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1HL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1HL"
+publishedDateTime: 2020-07-28T11:32:00Z
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
 type: article
-quality: 96
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527456185&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R1MP"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "How Reuters analyzed Rite Aid's use of facial recognition technology"
@@ -112,17 +106,17 @@ related:
         isCached: true
   - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
     excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
-    publishedDateTime: 2020-07-28T23:21:00Z
-    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software/"
+    publishedDateTime: 2020-07-28T11:33:00Z
+    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 84
     images:
-      - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/mastheads/share_B0A2738.jpg?v=523023280720"
-        width: 1200
-        height: 628
+      - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/video-01222020_MISIDENTIFICATION_027.JPG"
+        width: 1110
+        height: 620
         isCached: true
   - title: "Rite Aid deployed facial recognition in hundreds of stores, report finds"
     excerpt: "Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores,"
@@ -297,6 +291,6 @@ related:
         height: 800
         isCached: true
 
-secured: "MWx6yHvxRp5uKCAwsUYNtKfmTKIyRUjqWEYKDaltl6bRZFG4AXutwbM+LRYpdlaDJHrURdkMyHM7+qlTp62HBrW00zol1iSLqbFWzX7q+TpyFz7v7aIm/Vv53vAoEcXZ/AO8KPyN8+CnAnvYdBWf82VY0wfw3kPxKXEQN72n7QonvcRxZCFFGQ96nI9g1z8fic5yEXmuR3UX27pk07Rb9WF+3T0x32VCacMY7iBIxMMHN1EupAkg+M+ntT9Kzigt2P0WGeJb+em5NRpbKFQT5xNkKLS1KaH05+0RwshElSQ2uFmYpsdASb0Rb+6Bemm8UC/vh2BesOtMRH+QV/5DAQ==;5YPvnLgxGJeB/Puhx3XPoA=="
+secured: "Bc98eu1HeUaWa1IVeYA99bZ+U13YiXFeZGVFwvxz5LpZGGlWiuwW/O0af+JlUJCVH0wyYVHJ219+IhuqJRSaXCttjtMRav66tqRHl+9GxtykNzhUYyAp/JqaHT0e5vDhBYATix4dhxr7YqHy535I/9meMYKNJvJvqFPKv/FGDW35xGvzbdd50lg4wGYQ1WHwB5MN1vtdVh5cZGmGpnkk5drLVQCAdf+C+bvECEdQuL+nCHMqbtuFhGn2J6cFAXRaIQcBjDksNqdWnO1ATSSFKHsf4q8LrXKP00fiXFCXgzcJPEa3BFTGKqI1XWYlbd+pLSG6Pmrj+Ypz3HqRKMYBP/VzZqwKgvJ2OhB+/JFLmVXvi6yXA7Cl5X+2SdHkGQr8IDd2b3P2e9yYl6ray1ucPYl4zh3pUAEg1tR0EJxc2uk36FqUqrLbSLtnaew3VpbOqs/v2TWGCUYQovCXk4Dn5EA3/q3rFUXmbDFIBKuNSoCs20Mvyu3IlrpgA51ycHU71PwhlJwfavH0u2jB+xsIdg==;NgeyOewUVF23nXfsbRlOEQ=="
 ---
 

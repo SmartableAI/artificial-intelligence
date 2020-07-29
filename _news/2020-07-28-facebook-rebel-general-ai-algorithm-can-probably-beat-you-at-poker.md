@@ -7,7 +7,7 @@ webUrl: "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algo
 ampWebUrl: "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp"
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg"
@@ -43,6 +44,6 @@ related:
         height: 600
         isCached: true
 
-secured: "rct5jKEzToWLMwnUmYnP7yxSXFMSd8oclNqdtFo23MasOOt3jBHMHWOyMJAhjQZIHKkHCQM4AM1IadtTc0p3t1APnmx+ZpmJ8dIPrMLgdPff/rI+8ohJk2TUKRFqNNjvAQpVKqiqHdSLk4ZjhZBamkzPD4Vsgox9Q3/k/F5mcIXCtjQdqJo7rVIsjyYOMenI5mXTDtDeufnMlTAvegO+4LSdYUE7BWvsWaV9Kn591YzQad9327wOeSH7F34iAttSwltoOcKz3yHvw+cg4kTmRUVojP+uOqndQsuGmCwAvvuEYQdnaHt0NsJ6s7NciD5kleJww2/jAeL9/wpD919ZgA==;vUTJ9VbzNwKbFhiOlWkkow=="
+secured: "7GFA6viPE5trAaOKWEP1/O9c3VX6yqtl/m2ELMq7TcnNtiiAEhw6O4WoTb7wtcgLy12ctRNbi2lmKt+xEOGQ6yWsRUkI3Sp4bxsSYBns4Wlc2XCvLOZ0PrJDamjFsD9Z39SWfQzV4nlk3CJJCo4Rd46PcVEttJuhYPXCkFFxv34iyrqQLKHHqh4JqAy5zg0WyCc6vlf1Sm7O+uihRc7aKr2D0hrZfjqNTKVGdgLjGNolh11xNKeivrNnLd/MTVolyNKY1vd9rz8QCnHttEOzNCb5iDQNm4vUbosnRMJzFZRxyhzEDxUnnZFbyPPjOwkgA5EhQQZxWij/w6hXlDoj7b0G+5HI41F9tTNkF3nBxID0W0Ra5dkdA9KG6VOahshhBzFgS+gaieSjr/Jp9ihggFOHlBG/FpL5pcgyvJL8BWVIoACs0ikRpRa6gXotrwD+ldnD+QBe1dH8w8acI/ztvecMqKU/OeQgU/axwHFOxhpNIBh+efXKmQDEZRaqkbBcbFyDqHY7krdpqMtohHMM5Q==;waa11WV4ZH3MBg5OH/GVHw=="
 ---
 

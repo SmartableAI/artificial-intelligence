@@ -25,22 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Machine learning approaches help chemical and materials companies"
-    excerpt: "In the future, all materials scientists and chemical manufacturing companies will have access to machine learning tools to enhance their R&D. Seamlessly int"
-    publishedDateTime: 2020-07-24T07:32:00Z
-    webUrl: "https://www.controleng.com/articles/machine-learning-approaches-help-chemical-and-materials-companies/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/07/materials-1.jpg"
-        width: 645
-        height: 350
-        isCached: true
-
 secured: "WIr80rlJhXXhWcS2odZFm0s0DXvj0C3JWS++YpjNofBNS3dY8B0eVRzalu3O1OqgHWZurkh4bQigd7FBFr1TcNr9a6sbjwzAKKitp2r+ctog99W1kca7e8GrprztPiq+WsCvpXlqjdqvTgTNJ3rku3Xa1ANcOQQFxZN6JE0BD3FoyAXT3PXMCOuSEXBOMnCgIFO/gnBFjMIwBAh+HoLSoX2nT/bmVfjg4k2t8Y4P/oLsmJJBXF2iM4c2xzawm0bNGhmBBKLlO6OwUuM8zuKu3nRehgg2wBcUkv7ZcrS6zjZ0/vWH4KPzES44tWYf6fPfDvnh1g2qGGVTSGe1/FSEcw==;1Brw+ZM9Kr3RqbuZy3qlYQ=="
 ---
 

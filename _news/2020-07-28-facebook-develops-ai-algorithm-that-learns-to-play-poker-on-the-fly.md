@@ -41,7 +41,7 @@ related:
     provider:
       name: Android
       domain: androidheadlines.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg"
         width: 1920

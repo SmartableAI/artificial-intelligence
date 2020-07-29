@@ -123,18 +123,20 @@ related:
         height: 534
         isCached: true
   - title: "Face masks are screwing up facial recognition software"
-    excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the National Institute of Standards and Technology,"
-    publishedDateTime: 2020-07-28T22:38:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/28/face-masks-are-screwing-up-facial-recognition-software/"
+    excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
+    publishedDateTime: 2020-07-28T23:54:00Z
+    webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
+    ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
+      name: WHDH
+      domain: whdh.com
+    quality: 59
     images:
-      - url: "https://keyt.b-cdn.net/2020/07/hypatia-h_b4971a171a395e6e01a62a4be5d33697-h_3517168e9f91011e110e89992812757b_preview.jpg"
-        width: 500
-        height: 333
+      - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
+        width: 775
+        height: 438
         isCached: true
 
 secured: "VvZCdtD/yCkGfRuNQs7obg8EsY9b6PzZdI9CiYtbVA4cwRPEJ+zG+mkXbb7CDtIQHrRFuv4xJ8zQa6FaZSfTL5+xaBe2hPpqYcSD1bACx4hOoyGjIDeEYJgNWUTJcAOVpQ6p+1JMdtgRShps/z0hIWW5bxFP+THtb5Ztf4PEt9EvU1OyXFaHI4VVucXmMZsSU/6RQa/fTWGPi3pox6lnnH3nRtjnBbPD6cie7Bi/+nnw7Jdpf7iisjYtCrlz+uNyCW5aw8MMgarw/DgC05EsQL2qIWhEPlXPicDAz8cDPZ+SVDG9Pxng8DpPumHJZ4/2P193A9yq/hHaFmcJdyZJcUyWaWmJbiB1Mijkvc8DI++4qsV8SU0CIs1uMVk1EH1ZsiVEJQuX1hFVK4F+2eELWgk2bP51EQbJ0kxEuGt8cmEtUxI14MjWWg5SYSsKKQQ6oIcbYC5pRq2XrHBVGhHQTcdRXAfP7zMTmDCHX9YCSLggrSdCyUzviyAwy9CCyc9l;vVJIoUQIlmulw0Q5GZWXPg=="

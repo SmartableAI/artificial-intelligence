@@ -40,6 +40,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Fraud Detector"
+    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully"
+    publishedDateTime: 2020-07-29T01:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-fraud-detector-2020-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZkrlMmqQzk8MSxpd5uDZI52/tlGMzELZhTogX4myxcJ7zx8xUliCn0RXDTCMmV/uH8MI4EkByI9Hzr1Qw3BddLXfbjdg/xQ6NXyhzzAHeyXagXcyQRFzR9HoV66T+DQWSqJMOuVcVUj8MGRwdEKHiz2R/+lGsFGTdUKOIyuyY8Ln9tumVLr/o6fx8j0/8XMAMcBk7NkLxqOmBtIJJ2VSKNIMGtoArbBBXnhBF/bvs9D4Zg8dAB9N/RYJgKvyY5vJV+uS+GFahXDq7wKQfRRzE9zGHf5iyeMdg1W6ctrS7kmzA5GfVBQgB5HYFUsi7btHoY/SCtrRcEkkOXlQ5XC9dQ==;30tyj7nL8Sx00d4dMPqOrw=="
 ---

@@ -40,15 +40,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Delving Into the Weaponization of AI"
-    excerpt: "Leveraging AI and automation enables bad actors to commit more attacks at a faster rate – and that means security teams are going to have to likewise quicken their speed to keep up. Adding fuel to the fire,"
-    publishedDateTime: 2020-07-24T08:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/weaponization-ai/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
 
 secured: "JxuNwm7yUt287uDCESqIMSX9VtreRwOPgIoj6e/ynkXF26BO5Lqnuaq1eYvRyOl9Nph1Av1apGRZZ1Xk5FdD1CoerWxH2ZKY1eph+tJZCc92O3NZxUKdEY7eg/6Mqw9dGf71Hb3/DvNAE8RlSKBAfEb5ySokkupLsXOXWnVpR71geDi/dV9xgmg8iQ9oKnfPVZN1hGXwX0WcF7fVjeYj/F+PzqnFFPzfpCDHw9hjlQuL4fzjBAg8aUUlAZGSyAL/9W1dvPmEbnbfegx685dqyhHf2U3W+UXnwjzreZWyQg/9YROuux8mO2KzgO7VI/exC4PSrJnXUDg6Shh1l7kklQ==;XyeLqOqmjvd2WrBktpTtEw=="
 ---
