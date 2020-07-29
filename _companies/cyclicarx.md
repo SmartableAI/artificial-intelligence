@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cyclica"
   url: "https://twitter.com/cyclica"
-  followers: 986
+  followers: 987
 
 size: 11-50 employees
 yearFounded: 2013
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=UHArUciCDH4"
 
-secured: "jpg3JASfZ6kq8WA1jcRi9DuPKKNi6VRccs4xZdxrAPsBU59VqnvETh9mp2HALRcqW3TgvB/s3qVsWSIbdOZv4AVgEw5Vz9HB+KWBIBSHaGTf+qCe00jjGsklstiHJPGyFNvZ2aqjBmpHY//+utOexK9KkMMOiasFmsihioml4k8UzfDGf42IaVwDJxNx7W0eW+uOH+QCGrK3IvU0Fdhdy/DYbiW5r4VZFYTRX/qUJhqUDVIy1TKb1kfsxnOjeroMPqEQFYzVucqNHRs9MqiYFWqH0Y9IFLhZqpd45iWa1VaAuQGZePo8O+dMcAD56egvmvGGlj72/HXAkl6fxMuotSbPiWQFIKbDAd21a7c1g4IWN/4codMr7+FZVG3g6PB4;+N+ZNlPhBoHe/k7bxJLbqA=="
+secured: "ySQz9GeYLB2M9KnAR7QewFaxPFek7fNNNLVSEBYWp+gTIP6QLRrhE+o3pW7OCRGi1Bp9hau1a6GxE5o4fVB73dQIJVY5S5bW7pQaBLcpsuHBaZ9eD/pZQN+7lZxKOgYEWZ2Fs0mfy3dZ9hXqqyoRe4/HJ8hP5H+7hB2Vx5qRp1SIsdLgcUipOLtZYOgCbAyyOGQbRO3Bkq1ba0+eaq07iNtiSuQ4Rlf7oANrRVoN61mRpil4hQ2OGC4LOdtZFlJNBur0crkL6koTG+5yuL3nDqcgKSm++2Nc5RCEiHwKC6Prsaa1mPFdM/S+X5Hw/r8HxFm12z31DgqC6K/iB5dU7vRSNN7ig/WLuOSa7UGULGMPuze18gUbtkg1laxj3TW+;KpWqHCJpre+canLfBOOkyg=="
 ---
 

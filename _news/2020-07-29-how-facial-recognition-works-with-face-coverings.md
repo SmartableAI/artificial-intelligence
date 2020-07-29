@@ -2,16 +2,16 @@
 category: news
 title: "How facial recognition works with face coverings"
 excerpt: "Computer science experts say that face coverings and other accessories may act as a speedbump, but it wouldn’t be very difficult for the software to be modified."
-publishedDateTime: 2020-07-29T02:33:00Z
-webUrl: "https://www.thedenverchannel.com/news/national/coronavirus/how-facial-recognition-works-with-face-coverings"
+publishedDateTime: 2020-07-29T03:33:00Z
+webUrl: "https://www.wxyz.com/news/national/coronavirus/how-facial-recognition-works-with-face-coverings"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: WXYZ Detroit
+  domain: wxyz.com
 
 topics:
   - Computer Vision
@@ -238,6 +238,6 @@ related:
         height: 800
         isCached: true
 
-secured: "wG9Zf4QJM8I/D3UIEAh/uY+SVFRRPdlLKoifzoQdVnGbUiChibTI5wAzoDPCQbCYYG4tT9ddGM8rQ1jhiV32BVm36mxz6U1CYrd4qdsW2WiNsyhI51+80RFqSqFL/RKof/LgRK10C2jL74GfRo+69reZFbp2vFYvfMYqjXyvcRJSXgnPbrUyEPmQmgYP6gVupRosfMdm5D87fnJTM7c5YGAT5zBDSosb8hBPpEsfdVaSsrebF/676T8M2XglB19XOGoNtpKzk+953JQ7Vqw3ZJ/ZGnyv16G+OJg1VS6AxifVA6LWjWB5NcklsO9zy2s5x6pHMvXlE9mNXQLA6A+sthMgMNebIWaluij9vRh/CvVXZ0qQ73PiB2DoGR3HWiyE0rfC37w6ES+9FUsFqsol29HIvxkcMcGgLQBOv4Actzfw9oIOVh6X++K0SJncRoatkO/LNWVGEyHxlITPcP9C4HIYQpJnoQ3d1fz2Fxzyy37tTnYhRh3coLzuSXbXhNHjWQxthneVqEqC3AL46rwZcw==;a9BHvwWBvCc6ziMCYFUZow=="
+secured: "EJPNnATj4iqrMbuEePaYtvFD86l3seg/WhjCmEv6pRnIFvFtmX+1D5LBZsX6JP2qMfR2PfAi05UI9kYVIeyDZsCpD4rsIDntTQGbvykxsvlkDhkt43Gbzfi8iB1b5Kr0domiZwJ72icDlTakVbtucZtUKVW9cJFqneyyr3ZLFwhtT2GPwVvTfsG1q0fVxlL4WRStIOFQIcCfu7y/TFhnK0HucKJXgUSlktYkGIy1446zUm1NdTisE83yJBn65ESkmSZ7+a5JwhPuuIX4iEIlWJI2l/Kadnxc55zj0h2Y11+OcMePcDXYfV+N4jEQDSjPmxTf7D60GPGx0DNpsrPqDA==;4xl/J/21KtDkNHvE6ZWARQ=="
 ---
 

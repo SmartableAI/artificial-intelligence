@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "DataRobot"
   url: "https://twitter.com/DataRobot"
-  followers: 16493
+  followers: 16491
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "4HZLzg2fJeK80DYwVx7sgOOqfFcurjzVTUEpJvADXSTWPWVdz5dB11Vj6bxjjgj7AkeFLGdp7LGhi+bLyt39mGJiCjld7ONFPJXqKHV1hLySlLnoFhAausU/PqPQw3aRL+KLeAYRvYOllbJ9P3NLW6b8qE/FVh4WzUiOHpook+InLchO0ja8Un0LtM45PlapttybTRDfqpX3QN4yI7GY1wpSaCuWnQc+IB7/zkZfw4jNTJpNXeSP9nCW86pwGvLOienRL8Ll3QKLB1A2II1XmXaCLg3wgHFZagrcXLKG0Sp/UrAQZV+e0uK+bbOeOwgrGO88s6suHqbKU6uyq+dHEusPQDxF7qVQV3AQmobPcU5sNmDwTgwOZwcdwHgCxSy3u0I6dX2hJQPbn57YUtvGbA==;nRxy2GbCV4FrvB423pUGRQ=="
+secured: "GAPl4fKrucCImmaPrR8QoBHVFSWpHRjZvvS26QCPfTeOjYUNL1PHGKUkqsphti+zqMB6aahLl5R3iGRlMqrSA738tLsGs3KDENSXJGrbKVCgOcfLt8KyB0lmZdrXljGRbxy07xhUz5jL77iC0aCN0UD4XVoC5LbKcGLzW7NizDAQ56j5D05nil0mGkBS3AmH10W3pG0cQ1GFY3SQyzPPMLSjlRgDDyZsDtrf0SE8vduo9ev+0iC9im2967LslAfn7/TDJCNhZMpfi4n7J+3GJ0d87MtnB8voV1GeDCzZtwSCirMnAKz9TQIrl4ef8LAfMb3LtEe3PD8jMdk5QmKJbv8ikSHv4Oy2gDrN+ZY8CsCJ0c63MjQN5gMnfP+IrmZigJAjNlH052+ma7ITNYNjGA==;J6miDikGgG55cMcfZ/lyKw=="
 ---
 

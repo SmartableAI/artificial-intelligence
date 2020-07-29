@@ -152,6 +152,22 @@ related:
         width: 460
         height: 306
         isCached: true
+  - title: "Face masks are messing up facial recognition software"
+    excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too.This is the key finding of a new report released Monday from federal researchers at the ..."
+    publishedDateTime: 2020-07-29T17:50:00Z
+    webUrl: "https://www.wtae.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    ampWebUrl: "https://www.wtae.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    type: article
+    provider:
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1586368270.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
     excerpt: "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ..."
     publishedDateTime: 2020-07-29T15:23:00Z
@@ -165,6 +181,22 @@ related:
     quality: 59
     images:
       - url: "https://www.uticaod.com/apps/pbcsi.dll/bilde?Site=NY&Date=20200729&Category=NEWS&ArtNo=200729574&Ref=AR"
+        width: 726
+        height: 480
+        isCached: true
+  - title: "Top facial recognition tech is thrown off by masks, study says, but that could soon change"
+    excerpt: "The algorithms can be tripped up by such variables as mask color and shape, researchers find, pushing error rates as high as 50 percent."
+    publishedDateTime: 2020-07-29T17:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/07/29/masks-facial-recognition-error-rates/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/07/29/masks-facial-recognition-error-rates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/07/29/masks-facial-recognition-error-rates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 49
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2LTPNGQOAI6VATLZQ4U3ASOGU.jpg&w=1440"
         width: 726
         height: 480
         isCached: true
@@ -182,6 +214,15 @@ related:
         width: 726
         height: 408
         isCached: true
+  - title: "STUDY: MASKS SCREW UP FACIAL RECOGNITION SOFTWARE"
+    excerpt: "TRENTON, N.J. - 1 p.m. (scheduled) New Jersey Gov. Phil Murphy and the state's health department update the Garden State on efforts to combat the COVID-19 (coronavirus) pandemic. Partly sunny, hot and a little more humid with a shower or t-storm possible ..."
+    publishedDateTime: 2020-07-29T16:55:00Z
+    webUrl: "https://www.wfmz.com/news/cnn/clickable/study-masks-screw-up-facial-recognition-software/video_d5e67220-2268-536c-a7fd-0649c3acd148.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
   - title: "Paravision Achieves Global Top 2 Ranking in NIST Test of Face Recognition with Masks"
     excerpt: "SAN FRANCISCO, July 29, 2020 /PRNewswire-PRWeb/ -- Paravision, the US-based leader in mission critical computer vision, announced today that it achieved top 2 accuracy globally on the National Institute of Standards and Technology (NIST) Face Recognition ..."
     publishedDateTime: 2020-07-29T11:55:00Z

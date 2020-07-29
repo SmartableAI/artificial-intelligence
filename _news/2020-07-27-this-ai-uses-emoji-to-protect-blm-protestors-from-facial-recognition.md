@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -93,22 +93,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/MXKfN-YizAVPgI2BlAXBDDUGEvY=/756x567/2020/07/27/440f5d19-a0fa-4cb1-ba2d-3d4555ab8581/nist-masks.png"
         width: 756
         height: 567
-        isCached: true
-  - title: "Last Word: Time to reject facial recognition"
-    excerpt: "... Moratorium Act announced this week would place a moratorium on federal law enforcement using facial recognition technology (as well as voice recognition software) until Congress passes a bill to lift the ban. Research has shown that facial recognition ..."
-    publishedDateTime: 2020-07-24T23:34:00Z
-    webUrl: "https://www.sfchronicle.com/opinion/lastword/article/Last-Word-Time-to-reject-facial-recognition-15432791.php"
-    ampWebUrl: "https://www.sfchronicle.com/opinion/lastword/amp/Last-Word-Time-to-reject-facial-recognition-15432791.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/lastword/amp/Last-Word-Time-to-reject-facial-recognition-15432791.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 61
-    images:
-      - url: "https://s.hdnux.com/photos/01/13/17/56/19725223/4/rawImage.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Face masks are screwing up facial recognition software"
     excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "deep6ai"
   url: "https://twitter.com/deep6ai"
-  followers: 1324
+  followers: 1325
 
 size: 11-50 employees
 yearFounded: 2015
@@ -45,6 +45,6 @@ images:
     height: 425
     title: "banner"
 
-secured: "DZLJqtmvTTI2F3vZ56g4YK0q/CfdZCSxMhqrkqoaNxuI08sWxakY0y/aOxRyp8ltBpCUxXUdXens4dYnGDykgXIshG0AYg1XMThT7luQXxD8VTghc1EY6ScvFeRSx5cQA4stD00IkqDBMnb+4K+hUtNNro5AYJ4Z0e3JA8HCNmfiznO6bYT7/INM5QJ/tTNg6VEHCZmPURPmambmJDFF9D7GtolJLTuaCPHqsyUNpA6JPKxPqO3xlqdGxtKBdA1q1Sv+2DFLfcIxJJvn9H4WlICw6p+B2apXw+24GqwwRCGDHk8Wq7DQZshbivYxA5At79fuuORtwZ7csU6ULUYWX7Cjlpu+F0ZeMBvsjKiiunMSGEYvCD6vAFtybbq35Z3q;D7GIGxtqMrjXWdF/vYNgzA=="
+secured: "GZQihJmUjbpyTEy0HeHR0YnES3vBj73VcZFizac5l3mfmLQATREpLuo3P/S8otaSGT3BmGDrwiZpQ+jQyZxebr49EI57w2u05qfMAkwjsLbj4kyBbFNpbG3nxfuX9nQCcNmMAjf+uZ9QAi+giUrDS4807ShKs7VJuNIKV+j2ml3taQIe8JVk2Qyf3mjs+yCfqxSWKy0NszWd+9tY7M8Set8EJUcV1T1TGUbrlpTFocXLqF6koKWPVVJF63tsp9W/Ya7boDpdNJ/wMcr7GoJJd99ukdOKCwF4zspgrLu0Yvtlkz3VaWU5C88j6EMmrKcSOogWOAotD68joK0n/ZPeSpc0Sc/12P4lQzoQlIolwPt7yuQweiphHwCpPC77mwbS;w9PDKeds4LwfRHjmZGCpCw=="
 ---
 

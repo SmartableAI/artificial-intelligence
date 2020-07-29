@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-22-us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing.md",
+      "title": "US government doesn't know how it uses facial recognition in public housing",
+      "excerpt": "The Department of Housing and Urban Development says it doesn't have policies limiting how facial recognition is used in public housing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/mBcbBBTe2lIFz0R4LQ7bhNmWx0E=/756x567/2020/05/01/7d392c22-fd26-4e41-bfc7-0eef3e0bf34d/security-facial-recognition-contact-tracing.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "US government doesn't know how it uses facial recognition in public housing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
+      "publishedDateTime": "2020-06-22T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.md",
       "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
       "excerpt": "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep.",

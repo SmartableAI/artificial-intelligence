@@ -7,7 +7,7 @@ webUrl: "https://www.deccanchronicle.com/technology/in-other-news/290720/artific
 ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/290720/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnos.html"
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/290720/artificial-intelligence-can-speed-up-and-improve-alzheimers-diagnos.html"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200729203609.Medi.jpeg"

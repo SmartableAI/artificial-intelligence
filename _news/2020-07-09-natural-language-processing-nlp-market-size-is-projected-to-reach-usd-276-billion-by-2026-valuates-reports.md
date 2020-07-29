@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to ..."
-publishedDateTime: 2020-07-09T16:16:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591"
+excerpt: "BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to the rising interest in human-to-machine communications and increasing demand ..."
+publishedDateTime: 2020-07-09T16:10:00Z
+webUrl: "https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "UIRZ4yzbAwm970jo/YjVNYR8n3u/gLh+fQdgM8BsydBeo8VrJMiCiqW8yJSRO3Xg76nzZbOW2fdS095SdpLc3EpDIsbML8xOv3X9QW4wRsSMvtYtMOH03G3dqbcQVl7JuJEhWcW44tbBtwoRbzwMb4VpAMBH1L9OG/A65ysToE4Kuk9bDJ8sLl5/5q0LPgC0rU4yqCzlSj6dvADsfkeLi/lQEM/wqQs1N6WGwFN5a9yPsz4aHWSyRKJGGwOeiql6zHyyVs+BdxJtdC0KL6tgmMsvKX5LEoW2tinmjMpcoq+MpCJCcaM/kB4zzVuaT8K5gC70Y2K+TDLoMNFMbkesZA==;k4UhBWXfS1aJT35QqcAqdw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+    width: 920
+    height: 482
+    isCached: true
+
+secured: "5pUXEXAio5vUk1Pog5+KXewIOyaAHnS2Uv8UOW4LE0nn24FRpAA69EyVrJN8C2BYBapIHXAjw1adtwJuZLDgqorbR5IjpXjTT4e5ekMfAkaufunxcReStpTBaLGvlyzMfZEqiETMG1XyPRj/KqW2NCXZEvIm61OTowfr6LCqmOquXCoLJjxf81pQnQR7f+u6SKKr07xqSkQI4pstoZunNYMZUyBpVO07SCSqmiOnALewMy5TtcDwFiP/xKwM5dKaJ3DATKQ6TwSf6gWJUSlYDUWncHv25hLKhf42+17oOJpmU5sk8h6KKj8UTHpUwwhu6eB7NeT47BS6VY8WMcdfAA==;AP7F5uIVxxEkfcRoZeBIew=="
 ---
 

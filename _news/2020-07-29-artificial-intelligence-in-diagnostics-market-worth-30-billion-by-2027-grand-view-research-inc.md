@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Autonomous Data Platform Market Study, 2020-2025 - Increasing Need for Real-Time Information to Track and Monitor the Spread of COVID-19"
+    excerpt: "Growth, Trends, and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21.7% over the forecast period 2020 to 2025."
+    publishedDateTime: 2020-07-29T17:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/autonomous-data-platform-market-study-2020-2025---increasing-need-for-real-time-information-to-track-and-monitor-the-spread-of-covid-19-301102158.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "cs45zloQcT4HH1/0/S1Yo/SMNGR6xG/PoawL2OA9LsyOpUte/othrGICAueh+dOOybfSwejwaQvAv6TbKFvZtkUxA7tFE/g6ZgfdpWJwcTLYK8WIoW4k7s2AN7YDcGvPoQfzRpEm9N0f4lrmgaDB6qHRyVmqQEbg1hwfA66wzA4+0YUCNTFC8O1PheEy0BzAGNqjOIeHHnqO+fK23jn1Y0H2ko3ATvhV+v7yLHIdHf8JtnHoHq0q03Gaq7Zeuw/4fE/FRBUB7IJdgoB8Z5GIi2lZW3t7tim84kfC5nWCDfbmQVyylrmBt2a81Vx0A0Dv/G59rGPFHHvV8QRwl2G2dJOFfzOU1gVraF1waJHUK46579wb3JCvchVDPQ0oLrMKqXjbiNMHkDWTLmHVCtv4SOeW7O9H6rSXinqlvwIPtNfH5Bt6uw9nVt3DqvDUVkqEtVAC7o1XEv59mtg0caHfUmm3Yb/GEzf9vkILkXq4AM8Hv4rPyg5bxyukYtfu5XtNncRVK5VlaSQj9DX81MfFfA==;2iDiHnkyp4LlLFPMLMnkMg=="
 ---

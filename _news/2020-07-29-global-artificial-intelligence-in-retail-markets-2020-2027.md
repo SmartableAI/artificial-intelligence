@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16822677"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822677"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1400
         height: 733
         isCached: true
+  - title: "Autonomous Data Platform Market Study, 2020-2025 - Increasing Need for Real-Time Information to Track and Monitor the Spread of COVID-19"
+    excerpt: "Growth, Trends, and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21.7% over the forecast period 2020 to 2025."
+    publishedDateTime: 2020-07-29T17:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/autonomous-data-platform-market-study-2020-2025---increasing-need-for-real-time-information-to-track-and-monitor-the-spread-of-covid-19-301102158.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "LeZk4i2Yb/y/qLtkLtRENlt+2iZrEzsXRfLFX4GQXXu6KxjtSWcP+ecAOAwKMCAyXOkaagSgCX/FwCKYmWXtluCAC8hnRP8QNA2MLj9lAyTr2749YlmJJcZcNagU0M/ELb1d6H7+2bHxPfw00D6GU3Nlnsuit3ewo08+gDYhw5tktMN0DECj4nm+iR0yL3cxEo6+5R5At1f4GuBw05Y+kn85U41+w+QFfxf/HdtmA+LKNGfj9KwWcYYIdq1Dka7a4yuKJzcR2ncum5WEI8gr+wlQeaBSxZC9swqqZcCf7bGybSxKeQvkg5mDTIOuAJL5fpMpAVsJrhW3NI5bXEu1Ft1O3b5KTyEztVjj5s0Y0eIXGBZMMURaOk5WgYSW49vVMQcTxyQkZ0P5xTdkDPBch4xC7I88gTVPeySAC7faLvgSwr69sBC1YA5BcDqJwRee41wMh725LljTI3XrN9BRXtwkIsJ/jIJlUNZ86vXvHmtL8RQh8LvFYgZcdCXBik0PdVvV35jrWjTsfC/yN5ucoA==;HFEXXcRLvbtQUqHQJ/QOJw=="
 ---

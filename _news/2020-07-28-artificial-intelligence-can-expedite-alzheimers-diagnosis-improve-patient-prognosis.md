@@ -68,7 +68,7 @@ related:
     provider:
       name: Deccan Chronicle
       domain: deccanchronicle.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200729203609.Medi.jpeg"
         width: 800

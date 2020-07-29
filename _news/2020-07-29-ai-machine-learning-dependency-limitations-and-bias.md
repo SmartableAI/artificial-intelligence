@@ -5,9 +5,9 @@ excerpt: "A conversation on AI and machine learning ... our products and service
 publishedDateTime: 2020-07-29T15:12:00Z
 webUrl: "https://www.cnbc.com/video/2020/07/29/ai-machine-learning-dependency-limitations-and-bias.html"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: CNBC
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106638094-1596035750222-TEC_july_29_thumbnail.PNG?v=1596035766"
