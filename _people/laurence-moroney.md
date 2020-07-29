@@ -10,7 +10,7 @@ website: https://research.google/people/RajatMonga/
 twitter:
   username: lmoroney
   url: https://twitter.com/lmoroney
-  followers: 18625
+  followers: 18623
 
 linkedin:
   url: https://www.linkedin.com/in/laurence-moroney/
@@ -22,7 +22,7 @@ topics:
   - TensorFlow
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1288241906900561920/akERSVEg_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1288330700752482304/BfXxtH9Q_400x400.jpg
     width: 400
     height: 400
     isCached: true
