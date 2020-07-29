@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nytimes.com/reuters/2020/07/29/business/29reuters-japan-tech-robot.html</loc>
+    <lastmod>2020-07-28T23:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.vice.com/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy</loc>
     <lastmod>2020-07-28T22:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -165,6 +171,12 @@
   <url>
     <loc>https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/</loc>
     <lastmod>2020-07-27T20:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eetindia.co.in/end-to-end-analog-neural-networks-promise-better-ai-chips/</loc>
+    <lastmod>2020-07-27T17:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -397,6 +409,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.openpr.com/news/2096670/artificial-intelligence-in-accounting-market-research-report</loc>
+    <lastmod>2020-07-24T22:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/</loc>
     <lastmod>2020-07-24T13:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -457,7 +475,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars</loc>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/</loc>
     <lastmod>2020-07-24T08:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -871,7 +889,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html</loc>
+    <loc>https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org</loc>
     <lastmod>2020-07-22T07:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -974,6 +992,12 @@
   </url>
   <url>
     <loc>https://www.designnews.com/electronics-test/autonomous-cars-big-challenge-using-hyperscale-server-fleet-train-ai-neural</loc>
+    <lastmod>2020-07-21T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.scpr.org/programs/airtalk/2016/06/27/50013/when-autonomous-cars-crash-should-they-save-passen/</loc>
     <lastmod>2020-07-21T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2197,6 +2221,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/</loc>
+    <lastmod>2020-07-15T09:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/</loc>
     <lastmod>2020-07-15T09:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3379,13 +3409,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381558</loc>
-    <lastmod>2020-07-09T09:11:00-07:00</lastmod>
+    <loc>https://www.bbc.com/news/technology-53349313</loc>
+    <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/technology-53349313</loc>
+    <loc>https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html</loc>
     <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

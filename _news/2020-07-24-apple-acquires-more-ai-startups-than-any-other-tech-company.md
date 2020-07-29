@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/353773"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353773"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple Acquires More AI Startup Than Other Tech Companies"
-    excerpt: "Apple has made 20 acquisitions since the 2010 purchase of Siri, and most center on artificial intelligence. These purchases include Novauris Technologies and Voysis to improve speech recognition of its voice assistant platform,"
-    publishedDateTime: 2020-07-24T14:42:00Z
-    webUrl: "https://www.mediapost.com/publications/article/354009/apple-acquires-more-ai-startup-than-other-tech-com.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 17
 
 secured: "STmyo+6HMUk2NlzMqEzxORLakLeH5yyfzg6EzFCwistwYdyk3gjTKwFEyH2XX5MSfWA2DLNoW09VncAZKPxQ//g9ErrK4QtFdWQ6NsNW4I+BITojA99TzKGlq2yIzc6bTaCG+FAFxcVRuXEt7WT2Dzw3yihTkeQfYvkqFPeOju/xCJdy8PEFglQe4LII+8PNm0Nukq+b2iUko3wnovAE8QV6Pfy+yiTXgPZ+CV5tEpEp+5FMLaXGAX96UYUaOK27Nn6VQLY2JzzN3gk+CPMkBE+5sDKTZZPmYdjGGVn8fPDDFMcVVmxbzqOV/dhmj/uFq3isIzrPik8yyL281rUwdWMLLSmRe6vIvYfLqg5iqh33CYpjT4raN9Z/zU6mUZPiF2KT7EuihWOm51wfJqzCnCtDdE6UUXkDuAfwT6xCSLhApkNmdGBoZPMklV7XjwfyKBAIOH9Lq4GXFciJejwpKhefTcG9D1Pg6/Zrm14l58P0CsYYDOVkkgkN9PAOuwggugYoD7kWapM9mJTngF6RsA==;wPpMupUCUFjCPxKJuqFT/g=="
 ---

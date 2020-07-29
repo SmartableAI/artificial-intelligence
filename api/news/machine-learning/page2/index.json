@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-19-enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors.md",
+      "title": "Enabling humanoid robot movement with imitation learning and mimicking of animal behaviors",
+      "excerpt": "Humanoid robots have not stood up to the expectation set forth by Rosie from The Jetsons in the 1960s, but they’re finally becoming good enough to come to market.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135729958.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
+      "publishedDateTime": "2020-07-19T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems.md",
       "title": "How BMW and Malong used edge AI and machine learning to streamline warehouse and checkout systems",
       "excerpt": "Malong Technologies applies machine learning to a different problem: recognizing products at retail self-checkouts. Cameras overhead feed footage of objects on scanning beds to algorithms that ...",
@@ -802,6 +853,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-how-to-annotate-images-for-deep-learning-image-annotation-techniques.md",
+      "title": "How To Annotate Images For Deep Learning: Image Annotation Techniques",
+      "excerpt": "Machine learning including deep learning feels like something right out of a science fiction story, and it’s here to be utilized. Deep learning extracts patterns from all sorts of data including images, and the following will help you understand how this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/07/shutterstock_618887135.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-to-annotate-images-for-deep-learning-image-annotation-techniques/amp/",
+      "publishedDateTime": "2020-07-15T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue.md",
       "title": "Machine Learning In The Enterprise: Where Will The Next Trillion Dollars Of Value Accrue?",
       "excerpt": "Who will create and capture the next trillion dollars of value in machine learning? From large incumbents to startups creating horizontal tools and vertically-integrated applications, machine learning is upending the status quo across industries,",
@@ -1326,100 +1418,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-one-dimensional-organic-artificial-multi-synapses-enabling-electronic-textile-neural-network-for-wearable-neuromorphic-applications.md",
-      "title": "One-dimensional organic artificial multi-synapses enabling electronic textile neural network for wearable neuromorphic applications",
-      "excerpt": "Furthermore, crossbar-type e-textiles based on weaving technology using a 1D fiber device are highly suitable for implementing artificial neural networks (ANNs) capable of efficient parallel signal processing and recognizing timely signal features.",
-      "sourceUrl": null,
-      "webUrl": "https://advances.sciencemag.org/content/6/28/eaba1178.full",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://advances.sciencemag.org/content/6/28/eaba1178/F1.large.jpg",
-          "width": 1280,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-10T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science",
-        "domain": "sciencemag.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl.md",
-      "title": "AI As A Service Redefines Customer Experiences, But Think Twice Before You Jump Into AutoML",
-      "excerpt": "Keep reading, as this article will help you understand how humans and machines can work together to make machine learning more effective with augmented ML, and most importantly, cover a few key technical debt concerns you need to address prior to jumpstarting your own AutoML (AI for AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f07167161c3150007f84459%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
-      "publishedDateTime": "2020-07-10T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance",
-        "Natural Language Processing",
-        "AWS AI"
       ]
     }
   ],

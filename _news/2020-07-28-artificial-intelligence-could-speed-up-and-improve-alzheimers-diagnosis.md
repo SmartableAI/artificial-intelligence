@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence could speed up and improve Alzheimer's diagnosis"
-excerpt: "Research examines how the routine use of Artificial Intelligence (AI) in healthcare could help to relieve the economic impact neurodegenerative diseases, such as Alzheimer's."
-publishedDateTime: 2020-07-28T19:56:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/07/200728121223.htm"
+excerpt: "Artificial intelligence (AI ... The new research from the University of Sheffield's Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ..."
+publishedDateTime: 2020-07-28T00:00:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-07/uos-aic072820.php"
 type: article
-quality: 48
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Artificial intelligence can expedite Alzheimer's diagnosis, improve patient prognosis"
@@ -39,6 +41,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ACB8qXY2kXrVFAa85IHDS5HGko02+uejTvfgPnERSbippLnlPXuIqganJF5TNkADP113qpiaFnDxSyI7ni/TNMVqUsqr1FTCtsGRtS7lt+eIURiiGBcBMTNch4HlHaGPK0CVmqyzVzoG1FSK4A9IQ32nHDDkE7q5/sneUFHD3RWiZIFodk0vL1eKgOt2eEGuD79RxG71tUSEjuldwIWr3IkNnivtjctBCY2v2FxvDOKE5tG0YgmwBF1k3PhGPgRy85chWNhN3ancnUV17FkW9Qn9TCqB7ba3VwvrVqbnMbg+71uO+r+QNlK6z07dU+gRBg7iE4CV6d0sRuW2L+Sapw==;IebYdjnSW6taPfFzShgvGA=="
+secured: "R0AHXfZT3Q+ey35QjZr7+TwMqLDZnYoyLCB5K76OTjGNJCwpb3Dis/g54eY4hB9y9aBxWWZ+vwVpB8ULR1778KsPVW/l5Sae+bkaohC4nCHaagpYVpHzTVxBtiRxX90VKo8fogh9tkHissVukG/EC35NJTAYNwXa45pyAimOUBicjjZ0h9/wsAjw8BDAjTmT8odUpwInAQYmO+SRjmQfofnk7OGAmb/Yb9A1f271WLnkSYl5LtlJsKo10SqAyH82kIoK5YjQ70GL39K9ESVMpfoOk8Dzp+RoJ9qcmzt3KOTFXI3fAg+2SwxCE2ucMZhhcr3HPUppq3+1lQjkXhg3Uw==;wdWAMh6EjDZKaptaHKpSkw=="
 ---
 

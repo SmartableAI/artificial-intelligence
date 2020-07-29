@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2096670/artificial-intelligence-in-accoun
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: openpr.com
@@ -39,6 +39,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "From lab to market: over €8 million to exploit research results"
+    excerpt: "The Commission announced 0n 28 July that 55 researchers have been awarded €150,000 each in European Research Council ‘Proof of Concept’ grants, to explore the commercial or societal potential of their research results."
+    publishedDateTime: 2020-07-29T05:40:00Z
+    webUrl: "https://www.eureporter.co/frontpage/2020/07/29/from-lab-to-market-over-e8-million-to-exploit-research-results/"
+    ampWebUrl: "https://www.eureporter.co/frontpage/2020/07/29/from-lab-to-market-over-e8-million-to-exploit-research-results/amp/"
+    cdnAmpWebUrl: "https://www-eureporter-co.cdn.ampproject.org/c/s/www.eureporter.co/frontpage/2020/07/29/from-lab-to-market-over-e8-million-to-exploit-research-results/amp/"
+    type: article
+    provider:
+      name: eureporter.co
+      domain: eureporter.co
+    quality: 24
 
 secured: "C/BuQUeRvp/H6leVnigpemWf6H7pLzKgXn+hhEz1d3x2ZsjqCHHLbP4HMsxdHrMUIVlX7M4jx5552kYsXBY+N9KQZfgtZHmAJNFmszTKsavzx7dgZGLcTD114f9fb8Tfs7d5jQxyqROsleHuUFj3qcDB2ws4P1kD/MIxWC6H8GbUwqyI2CtX8GoeqdEFnIk/WVWTqwEko6wRwkYnraIMSMZzl2NYuQoeYXpCFmWOqputT0FihbuLcsuWKXL4fDchPZCTBbjKreFO2Hwrbatl9+LMZYyxcyySjn72MgJlNPLfF/dPihcoe+0omQeWxbNJjSjE5Xduql8kLEVrpfumWZRkefPMVfzqhrD0OJcxssYuQjIygGE7P1I/myYktJnSAoXZOnP0j7aOAn7kfTc1brcsWbAjcraiksBkqSPTT7dFs4Eymanf+bvgCBQf7+hSKcWnFaR9dV5yDW/HHAqrvugJ8MfDiMuQG7+tY/HgaGllz0OrLEF0STKw93j6Vp5e;Y1HhBDkn6FrcpmJFXHDFiA=="
 ---

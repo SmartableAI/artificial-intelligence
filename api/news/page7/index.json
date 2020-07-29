@@ -2,6 +2,155 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-22-trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that.md",
+      "title": "Trouble with your tennis serves and penalty kicks? There’s an AI for that",
+      "excerpt": "Ah, sportsball. Can you ever forget the first time you grab that pass, fly down the court, and sink that puck right through the net as your fans yell adoringly from the bleachers, TOUCHDOWN! No? Not ringing a bell?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-14-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/amp/",
+      "publishedDateTime": "2020-07-22T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-huddlai-wants-to-bring-more-intelligence-to-online-meetings.md",
+      "title": "huddl.ai wants to bring more intelligence to online meetings",
+      "excerpt": "As the pandemic has shut down in-person meetings, and pushed us online, products like Zoom, Cisco WebEx, Google Meet and Microsoft Teams have become part of our daily lives. Into the fray jumps huddl.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Huddl.ai-Meeting-Moments-Screen-Shot.png?w=680",
+          "width": 680,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
+      "publishedDateTime": "2020-07-22T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-did-a-person-write-this-headline-or-a-machine.md",
+      "title": "Did a Person Write This Headline, or a Machine?",
+      "excerpt": "GPT-3 was built by directing machine-learning algorithms to study the statistical patterns in almost a trillion words collected from the web and digitized books. The system memorized the forms of countless genres and situations, from C++ tutorials to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f177a60a5050d907f3c5f70/master/pass/business_text_1202278559.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
+      "publishedDateTime": "2020-07-22T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-new-look-for-microsoft-office-and-microsoft-365-will-tackle-work-life-distractions-on-desktop-and-mobile.md",
       "title": "New look for Microsoft Office and Microsoft 365 will tackle work-life distractions on desktop and mobile",
       "excerpt": "Microsoft readies a new ribbon UI for Office that can move around the window and offers commands the second they're needed.",
@@ -578,6 +727,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-22-when-autonomous-cars-crash-should-they-save-passengers-or-pedestrians.md",
+      "title": "When autonomous cars crash, should they save passengers or pedestrians?",
+      "excerpt": "When a driverless car crashes ... I am able to put this car in the best scenario.’ Machines and artificial intelligence are not perfect, just like humans are not. And you talk to people leading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scpr.org/programs/airtalk/2016/06/27/50013/when-autonomous-cars-crash-should-they-save-passen/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a.scpr.org/i/c080d29db043a2faa0e2d2edf041474e/131452-full.jpg",
+          "width": 1024,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPCC",
+        "domain": "scpr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-facebook-will-study-whether-its-algorithms-are-racially-biased.md",
       "title": "Facebook will study whether its algorithms are racially biased",
       "excerpt": "Facebook is forming new internal teams dedicated to studying its main social network and Instagram for racial bias, in particular for whether its algorithms trained using artificial intelligence adversely affect Black,",
@@ -910,186 +1100,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set.md",
-      "title": "Researchers seek to advance predictive AI for engineers with CAD model data set",
-      "excerpt": "AI trained using the data set could eventually assist humans in sketching CAD models. CAD models can be anything from a single machine component to an entire building. They’re used by architects ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/princeton-cad.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/amp/",
-      "publishedDateTime": "2020-07-21T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-ibm-providing-ai-solutions-to-government.md",
-      "title": "IBM Providing AI Solutions to Government",
-      "excerpt": "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services delivery and supports social services organizations with AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://gcn.com/whitepapers/2020/07/ibm-watson-providing-ai-solutions-to-government-072120.aspx?tc=page0",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gcn.com/~/media/GIG/GCN/GCNlogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GCN",
-        "domain": "gcn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning.md",
-      "title": "Researchers propose game-based benchmark for AI’s common-sense reasoning",
-      "excerpt": "In a paper, researchers propose a new AI and machine learning benchmark for commonsense reasoning based on the video game Little Alchemy 2.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-748334809.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/amp/",
-      "publishedDateTime": "2020-07-21T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use.md",
-      "title": "Chip Industry Sees Danger of AI in Explosion of Electricity Use",
-      "excerpt": "The increasing use of artificial intelligence is going to extract a heavy price in power unless the chip industry steps up and heads that off, according to one of the industry’s biggest companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
-      "publishedDateTime": "2020-07-21T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Fraud Detector"
-excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-publishedDateTime: 2020-07-28T17:28:00Z
-webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
+excerpt: "Amazon Fraud Detector helps businesses identify online identity and payment fraud in real time using machine learning, based on the same technology developed for Amazon.com."
+publishedDateTime: 2020-07-28T18:36:00Z
+webUrl: "https://www.darkreading.com/cloud/aws-announces-general-availability-of-amazon-fraud-detector/d/d-id/1338466"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Dark Reading
+  domain: darkreading.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+    width: 600
+    height: 600
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZkrlMmqQzk8MSxpd5uDZI52/tlGMzELZhTogX4myxcJ7zx8xUliCn0RXDTCMmV/uH8MI4EkByI9Hzr1Qw3BddLXfbjdg/xQ6NXyhzzAHeyXagXcyQRFzR9HoV66T+DQWSqJMOuVcVUj8MGRwdEKHiz2R/+lGsFGTdUKOIyuyY8Ln9tumVLr/o6fx8j0/8XMAMcBk7NkLxqOmBtIJJ2VSKNIMGtoArbBBXnhBF/bvs9D4Zg8dAB9N/RYJgKvyY5vJV+uS+GFahXDq7wKQfRRzE9zGHf5iyeMdg1W6ctrS7kmzA5GfVBQgB5HYFUsi7btHoY/SCtrRcEkkOXlQ5XC9dQ==;30tyj7nL8Sx00d4dMPqOrw=="
+secured: "PqLlgu6zlH/eG6Om/I08VQQV61J7HeMDlMb3ZlZXbG6UFfL/sLZpNPmD7NOif5qRkEXItHq+oFPCjw/iPG/sqEjXqOuacBTWn2Hyu3hBDFccKrN4+onN6i3+qdYvLKFRrfIKao8moLSkB+03AC6lh82s2QpZrB4GuejNE7lLEFiGofzZcyT52oTz5tFI5N2LzCYw136mXCGEqZHKXwaa3dmmAHS988/Ks9uFSvAQ2HcOGurvSIclNV4QjHu/YsWD6kozf58Pa+lQtw+tSMbg2EfbkGz8x5McK/GIuX0gF8FNrASTufOeBjDRwTcn0wW3ZHyieQob7qKJAoo5k4cYhg==;zLc5rpE5fIT13y+2QZtp/w=="
 ---
 

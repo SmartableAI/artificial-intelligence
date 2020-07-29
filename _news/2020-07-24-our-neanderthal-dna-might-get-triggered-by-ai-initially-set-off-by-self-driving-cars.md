@@ -3,7 +3,7 @@ category: news
 title: "Our Neanderthal DNA Might Get Triggered By AI, Initially Set Off By Self-Driving Cars"
 excerpt: "Modern-day genetic hunters are using all the tricks of the trade-in conducting DNA analyses to possibly discover a fluke or some standout innate genomic characteristic that might account for the widespread differences in how people react upon COVID-19 exposure."
 publishedDateTime: 2020-07-24T15:59:00Z
-webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/"
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 370
         isCached: true
 
-secured: "Vh5TqhoZLiJ441faUQA7lfTtlmt2kBgTEvYlEeOrom/xqKGn56XGavszwViHjyaUWbZRco5aU/1d5hdfYdrd7Fglrla7cQZKnQpL1uxwQ/IltE+GxaNQMJ7Zdk5QTok0+z8UHHIn/il4365qxv0KQVwHDbH8P4Uu/XwaOq3NZHPp2KwoZ52Qi6GWgpwdMdBWbb/Ceh1ANxLOkW+CfIOu5/jGwRY9CksOkFFvum9kTNV2w5HsAKIjPWmhfx4VdOtcJpWTxYnn5TWHoMwz/hx6+DGCWaIoX/u/tNxuvPZHm2DaCqcB7ZPeLQBVUYK1S6Rpw9XqzeIZGOkGZJerBiJnS6eI2QW44Q9I7+YohalgG+StvKywWzJIxSpeF6PpVCdYoB3cVcrWfnJ1LzPvCFJ1TqQAE1nLfOP86PPjjXFZanPuETaXX6Mha6eBvyt+kVat9+6wSV3CXdnNYN2KzsuTTnj6DL6wpfvmB7d6NJGlT3VNE+ZkD9jzEOHO5hGgAnm1Vhp2KLXuzVmTkPTmFLPQrw==;OQaw7KxgHKcBcF4iqL7KTg=="
+secured: "UCcKvQRvq6f6w7V0QGdBA5cH7lo9dNMVRyJtw/xpwuGZ+fMX0NGkwoq1X5MnoSIEvxLX/k55HYAwLsKhFnQ8V9rSqPxWvQdPit6g88K3VJub8f9twu1fGZCHxK41u6PeRxXk+0k1+eyoqNjewYxLN6Ac69196aVhdQTbboVO4wa0P+qKXjS2rz3aAwbqIS/LuI8uAkLDaVle5Nh0J9jMerLKGBSRHsNcTMtcRuzjWhZYXzuA/ZrOnbLXXEr24/LKTshATA/XYLq/0b+8cS7YUTsPzEWVWcvghhcTkEZHcr9RzirxTvshMlvK5RMjR1QSmSet5Ba7A124H65LSQrzzQ==;V/o+PRgcXoXfClSNGGgLSA=="
 ---
 

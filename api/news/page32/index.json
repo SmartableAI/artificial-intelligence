@@ -2,6 +2,227 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-07-03-robots-at-dubai-expo-2020-to-enrich-visitor-experience.md",
+      "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
+      "excerpt": "UAE - Terminus Technologies, a China-based leader in smart technologies such as artificial intelligence and robotics, has been named the Expo 2020 Dubai's latest Premier Partner and has signed a long-term lease at District 2020 as part of the innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_at_Dubai_Expo_2020_to_enrich_visitor_experience-SNG_178632150/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_178632150/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_178632150/",
+      "publishedDateTime": "2020-07-02T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business.md",
+      "title": "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business",
+      "excerpt": "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2019/11/Money-logo-new-860x484.jpg",
+          "width": 860,
+          "height": 484,
+          "title": "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-nec-and-japanese-research-agency-to-use-ai-for-automatic-plastic-waste-detection.md",
+      "title": "NEC and Japanese research agency to use AI for automatic plastic waste detection",
+      "excerpt": "Earth Science and Technology (JAMSTEC) have developed a system that uses artificial intelligence (AI) imaging recognition techniques to automatically detect microplastics from seawater and sediment samples.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nec-and-japanese-research-agency-to-use-ai-for-automatic-microplastic-detection/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/08/22/dc12deb9-6141-48e5-b04e-4e076b9aad4f/thumbnail/1200x675/f1879a68e9c0d5658a754003972ef5c7/lead960.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "NEC and Japanese research agency to use AI for automatic plastic waste detection",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nec-and-japanese-research-agency-to-use-ai-for-automatic-microplastic-detection/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nec-and-japanese-research-agency-to-use-ai-for-automatic-microplastic-detection/",
+      "publishedDateTime": "2020-07-02T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-microsoft-azure-is-one-of-the-largest-iaas-and-paas-service-offered-in-business-parlance.md",
+      "title": "Microsoft Azure is one of the largest IaaS and PaaS service offered in Business Parlance",
+      "excerpt": "Read how AIOps leverages Microsoft Azure Platform for operational excellence using Artificial Learning (AI), AIOps, MLOps, Artificial Leading (ML) on the cloud and on-premises environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/delivering-aiops-microsoft-azure-cloud-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/07/AIOPS.jpg",
+          "width": 3800,
+          "height": 2280,
+          "title": "Microsoft Azure is one of the largest IaaS and PaaS service offered in Business Parlance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-how-ai-helps-digital-enterprises-streamline-operations.md",
+      "title": "How AI Helps Digital Enterprises Streamline Operations",
+      "excerpt": "Artificial intelligence (AI) is transforming how enterprises analyze and process information. It is also shifting from theoretical to real-world technology. Companies are deploying AI technologies to boost efficiency, reduce costs, and grow sales and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180902197%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI Helps Digital Enterprises Streamline Operations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/amp/",
+      "publishedDateTime": "2020-07-02T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-new-technique-keeps-your-online-photos-safe-from-facial-recognition-algorithms.md",
       "title": "New technique keeps your online photos safe from facial recognition algorithms",
       "excerpt": "A new solution enables the best of both worlds as users can still post their photos online safe from the prying eye of algorithms.",
@@ -901,230 +1122,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-where-insights-meet-privacy-privacy-preserving-machine-learning.md",
-      "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
-      "excerpt": "As the rise and adoption of AI/ML parallels that of global privacy demand and regulation, businesses must be mindful of the security and privacy considerations associated with leveraging machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcc8f4cdc22100069576cc%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
-      "publishedDateTime": "2020-07-02T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-inheart-raises-42-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations.md",
-      "title": "inHEART Raises $4.2 Million to Improve Treatments for Cardiac Arrhythmias With Medical Imaging, Artificial Intelligence and Numerical Simulations",
-      "excerpt": "PRNewswire/ -- inHEART, providing a cloud-based medical image analysis solution for cardiac interventions on patients with arrhythmias, has closed a round",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/inheart-raises-4-2-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations-301086165.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1198554/inHEART_Logo.jpg?p=facebook",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-fraudscope-raises-7-million-to-tackle-health-care-fraud.md",
-      "title": "FraudScope Raises $7 Million to Tackle Health-Care Fraud",
-      "excerpt": "Venture capitalists are betting that startup FraudScope can help health insurers combat fraudulent claims, which cost them billions of dollars and are a growing concern because of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/fraudscope-raises-7-million-to-tackle-health-care-fraud-11593682200",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-205009/social",
-          "width": 1280,
-          "height": 640,
-          "title": "FraudScope Raises $7 Million to Tackle Health-Care Fraud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
-      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/W9FfCiLvOvHWsRU1FXmaKa54oPk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YVN66F2RNBIJ5GAQU25FQITL5I.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC Kcrg  9",
-        "domain": "kcrg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition-technology.md",
-      "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
-      "excerpt": "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp",
-      "publishedDateTime": "2020-07-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

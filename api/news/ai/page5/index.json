@@ -2,6 +2,156 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-23-facebook-is-simulating-users-bad-behavior-using-ai.md",
+      "title": "Facebook is simulating users’ bad behavior using AI",
+      "excerpt": "The research is being led by Facebook engineer Mark Harman and the company’s AI department in London. Speaking to journalists, Harman said WW was a hugely flexible tool that could be used to limit a wide range of harmful behavior on the site, and he gave ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/7/23/21333854/facebook-ai-simulation-bad-behavior-ww-web-base-simulator",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/CSHjp46Zyg7f0We2mFyfFTQfrNo=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67095759/acastro_180720_1777_facebook_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/23/21333854/facebook-ai-simulation-bad-behavior-ww-web-base-simulator",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/23/21333854/facebook-ai-simulation-bad-behavior-ww-web-base-simulator",
+      "publishedDateTime": "2020-07-23T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-facebook-details-the-ai-simulation-tool-it-built-to-find-bugs-and-vulnerabilities.md",
+      "title": "Facebook details the AI simulation tool it built to find bugs and vulnerabilities",
+      "excerpt": "During a briefing with reporters, Facebook detailed an AI simulation platform it built to test its platform for vulnerabilities and bugs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/facebook-details-the-ai-simulation-tool-it-built-to-bug-test-its-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/facebook-details-the-ai-simulation-tool-it-built-to-bug-test-its-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/facebook-details-the-ai-simulation-tool-it-built-to-bug-test-its-platform/amp/",
+      "publishedDateTime": "2020-07-23T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-facebook-explores-simulations-in-fight-against-real-world-bad-guys.md",
+      "title": "Facebook explores simulations in fight against real world bad guys",
+      "excerpt": "For you, Facebook might be a virtual campfire where you gather with your family and friends to share stories. But the social network is also a digital Wild West, filled with scammers, networks of fraudulent accounts and straight-up bullies. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-turns-to-simulations-in-fight-against-real-world-bad-guys/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/VcgQpOmyTDdzq_95ymz9JuubPdc=/756x567/2020/06/19/be400064-5cda-4d1b-a382-4799d1b62378/facebook-logo-phone-laptop-3019.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-turns-to-simulations-in-fight-against-real-world-bad-guys/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-turns-to-simulations-in-fight-against-real-world-bad-guys/",
+      "publishedDateTime": "2020-07-23T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-elon-musk-on-tesla-self-driving-i-can-almost-go-from-my-house-to-work-with-no-intervention.md",
       "title": "Elon Musk on Tesla Self-Driving: ‘I can almost go from my house to work with no intervention’",
       "excerpt": "Elon Musk said that he is testing Tesla’s latest alpha built of its self-driving system and claim that he can “almost” go from his house to work without intervention. Last year, Musk announced Tesla’s plan to deploy 1 million “Robotaxi” vehicles for a self-driving ride-sharing network by the end of 2020.",
@@ -1127,10 +1277,10 @@
       "title": "AI security and ethics startup CalypsoAI lands $13 million in funding",
       "excerpt": "CalypsoAI, a machine learning startup with its roots in the defense industry, has raised $13 million to help make government and corporate AI systems more secure and free of bias. Why it matters: Making AI systems that are free from bias,",
       "sourceUrl": null,
-      "webUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
+      "webUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 94,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -1143,8 +1293,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
+      "ampWebUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org",
       "publishedDateTime": "2020-07-22T07:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1308,147 +1458,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-did-a-person-write-this-headline-or-a-machine.md",
-      "title": "Did a Person Write This Headline, or a Machine?",
-      "excerpt": "GPT-3 was built by directing machine-learning algorithms to study the statistical patterns in almost a trillion words collected from the web and digitized books. The system memorized the forms of countless genres and situations, from C++ tutorials to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f177a60a5050d907f3c5f70/master/pass/business_text_1202278559.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
-      "publishedDateTime": "2020-07-22T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-new-look-for-microsoft-office-and-microsoft-365-will-tackle-work-life-distractions-on-desktop-and-mobile.md",
-      "title": "New look for Microsoft Office and Microsoft 365 will tackle work-life distractions on desktop and mobile",
-      "excerpt": "Microsoft readies a new ribbon UI for Office that can move around the window and offers commands the second they're needed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/22/3abb2f18-7749-4c6e-b7e9-b8dc66d38100/thumbnail/1200x675/b2ca1d434b81a43f8b36d8e8ab7e4224/istock-867179816.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "publishedDateTime": "2020-07-22T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-police-claim-violent-extremists-exploit-coronavirus-to-defeat-facial-recognition-leaked-files-show.md",
-      "title": "Police claim 'violent extremists' exploit coronavirus to defeat facial recognition, leaked files show",
-      "excerpt": "Leaked documents reveal the message sent to police behind closed doors: face masks \"embolden some individuals to escalate violence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F22%252F56%252Faa3f838f27ed4b0790aeec22bb0c2b29.eb367.jpg%252F1200x630.jpg?signature=LYdsF0JHdjMt-Mdl8_3CQBS14UU=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "publishedDateTime": "2020-07-22T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
