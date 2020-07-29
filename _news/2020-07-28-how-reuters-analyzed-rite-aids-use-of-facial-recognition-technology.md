@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -290,6 +290,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5f1f06deeaeb0.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How facial recognition works with face coverings"
+    excerpt: "Computer science experts say that face coverings and other accessories may act as a speedbump, but it wouldn’t be very difficult for the software to be modified."
+    publishedDateTime: 2020-07-29T02:33:00Z
+    webUrl: "https://www.thedenverchannel.com/news/national/coronavirus/how-facial-recognition-works-with-face-coverings"
+    type: article
+    provider:
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d11c92c/2147483647/strip/true/crop/2546x1337+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fd8%2F029d13d544a7989b340903487b74%2Fscreen-shot-2020-07-20-at-5.26.06%20PM.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "rSzsHmbGHm+Zrfr8RK9WZqzUUT8d5PpHAfavPlZ45sFS+Zh17E3UIUO3M8UzPzdyWk8pY2jPOrcKpmkHWgujklsn6m+NvzGZzm3nx8xKEah+OVaptcSppBun98s4WeHZi8CRRV6FF/G2e5wNcRnYETdPu7hCxTDNX1PdNRa7pA1+ae07m5EIyOI2mHCJilFqYQih83KhPAmm/qUGnMgagy3cZ4+hmZ+n0flVcTeaYhXVQOd67MhSrv6YkjEliDlRqMIiGI25D0GPSgfeZBPvoQAUUDCW8Vl/NC+qbor/7cqSCfsNwlHTVlzYzKSyXYMu62JKGPOBghdZpMEyCa0JnONXK1FrUNJNMs6+NcyackWbyYQIoI74sdbN0Dxnk/JTGIXo/YIyvWKdhBRaEUOP1+X6EYqVl6H6HBbnQplLYoKGDnisDcIjhSRL1wYhRIGhRwqDH8MT2kEnsSLiq5V9qNZVRmxtE/y4MGc0bDrrIIlWUFCxL0z1L7AOIau9mALo;1Ucat3y2Yd8Eot4Et0nASQ=="

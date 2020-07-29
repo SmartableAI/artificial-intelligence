@@ -40,22 +40,6 @@ related:
         width: 800
         height: 452
         isCached: true
-  - title: "Deep Learning Market: Quantitative Market Analysis, Current And Future Trends Apheresis 2017 to 2027"
-    excerpt: "XploreMR has published a new report on the global deep learning market titled ‘Deep Learning Market: Global Industry Analysis (2012 – 2016) & Forecast (2017 – 2027)’ and presented in-depth insights into the various market forces impacting revenue ..."
-    publishedDateTime: 2020-07-24T10:40:00Z
-    webUrl: "https://www.openpr.com/news/2096293/deep-learning-market-quantitative-market-analysis-current"
-    ampWebUrl: "https://www.openpr.com/amp/2096293/deep-learning-market-quantitative-market-analysis-current"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096293/deep-learning-market-quantitative-market-analysis-current"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/T/7/T724513139_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "qTdkr8vbTMjJnHYj/5VXcWmOz9B6YgdXADBjVmw4nTlDknAZVSidKksUj5AJEet0Ag+PDsbqii/W879l8wgpnqwh68d8HJs2rXVVQPhvAU5aeKCTMy697w+/jTGI8xmmj9u6z+pV+CPspMWQ7Lwiu5DjZG/tyUGsNVUudS4EWu6p+HZhB/4j4wrnP15Hmlm8ivkKsDygkO2oSWIg5S1cxSM3BQ6n0rky5QW4+J44oFbySxeMpr7sxDLBPfjhAB+O8MFSywEZfIeCKfQ+Irjnf3NkEs69Meh3SJifE5dY7Qbr3USFkIiAjjVPNkB/IPkFi+2xxojjm3EDuE/gCYuZ6Sa28nUtuNfSGydJpqDtK6H9raFmvHCQv6y5rKqRpL597dtHzlVdErRAVitcNp+QVkg2CYMGXKjMCKTVYCMYO9h7nj0aXAyqCvFJVR/wAL1Ox0qowpS/G3FoTo7Kie79Fz5YhwvAwD7+kDeUN2VGcOjGRD6CG1OcoMw+xMI+ODPYX9Gt66rr1fJUuHFI1Juoxg==;WsWVOGOBb6wItC/cYtKhLw=="
 ---

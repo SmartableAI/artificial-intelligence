@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Elon Musk says Tesla doesn't want to crush rivals, and the company is open to licensing its self-driving software and battery technology"
+    excerpt: "Musk's comments came in response to a story about German automakers envious of Tesla's sophisticated electric vehicle technology."
+    publishedDateTime: 2020-07-29T02:52:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-tesla-open-to-licensing-autopilot-software-to-competitors-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-open-to-licensing-autopilot-software-to-competitors-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-open-to-licensing-autopilot-software-to-competitors-2020-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/5f195e2f4dca687f1e0a3bd5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Video: Why Tesla's full self-driving feature is taking so long"
     excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis."

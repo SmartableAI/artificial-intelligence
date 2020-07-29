@@ -2,8 +2,8 @@
 category: news
 title: "Theator is Making its Surgical Intelligence Platform Available in Microsoft Azure Marketplace"
 excerpt: "Theator, the first of its kind surgical intelligence platform, announced today that its AI-powered platform is now available in the"
-publishedDateTime: 2020-07-27T20:00:00Z
-webUrl: "https://www.prnewswire.com/il/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html"
+publishedDateTime: 2020-07-27T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html"
 type: article
 quality: 58
 heat: -1
@@ -50,6 +50,6 @@ related:
       domain: benzinga.com
     quality: 14
 
-secured: "PPdVNlKm3gLXwnqKt8ffj2CYQ7xDtk2A+KHhKk7ivgeE81q14dtXMbMqfbT7CEvpbSmah5QdLGohXT6QtBhczdJH2eJaltIrouy4g+zu4ir/CzvMnJ8p/LU61+fGIkr/FxgzB/YJ8iUH0ar4SYO22nHMlgc5p0aYAw01cU5KJh+BKSINmU8oBucf+OZ3yA9cQToL1wT/mfuYlTi6VjM8v0cu7p+MrNGRSmCeLw1LxhP/enBkvfWGJVyOcp0SOc+/jcUIINPiRFGKtslzeWO7Fs+tRJEbqIYt5NPXcF2GgP78rO0S1KKexE/W4OK+3Xv4M+E/KlWHr/c2mmAuDK8T4g==;kH+AjhcRQBlOi6Sc7GsG8w=="
+secured: "WxCGBSefVBs1Rml2EU7u7KyVttkQdtSHdn9+kukpBd/aVsDLi5Bj4PAf/ZZCVNWTHLf8KYWcJ2839if0hh9eKN9NdPgGmvwuFoZjcR1yS52o2I4Yhn8lTtg4zK8Rn5TDR0re6TiBr02IhJUQhob6WHIE7ymurZev3J4veye41oQVNKyQt2rJgQxE3aEBaVZ6cUMehoRlOTUPqF64Q8Amhe7GFS4zFNhXThBOTZWSG+hYcoukFqcYRGbioE9Azwj40jS/wzcXrIoLqK0mhJ84Qi5Sr9bJCmfkK+3jXWkAQ+iTalOCB6yWW+Kc0a/GqYRIjExqXLYTJNxDgzkhxBkxHQ==;y/NotH8sC1BFn8XKL+GtUg=="
 ---
 

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Duke Robotics Presents TIKAD Combat Drone Equipped with Innovative Stabilization Technology"
-excerpt: "Duke Robotics, a leader in robotics technology and drone solutions, introduces TIKAD, an innovative military UAS octocopter drone with"
-publishedDateTime: 2020-07-28T19:00:00Z
-webUrl: "https://www.prnewswire.com/il/news-releases/duke-robotics-presents-tikad-combat-drone-equipped-with-innovative-stabilization-technology-301101008.html"
+excerpt: "Duke Robotics, a leader in robotics technology and drone solutions, introduces TIKAD, an innovative military UAS octocopter"
+publishedDateTime: 2020-07-28T14:30:00Z
+webUrl: "https://www.prnewswire.com/news-releases/duke-robotics-presents-tikad-combat-drone-equipped-with-innovative-stabilization-technology-301101008.html"
 type: article
 quality: 44
 heat: 44
@@ -23,6 +23,6 @@ images:
     height: 315
     isCached: true
 
-secured: "60LmDJ/NGhTJilaTsheYBiG/JjYUdpOZJHvdaqHTuiqUNr2koQJWbDi3hc5Xm7r7A/5S5imxeaFOuAsyk3n+maqdDz7oC+SelNdQbNoCT/gw5sgiiCglE4Edjvh9wUUgK7BE2Ljx95oOZBtwusvmsWUFYH9YzdS3VjEsEGwQzE5cLYtZlwrcdzhArwXDwZrClCuNSYEtxPp6Vwo80ffnLTSKVQTtaawLyS8kwd0qVB2LoPm6Dk8tsYbnivb/VHpIo88xnP1I5TN0b8KI14OggTPspcZRXIp/HFEIVUSAIwFYyJxejMIYtY0HXfTndL/DRuIub9UG2b0ZIAbCTYlRiQ==;Wb09g76FSKt4Sz2jpzID9w=="
+secured: "zpj6O49ftVLsKejvSSaETKKGQTe3G83IJrH+RL+8Z5cYR+1kiZ9maq/E9iMoWNeDZI1aqEG69j4iq3ZkgvI31Ceh9nFVzBGa2z7NUopTB+liPYlVq4S0MoOIcFeYnUtEHJ8vR5NgIIWtqhUYkrtcft0VfYL79znt2ncZjtqMSGW71lEPuYsnBZgNyJGyfN72w0Jk7pYGW9qyxc2IYtPO6ZNIbMknvZaMgD0tScmupMj2Lt5XZKi3uNRscHOZnlKGSyQbn+B9k3Yakx0U6uW3s9GaUwAk2zwWRjk5Jm2EV/Q6Ku6HF3Qb/vFMcLylZrIOM6XqrfcV1vvMnD8QnddDhA==;hMyC7ok6TF2uFdYNY46i6A=="
 ---
 

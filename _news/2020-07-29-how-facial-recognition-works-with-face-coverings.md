@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Rite Aid surveilled customers using facial recognition tech with links to China"
-excerpt: "A new report from Reuters uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government."
-publishedDateTime: 2020-07-28T22:01:00Z
-webUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance/"
-ampWebUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+title: "How facial recognition works with face coverings"
+excerpt: "Computer science experts say that face coverings and other accessories may act as a speedbump, but it wouldn’t be very difficult for the software to be modified."
+publishedDateTime: 2020-07-29T02:33:00Z
+webUrl: "https://www.thedenverchannel.com/news/national/coronavirus/how-facial-recognition-works-with-face-coverings"
 type: article
-quality: 100
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/d11c92c/2147483647/strip/true/crop/2546x1337+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fd8%2F029d13d544a7989b340903487b74%2Fscreen-shot-2020-07-20-at-5.26.06%20PM.png"
     width: 1200
     height: 630
     isCached: true
@@ -73,6 +71,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/B953lFLfq1FhLaf34syt53GoS3c=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67121837/acastro_180730_1777_facial_recognition_0003.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Rite Aid surveilled customers using facial recognition tech with links to China"
+    excerpt: "A new report from Reuters uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government."
+    publishedDateTime: 2020-07-28T22:01:00Z
+    webUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance/"
+    ampWebUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 100
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
+        width: 1200
+        height: 630
         isCached: true
   - title: "U.S. studies new facial recognition tech built with masked faces in mind"
     excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
@@ -287,21 +301,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How facial recognition works with face coverings"
-    excerpt: "Computer science experts say that face coverings and other accessories may act as a speedbump, but it wouldn’t be very difficult for the software to be modified."
-    publishedDateTime: 2020-07-29T02:33:00Z
-    webUrl: "https://www.thedenverchannel.com/news/national/coronavirus/how-facial-recognition-works-with-face-coverings"
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d11c92c/2147483647/strip/true/crop/2546x1337+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fd8%2F029d13d544a7989b340903487b74%2Fscreen-shot-2020-07-20-at-5.26.06%20PM.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "osbjlG3JzP7oa2XF909Rp+CIK6u94tYRq8qnajmrtuhqfbS3wbN307+D1HfFOix1uj08cMWpa9OIW9CD136J5PUTqVs70a5HHVJlm86VoSeK8OzvGwbHCs6eihG/uYhVtzoI7qmKyY5BM8gAT0mMasb7UbHZMuyL1pfNvrG50iOq5nG6f9JYL+UEp4E6mk+gT/N3YG4i3zxkQcYxU9HjgEPLif4P6O+wUjVw2j9G2X8nEfbVhHRpuHVVXMsr/wFrEK94tHcNMsSqFlBlT//EpMgs8LpAk9rddZ5+0yP5fulr3Hs+si4tqPC6aVYQzagiE2NvlvE67bwBn67eCepu3A==;KY2K27cIzUBkgn38VMGDQQ=="
+secured: "6960dKaHlGQvkA7tMIERF4rNLgZElzsX9i6v00cTerVvBlWsouurCVaU/ulRfhluSuyGgeT8XQ6OZcUFrm3gvxG2K57+UkjK/F9cczZaX7DkSw5UMJPgp6skcfAjeCcK841T12Meau5xCel74cV14UIg74XDJWWxzig4hkhHcBDg+tq10oos2o7/YNLy8CsQJ1k672pHA289Z8M+G2Hm9OO9uqt72FtGEnUflpw8GPFtpg2e5ikNbSN6BAQp+DvdzbCI5C2jQcjCxdQuTMYjJsynXLb7BZZz3iN/O1jhyu3bjQT0nKZQ/bVlMsQIni6KQcN5qKXlw05jAdUeDrO5FA==;C1qiSxGSDiG5Njgq4MjyWQ=="
 ---
 

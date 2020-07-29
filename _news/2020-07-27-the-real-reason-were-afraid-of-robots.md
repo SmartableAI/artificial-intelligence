@@ -8,7 +8,7 @@ ampWebUrl: "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
         width: 1200
+        height: 630
+        isCached: true
+  - title: "The real reason we’re afraid of robots"
+    excerpt: "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport’s immigration checkpoint, interprets your CT scans, reads your resume, traces your interactions on social media,"
+    publishedDateTime: 2020-07-29T01:40:00Z
+    webUrl: "https://www.oleantimesherald.com/commentary/the-real-reason-we-re-afraid-of-robots/article_66b5bc48-e599-5ab6-bc04-dec57f73d9b5.html"
+    type: article
+    provider:
+      name: Olean Times Herald
+      domain: oleantimesherald.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/9/2e/92e0d9fc-f821-5f0f-9d09-b83f623098b3/5f20d282cf2e7.image.jpg?resize=945%2C630"
+        width: 945
         height: 630
         isCached: true
 

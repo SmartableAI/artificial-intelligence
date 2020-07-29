@@ -42,20 +42,6 @@ related:
         width: 2880
         height: 2365
         isCached: true
-  - title: "An artificial intelligence-aided virtual screening recipe for two-dimensional materials discovery"
-    excerpt: "In recent years, artificial intelligence (AI) methods have prominently proven their use in solving complex problems. Across science and engineering disciplines, the data-driven approach has become the fourth and newest paradigm."
-    publishedDateTime: 2020-07-24T09:06:00Z
-    webUrl: "https://www.nature.com/articles/s41524-020-00375-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41524-020-00375-7/MediaObjects/41524_2020_375_Fig3_HTML.png"
-        width: 685
-        height: 346
-        isCached: true
 
 secured: "Tc/QxzzQa/iguiHgFOioP01kqW7OcoOusZZ7b3tWbPCVCf0HxJAp6SXg26UfQW5JchVRTgmkX5Z6mm7NT2/7Kw1Vu83z1qqQhzig0EmiLJjGqAqo94HnE+Qmx+ou/QssIAdrfbZM/2+Q5Hk29zW1iQPwMP34sBE5y4d4KoUHR/uNsXCNIDc1flS0fCTjzub9raZYItRPOV9KmPCh1PLXahBOKRhxYCPph5qfZAYIVsDUzA9r6YaBfmt8UBTvHCBE50JYO/ifNT5t2BxShTI8T13BAnnCrV64VRnAAnXXRbxuKEfl20JLXtsrqGkIf5b5AIQQgtweVPj+RqRu3zztxQ==;0QltC62WCvOqigztqqK+dw=="
 ---
