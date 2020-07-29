@@ -2,7 +2,7 @@
 name: "Quantib"
 overview: "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports."
 type: "profile"
-heat: 58
+heat: 20
 
 website: http://www.quantib.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Quantib"
   url: "https://twitter.com/Quantib"
-  followers: 680
+  followers: 679
 
 size: 11-50 employees
 yearFounded: 2012
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=MmbfaKF-wss"
 
-secured: "g4pwIE/e0lKQsFky1RVDiVS2UY7a7CnqXbo1Dl4o/ovbF1yToRYZo4w+PXYKH/k0GhWiFQLvIvRaI3Dewsz7sO3Zq8+cgRut67Y9K5ZuaEuERL42PIocSohLiZMLWV3KNy6Oz1wN1kO+FyQfZ5Ni1GnNo6THaLNftXpN5KjWQY5EQ25xtp8Q22T117fkwdEm7RVloPWdRjl+n2BOR2UHYqfb9mFqwm9PsGtLbOwVlpvbXxq/Kubu9CLr3kkp4M1/2jUzUeRLGRPDoeqLwnNxUObIL4JMYPtr/MdrDZnqIF/GH+sWrRMHX7M2wJkVyAcnIp433DyVnFOvvuQ4XbpYyACVXCoN6P2BV4hWL290SadQbyIfQvsHB38gYi9IoOWe;S5KuRCncWltZUgooKy6ToQ=="
+secured: "MS0HJ+ygQoHRKmL5OBvOBMHZt7+UAI7d6tCX6LG88oAn+ElV/EkQULWOZWnye+22IufaXS5Fol/ZYpwWhJV0IH8EKOvEoJdUYu01p0HuEUCOzjUArCTHdgVE+g2WopdaX7qDYLK8z60UbMOjlRrfa2gq+FhXwW+YCkpe12YrxuN+l50XDsXpe/KxhtPJgxfce9L2O9JUfCDyfDa5w57eXjucexbEbGqdjltZHm2qhknhq/OJG3LYSSSdjmVOl/cUac9GpGdy37Nn3wwRvQIQWQ8haJngZyrQ/cw0MfsW+4SZ7JfYfU2wFOsXPU4oSfLaI/Sx1Bk/qqCnjEHKID19Q73HL8WBZ5jNQqdvy0Qfg/gUO3b/IJopW9Bc9wzWxtkM;3SykZ5D/ayzhDmwp94ITPQ=="
 ---
 
