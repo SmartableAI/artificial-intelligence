@@ -14,6 +14,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "Wpbd7fNzQ/ufRyav0y0ShgV7DBJfq2GM1KpnzT12ql+65YBR5Y7Wto5lqbhjhT6OPXajALZs6I9MOhonaktbbbIUX6svYiyzw51Gr1r2axv4detk+wwydpMa0nFJE42AF2jymQuixhAo9XHbw1Rz2yDth3zgBcwBI/tP5zdmW7o0hAq4/b3y92c3DRv3cfKYA1qNKxr3ESRV98bG7RYzsAADonZQpV1W6zwf+LVsilUOVfuyA+fbPJFQT+tBR9F/WLJty03aF5TfW+pHjiy72JS8o2iYcaUnaHhYyRVcAus/JV1AGRHEIP4EYok3dAA8uHp0rkJEmvAE7D0gi+0GaQ==;hZ7m0OWDweSOcwbwjvhQng=="
+images:
+  - url: "https://menafn.com/updates/pr/2020-07/19/I_11b7d50c-cimage_story.jpg"
+    width: 400
+    height: 266
+    isCached: true
+
+secured: "9lqsctKXInNaxCp4xLkcv1D/n10gIA9HkhpBz+BzEwZhOpmbVA2/y+GJqWI1zjEpqN+961YL/JQegfcCTlExLekOL5BqGwUuE7WbqX7/3COMx3QXbe9vGLbmdTwjJCYI3DpUZleqIXP7qCA+s/5+GKSxWGeW/JMZe3HP7CR01/4vE/pIG4ThwQhpGvkFKz+sYOF6kM9mB1k8SyEoprW7GrEBRkzv7iw/Pa4380Zuv1/zMXIigCczeClzNB6zJAiOzytjFuc9c2MxefQXVsgyKSSqWvwkC8x7ju3E1LqCJsTO2Li9U44A0i3X6MSSILuefITESz2iglCYZpn6896K4Q==;ElJgzaWhARGjUdzb6G8D7g=="
 ---
 

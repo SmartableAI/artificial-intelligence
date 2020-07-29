@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Software Industry Outlook 2020-2025 - Market Revenues to Grow at a CAGR of 41.6% Between 2019 and 2025"
-    excerpt: "The \"Global Artificial Intelligence (AI) Software Market, Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The global AI software market revenue will grow at a CAGR of 41."
-    publishedDateTime: 2020-07-24T12:09:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16767301/artificial-intelligence-ai-software-industry-outlook-2020-2025-market-revenues-to-grow-at-a-cagr-o"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16767301"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16767301"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
     excerpt: "This report also researches and evaluates the impact of Covid-19 outbreak on the Medical Imaging Artificial Intelligence industry, involving potential opportunity and challenges, drivers and risks. We present the impact assessment of Covid-19 effects on ..."
     publishedDateTime: 2020-07-27T07:26:00Z

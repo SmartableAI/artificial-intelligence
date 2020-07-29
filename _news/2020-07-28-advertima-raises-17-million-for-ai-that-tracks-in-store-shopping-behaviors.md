@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Aquicore raises $14 million for AI tools to optimize commercial building energy usage"
+    excerpt: "Aquicore, a startup developing building management and optimization solutions powered by AI, has raised $14 million in venture capital."
+    publishedDateTime: 2020-07-29T04:04:00Z
+    webUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/"
+    ampWebUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/44ccce3c-65f6-4612-a21b-76197560cdf7-e1595873427146.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Density raises $51 million to promote social distancing with AI occupancy-tracking sensors"
     excerpt: "Density, a startup building AI-powered, people-counting infrared sensors, today closed a $51 million round to address pandemic-driven demand."
     publishedDateTime: 2020-07-28T13:33:00Z

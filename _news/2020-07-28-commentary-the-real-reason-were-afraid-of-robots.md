@@ -40,6 +40,17 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "Iris Berent: The real reason we’re afraid of robots"
+    excerpt: "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport’s immigration checkpoint, interprets your CT"
+    publishedDateTime: 2020-07-29T04:06:00Z
+    webUrl: "https://www.amestrib.com/opinion/20200728/iris-berent-real-reason-we8217re-afraid-of-robots"
+    ampWebUrl: "https://www.amestrib.com/opinion/20200728/iris-berent-real-reason-we8217re-afraid-of-robots?template=ampart"
+    cdnAmpWebUrl: "https://www-amestrib-com.cdn.ampproject.org/c/s/www.amestrib.com/opinion/20200728/iris-berent-real-reason-we8217re-afraid-of-robots?template=ampart"
+    type: article
+    provider:
+      name: Ames Tribune
+      domain: amestrib.com
+    quality: 54
   - title: "The real reason we’re afraid of robots"
     excerpt: "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport’s immigration checkpoint, interprets your CT scans, reads your resume, traces your interactions on social media,"
     publishedDateTime: 2020-07-29T01:40:00Z

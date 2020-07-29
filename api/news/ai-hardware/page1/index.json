@@ -1064,9 +1064,9 @@
     {
       "path": "_news/2020-07-17-wwt-named-partner-of-the-year-for-deep-learning-ai-by-nvidia.md",
       "title": "WWT Named Partner of the Year for Deep Learning AI by NVIDIA",
-      "excerpt": "In addition, the WWT Advanced Technology Center (ATC) offers Lab-as-a-service environments for AI development, MLOps, Deep Learning, and testing of storage and networking with GPU-accelerated compute. WWT [also] engineered and deployed some of the largest ...",
+      "excerpt": "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1084,7 +1084,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T07:26:00-07:00",
+      "publishedDateTime": "2020-07-17T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -1098,8 +1098,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1196,9 +1197,9 @@
     {
       "path": "_news/2020-07-15-core-scientific-acquires-atrio-strengthening-its-ai-capabilities-as-the-cloud-for-data-scientists.md",
       "title": "Core Scientific Acquires Atrio, Strengthening Its AI Capabilities as the Cloud for Data Scientists™",
-      "excerpt": "HPC workloads and AI are converging to create solutions that span across a range of industries, from performing seismic analysis in the oil and gas field, to calculating complex risks in financial markets for more informed decision-making.",
+      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for Artificial Intelligence (AI) and blockchain led by CEO Kevin Turner, the",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200715005690/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200715005690/en/Core-Scientific-Acquires-Atrio-Strengthening-AI-Capabilities",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1216,10 +1217,10 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T09:35:00-07:00",
+      "publishedDateTime": "2020-07-15T10:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Journal",
+        "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
         "publishers": null,

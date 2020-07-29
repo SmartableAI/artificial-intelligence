@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.vice.com/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy</loc>
+    <lastmod>2020-07-28T22:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/</loc>
     <lastmod>2020-07-28T19:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1687,8 +1693,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200717005015/en/</loc>
-    <lastmod>2020-07-17T07:26:00-07:00</lastmod>
+    <loc>https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI</loc>
+    <lastmod>2020-07-17T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2179,6 +2185,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200715005690/en/Core-Scientific-Acquires-Atrio-Strengthening-AI-Capabilities</loc>
+    <lastmod>2020-07-15T10:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/</loc>
     <lastmod>2020-07-15T10:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2187,12 +2199,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/</loc>
     <lastmod>2020-07-15T09:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businesswire.com/news/home/20200715005690/en/</loc>
-    <lastmod>2020-07-15T09:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2307,6 +2313,12 @@
   <url>
     <loc>https://www.nasdaq.com/press-release/alithya-launches-ai-fitm-trade-surveillance-solution-powered-by-microsoft-azure-2020</loc>
     <lastmod>2020-07-15T05:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fleetowner.com/technology/autonomous-vehicles/article/21136631/navistar-and-tusimple-plan-to-launch-truly-driverless-highway-trucks-by-2024</loc>
+    <lastmod>2020-07-15T05:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

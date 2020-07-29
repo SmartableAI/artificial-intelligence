@@ -8,7 +8,7 @@ ampWebUrl: "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Iris Berent: The real reason we’re afraid of robots"
+    excerpt: "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport’s immigration checkpoint, interprets your CT"
+    publishedDateTime: 2020-07-29T04:06:00Z
+    webUrl: "https://www.amestrib.com/opinion/20200728/iris-berent-real-reason-we8217re-afraid-of-robots"
+    ampWebUrl: "https://www.amestrib.com/opinion/20200728/iris-berent-real-reason-we8217re-afraid-of-robots?template=ampart"
+    cdnAmpWebUrl: "https://www-amestrib-com.cdn.ampproject.org/c/s/www.amestrib.com/opinion/20200728/iris-berent-real-reason-we8217re-afraid-of-robots?template=ampart"
+    type: article
+    provider:
+      name: Ames Tribune
+      domain: amestrib.com
+    quality: 54
   - title: "The real reason we’re afraid of robots"
     excerpt: "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport’s immigration checkpoint, interprets your CT scans, reads your resume, traces your interactions on social media,"
     publishedDateTime: 2020-07-29T01:40:00Z
