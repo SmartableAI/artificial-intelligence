@@ -9,7 +9,7 @@
       "webUrl": "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 75,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -211,7 +212,7 @@
       "webUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -362,7 +363,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {

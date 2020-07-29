@@ -13,6 +13,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg"

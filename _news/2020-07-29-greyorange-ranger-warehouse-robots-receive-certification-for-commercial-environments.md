@@ -23,6 +23,17 @@ images:
     height: 338
     isCached: true
 
-secured: "LSQUGpOEpj8Bj8bMLC/ezerQj+/OU0ihARm/+QnP5WLhZqQ2gzuBWcEDylI++WRpy4bkR4eU4cYUIUBxrgAj/l9qzMLZKNQfHIFrNT6lIT5KYJHvKY4vbZaWCup58HrpnlPUZe2/tY3vuDB5wb2RtDJ3cgf5+VuygmSsAjujoKL7Kj84GOz18Sm245VBNK/TfQH+IXnhBbq9V3jOAJJngn7TKw91dHStzL2LkhZ5xvx76RiOO0NUJJEi3D2s7JdKeGdNSOIw4l0lcHQqS0ElaMuxbaG2W1CTGbA0Uo+Jh6zqg5gysDyQy1CdT5WeMPwJyDHZKgroyE2LFN7Car0J/g==;PLWGSsqUrpK9xG7M9hA+ZA=="
+related:
+  - title: "GreyOrange Ranger Warehouse Robots Receive UL Certification for Commercial and Industrial Environments"
+    excerpt: "Distinguished certification to UL 3100, Second Edition highlights GreyOrange's industry-leading safety leadership"
+    publishedDateTime: 2020-07-29T18:26:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2020/07/29/greyorange-ranger-warehouse-robots-receive-ul-certification-for-commercial-and-industrial-environments/15536/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 3
+
+secured: "4jswiMIku5j7ijE8UbG3jFTsJQaPTr2qQLe/d51rPNso6hbH+58nf6FX15xqRLxsuSTnBK2a9TZK2BzVJ4HgHuLUYyLlhwgOv/nVQj5BsIXX6YfgCSo3OWcrGvlSCbYNp5gciF2j7OuxBgdtBcVIS0AAwLC2wG6asLt39NDVPRdwzI3hK0WZqUFYwZ9EEF9Qd7TzzLvYKWQVGp2hpXzGuBJm29SrDewuTal9sBneXbOVgI2cVCRMfaI16khpKbZzgDRhuTLl+mQlEGW83tjm9Mm7BeVh//xe3XPio48f7RZEQVALOi4cG6Q9EYDx9m5mWcM+LzN9TSyWbDLSVw2XEVRJkRdT3GTXtb6pkfNONPUVy/LI9abNpoqIVVS7lycTK/vACRAihtWo8xKH4Hm64rJ+O6m5+N1as4VLt2AWtDX3MKGP7mL9EmjHEIEe30Kk7dsSBv0jnvZ9cuKBNA6wI4CJ6k9p/Xd4Zn4J5F3g8h2Asb9vyNe9u8llpd76Wbw4iuRdwvZKehEt4fRX3e9LJw==;7Hm49e3Gk2SvWDq/FZdK3w=="
 ---
 

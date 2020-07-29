@@ -2,6 +2,285 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-29-a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics.md",
+      "title": "A Look At Amazon's (AMZN) Initiatives in the Field of Robotics",
+      "excerpt": "Here’s a look at Amazon’s (AMZN) initiatives in the field of robotics and how it’s becoming an integral part of its supply chain process. Amazon runs more 175 fulfillment centers worldwide. There are different types of robots deployed at its fulfillment centers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
+      "publishedDateTime": "2020-07-29T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human.md",
+      "title": "From vampires to AI, Twilight director Catherine Hardwicke offers a new take on being human",
+      "excerpt": "In Quibi's new sci-fi series Don't Look Deeper, Hardwicke introduces us to a bi-racial teen named Aisha who finds she's an artificial human. The mystery unfolds, 10 minutes at a time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/PdpUjXDlYLgFaMrQwiWd0aSC5AA=/756x567/2020/07/28/943d97c7-37d2-47fa-860c-50d655e4458b/catherine-hardwicke-dont-look-deeper.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
+      "publishedDateTime": "2020-07-29T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-scientists-use-ai-to-predict-what-makes-a-successful-relationship.md",
+      "title": "Scientists use AI to predict what makes a successful relationship",
+      "excerpt": "A new AI study led by Western University could provide them with some pointers. The researchers say it’s the first systematic attempt at using machine learning to predict relationship satisfaction. “Satisfaction with romantic relationships has important implications for health,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-29T185605.585-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
+      "publishedDateTime": "2020-07-29T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-leverage-ai-to-optimize-customer-service-outcomes.md",
+      "title": "Leverage AI to optimize customer service outcomes",
+      "excerpt": "With a more hands-on approach to AI — that is, using the technology to actually augment everyday communications — workers can gain insight into concepts, workflows and ideas that would otherwise go unnoticed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1147156422.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "publishedDateTime": "2020-07-29T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
+      "title": "NVIDIA AI Runs The Mlperf Table Again",
+      "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/29/nvidia-ai-runs-the-mlperf-table-again/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21b4a80cd05964d6fae2b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-investment-in-ai-startups-slips-to-three-year-low.md",
+      "title": "Investment in AI startups slips to three-year low",
+      "excerpt": "These AI-powered startups have seen quarterly investment totals rise from a few hundred rounds and a few billion dollars each quarter to 1,245 rounds and $17.3 billion in the second and third ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/29/investment-in-ai-startups-slips-to-three-year-low/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-red.jpg?w=300",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/29/investment-in-ai-startups-slips-to-three-year-low/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/investment-in-ai-startups-slips-to-three-year-low/amp/",
+      "publishedDateTime": "2020-07-29T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-google-claims-its-new-tpus-are-27-times-faster-than-the-previous-generation.md",
       "title": "Google claims its new TPUs are 2.7 times faster than the previous generation",
       "excerpt": "Google points to the latest MLPerf benchmark results as evidence its newest TPUs are up to 2.7 times faster than the previous generation in AI workloads.",
@@ -59,7 +338,7 @@
       "webUrl": "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 75,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -98,7 +377,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -394,56 +674,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-29-a-key-self-driving-car-supplier-is-finally-going-public-through-a-spac.md",
-      "title": "A Key Self-Driving Car Supplier Is Finally Going Public Through a SPAC",
-      "excerpt": "Special purpose acquisition company (SPAC) Graf Industrial Corp. (NYSE:GRAF) announced earlier this month that it will acquire Velodyne Lidar, a company that supplies 3D mapping for self-driving car capabilities. After completing the acquisition sometime ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F583902%2Fcars-driving-with-a-communications-field-around-them.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx",
-      "publishedDateTime": "2020-07-29T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-29-intel-researchers-create-ai-system-that-rates-similarity-of-2-pieces-of-code.md",
       "title": "Intel researchers create AI system that rates similarity of 2 pieces of code",
       "excerpt": "Machine programming (a term coined by Intel Labs and MIT) aims to tackle this with automated, AI-driven tools. A key technology is code similarity, or systems that attempt to determine whether two ...",
@@ -680,6 +910,47 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-microsoft-azure-is-set-to-be-the-top-cloud-platform.md",
+      "title": "Microsoft Azure is set to be the top cloud platform",
+      "excerpt": "Microsoft signed new deals with PepsiCo and Mastercard to use Azure as their preferred cloud platform. Azure seems to be the top business choice right now.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/07/Microsoft-Azure-is-set-to-be-the-top-cloud-platform.jpg",
+          "width": 1856,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
+      "publishedDateTime": "2020-07-29T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1134,298 +1405,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-yeah-so-it-turns-out-rite-aid-has-been-using-face-recognition-at-hundreds-of-stores.md",
-      "title": "Yeah, So It Turns Out Rite Aid Has Been Using Face Recognition at Hundreds of Stores",
-      "excerpt": "Rite Aid used face recognition to scan the faces of every single customer who walked into hundreds of its stores in a program encompassing most of the past decade, Reuters reported on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/auqqu8da3sue1vra6wam.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp",
-      "publishedDateTime": "2020-07-28T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-aws-adds-new-amazon-fraud-detector-to-fight-fraud.md",
-      "title": "AWS adds new Amazon Fraud Detector to fight fraud",
-      "excerpt": "AWS has launched a new tool called Amazon Fraud Detector. It said the tool will be able to detect and prevent payment and identity fraud in just milliseconds thanks to machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
-      "publishedDateTime": "2020-07-28T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-supply-chain-resiliency-begins-in-the-cloud.md",
-      "title": "Supply Chain Resiliency Begins In The Cloud",
-      "excerpt": "As our lives and work continue to adjust, it’s important to retain the many lessons the pandemic has taught us and think about how we can build more resilient supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/07/28/supply-chain-resiliency-begins-in-the-cloud/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f208e703fa7f7d79a630ad1%2F0x0.jpg%3FcropX1%3D34%26cropX2%3D4011%26cropY1%3D0%26cropY2%3D2236",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/07/28/supply-chain-resiliency-begins-in-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/07/28/supply-chain-resiliency-begins-in-the-cloud/amp/",
-      "publishedDateTime": "2020-07-28T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
-      "title": "Facebook develops AI algorithm that learns to play poker on the fly",
-      "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "publishedDateTime": "2020-07-28T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-inpowered-selected-by-ana-as-winner-of-best-use-of-aimachine-learning-category-at-2020-b2-awards.md",
-      "title": "inPowered Selected by ANA as Winner of 'Best Use of AI/Machine Learning' Category at 2020 B2 Awards",
-      "excerpt": "PRNewswire/ -- inPowered, the AI platform delivering business outcomes with content marketing, was awarded the top",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
-      "publishedDateTime": "2020-07-28T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-this-ai-will-turn-your-ugly-face-into-a-cute-cartoon.md",
-      "title": "This AI will turn your ugly face into a cute cartoon",
-      "excerpt": "thanks to new AI tool that turns images and videos into cartoons. Mahajan and Pandkar used their open-source implementation to create a publicly-available demo of the system, using GPU (Graphics ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T191306.193-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
-      "publishedDateTime": "2020-07-28T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -154,14 +154,14 @@ related:
         isCached: true
   - title: "Face masks are messing up facial recognition software"
     excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too.This is the key finding of a new report released Monday from federal researchers at the ..."
-    publishedDateTime: 2020-07-29T17:50:00Z
-    webUrl: "https://www.wtae.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    ampWebUrl: "https://www.wtae.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    publishedDateTime: 2020-07-29T19:58:00Z
+    webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
     type: article
     provider:
-      name: WTAE-TV
-      domain: wtae.com
+      name: WMUR9
+      domain: wmur.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1586368270.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"
@@ -213,6 +213,20 @@ related:
       - url: "https://media.cdn.lexipol.com/uploads/ap20210004604951.jpg?w=860&format=jpg&quality=87"
         width: 726
         height: 480
+        isCached: true
+  - title: "Facial Recognition Algorithms Struggle to Detect Faces Under Masks, NIST Study Finds"
+    excerpt: "A new study from the National Institute of Standards and Technology found facial recognition algorithms developed pre-pandemic struggle to identify masked faces."
+    publishedDateTime: 2020-07-29T17:30:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/07/facial-recognition-algorithms-struggle-detect-faces-under-masks-nist-study-finds/167303/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 32
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/29/shutterstock_1684640383_1/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "STUDY: MASKS SCREW UP FACIAL RECOGNITION SOFTWARE"
     excerpt: "TRENTON, N.J. - 1 p.m. (scheduled) New Jersey Gov. Phil Murphy and the state's health department update the Garden State on efforts to combat the COVID-19 (coronavirus) pandemic. Partly sunny, hot and a little more humid with a shower or t-storm possible ..."

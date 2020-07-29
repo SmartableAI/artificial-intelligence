@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Fraud Detector"
-excerpt: "Amazon Fraud Detector helps businesses identify online identity and payment fraud in real time using machine learning, based on the same technology developed for Amazon.com."
-publishedDateTime: 2020-07-28T18:36:00Z
-webUrl: "https://www.darkreading.com/cloud/aws-announces-general-availability-of-amazon-fraud-detector/d/d-id/1338466"
+excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
+publishedDateTime: 2020-07-28T17:28:00Z
+webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Dark Reading
-  domain: darkreading.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-    width: 600
-    height: 600
+  - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zO/hGRpHMv19ciTZjwavf/8mQlMETX0ML3rKNsjC28QpPLx9dMpHDQYDNHqX2GvimnB1g0ztZEQgKGi2+d8qOieUr7WoPXP+2nAeEDMuX+rZuP9CIVPWWH4akuKY+3HW7hT6zrHxYWV51OqVNFl2ljWJidKP80cWo6Wxwa3r2cQlEE9CF8P4S06VvvFJagXdkeOSsHqU+uLIEnXTJ6W6Ta0MrA8AQ00Ge6/nKib6ruuZLet5+mDwiB8yPAGH10q8BBpq77lsAS3BlofDtMQtsQp/rXbk0cGt4e17CozPykKX7VhnQX8gkBTFDkDM8a1Kxfq6+eiUjjn/zTTVeNbqOA==;qn+zP0YtTjpjfQ7xDp3z6Q=="
+secured: "5XoED4zZEpN4q8o1kwFeoqjm38GIyJZKFRC1Dbxv7Jx0hPzKcvc8JDEORHKLkgq9FpHHrj/kSNBa0mOu4Ac00X+gWZu54ZrB8so6xJflaAPdBZOHPhk9EX4t2X0o71Jpef0FbghOrjhOeJcN0B2rdWaoQp73I7N4o3j/6LXtP2D1JG+vNLfJQs2KpF4MQ9gdqsBZtM+mw0UHTGDm7F6FkV3PNSHQ0H3Hh2dhteCvn2wRg3Ewxrb/UoA+LxOluLUubMmYq3EerKIbEUaeqHkbCbv6vEDJv0xGRTP7Ww0uNviYPWyPGhmxOiCUhXAI+Nmue0GspI0VSdfDwbcJjDrnww==;Wb/nlMSaZuJkqMHIHfm6Cg=="
 ---
 

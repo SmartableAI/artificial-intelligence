@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -126,6 +126,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Rite Aid Drops Facial Recognition Tech"
+    excerpt: "Rite Aid 's quiet use of facial recognition technology in its stores has ended after nearly a decade. Since 2012, the American drugstore had gradually implemented the technology in 200 stores around the country,"
+    publishedDateTime: 2020-07-29T18:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/rite-aid-drops-facial-recognition/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
 
 secured: "WrFosMI6C6I0FoVUsuP/Eh9vgGiZ9M+jkaAFQpOTtG1FljBlC9b22g7b5AxKYx28mgjw+iy252TTtNZddOIJAsB71bqnCm1WK1qDWMTttPOo411jtV+H1UQBR4x0Pjh/3pVrJdNSTOJ1fFo4S8lBXmgrwhacMosz7C9P5SdEnmD1x6ruI9N2xQ7nCnBjDBlk73fVqCQ6ixIoR5VSEsjFqNSKo7hjGtiW+vknqWYz7v9AsBaW4dtY57iPGVbjt60AEMc2es0YSajS9HePjWBp5lRAMV904KkvNHegnpjgrTzNbvH7FOEQTrEJWP6KDXYc7df8PXXaNVzaV/F2k4zIXAkrOwjcjRdmIHTD9ULN1pHKvnRgfxPrNX2ixeV0DG+IQ7quWpaMEMjDk+t0c8spdavnLkuZPVaSJtinKGCPKODq/cQHGT3gswyQY8SHB5ZLRh2QDkxwqmXGN3rSKvafTTb3OhObhd46/hU53BIqsF9id8a/1tYEY+vVdepFRKY/;kRvmN2y2Ji/T+Dz2Axi7sw=="
 ---

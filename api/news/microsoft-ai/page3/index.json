@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-30-hunters-raises-15m-series-a-for-its-threat-hunting-platform.md",
+      "title": "Hunters raises $15M Series A for its threat-hunting platform",
+      "excerpt": "Hunters, a Tel Aviv-based cybersecurity startup that helps enterprises defend themselves from intruders and analyze attacks, today announced that it has raised a $15 million Series A funding round from Microsoft’s M12 and U.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Hunters-team-photo.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Hunters raises $15M Series A for its threat-hunting platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
+      "publishedDateTime": "2020-06-30T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity.md",
       "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
       "excerpt": "Automation Anywhere sees enterprises investing in digital workers to build resiliency in their future business plans",
@@ -1303,48 +1353,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-microsoft-announces-azure-machine-learning-courses-on-udacity.md",
-      "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
-      "excerpt": "Microsoft and Udacity are offering an introductory Azure Machine Learning course and a scholarship to a more complex course.",
-      "sourceUrl": null,
-      "webUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Microsoft-Azure-Udacity-Microsoft.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
-      "publishedDateTime": "2020-06-18T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

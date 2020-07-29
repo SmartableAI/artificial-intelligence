@@ -126,6 +126,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Rite Aid Drops Facial Recognition Tech"
+    excerpt: "Rite Aid 's quiet use of facial recognition technology in its stores has ended after nearly a decade. Since 2012, the American drugstore had gradually implemented the technology in 200 stores around the country,"
+    publishedDateTime: 2020-07-29T18:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/rite-aid-drops-facial-recognition/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
 
 secured: "41WtUQUkCfDbGH3SmGBeqt7PqPl+uO53P3F4qNjsQCfRDvy2TNLx/KVQtiY0YTaA3KsoK7FyDEx2/yZg9NKjvPt5J11LEnzgCPe4YVPOZv/MdloDgFlC3GJWpIXmee8yoT30FTEC1ngNJong+EoZpnvB5uPiYiinyoAEIt8N/A+f+G5yl1Mk8QKNnvFl/W5cEtEI0ck/o6Py3uNeM8JpGgeNeUnhn9Y8khrmB9n9l0MNeifYpIlTvQ9B8n618JcnOILF3a7w7kVKxfobo0incf7eDjCuYpE2S8f4LcNbMHcnVFy4o8hxMhlMf+80MLORoEPYxTH09GSejfFUbHjKYnVdc9p4Nz+alb1jxs3L4fB79LD/Uq6ugjfzjByazV1qm32LdbKcx/5JGY5msZH3iRQSjhBJ7EjMtZvUuEBoMJnWzTlQHAPc654Icxj/i9550AVnoasnGjsMYZP2Xx1BaGpVBzLDUCCH5LaDK4A3+oNuGEBsJ4R5Ji2glYFUVNGqVRtyzoGe2jdME2dQhVo4/g==;sI+v/xi61fLtblgb8fjoBw=="
 ---

@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29</loc>
+    <lastmod>2020-07-29T12:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/</loc>
+    <lastmod>2020-07-29T12:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/</loc>
+    <lastmod>2020-07-29T11:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/</loc>
+    <lastmod>2020-07-29T11:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/moorinsights/2020/07/29/nvidia-ai-runs-the-mlperf-table-again/</loc>
+    <lastmod>2020-07-29T11:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/07/29/investment-in-ai-startups-slips-to-three-year-low/</loc>
+    <lastmod>2020-07-29T10:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/</loc>
     <lastmod>2020-07-29T10:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -49,12 +85,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx</loc>
-    <lastmod>2020-07-29T06:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/29/intel-researchers-create-ai-system-that-rates-similarity-of-two-pieces-of-code/</loc>
     <lastmod>2020-07-29T06:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -81,6 +111,12 @@
   <url>
     <loc>https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/</loc>
     <lastmod>2020-07-29T04:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://windowsreport.com/microsoft-azure-top-cloud-platform/</loc>
+    <lastmod>2020-07-29T03:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2367,6 +2403,12 @@
   <url>
     <loc>https://advances.sciencemag.org/content/6/29/eaba1482.full</loc>
     <lastmod>2020-07-15T11:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wrcbtv.com/story/42372982/vastsolutionsgroupcom-announces-partnership-with-google-and-tensorflow</loc>
+    <lastmod>2020-07-15T11:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,18 +2,18 @@
 category: news
 title: "Face masks are messing up facial recognition software"
 excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too.This is the key finding of a new report released Monday from federal researchers at the ..."
-publishedDateTime: 2020-07-29T17:50:00Z
-webUrl: "https://www.wtae.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-ampWebUrl: "https://www.wtae.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+publishedDateTime: 2020-07-29T19:58:00Z
+webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WTAE-TV
-  domain: wtae.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Computer Vision
@@ -214,6 +214,20 @@ related:
         width: 726
         height: 480
         isCached: true
+  - title: "Facial Recognition Algorithms Struggle to Detect Faces Under Masks, NIST Study Finds"
+    excerpt: "A new study from the National Institute of Standards and Technology found facial recognition algorithms developed pre-pandemic struggle to identify masked faces."
+    publishedDateTime: 2020-07-29T17:30:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/07/facial-recognition-algorithms-struggle-detect-faces-under-masks-nist-study-finds/167303/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 32
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/29/shutterstock_1684640383_1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "STUDY: MASKS SCREW UP FACIAL RECOGNITION SOFTWARE"
     excerpt: "TRENTON, N.J. - 1 p.m. (scheduled) New Jersey Gov. Phil Murphy and the state's health department update the Garden State on efforts to combat the COVID-19 (coronavirus) pandemic. Partly sunny, hot and a little more humid with a shower or t-storm possible ..."
     publishedDateTime: 2020-07-29T16:55:00Z
@@ -233,6 +247,6 @@ related:
       domain: medindia.net
     quality: 12
 
-secured: "j+unR1ipV0bXNDZO2sVYYfzLHC9gAZcZNzM5i9sm0MXzI1nQ63164K9TvbRIxuM2wJ5146tG2/K+pQvpR3UJm5cxUJfoixWn6LJRE8EGYm+JEzgmTeTJjshwToqL84rbvJoQGMjcFlnLsiawjQN5xzyed33PtKUA7G48XmmEjSr2lPbODydXM6K8CgjxV+fTpCZRAW9GJ5S8Eajt0K505WLCL7FG69zzztrU7QoqKKQ1pXyaRSKHhpIP5/zwM1YR5J8nInClkNYudDlAaLP52wsuyyw8b63iB4EhIt3/2werwtUO2AdmNZpNdoaZoO7WHdAOr2fjRe+9YdkybZy3hQ==;kyrtzVLrW2qBcZQcAYWg6A=="
+secured: "UfVArMvor7P4lr3Imi9hPw7tyb0E1e4/IHrx8EqRQ0hH+ri04DUbFWYkCkohvlbQA5sX8yCLR8uxH0l3/qqnlAvN+Tik9ra1g0LqfHG7mHp/kNXxc7e4NhoUrGET/47U7Ji3DStg7Cn7vS7zIZyiPgn/lQ0U+/sb/IcuPkKINQm9aeUdyOJ1uU4xtr4mYclvATUypkKcaaIOnmhzjRSTqaGFbiVd9WsI20g8ZDM4X7CpNBrM6Pv7H7iEabGFrxOlkC04J7q0oDyYoAjoaRp2Rk5oi8kygqjs8x7tjb5K4N/eNSIkhdEVCLhnZizsgKTfy4AZ1pUzqJHDHD5dfcS93g==;JOSi9akTu+F8jJzw8Jq9mw=="
 ---
 

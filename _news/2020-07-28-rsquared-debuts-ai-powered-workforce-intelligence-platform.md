@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-28T17:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/rsquared-debuts-ai-powered-workforce-intelligence-platform-2020-07-28"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Theator is Making its Surgical Intelligence Platform Available in Microsoft Azure Marketplace"
-    excerpt: "Theator, the first of its kind surgical intelligence platform, announced today that its AI-powered platform is now available in the"
-    publishedDateTime: 2020-07-27T20:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 58
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "NICE Delivers the Market's First Real-Time Interaction Guidance, Powered by Its Groundbreaking ENLIGHTEN AI Platform"
     excerpt: "First-of-its-kind, AI-powered, out of the box ENLIGHTEN behavioral models provide real-time agent guidance during interactions to create unparalleled customer experiences"
     publishedDateTime: 2020-07-27T12:12:00Z

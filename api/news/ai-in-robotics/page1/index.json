@@ -2,6 +2,38 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-29-a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics.md",
+      "title": "A Look At Amazon's (AMZN) Initiatives in the Field of Robotics",
+      "excerpt": "Here’s a look at Amazon’s (AMZN) initiatives in the field of robotics and how it’s becoming an integral part of its supply chain process. Amazon runs more 175 fulfillment centers worldwide. There are different types of robots deployed at its fulfillment centers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
+      "publishedDateTime": "2020-07-29T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-soa-engineering-students-shine-in-flipkart-grid-robotics-challenge.md",
       "title": "SOA Engineering Students Shine In Flipkart Grid Robotics Challenge",
       "excerpt": "Five engineering students of SOA came up with a remarkable performance to qualify for Level-2 in the Flipkart GRiD 2.0 Robotics Challenge as the only team from Odisha other than IIT and NIT.",
@@ -1267,47 +1299,6 @@
         "name": "IET",
         "domain": "theiet.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-a-robot-walks-into-white-castle.md",
-      "title": "A robot walks into White Castle ...",
-      "excerpt": "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-robot-walks-into-white-castle/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
-      "publishedDateTime": "2020-07-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
