@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Is All the Rage. So Why Aren’t More Businesses Using It?"
+    excerpt: "A big study by the US Census Bureau finds that only about 9 percent of firms employ tools like machine learning or voice recognition—for now."
+    publishedDateTime: 2020-07-30T11:00:00Z
+    webUrl: "https://www.wired.com/story/ai-why-not-more-businesses-use/"
+    ampWebUrl: "https://www.wired.com/story/ai-why-not-more-businesses-use/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-why-not-more-businesses-use/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/5f20b5f959ee66a80b965c8d/master/pass/ai-in-business.png"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "Using artificial intelligence to smell the roses"
     excerpt: "A pair of researchers at the University of California, Riverside, has used machine learning to understand what a chemical smells like—a research breakthrough with potential applications in the food flavor and fragrance industries."
     publishedDateTime: 2020-07-29T07:20:00Z

@@ -2,6 +2,146 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-30-5-science-backed-ways-to-strengthen-your-brain.md",
+      "title": "5 Science-Backed Ways to Strengthen Your Brain",
+      "excerpt": "When it comes to recognizing trends and patterns, this can further break down into pattern and object recognition. The left hemisphere of your brain deals with object recognition, while the right deals with pattern recognition. Related: Can Binaural Beats ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/353747",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1595876013-GettyImages-1171307382.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/353747",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353747",
+      "publishedDateTime": "2020-07-30T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-ai-is-all-the-rage-so-why-arent-more-businesses-using-it.md",
+      "title": "AI Is All the Rage. So Why Aren’t More Businesses Using It?",
+      "excerpt": "A big study by the US Census Bureau finds that only about 9 percent of firms employ tools like machine learning or voice recognition—for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f20b5f959ee66a80b965c8d/master/pass/ai-in-business.png",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-why-not-more-businesses-use/amp",
+      "publishedDateTime": "2020-07-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-artificial-intelligence-for-healthcare-insights-from-india.md",
+      "title": "Artificial Intelligence for Healthcare: Insights from India",
+      "excerpt": "This paper describes some of the main opportunities and challenges of using AI in healthcare. It then turns to a case study of the use of AI for healthcare purposes in India, discussing key applications, challenges and risks in this context.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chathamhouse.org/sites/default/files/styles/main_image_800x460/public/images/GettyImages-691077118.jpg?itok=8IV3dmDG",
+          "width": 800,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india?amp",
+      "cdnAmpWebUrl": "https://www-chathamhouse-org.cdn.ampproject.org/c/s/www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india?amp",
+      "publishedDateTime": "2020-07-30T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chatham House",
+        "domain": "chathamhouse.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-responsible-data-and-ai-in-the-time-of-pandemic-and-crisis.md",
       "title": "Responsible Data And AI In The Time Of Pandemic And Crisis",
       "excerpt": "With artificial intelligence (AI) being used in tracking COVID-19’s spread, there is a dire need for governments and organizations to put together new policies that enable responsible use of AI and data.",
@@ -99,49 +239,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-google-supercomputer-nvidia-gpus-break-ai-performance-records.md",
-      "title": "Google supercomputer, Nvidia GPUs break AI performance records",
-      "excerpt": "Google said it has built the worlds fastest machine learning (ML) training supercomputer that broke AI performance records in six out of eight industry-leading",
-      "sourceUrl": null,
-      "webUrl": "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mumbaimirror.indiatimes.com/thumb/77255488.cms?resizemode=4&width=400",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms",
-      "cdnAmpWebUrl": "https://mumbaimirror-indiatimes-com.cdn.ampproject.org/c/s/mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms",
-      "publishedDateTime": "2020-07-29T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     },
     {
@@ -632,7 +729,7 @@
       "webUrl": "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1104,97 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-china-is-the-first-surveillance-superpower.md",
-      "title": "China Is the First Surveillance Superpower",
-      "excerpt": "Xi’s pronouncements on AI have a sinister edge. Artificial intelligence has applications in nearly every human domain, from the instant translation of spoken language to early viral-outbreak detection. But Xi also wants to use AI’s awesome analytical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/KYuGtZFZ7v1t8Z0xCkj1QB6zF-M=/570x320/media/img/2020/07/WEL_Andersen_ChinaOpener/original.gif",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/614197/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/614197/",
-      "publishedDateTime": "2020-07-29T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-microsoft-azure-is-set-to-be-the-top-cloud-platform.md",
-      "title": "Microsoft Azure is set to be the top cloud platform",
-      "excerpt": "Microsoft signed new deals with PepsiCo and Mastercard to use Azure as their preferred cloud platform. Azure seems to be the top business choice right now.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/07/Microsoft-Azure-is-set-to-be-the-top-cloud-platform.jpg",
-          "width": 1856,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
-      "publishedDateTime": "2020-07-29T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

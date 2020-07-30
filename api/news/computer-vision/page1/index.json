@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-30-5-science-backed-ways-to-strengthen-your-brain.md",
+      "title": "5 Science-Backed Ways to Strengthen Your Brain",
+      "excerpt": "When it comes to recognizing trends and patterns, this can further break down into pattern and object recognition. The left hemisphere of your brain deals with object recognition, while the right deals with pattern recognition. Related: Can Binaural Beats ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/353747",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1595876013-GettyImages-1171307382.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/353747",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353747",
+      "publishedDateTime": "2020-07-30T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger.md",
       "title": "Nvidia and Google claim bragging rights in MLPerf benchmarks as AI computers get bigger and bigger",
       "excerpt": "Nvidia and Google each had something to crow about in the latest benchmarks of giant AI computers. Some AI startups, though, continue to avoid the MLPerf bake-off.",
@@ -9,7 +59,7 @@
       "webUrl": "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1382,56 +1432,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-amazon-google-microsoft-sued-over-photos-in-facial-recognition-database.md",
-      "title": "Amazon, Google, Microsoft sued over photos in facial recognition database",
-      "excerpt": "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
-      "publishedDateTime": "2020-07-15T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

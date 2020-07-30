@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-30-google-supercomputer-nvidia-gpus-break-ai-performance-records.md",
-      "title": "Google supercomputer, Nvidia GPUs break AI performance records",
-      "excerpt": "Google said it has built the worlds fastest machine learning (ML) training supercomputer that broke AI performance records in six out of eight industry-leading",
-      "sourceUrl": null,
-      "webUrl": "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mumbaimirror.indiatimes.com/thumb/77255488.cms?resizemode=4&width=400",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms",
-      "cdnAmpWebUrl": "https://mumbaimirror-indiatimes-com.cdn.ampproject.org/c/s/mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms",
-      "publishedDateTime": "2020-07-29T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
       "title": "NVIDIA AI Runs The Mlperf Table Again",
       "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
@@ -586,7 +543,7 @@
       "title": "Kunstmatige intelligentie DeepMind creëert zelf algoritmes",
       "excerpt": "Onderzoekers van DeepMind hebben een techniek ontdekt waarbij kunstmatige intelligentie (AI) zelf algoritmes kan genereren. Het bijzondere daarbij is dat het zelflerende algoritmes zijn ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techzine.nl/nieuws/data/444525/kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes/",
+      "webUrl": "https://www.techzine.nl/nieuws/devops/444525/kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -604,7 +561,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T03:12:00-07:00",
+      "publishedDateTime": "2020-07-22T02:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "techzine.nl",
@@ -1425,6 +1382,56 @@
         "Google AI",
         "AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials.md",
+      "title": "Learn PyTorch: The best free online courses and tutorials",
+      "excerpt": "Look no further than these excellent free resources to master the development of deep learning models using PyTorch",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/04/abstract-fire-rays-100152558-100264577-large.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": "Learn PyTorch: The best free online courses and tutorials",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
+      "publishedDateTime": "2020-07-06T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

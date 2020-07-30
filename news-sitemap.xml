@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.entrepreneur.com/article/353747</loc>
+    <lastmod>2020-07-30T04:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/ai-why-not-more-businesses-use/</loc>
+    <lastmod>2020-07-30T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india</loc>
+    <lastmod>2020-07-30T03:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/taarinikaurdang/2020/07/30/responsible-data-and-ai-in-the-time-of-pandemic-and-crisis/</loc>
     <lastmod>2020-07-29T23:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,12 +27,6 @@
   <url>
     <loc>https://www.infoworld.com/article/3567771/why-developers-should-use-graph-databases.html</loc>
     <lastmod>2020-07-29T23:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms</loc>
-    <lastmod>2020-07-29T22:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -453,6 +465,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/</loc>
     <lastmod>2020-07-27T09:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/gpu-market-latest-trends-and-new-technologies-research-forecast-to-2024-2020-07-27</loc>
+    <lastmod>2020-07-27T08:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1183,12 +1201,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techzine.nl/nieuws/data/444525/kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes/</loc>
-    <lastmod>2020-07-22T03:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.zdnet.com/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/</loc>
     <lastmod>2020-07-22T03:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1197,6 +1209,12 @@
   <url>
     <loc>https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition/</loc>
     <lastmod>2020-07-22T02:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techzine.nl/nieuws/devops/444525/kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes/</loc>
+    <lastmod>2020-07-22T02:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

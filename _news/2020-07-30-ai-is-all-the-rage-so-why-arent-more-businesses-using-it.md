@@ -1,0 +1,60 @@
+---
+category: news
+title: "AI Is All the Rage. So Why Aren’t More Businesses Using It?"
+excerpt: "A big study by the US Census Bureau finds that only about 9 percent of firms employ tools like machine learning or voice recognition—for now."
+publishedDateTime: 2020-07-30T11:00:00Z
+webUrl: "https://www.wired.com/story/ai-why-not-more-businesses-use/"
+ampWebUrl: "https://www.wired.com/story/ai-why-not-more-businesses-use/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-why-not-more-businesses-use/amp"
+type: article
+quality: 87
+heat: 107
+published: true
+
+provider:
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://media.wired.com/photos/5f20b5f959ee66a80b965c8d/master/pass/ai-in-business.png"
+    width: 2400
+    height: 1350
+    isCached: true
+
+related:
+  - title: "Using artificial intelligence to smell the roses"
+    excerpt: "A pair of researchers at the University of California, Riverside, has used machine learning to understand what a chemical smells like—a research breakthrough with potential applications in the food flavor and fragrance industries."
+    publishedDateTime: 2020-07-29T07:20:00Z
+    webUrl: "https://phys.org/news/2020-07-artificial-intelligence-roses.html"
+    ampWebUrl: "https://phys.org/news/2020-07-artificial-intelligence-roses.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-roses.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/7-usingartific.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Using artificial intelligence to smell the roses"
+    excerpt: "A pair of researchers has used machine learning to understand what a chemical smells like -- a research breakthrough with potential applications in the food flavor and fragrance industries."
+    publishedDateTime: 2020-07-28T22:59:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/07/200728182544.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+
+secured: "HYzU00b9CbXmHclRaUFXVCRVqwUkIRWfGr3NThu5GzcdecwBOjvWwz2/NgyyW3s5/ps6BINM0sKdvooFbHSa2mfU+r0YV/+UxPETpSLKk8l6Ycb61GwWccpC5h4OnOhqmYBUvPe4ZvF0bCi2U4Sxr61m9GetQBYktEJx0vlj/gyhM1OCph8hn661fKp/g4aUNsVJq10eebgTL9VlXoQWLdc5kvF2J10w3kO69aQrQp6TdmocnsJ2/b8+VAKSd/AaQs45wW8yysHpe7f/ztqxhPcEaF3btx33K8lgheq59krem10b5iYFpB37JTaELtLe8udiSO+mMKJ2bRodUPaFTQ==;C83gZklM3WrAAL2/IEJTXw=="
+---
+

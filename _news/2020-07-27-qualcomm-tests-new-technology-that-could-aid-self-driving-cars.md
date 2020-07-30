@@ -38,6 +38,20 @@ related:
         width: 555
         height: 370
         isCached: true
+  - title: "Why Self-Driving Cars Might Never Become A Commodity"
+    excerpt: "It’s no wonder that minimizing or preventing the chance of human (driving) errors is among the key value propositions for the introduction of autonomous (a.k.a. self-driving or driverless) vehicles. Test drives with autonomous vehicles (AVs) have been ..."
+    publishedDateTime: 2020-07-30T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/30/why-self-driving-cars-might-never-become-a-commodity/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
     excerpt: "With more than 40 companies actively investing in autonomous vehicle technology, it’s fair to say that most traditional car manufacturers – plus the odd tech heavyweight, like Google parent company Alphabet – are busy chasing the self-driving car dream."
     publishedDateTime: 2020-07-26T12:59:00Z

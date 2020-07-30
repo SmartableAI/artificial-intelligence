@@ -2,6 +2,38 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-24-three-horizons-of-longevity-innovation-sergey-young.md",
+      "title": "Three Horizons of Longevity Innovation- Sergey Young",
+      "excerpt": "The second horizon comprises artificial intelligence (AI) and precision therapies ... advances in precision therapies, such as gene therapy and editing, hold promise for treating a wide range of previously incurable diseases, such as cancer, heart disease ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ameinfo.com/industry/healthcare/three-horizons-of-longevity-innovation-sergey-young",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AMEinfo.com",
+        "domain": "ameinfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
       "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
       "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",

@@ -1,48 +1,28 @@
 ---
 category: news
 title: "Google supercomputer, Nvidia GPUs break AI performance records"
-excerpt: "Google said it has built the worlds fastest machine learning (ML) training supercomputer that broke AI performance records in six out of eight industry-leading"
-publishedDateTime: 2020-07-30T05:45:00Z
-webUrl: "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms"
-ampWebUrl: "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms"
-cdnAmpWebUrl: "https://mumbaimirror-indiatimes-com.cdn.ampproject.org/c/s/mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms"
+excerpt: "Graphics giant Nvidia said it also delivered the world's fastest Artificial Intelligence (AI) training performance among commercially available chips, a feat that will help big enterprises tackle the most complex challenges in AI, data science and ..."
+publishedDateTime: 2020-07-30T10:30:00Z
+webUrl: "https://www.tribuneindia.com/news/schools/google-supercomputer-nvidia-gpus-break-ai-performance-records-119939"
 type: article
-quality: 78
-heat: 88
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
-  - Google AI
-  - AI
   - AI Hardware
-  - Microsoft AI
+  - AI
 
 images:
-  - url: "https://mumbaimirror.indiatimes.com/thumb/77255488.cms?resizemode=4&width=400"
-    width: 400
-    height: 300
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/7/2020_7$largeimg_552160458.jpg"
+    width: 800
+    height: 532
     isCached: true
 
-related:
-  - title: "Nvidia sets 16 new performance records in latest MLPerf AI benchmarks"
-    excerpt: "For example, the A100 chip and the DGX SuperPOD system achieved the best performance in the new recommendation systems test, which is an increasingly popular workload for AI systems. Nvidia’s ..."
-    publishedDateTime: 2020-07-29T17:05:00Z
-    webUrl: "https://siliconangle.com/2020/07/29/nvidia-sets-16-new-performance-records-latest-mlperf-ai-benchmarks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/NVIDIA-DGX-SuperPOD.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-
-secured: "/al4gtsl/67bhqT4lvEOmDiAiCmaAqSy+OPU25hnc6P4APBmv/512V6u+wBb9yR1Ts/lsVf4COoY5teZE70o//jLdQPkKe0Kcfd+ZhePcOk9Sp7Bg3MeYDlFR/4Q0e+zhRy+cvVRoqE2uukV3OhdY7J0Jn5rQpoUg74ge8lX0N5zcf2OqyZGpyHp77cIF/A1mXBAA1E9msbRif4ATbWz/oICkdetjiix1SWQOIJiPtN+ygj3+UsHH/tjb/w5ydcMCkpf2gvvtcfUbcm7+S5Q/narCtW2TYU4JQqCZtEVKjnJE6GJMKu2/FDJCYW4tdxbGjFYPDLTEMGwWGbQ3v7KhQ==;HrSXb6uxQjXlAAckAfv42A=="
+secured: "y3Q6SJBVWx6LY9R7YBMFbqIokcEjxRK2jdAb2FircYMwfPixHLynjcZZXwUBSU1A9SY+2DXgn/TTBD+dmgbI4k7P9cNSuN7PAGJlWQSi47RFDpZZfCIVfEPTvDts/0JDal7k4RPTwDQzZzRVUeg1ml9pSAVGzYr2LAkv/DpAvynjLOqRb0HpPhHm/1X+Gpp3zay70MlrWw28wsmTj4L4KQfp9xd4CzrEGO/7mLHn6axPSsj+Q/dFGNtiv08xnB799Farzqqf1IYqhpLviujgfgHp8o64Q/9pXodY+reTf/8fXpVxGi0M8jbT+ZIQ7p0B1NQK3PW2abKYRo/Stdousg==;nfQQ997D0dxXtIB1y0GIMw=="
 ---
 
