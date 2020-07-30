@@ -5,6 +5,9 @@ excerpt: "You thought the worst was over when spring semester from home finally 
 publishedDateTime: 2020-07-29T22:43:00Z
 webUrl: "https://www.usatoday.com/story/life/2020/07/29/coronavirus-online-school-how-help-kids-do-well-virtual-classes/5517104002/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: USA Today

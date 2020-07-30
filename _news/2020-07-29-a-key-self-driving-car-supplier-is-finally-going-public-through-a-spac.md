@@ -5,6 +5,9 @@ excerpt: "Special purpose acquisition company (SPAC) Graf Industrial Corp. (NYSE
 publishedDateTime: 2020-07-29T13:01:00Z
 webUrl: "https://www.fool.com/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Motley Fool

@@ -2,21 +2,29 @@
 category: news
 title: "How the Coronavirus Pandemic Is Breaking Artificial Intelligence and How to Fix It"
 excerpt: "As covid-19 disrupted the world in March, online retail giant Amazon struggled to respond to the sudden shift caused by the pandemic. Household items like bottled water and toilet paper, which never ran out of stock,"
-publishedDateTime: 2020-07-29T20:50:00Z
-webUrl: "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143"
+publishedDateTime: 2020-07-29T22:10:00Z
+webUrl: "https://www.gizmodo.com.au/2020/07/how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it/"
+ampWebUrl: "https://www.gizmodo.com.au/2020/07/how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it/amp/"
 type: article
+quality: 53
+heat: 53
+published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
+  - IBM AI
   - AI
 
-secured: "3jxhJxzF1SJxFpeqyuyt171J9Z2nIFlzyRrPTpDvtC2L11ayaCjjOSCuWcw6xhHP9f7r4z++M6lXNqhNRkYlO4LH2+xw0qyHpGworS7zREv1uZUHWB14wdJUTXlPSig8n7OXO/7d4gllCIozbPX1r49izBvyTqni9+HjnqBuUBB6w7895xdMFFVNsXAhYJ9EYwmAHD3WRSil7psJNJ/FP9Fw8dOue1ObpLoD2Am5HHXskDnTg7GMVpPclX7wz8KQ11hwOIAkdABiHu4x/ZVBp4QkBCcSESbouFTMkwghkndZBxy5gJtlp+Pc2FFPCTrOOmRus5I0Wc1tv/CVbW0x5A==;k9f1EOOw4I6ZIO9APGV6Eg=="
+images:
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/facialrecognition.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "J4SVXDTDSkzsqlMOaWO3b7fminw1iUxmUIlF04UaicO/q6zE8kF0jbRhOTtitK64yAiAblkeTcYYGppmDKnz42f4X5Jy3F2hJ3+j4Qx7Gg5xTB4BIc7fVhz0zsL/zZ7T8HgtIXcPTgwIA0adE2E30XJX9scJ6lwjvtJ5K0H/n1ubjRfiXhz8mB73QqqAzUfWCHR0S+OX3zqLjSi/VKWH6EgI6VRnpGtuaR4W8R2jk/4Zy8cHGBkZXWTxCgQw/EBW+7KG6FrYoOCa0NioI7h+QW7SJ32iID++mvedIlPd5xJ8hDMoXwpxV974EmFUjf9VUzviZUQ2y9ayUsXig6IW7Q==;Ck96laxiCq/90HRWTxpKjw=="
 ---
 

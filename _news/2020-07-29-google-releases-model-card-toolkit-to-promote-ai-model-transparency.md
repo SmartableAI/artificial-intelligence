@@ -5,6 +5,9 @@ excerpt: "Google's Model Card Toolkit aims to promote AI system transparency by 
 publishedDateTime: 2020-07-29T23:01:00Z
 webUrl: "https://venturebeat.com/2020/07/29/google-releases-model-card-toolkit-to-promote-ai-model-transparency/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

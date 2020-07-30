@@ -7,8 +7,8 @@ webUrl: "https://www.nextplatform.com/2020/07/29/software-has-to-lead-hardware-i
 ampWebUrl: "https://www.nextplatform.com/2020/07/29/software-has-to-lead-hardware-in-the-ai-dance/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/07/29/software-has-to-lead-hardware-in-the-ai-dance/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

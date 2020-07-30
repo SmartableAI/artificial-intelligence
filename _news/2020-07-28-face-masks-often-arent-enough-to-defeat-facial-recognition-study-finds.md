@@ -93,9 +93,9 @@ related:
   - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
     excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
     publishedDateTime: 2020-07-27T22:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018612"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018612"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018612"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
     type: article
     provider:
       name: ABC
@@ -141,13 +141,13 @@ related:
   - title: "Face masks are messing up facial recognition software"
     excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
     publishedDateTime: 2020-07-29T17:35:00Z
-    webUrl: "https://www.kcra.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    ampWebUrl: "https://www.kcra.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
+      name: WMUR9
+      domain: wmur.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1586368270.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"

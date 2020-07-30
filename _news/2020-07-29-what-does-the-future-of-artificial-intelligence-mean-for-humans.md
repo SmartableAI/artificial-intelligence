@@ -5,6 +5,9 @@ excerpt: "The first question many people ask about artificial intelligence (AI) 
 publishedDateTime: 2020-07-29T22:17:00Z
 webUrl: "https://scienceblog.com/517657/what-does-the-future-of-artificial-intelligence-mean-for-humans/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: ScienceBlog

@@ -23,6 +23,17 @@ images:
     isCached: true
 
 related:
+  - title: "Global Reinforcement Learning Market Research Report 2020"
+    excerpt: "The \"Towards Being Truly Intelligent: Next Wave of AI Technologies (Wave 2 - Reinforcement Learning)\" report has"
+    publishedDateTime: 2020-07-29T09:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16822946/global-reinforcement-learning-market-research-report-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16822946"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822946"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
     publishedDateTime: 2020-07-27T09:13:00Z

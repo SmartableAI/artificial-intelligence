@@ -20,47 +20,31 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Accounting Market Research Report"
-    excerpt: "An informative data report titled Artificial Intelligence in Accounting Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients"
-    publishedDateTime: 2020-07-25T05:28:00Z
-    webUrl: "https://www.openpr.com/news/2096670/artificial-intelligence-in-accounting-market-research-report"
-    ampWebUrl: "https://www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report"
+  - title: "Automating Multicloud Management Using AI, 2020 Report"
+    excerpt: "The \"Automating Multicloud Management Using AI\" report has been added to ResearchAndMarkets.com's offering. Increased adoption of multicloud"
+    publishedDateTime: 2020-07-27T21:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/automating-multicloud-management-using-ai-2020-report-301100426.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
     images:
-      - url: "https://cdn.openpr.com/T/7/T725964590_g.jpg"
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
         width: 800
-        height: 452
+        height: 419
         isCached: true
-  - title: "The Computer Vision Industry In India Is Sized At $2.46 Bn: Report By AIMResearch"
-    excerpt: "According to a recent research report by AIMResearch, the Indian Computer Vision market is valued at $2.46 Bn as of July 2020. The report titled, State of Computer Vision in India – 2020, takes a deep dive into the computer vision market as it emerges as a priority Data Science technology across Enterprises and"
-    publishedDateTime: 2020-07-27T10:57:00Z
-    webUrl: "https://analyticsindiamag.com/the-computer-vision-industry-in-india-is-sized-at-2-46-bn-report-by-aimresearch/"
+  - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
+    publishedDateTime: 2020-07-27T09:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16783818/2020-insights-into-manufacturing-analytics-featuring-seeq-sensrtrx-sight-machine-among-others-rese"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16783818"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16783818"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 49
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/Brochure-Banner.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "From lab to market: over €8 million to exploit research results"
-    excerpt: "The Commission announced 0n 28 July that 55 researchers have been awarded €150,000 each in European Research Council ‘Proof of Concept’ grants, to explore the commercial or societal potential of their research results."
-    publishedDateTime: 2020-07-29T05:40:00Z
-    webUrl: "https://www.eureporter.co/frontpage/2020/07/29/from-lab-to-market-over-e8-million-to-exploit-research-results/"
-    ampWebUrl: "https://www.eureporter.co/frontpage/2020/07/29/from-lab-to-market-over-e8-million-to-exploit-research-results/amp/"
-    cdnAmpWebUrl: "https://www-eureporter-co.cdn.ampproject.org/c/s/www.eureporter.co/frontpage/2020/07/29/from-lab-to-market-over-e8-million-to-exploit-research-results/amp/"
-    type: article
-    provider:
-      name: eureporter.co
-      domain: eureporter.co
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "qw2PUm3WNQUJE6KO53fzYAXjJ15O36D5ekWzFqysdql+jWDAVH5glw4+kMhvn8vQPPX6/fLHOhTpVrsL1L0bJzwi8qKXpa/91HWd2jW19iF9T0SeO+IFaRMHprLXsT+f6QK2lGvuuBneF/GbSoXVBys0zYVTNCYaaFj9gWxg8z4YFtkVu0/ROOJGp0Pr+0qjN+I+uLpbqURe51SpWK2CkK5CjXGSphO2PLVU3rtWccOS9/eN3HU909tM4wLxxW92pDskcexuSgb5ICNdGNuCZe2YPktWWjsU46zQozjed8j7yvZiKmvx9TYD4j5R/Xm51augErl35Yw6DEw8Ij3FhOEuSrxI3naznVW3bnSpBqiRcKS1ecF2cuXmGUQjj39l4guOtwF7g4z/HQtX2WPgmNBPjSyEp/kq8Lu/s/S/W2n1HID6wgsnldToo0+YurYKP4NVNNbXb6eenBDZhawsWjebokTZhs533f2FhiOPRnXs9sYQPoZS9fKm1Rd1dJn+4NsMTH8HhL7KQCUyL0vShg==;elXWOujwW1QwiA9mzOeGYQ=="
 ---

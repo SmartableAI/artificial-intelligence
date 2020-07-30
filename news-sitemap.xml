@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/optimizing-your-engagement-marketing-with-personalized-recommendations-using-amazon-personalize-and-braze/</loc>
+    <lastmod>2020-07-29T17:26:57-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate/</loc>
     <lastmod>2020-07-29T13:57:38-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -57,12 +63,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/</loc>
     <lastmod>2020-07-29T09:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143</loc>
-    <lastmod>2020-07-29T09:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2725,6 +2725,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-9070060</loc>
+    <lastmod>2020-07-14T14:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/</loc>
     <lastmod>2020-07-14T14:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2739,12 +2745,6 @@
   <url>
     <loc>https://www.zdnet.com/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/</loc>
     <lastmod>2020-07-14T13:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-</loc>
-    <lastmod>2020-07-14T12:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

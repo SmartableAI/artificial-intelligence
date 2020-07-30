@@ -3,17 +3,17 @@ category: news
 title: "Face masks are messing up facial recognition software"
 excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
 publishedDateTime: 2020-07-29T17:35:00Z
-webUrl: "https://www.kcra.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-ampWebUrl: "https://www.kcra.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KCRA
-  domain: kcra.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Computer Vision
@@ -109,9 +109,9 @@ related:
   - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
     excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
     publishedDateTime: 2020-07-27T22:02:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018612"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018612"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018612"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
     type: article
     provider:
       name: ABC
@@ -247,6 +247,6 @@ related:
       domain: medindia.net
     quality: 12
 
-secured: "eI+No+8Nlzwhx/0oZtK+9BKVfTNFALn3AwiF3izmfqdM+4dsipnDHeHKtGa00aUd4nTcpyFmEXFCzcj9Ddfo0wKz7NoA29KRxT4//qFsQwAX/7/fS/dEVifx1WwQbZQ/7Luxx0S0WvdtwjeXd3K2pwCnH2MFT4lHWDzznJjfcAk7Pz6PH1bg+0HorIdLHSBAQA3PxFyBXow/1C1p6AoEbnr0o9MN1e7DIJahVKTHogcNn8giHewWUMvJy7gbHD2VOSgWYMGx8xmdAIrQoptwUwlsiVprV3H5+YmEGARqnJLzGH+vI+xu9omxbZ6JE2cC7AW38MIUX0w+klt9JQnTKFOeHYvagWBIvf/c5a4mj8d6Pg6zso1GeZEvvu2enQKkVWHRF69wFUuzyfqZL3Vrk+ZxOM9pA0Z56qE58HN2Z6ZTcxfhD4cKlpbQqwmlxgOa//hHfttx4Zpuuaa0Zz+Uw6Yj/j8DPp9srNmf/sV1JddZna1Ug62q2KCmaXLosY08CcpRcpx0AaEzNQfYst5+XA==;2WMj4KwhViHK/S1jARERPA=="
+secured: "4ySOCvPXVBIqjx0a/8b8VdT2SUeGXesZLSDHdDUluXDr/z6eHo+Z6vLelR/kle5jYx0heZ+jjw6ES99u7dYh9eIOoZr+pv/e7PUJI67w7eE63zNczjVryEmEyDREuEYx1wZtFsXCd0qBDmFm+L7ZibSDQXDVJRMZHiKTDRMA8Ta/cUa0reejfYJgRU0erHT4DwaXwySL2WB9p3mEZvPGS6g5cHjlnquTZGqCv5eJpnO5qsb4AQlhp1YKLoCX8j49Aw1Z4Dr8orBKisyOQBmgbigDxVzhZMFOv4yA+AOfpXxWU8az7Ty1Hq2/F8MeMWkGDT94NTe8WaVHT39Qh0p4sA==;owtin9fjEiwej+6yEq/RAw=="
 ---
 

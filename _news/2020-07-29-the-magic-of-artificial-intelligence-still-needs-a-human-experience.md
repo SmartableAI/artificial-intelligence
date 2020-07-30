@@ -5,6 +5,9 @@ excerpt: "If, like me, you were a kid of the last century, you may have received
 publishedDateTime: 2020-07-29T23:20:00Z
 webUrl: "https://www.linkedin.com/pulse/magic-artificial-intelligence-still-needs-human-paul-loberman"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: LinkedIn

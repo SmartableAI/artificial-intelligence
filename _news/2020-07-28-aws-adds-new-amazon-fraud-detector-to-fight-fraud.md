@@ -45,19 +45,14 @@ related:
         height: 630
         isCached: true
   - title: "AWS Announces General Availability of Amazon Fraud Detector"
-    excerpt: "Amazon Fraud Detector helps businesses identify online identity and payment fraud in real time using machine learning, based on the same technology developed for Amazon.com."
-    publishedDateTime: 2020-07-28T18:36:00Z
-    webUrl: "https://www.darkreading.com/cloud/aws-announces-general-availability-of-amazon-fraud-detector/d/d-id/1338466"
+    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
+    publishedDateTime: 2020-07-28T17:28:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "GxzCXHN+0plFH4KzZGRqp9OzYmqvCkGwmwbSVUNLUgw5lqf9f43uS/oGj0PT1CpXpWwbx3GcFXsMQIt2M+U9JTZNwBWGwfKAeQGVdsk6h4GxnSuWBrxP7F43GTarGgB3OHM8yOxj7V/te0rfHEnTdT3W5eF8DmCqn68BPkPKZGqLvqaJtI/C/2fDp9mMkCOUXFfs1/7KxZ28ym/iDV6fboMOIhTCH7dPGn8wdMuSUFkaXW3NFvQX/OE+h3T2OvGjyczYiRwIA0YvWx9vqyE/Xt7WlNnx5a42IO+tmOInZ+V+MvWWqlMNTebX3N29QK1bfMXHwegBE8SGLy19VAXMCi+Lc8bGjKtaeFOI7/miLtZsvrhFT2QZKz5/Mhd0XvQIYpaijoVnVXhozRbjSu16o2o5ECVTSO2Oml7+gKGzuBUdZ4dVsnLfl/Rc1q/nTdcXzIZ0fjh2TSYB2XdNOG+xD1itJIBbilr0X83PM3wXYd9p8sMYX6zD87L2yvnxpumk;VV5mDZ8TqVueFWFGyRmeyA=="
 ---

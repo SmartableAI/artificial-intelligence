@@ -5,6 +5,9 @@ excerpt: "VOLUNTEERS at a vital Cumbrian service targeted towards the elderly ha
 publishedDateTime: 2020-07-29T16:41:00Z
 webUrl: "https://www.nwemail.co.uk/news/18615346.royal-recognition-barrows-age-uk-volunteers/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Mail

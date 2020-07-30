@@ -5,6 +5,9 @@ excerpt: "D.A. Davidson & Co. announced today that it has served as exclusive fi
 publishedDateTime: 2020-07-29T20:42:00Z
 webUrl: "https://www.businesswire.com/news/home/20200729006018/en/D.A.-Davidson-Serves-Exclusive-Financial-Advisor-Cforia"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Business Wire

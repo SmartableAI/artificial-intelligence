@@ -5,6 +5,9 @@ excerpt: "MLPerf.org released its third round of training benchmark (v0.7) resul
 publishedDateTime: 2020-07-29T22:27:00Z
 webUrl: "https://www.hpcwire.com/2020/07/29/nvidia-dominates-latest-mlperf-training-benchmark-results/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: HPCwire

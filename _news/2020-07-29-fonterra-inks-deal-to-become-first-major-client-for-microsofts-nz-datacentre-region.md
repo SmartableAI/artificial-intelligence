@@ -5,6 +5,9 @@ excerpt: "Dairy giant Fonterra will become the first major user of​ ​Microso
 publishedDateTime: 2020-07-29T23:27:00Z
 webUrl: "https://www.reseller.co.nz/article/681754/fonterra-inks-deal-become-first-major-client-microsoft-nz-datacentre-region/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Reseller News
