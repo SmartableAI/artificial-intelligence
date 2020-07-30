@@ -7,8 +7,8 @@ webUrl: "https://diginomica.com/artificial-general-intelligence-not-resemble-hum
 ampWebUrl: "https://diginomica.com/artificial-general-intelligence-not-resemble-human?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/artificial-general-intelligence-not-resemble-human?amp"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2018-01/Fotolia-ktsdesign-112175279_Sub_370px.jpg"

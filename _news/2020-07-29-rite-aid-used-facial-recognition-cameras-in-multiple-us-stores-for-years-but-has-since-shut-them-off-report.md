@@ -143,6 +143,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "'Not a black-and-white issue:' Legal, business implications of facial recognition tech"
+    excerpt: "Age: 36 Residence: Melrose Education: B.A. in government from Colby College (2006) and a J.D. from the University of Virginia School of Law (2011) Facial recognition technology has become controversial in Massachusetts, as a handful of local municipalities ..."
+    publishedDateTime: 2020-07-30T14:15:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/07/30/troy-lieberman-q-a.html"
+    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/07/30/troy-lieberman-q-a.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/07/30/troy-lieberman-q-a.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
 
 secured: "wHSMc8PPo36uqwB6TiVwmMtElgDdPX6sMUVX/+qHjfIPNp6mAjq/axKrw8d4Aj4HKWbhzUZDKioowlI1xh6tJ5qrmlKoodpUvm1kZ5iyxed9v/E7bW8MKk6H+CTVwHkuqRVyT2L2o2FA8PCsu6gyGapWVcclzqu69fXEW+bxtJtP1RVbZmvZjTJMRXAnOVr2olO/9ICZ0A0ONacAlcBBxu6Ibac6nznDZHk16hYHIHeRMuEWVGzL1rYLH3aGxteELwkV6aMJLS6r5LvBkWzdYpCqQx/SXl5K9rL/stO0/zauEcwbJnUpUfySAemMAqwjLkWUEbRerCmp4nbqp23PfA==;1BNsYpokU0SPTteC2ulEWA=="
 ---

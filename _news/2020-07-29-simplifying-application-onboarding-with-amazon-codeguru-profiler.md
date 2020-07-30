@@ -42,6 +42,20 @@ related:
         width: 1260
         height: 563
         isCached: true
+  - title: "Transforming education with Amazon Alexa’s voice technology"
+    excerpt: "“It gives us that buffer to experiment. We want to experiment with other AWS services, such as [computer vision platform] Rekognition and [machine learning platform] SageMaker,” he said. “We're a small start-up, we have to manage our budgets ..."
+    publishedDateTime: 2020-07-30T14:26:00Z
+    webUrl: "https://www.timeshighereducation.com/hub/amazon-web-services/p/transforming-education-amazon-alexas-voice-technology"
+    type: article
+    provider:
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 24
+    images:
+      - url: "https://www.timeshighereducation.com/sites/default/files/caroline-wright-besa-aws-edtech-skills-challenge-emea-2020.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "fAhpp+T3/UYB98PCR0LvNlUtqGmEC28HFbkCA+3guMM/+1akjfeskypZnccbIcDiu9wb1sOP4j1J/pIHPxrCBF/WeFTT6sycIGaepZDiwrcg3uObvUF80KiDUyUxXEAXyU42SgUOmgdLRuHHjwH+lQuQPwh5NsBMIrNjiUlc2UBNLiFpbY1Q/NSqYrERo3L61Zf2O7qRHqSXuDXdAoMCt11P0Ptm0djDgN6ZxxbWEGbzWCyQm9Cym5w22L0geP5XZ/bCvuB3dulObBnhscTgpwftzeVWzxetWMe3Nby9aw/IdLAPKLXeS2ecoUn4inw8p2ZQ9EjcOA4BE4q4AN3i4A==;8zk18Ycl0mlbsXVhxvfz/A=="
 ---

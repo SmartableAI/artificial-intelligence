@@ -2,6 +2,79 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-07-02-deep-learning-processor-ip-listing.md",
+      "title": "Deep learning processor IP Listing",
+      "excerpt": "Like the DV 700, the DV 500 is based ... Efficient and Versatile Computer Vision, Image, Voice, Natural Language, Neural Network Processor VIP9000 supports all popular deep learning frameworks (TensorFlow, Pytorch, TensorFlow Lite, ... The CEVA-XM4 imaging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/sip/?q=deep+learning+processor",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-non-contact-imaging-of-peripheral-hemodynamics-during-cognitive-and-psychological-stressors.md",
+      "title": "Non-contact imaging of peripheral hemodynamics during cognitive and psychological stressors",
+      "excerpt": "In this paper, we present: (1) experiments using three different stimuli to elicit cognitive and psychological stress, (2) analyses and meta-analyses of remotely measured imaging-based measures of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-020-67647-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-67647-6/MediaObjects/41598_2020_67647_Fig1_HTML.png",
+          "width": 548,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard.md",
       "title": "Self-Driving RC Cars With TensorFlow; Raspberry Pi Or MacBook Onboard",
       "excerpt": "These two sources are fed into a neural network using TensorFlow. You train the system by driving the vehicle manually through the course a few times and then let it drive itself. In the video ...",
@@ -1299,80 +1372,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications.md",
-      "title": "Dynics announces AI-enabled vision system powered by NVIDIA T4 Tensor Core GPU to improve and automate 3D vision applications",
-      "excerpt": "AI technology is allowing manufacturers to increase efficiency ... The XiT4 is powered by an NVIDIA T4 Tensor Core GPU, which features 320 NVIDIA Turing™ Tensor Cores and 2,560 NVIDIA CUDA® cores for critical processes that can benefit from processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications-9027172",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other",
-      "sourceUrl": null,
-      "webUrl": "https://www.eejournal.com/industry_news/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Engineering Journal",
-        "domain": "eejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

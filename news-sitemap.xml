@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/</loc>
+    <lastmod>2020-07-30T07:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records</loc>
+    <lastmod>2020-07-30T06:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/airport-robots-market-technology-growth-developments-and-scope-2020-2020-07-30</loc>
     <lastmod>2020-07-30T05:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -141,12 +153,6 @@
   <url>
     <loc>https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/</loc>
     <lastmod>2020-07-29T06:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fool.com/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx</loc>
-    <lastmod>2020-07-29T06:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1483,6 +1489,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/PR.com/dcbe5881f881e89a405cde1e828cb685</loc>
+    <lastmod>2020-07-21T01:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.morningstar.com/news/dow-jones/202007211155/falling-tech-spending-hurts-ibm-wsj</loc>
     <lastmod>2020-07-20T23:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2203,6 +2215,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://mashable.com/article/google-ai-ancient-translations-fabricius/</loc>
+    <lastmod>2020-07-16T11:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/</loc>
     <lastmod>2020-07-16T10:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2259,12 +2277,6 @@
   <url>
     <loc>https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/</loc>
     <lastmod>2020-07-16T08:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.entrepreneur.com/article/353390</loc>
-    <lastmod>2020-07-16T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
