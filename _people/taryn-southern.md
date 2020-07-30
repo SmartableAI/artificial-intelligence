@@ -10,7 +10,7 @@ website: https://www.tarynsouthern.com/
 twitter:
   username: TarynSouthern
   url: https://twitter.com/TarynSouthern
-  followers: 68352
+  followers: 68353
 
 linkedin:
   url: https://www.linkedin.com/in/tarynsouthern/
