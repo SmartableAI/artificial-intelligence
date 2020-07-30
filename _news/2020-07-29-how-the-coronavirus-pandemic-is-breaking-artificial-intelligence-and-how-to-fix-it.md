@@ -2,32 +2,28 @@
 category: news
 title: "How the Coronavirus Pandemic Is Breaking Artificial Intelligence and How to Fix It"
 excerpt: "As covid-19 disrupted the world in March, online retail giant Amazon struggled to respond to the sudden shift caused by the pandemic. Household items like bottled water and toilet paper, which never ran out of stock,"
-publishedDateTime: 2020-07-29T20:50:00Z
-webUrl: "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143"
-ampWebUrl: "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp"
+publishedDateTime: 2020-07-29T22:10:00Z
+webUrl: "https://www.gizmodo.com.au/2020/07/how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it/"
+ampWebUrl: "https://www.gizmodo.com.au/2020/07/how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it/amp/"
 type: article
-quality: 81
-heat: 81
-published: true
+quality: 51
+heat: 51
+published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cfvktbl8kf8ysccapvky.jpg"
-    width: 800
-    height: 450
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/facialrecognition.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "othPS4R2XN7UhqYUgCU+jcoZ83aw7hB0bBjjkBVmW6bVo+92ugFyWWyf25PARw7xiafpg481KnPc4ED3SW3dVjk2WmfnJ78EuAw0ehSVXExNdDcAOXD2Cufz5CVRDfpK8skb4FGy1T5cS/cA5cSa+/1EX+NiGbED/Osz5U1m72FfeUpVC/EMSx5+7H/to+Z3SzLkxbhNTdJjiL2XgisSJ2ruiyYrKbj1c42qKljmu5PGSEgGXqDs/IAw5Kdp5N90BQQrJXy7o+VdlvUzRRATrtWwVKylPDwuJR5b5JRtXC8mB5g1q7gIrOJWAdR/ooM5dnh/BFhMdU5PXmquMIF7Sg==;kD6wI5z4XqpsgRocInypDg=="
+secured: "TpbuJSmgx9lF/7c7XHw1OxzEccQqpU1LqgDFd1Oy9gX7EQ4tR54ctxkWDisE8iCXX9cXiwW3kp+k/u3NYi9RT830PQ+kdATLkd/p+YNAVQvcEjxm2DuI3znau/riRJnzI9+ddEehvGIlgo6XcA7tf7f1WDAz0qgHa3Hi/vcPKBXeL+mUCkZesFNoxPHYmZQalwA0zIasaETJp+rWsd8a3CY3J5ehrQmh6qQ2+zVGPkXfmFz96OGvPBK75R0r8ss9oaRA+aXgIU7UehQAwuZzO+BGE6P6X/Qw4BcuTFy5iX5fKWdSjU143s9curWzRZGsoj7vMjTEbfA/dLdlLp9SYA==;icBVZXnejVWZBRm+lky+cA=="
 ---
 
