@@ -1,9 +1,9 @@
 ---
 category: news
 title: "ERC Proof of Concept: Artificial intelligence for flexible robots"
-excerpt: "Programming a robot to solve just one complex motor task has remained a challenging, costly and time-consuming task - artificial intelligence is rarely employed. In fact, manual programming has become the key bottleneck in robot use. Empowering robots with ..."
-publishedDateTime: 2020-07-28T14:59:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-07/tud-epo072820.php"
+excerpt: "Programming a robot to solve just one complex motor task has remained a challenging, costly and time-consuming task - artificial intelligence is rarely employed. In fact, manual programming has ..."
+publishedDateTime: 2020-07-28T00:00:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-07/tud-epo072820.php"
 type: article
 quality: 54
 heat: 54
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "XXjI39/8UVo9S0y0CvjAvPr6gTt2bRh1GgfOVfnbS9EvPxtCSbqHOAX9YIDwQAr2/LNiRrAE4RMrC7ZHXhDqWuoo53R3ksDD1mC9qdE5cRGxtrzfoRHjmZucSac60lCAjpSrPAbUIghFerjK08EVBwgB5dRc+cjI/Wj4w0vlLvnUvXLKTQIbBEBJiP2Aqp3H4HgAmVaTnNUrKhkyMLi1iwpeuAmN6nsRiPlv4xB09EP0IyGOxdpKPy1nS3I+VDc2ioc+5Q8bF7zcSr19ItSOLmn0oZ5zLpipxe0Y0tGItXZGO+o3XP1BiRiMszwhmTisYtoF7fAEuwkQHePWH8mefw==;jHGWxXMK5tWQVbhCLBxDXg=="
+secured: "Vn4Rs5He3v51uRHj2JenRvSEpppN1WGNLSPm3OQ9EDhPESPth38x1pSiGZ57iRNraPYXGMk28Reo/XWH7wraQu/Xoajb/WbVNegoyQDHGaSNwkf607GUCKFJ3MPUr849Z+Rf1YQS3vTC7wGBSrqzWJP1Mn4kEwTi1CiBfd/Ffci/sQpguJBre6ICWaLotqCZBxc9ZFJrIVK1BDrVSvggh7ycJOzbwE/ullcS+XFBKNHFrQ3uzD6cLFI4kvvs43J+sNosl75aJjjvyJTqJjouuuw0tFxp7YE9rYX6nK2L5QAabsObgRU0TpXyZdH+yjvF3OVwZNzYbNdMeZseywYyqg==;lTuafewkuTlEQk9UIoX7ww=="
 ---
 

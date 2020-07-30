@@ -2,8 +2,8 @@
 category: news
 title: "Buildots raises $16 million as it brings AI computer vision to construction management"
 excerpt: "Thanks to the latest advancements in the fields of AI and computer vision, we've been able to bring modern systems that are ubiquitous in other industries, to construction.\" The Automated Process Management solution created by Buildots compares the ..."
-publishedDateTime: 2020-07-30T12:09:00Z
-webUrl: "https://www.prnewswire.com/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
+publishedDateTime: 2020-07-30T12:22:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
 type: article
 quality: 46
 heat: -1
@@ -73,6 +73,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ZETfdNXJHY4ng+32cdOALpPgItlyZ2SzKEZBjvXyR/LcCWpryLfQUdRPplRYHYB63M6BIoLM+R9dvwy78rSEchXVVouV0s4hxG8E0RFq46zKdY3nZDcWoS3kP9QNzjDrFTxp3IRrxAFs6X4qgShddLGmtECszYvSjB17BcRqXUFWw4yiF7nIz4xTjhXH1FHupUD+Zkb9Fd3Ye8U5Q3hc5/ZzJT4H5/yqZ5/l60bCl5+QpR4djd5+fjAjFj8QVNyDj9MF5COX5F5aumFwQCfZP4T3h93fbonlIKT/6qTKIchfbaxL9BzxBIjaquNWh7Pn4jMz6m4+wqDxmg9JyVb+iw==;/M0TV0IZm+TW0+e9KxhuXg=="
+secured: "ERDvItCjB2RNnopstj49h8M6ce4fnEgfTbBODiHH9ZkXzJ8QLr2PcWM4RQ6fIPfH7t/2BybX/kF0CuZxTRLlzr56m4KZXhrgxut8aOn7tfZDRuUwn3vXy0+ukzxGKQOPznfvslKjOEXQ8HgAhUCQ7vLM/3Ag8zk/gZBmBZG3DnJ5BTDVMczmOSdNytZtf3GWq1p7J1iwL48VSQlABsJ5ftbWre7TuVyBcEXDp2rEUGjtJgI5hizcIAxHcfZjWpvEyvfYDAE3KsmUVSHH63tI9lTllqzrr8DVFxf9Ls94+n1Vqg57wAZLXUwVttrYNteayio9WUa1E4SRZFureYTAtQ==;xnVBOzIienMiJkvGd3VkSQ=="
 ---
 

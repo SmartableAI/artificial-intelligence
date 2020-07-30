@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fig
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,14 +45,33 @@ related:
         height: 630
         isCached: true
   - title: "AWS Announces General Availability of Amazon Fraud Detector"
-    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-    publishedDateTime: 2020-07-28T17:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
+    excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
+    publishedDateTime: 2020-07-28T16:55:00Z
+    webUrl: "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-fraud-detector/article_ef06fbbc-cf29-5720-ad2e-89629c63b3cf.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Amazon Fraud Detector: Use machine learning in the fight against online fraud"
+    excerpt: "Amazon Fraud Detector is a fully managed service that makes it easy to quickly identify potentially fraudulent online activities like online payment and identity fraud. Using machine learning ..."
+    publishedDateTime: 2020-07-29T02:05:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/29/amazon-fraud-detector/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 36
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
 
 secured: "GxzCXHN+0plFH4KzZGRqp9OzYmqvCkGwmwbSVUNLUgw5lqf9f43uS/oGj0PT1CpXpWwbx3GcFXsMQIt2M+U9JTZNwBWGwfKAeQGVdsk6h4GxnSuWBrxP7F43GTarGgB3OHM8yOxj7V/te0rfHEnTdT3W5eF8DmCqn68BPkPKZGqLvqaJtI/C/2fDp9mMkCOUXFfs1/7KxZ28ym/iDV6fboMOIhTCH7dPGn8wdMuSUFkaXW3NFvQX/OE+h3T2OvGjyczYiRwIA0YvWx9vqyE/Xt7WlNnx5a42IO+tmOInZ+V+MvWWqlMNTebX3N29QK1bfMXHwegBE8SGLy19VAXMCi+Lc8bGjKtaeFOI7/miLtZsvrhFT2QZKz5/Mhd0XvQIYpaijoVnVXhozRbjSu16o2o5ECVTSO2Oml7+gKGzuBUdZ4dVsnLfl/Rc1q/nTdcXzIZ0fjh2TSYB2XdNOG+xD1itJIBbilr0X83PM3wXYd9p8sMYX6zD87L2yvnxpumk;VV5mDZ8TqVueFWFGyRmeyA=="
 ---

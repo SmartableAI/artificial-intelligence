@@ -23,6 +23,22 @@ images:
     height: 451
     isCached: true
 
+related:
+  - title: "Understanding important features of deep learning models for segmentation of high-resolution transmission electron microscopy images"
+    excerpt: "Cutting edge deep learning techniques allow for image segmentation with great speed and accuracy. However, application to problems in materials science is often difficult since these complex ..."
+    publishedDateTime: 2020-07-29T09:45:00Z
+    webUrl: "https://www.nature.com/articles/s41524-020-00363-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 8
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41524-020-00363-x/MediaObjects/41524_2020_363_Fig1_HTML.png"
+        width: 685
+        height: 326
+        isCached: true
+
 secured: "tuEnMiRJt6FSwTZOPuknac+ffXsadQE5r+RSK0gpSFynBjkbE1SEfqcyEdmnyek0WIdFQIqx/3+iyQ1xKOUiGCP44YN5aDZMMEUS8KZ0+gYKOoZb7MFvE6GBXxyWQmU2lOXbycVX9WYR9hNHLWXWYSZo4BfF8Rs2WO8i2MSoVx/V5zSST1a/B/ERFhPYkWyC4jtswnQGmbWzhIsH2NapHLqbgaRNF3UrSk6Pn3C/FiQEKquBLtAQPQ+r8O1S8DbqWFFsrnNkQt5dB4tHZYmfjbaJ6HEcB+PgN9Sv+wCsnTi1OthCYmApr0bQb8GvIVx6OOhzPXoIqhj2SjpPXdIuAYlNvJZRvEuKISNO9Re8A76M4coVVsIBQbbVE4TI1171xeIiAUZ5J20fcZ1SQ2l2yJUpvfZ0Hcq3lI9crYdPiOuznyI/DDPbHxcIm9dAHiJ/Pk8RQMRXs1tKRTTN9U7RSrCrASPFpECNhJeZyrFnoeaxZOnIYbnliOM7YC710aCWUJ+nA/0l1jfgB5rtXCkr2A==;yjVuvkXdRtOlPPmWG5Yhew=="
 ---
 

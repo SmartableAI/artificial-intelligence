@@ -45,14 +45,33 @@ related:
         height: 428
         isCached: true
   - title: "AWS Announces General Availability of Amazon Fraud Detector"
-    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-    publishedDateTime: 2020-07-28T17:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
+    excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
+    publishedDateTime: 2020-07-28T16:55:00Z
+    webUrl: "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-fraud-detector/article_ef06fbbc-cf29-5720-ad2e-89629c63b3cf.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
+      name: thedailytimes.com
+      domain: thedailytimes.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Amazon Fraud Detector: Use machine learning in the fight against online fraud"
+    excerpt: "Amazon Fraud Detector is a fully managed service that makes it easy to quickly identify potentially fraudulent online activities like online payment and identity fraud. Using machine learning ..."
+    publishedDateTime: 2020-07-29T02:05:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/29/amazon-fraud-detector/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 36
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
 
 secured: "TdauyHM6XFEAQLrng5dXgW38FmCscNrurvtI9Chtk1QkKWFCzf3U50+rOyK716G4S06OQ3nSUgORCWalW4WAnm9o52ep+1Ml0dXo1CEKhuuzUcNE9jtPfmh+NpEvlxlSUNRbd9IlxPA5heQ6L5oP83YhCsKI7/BJCc/DciKiabrZmTqtk2fRW1z7Lz8Wdti2RzgQVWeRbpM0+Likf0ZqXqpwjr94r9jvmxkxQjrCubAjWop/k7woeE7fhs//e3oWmI0FOZRfc+fS/RAH3rm8iLD50Mw8uESUOS5rbhKiZ+98FYX3T4F7K0oCHItAf7dNMDuZcMZayKLN2vKHK3snbw==;SPRNPNk+snuw9tnSz4URiw=="
 ---

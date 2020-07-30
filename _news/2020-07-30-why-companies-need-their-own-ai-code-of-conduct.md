@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Why Companies Need Their Own AI Code Of Conduct"
-excerpt: "During the Stanford class, Professor Ng touched on one topic of great interest to me, and that is ethics in AI. The more I have studied AI and Machine Learning, it has become apparent to me that AI can be used for good as well as evil. I believe that ..."
-publishedDateTime: 2020-07-30T18:12:00Z
-webUrl: "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/?ss=ai"
+excerpt: "If companies are smart, they will craft their AI Principles and Ethics position soon and be ready for the demands the market and their customers will expect from them in the age of AI."
+publishedDateTime: 2020-07-30T20:04:00Z
+webUrl: "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/"
+ampWebUrl: "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +29,6 @@ images:
     height: 800
     isCached: true
 
-secured: "T/LbzhgmyCuujGSETqivHbk33E7B6J9q8bolnTfmGDg4txwe6Lwjr6+0CajEbACY4Psaf0MyiRkVK72NomXKy2bOMemAmyqcq4okhpjMmGsZGVzr2pAFfTZbL1qK++wI5HQgV2E/tTvCxZfZFesjFjOA8gT5fIgcIjhIzibhjmH8al0OfImfZjhGW3WYJ8V1Xn+IF+f0AgIbUZERAoyWdTlpgUJvMyfnGtNmqkNLQULv1SY6UignZS9+6OhnHNgZUp8iWdP6XF8BOZ/YM7hK4lLM06XzUqPM1dWt69FMwwEoEJLLJpAyX7gab6DiEg8/K0hQVLu2Fyc6qWJkRTdMuw==;j0CKOb+73/G157kc/NHn2Q=="
+secured: "gAzfACHL3hXwegd9B1XDUAFX3FGs8gyZWVych88sQ0x1VrHyGpA591CmQDF1L9kTqUnsUw9v/JVsPGvJXdjKHUbQZgQj43GwMLYwRZSZa19B0XoIojiY+NlYMwBx39LkPqfxj8ZZUKyOJPlI6Fe7ddGRNHv+aaUx7SDIMmQLQE2V+1xHq4yGnl11pc6DLleCno/n2RYpAbT9yVHOWCoqnjCA5LKjRSU/vTB+VSB6AVoQ9bFiEUFDjx7S8V5AR338cT5pQEU4LG90jUmYCOp04D0kd1rjcO5d5Fd/wgFpb0Qkj6lOO8xLp7TDQWDDhUAU4LQq7ez04+5nnBt8I0KxMw==;VuD9oB4sF9hm1BQobOsgLw=="
 ---
 
