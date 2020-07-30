@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1847bfa0b5e800071f18da%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 655
     isCached: true
 
-secured: "dFir9CmUT3S4uELZ+JKAwhB6otA9LFwLBrx3I+ktcCBMBOUVpRpBQuBMH6uptL3E0ysq2Dy++Gr8Tg9QJA0Z9F6V3cDobHCBJz0jMqSbvuU6Cxjha100jjDAEW3NrqFpgOgKjiwDIdd/XqKENXBTnVZ5HQE/J7ky9ibHT96bLVXCyQpPoFHFBOOmGyVwwhsRjCGmUAFRR/8HgkjRSdxS3b4dPCH49T/bcUypWOdYk4zJ1ncefDfO+XE/gHyboHYMSqwOY+WLqDs9o276ex9ZX590A3uhp/6KMqdwXwsHNJiJWY0LimzrCmAzAE0NJepRR3R/tKZTJ/3hTs3gE9cH8g==;CtkCtnm9yQgZIwObDKALuQ=="
+secured: "MEYBYHvU+Rdz6t6BHbh0b63fH0IKKemPdsKr3BuDeOlaRQhI5WOvy+ctbXp2HLDlDLllZQQkJ9i6O5YhHndpW9L58SQGX+8a8POPuQO80r1J1vplX9wdxXutGfMyD/nBRbUBeyzTZre7lcyyrjyq5w8tBCuqFnFa3LIeu/4JUEdXFHUL/UjSgI/RXBAT7scGk8FL88owrwfs9mPoHIcocgC8hxmtCJUXsWdtVknDhLUIY0PZyJWyGmHitTZC5JRsrYsre0IvLqkjwGl2BWvTIy91CHy+uOyRBAkGnUFVlVMdaZZRkPHFGubwuqpyFmR4J6QuVwlm7ZhCTPuAdwG+P447oeVa/EowN3jrxbGI/KgbFOqboadPP0ywzoee8/aL1873wewPHnNdU1SIYJeKztqmiVw8GE/oaIKyGFFF6naGwL5E39U4C/DwUPf7/nYEGHCAdo0vWDArasMAPWmqpbUq2dxlJkYDzxmSmZDj/E2rKs6NT3xPfQUup1WrCYNIPbpRNdPvGIHfvG4N93zFAQ==;oTLKczJ5v0WCLu19l4JE2A=="
 ---
 

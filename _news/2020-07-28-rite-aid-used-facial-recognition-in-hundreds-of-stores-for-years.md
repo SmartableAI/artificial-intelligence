@@ -129,7 +129,7 @@ related:
   - title: "Facial recognition retools for masked faces"
     excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
     publishedDateTime: 2020-07-29T21:00:00Z
-    webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_EmergingTech"
+    webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_SecCybersSec"
     type: article
     provider:
       name: GCN

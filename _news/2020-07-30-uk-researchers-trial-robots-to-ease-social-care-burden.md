@@ -1,28 +1,30 @@
 ---
 category: news
 title: "UK researchers trial robots to ease social care burden"
-excerpt: "Pepper’s skill set includes making phone calls, identifying missing items in the kitchen and occasional aerobics instruction."
-publishedDateTime: 2020-07-30T02:55:00Z
-webUrl: "https://www.thestar.com.my/tech/tech-news/2020/07/30/uk-researchers-trial-robots-to-ease-social-care-burden"
+excerpt: "Watt University in Edinburgh have programmed robots, including Pepper -- who was launched as the world's first humanoid in Japan in 2014 -- to perform tasks normally carried out by care workers."
+publishedDateTime: 2020-07-30T06:14:00Z
+webUrl: "https://www.thejakartapost.com/life/2020/07/30/uk-researchers-trial-robots-to-ease-social-care-burden.html"
+ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/07/30/uk-researchers-trial-robots-to-ease-social-care-burden.html"
+cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/07/30/uk-researchers-trial-robots-to-ease-social-care-burden.html"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: The Jakarta Post
+  domain: thejakartapost.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2020/07/30/800154.jpg"
-    width: 1240
-    height: 826
+  - url: "https://img.jakpost.net/c/2020/07/30/2020_07_30_101294_1596077499._medium.jpg"
+    width: 512
+    height: 341
     isCached: true
 
-secured: "Q10JZXERBbcbNDMVqv9xi5EOOaxwwZlCpiG3NccuPo0ekbDvYZETphssFR+Jt7MG1rkR37wXCXWfSAM0w0/T9il0Ayl/2naW1XwaFkiSbljhpEyQdjVy3qvV27yvEXvl9GSJvHnBuCguDzJT8wjjO0V9R7S46dSAqyJhpB1ht8q4XhRTCfC+IjkY5n4XlW4K+nEfnnZ1MTadlpMbA/rDuu5FnoozOt5DXSw7+p9+3A0QSOn/wDdAPvNoglNxy1Sga/KuenssUXi/BrWAr/2NOCgMVT9diRA2lNN96CK7XNkPmhr9JwMII9T67Xj4v/s4e0qPSrG0Kt6SM4Nn1w4Vqw==;BqMmVcyywG4GJ3tyYptf8g=="
+secured: "Z6bIyBWPGjr5xzbMJzqFNvehAFYW/VTUoSSkDk02dsl1WAc4ht+ciD71UvB6W61hC472JVgAL16k566JV52nXZ/MJFOd236vLU7Y6ooHvDLGx5ZGOV2+lkzBnVXrycduFSA37/ERPFBnd/Xq8NWYgED2v2OxqXysQwjpImcp635soChwn9WFbUzWjlXwHYZB/IJRZfxKQVpcgZ3zpXJxPUmJibynFOvUdX63Vd+kUkJ2zJsiXb+I1rirNJTtfp0ru6GXIoUFqyjCRyK6Gn/RcMyGO4/GkKwDGm5BUyH/7NdWzKi/ARqF4g33ohG8S07dGsJXnGUr2iahNPGKlg6RdA==;JhMAG3l8iTvUqSqoNY1tDA=="
 ---
 

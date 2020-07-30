@@ -18,36 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Why the complete version of Tesla Full Self-Driving will take longer than Elon Musk says it will"
-    excerpt: "Driving, or FSD, today for $8,000, but it's not feature complete. CNBC explores why the complete version of FSD has yet to be released."
-    publishedDateTime: 2020-07-25T13:23:00Z
-    webUrl: "https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927"
-        width: 4000
-        height: 2667
-        isCached: true
-  - title: "Why Tesla Full Self-Driving and robotaxis are taking so long"
-    excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis. But some say Musk's driverless dream is far from becoming a reality."
-    publishedDateTime: 2020-07-25T14:40:00Z
-    webUrl: "https://www.cnbc.com/video/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Elon Musk says Tesla doesn't want to crush rivals, and the company is open to licensing its self-driving software and battery technology"
     excerpt: "Musk's comments came in response to a story about German automakers envious of Tesla's sophisticated electric vehicle technology."
     publishedDateTime: 2020-07-29T02:52:00Z

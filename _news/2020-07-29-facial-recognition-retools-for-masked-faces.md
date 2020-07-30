@@ -3,7 +3,7 @@ category: news
 title: "Facial recognition retools for masked faces"
 excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
 publishedDateTime: 2020-07-29T21:00:00Z
-webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_EmergingTech"
+webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_SecCybersSec"
 type: article
 quality: 39
 heat: -1
@@ -146,6 +146,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 34
 
-secured: "4kd+21CrcdEZeYSWNLNSKDgf7XDI49cKF4tBSV7nJ3P+2//SABUjl/dIfA8WpvPmvkgewZ4eCYlSKWqjiEtCczIlvfHm9OnwVvMIHZgul/goaevu3GKXdCnN6fsiOGe/6vUxV8YR4l7PJm46SIuiSgHx3FjhFFCSzAQc6yex0xX4/Pp0wRaYexHZwzYtFE8AYJb/X7DFKUw9iqsfcnFEjCUNQKAPqgawpIYSmsvdiCK/d7p2M0v4ukpLxRRVuPfGV5Dhafilc8dGTlw2texDJkzHMiW6KXBLoxPujLkLIUuF1BwAQVcrNd7yu9gr3e2GymuNBYkeKkwLUwHTJpIIYQ==;Ha9MAq43L7tMPJWSnBZAeQ=="
+secured: "bsssrhEHVZpXr4Q8MjMC8qSRmgUDBRkyNH0dfsDAiDaUUDfgT3lmaopd9pU47TP6jecTpAQ3607q3Dh3tmRsWjgqY0tzejv/xEBPRX1rw3DLgJn/MMg1oq8vzWEROHLnWu9nzbSWvmIB+iQkof8BvaPCW6XTxNyG7+5oZSVWGOT0xM5GDJ5eVfpxWJ+8iDIcD8Va8SGkkg2Kk5WPgMR5hSiBSWu4TjNyRerRMTyNjNd8BNFJvPmKVS+dWR24qDL05763tWYYF4BRIJCH8QKnmK+QxIVY+7c+OdRuGHW0zWGWcU0JDfoo41c1Bknb3Z1wjI/aVYBHiOODIdktxKu6Mw==;LulyhZOP6Z8zGIgoXJeRnw=="
 ---
 

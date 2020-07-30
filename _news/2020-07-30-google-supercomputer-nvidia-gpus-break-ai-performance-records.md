@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Google supercomputer, Nvidia GPUs break AI performance records"
-excerpt: "\"We achieved these results with ML model implementations in TensorFlow, JAX and Lingvo. Four of the eight models were trained from scratch in under 30 seconds,\" Naveen Kumar from Google AI said in a statement on Wednesday. To put that in perspective ..."
-publishedDateTime: 2020-07-30T05:40:00Z
-webUrl: "https://www.sify.com/finance/google-supercomputer-nvidia-gpus-break-ai-performance-records-news-topnews-uh4f4Bfifgfia.html"
+excerpt: "Google said it has built the worlds fastest machine learning (ML) training supercomputer that broke AI performance records in six out of eight industry-leading"
+publishedDateTime: 2020-07-30T05:45:00Z
+webUrl: "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms"
+ampWebUrl: "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms"
+cdnAmpWebUrl: "https://mumbaimirror-indiatimes-com.cdn.ampproject.org/c/s/mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms"
 type: article
-quality: 36
-heat: 36
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Google AI
   - AI
   - AI Hardware
 
-secured: "FFSKOwcsyU9Hs4e+b9jsouH7cV9xSIh5Yj+0reAGNm7uyE+xThpWwUIyXaTGaiItMZ2e8KDnTs96/xAAVHVaTpzXgnVpJHBGUyl3BpE8Lashy/ojNEPemcvDwAbGq9RnzEfRCG+IP40BYTxnW1sTG0o6W0JTt3nEkNj5GQBj6x3MFpxTwYQbstJXGzY/FZkM48Kg+cxgsjTsB+dZnGnG9FHuxNpE/uOXUlIORHiq0u56Ei/HnIgU4V2mLwmqG5o7VlmhYqxeOKomL4WPY3KAq3ynBN5RinA1eBL7PNDHz4zd7K7HkZWasJUZCBcM85n3FHPmz4FT3tEoCbQNm8KisQ==;P4UlwLZMQ5YKzpmpqScQiA=="
+images:
+  - url: "https://mumbaimirror.indiatimes.com/thumb/77255488.cms?resizemode=4&width=400"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "/al4gtsl/67bhqT4lvEOmDiAiCmaAqSy+OPU25hnc6P4APBmv/512V6u+wBb9yR1Ts/lsVf4COoY5teZE70o//jLdQPkKe0Kcfd+ZhePcOk9Sp7Bg3MeYDlFR/4Q0e+zhRy+cvVRoqE2uukV3OhdY7J0Jn5rQpoUg74ge8lX0N5zcf2OqyZGpyHp77cIF/A1mXBAA1E9msbRif4ATbWz/oICkdetjiix1SWQOIJiPtN+ygj3+UsHH/tjb/w5ydcMCkpf2gvvtcfUbcm7+S5Q/narCtW2TYU4JQqCZtEVKjnJE6GJMKu2/FDJCYW4tdxbGjFYPDLTEMGwWGbQ3v7KhQ==;HrSXb6uxQjXlAAckAfv42A=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-28T09:04:00Z
 webUrl: "https://www.moneyshow.com/articles/dailyguru-54699/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFjl8qn1-EZTA/article-cover_image-shrink_720_1280/0?e=1601510400&v=beta&t=dp_Ufk0YRawMkk9NQJyh0KddUF423Jk-MiyXrd3WQZc"
         width: 1158
         height: 720
+        isCached: true
+  - title: "SA to increase 5G operations – and it’ll put self-driving cars on the road"
+    excerpt: "You can expect to see more 5G masts and networks go online in the near future - allowing self-driving cars to operate in South Africa."
+    publishedDateTime: 2020-07-30T07:21:00Z
+    webUrl: "https://www.thesouthafrican.com/news/5g-in-south-africa-self-driving-cars/"
+    type: article
+    provider:
+      name: richest
+      domain: thesouthafrican.com
+    quality: 22
+    images:
+      - url: "https://gcs.thesouthafrican.com/2020/07/22942435-5g-self-driving-cars.jpg"
+        width: 1280
+        height: 960
         isCached: true
 
 secured: "bnrEZ4dOOaoeGTp0oZFIU+4u9yTT8Kiku3+/EHFEqpmIX6ikYCO56qoOok7PjCzBRhYkzynb3BCiakOJirJO59SabNNTmP3FcjndobVwajsvPnIzj7OxeSE+B8QMNTYevutKALcrjMo54vZzC08RyVGKpAkTlFR1XribyZtbObRHVqIsSOlH/k1UMQTruBpmGqrgppx3SPDYxejpua1+oD046Z/GoClfH+AyqevVrmkuDyldnAlxZCvS2sJ840C2e9OVC/s/1a5MI4rm1KcECRqvmXalkHnRIVT8nRVy5vDlpmEPlFMNuXp3wt94frkcgDTzQXV1cOnrhGXib97mSiudW+Rx7X/wHXYM5MQV2s0ypTlOrPilSfGBiUSzW7FwH+VwOXQPxhivfizqFuGmr2kEh1WFd6FHQdhfF756M2CCV1bKjLsBVYKgIY9J0KcwzYnaJ8POcNtOzsFJ6xyfh7HGkqXWHV3qbtCMczPldJ3rYPEpASxIy2SClm/Ml0OtMgsW4BpxseNDyLyKi3ZKjw==;fIuSGiuQ4b0LDqgSLKMiYg=="

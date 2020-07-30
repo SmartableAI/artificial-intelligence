@@ -7,8 +7,8 @@ webUrl: "https://www.gizmodo.com.au/2020/07/how-the-coronavirus-pandemic-is-brea
 ampWebUrl: "https://www.gizmodo.com.au/2020/07/how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it/amp/"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/facialrecognition.jpg"
@@ -24,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "TpbuJSmgx9lF/7c7XHw1OxzEccQqpU1LqgDFd1Oy9gX7EQ4tR54ctxkWDisE8iCXX9cXiwW3kp+k/u3NYi9RT830PQ+kdATLkd/p+YNAVQvcEjxm2DuI3znau/riRJnzI9+ddEehvGIlgo6XcA7tf7f1WDAz0qgHa3Hi/vcPKBXeL+mUCkZesFNoxPHYmZQalwA0zIasaETJp+rWsd8a3CY3J5ehrQmh6qQ2+zVGPkXfmFz96OGvPBK75R0r8ss9oaRA+aXgIU7UehQAwuZzO+BGE6P6X/Qw4BcuTFy5iX5fKWdSjU143s9curWzRZGsoj7vMjTEbfA/dLdlLp9SYA==;icBVZXnejVWZBRm+lky+cA=="
+secured: "mblot3HCsbXNe5BBCcfNSM//+Fta8pFbDS13rdfbG4+PgtHWVjodFhMKS5XQ+eLXY28MmIlZP60Ae50jdM3Q/o2FG/kV7ABGnn9VCtljTPX5J/IXKtZM2C3i7lNs9Y3hi2esLO0nIHGdGmtLRITWu63El9zY69yTkMccRKEZIZ4VZzSjrCh/NleT4o6DH8MYz32VBI6NeUcuJXUdlfDITvb5ec/euo4ysIZav8j+JVzQFmVtLefZbNmhLoQ/Gls3tCVMSz3Gd/Wc+nQTwFwSRYcrvpDuKDIOaxsg4jw5iVizfv4l/sxZiRq9lgrWvQo7u+zkLRc2d/ZQfbPhXfqHr/W7pSQTD0JoiyrvpljiedtWpkPAFfM4VdI2nVqSy/EeOVE1QCDzVsDYmfEiH070FgaL5lTZFdAssmjVae/crkmp+iNHZwosim+iIAf5QhRYXHUY23s/qCsj+UehDJwUS0QrjGHMf7Y6gtj+FJVEvA8F+4G9yHgoDhlA4V/p7P6AL0ElUfZSvul6CYOKleLZFA==;9qx1oAd9IY5PqcWkVItVzA=="
 ---
 

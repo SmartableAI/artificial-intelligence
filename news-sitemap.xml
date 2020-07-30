@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.techradar.com/sg/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020</loc>
-    <lastmod>2020-07-29T21:54:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/taarinikaurdang/2020/07/30/responsible-data-and-ai-in-the-time-of-pandemic-and-crisis/</loc>
+    <lastmod>2020-07-29T23:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoworld.com/article/3567771/why-developers-should-use-graph-databases.html</loc>
+    <lastmod>2020-07-29T23:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms</loc>
+    <lastmod>2020-07-29T22:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techradar.com/au/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020</loc>
+    <lastmod>2020-07-29T21:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -319,6 +337,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.infoworld.com/article/3568264/introducing-microsofts-dataflex-low-code-data-platform.html</loc>
+    <lastmod>2020-07-28T03:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-28T02:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -351,6 +375,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/</loc>
     <lastmod>2020-07-28T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/</loc>
+    <lastmod>2020-07-28T00:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -619,6 +649,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techrepublic.com/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/</loc>
+    <lastmod>2020-07-24T13:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/</loc>
     <lastmod>2020-07-24T13:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -859,6 +895,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.sify.com/finance/microsoft-commercial-cloud-sales-surpass-50bn-for-1st-time-in-fy20-news-topnews-uhxnOBfigahhi.html</loc>
+    <lastmod>2020-07-23T06:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/investing/2020/07/23/livongo-health-peer-ontrak-is-up-99-this-year-as-v.aspx</loc>
     <lastmod>2020-07-23T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1015,6 +1057,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/22/dow-jones-posts-modest-gain-as-slack-files-microso.aspx</loc>
+    <lastmod>2020-07-22T13:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend/</loc>
     <lastmod>2020-07-22T13:24:31-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1041,6 +1089,12 @@
   <url>
     <loc>https://www.ibm.com/blogs/watson/2020/07/ibm-innovation-preview-automation-of-ai/</loc>
     <lastmod>2020-07-22T11:26:35-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.itworldcanada.com/sponsored/microsoft-canada-congratulates-the-winners-of-its-2020-impact-awards</loc>
+    <lastmod>2020-07-22T11:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1393,6 +1447,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.morningstar.com/news/dow-jones/202007211155/falling-tech-spending-hurts-ibm-wsj</loc>
+    <lastmod>2020-07-20T23:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21</loc>
     <lastmod>2020-07-20T22:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1425,6 +1485,12 @@
   <url>
     <loc>https://www.ibm.com/blogs/watson/2020/07/lets-talk-about-talent/</loc>
     <lastmod>2020-07-20T17:00:52-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.morningstar.com/news/dow-jones/2020072011613/ibm-works-to-reshape-business-as-coronavirus-uncertainty-lingers</loc>
+    <lastmod>2020-07-20T15:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-open-to-licensing-au
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-open-to-licensing-autopilot-software-to-competitors-2020-7?amp"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -30,36 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why the complete version of Tesla Full Self-Driving will take longer than Elon Musk says it will"
-    excerpt: "Driving, or FSD, today for $8,000, but it's not feature complete. CNBC explores why the complete version of FSD has yet to be released."
-    publishedDateTime: 2020-07-25T13:23:00Z
-    webUrl: "https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927"
-        width: 4000
-        height: 2667
-        isCached: true
-  - title: "Why Tesla Full Self-Driving and robotaxis are taking so long"
-    excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis. But some say Musk's driverless dream is far from becoming a reality."
-    publishedDateTime: 2020-07-25T14:40:00Z
-    webUrl: "https://www.cnbc.com/video/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Video: Why Tesla's full self-driving feature is taking so long"
     excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis."
     publishedDateTime: 2020-07-27T08:31:00Z

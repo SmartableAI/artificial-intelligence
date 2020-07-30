@@ -56,6 +56,20 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "SA to increase 5G operations – and it’ll put self-driving cars on the road"
+    excerpt: "You can expect to see more 5G masts and networks go online in the near future - allowing self-driving cars to operate in South Africa."
+    publishedDateTime: 2020-07-30T07:21:00Z
+    webUrl: "https://www.thesouthafrican.com/news/5g-in-south-africa-self-driving-cars/"
+    type: article
+    provider:
+      name: richest
+      domain: thesouthafrican.com
+    quality: 22
+    images:
+      - url: "https://gcs.thesouthafrican.com/2020/07/22942435-5g-self-driving-cars.jpg"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "+bB8GInJsew2TG3jBX2zmLyz1ISYPxVdHF8fXzo7pL1Cwkfp/Wkqzs+1ea8MEehhcfZWAoIUM5nl28c2Hlp8G3a+9dgG6Wsi35VYsAWLyMuq6ml1BfwO9jUa45QHwh94UPBGW6C3oJFW9gbg5RNsM97nQoIq+uvBunoXgl/e0DEVTIK5pOKPPsbq60K8OBBC1jST52CdfP9ZkFEQKiayu/60YNZxjR+IyWHc+BOMxIZdsB2IyDUjgB7/uKsLybwdsig1JiqtAXj6auNJn/r/hFuBKRAzfW8kodaepFpqBzR7Ee2LdVRIU6LFm9ujsrK3kPN4QEWwwIMgSnAeJQecGQ==;4AddaCqxEBr6iii3GQiNSA=="
 ---
