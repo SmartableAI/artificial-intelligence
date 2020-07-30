@@ -2,6 +2,46 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-06-19-google-unveils-experimental-keen-social-network-for-users-interests.md",
+      "title": "Google Unveils Experimental Keen Social Network For Users’ Interests",
+      "excerpt": "Google announced a place for \"long-term interests\" called Keen that was made as part of its space for experimental efforts named Area 120.",
+      "sourceUrl": null,
+      "webUrl": "https://staykeen.com/landing",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/keen-public-assets/staykeen-default-preview.png",
+          "width": 1104,
+          "height": 736,
+          "title": "Google Unveils Experimental Keen Social Network For Users’ Interests",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-ai-artificial-intelligence-shows-us-a-future-where-we-neglect-to-dream.md",
       "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
       "excerpt": "A.I. begins with a brief summary of the sorry state of the world: climate change has melted the polar ice caps, wiping out coastal cities and severely reducing the human population. With regulations in place for reproduction on a resource-starved planet,",
@@ -1322,55 +1362,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions.md",
-      "title": "Google builds AI agent that learns to generalize to new environments by ignoring distractions",
-      "excerpt": "Google researchers propose an AI system that uses the concept of self-attention to generalize to unfamiliar environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google builds AI agent that learns to generalize to new environments by ignoring distractions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/amp/",
-      "publishedDateTime": "2020-06-18T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

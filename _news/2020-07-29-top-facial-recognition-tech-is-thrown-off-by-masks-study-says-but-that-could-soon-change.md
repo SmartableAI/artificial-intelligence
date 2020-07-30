@@ -157,13 +157,13 @@ related:
   - title: "Face masks are messing up facial recognition software"
     excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
     publishedDateTime: 2020-07-29T17:35:00Z
-    webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    webUrl: "https://www.wesh.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    ampWebUrl: "https://www.wesh.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: WESH
+      domain: wesh.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1586368270.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"

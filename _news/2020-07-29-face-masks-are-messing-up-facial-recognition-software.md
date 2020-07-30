@@ -3,17 +3,17 @@ category: news
 title: "Face masks are messing up facial recognition software"
 excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
 publishedDateTime: 2020-07-29T17:35:00Z
-webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+webUrl: "https://www.wesh.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+ampWebUrl: "https://www.wesh.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: WESH
+  domain: wesh.com
 
 topics:
   - Computer Vision
@@ -247,6 +247,6 @@ related:
       domain: medindia.net
     quality: 12
 
-secured: "4ySOCvPXVBIqjx0a/8b8VdT2SUeGXesZLSDHdDUluXDr/z6eHo+Z6vLelR/kle5jYx0heZ+jjw6ES99u7dYh9eIOoZr+pv/e7PUJI67w7eE63zNczjVryEmEyDREuEYx1wZtFsXCd0qBDmFm+L7ZibSDQXDVJRMZHiKTDRMA8Ta/cUa0reejfYJgRU0erHT4DwaXwySL2WB9p3mEZvPGS6g5cHjlnquTZGqCv5eJpnO5qsb4AQlhp1YKLoCX8j49Aw1Z4Dr8orBKisyOQBmgbigDxVzhZMFOv4yA+AOfpXxWU8az7Ty1Hq2/F8MeMWkGDT94NTe8WaVHT39Qh0p4sA==;owtin9fjEiwej+6yEq/RAw=="
+secured: "FBVwhoYhKSC0tOPRs0KyXPs8nKFLtx8rfKVMzJsqeY72V5fhEb0jCVCWK4ZfAa08xgrJhEav0zkTHTpF9yyffkkE6kzmfDiES2XZBT1mo0NXYBAZ9/0qsuHDFd+SENSZwGUVfruKYqe34nWEPW/lUPBrKiJvXjaB1kOH+PVi4pbA7IfwH9s77jAbjuozsWvNizkCLBRfsQVu9eaL6HQikgTu5HKbWVbhkBPTBY+pSbtcQX77/mJt00FyXEYAi2XJ2xwewutZ+ZYpPRo1Uf6PRd53JT+by5V0kLk6gkr7Zi/xy4AVQM0MpaBbheQkSgoGi9ihptqF9bAP7Hs2STACgA==;jFudfXyDhKQnzqu2ZHvwaA=="
 ---
 

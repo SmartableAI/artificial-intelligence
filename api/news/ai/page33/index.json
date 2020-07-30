@@ -2,6 +2,56 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-06-29-machine-learning-systems-fair-or-biased-reflect-our-moral-standards.md",
+      "title": "Machine learning systems, fair or biased, reflect our moral standards",
+      "excerpt": "There needs to be a concerted effort by regulators, governments and practitioners to ensure machine learning systems and algorithms stem inequities rather than perpetuate them, Experian regional managing director Mohan Jayaraman says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/06/29/b3357438-b9bf-11ea-b64b-070a892763db_image_hires_164720.jpg?itok=jGm8Nybz&v=1593420445",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine learning systems, fair or biased, reflect our moral standards",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
+      "publishedDateTime": "2020-06-29T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability.md",
       "title": "Amazon launches AI-powered code review service CodeGuru in general availability",
       "excerpt": "Amazon announced the general availability of CodeGuru, an AI-powered code review service that was first revealed at AWS re:Invent 2019 last year.",
@@ -1341,55 +1391,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-eric-and-wendy-schmidt-back-cambridge-university-effort-to-equip-researchers-with-ai-skills.md",
-      "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
-      "excerpt": "Eric and Wendy Schmidt have donated to a Cambridge University program that is designed to equip young researchers with machine learning and artificial intelligence skills that have the potential to accelerate their research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103415766-GettyImages-466716374.jpg?v=1532564180",
-          "width": 3000,
-          "height": 2000,
-          "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
-      "publishedDateTime": "2020-06-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

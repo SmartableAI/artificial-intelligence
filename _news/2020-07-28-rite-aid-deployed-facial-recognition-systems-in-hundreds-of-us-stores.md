@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "US government study finds face masks block facial recognition technology"
+    excerpt: "A new study from the National Institute of Standards and Technology (NIST) has tested how accurate commercial facial recognition algorithms are at identifying people wearing protective face masks. The study reveals some commercially used systems fail at authenticating masked faces up to 50"
+    publishedDateTime: 2020-07-30T03:42:00Z
+    webUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/"
+    ampWebUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 88
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/4dfef41/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2Fe7%2F6f9f06cc4df3af243f890df8916b%2Fdepositphotos-372250156-l-2015.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rite Aid deployed facial recognition in hundreds of stores, report finds"
     excerpt: "Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores,"
     publishedDateTime: 2020-07-28T20:58:00Z
@@ -196,22 +212,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/27QQFRYKCVDA5NIMU4CO3KFZEU.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta"
-    excerpt: "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality."
-    publishedDateTime: 2020-07-25T10:40:00Z
-    webUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026"
-    ampWebUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/13-inch-macbook-pro.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "N.Y. passes moratorium on use of facial recognition in education"
     excerpt: "A moratorium on facial recognition in education may soon become a reality, as both chambers of the state legislature now have passed bills mandating a temporary ban, with the state senate passing the bill on Wednesday after the assembly passed its own bill on Tuesday."

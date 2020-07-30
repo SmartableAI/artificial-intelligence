@@ -126,6 +126,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Facial recognition retools for masked faces"
+    excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
+    publishedDateTime: 2020-07-29T21:00:00Z
+    webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_EmergingTech"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facial_recognition_masks.jpg"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Rite Aid Drops Facial Recognition Tech"
     excerpt: "Rite Aid 's quiet use of facial recognition technology in its stores has ended after nearly a decade. Since 2012, the American drugstore had gradually implemented the technology in 200 stores around the country,"
     publishedDateTime: 2020-07-29T18:00:00Z
@@ -135,15 +149,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 34
-  - title: "Facial recognition retools for masked faces"
-    excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
-    publishedDateTime: 2020-07-29T21:00:00Z
-    webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_SecCybersSec"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 19
 
 secured: "APxKcT6Mpeo2bOKEUtUm2TtOeFuGFo8UNYq8s992qU8zX6y2uyDzOAU/Sr/7Cl7SwLUsdYaYAmXsWaLG/PDiHfIo0fhi69+pC4fos+XbcQO5bdgtZzYXBhxwDIzgvrIiEb3Mmj8elxw5VTSlksiWQvrfOEG78h8xZyt3YOdRLH/UgrgpH4Ci4wRL2/O0hppbAK0bi/iElJmKTaz3CBhv9Hryeye9AeqAuG7bKJ+hambGc6K5TGr8CZScpSjw+YjbYpwizMcveL91fY2fcNrnu2ygBxSN4kR0wzWI11epFNqCyB58UA1aSqBARajdAxNThCPrQrb2JUnoT3wUO09SWX4roQyPAsnE2CBj6t5qtiRmsSyVcAMu4fI875zZLoIreO/HfR/TgkQ/085mfa/TamUmKxqdPA+vuavkvks0FYGvRWJKI4w2sJc6gTiOYi5Y6W05fn5RxXfoKVxZK0sVw08FRhpqzB4g8tZR5q+A0I7Upn/55jvYoAKtE7iY57yWL+ruzmjv134ZdeaNVNIDWg==;IMxZQG+qgLF7NbdeiH5UxQ=="
 ---

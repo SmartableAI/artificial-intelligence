@@ -2,6 +2,55 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-07-09-ai-wants-to-make-your-writing-more-polite.md",
+      "title": "AI wants to make your writing more polite",
+      "excerpt": "Carnegie Mellon University scientists come up with a technique that automatically makes communication better mannered, thank you very much.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-wants-to-make-your-writing-more-polite/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
+      "publishedDateTime": "2020-07-09T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-elon-musk-is-extremely-confident-tesla-will-achieve-fully-autonomous-cars-soon.md",
       "title": "Elon Musk Is ‘Extremely Confident’ Tesla Will Achieve Fully Autonomous Cars Soon",
       "excerpt": "In remarks made over video message at Shanghai’s annual World Artificial Intelligence Conference ... is competing with the likes of Alphabet’s Waymo and Uber which are all spending billions ...",
@@ -1343,47 +1392,6 @@
         "AI in Autos",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-dissent-suppression-apart-uae-using-its-extensive-surveillance-network-in-bid-to-curb-coronavirus.md",
-      "title": "Dissent suppression apart, UAE using its extensive surveillance network in bid to curb coronavirus",
-      "excerpt": "But multiplied across the cameras watching public spaces, buses, the driverless Metro ... a new surveillance camera program powered by artificial intelligence called “Oyoon,” or “Eyes ...",
-      "sourceUrl": null,
-      "webUrl": "https://asianage.com/technology/in-other-news/090720/dissent-suppression-apart-uae-using-its-extensive-surveillance-network-in-bid-to-curb-coronavirus.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200709181036.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asianage.com/amp/technology/in-other-news/090720/dissent-suppression-apart-uae-using-its-extensive-surveillance-network-in-bid-to-curb-coronavirus.html",
-      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/090720/dissent-suppression-apart-uae-using-its-extensive-surveillance-network-in-bid-to-curb-coronavirus.html",
-      "publishedDateTime": "2020-07-09T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asian Age",
-        "domain": "asianage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

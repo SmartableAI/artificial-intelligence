@@ -3,9 +3,9 @@ category: news
 title: "Facial recognition retools for masked faces"
 excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
 publishedDateTime: 2020-07-29T21:00:00Z
-webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_SecCybersSec"
+webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_EmergingTech"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facial_recognition_masks.jpg"
+    width: 760
+    height: 368
+    isCached: true
 
 related:
   - title: "This AI uses emoji to protect BLM protestors from facial recognition"
@@ -140,6 +146,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 34
 
-secured: "g564B1ZNV0ocvWBYWTr5ufhHsFBu5kN3VHO4Pe8+2uhlRkmb17Wvtqpn2nZ31LgeyYbewIlks1mOWJaqPiZBGwuGPETwUtH3XZJXEF/OCCbTmUjiA2Tcx6QD60KIbLcSMd277ochgUy7rnu/VICsWPSifFvpDV7xlsiChZGOlmVQw28+DxskIBClLwzoVRUNxALpsW2mC/9PyifQfPVJF4/R3G6PD9JkZXIAAIEjHnDUgPGwH0tJmfhCtx9BA21O/P+8WdQIKNCmUhQ7yDAjA89i2uUmQs+Hd67/gedCIXMU4QLWYgCc2KuiTtrEPOJJHyE1gAMJ7L21jBwWbG1TaQ==;YInzoOr2bpYb7mpD3c4Htg=="
+secured: "4kd+21CrcdEZeYSWNLNSKDgf7XDI49cKF4tBSV7nJ3P+2//SABUjl/dIfA8WpvPmvkgewZ4eCYlSKWqjiEtCczIlvfHm9OnwVvMIHZgul/goaevu3GKXdCnN6fsiOGe/6vUxV8YR4l7PJm46SIuiSgHx3FjhFFCSzAQc6yex0xX4/Pp0wRaYexHZwzYtFE8AYJb/X7DFKUw9iqsfcnFEjCUNQKAPqgawpIYSmsvdiCK/d7p2M0v4ukpLxRRVuPfGV5Dhafilc8dGTlw2texDJkzHMiW6KXBLoxPujLkLIUuF1BwAQVcrNd7yu9gr3e2GymuNBYkeKkwLUwHTJpIIYQ==;Ha9MAq43L7tMPJWSnBZAeQ=="
 ---
 

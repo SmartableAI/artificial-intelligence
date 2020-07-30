@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-th
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook Develops New ‘ReBeL’ Poker AI That Outperforms Libratus"
+    excerpt: "The ReBeL poker AI developed by a team at Facebook uses new concepts in self-learning to help it excel at a variety of imperfect-information games."
+    publishedDateTime: 2020-07-30T02:06:00Z
+    webUrl: "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588"
+    ampWebUrl: "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/"
+    cdnAmpWebUrl: "https://www-cardschat-com.cdn.ampproject.org/c/s/www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/"
+    type: article
+    provider:
+      name: Poker Sites
+      domain: cardschat.com
+    quality: 39
 
 secured: "p4qsS36Ipofy11Tf3ulCGgmFW1lrdalXOx/MnTbtwcr/NJeG+5G5gwUvHKlULWVuGGWnBexXylN4xzL5n7LC4FKVG9nGEGFIkvtFlQe/VZ2I6DpErRWRRUU8hkrCv9QLlKQQJuZSf6REHYpcTav7J/c6l+yFbZhW/Tr4XE2tLAdIBzY1av161BlzVerT1M44pgTFuCcp6GSx2jzNxaCDsdMIeS3dqfBQODgcw39895P0VT1Wvxl7+Hbok6n77YuwpWMJtAaEm927vM2DTD1DybOUshA6i2VxdgUdv1TlWGdjRpnt6SquRICc4mBYwyeW/IQ992da1IlNjJiFPZc6pKIY6ZC6xexhO3DdvdOTGs00Xh2IROdk3CGkHwVI9qyKoV+ygZf3iSoNFoade9z3UFam5Ch5IztPJ/O27gKuXhd9idYx53LZ9g6sMdPCavlg07WHKWw6nzX7XJnThFXPEcgh95iACp0Oe9i8u+HfgNUBGFZ32nQAIemB3w+H57zfu1zhJC4z9YyFCkU/Vs51eQ==;+fEPRr5eab+cNmzX7FhzsQ=="
 ---

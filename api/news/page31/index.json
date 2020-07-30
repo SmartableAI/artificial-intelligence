@@ -2,6 +2,38 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-07-07-intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board.md",
+      "title": "Intermountain Healthcare Implements DeepThink Health's Precision Intelligence Solutions to Manage its Molecular Tumor Board",
+      "excerpt": "July 7, 2020 /PRNewswire/ -- DeepThink Health, Inc., a technology innovator in advanced analytics and artificial intelligence for ... for molecular testing, therapy selection, and clinical trial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/health-press-release/intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board-476398-1.htm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-leverage-ai-innovation-with-gpu-optimized-solutions.md",
       "title": "Leverage AI Innovation with GPU-Optimized Solutions",
       "excerpt": "The ability to break computationally-intensive assignments into pieces and begin solving them simultaneously is the main reason why GPU computing is the ideal fit for AI, deep learning, and other highly analytical workloads. NVIDIA’s industry-leading ...",
@@ -1075,47 +1107,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture.md",
-      "title": "AI and robotics to redefine businesses - Accenture",
-      "excerpt": "The 20th edition of Accenture's annual report predicts that artificial intelligence and robotics will be among the key technology trends that will redefine businesses over the next three years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/business/2020/0706/1151662-ai-and-robotics-to-redefine-businesses-accenture/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/000d9006-642.jpg",
-          "width": 642,
-          "height": 361,
-          "title": "AI and robotics to redefine businesses - Accenture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rte.ie/amp/1151662/ ",
-      "cdnAmpWebUrl": "https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1151662/ ",
-      "publishedDateTime": "2020-07-06T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

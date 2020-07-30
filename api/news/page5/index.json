@@ -2,6 +2,55 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-25-artificial-intelligence-reduces-the-user-experience-and-thats-a-good-thing.md",
+      "title": "Artificial intelligence reduces the user experience, and that's a good thing",
+      "excerpt": "When it comes to designing user experiences with our systems, the less, the better. We're overwhelmed, to put it mildly, with demands and stimuli. There are millions of apps, applications and websites begging for our attention,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-drives-new-user-experiences/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/04/3cd4dc4c-450b-4b23-bc14-c6bfca2f43cf/thumbnail/1200x675/bef5ecfbcd3f707a7894abde7d72b053/data-center-nasa-photo-credit-nasa-office-of-the-cio.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-drives-new-user-experiences/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-drives-new-user-experiences/",
+      "publishedDateTime": "2020-07-25T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-25-why-the-complete-version-of-tesla-full-self-driving-will-take-longer-than-elon-musk-says-it-will.md",
       "title": "Why the complete version of Tesla Full Self-Driving will take longer than Elon Musk says it will",
       "excerpt": "Driving, or FSD, today for $8,000, but it's not feature complete. CNBC explores why the complete version of FSD has yet to be released.",
@@ -1111,55 +1160,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-built-a-powerful-ai-model-to-simulate-entire-social-media-networks-in-action.md",
-      "title": "Facebook built a powerful AI model to simulate entire social media networks in action",
-      "excerpt": "When it comes to live-fire high-wire acts in the tech industry, there can be few endeavors more daunting than executing a security update to a software platform hosting more than 2.6 billion users. But that’s exactly what Facebook does every time it rolls out an update.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/23/facebook-built-a-powerful-ai-model-to-simulate-entire-social-media-networks-in-action/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/blockchain-facebook-cryptocurrency-bitcoin-jobs-796x431.jpg",
-          "width": 796,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/23/facebook-built-a-powerful-ai-model-to-simulate-entire-social-media-networks-in-action/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/23/facebook-built-a-powerful-ai-model-to-simulate-entire-social-media-networks-in-action/amp/",
-      "publishedDateTime": "2020-07-23T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

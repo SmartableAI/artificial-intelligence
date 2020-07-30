@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-29-soa-engineering-students-shine-in-flipkart-grid-robotics-challenge.md",
+      "title": "SOA Engineering Students Shine In Flipkart Grid Robotics Challenge",
+      "excerpt": "Five engineering students of SOA came up with a remarkable performance to qualify for Level-2 in the Flipkart GRiD 2.0 Robotics Challenge as the only team from Odisha other than IIT and NIT.",
+      "sourceUrl": null,
+      "webUrl": "https://odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.odishatv.in/wp-content/uploads/2020/07/Untitled-1-4.jpg",
+          "width": 750,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512/amp",
+      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512/amp",
+      "publishedDateTime": "2020-07-29T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha TV",
+        "domain": "odishatv.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-service-robotics-market-key-industry-development-and-competitive-analysis-till-2026.md",
       "title": "Service Robotics Market Key Industry Development And Competitive Analysis Till 2026",
       "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
@@ -431,7 +472,7 @@
       "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1118,55 +1159,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-cb-insights-ai-venture-deals-in-q2-2020-slump-to-lowest-since-2017.md",
-      "title": "CB Insights: AI venture deals in Q2 2020 slump to lowest since 2017",
-      "excerpt": "AI-related startups raised $7.22 billion in 458 deals In Q1 2020, down from $8.4 billion invested in 516 deals during Q1 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/cb-insights-ai-venture-deals-in-q2-2020-slump-to-lowest-since-2017/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/cb-insights-ai-venture-deals-in-q2-2020-slump-to-lowest-since-2017/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/cb-insights-ai-venture-deals-in-q2-2020-slump-to-lowest-since-2017/amp/",
-      "publishedDateTime": "2020-07-28T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -13,6 +13,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143</loc>
+    <lastmod>2020-07-29T13:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29</loc>
     <lastmod>2020-07-29T12:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2725,12 +2731,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-9070060</loc>
-    <lastmod>2020-07-14T14:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/</loc>
     <lastmod>2020-07-14T14:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2745,6 +2745,12 @@
   <url>
     <loc>https://www.zdnet.com/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/</loc>
     <lastmod>2020-07-14T13:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-</loc>
+    <lastmod>2020-07-14T12:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

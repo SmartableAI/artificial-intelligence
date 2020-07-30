@@ -2,6 +2,56 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-07-07-iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap.md",
+      "title": "IoT in Healthcare Market Growing at a CAGR 21.0% | Key Player Cisco, IBM, GE Healthcare, Microsoft, SAP",
+      "excerpt": "The global Internet of Things (IoT) in Healthcare Market is expected to grow from USD 72.5 billion in 2020 to USD 188.2 billion by 2025 at a Compound Annual Growth Rate (CAGR) of 21.0% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap-2020-07-07",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes.md",
       "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
       "excerpt": "Researchers developed an AI tool -- WattScale -- that can identify energy-inefficient homes anywhere in a region with sufficient data.",
@@ -1111,38 +1161,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board.md",
-      "title": "Intermountain Healthcare Implements DeepThink Health's Precision Intelligence Solutions to Manage its Molecular Tumor Board",
-      "excerpt": "July 7, 2020 /PRNewswire/ -- DeepThink Health, Inc., a technology innovator in advanced analytics and artificial intelligence for ... for molecular testing, therapy selection, and clinical trial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/health-press-release/intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board-476398-1.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -1,26 +1,24 @@
 ---
 category: news
 title: "A Key Self-Driving Car Supplier Is Finally Going Public Through a SPAC"
-excerpt: "Special purpose acquisition company (SPAC) Graf Industrial Corp. (NYSE:GRAF) announced earlier this month that it will acquire Velodyne Lidar, a company that supplies 3D mapping for self-driving car capabilities. After completing the acquisition sometime ..."
-publishedDateTime: 2020-07-29T13:01:00Z
-webUrl: "https://www.fool.com/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx"
+excerpt: "(NYSE: GRAF) announced earlier this month that it will acquire Velodyne Lidar, a company that supplies 3D mapping for self-driving car capabilities. After completing the acquisition sometime in the third quarter of 2020,"
+publishedDateTime: 2020-07-29T13:22:00Z
+webUrl: "https://www.nasdaq.com/articles/a-key-self-driving-car-supplier-is-finally-going-public-through-a-spac-2020-07-29"
+ampWebUrl: "https://www.nasdaq.com/articles/a-key-self-driving-car-supplier-is-finally-going-public-through-a-spac-2020-07-29?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-key-self-driving-car-supplier-is-finally-going-public-through-a-spac-2020-07-29?amp"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "sLXKkVCMRf4wUTAZlkWO49AJpLLMzx0HoFM8dm1hkguhBnrqJTAuQE8KiklFZwtuwXMCfPHiAhCRHZqJf2PHCVBChbQRrt/xxbih9SnTJq9X1sZdAPCRs6f6VSHfK5X8s4uvpNxbFvpv6W4dE6HFv1PHjrmCxWCmUU53en4+2zF3P6STePiaXk7jTloaSgByGghyQTvHEvYKLEWuUVQXCXfZoV1rIsiGu/1FQtgXuoP65TzoW7l+UONhVgATvogEanWEB24aWQeOKDghObLLe25GT/pQOrsjD5wLeBqhcaZ4H2AUHOXTqjiamxKgy5S8tT2tK1ed9aKAENJkd9nt6g==;rouf/RTag58r3t5pBdaRZg=="
+secured: "4jgCbNBlut3gUYy6zDLwyh1OwAvSfJV6/24tgVG0ZUeo0lKmLKR/GY7Zcjoz+i4ev/ga4dQ7MNRKELtdZjJbWA1xpvGE9WeIHOL5YE1PvECDquGD/nP2GBUYQdmrrJ76RLw3PPnywBcfMrpvwxlYgBMRu0+khQXoUcQqlBJ58g0gXwbV6QLRY18Vpu9wihAPzDttvem0lgYpokFSR9Pl/AQTibC31DL+ZcGpd1A8I0DjFu0PKMH7o+NZKxrkfUWbJgxzTYPPBuUr6l164NbPkPGas5rV+2uCbH2Toj5AZBcrMU0Dte4NoGThAxY4CYXcOQ1Y4MU1Xv+7HfEomMQBAg==;UwhiTNcYr72jJKsr65zTYw=="
 ---
 

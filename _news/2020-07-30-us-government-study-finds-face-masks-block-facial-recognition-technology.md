@@ -1,0 +1,247 @@
+---
+category: news
+title: "US government study finds face masks block facial recognition technology"
+excerpt: "A new study from the National Institute of Standards and Technology (NIST) has tested how accurate commercial facial recognition algorithms are at identifying people wearing protective face masks. The study reveals some commercially used systems fail at authenticating masked faces up to 50"
+publishedDateTime: 2020-07-30T03:42:00Z
+webUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/"
+ampWebUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
+cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
+type: article
+quality: 88
+heat: -1
+published: false
+
+provider:
+  name: New Atlas
+  domain: newatlas.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://assets.newatlas.com/dims4/default/4dfef41/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2Fe7%2F6f9f06cc4df3af243f890df8916b%2Fdepositphotos-372250156-l-2015.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "How Reuters analyzed Rite Aid's use of facial recognition technology"
+    excerpt: "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020."
+    publishedDateTime: 2020-07-28T11:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527392330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0S8"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Rite Aid used facial recognition in secret across hundreds of its stores"
+    excerpt: "Drugstore chain Rite Aid secretly deployed facial recognition software across a network of security cameras in hundreds of locations in the US, according to a new investigation from Reuters published on Tuesday."
+    publishedDateTime: 2020-07-28T17:06:00Z
+    webUrl: "https://www.theverge.com/2020/7/28/21345185/rite-aid-facial-recognition-surveillance-spying"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/28/21345185/rite-aid-facial-recognition-surveillance-spying"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/28/21345185/rite-aid-facial-recognition-surveillance-spying"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 103
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/B953lFLfq1FhLaf34syt53GoS3c=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67121837/acastro_180730_1777_facial_recognition_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "U.S. studies new facial recognition tech built with masked faces in mind"
+    excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
+    publishedDateTime: 2020-07-28T13:58:00Z
+    webUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 88
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/china-coronavirus-outbreak-ai-facial-recognition-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
+    excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
+    publishedDateTime: 2020-07-28T11:33:00Z
+    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/video-01222020_MISIDENTIFICATION_027.JPG"
+        width: 1110
+        height: 620
+        isCached: true
+  - title: "Rite Aid deployed facial recognition in hundreds of stores, report finds"
+    excerpt: "Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores,"
+    publishedDateTime: 2020-07-28T20:58:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/07/rite-aid-deployed-facial-recognition-in-hundreds-of-stores-report-finds/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/GettyImages-1225671491-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Special Report: Rite Aid Deployed Facial Recognition Systems in Hundreds of U.S. Stores"
+    excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country,"
+    publishedDateTime: 2020-07-28T11:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 76
+  - title: "Rite Aid's 200 facial recognition cameras revealed in investigation"
+    excerpt: "A sweeping investigative report has revealed that drugstore chain Rite Aid quietly added facial recognition systems to 200 stores across the U.S. in an attempt to bust repeat shoplifters. The Reuters investigation found facial recognition cameras at 33 of ..."
+    publishedDateTime: 2020-07-28T21:52:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8569753/Rite-Aids-200-facial-recognition-cameras-revealed-investigation.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8569753/amp/Rite-Aids-200-facial-recognition-cameras-revealed-investigation.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8569753/amp/Rite-Aids-200-facial-recognition-cameras-revealed-investigation.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 74
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/28/22/31304432-0-image-a-46_1595971699763.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Report reveals Rite Aid put facial recognition systems in hundreds of US stores"
+    excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such"
+    publishedDateTime: 2020-07-28T16:05:00Z
+    webUrl: "https://nypost.com/2020/07/28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-u-s-stores/"
+    ampWebUrl: "https://nypost.com/2020/07/28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-u-s-stores/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-u-s-stores/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 70
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/2020-07-28T110208Z_809640025_RC2B2I96BLER_RTRMADP_3_USA-RITEAID-SOFTWARE-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Do face masks make facial recognition tech less accurate?"
+    excerpt: "According to a new study by the National Institute of Standards and Technology (NIST), the face masks that we should all be wearing to protect ourselves from the coronavirus can impede the ability of facial recognition systems to correctly identify us."
+    publishedDateTime: 2020-07-28T21:30:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-07292020.html"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-07292020.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Question-of-the-Day-for-07292020.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1678682485.jpg"
+        width: 977
+        height: 630
+        isCached: true
+  - title: "Face Masks Are Breaking Facial Recognition Algorithms"
+    excerpt: "A study has found that face masks are causing significant issues with facial recognition software. The Verge has reported that the use of face masks is"
+    publishedDateTime: 2020-07-28T15:26:00Z
+    webUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/03/AH-Coronavirus-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Study: Masks thwarting facial recognition technology"
+    excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
+    publishedDateTime: 2020-07-28T00:27:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2020/07/27/masks-virus-facial-recognition/112465252/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/112465252"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/112465252"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
+    excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."
+    publishedDateTime: 2020-07-29T13:42:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 54
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/27QQFRYKCVDA5NIMU4CO3KFZEU.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "N.Y. passes moratorium on use of facial recognition in education"
+    excerpt: "A moratorium on facial recognition in education may soon become a reality, as both chambers of the state legislature now have passed bills mandating a temporary ban, with the state senate passing the bill on Wednesday after the assembly passed its own bill on Tuesday."
+    publishedDateTime: 2020-07-27T17:23:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21147758/ny-passes-moratorium-on-use-of-facial-recognition-in-education"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5f1f06deeaeb0.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How facial recognition works with face coverings"
+    excerpt: "Computer science experts say that face coverings and other accessories may act as a speedbump, but it wouldn’t be very difficult for the software to be modified."
+    publishedDateTime: 2020-07-29T03:33:00Z
+    webUrl: "https://www.wxyz.com/news/national/coronavirus/how-facial-recognition-works-with-face-coverings"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d11c92c/2147483647/strip/true/crop/2546x1337+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fd8%2F029d13d544a7989b340903487b74%2Fscreen-shot-2020-07-20-at-5.26.06%20PM.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "tXqi/xDeChBHYzuGQa1wqYMSi5Mx0OGFOcAX4oxqKsStz+/+gtAuAM2nzc04R2mNDY3GeYEC3gVcPMN4CpqDDyASSx53O1npBXPa6r0tXAh5+uclLUpAVS2uX8gkATyfeSgTLExA2MBT7bqXb9gzSpgi6l5WEhXBtRFzc61DPbyOgc42PkOWtE7RU25YEOsYy5sL5YWPbydHElLxtO8ys1aKyA1PvjxlUdZU5hEzWX7vey7d/4Euqbl5pUQlyOEP27UH0XbHqPnIPpyTKIOwAShP8XfIkIGi37nLttp/1ZeUK99Y0FwR1GJR/F2TRpZYOyEozm6sv774GomJcKZqbA==;dQ4jqnH/+31+Yw8bLq8Xsg=="
+---
+

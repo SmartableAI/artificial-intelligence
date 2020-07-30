@@ -102,6 +102,55 @@
       ]
     },
     {
+      "path": "_news/2020-07-29-how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it.md",
+      "title": "How the Coronavirus Pandemic Is Breaking Artificial Intelligence and How to Fix It",
+      "excerpt": "As covid-19 disrupted the world in March, online retail giant Amazon struggled to respond to the sudden shift caused by the pandemic. Household items like bottled water and toilet paper, which never ran out of stock,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cfvktbl8kf8ysccapvky.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp",
+      "publishedDateTime": "2020-07-29T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics.md",
       "title": "A Look At Amazon's (AMZN) Initiatives in the Field of Robotics",
       "excerpt": "Here’s a look at Amazon’s (AMZN) initiatives in the field of robotics and how it’s becoming an integral part of its supply chain process. Amazon runs more 175 fulfillment centers worldwide. There are different types of robots deployed at its fulfillment centers,",
@@ -1143,47 +1192,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-soa-engineering-students-shine-in-flipkart-grid-robotics-challenge.md",
-      "title": "SOA Engineering Students Shine In Flipkart Grid Robotics Challenge",
-      "excerpt": "Five engineering students of SOA came up with a remarkable performance to qualify for Level-2 in the Flipkart GRiD 2.0 Robotics Challenge as the only team from Odisha other than IIT and NIT.",
-      "sourceUrl": null,
-      "webUrl": "https://odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.odishatv.in/wp-content/uploads/2020/07/Untitled-1-4.jpg",
-          "width": 750,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512/amp",
-      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512/amp",
-      "publishedDateTime": "2020-07-29T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha TV",
-        "domain": "odishatv.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

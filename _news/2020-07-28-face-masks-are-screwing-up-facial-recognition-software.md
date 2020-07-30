@@ -122,6 +122,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Facial recognition retools for masked faces"
+    excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
+    publishedDateTime: 2020-07-29T21:00:00Z
+    webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_EmergingTech"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facial_recognition_masks.jpg"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Rite Aid Drops Facial Recognition Tech"
     excerpt: "Rite Aid 's quiet use of facial recognition technology in its stores has ended after nearly a decade. Since 2012, the American drugstore had gradually implemented the technology in 200 stores around the country,"
     publishedDateTime: 2020-07-29T18:00:00Z
@@ -131,15 +145,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 34
-  - title: "Facial recognition retools for masked faces"
-    excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
-    publishedDateTime: 2020-07-29T21:00:00Z
-    webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_SecCybersSec"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 19
 
 secured: "4Kfer83wClvfQ6sL/zWyyWNJwxhgd0Nm5Lpr6jaYX3zA/QbFUG5T1Rlx756QaKTj1fiQNTG+JKqhJnsNxsUiLRB3gQYwkiCrvEh/EVzGOeNBhzdq2OxOXbYy1Xu451Sxz5JuokCtKeHtVQmUX1S3/Fa22TKF84pCmgrFv6uwHqfoRTr9OpSpkrFf42YnwSaNXs442X4bN9NzH2wWwaGeXFATzvDOubw4Se/Mso/FHyhY28mbJv7ZbXD9cILIt4+/PTsKj+CSZBDGzFgbpGGLZ6Q6UKdJJLxFHMQQFRkCvoxQxp2y9GmaYd91ECLMzlvVES0vOdj9sOGaZ9x/zRspHw==;DfIB47SDKAnrx0iFRRVvDQ=="
 ---
