@@ -7,7 +7,7 @@ webUrl: "https://venturebeat.com/2020/07/28/chorus-ai-raises-45-million-for-ai-t
 ampWebUrl: "https://venturebeat.com/2020/07/28/chorus-ai-raises-45-million-for-ai-that-analyzes-sales-calls/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/chorus-ai-raises-45-million-for-ai-that-analyzes-sales-calls/amp/"
 type: article
-quality: 87
+quality: 187
 heat: -1
 published: false
 
@@ -39,13 +39,29 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 91
+    quality: 191
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/09/aviv-1024x511.png?w=1200&#038;strip=all"
         width: 1024
         height: 511
         isCached: true
+  - title: "Candis raises nearly $14 million to automate accounting processes with AI"
+    excerpt: "Candis, a startup developing a platform for automated accounting and payment processes, this week closed a €12 million ($13.97 million) financing round. A spokesperson for the company said it ..."
+    publishedDateTime: 2020-07-30T12:02:00Z
+    webUrl: "https://venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/146b3f7d-5b70-434d-b6bd-d21f8fa3db27-e1595615072117.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "plV8uYmVBiLLjrmTkV8g3aVTbIh643m/Lljt/H3kfB/Y0PHh/jN8cOjpYJ6jMwuxkEkftmnsjhhYufjq42MoAtSPjRX/CnHJPNlFY6gLW6ZYij+sUeKXU7Yav6yAjWSdSjJz2fn7pYZLN4fvYV0gBxycSEqGCsQWVcn1IuGTnvRzZK5vdODlKVWjOWvt0OXpSL/UFgtXR0q+8pezaIvGDW6/Iy+uWR7yGhTUT5YFuyEXRXH8/CXRndzR20gtM+1NpVJCI25AKI92l4GejeM+7pf+fIhP3sYl1Fs01lJ7/18Law5zpg3y017+2QFbIgc/P9SzD6Tkwv6f+UXZx180BMp0g+UiOhZ066OhOa3H8DrBUtW1hm3QpC4Y0X65C16nWJfygi3zT7vLu9xrBwZ4dQz8wNkDc3VJMlkRNuDJXnSyh43VExBR/JQP7qN8/M1D3vdw7RCY8IVFCWZk3USOaeRDL3knqhxWVIdykNgl9ZQ7hoOW7yAleBZHK6X7pabP9ciN9+tWNMqSiD4/dE1mkQ==;NmekZYyWdd+L4FEnWuco4w=="
+secured: "r5FaZsZL9NPCJNq6PRvtEOwXpIsAFt1VisW3wwmSkTEIN6F+UTVmHaSC6VR37Ki3X7Cf4yQJ9RkFZkzOkqxx8Jlu3+StZfEc5YxkG5sZjpVKeu+HkuGn0XgTqohSSiyxtmAOpTibr1X3R7jg5V52JMWckGKnRXSTaZB/MohQ/cI96hpmaf9QkVndkL0j2dGKKZv3XaEbjzAchjYAHsTGG3a6J2Ph1z/NZFadrZY9OODZf0GuwT/udJJTNnxXIWy9J0MeCdxaQqb/RMTsKzXU5k1d7Z685Iwk5x/B7VyjyK6775Zxo6yvVpa70LeKkVDYfHRxXP7+9cK7W+vMo7YMtxzSs7pl5qu4/UsO6dJr/ruIl+UYKQ8LKsOFjW1n9ASTPSJhJaEVarzhm73lWidYAEmUhfYK/3Fk3XeYhPDgPlcX5Eqg7a89rlmdUo3ogQbibFCQ9xzhanU4UnrG/Sq3TRmO2bm1nnKSMb+KMp4k2AreN1VII2cxmLMCW6UZmTHbGaUPhLhfFA22if7QdgsEB5AqS1qRQ1czs0fhiuLW1bI=;pwDsIR/NA3w0i4E6SKoh9A=="
 ---
 

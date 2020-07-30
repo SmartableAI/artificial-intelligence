@@ -29,37 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Advertima raises $17 million for AI that tracks in-store shopping behaviors"
-    excerpt: "Advertima, a startup leveraging AI to customize in-store experiences, today closed a €15 million ($17.3 million) funding round."
-    publishedDateTime: 2020-07-28T08:00:00Z
-    webUrl: "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/"
-    ampWebUrl: "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/"
+  - title: "Buildots raises $16M to bring computer vision to construction management"
+    excerpt: "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, today announced that it has raised $16 million in total funding. This includes a $3 million seed round that was previously unreported and a $13 million Series A round,"
+    publishedDateTime: 2020-07-30T12:29:00Z
+    webUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/"
+    ampWebUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 103
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/83b26f72-63b0-4172-beec-932f134a5f86-e1595362730251.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/IMG_3411_s.jpg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Density raises $51 million to promote social distancing with AI occupancy-tracking sensors"
-    excerpt: "Density, a startup building AI-powered, people-counting infrared sensors, today closed a $51 million round to address pandemic-driven demand."
-    publishedDateTime: 2020-07-28T13:33:00Z
-    webUrl: "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/"
-    ampWebUrl: "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/"
+  - title: "Instrumental raises $20M to scale its AI-powered manufacturing tech"
+    excerpt: "Instrumental, a startup that uses vision-powered AI to detect manufacturing anomalies, announced that it has closed a $20 million Series B led by Canaan Partners. The company had previously raised $10."
+    publishedDateTime: 2020-07-29T14:31:00Z
+    webUrl: "https://techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/"
+    ampWebUrl: "https://techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/density-webiste-preview.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 630
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Headshot-Anna-Katrina-Shedletsky-CEO.png?w=300"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Buildots raises $16 million as it brings AI computer vision to construction management"
+    excerpt: "Thanks to the latest advancements in the fields of AI and computer vision, we've been able to bring modern systems that are ubiquitous in other industries, to construction.\" The Automated Process Management solution created by Buildots compares the ..."
+    publishedDateTime: 2020-07-30T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "zqBDvIX3+y6fCywJApx0wTP0cwkHq1ogxxSi+yERhxCTawyl9Z+9+mkHGvt2YKrm6FSIxmyMhtQ+wr9jtfjks5TWGixUaZ5h8wiZVxYGiNtYfF7wZESA5FUUy+3DP+muDVkbCzXpRnukIGSGkWzI3k594iBK3G3ZI6EMbVga2Tdvfdp3Mv4JOauMPasTwvIXpxa3AHPX0JDK4U7yDcPVjAHHDuh7y/vds931jBvuN7i9QuX7hvKfFqWHgD9WFQASjK9YHliAmSJcr4WA4DFFjgUWi1W2kI+54OmaYtKmnC9SaVZmXp8/b3N8KAedm5ulK5Hew048z7UVyRNPJjKe6E3jWliTsuNS5rVihpyXeTlU3pTYkp7EDapvRLBSyyJap5hZ16nBOaQw2bprUk6WAMZW+Vdan7Nilwe9UreXZ1BmqYObK4YnGxVPFotchYRYh/IcC3umIlv9CSD8LHEblZTHmIBqnLQB5nGjguuU1n2JodLjABMH9qnUNL7IYsqstnPXDZTJ8aHzqDWJV617zQ==;Kc1zs91EIBub/cGAMzvsmw=="

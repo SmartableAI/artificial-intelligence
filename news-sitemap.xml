@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/airport-robots-market-technology-growth-developments-and-scope-2020-2020-07-30</loc>
+    <lastmod>2020-07-30T05:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/</loc>
+    <lastmod>2020-07-30T05:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/</loc>
+    <lastmod>2020-07-30T05:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.entrepreneur.com/article/353747</loc>
     <lastmod>2020-07-30T04:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +51,12 @@
   <url>
     <loc>https://www.techradar.com/au/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020</loc>
     <lastmod>2020-07-29T21:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-07-29T18:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -115,14 +139,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/</loc>
-    <lastmod>2020-07-29T07:31:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/</loc>
+    <lastmod>2020-07-29T06:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/</loc>
-    <lastmod>2020-07-29T06:45:00-07:00</lastmod>
+    <loc>https://www.fool.com/investing/2020/07/29/self-driving-car-supplier-ipo-spac-velodyne-lidar.aspx</loc>
+    <lastmod>2020-07-29T06:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -187,8 +211,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/service-robotics-market-key-industry-development-and-competitive-analysis-till-2026-2020-07-29</loc>
-    <lastmod>2020-07-29T02:13:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29</loc>
+    <lastmod>2020-07-29T02:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -301,12 +325,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/</loc>
-    <lastmod>2020-07-28T07:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/</loc>
     <lastmod>2020-07-28T06:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -363,6 +381,12 @@
   <url>
     <loc>https://www.zdnet.com/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/</loc>
     <lastmod>2020-07-28T02:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mobile.twitter.com/weiyingma?lang=en</loc>
+    <lastmod>2020-07-28T02:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -465,12 +489,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/</loc>
     <lastmod>2020-07-27T09:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/gpu-market-latest-trends-and-new-technologies-research-forecast-to-2024-2020-07-27</loc>
-    <lastmod>2020-07-27T08:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1587,6 +1605,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/</loc>
     <lastmod>2020-07-20T08:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.biometricupdate.com/202007/mobile-game-company-artie-releases-demographic-bias-detection-for-voice-technologies</loc>
+    <lastmod>2020-07-20T08:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

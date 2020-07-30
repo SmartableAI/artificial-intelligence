@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Aquicore raises $14 million for AI tools to optimize commercial building energy usage"
-    excerpt: "Aquicore, a startup developing building management and optimization solutions powered by AI, has raised $14 million in venture capital."
-    publishedDateTime: 2020-07-29T04:04:00Z
-    webUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/"
-    ampWebUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/44ccce3c-65f6-4612-a21b-76197560cdf7-e1595873427146.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "KnGQ4ipY4YOsJusp8WBvAPaauK387f6NXOGYutdPtrSrETivk1EOmsqB4LzLvrw3/zB+qTMZV1oyrHqDpsp7RqvJbH1Au+JGRc+DqOQOxg8zmZPq1CAdFCkhfJR0Esc439AeoVjE1PleZ7wMFRp5HcoQ9MAmUFViktup+UZ2gzdy4SNbRawJ2KLLI7mV08gRSEXWDSacUuSwnienqKSJJGGvRxakgIz3l2mwwyrDIcMWkEfKr3VEQx12QSB4HIV9cXeO0o5LBYwVM5RBj0tiJJeXZMCWWUodLamTNvvnlWZ520M5PYJJa8DjBDbMXH+MVUvH2iOlef7tcsYopULdlMxNTfBsqAdn9ncYUUA+3BiPZiBkPCSbMGxfUcdqUgP3dEL4X1cVetw1FNogMfyWYYI3hUeRwoFsb0YXTXPn/Xtkbd9chwzGR/dpL0g6W4X3VKLKmQI6NiTONDyZpQc2BHRal4m05tZCOV+aFclRzia9favtvpLf9265Z6e8KN+C;5PUD7qPPmbSjdNxckmewBA=="
 ---

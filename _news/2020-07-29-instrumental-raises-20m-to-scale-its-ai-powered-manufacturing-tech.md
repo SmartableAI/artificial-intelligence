@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -29,35 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "MeetElise Raises $6.5M for its AI-Powered Assistant for Rentals"
-    excerpt: "MeetElise has built an AI personal assistant that helps leasing agents manage ... market and how the need for automation has caused MeetElise to grow 50% since the start of COVID. Founded in 2017, MeetElise has raised a total funding amount of $8.4M ..."
-    publishedDateTime: 2020-07-27T20:37:00Z
-    webUrl: "https://www.alleywatch.com/2020/07/meetelise-rental-leasing-agent-ai-assistant-minna-song/"
-    ampWebUrl: "https://www.alleywatch.com/2020/07/meetelise-rental-leasing-agent-ai-assistant-minna-song/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/07/meetelise-rental-leasing-agent-ai-assistant-minna-song/amp/"
+  - title: "Buildots raises $16M to bring computer vision to construction management"
+    excerpt: "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, today announced that it has raised $16 million in total funding. This includes a $3 million seed round that was previously unreported and a $13 million Series A round,"
+    publishedDateTime: 2020-07-30T12:29:00Z
+    webUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/"
+    ampWebUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
     type: article
     provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 57
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 103
     images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2020/07/MeetElise-Text-Screenshot.jpg"
-        width: 539
-        height: 1000
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/IMG_3411_s.jpg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "60% of AI-powered manufacturers are using it to support workers"
-    excerpt: "Human workers are expected to remain critical on factory floors for the foreseeable future and will not be replaced by robots and artificial intelligence."
-    publishedDateTime: 2020-07-29T09:54:00Z
-    webUrl: "https://www.themanufacturer.com/articles/60-of-ai-powered-manufacturers-are-using-it-to-support-workers/"
+  - title: "Aquicore raises $14 million for AI tools to optimize commercial building energy usage"
+    excerpt: "Aquicore, a startup developing building management and optimization solutions powered by AI, has raised $14 million in venture capital."
+    publishedDateTime: 2020-07-29T04:04:00Z
+    webUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/"
+    ampWebUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
     type: article
     provider:
-      name: Manufacturing
-      domain: themanufacturer.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
     images:
-      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2017/10/14122806/IoT-IIoT-Industrial-Internet-Connectivity-Automation-Robotics-Digital-Technologies-Stock-Image.jpg"
-        width: 1920
-        height: 980
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/44ccce3c-65f6-4612-a21b-76197560cdf7-e1595873427146.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Buildots raises $16 million as it brings AI computer vision to construction management"
+    excerpt: "Thanks to the latest advancements in the fields of AI and computer vision, we've been able to bring modern systems that are ubiquitous in other industries, to construction.\" The Automated Process Management solution created by Buildots compares the ..."
+    publishedDateTime: 2020-07-30T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "xfoaeS0k1cLVK9SGUacxorVPnrqTeDQ/QVAYt+HOY+ItiTTJjWnjNb72PZg5XbSoGAPw4XmMPPM5a4BQN5fxtpXVBxpf8r4tpCjIksjGgurO+XLDU69eEap3TGvbgpTWSw/6ZQWMfDh3MfaCkKMkfRLmL2kgSWJ6CECUu1QU5mjtMq49xbWo4K9ysHRWnONkl3dQHJFWtV8UXanM3w8AB4/wiMQJPQlBerKqhoHRFgFUBOooquYBGZ83i3eyjf7wtWGxNctU2+FvmyG5TU8dIT2BPWqea8YkGxdwQ5JjxFcdlGyrgXWRYu75EOZBv7avSQbL6KFP/XQllQte6suRPQ==;u2w478IVkS0y7/RVNIbTWw=="

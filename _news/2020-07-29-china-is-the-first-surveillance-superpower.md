@@ -7,8 +7,8 @@ webUrl: "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveilla
 ampWebUrl: "https://amp.theatlantic.com/amp/article/614197/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/614197/"
 type: article
-quality: 74
-heat: 74
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -22,6 +22,9 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
+  - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://cdn.theatlantic.com/thumbor/KYuGtZFZ7v1t8Z0xCkj1QB6zF-M=/570x320/media/img/2020/07/WEL_Andersen_ChinaOpener/original.gif"

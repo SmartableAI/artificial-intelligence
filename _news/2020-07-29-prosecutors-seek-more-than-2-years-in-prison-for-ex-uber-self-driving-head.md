@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "US prosecutors seek years in prison for Uber self-driving exec who stole Google trade secrets"
+    excerpt: "US prosecutors are seeking a total of 27 months behind bars for Anthony Levandowski, the former head of Uber's self-driving arm who pleaded guilty to stealing trade secrets from Google. Levandowski was indicted by the US Department of Justice (DoJ ..."
+    publishedDateTime: 2020-07-30T11:54:00Z
+    webUrl: "https://www.zdnet.com/article/us-prosecutors-want-ubers-ex-self-driving-chief-to-serve-years-in-prison-for-stealing-google-trade-secrets/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/us-prosecutors-want-ubers-ex-self-driving-chief-to-serve-years-in-prison-for-stealing-google-trade-secrets/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-prosecutors-want-ubers-ex-self-driving-chief-to-serve-years-in-prison-for-stealing-google-trade-secrets/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 43
   - title: "Prosecutors seek 27 months for Uber’s former self-driving head over stolen trade secrets"
     excerpt: "The case stemmed from accusations by Google and its sister company Waymo that Uber jump-started its own self-driving car development with trade secrets and staff that Anthony Levandowski unlawfully to"
     publishedDateTime: 2020-07-29T10:45:00Z

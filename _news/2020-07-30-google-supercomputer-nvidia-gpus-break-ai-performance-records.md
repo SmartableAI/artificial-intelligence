@@ -5,8 +5,8 @@ excerpt: "Graphics giant Nvidia said it also delivered the world's fastest Artif
 publishedDateTime: 2020-07-30T10:30:00Z
 webUrl: "https://www.tribuneindia.com/news/schools/google-supercomputer-nvidia-gpus-break-ai-performance-records-119939"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/7/2020_7$largeimg_552160458.jpg"
