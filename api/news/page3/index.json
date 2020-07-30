@@ -2,6 +2,147 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-29-softbank-enters-korean-market-with-ai-powered-robot-vacuum.md",
+      "title": "SoftBank enters Korean market with AI-powered robot vacuum",
+      "excerpt": "SoftBank Robotics, an affiliate of Japanese tech giant SoftBank, has announced its bid to enter the Korean market with its artificial intelligence (AI)-powered robot vacuums, its Korean unit said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2020/07/133_293521.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202007/e48989d50e754796ab243927a45bb177.jpg",
+          "width": 980,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=293521",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=293521",
+      "publishedDateTime": "2020-07-28T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-yeah-so-it-turns-out-rite-aid-has-been-using-face-recognition-at-hundreds-of-stores.md",
+      "title": "Yeah, So It Turns Out Rite Aid Has Been Using Face Recognition at Hundreds of Stores",
+      "excerpt": "Rite Aid used face recognition to scan the faces of every single customer who walked into hundreds of its stores in a program encompassing most of the past decade, Reuters reported on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/auqqu8da3sue1vra6wam.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp",
+      "publishedDateTime": "2020-07-28T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-aws-adds-new-amazon-fraud-detector-to-fight-fraud.md",
+      "title": "AWS adds new Amazon Fraud Detector to fight fraud",
+      "excerpt": "AWS has launched a new tool called Amazon Fraud Detector. It said the tool will be able to detect and prevent payment and identity fraud in just milliseconds thanks to machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
+      "publishedDateTime": "2020-07-28T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-supply-chain-resiliency-begins-in-the-cloud.md",
       "title": "Supply Chain Resiliency Begins In The Cloud",
       "excerpt": "As our lives and work continue to adjust, it’s important to retain the many lessons the pandemic has taught us and think about how we can build more resilient supply chains.",
@@ -340,6 +481,56 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-deepmind-and-oxford-university-researchers-on-how-to-decolonize-ai.md",
+      "title": "DeepMind and Oxford University researchers on how to 'decolonize' AI",
+      "excerpt": "Sometimes it’s tempting to think of every technological advancement as the brave first step on new shores, a fresh chance to shape the future rationally. In reality, every new tool enters the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/deepmind-oxford-decolonial-ai-paper-161535009.html?ref=hvper.com",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F56e71a10-b6ea-11ea-be63-3c82b7ed75d6&client=amp-blogside-v2&signature=13e61591f37859c9177c2973a9a2194787db698f",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/deepmind-oxford-decolonial-ai-paper-161535009.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-oxford-decolonial-ai-paper-161535009.html",
+      "publishedDateTime": "2020-07-28T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -772,7 +963,7 @@
       "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1001,181 +1192,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-a-key-ai-executive-at-tiktok-parent-bytedance-is-leaving-as-geopolitical-pressure-mounts-on-the-app.md",
-      "title": "A key AI executive at TikTok parent ByteDance is leaving as geopolitical pressure mounts on the app",
-      "excerpt": "Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company.",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/weiyingma?lang=en",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 153,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read.md",
-      "title": "Embarking on a Python journey? Then ‘Hands-on Machine Learning’ is a must read",
-      "excerpt": "Writing an all-encompassing book on Python machine learning is difficult, given how expansive the field is. But reviewing one is not an easy feat either, especially when it’s a highly acclaimed title such as Hands-On Machine Learning with Scikit-Learn,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/1-9-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
-      "publishedDateTime": "2020-07-28T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-new-machine-learning-method-allows-hospitals-to-share-patient-dataprivately.md",
-      "title": "New machine learning method allows hospitals to share patient data—privately",
-      "excerpt": "To answer medical questions that can be applied to a wide patient population, machine learning models rely on large, diverse datasets from a variety of institutions. However, health systems and hospitals are often resistant to sharing patient data,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/algorithm.jpg",
-          "width": 1500,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp",
-      "publishedDateTime": "2020-07-28T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-nvida-ai-robotics-and-self-driving-cars.md",
-      "title": "NVIDA: AI, Robotics and Self-Driving Cars",
-      "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg",
-          "width": 555,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyShow.com",
-        "domain": "moneyshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],

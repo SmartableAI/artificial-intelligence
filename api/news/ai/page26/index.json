@@ -2,6 +2,288 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks.md",
+      "title": "Google’s TensorFlow gets a new test for training data leaks",
+      "excerpt": "Google late last month debuted experimental tests for its TensorFlow Privacy library designed to reduce the degree to which machine learning models leak identifiable personal information in",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202007/googles-tensorflow-gets-a-new-test-for-training-data-leaks",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/17145823/cybersecurity-online-authetication.jpg",
+          "width": 770,
+          "height": 577,
+          "title": "Google’s TensorFlow gets a new test for training data leaks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes.md",
+      "title": "Researchers detail texture-swapping AI that could be used to create deepfakes",
+      "excerpt": "Researchers at UC Berkeley and Adobe Research propose in a paper Swapping Autoencoder, an AI tool that could be used to create realistic deepfakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/07/researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/360c0a0a-f4be-4b50-b777-cad2455fb880-e1594141756134.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": "Researchers detail texture-swapping AI that could be used to create deepfakes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes/amp/",
+      "publishedDateTime": "2020-07-07T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-this-machine-learning-focused-vc-firm-just-added-a-third-woman-investment-partner.md",
+      "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
+      "excerpt": "Basis Set Ventures isn't a typical VC firm with a focus on AI and three women investment partners, including new hire Sheila Vashee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f04a3f0385b8d0006ef80ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D712%26cropY1%3D0%26cropY2%3D400",
+          "width": 712,
+          "height": 401,
+          "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
+      "publishedDateTime": "2020-07-07T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap.md",
+      "title": "IoT in Healthcare Market Growing at a CAGR 21.0% | Key Player Cisco, IBM, GE Healthcare, Microsoft, SAP",
+      "excerpt": "The global Internet of Things (IoT) in Healthcare Market is expected to grow from USD 72.5 billion in 2020 to USD 188.2 billion by 2025 at a Compound Annual Growth Rate (CAGR) of 21.0% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap-2020-07-07",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes.md",
+      "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
+      "excerpt": "Researchers developed an AI tool -- WattScale -- that can identify energy-inefficient homes anywhere in a region with sufficient data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2009/10/power_lines-e1594136810494.jpg?w=1200&#038;strip=all",
+          "width": 1149,
+          "height": 550,
+          "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/amp/",
+      "publishedDateTime": "2020-07-07T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-machine-learning-helps-grow-artificial-organs.md",
+      "title": "Machine learning helps grow artificial organs",
+      "excerpt": "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg",
+          "width": 1920,
+          "height": 1357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp",
+      "publishedDateTime": "2020-07-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-can-ai-convincingly-answer-existential-questions.md",
       "title": "Can AI convincingly answer existential questions?",
       "excerpt": "A new study has explored whether AI can provide more attractive answers to existential questions than history's most influential thinkers.",
@@ -1084,270 +1366,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience.md",
-      "title": "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience",
-      "excerpt": "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will provide them with unique sets of data and statistics to better ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-xm/2020/07/07/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2020/07/Eduard-Folayang-768x511.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-elementary-robotics-raises-13-million.md",
-      "title": "Elementary Robotics Raises $13 Million",
-      "excerpt": "Elementary Robotics Inc., a downtown-based robotics startup, has raised $12.7 million in Series A funding. The raise announcement coincided with the launch of Elementary’s inspection and traceability robot for sale on the open market as of June 30.",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/news/2020/jul/06/elementary-robotics-raises-13-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2020/07/02/PG10_ELEMENTARY_0706_IR1-2_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d",
-          "width": 670,
-          "height": 401,
-          "title": "Elementary Robotics Raises $13 Million",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights.md",
-      "title": "AI Weekly: Workplace surveillance tech promises safety, but not worker rights",
-      "excerpt": "As bigger tech companies roll out \"getting back to work\" solutions, we can't forget about the rights and privacy of the workers being surveilled.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/back-to-work.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Workplace surveillance tech promises safety, but not worker rights",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/amp/",
-      "publishedDateTime": "2020-07-06T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-artificial-intelligence-has-the-bible-warned-us-against-the-rise-of-ai.md",
-      "title": "Artificial Intelligence: Has the Bible warned us against the rise of AI?",
-      "excerpt": "ARTIFICIAL intelligence is feared by many to be a future threat to humanity's independence - but does the Bible have anything to say about the rise of AI?",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/80/590x/Artificial-intelligence-Bible-warning-AI-prophecy-1305923.jpg?r=1594068291250",
-          "width": 590,
-          "height": 350,
-          "title": "Artificial Intelligence: Has the Bible warned us against the rise of AI?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy/amp",
-      "publishedDateTime": "2020-07-06T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "publishedDateTime": "2020-07-06T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada.md",
-      "title": "Clearview AI ceases offering its facial recognition technology in Canada",
-      "excerpt": "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its",
-      "sourceUrl": null,
-      "webUrl": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 616,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

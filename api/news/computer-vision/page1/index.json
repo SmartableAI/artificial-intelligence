@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-30-foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world.md",
+      "title": "Foresight’s AI-powered wearable helps low-vision users feel the world",
+      "excerpt": "Using a custom version of the computer vision AI system YOLO, Foresight detects, classifies, and estimates the movement of objects surrounding the user, then uses the actuators to apply more or ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/foresight.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/amp/",
+      "publishedDateTime": "2020-07-30T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-buildots-raises-16m-to-bring-computer-vision-to-construction-management.md",
       "title": "Buildots raises $16M to bring computer vision to construction management",
       "excerpt": "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, today announced that it has raised $16 million in total funding. This includes a $3 million seed round that was previously unreported and a $13 million Series A round,",
@@ -262,7 +312,7 @@
       "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1373,56 +1423,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-after-george-floyd-french-police-face-fresh-scrutiny-over-alleged-brutality.md",
-      "title": "After George Floyd, French police face fresh scrutiny over alleged brutality",
-      "excerpt": "\"J'etouffe!\" It's French, for \"I'm suffocating\" or \"I can't breathe,\" and it was repeated seven times by a man in January as he was being pinned down by three police officers and as another filmed, near the Eiffel Tower in Paris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200717115009-cedric-chouviat-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
-      "publishedDateTime": "2020-07-17T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,206 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-22-retrievegan-ai-tool-combines-scene-fragments-to-create-new-images.md",
+      "title": "RetrieveGAN AI tool combines scene fragments to create new images",
+      "excerpt": "Researchers developed an AI system that takes scene descriptions and learns to select compatible image patches to create entirely new images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/retrievegan-ai-tool-combines-scene-fragments-to-create-new-images/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/a6350461-e72b-4767-98ff-1444dafcb145-e1595436848143.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/retrievegan-ai-tool-combines-scene-fragments-to-create-new-images/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/retrievegan-ai-tool-combines-scene-fragments-to-create-new-images/amp/",
+      "publishedDateTime": "2020-07-22T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-deploying-custom-models-built-with-gluon-and-apache-mxnet-on-amazon-sagemaker.md",
+      "title": "Deploying custom models built with Gluon and Apache MXNet on Amazon SageMaker",
+      "excerpt": "When you build models with the Apache MXNet deep learning framework, you can take advantage of the expansive model zoo provided by GluonCV to quickly train state-of-the-art computer vision algorithms for image and video processing. A typical development environment for training consists of a Jupyter",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-custom-models-built-with-gluon-and-apache-mxnet-on-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/24/custom-gluon-mxnet-sagemaker-1.jpg",
+          "width": 600,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T10:03:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps.md",
+      "title": "Amazon launches Alexa Conversations in beta, lets developers deep-link skills to mobile apps",
+      "excerpt": "During Alexa Live, a virtual event for Alexa vendors and developer partners, Amazon unveiled tools designed to enable new Alexa voice experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
+      "publishedDateTime": "2020-07-22T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-google-launches-recommendations-ai-ecommerce-tool-in-public-beta.md",
+      "title": "Google launches Recommendations AI ecommerce tool in public beta",
+      "excerpt": "Following a lengthy preview period, Recommendations AI is available to eligible Google Cloud customers in beta from today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/new-model-1_2-Converted.gif?w=1200&#038;strip=all",
+          "width": 960,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
+      "publishedDateTime": "2020-07-22T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars.md",
       "title": "Airplane Makes Emergency Landing On Busy Highway, Perplexing For Self-Driving Cars",
       "excerpt": "A news report and an accompanying video clip recently showcased the harrowing escapade of a small airplane that made an emergency landing on a busy highway, doing so amid everyday car traffic. As though we all were a fly-on-the-wall,",
@@ -958,178 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-air-force-goes-with-blackskys-spectra-ai-platform-to-track-impact-of-covid-19.md",
-      "title": "Air Force goes with BlackSky’s Spectra AI platform to track impact of COVID-19",
-      "excerpt": "The contract calls for BlackSky to monitor U.S. military bases overseas and assess the status of supply chains, using its AI-enabled Spectra geospatial data analysis platform. Spectra can analyze satellite data as well as news feeds and social media ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/HartsfieldJacksonAtlantaInternational-630x406.png",
-          "width": 630,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
-      "publishedDateTime": "2020-07-21T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota.md",
-      "title": "Self-driving Car Market to See Huge Growth by 2025 | Apple, IBM, and Cisco , Waymo, Toyota",
-      "excerpt": "HTF MI Analyst have added a new research study on Title Global Self-driving Car Market (2018-2024) with detailed information of Historical, current and forecasted market size data for the technology components in the global self-driving car market (radar sensors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-the-autonomous-cars-big-challenge-using-the-hyperscale-server-fleet-to-train-ai-neural-networks.md",
-      "title": "The Autonomous Car’s Big Challenge: Using the Hyperscale Server Fleet to Train AI Neural Networks",
-      "excerpt": "The world knows that artificial intelligence (AI ... The training of the AI model is computationally intensive because neural networks need to use large data sets. The complexity of neural networks requires hyperscale hardware technology to accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/autonomous-cars-big-challenge-using-hyperscale-server-fleet-train-ai-neural",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-when-autonomous-cars-crash-should-they-save-passengers-or-pedestrians.md",
-      "title": "When autonomous cars crash, should they save passengers or pedestrians?",
-      "excerpt": "When a driverless car crashes ... I am able to put this car in the best scenario.’ Machines and artificial intelligence are not perfect, just like humans are not. And you talk to people leading ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scpr.org/programs/airtalk/2016/06/27/50013/when-autonomous-cars-crash-should-they-save-passen/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a.scpr.org/i/c080d29db043a2faa0e2d2edf041474e/131452-full.jpg",
-          "width": 1024,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPCC",
-        "domain": "scpr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

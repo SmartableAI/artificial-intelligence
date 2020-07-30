@@ -480,6 +480,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-10-tesla-near-autonomous-vehicles-goal-musk-says.md",
+      "title": "Tesla near autonomous vehicles goal, Musk says",
+      "excerpt": "Tesla Inc CEO Elon Musk speaks in a video during the opening ceremony of the World Artificial Intelligence Conference in Shanghai ... Tesla is racing against the likes of Alphabet Inc’s Waymo and General Motors Co’s Cruise to attain the pinnacle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/biz/archives/2020/07/10/2003739659",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2020/07/10/P10-200710-317.jpg",
+          "width": 1181,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-elon-musk-tesla-is-close-to-achieving-basic-level-5-autonomy-for-its-cars.md",
       "title": "Elon Musk: Tesla is close to achieving basic level 5 autonomy for its cars",
       "excerpt": "Tesla's recent market performance surprised many when the company revealed that it had delivered no less than 90,000 vehicles in the second quarter of this year, which is even more impressive when you account for the pandemic-related factory shutdowns.",
@@ -1326,56 +1367,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-self-driving-car-market-size-outlook-trend-and-forecast-2020-2024.md",
-      "title": "Self-Driving Car Market Size, Outlook, Trend and Forecast, 2020 – 2024",
-      "excerpt": "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-size-outlook-trend-and-forecast-2020-2024-2020-07-06",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-Driving Car Market Size, Outlook, Trend and Forecast, 2020 – 2024",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

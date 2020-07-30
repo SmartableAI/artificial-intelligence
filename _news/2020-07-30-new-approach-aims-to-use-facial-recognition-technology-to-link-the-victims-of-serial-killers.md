@@ -115,6 +115,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New York Lawsuit Over School Facial Recognition Use Grows"
+    excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
+    publishedDateTime: 2020-07-30T19:07:00Z
+    webUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html"
+    ampWebUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
+        width: 916
+        height: 630
+        isCached: true
   - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
     excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."
     publishedDateTime: 2020-07-29T13:42:00Z
@@ -171,6 +187,6 @@ related:
       domain: bizjournals.com
     quality: 31
 
-secured: "74nxO//aVq4rgZGzHgNT+WFtiKs1GwmMt20L3Q/3n5lKsB4iqJhfBwjslFJzti/bMcWATvwqic3mlLCQgOy0dwGM5iGnLlbv6RcNwd4ksyvBREVQ8jbUxqTucD6xHSNXZYIz83R+8zJGRY4gVcQ4PKVzkd92CmpPqRHeYRkLdIrpiUsVwGYp7Zv9VAsN28SMICAL1N+pEeH6hwWsh3brmbDeL8lluZKgt51f6hp70+3Jdgqlq4Pcetf8Q8RpkVjnC02rvt6wG2n7fIizOqTjhQmeYx4wt9HffYfIsBDlTO4kQ39ACV6+iAyL3MkAkJDiL5K3uwOM4RK7XB/h+XMnOg==;d8LEji2RSBP8CBibMVpblQ=="
+secured: "yt364E2DNJUCX3jaeebxL6b3dYqR4TCBQ7cBYVnSb3v55e46xTiYgOOdmQxdNW2CX8a6PHjxAZZR8o/TkqYD+/x3+/ttOR/zGozKFBCYm+6b0a9WjCLF3nRqU7ff+HTazxujTdYhUr3Gak+jwVjrLPnEvtNmCd5kzH5YurBfwBCVzD/J57Wlc3gwuJmQtzMdI80IXcSn+XbAL8QtNmWJi1btVv08HPmlXLo9GDNC68XiHaTjnUG1X4XBxSPM3VJ684zPvZXH8a3Q+LythzRzwwlLA51o4mJWSvT0D2zIlpjUEf32a1xkX0iY0AUrUMs+V740SSHpUdMWLfqOMtVlAHU00W40bkVt1zSU+tczuKkjVIEFNw3R3VB/ulVXtZH4tqT418xz4UTaq/EKDDdg7ZiRn/Jr4nntn2Gs2vvJlfGbzKoRd/Cm8ZzOEZ+FPN2+IazkUu8VbOB2uFo4DvhX1Jq6cEAZVP1cL1oKIHTf6bVb0VeEBNSVb/2XLgGQPVzXfQ8VX2cFIfw/F3t0crwXig==;dXI0dQW51fj5OAUd4NDGmg=="
 ---
 

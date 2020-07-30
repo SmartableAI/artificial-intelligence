@@ -589,31 +589,22 @@
     {
       "path": "_news/2020-07-21-ameritas-now-offering-enrich-financial-wellness-program-to-employees.md",
       "title": "Ameritas Now Offering Enrich Financial Wellness Program to Employees",
-      "excerpt": "Ameritas is now offering iGrad’s Enrich™ financial wellness platform to its 2,500 employees nationwide. Ameritas, an insurance, employee benefits and financial services provider, is offering the Enrich online financial literacy platform to its employees through Virgin Pulse,",
+      "excerpt": "Ameritas is now offering an interactive financial wellness platform to empower employees. San Diego, CA, July 21, 2020 --(PR.com)-- Ameritas is now offering iGrad’s",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR.com/dcbe5881f881e89a405cde1e828cb685",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/r16703289/ameritas-now-offering-enrich-financial-wellness-program-to-employees",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16703289",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16703289",
       "publishedDateTime": "2020-07-21T01:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

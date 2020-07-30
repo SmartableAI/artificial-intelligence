@@ -125,6 +125,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "New York Lawsuit Over School Facial Recognition Use Grows"
+    excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
+    publishedDateTime: 2020-07-30T19:07:00Z
+    webUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html"
+    ampWebUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
+        width: 916
+        height: 630
+        isCached: true
   - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
     excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."
     publishedDateTime: 2020-07-29T13:42:00Z

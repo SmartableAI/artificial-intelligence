@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/</loc>
+    <lastmod>2020-07-30T10:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/</loc>
     <lastmod>2020-07-30T09:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -25,6 +31,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/</loc>
+    <lastmod>2020-07-30T09:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.openpr.com/news/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say</loc>
     <lastmod>2020-07-30T07:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,6 +51,12 @@
   <url>
     <loc>https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records</loc>
     <lastmod>2020-07-30T06:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/</loc>
+    <lastmod>2020-07-30T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -97,6 +115,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://mobile.twitter.com/devpato/status/1288516384679485440</loc>
+    <lastmod>2020-07-29T20:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-29T18:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -111,12 +135,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate/</loc>
     <lastmod>2020-07-29T13:57:38-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143</loc>
-    <lastmod>2020-07-29T13:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -339,6 +357,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker/</loc>
     <lastmod>2020-07-28T09:54:32-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engadget.com/deepmind-oxford-decolonial-ai-paper-161535009.html?ref=hvper.com</loc>
+    <lastmod>2020-07-28T09:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1525,8 +1549,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR.com/dcbe5881f881e89a405cde1e828cb685</loc>
+    <loc>https://www.benzinga.com/pressreleases/20/07/r16703289/ameritas-now-offering-enrich-financial-wellness-program-to-employees</loc>
     <lastmod>2020-07-21T01:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ryt9.com/s/prg/3143656</loc>
+    <lastmod>2020-07-21T00:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2887,6 +2917,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-9070060</loc>
+    <lastmod>2020-07-14T14:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/</loc>
     <lastmod>2020-07-14T14:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2901,12 +2937,6 @@
   <url>
     <loc>https://www.zdnet.com/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/</loc>
     <lastmod>2020-07-14T13:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-</loc>
-    <lastmod>2020-07-14T12:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3722,6 +3752,12 @@
   </url>
   <url>
     <loc>https://www.vice.com/en_us/article/wjmj84/deepminds-starcraft-victory-was-as-worrying-as-it-was-impressive</loc>
+    <lastmod>2020-07-09T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.taipeitimes.com/News/biz/archives/2020/07/10/2003739659</loc>
     <lastmod>2020-07-09T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

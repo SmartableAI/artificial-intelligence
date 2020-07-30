@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-30-googles-tf-coder-tool-automates-machine-learning-model-design.md",
+      "title": "Google’s TF-Coder tool automates machine learning model design",
+      "excerpt": "Researchers at Google Brain, one of Google’s AI research divisions, developed an automated tool for programming in machine learning frameworks like TensorFlow. They say it achieves better-than ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "publishedDateTime": "2020-07-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
       "title": "NVIDIA AI Runs The Mlperf Table Again",
       "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
@@ -134,6 +186,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-deepmind-and-oxford-university-researchers-on-how-to-decolonize-ai.md",
+      "title": "DeepMind and Oxford University researchers on how to 'decolonize' AI",
+      "excerpt": "Sometimes it’s tempting to think of every technological advancement as the brave first step on new shores, a fresh chance to shape the future rationally. In reality, every new tool enters the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/deepmind-oxford-decolonial-ai-paper-161535009.html?ref=hvper.com",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F56e71a10-b6ea-11ea-be63-3c82b7ed75d6&client=amp-blogside-v2&signature=13e61591f37859c9177c2973a9a2194787db698f",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/deepmind-oxford-decolonial-ai-paper-161535009.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-oxford-decolonial-ai-paper-161535009.html",
+      "publishedDateTime": "2020-07-28T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1330,98 +1432,6 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks.md",
-      "title": "Google’s TensorFlow gets a new test for training data leaks",
-      "excerpt": "Google late last month debuted experimental tests for its TensorFlow Privacy library designed to reduce the degree to which machine learning models leak identifiable personal information in",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202007/googles-tensorflow-gets-a-new-test-for-training-data-leaks",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/17145823/cybersecurity-online-authetication.jpg",
-          "width": 770,
-          "height": 577,
-          "title": "Google’s TensorFlow gets a new test for training data leaks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials.md",
-      "title": "Learn PyTorch: The best free online courses and tutorials",
-      "excerpt": "Look no further than these excellent free resources to master the development of deep learning models using PyTorch",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/04/abstract-fire-rays-100152558-100264577-large.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": "Learn PyTorch: The best free online courses and tutorials",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
-      "publishedDateTime": "2020-07-06T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

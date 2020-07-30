@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-30-foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world.md",
+      "title": "Foresight’s AI-powered wearable helps low-vision users feel the world",
+      "excerpt": "Using a custom version of the computer vision AI system YOLO, Foresight detects, classifies, and estimates the movement of objects surrounding the user, then uses the actuators to apply more or ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/foresight.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/amp/",
+      "publishedDateTime": "2020-07-30T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-googles-tf-coder-tool-automates-machine-learning-model-design.md",
       "title": "Google’s TF-Coder tool automates machine learning model design",
       "excerpt": "Researchers at Google Brain, one of Google’s AI research divisions, developed an automated tool for programming in machine learning frameworks like TensorFlow. They say it achieves better-than ...",
@@ -9,7 +59,7 @@
       "webUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -49,7 +99,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Google AI"
       ]
     },
     {
@@ -204,6 +255,55 @@
       ]
     },
     {
+      "path": "_news/2020-07-30-linkedin-details-ai-tool-that-better-matches-jobs-to-candidates.md",
+      "title": "LinkedIn details AI tool that better matches jobs to candidates",
+      "excerpt": "LinkedIn today pulled back the curtains on Qualified Applicant (QA), an AI system that learns from job candidate interactions the kinds of skills and experience a hirer prefers. It’s the model ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/amp/",
+      "publishedDateTime": "2020-07-30T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-aerospace-robotics-market-2020-2026-what-recent-study-say-about-top-companies-industry-growth-insights.md",
       "title": "Aerospace Robotics Market (2020-2026) | What Recent Study Say About Top Companies | Industry Growth Insights",
       "excerpt": "artificial intelligence, and cloud computing is expected to present numerous opportunities to the global aerospace robotics industry. The Objective of the “Global Aerospace Robotics Market” report is to depict the trends and upcoming for the Data ...",
@@ -333,6 +433,57 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-the-panopticon-is-already-here.md",
+      "title": "The Panopticon Is Already Here",
+      "excerpt": "Xi Jinping is using artificial intelligence to enhance his government’s totalitarian control—and he’s exporting this technology to regimes around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/KYuGtZFZ7v1t8Z0xCkj1QB6zF-M=/570x320/media/img/2020/07/WEL_Andersen_ChinaOpener/original.gif",
+          "width": 570,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/614197/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/614197/",
+      "publishedDateTime": "2020-07-30T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -776,6 +927,55 @@
       ]
     },
     {
+      "path": "_news/2020-07-30-twitter-gives-trumps-son-a-tweet-timeout.md",
+      "title": "Twitter Gives Trump's Son a Tweet Timeout",
+      "excerpt": "Twitter has temporarily halted President Donald Trump’s son from tweeting after he shared a video riddled with unsupported claims about the coronavirus Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/devpato/status/1288516384679485440",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/EeG6zYzXsAEAutO.png:small",
+          "width": 383,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-apple-tried-to-lure-amazons-video-app-by-offering-a-lower-15-fee-email-shows.md",
       "title": "Apple tried to lure Amazon's video app by offering a lower 15% fee, email shows",
       "excerpt": "In an email sent from Apple executive Eddy Cue to Amazon CEO Jeff Bezos in 2016, Apple said it would offer a 15% revenue share to Amazon for customers that sign up for Prime Video through Apple's payments system.",
@@ -925,55 +1125,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-29-how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it.md",
-      "title": "How the Coronavirus Pandemic Is Breaking Artificial Intelligence and How to Fix It",
-      "excerpt": "As covid-19 disrupted the world in March, online retail giant Amazon struggled to respond to the sudden shift caused by the pandemic. Household items like bottled water and toilet paper, which never ran out of stock,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cfvktbl8kf8ysccapvky.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp",
-      "publishedDateTime": "2020-07-29T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-29-a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics.md",
       "title": "A Look At Amazon's (AMZN) Initiatives in the Field of Robotics",
       "excerpt": "Here’s a look at Amazon’s (AMZN) initiatives in the field of robotics and how it’s becoming an integral part of its supply chain process. Amazon runs more 175 fulfillment centers worldwide. There are different types of robots deployed at its fulfillment centers,",
@@ -1052,156 +1203,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-scientists-use-ai-to-predict-what-makes-a-successful-relationship.md",
-      "title": "Scientists use AI to predict what makes a successful relationship",
-      "excerpt": "A new AI study led by Western University could provide them with some pointers. The researchers say it’s the first systematic attempt at using machine learning to predict relationship satisfaction. “Satisfaction with romantic relationships has important implications for health,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-29T185605.585-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
-      "publishedDateTime": "2020-07-29T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-leverage-ai-to-optimize-customer-service-outcomes.md",
-      "title": "Leverage AI to optimize customer service outcomes",
-      "excerpt": "With a more hands-on approach to AI — that is, using the technology to actually augment everyday communications — workers can gain insight into concepts, workflows and ideas that would otherwise go unnoticed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1147156422.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
-      "publishedDateTime": "2020-07-29T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
-      "title": "NVIDIA AI Runs The Mlperf Table Again",
-      "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/29/nvidia-ai-runs-the-mlperf-table-again/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21b4a80cd05964d6fae2b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-30-foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world.md",
+      "title": "Foresight’s AI-powered wearable helps low-vision users feel the world",
+      "excerpt": "Using a custom version of the computer vision AI system YOLO, Foresight detects, classifies, and estimates the movement of objects surrounding the user, then uses the actuators to apply more or ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/foresight.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world/amp/",
+      "publishedDateTime": "2020-07-30T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-googles-tf-coder-tool-automates-machine-learning-model-design.md",
       "title": "Google’s TF-Coder tool automates machine learning model design",
       "excerpt": "Researchers at Google Brain, one of Google’s AI research divisions, developed an automated tool for programming in machine learning frameworks like TensorFlow. They say it achieves better-than ...",
@@ -9,7 +59,7 @@
       "webUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -49,7 +99,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Google AI"
       ]
     },
     {
@@ -204,6 +255,55 @@
       ]
     },
     {
+      "path": "_news/2020-07-30-linkedin-details-ai-tool-that-better-matches-jobs-to-candidates.md",
+      "title": "LinkedIn details AI tool that better matches jobs to candidates",
+      "excerpt": "LinkedIn today pulled back the curtains on Qualified Applicant (QA), an AI system that learns from job candidate interactions the kinds of skills and experience a hirer prefers. It’s the model ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/amp/",
+      "publishedDateTime": "2020-07-30T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-aerospace-robotics-market-2020-2026-what-recent-study-say-about-top-companies-industry-growth-insights.md",
       "title": "Aerospace Robotics Market (2020-2026) | What Recent Study Say About Top Companies | Industry Growth Insights",
       "excerpt": "artificial intelligence, and cloud computing is expected to present numerous opportunities to the global aerospace robotics industry. The Objective of the “Global Aerospace Robotics Market” report is to depict the trends and upcoming for the Data ...",
@@ -333,6 +433,57 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-the-panopticon-is-already-here.md",
+      "title": "The Panopticon Is Already Here",
+      "excerpt": "Xi Jinping is using artificial intelligence to enhance his government’s totalitarian control—and he’s exporting this technology to regimes around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/KYuGtZFZ7v1t8Z0xCkj1QB6zF-M=/570x320/media/img/2020/07/WEL_Andersen_ChinaOpener/original.gif",
+          "width": 570,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/614197/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/614197/",
+      "publishedDateTime": "2020-07-30T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -776,6 +927,55 @@
       ]
     },
     {
+      "path": "_news/2020-07-30-twitter-gives-trumps-son-a-tweet-timeout.md",
+      "title": "Twitter Gives Trump's Son a Tweet Timeout",
+      "excerpt": "Twitter has temporarily halted President Donald Trump’s son from tweeting after he shared a video riddled with unsupported claims about the coronavirus Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/devpato/status/1288516384679485440",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/EeG6zYzXsAEAutO.png:small",
+          "width": 383,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-apple-tried-to-lure-amazons-video-app-by-offering-a-lower-15-fee-email-shows.md",
       "title": "Apple tried to lure Amazon's video app by offering a lower 15% fee, email shows",
       "excerpt": "In an email sent from Apple executive Eddy Cue to Amazon CEO Jeff Bezos in 2016, Apple said it would offer a 15% revenue share to Amazon for customers that sign up for Prime Video through Apple's payments system.",
@@ -922,55 +1122,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it.md",
-      "title": "How the Coronavirus Pandemic Is Breaking Artificial Intelligence and How to Fix It",
-      "excerpt": "As covid-19 disrupted the world in March, online retail giant Amazon struggled to respond to the sudden shift caused by the pandemic. Household items like bottled water and toilet paper, which never ran out of stock,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cfvktbl8kf8ysccapvky.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp",
-      "publishedDateTime": "2020-07-29T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1300,148 +1451,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger.md",
-      "title": "Nvidia and Google claim bragging rights in MLPerf benchmarks as AI computers get bigger and bigger",
-      "excerpt": "Nvidia and Google each had something to crow about in the latest benchmarks of giant AI computers. Some AI startups, though, continue to avoid the MLPerf bake-off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/29/bebb4f38-0069-44a0-af41-98a98fa8e44f/google-tpuv4-speed-up-versus-v3-july-29th-2020.png",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
-      "publishedDateTime": "2020-07-29T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch.md",
-      "title": "Researchers use neuromorphic chips and electronic ‘skin’ to give robots a sense of touch",
-      "excerpt": "Scientists from the University of Singapore have combined neuromorphic chips and electronic 'skin' to give robots a sense of touch.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-29T160841.851-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/amp/",
-      "publishedDateTime": "2020-07-29T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.md",
-      "title": "Artificial intelligence can aid in faster, better Alzheimer’s diagnosis, says study",
-      "excerpt": "London: Artificial intelligence (AI ... at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asianage.com/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200729204429.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
-      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
-      "publishedDateTime": "2020-07-29T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asian Age",
-        "domain": "asianage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

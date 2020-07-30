@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -118,6 +118,22 @@ related:
       - url: "https://cdn.iflscience.com/images/bef24761-a040-5402-804a-edf8dd42c8a5/default-1596119009-the-novel-technology-could-reveal-new-information-on-cold-cases-motortion-films-shutterstock.jpg"
         width: 720
         height: 405
+        isCached: true
+  - title: "New York Lawsuit Over School Facial Recognition Use Grows"
+    excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
+    publishedDateTime: 2020-07-30T19:07:00Z
+    webUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html"
+    ampWebUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
+        width: 916
+        height: 630
         isCached: true
   - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
     excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."

@@ -677,6 +677,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-21-aws-aws-deepracer-womens-league.md",
+      "title": "AWS เปิดตัว การแข่งขัน AWS DeepRacer Women’s League",
+      "excerpt": "อะเมซอน เว็บ เซอร์วิสเซส อิงค์ (AWS) บริษัทในเครือ Amazon.com เปิดตัวการแข่งขัน AWS DeepRacer Women’s League เป็นครั้งแรกของโลก ในเอเชียตะวันออกเฉียงใต้ โดยเป็นการแข่งขันที่ใช้รถยนต์ย่อส่วนที่ใช้ระบบข",
+      "sourceUrl": null,
+      "webUrl": "https://www.ryt9.com/s/prg/3143656",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ryt9.com/img/files/20200721/iqe02c36e6aea65e1bf22cb163e472ac87-0.jpg",
+          "width": 795,
+          "height": 889,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RYT9",
+        "domain": "ryt9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical.md",
       "title": "Query drug adverse effects and recalls based on natural language using Amazon Comprehend Medical",
       "excerpt": "In this post, we demonstrate how to use Amazon Comprehend Medical to extract medication names and medical conditions to monitor drug safety and adverse events.&nbsp;Amazon Comprehend Medical&nbsp;is a natural language processing (NLP) service that uses machine learning (ML) to easily extract relevant",
@@ -1362,56 +1403,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-software-as-a-service-saas-a-cheat-sheet.md",
-      "title": "Software as a Service (SaaS): A cheat sheet",
-      "excerpt": "SaaS replaces the need to physically purchase, install, and deploy application software throughout an organization. Learn more about SaaS, which is now a mainstay for businesses large and small.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/software-as-a-service-saas-a-cheat-sheet/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/08/07fbd827-e281-4447-9e66-204cd035b782/resize/1200x/bf50a36dcd544574fd1d9564eca03466/saas-istock-1203544876-putilich.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/software-as-a-service-saas-a-cheat-sheet/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/software-as-a-service-saas-a-cheat-sheet/",
-      "publishedDateTime": "2020-07-10T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
