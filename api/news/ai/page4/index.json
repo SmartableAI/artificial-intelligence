@@ -2,6 +2,279 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-27-how-to-unlock-your-iphone-without-a-pin-or-face-recognition.md",
+      "title": "How to unlock your iPhone without a PIN or face recognition",
+      "excerpt": "Wearing a mask can be a pain when trying to unlock an iPhone using Face ID. Here's how to unlock your iPhone without a PIN or face recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/man-checking-phone-with-mask-getty-1200x630-c-ar1.91-w.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp",
+      "publishedDateTime": "2020-07-27T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-facebook-builds-ai-tool-to-identify-harmful-behavior-of-people.md",
+      "title": "Facebook Builds AI Tool To Identify Harmful Behavior of People",
+      "excerpt": "The latest development can significantly improve software testing for complicated environments, specifically in areas related to privacy, safety and security",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/31511/artificial-intelligence.jpg",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
+      "publishedDateTime": "2020-07-27T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-will-ai-save-us-from-ourselves.md",
+      "title": "Will AI Save Us From Ourselves?",
+      "excerpt": "People are wired for immediate threats. That’s why humanity hasn’t made big progress on solving huge global challenges such as climate change, pandemics, food production, etc. If we are our own worst enemy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1e0b60bdf8e1f6991b2489%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/amp/",
+      "publishedDateTime": "2020-07-27T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy.md",
+      "title": "A New Brain-Inspired Learning Method for AI Saves Memory and Energy",
+      "excerpt": "Rather than processing big batches of data at once, the approach simply learns from data as it becomes available, cutting the required memory and energy.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/02/brain-2676370_1280.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
+      "publishedDateTime": "2020-07-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-this-ai-tool-can-identify-individual-birds-with-90-accuracy.md",
+      "title": "This AI tool can identify individual birds with 90% accuracy",
+      "excerpt": "Luckily for them, a new AI tool can do the tricky task for them — and potentially offer new insights into bird behaviors. Scientists first trained the AI on labeled images of wild great tits and ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-27T135305.160-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/",
+      "publishedDateTime": "2020-07-27T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-ai-can-add-25-to-gdp-with-policy-push-investment-nasscom.md",
+      "title": "AI can add 2.5% to GDP with policy push, investment: NASSCOM",
+      "excerpt": "With coronavirus-led disruption accelerating the adoption of artificial intelligence (AI) and automation, a report released by the IT industry body NASSCOM says that a unit increase in AI intensity (measured as the ratio of AI to total sales) can return up to $67.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/current/economy-politics/ai-can-add-25-to-gdp-with-policy-push-investment-nasscom/story/411198.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/a_i_505_270720060901.jpg?size=1200:675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.businesstoday.in/lite/story/ai-can-add-25-to-gdp-with-policy-push-investment-nasscom/1/411198.html",
+      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ai-can-add-25-to-gdp-with-policy-push-investment-nasscom/1/411198.html",
+      "publishedDateTime": "2020-07-27T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-12-ways-machine-learning-can-revamp-your-sales-process.md",
       "title": "12 Ways Machine Learning Can Revamp Your Sales Process",
       "excerpt": "Many technologies, including artificial intelligence (AI), can seriously help a business’s bottom line. Adoption of AI and machine learning allows companies to make needed improvements in the way they do business, but these technologies must be properly ...",
@@ -1098,291 +1371,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry.md",
-      "title": "The cloud becomes a delivery mechanism for the media and entertainment industry",
-      "excerpt": "The pandemic has accelerated digital transformation efforts in M&E businesses to help create innovation, efficiencies, and new revenue streams, according to a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/13441199-0033-4e37-a942-b9bc2deaac89/resize/1200x/9a229ce009266f1a6bbd4fa8123f6cb7/istock-1167582999.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
-      "publishedDateTime": "2020-07-24T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-ucla-childrens-hfchildrospital-implements-new-ai-robot-to-improve-mental-health-during-treatment.md",
-      "title": "UCLA Children's Hfchildrospital implements new AI robot to improve mental health during treatment",
-      "excerpt": "Children may undergo challenging experiences when admitted for in-patient care at pediatric hospitals. Now, a new AI robot, Robin, helps to improve their experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/24/5ec231cd-4134-4488-bd49-546e6f9a34ae/robin-ai-robot-expper-eileen-brown-zdnet.png",
-          "width": 1191,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
-      "publishedDateTime": "2020-07-24T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-machine-learning-reveals-recipe-for-building-artificial-proteins.md",
-      "title": "Machine learning reveals recipe for building artificial proteins",
-      "excerpt": "Proteins are essential to the life of cells, carrying out complex tasks and catalyzing chemical reactions. Scientists and engineers have long sought to harness this power by designing artificial proteins that can perform new tasks,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-protein.jpg",
-          "width": 2880,
-          "height": 2365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp",
-      "publishedDateTime": "2020-07-24T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3.md",
-      "title": "AI Weekly: The promise and shortcomings of OpenAI’s GPT-3",
-      "excerpt": "Even OpenAI says \"The GPT-3 hype is way too much.\" A look at the promise and shortcomings of GPT-3, a language model that's attracting a lot of attention.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
-      "publishedDateTime": "2020-07-24T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning.md",
-      "title": "Galvanizing manufacturing with Artificial Intelligence and Deep Learning",
-      "excerpt": "As a market leader in CAE solutions, Hewlett Packard Enterprise is delivering a purpose-built solutions portfolio jointly with NVIDIA® and several independent software vendors (ISVs) in the manufacturing industry to help manufacturers improve their AI/DL ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
-      "publishedDateTime": "2020-07-24T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-this-ai-protects-blm-protestors-from-facial-recognition.md",
-      "title": "This AI protects BLM protestors from facial recognition",
-      "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
-      "publishedDateTime": "2020-07-24T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

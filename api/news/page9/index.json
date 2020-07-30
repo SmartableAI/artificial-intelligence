@@ -2,6 +2,282 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-22-airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars.md",
+      "title": "Airplane Makes Emergency Landing On Busy Highway, Perplexing For Self-Driving Cars",
+      "excerpt": "A news report and an accompanying video clip recently showcased the harrowing escapade of a small airplane that made an emergency landing on a busy highway, doing so amid everyday car traffic. As though we all were a fly-on-the-wall,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216674946%2F0x0.jpg%3FcropX1%3D1043%26cropX2%3D5057%26cropY1%3D70%26cropY2%3D1952",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-07-22T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans.md",
+      "title": "Waymo and Fiat Chrysler Agree to Build Self-Driving Delivery Vans",
+      "excerpt": "Fiat Chrysler Automobiles (NYSE: FCAU) and Waymo said that they will work together to develop and build a series of self-driving commercial vans, the two companies announced in a statement on Wednesday. Under the deal, Waymo becomes FCA's exclusive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans-2020-07-22",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans-2020-07-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans-2020-07-22?amp",
+      "publishedDateTime": "2020-07-22T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-opportunities-in-artificial-intelligence-market-amidst-covid-19-pandemic.md",
+      "title": "Opportunities in Artificial Intelligence Market Amidst COVID-19 Pandemic",
+      "excerpt": "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/opportunities-in-artificial-intelligence-market-amidst-covid-19-pandemic-2020-07-22",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities.md",
+      "title": "Adopting AI: NVIDIA talks about the \"low hanging fruit\" opportunities",
+      "excerpt": "Why would a graphics company care about artificial intelligence? Here's why, and how you can most easily implement AI in your organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/22/b349b6ef-e46c-419e-9885-53385ed11e1e/resize/1200x/968d28be639d8e31a59e2504248272bc/istock-1253237278.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities/",
+      "publishedDateTime": "2020-07-22T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs.md",
+      "title": "IBM Cloud For Financial Services Momentum Builds With BNP Paribas And 30 ISVs",
+      "excerpt": "Nearly all of the financial services firms have tasted the benefits ... such as AI-enabled cognitive services, ease of machine learning capability development, managed databases and more. Their only question is how and when they will find vendors offering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1847bfa0b5e800071f18da%2F0x0.jpg",
+          "width": 1200,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/amp/",
+      "publishedDateTime": "2020-07-22T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-ai-security-and-ethics-startup-calypsoai-lands-13-million-in-funding.md",
+      "title": "AI security and ethics startup CalypsoAI lands $13 million in funding",
+      "excerpt": "CalypsoAI, a machine learning startup with its roots in the defense industry, has raised $13 million to help make government and corporate AI systems more secure and free of bias. Why it matters: Making AI systems that are free from bias,",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/QKM_OI0mo1BYu3oN1dzXmV3qB0E=/fit-in/1366x1366/2020/07/22/1595425142080.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
+      "publishedDateTime": "2020-07-22T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-autodesk-acquires-construction-ai-company-pype.md",
       "title": "Autodesk Acquires Construction AI Company Pype",
       "excerpt": "It is the first AI-related acquisition by Autodesk, a San Rafael, Calif.-based design software company.",
@@ -854,268 +1130,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-facebook-will-study-whether-its-algorithms-are-racially-biased.md",
-      "title": "Facebook will study whether its algorithms are racially biased",
-      "excerpt": "Facebook is forming new internal teams dedicated to studying its main social network and Instagram for racial bias, in particular for whether its algorithms trained using artificial intelligence adversely affect Black,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/21/21333405/facebook-instagram-racial-bias-equity-team-formed-ai-algorithms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/xRiOw_XLXnQycewLDqu9LQLhhNA=/0x0:2040x1360/1400x933/filters:focal(848x749:1174x1075):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67089074/jbareham_180405_1777_facebook_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/21/21333405/facebook-instagram-racial-bias-equity-team-formed-ai-algorithms",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/21/21333405/facebook-instagram-racial-bias-equity-team-formed-ai-algorithms",
-      "publishedDateTime": "2020-07-21T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms.md",
-      "title": "Using Artificial Intelligence/ Machine Learning to Detect Domain Generation Algorithms",
-      "excerpt": "We will also cover some unique and cutting-edge methods leveraging artificial intelligence/machine learning (AI/ML) to counter these threats and discuss how to handle false detections (both positive and negative).",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/cio/CIO_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense.md",
-      "title": "Cybersecurity Services Market Trends: Leveraging Artificial Intelligence, Machine Learning And Blockchain Technologies For Cyber Defense",
-      "excerpt": "Leveraging artificial intelligence (AI), machine learning and blockchain technologies for cyber defense is a key trend in the cybersecurity services market. Cybersecurity vendors integrate artificial intelligence (AI) and machine learning principles into their solutions to tackle crucial hyper-connected workplace risks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense-2020-07-21",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses.md",
-      "title": "Roomality uses AI to render window-sized 3D landscapes without glasses",
-      "excerpt": "Now a company called Roomality plans to use AI to deliver an immersively large 3D experience at home, without the need for glasses. The concept is fairly straightforward. Two cameras mounted above ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/roomality-e1595363084354.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses/amp/",
-      "publishedDateTime": "2020-07-21T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-in-economic-speech-biden-blasts-trumps-handling-of-the-pandemic.md",
-      "title": "In economic speech, Biden blasts Trump's handling of the pandemic",
-      "excerpt": "Mayor Keisha Lance Bottoms: The Atlanta mayor’s name recognition has soared as her fight with Georgia Gov. Brian Kemp goes to the courts. This week, Kemp signed an order forbidding municipal officials from declaring mask-wearing orders — and sued Lance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-latest-news-analysis-data-driving-political-discussion-n988541/ncrd1234513",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2019_45/3089171/191107-meet-the-press-liveblog-cs-129p_9a02b422cbd06ceb3b377ce04b8d0e08.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/blog/ncna988541",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna988541",
-      "publishedDateTime": "2020-07-21T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-a-tech-visionary-a-cloud-telecommunications-giant-and-the-coolest-ai-start-up-ceo-in-the-market-to-headline-questexs-fierce-ai-week.md",
-      "title": "A Tech Visionary, a Cloud & Telecommunications Giant and the Coolest AI Start Up CEO in the Market to Headline Questex's Fierce AI Week",
-      "excerpt": "Questex's Fierce AI Week, the virtual event focused exclusively on the application of AI to drive business, customer and",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16718666/a-tech-visionary-a-cloud-telecommunications-giant-and-the-coolest-ai-start-up-ceo-in-the-market-to",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16718666",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16718666",
-      "publishedDateTime": "2020-07-21T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

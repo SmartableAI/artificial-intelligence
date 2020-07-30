@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing Market in Trends, Standardization, Challenges Research, Key Players and Forecast to 2024"
+    excerpt: "Selbyville, Delaware Global Cloud Natural Language Processing Market Report added at Market Study Report LLC provides industry size, share, growth, trends and forecast analysis up to period. Cloud Natural Language Processing Market Report also covers top key players,"
+    publishedDateTime: 2020-07-30T16:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-in-trends-standardization-challenges-research-key-players-and-forecast-to-2024-2020-07-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Strength, Major Type, Key Application And Leading Companies Forecast Till 2026"
     excerpt: "Jul 29, 2020 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ..."
     publishedDateTime: 2020-07-29T08:52:00Z

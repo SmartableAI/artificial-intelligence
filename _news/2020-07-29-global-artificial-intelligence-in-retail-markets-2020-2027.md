@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16822677"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822677"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Global Artificial Intelligence in Food and Beverage Sales, Revenue and Market Share by Country (2020-2025)"
+    excerpt: "This report also researches and evaluates the impact of Covid 19 outbreak on theArtificial Intelligence in Food and Beverage industry involving potential opportunity and challenges drivers and risks We present the impact assessment of Covid 19 effects onArtificial Intelligence in"
+    publishedDateTime: 2020-07-30T06:16:00Z
+    webUrl: "https://www.openpr.com/news/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
+    ampWebUrl: "https://www.openpr.com/amp/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 39
+    images:
+      - url: "https://cdn.openpr.com/T/7/T730166302_g.jpg"
+        width: 566
+        height: 348
+        isCached: true
   - title: "Image Recognition MarketIn Depth Analysis By Total Revenue And Industry Growth Rate Forecast Till 2026"
     excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation"
     publishedDateTime: 2020-07-29T11:02:00Z

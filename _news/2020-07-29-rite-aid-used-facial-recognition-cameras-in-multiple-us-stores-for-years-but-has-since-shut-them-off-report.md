@@ -115,6 +115,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New Approach Aims To Use Facial Recognition Technology To Link The Victims Of Serial Killers"
+    excerpt: "Using facial recognition technology, the approach aims to recognize when victims with similar appearances are being targeted, as has sometimes been the case with historic, infamous serial killers such as Ted Bundy. The project was conceived and lead by ..."
+    publishedDateTime: 2020-07-30T17:08:00Z
+    webUrl: "https://www.iflscience.com/technology/new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers/"
+    ampWebUrl: "https://amp.iflscience.com/technology/new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 63
+    images:
+      - url: "https://cdn.iflscience.com/images/bef24761-a040-5402-804a-edf8dd42c8a5/default-1596119009-the-novel-technology-could-reveal-new-information-on-cold-cases-motortion-films-shutterstock.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Reuters: Rite Aid Deployed China-Linked Facial Recognition in Poor Neighborhoods"
     excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country, a Reuters investigation found."
     publishedDateTime: 2020-07-30T13:01:00Z

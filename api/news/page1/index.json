@@ -2,6 +2,249 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-30-googles-tf-coder-tool-automates-machine-learning-model-design.md",
+      "title": "Google’s TF-Coder tool automates machine learning model design",
+      "excerpt": "Researchers at Google Brain, one of Google’s AI research divisions, developed an automated tool for programming in machine learning frameworks like TensorFlow. They say it achieves better-than ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "publishedDateTime": "2020-07-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-technologists-and-business-leaders-dont-see-eye-to-eye-on-artificial-intelligence.md",
+      "title": "Technologists and business leaders don't see eye to eye on artificial intelligence",
+      "excerpt": "Business leaders and technologists see artificial intelligence differently -- which is not a surprise. However, they have different perspectives on the progress on AI projects, and what it takes to scale AI to meet enterprise challenges. For example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/30/1ba9fe6c-0378-41b8-a981-1e8ecf7e03df/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
+          "width": 480,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai/",
+      "publishedDateTime": "2020-07-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-microsoft-hackathon-leads-to-ai-and-sustainability-collaboration-to-rid-plastic-from-rivers-and-the-ocean.md",
+      "title": "Microsoft Hackathon leads to AI and sustainability collaboration to rid plastic from rivers and the ocean",
+      "excerpt": "The post Microsoft Hackathon leads to AI and sustainability collaboration to rid plastic from rivers and the ocean appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/features/microsoft-hackathon-leads-to-ai-and-sustainability-collaboration-to-rid-plastic-from-rivers-and-the-ocean/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/07/cr-191026-THEOCEANCLEANUP_MALAYSIA-1099041-1024x651.jpg",
+          "width": 1024,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T09:14:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-whats-this-a-bipartisan-plan-for-ai-and-national-security.md",
+      "title": "What’s This? A Bipartisan Plan for AI and National Security",
+      "excerpt": "They want to cut off China’s access to AI-specific silicon chips and push Congress and federal agencies to devote more resources to advancing and safely deploying AI technology. Although Capitol Hill is increasingly divided, the bipartisan duo claim to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/bipartisan-plan-ai-national-security/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f2240e32c5af566ee4afe17/master/pass/business_military_535764174.jpg",
+          "width": 2170,
+          "height": 1446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bipartisan-plan-ai-national-security/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bipartisan-plan-ai-national-security/amp",
+      "publishedDateTime": "2020-07-30T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-aerospace-robotics-market-2020-2026-what-recent-study-say-about-top-companies-industry-growth-insights.md",
+      "title": "Aerospace Robotics Market (2020-2026) | What Recent Study Say About Top Companies | Industry Growth Insights",
+      "excerpt": "artificial intelligence, and cloud computing is expected to present numerous opportunities to the global aerospace robotics industry. The Objective of the “Global Aerospace Robotics Market” report is to depict the trends and upcoming for the Data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T730328623_g.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say",
+      "publishedDateTime": "2020-07-30T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-machine-learning-and-organizational-change-at-southern-california-edison.md",
       "title": "Machine Learning And Organizational Change At Southern California Edison",
       "excerpt": "The team took all the time needed to get stakeholders engaged. Moore came into the project in the summer of 2018, and he was able to get a machine learning model up and running in a month or so, but presenting it, socializing it, and gaining buy-in for it ...",
@@ -682,6 +925,55 @@
       ]
     },
     {
+      "path": "_news/2020-07-29-how-the-coronavirus-pandemic-is-breaking-artificial-intelligence-and-how-to-fix-it.md",
+      "title": "How the Coronavirus Pandemic Is Breaking Artificial Intelligence and How to Fix It",
+      "excerpt": "As covid-19 disrupted the world in March, online retail giant Amazon struggled to respond to the sudden shift caused by the pandemic. Household items like bottled water and toilet paper, which never ran out of stock,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cfvktbl8kf8ysccapvky.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143/amp",
+      "publishedDateTime": "2020-07-29T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics.md",
       "title": "A Look At Amazon's (AMZN) Initiatives in the Field of Robotics",
       "excerpt": "Here’s a look at Amazon’s (AMZN) initiatives in the field of robotics and how it’s becoming an integral part of its supply chain process. Amazon runs more 175 fulfillment centers worldwide. There are different types of robots deployed at its fulfillment centers,",
@@ -910,298 +1202,6 @@
         "AI",
         "Natural Language Processing",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-investment-in-ai-startups-slips-to-three-year-low.md",
-      "title": "Investment in AI startups slips to three-year low",
-      "excerpt": "These AI-powered startups have seen quarterly investment totals rise from a few hundred rounds and a few billion dollars each quarter to 1,245 rounds and $17.3 billion in the second and third ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/29/investment-in-ai-startups-slips-to-three-year-low/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-red.jpg?w=300",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/29/investment-in-ai-startups-slips-to-three-year-low/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/investment-in-ai-startups-slips-to-three-year-low/amp/",
-      "publishedDateTime": "2020-07-29T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-google-claims-its-new-tpus-are-27-times-faster-than-the-previous-generation.md",
-      "title": "Google claims its new TPUs are 2.7 times faster than the previous generation",
-      "excerpt": "Google points to the latest MLPerf benchmark results as evidence its newest TPUs are up to 2.7 times faster than the previous generation in AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/amp/",
-      "publishedDateTime": "2020-07-29T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger.md",
-      "title": "Nvidia and Google claim bragging rights in MLPerf benchmarks as AI computers get bigger and bigger",
-      "excerpt": "Nvidia and Google each had something to crow about in the latest benchmarks of giant AI computers. Some AI startups, though, continue to avoid the MLPerf bake-off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/29/bebb4f38-0069-44a0-af41-98a98fa8e44f/google-tpuv4-speed-up-versus-v3-july-29th-2020.png",
-          "width": 1200,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
-      "publishedDateTime": "2020-07-29T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch.md",
-      "title": "Researchers use neuromorphic chips and electronic ‘skin’ to give robots a sense of touch",
-      "excerpt": "Scientists from the University of Singapore have combined neuromorphic chips and electronic 'skin' to give robots a sense of touch.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-29T160841.851-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/29/researchers-use-neuromorphic-chips-and-electronic-skin-to-give-robots-a-sense-of-touch/amp/",
-      "publishedDateTime": "2020-07-29T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.md",
-      "title": "Artificial intelligence can aid in faster, better Alzheimer’s diagnosis, says study",
-      "excerpt": "London: Artificial intelligence (AI ... at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asianage.com/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200729204429.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
-      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
-      "publishedDateTime": "2020-07-29T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asian Age",
-        "domain": "asianage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-ai-machine-learning-dependency-limitations-and-bias.md",
-      "title": "AI & machine learning: dependency, limitations and bias",
-      "excerpt": "A conversation on AI and machine learning ... our products and services. © 2020 CNBC LLC. All Rights Reserved. A Division of NBCUniversal Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2020/07/29/ai-machine-learning-dependency-limitations-and-bias.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106638094-1596035750222-TEC_july_29_thumbnail.PNG?v=1596035766",
-          "width": 1892,
-          "height": 998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

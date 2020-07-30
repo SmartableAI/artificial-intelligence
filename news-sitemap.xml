@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/</loc>
+    <lastmod>2020-07-30T09:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/the-state-of-ai/</loc>
+    <lastmod>2020-07-30T09:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.microsoft.com/features/microsoft-hackathon-leads-to-ai-and-sustainability-collaboration-to-rid-plastic-from-rivers-and-the-ocean/</loc>
+    <lastmod>2020-07-30T09:14:23-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/bipartisan-plan-ai-national-security/</loc>
+    <lastmod>2020-07-30T09:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say</loc>
+    <lastmod>2020-07-30T07:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/</loc>
     <lastmod>2020-07-30T07:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -81,6 +111,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate/</loc>
     <lastmod>2020-07-29T13:57:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gizmodo.com/how-the-coronavirus-pandemic-is-breaking-artificial-int-1844544143</loc>
+    <lastmod>2020-07-29T13:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1957,14 +1993,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition</loc>
-    <lastmod>2020-07-17T14:02:00-07:00</lastmod>
+    <loc>https://www.finanzen.net/nachricht/aktien/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-9084341</loc>
+    <lastmod>2020-07-17T14:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-301095695.html</loc>
-    <lastmod>2020-07-17T13:59:00-07:00</lastmod>
+    <loc>https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition</loc>
+    <lastmod>2020-07-17T14:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
