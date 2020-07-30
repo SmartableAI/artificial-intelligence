@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia and Google claim bragging rights in MLPerf benchmarks as AI computers get bigger and bigger"
-    excerpt: "Nvidia and Google each had something to crow about in the latest benchmarks of giant AI computers. Some AI startups, though, continue to avoid the MLPerf bake-off."
-    publishedDateTime: 2020-07-29T17:17:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/"
+  - title: "Google supercomputer, Nvidia GPUs break AI performance records"
+    excerpt: "Google said it has built the worlds fastest machine learning (ML) training supercomputer that broke AI performance records in six out of eight industry-leading"
+    publishedDateTime: 2020-07-30T05:45:00Z
+    webUrl: "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms"
+    ampWebUrl: "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms"
+    cdnAmpWebUrl: "https://mumbaimirror-indiatimes-com.cdn.ampproject.org/c/s/mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
+      name: India Times
+      domain: indiatimes.com
+    quality: 78
     images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/29/bebb4f38-0069-44a0-af41-98a98fa8e44f/google-tpuv4-speed-up-versus-v3-july-29th-2020.png"
-        width: 1200
-        height: 742
+      - url: "https://mumbaimirror.indiatimes.com/thumb/77255488.cms?resizemode=4&width=400"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "FmHEu09FaDDs/I4VULaLpxQjrK0GiIRO8cKZbL1SOIa8VT8AcEFy003xzqPX1Nuhe/hnHadOVp3tPc6jWYjyc4VNK0IWyH8T6l7beOxaVHZ8RjJF46Bk198X35TwXbhcM+Yd6wtcIfOH2tSKlCgK/QYa0B/2xscpCoVjcLUYkPkf2cXXKWxhtrKTcMPMbw1hxp5ht9eU5jkoGLKzqZwtfpIVhOume4A/EoO7HJJkY/j8w/IYMvH0wZc72WlE8kTJB64rpkirkgz+2wnYASymYTyJ+j2+r6/LYlCfV0zmZ62TnMNLy4DcCSWu4UpYA5E3h1HsF1JHBoPAamoDGb0sXvxd0jztaTwedhAWnXjAATo82KR94i9kNSnzdJY8L4jndPA5m50CkvURJIeV2EKEMndUHwbVP4sfrbTdoi84BcT/JMRG+JMojO/2ot42gmluqh/gmnc/vLdmsjW2ZI+0idlcU8ZE20QkrcKQAEzMY4dvZlYB4MSbwyK0naG0N19GRDO7Acx3xNB2Ssq3mDPixg==;Zc7HR6e7hnRUKN6Y5LW0BA=="

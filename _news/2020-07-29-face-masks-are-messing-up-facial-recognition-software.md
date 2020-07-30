@@ -3,17 +3,17 @@ category: news
 title: "Face masks are messing up facial recognition software"
 excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
 publishedDateTime: 2020-07-29T17:35:00Z
-webUrl: "https://www.wesh.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-ampWebUrl: "https://www.wesh.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Computer Vision
@@ -247,6 +247,6 @@ related:
       domain: medindia.net
     quality: 12
 
-secured: "U1lLx21IYXTHgO+ygwPQHt5P86MYp2IgctCo3QG+oa0SncmmgVpHGCkomXrYtbBcA4RKF8N+CNptINFlUkjjPAt96MImEFgfbPJO8Z/KmZExjKQKuHQ7kQap0hWY8+zPBlBbVUU30YrAylW+H4DVn1Lzgvrsk+Vzf0CfEZwrVMCj+9lYVf8PW3+z65iXsRrb86We9A8TFEolVx/3xIPn5goMaxS0f5pXzQ/5P3pzqAg9W4IcELKqq/aCaLpBG9Q0ItRGCniZ5PqDY5GKqt3PTNRK6ItjtT04Orlq9JeYN8E2zGaaBLeMXfVm8mdNlG3QYFhXKSClP1dl+1axI3kzxU3t3e0x3OTY4K2lwb6Lq4CoHw5zcfoppib5id0x4wwXCuefqAUq8ton0QX75JSY45pxmuoJxQWGCQAlurnESG7l53eSGb98c0eXQiChbSenSwCRCQ46VEaaIs3aJ1U68doGRsa+RGfRBDuSwehmcWMaW/410J3H0g4DO9/fhc6IOmCx7Crv9Ay4jFZ79+LdEQ==;S5Oyc72HnbANb7krwrcA7w=="
+secured: "tFK3Y6J/bLvyDJhiSaCaVhULYYGTOFIR3x76eJ+mL7e/2LNE1yTwanEg4b0HBeJ5bCLG/kLLDiGTh4tXitMPLMIjbB3JvZh44POajgKD1hN8mrd9WuCbMWh8AljuUvbBZ/ZMLdUeDNKdGkGnMbAnW3clalpBB7xRPfIqf+Lcdgmo+9rBFC9Pt22xFhHvqDvmkaGO6QhfnFfaUfwAWW79EQbh90fM6uxb5pE6GRp0E5LI/rxq4irxWS/lZwLU4qWcXY6fFF8q6dNnxA05C3/A/EOT+nwaVe/bw8KcvdYWQiuQDg9NHwScMarO81z5Stf3UDe10Xazm2ceBJlX/RIF6A==;D5utvy7QGTk9KsinM+/FdQ=="
 ---
 

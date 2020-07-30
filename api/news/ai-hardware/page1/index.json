@@ -9,7 +9,7 @@
       "webUrl": "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 76,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -40,7 +40,8 @@
       "topics": [
         "Google AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {
@@ -153,7 +154,7 @@
       "webUrl": "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -254,7 +255,7 @@
       "webUrl": "https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -305,7 +306,7 @@
       "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {

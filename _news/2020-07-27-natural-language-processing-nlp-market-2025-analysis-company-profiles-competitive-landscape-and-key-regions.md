@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cognitive Computing Industry- Global Market demand Analysis, Industry Chain, Competitors, Revenue and Forecast 2020 – 2026"
+    excerpt: "Cognitive computing systems are developed by using machine learning algorithms and Natural Language Processing (NLP)"
+    publishedDateTime: 2020-07-30T09:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-industry--global-market-demand-analysis-industry-chain-competitors-revenue-and-forecast-2020-2026-2020-07-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Industry Analysis 2019 – 2025"
     excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market report provides in-depth statistics and analysis available on the market status of the Natural Language Processing (NLP) in Healthcare and Life Sciences Manufacturers and is a ..."
     publishedDateTime: 2020-07-26T08:15:00Z

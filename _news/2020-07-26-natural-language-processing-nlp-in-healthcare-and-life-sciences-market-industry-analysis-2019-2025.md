@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Industry- Global Market demand Analysis, Industry Chain, Competitors, Revenue and Forecast 2020 – 2026"
+    excerpt: "Cognitive computing systems are developed by using machine learning algorithms and Natural Language Processing (NLP)"
+    publishedDateTime: 2020-07-30T09:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-industry--global-market-demand-analysis-industry-chain-competitors-revenue-and-forecast-2020-2026-2020-07-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FeCGvs1DsgGtWdgPQANYLsq6m1bnKe9yDVkQg+gKOBT716njyQrNE5rKZDIisrLFvmmoKD/CKOXYJOESJVC4qHLTrmOetLd0DQ5fjcPQdUFaiZuSpBzv6gBFASp1dB4heO3J8VulfR/7QtuIdlTnuSWo7Hvk1SIAROAeSDbVIx6j3oucTB4CxiJrkpivdFQIyVN2OvbTPm6zPt/U6MJtRGWs/10Ws8UDQZa50g0UeV6DgexGvZW0fTOS096phuzXyLwnnLT505EiAWKj4QvoFhHjBzX7ZWuo7CcXsEjp997IcK5ruOD4cy4t4zK31yYMH+0D9M8TmCsRXd2d+ufpfw==;INA4axxMECpSV48W016big=="
 ---

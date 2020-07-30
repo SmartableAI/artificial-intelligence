@@ -109,7 +109,7 @@
       "webUrl": "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 76,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -140,7 +140,8 @@
       "topics": [
         "Google AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Microsoft AI"
       ]
     },
     {
@@ -631,7 +632,7 @@
       "webUrl": "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -873,7 +874,7 @@
       "webUrl": "https://www.zdnet.com/article/microsoft-were-taking-over-windows-10-pytorch-ai-library-from-facebook/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
