@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-25-dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine.md",
+      "title": "Dayzz Sleep App Announces Publication of the Findings From Clinical Trial to Validate Its Sleep Assessment Machine Learning Engine",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... of its first clinical trial. dayzz' machine learning engine enables assessment of common ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "publishedDateTime": "2020-06-25T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-blue-ridge-enhances-machine-learning-capabilities-for-price-optimization.md",
       "title": "Blue Ridge Enhances Machine Learning Capabilities for Price Optimization",
       "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... which leverage machine learning to quickly identify opportunities and simulate pricing ...",

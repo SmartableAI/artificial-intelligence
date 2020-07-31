@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Buildots raises $16m as it brings AI computer vision to construction management"
+    excerpt: "Buildots, the company bringing AI to construction, have announced that it had secured $16 million in funding to leverage the power of AI to track, analyze and provide actionable"
+    publishedDateTime: 2020-07-31T05:48:00Z
+    webUrl: "https://londonlovesbusiness.com/buildots-raises-16m-as-it-brings-ai-computer-vision-to-construction-management/"
+    type: article
+    provider:
+      name: londonlovesbusiness.com
+      domain: londonlovesbusiness.com
+    quality: 50
+    images:
+      - url: "https://londonlovesbusiness.com/wp-content/uploads/2020/07/Buildots-technology-in-action-photo-credit-Eyal-Toueg.jpg"
+        width: 599
+        height: 400
+        isCached: true
 
 secured: "VsLw1FpdXuL0Xqoz4jNYoMLcknris/9hw0+2EpRZT0XbCbJaotCYjuHdgQCg8W6wcOCer9+QAoEy0grTm/1B2reGKbbAqHmWJBKwizWpFcuwbTNYhhxhgknXTDXTl6WVFqK/lXinQxgpMWp8Gj+b8vM1+d3pOekA3AADApjCX0ZBRb7+C8+CdZMltlv6avEYrtwuGRhC2jhYlnqggOgh+jp06UCI/BnV97jEeX2Tf1/tRslp482RwIghp/9dPdCGOQNv/Xe4P0PG58iUX5phzejHyVerwSK7Ehyj05czgRlT1S8QSBeubV5rK2KgLSmrcFg0DoD2+y3HUmwPOTWG1g==;WnAg+yiY50u2bdh+cUUP1Q=="
 ---

@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing/</loc>
-    <lastmod>2020-07-31T10:55:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/</loc>
+    <lastmod>2020-07-31T12:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-for-the-aws-deepcomposer-chartbusters-bach-to-the-future-challenge/</loc>
-    <lastmod>2020-07-31T10:32:08-07:00</lastmod>
+    <loc>https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/</loc>
+    <lastmod>2020-07-31T11:35:19-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing/</loc>
+    <lastmod>2020-07-31T10:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -615,12 +621,6 @@
   <url>
     <loc>https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/</loc>
     <lastmod>2020-07-27T09:56:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/</loc>
-    <lastmod>2020-07-27T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2175,6 +2175,12 @@
   <url>
     <loc>https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx</loc>
     <lastmod>2020-07-17T10:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.freightwaves.com/news/commentary%253A-combine-optimization,-machine-learning-and-simulation-to-move-freight</loc>
+    <lastmod>2020-07-17T09:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

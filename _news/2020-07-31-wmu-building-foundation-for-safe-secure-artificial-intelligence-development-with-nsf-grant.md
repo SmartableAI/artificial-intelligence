@@ -5,8 +5,8 @@ excerpt: "KALAMAZOO, Mich.—Self-driving vehicles. Smart digital personal assis
 publishedDateTime: 2020-07-31T15:36:00Z
 webUrl: "https://wmich.edu/news/2020/07/60501"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://wmich.edu/sites/default/files/styles/1200x628/public/images/news/2020/07/GettyImages-1189020673.jpg?itok=Ugspk9rF"

@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-31-researchers-examine-the-ethical-implications-of-ai-in-surgical-settings.md",
+      "title": "Researchers examine the ethical implications of AI in surgical settings",
+      "excerpt": "In a whitepaper, researchers at the Vector Institute examine the ethical implications of applying AI and machine learning systems in surgical settings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Cmglee_Cambridge_Science_Festival_2015_da_Vinci-1-e1596222334568.jpg?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/amp/",
+      "publishedDateTime": "2020-07-31T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge.md",
+      "title": "Announcing the AWS DeepComposer Chartbusters Spin the Model challenge",
+      "excerpt": "Whether your jam is reggae, hip-hop or electronic you can get creative and enter the latest AWS DeepComposer Chartbusters challenge! The Spin the Model challenge launches today and is open until August 23, 2020. AWS DeepComposer gives developers a creative way to get started with machine learning. Chartbusters",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/spin-the-model-025.jpg",
+          "width": 1000,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T11:35:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing.md",
       "title": "ProBeat: Slowing AWS, Microsoft Azure, and Google Cloud revenue growth is a good thing",
       "excerpt": "Amazon Web Services revenue slowed to 29%, Microsoft Azure revenue slowed to 47%, and Google Cloud revenue slowed to 43%. Blame the pandemic.",
@@ -49,56 +149,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-announcing-the-winner-for-the-aws-deepcomposer-chartbusters-bach-to-the-future-challenge.md",
-      "title": "Announcing the winner for the AWS DeepComposer Chartbusters Bach to the Future challenge",
-      "excerpt": "We are excited to announce the top 10 compositions and the winner for the AWS DeepComposer Chartbusters Bach to the Future challenge. AWS DeepComposer gives developers a creative way to get started with machine learning. Chartbusters is a monthly challenge where you can use AWS DeepComposer to create",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-for-the-aws-deepcomposer-chartbusters-bach-to-the-future-challenge/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/31/bach-to-the-future-winner-3-2.jpg",
-          "width": 700,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T10:32:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -1161,56 +1211,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-buildots-raises-16m-to-bring-computer-vision-to-construction-management.md",
-      "title": "Buildots raises $16M to bring computer vision to construction management",
-      "excerpt": "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, today announced that it has raised $16 million in total funding. This includes a $3 million seed round that was previously unreported and a $13 million Series A round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/IMG_3411_s.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/",
-      "publishedDateTime": "2020-07-30T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

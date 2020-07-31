@@ -2,6 +2,46 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-16-suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims.md",
+      "title": "Suncorp Group taps into artificial intelligence and data to manage insurance claims",
+      "excerpt": "Using data to build claims reports to measure the health of the business was previously a tedious two-step process for frontline staff of Suncorp Group's insurance business. Speaking to ZDNet, Suncorp head of automation Tim Johnson explained how historically the process required staff to approach the business insights team to help produce the reports and find any anomalies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
+      "publishedDateTime": "2020-07-15T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-graphcore-unveils-new-gc200-chip-and-the-expandable-m2000-ipu-machine-that-runs-on-them.md",
       "title": "Graphcore unveils new GC200 chip and the expandable M2000 IPU Machine that runs on them",
       "excerpt": "There is a lot riding on the use of artificial intelligence technology to help us take giant leaps ahead in solving complex challenges — whether it’s medical breakthroughs, building better cybersecurity or creating better navigation systems for cars and other moving objects.",
@@ -1376,55 +1416,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-chase-is-using-ai-to-update-banking.md",
-      "title": "How Chase is using AI to update banking",
-      "excerpt": "Last Chance: Register for Transform, VB's AI event of the year, hosted online July 15-17. As one of the so-called “big four” U.S. banks, Chase needs little in the way of introduction.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/JPMorganChase.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
-      "publishedDateTime": "2020-07-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

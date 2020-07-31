@@ -2,20 +2,20 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-31-announcing-the-winner-for-the-aws-deepcomposer-chartbusters-bach-to-the-future-challenge.md",
-      "title": "Announcing the winner for the AWS DeepComposer Chartbusters Bach to the Future challenge",
-      "excerpt": "We are excited to announce the top 10 compositions and the winner for the AWS DeepComposer Chartbusters Bach to the Future challenge. AWS DeepComposer gives developers a creative way to get started with machine learning. Chartbusters is a monthly challenge where you can use AWS DeepComposer to create",
+      "path": "_news/2020-07-31-announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge.md",
+      "title": "Announcing the AWS DeepComposer Chartbusters Spin the Model challenge",
+      "excerpt": "Whether your jam is reggae, hip-hop or electronic you can get creative and enter the latest AWS DeepComposer Chartbusters challenge! The Spin the Model challenge launches today and is open until August 23, 2020. AWS DeepComposer gives developers a creative way to get started with machine learning. Chartbusters",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-for-the-aws-deepcomposer-chartbusters-bach-to-the-future-challenge/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 80,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/31/bach-to-the-future-winner-3-2.jpg",
-          "width": 700,
-          "height": 569,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/spin-the-model-025.jpg",
+          "width": 1000,
+          "height": 470,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,7 +24,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T10:32:08-07:00",
+      "publishedDateTime": "2020-07-31T11:35:19-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

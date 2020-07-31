@@ -2,6 +2,55 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-07-16-darpa-pays-1-million-for-an-ai-app-that-can-predict-an-enemys-emotions.md",
+      "title": "DARPA Pays $1 Million For An AI App That Can Predict An Enemy’s Emotions",
+      "excerpt": "The science of using AI to detect and predict emotions is shaky but the U.S. military and a handful of well-funded startups are hoping to prove the doubters wrong, whatever the risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959878254%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
+      "publishedDateTime": "2020-07-16T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool.md",
       "title": "Translate ancient hieroglyphs with Google's new AI-powered tool",
       "excerpt": "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist.",
@@ -1253,46 +1302,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims.md",
-      "title": "Suncorp Group taps into artificial intelligence and data to manage insurance claims",
-      "excerpt": "Using data to build claims reports to measure the health of the business was previously a tedious two-step process for frontline staff of Suncorp Group's insurance business. Speaking to ZDNet, Suncorp head of automation Tim Johnson explained how historically the process required staff to approach the business insights team to help produce the reports and find any anomalies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
-      "publishedDateTime": "2020-07-15T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
