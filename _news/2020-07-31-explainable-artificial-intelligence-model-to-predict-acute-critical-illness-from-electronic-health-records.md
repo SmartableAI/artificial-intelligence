@@ -5,6 +5,9 @@ excerpt: "Previous work on electronic health records (EHR) trained artificial in
 publishedDateTime: 2020-07-31T09:10:00Z
 webUrl: "https://www.nature.com/articles/s41467-020-17431-x"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Nature
@@ -12,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-17431-x/MediaObjects/41467_2020_17431_Fig1_HTML.png"

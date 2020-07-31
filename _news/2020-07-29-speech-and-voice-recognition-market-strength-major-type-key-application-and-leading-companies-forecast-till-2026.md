@@ -28,47 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market Segmentation, Research Methodology And Revenue Growth Forecast Till 2026"
-    excerpt: "The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion"
-    publishedDateTime: 2020-07-29T09:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29"
+  - title: "Vehicle Speech Recognition System Market"
+    excerpt: "A new research study has been presented by Dataintelo.com offering a comprehensive analysis on the Global Vehicle Speech Recognition System Market where user can benefit from the complete market research report with all the required useful information ..."
+    publishedDateTime: 2020-07-31T13:10:00Z
+    webUrl: "https://www.openpr.com/news/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
+    ampWebUrl: "https://www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Growth, Segmentation, Size and Share"
-    excerpt: "Pune, Maharashtra, India, July 30 2020 (Wiredrelease) MarketResearch.Biz –: The recent report posted via MarketResearch.Biz on Artificial Intelligence (AI) in Agriculture market offers critical market insights in conjunction with targeted segmentation ..."
-    publishedDateTime: 2020-07-30T12:37:00Z
-    webUrl: "https://www.eturbonews.com/577801/artificial-intelligence-ai-in-agriculture-market-growth-segmentation-size-and-shareinternational-business-machines-corporation-deere-company-microsoft-corporation/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 44
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
-        isCached: true
-  - title: "Cloud Natural Language Processing Market in Trends, Standardization, Challenges Research, Key Players and Forecast to 2024"
-    excerpt: "Selbyville, Delaware Global Cloud Natural Language Processing Market Report added at Market Study Report LLC provides industry size, share, growth, trends and forecast analysis up to period. Cloud Natural Language Processing Market Report also covers top key players,"
-    publishedDateTime: 2020-07-30T16:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-in-trends-standardization-challenges-research-key-players-and-forecast-to-2024-2020-07-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/7/T731922844_g.jpg"
+        width: 560
+        height: 315
         isCached: true
 
 secured: "Tk3NoIWDf5/5HOjhDpuTOJNCV6y1OAqOw3wM6mO4t3c15XT190S/xkhqndHSIQxOMyG4eZAlJUfF2UAPPhncc0HkrUkK6spl3HbYYLG2I2Cxf4m+LbZWPt8DaJOpMD1PCu6fVTOa2wkcofbdPQA/O0jhVpcklmiflAuDwNezLj4JYjLq3seKjMDCzaUCAdpPO84+UyXqVV4WPhF+i5dUNA9bjDTnv6NDiNOPP1NRgmVKsozarME5+4CTN0L1/d0Y7SG/h/eksglPXoOcX7lYPOQOhFaLfQ7A82Woa3Yzr5o73jJ1AieulULiebD5/BU831Ix03MUFNrT1T+92Zparw==;RiF/fekos0TAx4pkmFnZJA=="

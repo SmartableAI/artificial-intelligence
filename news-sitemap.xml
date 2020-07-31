@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/</loc>
+    <lastmod>2020-07-31T06:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/four-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange/</loc>
+    <lastmod>2020-07-31T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/</loc>
+    <lastmod>2020-07-31T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/</loc>
     <lastmod>2020-07-30T22:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -681,12 +699,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/</loc>
     <lastmod>2020-07-27T00:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece</loc>
-    <lastmod>2020-07-27T00:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1651,6 +1663,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/speech-to-speech-translation-market-2020-precise-outlook-microsoft-corporation-google-inc-alphabet-inc-cheetah-mobile-inc-2020-07-20</loc>
+    <lastmod>2020-07-20T13:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/</loc>
     <lastmod>2020-07-20T12:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2053,14 +2071,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-9084341</loc>
-    <lastmod>2020-07-17T14:12:00-07:00</lastmod>
+    <loc>https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition</loc>
+    <lastmod>2020-07-17T14:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition</loc>
-    <lastmod>2020-07-17T14:02:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-301095695.html</loc>
+    <lastmod>2020-07-17T13:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

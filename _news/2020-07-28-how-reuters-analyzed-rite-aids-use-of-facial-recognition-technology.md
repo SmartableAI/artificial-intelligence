@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
+    excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
+    publishedDateTime: 2020-07-29T12:05:00Z
+    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "New Approach Aims To Use Facial Recognition Technology To Link The Victims Of Serial Killers"
     excerpt: "Using facial recognition technology, the approach aims to recognize when victims with similar appearances are being targeted, as has sometimes been the case with historic, infamous serial killers such as Ted Bundy. The project was conceived and lead by ..."
     publishedDateTime: 2020-07-30T17:08:00Z

@@ -5,6 +5,9 @@ excerpt: "Artificial intelligence has recently made a disruptive impact in medic
 publishedDateTime: 2020-07-31T09:16:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-69814-1"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Nature

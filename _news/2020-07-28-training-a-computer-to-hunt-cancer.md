@@ -5,8 +5,8 @@ excerpt: "Medical physicist and entrepreneur Maryellen Giger on how she establis
 publishedDateTime: 2020-07-28T14:08:00Z
 webUrl: "https://physicsworld.com/a/training-a-computer-to-hunt-cancer/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Computer Vision
 
 images:
   - url: "https://physicsworld.com/wp-content/uploads/2020/07/Giger-in-lab.jpg"

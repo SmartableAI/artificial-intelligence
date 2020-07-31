@@ -115,6 +115,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
+    excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
+    publishedDateTime: 2020-07-29T12:05:00Z
+    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "New York Lawsuit Over School Facial Recognition Use Grows"
     excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
     publishedDateTime: 2020-07-30T19:07:00Z

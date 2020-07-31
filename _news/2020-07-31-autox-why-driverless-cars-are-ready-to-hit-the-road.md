@@ -7,6 +7,9 @@ webUrl: "https://www.pymnts.com/innovation/2020/autox-why-driverless-cars-are-re
 ampWebUrl: "https://www.pymnts.com/innovation/2020/autox-why-driverless-cars-are-ready-to-hit-the-road/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2020/autox-why-driverless-cars-are-ready-to-hit-the-road/amp/"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: pymnts.com

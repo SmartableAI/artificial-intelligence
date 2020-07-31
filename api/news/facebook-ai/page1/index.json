@@ -194,48 +194,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-27-how-india-can-become-a-powerhouse-in-artificial-intelligence.md",
-      "title": "How India can become a powerhouse in Artificial Intelligence",
-      "excerpt": "India should declare data as a national resource to prevent misuse. An institution that helps leverage data for AI is called for",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/opinion/uhc04b/article32197433.ece/ALTERNATES/LANDSCAPE_615/BL25THINKAI1",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
-      "publishedDateTime": "2020-07-27T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-07-26-artificial-intelligence-a-potent-weapon-against-covid-19.md",
       "title": "Artificial Intelligence: A Potent Weapon Against Covid-19",
       "excerpt": "The pandemic has ensured that AI has now evolved to the level of being Augmented Intelligence, helping humans in every segment and sector. With the knowledge and insights gathered from the Corona ...",
@@ -1451,6 +1409,57 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-from-ai-to-open-source-how-tech-is-changing-everything-about-the-future-of-healthcare.md",
+      "title": "From AI to open source, how tech is changing everything about the future of healthcare",
+      "excerpt": "The coronavirus pandemic has caused significant shifts in how healthcare is delivered. How many of these advances will last beyond the virus?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/07/cb1aeed9-c3de-46fe-84ef-1334feec0cf8/thumbnail/1200x675/7a57cb88b29b68d90e8c917d264ba786/istock-1180529694.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "From AI to open source, how tech is changing everything about the future of healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "publishedDateTime": "2020-07-07T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

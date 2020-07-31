@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-29T09:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Strength, Major Type, Key Application And Leading Companies Forecast Till 2026"
-    excerpt: "Jul 29, 2020 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ..."
-    publishedDateTime: 2020-07-29T08:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

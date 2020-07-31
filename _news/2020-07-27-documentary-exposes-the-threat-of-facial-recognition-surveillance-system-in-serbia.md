@@ -8,7 +8,7 @@ ampWebUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-o
 cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -29,19 +29,14 @@ related:
   - title: "Facial recognition, thermal imaging part of future with coronavirus"
     excerpt: "The coronavirus pandemic has inspired a new wave of technology closely tied to Ohio businesses, including thermal imaging and facial recognition software"
     publishedDateTime: 2020-07-30T16:50:00Z
-    webUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus"
-    ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
+    webUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus"
+    ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus?template=ampart"
+    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus?template=ampart"
     type: article
     provider:
       name: Columbus Dispatch
       domain: dispatch.com
-    quality: 59
-    images:
-      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200730&Category=BUSINESS&ArtNo=200739920&Ref=AR"
-        width: 1276
-        height: 715
-        isCached: true
+    quality: 39
 
 secured: "7lO0NjUshfQa8hv/A/82TewKKIS/YRaz5oJBxPsRxoBeLkg76lT39u8PG0Z7KtWHaH6OjpzSEQgLgAoydDb/EHcLSI5bhAVJBdjOF4N5KG8NEnWxz/FXEfzRmvvceu6i+ip7oqe6TdjwOMMiqM1dIiBMMGyBy7DT2RTeaE8E5S96S8Hz0mH8z13ni9+ThmuOXkwoFm+bxg9/EFCgLHT8Xgy76drPArIUBUve5691m6Cbs7J7Qri1t43cV+hyerLa+kGTou7hG3bYmTm0fMiVH+Ov89G7+p9bX387WQGlO2S621LvhCDdJdqWNwKabHv88Sj7xThCGnz6W2iOb8krpQ==;8JFYNiweGalmNvNzFgcp/Q=="
 ---

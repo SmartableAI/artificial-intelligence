@@ -7,6 +7,9 @@ webUrl: "https://www.benzinga.com/markets/20/07/16817046/commentary-optimizing-a
 ampWebUrl: "https://amp.benzinga.com/amp/content/16817046"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16817046"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Benzinga.com
@@ -22,6 +25,6 @@ images:
     height: 1000
     isCached: true
 
-secured: "WO6ps8GcRlliR3xKXvpI9vGJVDhd39X9dRu5461lKvR6YgBx0bGFra600RUMkbhvfkr97EX3vohbHY1LNpMN2NF90E1dJTWZksma96NPzn1zqkWmsyzpfjqNglrp0h9PjAWNWYruJeX7OAwFW0AjdLXYqyl2UaeXWs69s69W6tFKOH5zrp/A3Qh6t+JtWD32vGjwVQ5EbIpNJHqAQooqM3eWlCXM1utgkNiDeTQDCZkeQ+9Y8MMY6+85Qg8vPz+EyR+iGbmihhwrA+xa3vQRuRq6ihqRRznmBF3QkwXqzdpWsQwQ+JTkcV74rMC5d2j0nS0uB6qJZDhF6NDBdzbTEQ==;WbkROqY87mdcfYjGTjBOgg=="
+secured: "cCqRjzlcHvFHdP8owzmaDfdOZPwitpVwlpjla3IKr0sKIk47SCi0auznBrXvCpwVCPzPVejVK3Tt45KAdq0FQ1vXhkQ5sINSFy/WS7jsQGpvKr1qv/POwmRqdF1uFzu1MdQRgLx1IfMWfVoFCpkilHXUCn3TKnQbB6IupMkikj09fnHltSgI/KJV0aa0vmz1+XEiw6LErVaAYRUN7RaCfunmvxWIqvAW3ckdY/M2WrSR/raTvOREeI8AXKoyTp9jQgCe4h11/3tDEdhDSyJZar7FL669FWTniwhIMX3HlIhkUq/5bDhDVGiIbzK/KAqtcLOawJgrTRmqNM11d5c2bw==;YKtxzIUOB8Y0m+3eFKtUlw=="
 ---
 
