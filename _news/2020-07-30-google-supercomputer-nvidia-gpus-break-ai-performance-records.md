@@ -7,8 +7,8 @@ webUrl: "https://www.sify.com/news/google-supercomputer-nvidia-gpus-break-ai-per
 ampWebUrl: "https://www.sify.com/news/google-supercomputer-nvidia-gpus-break-ai-performance-records-news-education-uh4f5Nheghdaf.html"
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/google-supercomputer-nvidia-gpus-break-ai-performance-records-news-education-uh4f5Nheghdaf.html"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 secured: "qh5GsGT+o52mzxxphAtCulInHHkDfdOCDbKgr7OFOhTgflJmmjSLVN0UlZrrMsO+DzY5zADapJXNiWJMZnlSSDDIwK4ozD1HlKIrZNXAOkHNJDatV8ceDpK8IUpqcuyWS5uTpf2TAqUPZKcdUICh8lD2BQAmp21vdmR2JFDmrEb5aZEIQPYmBFqFUuzAW0c+57gk/SBAtAf2ARM3jvSCX98z3pbk04U6uamj+s3PLFwxec5ZYTi9hvqbjedhVbQmwbcrzp6BATxOdbRYD3lgmx4fJHLH7GncFGWMPDIbzvxBmwP5cfG5iwxfci9SDqNm9xT5tOmh51CvACWJfkAkQg==;T3QZDaSqwZMPXbAMY6nTHA=="
 ---

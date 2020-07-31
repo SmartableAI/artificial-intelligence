@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces General Availability of Amazon Fraud Detector"
-    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-    publishedDateTime: 2020-07-28T17:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Amazon Fraud Detector: Use machine learning in the fight against online fraud"
     excerpt: "Amazon Fraud Detector is a fully managed service that makes it easy to quickly identify potentially fraudulent online activities like online payment and identity fraud. Using machine learning ..."
     publishedDateTime: 2020-07-29T02:05:00Z
@@ -72,6 +58,15 @@ related:
         width: 304
         height: 430
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Fraud Detector"
+    excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
+    publishedDateTime: 2020-07-28T18:07:00Z
+    webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-fraud-detector/article_812d53b8-cce9-5ada-b0a2-07713b916b93.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 34
 
 secured: "GxzCXHN+0plFH4KzZGRqp9OzYmqvCkGwmwbSVUNLUgw5lqf9f43uS/oGj0PT1CpXpWwbx3GcFXsMQIt2M+U9JTZNwBWGwfKAeQGVdsk6h4GxnSuWBrxP7F43GTarGgB3OHM8yOxj7V/te0rfHEnTdT3W5eF8DmCqn68BPkPKZGqLvqaJtI/C/2fDp9mMkCOUXFfs1/7KxZ28ym/iDV6fboMOIhTCH7dPGn8wdMuSUFkaXW3NFvQX/OE+h3T2OvGjyczYiRwIA0YvWx9vqyE/Xt7WlNnx5a42IO+tmOInZ+V+MvWWqlMNTebX3N29QK1bfMXHwegBE8SGLy19VAXMCi+Lc8bGjKtaeFOI7/miLtZsvrhFT2QZKz5/Mhd0XvQIYpaijoVnVXhozRbjSu16o2o5ECVTSO2Oml7+gKGzuBUdZ4dVsnLfl/Rc1q/nTdcXzIZ0fjh2TSYB2XdNOG+xD1itJIBbilr0X83PM3wXYd9p8sMYX6zD87L2yvnxpumk;VV5mDZ8TqVueFWFGyRmeyA=="
 ---
