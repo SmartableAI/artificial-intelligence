@@ -5,6 +5,9 @@ excerpt: "By taking advantage of reduced inaccuracies and improved productivity 
 publishedDateTime: 2020-07-29T13:25:00Z
 webUrl: "https://www.hartenergy.com/exclusives/ais-critical-role-oil-industrys-digital-transformation-journey-188864"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Hart Energy

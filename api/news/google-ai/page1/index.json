@@ -113,7 +113,7 @@
       "webUrl": "https://www.cnbc.com/2020/07/29/elon-musk-deepmind-ai.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -686,21 +686,12 @@
       "title": "DeepMind supports further scholarships for Cambridge students from backgrounds under-represented in Computer Science",
       "excerpt": "New gift builds on the success of first cohort of DeepMind Cambridge scholars. The gift from DeepMind will fund up to three one-year Master’s courses and two three-year PhD scholarships in the fields of Computer Science and Machine Learning,",
       "sourceUrl": null,
-      "webUrl": "https://www.cambridgenetwork.co.uk/news/605369",
+      "webUrl": "https://www.cambridgenetwork.co.uk/news/deepmind-supports-further-scholarships-cambridge-students-backgrounds-under-represented",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridgenetwork.co.uk/sites/default/files/the_computer_laboratory.jpg",
-          "width": 700,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,

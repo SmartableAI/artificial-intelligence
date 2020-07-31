@@ -5,6 +5,9 @@ excerpt: "When it comes to recognizing trends and patterns, this can further bre
 publishedDateTime: 2020-07-30T17:50:00Z
 webUrl: "https://www.stamfordadvocate.com/business/article/5-Science-Backed-Ways-to-Strengthen-Your-Brain-15445215.php"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: StamfordAdvocate

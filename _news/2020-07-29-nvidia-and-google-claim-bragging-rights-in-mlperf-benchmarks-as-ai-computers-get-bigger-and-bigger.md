@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-and-google-claim-bra
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/"
 type: article
 quality: 77
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia sets 16 new performance records in latest MLPerf AI benchmarks"
-    excerpt: "For example, the A100 chip and the DGX SuperPOD system achieved the best performance in the new recommendation systems test, which is an increasingly popular workload for AI systems. Nvidia’s ..."
-    publishedDateTime: 2020-07-29T17:05:00Z
-    webUrl: "https://siliconangle.com/2020/07/29/nvidia-sets-16-new-performance-records-latest-mlperf-ai-benchmarks/"
+  - title: "Nvidia Trounces Google And Huawei In AI Benchmarks, Startups Nowhere To Be Found"
+    excerpt: "For the latest training version 0.7, new workloads were added for Natural Language Processing (NLP) using Bidirectional Encoder Representations from Transformers (BERT), recommendation systems using Deep Learning Recommendation Machines (DRLM), and ..."
+    publishedDateTime: 2020-07-30T21:29:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/NVIDIA-DGX-SuperPOD.jpg"
-        width: 1600
-        height: 900
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f231b3bb1c1e3f2bfbbd0e2%2F0x0.jpg"
+        width: 1200
+        height: 874
         isCached: true
 
 secured: "s0bmBStcFWSWPm3HKvQmFZ68623NoHLprCp7hjj+d2Hm67HvozdY0cFgb4xW/1eIKv4uuxQSGI54UvqvPMIvKvfSfb6FXl3OsVa9o9VA5cXlKM76dF9EkRdxmz+Pd+CJ+fs0PD5ipUSZUPgQwCNdNhzYY3c1TldHemU3HoRSORWxkc/wDflt6m8Eahv9J9/1ZOtaN/lHy8cj5GbFI2Hq6F/iHbU1deaTzilVURhZY5jC4WphC254EEv3Jev1gGxnteABv+rfTypTmF1jco0meJtn9JE26Q4WuQ2w6ZOTpVE3ui3qQqXsf+dPl6uBVDtAA0Foz/fnJ+0vdTRMqx/94Q==;0aInXyksOvLpsN+W70leIA=="

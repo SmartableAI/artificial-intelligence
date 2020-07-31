@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-26T12:00:00Z
 webUrl: "https://www.motorauthority.com/news/1128989_rimac-using-self-driving-tech-to-develop-track-coaching"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Ram vans to get self-driving makeover"
-    excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
-    publishedDateTime: 2020-07-26T07:35:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/jul/26/ram-vans-to-get-self-driving-makeover/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
-        width: 340
-        height: 246
-        isCached: true
 
 secured: "UH9qekSTQL3rO1nM88Vq6Do9GHffRzVfrcfJNd75TyAnAjYNEQCmodm3N3dvvjPmg0zVvrcd3fbOuttCEU0s+W2yrHuXDyihZ8VnlVN/F/8BC+C5rGRVW1S4esWIAHaRZzW1qwtEpjSiiuPBQZJPVQENmKm+KTok4G0qRSi7QIUc08uMkI8cqNFV9YwHXXuZLzbsFMqvXtJRHUvPwQ/D6On9SMhHKKDTjMDXo/9unY/78614iIPOGvndl39hyGsM3/2NCGjUFdW70NEw4YpobKNg6oBmlI6/+tS+otPisweuAftYMi9reXBRyvBJczi7iCcY0zTTB8gykq+PyhzhLftpc9y/l7JmdyKDthJpcSvgCY6fWyLlkkNuc0R2Wwc7WdcenegkYxyyyqBMAV30VGrlLNnpmne2n9BmNwfflzaj21Ya4VSBukV7jC7JMWube4EylhmWw+JYSOJEVNxMt7c4+QXdP69fe/N68ryZspO0sSNcESBT6kPi+Jvlpld8Yk+B3WLA2GPWxsaFkelqrw==;OZOsDUdCnDOi3vifQohaCg=="
 ---

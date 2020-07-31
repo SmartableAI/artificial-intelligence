@@ -1,19 +1,22 @@
 ---
 category: news
 title: "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer"
-excerpt: "SILICON SLOPES, Utah, (GLOBE NEWSWIRE) -- Pluralsight, Inc. (NASDAQ:PS), the technology skills and engineering management platform, today announced"
-publishedDateTime: 2020-07-27T12:03:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
+excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have access to a variety of offerings, including a series of ..."
+publishedDateTime: 2020-07-27T12:08:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
 
-secured: "M4TMGMZgyFYjZhH1bl3O/i8G9wqNRtyWkD7XR9d8trTqZRaNdr42YGSVih8yOmYEVu66nq2tgxAthjamoke1XtJFFKvIbuMlpd3GrnKKFiCqbdIJSaUmp1ecQBEij1KDO3/XXhxSdQKkzTOhmPVPjmMWu9SM9N3tdTiOEBvVWB2fQeRjelaF4ijPQx/l9XxDk3/I8TY84bTNd602rqDzAxhHNZGXeKCHxd1U9dVbMZizJmdBWZUavHuCdgQPz2ubqf8YlMrS3Y/22MdCmkBWTgSTOR/i/oREWfLASGzTJzpy+6Cx2WeRFhct7sepjkkV60F87U4+RqWuKLlaMNkGxafne5NwEmvody6Or2tEvMi+zswKNcIe4f0VEmgln6xCW2ppuy03S8x8r4seXAGOL+3USV313avzlvLPGbrAKWLYi/pQiNKsahlLNoSFf3w9yrVVhfrOBirLhddKhh/Bc9DI+BghKo/Ccu+nbua9SlEnvlZyqSiUu1A7Acjmqex8/nZmEbT0BOQajhWqQOeshQ==;ZTUnx/EG5MuGkK2lqhYF/w=="
+secured: "kCxp69WsyDDySH2hQEKuxem07mLE9mp/WmMX5oC6fOc58cgyx8NIVKal45yUTdAleOkSa4RgLMZdhhrCAUD3oCV/lwL0Q5bHaxM83e23O6UjQJ6DnDTwFXSYufhydHmdGr+KZi7PnCBCm3G1ULmvqZMJNlEe3KpzCxPKrYWhRzenrG2qdmq2dRleWUodEVG9deVWNkZi+qMFdeD2DHmsn4oo5e8CxeuYvLFbghhesE5Df9qVHj0QJ/gfvvQ4uQQc/JL4/g8Mtp2i612NRc79aL7kzHCBpMV3/NVrH5TqrZepiKt1DM3cNJ/6hqcKqgWYI0WEnK+lPxa+zIwqkjSCjg==;Uee/rwsUu9GkLueoAyqiOQ=="
 ---
 

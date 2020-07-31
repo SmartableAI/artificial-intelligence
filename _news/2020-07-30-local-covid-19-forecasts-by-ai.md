@@ -23,6 +23,22 @@ images:
     isCached: true
 
 related:
+  - title: "Local COVID-19 forecasts by AI"
+    excerpt: "Despite efforts throughout the United States last spring to suppress the spread of the novel coronavirus, states across the country have experienced spikes in the past several weeks. The number of confirmed COVID-19 cases in the nation has climbed to more than 3."
+    publishedDateTime: 2020-07-31T02:40:00Z
+    webUrl: "https://medicalxpress.com/news/2020-07-local-covid-ai.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-07-local-covid-ai.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-local-covid-ai.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/48-covid19.jpg"
+        width: 1920
+        height: 1032
+        isCached: true
   - title: "Artificial Neural Network Market Regional Demand, COVID-19 Impacts and 2023 Forecast"
     excerpt: "Global Artificial Neural Network Market Research Report By Type Feedback Artificial Neural Network Feedforward Artificial Neural Network Other by Component Software Services Other by Application Drug Development Others Forecast Till 2023 Get a sample copy of the Artificial Neural Network"
     publishedDateTime: 2020-07-28T19:26:00Z
@@ -38,6 +54,36 @@ related:
       - url: "https://cdn.openpr.com/T/7/T728542626_g.jpg"
         width: 417
         height: 455
+        isCached: true
+  - title: "This Startup Is Building Covid-19 Chatbots With Governments and Tech Giants"
+    excerpt: "As Covid-19 continues to spread across the United States, authorities are still in need of large-scale ways to bring individualized information to a mass of people. One tool in that fight is chatbots, an approach that conversational artificial intelligence ..."
+    publishedDateTime: 2020-07-30T20:09:00Z
+    webUrl: "https://www.adweek.com/digital/this-startup-is-building-covid-19-chatbots-with-governments-and-tech-giants/"
+    ampWebUrl: "https://www.adweek.com/digital/this-startup-is-building-covid-19-chatbots-with-governments-and-tech-giants/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/this-startup-is-building-covid-19-chatbots-with-governments-and-tech-giants/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 40
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/07/emirates-new-covid-insurance-CONTENT-2020-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Local startup develops AI platform for predicting COVID-19 trends"
+    excerpt: "One-year-old technology startup Decode Health has developed a predictive artificial intelligence platform that identifies emerging trends in the COVID-19 outbreak, providing governments and other organizations early insights to where resources need to be ..."
+    publishedDateTime: 2020-07-30T13:11:00Z
+    webUrl: "https://www.nashvillepost.com/business/health-care/article/21141766/local-startup-develops-ai-platform-for-predicting-covid19-trends"
+    type: article
+    provider:
+      name: Nashville Post
+      domain: nashvillepost.com
+    quality: 37
+    images:
+      - url: "https://cdn.nashvillepost.com/files/base/scomm/nvp/image/2020/07/640w/ChaseSpurlock_square.5f22c1f334d6c.jpg"
+        width: 640
+        height: 640
         isCached: true
 
 secured: "qQ60nTASRJxxSi7umFKqT8omBo96L7orkDHk+Eau7KcTbuNuaD7/KwjPK6vz0mw8A0Xk0qpyVDUt453qWTkkjlLRA80WaEUE6v51JlBm0/Sw/hFPi1TK+DtM3m7j71gfgPXPdNqSnsO7VGnr8S+ibRrNSmbDf1vSD8fB1SMqVJeeYHd6fm9qkZjhOrsPchwetnOb119OjTQYMc00qmqNg66BgxRHhHCXhV4apWDKEGLe5MAOPaRh39STtCnAJYhVQRxEAXn1lKnG+xFXh7Y7xtfubWs1D8Dwhvm0F9/Vkz2F+FW+EkNo+mWHS0Ih45KDhRm7zoGV6WiXFLo41W1Fnw==;0BM3weeiXeGPJzt0RjfNhw=="

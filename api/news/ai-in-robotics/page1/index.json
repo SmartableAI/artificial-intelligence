@@ -367,7 +367,7 @@
       "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -396,10 +396,10 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
         "AI in Robotics",
-        "AI Hardware"
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
       ]
     },
     {

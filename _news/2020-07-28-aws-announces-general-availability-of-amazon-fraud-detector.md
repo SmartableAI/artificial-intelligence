@@ -1,19 +1,68 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Fraud Detector"
-excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-publishedDateTime: 2020-07-28T17:28:00Z
-webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
+excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
+publishedDateTime: 2020-07-28T18:07:00Z
+webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-fraud-detector/article_812d53b8-cce9-5ada-b0a2-07713b916b93.html"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "vdhTUm8ux1f5laMAoTXIFfnqkx7rtwvmWGdiWRwIng42GFl2I2NzpGNoGj0682PZzzGO4t1QzxuerH7CViofriYsxS38u7dEHLXvLtiHIWdLwKv/zFv0KaAny9AdSZORY53Ylrh/hR1SphrBJwI6pYsGTdZb8S8Ynjo+n9JSTj5GMxeqxhNOGkpp4v3oCJR7C3vYa/yFS6/DlSkvwt8yROtM4djG6dIcA7We+TNrbUWCoOTxwlv+gOjngopNoTCS/b3DTOdUyls08si0BhijhZkoYTy2SyT1vuHq4S3SYd2lcJ7Pqy1bjDYoqY0XC7ZmuOiM/KpeD9NJBDpE1YGHvg==;wdxCpxjbGz5Mm56Vbd9bUQ=="
+related:
+  - title: "AWS adds new Amazon Fraud Detector to fight fraud"
+    excerpt: "AWS has launched a new tool called Amazon Fraud Detector. It said the tool will be able to detect and prevent payment and identity fraud in just milliseconds thanks to machine learning."
+    publishedDateTime: 2020-07-28T22:14:00Z
+    webUrl: "https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud"
+    ampWebUrl: "https://www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 89
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "AWS Announces General Availability of Amazon Fraud Detector"
+    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully"
+    publishedDateTime: 2020-07-29T01:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-fraud-detector-2020-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Amazon Fraud Detector: Use machine learning in the fight against online fraud"
+    excerpt: "Amazon Fraud Detector is a fully managed service that makes it easy to quickly identify potentially fraudulent online activities like online payment and identity fraud. Using machine learning ..."
+    publishedDateTime: 2020-07-29T02:05:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/29/amazon-fraud-detector/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 36
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
+
+secured: "I/vpVp4ticu09y6cdgsh822cCZtDAZ0TgBqZvvG7I69Rv2VFEw8soaDCqWD9gsImJpMBZ/FMJuhpwuyeYrvIVGoSzF/mg/S0lpeN8u3KkdFNP6jS1rK1aRofbfysZ5qMaUDs7J5lqMGEkvKxJHVrsMyELm2YS8m4nqHMZlWThW+jFFt8LZbTTeHHJGIH7AWq28nnJ0J1sRkKZZIdELEu0pbIGychh+sH1+jYxEI6MfwjhUthi/TXO6vShy+G+jZuatCRzPezlyN/N93zsyeUAxfR2lMZGwDbafVbLgWJg+BJ4XDZZS2EhCtfXnDzEOOXravxXrth0wHvpHRvKzIpoA==;fyVQAiKDVQ5gNRl5BbOJnQ=="
 ---
 

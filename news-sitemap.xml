@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://medicalxpress.com/news/2020-07-local-covid-ai.html</loc>
+    <lastmod>2020-07-30T19:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/</loc>
     <lastmod>2020-07-30T14:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -103,12 +109,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.entrepreneur.com/article/353747</loc>
-    <lastmod>2020-07-30T04:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wired.com/story/ai-why-not-more-businesses-use/</loc>
     <lastmod>2020-07-30T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -157,6 +157,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/</loc>
+    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate/</loc>
     <lastmod>2020-07-29T13:57:38-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -201,12 +207,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/29/google-claims-its-new-tpus-are-2-7-times-faster-than-the-previous-generation/</loc>
     <lastmod>2020-07-29T10:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/</loc>
-    <lastmod>2020-07-29T10:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -415,6 +415,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/</loc>
+    <lastmod>2020-07-28T07:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/</loc>
     <lastmod>2020-07-28T06:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.zdnet.com/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/</loc>
     <lastmod>2020-07-28T02:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://mobile.twitter.com/weiyingma?lang=en</loc>
-    <lastmod>2020-07-28T02:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1063,6 +1063,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200723005265/en/MSCI-Announces-Strategic-Alliance-Microsoft-Accelerate-Innovation</loc>
+    <lastmod>2020-07-23T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7</loc>
     <lastmod>2020-07-23T03:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1633,7 +1639,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cambridgenetwork.co.uk/news/605369</loc>
+    <loc>https://www.cambridgenetwork.co.uk/news/deepmind-supports-further-scholarships-cambridge-students-backgrounds-under-represented</loc>
     <lastmod>2020-07-20T13:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3559,12 +3565,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://washingtontechnology.com/GIG/gcn/Articles/2020/07/10/ethical-autonomous-vehicles.aspx</loc>
-    <lastmod>2020-07-10T16:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://mashable.com/article/arrested-facial-recognition-technology/</loc>
     <lastmod>2020-07-10T16:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3627,6 +3627,12 @@
   <url>
     <loc>https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7</loc>
     <lastmod>2020-07-10T10:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx</loc>
+    <lastmod>2020-07-10T10:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

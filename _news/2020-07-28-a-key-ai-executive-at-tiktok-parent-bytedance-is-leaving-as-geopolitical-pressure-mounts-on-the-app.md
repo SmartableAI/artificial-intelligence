@@ -3,22 +3,30 @@ category: news
 title: "A key AI executive at TikTok parent ByteDance is leaving as geopolitical pressure mounts on the app"
 excerpt: "Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company."
 publishedDateTime: 2020-07-28T09:33:00Z
-webUrl: "https://mobile.twitter.com/weiyingma?lang=en"
+webUrl: "https://www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7"
+ampWebUrl: "https://www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7?amp"
 type: article
-quality: 133
-heat: 153
-published: true
+quality: 73
+heat: -1
+published: false
 
 provider:
   name: Business Insider
   domain: businessinsider.com
   images:
-    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://i.insider.com/5f1fec873ad8614fa66e6803?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "TikTok owner ByteDance’s AI chief to leave as US pressure rises"
@@ -47,6 +55,6 @@ related:
       domain: wsau.com
     quality: 19
 
-secured: "y2jq2k/R9nJMKbiuG97CHAdDOowcp4Mzq+vqLg8+jgaud2vV5NxBrcg4NMNJ4zr+FckfF15/MB9BiMzFdpJSMdXVckGeIs1v83doWpL1tejEryJL2eCCCKcJnk5E0KnpCGUnLwaGgi3jQaDfl3qZOqx1oThxtATS14OGhfgJ1kNLb7kwPq5FAogMIHFOOV3fupIXLk4JKGyt2ixhM5r6/+aNEvuVDEBsXkFlunq+VtzMj3hSBnQpYblLnwjGArJ2QROkgm/BohtCsyOt5K2CFRjtse2ODQOLCv/A/jPf70B2gziK64xQKcvxJtiE2JJlpu5bRUTz6yWgPCpa31phmuwUk24EbdPzIQlRCfMW8cIZCXSs8pulcrf+Hla1xK2eqcSW+1JOeSuUgE28DYSemHmG5f1V9ODtoNLLygyn3VzXjw2ysY5lANdm8qlekzdVMuekgOfOh6rJ/8ZBanSbcXx7zcLPl5b70yukUOHkWK8yYXb6lo4tgOl2Y9wDQa3HX0j+fr+LdUM97HDxftDcGA==;LE2O/lrpK2AabOPhU7aqXQ=="
+secured: "h0XseRZF15QvXh6j1WR7Z/Cbf/+mrc329sKl2XFFOrgx/CQ+NR5mmbgTJaCxroAL3AhZBam6jTfMB85/gaoeI/2VYzXBavrhAuwdI+OezbXdJ0svlTWGyx1ADCNMpBu0GsfeC34orGefF4gcYhvRPiT9I87eP2l7kqM9nbcMEcUZ31YdXMpDnfg2a/bWouC/JHm3A/kGNu4xQLN5l2C+4E6Y248427HSMNYOxGZXWUv4bF1Be1cwXE+YpqYkWuynde3WA5rXrLq+ZZMCuYTSWmXK4I3z4QTzyCDfam/9H/5YQsyHxWcEwm+kWvCzX2Kmw1l41M/aMF1BEpbN/z/D9g==;jBuwAoM7/zIJ3YiqnrVmWw=="
 ---
 
