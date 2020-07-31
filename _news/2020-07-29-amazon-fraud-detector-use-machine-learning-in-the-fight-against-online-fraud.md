@@ -56,18 +56,13 @@ related:
         isCached: true
   - title: "AWS Announces General Availability of Amazon Fraud Detector"
     excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
-    publishedDateTime: 2020-07-28T16:55:00Z
-    webUrl: "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-fraud-detector/article_ef06fbbc-cf29-5720-ad2e-89629c63b3cf.html"
+    publishedDateTime: 2020-07-28T18:07:00Z
+    webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-fraud-detector/article_812d53b8-cce9-5ada-b0a2-07713b916b93.html"
     type: article
     provider:
-      name: thedailytimes.com
-      domain: thedailytimes.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
+      name: Odessa American
+      domain: oaoa.com
+    quality: 34
 
 secured: "3VkFFx6TzR/fxYwqRD95iVoBPTlM12KFuneXrLL64MzrATYVk7pAsgSXDH50BVECweZIHM/qFT2bDEN7ginDrvsxaHxCne/zJzlTaci9cnotBZH1GSp70YWoyUy3wX2xMr2Ga0zEmv422Yo3/+Ue+5TC4kH5ACbpjFfEt3iwNYCo04AikBS2I6ZDjQIfsL7VtTEASMGPIxbiZd+sIsBKi+NWmiK7UWspDb60fuxzSN7oebjWZiRmru7OBujdWiZInNxDECPwzUE/EsN7gVv3gztJaLD0ayMK5Lq7L0ih9+sMSLfE/g7R/TNaU8lu5AIqPdRkcVcgxttWYtLNS8GXtQ==;FwNUi1DhwBn4sfy9H2bzbw=="
 ---

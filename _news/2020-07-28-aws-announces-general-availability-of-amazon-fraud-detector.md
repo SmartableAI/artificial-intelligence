@@ -2,26 +2,20 @@
 category: news
 title: "AWS Announces General Availability of Amazon Fraud Detector"
 excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
-publishedDateTime: 2020-07-28T16:55:00Z
-webUrl: "https://www.thedailytimes.com/business/aws-announces-general-availability-of-amazon-fraud-detector/article_ef06fbbc-cf29-5720-ad2e-89629c63b3cf.html"
+publishedDateTime: 2020-07-28T18:07:00Z
+webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-fraud-detector/article_812d53b8-cce9-5ada-b0a2-07713b916b93.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: thedailytimes.com
-  domain: thedailytimes.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-    width: 600
-    height: 600
-    isCached: true
 
 related:
   - title: "AWS adds new Amazon Fraud Detector to fight fraud"
@@ -69,6 +63,6 @@ related:
         height: 430
         isCached: true
 
-secured: "V6mOCx01sooLkRnWekdXmnPyXMR+XkpEZbXHIhhUc90kU/IbvsCYijQyd0EKMbRRpssCTpibUdGIslKZ0CRcl0+hG0C4gdmJCDt5kXljoxbRJ4Ko7gK7z0lkBI/Sifqk3tGh8MEusXl4pDzmaXUmln9yPCTsQCgk3b5WCp86hZXyRGsosLBp8mBJPe9GWRbDNH9xdtdx0HcEv8kf6dbxMNB4WpBmPYR/Ue9IdSgfsga5/Irm/JeVpFE0pOiFIAdu48vvZaMSmCVatONMdLUMc+y7VehtPNXuYQ3Rk2NNQVxnXjb0H6fQPauzjMSj6jZqKv+OdSKhJ5a4TsvjImWrHw==;k64ssIy5bgJhemHacN0WHA=="
+secured: "ShUTbNkR7wAsT6Ftov9m+tU7scDw/zF8LSLO4G4DiM+Kzbr/BEghtFHgwZYlrIF8aNvYPHmVyz42KqoEshE7cckfVPT9AP5MS3jcZ1gE6TLyu0KvpTZfh+J8OdW02DTjWbzb+BkLLfFBjJWOYoywoMGmIZBBQFVW5swhUPe0pQpDSn1nfRbA4vJckt9sRJHkunZQ1+KgJGUDCDdmva1sQd39zgOkb90fBU3UowESNq8mDGBEOO10EoCK4ocZ+FwgZyd00kpwTe66F0plUuiyQVpiXDGNPv/BZoE69m8AvH+9LZYKeIp5Pp0gy8ex3VjjbHvZ2JsQLzaehcaPNfynQQ==;iYy1gUNkbA75sU4ENCpq4g=="
 ---
 

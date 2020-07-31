@@ -23,37 +23,21 @@ images:
     isCached: true
 
 related:
-  - title: "Local COVID-19 forecasts by AI"
-    excerpt: "The number of confirmed COVID-19 cases in the nation has climbed to more than 3.5 million since the start of the pandemic ... inspired by artificial intelligence (AI) techniques, to provide ..."
-    publishedDateTime: 2020-07-30T20:08:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-local-covid-ai.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-local-covid-ai.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-local-covid-ai.amp"
+  - title: "Machine-learning used to develop test predicting premature births"
+    excerpt: "Researchers have used machine-learning to develop a pioneering test to accurately predict potential premature births (Danny Lawson/PA) Machine-learning has been used to develop a pioneering test which accurately predicted potential premature births in ..."
+    publishedDateTime: 2020-07-29T11:20:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/uk/machine-learning-used-to-develop-test-predicting-premature-births/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/uk/machine-learning-used-to-develop-test-predicting-premature-births/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/uk/machine-learning-used-to-develop-test-predicting-premature-births/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 44
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/48-covid19.jpg"
-        width: 1920
-        height: 1032
-        isCached: true
-  - title: "Artificial Neural Network Market Regional Demand, COVID-19 Impacts and 2023 Forecast"
-    excerpt: "Global Artificial Neural Network Market Research Report By Type Feedback Artificial Neural Network Feedforward Artificial Neural Network Other by Component Software Services Other by Application Drug Development Others Forecast Till 2023 Get a sample copy of the Artificial Neural Network"
-    publishedDateTime: 2020-07-28T19:26:00Z
-    webUrl: "https://www.openpr.com/news/2098388/artificial-neural-network-market-regional-demand-covid-19"
-    ampWebUrl: "https://www.openpr.com/amp/2098388/artificial-neural-network-market-regional-demand-covid-19"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2098388/artificial-neural-network-market-regional-demand-covid-19"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/T/7/T728542626_g.jpg"
-        width: 417
-        height: 455
+      - url: "https://content.assets.pressassociation.io/2020/07/29115435/22880a1e-7487-4735-84f8-c5bc3a33b4d4.jpg"
+        width: 1617
+        height: 1149
         isCached: true
 
 secured: "c2Zn1/Y5OYOHgLkkr3H87fWB9nvLZJqzeElOVVSKJJ0WCO6ijTbIl/i2cJx/QlpK3+kyvc4SjZTAURKQly2GKtj8PPgtCt0EU2MtuC1JPSEfp1GlNbTcNfDqgOVnkzEVU5f2Y2ONSRRQhXY5eLnfD0m2SQR6csIxbfj0L3WTv8sJEX0ML+rJnprMti7BkoWpgOp7s5V+tMer2he/ZJRIty3BZ1sRsCNR9A60b8wgmZQZ4Pvton8V0cHuLZBUSx2IbaQxFUZUHCcF/RQ/6pKOuuB8+E3xCn6J2axKoTU+7u+u3FELowZIVQV/NWEQiXSqSGIkcZJbgXaUVBb3f5ODKA==;HFugPSlJcBgWcE7bB/alNA=="
