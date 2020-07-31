@@ -3,7 +3,7 @@ category: news
 title: "Facial recognition retools for masked faces"
 excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
 publishedDateTime: 2020-07-29T21:00:00Z
-webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_EmergingTech"
+webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_SecCybersSec"
 type: article
 quality: 39
 heat: -1
@@ -297,13 +297,13 @@ related:
   - title: "Face masks are messing up facial recognition software"
     excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
     publishedDateTime: 2020-07-29T17:35:00Z
-    webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    webUrl: "https://www.wcvb.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    ampWebUrl: "https://www.wcvb.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
     quality: 59
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1586368270.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"
@@ -426,6 +426,6 @@ related:
       domain: medindia.net
     quality: 12
 
-secured: "5HP7oJ7w1S3KBpOzs5NGQJAb3WcyWId3olZjk3kPnAVMhj1IZU7s3l/LMs+hKkWQu1WXGD/0HAUuMo9qe0uV8DM7GqA+ggU2xG8sOSfkuNQ7MDi8VzgH42zRHxzoOpnC/nWZxnpxbSzvi2WmIyWLX1UO0H3fr53tDnIT9e71NFwgpkqkRn51SLj3bPtSnbIkmpBCt9665y5E8CgO0h8jiraA5pONAWZVFzwRjKh4EnDLqhHdEoWgr1SZSM7tgSmunAAALSLoJQudap8CpCjIOxWTC3uAUtsyEHLziwDdILi8coK6rhJ244r3C/lBlQJjUEP2aUduIgB2G9IaorsG3w==;li8N32JV+MwwBM4DfmdYFg=="
+secured: "/nNIHXOwakDyx9zoo9lVEer9QzvcDmL+5MpDPPRBvfOdoLU/F9bw+2IiSnleP5ytvrYNpGZkrT+C6Qyuwo/tuGkTXWGwrBWA2OrkbsZ9IBDjKCCjs9jY3GcK5um4ePpkoic5rwp4xxpauK2X5iGeAdR3r37tPitEa5kg1xJntv0AGnEvd4X2ONHkXv7c7zY5TVOD0s2fWOlRhyTxn6Ql+I4MN/G2N3tR6+/0VmMYxaQhUrSHtBVLRBIy29KaDldK5n06dv/d+qLtIw8H6JqzxIm0H++dRrNOJLvfq8pTD5BYoHw/S0ttbugyTqDDi1muDqd8SeHqRnhuwf6s5hKYSA==;TQU1XKYPz/CSyiWuOqNvrw=="
 ---
 

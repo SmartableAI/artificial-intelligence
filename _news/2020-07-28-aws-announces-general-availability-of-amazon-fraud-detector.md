@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Fraud Detector"
-excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
-publishedDateTime: 2020-07-28T18:07:00Z
-webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-fraud-detector/article_812d53b8-cce9-5ada-b0a2-07713b916b93.html"
+excerpt: "Amazon Fraud Detector helps businesses identify online identity and payment fraud in real time using machine learning, based on the same technology developed for Amazon.com."
+publishedDateTime: 2020-07-28T18:36:00Z
+webUrl: "https://www.darkreading.com/cloud/aws-announces-general-availability-of-amazon-fraud-detector/d/d-id/1338466"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Dark Reading
+  domain: darkreading.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+    width: 600
+    height: 600
+    isCached: true
 
 related:
   - title: "AWS adds new Amazon Fraud Detector to fight fraud"
@@ -63,6 +69,6 @@ related:
         height: 430
         isCached: true
 
-secured: "KK2WJ3v0aDwOeKcEgqrZa4SAR1oEVWTDtcI6ZtK8AX3rXelYyC1/HQhK+Bu/vbXxLyOIWfwhgxDCwpNEkRE/EsUDrN57QuOMFE4pHlKr3zzy1GtfAiV4hsuJXrz8IxNhMlgjw8be4hzgBhW+vePJNw2IlccDJ9CIYQQj26Ki7FH11G+GllR/hnbI+F3I4F9wmkGMGb+TSOoBlsiyMXKjRBAVHP8+F6Abvw49MN8WWkzoMsosSbDkU4SMH4YeBFoNsCf+4mzJuhjrmf7JJw4BXESwpuI9VBF5AWEG2R1zyFaGG/GLIxEB+o6BFWDtbcXxl4kyAwwxBG/H8XiXkl+f2Q==;hClUUlpwNSyNx0j8BkQlgw=="
+secured: "doMplF0Ql2o64GfqPYAMnzyWMSoGitaF6VUacXeTaCsTk4V85TZKArA+zwPuudMjV4vW8j92rIL0O22oXK6rq8qNrdNSfObhwCoqERDoabK9U7dub3pK3T3yWND+T0RJdbl5CjxtHYAkDBWub8Q5YPHNX5Jp2j0b8SZ9lC9bVyGVId+mQkvQ9+0SzdEHjYxFqR0kQdWv9gDUo4hAPJA7fTtGJ+nUcKGUmL1zhvVRhcxkPdnQxWM+EyRp52F3lpeqkkuEPPedQc6E7Vn69BIj49+iLbeohtd3taguIdenoIXUbOo6DxTOyDf+45yJFkv5wThnAaSFNfiqaBs27BqPOg==;EDs1C1ggrGd1VEtv76YShA=="
 ---
 

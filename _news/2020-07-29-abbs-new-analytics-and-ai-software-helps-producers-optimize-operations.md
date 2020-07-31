@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "ABB’s new analytics and AI software helps producers optimize operations"
+    excerpt: "ABB launches analytics software and services that combine operational data with engineering and IT data to deliver actionable intelligence"
+    publishedDateTime: 2020-07-31T15:55:00Z
+    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/07/abb-s-new-analytics-and-ai-software-helps-producers-optimize-operations"
+    type: article
+    provider:
+      name: Hydrocarbon Processing
+      domain: hydrocarbonprocessing.com
+    quality: 39
+    images:
+      - url: "https://www.hydrocarbonprocessing.com/media/12105/abb_ability_genix_graphic.jpg"
+        width: 1280
+        height: 702
+        isCached: true
   - title: "ABB’s new analytics and AI software helps producers optimize operations in demanding market conditions"
     excerpt: "ABB Ability™ Genix leverages Microsoft Azure for integrated cloud connectivity and services ... domain knowledge, technology and AI,” said Rajesh Ramachandran, Chief Digital Officer for ABB Industrial Automation. “ABB Ability™ Genix helps asset ..."
     publishedDateTime: 2020-07-29T13:31:00Z

@@ -1,20 +1,25 @@
 ---
 category: news
-title: "ByteDance AI research head to leave as pressure mounts on TikTok"
-excerpt: "By Yingzhi Yang and Brenda Goh BEIJING (Reuters) - Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company, as its short-video app TikTok faces U.S."
-publishedDateTime: 2020-07-28T06:24:00Z
-webUrl: "https://wsau.com/news/articles/2020/jul/28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok/1043690/?refer-section=technology"
+title: "ByteDance AI Research Head to Leave as Pressure Mounts on TikTok"
+excerpt: "Ying joined ByteDance from Microsoft to become a vice president and head of the AI lab in 2017. His departure comes as TikTok faces regulatory challenges across the globe, and a potential ban by the U."
+publishedDateTime: 2020-07-28T06:58:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
 type: article
-quality: 19
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: WSAY
-  domain: wsau.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 related:
@@ -50,7 +55,23 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bytedance’s head of AI to leave amid heightened scrutiny"
+    excerpt: "Ying will leave Bytedance this week, as the company faces investigations and bans in its international markets."
+    publishedDateTime: 2020-07-29T07:06:00Z
+    webUrl: "https://technode.com/2020/07/29/bytedances-head-of-ai-to-leave-amid-heightened-scrutiny/"
+    ampWebUrl: "https://technode.com/2020/07/29/bytedances-head-of-ai-to-leave-amid-heightened-scrutiny/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/29/bytedances-head-of-ai-to-leave-amid-heightened-scrutiny/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 57
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2019/03/Byte-Dance.jpg?fit=1920%2C1074&ssl=1"
+        width: 1920
+        height: 1074
+        isCached: true
 
-secured: "VcVYncD0TGCBZu4GDvQtDjatnSOukbi9sz55HF7r6/pxA48R10uMlH+ph4rByMQNX487DJLtx/yr6EesMnCStvAAktISh1TGW53+7y5zB4ZMDlCAgGvD9PKhUQtnUfy18Dk+LD9ZAlhp4vw0oMkPKMusamwR6OuqJE5BBgvFmwKmIj4L7v0ZwB4xUGPgW0lg4WZGKtlhx6RDZysi1Db8PT3sf7CtW+tudT6KQIGmlW2gWRuo3DwpSJnqDVdKnZfkbSdC2E5xw4rnLlE6BYwrL6NnaQNPre3A76Q/YU89YiTz9hHIBpCyqltP4iERf4rUHBRSnSBO2w3C5F+QPVdvPKTd+cW+d6tbadnfKjpvOU6NVRpJeKEto6tlZteCJlheJkgXsYCVL/vGq5dhhjj2eAp/loTOCRgJcz70pOYdNux5anO8iehXhV/ANDWjyEDEd12IIPlXBJLIRAd51kX7D7w6xf90Q1MfVUelmwz0knTsvfTOXIOeB13Yz5F7jlDfLk0OiToLgrm77jnDN19Jeg==;xlzhFTO5ODQN/VjF0o6kJw=="
+secured: "AtZ/FPXCprsqiZklvf2IeT3oIizIOdisRzesmaWsG8bL7GPJkMV/DoeJ+f+06RszcmCDO0o4hp/hrokeeXZEnoIq41OLsnOylqYKbdL+HyesNbDJvokKfIgGjuXGhF4nOUobkqafLUu0zM31vQZ7hM21sgSENsZcHf2VG5/rX2vsv7sSFQg6ah0/5vCsw5wlbG/sIPm5mKvyxnynIso1sY4RS51Lwkp1Wijgkhs3+ox8igkj1O00YnFsqpo58YxP98OJ8SeYJ9Xs+mg2scI5oox0W6rbb+OhhWBgkD9rSt7/lJkW+iROIUf3afIPLIcrlk0qvE8Ohv9nMy0HcG9/p2Lcd1dwQM9S2MHz4c3jH3JxXPh/k+U1ywP+ToBUmSuxIXvXehAsnNODIG+ASdvjlkdPUNjarKx26QezcVeFTnI+Wg6FwLP92reo0cVM5Iz/FegZH0l4QdObRwm3R1u+egx4nIXd7e7YCW2TRKkX8CJFvKt+AFdm5m4KNSFeW/GIA3jAKoEK4caF9KOuocw8Kw==;ROLu6B3hDGTpcuBI706A9A=="
 ---
 

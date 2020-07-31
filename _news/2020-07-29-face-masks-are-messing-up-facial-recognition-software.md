@@ -3,17 +3,17 @@ category: news
 title: "Face masks are messing up facial recognition software"
 excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
 publishedDateTime: 2020-07-29T17:35:00Z
-webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+webUrl: "https://www.wcvb.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+ampWebUrl: "https://www.wcvb.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: WCVB Channel 5 Boston
+  domain: wcvb.com
 
 topics:
   - Computer Vision
@@ -345,7 +345,7 @@ related:
   - title: "Facial recognition retools for masked faces"
     excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
     publishedDateTime: 2020-07-29T21:00:00Z
-    webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_EmergingTech"
+    webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_SecCybersSec"
     type: article
     provider:
       name: GCN
@@ -426,6 +426,6 @@ related:
       domain: medindia.net
     quality: 12
 
-secured: "igqilvSi3DKDUUDjiSucHB04yrp03BNf3h5PGlwAi77pchClPLSNAnN9j7oU7uMTpSqyh15CIvoobXvYAXN+0Al0GDJ8Gz68ahxNuD0IiGUaSmm8q/qgC41vAgE03BDkCo2gfHXgxrMsdFFMCAEMUFq4l8ftZMQpAJnSiCxxnoKZQZ/wcKXwBz3x0jwJGAbkS0PJwKL5DooGlbNJLzDmPuMz2u5BgBWNigQ1YCg3+fQ4Rb7c+ZKhT7Nu4+mzNa3ugQLh2DzYHS3L8pfgl8HVioCJh6J9pr3Xi4ajaN3OQHPRyWfxMcTh3Q4JUzLphP3ZoK+AEVJYl3y1os5vtxuRCp/JTf4HlW+mNowTkDy8mgA2zrlXYE2ChmMl4WL6OfM8cqo1qcUx4fP47ErHEHj6C27jMMBatjPIDRZ90twPpg1YROZzJ4EEzm/PyjnrNueHwcOYpgc/pVQTmjrRA4NY1BizEuFUZJMA2qgk+/YjdRBYU1z6Bx1p1WIbklquHXxwVKSMVY55KrYgpNUuzzvVAA==;+Fi2aKzjUZu9jUvhvvSWwA=="
+secured: "6CQIkNlzxMQwpBkbDPtbKlpmFnu7xKnXxriohNNWBmwr4kkiLbKr9cnHIUXHVY0ehFW60jlpgRuXWpiSjX1WQVoX56/nKDbw2Tx4LpD+e5l/ebfb2yFDIjiy9Z4ep+X7OVfcvR49PTdW9qCJ6KmSPMjl4QqWmOyu2aFgDuiUax9oN8vvqT623XHW4UPJBMTso846okUARio2twHxbTuvzvcV5fTQfLzIImbwlBQR6JraD8fFhVo//D7VeasM9R0GnLEPZxl2BrQ37767g3HWSNULDZFIjgEcxKUAFWEt0bhDZlLYC3mZCBhOrLYc+qXF2BhcpDS1VsDX2uk2u/ramw==;f0Uvvl7hwbJa2T39uEby1A=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16822677"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822677"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
         width: 1400
         height: 733
+        isCached: true
+  - title: "Global AI Software Market Assessment 2020-2025 - Robust Digitization Opportunities in Asia-Pacific's Chemicals Industry"
+    excerpt: "The global AI software market revenue will grow at a CAGR of 41.6% between 2019 and 2025, with IBM representing the highest revenue among all competitors during 2016-2018. The forecast share of Asia-Pacific (including China) in the total market revenue of the chemical industry in 2020 is about 60%,"
+    publishedDateTime: 2020-07-28T17:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-ai-software-market-assessment-2020-2025---robust-digitization-opportunities-in-asia-pacifics-chemicals-industry-301101160.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Autonomous Data Platform Market Study, 2020-2025 - Increasing Need for Real-Time Information to Track and Monitor the Spread of COVID-19"
     excerpt: "Growth, Trends, and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21.7% over the forecast period 2020 to 2025."

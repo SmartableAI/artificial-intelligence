@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-29T13:31:00Z
 webUrl: "https://www.powermag.com/press-releases/abbs-new-analytics-and-ai-software-helps-producers-optimize-operations-in-demanding-market-conditions/?itm_source=parsely-api"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "ABB’s new analytics and AI software helps producers optimize operations"
+    excerpt: "ABB launches analytics software and services that combine operational data with engineering and IT data to deliver actionable intelligence"
+    publishedDateTime: 2020-07-31T15:55:00Z
+    webUrl: "https://www.hydrocarbonprocessing.com/news/2020/07/abb-s-new-analytics-and-ai-software-helps-producers-optimize-operations"
+    type: article
+    provider:
+      name: Hydrocarbon Processing
+      domain: hydrocarbonprocessing.com
+    quality: 39
+    images:
+      - url: "https://www.hydrocarbonprocessing.com/media/12105/abb_ability_genix_graphic.jpg"
+        width: 1280
+        height: 702
+        isCached: true
   - title: "ABB’s new analytics and AI software helps producers optimize operations"
     excerpt: "The ABB Ability™ Genix Industrial A Suite is a scalable advanced analytics platform with pre-built, easy-to-use applications and services. It collects, contextualizes and converts operational, engineering and information technology data into actionable insights that help industries improve operations,"
     publishedDateTime: 2020-07-29T17:28:00Z

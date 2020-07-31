@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,15 +45,33 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ByteDance AI research head to leave as pressure mounts on TikTok"
-    excerpt: "By Yingzhi Yang and Brenda Goh BEIJING (Reuters) - Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company, as its short-video app TikTok faces U.S."
-    publishedDateTime: 2020-07-28T06:24:00Z
-    webUrl: "https://wsau.com/news/articles/2020/jul/28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok/1043690/?refer-section=technology"
+  - title: "ByteDance AI Research Head to Leave as Pressure Mounts on TikTok"
+    excerpt: "Ying joined ByteDance from Microsoft to become a vice president and head of the AI lab in 2017. His departure comes as TikTok faces regulatory challenges across the globe, and a potential ban by the U."
+    publishedDateTime: 2020-07-28T06:58:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
     type: article
     provider:
-      name: WSAY
-      domain: wsau.com
-    quality: 19
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
+  - title: "Bytedance’s head of AI to leave amid heightened scrutiny"
+    excerpt: "Ying will leave Bytedance this week, as the company faces investigations and bans in its international markets."
+    publishedDateTime: 2020-07-29T07:06:00Z
+    webUrl: "https://technode.com/2020/07/29/bytedances-head-of-ai-to-leave-amid-heightened-scrutiny/"
+    ampWebUrl: "https://technode.com/2020/07/29/bytedances-head-of-ai-to-leave-amid-heightened-scrutiny/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/29/bytedances-head-of-ai-to-leave-amid-heightened-scrutiny/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 57
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2019/03/Byte-Dance.jpg?fit=1920%2C1074&ssl=1"
+        width: 1920
+        height: 1074
+        isCached: true
 
 secured: "wEkZPtQSrfq4uyCYl52IN8rb+i5ID2GK4DkIUSR+pEyunzVE0dBWg5l8DFYrKGtw0xaTm4dpAH0XdrwMZPOX7rAg9CtPK9qG3oOUM7tk01ZFLUF+RFL/PzmS2F8qSCgdowy3U7mbn39FaAHnFnmfoB+VzanurtNFWqbkVDFbP2wJpwd08zzNJ6N1BamvDi1xOa9X2BJQU4xy19bCMYOZ5t9lVOfoJCv/PoVsuC7oaAZBgdPfPdtac15UK3WIIOsouINtrlB9qwTRNv2KZRwhJhO0fK4fBC+e/jtvyhyJA75ckE3T3zigr8jMrikHlDh33pslUWmXSRrA57x+YnzWC7wQczoedLXTujkkdEWScjU1XQsYuXt93HdirxiS07hg6aC3j6+30/nmELCB7Y0zP9viwHDrsvvunT7a/oqS1y9C28OcxziGttbv91J973rLTqjthOwLXGbWuWRBSBSKrPh+ZHt1HOM/Dm5ipvVXsm8mBojc/DO0fatxvmFEsN8B;/6zucjpCY4IGEiW7u/rPig=="
 ---

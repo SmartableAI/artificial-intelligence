@@ -53,6 +53,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "New AI Software Helps Businesses Reopen During the Pandemic"
+    excerpt: "Now, Tata Consultancy Services (TCS) is joining the fray with new, AI-powered software that aims to help businesses reopen during the pandemic. TCS describes the new software, called IUX for Workplace Resilience, as a “business command center solution.”"
+    publishedDateTime: 2020-07-31T16:06:00Z
+    webUrl: "https://www.datanami.com/2020/07/31/new-ai-software-helps-businesses-reopen-during-the-pandemic/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/shutterstock_covid_business_warehouse.jpg"
+        width: 1000
+        height: 660
+        isCached: true
 
 secured: "W/kUfL4QRveP1bfzOU9BCSm2Hf+4hYgEOoxwHYundRr5k1XFILsHE/5TW/8MGLqYNSAfNCkBCT74oP008nAJWYDJeNY1OFzj+kPfThzA5xgGUq8J+KKSGQ29NRmArgAf0rCD8j+2f/bxbgFn5RASNU8oA0dJ0By8bTgOwX43SJeO3Of49N5cqOBZWEmq2rU7LpXrDDYXlXDl3+sKcMZx2PUhDyxEUAQskXer1crkSESSRK2QVHfsTPi1ZhD0IWYZzjn/T3kpa54Tiv9Y58uXtLxZhV/AVp4ta1+5W/zWR7JjNGQY/dsdr3e5FrzwALQ2H1ePXKiU3ie8kzlDOEm/hQ==;c4Jzmb8YI5RkI0HZuP230g=="
 ---

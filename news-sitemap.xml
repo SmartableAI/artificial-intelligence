@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing/</loc>
+    <lastmod>2020-07-31T10:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/announcing-the-winner-for-the-aws-deepcomposer-chartbusters-bach-to-the-future-challenge/</loc>
+    <lastmod>2020-07-31T10:32:08-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/create-a-multi-region-amazon-lex-bot-with-amazon-connect-for-high-availability/</loc>
     <lastmod>2020-07-31T08:06:43-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -567,12 +579,6 @@
   <url>
     <loc>https://www.eetindia.co.in/end-to-end-analog-neural-networks-promise-better-ai-chips/</loc>
     <lastmod>2020-07-27T17:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.news-medical.net/news/20200727/Yale-and-AI-Therapeutics-launch-clinical-trial-of-potential-COVID-19-drug.aspx</loc>
-    <lastmod>2020-07-27T16:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

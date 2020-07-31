@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200727/Yale-and-AI-Therapeut
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200727/Yale-and-AI-Therapeutics-launch-clinical-trial-of-potential-COVID-19-drug.aspx"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: News Medical
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Therapeutics announces start of Phase II clinical trial of potential COVID-19 treatment"
-    excerpt: "AI Therapeutics announced the start of Phase II clinical trial for the treatment of newly diagnosed COVID-19 patients in collaboration with Yale University. AI Therapeutics is a biopharmaceutical company that develops novel therapies identified through a ..."
-    publishedDateTime: 2020-07-27T00:00:00Z
-    webUrl: "https://www.news-medical.net/news/20200727/AI-Therapeutics-announces-start-of-Phase-II-clinical-trial-of-potential-COVID-19-treatment.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200727/AI-Therapeutics-announces-start-of-Phase-II-clinical-trial-of-potential-COVID-19-treatment.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200727/AI-Therapeutics-announces-start-of-Phase-II-clinical-trial-of-potential-COVID-19-treatment.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 47
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI therapeutics announces start of Phase II Trial of LAM-002A (apilimod dimesylate) for treatment of COVID-19 patients"
     excerpt: "AI Therapeutics announced the start of Phase II clinical trial for the treatment of newly diagnosed COVID-19 patients in collaboration with Yale University."
     publishedDateTime: 2020-07-27T13:21:00Z
