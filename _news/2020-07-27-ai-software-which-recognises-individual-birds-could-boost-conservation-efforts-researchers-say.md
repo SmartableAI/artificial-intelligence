@@ -8,7 +8,7 @@ ampWebUrl: "https://www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-i
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/amp/"
 type: article
 quality: 47
-heat: 47
+heat: 57
 published: false
 
 provider:

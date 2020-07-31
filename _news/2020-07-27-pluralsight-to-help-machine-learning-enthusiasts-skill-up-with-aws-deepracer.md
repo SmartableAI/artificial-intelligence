@@ -1,22 +1,21 @@
 ---
 category: news
 title: "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer"
-excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have access to a variety of offerings, including a series of ..."
-publishedDateTime: 2020-07-27T12:08:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
+excerpt: "SILICON SLOPES, Utah, (GLOBE NEWSWIRE) -- Pluralsight, Inc. (NASDAQ:PS), the technology skills and engineering management platform, today announced"
+publishedDateTime: 2020-07-27T12:03:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16786243"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16786243"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "na3gPunNQ3WO2FTAYKDouOYhHeb5EJq+GvN5JOSs1tG0dXFbU3bm5FPFCLcLDAda/SQYse0ST7PRKkOmDwG1/RG4NZn0das6M+M/jrvbxJHtE9cdLzeGZ1wqI2Ztub9wEe9X3NLh6AZEslKpwdA1xddzS/ndJwwffPgbGpZuzEBn1HDlyP9x2gjTYwHDxSF9wSyoYrO8/FGhzHaYXHp0pzTyH+t1APk+ENwDohOvUWhmUk6IjJY7Wuwwxh3a9vzWIMg7ebVtRFuQZTRMYyQn0kIkBwm2+ijMMiJDryw+EnOY1sxAFWpc8QqBmVSH3sWuNrVGn7GmRtxG28iAVq/KzA==;FPnkmJ3LDf0drOUuemavUA=="
+secured: "ZfRHe5TDPxICb2kUIyRdtIQ02fH9vWJOIhx4BwuBTC9gY1amKFN4oJ8Ln5gxdNWgTueL/bU+c3ZejQPddPxilpzgaKJRbRHXdqIS/nWMBJH2tnY+1dTxPbTWjOS2kdy1RMLQINNQkrMu4pIUK8rfbRe/ee30EY5cCpcLDIGzPCstpLPP9FQvDzC9lcFKsN8nMdTcgEOFZOGIN7JFFUU6YJ0vJmn4ukSd2E8PwgpU4Rw+rfAqFrvLA+Pvw8ZN7Bh45+TkOErvZ8e0J9Ep57BNhFkfUeGrnFtg7bc5ryZO1xq0sNrkvaZ+g4lAlhRynWD3Dajx7eLZVG5QXJWC148rUeOBswB+E7zUfSdout+8R8yXvrsYysjSi4gwAt2qeQE4bbgvSsY/8qjl0Urzduk54U39CyG2DE9ptrAnJx1utLY5GRuafxYwNXQ6uod0VCabA1vmAjlBO/9TEvtGMJRUoAXUCQlZKRUo0nJis0qVzHJv3Tdw6jnkBkEaDxg1xEsSvBH2TTeuXQ4BCN+N0fO5zA==;FNEyNKygjOfWud6Rh/yzig=="
 ---
 
