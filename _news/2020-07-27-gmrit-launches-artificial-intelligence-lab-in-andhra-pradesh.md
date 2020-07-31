@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/gmrit-launches-artifi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,17 @@ related:
         width: 1242
         height: 710
         isCached: true
+  - title: "ICO launches guidance on AI and data protection"
+    excerpt: "The Information Commissioner’s Office (ICO) has published guidance aimed at rendering the application of machine learning to data compliant with data protection principles."
+    publishedDateTime: 2020-07-31T15:16:00Z
+    webUrl: "https://www.computerweekly.com/news/252487003/ICO-launches-guidance-on-AI-and-data-protection"
+    ampWebUrl: "https://www.computerweekly.com/news/252487003/ICO-launches-guidance-on-AI-and-data-protection?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487003/ICO-launches-guidance-on-AI-and-data-protection?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "GMR Institute of Technology sets up Artificial Intelligence lab in Andhra"
     excerpt: "Aiming to provide training and certification on Artificial Intelligence (AI) applications development to its students and faculty through a new curriculum, the GMR Institute of Technology (GMRIT) has set up AI laboratory in Srikakulam district of Andhra Pradesh."
     publishedDateTime: 2020-07-28T02:29:00Z

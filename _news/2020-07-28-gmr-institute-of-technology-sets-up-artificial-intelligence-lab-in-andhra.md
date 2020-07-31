@@ -64,6 +64,17 @@ related:
         width: 1242
         height: 710
         isCached: true
+  - title: "ICO launches guidance on AI and data protection"
+    excerpt: "The Information Commissioner’s Office (ICO) has published guidance aimed at rendering the application of machine learning to data compliant with data protection principles."
+    publishedDateTime: 2020-07-31T15:16:00Z
+    webUrl: "https://www.computerweekly.com/news/252487003/ICO-launches-guidance-on-AI-and-data-protection"
+    ampWebUrl: "https://www.computerweekly.com/news/252487003/ICO-launches-guidance-on-AI-and-data-protection?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487003/ICO-launches-guidance-on-AI-and-data-protection?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
 
 secured: "16BRfz5OSFMXMWAAQpRUulb2x+RbpcWRhpiV+q6ypuqLkm9dx5dk2YU9dyTmunwQpEBvEeCi89lPLyaoUORtkBd9jMkRDwS1kvM41yc/4e5zJejC1Yu/siu9DZmIaRDTa0tIz+bFJIc5ZIxiXA6WteNQqZRzRjuf9CtEIu4hjU+9B6aOt4yItCarYPfALbF5w33pRO0AB0/qXM/T9ErjocD5PtuMlx/gZxbfUElYZp27G0h4MBIRa9jBfqgQMDDTMstkVi0yTCQln4HclUqE+BSq3QCri0NpHakS7aCAvK/JO9ZB9uW/TA3aHTz6t5/zka87ImtaTdHEM7A1iAVfPQ==;kjttOYaXfBHOk/ihxCzheQ=="
 ---

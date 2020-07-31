@@ -3,12 +3,12 @@ category: news
 title: "Facial recognition, thermal imaging part of future with coronavirus"
 excerpt: "The coronavirus pandemic has inspired a new wave of technology closely tied to Ohio businesses, including thermal imaging and facial recognition software"
 publishedDateTime: 2020-07-30T16:50:00Z
-webUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus"
-ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus?template=ampart"
+webUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus"
+ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
+cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200730&Category=BUSINESS&ArtNo=200739920&Ref=AR"
+    width: 1276
+    height: 715
+    isCached: true
 
 related:
   - title: "Documentary exposes the threat of facial recognition surveillance system in Serbia"
@@ -37,6 +43,6 @@ related:
         height: 367
         isCached: true
 
-secured: "UEO2dYRSVgMsfwWKZTKu7G4+2X5f4+PQFrJ9dy4IIxj7iA6t76UJphMgFTFLLrpEmpSnPWZ4Iu9UK8wnJ92WM3w2FwTzXexppGozfOBciaDVm2+NEKgVqGAV+GHJzG94esMU9wa0YEiSVvc0JKb1ApupadBbwphfNxlxfzcGw12pzB66e+OhT3uiDePSDR3/LvuuyRbv/L3J8pcUtI37FbO8lv3C2guXsJ1bT2/eU68Jiljd7HSNgbYNxes18ZrgLfKyIJkP6rskmNWnI7GVZxxOCIIkrE5lZ4Z+Rdoa8btXt5F7YP4taMOl9ifSD3gEvk4opXDQtC9z5Nn1x7ocIw==;i+ZIey7IgIYHLD0vsr6/CA=="
+secured: "9QLBzzIMTeWQCfu5/YP9uSBbtLfuV8D2brostHjx9v3Y3rjbTgg+AMEzmXa3CPpGPO5FP06x3WsQdGhVGn1tCtIi0XkLRwBaHBBkWiaxjCX0dlV4fhNmES6nKJPdSALtMJTgRxiuI2rRP3JO4NG1r37Hn57BnlyCdmfqYWbvN6ars9PY/IUhjtRMxVqkxjilbrIsUqop/dVbNZimQoHhowzLJH+2dFUlfApZlSYAe+06saZrtNd+4IDmLkr/ZcH3972P20gCj0zHeP5iThotvOCurBZOQORaXqOrh6+etvMZPRru6LwdKae2kBTSPRZOf2Nyq2VHCdPEPKoIgR7dEA==;D02CUAk1rNwWheK4lSzF2A=="
 ---
 

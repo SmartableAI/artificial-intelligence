@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/create-a-multi-region-amazon-lex-bot-with-amazon-connect-for-high-availability/</loc>
+    <lastmod>2020-07-31T08:06:43-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/</loc>
+    <lastmod>2020-07-31T07:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/</loc>
     <lastmod>2020-07-31T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -195,6 +207,12 @@
   <url>
     <loc>https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29</loc>
     <lastmod>2020-07-29T12:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/simplifying-application-onboarding-with-amazon-codeguru-profiler/</loc>
+    <lastmod>2020-07-29T12:37:43-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -571,12 +589,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/building-a-multilingual-question-and-answer-bot-with-amazon-lex/</loc>
-    <lastmod>2020-07-27T12:51:38-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techrepublic.com/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/</loc>
     <lastmod>2020-07-27T11:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -699,6 +711,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/</loc>
     <lastmod>2020-07-27T00:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece</loc>
+    <lastmod>2020-07-27T00:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2169,6 +2187,12 @@
   <url>
     <loc>https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests</loc>
     <lastmod>2020-07-17T07:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/platesmart-alpr-helps-authorities-stop-domestic-terrorist-301095431.html</loc>
+    <lastmod>2020-07-17T07:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

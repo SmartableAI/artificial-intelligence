@@ -1,28 +1,25 @@
 ---
 category: news
 title: "PlateSmart ALPR Helps Authorities Stop Domestic Terrorist"
-excerpt: "Terrorism, both domestic and international, has become the bane of modern life in the United States. Just last month, the think tank Center"
-publishedDateTime: 2020-07-17T14:40:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/platesmart-alpr-helps-authorities-stop-domestic-terrorist/article_92f41004-9e6e-5928-903a-64d2d247c6c7.html"
+excerpt: "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with both state-of-the-art cameras and video management ..."
+publishedDateTime: 2020-07-17T14:34:00Z
+webUrl: "https://www.prnewswire.com/news-releases/platesmart-alpr-helps-authorities-stop-domestic-terrorist-301095431.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mma.prnewswire.com/media/1215961/PlateSmart_Logo.jpg?p=facebook"
+    width: 2079
+    height: 1088
     isCached: true
 
-secured: "W83WbgAzsSv3eShhVJzNmO7QmKCbnIDcPl62sKDIdG9wpPseyDn275Kn3r2wmjD1N2xXghjMfv4TSDGWGKFYKktWY266TUTtAmHRglms34HQOn/Yag8lEBAghOm3vQ/h6Fqp5VoO/KrmmGTFitrk4SRvqTw/nSE6aGmmbT/Kh9puD+wDr2IileiooHRWB3Qf7PwYqmwwhF66UAVjvoPffQLswxKsGSxhTKA5XRsrxDCfqBC1RnrP0xedDj1pyKBcwG3ICWnP5BHf9kPi0BQfdMBfSNMzct+XWFU+wk1frhSwVbm4Y1Vcrazw+e+tHKYkO8/ogZ+sFE362vmhBAom8A==;gW93u4h7ApGfjASURfncdQ=="
+secured: "2UuhR0LV/X9jlzUdx3kv5Zbw2doQB34TAX8i+mzjRWZta9drjqAQtLOu4N8Zox/NaLDEEpB09AHtdkBRYCnfVOW+cVJbZV612Wk9j+SBAYpJp3y3WtiB042wbZYz8br0M6bNuSFiz2WBfw+1aH51K93bvK1SvJGTP8LzXqI7JYQABC4HiZ97csKnOBVMJxT1x3cfTOorRVQfmKAN1Wzh7COrLdqB2ls+zfVmcfdIXs/kdd7GqLnfxIhVEtEN/Ght/FMYmp6in8/zH/8i0au3hTgIinj4w4Fox+TUWpJlXPQIUpXt7uvL9wU5W5qTPUS8O1Cp+96SdYLrlFTmu6p69Q==;zfHasBQou/KIZXSwllXv1g=="
 ---
 
