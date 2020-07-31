@@ -80,20 +80,6 @@ related:
         width: 800
         height: 540
         isCached: true
-  - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
-    excerpt: "With more than 40 companies actively investing in autonomous vehicle technology, it’s fair to say that most traditional car manufacturers – plus the odd tech heavyweight, like Google parent company Alphabet – are busy chasing the self-driving car dream."
-    publishedDateTime: 2020-07-26T12:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/5-ways-self-driving-cars-could-make-our-world-lives-better-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFjl8qn1-EZTA/article-cover_image-shrink_720_1280/0?e=1601510400&v=beta&t=dp_Ufk0YRawMkk9NQJyh0KddUF423Jk-MiyXrd3WQZc"
-        width: 1158
-        height: 720
-        isCached: true
 
 secured: "M7QfzcXEbA3vKt1RewaG5j2wbyZki6YGocOS7AwOFZ5PAdYgQLvv4uMBPIY8pMHRxLnYpVrtJQ6s/73HI7+2SxpfGpi9a9GP2O3yQnD/mE1dhmigMZ0suDj/TEdx4nk21hi9KvVDSSx4x2vnKy86JOySk/bJIUXf7zxLSX2z5sx3xzoK76HuVHJ+IxuOl1rBBjah5cTDl12QxgzAq953V0koYn2kiI15CcQQ6T008PAuDRLBS3sgY8AE7gbhHjgAE/89DMJ7pIrP0DxSpETVnAxWYu7RI3toJaHXIEDRPMMG9SnbSCeBw5MYlDDrnvWE+4g6UYdZmnIAvRUAbAjRuw==;tOf7jP0VPwGiSELPHnvOZA=="
 ---

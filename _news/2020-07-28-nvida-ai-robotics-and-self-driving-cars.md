@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-28T09:04:00Z
 webUrl: "https://www.moneyshow.com/articles/dailyguru-54699/"
 type: article
 quality: 73
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
         width: 800
         height: 540
         isCached: true
-  - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
-    excerpt: "With more than 40 companies actively investing in autonomous vehicle technology, it’s fair to say that most traditional car manufacturers – plus the odd tech heavyweight, like Google parent company Alphabet – are busy chasing the self-driving car dream."
-    publishedDateTime: 2020-07-26T12:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/5-ways-self-driving-cars-could-make-our-world-lives-better-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFjl8qn1-EZTA/article-cover_image-shrink_720_1280/0?e=1601510400&v=beta&t=dp_Ufk0YRawMkk9NQJyh0KddUF423Jk-MiyXrd3WQZc"
-        width: 1158
-        height: 720
-        isCached: true
   - title: "SA to increase 5G operations – and it’ll put self-driving cars on the road"
     excerpt: "You can expect to see more 5G masts and networks go online in the near future - allowing self-driving cars to operate in South Africa."
     publishedDateTime: 2020-07-30T07:21:00Z
@@ -97,6 +83,6 @@ related:
         height: 960
         isCached: true
 
-secured: "FNXFKeiCO+JoG+qJI8nY0Dyp4/xYzu6QIMfprgErWqMs/dXOgxCMx3ugbOEXmjr7wtdnaQmBQm43gU4dOhYt/H0HaKU+glFe2RveQyYc/72D/m36l+K6aZzXkX8rgRYrDeLBFVsJk+kdtVNSBGHgJe22kIqfQYfoy/qP8LPNFmTQhF1O57s9JMmchbn/dLTfwKqUGjvxU3siUkZ0ywGLt7EWgHdl0cKUd0yP8w+P8sj0iFXJq1a4wnS489ArLZIJ+LcErYmrPLbfgJTr420+b2D5HAN1bX9/O4b6cmBgWADMTu3K7qDxApuhKFv7VSFgDvt9zxnWkZx76Fv29SK1Zg==;/q2sxYapxzBNsZ71YgnuLA=="
+secured: "wSziFJquX7GlGQ0+FnIAnoL1fn7mVsAcJTRRclIpO9JgSM7g66Q204FpdG2H/TFp2VCpJps3ah+zCRekSyY3hRIyQeeODOZGn33C+BO+upnbtqWqXDU8u/mLKzo/z7LBLJY1+dbSpN5pElNB/x8taLvi3PnBXe2K84ZRI2QqZmrMwFyQpVLry41Wnk2HGoh9xqocrCjMIDIyvir2c3KSeNRa0OWaBkSTBE3R8VVw16dGRpX3vXvwrIAyJ0tf+sdMOYXXyvsOIMppk2Rndti90s6NUvoQoQvtQLrVoc6CuPlxzt+CfTOXvYRskkRWZm8bxvqrjtyLtDhVkVs41aos/p0unHa2kkjyjSfm/vQxAxR5NQtpzBF+pQbyq2fyyD3hN/TPmjPccBAlrXKqU+QlqiFG3iF5/dxPsP7OGmSyNjE6cy14DlEFnhYjt1jxVEn04JsIMFXzpbAue9FqjcNFx6UuNOZqbQQNRtsr3KxjrNmJ9D9uR5NmJfgk8nSkSiy25v2SvAlhh+JEDddJh8pfsg==;tETCvJGIwUs72OABfl8TTQ=="
 ---
 

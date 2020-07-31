@@ -55,6 +55,6 @@ related:
       domain: wsau.com
     quality: 19
 
-secured: "h0XseRZF15QvXh6j1WR7Z/Cbf/+mrc329sKl2XFFOrgx/CQ+NR5mmbgTJaCxroAL3AhZBam6jTfMB85/gaoeI/2VYzXBavrhAuwdI+OezbXdJ0svlTWGyx1ADCNMpBu0GsfeC34orGefF4gcYhvRPiT9I87eP2l7kqM9nbcMEcUZ31YdXMpDnfg2a/bWouC/JHm3A/kGNu4xQLN5l2C+4E6Y248427HSMNYOxGZXWUv4bF1Be1cwXE+YpqYkWuynde3WA5rXrLq+ZZMCuYTSWmXK4I3z4QTzyCDfam/9H/5YQsyHxWcEwm+kWvCzX2Kmw1l41M/aMF1BEpbN/z/D9g==;jBuwAoM7/zIJ3YiqnrVmWw=="
+secured: "zcNcW8Dwwp3VXKsA0F3Ot7Kev80peydGLgNNQTjAbqBgUMVWeTwCcI6njU8P8lP/bkVb+BibGFa9nymcka6yl9YMGoaM/8nlU1aMZFYj22hXAvtbBSJ5/XjgX41Yk+fyG+GhxrnU+NV5fIsvmKiwCYyOdk960yR+wNEritJzkgOxhcYSm4QgHr+JxL0MteTWN9wyh/tDgkIxoaskZWB8hJLV/eQzGp5V+rueNhqDoBwjTg5yfXOTlbCDzHHrTtB/rouqPjIGrmYLeh62ltF7D9K4VMie91mFsaD9/1JHVHA0a3+e+S1fOL8fy1xfZktZOxbrmp6oYulTNFqCtVFeuGJtRh2ZtQThtHgtyhSh0vQV8lVT8WjMHxiVs4KWqxHn9EpzTiv/67Qufo8e9NN6QGM/lx39zJr7y/Hf9j195j9s+OuW5e6cU/vLCgTJHrYSxu+il2yHBdinR3S1l2JHTS4794U/gi6EJkJskJzGOWXQlp+4d2/w+79vQORxMstoqTIH+lCHOhIGLfXGihThcw==;4JK+ZzCU+9RWhwpdGxQq/w=="
 ---
 

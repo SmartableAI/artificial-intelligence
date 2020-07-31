@@ -59,7 +59,7 @@
       "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -843,22 +843,31 @@
     {
       "path": "_news/2020-07-19-autox-gets-permit-to-run-driverless-testing-in-california.md",
       "title": "AutoX gets permit to run driverless testing in California",
-      "excerpt": "Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless ... the world with Artificial Intelligence (AI) drivers ...",
+      "excerpt": "(MENAFN - IANS) San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing on California roads.",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Science/20200719/3595133.html",
+      "webUrl": "https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-07/19/I_11b7d50c-cimage_story.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-19T11:01:00-07:00",
+      "publishedDateTime": "2020-07-19T09:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

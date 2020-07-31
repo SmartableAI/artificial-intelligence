@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
-    excerpt: "With more than 40 companies actively investing in autonomous vehicle technology, it’s fair to say that most traditional car manufacturers – plus the odd tech heavyweight, like Google parent company Alphabet – are busy chasing the self-driving car dream."
-    publishedDateTime: 2020-07-26T12:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/5-ways-self-driving-cars-could-make-our-world-lives-better-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFjl8qn1-EZTA/article-cover_image-shrink_720_1280/0?e=1601510400&v=beta&t=dp_Ufk0YRawMkk9NQJyh0KddUF423Jk-MiyXrd3WQZc"
-        width: 1158
-        height: 720
-        isCached: true
   - title: "SA to increase 5G operations – and it’ll put self-driving cars on the road"
     excerpt: "You can expect to see more 5G masts and networks go online in the near future - allowing self-driving cars to operate in South Africa."
     publishedDateTime: 2020-07-30T07:21:00Z
