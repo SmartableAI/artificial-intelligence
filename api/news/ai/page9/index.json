@@ -2,6 +2,47 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-21-using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms.md",
+      "title": "Using Artificial Intelligence/ Machine Learning to Detect Domain Generation Algorithms",
+      "excerpt": "We will also cover some unique and cutting-edge methods leveraging artificial intelligence/machine learning (AI/ML) to counter these threats and discuss how to handle false detections (both positive and negative).",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/cio/CIO_logo_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense.md",
       "title": "Cybersecurity Services Market Trends: Leveraging Artificial Intelligence, Machine Learning And Blockchain Technologies For Cyber Defense",
       "excerpt": "Leveraging artificial intelligence (AI), machine learning and blockchain technologies for cyber defense is a key trend in the cybersecurity services market. Cybersecurity vendors integrate artificial intelligence (AI) and machine learning principles into their solutions to tackle crucial hyper-connected workplace risks,",
@@ -1323,38 +1364,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-falling-tech-spending-hurts-ibm-wsj.md",
-      "title": "Falling Tech Spending Hurts IBM — WSJ",
-      "excerpt": "IBM wants to be a leading cloud-computing player, but it is behind the competition, led by Amazon and Microsoft ... and other management services, made $3.89 billion of sales during the quarter, down 7%, IBM said. Its Cloud and Cognitive Software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/202007211155/falling-tech-spending-hurts-ibm-wsj",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

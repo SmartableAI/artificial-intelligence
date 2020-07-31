@@ -2,6 +2,55 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-06-30-mentenais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery.md",
+      "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
+      "excerpt": "Menten AI has an impressive founding team and a pitch that combines some of the hottest trends in tech to pursue one of the biggest problems in healthcare — new drug discovery. The company is also $4 million richer with a seed investment from firms including Uncork Capital and Khosla",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/01/quantum.jpg?w=1024",
+          "width": 1024,
+          "height": 737,
+          "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
+      "publishedDateTime": "2020-06-30T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era.md",
       "title": "IBM uses AI to enhance old Wimbledon tennis footage for the digital era",
       "excerpt": "IBM and Wimbledon are using AI techniques to revitalize classic footage going back to the 1970s to appeal to modern tennis fans.",
@@ -1294,46 +1343,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-ipo-preview-renalytix-ai-seeks-us-ipo-investment.md",
-      "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
-      "excerpt": "Renalytix AI (RNLX) intends to raise $86.25 million in an IPO of its ADSs representing underlying ordinary shares, according to an F-1 registration statement. The firm is developing an AI-enhanced diagnostics system for chronic kidney disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/ipo/news/renalytix-ai-ipo",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTczNjEzNzY1Njg4ODI5MTc0/renalytixnamarket.png",
-          "width": 620,
-          "height": 357,
-          "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
-      "publishedDateTime": "2020-06-29T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

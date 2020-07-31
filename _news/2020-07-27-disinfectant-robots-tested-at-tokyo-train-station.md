@@ -8,7 +8,7 @@ ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200727_22/amp.html"
 cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200727_22/amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "JR East unveils disinfection, mobility robots at new station in Tokyo"
-    excerpt: "East Japan Railway Co. unveiled Monday autonomous disinfection and mobility robots at its recently opened high-tech station in Tokyo,"
-    publishedDateTime: 2020-07-27T04:36:00Z
-    webUrl: "https://mainichi.jp/english/articles/20200727/p2g/00m/0na/062000c"
-    type: article
-    provider:
-      name: mainichi.jp
-      domain: mainichi.jp
-    quality: 39
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2020/07/27/20200727p2g00m0na061000p/0c8.jpg?1"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Robots Tested On Ability To Clean Tokyo Station"
     excerpt: "Disinfectant robots were tested and revealed on Monday for the first time at Tokyo's Takanawa Gateway Station amid the coronavirus outbreak."
     publishedDateTime: 2020-07-27T12:38:00Z

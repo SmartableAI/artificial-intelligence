@@ -2,6 +2,96 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-28-tasers-a-pink-diary-and-a-bulge-in-the-front-of-his-pants-the-inside-story-of-an-albany-meth-dealers-violent-run-ins-with-police.md",
+      "title": "Tasers, a pink diary and a bulge in the front of his pants — the inside story of an Albany meth dealer’s violent run-ins with police",
+      "excerpt": "Convicted Albany meth dealer Nicholas Knight broke down in tears in court last week as he was sentenced to prison in a hearing that revealed dramatic details of his violent run-ins with police.",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The West Australian",
+        "domain": "thewest.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-mind-controlled-drones-and-robots-how-thought-reading-tech-will-change-the-face-of-warfare.md",
+      "title": "Mind-controlled drones and robots: How thought-reading tech will change the face of warfare",
+      "excerpt": "DARPA is funding a number of brain-computer interface projects to enable soliders to control equipment at the speed of thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/28/b6169b0b-a114-488f-bf41-f99025d6be35/thumbnail/1200x675/316e4bcea8de79eea954e2fead27af0f/istock-477598506.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
+      "publishedDateTime": "2020-07-28T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read.md",
       "title": "Embarking on a Python journey? Then ‘Hands-on Machine Learning’ is a must read",
       "excerpt": "Writing an all-encompassing book on Python machine learning is difficult, given how expansive the field is. But reviewing one is not an easy feat either, especially when it’s a highly acclaimed title such as Hands-On Machine Learning with Scikit-Learn,",
@@ -91,49 +181,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-nvida-ai-robotics-and-self-driving-cars.md",
-      "title": "NVIDA: AI, Robotics and Self-Driving Cars",
-      "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg",
-          "width": 555,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyShow.com",
-        "domain": "moneyshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
       ]
     },
     {
@@ -917,7 +964,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 177,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1369,48 +1416,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-how-india-can-become-a-powerhouse-in-artificial-intelligence.md",
-      "title": "How India can become a powerhouse in Artificial Intelligence",
-      "excerpt": "India should declare data as a national resource to prevent misuse. An institution that helps leverage data for AI is called for",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/opinion/uhc04b/article32197433.ece/ALTERNATES/LANDSCAPE_615/BL25THINKAI1",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
-      "publishedDateTime": "2020-07-27T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?itm_source=2&amp;itm_content=2x4&amp;itm_term=2377058</loc>
+    <lastmod>2020-07-31T14:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313</loc>
+    <lastmod>2020-07-31T14:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/</loc>
     <lastmod>2020-07-31T12:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -549,12 +561,6 @@
   <url>
     <loc>https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.html</loc>
     <lastmod>2020-07-28T02:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.moneyshow.com/articles/dailyguru-54699/</loc>
-    <lastmod>2020-07-28T02:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

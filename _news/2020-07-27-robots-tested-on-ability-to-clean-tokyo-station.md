@@ -40,20 +40,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "JR East unveils disinfection, mobility robots at new station in Tokyo"
-    excerpt: "East Japan Railway Co. unveiled Monday autonomous disinfection and mobility robots at its recently opened high-tech station in Tokyo,"
-    publishedDateTime: 2020-07-27T04:36:00Z
-    webUrl: "https://mainichi.jp/english/articles/20200727/p2g/00m/0na/062000c"
-    type: article
-    provider:
-      name: mainichi.jp
-      domain: mainichi.jp
-    quality: 39
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2020/07/27/20200727p2g00m0na061000p/0c8.jpg?1"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "8L1ON0LglrFdZqry2CzWz2JG05iQ52C0Hfho/bxUfqbBoPiXhnSHOF0CYVacIlLYdvgjkA6XtZ6gKpUpBpPX+hwzi/9bAV5bxPcV4rQvkuMOvziuFZY8wJ0VJHpnPbhcCAFVEuK9qNMLI8EHOCbVHNO5fgRIkOWSODsEkBpRIqxIMmg1Enmc9FXs9I1TiSYvyjosN/nJSrIymDjpa6SDCPhO6AbFtN099iuS87NTYAQGLAl+1hVQ7i9e4x9Xdt+3/9fcaorpmhRbSYrqXTcZd4QsSetT///f/yesJ86LescAdKwg8KY2UuOb8eqiGu6oGJORK4kSgB07sgY0oYw+mQ==;EJQbMJLUtAZHNjJ9uItI3g=="
 ---

@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The history of self-driving cars"
+    excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
+    publishedDateTime: 2020-07-31T21:12:00Z
+    webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?itm_source=2&itm_content=2x4&itm_term=2377058"
+    ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
+    images:
+      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/self-driving-car-3-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "NVIDA: AI, Robotics and Self-Driving Cars"
     excerpt: "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid"
     publishedDateTime: 2020-07-28T09:04:00Z
@@ -56,6 +72,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Key Self-Driving Car Supplier Is Finally Going Public Through a SPAC"
+    excerpt: "(NYSE: GRAF) announced earlier this month that it will acquire Velodyne Lidar, a company that supplies 3D mapping for self-driving car capabilities. After completing the acquisition sometime in the third quarter of 2020,"
+    publishedDateTime: 2020-07-29T13:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/a-key-self-driving-car-supplier-is-finally-going-public-through-a-spac-2020-07-29"
+    ampWebUrl: "https://www.nasdaq.com/articles/a-key-self-driving-car-supplier-is-finally-going-public-through-a-spac-2020-07-29?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-key-self-driving-car-supplier-is-finally-going-public-through-a-spac-2020-07-29?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Qualcomm Tests New Technology That Could Aid Self-Driving Cars"
     excerpt: "If we’re ever going to have self-driving cars, they will need to be able to talk wirelessly to one another … and to roadside monitoring infrastructure, like traffic signals. Such technology has been around but has failed to take hold."
     publishedDateTime: 2020-07-27T22:57:00Z
@@ -69,6 +96,20 @@ related:
       - url: "https://kpbs.media.clients.ellingtoncms.com/img/podcasts-episode/2020/MiddayEd_generic-new_ysu2o3F.jpg"
         width: 800
         height: 540
+        isCached: true
+  - title: "COMMENTARY: The first self-driving vehicle"
+    excerpt: "I’m sure you’re as riveted to the TV as I am when a commercial appears featuring a young man, his girlfriend, and their Waymo driverless car. The couple is amazingly pleasant and personable. “Nice young people,"
+    publishedDateTime: 2020-07-29T12:13:00Z
+    webUrl: "https://www.bemidjipioneer.com/opinion/columns/6591766-COMMENTARY-The-first-self-driving-vehicle"
+    type: article
+    provider:
+      name: Bemidji Pioneer
+      domain: bemidjipioneer.com
+    quality: 24
+    images:
+      - url: "https://www.bemidjipioneer.com/incoming/4690950-q4lnxk-Hank-Slotnick-web-art.jpg/alternates/BASE_LANDSCAPE/Hank%20Slotnick%20web%20art.jpg"
+        width: 1140
+        height: 712
         isCached: true
   - title: "SA to increase 5G operations – and it’ll put self-driving cars on the road"
     excerpt: "You can expect to see more 5G masts and networks go online in the near future - allowing self-driving cars to operate in South Africa."
@@ -84,6 +125,15 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Self-Driving Cars Will Make Life Better—For Some of Us"
+    excerpt: "True self-driving cars are still likely decades away, but it might behoove us to start planning for them, and how they’ll change society, now."
+    publishedDateTime: 2020-07-29T21:23:00Z
+    webUrl: "https://www.automobilemag.com/news/self-driving-cars-digital-divide-mobility/"
+    type: article
+    provider:
+      name: Automobile
+      domain: automobilemag.com
+    quality: 4
 
 secured: "G6HiDkVGa/plh6YNxq2sHAC1lk3JLObz+ccRFzIXxCjmKugwV+w3m22Vzp+1n6jCtBeS3EvBKoKGn8D3TVWFUb3J1Gn6C3ZT6RNjQN9ZVEOKslVRe/qBxUA8MwSGJAyx8FkqJOayuc+gMX8dRClO4HSyHsT+/6c4ZleZFAGYdnEuLjy0I+SGvJ+jYQNuiPE/HTqFqtaHMf1Ah4kjAFVN3ZdqoJBnEcuT4yEBZOiPR3NRvO1EDgrdfo4WlMJVVFtVX4623hCt7CmuHhvSFtqDKHTcxGJXcPNCkMIFnNWImf8W/XHtqDE0AIwT2rMAtOT38Gvz5/tLRMZt4lzkMjK3sNSaJBs3r24RKPmUPtvLO/fMKAzV4V3emNmkwEMK2VuZQNWzxXafFbvYJ5oenkTQEu2m+EtV3KRCVCHhXsuohKO63lVXtfl/hSn579+JcJd830poNs8uxWDI1SeVfCslt9X284fn5nj5TVpfqasq7Ro1yzx3xNnObIHsheIAbrRvRRAwyor+LaR0PPzRran1Jg==;HZ7NGqRvrH6scE6gaB24Yg=="
 ---

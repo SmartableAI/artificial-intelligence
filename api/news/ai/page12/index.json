@@ -2,6 +2,56 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-18-profound-aitm-risk-receives-ce-mark-in-europe.md",
+      "title": "ProFound AI(TM) Risk Receives CE Mark in Europe",
+      "excerpt": "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced ProFound AI(TM) Risk received a CE Mark",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/profound-aitm-risk-receives-ce-mark-in-europe-2020-07-15",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-18T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025.md",
       "title": "Cognitive Data Management Market Size Rising at more than 11.3% CAGR During 2020-2025",
       "excerpt": "The global Cognitive Data Management market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 11.3% in the forecast period of 2020 to 2025 and will expected to reach USD 855.",
@@ -1399,56 +1449,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-nvidia-faces-a-tough-new-rival-in-artificial-intelligence-chips.md",
-      "title": "NVIDIA Faces a Tough New Rival in Artificial Intelligence Chips",
-      "excerpt": "The chip offers eight times the performance of its predecessor, the Colossus MK1, and is powered by 59.4 billion transistors -- which surpasses the 54 billion transistors in NVIDIA 's ( NASDAQ:NVDA) newest top-tier A100 data center GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582503%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
-      "publishedDateTime": "2020-07-17T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

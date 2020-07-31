@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook raises settlement to $650 million in facial recognition lawsuit"
+    excerpt: "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,"
+    publishedDateTime: 2020-07-31T21:00:00Z
+    webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST"
+        width: 831
+        height: 545
+        isCached: true
   - title: "Chinese facial recognition developer closes $1.5 billion funding round"
     excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
     publishedDateTime: 2020-07-31T18:06:00Z
@@ -41,6 +57,31 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Documentary exposes the threat of facial recognition surveillance system in Serbia"
+    excerpt: "This project involves the installation of thousands of smart surveillance cameras with object and facial recognition features. The cameras were procured as part of a bundle that included an artificial intelligence system used to analyse the feed captured ..."
+    publishedDateTime: 2020-07-27T08:57:00Z
+    webUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/"
+    ampWebUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
+    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
+    type: article
+    provider:
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 53
+    images:
+      - url: "https://globalvoices.org/wp-content/uploads/2020/07/hiljadekamera-wp-13-800x367.jpg"
+        width: 800
+        height: 367
+        isCached: true
+  - title: "Facebook will pay USD 650 mln to settle facial recognition privacy lawsuit"
+    excerpt: "Facebook will pay a total of USD 650 million to settle a lawsuit over the company's use of facial recognition technology, writes local publication Facebook citing court documents presented by Facebook."
+    publishedDateTime: 2020-07-27T08:14:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-will-pay-usd-650-mln-to-settle-facial-recognition-privacy-lawsuit--1348000"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "O0rai2qTUSHJV64UfhV1ccfUxwjvqB3lSjixtfOcKA2Z0KDxiuNHIeZQ71wrN8jg6W+HStylEI3vBcQhD6/obvzOXnXBQdLgFmCXYAzYw6RTdmLkKuOITFXJZxcQgu2bGxclsTkjmcR1DKtwv5X3m2vhpW2ZN/XiZhLpaLppRZxoZKWXTL4OIKvXhdvNookqvU2Vn4KLmDfjdpHdZMsvO86kvkBG2CwK5Wj7/BRimF/nPQEl9Q0wTVrvFayy0EvZH1VRJEDqy7tEoZnTfzpBYJhd1O1W0Ho4Mo99udBD9crZ2uuhHm9S6p/0YHRGt32MM02KVKaqAIav6zjkPsZBtA==;CXmPft7EEEFIR8YaNKEk6w=="
 ---

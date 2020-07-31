@@ -2,6 +2,55 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-07-06-this-bangalore-based-startup-provides-omnichannel-solutions-to-retailers.md",
+      "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
+      "excerpt": "Bringing Under One Roof Ace Turtle uses Rubicon 3.0, an artificial intelligence (AI)-based proprietary tech platform to integrate online and offline retail channels. The startup provides tailor-made omnichannel technology solutions for its clients that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/352846",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594044841-WhatsAppImage2020-07-06at73044PM.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/352846",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/352846",
+      "publishedDateTime": "2020-07-06T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices.md",
       "title": "AI Behaving Badly: New Model Could Help AI Make More Ethical Choices",
       "excerpt": "AI often makes decisions with little human input, and it's hard to predict the circumstances under which they're likely to choose an unethical approach.",
@@ -1325,57 +1374,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-how-ai-can-empower-communities-and-strengthen-democracy.md",
-      "title": "How AI can empower communities and strengthen democracy",
-      "excerpt": "A look at AI projects and prototypes built with justice in mind to strengthen communities, improve democracies, and defend free societies and people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/9-6-14_0217.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "How AI can empower communities and strengthen democracy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
-      "publishedDateTime": "2020-07-04T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

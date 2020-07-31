@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Documentary exposes the threat of facial recognition surveillance system in Serbia"
-    excerpt: "This project involves the installation of thousands of smart surveillance cameras with object and facial recognition features. The cameras were procured as part of a bundle that included an artificial intelligence system used to analyse the feed captured ..."
-    publishedDateTime: 2020-07-27T08:57:00Z
-    webUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/"
-    ampWebUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
-    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
+  - title: "Facial Recognition, Thermal Imaging Part of the New Normal"
+    excerpt: "The coronavirus pandemic has fueled the rise of facial recognition and thermal imaging technologies to detect symptoms of the virus in a variety of sectors. The tech streamlines more manual safety checks."
+    publishedDateTime: 2020-07-31T21:31:00Z
+    webUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html"
+    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
     type: article
     provider:
-      name: Global Voices Online
-      domain: globalvoices.org
-    quality: 53
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://globalvoices.org/wp-content/uploads/2020/07/hiljadekamera-wp-13-800x367.jpg"
-        width: 800
-        height: 367
+      - url: "https://media2.govtech.com/images/US-NEWS-CORONAVIRUS-OHIO-TECHNOLOGY-.JPG"
+        width: 1110
+        height: 625
         isCached: true
 
 secured: "9QLBzzIMTeWQCfu5/YP9uSBbtLfuV8D2brostHjx9v3Y3rjbTgg+AMEzmXa3CPpGPO5FP06x3WsQdGhVGn1tCtIi0XkLRwBaHBBkWiaxjCX0dlV4fhNmES6nKJPdSALtMJTgRxiuI2rRP3JO4NG1r37Hn57BnlyCdmfqYWbvN6ars9PY/IUhjtRMxVqkxjilbrIsUqop/dVbNZimQoHhowzLJH+2dFUlfApZlSYAe+06saZrtNd+4IDmLkr/ZcH3972P20gCj0zHeP5iThotvOCurBZOQORaXqOrh6+etvMZPRru6LwdKae2kBTSPRZOf2Nyq2VHCdPEPKoIgR7dEA==;D02CUAk1rNwWheK4lSzF2A=="

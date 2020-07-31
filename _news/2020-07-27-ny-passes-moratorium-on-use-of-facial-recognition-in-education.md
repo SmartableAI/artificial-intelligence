@@ -56,6 +56,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "How Reuters investigated Rite Aid’s facial recognition systems across hundreds of stores in the U.S."
+    excerpt: "Reuters this week published an investigation into how Rite Aid quietly added facial recognition systems across 200 stores in the United States over the last eight years. The Reuters year-long investigation,"
+    publishedDateTime: 2020-07-31T20:12:00Z
+    webUrl: "https://uk.reuters.com/article/rpb-riteaid/how-reuters-investigated-rite-aids-facial-recognition-systems-across-hundreds-of-stores-in-the-us-idUKKCN24W2XY"
+    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN24W2XY"
+    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN24W2XY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527906912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1QC"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
     excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
     publishedDateTime: 2020-07-28T11:33:00Z

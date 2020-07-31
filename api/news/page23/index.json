@@ -2,6 +2,47 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-07-14-australian-federal-police-emails-reveal-how-it-used-facial-recognition-app-clearview-ai.md",
+      "title": "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI",
+      "excerpt": "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
+      "publishedDateTime": "2020-07-13T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-microsoft-makes-major-cuts-to-msn-editorial-team-amid-ai-shift-and-broader-fiscal-year-end-layoffs.md",
       "title": "Microsoft makes major cuts to MSN editorial team amid AI shift and broader fiscal year-end layoffs",
       "excerpt": "Microsoft is further cutting back its MSN team amid a controversial shift to automation and AI for content decisions previously left to human editors. After previously eliminating dozens of",
@@ -1108,56 +1149,6 @@
         "AI Ethics",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-ai-in-lending-fad-or-future.md",
-      "title": "AI In Lending: Fad Or Future?",
-      "excerpt": "Dmitry Dolgorukov is the Co-Founder and CRO of HES Fintech, a leader in providing financial institutions with intelligent lending platforms. Presumably, the return on each dollar invested in AI will be $1.99 by 2023 and $2.87 by 2028. Still, for many ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/07/13/ai-in-lending-fad-or-future/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f071ccc4b08590006e1b2fa%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/07/13/ai-in-lending-fad-or-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/07/13/ai-in-lending-fad-or-future/amp/",
-      "publishedDateTime": "2020-07-13T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
