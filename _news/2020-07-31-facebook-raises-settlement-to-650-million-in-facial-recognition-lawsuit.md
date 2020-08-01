@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
 type: article
 quality: 103
-heat: 123
+heat: 163
 published: true
 
 provider:
@@ -30,6 +30,54 @@ images:
     isCached: true
 
 related:
+  - title: "Face masks often aren't enough to defeat facial recognition, study finds"
+    excerpt: "A new study from the National Institute of Standards and Technology (NIST) found that many commercially available facial-recognition systems are still able to correctly identify people wearing ..."
+    publishedDateTime: 2020-07-28T00:53:00Z
+    webUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus/"
+    ampWebUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 88
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252F95%252F1532e5c976d04dde9692037c735a8d30.87877.jpg%252F1200x630.jpg?signature=yauLpgtXHRASkvuV7i8lF1rVyQA="
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face masks are breaking facial recognition algorithms, says new government study"
+    excerpt: "Face masks are one of the best defenses against the spread of COVID-19, but their growing adoption is having a second, unintended effect: breaking facial recognition algorithms. Wearing face masks that adequately cover the mouth and nose causes the error rate of some of the most widely used facial recognition algorithms to spike to between 5 percent and 50 percent,"
+    publishedDateTime: 2020-07-28T10:14:00Z
+    webUrl: "https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/7wBcQXnfx_0Fz6A7TxT_uveln8A=/0x0:5000x3333/1400x933/filters:focal(2100x1267:2900x2067):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67119641/1227809769.jpg.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Face masks are messing up facial recognition software"
+    excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
+    publishedDateTime: 2020-07-29T17:35:00Z
+    webUrl: "https://www.wcvb.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    ampWebUrl: "https://www.wcvb.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1586368270.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Chinese facial recognition developer closes $1.5 billion funding round"
     excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
     publishedDateTime: 2020-07-31T18:06:00Z
@@ -60,6 +108,15 @@ related:
         width: 2048
         height: 1153
         isCached: true
+  - title: "STUDY: MASKS SCREW UP FACIAL RECOGNITION SOFTWARE"
+    excerpt: "TRENTON, N.J. - 1 p.m. (scheduled) New Jersey Gov. Phil Murphy and the state's health department update the Garden State on efforts to combat the COVID-19 (coronavirus) pandemic. Partly sunny, hot and a little more humid with a shower or t-storm possible ..."
+    publishedDateTime: 2020-07-29T16:55:00Z
+    webUrl: "https://www.wfmz.com/news/cnn/clickable/study-masks-screw-up-facial-recognition-software/video_d5e67220-2268-536c-a7fd-0649c3acd148.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
 
 secured: "8Yf0vgTdJTx9bOx1BiiI+HdAC/VjERxavmxkMKVvFexifl9VnXRehoZJoO500Nz3UFF/ZteXxXQxx/pmLTY93eAZnOaRrTjctSdJcAPUPT/PUalbljIeN9bTzcaRE0tNGkgw3Uq6LSMoEW1MNmX+YKT3aiZ4iaNe914KDZ3A3SGSzG9ube+8WprW615fj2H+PotABh77J/95Q96lmxAJYBQ/+GZCBfCsGoi3iV8QSXZfkMq+ouC5ofTiDLfxwkboCeXPA2DcObbiczmiZoktkxP3Q2a5CKy0zSzaJkP6oxTMiJOB4/Jh2mFwXe/MVTqXcIqFebfMRz+yeOUgLjL6kbTCGHlA8/6hyQMUGzKr4/Uz633quxG77dzxnEp1GLQmz0oi4ZTvUZcURD/ydQeQo81GuMrOBHpQxMuS1VKfM+GkEbCzWDhM9sMbMpHX3JU5rE2Tan8x3KrQZ7wnhGDpg19VSZW6zI7gLspd4Sltfm9I43/zlzsXnvNktVstb26tot4eD5v4KGYGUp54DmkDBQ==;8h9UN18SS12//djbRaD1mg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-dee
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk says he's terrified of AI taking over the world, and is most scared of Google's 'DeepMind' AI project"
-    excerpt: "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said that he's most worried about Google's AI."
-    publishedDateTime: 2020-07-27T17:08:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project"
     excerpt: "Elon Musk has been sounding the alarm about the potentially dangerous, species-ending future of artificial intelligence for years. In 2016, the billionaire said human beings could become the equivalent of \"house cats\" to new AI overlords."
     publishedDateTime: 2020-07-27T22:37:00Z

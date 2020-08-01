@@ -2,6 +2,47 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-07-03-microsoft-azure-is-one-of-the-largest-iaas-and-paas-service-offered-in-business-parlance.md",
+      "title": "Microsoft Azure is one of the largest IaaS and PaaS service offered in Business Parlance",
+      "excerpt": "Read how AIOps leverages Microsoft Azure Platform for operational excellence using Artificial Learning (AI), AIOps, MLOps, Artificial Leading (ML) on the cloud and on-premises environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/delivering-aiops-microsoft-azure-cloud-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/07/AIOPS.jpg",
+          "width": 3800,
+          "height": 2280,
+          "title": "Microsoft Azure is one of the largest IaaS and PaaS service offered in Business Parlance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-how-ai-helps-digital-enterprises-streamline-operations.md",
       "title": "How AI Helps Digital Enterprises Streamline Operations",
       "excerpt": "Artificial intelligence (AI) is transforming how enterprises analyze and process information. It is also shifting from theoretical to real-world technology. Companies are deploying AI technologies to boost efficiency, reduce costs, and grow sales and ...",
@@ -1092,47 +1133,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
-      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/W9FfCiLvOvHWsRU1FXmaKa54oPk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YVN66F2RNBIJ5GAQU25FQITL5I.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC Kcrg  9",
-        "domain": "kcrg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

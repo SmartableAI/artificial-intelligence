@@ -44,20 +44,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "AWS Announces General Availability of Amazon Fraud Detector"
-    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-    publishedDateTime: 2020-07-28T17:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Amazon Fraud Detector: Use machine learning in the fight against online fraud"
     excerpt: "Amazon Fraud Detector is a fully managed service that makes it easy to quickly identify potentially fraudulent online activities like online payment and identity fraud. Using machine learning ..."
     publishedDateTime: 2020-07-29T02:05:00Z
@@ -72,6 +58,15 @@ related:
         width: 304
         height: 430
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Fraud Detector"
+    excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
+    publishedDateTime: 2020-07-28T18:07:00Z
+    webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-fraud-detector/article_812d53b8-cce9-5ada-b0a2-07713b916b93.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 34
 
 secured: "TdauyHM6XFEAQLrng5dXgW38FmCscNrurvtI9Chtk1QkKWFCzf3U50+rOyK716G4S06OQ3nSUgORCWalW4WAnm9o52ep+1Ml0dXo1CEKhuuzUcNE9jtPfmh+NpEvlxlSUNRbd9IlxPA5heQ6L5oP83YhCsKI7/BJCc/DciKiabrZmTqtk2fRW1z7Lz8Wdti2RzgQVWeRbpM0+Likf0ZqXqpwjr94r9jvmxkxQjrCubAjWop/k7woeE7fhs//e3oWmI0FOZRfc+fS/RAH3rm8iLD50Mw8uESUOS5rbhKiZ+98FYX3T4F7K0oCHItAf7dNMDuZcMZayKLN2vKHK3snbw==;SPRNPNk+snuw9tnSz4URiw=="
 ---

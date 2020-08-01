@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Learning while meeting community needs"
-    excerpt: "Each semester, the Assistant Professor of Writing, Rhetoric and American Cultures personalizes the learning experience for her students by pairing classwork with community-based projects. Last fall, a chance encounter led Blackburn to the perfect student opportunity as well as for MSU researchers involved in an ongoing mental health project for Michigan teens."
-    publishedDateTime: 2020-07-27T17:20:00Z
-    webUrl: "https://msutoday.msu.edu/news/2020/learning-while-meeting-community-needs/"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 24
-    images:
-      - url: "https://msutoday.msu.edu/_/img/assets/2020/dr-joanne-riebschleger.jpg"
-        width: 605
-        height: 1024
-        isCached: true
 
 secured: "/T3PxKYlA0gF4iGoAx9ZH6YC3JVU3OEbax3RDPOKfJCYuAX8VgEbWuIx9xuksZn7zQaLsoae1xN1j3RD82d18DB9aq2EGBsTQkXfyB7cFXXQRIJsv8nBs1u+acadJtd79n9l7MXSfI3ejRzNYoJiRppBj7utkMuuKEA9VQHcV8J4ctbkclUdYVbogDVDtwB1rKtSmYc8Jm67T8mtv2bGOsuicZpd1JTdqo7/JNXFHmmNIgTd2qaU6TNlyjLRNw7TpjWEoeG6Ee0JSi38afS5Szzi1SPYEQzRy429NqSp5Aa6Kto/QlCCvq5J8Bq0eXKvJyvSdcWI4PH2AWwRD99kAg==;kZ1nCIZCbAUWe4ByZywMCw=="
 ---

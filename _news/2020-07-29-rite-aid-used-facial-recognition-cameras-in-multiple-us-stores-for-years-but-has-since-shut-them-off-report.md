@@ -122,6 +122,38 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "U.S. studies new facial recognition tech built with masked faces in mind"
+    excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
+    publishedDateTime: 2020-07-28T13:58:00Z
+    webUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 88
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/china-coronavirus-outbreak-ai-facial-recognition-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "US government study finds face masks block facial recognition technology"
+    excerpt: "A new study from the National Institute of Standards and Technology (NIST) has tested how accurate commercial facial recognition algorithms are at identifying people wearing protective face masks. The study reveals some commercially used systems fail at authenticating masked faces up to 50"
+    publishedDateTime: 2020-07-30T03:42:00Z
+    webUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/"
+    ampWebUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 88
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/4dfef41/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2Fe7%2F6f9f06cc4df3af243f890df8916b%2Fdepositphotos-372250156-l-2015.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
     excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
     publishedDateTime: 2020-07-28T11:33:00Z
@@ -135,6 +167,20 @@ related:
       - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/video-01222020_MISIDENTIFICATION_027.JPG"
         width: 1110
         height: 620
+        isCached: true
+  - title: "Rite Aid deployed facial recognition in hundreds of stores, report finds"
+    excerpt: "Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores,"
+    publishedDateTime: 2020-07-28T20:58:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/07/rite-aid-deployed-facial-recognition-in-hundreds-of-stores-report-finds/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/GettyImages-1225671491-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Special Report: Rite Aid Deployed Facial Recognition Systems in Hundreds of U.S. Stores"
     excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country,"
@@ -204,6 +250,86 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Do face masks make facial recognition tech less accurate?"
+    excerpt: "According to a new study by the National Institute of Standards and Technology (NIST), the face masks that we should all be wearing to protect ourselves from the coronavirus can impede the ability of facial recognition systems to correctly identify us."
+    publishedDateTime: 2020-07-28T21:30:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-07292020.html"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-07292020.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Question-of-the-Day-for-07292020.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1678682485.jpg"
+        width: 977
+        height: 630
+        isCached: true
+  - title: "Face Masks Are Breaking Facial Recognition Algorithms"
+    excerpt: "A study has found that face masks are causing significant issues with facial recognition software. The Verge has reported that the use of face masks is"
+    publishedDateTime: 2020-07-28T15:26:00Z
+    webUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/03/AH-Coronavirus-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Face masks are screwing up facial recognition software"
+    excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
+    publishedDateTime: 2020-07-28T23:54:00Z
+    webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
+    ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 59
+    images:
+      - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
+        width: 775
+        height: 438
+        isCached: true
+  - title: "Face Masks Are Thwarting Facial Recognition Tech"
+    excerpt: "New research from the National Institute of Standards and Technology (NIST) suggests face masks are hampering facial recognition systems. Because the protective coverings obscure the bottom half of the face,"
+    publishedDateTime: 2020-07-28T21:25:00Z
+    webUrl: "https://www.popularmechanics.com/technology/security/a33446640/face-masks-facial-recognition/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33446640/face-masks-facial-recognition/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33446640/face-masks-facial-recognition/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/young-woman-wears-a-face-mask-as-she-listens-to-speakers-in-news-photo-1595967818.jpg?crop=1xw:0.76304xh;center,top&resize=1200:*"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Study: Masks thwarting facial recognition technology"
+    excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
+    publishedDateTime: 2020-07-28T00:27:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2020/07/27/masks-virus-facial-recognition/112465252/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/112465252"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/112465252"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New York Lawsuit Over School Facial Recognition Use Grows"
     excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
     publishedDateTime: 2020-07-30T19:07:00Z
@@ -234,20 +360,43 @@ related:
         width: 580
         height: 387
         isCached: true
-  - title: "N.Y. passes moratorium on use of facial recognition in education"
-    excerpt: "A moratorium on facial recognition in education may soon become a reality, as both chambers of the state legislature now have passed bills mandating a temporary ban, with the state senate passing the bill on Wednesday after the assembly passed its own bill on Tuesday."
-    publishedDateTime: 2020-07-27T17:23:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21147758/ny-passes-moratorium-on-use-of-facial-recognition-in-education"
+  - title: "Facial recognition retools for masked faces"
+    excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
+    publishedDateTime: 2020-07-29T21:00:00Z
+    webUrl: "https://gcn.com/articles/2020/07/29/nist-facial-recognition-masks.aspx?admgarea=TC_EmergingTech"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
+      name: GCN
+      domain: gcn.com
     quality: 39
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5f1f06deeaeb0.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facial_recognition_masks.jpg"
+        width: 760
+        height: 368
         isCached: true
+  - title: "How facial recognition works with face coverings"
+    excerpt: "Computer science experts say that face coverings and other accessories may act as a speedbump, but it wouldn’t be very difficult for the software to be modified."
+    publishedDateTime: 2020-07-29T03:33:00Z
+    webUrl: "https://www.wxyz.com/news/national/coronavirus/how-facial-recognition-works-with-face-coverings"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d11c92c/2147483647/strip/true/crop/2546x1337+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fd8%2F029d13d544a7989b340903487b74%2Fscreen-shot-2020-07-20-at-5.26.06%20PM.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Rite Aid Drops Facial Recognition Tech"
+    excerpt: "Rite Aid 's quiet use of facial recognition technology in its stores has ended after nearly a decade. Since 2012, the American drugstore had gradually implemented the technology in 200 stores around the country,"
+    publishedDateTime: 2020-07-29T18:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/rite-aid-drops-facial-recognition/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
   - title: "'Not a black-and-white issue:' Legal, business implications of facial recognition tech"
     excerpt: "Age: 36 Residence: Melrose Education: B.A. in government from Colby College (2006) and a J.D. from the University of Virginia School of Law (2011) Facial recognition technology has become controversial in Massachusetts, as a handful of local municipalities ..."
     publishedDateTime: 2020-07-30T14:15:00Z

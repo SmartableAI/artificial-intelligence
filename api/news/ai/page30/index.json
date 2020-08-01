@@ -2,6 +2,55 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-07-03-nec-and-japanese-research-agency-to-use-ai-for-automatic-plastic-waste-detection.md",
+      "title": "NEC and Japanese research agency to use AI for automatic plastic waste detection",
+      "excerpt": "Earth Science and Technology (JAMSTEC) have developed a system that uses artificial intelligence (AI) imaging recognition techniques to automatically detect microplastics from seawater and sediment samples.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nec-and-japanese-research-agency-to-use-ai-for-automatic-microplastic-detection/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/08/22/dc12deb9-6141-48e5-b04e-4e076b9aad4f/thumbnail/1200x675/f1879a68e9c0d5658a754003972ef5c7/lead960.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "NEC and Japanese research agency to use AI for automatic plastic waste detection",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nec-and-japanese-research-agency-to-use-ai-for-automatic-microplastic-detection/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nec-and-japanese-research-agency-to-use-ai-for-automatic-microplastic-detection/",
+      "publishedDateTime": "2020-07-02T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-microsoft-azure-is-one-of-the-largest-iaas-and-paas-service-offered-in-business-parlance.md",
       "title": "Microsoft Azure is one of the largest IaaS and PaaS service offered in Business Parlance",
       "excerpt": "Read how AIOps leverages Microsoft Azure Platform for operational excellence using Artificial Learning (AI), AIOps, MLOps, Artificial Leading (ML) on the cloud and on-premises environment.",
@@ -1315,46 +1364,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-cartoonize-online-or-offline-with-the-prima-cartoonizer-desktop-software-for-pc.md",
-      "title": "Cartoonize Online Or Offline With The Prima Cartoonizer Desktop Software For PC",
-      "excerpt": "However, hiring a graphic designer to do it can be expensive and time-consuming. Prima Cartoonizer announces its platform that offers powerful tools to Cartoonize Yourself at a meager price or no ...",
-      "sourceUrl": null,
-      "webUrl": "https://cartoonize-lkqov62dia-de.a.run.app/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cartoonize-lkqov62dia-de.a.run.app/static/sample_images/emma2.jpg",
-          "width": 968,
-          "height": 726,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
