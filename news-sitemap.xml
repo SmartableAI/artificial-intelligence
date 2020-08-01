@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.mid-day.com/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331</loc>
+    <lastmod>2020-07-31T19:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx</loc>
     <lastmod>2020-07-31T16:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -249,6 +255,12 @@
   <url>
     <loc>https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/</loc>
     <lastmod>2020-07-29T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/jenniferhicks/2020/07/29/distilling-liquor-with-machine-learning-and-big-data/</loc>
+    <lastmod>2020-07-29T14:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -525,6 +537,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/</loc>
     <lastmod>2020-07-28T06:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fltimes.com/news/nation/commentary-the-real-reason-were-afraid-of-robots/article_34f7f15b-8a65-5b35-a151-d30f23801663.html</loc>
+    <lastmod>2020-07-28T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The real reason we’re afraid of robots"
-    excerpt: "Make no mistake AI does pose many real dangers to us: to our personal privacy and security and to the future of the economy. These are all very good reasons to watch it closely and regulate it aggressively."
-    publishedDateTime: 2020-07-27T09:24:00Z
-    webUrl: "https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300"
-    ampWebUrl: "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
-    images:
-      - url: "https://imagevars.gulfnews.com/2019/07/15/Artificial-Intelligence--AI-_16bf61c847a_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Commentary: The real reason we're afraid of robots"
     excerpt: "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport's immigration checkpoint, interprets your CT scans, reads your resume, traces your interactions on social media,"
     publishedDateTime: 2020-07-28T13:08:00Z

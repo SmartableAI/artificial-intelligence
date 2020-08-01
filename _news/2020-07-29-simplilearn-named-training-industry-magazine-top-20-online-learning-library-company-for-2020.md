@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Learn Machine Learning and AI – Online Training Program @ 93% OFF"
-    excerpt: "Essential AI & Machine Learning Certification Training Bundle aims to help you explore the technology, with four hands-on video courses working towards certification."
-    publishedDateTime: 2020-07-27T09:06:00Z
-    webUrl: "https://thehackernews.com/2020/07/artificial-intelligence-training.html"
-    ampWebUrl: "https://thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1"
+  - title: "Distilling Liquor With Machine Learning And Big Data"
+    excerpt: "This startup says its liquor technology which uses machine learning and big data can change how spirits are distilled."
+    publishedDateTime: 2020-07-29T21:25:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2020/07/29/distilling-liquor-with-machine-learning-and-big-data/"
     type: article
     provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://thehackernews.com/images/-FUHLQOfZuO8/Xx6QR2PQ7cI/AAAAAAAAAdQ/P84ceUYGkSkXV_G5w9KVVkijiPJvFfBBACLcBGAsYHQ/s728-e100/machine-learning-artificial-intelligence.jpg"
-        width: 728
-        height: 380
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21c2f7d9d5c5bf33b38d7f%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "EGtbUC38Z+WQlBpRWYA35pYouxJM5xrsq49cIE+3cQWcAgxqzAbkjRSWJOwRrQwGcbYGSy3UuOJ5Q9hWfG0JpAWHBNkNzpOgUzGcVEctqqTImsS6u8TrjrQRnKDRumT6yjF37X9i5AqKtqz+5cvKL+yBFDDNBv0bDJSNcUDHLKBM3EM9xqtod8EvU7v+2r8+dsqmWGSv4vc1fazXWQ8D4FsE7H6x4rIeGj27buf8L4KUEbYb4cI+j67r+OoDINPl9CfQUbCnhQtfO5HTt1oJnx4/NfrCe0kjynDNCnXp+Qr6piWRpjFSETbpYTryctEBY9KygDlGEibkm0jeCw4CuA==;Ema6FQIPqZD9zhHeA4uFCA=="

@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-28T13:08:00Z
 webUrl: "https://www.fltimes.com/news/nation/commentary-the-real-reason-were-afraid-of-robots/article_34f7f15b-8a65-5b35-a151-d30f23801663.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Finger Lakes Times
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The real reason we’re afraid of robots"
-    excerpt: "Make no mistake AI does pose many real dangers to us: to our personal privacy and security and to the future of the economy. These are all very good reasons to watch it closely and regulate it aggressively."
-    publishedDateTime: 2020-07-27T09:24:00Z
-    webUrl: "https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300"
-    ampWebUrl: "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
-    images:
-      - url: "https://imagevars.gulfnews.com/2019/07/15/Artificial-Intelligence--AI-_16bf61c847a_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Iris Berent: The real reason we’re afraid of robots"
     excerpt: "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport’s immigration checkpoint, interprets your CT"
     publishedDateTime: 2020-07-29T04:06:00Z

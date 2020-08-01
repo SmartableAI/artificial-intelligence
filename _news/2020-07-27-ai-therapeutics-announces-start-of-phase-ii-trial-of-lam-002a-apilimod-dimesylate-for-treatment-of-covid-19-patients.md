@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T13:21:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-07/cl-sh072420.php"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -21,24 +21,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Yale and AI Therapeutics launch clinical trial of potential COVID-19 drug"
-    excerpt: "Yale School of Medicine and the biopharmaceutical firm AI Therapeutics have launched a multi-institutional clinical trial of a drug for treating COVID-19."
-    publishedDateTime: 2020-07-27T23:37:00Z
-    webUrl: "https://www.news-medical.net/news/20200727/Yale-and-AI-Therapeutics-launch-clinical-trial-of-potential-COVID-19-drug.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200727/Yale-and-AI-Therapeutics-launch-clinical-trial-of-potential-COVID-19-drug.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200727/Yale-and-AI-Therapeutics-launch-clinical-trial-of-potential-COVID-19-drug.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 56
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fNeuroscience-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "MA1Fwuq2M7QzwupiafVkbLdEwBGWsRdDGuThvKzJrrvGgli7trQreO7UffoEwaRw8cltFBOlr7K5Z3yQJoO+0gXomWTVDzldTHe5/crVjXFR0/Mo6OdhMUxNwBhX5ARQLBKuNrLePw3XZs6XBvwd/dGmwBJ78WxqVlfOuhrL+7KBmtbBIHzWBEB7Nxmb/l4UYL4qcPji+LW9v0MLbMJyXogtOYxAnEIMHX5JK5+qKTkF2hSc9uKAq3E2TM6527gsTC9agk4WbCM+EeN7XkhNyqWeUhfH/0N8fM50OHTzdVoRuM5e/z5wLq4/LcHl1LHlgI6VqGdsT/6hFkTLO+bazBLC7yYQ8HawwAu075eNlleLWCca3x9WBHYVSfOO5bhHfCSZw+LsJydLwlMUIyWkLLEUzgtnFX0QrqtOEWbrvGfbXhXjOoetaQYT81tXJUcjEv7JIMsN0Po+2s3BdeLzvdoa9Pd3RR87yhbgTvZHy0zFIUNuHKscueONr8pqa4ciTG7XXXJb8+BBq2konHVoFQ==;aVEupdRnK8WsUYBIA9zQeg=="
 ---
