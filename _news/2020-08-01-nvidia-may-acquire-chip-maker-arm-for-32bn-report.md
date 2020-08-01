@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Nvidia may acquire chip maker ARM for $32bn: Report"
-excerpt: "San Francisco, Aug 1 (IANS) US chip-maker Nvidia is reportedly in advance talks to acquire SoftBank-owned UK chip company ARM in a cash-and-stock deal worth at least $32 billion."
-publishedDateTime: 2020-08-01T04:12:00Z
-webUrl: "https://www.sify.com/finance/nvidia-may-acquire-chip-maker-arm-for-32bn-report-news-topnews-uibekCadgjjda.html"
+excerpt: "The proposed deal includes \"both cash and stock and that it valued ARM at above the $32bn price that SoftBank paid for the business in 2016\". Both Nvidia and ARM did not comment on the report. The British chip designer powers major mobile processor from companies like Qualcomm,"
+publishedDateTime: 2020-08-01T09:57:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200801/3602274.html"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "T16qeFBRlphCQ3bqOSUDd+dA5Vg6GJdvprt8aX9qfvtpwu/fRUVDSUuBAAf8Hj7M1bF/uqUGibqBtq+J5E/LDfQEkSc2pp7DrwduSO8R5hQt/aSZGzNEdDaE7kkIuVbCPGX1QwC6oKKLMAFH0o+NFk+kHdV/ujuZuTmtoFX+taMCzKNXO7+BlCbJjuwucglLuJVlhejwk6oYO7gDWSJm913lax41nL6v7qKBqkK4ODOGKEQDXzfyQgEztg+8dzpiHoo+5BovsFHxSZFsYrTn+/vppDi8vE3ceD8GJpjA0VIcralkE4XLFOAYqTKH6sh6pE95cMsbk8JQYaEktmFstg==;kUjNhZyqsUlQsSHKqucL4A=="
+secured: "kEgeq26wbIg96ShxKtuNvB7xxeW5orbXzIm2r6dqjZNZh57TgNcvPljx5q8d7WW8t52nnLehSJn+lsvS7V36kA3v7FEn7jxxjPdzMlKE/+ApOwd7VuQBvoav3Ukwhf3HrBo+0Fh09h16iJ6qoWvs7RSAlv+90ivchZMflefz27UU5C7mbbrqPk+ztvOlm+fkn11WhOtAAePTw6ejhmHH1wvZd5rMIdbg3ShYQq1P875gCD8w31EbGiZl8jbVc074aoYT1Sv5gqySWLJNd577I8/6OPP5c5BkDwaON5jhJPjYXLTsG3JEw4GxWLm5dcw7i0XnbcQkGPA32bRFwx/2ug==;5txzGh1YyAyjbaDM7HAIuQ=="
 ---
 

@@ -1,19 +1,23 @@
 ---
 category: news
 title: "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer"
-excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have access to a variety of offerings, including a series of ..."
-publishedDateTime: 2020-07-27T12:08:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
+excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have ..."
+publishedDateTime: 2020-07-27T12:21:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "3ntn+eKeOf8CdImkYyjI+RrK1HD9OaaURrTXFYUTjgW5+YjHHANe7um8164jcUBXFBjQMSbgmT2nmNj1Obwpr6jps2bqqgamaxtHWd+ZHOVqS93SI5qPooWCybZd415RBelsz4rWCn4Bx6ZYd4wvifmtCgDW6fB1zK31I/eBJiCTHZYoQhxo4SLdjjmMcfHJPwbWgrPjsUs17yevNohqdUGzc5xzrWkNzmXkqFp4PXVP2R6OZqWkId/NXyjoSJtlfkSqxeaAFnrtttbsIdWpENYLInB0aO/Unv6d4OS23UyF83r3cU0PYN6CV1Kin+U/zHW+T0h8YBTPZpCNAF/y/w==;B+/+mD80WE2f+lkhzmiu1w=="
+secured: "IMADn4NJoQ4CUTKZQLgkrPOrht3rQPgSoEqc43UurPFO5sf/01PJrAy2Ldin90B3ka8kBXoIVtbEADlA6LsMba32jdutVb442KtDRZJ4EMEprKkChzYSZicNgul+fkKBo50Afn418cfpJF46vyF+4k+R5iH1xCVXXFcmtHomxClGv8/Texl9MBJoz0B7qpHnxTJlBOav0aEu22yATmTV+5ih4kOBq9zQODuJ69dfCPIeJTLB6T+pbvbam7gOjbbPE/YY1POG5MS3Z/YwWkYdrKz98L+ZtFOp60/qk+bEtM2Na4CfNomjoVMr4UCfkpWCGemDQdilMb/1IFCZZK7EHw==;SNBmFMpkviRxBtYvojO+Dw=="
 ---
 

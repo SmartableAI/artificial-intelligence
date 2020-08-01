@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
 type: article
 quality: 104
-heat: 374
+heat: 364
 published: true
 
 provider:
@@ -317,22 +317,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/young-woman-wears-a-face-mask-as-she-listens-to-speakers-in-news-photo-1595967818.jpg?crop=1xw:0.76304xh;center,top&resize=1200:*"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Study: Masks thwarting facial recognition technology"
-    excerpt: "A preliminary study found that even the best commercial systems have error rates as high as 50% when trying to identify masked faces"
-    publishedDateTime: 2020-07-28T00:27:00Z
-    webUrl: "https://www.detroitnews.com/story/news/nation/coronavirus/2020/07/27/masks-virus-facial-recognition/112465252/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/112465252"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/112465252"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/30/PDTN/e895bc66-9703-4489-9701-a0caffeb90c4-052920-tm-Police_Protest-0428.JPG?auto=webp&crop=3910,2199,x1,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "New York Lawsuit Over School Facial Recognition Use Grows"
     excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."

@@ -46,22 +46,6 @@ related:
         width: 831
         height: 545
         isCached: true
-  - title: "Face masks often aren't enough to defeat facial recognition, study finds"
-    excerpt: "A new study from the National Institute of Standards and Technology (NIST) found that many commercially available facial-recognition systems are still able to correctly identify people wearing ..."
-    publishedDateTime: 2020-07-28T00:53:00Z
-    webUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus/"
-    ampWebUrl: "https://mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nist-study-facial-recognition-algorithms-face-masks-coronavirus.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 88
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252F95%252F1532e5c976d04dde9692037c735a8d30.87877.jpg%252F1200x630.jpg?signature=yauLpgtXHRASkvuV7i8lF1rVyQA="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face masks are messing up facial recognition software"
     excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
     publishedDateTime: 2020-07-29T17:35:00Z

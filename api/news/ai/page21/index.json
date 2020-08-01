@@ -2,6 +2,128 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-07-12-ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15.md",
+      "title": "AI teammates are finally coming to Ghost Recon Breakpoint on July 15",
+      "excerpt": "Ubisoft today announced that the highly requested AI teammates feature is finally coming to its cooperative tactical title Ghost Recon Wildlands, letting solo players gain help from three AI Ghosts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1594590229_grb_screen01_teammates_goto_200712_9pm_cest_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/",
+      "publishedDateTime": "2020-07-12T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-12-2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying.md",
+      "title": "2 Healthcare IPOs Getting a Tailwind From COVID-19 to Consider Buying",
+      "excerpt": "If you're considering investing in one or more recent initial public offerings in the healthcare sector, you've got many options. Over the last year, 76 healthcare companies have gone public, according to finviz.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?amp",
+      "publishedDateTime": "2020-07-12T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-12-dairies-to-housekeeping-robots-find-their-way-into-new-spaces.md",
+      "title": "Dairies to housekeeping, robots find their way into new spaces",
+      "excerpt": "They rely on tracks or magnetic strips to cover fixed routes. But mobile robots are becoming more autonomous, with a push from advances in computer vision and artificial intelligence. We read about self-driving cars and driverless delivery vans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces-11594561056223.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/07/12/600x338/startup2_1594561294476_1594561303895.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
+      "publishedDateTime": "2020-07-12T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-12-op-ed-hyperwar-is-coming-america-needs-to-bring-ai-into-the-fight-to-win-with-caution.md",
       "title": "Op-ed: Hyperwar is coming. America needs to bring AI into the fight to win — with caution",
       "excerpt": "Superpower standoffs like those between the U.S. and China in the South China Sea are occurring amid the rise of artificial intelligence. AI will speed up military decision-making, but it is risky.",
@@ -1267,146 +1389,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations.md",
-      "title": "Societal upheaval during the COVID-19 pandemic underscores need for new AI data regulations",
-      "excerpt": "How should society address the scenario where the AI algorithm got it right but from an ethical standpoint, we're uncomfortable with the results?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1169572297.jpg?w=724",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/amp/",
-      "publishedDateTime": "2020-07-10T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-aryballe-raises-79-million-for-odor-detecting-ai-sensors.md",
-      "title": "Aryballe raises $7.9 million for odor-detecting AI sensors",
-      "excerpt": "Aryballe, which develops AI-powered products capable of detecting and analyzing scents, has raised $7.9 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/AryballeTech_Lead-e1594391849695.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/amp/",
-      "publishedDateTime": "2020-07-10T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-how-to-generate-structured-data-automatically-using-computer-vision.md",
-      "title": "How to Generate Structured Data Automatically Using Computer Vision",
-      "excerpt": "The best way to learn and appreciate the power of computer vision is to run a quick example. I put together a simple Colab notebook that basically follows the steps outlined in this repo from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/07/how-to-generate-structured-data-automatically-using-computer-vision-5f06c03959da0.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/amp/",
-      "publishedDateTime": "2020-07-10T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
