@@ -59,22 +59,6 @@ related:
         height: 600
         isCached: true
   - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
-    excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
-    publishedDateTime: 2020-07-28T02:20:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/us-agency-pandemic-masks-thwarting-face-recognition-tech/2020/07/27/86d2e930-d070-11ea-826b-cc394d824e35_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/us-agency-pandemic-masks-thwarting-face-recognition-tech/2020/07/27/86d2e930-d070-11ea-826b-cc394d824e35_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/us-agency-pandemic-masks-thwarting-face-recognition-tech/2020/07/27/86d2e930-d070-11ea-826b-cc394d824e35_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PZF6MOGL2II6VGNQQQTOE3JAHM.jpg&w=460&h=306"
-        width: 460
-        height: 306
-        isCached: true
-  - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
     excerpt: "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ..."
     publishedDateTime: 2020-07-29T15:23:00Z
     webUrl: "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech"

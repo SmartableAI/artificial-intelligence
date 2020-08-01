@@ -40,20 +40,6 @@ related:
         width: 1500
         height: 1050
         isCached: true
-  - title: "Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data"
-    excerpt: "Several studies underscore the potential of deep learning in identifying complex patterns, leading to diagnostic and prognostic biomarkers. Identifying sufficiently large and diverse datasets, required for training,"
-    publishedDateTime: 2020-07-28T09:25:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-69250-1"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 5
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-69250-1/MediaObjects/41598_2020_69250_Fig2_HTML.png"
-        width: 685
-        height: 475
-        isCached: true
 
 secured: "IGFSflAAkNQ683/1BPJOkD3vRgojBwvSwjn07gMtE4vF+8GTFXZJM03v8XOb+0zDN0MFE5jkZ1Fb+EL2XMqRtIua+tI1d/TgbwD3zFqoORNjwdduwGgf1Oye3M28NilPvvK7RqTr0/U6lMN7EOtjvaI3QAMEAWtpJjtOdZfz4Ltjb6mPC85up3GiRhuizWqe5LSUAeXSdev5MD3IezFy/hBrt5t8BnHCb84D0LLEJgDkeWIzNVBxMtmn6W3zPs5kZynPhWUXXnM8RPdocyL0HlVp1rxNGDyeDJK76Hi1BA0Pjt4JxjH9FoxV9ljKStz7hV1PviRKJ1fOKo3sD4a2DM9WRm69RtIaNPfR9qUiHGxPPhfJL+YzZw6SycjAR/6m+W9Eh7J2QQ1Cf17PLaZtUF3xl7p3Luy4ge80Y6p8QFkzk59nzSfc1h7d7EBeILO0vKLGwanfQIq4hfmgPzDNRl8K6qI6DdG7WRbQytr+r82gjrzsyHvoMD1SS/+GJkktxLvY7LxFdXRO3U0m98E1fw==;kBR6y5RFyCBOkoLi4/Igaw=="
 ---

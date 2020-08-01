@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://media2.govtech.com/images/US-NEWS-CORONAVIRUS-OHIO-TECHNOLOGY-.JPG"
         width: 1110
         height: 625
+        isCached: true
+  - title: "Sports teams dabble with facial recognition amid coronavirus pandemic"
+    excerpt: "Multiple professional sports teams are considering facial recognition systems to make admitting fans to stadiums as touchless as possible during the coronavirus pandemic, Wall Street Journal report. Why it matters: It is unlikely that fans will be able to return to live sporting events soon unless facilities adopt measures,"
+    publishedDateTime: 2020-08-01T18:50:00Z
+    webUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
+    ampWebUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: "https://images.axios.com/Z1j4-xYV2lr9tk74B1fyDJRvtEw=/fit-in/1366x1366/2020/08/01/1596303538882.jpg"
+        width: 1366
+        height: 911
         isCached: true
 
 secured: "IlIpvF4OzxUm9EiWsVYUTus+w/cEVxh4UHBaaGTphe51+dRPgPKfujnUMvYQ9iUoAgJms2PX9Ed6DNhpSEVBg6pmdUADiNn+0AYJ1EcdgZmWLl6+/LGTjpbOy4I2tTMcbGEdhkgJvLpBJ4OSkzpuMnZ1mrtmWhjT2GK5U3Y8kprLHHufoMTAqFB3UGVZt2Fe3sqTB6iuij49kSBpW/AqEuTZhyOWhtOOj8QULo1kFg7I0r7q4gfEqxKhxt84L/5DEHw1Iz1rwJapgYvtncWMWCOu1Dct1m0+dyCSA2s8JK/CgEFn8dHYa1EabdSXlTRoCxUgXfC45euTaS928Ha6Hg==;XnDezPbKjee9EoQLNGBK+Q=="

@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sports teams dabble with facial recognition amid coronavirus pandemic"
+    excerpt: "Multiple professional sports teams are considering facial recognition systems to make admitting fans to stadiums as touchless as possible during the coronavirus pandemic, Wall Street Journal report. Why it matters: It is unlikely that fans will be able to return to live sporting events soon unless facilities adopt measures,"
+    publishedDateTime: 2020-08-01T18:50:00Z
+    webUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
+    ampWebUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: "https://images.axios.com/Z1j4-xYV2lr9tk74B1fyDJRvtEw=/fit-in/1366x1366/2020/08/01/1596303538882.jpg"
+        width: 1366
+        height: 911
+        isCached: true
 
 secured: "SkPLEq3Yi4Ug8CQpCyWvCAuS1kNXlW5OHcKWVsQfqeEt6mLYXU842eYpNfnxwCNQ7E7FeeLDnnioLwWLB3PbI339LbajNxRUpiUlyyNGJEKTbceBpH1HJ49dC1hRGsc30RcSLXDtvZPFbX7p5KYx8zYQz4WofmOCRlgBBAm77eucR0iX2FgkaBRl9mlhPAzYqz5BhoDg/WN/j5sHYQdm60ESnH5LHJzJ0ef6kxFSxZZOZZiRoy5py1052lMmLCkS8n4RQRl7dI2XtQfdjBPScM6HYLKA7Gc0VDuC64KduptBPnpRXO3NmTtrffdhSvxHCfK061wQ3p/gVxjDEY7qfQ==;2R7q6W/6ibIzihPzLXS+ig=="
 ---

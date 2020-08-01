@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "New machine learning method allows hospitals to share patient data—privately"
-    excerpt: "To answer medical questions that can be applied to a wide patient population, machine learning models rely on large, diverse datasets from a variety of institutions. However, health systems and hospitals are often resistant to sharing patient data,"
-    publishedDateTime: 2020-07-28T09:11:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp"
+  - title: "Using Machine Learning To Automate Data Coding At The Bureau Of Labor Statistics (BLS)"
+    excerpt: "Government agencies are awash in documents. Some of them, like Bureau Labor Statistics (BLS), turn to machine learning to help improve and streamline various processes."
+    publishedDateTime: 2020-08-01T17:21:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/08/01/using-machine-learning-to-automate-data-coding-at-the-bureau-of-labor-statistics-bls/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 63
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/algorithm.jpg"
-        width: 1500
-        height: 1050
-        isCached: true
-  - title: "New machine learning method allows hospitals to share patient data -- privately"
-    excerpt: "Penn Medicine researchers have shown that an approach called federated learning is successful in the context of brain imaging, by being able to analyze magnetic resonance imaging (MRI) scans of brain tumor patients and distinguish healthy brain tissue from cancerous regions."
-    publishedDateTime: 2020-07-28T09:27:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/uops-nml072720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25a15e96f17b5412974670%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 1600
         isCached: true
 
 secured: "LIjqm4QKoh5d9zUVteLUcH97mmlWNu8NqcvwXkfWKspj6JVwEzyBe2RFfBFeQnNzFWKdyOkDyHQeY+Mup90ly480dPlPd2AGonuoDNRbSr+OcvC8V0aidNo/UdA8IdjBkaX+JdpDVKUpJo+RmCdiW18osGsoRHaljKIIsvtRjPY1RdvNDl7lnp0wTNFBXhwDSc6fOoqTNcvzSML2TX6ywNfBPzrmfi/JoISJeKQrfvh9dVBt+gs1ygKLJiy3EAJSvKlcpfrhQHTDCW2LoOMWPiIQfgsz5fDvXONNJmPIj8/KBVgwzbVter9uMZHLysZrGOXF3eCZFkeJqZE7ELEq0Iz0yFYYLcxLaieMTugvjSJQO650mvXD/cDJ+5ifSnGMs4pFSCeipv2XmPZFqQF2RwgSbgpe+Rs98Pl+IotOl/waFo1hDmU0yBXee4Ac/ImqeYWFMbQbuGiDhtG1O/1MCMjWHhlfHji0bTURv6nOvk+HkgfoNepJO1qxHs1QjTKFSfcg4by7V6geaGH2F6sVXw==;p5F6Fch86oDWX4W8NafJXA=="

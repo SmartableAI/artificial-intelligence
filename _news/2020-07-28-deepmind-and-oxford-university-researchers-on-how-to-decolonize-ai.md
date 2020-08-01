@@ -2,8 +2,8 @@
 category: news
 title: "DeepMind and Oxford University researchers on how to 'decolonize' AI"
 excerpt: "Sometimes it’s tempting to think of every technological advancement as the brave first step on new shores, a fresh chance to shape the future rationally. In reality, every new tool enters the ..."
-publishedDateTime: 2020-07-28T16:35:00Z
-webUrl: "https://www.engadget.com/deepmind-oxford-decolonial-ai-paper-161535009.html?ref=hvper.com"
+publishedDateTime: 2020-07-28T18:50:00Z
+webUrl: "https://www.engadget.com/deepmind-oxford-decolonial-ai-paper-161535009.html"
 ampWebUrl: "https://www.engadget.com/amp/deepmind-oxford-decolonial-ai-paper-161535009.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-oxford-decolonial-ai-paper-161535009.html"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 350
     isCached: true
 
-secured: "F3TM0GQCUhaMMH2lHSrAEpJ+x9GmEf/K1eQ7pKdG/gSbHPLJPN0A/VFR8h23sRC9PQAXL4c6GErUibPYZet7Q5eBc5cUqnr2Z7oElcHgT+/gj2ZapAjahMfHNkIR/TYEvPbP7biPg0Jx7BbnWkA/fcugaG1gW2LMSQaotrpJt3MBhFcG8xpyKyh0MbqU2j1RehqU0J24iXPtgRUNJMFwhyaLyutyqxfT4Ly9bkhTGEtmeWqEsn0sKGtAD5/T8H0+SZhEa950tdqpQzjpI4Whf2uc8P5nWr7N+9HTS+Qp74fKuOyjWoxMRCj8eM5QwEVQt53yd5RGb9ZZZRUfPJLUQA==;33BF9Kp02L7MOMVJGFJolQ=="
+secured: "9AGnNxxgWXFAxwpzyIQpmcuMtUABLgNGVVvz/yFM1PHgO79o/JQuf+JYue9zSTVUvpemmtdMSKX05Ximd9Dh391Xs1hoYRdOD7DHquhk80AwPwzwcSG22y0/+BHwZ4kwr7NmG5FvZSYiYYGICYCJuwV0p+yAzNlSLS4nhoiYvWbxA19n49N2DXs0VGhjDpBds7+GgAhSx7N0HW0pvS9zNrpeKgBBFflTEtbdWaex8QV5HGjBw0OJr9uVIDjVL0ZMUTttIk84v7KOPnyWaNdLd7VacmTP7TB01NCRt1mbm/TidoGVEPl7QnA0cGjh/cmhGPA0XdlvBN43PUBcDGeIqg==;X/MxXNVG5d0jr32X5ifApQ=="
 ---
 

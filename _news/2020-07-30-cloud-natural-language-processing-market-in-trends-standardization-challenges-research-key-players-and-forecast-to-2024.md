@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Growth, Segmentation, Size and Share"
-    excerpt: "Pune, Maharashtra, India, July 30 2020 (Wiredrelease) MarketResearch.Biz –: The recent report posted via MarketResearch.Biz on Artificial Intelligence (AI) in Agriculture market offers critical market insights in conjunction with targeted segmentation ..."
-    publishedDateTime: 2020-07-30T12:37:00Z
-    webUrl: "https://www.eturbonews.com/577801/artificial-intelligence-ai-in-agriculture-market-growth-segmentation-size-and-shareinternational-business-machines-corporation-deere-company-microsoft-corporation/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 44
-    images:
-      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
-        width: 350
-        height: 350
-        isCached: true
 
 secured: "yZ0KX+epE/zMalbBtvOdQiyJBGmj/ySQK1IV5ostJZ2o5K/BGh2wWKGWck3p7L/jSd/NgyTyDmRmIHb3VHbIEhg2t4S9LAzkQZLOtEa7awYpRsz/lyx040SMfVlfbsP64PyMAGqRME/S04e+dRMZnOmsjQKj3+DaDKNWmw9OAsNHH1YYG2U0fIjygnEgMdThQP7sXGQNiplJt1dC9Dt+4HZcCXegbf/6Ejet42xXt1ETQgYRZW5b0c9I7gychmkrr6Ff2jZkEVphz04DnhA+qArHOMIRVgKPNScFDE1bRxRlL6QI+nyA4G33jIr0CUHiFCYiNM9PU6FY6T85MKVr8A==;6I3Kcg/Aeukl4henXbDXFg=="
 ---
