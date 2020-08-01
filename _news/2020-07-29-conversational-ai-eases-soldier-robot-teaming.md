@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Army research enables conversational AI between Soldiers, robots"
-    excerpt: "Researchers from the U.S. Army Combat Capabilities Development Command’s Army Research Laboratory, in collaboration with the University of Southern California’s Institute for Creative Technologies, developed the Joint Understanding and Dialogue Interface,"
-    publishedDateTime: 2020-07-27T15:50:00Z
-    webUrl: "https://www.army.mil/article/237580/army_research_enables_conversational_ai_between_soldiers_robots"
-    ampWebUrl: "https://www.army.mil/article-amp/237580/army_research_enables_conversational_ai_between_soldiers_robots"
-    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/237580/army_research_enables_conversational_ai_between_soldiers_robots"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 54
   - title: "Cabify Teams Up with Nuance to Deploy Conversational AI that Supercharges Digital Experience for Riders and Drivers"
     excerpt: "Cabify has leveraged Nuance’s expertise to deploy ‘ABI’, its own virtual assistant, to manage customer requests and questions in several languages – ensuring human agents"
     publishedDateTime: 2020-07-29T11:00:00Z

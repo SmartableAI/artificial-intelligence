@@ -33,20 +33,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "Artificial Intelligence to identify individual birds of a same species"
-    excerpt: "at Porto University** have for the very first time identified individual birds with the help of artificial intelligence technology. They have developed a technique that enables them to gather a large number of photographs, taken from various angles ..."
-    publishedDateTime: 2020-07-27T15:27:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/c-ait072720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/238553_web.jpg"
-        width: 720
-        height: 404
-        isCached: true
 
 secured: "54AzUmzhgjyqcG9JyYu5CQBBT1faOKnJNPGDc2xc+ch2ecOOz529bD9WcyZliXlbm9oeDEt7wIvzN0RJRIR5AOnjPqJsy1deem1JqSzARtOL5qTYSkhXdy+UbpVt5qHACJ75u81DS8FpH9dVnrWjobe+e5gu0wk4+o4lwAYOZO5urgVKUDMD2dcSWHr3UQdF+8S0AoquYC53l4nDyt8a3sCedPFfnT2tivn+ZPXnJQSqztjYZME+NbTJeF5nr+fUegMgX8xSYDLkmMHNbP4N3h4z3IWHLWGH6N3IDzJBMNILCrNvbXXeCun3qornaOYdLF46Rs4xtlAb/DXhyTElkg==;06YhT4oOw42/vjbenQp8gA=="
 ---

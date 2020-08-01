@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Army research enables conversational AI between Soldiers, robots"
-    excerpt: "Researchers from the U.S. Army Combat Capabilities Development Command’s Army Research Laboratory, in collaboration with the University of Southern California’s Institute for Creative Technologies, developed the Joint Understanding and Dialogue Interface,"
-    publishedDateTime: 2020-07-27T15:50:00Z
-    webUrl: "https://www.army.mil/article/237580/army_research_enables_conversational_ai_between_soldiers_robots"
-    ampWebUrl: "https://www.army.mil/article-amp/237580/army_research_enables_conversational_ai_between_soldiers_robots"
-    cdnAmpWebUrl: "https://www-army-mil.cdn.ampproject.org/c/s/www.army.mil/article-amp/237580/army_research_enables_conversational_ai_between_soldiers_robots"
-    type: article
-    provider:
-      name: United States Army
-      domain: army.mil
-    quality: 54
   - title: "Conversational AI eases soldier-robot teaming"
     excerpt: "The Army Research Laboratory is working on bi-directional conversational technology that will make it easier for soldiers to team with autonomous systems."
     publishedDateTime: 2020-07-29T21:02:00Z

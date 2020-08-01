@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/31/researchers-examine-the-ethical-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers aim to measure the impact of imprecise medical data on AI predictions"
-    excerpt: "In a preprint study, researchers sought to measure the impact of medical data imprecision on the clinical predictions made by AI systems."
-    publishedDateTime: 2020-07-27T16:18:00Z
-    webUrl: "https://venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/"
-    ampWebUrl: "https://venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/istock-701228292-e1587585848522.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Ethical AI in healthcare"
     excerpt: "Who stands to benefit? And, who is at risk of being either burdened or potentially put at risk by the use of these technologies?"
     publishedDateTime: 2020-07-28T08:13:00Z

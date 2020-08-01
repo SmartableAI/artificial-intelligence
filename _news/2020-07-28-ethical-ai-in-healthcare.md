@@ -40,22 +40,6 @@ related:
         width: 1198
         height: 599
         isCached: true
-  - title: "Researchers aim to measure the impact of imprecise medical data on AI predictions"
-    excerpt: "In a preprint study, researchers sought to measure the impact of medical data imprecision on the clinical predictions made by AI systems."
-    publishedDateTime: 2020-07-27T16:18:00Z
-    webUrl: "https://venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/"
-    ampWebUrl: "https://venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/researchers-aim-to-measure-the-impact-of-imprecise-medical-data-on-ai-predictions/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/02/istock-701228292-e1587585848522.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "lBqz0iv5URttw1Hls6HlDql05WHQi5nKqxxQ9xn0mHdpajjMyNUqSMT3Ao0Ff8avVd3e+RE53VmiNgEwaRQBG226bZK/k+1nnLadi0XMnUZkfZzfAJWYHaEogc3++qudaCASp1aUXCwOcF7DpX8t7KzvxngqPN11eA7ic5bWy6Zv82jYVpK3S1951V2E8wPF+DjlDWCu4hDx6O6YaeRBn/Kov7Lrogd4WW9SUsGKU/lruqnyS6b1czJKYiFGWyf4TxC9mubVsl/KSo9sKyFMAMY5jf0IxRl3CS+0fEbZQPapOAhh/5bB+R1BMjzdMfRIIYxst1JUACTxFS3Z9ryf8w==;DKsEoZoHoY1zrmxA0F2Vqg=="
 ---
