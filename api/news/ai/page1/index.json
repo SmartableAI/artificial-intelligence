@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-01-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
+      "excerpt": "Artificial intelligence (AI) is expected to add $15.7 trillion to the global economy by 2030, according to a study by PricewaterhouseCoopers. This huge figure consists of $6.6 trillion in increased productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F584910%2Fgettyimages-ai-text.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
+      "publishedDateTime": "2020-08-01T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-facial-recognitions-next-big-play-the-sports-stadium.md",
+      "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
+      "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-213850/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "publishedDateTime": "2020-08-01T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid.md",
       "title": "Railways go hi-tech; use Artificial Intelligence, robotics to fight COVID",
       "excerpt": "Robots deployed at railway stations to scan passengers and for surveillance; hospitals also use them to talk to COVID-19 patients",
@@ -1369,96 +1468,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-linkedin-details-ai-tool-that-better-matches-jobs-to-candidates.md",
-      "title": "LinkedIn details AI tool that better matches jobs to candidates",
-      "excerpt": "LinkedIn today pulled back the curtains on Qualified Applicant (QA), an AI system that learns from job candidate interactions the kinds of skills and experience a hirer prefers. It’s the model ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/amp/",
-      "publishedDateTime": "2020-07-30T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-aerospace-robotics-market-2020-2026-what-recent-study-say-about-top-companies-industry-growth-insights.md",
-      "title": "Aerospace Robotics Market (2020-2026) | What Recent Study Say About Top Companies | Industry Growth Insights",
-      "excerpt": "artificial intelligence, and cloud computing is expected to present numerous opportunities to the global aerospace robotics industry. The Objective of the “Global Aerospace Robotics Market” report is to depict the trends and upcoming for the Data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T730328623_g.jpg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say",
-      "publishedDateTime": "2020-07-30T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

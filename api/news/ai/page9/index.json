@@ -2,6 +2,106 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-22-tencent-and-chinese-scientists-use-deep-learning-to-predict-fatal-covid-19-cases.md",
+      "title": "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases",
+      "excerpt": "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1209271729.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
+      "publishedDateTime": "2020-07-21T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-exams-that-use-facial-recognition-may-be-fair-but-theyre-also-intrusive.md",
+      "title": "Exams that use facial recognition may be 'fair' – but they're also intrusive",
+      "excerpt": "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
+      "publishedDateTime": "2020-07-21T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-software-capabilities-for-self-driving-cars.md",
       "title": "Software Capabilities for Self-Driving Cars",
       "excerpt": "Self-driving (autonomous) cars have already hit the road. The software capability of these cars, especially those that regulate automated braking or lane departure warning systems, must continuously meet high quality. \"Autonomous vehicles would have to be ...",
@@ -1245,105 +1345,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale.md",
-      "title": "The Customer Experience Is Finally Seeing Some Magical Moments Powered By AI At Scale",
-      "excerpt": "Brands today are in a battle for the attention of their targeted customers against the best experiences those customers have ever had.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/21/the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F628077534%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/21/the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/21/the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale/amp/",
-      "publishedDateTime": "2020-07-21T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-ai-is-accelerating-the-move-to-a-touchless-world.md",
-      "title": "AI is accelerating the move to a touchless world",
-      "excerpt": "a philosophy and ethics information professor and director of the Digital Ethics Lab at the University of Oxford, as saying. \"But a classic way of gaining trust, with AI interactions in particular, can be summarized in three words: transparency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-is-accelerating-the-move-to-a-touchless-world/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/80f8a384-b6e4-4b6c-84a2-2772265f460f/resize/1200x/df64878ff3f885d95ee20e01cd182572/istock-1148923626.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-accelerating-the-move-to-a-touchless-world/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-accelerating-the-move-to-a-touchless-world/",
-      "publishedDateTime": "2020-07-21T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

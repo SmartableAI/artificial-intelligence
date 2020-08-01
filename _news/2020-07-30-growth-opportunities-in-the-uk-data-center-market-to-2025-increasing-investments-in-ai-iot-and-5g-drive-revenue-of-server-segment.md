@@ -40,20 +40,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Robotics Market 2020: Global Covid-19 Analysis by Current Industry Status, Growth Opportunities, Top Companies and Trends by Forecast to 2024"
-    excerpt: "The major players of the global robotics market are BOSTON DYNAMICS (US), Universal Robots A/S (Denmark), iROBOT Corporation (US), Nachi-Fujikoshi Corp (Jap"
-    publishedDateTime: 2020-07-27T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2020-global-covid-19-analysis-by-current-industry-status-growth-opportunities-top-companies-and-trends-by-forecast-to-2024-2020-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3R1u/fOfTabSPZ5h28gdILNGGc1fittzuZZ6TDVwmvQehT3t+xRBVCPvE5+QqtNEZU8oPDoQeoNeNKk8VJyV0/WaYIXR9S5bNVoNn17MmaA3VWCxMfbh9Ttuo56HMuK00pLO9NBeSFeadBixQFRv0DxosSqGWyXWDRErlVL3CwdY0qAD6bU5+VomITlHKWy2urOHu3sHKqtGnKqrfRrqTq8KhzYzgDwH1/mFhS8y2/UPhyCm/aN9NeixgZMBXJhAYGCjD62oTh56z61clnZkWaLfXOpbpQHz1lCbBO05P0BhmP0oCfXHYktZerwky4vamHkQZFCr0ptt+/PasL0Xlg==;+A2o510NRHmPQ+uae6K+xA=="
 ---

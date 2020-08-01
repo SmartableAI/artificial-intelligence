@@ -2,56 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-07-01-the-robot-thats-keeping-facilities-clean-during-covid-19.md",
-      "title": "The Robot That's Keeping Facilities Clean During Covid-19",
-      "excerpt": "As workplaces re-open after the Covid-19 lockdown, attention is turning to how they can be as clean as possible. Researchers from MIT are working on a robot that uses UV light to sanitize any working environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef2f96644713a0007ed4670%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Robot That's Keeping Facilities Clean During Covid-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
-      "publishedDateTime": "2020-07-01T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
       "title": "In These Factories, Inspector Robot Will Check Your Work",
       "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
@@ -1402,6 +1352,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-artificial-vs-augmented-intelligence-whats-the-difference.md",
+      "title": "Artificial vs augmented intelligence: what’s the difference?",
+      "excerpt": "Artificial intelligence has accrued some very bad reputation over the years. For some, the term AI has become synonymous with the mass unemployment, mass slavery, and mass extermination of humans by robots.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Artificial vs augmented intelligence: what’s the difference?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
+      "publishedDateTime": "2020-06-24T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
       ]
     }
   ],

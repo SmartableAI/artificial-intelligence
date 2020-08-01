@@ -2,6 +2,98 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-28-insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure.md",
+      "title": "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure",
+      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "publishedDateTime": "2020-07-28T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-explorium-raises-30-million-to-automate-data-prep-with-ai.md",
+      "title": "Explorium raises $30 million to automate data prep with AI",
+      "excerpt": "Explorium, a Tel Aviv-based startup developing an automated data and feature discovery platform, secured $30 million in financing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/aviv-1024x511.png?w=1200&#038;strip=all",
+          "width": 1024,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
+      "publishedDateTime": "2020-07-28T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-commentary-the-real-reason-were-afraid-of-robots.md",
       "title": "Commentary: The real reason we're afraid of robots",
       "excerpt": "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport's immigration checkpoint, interprets your CT scans, reads your resume, traces your interactions on social media,",
@@ -479,7 +571,7 @@
       "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -621,7 +713,7 @@
       "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1334,105 +1426,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-this-ai-tool-can-identify-individual-birds-with-90-accuracy.md",
-      "title": "This AI tool can identify individual birds with 90% accuracy",
-      "excerpt": "Luckily for them, a new AI tool can do the tricky task for them — and potentially offer new insights into bird behaviors. Scientists first trained the AI on labeled images of wild great tits and ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-27T135305.160-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/",
-      "publishedDateTime": "2020-07-27T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-12-ways-machine-learning-can-revamp-your-sales-process.md",
-      "title": "12 Ways Machine Learning Can Revamp Your Sales Process",
-      "excerpt": "Many technologies, including artificial intelligence (AI), can seriously help a business’s bottom line. Adoption of AI and machine learning allows companies to make needed improvements in the way they do business, but these technologies must be properly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f159806e6c5b300070db3f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 1015,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/amp/",
-      "publishedDateTime": "2020-07-27T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-29-juniper-extends-ai-driven-network-insights-to-wan-and-branch-locations.md",
+      "title": "Juniper extends AI-driven network insights to WAN and branch locations",
+      "excerpt": "The new capabilities are a part of Juniper's growing focus on AI-driven operations, which it stepped up last year with its acquisition of Mist Systems. Mist and Juniper have alrea",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/juniper-extends-ai-driven-network-insights-to-wan-and-branch-services/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/26/b9a5e03c-1f56-427f-b6c0-2e5ab9ad719c/thumbnail/1200x675/f35b3b478c191789a778c43322eb74da/fiberopticsistock-1157011931a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/juniper-extends-ai-driven-network-insights-to-wan-and-branch-services/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/juniper-extends-ai-driven-network-insights-to-wan-and-branch-services/",
+      "publishedDateTime": "2020-07-29T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-service-that-uses-ai-to-identify-gender-based-on-names-looks-incredibly-biased.md",
       "title": "Service that uses AI to identify gender based on names looks incredibly biased",
       "excerpt": "Genderify, a new service that promises to identify someone’s gender by analyzing their name, email address, or username with the help AI, looks firmly to be in the latter camp. The company launched on Product Hunt last week,",
@@ -749,6 +799,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-28-coronavirus-masks-make-it-harder-for-facial-recognition-algorithms-to-id-people-study-finds.md",
+      "title": "Coronavirus masks make it harder for facial recognition algorithms to ID people, study finds",
+      "excerpt": "Coronavirus face masks can confuse facial recognition technology, government researchers announced Monday after a preliminary study on the issue. Facial recognition algorithms developed before the outbreak struggle to identify people wearing masks or face coverings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Face-recognition-with-mask.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp",
+      "publishedDateTime": "2020-07-28T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
       "title": "Facebook develops AI algorithm that learns to play poker on the fly",
       "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
@@ -1319,98 +1419,6 @@
         "AI Hardware",
         "Computer Vision",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure.md",
-      "title": "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure",
-      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
-      "publishedDateTime": "2020-07-28T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-explorium-raises-30-million-to-automate-data-prep-with-ai.md",
-      "title": "Explorium raises $30 million to automate data prep with AI",
-      "excerpt": "Explorium, a Tel Aviv-based startup developing an automated data and feature discovery platform, secured $30 million in financing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/aviv-1024x511.png?w=1200&#038;strip=all",
-          "width": 1024,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/",
-      "publishedDateTime": "2020-07-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx</loc>
+    <lastmod>2020-08-01T07:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400</loc>
+    <lastmod>2020-08-01T07:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.mid-day.com/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331</loc>
     <lastmod>2020-07-31T19:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -171,12 +183,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/</loc>
     <lastmod>2020-07-30T09:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.openpr.com/news/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say</loc>
-    <lastmod>2020-07-30T07:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -453,6 +459,12 @@
   <url>
     <loc>https://www.forbes.com/sites/googlecloud/2020/07/28/supply-chain-resiliency-begins-in-the-cloud/</loc>
     <lastmod>2020-07-28T15:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms</loc>
+    <lastmod>2020-07-28T14:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

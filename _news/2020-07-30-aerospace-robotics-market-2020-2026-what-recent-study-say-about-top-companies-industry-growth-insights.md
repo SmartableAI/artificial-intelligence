@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2099980/aerospace-robotics-market-2020-20
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: openpr.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics Market 2020: Global Covid-19 Analysis by Current Industry Status, Growth Opportunities, Top Companies and Trends by Forecast to 2024"
-    excerpt: "The major players of the global robotics market are BOSTON DYNAMICS (US), Universal Robots A/S (Denmark), iROBOT Corporation (US), Nachi-Fujikoshi Corp (Jap"
-    publishedDateTime: 2020-07-27T21:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2020-global-covid-19-analysis-by-current-industry-status-growth-opportunities-top-companies-and-trends-by-forecast-to-2024-2020-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Growth Opportunities in the UK Data Center Market to 2025 - Increasing Investments in AI, IoT and 5G Drive Revenue of Server Segment"
     excerpt: "Investment Analysis and Growth Opportunities 2020-2025\" report has been added to ResearchAndMarkets.com's offeri"
     publishedDateTime: 2020-07-30T16:18:00Z

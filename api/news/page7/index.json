@@ -2,6 +2,97 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-24-galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning.md",
+      "title": "Galvanizing manufacturing with Artificial Intelligence and Deep Learning",
+      "excerpt": "As a market leader in CAE solutions, Hewlett Packard Enterprise is delivering a purpose-built solutions portfolio jointly with NVIDIA® and several independent software vendors (ISVs) in the manufacturing industry to help manufacturers improve their AI/DL ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
+      "publishedDateTime": "2020-07-24T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-this-ai-protects-blm-protestors-from-facial-recognition.md",
+      "title": "This AI protects BLM protestors from facial recognition",
+      "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-24T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-processing-pdf-documents-with-a-human-loop-using-amazon-textract-and-amazon-augmented-ai.md",
       "title": "Processing PDF documents with a human loop using Amazon Textract and Amazon Augmented AI",
       "excerpt": "Businesses across many industries, including financial, medical, legal, and real estate, process a large number of documents for different business operations. Healthcare and life science organizations, for example, need to access data within medical records and forms to fulfill medical claims and streamline",
@@ -1086,106 +1177,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry.md",
-      "title": "NVIDIA Considers Arm Acquisition In A Deal That Could Upend The Chip Industry",
-      "excerpt": "Arm deal could send shockwaves far and wide in the chip industry, giving its rivals numerous new reasons to lose sleep",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f19d9384414eeb1acf187dd%2F0x0.jpg",
-          "width": 800,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
-      "publishedDateTime": "2020-07-23T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-closing-data-gaps-with-lacuna-fund.md",
-      "title": "Closing data gaps with Lacuna Fund",
-      "excerpt": "Machine learning has shown enormous promise for social good, whether in helping respond to global health pandemics or reach citizens before natural disasters hit. But even as machine learning technology becomes increasingly accessible, social innovators still face significant barriers in their efforts",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Wadhwani_2.jpg",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
-      "publishedDateTime": "2020-07-23T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

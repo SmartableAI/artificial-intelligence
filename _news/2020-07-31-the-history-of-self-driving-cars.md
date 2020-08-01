@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Qualcomm Tests New Technology That Could Aid Self-Driving Cars"
-    excerpt: "If we’re ever going to have self-driving cars, they will need to be able to talk wirelessly to one another … and to roadside monitoring infrastructure, like traffic signals. Such technology has been around but has failed to take hold."
-    publishedDateTime: 2020-07-27T22:57:00Z
-    webUrl: "https://www.kpbs.org/podcasts/kpbs-midday-edition-segments/2020/jul/27/cars-qualcomm-new-tech-self-driving/"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 39
-    images:
-      - url: "https://kpbs.media.clients.ellingtoncms.com/img/podcasts-episode/2020/MiddayEd_generic-new_ysu2o3F.jpg"
-        width: 800
-        height: 540
-        isCached: true
   - title: "SA to increase 5G operations – and it’ll put self-driving cars on the road"
     excerpt: "You can expect to see more 5G masts and networks go online in the near future - allowing self-driving cars to operate in South Africa."
     publishedDateTime: 2020-07-30T07:21:00Z

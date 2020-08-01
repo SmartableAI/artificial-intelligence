@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-28-aws-adds-new-amazon-fraud-detector-to-fight-fraud.md",
+      "title": "AWS adds new Amazon Fraud Detector to fight fraud",
+      "excerpt": "AWS has launched a new tool called Amazon Fraud Detector. It said the tool will be able to detect and prevent payment and identity fraud in just milliseconds thanks to machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
+      "publishedDateTime": "2020-07-28T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-supply-chain-resiliency-begins-in-the-cloud.md",
       "title": "Supply Chain Resiliency Begins In The Cloud",
       "excerpt": "As our lives and work continue to adjust, it’s important to retain the many lessons the pandemic has taught us and think about how we can build more resilient supply chains.",
@@ -48,6 +98,56 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-coronavirus-masks-make-it-harder-for-facial-recognition-algorithms-to-id-people-study-finds.md",
+      "title": "Coronavirus masks make it harder for facial recognition algorithms to ID people, study finds",
+      "excerpt": "Coronavirus face masks can confuse facial recognition technology, government researchers announced Monday after a preliminary study on the issue. Facial recognition algorithms developed before the outbreak struggle to identify people wearing masks or face coverings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Face-recognition-with-mask.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp",
+      "publishedDateTime": "2020-07-28T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1091,98 +1191,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read.md",
-      "title": "Embarking on a Python journey? Then ‘Hands-on Machine Learning’ is a must read",
-      "excerpt": "Writing an all-encompassing book on Python machine learning is difficult, given how expansive the field is. But reviewing one is not an easy feat either, especially when it’s a highly acclaimed title such as Hands-On Machine Learning with Scikit-Learn,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/1-9-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
-      "publishedDateTime": "2020-07-28T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-new-machine-learning-method-allows-hospitals-to-share-patient-dataprivately.md",
-      "title": "New machine learning method allows hospitals to share patient data—privately",
-      "excerpt": "To answer medical questions that can be applied to a wide patient population, machine learning models rely on large, diverse datasets from a variety of institutions. However, health systems and hospitals are often resistant to sharing patient data,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/algorithm.jpg",
-          "width": 1500,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.amp",
-      "publishedDateTime": "2020-07-28T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

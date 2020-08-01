@@ -2,6 +2,55 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-29-leverage-ai-to-optimize-customer-service-outcomes.md",
+      "title": "Leverage AI to optimize customer service outcomes",
+      "excerpt": "With a more hands-on approach to AI — that is, using the technology to actually augment everyday communications — workers can gain insight into concepts, workflows and ideas that would otherwise go unnoticed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1147156422.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "publishedDateTime": "2020-07-29T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
       "title": "NVIDIA AI Runs The Mlperf Table Again",
       "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
@@ -1130,56 +1179,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-aws-adds-new-amazon-fraud-detector-to-fight-fraud.md",
-      "title": "AWS adds new Amazon Fraud Detector to fight fraud",
-      "excerpt": "AWS has launched a new tool called Amazon Fraud Detector. It said the tool will be able to detect and prevent payment and identity fraud in just milliseconds thanks to machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/",
-      "publishedDateTime": "2020-07-28T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,105 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-18-death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-2500-nvidia-gpu.md",
+      "title": "Death Stranding on PC almost hits 60fps at 8K – all it takes is a $2,500 Nvidia GPU",
+      "excerpt": "Essentially, DLSS uses the Tensor Cores of an RTX card to boost the performance of high resolutions thanks to AI and machine learning ... mentioned will have to be used by people without an RTX GPU. This intelligently sharpens the upscaled image, so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4jz7DHRm7XADmwG6gGgrKm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
+      "publishedDateTime": "2020-07-18T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-how-a-colombian-market-is-using-ai-to-combat-covid-19-outbreaks.md",
+      "title": "How a Colombian market is using AI to combat Covid-19 outbreaks",
+      "excerpt": "Mr Palacio is the director of the densely packed market which sits in the heart of the Colombian city of Medellín. Every day, up to 15,000 people flood into the giant building where more than 3,300 vendors sell fruits,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-latin-america-53388656",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12D0/production/_113461840_whatsappimage2020-07-01at11.55.59am-2-1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-latin-america-53388656",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-latin-america-53388656",
+      "publishedDateTime": "2020-07-17T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations.md",
       "title": "Microsoft reportedly cuts jobs across MSN, Azure, and sales organizations",
       "excerpt": "The decrease in the staffing of an unspecified number of people was a result of the company relying on AI algorithms and models to do the work of the editors and curators. The Redmond giant has not publicly acknowledged these layoffs and sources say that ...",
@@ -1110,97 +1209,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-commentary-combine-optimization-machine-learning-and-simulation-to-move-freight.md",
-      "title": "Commentary: Combine optimization, machine learning and simulation to move freight",
-      "excerpt": "On July 7, FreightWaves ran Commentary: Optimal Dynamics – the decision layer of logistics?, which kicked off a series that will focus on “AI in Supply Chain.” I believe that the incorporation of decision-making technologies in the supply chain is potentially the most transformative development in global industrial supply chains that we will see for the next two or three decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary%3A-combine-optimization,-machine-learning-and-simulation-to-move-freight",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/07/Aoaeh_commentary_071520_2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary%3A-combine-optimization,-machine-learning-and-simulation-to-move-freight/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary%3A-combine-optimization,-machine-learning-and-simulation-to-move-freight/amp",
-      "publishedDateTime": "2020-07-17T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap.md",
-      "title": "AI in Fashion Market Growing at a CAGR 40.8% | Key Player Microsoft, IBM, Google, AWS, SAP",
-      "excerpt": "The global AI in Fashion Market is expected to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

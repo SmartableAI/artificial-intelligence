@@ -2,6 +2,105 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-07-21-the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale.md",
+      "title": "The Customer Experience Is Finally Seeing Some Magical Moments Powered By AI At Scale",
+      "excerpt": "Brands today are in a battle for the attention of their targeted customers against the best experiences those customers have ever had.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/21/the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F628077534%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/21/the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/21/the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale/amp/",
+      "publishedDateTime": "2020-07-21T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-ai-is-accelerating-the-move-to-a-touchless-world.md",
+      "title": "AI is accelerating the move to a touchless world",
+      "excerpt": "a philosophy and ethics information professor and director of the Digital Ethics Lab at the University of Oxford, as saying. \"But a classic way of gaining trust, with AI interactions in particular, can be summarized in three words: transparency ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-is-accelerating-the-move-to-a-touchless-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/80f8a384-b6e4-4b6c-84a2-2772265f460f/resize/1200x/df64878ff3f885d95ee20e01cd182572/istock-1148923626.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-accelerating-the-move-to-a-touchless-world/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-accelerating-the-move-to-a-touchless-world/",
+      "publishedDateTime": "2020-07-21T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos.md",
       "title": "Immervision uses AI for better wide-angle smartphone videos and photos",
       "excerpt": "Immervision announced new real-time video distortion correction software to help create professional quality videos on smartphones.",
@@ -1279,97 +1378,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-why-facial-recognition-algorithms-cant-be-perfectly-fair.md",
-      "title": "Why facial recognition algorithms can’t be perfectly fair",
-      "excerpt": "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop",
-          "width": 320,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "publishedDateTime": "2020-07-20T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-deepminds-ai-automatically-generates-reinforcement-learning-algorithms.md",
-      "title": "DeepMind’s AI automatically generates reinforcement learning algorithms",
-      "excerpt": "In a study published on the preprint server Arxiv.org, DeepMind researchers describe a reinforcement learning algorithm-generating technique that discovers what to predict and how to learn it by ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/amp/",
-      "publishedDateTime": "2020-07-20T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

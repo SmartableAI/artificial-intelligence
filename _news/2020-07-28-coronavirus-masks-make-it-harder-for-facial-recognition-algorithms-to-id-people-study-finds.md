@@ -8,8 +8,8 @@ ampWebUrl: "https://www.foxnews.com/science/coronavirus-masks-facial-recognition
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 138
+published: true
 
 provider:
   name: Fox News
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face masks are thwarting even the best facial recognition algorithms, study finds"
-    excerpt: "Researchers from NIST found that face masks are causing facial recognition algorithms to fail as frequently as 50% of the time."
-    publishedDateTime: 2020-07-27T21:43:00Z
-    webUrl: "https://www.cnet.com/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/MXKfN-YizAVPgI2BlAXBDDUGEvY=/756x567/2020/07/27/440f5d19-a0fa-4cb1-ba2d-3d4555ab8581/nist-masks.png"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Wearing a face mask makes it harder for facial recognition algorithms to see you, according to a new government study"
     excerpt: "The study was carried out with the Department of Homeland Security and Customs and Border Protection, both of which use facial recognition technology."
     publishedDateTime: 2020-07-28T15:57:00Z
@@ -61,38 +45,6 @@ related:
       - url: "https://i.insider.com/5f2027fd3ad8615ed52c8427?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
-    excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
-    publishedDateTime: 2020-07-27T22:02:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/us-agency-pandemic-masks-thwarting-face-recognition-tech-72018610"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_1620ec9ad802491791ba6e7eaa6c8434_16x9_992.jpg"
-        width: 992
-        height: 557
-        isCached: true
-  - title: "Face masks are thwarting ‘even the best’ facial recognition systems"
-    excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a US agency on Monday found that even the"
-    publishedDateTime: 2020-07-28T15:08:00Z
-    webUrl: "https://nypost.com/2020/07/28/us-agency-pandemic-masks-thwarting-face-recognition-tech/"
-    ampWebUrl: "https://nypost.com/2020/07/28/us-agency-pandemic-masks-thwarting-face-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/28/us-agency-pandemic-masks-thwarting-face-recognition-tech/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/facial-recognition-feature.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
     excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
@@ -142,22 +94,6 @@ related:
         width: 1276
         height: 715
         isCached: true
-  - title: "Facial Recognition, Thermal Imaging Part of the New Normal"
-    excerpt: "The coronavirus pandemic has fueled the rise of facial recognition and thermal imaging technologies to detect symptoms of the virus in a variety of sectors. The tech streamlines more manual safety checks."
-    publishedDateTime: 2020-07-31T21:31:00Z
-    webUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html"
-    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-CORONAVIRUS-OHIO-TECHNOLOGY-.JPG"
-        width: 1110
-        height: 625
-        isCached: true
   - title: "Top facial recognition tech is thrown off by masks, study says, but that could soon change"
     excerpt: "The algorithms can be tripped up by such variables as mask color and shape, researchers find, pushing error rates as high as 50 percent."
     publishedDateTime: 2020-07-29T17:28:00Z
@@ -171,34 +107,6 @@ related:
     quality: 49
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2LTPNGQOAI6VATLZQ4U3ASOGU.jpg&w=1440"
-        width: 726
-        height: 480
-        isCached: true
-  - title: "Pandemic Masks Thwarting Face Recognition Tech"
-    excerpt: "Even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces."
-    publishedDateTime: 2020-07-28T14:45:00Z
-    webUrl: "https://www.manufacturing.net/technology/news/21141476/pandemic-masks-thwarting-face-recognition-tech"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/07/16x9/AP20210004604951.5f202f1a363ff.png?auto=format&fit=max&w=1200"
-        width: 726
-        height: 408
-        isCached: true
-  - title: "U.S. agency: Pandemic masks thwart face recognition tech up to 50% of the time"
-    excerpt: "Under ideal conditions, the failure rate for the best algorithms is only about 0.3%, according to a study by the National Institute of Standards and Technology"
-    publishedDateTime: 2020-07-28T17:05:00Z
-    webUrl: "https://www.policeone.com/coronavirus-covid-19/articles/us-agency-pandemic-masks-thwart-face-recognition-tech-up-to-50-of-the-time-emLR3lL8t6QRwg1W/"
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 35
-    images:
-      - url: "https://media.cdn.lexipol.com/uploads/ap20210004604951.jpg?w=860&format=jpg&quality=87"
         width: 726
         height: 480
         isCached: true
@@ -216,15 +124,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Paravision Achieves Global Top 2 Ranking in NIST Test of Face Recognition with Masks"
-    excerpt: "SAN FRANCISCO, July 29, 2020 /PRNewswire-PRWeb/ -- Paravision, the US-based leader in mission critical computer vision, announced today that it achieved top 2 accuracy globally on the National Institute of Standards and Technology (NIST) Face Recognition ..."
-    publishedDateTime: 2020-07-29T11:55:00Z
-    webUrl: "https://www.medindia.net/health-press-release/paravision-achieves-global-top-2-ranking-in-nist-test-of-face-recognition-with-masks-479646-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 12
 
 secured: "j1JFIqRvQyhq5wnNggw5EBBcauiMSA9kxqGLpK3RCBHrS1VrLsHJwi5BCCP79oex9dAV9fEU+h3jOZDH9cKCChBuyYNbPmDDcw+taZEYAr4IDCWgoJyP2EyZ+KJCPjVu6Q4+t7BktxqezSA6+sM82dIlgSXMThfqQV7G5ALBWwVnmlk6/hH6i4iebp9dvPg7hy1N4TfRmxRGi2bOuY9JGSlgChHbY+otRxuAVbS7rMll8NAa+Q0BY426x4JJswEJUmB2ejgYk2LJ63PHvNTFcZjOKt81nNWdJx5PL+GAh/kmmCh24vFP2Wa6zb5z1L5BtODR3LuqZPe5/765lgmn/OmEb7hm6NsOTA+wuNe9IbFvG2WhGYHxGiC7oRFQlzTT6sv/FTYFxQgKTmBbtvAWdrODpotM9kSfERGu5MVs4PCPAwB1zumw8jpKzqSMHPqWyXmTYkfeSrBOITjAMv4M2sW15aBwX45SvL4Y6gqqOEOqFCx53hoFzBtOMHObgaGJ;WjxH/GcuXVABTFefwEwNOA=="
 ---

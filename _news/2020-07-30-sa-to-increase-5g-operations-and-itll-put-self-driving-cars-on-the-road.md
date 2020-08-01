@@ -77,20 +77,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Qualcomm Tests New Technology That Could Aid Self-Driving Cars"
-    excerpt: "If we’re ever going to have self-driving cars, they will need to be able to talk wirelessly to one another … and to roadside monitoring infrastructure, like traffic signals. Such technology has been around but has failed to take hold."
-    publishedDateTime: 2020-07-27T22:57:00Z
-    webUrl: "https://www.kpbs.org/podcasts/kpbs-midday-edition-segments/2020/jul/27/cars-qualcomm-new-tech-self-driving/"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 39
-    images:
-      - url: "https://kpbs.media.clients.ellingtoncms.com/img/podcasts-episode/2020/MiddayEd_generic-new_ysu2o3F.jpg"
-        width: 800
-        height: 540
-        isCached: true
 
 secured: "M7QfzcXEbA3vKt1RewaG5j2wbyZki6YGocOS7AwOFZ5PAdYgQLvv4uMBPIY8pMHRxLnYpVrtJQ6s/73HI7+2SxpfGpi9a9GP2O3yQnD/mE1dhmigMZ0suDj/TEdx4nk21hi9KvVDSSx4x2vnKy86JOySk/bJIUXf7zxLSX2z5sx3xzoK76HuVHJ+IxuOl1rBBjah5cTDl12QxgzAq953V0koYn2kiI15CcQQ6T008PAuDRLBS3sgY8AE7gbhHjgAE/89DMJ7pIrP0DxSpETVnAxWYu7RI3toJaHXIEDRPMMG9SnbSCeBw5MYlDDrnvWE+4g6UYdZmnIAvRUAbAjRuw==;tOf7jP0VPwGiSELPHnvOZA=="
 ---
