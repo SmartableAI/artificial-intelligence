@@ -25,6 +25,22 @@ images:
     height: 399
     isCached: true
 
+related:
+  - title: "Growth monitoring of greenhouse lettuce based on a convolutional neural network"
+    excerpt: "Nachtigall, L. G., Araujo, R. M. & Nachtigall, G. R. Classification of apple tree disorders using convolutional neural networks. In Proc. 2016 IEEE 28th International Conference on Tools with Artificial Intelligence (San Jose, California, 2016)."
+    publishedDateTime: 2020-07-31T22:05:00Z
+    webUrl: "https://www.nature.com/articles/s41438-020-00345-6"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 35
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41438-020-00345-6/MediaObjects/41438_2020_345_Fig2_HTML.png"
+        width: 685
+        height: 486
+        isCached: true
+
 secured: "Am/6AmhLhp4lOjUC00YYVVEf2EyXAav554IlrJqmuzPqcIXp9SC8vn+x9/G7nFasvDkh+l/Q7gpI2zpBgI4t2QsJbqsgkXseHBAkLeo5m+P7QX/gNJ0FhMQqo96FDEfYN2wCeHySPLdQXAaMMh34/Xd40zKQvMkZ94PAOvo29IJ6FrBKH8udCp6mj7Ef0aSb6m+cV8znH56bH+b3fsF//RHHBHw8FBNUasZya4YVJshKsUPZdtTKClzc3gedGq4MlTYFehsHL+LEeap0V0PEWA2rEZvcq7OBITFWrBfqwVt1XEqlFEtSlYJ7mfu4p1FkXcLM7I3Z5mFrsniDxbIW+A==;WDsIlF69nmSsxLlj3OG1qA=="
 ---
 

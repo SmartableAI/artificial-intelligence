@@ -2,6 +2,154 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-07-22-autodesk-acquires-construction-ai-company-pype.md",
+      "title": "Autodesk Acquires Construction AI Company Pype",
+      "excerpt": "It is the first AI-related acquisition by Autodesk, a San Rafael, Calif.-based design software company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-211866/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
+      "publishedDateTime": "2020-07-22T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that.md",
+      "title": "Trouble with your tennis serves and penalty kicks? There’s an AI for that",
+      "excerpt": "Ah, sportsball. Can you ever forget the first time you grab that pass, fly down the court, and sink that puck right through the net as your fans yell adoringly from the bleachers, TOUCHDOWN! No? Not ringing a bell?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-14-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/amp/",
+      "publishedDateTime": "2020-07-22T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-huddlai-wants-to-bring-more-intelligence-to-online-meetings.md",
+      "title": "huddl.ai wants to bring more intelligence to online meetings",
+      "excerpt": "As the pandemic has shut down in-person meetings, and pushed us online, products like Zoom, Cisco WebEx, Google Meet and Microsoft Teams have become part of our daily lives. Into the fray jumps huddl.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Huddl.ai-Meeting-Moments-Screen-Shot.png?w=680",
+          "width": 680,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
+      "publishedDateTime": "2020-07-22T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-did-a-person-write-this-headline-or-a-machine.md",
       "title": "Did a Person Write This Headline, or a Machine?",
       "excerpt": "GPT-3 was built by directing machine-learning algorithms to study the statistical patterns in almost a trillion words collected from the web and digitized books. The system memorized the forms of countless genres and situations, from C++ tutorials to ...",
@@ -960,145 +1108,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer.md",
-      "title": "Nvidia And University Of Florida Supercharge Education With AI Supercomputer",
-      "excerpt": "Nvidia and The University of Florida (UF) are in engaging in a unique public-private partnership that should see the development of the largest university supercomputer in the United States, and perhaps the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1675a2bcd8150007c3cce4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer/amp/",
-      "publishedDateTime": "2020-07-21T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-nvidia-partners-with-university-of-florida-to-build-ai-supercomputer.md",
-      "title": "Nvidia Partners With University of Florida to Build AI Supercomputer",
-      "excerpt": "Nvidia was long known as a supplier of graphics chips for personal computers to make video games look more realistic, but researchers now also use its chips inside data centers to",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp",
-      "publishedDateTime": "2020-07-21T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set.md",
-      "title": "Researchers seek to advance predictive AI for engineers with CAD model data set",
-      "excerpt": "AI trained using the data set could eventually assist humans in sketching CAD models. CAD models can be anything from a single machine component to an entire building. They’re used by architects ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/princeton-cad.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/amp/",
-      "publishedDateTime": "2020-07-21T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

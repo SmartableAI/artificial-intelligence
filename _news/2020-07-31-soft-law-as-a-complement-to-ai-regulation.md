@@ -8,7 +8,7 @@ ampWebUrl: "https://www.brookings.edu/research/soft-law-as-a-complement-to-ai-re
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/soft-law-as-a-complement-to-ai-regulation/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1621
     height: 2432
     isCached: true
-
-related:
-  - title: "Iridium 'Quant Lens' brings artificial intelligence to valuation and sentiment analysis in listed companies"
-    excerpt: "Iridium Advisors, the investor relations consultancy, today unveils two self-funded technologies that decode valuation drivers of"
-    publishedDateTime: 2020-07-27T06:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/iridium-quant-lens-brings-artificial-intelligence-to-valuation-and-sentiment-analysis-in-listed-companies-301099834.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1219535/Oliver_Schutzmann_Iridium_Advisors.jpg?w=950"
-        width: 950
-        height: 633
-        isCached: true
 
 secured: "7j2U33jyDD3pkbhcv/GY326MjoUuvhyLHfSoHfwc5Ot4ncdm35c3Kfp+bnwSmqiLw93tpaPFJCpGvbXuvqzKi8sVfQMmfawP15J3oH6oYii/k+MqtrLgkS62uxg+oHp/fvIBdSwECO/mGcdXPvchpmGMqEepdEs3SCkWDJa6xRxIMk0sPQKg4wuv8pb5f85T+fCTMiUaeYzQvy0G1SvcotxuKr4YVXwLpXr9ZGMKrZlK0hIle6TL9hDoccCDJfGXaVmK3XEAhEE24bRyeEbTatR8NcSylYECTb3RvDo998HdPRJOoL9/xPJXqKvoKP5A+hCDWHPeIevpPXlTieCicdHIaoJHd8abOZ6vRUJERcyUObwE6+DQveT5ZCNChUxEOUqcozeUGSSUBGFLYHPdnPzI7XyBGIorYbnDNpEgJYvYhcdSQzaHcIPPFKaoZwFxuOq5IZWX+Tzup9/krI/4UZfS1Z2gcynw3i1kJe7z27dUCdnJ+v9gmwRu45vmusT0bmaz6PcqeZ8y8WjmOsu1UA==;1F4xXJX1XrHrX+Dh8c1Wug=="
 ---

@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-31-the-history-of-self-driving-cars.md",
-      "title": "The history of self-driving cars",
-      "excerpt": "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies.",
+      "path": "_news/2020-07-31-arlington-asset-investment-corp-ai-q2-2020-earnings-call-transcript.md",
+      "title": "Arlington Asset Investment Corp (AI) Q2 2020 Earnings Call Transcript",
+      "excerpt": "Arlington Asset Investment Corp Q2 2020 Earnings Call Jul 31, 2020, 9:00 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?itm_source=2&itm_content=2x4&itm_term=2377058",
+      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 154,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/self-driving-car-3-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+          "width": 400,
+          "height": 427,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp",
-      "publishedDateTime": "2020-07-31T14:12:00-07:00",
+      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx",
+      "publishedDateTime": "2020-07-31T16:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -47,8 +47,207 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-this-month-in-aws-machine-learning-july-2020-edition.md",
+      "title": "This month in AWS Machine Learning: July 2020 edition",
+      "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases like posture detection to interactive trainings like the AWS Power Hour: Machine Learning on Twitch. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-july-2020-edition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/13/hunch-fs-preds.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T15:45:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry.md",
+      "title": "AI Weekly: Big Tech’s antitrust reckoning is a cautionary tale for the AI industry",
+      "excerpt": "Being smart and ruthless was the way of old big tech, but the growing field of AI requires people to be smart, wise, and empathetic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/apple-amazon-facebook-google-1.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
+      "publishedDateTime": "2020-07-31T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize.md",
+      "title": "Enhancing recommendation filters by filtering on item metadata with Amazon Personalize",
+      "excerpt": "We’re pleased to announce enhancements to recommendation filters in Amazon Personalize, which provide you greater control on recommendations your users receive by allowing you to exclude or include items to recommend based on criteria that you define. For example, when recommending products for your",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T15:08:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda.md",
+      "title": "Code-free machine learning: AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda",
+      "excerpt": "One of AWS’s goals is to put machine learning (ML) in the hands of every developer. With the open-source AutoML library AutoGluon, deployed using Amazon SageMaker and AWS Lambda, we can take this a step further, putting ML in the hands of anyone who wants to make predictions based on data—no prior programming",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/automl-001.jpg",
+          "width": 1000,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T15:05:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1262,205 +1461,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-airport-robots-market-technology-growth-developments-and-scope-2020.md",
-      "title": "Airport Robots Market Technology Growth, Developments and Scope 2020",
-      "excerpt": "In the coming years, robots are set to replace airport staff, in terms of airport operation handling. The integration of artificial intelligence within airports may lead to robots performing airport operations, such as airport cleaning, providing security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/airport-robots-market-technology-growth-developments-and-scope-2020-2020-07-30",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-buildots-raises-16m-to-bring-computer-vision-to-construction-management.md",
-      "title": "Buildots raises $16M to bring computer vision to construction management",
-      "excerpt": "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, today announced that it has raised $16 million in total funding. This includes a $3 million seed round that was previously unreported and a $13 million Series A round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/IMG_3411_s.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/",
-      "publishedDateTime": "2020-07-30T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-ai-new-gpt-3-language-model-takes-nlp-to-new-heights.md",
-      "title": "AI: New GPT-3 language model takes NLP to new heights",
-      "excerpt": "Natural language processing is still being refined, but its popularity continues to rise. This new, better version is likely to help. When you speak to a computer, whether on the phone, in a chat box, or in your living room, and it understands you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/29/e26a5604-2628-4342-9e40-b3a62abeea95/resize/1200x/d908f035ae0c61b5d332a9d65b9493e4/istock-1055662774.jpg",
-          "width": 1200,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "publishedDateTime": "2020-07-30T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-ai-is-all-the-rage-so-why-arent-more-businesses-using-it.md",
-      "title": "AI Is All the Rage. So Why Aren’t More Businesses Using It?",
-      "excerpt": "A big study by the US Census Bureau finds that only about 9 percent of firms employ tools like machine learning or voice recognition—for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f20b5f959ee66a80b965c8d/master/pass/ai-in-business.png",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-why-not-more-businesses-use/amp",
-      "publishedDateTime": "2020-07-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

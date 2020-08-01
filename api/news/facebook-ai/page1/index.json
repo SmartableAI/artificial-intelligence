@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-31-ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry.md",
+      "title": "AI Weekly: Big Tech’s antitrust reckoning is a cautionary tale for the AI industry",
+      "excerpt": "Being smart and ruthless was the way of old big tech, but the growing field of AI requires people to be smart, wise, and empathetic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/apple-amazon-facebook-google-1.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
+      "publishedDateTime": "2020-07-31T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work.md",
       "title": "A new AI claims it can help remove racism on the web. So I put it to work",
       "excerpt": "It was too tempting a challenge. Which site has more problematic pages? FoxNews.com or ESPN.com? You may be surprised.",
@@ -1400,57 +1450,6 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-the-us-china-and-the-ai-arms-race-cutting-through-the-hype.md",
-      "title": "The US, China and the AI arms race: Cutting through the hype",
-      "excerpt": "The reality is that US and China efforts to develop AI are entwined, even if the tensions of coronavirus and trade disagreements may spur a separation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/DVYxHNtyKp5XHMiiLCfbwOo6_Yo=/756x567/2020/06/30/fbf0e0ea-8dfc-4bcb-9793-f6eaa8993108/gettyimages-1039282538.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "The US, China and the AI arms race: Cutting through the hype",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
-      "publishedDateTime": "2020-07-08T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market is Booming worldwide with CAGR of 44.8% during 2020 to 2025"
-    excerpt: "This Artificial Intelligence In Healthcare Market Research Report Forecast 2020-2025 is a valuable source of insightful data for business strategists. It provides an in-depth analysis of the COVID-19 impact,"
-    publishedDateTime: 2020-07-27T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-booming-worldwide-with-cagr-of-448-during-2020-to-2025-2020-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market Analysis, Competitive Strategies and Forecasts to 2024"
     excerpt: "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,"
     publishedDateTime: 2020-07-27T11:18:00Z

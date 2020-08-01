@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?itm_source=2&amp;itm_content=2x4&amp;itm_term=2377058</loc>
-    <lastmod>2020-07-31T14:12:00-07:00</lastmod>
+    <loc>https://www.fool.com/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx</loc>
+    <lastmod>2020-07-31T16:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-july-2020-edition/</loc>
+    <lastmod>2020-07-31T15:45:14-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/</loc>
+    <lastmod>2020-07-31T15:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize/</loc>
+    <lastmod>2020-07-31T15:08:21-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/</loc>
+    <lastmod>2020-07-31T15:05:32-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -217,12 +241,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/optimizing-your-engagement-marketing-with-personalized-recommendations-using-amazon-personalize-and-braze/</loc>
-    <lastmod>2020-07-29T17:26:57-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/</loc>
     <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -237,12 +255,6 @@
   <url>
     <loc>https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29</loc>
     <lastmod>2020-07-29T12:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/simplifying-application-onboarding-with-amazon-codeguru-profiler/</loc>
-    <lastmod>2020-07-29T12:37:43-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -561,6 +573,12 @@
   <url>
     <loc>https://medicalxpress.com/news/2020-07-machine-method-hospitals-patient-dataprivately.html</loc>
     <lastmod>2020-07-28T02:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.moneyshow.com/articles/dailyguru-54699/</loc>
+    <lastmod>2020-07-28T02:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1939,14 +1957,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://news.webindia123.com/news/Articles/Science/20200719/3595133.html</loc>
-    <lastmod>2020-07-19T11:01:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
+    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
-    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
+    <loc>https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California</loc>
+    <lastmod>2020-07-19T09:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

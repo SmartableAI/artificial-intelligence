@@ -2,6 +2,156 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-31-this-month-in-aws-machine-learning-july-2020-edition.md",
+      "title": "This month in AWS Machine Learning: July 2020 edition",
+      "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases like posture detection to interactive trainings like the AWS Power Hour: Machine Learning on Twitch. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-july-2020-edition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/13/hunch-fs-preds.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T15:45:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize.md",
+      "title": "Enhancing recommendation filters by filtering on item metadata with Amazon Personalize",
+      "excerpt": "We’re pleased to announce enhancements to recommendation filters in Amazon Personalize, which provide you greater control on recommendations your users receive by allowing you to exclude or include items to recommend based on criteria that you define. For example, when recommending products for your",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T15:08:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda.md",
+      "title": "Code-free machine learning: AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda",
+      "excerpt": "One of AWS’s goals is to put machine learning (ML) in the hands of every developer. With the open-source AutoML library AutoGluon, deployed using Amazon SageMaker and AWS Lambda, we can take this a step further, putting ML in the hands of anyone who wants to make predictions based on data—no prior programming",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/automl-001.jpg",
+          "width": 1000,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T15:05:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge.md",
       "title": "Announcing the AWS DeepComposer Chartbusters Spin the Model challenge",
       "excerpt": "Whether your jam is reggae, hip-hop or electronic you can get creative and enter the latest AWS DeepComposer Chartbusters challenge! The Spin the Model challenge launches today and is open until August 23, 2020. AWS DeepComposer gives developers a creative way to get started with machine learning. Chartbusters",
@@ -102,56 +252,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-30-optimizing-your-engagement-marketing-with-personalized-recommendations-using-amazon-personalize-and-braze.md",
-      "title": "Optimizing your engagement marketing with personalized recommendations using Amazon Personalize and Braze",
-      "excerpt": "Today’s marketer has a wide array of channels to communicate with their customers. However, sending the right message to the right customer on the right channel at the right time remains the preeminent challenge marketers face. In this post, I show you how to combine Braze, a customer engagement platform",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-your-engagement-marketing-with-personalized-recommendations-using-amazon-personalize-and-braze/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/28/optimizing-engagement-marketing-3-2-756x630.png",
-          "width": 756,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T17:26:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-29-translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate.md",
       "title": "Translating documents, spreadsheets, and presentations in Office Open XML format using Amazon Translate",
       "excerpt": "Now you can translate .docx, .xlsx, and .pptx documents using Amazon Translate. Every organization creates documents, spreadsheets, and presentations to communicate and share information with a large group and keep records for posterity. These days, we interact with people who don’t share the same language",
@@ -175,56 +275,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-07-29T13:57:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-simplifying-application-onboarding-with-amazon-codeguru-profiler.md",
-      "title": "Simplifying application onboarding with Amazon CodeGuru Profiler",
-      "excerpt": "Amazon CodeGuru Profiler provides recommendations to help you continuously fine-tune your application’s performance. It does this by collecting runtime performance data from your live applications. It looks for your most expensive lines of code continuously and provides intelligent recommendations. This",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplifying-application-onboarding-with-amazon-codeguru-profiler/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/codeguru-profiler-1-1.jpg",
-          "width": 900,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T12:37:43-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -1365,56 +1415,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-07-13T11:40:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-aws-deepracer-evo-and-sensor-kit-now-available-for-purchase.md",
-      "title": "AWS DeepRacer Evo and Sensor Kit now available for purchase",
-      "excerpt": "AWS DeepRacer is a fully autonomous 1/18th scale race car powered by reinforcement learning (RL) that gives machine learning (ML) developers of all skill levels the opportunity to learn and build their ML skills in a fun and competitive way. AWS DeepRacer Evo includes new features and capabilities to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-and-sensor-kit-now-available-for-purchase/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/10/deepracer-evo-1.jpg",
-          "width": 900,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T10:38:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

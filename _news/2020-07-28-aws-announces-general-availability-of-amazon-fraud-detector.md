@@ -1,27 +1,21 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Fraud Detector"
-excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-publishedDateTime: 2020-07-28T17:28:00Z
-webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
+excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
+publishedDateTime: 2020-07-28T18:07:00Z
+webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-fraud-detector/article_812d53b8-cce9-5ada-b0a2-07713b916b93.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "AWS adds new Amazon Fraud Detector to fight fraud"
@@ -69,6 +63,6 @@ related:
         height: 430
         isCached: true
 
-secured: "SV06ikfZX/MnsguNr3+OYxsEwlVzKMcPtUVJugh+itZh2eEK2pfSzQV0pKYdEBaaNWBZ1c15Q1JdK+M06VFvMdtx8V2p/EZ+TUetQ9mhSkDDVpNC0EI0GEjz/OUATkhPRdyeEYIXV5OeDMF7ulXRbs0z6oOnOXMOyB5TtVII+PD1UpDyTMpD6RtINMb3LchH8rogaf9fDlHnJTJ3nSu+ekRuydHUc0MvsTACdM5PvhBMCrOZzT3ukFYxOaDKlOUmfh3LXLgAs0tc/HX4LpK/EJqpQtpbRQzPhJNTBDRCWKxEketusLsMdb0LKDeBdMyl4iPEQfXIo2h2EOgQ9fxc6g==;4pIREtqflvaLNkhCKTwIFQ=="
+secured: "p+ju9bNFsW24Of1o9FNGk98gEnoyNbXEYrF63Z9wYJ62Virg5LiOgVcxep3l4FljHqi4ICx6gkdu942Eh6AeYScttsrEjJx0GFMIBrFZp9fHGxOG9TBhOE9TZKF1cTn/AixLZo/meLm77yP2hOiZRWTFGeb3UNxLskXXSIdrHZWcVIK/JXpCfkd4RbFdAii/h2Ee8gdx3LdhsjeyuBnQKAZD1PfxFhExYDOsB3fwFoJqWnYO+5vxAevj8UN/SKputRvsTndh81boaYdG0D8vbURLZmxrYycPobfFoo0IUgdhUnaUUf0D1t3uguzv03W4X+D5giGl57QbC+J3zEIeyA==;A51c6cTvIFZGH88NzxPJPA=="
 ---
 

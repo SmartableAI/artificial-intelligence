@@ -2,10 +2,10 @@
 category: news
 title: "AMD CDNA GPU to rival Nvidia Ampere in late 2020"
 excerpt: "AMD has revealed that its first GPU designed specifically for computing and based on CDNA architecture will become available later this year. Being developed primarily for artificial intelligence and high-performance computing (HPC) applications,"
-publishedDateTime: 2020-07-31T09:48:00Z
-webUrl: "https://www.techradar.com/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020"
-ampWebUrl: "https://www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020"
+publishedDateTime: 2020-07-31T10:08:00Z
+webUrl: "https://www.techradar.com/sg/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020"
 type: article
 quality: 89
 heat: -1
@@ -56,6 +56,6 @@ related:
       domain: techradar.com
     quality: 49
 
-secured: "oQxb7FcnTKYgwK2TB25pk86Ads2qbRp/vIQ27KONVKk+jXT2arFhpMmIA2P0CfwqFS31t90WkLiws9a2MqpSYHoHajdujlalkHAsXr85sV0IusPWi2l1VhGcdVZWg9vl//Glg1bfC6tzAbZgolX84w2H1RWGKl1BNaTEHQY4UA69TIxy4a+9umKbHjcQzDOeVBtSbmStEw9vlrZ0ACOa/MzDemwfMdXLpQ773LSX22f+u/i3eUKYByXA0/Y3yrR6orStUvt1yF61T3ywxHPQ4yMi+Q06hgP2Jgt9QQ4npV62DXa7wuNFlzYSqQWZw/qGg6UDKOnlssszjH/8h2Zxsg==;KXxL5TrWT+jnKKV8tg9Bjg=="
+secured: "0dgv2uqV8axGVQeSI6+eLVBMp0RVghq7Dmh0JxtOVgYkd/BvLJ3N14GUoMTDE18JFRqdlLBd6SrAgoNzRLwj9p5GETN+xfC1jWuWvojCRIOFKETCgGd9p08xWyJ+Q69SuqdSRxlfry1OQXNnJcw4t6dZFaNpSXDUYFaMNXCEq4HQn61z2t805QwrJ+RUQ3wSqxtkYxn/xekFqx7sUpwf6rMVUU6TFjEA2teZFzexhwzMJSoBdA4lx5E5kMdVUpmv5NoBOX0JHWcTikSmaYt1xRF3JZQsyoIaqPUqXLiX3LxSpacQDUVGByHVGRgWKxBvFy/0zbIPJNSljn1SMdYFSg==;nW2nTWlCXYXZ7qDIhyJ8cA=="
 ---
 

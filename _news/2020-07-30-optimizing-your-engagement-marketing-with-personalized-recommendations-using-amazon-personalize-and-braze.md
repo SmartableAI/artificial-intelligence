@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-30T00:26:57Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-your-engagement-marketing-with-personalized-recommendations-using-amazon-personalize-and-braze/"
 type: article
 quality: 72
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -28,17 +28,34 @@ images:
     isCached: true
 
 related:
-  - title: "Vodafone Italy Drives New Accounts With Personalized, AI-Powered Messaging"
-    excerpt: "Working closely with Persado and Adobe, Vodafone leveraged AI-based language to generate the right message at the right time to each Vodafone customer, elevating"
-    publishedDateTime: 2020-07-29T07:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16821907/vodafone-italy-drives-new-accounts-with-personalized-ai-powered-messaging"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16821907"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16821907"
+  - title: "Enhancing recommendation filters by filtering on item metadata with Amazon Personalize"
+    excerpt: "We’re pleased to announce enhancements to recommendation filters in Amazon Personalize, which provide you greater control on recommendations your users receive by allowing you to exclude or include items to recommend based on criteria that you define. For example, when recommending products for your"
+    publishedDateTime: 2020-07-31T22:08:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
+      name: AWS
+      domain: aws.amazon.com
+    quality: 81
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "Simplifying application onboarding with Amazon CodeGuru Profiler"
+    excerpt: "Amazon CodeGuru Profiler provides recommendations to help you continuously fine-tune your application’s performance. It does this by collecting runtime performance data from your live applications. It looks for your most expensive lines of code continuously and provides intelligent recommendations. This"
+    publishedDateTime: 2020-07-29T19:37:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplifying-application-onboarding-with-amazon-codeguru-profiler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/codeguru-profiler-1-1.jpg"
+        width: 900
+        height: 559
+        isCached: true
 
 secured: "tKNuPulvIAICR9uRpjjvNKjI0Tro5qo1hFTbfiMZBFkwcdzz/y/OCOHw45eqpY8xZVKBJVBNYIC46vmg5Oux6A9rkL2qbVXO12SDtJ/wGmOvgsRMQOKe+Dc54LQDDnCaLNpXGmzjy75viJWQa1WPYYS8e4CEuV3yhsySoSIvxG4M1YMgoY8hADSBMmK9IlZLBfGTTcvXcohF4WNa6IrjF4EM+rCxBbQiDdTsDuBChA8zfZVkUpvjcs3TY07HQfRObI2tS6MSE/YNimCMYamVdGAY+XxmYC+UqsfKlTzjSp2qRujxRREig6TKpfPztG40T5agQvfeyyHvrH8cn5M3sg==;0TaJt7dUrV5BV+ma7Jpf7Q=="
 ---

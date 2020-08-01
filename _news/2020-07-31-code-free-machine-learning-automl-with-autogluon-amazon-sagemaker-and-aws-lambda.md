@@ -1,0 +1,32 @@
+---
+category: news
+title: "Code-free machine learning: AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda"
+excerpt: "One of AWS’s goals is to put machine learning (ML) in the hands of every developer. With the open-source AutoML library AutoGluon, deployed using Amazon SageMaker and AWS Lambda, we can take this a step further, putting ML in the hands of anyone who wants to make predictions based on data—no prior programming"
+publishedDateTime: 2020-07-31T22:05:32Z
+webUrl: "https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/"
+type: article
+quality: 98
+heat: 98
+published: true
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/automl-001.jpg"
+    width: 1000
+    height: 414
+    isCached: true
+
+secured: "yG4Zj1T+p+60AtDP1MYbLdbbpuJ9Fq0w5IDOVLIIPNCPM3KuOYkye9LeInFk7waWR2RC8kJw10SOk8w90ihmSrXsGI7jLMf0DwRnfEyyJbnw3L1ysaK6kyGIZIylV0dEkz3xtieeHwAxU3ck1aymc+VLokbjWkm3z9nb8/HypOVpyL84MfjTPD6g4kElsJrE5IxwAt0C2F2W3qc16lIuiboec6gVgZb0m2Zg5IzcZBO0AXgr+kVAAMqAUh8KD48n/8q6FI/yzMZCWtWswNNyt/7cI+ycBxNurKCMTKayuJrnWpT2K/StZ5bGYxIXBWjj1lbtsXaB0d12RBuD6+yGSw==;G7akJ0lZoOG+P24ZQxOOfg=="
+---
+

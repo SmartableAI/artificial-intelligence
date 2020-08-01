@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T11:18:00Z
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-competitive-strategies-and-forecasts-to-2024-2020-07-27"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market is Booming worldwide with CAGR of 44.8% during 2020 to 2025"
-    excerpt: "This Artificial Intelligence In Healthcare Market Research Report Forecast 2020-2025 is a valuable source of insightful data for business strategists. It provides an in-depth analysis of the COVID-19 impact,"
-    publishedDateTime: 2020-07-27T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-booming-worldwide-with-cagr-of-448-during-2020-to-2025-2020-07-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
     excerpt: "This report also researches and evaluates the impact of Covid-19 outbreak on the Medical Imaging Artificial Intelligence industry, involving potential opportunity and challenges, drivers and risks. We present the impact assessment of Covid-19 effects on ..."
     publishedDateTime: 2020-07-27T07:26:00Z

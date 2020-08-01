@@ -2,6 +2,120 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-16-altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution.md",
+      "title": "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution",
+      "excerpt": "Altair Knowledge Studio’s AutoML wizard automatically selects the top variables, which is useful when there are hundreds of variables. Alternatively, the user can select the number manually and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/altair-releases-new-version-of-altairr-knowledge-studior-market-leading-machine",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-arai-leading-key-players-like-apple-microsoft-wimi-and-google-are-in-fierce-competition-in-5g-era.md",
+      "title": "AR+AI Leading Key Players like Apple, Microsoft, WiMi and Google Are in Fierce Competition in 5G Era",
+      "excerpt": "A series of recent moves by the tech giant and related departments have proved that the AI era has arrived. China, the United States, the European Union, the United Kingdom, Japan and other countries have or plan to upgrade AI to the national strategy,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/7146859330ddefb5372a7e92de5a6137",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.md",
+      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Shares Up 5%",
+      "excerpt": "Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares shot up 5% on Tuesday . The company traded as high as $123.51 and last traded at $123.51, 10,035 shares were traded during mid-day trading.",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html/amp",
+      "publishedDateTime": "2020-07-15T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-fintech-the-payment-app-launches-new-payment-platform.md",
       "title": "Fintech The Payment App launches new payment platform",
       "excerpt": "Australian fintech company The Payment App says it has set its sights on challenging global giants PayPal and Square with the launch of an innovative new payment platform. Co-founded by a team of finance and technology experts,",
@@ -1274,148 +1388,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-vastsolutionsgroupcom-announces-partnership-with-google-and-tensorflow.md",
-      "title": "VastSolutionsGroup.com Announces Partnership With Google™ and TensorFlow™",
-      "excerpt": "A number of platforms and providers were seeking partnership though with Google and TensorFlow it became clear the partnership was a fit. The technology will act as a foundation for Einstein and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wrcbtv.com/story/42372982/vastsolutionsgroupcom-announces-partnership-with-google-and-tensorflow",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://PRJET.images.worldnow.com/images/19728316_G.jpg?lastEditedDate=1594822151000",
-          "width": 1242,
-          "height": 1138,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRCB",
-        "domain": "wrcbtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-microsoft-partners-with-land-olakes-to-build-agriculture-tech-on-azure.md",
-      "title": "Microsoft partners with Land O’Lakes to build agriculture tech on Azure",
-      "excerpt": "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg",
-          "width": 950,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
-      "publishedDateTime": "2020-07-15T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-heathrow-airport-deploys-anti-virus-robots-and-testing-to-skip-uk-quarantine.md",
-      "title": "Heathrow Airport Deploys Anti-Virus Robots And Testing To Skip U.K. Quarantine",
-      "excerpt": "London's Heathrow Airport is doing everything in its power to encourage travelers back to the skies. The airport has faced a bleak few months with the number of passengers in June down 95% from the previous year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f43d5ba9bb1000708a5c5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5905%26cropY1%3D299%26cropY2%3D3621",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
-      "publishedDateTime": "2020-07-15T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
