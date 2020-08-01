@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T19:29:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/07/200727114745.htm"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -21,38 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "This AI tool can identify individual birds with 90% accuracy"
-    excerpt: "Luckily for them, a new AI tool can do the tricky task for them — and potentially offer new insights into bird behaviors. Scientists first trained the AI on labeled images of wild great tits and ..."
-    publishedDateTime: 2020-07-27T13:31:00Z
-    webUrl: "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-27T135305.160-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Artificial intelligence identifies prostate cancer with near-perfect accuracy"
-    excerpt: "A study published today in The Lancet Digital Health by UPMC and University of Pittsburgh researchers demonstrates the highest accuracy to date in recognizing and characterizing prostate cancer ..."
-    publishedDateTime: 2020-07-27T22:30:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-prostate-cancer-near-perfect.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-prostate-cancer-near-perfect.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-artificial-intelligence-prostate-cancer-near-perfect.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/38-artificialin.jpg"
-        width: 1601
-        height: 1031
-        isCached: true
   - title: "Scientists Develop Artificial Intelligence To Identify Individual Birds, Read Details"
     excerpt: "Artificial intelligence can be trained to identify individual birds as opposed to the human brains, which cannot perform the task, a study demonstrated."
     publishedDateTime: 2020-07-28T11:43:00Z
