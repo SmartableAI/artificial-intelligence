@@ -2,6 +2,56 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-24-processing-pdf-documents-with-a-human-loop-using-amazon-textract-and-amazon-augmented-ai.md",
+      "title": "Processing PDF documents with a human loop using Amazon Textract and Amazon Augmented AI",
+      "excerpt": "Businesses across many industries, including financial, medical, legal, and real estate, process a large number of documents for different business operations. Healthcare and life science organizations, for example, need to access data within medical records and forms to fulfill medical claims and streamline",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/processing-pdf-documents-with-a-human-loop-using-amazon-textract-and-amazon-augmented-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/24/processing-pdf-documents-040.jpg",
+          "width": 1000,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T12:24:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes.md",
       "title": "Higher ed institutions are using Otter's AI technology to transfer lectures into notes",
       "excerpt": "Turning spoken lectures into highly accurate lecture notes. Otter.ai's Otter for Education AI speech technology aims to give both lecturers and students the ability to avoid Zoom call information overload,",
@@ -1136,55 +1186,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga.md",
-      "title": "Amazon brings Contact Lens, a set of AI-powered contact center tools, into GA",
-      "excerpt": "The machine learning-powered set of capabilities allow companies to automatically transcribe and analyze customer calls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/22/50660081-ce3a-4998-ac36-6ea4c455bed6/thumbnail/1200x675/dc14c7d75bfcc9ea40ab77d1c94e9af7/googrecommendations.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
-      "publishedDateTime": "2020-07-23T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -106,6 +106,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade"
+    excerpt: "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years."
+    publishedDateTime: 2020-08-01T13:00:00Z
+    webUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/"
+    ampWebUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 96
+    images:
+      - url: "https://media.wired.com/photos/5f2458585fa1be63d9469833/master/pass/Security_riteaid_h_15252547.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "How Reuters investigated Rite Aid’s facial recognition systems across hundreds of stores in the U.S."
     excerpt: "Reuters this week published an investigation into how Rite Aid quietly added facial recognition systems across 200 stores in the United States over the last eight years. The Reuters year-long investigation,"
     publishedDateTime: 2020-07-31T20:16:00Z

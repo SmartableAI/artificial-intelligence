@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US Army’s latest AI system lets humans and robots have conversations"
+    excerpt: "The United States Army has detailed the development of a new dialogue system that enables humans and robots to hold conversations. The new systems enable ‘fluid communication’ between"
+    publishedDateTime: 2020-08-01T13:00:00Z
+    webUrl: "https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/"
+    ampWebUrl: "https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/08/us_army_AI_robots_main.jpg"
+        width: 1440
+        height: 828
+        isCached: true
   - title: "Cabify Teams Up with Nuance to Deploy Conversational AI that Supercharges Digital Experience for Riders and Drivers"
     excerpt: "Cabify has leveraged Nuance’s expertise to deploy ‘ABI’, its own virtual assistant, to manage customer requests and questions in several languages – ensuring human agents"
     publishedDateTime: 2020-07-29T11:00:00Z

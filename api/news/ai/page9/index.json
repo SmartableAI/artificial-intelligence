@@ -2,6 +2,47 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-22-software-capabilities-for-self-driving-cars.md",
+      "title": "Software Capabilities for Self-Driving Cars",
+      "excerpt": "Self-driving (autonomous) cars have already hit the road. The software capability of these cars, especially those that regulate automated braking or lane departure warning systems, must continuously meet high quality. \"Autonomous vehicles would have to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1493238792000-8113da705763?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+          "width": 1050,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars/amp",
+      "publishedDateTime": "2020-07-21T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-fca-waymo-team-up-on-level-4-self-driving-commercial-vehicles.md",
       "title": "FCA, Waymo team up on Level 4 self-driving commercial vehicles",
       "excerpt": "Google's experts will work on autonomous commercial vehicles exclusively with Fiat Chrysler. FCA will also use Waymo self-driving tech across its brands.",
@@ -755,6 +796,46 @@
       ]
     },
     {
+      "path": "_news/2020-07-21-ex-google-ceo-eric-schmidt-is-working-to-launch-a-university-that-would-rival-stanford-and-mit-and-funnel-tech-workers-into-government-work.md",
+      "title": "Ex-Google CEO Eric Schmidt is working to launch a university that would rival Stanford and MIT and funnel tech workers into government work",
+      "excerpt": "Dubbed the US Digital Service Academy, it would offer degrees and coursework for digital skills like cybersecurity and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/ericschmidt?ref_src=twsrc^google|twcamp^serp|twgr^author",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use.md",
       "title": "Chip Industry Sees Danger of AI in Explosion of Electricity Use",
       "excerpt": "The increasing use of artificial intelligence is going to extract a heavy price in power unless the chip industry steps up and heads that off, according to one of the industry’s biggest companies.",
@@ -1264,97 +1345,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos.md",
-      "title": "Immervision uses AI for better wide-angle smartphone videos and photos",
-      "excerpt": "Immervision announced new real-time video distortion correction software to help create professional quality videos on smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/immervision-Montage_Telephone-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
-      "publishedDateTime": "2020-07-21T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-machine-learning-artificial-intelligence-market-next-big-thing-major-giants-aibrain-amazon-anki-cloudminds.md",
-      "title": "Machine Learning Artificial intelligence Market Next Big Thing | Major Giants AIBrain, Amazon, Anki, CloudMinds",
-      "excerpt": "A New business Strategy report released by HTF MI with title Global Machine Learning Artificial intelligence Market Study Forecast till 2026 This Global Machine Learning Artificial intelligence market report brings data for the estimated year 2020 and forecasted till 2026",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T721816721_g.jpg",
-          "width": 539,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
-      "publishedDateTime": "2020-07-21T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

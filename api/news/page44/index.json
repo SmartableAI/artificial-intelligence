@@ -2,6 +2,105 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-06-28-amazon-acquires-self-driving-car-startup-zoox.md",
+      "title": "Amazon Acquires Self-Driving Car Startup Zoox",
+      "excerpt": "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg",
+          "width": 940,
+          "height": 529,
+          "title": "Amazon Acquires Self-Driving Car Startup Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
+      "publishedDateTime": "2020-06-28T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-28-after-this-covid-winter-comes-an-ai-spring.md",
+      "title": "After this COVID winter comes an AI spring",
+      "excerpt": "The next economic recovery will both be driven by artificial intelligence and accelerate its adoption. This is the time to start an AI-first enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": "After this COVID winter comes an AI spring",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
+      "publishedDateTime": "2020-06-28T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-28-the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers.md",
       "title": "The Next Wave Of AI Disruption: Millennial And Generation Z Entrepreneurial Pioneers",
       "excerpt": "With perspectives and passions, Millennial and Generation Z entrepreneurs are at the forefront of AI innovation. They are unlocking new ways to do even the mundane tasks and will forever change how we work and look at the world.",
@@ -1039,106 +1138,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software.md",
-      "title": "Congress proposes ban on government use of facial recognition software",
-      "excerpt": "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/26/7c55ee40-db2b-451e-81be-dcf139a52efd/resize/1200x/deba963ae5747533086f986458e1d090/facial-recognition-software-image.jpg",
-          "width": 1200,
-          "height": 831,
-          "title": "Congress proposes ban on government use of facial recognition software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
-      "publishedDateTime": "2020-06-26T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers.md",
-      "title": "Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers",
-      "excerpt": "Sightbit is deploying \"AI lifeguards\" at beaches to spot rip currents and swimmers in distress, starting with a pilot at a beach in its native Israel.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/1.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/amp/",
-      "publishedDateTime": "2020-06-26T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

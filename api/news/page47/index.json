@@ -2,6 +2,97 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
+      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous/volvo-cars-waymo-partner-to-build-self-driving-vehicles-idUSKBN23W2V0",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23W2V0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23W2V0",
+      "publishedDateTime": "2020-06-25T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-ai-is-vital-to-cybersecurity-during-covid-19-dont-underestimate-risks.md",
+      "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+      "excerpt": "The importance of cybersecurity during COVID-19 is not to be underestimated. AI, or artificial intelligence, plays a key role in this issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/06/shutterstock_619615334.jpg",
+          "width": 1000,
+          "height": 714,
+          "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "publishedDateTime": "2020-06-25T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-cambricon-once-huaweis-core-ai-chip-supplier-eyes-400m-ipo.md",
       "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
       "excerpt": "One of China’s most valuable artificial intelligence chipmakers, Cambricon, is one step closer to its initial public offering, and its prospectus reveals a rare snapshot of where Chinese companies stand in relation to their international counterparts in this critical field.",
@@ -1052,107 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-if-done-right-ai-could-make-policing-fairer.md",
-      "title": "If Done Right, AI Could Make Policing Fairer",
-      "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef419aeaf3d0a069fd1d59d/master/pass/business_policing_1175954210.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "If Done Right, AI Could Make Policing Fairer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "publishedDateTime": "2020-06-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr.md",
-      "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
-      "excerpt": "The global GPU Market size is expected to reach USD 103.60 billion by 2026, at a significant growth rate of 30 % during the forecasted period from 2020 to 2026. The market report provides an analysis of the global GPU Market for the period 2015-2026,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr-2020-06-25",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

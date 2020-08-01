@@ -110,6 +110,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade"
+    excerpt: "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years."
+    publishedDateTime: 2020-08-01T13:00:00Z
+    webUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/"
+    ampWebUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 96
+    images:
+      - url: "https://media.wired.com/photos/5f2458585fa1be63d9469833/master/pass/Security_riteaid_h_15252547.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "U.S. studies new facial recognition tech built with masked faces in mind"
     excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
     publishedDateTime: 2020-07-28T13:58:00Z

@@ -39,7 +39,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/business_military_535764174-760x380.jpg"
         width: 760

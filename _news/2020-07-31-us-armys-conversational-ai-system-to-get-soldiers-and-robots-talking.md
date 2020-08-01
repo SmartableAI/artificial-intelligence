@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "US Army’s latest AI system lets humans and robots have conversations"
+    excerpt: "The United States Army has detailed the development of a new dialogue system that enables humans and robots to hold conversations. The new systems enable ‘fluid communication’ between"
+    publishedDateTime: 2020-08-01T13:00:00Z
+    webUrl: "https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/"
+    ampWebUrl: "https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/08/us_army_AI_robots_main.jpg"
+        width: 1440
+        height: 828
+        isCached: true
   - title: "Conversational AI eases soldier-robot teaming"
     excerpt: "The Army Research Laboratory is working on bi-directional conversational technology that will make it easier for soldiers to team with autonomous systems."
     publishedDateTime: 2020-07-29T21:02:00Z

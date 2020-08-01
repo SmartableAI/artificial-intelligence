@@ -2,6 +2,106 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-06-22-use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19.md",
+      "title": "Use AI responsibly to uplift historically disenfranchised people during COVID-19",
+      "excerpt": "In the rush to “help now,” we cannot throw responsible AI out the window. In fact, in the age of COVID-19 is more important than ever before to understand the unintended consequences and long term effects of the AI systems we create.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211620809.jpg?w=1024",
+          "width": 1024,
+          "height": 647,
+          "title": "Use AI responsibly to uplift historically disenfranchised people during COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/",
+      "publishedDateTime": "2020-06-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-azure-iot-business.md",
+      "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
+      "excerpt": "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
+      "publishedDateTime": "2020-06-22T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-the-impact-of-artificial-intelligence-on-influencer-marketing.md",
       "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
       "excerpt": "Not long before, New York-based influencer marketing agency Amra & Elma had developed a platform that ingested data from Instagram, and allowed its client to use AI image classifiers to find very specific influencers.",
@@ -1306,105 +1406,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era.md",
-      "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-      "excerpt": "Robots are changing the way the travel industry approaches cleaning as it grapples with how to restore confidence amid the Coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb8cacda69980007712aa2%2F0x0.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "publishedDateTime": "2020-06-21T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits.md",
-      "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
-      "excerpt": "Join leading AI executives: Register for the free livestream. That means all the rules you think you know about building a tech startup have been completely flipped. Which is ultimately a good ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/brainstorm.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
-      "publishedDateTime": "2020-06-21T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -109,6 +109,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.scmp.com/tech/gear/article/3095308/chinese-ar-start-rokid-eyes-industrial-applications-after-success</loc>
+    <lastmod>2020-07-30T15:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/</loc>
     <lastmod>2020-07-30T14:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -679,7 +685,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=8&amp;itm_content=1x6&amp;itm_term=2361344</loc>
+    <loc>https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/</loc>
     <lastmod>2020-07-27T07:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1551,6 +1557,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/</loc>
     <lastmod>2020-07-21T10:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mobile.twitter.com/ericschmidt?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor</loc>
+    <lastmod>2020-07-21T10:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

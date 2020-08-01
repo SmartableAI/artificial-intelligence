@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Rite Aid used facial recognition in hundreds of stores for years"
-excerpt: "Rite Aid used facial recognition systems in hundreds of its drugstores across the US over the last several years. According to a Reuters investigation, the technology was deployed in “largely lower-income,"
-publishedDateTime: 2020-07-28T18:51:00Z
-webUrl: "https://www.engadget.com/rite-aid-facial-recognition-reuters-183343353.html"
-ampWebUrl: "https://www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
+title: "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade"
+excerpt: "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years."
+publishedDateTime: 2020-08-01T13:00:00Z
+webUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/"
+ampWebUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
 type: article
-quality: 104
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: Wired
+  domain: wired.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fa12d9400-d102-11ea-bfff-7e127c0f1c8e&client=amp-blogside-v2&signature=bf9cd9495ada5659af3ce77c89c15cef4d3f7e25"
-    width: 600
-    height: 350
+  - url: "https://media.wired.com/photos/5f2458585fa1be63d9469833/master/pass/Security_riteaid_h_15252547.jpg"
+    width: 2400
+    height: 1600
     isCached: true
 
 related:
@@ -45,6 +45,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527392330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0S8"
         width: 817
         height: 545
+        isCached: true
+  - title: "Rite Aid used facial recognition in hundreds of stores for years"
+    excerpt: "Rite Aid used facial recognition systems in hundreds of its drugstores across the US over the last several years. According to a Reuters investigation, the technology was deployed in “largely lower-income,"
+    publishedDateTime: 2020-07-28T18:51:00Z
+    webUrl: "https://www.engadget.com/rite-aid-facial-recognition-reuters-183343353.html"
+    ampWebUrl: "https://www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fa12d9400-d102-11ea-bfff-7e127c0f1c8e&client=amp-blogside-v2&signature=bf9cd9495ada5659af3ce77c89c15cef4d3f7e25"
+        width: 600
+        height: 350
         isCached: true
   - title: "Rite Aid used facial recognition in secret across hundreds of its stores"
     excerpt: "Drugstore chain Rite Aid secretly deployed facial recognition software across a network of security cameras in hundreds of locations in the US, according to a new investigation from Reuters published on Tuesday."
@@ -93,22 +109,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade"
-    excerpt: "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years."
-    publishedDateTime: 2020-08-01T13:00:00Z
-    webUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/"
-    ampWebUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 96
-    images:
-      - url: "https://media.wired.com/photos/5f2458585fa1be63d9469833/master/pass/Security_riteaid_h_15252547.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "How Reuters investigated Rite Aid’s facial recognition systems across hundreds of stores in the U.S."
     excerpt: "Reuters this week published an investigation into how Rite Aid quietly added facial recognition systems across 200 stores in the United States over the last eight years. The Reuters year-long investigation,"
@@ -429,6 +429,6 @@ related:
       domain: bizjournals.com
     quality: 31
 
-secured: "APxKcT6Mpeo2bOKEUtUm2TtOeFuGFo8UNYq8s992qU8zX6y2uyDzOAU/Sr/7Cl7SwLUsdYaYAmXsWaLG/PDiHfIo0fhi69+pC4fos+XbcQO5bdgtZzYXBhxwDIzgvrIiEb3Mmj8elxw5VTSlksiWQvrfOEG78h8xZyt3YOdRLH/UgrgpH4Ci4wRL2/O0hppbAK0bi/iElJmKTaz3CBhv9Hryeye9AeqAuG7bKJ+hambGc6K5TGr8CZScpSjw+YjbYpwizMcveL91fY2fcNrnu2ygBxSN4kR0wzWI11epFNqCyB58UA1aSqBARajdAxNThCPrQrb2JUnoT3wUO09SWX4roQyPAsnE2CBj6t5qtiRmsSyVcAMu4fI875zZLoIreO/HfR/TgkQ/085mfa/TamUmKxqdPA+vuavkvks0FYGvRWJKI4w2sJc6gTiOYi5Y6W05fn5RxXfoKVxZK0sVw08FRhpqzB4g8tZR5q+A0I7Upn/55jvYoAKtE7iY57yWL+ruzmjv134ZdeaNVNIDWg==;IMxZQG+qgLF7NbdeiH5UxQ=="
+secured: "vYJBYknSNRQmJzfSZal9SkyptKO8/+17IWumhEJwnhPckwUlSFjNqJVjRFh7phjdX8v6QJUpF8AojiU5xMAIRTfTTUmXdvc5zHJn3mf4EiyWfHCBDAxaAP4dvpjkiR2+Qrz1FsbDQ7GSo1H81J8gt0iwUXYAJsbxWnGo+ufO1lzpkGbDF/HzVAuTW2ufUgqHOaJF8nLa9XqTuxtIXmA2PM0kUmR44HxM+e4IkzZm/TWGjK2EivO5FzO0lZuvx+EufZyIZ8ktpQDVnohxPYjhuC0z2oXXeWsEd/A8gicw84eL8d6WTqrTycOzNVksVW6ZTjBWp49asTC2hpmMV20YXQ==;2QbQqZPQ/wYKWXYRPiHrrQ=="
 ---
 

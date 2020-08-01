@@ -5,7 +5,7 @@ excerpt: "Hurd (R-Tex.) and Kelly (D-Ill.) offered suggestions to prevent the US
 publishedDateTime: 2020-08-01T10:16:00Z
 webUrl: "https://arstechnica.com/tech-policy/2020/08/whats-this-a-bipartisan-plan-for-ai-and-national-security/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/business_military_535764174-760x380.jpg"
