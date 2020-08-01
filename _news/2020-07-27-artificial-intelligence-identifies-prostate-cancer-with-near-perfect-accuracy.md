@@ -41,20 +41,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Artificial intelligence model trained to identify birds in new images"
-    excerpt: "For the first time, researchers have developed an AI model that is able to identify individual small. Identifying individual animals in animal behaviour studies is an important step to answering many questions in evolutionary biology."
-    publishedDateTime: 2020-07-27T11:20:00Z
-    webUrl: "https://www.computing.co.uk/news/4018265/ai-model-identify-birds"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 52
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/7be45f3/f470d7ef-6800-4fcc-bab3-b282f392de30/4/bird-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Artificial Intelligence to identify individual birds of same species"
     excerpt: "CNRS. (2020, July 27). Artificial Intelligence to identify individual birds of same species. ScienceDaily. Retrieved July 27, 2020 from www.sciencedaily.com/releases/2020/07/200727114745.htm CNRS. \"Artificial Intelligence to identify individual birds of ..."
     publishedDateTime: 2020-07-27T19:29:00Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Increase in AI intensity by 1 unit can lead to 2.5% increase in GDP: ICRIER"
-    excerpt: "The economic effects of AI also include indirect effects on productivity, the Indian Council for Research on International Economic Relations (ICRIER) said in the report titled 'Implications of AI on the Indian Economy'."
-    publishedDateTime: 2020-07-27T11:17:00Z
-    webUrl: "https://www.moneycontrol.com/news/india/increase-in-ai-intensity-by-1-unit-can-lead-to-2-5-increase-in-gdp-icrier-5604921.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/india/increase-in-ai-intensity-by-1-unit-can-lead-to-2-5-increase-in-gdp-icrier-5604921.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/increase-in-ai-intensity-by-1-unit-can-lead-to-2-5-increase-in-gdp-icrier-5604921.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 55
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
 
 secured: "2LBhVlT1kqxv4V0KteIaA5b9nSl/3s8AOJbU3at6BOsQQ0Qd+39J87hxRPWazRRNVMcJX8749OilFL3U6vlcDfmmFWwkoIaOtDSIILwm7yVA+bW816vy8penDu2vgaAsd5rUJG3Au6s51xsan1V2/v9Wd94eAJBKteeFNIkdutwGyDWOhDi8RQyQld5x+kkMQM1DrULJxin/sPjDi1BYlN43K1IRdhqVLedw3qv8qjB8r1mKWLYHFnT4R3mqHdLMFWSBt/Qeoo3K9/cd09pg3HAgXAJK2oGtCtmsp00CQhvSVh7f/lQFHim7Cd1DWra1p0M2scXeJlwyyLuNqgNoNQ==;vnFidP5KluIUktgTc4Y1KA=="
 ---

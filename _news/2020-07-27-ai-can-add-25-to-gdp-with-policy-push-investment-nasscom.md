@@ -8,8 +8,8 @@ ampWebUrl: "https://m.businesstoday.in/lite/story/ai-can-add-25-to-gdp-with-poli
 cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ai-can-add-25-to-gdp-with-policy-push-investment-nasscom/1/411198.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Today
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Increase in AI intensity by 1 unit can lead to 2.5% increase in GDP: ICRIER"
-    excerpt: "The economic effects of AI also include indirect effects on productivity, the Indian Council for Research on International Economic Relations (ICRIER) said in the report titled 'Implications of AI on the Indian Economy'."
-    publishedDateTime: 2020-07-27T11:17:00Z
-    webUrl: "https://www.moneycontrol.com/news/india/increase-in-ai-intensity-by-1-unit-can-lead-to-2-5-increase-in-gdp-icrier-5604921.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/india/increase-in-ai-intensity-by-1-unit-can-lead-to-2-5-increase-in-gdp-icrier-5604921.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/increase-in-ai-intensity-by-1-unit-can-lead-to-2-5-increase-in-gdp-icrier-5604921.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 55
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "Increase in AI intensity by 1 unit can lead to 2.5 pc increase in GDP: ICRIER"
     excerpt: "Niti Aayog CEO Amitabh Kant, while releasing the report, said India is in the midst of a once-in-a-generation disruption driven by AI."
     publishedDateTime: 2020-07-27T13:30:00Z

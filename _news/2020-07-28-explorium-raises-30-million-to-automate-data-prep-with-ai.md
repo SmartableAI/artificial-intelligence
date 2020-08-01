@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-au
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/"
 type: article
 quality: 191
-heat: 211
+heat: 221
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 86
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/07/146b3f7d-5b70-434d-b6bd-d21f8fa3db27-e1595615072117.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The AI Foundation raises $17 million to create digital AI-powered personas"
+    excerpt: "The AI Foundation, a startup developing technology that powers digital personas, has raised $17 million in venture capital."
+    publishedDateTime: 2020-07-30T12:00:00Z
+    webUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/"
+    ampWebUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/106280242-1575548423323digitaldeepak-e1596118510259.jpeg?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true

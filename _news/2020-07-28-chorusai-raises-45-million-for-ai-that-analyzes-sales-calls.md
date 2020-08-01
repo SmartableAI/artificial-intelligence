@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The AI Foundation raises $17 million to create digital AI-powered personas"
+    excerpt: "The AI Foundation, a startup developing technology that powers digital personas, has raised $17 million in venture capital."
+    publishedDateTime: 2020-07-30T12:00:00Z
+    webUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/"
+    ampWebUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/106280242-1575548423323digitaldeepak-e1596118510259.jpeg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "r5FaZsZL9NPCJNq6PRvtEOwXpIsAFt1VisW3wwmSkTEIN6F+UTVmHaSC6VR37Ki3X7Cf4yQJ9RkFZkzOkqxx8Jlu3+StZfEc5YxkG5sZjpVKeu+HkuGn0XgTqohSSiyxtmAOpTibr1X3R7jg5V52JMWckGKnRXSTaZB/MohQ/cI96hpmaf9QkVndkL0j2dGKKZv3XaEbjzAchjYAHsTGG3a6J2Ph1z/NZFadrZY9OODZf0GuwT/udJJTNnxXIWy9J0MeCdxaQqb/RMTsKzXU5k1d7Z685Iwk5x/B7VyjyK6775Zxo6yvVpa70LeKkVDYfHRxXP7+9cK7W+vMo7YMtxzSs7pl5qu4/UsO6dJr/ruIl+UYKQ8LKsOFjW1n9ASTPSJhJaEVarzhm73lWidYAEmUhfYK/3Fk3XeYhPDgPlcX5Eqg7a89rlmdUo3ogQbibFCQ9xzhanU4UnrG/Sq3TRmO2bm1nnKSMb+KMp4k2AreN1VII2cxmLMCW6UZmTHbGaUPhLhfFA22if7QdgsEB5AqS1qRQ1czs0fhiuLW1bI=;pwDsIR/NA3w0i4E6SKoh9A=="
 ---
