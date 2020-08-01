@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Fraud Detector"
-excerpt: "Today, Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly ..."
-publishedDateTime: 2020-07-28T18:07:00Z
-webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-fraud-detector/article_812d53b8-cce9-5ada-b0a2-07713b916b93.html"
+excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
+publishedDateTime: 2020-07-28T17:28:00Z
+webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "AWS adds new Amazon Fraud Detector to fight fraud"
@@ -63,6 +69,6 @@ related:
         height: 430
         isCached: true
 
-secured: "nK50byuzkcQYP1WtSy6SIgc7Lf+sWe9S2fzAM9ueK4aVUwFj2G0iLs1PFX9cNCWvS2bUYMWiRAhYiYmY43DWfYQNhg9AL+Eaa++DW2/STuAKVEBSUnXkug1KaO2QG+VckU5n1gNeDglYEgnkDHEfshJ50WUBUUB0obJq3vzrPsRqwd5+8UJkOjLcvPZUHLZ/5EWqwElosAmrKQt+Sbs1YNFtBCvbLRIniUDYXYygfO1o8UpB8p0oRyirjMIHF8pEZWZ9aE7Qy5Ak+eNXbX2VU0RebhPLk51TN/YU7TUs5lzDjMWjf6x9FFYV+IC8LpqrZnf11H6H00BLCdpOHDuwvA==;3YznzvygfBIuYOto+V9sGQ=="
+secured: "8wFF5YeoNtYSkliUV9NUak9efFQrnDI8LtLWJN4JRk2UWxoMPoeyv/M9ZnG9+xFlWuFItrOHlUmmpOU8Wyl8Y8WNkE68lZu26269rPIBr25BTwaMI5XO41m47EbYsw8P9xS0HiidB1eECDbzTHFi4NmTian6kq9oHEyjfwc4uBsJ1o8t9X0hQzcXQtOOqTYyN79hgjxr1GyOeWLl5CoA94wbsh/9HFZGJcdlWHsGKKHC+aulgbaEYFlSzXrQBmz+unIS65Asjzt1agmRpebF6QURJ7YvuxYYv+Fy4EHnEdTAFS0LCUjt/O9bEF8dQzac6/pp+qqI4P2BvyLA6X1mDw==;z49eC9FRuT6wZWRRqOGjAg=="
 ---
 

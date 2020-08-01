@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer"
-excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have ..."
-publishedDateTime: 2020-07-27T12:21:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275"
+excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have access to a variety of offerings, including a series of ..."
+publishedDateTime: 2020-07-27T12:08:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "zp6RFUGUK+MyXTKXYG+hcbByyTOz4VW0dGMXRRpNhQv682fuTd8j8xmZZqbzbvkvfOanVXp6VRz1B5sOSSe2DLTf2PcweT7JXSQbeORe0XM4RdA9cqJ/QW95JbG038Kd8z1SKJCc4y6rOAm1Zk9e67XAVXwG02ozldFbnsrYdy3Qaf1TVeWdu6MlSvAzQ3p1ceyCqis8k6K4By2dlNLJV8NQtOgt/0mHChGgmYj8sSEn2Bo+QGyo2ztRWhUhZ1xOrz1tw03vUMgK+HKqPpLublBxfehiF8egaGyBh5NRdaoOmagY1foxWdg1jKQqiLHu6RYsazuUNLVETCep922zFg==;Xyuihz+fhlDfw2WLp5HXUg=="
+secured: "iqUd4CdKTjmti+TmBJ7cNaDz7lwHx9si4hrUtqtm+qlTfPDSX1mFYTnGW55lqVopr0lwle8vFWW2IBCFgAFKG9CTI89ezOkkJAf2iITvvyukdXZnZI8PDPFKG0CsTdJjF0N04+yTtsS7nqxkW/XhcoLijMKEYK8d8sXe02gda2NSHO1NkdCbvysq4ti0gSkXOuDn65bbMYdpGUEtZPuma1ClNQDpSDbYnmbY9Oqcih49j+/zPJTadOedqlrxDnX8Q32ZUbed68vOox7Vn3TzhnCkajv42kE/sAOv+wLIrQV6O2vwyVzSuSKJ0W9Tko453irmeGCnqYZdpjDFGN/zOQ==;lo+ll9z4KAa4WghsZX3BuA=="
 ---
 

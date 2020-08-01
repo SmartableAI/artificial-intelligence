@@ -3,17 +3,17 @@ category: news
 title: "Face masks are messing up facial recognition software"
 excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
 publishedDateTime: 2020-07-29T17:35:00Z
-webUrl: "https://www.wcvb.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-ampWebUrl: "https://www.wcvb.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WCVB Channel 5 Boston
-  domain: wcvb.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - Computer Vision
@@ -98,6 +98,6 @@ related:
       domain: wfmz.com
     quality: 19
 
-secured: "i5hV5gP11q/titzkP6xZEou4psbis8XaEsDPGikj8kP/caSADuv28z4jgczsAKpzkGU+jbpONnuddi6+UfU2CViqXUcVi8j0Qw47V9KxBq0VpF3R/b7GLb0tAU5izqUrXpEDGaloitIpQ8ox/9dcg5Z5nMt470KLGRpRAA/gZwfSeGrIKOK0V081MvtrjiH5yoBwSxntr8ablHwU80jdC2yrKgviQeZxgA3cabf0yqvayll7uvI5c638mozwLH7zi0xxtFBkVFNcJOGnigKQ6SR5PAI9kySPAcNpvomyt2g/h7ek4FZiVUcnVw4/8X+lVHVFAKMYqYSKXuk0YKlE7E3d/9CLaXrl0KPcDbbINxxF8Mm6SoI+XQfY0P114M3yCg4Zu8DLKV3V3YcrI20p114buPZzGh9xSzZrG7HfvJnmI/aHDTzhzu+tB21Fzs8dESWCYge7Ms0qKAowTlxY33lrEEOJOcUUc7/VnMwarFlz2m00LTfKY03FPLP7wcl1+D1O2mLU4VmVpwmK4NVYYQ==;PVEoalZ+Za/flrwzVJH1yA=="
+secured: "YHPzSJ1dW151UiNxMqdxFBX40neNq7OmaQAuaQuRjVTJjzWfc3tPn/52R7XGlh4ivnQUhx56XikM50EejNll4ZN126eSmY25Ur/7NPQSoGik78HjgIApaSRghF1OuukO9qW+phPfIN85WeE1ZuuNQbsDw2RxyzJAs3ktvEu8TD1eYGj8bPNrhdeQsiqo6N4Q9ETLJR+hi24Ny1FpE+qZ27agrDqPjSqcifHO0HhW3V6RzRSvYQ4VndpC30Do5hnZryBNpKF3x2Ksn/wrHvoorzL7YymSN3Gi/ZWpY4dCiok+UHOlLa30YnfDmPsnAhR6bg0/UUGEetKIZ2SvQwgD4g==;5fUyy6Bop0diZDpo967rnA=="
 ---
 

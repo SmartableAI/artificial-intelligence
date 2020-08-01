@@ -1,28 +1,23 @@
 ---
 category: news
 title: "Janggu makes deep learning a breeze"
-excerpt: "Researchers from the MDC have developed a new tool that makes it easier to maximize the power of deep learning for studying genomics. They describe the new approach, Janggu, in the journal Nature Communications."
-publishedDateTime: 2020-07-13T09:04:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-07/mdcf-jmd070920.php"
+excerpt: "Researchers have developed a new tool that makes it easier to maximize the power of deep learning for studying genomics. Imagine that before you could make dinner, you first had to rebuild the ..."
+publishedDateTime: 2020-07-13T16:29:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/07/200713104357.htm"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/237067_web.jpg"
-    width: 1440
-    height: 960
-    isCached: true
-
-secured: "U2hM/ccOM1u2Iymzx9vDFwfXNUKbNEAM7cgBeksXx1CgEIdToNvWxjta25vC4DHsbYQ4cDYOTrrHP1jqgZlA5bnVmJLKI2nQANC8o8ApsOJaKOBLcPGozMs8WtwZMDSbpvZ56MSmXYUYnW/YrZhmiBHwM2zlAWxpIMj41OleflSQ97baNDheG/kNt8LN5oZHK5IeBjTBU292lNzfHFSg1mLnoOjgniuf52Xc1+kyYyKmlASfpfc3gDjaVCTFDImtXWcQV0kaMKRFJQx06AUdk7EFN8/tXZCJr1hCvVLxTjJc1stk0QrRi8iLjqNQdun3GfL0nj0/u8CLBpMCYakrLxqCkV3sQw1R+wpbIgERj29vhNiZ9QBXskV3qNGvULNQ0Dqfl/FklQCyXRwIu40YGz32yIa3qeI2AOsN523E9McIbRxFQv+0efazP6pDOMf33E9sVeT48C1Zr9v1r6f97dpE6GeguvrtS35x2P0flUog3M8t1gOjAa24FU7oaehbgbY2xIhmlxpoIYJ5bIYi7g==;dDVMaGcB3TM2cPu8r4S3YA=="
+secured: "2u9eGgA4rTMTFwO8F+IiRPV4j8mzZoxL6+tx8VOAPP6CYO2WzaWXvbPr8z/9JjEcw6TKT0xrA/pgyrQsfNstAHt6j1AKgVIHkhXgJVMHkZig8NO8Xnmy379zrvQSwrKmrU/bH4/a7i3u78DnpqdG9hVcowMHeEgoSYa7MJ399VkNPar0vK/qASSlQwLUyHfvxUqLNbHf+RO9MtJo57VhZ/6NWS6l3KegtYWVsAZbIS8vwANJ8w7+5k/z7yW8cn5E4LcVPp/cwB8S4GMo24J4MP0zifFlUDS7Pcgb0MCgTU/6xt9HyxxqW8AO8NufIWhc4jrc6vFnPLdrF9pMYRqi+g==;9zi6yHSLu5Rntyl3yxt0tg=="
 ---
 

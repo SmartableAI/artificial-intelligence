@@ -67,6 +67,20 @@ related:
         width: 1000
         height: 660
         isCached: true
+  - title: "Using artificial intelligence to smell the roses"
+    excerpt: "A pair of researchers at the University of California, Riverside, has used machine learning to understand what a chemical smells like -- a research breakthrough with potential applications in the food flavor and fragrance industries."
+    publishedDateTime: 2020-08-01T20:14:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--uai072820.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/238750_web.jpg"
+        width: 1440
+        height: 1608
+        isCached: true
 
 secured: "W/kUfL4QRveP1bfzOU9BCSm2Hf+4hYgEOoxwHYundRr5k1XFILsHE/5TW/8MGLqYNSAfNCkBCT74oP008nAJWYDJeNY1OFzj+kPfThzA5xgGUq8J+KKSGQ29NRmArgAf0rCD8j+2f/bxbgFn5RASNU8oA0dJ0By8bTgOwX43SJeO3Of49N5cqOBZWEmq2rU7LpXrDDYXlXDl3+sKcMZx2PUhDyxEUAQskXer1crkSESSRK2QVHfsTPi1ZhD0IWYZzjn/T3kpa54Tiv9Y58uXtLxZhV/AVp4ta1+5W/zWR7JjNGQY/dsdr3e5FrzwALQ2H1ePXKiU3ie8kzlDOEm/hQ==;c4Jzmb8YI5RkI0HZuP230g=="
 ---

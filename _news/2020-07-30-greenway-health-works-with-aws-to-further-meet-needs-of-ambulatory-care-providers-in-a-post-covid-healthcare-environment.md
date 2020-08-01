@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-30T00:00:00Z
 webUrl: "https://www.medindia.net/health-press-release/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment--479970-1.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Greenway Health Taps AWS to Develop Cloud-Based, Data Services Platform"
+    excerpt: "Greenway Insights will leverage AWS cloud services, giving Greenway engineering teams direct access to a robust set of data analytics and machine learning capabilities, such as Amazon SageMaker ..."
+    publishedDateTime: 2020-07-30T21:52:00Z
+    webUrl: "https://hitconsultant.net/2020/07/30/greenway-health-aws-to-develop-cloud-based-data-services-platform/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 39
+    images:
+      - url: "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2019/11/AWS-Data-Exchange-Deloitte.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "hEWTnxw6nGxksDScOhPRLY9ThqRWetMhOXURZYaRYH5IRy5srUnXHtSz58658z8fM3goFC2+dnoUCTKUa05WAbOnn4hRZxjoNbR3ua+EcoqSfTVMoPwHkBbRqaB/zHbwoIahUOH5pFdSFNq1pE63JZRG9qrSpGgKmO0r7wYeZH/t1kVAeJWO0nXxFgbHbrICjQc4DnaEtAe31a/45gtEXBJfae19Nx4Bjz12Cs9CoOku38bTTxwYZR9V0zxjztv4wcxw6FA8FRcjq6pR+kkERhRWMI/ueK9x6CJLKC5osc7WxWfryyOBtqRBjhde0rB1J/JIX1ft/e0ml1ZSXm4SHw==;CkcII1GllUcB9xvShrpneg=="
 ---
