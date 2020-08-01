@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-28-this-ai-will-turn-your-ugly-face-into-a-cute-cartoon.md",
+      "title": "This AI will turn your ugly face into a cute cartoon",
+      "excerpt": "thanks to new AI tool that turns images and videos into cartoons. Mahajan and Pandkar used their open-source implementation to create a publicly-available demo of the system, using GPU (Graphics ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T191306.193-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
+      "publishedDateTime": "2020-07-28T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-rsquared-debuts-ai-powered-workforce-intelligence-platform.md",
       "title": "RSquared Debuts AI-Powered Workforce Intelligence Platform",
       "excerpt": "July 28, 2020 - RSquared, an artificial intelligence (AI) startup based in Menlo Park, California, announces the general availability of its flagship product in the emerging workforce intelligence platform market.",
@@ -679,7 +729,7 @@
       "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 234,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1142,56 +1192,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-most-scared-of-googles-deepmind-ai-project.md",
-      "title": "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project",
-      "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said he was most worried about Google's AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
-      "publishedDateTime": "2020-07-27T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

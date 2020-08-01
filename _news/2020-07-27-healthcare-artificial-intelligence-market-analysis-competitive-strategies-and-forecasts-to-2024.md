@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T11:18:00Z
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-analysis-competitive-strategies-and-forecasts-to-2024-2020-07-27"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -26,19 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
-    excerpt: "This report also researches and evaluates the impact of Covid-19 outbreak on the Medical Imaging Artificial Intelligence industry, involving potential opportunity and challenges, drivers and risks. We present the impact assessment of Covid-19 effects on ..."
-    publishedDateTime: 2020-07-27T07:26:00Z
-    webUrl: "https://www.openpr.com/news/2097049/global-medical-imaging-artificial-intelligence-market-2020"
-    ampWebUrl: "https://www.openpr.com/amp/2097049/global-medical-imaging-artificial-intelligence-market-2020"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2097049/global-medical-imaging-artificial-intelligence-market-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
 
 secured: "0sKJLTDwcw8OAAnrGq/BjUsCCRr9mnM/p307uyYrib3vD7BB8f7aI8ajLeR/+tAkcrJlxGijM0XWOipUaO1VpYITnqBXa6szXMPTlJ5+ETIRc9dMS2KNH2m7Eew5gBQEWSRbZZqn7d+zFZKIVYFrqJ2qcDcyXWId1wLZ/Mr1MqmCtGElttDUiUqyKIchrB1lj3p5TFaDsTZu3/zKelESQsb+xVB7FpCcSsf7weYAZeSoYlIa1NxL1HTRBO/Rd3WvjKthSfqJCav4voo8kYtPce96XOk3EthsijNkDB0qFx2PspIpFuMvk3Hb1YH7TX6dJRMRaPgJiwgj5i8OEssfQw==;QOTcjKqjX25nHAHt8a4otg=="
 ---

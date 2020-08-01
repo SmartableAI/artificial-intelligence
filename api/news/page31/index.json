@@ -2,6 +2,56 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-07-08-royal-marsden-powers-virtual-covid-19-agent-with-ibm-watson.md",
+      "title": "Royal Marsden powers virtual COVID-19 agent with IBM Watson",
+      "excerpt": "The Royal Marsden NHS Foundation Trust has partnered with IBM to launch an AI-powered virtual agent that will provide staff with up-to-date HR and workplace information as the UK emerges from lockdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815037/itpro/watson.jpg",
+          "width": 550,
+          "height": 326,
+          "title": "Royal Marsden powers virtual COVID-19 agent with IBM Watson",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp",
+      "publishedDateTime": "2020-07-08T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-4-self-driving-car-stocks-to-buy-for-the-long-haul.md",
       "title": "4 Self-Driving Car Stocks to Buy For the Long Haul",
       "excerpt": "Within the automobile sector, one of the high-growth segments in the coming years will be self-driving car stocks. Estimates suggest that between 2021 and 2030, the self-driving cars market is ...",
@@ -1075,56 +1125,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-this-machine-learning-focused-vc-firm-just-added-a-third-woman-investment-partner.md",
-      "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
-      "excerpt": "Basis Set Ventures isn't a typical VC firm with a focus on AI and three women investment partners, including new hire Sheila Vashee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f04a3f0385b8d0006ef80ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D712%26cropY1%3D0%26cropY2%3D400",
-          "width": 712,
-          "height": 401,
-          "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
-      "publishedDateTime": "2020-07-07T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

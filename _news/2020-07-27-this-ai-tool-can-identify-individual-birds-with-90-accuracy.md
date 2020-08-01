@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-i
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers build first AI tool capable of identifying individual birds"
-    excerpt: "New research demonstrates for the first time that artificial intelligence (AI) can be used to train computers to recognize individual birds, a task humans are unable to do. The research is published in the British Ecological Society journal Methods in Ecology and Evolution."
-    publishedDateTime: 2020-07-27T07:18:00Z
-    webUrl: "https://phys.org/news/2020-07-ai-tool-capable-individual-birds.html"
-    ampWebUrl: "https://phys.org/news/2020-07-ai-tool-capable-individual-birds.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-ai-tool-capable-individual-birds.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/7-researchersb.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "Artificial intelligence identifies prostate cancer with near-perfect accuracy"
     excerpt: "A study published today in The Lancet Digital Health by UPMC and University of Pittsburgh researchers demonstrates the highest accuracy to date in recognizing and characterizing prostate cancer ..."
     publishedDateTime: 2020-07-27T22:30:00Z

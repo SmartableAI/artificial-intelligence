@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
 type: article
 quality: 103
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Documentary exposes the threat of facial recognition surveillance system in Serbia"
-    excerpt: "This project involves the installation of thousands of smart surveillance cameras with object and facial recognition features. The cameras were procured as part of a bundle that included an artificial intelligence system used to analyse the feed captured ..."
-    publishedDateTime: 2020-07-27T08:57:00Z
-    webUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/"
-    ampWebUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
-    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
-    type: article
-    provider:
-      name: Global Voices Online
-      domain: globalvoices.org
-    quality: 53
-    images:
-      - url: "https://globalvoices.org/wp-content/uploads/2020/07/hiljadekamera-wp-13-800x367.jpg"
-        width: 800
-        height: 367
-        isCached: true
   - title: "As facial recognition draws scrutiny nationwide, Stanford research raises questions closer to home"
     excerpt: "“I am entitled to repeat what I have seen, including by means of sharing photographs, an act of speech as well,” Gidari explained. “Facial recognition is simply a mathematical representation of the image,” he added. “If you can take the ..."
     publishedDateTime: 2020-07-28T15:32:00Z
@@ -76,15 +60,6 @@ related:
         width: 2048
         height: 1153
         isCached: true
-  - title: "Facebook will pay USD 650 mln to settle facial recognition privacy lawsuit"
-    excerpt: "Facebook will pay a total of USD 650 million to settle a lawsuit over the company's use of facial recognition technology, writes local publication Facebook citing court documents presented by Facebook."
-    publishedDateTime: 2020-07-27T08:14:00Z
-    webUrl: "https://www.telecompaper.com/news/facebook-will-pay-usd-650-mln-to-settle-facial-recognition-privacy-lawsuit--1348000"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "8Yf0vgTdJTx9bOx1BiiI+HdAC/VjERxavmxkMKVvFexifl9VnXRehoZJoO500Nz3UFF/ZteXxXQxx/pmLTY93eAZnOaRrTjctSdJcAPUPT/PUalbljIeN9bTzcaRE0tNGkgw3Uq6LSMoEW1MNmX+YKT3aiZ4iaNe914KDZ3A3SGSzG9ube+8WprW615fj2H+PotABh77J/95Q96lmxAJYBQ/+GZCBfCsGoi3iV8QSXZfkMq+ouC5ofTiDLfxwkboCeXPA2DcObbiczmiZoktkxP3Q2a5CKy0zSzaJkP6oxTMiJOB4/Jh2mFwXe/MVTqXcIqFebfMRz+yeOUgLjL6kbTCGHlA8/6hyQMUGzKr4/Uz633quxG77dzxnEp1GLQmz0oi4ZTvUZcURD/ydQeQo81GuMrOBHpQxMuS1VKfM+GkEbCzWDhM9sMbMpHX3JU5rE2Tan8x3KrQZ7wnhGDpg19VSZW6zI7gLspd4Sltfm9I43/zlzsXnvNktVstb26tot4eD5v4KGYGUp54DmkDBQ==;8h9UN18SS12//djbRaD1mg=="
 ---

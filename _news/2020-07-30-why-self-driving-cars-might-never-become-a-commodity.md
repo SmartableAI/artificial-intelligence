@@ -58,8 +58,8 @@ related:
         isCached: true
   - title: "The history of self-driving cars"
     excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
-    publishedDateTime: 2020-07-31T21:12:00Z
-    webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?itm_source=4&itm_content=1x4&itm_term=2377093"
+    publishedDateTime: 2020-07-31T21:26:00Z
+    webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/"
     ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
     type: article

@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Commentary: Optimizing A Truck Fleet Using Artificial Intelligence"
-excerpt: "To non-computer scientists the questions might arise – \"Is Optimal Dynamics' CORE.ai any different or better than IBM's Watson or Google DeepMind's AlphaGo? Can't those systems do the same thing ..."
-publishedDateTime: 2020-07-28T21:10:00Z
-webUrl: "https://www.benzinga.com/markets/20/07/16817046/commentary-optimizing-a-truck-fleet-using-artificial-intelligence"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16817046"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16817046"
+title: "Commentary: Optimizing a truck fleet using artificial intelligence"
+excerpt: "Driving a truck is a transfer of knowledge and skills by humans (at least now). High-dimensional problems are problems for which the relevant data on which decisions must be made has hundreds, possibly thousands of attributes,"
+publishedDateTime: 2020-07-28T19:53:00Z
+webUrl: "https://www.freightwaves.com/news/commentary-optimizing-a-truck-fleet"
+ampWebUrl: "https://www.freightwaves.com/news/commentary-optimizing-a-truck-fleet/amp"
+cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-optimizing-a-truck-fleet/amp"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: freightwaves.com
+  domain: freightwaves.com
 
 topics:
-  - IBM AI
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2020/07/Warren-Powell-v2-2018-cropped.jpg"
-    width: 779
-    height: 1000
+  - url: "https://s29755.pcdn.co/wp-content/uploads/2020/07/Aoaeh_commentary_072720_2.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "GEAGapK5VLqDfjApNCJ9/WY+mpgB6yHpMoTgNwdlPT46zsr7cb68FkM9ZaXbKo+ApHXm5e2TTVqxPskO4vzzF5kVlEdkCbtnzOhH3zShcBpFclP1AkrS6InHC0QEj7WVTzqVVGI26aGAOtlrAlq/SX0A1/dx/yJ6bZEkwltu/+ayJqywWG0Zc6C2YCLmHFAR32pWUY64j3t9q+ws7XVZW7BaaVvdLnHghMkKLJrN8cu+jllh8e9KHLPgYvzryf5kykSLBzf/Ci9P13Jtuz/4nHd6UE7nLKxM6brrd3vPel81PMwN7YDOdkPxfZs/qDxxYsnTePSaeH+61xjWy590iQ==;VbKIBLmeKLWVIIQ7F0n/BQ=="
+secured: "MHzv3G1kDXd49oGYDMtuzjmHRSQ05FVtW9jOcJjfuU5mNQq5D4aEg7IaTXpQ4Y2urxN5i/P0xOML/wdfk7a4prJ2NJ2GhmIDJvL3kjL4FUVtHMPZIulFz+6AB4rys7j/9H4dI+HQzg0O5wJ6FKzZuFwIMg4bQR4z4XFiEEZeV331OmgBkVCzxt8FKLUnaeUasKWO1q9n6B+m6+rczGrKbncwnBc0Hi0YS2Xt3Es1UBlAedmxcDKEI5DdeXVi+rs2iNnnVUYMCAssquy634gGGu3IupV+wFmRbjMFVHDsO1zcs5B+Ts4ZsblzK9TCDX/qRA3gePj+v8P1DOtJSutvYQ==;zoC9FR0Mc7IZrjyu55Focg=="
 ---
 

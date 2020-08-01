@@ -42,22 +42,6 @@ related:
         width: 831
         height: 545
         isCached: true
-  - title: "Documentary exposes the threat of facial recognition surveillance system in Serbia"
-    excerpt: "This project involves the installation of thousands of smart surveillance cameras with object and facial recognition features. The cameras were procured as part of a bundle that included an artificial intelligence system used to analyse the feed captured ..."
-    publishedDateTime: 2020-07-27T08:57:00Z
-    webUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/"
-    ampWebUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
-    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
-    type: article
-    provider:
-      name: Global Voices Online
-      domain: globalvoices.org
-    quality: 53
-    images:
-      - url: "https://globalvoices.org/wp-content/uploads/2020/07/hiljadekamera-wp-13-800x367.jpg"
-        width: 800
-        height: 367
-        isCached: true
   - title: "As facial recognition draws scrutiny nationwide, Stanford research raises questions closer to home"
     excerpt: "“I am entitled to repeat what I have seen, including by means of sharing photographs, an act of speech as well,” Gidari explained. “Facial recognition is simply a mathematical representation of the image,” he added. “If you can take the ..."
     publishedDateTime: 2020-07-28T15:32:00Z
@@ -72,15 +56,6 @@ related:
         width: 2048
         height: 1153
         isCached: true
-  - title: "Facebook will pay USD 650 mln to settle facial recognition privacy lawsuit"
-    excerpt: "Facebook will pay a total of USD 650 million to settle a lawsuit over the company's use of facial recognition technology, writes local publication Facebook citing court documents presented by Facebook."
-    publishedDateTime: 2020-07-27T08:14:00Z
-    webUrl: "https://www.telecompaper.com/news/facebook-will-pay-usd-650-mln-to-settle-facial-recognition-privacy-lawsuit--1348000"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "1dbvbPPkjBDWMQLcoMTkWYGIQd7FIrqt7k9qNkBOmcSRedAAYK+SOKSUfeUn4YdgtqfpGAOoPTs9KGn7sfOJGFWnw49WrY6SiKa/9qdusVMFnmmoEUxUdSlPOjD7oT1HUQUEopqhuo8yXqQT95lsMmp7stqCaLM7/JGqM6k7kqu4tsWCvo54Imwy+lt5L4obC/F1jFp4ziIoqgiccwwNi4ZwIOXbrmHH2k1PezbLdsyB6gI73Lm7/8Q7hcnBUYccLgdLJZ/6HBKTKnXerazy2XpxDkft5KIk3RLjmg0JwnwscMf5ft9fY+RUZUEUw6A+O1SEYRP5I06GOFsq6hTJ+0e2J/P7fcN8xCkkppdGNXlbb4445Qvh3DawTZXxORv/c4sbcTWzc/uGrG7CXwdKJNJkoVqUXeWWUIQLRJcWLh1HkCL8ymFFmo2zQuZMXpS+agIam+ceyGa9+VT01f3zF0AVGE+IFsB21Wmm5iIUoU20+gOeNm746OxARGDGaq1KJfhry/tAHha2iBEbfwQM3g==;sa1dtc/jtnnKzL5//e0ZWw=="
 ---

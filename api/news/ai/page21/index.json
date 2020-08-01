@@ -2,6 +2,55 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-07-11-how-remote-work-can-fuel-the-new-ai-tech-centers.md",
+      "title": "How Remote Work Can Fuel The New AI Tech Centers",
+      "excerpt": "Work from home has become the new standard for several jobs worldwide. It is re-architecting how companies organize their workforce. It may also drive the creation of a new hub-and-spoke model for cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/11/how-remote-work-can-fuel-the-new-ai-tech-centers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f09f2064f8a93000606cea2%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/11/how-remote-work-can-fuel-the-new-ai-tech-centers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/11/how-remote-work-can-fuel-the-new-ai-tech-centers/amp/",
+      "publishedDateTime": "2020-07-11T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-11-deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism.md",
       "title": "DeepMind researchers propose rebuilding the AI industry on a base of anticolonialism",
       "excerpt": "DeepMind researchers argue that anticolonial theory should be part of the AI development process to avoid perpetuating algorithmic oppression.",
@@ -1370,38 +1419,6 @@
         "AI in Finance",
         "Natural Language Processing",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-natural-language-processing-nlp-market-to-reach.md",
-      "title": "Natural Language Processing (NLP) Market to reach...",
-      "excerpt": "Dallas, Texas, July 10, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing (NLP) Market by Application (Machine Translation, Information Extraction, Automatic Summarization, Text ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16582536/natural-language-processing-nlp-market-to-reach-us-41-billion-by-2025-global-insights-on-trends-le",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16582536",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16582536",
-      "publishedDateTime": "2020-07-10T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

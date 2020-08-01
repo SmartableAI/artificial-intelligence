@@ -2,8 +2,8 @@
 category: news
 title: "The history of self-driving cars"
 excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
-publishedDateTime: 2020-07-31T21:12:00Z
-webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?itm_source=4&itm_content=1x4&itm_term=2377093"
+publishedDateTime: 2020-07-31T21:26:00Z
+webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/"
 ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
 type: article
@@ -95,6 +95,6 @@ related:
         height: 960
         isCached: true
 
-secured: "jQK2v+DKdwmPq+Ln8pwx9pCH2Su6Ovy6P1MkkxXbRb5ir7c4smSl1ypIrG2qZKmPtLhnOP9fL1BqrLZtdxnqGRvgLbXxZ1jch9d4Cy3NWiZiYDDgs8T7N41v2IAANkWLC+SGXkN6eDyKhdfYMpavVFr6xmMQumxiJbMhF/T207PRz963P0MjPiAG4HY51K04zkKrW1UMW3TYHDmnVC0bzkHGdt1Pon2xTvtim700s+S5Z1RlKNnnXjuIc/H5ZHDtN5liQlLyZw/DQWHPqTxAGyvYCbJrrUQ69yGYLvIieZ9geWgw28mIzYCeUrrjUXkI9r/whQ1OCwmFyyA1SCQ9iQ==;fdBdg6m/oF5vB5dDnHtlvA=="
+secured: "a8qDs6ovjH1062W6Jy14jmYbYTfi33G7EDyXOFoKYXBW5j2f/UWAN5DHNw2OQ3FQPgA/9fMMhB/+0ZjxunoIGOBrmt8Rh9+aIXwJAu09E6EG8QagxqGZJQfwWK3j8BliTSvGhSqbOD12PGD94qDAp4NgjFGHAP1SQf5eUm2hNhZ0brEabdAG6TMy8oYSe410P7U6doCMiIi3w9g2eWdYjorpw9wWVKvnj0p0rYhjx0qHHUyY7UYYvZy0wloSprTPPcNZRbHo2dMXmCRm9qutvptzoE7aHQzyfXJ3axxA3v9Bn+wvcQiIfgKB3Cv2rX03wpAyc2ThfO8UC5CjNI7dBQ==;O90A2tf8ucAnFMnsyW0ojA=="
 ---
 

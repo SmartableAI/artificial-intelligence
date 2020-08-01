@@ -2,6 +2,57 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-07-09-uk-and-australia-to-probe-clearview-ai-facial-recognition.md",
+      "title": "UK And Australia To Probe Clearview AI Facial Recognition",
+      "excerpt": "The British and Australian data protection authorities have opened an investigation into the controversial facial recognition technology firm Clearview AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 326,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190624951%2F0x0.jpg",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-09T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-theres-an-ai-for-every-step-in-the-hiring-process.md",
       "title": "There’s an AI for every step in the hiring process",
       "excerpt": "From writing a job description to analyzing an interview, a growing crop of AI companies make the case that a hiring manager never needs to make a suboptimal decision again.",
@@ -1340,55 +1391,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-china-calls-for-joint-development-in-ai-to-reduce-risk-of-technology-gap-between-rich-and-poor-countries.md",
-      "title": "China calls for joint development in AI to reduce risk of technology gap between rich and poor countries",
-      "excerpt": "Chinese government officials and some of the country’s top business leaders call for stronger global collaboration at WAIC summit",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/09/0b50d3f2-c1bc-11ea-8c85-9f30eae6654e_image_hires_165721.jpg?itok=dJJTBLhy&v=1594285050",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
-      "publishedDateTime": "2020-07-09T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

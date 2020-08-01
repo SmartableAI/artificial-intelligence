@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-28-how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology.md",
+      "title": "How Reuters analyzed Rite Aid's use of facial recognition technology",
+      "excerpt": "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527392330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0S8",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24T1H5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5",
+      "publishedDateTime": "2020-07-28T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime.md",
       "title": "ComplyAdvantage nabs $50M for an AI platform and database to detect and stop financial crime",
       "excerpt": "The growth of digital banking has opened up a wealth of opportunities for making the world of finance more accessible and transparent to a greater number of people. But the darker underbelly is that it has also created more avenues for illicit activity to flourish,",
@@ -1106,7 +1156,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1385,47 +1435,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-the-real-reason-were-afraid-of-robots.md",
-      "title": "The real reason we’re afraid of robots",
-      "excerpt": "Make no mistake AI does pose many real dangers to us: to our personal privacy and security and to the future of the economy. These are all very good reasons to watch it closely and regulate it aggressively.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2019/07/15/Artificial-Intelligence--AI-_16bf61c847a_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "publishedDateTime": "2020-07-27T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

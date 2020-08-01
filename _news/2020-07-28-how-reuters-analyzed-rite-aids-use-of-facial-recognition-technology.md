@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
 type: article
 quality: 104
-heat: 234
+heat: 264
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rite Aid used facial recognition in hundreds of stores for years"
+    excerpt: "Rite Aid used facial recognition systems in hundreds of its drugstores across the US over the last several years. According to a Reuters investigation, the technology was deployed in “largely lower-income,"
+    publishedDateTime: 2020-07-28T18:51:00Z
+    webUrl: "https://www.engadget.com/rite-aid-facial-recognition-reuters-183343353.html"
+    ampWebUrl: "https://www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/rite-aid-facial-recognition-reuters-183343353.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fa12d9400-d102-11ea-bfff-7e127c0f1c8e&client=amp-blogside-v2&signature=bf9cd9495ada5659af3ce77c89c15cef4d3f7e25"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Rite Aid used facial recognition in secret across hundreds of its stores"
     excerpt: "Drugstore chain Rite Aid secretly deployed facial recognition software across a network of security cameras in hundreds of locations in the US, according to a new investigation from Reuters published on Tuesday."
     publishedDateTime: 2020-07-28T17:06:00Z
@@ -46,12 +62,44 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Rite Aid has been using facial recognition tech across hundreds of its stores"
+    excerpt: "This information came to light through a recent investigation by Reuters. During the site's probe, investigative journalists found that a whopping 200 Rite Aid locations used facial recognition technology to detect potential criminals,"
+    publishedDateTime: 2020-07-28T23:06:00Z
+    webUrl: "https://www.techspot.com/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 101
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-28-image-25.jpg"
+        width: 1680
+        height: 1120
+        isCached: true
+  - title: "Rite Aid surveilled customers using facial recognition tech with links to China"
+    excerpt: "A new report from Reuters uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government."
+    publishedDateTime: 2020-07-28T22:01:00Z
+    webUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance/"
+    ampWebUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 100
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Reuters investigated Rite Aid’s facial recognition systems across hundreds of stores in the U.S."
     excerpt: "Reuters this week published an investigation into how Rite Aid quietly added facial recognition systems across 200 stores in the United States over the last eight years. The Reuters year-long investigation,"
-    publishedDateTime: 2020-07-31T20:12:00Z
-    webUrl: "https://uk.reuters.com/article/rpb-riteaid/how-reuters-investigated-rite-aids-facial-recognition-systems-across-hundreds-of-stores-in-the-us-idUKKCN24W2XY"
-    ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKCN24W2XY"
-    cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN24W2XY"
+    publishedDateTime: 2020-07-31T20:16:00Z
+    webUrl: "https://www.reuters.com/article/rpb-riteaid/how-reuters-investigated-rite-aids-facial-recognition-systems-across-hundreds-of-stores-in-the-us-idUSKCN24W2XY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W2XY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W2XY"
     type: article
     provider:
       name: Reuters

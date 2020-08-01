@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-28-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-most-scared-of-googles-deepmind-ai-project.md",
+      "title": "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project",
+      "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said he was most worried about Google's AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
+      "publishedDateTime": "2020-07-27T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-demand-for-autonomous-delivery-robots-rises-as-pandemic-continues.md",
       "title": "Demand For Autonomous Delivery Robots Rises As Pandemic Continues",
       "excerpt": "Answering the need for deliveries that minimize human contact, companies are stepping up R&D efforts in autonomous robot development.",
@@ -633,7 +683,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1134,48 +1184,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-how-india-can-become-a-powerhouse-in-artificial-intelligence.md",
-      "title": "How India can become a powerhouse in Artificial Intelligence",
-      "excerpt": "India should declare data as a national resource to prevent misuse. An institution that helps leverage data for AI is called for",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/opinion/uhc04b/article32197433.ece/ALTERNATES/LANDSCAPE_615/BL25THINKAI1",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
-      "publishedDateTime": "2020-07-27T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

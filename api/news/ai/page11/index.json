@@ -2,6 +2,47 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-20-former-ford-president-joins-self-driving-radar-startups-board.md",
+      "title": "Former Ford President Joins Self-Driving Radar Startup’s Board",
+      "excerpt": "Joe Hinrichs, a former top executive at Ford Motor Co. who left the company earlier this year, is making a tentative return to the auto industry by joining the board of a startup developing technology for self-driving cars and driver-assistance features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board",
+      "publishedDateTime": "2020-07-20T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications.md",
       "title": "How The Rising Importance Of Cultural Intelligence Is Impacting PR And Communications",
       "excerpt": "Cultural intelligence and empathy, along with my survival kit for communications, are the golden rules that I believe will be able to help us, the public relations practitioners from all over the world, to work with artificial intelligence, leverage it for ...",
@@ -1084,6 +1125,38 @@
       ]
     },
     {
+      "path": "_news/2020-07-19-autox-gets-permit-to-run-driverless-testing-in-california.md",
+      "title": "AutoX gets permit to run driverless testing in California",
+      "excerpt": "Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless ... the world with Artificial Intelligence (AI) drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Science/20200719/3595133.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-19T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-19-enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors.md",
       "title": "Enabling humanoid robot movement with imitation learning and mimicking of animal behaviors",
       "excerpt": "Humanoid robots have not stood up to the expectation set forth by Rosie from The Jetsons in the 1960s, but they’re finally becoming good enough to come to market.",
@@ -1132,47 +1205,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-autox-gets-permit-to-run-driverless-testing-in-california.md",
-      "title": "AutoX gets permit to run driverless testing in California",
-      "excerpt": "(MENAFN - IANS) San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing on California roads.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2020-07/19/I_11b7d50c-cimage_story.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-19T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1337,55 +1369,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-how-4-companies-are-using-ai-to-solve-waste-issues-on-earth-in-space.md",
-      "title": "How 4 Companies Are Using AI To Solve Waste Issues On Earth & In Space",
-      "excerpt": "Waste recognition, space junk, and food waste are a few of the challenges that artificial intelligence is helping humanity tackle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1387b66398dc0006c88875%2F0x0.jpg%3FcropX1%3D17%26cropX2%3D4000%26cropY1%3D530%26cropY2%3D2770",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/amp/",
-      "publishedDateTime": "2020-07-18T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

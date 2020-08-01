@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-open-to-licensing-au
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-open-to-licensing-autopilot-software-to-competitors-2020-7?amp"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Video: Why Tesla's full self-driving feature is taking so long"
-    excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis."
-    publishedDateTime: 2020-07-27T08:31:00Z
-    webUrl: "https://www.arabianbusiness.com/video/450116-video-why-teslas-full-self-driving-feature-is-taking-so-long"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
 
 secured: "aJUptebXoRFxV8PBjX92A6dZYMFfUdqrAtXt84d57fzK/C9GBcG8dYarvtBFDMAzfDqMAYsZFcSTu9z85Wu29hbiHFzapHm2Ifsl8d/o7klJ3FsenZqwDcJIUTCUG/gZC4SAxk88oLB4BTAKWLR6eG1ZynkwrDEQzfxJFNdEkPI6DSIq+KTZjBcl1QKT3Ks9O+E+PLPVNoUWShr6NLnjWsDwZhmdRw8lF4m5MXEHDii/4+YClaIiiW7daMmEGKdLl/ccjmU3QGv0v2witBVsVyxq1iakTyebOhQogVPhE11ccuD4TdygtFBjZ2GGsz5I+Og33pB/o7zJgoLhVapnbUj7YyuueolCqb9+xdWYhaZIy7NOqUHrCx+veoXnDN97BUmpHi0C5k1pFb4j1IXLLokAq0rf0e/lfRFWs2h4/LGxv2X1CbMwG9XAgvMIJjDr17M+eUbUaBZPABI2G1trgsANBKngBbr7ouZPL0kzutHmQnssw8kM2yRFVyfQ9yi450c1qQKf5p6m0pBLiQ6qLQ==;FtEndRNY4wUsEViv+KQfRQ=="
 ---

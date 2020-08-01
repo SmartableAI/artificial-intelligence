@@ -97,6 +97,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/</loc>
+    <lastmod>2020-07-30T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/</loc>
     <lastmod>2020-07-30T14:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1957,14 +1963,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
-    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
+    <loc>https://news.webindia123.com/news/Articles/Science/20200719/3595133.html</loc>
+    <lastmod>2020-07-19T11:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California</loc>
-    <lastmod>2020-07-19T09:30:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
+    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
