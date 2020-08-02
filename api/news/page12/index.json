@@ -2,6 +2,55 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-21-microsoft-launches-ai-powered-dynamics-365-retail-and-anti-fraud-services.md",
+      "title": "Microsoft launches AI-powered Dynamics 365 retail and anti-fraud services",
+      "excerpt": "During its Inspire 2020 conference, Microsoft unveiled new retail- and fraud-focused services to address pandemic-related issues and other challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/Connected-Store-hero.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/amp/",
+      "publishedDateTime": "2020-07-21T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms.md",
       "title": "QC Ware Races Ahead With Breakthrough in Quantum Machine Learning Algorithms",
       "excerpt": "QC Ware, the leader in enterprise software and services for quantum computing, today announced a significant breakthrough in quant",
@@ -1094,38 +1143,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-deepmind-supports-further-scholarships-for-cambridge-students-from-backgrounds-under-represented-in-computer-science.md",
-      "title": "DeepMind supports further scholarships for Cambridge students from backgrounds under-represented in Computer Science",
-      "excerpt": "New gift builds on the success of first cohort of DeepMind Cambridge scholars. The gift from DeepMind will fund up to three one-year Master’s courses and two three-year PhD scholarships in the fields of Computer Science and Machine Learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridgenetwork.co.uk/news/deepmind-supports-further-scholarships-cambridge-students-backgrounds-under-represented",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge Network",
-        "domain": "cambridgenetwork.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,55 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-06-21-google-will-shut-down-its-ai-guided-photos-printing-service-on-june-30th.md",
+      "title": "Google will shut down its AI-guided Photos printing service on June 30th",
+      "excerpt": "Google is ending its AI-guided Photos printing trial service on June 30th, but it might lead to a similar feature in the long run.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-photos-printing-trial-ends-023308003.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F0c6735a0-b344-11ea-bafe-160a0b0e31fc&client=amp-blogside-v2&signature=b58b18d9c10038d1386655a2cdb759e378701301",
+          "width": 600,
+          "height": 350,
+          "title": "Google will shut down its AI-guided Photos printing service on June 30th",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
+      "publishedDateTime": "2020-06-20T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-20-what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols.md",
       "title": "What does that tattoo mean? AI app decodes extremist political symbols",
       "excerpt": "VizPol can help journalists spot far-right and white supremacist symbols like Odal rune tattoos and boogaloo igloo flags.",
@@ -1051,56 +1100,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments.md",
-      "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
-      "excerpt": "Retail and commercial financial institutions (FIs) are feeling enormous pressure to embrace and adopt artificial intelligence as industry competition grows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148110303%2F0x0.jpg",
-          "width": 1200,
-          "height": 912,
-          "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
-      "publishedDateTime": "2020-06-19T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

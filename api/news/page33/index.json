@@ -2,6 +2,56 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-07-07-this-saas-based-startup-is-disrupting-call-centre-market-with-ai-based-voice-bots.md",
+      "title": "This Saas-Based Startup Is Disrupting Call Centre Market With AI-Based Voice Bots",
+      "excerpt": "Bengaluru-based Vernacular.ai in May 2020 raised $5.1 million in Series A funding led by Exfinity Ventures and IAN Fund",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/352913",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594129822-AkshayDeshrajCTOandCo-founderVernacularaileftandSourabhGuptaCEOandCo-founderVernacularairight.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Saas-Based Startup Is Disrupting Call Centre Market With AI-Based Voice Bots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/352913",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/352913",
+      "publishedDateTime": "2020-07-07T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-monkeylearn-raises-22m-to-build-out-its-no-code-ai-text-analysis-service.md",
       "title": "MonkeyLearn raises $2.2M to build out its no-code AI text analysis service",
       "excerpt": "A few years back, startups focusing on artificial intelligence had a whiff of bullshit about them; venture capitalists became inured to young tech companies claiming that their new AI-powered product was going to change the world as hype exceeded product reality.",
@@ -1089,37 +1139,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada.md",
-      "title": "Clearview AI ceases offering its facial recognition technology in Canada",
-      "excerpt": "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its",
-      "sourceUrl": null,
-      "webUrl": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 616,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

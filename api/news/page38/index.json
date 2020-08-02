@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-07-01-mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing.md",
+      "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
+      "excerpt": "Mozilla updated Common Voice, its open source collection of transcribed voice data. It now contains over 7,000 hours of speech across 54 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Common-Voice-e1593640326605.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
+      "publishedDateTime": "2020-07-01T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-rooting-out-ai-bias.md",
       "title": "Rooting out AI bias",
       "excerpt": "New research offers strategies to prevent algorithms used in business from pushing unethical policies. Why it matters: Machine-learning algorithms are increasingly being deployed in commercial settings.",
@@ -1092,56 +1143,6 @@
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/cio-jury-58-of-tech-leaders-say-robotics-will-play-a-significant-role-in-their-industry-within-the-next-two-years/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cio-jury-58-of-tech-leaders-say-robotics-will-play-a-significant-role-in-their-industry-within-the-next-two-years/",
       "publishedDateTime": "2020-07-01T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-robots-are-learning-workplace-etiquette-at-mit.md",
-      "title": "Robots are learning workplace etiquette at MIT",
-      "excerpt": "The machines cannot develop these skills by simply asking questions and understanding commands like the AI in Siri or Alexa, according to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL). Robots need to know when it's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-are-learning-workplace-etiquette-at-mit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/05/13/34c2d20f-05c7-42df-a650-410262e65ae5/thumbnail/1200x675/8986304453ac892ce66e1eeaefa00b8b/istock-1007845610.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Robots are learning workplace etiquette at MIT",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
-      "publishedDateTime": "2020-07-01T07:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",

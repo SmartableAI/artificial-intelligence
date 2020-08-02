@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-27-nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms.md",
+      "title": "NIST study finds that masks defeat most facial recognition algorithms",
+      "excerpt": "A National Institutes of Science and Technology found that 89 commercial facial recognition algorithms were defeated by masks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 459,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/facial-recognition-face-mask.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/",
+      "publishedDateTime": "2020-07-27T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-exploring-the-three-elephants-in-the-autonomous-vehicle-room.md",
       "title": "Exploring The Three Elephants In The Autonomous Vehicle Room",
       "excerpt": "Today, in the area of Autonomous Vehicles (AVs), there are three elephants in the room which are worth exploring. Let’s get started. Is it possible that the current Artificial Intelligence(AI) engines underneath AVs are just the wrong architecture and may never work robustly ?",
@@ -106,7 +156,7 @@
       "title": "How to unlock your iPhone without a PIN or face recognition",
       "excerpt": "Wearing a mask can be a pain when trying to unlock an iPhone using Face ID. Here's how to unlock your iPhone without a PIN or face recognition.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=85&itm_content=2x4&itm_term=2356592",
+      "webUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=3&itm_content=4x6&itm_term=2361344",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1356,56 +1406,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-why-the-complete-version-of-tesla-full-self-driving-will-take-longer-than-elon-musk-says-it-will.md",
-      "title": "Why the complete version of Tesla Full Self-Driving will take longer than Elon Musk says it will",
-      "excerpt": "Driving, or FSD, today for $8,000, but it's not feature complete. CNBC explores why the complete version of FSD has yet to be released.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
-      "publishedDateTime": "2020-07-25T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

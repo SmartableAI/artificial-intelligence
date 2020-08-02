@@ -2,6 +2,55 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-07-08-ai-finds-250-foreign-stars-that-migrated-to-our-galaxy.md",
+      "title": "AI finds 250 foreign stars that migrated to our galaxy",
+      "excerpt": "Astronomers have used deep learning to discover 250 new stars in the Milky Way, which they believe were born outside the galaxy.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-99-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI finds 250 foreign stars that migrated to our galaxy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/amp/",
+      "publishedDateTime": "2020-07-08T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-petroai-and-aws-partner-to-operationalize-modern-analytics-reduce-costs.md",
       "title": "Petro.ai and AWS Partner to Operationalize Modern Analytics, Reduce Costs",
       "excerpt": "The automated integration of Petro.ai with Amazon S3, AWS Lambda, and AWS VPC minimizes time spent loading, normalizing, and managing data while providing the elastic compute power required for modern analytics at enterprise scale.",
@@ -1100,55 +1149,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety.md",
-      "title": "University of Melbourne and Cubic test AI camera to improve road safety",
-      "excerpt": "The University of Melbourne and Cubic Transportation Systems have partnered to test how an artificial intelligence camera can be used to improve road user safety and traffic management. As part of the project,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/1cb27067-607c-459a-9525-285eb4948af9/gridsmart-final.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "University of Melbourne and Cubic test AI camera to improve road safety",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
-      "publishedDateTime": "2020-07-07T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

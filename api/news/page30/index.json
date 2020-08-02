@@ -2,6 +2,55 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-07-08-ai-save-me-from-my-rude-self-please.md",
+      "title": "AI, save me from my rude self (please)",
+      "excerpt": "Carnegie Mellon University scientists come up with an automated method for making communication more polite, thank you very much.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-save-me-from-my-rude-self-please/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "AI, save me from my rude self (please)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
+      "publishedDateTime": "2020-07-08T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-garry-kasparov-on-ai-people-always-called-me-an-optimist.md",
       "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
       "excerpt": "Garry Kasparov is a political activist who’s written books and articles on artificial intelligence, cybersecurity and online privacy, but he’s best known for being the former World Chess Champion who took on the IBM computer known as Big Blue in the mid-1990s.",
@@ -1104,55 +1153,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ai-finds-250-foreign-stars-that-migrated-to-our-galaxy.md",
-      "title": "AI finds 250 foreign stars that migrated to our galaxy",
-      "excerpt": "Astronomers have used deep learning to discover 250 new stars in the Milky Way, which they believe were born outside the galaxy.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-99-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI finds 250 foreign stars that migrated to our galaxy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/amp/",
-      "publishedDateTime": "2020-07-08T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

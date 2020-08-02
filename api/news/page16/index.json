@@ -2,6 +2,55 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-07-17-ebay-cto-ai-is-now-an-ecosystem-for-us.md",
+      "title": "eBay CTO: AI is now an ‘ecosystem’ for us",
+      "excerpt": "Watch the final day of VB Transform live on YouTube! While eBay could have used any number of existing AI platforms to enhance its various products, the company instead elected to build its own AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-4.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/amp/",
+      "publishedDateTime": "2020-07-17T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free.md",
       "title": "AI tool lets startups determine the value of their e-commerce business in 24 hours for free",
       "excerpt": "Kelly Blue Book has done it for decades for cars. Now Clearbanc, a VC firm that specializes in helping startups, has launched an AI-based platform that lets startup founders know how much their company is worth—in 24 hours, for free. Michele Romanow ...",
@@ -1162,38 +1211,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-tag-aws-reinvent-2018.md",
-      "title": "Tag: AWS re:Invent 2018",
-      "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

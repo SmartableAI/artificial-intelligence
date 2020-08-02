@@ -2,6 +2,38 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-07-10-natural-language-processing-nlp-market-to-reach.md",
+      "title": "Natural Language Processing (NLP) Market to reach...",
+      "excerpt": "Dallas, Texas, July 10, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing (NLP) Market by Application (Machine Translation, Information Extraction, Automatic Summarization, Text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16582536/natural-language-processing-nlp-market-to-reach-us-41-billion-by-2025-global-insights-on-trends-le",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16582536",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16582536",
+      "publishedDateTime": "2020-07-10T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-wimi-holographic-arai-vision-drives-a-new-wave-of-5g-applications.md",
       "title": "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications",
       "excerpt": "Yet Facebook, Microsoft and others are arguably ... Huawei’s 5G and various basic research platforms, all of which are exploring the business opportunities of AI in the future. Technology is making life better and closer to reality.",
@@ -1104,56 +1136,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-an-update-on-our-work-on-ai-and-responsible-innovation.md",
-      "title": "An update on our work on AI and responsible innovation",
-      "excerpt": "AI is a powerful tool that will have a significant impact on society for many years to come, from improving sustainability around the globe to advancing the accuracy of disease screenings. As a leader in AI, we’ve always prioritized the importance of understanding its societal implications and developing",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/update-work-ai-responsible-innovation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/update-work-ai-responsible-innovation/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/update-work-ai-responsible-innovation/amp/",
-      "publishedDateTime": "2020-07-09T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
