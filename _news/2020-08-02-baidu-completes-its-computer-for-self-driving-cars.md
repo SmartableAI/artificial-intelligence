@@ -93,6 +93,6 @@ related:
       domain: automobilemag.com
     quality: 4
 
-secured: "dm3vpFSTQ/2l79ie4hP4nzT0U1tWJv55m5wyWR/S/mGgwff3cFyDC41FLZg6msJ5Ostkj+aL5j4sBAjqA2FEHJDzBCJSzpYTUT9M9eJIsP5tM9Ql3eVVsV8OfjDDRecVNvUEsUY7eobFiaRmccW9YFWnudLhru/WbmcRCdi+XBYR/+eber7X4H99b17fjRYxGQHOMdgbu2WKXH3wy+DV/a+cRJUQl9hJIU+o5qL4hfUl8wbzuHGX5QIL2E9oLxH3ns2eEK3WBVgWpRKvxBDaGO8+KX3gPont4nDHiibjIT3H6o3fMzLMXtBSrQIsRMSHqsp9xHVEAYxmVogPtFki8w==;ufJuuhnUKmShbX2FNgDURA=="
+secured: "ToPr5k01L86XxR1YU4IAxl7mYLGV/tz60kBP8KDx1hXztV3XE8qobvmWOkkwL2r+m6PDWd6PcI+lrZjRtsboqpwxs+eEz0z7xqXarMPxm6cvyDgCExFRBk3NiLtKnsg2YUFjMs9N8Vd5Xra0p5hl0j5qYHYuM0ZWsb7gdDXwcYssiButWSwkvjNGmHo3X82C/fJwkKo3H7hmv34NGGZYjfShWVinYuNYyO9/Q46ZFAYJTmAo2D+iBoRt7oMXl93oyzCPnxYt7reGZkIEkuQBr+AWsHj1d0NwaMnU0Iwl9F9RxM44SgHKDsG1PBim/r36xZntfDKRyT3900PmUsl8ww==;QNE2O9jABWyQczyArwvnIA=="
 ---
 
