@@ -58,15 +58,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Artificial intelligence could speed up and improve Alzheimer's diagnosis"
-    excerpt: "Research examines how the routine use of Artificial Intelligence (AI) in healthcare could help to relieve the economic impact neurodegenerative diseases, such as Alzheimer's."
-    publishedDateTime: 2020-07-28T19:56:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/07/200728121223.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 48
 
 secured: "fztjkk8RA33jrcqPs7vctoAc8IN+HV1Dd90GS2S+E7p3kfHKSv/Wc7Iu0tXODOUqUR+Bmm1Ms0hD9TuPC6AWyBwynebj3PbgNKDjY3MbNi4XxWWL3hVueGkSNNCkAMlTzKZSBrGMdEFrSOsvNTyA4avdkTL+VuuoitpYaQWVR09zXVFhZLEY/MktRPFexUkEb5g5oHO/lGflAwNumuD+55ARYDSLVQIPk7Vzf+x9io1yCE7mjJj1CZA8xf2JQzzjgCa/pP8/l9USX3bKhnC3hkBjYjvvkw6f5dPwMPVRX6jPoTnH0Ud3lVPPS+8YMiCI+cBpLxuzmxURsm0AN2d5hQ==;UA31uL+cEbFd6huKs6x2ww=="
 ---

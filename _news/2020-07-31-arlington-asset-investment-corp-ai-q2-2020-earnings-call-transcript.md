@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/earnings/call-transcripts/2020/07/31/arling
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "MSCI Inc. (MSCI) CEO Henry Fernandez on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "AM ET Company Participants Salli Schwartz - Head of Investor Relations & Treasurer Henry Fernandez - Chairman & Chief Executive Officer Baer Pettit - President & Chief Operating Officer Linda Huber - Chief Financial Officer Andy Wiechmann - Chief Strategy Officer Conference Call Participants Toni Kaplan - Morgan Stanley Manav Patnaik - Barclays Alex Kramm - UBS Bill Warmington - Wells Fargo Craig Huber - Huber Research Chris Shutler - William Blair Henry Chien - BMO Keith Housum - Northcoast Research Presentation Operator Good day,"
-    publishedDateTime: 2020-07-28T19:35:00Z
-    webUrl: "https://seekingalpha.com/article/4361451-msci-inc-msci-ceo-henry-fernandez-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "JF5KCNcd0W4dBoCBBWqch+xpTPU4Tk9ppiaw/sOANVTPTxegyei+LHLAWRmfwt40tPyAfMWTaj9SBf42qpFsaz+2uSwYwbj6tOaK9bYd1vRCezRGW8utbpiOcwCS7s0Q2eRr1c/ja32VzUTvP8NrW56+Xtm04zm9zb+TMNO5EfH2yHb5fv093u7z0xZ85bmDo/kMxrAk69HIMvVvK6c4auugyMHxoxm2vYxC1YUypRhZLAzcsXqkUC38zHuYgd7t37X4Er1LhyKjOn752B4kACUrx+fX9O1Np9vmC5mTDo+s757MlPD+/c1ZQHOdBqf4CdGdQSn7J0OHIBuTTehW1i4YXww6pDW9FErEVKy9h/S20SYQUXRTiW3okvTAXjM6LySf1BvDwaBSCQr2ldYvo2dJdnEy0gbe7PXFdcNknGSvli5E4F4U4Y0WeBK5iO4yX1IBWYY2NBJw5CaebdfZ1BJf/ipm5ywWUhOmDzUPPcIzoIwjLp+XHP/QFzD418bM;bBqMp2uRFXLS89pxcsXicQ=="
 ---

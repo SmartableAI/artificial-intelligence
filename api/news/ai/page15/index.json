@@ -2,6 +2,55 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-16-cloudera-built-its-conversational-ai-chops-by-keeping-things-simple.md",
+      "title": "Cloudera built its conversational AI chops by keeping things simple",
+      "excerpt": "It turns out if you're a data company with modern data architectures at the ready, you have a head start building out internal conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/cloudera-conversational-ai-transform-2020.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "publishedDateTime": "2020-07-16T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-cognitive-services-platform-market.md",
       "title": "Cognitive Services Platform Market",
       "excerpt": "The COVID-19 pandemic disruption is estimated to transform the Cognitive Services Platform Market in the years to come drastically, and its after-effects will be persistently seen in the years ahead.",
@@ -1255,47 +1304,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-human-quirks-health-medicine.md",
-      "title": "Human Quirks: Health & Medicine",
-      "excerpt": "July 15, 2020 — In a groundbreaking new study, researchers have 3D printed a functioning centimeter-scale human heart pump in the lab. The discovery could have major implications for studying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/news/strange_offbeat/health_medicine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

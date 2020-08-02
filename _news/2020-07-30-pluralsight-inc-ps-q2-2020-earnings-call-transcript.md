@@ -50,15 +50,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "MSCI Inc. (MSCI) CEO Henry Fernandez on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "AM ET Company Participants Salli Schwartz - Head of Investor Relations & Treasurer Henry Fernandez - Chairman & Chief Executive Officer Baer Pettit - President & Chief Operating Officer Linda Huber - Chief Financial Officer Andy Wiechmann - Chief Strategy Officer Conference Call Participants Toni Kaplan - Morgan Stanley Manav Patnaik - Barclays Alex Kramm - UBS Bill Warmington - Wells Fargo Craig Huber - Huber Research Chris Shutler - William Blair Henry Chien - BMO Keith Housum - Northcoast Research Presentation Operator Good day,"
-    publishedDateTime: 2020-07-28T19:35:00Z
-    webUrl: "https://seekingalpha.com/article/4361451-msci-inc-msci-ceo-henry-fernandez-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "P3TTtWOB+xvvmdkFfnxha9vYd3YvsVIWuwzbK5c+TeTfBq9PWSvaEVolGKR+jqJI8I0Zd88UVmkuevfEWgK4ETvFTLsRbhzqOQt+UibtISne43KnUVbRNB2maNGxnS1kWNMFcmlwTui/X4ROPXfxhH6k1HPmJT/naE8czqWPwbEzVhCBGoXAwp8BNTnuu5wtgvRz6QIvEtmFpJx/6yb/O962vB9bDMx7JrrMAG/SJjXt7bwUNpJ5euo42GEqzp1ZLGmEgJpVpPTNIGXwVE/KgLjqlmM8Y8BJzftjTMEql4hVszFixksm7+LfzXUkzb5ADaZGVpdm8ok//jX872vsfw==;9Jq5fy3TwLAF+iqtsg0lRg=="
 ---

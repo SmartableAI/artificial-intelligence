@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
 type: article
 quality: 103
-heat: 233
+heat: 223
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/4dfef41/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2Fe7%2F6f9f06cc4df3af243f890df8916b%2Fdepositphotos-372250156-l-2015.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Rite Aid deployed facial recognition in hundreds of stores, report finds"
-    excerpt: "Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores,"
-    publishedDateTime: 2020-07-28T20:58:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/07/rite-aid-deployed-facial-recognition-in-hundreds-of-stores-report-finds/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/GettyImages-1225671491-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "Rite Aid's 200 facial recognition cameras revealed in investigation"
     excerpt: "A sweeping investigative report has revealed that drugstore chain Rite Aid quietly added facial recognition systems to 200 stores across the U.S. in an attempt to bust repeat shoplifters. The Reuters investigation found facial recognition cameras at 33 of ..."

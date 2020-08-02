@@ -2,6 +2,56 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-20-after-smics-stellar-debut-chinese-ai-chip-maker-cambricon-technologies-soars-350-per-cent-in-shanghai.md",
+      "title": "After SMIC’s stellar debut, Chinese AI chip maker Cambricon Technologies soars 350 per cent in Shanghai",
+      "excerpt": "Cambricon’s gains make it the seventh-largest company on the Star Market, but it is unlikely to post profit until 2022 amid rapidly increasing R&D expenses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/20/e102abda-ca52-11ea-9c1b-809cdd34beb3_image_hires_151603.jpg?itok=GR-pTyWE&v=1595229370",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "publishedDateTime": "2020-07-20T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs.md",
       "title": "Google Launches AI Tool that Translates Ancient Egyptian Hieroglyphs",
       "excerpt": "The new AI-powered tool from Google decodes ancient Egyptian hieroglyphics, and even lets you translate modern words and emojis into the 5,000-year-old symbols. The tool works by analysing historical records and definitions of the language. It explores the ...",
@@ -1342,55 +1392,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-how-a-colombian-market-is-using-ai-to-combat-covid-19-outbreaks.md",
-      "title": "How a Colombian market is using AI to combat Covid-19 outbreaks",
-      "excerpt": "Mr Palacio is the director of the densely packed market which sits in the heart of the Colombian city of Medellín. Every day, up to 15,000 people flood into the giant building where more than 3,300 vendors sell fruits,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-latin-america-53388656",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12D0/production/_113461840_whatsappimage2020-07-01at11.55.59am-2-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-latin-america-53388656",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-latin-america-53388656",
-      "publishedDateTime": "2020-07-17T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

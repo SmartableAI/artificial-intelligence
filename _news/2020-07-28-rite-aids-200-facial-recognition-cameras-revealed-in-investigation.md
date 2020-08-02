@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Rite Aid deployed facial recognition in hundreds of stores, report finds"
-    excerpt: "Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores,"
-    publishedDateTime: 2020-07-28T20:58:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/07/rite-aid-deployed-facial-recognition-in-hundreds-of-stores-report-finds/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/GettyImages-1225671491-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Do face masks make facial recognition tech less accurate?"
     excerpt: "According to a new study by the National Institute of Standards and Technology (NIST), the face masks that we should all be wearing to protect ourselves from the coronavirus can impede the ability of facial recognition systems to correctly identify us."
     publishedDateTime: 2020-07-28T21:30:00Z

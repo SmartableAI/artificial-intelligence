@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1032
         isCached: true
-  - title: "Artificial Neural Network Market Regional Demand, COVID-19 Impacts and 2023 Forecast"
-    excerpt: "Global Artificial Neural Network Market Research Report By Type Feedback Artificial Neural Network Feedforward Artificial Neural Network Other by Component Software Services Other by Application Drug Development Others Forecast Till 2023 Get a sample copy of the Artificial Neural Network"
-    publishedDateTime: 2020-07-28T19:26:00Z
-    webUrl: "https://www.openpr.com/news/2098388/artificial-neural-network-market-regional-demand-covid-19"
-    ampWebUrl: "https://www.openpr.com/amp/2098388/artificial-neural-network-market-regional-demand-covid-19"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2098388/artificial-neural-network-market-regional-demand-covid-19"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/T/7/T728542626_g.jpg"
-        width: 417
-        height: 455
-        isCached: true
   - title: "Local COVID-19 Forecasts by AI"
     excerpt: "The number of confirmed COVID-19 cases in the nation has climbed to more than 3.5 million since the start of the pandemic ... inspired by artificial intelligence (AI) techniques, to provide timely information at a more localized level that officials ..."
     publishedDateTime: 2020-07-30T21:47:00Z

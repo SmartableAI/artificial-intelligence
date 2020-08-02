@@ -8,7 +8,7 @@ ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/290720/artific
 cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Artificial intelligence could speed up and improve Alzheimer's diagnosis"
-    excerpt: "Research examines how the routine use of Artificial Intelligence (AI) in healthcare could help to relieve the economic impact neurodegenerative diseases, such as Alzheimer's."
-    publishedDateTime: 2020-07-28T19:56:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/07/200728121223.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 48
 
 secured: "XOnAqPSmN3axTKgX22bvYUMeJHjw5ViygEg+cwIPtZCb2Hy94lN4JSGDNIGB66t9GdP0ehpY4gPgPb3opv35p8Lft0h83AwFdSfwqLc9UWjVpL7qJqz5/hZbO25z1MZvIKkbJ3o12IMHMudWw+FuV+m7nS1yuGxbHY8/t9lJvcuxb8HOhdMswIVZye064iYANRtVGH6BhuL1zbMqgyk9YPfPp+m6XSfEss6S4vdJaMmOnSQfgKBYhy/HLUl5HAt5a4YH3FbOdm9xdBcZ3GzMUhEwHL7VQYSWYPmZDDjIjZV+A2ZT/Q0Ri3+ekUcqf0H5Lh72tAAQQsdVSYTjx43P1A==;qlsiitYNYjfugj2zvv4b4w=="
 ---

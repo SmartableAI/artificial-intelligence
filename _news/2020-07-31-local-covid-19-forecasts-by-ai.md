@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-07-local-covid-ai.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-local-covid-ai.amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Neural Network Market Regional Demand, COVID-19 Impacts and 2023 Forecast"
-    excerpt: "Global Artificial Neural Network Market Research Report By Type Feedback Artificial Neural Network Feedforward Artificial Neural Network Other by Component Software Services Other by Application Drug Development Others Forecast Till 2023 Get a sample copy of the Artificial Neural Network"
-    publishedDateTime: 2020-07-28T19:26:00Z
-    webUrl: "https://www.openpr.com/news/2098388/artificial-neural-network-market-regional-demand-covid-19"
-    ampWebUrl: "https://www.openpr.com/amp/2098388/artificial-neural-network-market-regional-demand-covid-19"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2098388/artificial-neural-network-market-regional-demand-covid-19"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 52
-    images:
-      - url: "https://cdn.openpr.com/T/7/T728542626_g.jpg"
-        width: 417
-        height: 455
-        isCached: true
   - title: "This Startup Is Building Covid-19 Chatbots With Governments and Tech Giants"
     excerpt: "As Covid-19 continues to spread across the United States, authorities are still in need of large-scale ways to bring individualized information to a mass of people. One tool in that fight is chatbots, an approach that conversational artificial intelligence ..."
     publishedDateTime: 2020-07-30T20:09:00Z

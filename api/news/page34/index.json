@@ -2,6 +2,57 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-07-06-ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights.md",
+      "title": "AI Weekly: Workplace surveillance tech promises safety, but not worker rights",
+      "excerpt": "As bigger tech companies roll out \"getting back to work\" solutions, we can't forget about the rights and privacy of the workers being surveilled.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/back-to-work.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Workplace surveillance tech promises safety, but not worker rights",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/amp/",
+      "publishedDateTime": "2020-07-06T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-artificial-intelligence-has-the-bible-warned-us-against-the-rise-of-ai.md",
       "title": "Artificial Intelligence: Has the Bible warned us against the rise of AI?",
       "excerpt": "ARTIFICIAL intelligence is feared by many to be a future threat to humanity's independence - but does the Bible have anything to say about the rise of AI?",
@@ -1064,56 +1115,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials.md",
-      "title": "Learn PyTorch: The best free online courses and tutorials",
-      "excerpt": "Look no further than these excellent free resources to master the development of deep learning models using PyTorch",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/04/abstract-fire-rays-100152558-100264577-large.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": "Learn PyTorch: The best free online courses and tutorials",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
-      "publishedDateTime": "2020-07-06T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
