@@ -156,22 +156,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "U.S. studies new facial recognition tech built with masked faces in mind"
-    excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
-    publishedDateTime: 2020-07-28T13:58:00Z
-    webUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 88
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/china-coronavirus-outbreak-ai-facial-recognition-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "US government study finds face masks block facial recognition technology"
     excerpt: "A new study from the National Institute of Standards and Technology (NIST) has tested how accurate commercial facial recognition algorithms are at identifying people wearing protective face masks. The study reveals some commercially used systems fail at authenticating masked faces up to 50"
     publishedDateTime: 2020-07-30T03:42:00Z

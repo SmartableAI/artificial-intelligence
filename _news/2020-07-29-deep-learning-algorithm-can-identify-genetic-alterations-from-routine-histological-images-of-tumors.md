@@ -40,20 +40,6 @@ related:
         width: 1400
         height: 788
         isCached: true
-  - title: "Deep learning algorithm identifies tumor subtypes based on routine histological images"
-    excerpt: "Researchers at the University of Chicago Medicine Comprehensive Cancer Center, working with colleagues in Europe, created a deep learning algorithm that can infer molecular alterations directly from routine histology images across multiple common tumor types."
-    publishedDateTime: 2020-07-28T13:46:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/uocm-dla072720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "mMAM2+UMYz9gkKCHZt9QV4ukVMknlWiwSUsYPPLpVtROs2UHQA1tOj5qlhDfutU4aaofsGbuzjzgpfgcjOfkJBHBvR6xbx1Ptnd8fDcUYa2eL5PlBXoiZnFbsvwSQmBkGq/ZvdV7Vi/bIYIF6OnKeD9pg5lNlNLrpHaaEboar8S+Lg5sAw/G3YCLkWkyeUk8jBjLy2LDC0eaGQKVvazc+TQg4+1NxE6jZ6A+lDRTeAJjssDIQUtiw+IVkm0wMnUxTOGpMteVoW7umPZy7K3JOCT4dt+qluw6XpNWzcJpA5F9U75UPDiXC2TGB/5a0s4pIMDkqNzebn3u52wSa7VPaDp02GKFdLrpRGhdrKuJa/DrH/AKrP3h0Q2Ee+pooSzN4AZqGHloOa9c/s4tIYQkwYBUEM2rPhfQsvIbLbMjVPhHK7S0wqdfw1ObFbV0NX66dZkH2rFC1lSiPv6HbNOgslBSrf+dbQwq8sw+HvDFCW6oUnqRUU2zRilriz5e9UBqc4aInaf5bbbMG0CZIX8yDA==;PpWXoXe6U8wXy1kqIjtFOA=="
 ---

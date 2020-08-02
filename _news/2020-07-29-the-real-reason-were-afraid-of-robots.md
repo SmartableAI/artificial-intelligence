@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Commentary: The real reason we're afraid of robots"
-    excerpt: "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport's immigration checkpoint, interprets your CT scans, reads your resume, traces your interactions on social media,"
-    publishedDateTime: 2020-07-28T13:08:00Z
-    webUrl: "https://www.fltimes.com/news/nation/commentary-the-real-reason-were-afraid-of-robots/article_34f7f15b-8a65-5b35-a151-d30f23801663.html"
-    type: article
-    provider:
-      name: Finger Lakes Times
-      domain: fltimes.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Iris Berent: The real reason we’re afraid of robots"
     excerpt: "Artificial intelligence is everywhere. It helps drive your car, recognizes your face at the airport’s immigration checkpoint, interprets your CT"
     publishedDateTime: 2020-07-29T04:06:00Z

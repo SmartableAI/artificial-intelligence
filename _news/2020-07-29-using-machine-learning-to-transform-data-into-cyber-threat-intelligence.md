@@ -34,20 +34,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "The Rise of Machine Learning"
-    excerpt: "Our August issue explores the way we process, analyze, and clearly present the massive amounts of information collected by scientists today."
-    publishedDateTime: 2020-07-28T14:16:00Z
-    webUrl: "https://eos.org/agu-news/the-rise-of-machine-learning"
-    type: article
-    provider:
-      name: Eos
-      domain: eos.org
-    quality: 39
-    images:
-      - url: "https://eos.org/wp-content/uploads/2020/07/data-streams-eos-august.png"
-        width: 820
-        height: 615
-        isCached: true
 
 secured: "xs043lKBUiJD4f1PYNJ4f8KoAbFukoXN3mfVdE/48XjbabtNGmIxGOA1O9TLe+slcEj8jty3Rz8Lark0jY0Ba7BFXy+iO+F31qv2H4+L8nzpmNIMafv+AEV9JeF6mMYVn+v+dxyogYiIINGzSc6cXRWMNJF0knfF40rHeqjT2DnVEa1ZnvtGF2U+3htbois8nZuX8F89y894+/xHcBFzLVVdjsWPNd+DiIz+SdfzOvfH4mDjW62I6G/Vu4KqDmCDkSv5fJLM3sEMDLZlaTuobTp9bVI3yKYp4oTa/bnAsQo0U5wmm6zkrcl6y2gdSUdq7gKZiZoQauRWmBwzGrjZlg==;U/h+/xUUvgeYPzxZVyIc7A=="
 ---

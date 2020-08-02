@@ -8,7 +8,7 @@ ampWebUrl: "https://technode.com/2020/07/29/bytedances-head-of-ai-to-leave-amid-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/29/bytedances-head-of-ai-to-leave-amid-heightened-scrutiny/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1920
     height: 1074
     isCached: true
-
-related:
-  - title: "TikTok owner ByteDance’s AI chief to leave as US pressure rises"
-    excerpt: "ByteDance's head of AI research is leaving the Beijing-based firm amid mounting scrutiny of the company's video app TikTok."
-    publishedDateTime: 2020-07-28T14:38:00Z
-    webUrl: "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T145238.994-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
 
 secured: "qphkghr1RkhusZeRptHblQsk2ujuJXoillW7HyjHrfn4rcIFz0hX7RSzxXxXOrYeDFw0wfZIGacC/OfvGB2K/c2d+E6eJ76cVqfm+6mOrSvRnXsQ29j2gr0UViMPhzhZmqyiozfh+5iO6zZiwhgDYdDvvFT75j2GjkLVzYbJWSzqO8roQrGXyVha/y8xUTteI14mZ+wmpsFlbJ546iFKrnkJiyNB1Kh8NRSd9ieHpeYTow1mvxQS1U6UXDv/Qb3Za9kmcBLPzZusxnpqBkv3PQ4JgQLo33Zgr6iEtdSWn/afph0JA5fCcazb29N9Xw8zr8xsnc2G1HNXAs/PKW6gnQ==;tAGHJmgOuvDKlQYlmSRO8w=="
 ---

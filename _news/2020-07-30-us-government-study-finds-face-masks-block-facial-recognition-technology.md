@@ -158,22 +158,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "U.S. studies new facial recognition tech built with masked faces in mind"
-    excerpt: "A new government study has concluded masked faces lead to higher error rates in existing facial recognition systems."
-    publishedDateTime: 2020-07-28T13:58:00Z
-    webUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/nist-united-states-study-masks-facial-recognition-tech/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 88
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/china-coronavirus-outbreak-ai-facial-recognition-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Rite Aid deployed facial recognition in hundreds of stores, report finds"
     excerpt: "Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores,"
     publishedDateTime: 2020-07-28T20:58:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://scienceblog.com/517615/looking-into-the-black-box-of-deep-le
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517615/looking-into-the-black-box-of-deep-learning/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ScienceBlog
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of Machine Learning"
-    excerpt: "Our August issue explores the way we process, analyze, and clearly present the massive amounts of information collected by scientists today."
-    publishedDateTime: 2020-07-28T14:16:00Z
-    webUrl: "https://eos.org/agu-news/the-rise-of-machine-learning"
-    type: article
-    provider:
-      name: Eos
-      domain: eos.org
-    quality: 39
-    images:
-      - url: "https://eos.org/wp-content/uploads/2020/07/data-streams-eos-august.png"
-        width: 820
-        height: 615
-        isCached: true
   - title: "Using Machine Learning to Transform Data into Cyber Threat Intelligence"
     excerpt: "If done correctly, the combination of threat analysis and data analysis utilized with machine learning can help security teams quickly turn raw data into effective operational cyber threat intelligence. Cyber threat intelligence could incorporate any ..."
     publishedDateTime: 2020-07-29T14:30:00Z

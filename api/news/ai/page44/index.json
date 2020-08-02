@@ -2,47 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2020-06-23-aws-formula-1-put-new-performance-stats-in-pole-position.md",
-      "title": "AWS, Formula 1 put new performance stats in pole position",
-      "excerpt": "Will use use data from Amazon Simple Storage Service (Amazon S3), as well as information streamed from sensors on F1 race cars and trackside",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/production-post/aws-formula-1-put-new-performance-stats-in-pole-position",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2020/06/aws-F1-726x408.jpg",
-          "width": 726,
-          "height": 408,
-          "title": "AWS, Formula 1 put new performance stats in pole position",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/production-post/aws-formula-1-put-new-performance-stats-in-pole-position?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/production-post/aws-formula-1-put-new-performance-stats-in-pole-position?amp",
-      "publishedDateTime": "2020-06-23T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-23-without-the-hidden-layers-of-an-artificial-neural-network-deep-learning-will-not-even-exist.md",
       "title": "Without the hidden layers of an Artificial Neural Network, Deep Learning will not even exist!",
       "excerpt": "How does the hidden layer decode the black box of decision making? Learn how Artificial Neural Networks (ANNs) and Deep neural network (DNNs) contribute to the incredibly tough task of complex predictions.",
@@ -1308,6 +1267,47 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-apple-announces-real-time-translation-for-11-languages-with-siri.md",
+      "title": "Apple Announces Real-Time Translation For 11 Languages With Siri",
+      "excerpt": "Apple just announced that iOS 14 will offer live real-time translation for 11 languages, even offline, at its World Wide Developer Conference being held online this week. But the third-most spoken language globally,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/22/apple-announces-real-time-translation-for-11-languages-with-siri/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/22/apple-announces-real-time-translation-for-11-languages-with-siri/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/22/apple-announces-real-time-translation-for-11-languages-with-siri/amp/",
+      "publishedDateTime": "2020-06-22T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

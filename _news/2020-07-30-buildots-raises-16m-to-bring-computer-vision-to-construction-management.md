@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-compu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
 type: article
 quality: 103
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -45,6 +45,38 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/07/Headshot-Anna-Katrina-Shedletsky-CEO.png?w=300"
         width: 300
         height: 300
+        isCached: true
+  - title: "Candis raises nearly $14 million to automate accounting processes with AI"
+    excerpt: "Candis, a startup developing a platform for automated accounting and payment processes, this week closed a €12 million ($13.97 million) financing round. A spokesperson for the company said it ..."
+    publishedDateTime: 2020-07-30T12:02:00Z
+    webUrl: "https://venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/146b3f7d-5b70-434d-b6bd-d21f8fa3db27-e1595615072117.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The AI Foundation raises $17 million to create digital AI-powered personas"
+    excerpt: "The AI Foundation, a startup developing technology that powers digital personas, has raised $17 million in venture capital."
+    publishedDateTime: 2020-07-30T12:00:00Z
+    webUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/"
+    ampWebUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/106280242-1575548423323digitaldeepak-e1596118510259.jpeg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Aquicore raises $14 million for AI tools to optimize commercial building energy usage"
     excerpt: "Aquicore, a startup developing building management and optimization solutions powered by AI, has raised $14 million in venture capital."

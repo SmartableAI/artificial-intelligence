@@ -8,7 +8,7 @@ ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/290720/artific
 cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200729203609.Medi.jpeg"
         width: 800
         height: 448
-        isCached: true
-  - title: "Artificial intelligence can expedite Alzheimer's diagnosis, improve patient prognosis"
-    excerpt: "Artificial intelligence (AI) could help to diagnose Alzheimer's faster and improve patient prognosis, a new study from the University of Sheffield has revealed."
-    publishedDateTime: 2020-07-28T14:37:00Z
-    webUrl: "https://www.news-medical.net/news/20200728/Artificial-intelligence-can-expedite-Alzheimers-diagnosis-improve-patient-prognosis.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200728/Artificial-intelligence-can-expedite-Alzheimers-diagnosis-improve-patient-prognosis.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200728/Artificial-intelligence-can-expedite-Alzheimers-diagnosis-improve-patient-prognosis.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 52
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
   - title: "Artificial intelligence could speed up and improve Alzheimer's diagnosis"
     excerpt: "Research examines how the routine use of Artificial Intelligence (AI) in healthcare could help to relieve the economic impact neurodegenerative diseases, such as Alzheimer's."
