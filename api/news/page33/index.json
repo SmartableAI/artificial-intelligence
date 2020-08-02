@@ -2,6 +2,55 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-07-07-monkeylearn-raises-22m-to-build-out-its-no-code-ai-text-analysis-service.md",
+      "title": "MonkeyLearn raises $2.2M to build out its no-code AI text analysis service",
+      "excerpt": "A few years back, startups focusing on artificial intelligence had a whiff of bullshit about them; venture capitalists became inured to young tech companies claiming that their new AI-powered product was going to change the world as hype exceeded product reality.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/07/monkeylearn-raises-2-2m-to-build-out-its-no-code-ai-text-analysis-service/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-06-at-2.56.47-PM.png?w=1005",
+          "width": 1005,
+          "height": 598,
+          "title": "MonkeyLearn raises $2.2M to build out its no-code AI text analysis service",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/07/monkeylearn-raises-2-2m-to-build-out-its-no-code-ai-text-analysis-service/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/07/monkeylearn-raises-2-2m-to-build-out-its-no-code-ai-text-analysis-service/amp/",
+      "publishedDateTime": "2020-07-07T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-researchers-use-ai-and-audio-to-predict-where-objects-will-land.md",
       "title": "Researchers use AI and audio to predict where objects will land",
       "excerpt": "Researchers at Carnegie Mellon University explored whether sound could be used to train AI models to predict the motion of objects.",
@@ -1070,47 +1119,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies.md",
-      "title": "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
-      "excerpt": "DeepMap today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101",
-      "publishedDateTime": "2020-07-06T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

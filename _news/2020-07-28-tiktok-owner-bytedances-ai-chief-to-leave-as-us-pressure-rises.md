@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ByteDance AI Research Head to Leave as Pressure Mounts on TikTok"
-    excerpt: "Ying joined ByteDance from Microsoft to become a vice president and head of the AI lab in 2017. His departure comes as TikTok faces regulatory challenges across the globe, and a potential ban by the U."
-    publishedDateTime: 2020-07-28T06:58:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
   - title: "Bytedance’s head of AI to leave amid heightened scrutiny"
     excerpt: "Ying will leave Bytedance this week, as the company faces investigations and bans in its international markets."
     publishedDateTime: 2020-07-29T07:06:00Z

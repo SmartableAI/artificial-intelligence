@@ -3,7 +3,7 @@ category: news
 title: "How to unlock your iPhone without a PIN or face recognition"
 excerpt: "Wearing a mask can be a pain when trying to unlock an iPhone using Face ID. Here's how to unlock your iPhone without a PIN or face recognition."
 publishedDateTime: 2020-07-27T14:54:00Z
-webUrl: "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=4&itm_content=1x4&itm_term=2361344"
+webUrl: "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=85&itm_content=2x4&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 628
     isCached: true
 
-secured: "pZWceF77Qy2wHZ3RQeIbHu1oeiDUwMK/JeLmOT6/0wPDbWrcmY+brdykiQ1kNVnQBX1Af0aSCs7H2YjMGh9kKi0Ui/PDXNlWj9rg/DSPp2wUBq5rDpwD+yNwfbLqEleEJaMEMNSNVN373nwfXeHcREdnEG4P9BMOs9S8vUPJk1zl+WFoE/817expXcnXHeZ8oMwUiNFqj6VZ5saNUMpfbWLAXjezv5FzVSon4yTW4ZDShjjRvwEhK63NTVGDFC+jGbfDQ+phRWyMg8eR22r1b6HoF1uQOMy3NMXBwgFYXov0pKVXW+B6J2o12060vGkD1rXfVv7otUMiz6lfrPn+MQ==;eDyugaFe3tr4Avol4L92mA=="
+secured: "tV9rr+YvsMfEDpnzsLL7CWAkfdcapX+SteGWPg+x8jJTqJCvDwSZi7XeYR5IYxk4UKYh4/huBQrsW44ggla7voZrJVWmkC9sg9yyoo3FDKcE/260T4g5i+nDT0FO8zROv1mw8MAn0740oYHKCKVfJN9WGRnVxkvfz4V+OZj7QpVGnrdxujvYzLCF/p239qA5vE6yfCifzUzifz6zB0BgErAhq2dmD4coBa1v88UOX0PKdt+DTxUrK1yJUjJrSCwD6VIdV8QlPCDSGCNAMfpF3Hmt/3BLZbrwD+YcGt10PK8eWbwgdNfh7EJ1R1+WD/NAehj6O8ly9ufWqZIb+Cxrhw==;LG3gnntKWuohH9LtlmDLwg=="
 ---
 

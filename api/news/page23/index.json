@@ -2,6 +2,56 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-07-14-seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies.md",
+      "title": "Seebo raises $9 million for AI tools that spot and fix manufacturing inefficiencies",
+      "excerpt": "And Microsoft itself provides Azure Digital Twins and Project Bonsai ... and applying process-based AI to predict and help prevent issues that drive scrap and rework. Seebo accounts for production ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/b0d69bbe-6c80-4f0d-993b-0e57dc0a5909-e1594077034984.png?w=1200&#038;strip=all",
+          "width": 1180,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies/amp/",
+      "publishedDateTime": "2020-07-14T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-google-cloud-announces-bigquery-omni-multicloud-analytics-solution.md",
       "title": "Google Cloud announces BigQuery Omni multicloud analytics solution",
       "excerpt": "The platform allows users to directly access data across Google Cloud, AWS and Azure without having to move or copy datasets.",
@@ -1101,46 +1151,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-artificial-intelligence-predicts-which-planetary-systems-will-survive.md",
-      "title": "Artificial intelligence predicts which planetary systems will survive",
-      "excerpt": "Why don't planets collide more often? How do planetary systems—like our solar system or multi-planet systems around other stars—organize themselves? Of all of the possible ways planets could orbit, how many configurations will remain stable over the billions of years of a star's life cycle?",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-07-artificial-intelligence-planetary-survive.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/37-artificialin.jpg",
-          "width": 1152,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp",
-      "publishedDateTime": "2020-07-13T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

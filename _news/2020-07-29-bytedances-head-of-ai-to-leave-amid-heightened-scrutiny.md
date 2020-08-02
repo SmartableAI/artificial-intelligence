@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ByteDance AI Research Head to Leave as Pressure Mounts on TikTok"
-    excerpt: "Ying joined ByteDance from Microsoft to become a vice president and head of the AI lab in 2017. His departure comes as TikTok faces regulatory challenges across the globe, and a potential ban by the U."
-    publishedDateTime: 2020-07-28T06:58:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-28/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
 
 secured: "qphkghr1RkhusZeRptHblQsk2ujuJXoillW7HyjHrfn4rcIFz0hX7RSzxXxXOrYeDFw0wfZIGacC/OfvGB2K/c2d+E6eJ76cVqfm+6mOrSvRnXsQ29j2gr0UViMPhzhZmqyiozfh+5iO6zZiwhgDYdDvvFT75j2GjkLVzYbJWSzqO8roQrGXyVha/y8xUTteI14mZ+wmpsFlbJ546iFKrnkJiyNB1Kh8NRSd9ieHpeYTow1mvxQS1U6UXDv/Qb3Za9kmcBLPzZusxnpqBkv3PQ4JgQLo33Zgr6iEtdSWn/afph0JA5fCcazb29N9Xw8zr8xsnc2G1HNXAs/PKW6gnQ==;tAGHJmgOuvDKlQYlmSRO8w=="
 ---
