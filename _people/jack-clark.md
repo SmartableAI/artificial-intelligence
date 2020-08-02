@@ -10,7 +10,7 @@ website: https://jack-clark.net/
 twitter:
   username: jackclarksf
   url: https://twitter.com/jackclarksf
-  followers: 40321
+  followers: 40320
 
 topics:
   - AI
