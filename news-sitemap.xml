@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/2020/08/02/ai-is-struggling-to-adjust-to-2020/</loc>
+    <lastmod>2020-08-02T08:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/</loc>
     <lastmod>2020-08-02T04:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -379,6 +385,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech</loc>
+    <lastmod>2020-07-29T08:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnbc.com/video/2020/07/29/ai-machine-learning-dependency-limitations-and-bias.html</loc>
     <lastmod>2020-07-29T08:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -471,6 +483,12 @@
   <url>
     <loc>https://www.zdnet.com/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/</loc>
     <lastmod>2020-07-28T19:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-fraud-detector-2020-07-28</loc>
+    <lastmod>2020-07-28T18:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -747,6 +765,12 @@
   <url>
     <loc>https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/</loc>
     <lastmod>2020-07-27T09:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27</loc>
+    <lastmod>2020-07-27T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

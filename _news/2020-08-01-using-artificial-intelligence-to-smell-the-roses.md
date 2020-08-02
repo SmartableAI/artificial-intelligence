@@ -55,15 +55,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Using artificial intelligence to smell the roses"
-    excerpt: "A pair of researchers has used machine learning to understand what a chemical smells like -- a research breakthrough with potential applications in the food flavor and fragrance industries."
-    publishedDateTime: 2020-07-28T22:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/07/200728182544.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "New AI Software Helps Businesses Reopen During the Pandemic"
     excerpt: "Now, Tata Consultancy Services (TCS) is joining the fray with new, AI-powered software that aims to help businesses reopen during the pandemic. TCS describes the new software, called IUX for Workplace Resilience, as a “business command center solution.”"
     publishedDateTime: 2020-07-31T16:06:00Z

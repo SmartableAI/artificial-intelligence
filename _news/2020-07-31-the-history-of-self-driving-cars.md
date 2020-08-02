@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Deadline set for Dubai's Dh6.3 million self-driving transport competition"
+    excerpt: "A deadline of August 31 has been set for entries to this year’s Dubai World Self-Driving Transport Challenge. There are prizes of up to Dh6.3 million up for grabs at the annual event which is organised by the emirate’s Roads and Transport Authority (RTA)."
+    publishedDateTime: 2020-08-02T13:46:00Z
+    webUrl: "https://www.thenational.ae/uae/transport/deadline-set-for-dubai-s-dh6-3-million-self-driving-transport-competition-1.1057979"
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 38
+    images:
+      - url: "https://www.thenational.ae/image/policy:1.1057978:1596379615/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-Driving Cars Will Make Life Better—For Some of Us"
     excerpt: "True self-driving cars are still likely decades away, but it might behoove us to start planning for them, and how they’ll change society, now."
     publishedDateTime: 2020-07-29T21:23:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwar
 cdnAmpWebUrl: "https://www-uticaod-com.cdn.ampproject.org/c/s/www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Uticaod
@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus masks make it harder for facial recognition algorithms to ID people, study finds"
-    excerpt: "Coronavirus face masks can confuse facial recognition technology, government researchers announced Monday after a preliminary study on the issue. Facial recognition algorithms developed before the outbreak struggle to identify people wearing masks or face coverings,"
-    publishedDateTime: 2020-07-28T21:33:00Z
-    webUrl: "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms"
-    ampWebUrl: "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 78
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Face-recognition-with-mask.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Facial recognition, thermal imaging part of future with coronavirus"
-    excerpt: "The coronavirus pandemic has inspired a new wave of technology closely tied to Ohio businesses, including thermal imaging and facial recognition software"
-    publishedDateTime: 2020-07-30T16:50:00Z
-    webUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus"
-    ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 59
-    images:
-      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200730&Category=BUSINESS&ArtNo=200739920&Ref=AR"
-        width: 1276
-        height: 715
-        isCached: true
   - title: "Top facial recognition tech is thrown off by masks, study says, but that could soon change"
     excerpt: "The algorithms can be tripped up by such variables as mask color and shape, researchers find, pushing error rates as high as 50 percent."
     publishedDateTime: 2020-07-29T17:28:00Z
@@ -88,6 +56,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Paravision Achieves Global Top 2 Ranking in NIST Test of Face Recognition with Masks"
+    excerpt: "SAN FRANCISCO, July 29, 2020 /PRNewswire-PRWeb/ -- Paravision, the US-based leader in mission critical computer vision, announced today that it achieved top 2 accuracy globally on the National Institute of Standards and Technology (NIST) Face Recognition ..."
+    publishedDateTime: 2020-07-29T11:55:00Z
+    webUrl: "https://www.medindia.net/health-press-release/paravision-achieves-global-top-2-ranking-in-nist-test-of-face-recognition-with-masks-479646-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 12
 
 secured: "UKt1fvE2Y1s5ytKra88H/HrLHpe+q1ZBI07S4m7FA4BSmqmLu6YlH1vqekUUPfuFpGPKaAqZDNyLOUbqHxUlr68IWMWnxqy1mkvHYATtNI9H6yN5My45jLwb8Qsv/jcyTkomfNXFr0DZiXwdsVMYNUodPu+l2smHykE2WWpLOqJsYrwMZub1fCi8uF9ZvrWXr6s/FBj5ro8dDNIobDrKP85Lt7Of+psY2ndNFuMDG/R18plcICsUnmOT0EXww79iASpBSmHAfH3O2i21XVLL9giAHDLGFJQi75TxF1ARL7MQXW2bQ33yG56DqTSRuVzxMv3DEKuYpZwt/8CscqliXw==;9QhtbANaopcKgAkol8PgvQ=="
 ---

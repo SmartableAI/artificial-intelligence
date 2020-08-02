@@ -46,38 +46,6 @@ related:
         width: 831
         height: 545
         isCached: true
-  - title: "Rite Aid's 200 facial recognition cameras revealed in investigation"
-    excerpt: "A sweeping investigative report has revealed that drugstore chain Rite Aid quietly added facial recognition systems to 200 stores across the U.S. in an attempt to bust repeat shoplifters. The Reuters investigation found facial recognition cameras at 33 of ..."
-    publishedDateTime: 2020-07-28T21:52:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8569753/Rite-Aids-200-facial-recognition-cameras-revealed-investigation.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8569753/amp/Rite-Aids-200-facial-recognition-cameras-revealed-investigation.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8569753/amp/Rite-Aids-200-facial-recognition-cameras-revealed-investigation.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 74
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/28/22/31304432-0-image-a-46_1595971699763.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Do face masks make facial recognition tech less accurate?"
-    excerpt: "According to a new study by the National Institute of Standards and Technology (NIST), the face masks that we should all be wearing to protect ourselves from the coronavirus can impede the ability of facial recognition systems to correctly identify us."
-    publishedDateTime: 2020-07-28T21:30:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-07292020.html"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/Question-of-the-Day-for-07292020.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Question-of-the-Day-for-07292020.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1678682485.jpg"
-        width: 977
-        height: 630
-        isCached: true
   - title: "Face masks are screwing up facial recognition software"
     excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
     publishedDateTime: 2020-07-28T23:54:00Z
@@ -93,22 +61,6 @@ related:
       - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
         width: 775
         height: 438
-        isCached: true
-  - title: "Face Masks Are Thwarting Facial Recognition Tech"
-    excerpt: "New research from the National Institute of Standards and Technology (NIST) suggests face masks are hampering facial recognition systems. Because the protective coverings obscure the bottom half of the face,"
-    publishedDateTime: 2020-07-28T21:25:00Z
-    webUrl: "https://www.popularmechanics.com/technology/security/a33446640/face-masks-facial-recognition/"
-    ampWebUrl: "https://www.popularmechanics.com/technology/security/amp33446640/face-masks-facial-recognition/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp33446640/face-masks-facial-recognition/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/young-woman-wears-a-face-mask-as-she-listens-to-speakers-in-news-photo-1595967818.jpg?crop=1xw:0.76304xh;center,top&resize=1200:*"
-        width: 1024
-        height: 512
         isCached: true
   - title: "Face masks are messing up facial recognition software"
     excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."

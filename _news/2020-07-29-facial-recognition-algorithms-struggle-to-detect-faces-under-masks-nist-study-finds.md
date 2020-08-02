@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus masks make it harder for facial recognition algorithms to ID people, study finds"
-    excerpt: "Coronavirus face masks can confuse facial recognition technology, government researchers announced Monday after a preliminary study on the issue. Facial recognition algorithms developed before the outbreak struggle to identify people wearing masks or face coverings,"
-    publishedDateTime: 2020-07-28T21:33:00Z
-    webUrl: "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms"
-    ampWebUrl: "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 78
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Face-recognition-with-mask.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
     excerpt: "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ..."
     publishedDateTime: 2020-07-29T15:23:00Z
@@ -55,22 +39,6 @@ related:
       - url: "https://www.uticaod.com/apps/pbcsi.dll/bilde?Site=NY&Date=20200729&Category=NEWS&ArtNo=200729574&Ref=AR"
         width: 726
         height: 480
-        isCached: true
-  - title: "Facial recognition, thermal imaging part of future with coronavirus"
-    excerpt: "The coronavirus pandemic has inspired a new wave of technology closely tied to Ohio businesses, including thermal imaging and facial recognition software"
-    publishedDateTime: 2020-07-30T16:50:00Z
-    webUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus"
-    ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 59
-    images:
-      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200730&Category=BUSINESS&ArtNo=200739920&Ref=AR"
-        width: 1276
-        height: 715
         isCached: true
   - title: "Top facial recognition tech is thrown off by masks, study says, but that could soon change"
     excerpt: "The algorithms can be tripped up by such variables as mask color and shape, researchers find, pushing error rates as high as 50 percent."
@@ -88,6 +56,15 @@ related:
         width: 726
         height: 480
         isCached: true
+  - title: "Paravision Achieves Global Top 2 Ranking in NIST Test of Face Recognition with Masks"
+    excerpt: "SAN FRANCISCO, July 29, 2020 /PRNewswire-PRWeb/ -- Paravision, the US-based leader in mission critical computer vision, announced today that it achieved top 2 accuracy globally on the National Institute of Standards and Technology (NIST) Face Recognition ..."
+    publishedDateTime: 2020-07-29T11:55:00Z
+    webUrl: "https://www.medindia.net/health-press-release/paravision-achieves-global-top-2-ranking-in-nist-test-of-face-recognition-with-masks-479646-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 12
 
 secured: "+aYnWtehQsJZZuinv7wqjKUi+Qhrq5hVmcnP5oNtIqd3rq0OeKOFAiyPrEVewbYElY9eO22hIKR4eINB2YK7op2wGP52Q2CWmJDAZYkOf3qkCd7ai0VSoTuW5GOahTl6XPVPBQfDdWEr9U/uu6LPvkS6tkkoICO/ooobKDCEzCswe+Hi/eYhP8c2LeJqHDu2MG5ZoIndO1rHByOZt9Q1lNGNA8QBaL28hs89sOeY1QYpcEpjZOD8P41wP03+fueCLya+pHJOXPTO5/i1ix6mBz+p+4TGjyt9ynWBiVKD6QqzQCKWgmo09+Fczdf1iF99qOmyz6MLWlzS7Gz2HmAohQ==;JWMj0K5jtM3EIVE+PSzg/g=="
 ---

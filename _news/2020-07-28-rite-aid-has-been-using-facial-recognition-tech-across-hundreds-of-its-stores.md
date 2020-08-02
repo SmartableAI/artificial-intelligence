@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/86165-rite-aid-has-using-facial-re
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86165-rite-aid-has-using-facial-recognition-tech-across.html"
 type: article
 quality: 101
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rite Aid surveilled customers using facial recognition tech with links to China"
-    excerpt: "A new report from Reuters uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government."
-    publishedDateTime: 2020-07-28T22:01:00Z
-    webUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance/"
-    ampWebUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 100
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Yeah, So It Turns Out Rite Aid Has Been Using Face Recognition at Hundreds of Stores"
     excerpt: "Rite Aid used face recognition to scan the faces of every single customer who walked into hundreds of its stores in a program encompassing most of the past decade, Reuters reported on Tuesday."
     publishedDateTime: 2020-07-28T23:13:00Z

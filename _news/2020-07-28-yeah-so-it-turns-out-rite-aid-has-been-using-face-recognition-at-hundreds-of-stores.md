@@ -46,22 +46,6 @@ related:
         width: 1680
         height: 1120
         isCached: true
-  - title: "Rite Aid surveilled customers using facial recognition tech with links to China"
-    excerpt: "A new report from Reuters uncovered facial recognition cameras throughout dozens of Rite Aid locations in largely low-income, non-white neighborhoods in New York and Los Angeles. Furthermore, the investigation also discovered that the facial recognition firm has ties to the Chinese government."
-    publishedDateTime: 2020-07-28T22:01:00Z
-    webUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance/"
-    ampWebUrl: "https://mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/rite-aid-facial-recognition-surveillance.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 100
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade"
     excerpt: "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years."
     publishedDateTime: 2020-08-01T13:00:00Z

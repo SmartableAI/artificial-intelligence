@@ -56,15 +56,6 @@ related:
         height: 533
         isCached: true
   - title: "Using artificial intelligence to smell the roses"
-    excerpt: "A pair of researchers has used machine learning to understand what a chemical smells like -- a research breakthrough with potential applications in the food flavor and fragrance industries."
-    publishedDateTime: 2020-07-28T22:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/07/200728182544.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "Using artificial intelligence to smell the roses"
     excerpt: "A pair of researchers at the University of California, Riverside, has used machine learning to understand what a chemical smells like -- a research breakthrough with potential applications in the food flavor and fragrance industries."
     publishedDateTime: 2020-08-01T20:14:00Z
     webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--uai072820.php"

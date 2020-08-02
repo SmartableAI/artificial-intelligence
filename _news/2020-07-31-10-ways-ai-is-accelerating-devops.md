@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 712
     isCached: true
-
-related:
-  - title: "10 Ways AI Is Improving New Product Development"
-    excerpt: "Startups’ ambitious AI-based new product development is driving AI-related investment with $16.5B raised in 2019, driven by 695 deals"
-    publishedDateTime: 2020-07-28T22:21:00Z
-    webUrl: "https://www.business2community.com/product-management/10-ways-ai-is-improving-new-product-development-02330833"
-    ampWebUrl: "https://www.business2community.com/product-management/10-ways-ai-is-improving-new-product-development-02330833/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/product-management/10-ways-ai-is-improving-new-product-development-02330833/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2020/07/figure-3-10-ways-ai-is-improving-new-product-development.jpg"
-        width: 773
-        height: 465
-        isCached: true
 
 secured: "UG4B//cqIA5pY0+aJl6yRdu6f4eeNf4q+uVqzQzfIGWXrkA54lroctcUxYQDmZbRbw2AGf8tAuT8oxvRtt7mAQ61fexKo3Gz/0USgap3G57xBiHLEOVqazTP46vBpYF6Wd5jmJOlLt4lpA1iifBSg6W+9IRUnCdEwyUAzhZbST3rbzi1iI0c0kt69YwBMxItlkRpCkkhoLK5YGTU1k7mxnw6UQBejrDU65emWUJkM3+iKhRWwx6IMtraoYGqzLURg0Jy3NlX9fypcaXZCC7cwBhoZGsnOcl6MY+5phQq6aeqdqizHJE1wpd0Lq4dR/NS/um1hgfaROn8msFVRitgJkYraOd56PLhZ9z1zzx0zNVpdD+8PckVl/vAoEqE5bREocTNdgWTth9gCuTir/+JX+PsTvGQ/PHznWxKE2HV5m68lhIFnMgSPKdMQgE3rZA7ZRd8uqps6yw5JGV4xINrMlOrTL5HU5oubbnjQU93I8l8FfcVlGsrk12PosruynA3UCJUgjtm5tX/hPHRWcXHkg==;PyKEoHEq/QsKeO6oHSFmEw=="
 ---
