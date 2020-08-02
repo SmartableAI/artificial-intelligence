@@ -19,12 +19,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/01/using-machine-learning-to-automate-data-coding-at-the-bureau-of-labor-statistics-bls/</loc>
-    <lastmod>2020-08-01T10:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/</loc>
     <lastmod>2020-08-01T10:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -139,6 +133,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.unr.edu/nevada-today/blogs/2020/ai-and-research</loc>
+    <lastmod>2020-07-30T19:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://medicalxpress.com/news/2020-07-local-covid-ai.html</loc>
     <lastmod>2020-07-30T19:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -249,6 +249,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/</loc>
     <lastmod>2020-07-30T05:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/30/why-self-driving-cars-might-never-become-a-commodity/</loc>
+    <lastmod>2020-07-30T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -739,7 +745,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=3&amp;itm_content=4x6&amp;itm_term=2361344</loc>
+    <loc>https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=8&amp;itm_content=2x6&amp;itm_term=2377051</loc>
     <lastmod>2020-07-27T07:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

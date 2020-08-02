@@ -34,22 +34,6 @@ related:
         width: 831
         height: 545
         isCached: true
-  - title: "Face masks are breaking facial recognition algorithms, says new government study"
-    excerpt: "Face masks are one of the best defenses against the spread of COVID-19, but their growing adoption is having a second, unintended effect: breaking facial recognition algorithms. Wearing face masks that adequately cover the mouth and nose causes the error rate of some of the most widely used facial recognition algorithms to spike to between 5 percent and 50 percent,"
-    publishedDateTime: 2020-07-28T10:14:00Z
-    webUrl: "https://www.theverge.com/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/28/21344751/facial-recognition-face-masks-accuracy-nist-study"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/7wBcQXnfx_0Fz6A7TxT_uveln8A=/0x0:5000x3333/1400x933/filters:focal(2100x1267:2900x2067):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67119641/1227809769.jpg.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Face masks are messing up facial recognition software"
     excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
     publishedDateTime: 2020-07-29T17:35:00Z

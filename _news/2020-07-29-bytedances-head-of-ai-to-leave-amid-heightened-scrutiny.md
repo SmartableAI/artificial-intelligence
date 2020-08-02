@@ -41,22 +41,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "A key AI executive at TikTok parent ByteDance is leaving as geopolitical pressure mounts on the app"
-    excerpt: "Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company."
-    publishedDateTime: 2020-07-28T09:33:00Z
-    webUrl: "https://www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://i.insider.com/5f1fec873ad8614fa66e6803?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "qphkghr1RkhusZeRptHblQsk2ujuJXoillW7HyjHrfn4rcIFz0hX7RSzxXxXOrYeDFw0wfZIGacC/OfvGB2K/c2d+E6eJ76cVqfm+6mOrSvRnXsQ29j2gr0UViMPhzhZmqyiozfh+5iO6zZiwhgDYdDvvFT75j2GjkLVzYbJWSzqO8roQrGXyVha/y8xUTteI14mZ+wmpsFlbJ546iFKrnkJiyNB1Kh8NRSd9ieHpeYTow1mvxQS1U6UXDv/Qb3Za9kmcBLPzZusxnpqBkv3PQ4JgQLo33Zgr6iEtdSWn/afph0JA5fCcazb29N9Xw8zr8xsnc2G1HNXAs/PKW6gnQ==;tAGHJmgOuvDKlQYlmSRO8w=="
 ---

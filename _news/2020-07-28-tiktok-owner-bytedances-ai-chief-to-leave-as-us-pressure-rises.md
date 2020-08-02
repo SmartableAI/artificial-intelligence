@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "A key AI executive at TikTok parent ByteDance is leaving as geopolitical pressure mounts on the app"
-    excerpt: "Beijing-based ByteDance said on Tuesday the head of its artificial intelligence lab will leave the company."
-    publishedDateTime: 2020-07-28T09:33:00Z
-    webUrl: "https://www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bytedance-ai-research-head-to-leave-as-pressure-mounts-on-tiktok-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://i.insider.com/5f1fec873ad8614fa66e6803?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Bytedance’s head of AI to leave amid heightened scrutiny"
     excerpt: "Ying will leave Bytedance this week, as the company faces investigations and bans in its international markets."
     publishedDateTime: 2020-07-29T07:06:00Z
