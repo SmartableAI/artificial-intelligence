@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Face masks are screwing up facial recognition software"
-    excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
-    publishedDateTime: 2020-07-28T23:54:00Z
-    webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
-    ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 59
-    images:
-      - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
-        width: 775
-        height: 438
-        isCached: true
   - title: "New York Lawsuit Over School Facial Recognition Use Grows"
     excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
     publishedDateTime: 2020-07-30T19:07:00Z

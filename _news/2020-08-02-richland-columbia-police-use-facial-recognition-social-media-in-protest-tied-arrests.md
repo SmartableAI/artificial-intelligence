@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
 cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
+    excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
+    publishedDateTime: 2020-08-01T14:18:00Z
+    webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
+    ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 38
+    images:
+      - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
+        width: 1200
+        height: 899
+        isCached: true
 
 secured: "axNMBlBKiz4esSinTPvlM8+wo88Wo5pIoZa0g8/NR4UdSz3rFQFsIlbKcWL1IzkjKM0H/yWueE70Dtp1em9B6AxoH0t6UmND+UAWbrj/HQ1P5lI5fbvHdDpXlVSEDArEdpoeBkVS5vZniTbyKbjDrW/VUpQCRa49HqnXX1cj1Etf37it+SD0c1GpfVkyPnE7652c6pydsSlvKjmAyKaBiD5/jmW7/IRm+1niCeyxsXKWzvglj3yDHw/7Kih2gmDAtERI/9OPUzZyre7/igQzurALisT5SyhddsCQXCQnVs1/A4GNzXt9Ni0GevNCfi7k8+JmNBfKw02cKvy5au20Lg==;PvlzIrlKaDW9OIWxZA1m2A=="
 ---

@@ -46,22 +46,6 @@ related:
         width: 831
         height: 545
         isCached: true
-  - title: "Face masks are screwing up facial recognition software"
-    excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
-    publishedDateTime: 2020-07-28T23:54:00Z
-    webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
-    ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 59
-    images:
-      - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
-        width: 775
-        height: 438
-        isCached: true
   - title: "Face masks are messing up facial recognition software"
     excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
     publishedDateTime: 2020-07-29T17:35:00Z

@@ -5,8 +5,8 @@ excerpt: "Psychologist Frank Rosenblatt invented the first Artificial Neural Net
 publishedDateTime: 2020-08-02T14:00:00Z
 webUrl: "https://www.thestreet.com/mishtalk/ask/artificial-neural-network-the-brain-behind-today-s-smart-technology-l-oCKm4HF0OYVryggZbQBQ"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://s3-us-west-2.amazonaws.com/maven-user-photos/mishtalk/ask/syRQfd4a5Ui-mmq93HE4dA/f-d1blVBckGRYDC5Yq7t7A"

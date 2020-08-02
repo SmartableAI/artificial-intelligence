@@ -23,17 +23,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "Harqen.AI Launches Transformative AI Solution to Produce a More Streamlined and Predictive Hiring Process for Employers"
-    excerpt: "MILWAUKEE, July 28, 2020 /PRNewswire/ -- Harqen.AI, a leading provider of smart interviewing technologies for recruiters, announces the launch of the Harqen Machine Learning Platform, a new solution designed to make the hiring process more productive and ..."
-    publishedDateTime: 2020-07-28T23:43:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/harqen-ai-launches-transformative-ai-solution-to-produce-a-more-streamlined-and-predictive-hiring-process/article_48bb0e3e-5791-5454-8abc-2323114da8c1.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-
 secured: "sd9DgyrWU1kaQFhGg8/rJ4+owLeJNZ3tlF6aoWDDNMUiKyb5vdaXeaoQm7C0KOq8aGViEoT5wbWMZYax937QRxvGrIep/dqgnTxELEBjMDkDxDv6Funa/94hpCXg67W+JI9iZdt8JLN7dq6Ek2MfGOJGnLMNEJRI4W4oqru8Qv7yyJ9B+KuySXjBAnU4iRHzFqxCGC+SJag35pRGOFlJw/7ZMaQULEBAB0Dioeyu0p3g6kXlkdTLHLkw9naY2lYaPUD3NMBHr3RTxM8R5Inr/8fvXSIlctcn3JcR4bH6wBp+a7Mmvok25C0ikLikh+lRu7RA9cpcwZG+gEVQjH9+bg==;47dd1ZGmJaM5FqDxr0JEyQ=="
 ---
 

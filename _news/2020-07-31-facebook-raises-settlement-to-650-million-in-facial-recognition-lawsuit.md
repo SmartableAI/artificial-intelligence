@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
 type: article
 quality: 103
-heat: 193
+heat: 183
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/4dfef41/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2Fe7%2F6f9f06cc4df3af243f890df8916b%2Fdepositphotos-372250156-l-2015.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Face masks are screwing up facial recognition software"
-    excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
-    publishedDateTime: 2020-07-28T23:54:00Z
-    webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
-    ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 59
-    images:
-      - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
-        width: 775
-        height: 438
         isCached: true
   - title: "Face masks are messing up facial recognition software"
     excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
