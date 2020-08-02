@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence presents new and unique challenges to ethics a
 publishedDateTime: 2020-07-31T16:55:00Z
 webUrl: "https://www.americanbanker.com/leaders/the-ethical-concerns-that-come-along-with-the-growing-complexity-and-all-presence-of-ai"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/b98c8ff/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F0d%2F45%2F10cdf28a4b9b999bf99cfdd67950%2Faudio-asset-1280x720-copy-3-1x-1.png"

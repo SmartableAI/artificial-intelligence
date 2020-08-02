@@ -1,25 +1,25 @@
 ---
 category: news
-title: "IMD Plans To Use Artificial Intelligence In Weather Forecasting"
-excerpt: "The IMD has invited research groups who can study how artificial intelligence be used for improving weather forecasting."
-publishedDateTime: 2020-08-02T08:49:00Z
-webUrl: "https://www.bloombergquint.com/economy-finance/imd-plans-to-use-artificial-intelligence-in-weather-forecasting"
+title: "IMD plans to use artificial intelligence in forecasting"
+excerpt: "The India Meteorological Department (IMD) is planning to use artificial intelligence in weather forecasting, especially for issuing nowcasts, which can help improve 3-6 hours prediction of extreme weather events."
+publishedDateTime: 2020-08-02T19:04:00Z
+webUrl: "https://www.dailypioneer.com/2020/india/imd-plans-to-use-artificial-intelligence-in-forecasting.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2019-09%2F76f8fac2-787a-4d05-a08a-e8ecbebbe95b%2F233480246.jpg?rect=0%2C106%2C3000%2C1575&w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 630
+  - url: "https://www.dailypioneer.com/images/logo.jpg"
+    width: 325
+    height: 325
     isCached: true
 
 related:
@@ -71,21 +71,21 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "IMD plans to use artificial intelligence in forecasting"
-    excerpt: "The India Meteorological Department (IMD) is planning to use artificial intelligence in weather forecasting, especially for issuing nowcasts, which can help improve 3-6 hours prediction of extreme weather events."
-    publishedDateTime: 2020-08-02T19:04:00Z
-    webUrl: "https://www.dailypioneer.com/2020/india/imd-plans-to-use-artificial-intelligence-in-forecasting.html"
+  - title: "IMD Plans To Use Artificial Intelligence In Weather Forecasting"
+    excerpt: "The IMD has invited research groups who can study how artificial intelligence be used for improving weather forecasting."
+    publishedDateTime: 2020-08-02T08:49:00Z
+    webUrl: "https://www.bloombergquint.com/economy-finance/imd-plans-to-use-artificial-intelligence-in-weather-forecasting"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
+      name: BloombergQuint
+      domain: bloombergquint.com
     quality: 37
     images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2019-09%2F76f8fac2-787a-4d05-a08a-e8ecbebbe95b%2F233480246.jpg?rect=0%2C106%2C3000%2C1575&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "tgjwxmqcXQhrzDLT/MsmUFb8K8TjCWbu46NP9Ge1bNmUPRa1yQwH86EmSobNf4cexT5DxXplGBTJmTZhn7pZ5atFEL1AFc1vF2+fe+8I/BguUtdMEJ4d0Bh9L6lcXRKM2Eh/Pc6H+utm/qN/U/9c/93/q/OKJEccSeUcz6FpPC9Tus4rAQWYai0bjqaQNQ8M7nehyod/p4n+mlox37wzYIlNLwInp+d2oHYRgM/R6hkNSsnXchc56ZEjLEBDuOd0b4HdRlhuwR3WP8QOQ5yLAHwU3Ks8cHiv9j076B2wN+ckene4az2nH0ylMckJkFiM2W4kjp5U7mcb1iNTxl1gtHmBwdP/CstbhApX8DBU0/cPXnO5eA1pGBedmelakP9HzEmUofk7K+4MkH/FWHeJRiiG2BI2/N/u9Bt0tlnlKnxe5nN57a+xMYdcN+Z4WBK76rW9qbN1urCDRllhCeiCoIAOLrcqSBAfFLoRdDsslab04X/UKOH9eswY7SHL2eQeDRbQtBpuA8dxlPCC7B6haw==;+TE+FGXsYD8a686bj43U6A=="
+secured: "2Cy+PmfzNmVlxOcPwzNb0nCgIzp65bpR8ZEiEAAZy3KWZDKmARFArDfrnCMnYJmjz5GsHhzYvmSc3Go1jh0GRlxYWAQUlPP2SGCo7p6vQsHe/Atd0iVzxa+GmbW+2s+Dd9rY4xcLqDgtv1ynFcU6dr0Db+HuX0z3yN0Wp1os4tAlUcTKTKFD/EUykzuHwrdUaYj8VBFQn7cdr6X8fnjY4eujyiCVVgd9EhfBjEQU7zmze5kProbPIqhpPScPZCfVl+/OBkDvsthkfJ8Lr7uQQY779I14cjMiaO3dpxBi+ds/kdss6qMVHhbjpHkaP5XWzL08wQtXWYWyLClP0yh0qw==;DnGNrF/xy9RzOsFeD0d5pQ=="
 ---
 

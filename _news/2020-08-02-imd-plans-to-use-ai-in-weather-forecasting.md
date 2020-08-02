@@ -8,7 +8,7 @@ ampWebUrl: "https://www.indiatoday.in/amp/india/story/imd-plans-to-use-ai-in-wea
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-gmsqitju2km8f9j2ea331sb733-20200802143532.Medi.jpeg"
         width: 800
         height: 448
+        isCached: true
+  - title: "IMD plans to use artificial intelligence in forecasting"
+    excerpt: "The India Meteorological Department (IMD) is planning to use artificial intelligence in weather forecasting, especially for issuing nowcasts, which can help improve 3-6 hours prediction of extreme weather events."
+    publishedDateTime: 2020-08-02T19:04:00Z
+    webUrl: "https://www.dailypioneer.com/2020/india/imd-plans-to-use-artificial-intelligence-in-forecasting.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
         isCached: true
   - title: "IMD Plans To Use Artificial Intelligence In Weather Forecasting"
     excerpt: "The IMD has invited research groups who can study how artificial intelligence be used for improving weather forecasting."
