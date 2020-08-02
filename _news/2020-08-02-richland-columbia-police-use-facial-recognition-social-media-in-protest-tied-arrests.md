@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Facebook raises settlement to $650 million in facial recognition lawsuit"
-excerpt: "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,"
-publishedDateTime: 2020-07-31T21:00:00Z
-webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
+title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
+excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
+publishedDateTime: 2020-08-02T08:00:00Z
+webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
+ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
+cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
 type: article
-quality: 103
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The State
+  domain: thestate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST"
-    width: 831
-    height: 545
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -61,6 +57,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/B953lFLfq1FhLaf34syt53GoS3c=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67121837/acastro_180730_1777_facial_recognition_0003.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Facebook raises settlement to $650 million in facial recognition lawsuit"
+    excerpt: "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,"
+    publishedDateTime: 2020-07-31T21:00:00Z
+    webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST"
+        width: 831
+        height: 545
         isCached: true
   - title: "Rite Aid has been using facial recognition tech across hundreds of its stores"
     excerpt: "This information came to light through a recent investigation by Reuters. During the site's probe, investigative journalists found that a whopping 200 Rite Aid locations used facial recognition technology to detect potential criminals,"
@@ -277,22 +289,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
-    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
-    publishedDateTime: 2020-08-02T08:00:00Z
-    webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
-    ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
-    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
-    type: article
-    provider:
-      name: The State
-      domain: thestate.com
-    quality: 51
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Reuters: Rite Aid Deployed China-Linked Facial Recognition in Poor Neighborhoods"
     excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country, a Reuters investigation found."
     publishedDateTime: 2020-07-30T13:01:00Z
@@ -356,6 +352,6 @@ related:
       domain: bizjournals.com
     quality: 31
 
-secured: "8Yf0vgTdJTx9bOx1BiiI+HdAC/VjERxavmxkMKVvFexifl9VnXRehoZJoO500Nz3UFF/ZteXxXQxx/pmLTY93eAZnOaRrTjctSdJcAPUPT/PUalbljIeN9bTzcaRE0tNGkgw3Uq6LSMoEW1MNmX+YKT3aiZ4iaNe914KDZ3A3SGSzG9ube+8WprW615fj2H+PotABh77J/95Q96lmxAJYBQ/+GZCBfCsGoi3iV8QSXZfkMq+ouC5ofTiDLfxwkboCeXPA2DcObbiczmiZoktkxP3Q2a5CKy0zSzaJkP6oxTMiJOB4/Jh2mFwXe/MVTqXcIqFebfMRz+yeOUgLjL6kbTCGHlA8/6hyQMUGzKr4/Uz633quxG77dzxnEp1GLQmz0oi4ZTvUZcURD/ydQeQo81GuMrOBHpQxMuS1VKfM+GkEbCzWDhM9sMbMpHX3JU5rE2Tan8x3KrQZ7wnhGDpg19VSZW6zI7gLspd4Sltfm9I43/zlzsXnvNktVstb26tot4eD5v4KGYGUp54DmkDBQ==;8h9UN18SS12//djbRaD1mg=="
+secured: "axNMBlBKiz4esSinTPvlM8+wo88Wo5pIoZa0g8/NR4UdSz3rFQFsIlbKcWL1IzkjKM0H/yWueE70Dtp1em9B6AxoH0t6UmND+UAWbrj/HQ1P5lI5fbvHdDpXlVSEDArEdpoeBkVS5vZniTbyKbjDrW/VUpQCRa49HqnXX1cj1Etf37it+SD0c1GpfVkyPnE7652c6pydsSlvKjmAyKaBiD5/jmW7/IRm+1niCeyxsXKWzvglj3yDHw/7Kih2gmDAtERI/9OPUzZyre7/igQzurALisT5SyhddsCQXCQnVs1/A4GNzXt9Ni0GevNCfi7k8+JmNBfKw02cKvy5au20Lg==;PvlzIrlKaDW9OIWxZA1m2A=="
 ---
 

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.indiatoday.in/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02</loc>
+    <lastmod>2020-08-02T01:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html</loc>
+    <lastmod>2020-08-02T01:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/cathrinetodd/2020/08/01/former-ceo-of-artificial-intelligence-company-buys-historic-napa-valley-winery/</loc>
     <lastmod>2020-08-01T13:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -127,12 +139,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.unr.edu/nevada-today/blogs/2020/ai-and-research</loc>
-    <lastmod>2020-07-30T19:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://medicalxpress.com/news/2020-07-local-covid-ai.html</loc>
     <lastmod>2020-07-30T19:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -243,12 +249,6 @@
   <url>
     <loc>https://www.techrepublic.com/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/</loc>
     <lastmod>2020-07-30T05:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/30/why-self-driving-cars-might-never-become-a-commodity/</loc>
-    <lastmod>2020-07-30T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

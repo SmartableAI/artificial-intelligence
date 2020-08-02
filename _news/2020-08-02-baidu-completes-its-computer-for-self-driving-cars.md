@@ -1,39 +1,35 @@
 ---
 category: news
-title: "Self-Driving Cars Will Make Life Better—For Some of Us"
-excerpt: "True self-driving cars are still likely decades away, but it might behoove us to start planning for them, and how they’ll change society, now."
-publishedDateTime: 2020-07-29T21:23:00Z
-webUrl: "https://www.automobilemag.com/news/self-driving-cars-digital-divide-mobility/"
+title: "Baidu completes its computer for self-driving cars"
+excerpt: "The firm isn’t the only one working on self-driving computers. NVIDIA is quickly landing deals with GM, Toyota and others that could make it a powerhouse, for instance. However, Baidu might be the first to put a platform into real-world (albeit limited) use."
+publishedDateTime: 2020-08-02T08:24:00Z
+webUrl: "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html"
+ampWebUrl: "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html"
 type: article
-quality: 4
-heat: -1
-published: false
+quality: 89
+heat: 129
+published: true
 
 provider:
-  name: Automobile
-  domain: automobilemag.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F7325be30-d435-11ea-bfb1-aefda5da57d0&client=amp-blogside-v2&signature=9f70eab165ef74f9f781ff7fef9669edcdb62fe8"
+    width: 600
+    height: 350
+    isCached: true
+
 related:
-  - title: "Baidu completes its computer for self-driving cars"
-    excerpt: "The firm isn’t the only one working on self-driving computers. NVIDIA is quickly landing deals with GM, Toyota and others that could make it a powerhouse, for instance. However, Baidu might be the first to put a platform into real-world (albeit limited) use."
-    publishedDateTime: 2020-08-02T08:24:00Z
-    webUrl: "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html"
-    ampWebUrl: "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F7325be30-d435-11ea-bfb1-aefda5da57d0&client=amp-blogside-v2&signature=9f70eab165ef74f9f781ff7fef9669edcdb62fe8"
-        width: 600
-        height: 350
-        isCached: true
   - title: "AI for research – it's not all robots and self-driving cars"
     excerpt: "In recent years, he has been working on virtual reality, specifically exploring solutions that allow users to navigate large environments without getting motion sickness.) From drones and robots to self-driving cars and smart refrigerators,"
     publishedDateTime: 2020-07-31T02:47:00Z
@@ -73,7 +69,16 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
+  - title: "Self-Driving Cars Will Make Life Better—For Some of Us"
+    excerpt: "True self-driving cars are still likely decades away, but it might behoove us to start planning for them, and how they’ll change society, now."
+    publishedDateTime: 2020-07-29T21:23:00Z
+    webUrl: "https://www.automobilemag.com/news/self-driving-cars-digital-divide-mobility/"
+    type: article
+    provider:
+      name: Automobile
+      domain: automobilemag.com
+    quality: 4
 
-secured: "Q+MTRNpSpyLrqd4CUP3k+FAwSOEuRdK9whqtVnsAyR0k5n7F9ybgRwonDEadPOs/htUeQc/ZiJoTZsCUd5u9wOXYLBXmhTgTHYuYYsDbzzQ8GgDBklpBMWIpSqDin7bnTKOhny6NLzUmjnm3MoCubrXSkNiBpuCnXv4y2k3GkDlZ4Yx8gCG/cEcRIStYydBO0sp7NmCdOHpmOgjJDHPIxr/OIrmkTKqujFyHGTQ0crAJ7E17lLEWEae9ImOxOTUXqUcnHYssGgzKnU3+R1OL2RtI1uyHmd/l0xEv0Q7OmS/MtRfecmXWt8NuLKTxYpL0DV69gQxrpuVl51Cn5E0Wpw==;7eU66KH/SfR1lIpuNyOTUg=="
+secured: "dm3vpFSTQ/2l79ie4hP4nzT0U1tWJv55m5wyWR/S/mGgwff3cFyDC41FLZg6msJ5Ostkj+aL5j4sBAjqA2FEHJDzBCJSzpYTUT9M9eJIsP5tM9Ql3eVVsV8OfjDDRecVNvUEsUY7eobFiaRmccW9YFWnudLhru/WbmcRCdi+XBYR/+eber7X4H99b17fjRYxGQHOMdgbu2WKXH3wy+DV/a+cRJUQl9hJIU+o5qL4hfUl8wbzuHGX5QIL2E9oLxH3ns2eEK3WBVgWpRKvxBDaGO8+KX3gPont4nDHiibjIT3H6o3fMzLMXtBSrQIsRMSHqsp9xHVEAYxmVogPtFki8w==;ufJuuhnUKmShbX2FNgDURA=="
 ---
 

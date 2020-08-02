@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-30T11:14:00Z
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/30/why-self-driving-cars-might-never-become-a-commodity/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,20 +28,47 @@ images:
     isCached: true
 
 related:
-  - title: "Guest Op-Ed: It Turns Out, Humans Are Pretty Smart: Developing Self-Driving Cars Is Harder Than We Thought"
-    excerpt: "Self-driving cars. We’ve been promised for years they were “coming soon.” Most estimates a decade ago thought self-driving cars would be commonplace by now. Yet, here we are in 2020, and self-driving cars — what the industry calls autonomous vehicles (AVs) — still largely exist only in science fiction."
-    publishedDateTime: 2020-07-31T16:50:00Z
-    webUrl: "https://www.enotrans.org/article/guest-op-ed-it-turns-out-humans-are-pretty-smart-developing-self-driving-cars-is-harder-than-we-thought/"
+  - title: "Baidu completes its computer for self-driving cars"
+    excerpt: "The firm isn’t the only one working on self-driving computers. NVIDIA is quickly landing deals with GM, Toyota and others that could make it a powerhouse, for instance. However, Baidu might be the first to put a platform into real-world (albeit limited) use."
+    publishedDateTime: 2020-08-02T08:24:00Z
+    webUrl: "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html"
+    ampWebUrl: "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html"
     type: article
     provider:
-      name: Eno Center for Transportation
-      domain: enotrans.org
-    quality: 6
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://www.enotrans.org/wp-content/uploads/2020/06/avs-technology-automated-vehicles-830x480.jpg"
-        width: 830
-        height: 480
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F7325be30-d435-11ea-bfb1-aefda5da57d0&client=amp-blogside-v2&signature=9f70eab165ef74f9f781ff7fef9669edcdb62fe8"
+        width: 600
+        height: 350
         isCached: true
+  - title: "AI for research – it's not all robots and self-driving cars"
+    excerpt: "In recent years, he has been working on virtual reality, specifically exploring solutions that allow users to navigate large environments without getting motion sickness.) From drones and robots to self-driving cars and smart refrigerators,"
+    publishedDateTime: 2020-07-31T02:47:00Z
+    webUrl: "https://www.unr.edu/nevada-today/blogs/2020/ai-and-research"
+    type: article
+    provider:
+      name: unr.edu
+      domain: unr.edu
+    quality: 56
+    images:
+      - url: "https://www.unr.edu/images/unr-main/homepage-features/2017CampusImage-FBImage.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The history of self-driving cars"
+    excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
+    publishedDateTime: 2020-07-31T21:26:00Z
+    webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "Self-Driving Cars Will Make Life Better—For Some of Us"
     excerpt: "True self-driving cars are still likely decades away, but it might behoove us to start planning for them, and how they’ll change society, now."
     publishedDateTime: 2020-07-29T21:23:00Z

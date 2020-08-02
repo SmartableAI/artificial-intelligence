@@ -188,22 +188,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Report reveals Rite Aid put facial recognition systems in hundreds of US stores"
-    excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such"
-    publishedDateTime: 2020-07-28T16:05:00Z
-    webUrl: "https://nypost.com/2020/07/28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-u-s-stores/"
-    ampWebUrl: "https://nypost.com/2020/07/28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-u-s-stores/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-u-s-stores/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 70
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/2020-07-28T110208Z_809640025_RC2B2I96BLER_RTRMADP_3_USA-RITEAID-SOFTWARE-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
     excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
     publishedDateTime: 2020-07-29T12:05:00Z
@@ -293,6 +277,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
+    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
+    publishedDateTime: 2020-08-02T08:00:00Z
+    webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
+    ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
+    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
+    type: article
+    provider:
+      name: The State
+      domain: thestate.com
+    quality: 51
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Reuters: Rite Aid Deployed China-Linked Facial Recognition in Poor Neighborhoods"
     excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country, a Reuters investigation found."
     publishedDateTime: 2020-07-30T13:01:00Z
@@ -306,20 +306,6 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2020/07/rite-aid-drig-store-580x387.jpg"
         width: 580
         height: 387
-        isCached: true
-  - title: "As facial recognition draws scrutiny nationwide, Stanford research raises questions closer to home"
-    excerpt: "“I am entitled to repeat what I have seen, including by means of sharing photographs, an act of speech as well,” Gidari explained. “Facial recognition is simply a mathematical representation of the image,” he added. “If you can take the ..."
-    publishedDateTime: 2020-07-28T15:32:00Z
-    webUrl: "https://www.stanforddaily.com/2020/07/28/as-facial-recognition-draws-scrutiny-nationwide-stanford-research-raises-questions-closer-to-home/"
-    type: article
-    provider:
-      name: Stanford Daily
-      domain: stanforddaily.com
-    quality: 42
-    images:
-      - url: "https://wp.stanforddaily.com/wp-content/uploads/2020/07/data-01-2048x1153.png"
-        width: 2048
-        height: 1153
         isCached: true
   - title: "Facial recognition retools for masked faces"
     excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."
