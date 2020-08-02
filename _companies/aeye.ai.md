@@ -2,7 +2,7 @@
 name: "AEYE"
 overview: "AEye develops advanced vision hardware, software and algorithms that act as the eyes and visual cortex of autonomous vehicles. Since its demonstration of its solid state LiDAR scanner in 2013, AEye has pioneered breakthroughs in intelligent sensing. The company is based in Silicon Valley, and backed by world-renowned investors."
 type: "profile"
-heat: 50
+heat: 77
 
 website: https://aeye.ai/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=L7OeqXiQdkI"
 
-secured: "82vHrMh52K2OnR/03t6tYzGGEF5DhBbzalI+vkpb9e+gsxuNQk1VG2Ry+L/0ii24V9R+GWXS+YX6mNfrO1Ap3yvCsws42CHYENzB3v9BlL/TvYNPbcFlFUranbFGrO2lF/9x7KiOyAK59orzf6RUHsTNlTJ6yDa4iHk1GoIbYlJ80obL1ZKsaaRWF7rA9FuiRMmB7IRLSgpolHqad8ecV8JEKtU67aQzCoVWkX8ptuL5F2qdMueF0ie9UNcTBAoIWDP5dW2hcg9TZL9/RkwGPJ15TqrMFZC2L68S2m0GhDmpP5t78gzu592C32/L+tUQQJkyWn73aSYU6/SWgYIwGb5H3cjIrU+ssHzUYtT3ZRCr1Vbjk6T9TJZ1ac/wkejw;cqQ0NlK4YfLH1oblqV5F6A=="
+secured: "OT/goJq8qIeREJn02+FrwtMqnPix+MtOTYxk8BmjHZJauoIbx8d+FepE+TysX7YDQ9kfh1x3kZe3p2M+0oFyMY4VWlsPgQV6TD1qEyZAcyvAY21C3vocf13FxclTIfWHm6PoZaoiVMQ26IDuXMiedRmJqx8NU8Wm7gxVhLkXMZl5vblZTPtRNIMT05JjxW+ljEYTqfwxQR9FG7i6BCQhwQqCUN0zH586rpQSmksU9m5bmhUc5ychic9N3f3iH+T/H5eNV6zShLnacjjXE+4CFSSv4ajtmGrTJVvlxWvCK6brc2H7tLHQft6/uGx0490BBoUdXGg8SVXuxPr6drtwsM/yJu0n1pU4OU6ve31i0H44ndS38w5LJ6eAWaN755xl;QdpgDctX7ZYFfMXgqjmBMQ=="
 ---
 
