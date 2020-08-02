@@ -104,20 +104,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "How facial recognition works with face coverings"
-    excerpt: "Computer science experts say that face coverings and other accessories may act as a speedbump, but it wouldn’t be very difficult for the software to be modified."
-    publishedDateTime: 2020-07-29T03:33:00Z
-    webUrl: "https://www.wxyz.com/news/national/coronavirus/how-facial-recognition-works-with-face-coverings"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/d11c92c/2147483647/strip/true/crop/2546x1337+0+44/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fd8%2F029d13d544a7989b340903487b74%2Fscreen-shot-2020-07-20-at-5.26.06%20PM.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Rite Aid Drops Facial Recognition Tech"
     excerpt: "Rite Aid 's quiet use of facial recognition technology in its stores has ended after nearly a decade. Since 2012, the American drugstore had gradually implemented the technology in 200 stores around the country,"
     publishedDateTime: 2020-07-29T18:00:00Z

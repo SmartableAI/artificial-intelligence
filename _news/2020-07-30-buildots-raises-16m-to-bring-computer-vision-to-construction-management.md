@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-compu
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
 type: article
 quality: 103
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
     quality: 85
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/07/106280242-1575548423323digitaldeepak-e1596118510259.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Aquicore raises $14 million for AI tools to optimize commercial building energy usage"
-    excerpt: "Aquicore, a startup developing building management and optimization solutions powered by AI, has raised $14 million in venture capital."
-    publishedDateTime: 2020-07-29T04:04:00Z
-    webUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/"
-    ampWebUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/44ccce3c-65f6-4612-a21b-76197560cdf7-e1595873427146.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/</loc>
+    <lastmod>2020-08-02T14:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/02/ai-is-struggling-to-adjust-to-2020/</loc>
     <lastmod>2020-08-02T08:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -307,8 +313,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020</loc>
-    <lastmod>2020-07-29T21:54:00-07:00</lastmod>
+    <loc>https://www.techradar.com/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020</loc>
+    <lastmod>2020-07-29T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -512,6 +518,12 @@
   </url>
   <url>
     <loc>https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131</loc>
+    <lastmod>2020-07-28T17:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://lifehacker.com/im-ibm-watson-product-manager-anamita-guha-and-this-is-1821920759</loc>
     <lastmod>2020-07-28T17:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -735,6 +747,12 @@
   <url>
     <loc>https://www.eetindia.co.in/end-to-end-analog-neural-networks-promise-better-ai-chips/</loc>
     <lastmod>2020-07-27T17:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.designnews.com/electronics-test/creating-ai-understands-emotion</loc>
+    <lastmod>2020-07-27T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -88,22 +88,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Aquicore raises $14 million for AI tools to optimize commercial building energy usage"
-    excerpt: "Aquicore, a startup developing building management and optimization solutions powered by AI, has raised $14 million in venture capital."
-    publishedDateTime: 2020-07-29T04:04:00Z
-    webUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/"
-    ampWebUrl: "https://venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/aquicore-raises-14-million-for-ai-tools-to-optimize-commercial-building-energy-usage/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/44ccce3c-65f6-4612-a21b-76197560cdf7-e1595873427146.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Buildots raises $16 million as it brings AI computer vision to construction management"
     excerpt: "Thanks to the latest advancements in the fields of AI and computer vision, we've been able to bring modern systems that are ubiquitous in other industries, to construction.\" The Automated Process Management solution created by Buildots compares the ..."
     publishedDateTime: 2020-07-30T12:09:00Z

@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-08-qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements.md",
+      "title": "Qualcomm unveils the Snapdragon 865 Plus with GPU, CPU speed improvements",
+      "excerpt": "Qualcomm said speeds on the CPU Prime core have increased 10%, while graphics rendering on the Adreno 650 GPU are also 10% faster than the previous generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/24/9eebbd6d-d946-4633-a122-d881922ed6bc/thumbnail/1200x675/7e24c8926e8d705aa2305b84ca6057b9/snapdragon-qualcomm.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
+      "publishedDateTime": "2020-07-08T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business.md",
       "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
       "excerpt": "With the emergence of 5G and the ubiquity of ever more powerful smartphones and other devices, companies are increasingly looking to run AI applications at the “edge” -- that is, at the point of action rather than in the cloud.",
@@ -1303,56 +1353,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-librestream-raises-24-million-to-automate-field-technician-tasks-with-ai.md",
-      "title": "Librestream raises $24 million to automate field technician tasks with AI",
-      "excerpt": "The Canadian augmented worker platform maker is increasing its AI investments and employee count to address growing demand for quick analysis of field data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/24/librestream-raises-24-million-to-automate-field-technician-tasks-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Librestream-IoT-Remote-Expert-e1592599754192.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Librestream raises $24 million to automate field technician tasks with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/librestream-raises-24-million-to-automate-field-technician-tasks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/librestream-raises-24-million-to-automate-field-technician-tasks-with-ai/amp/",
-      "publishedDateTime": "2020-06-24T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
