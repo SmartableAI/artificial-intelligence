@@ -42,38 +42,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Face masks are screwing up facial recognition software"
-    excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
-    publishedDateTime: 2020-07-28T23:54:00Z
-    webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
-    ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 59
-    images:
-      - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
-        width: 775
-        height: 438
-        isCached: true
-  - title: "Face masks are messing up facial recognition software"
-    excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
-    publishedDateTime: 2020-07-29T17:35:00Z
-    webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    type: article
-    provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1586368270.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Facial recognition, thermal imaging part of future with coronavirus"
     excerpt: "The coronavirus pandemic has inspired a new wave of technology closely tied to Ohio businesses, including thermal imaging and facial recognition software"
     publishedDateTime: 2020-07-30T16:50:00Z

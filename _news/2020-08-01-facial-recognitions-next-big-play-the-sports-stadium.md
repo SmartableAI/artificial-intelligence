@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1366
         height: 911
         isCached: true
-  - title: "STUDY: MASKS SCREW UP FACIAL RECOGNITION SOFTWARE"
-    excerpt: "TRENTON, N.J. - 1 p.m. (scheduled) New Jersey Gov. Phil Murphy and the state's health department update the Garden State on efforts to combat the COVID-19 (coronavirus) pandemic. Partly sunny, hot and a little more humid with a shower or t-storm possible ..."
-    publishedDateTime: 2020-07-29T16:55:00Z
-    webUrl: "https://www.wfmz.com/news/cnn/clickable/study-masks-screw-up-facial-recognition-software/video_d5e67220-2268-536c-a7fd-0649c3acd148.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "IlIpvF4OzxUm9EiWsVYUTus+w/cEVxh4UHBaaGTphe51+dRPgPKfujnUMvYQ9iUoAgJms2PX9Ed6DNhpSEVBg6pmdUADiNn+0AYJ1EcdgZmWLl6+/LGTjpbOy4I2tTMcbGEdhkgJvLpBJ4OSkzpuMnZ1mrtmWhjT2GK5U3Y8kprLHHufoMTAqFB3UGVZt2Fe3sqTB6iuij49kSBpW/AqEuTZhyOWhtOOj8QULo1kFg7I0r7q4gfEqxKhxt84L/5DEHw1Iz1rwJapgYvtncWMWCOu1Dct1m0+dyCSA2s8JK/CgEFn8dHYa1EabdSXlTRoCxUgXfC45euTaS928Ha6Hg==;XnDezPbKjee9EoQLNGBK+Q=="
 ---

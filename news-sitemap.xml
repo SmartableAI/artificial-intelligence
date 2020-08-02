@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/</loc>
+    <lastmod>2020-08-02T04:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.indiatoday.in/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02</loc>
     <lastmod>2020-08-02T01:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -81,6 +87,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/</loc>
     <lastmod>2020-07-31T15:05:32-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313</loc>
+    <lastmod>2020-07-31T14:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -301,8 +313,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/jenniferhicks/2020/07/29/distilling-liquor-with-machine-learning-and-big-data/</loc>
-    <lastmod>2020-07-29T14:25:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race</loc>
+    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -483,6 +495,12 @@
   <url>
     <loc>https://io9.gizmodo.com/why-do-geeks-like-kinky-sex-5959108</loc>
     <lastmod>2020-07-28T17:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techspot.com/news/86165-rite-aid-has-using-facial-recognition-tech-across.html</loc>
+    <lastmod>2020-07-28T16:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

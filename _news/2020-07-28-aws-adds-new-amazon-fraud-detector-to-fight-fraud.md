@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fig
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-adds-new-amazon-fraud-detector-to-fight-fraud/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AWS Announces General Availability of Amazon Fraud Detector"
-    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-    publishedDateTime: 2020-07-28T17:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Amazon Fraud Detector: Use machine learning in the fight against online fraud"
     excerpt: "Amazon Fraud Detector is a fully managed service that makes it easy to quickly identify potentially fraudulent online activities like online payment and identity fraud. Using machine learning ..."

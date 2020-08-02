@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-29T17:03:00Z
 webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-undo-liverecorder-for-java-splice-machine-kubernetes-ops-center-and-pytorch-1-6-launched/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -26,19 +26,6 @@ images:
     width: 623
     height: 536
     isCached: true
-
-related:
-  - title: "Splice Machine Announces Splice Machine Kubernetes Ops Center"
-    excerpt: "PRNewswire/ -- Splice Machine, the only scale-out SQL database with native machine learning, today announced it has"
-    publishedDateTime: 2020-07-28T17:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/splice-machine-announces-splice-machine-kubernetes-ops-center-1029440253"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/splice-machine-announces-splice-machine-kubernetes-ops-center-1029440253"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/splice-machine-announces-splice-machine-kubernetes-ops-center-1029440253"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
 
 secured: "rsoZxnqjdmrGVaujvoPlQUqi9GvFaTs4XPLVOCoduDSbadaAYbxYmBSBKgg+MNgMsw1hxecyLqPZw68KCI3EAxEgMqvmffQx0BeOMCe3ynM6Nf7ixCG1PFW1JBVJAIQ7cJaIMl7LGkP01ArhSt1+38tFSrB3mja0XKT37g46aYhX8zphQwFWPiKvne2nLx7HM+C0asDiqr6wXBu2gvQr61QkyUTlgrbaPJe0PlPJnBFbZjjnW6NpqDobn4fNytEO0PpIK+M3imkjgMhHy9TGS9pLyIf3jO3agm7VEhtOWrfdt72aAmIx0HFm604M4xea2LFFQM+c57ZEQi0D9jrLOw==;wRsJhEScUr/ZeP4V7/RoWA=="
 ---

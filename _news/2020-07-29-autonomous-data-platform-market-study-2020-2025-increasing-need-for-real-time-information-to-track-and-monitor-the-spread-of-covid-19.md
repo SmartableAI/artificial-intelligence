@@ -73,20 +73,6 @@ related:
         width: 1400
         height: 733
         isCached: true
-  - title: "Global AI Software Market Assessment 2020-2025 - Robust Digitization Opportunities in Asia-Pacific's Chemicals Industry"
-    excerpt: "The global AI software market revenue will grow at a CAGR of 41.6% between 2019 and 2025, with IBM representing the highest revenue among all competitors during 2016-2018. The forecast share of Asia-Pacific (including China) in the total market revenue of the chemical industry in 2020 is about 60%,"
-    publishedDateTime: 2020-07-28T17:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-ai-software-market-assessment-2020-2025---robust-digitization-opportunities-in-asia-pacifics-chemicals-industry-301101160.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "FJrkv+NCRWH9iqM5rxel3qCaZwO0VENLBv4SUqJQXgL7MekG3Ua1P5LvrCByInuYsFON8RU9y8ejeT0/MLYn+fM+MqO9Sm9U+i4HVSIxWQVotO4QJ2PlcpFQjB7IMsi9xWCmOGhjvjmiSxcRudkjULsAhauy1iEa5PYAeAftkqyGyEfjFX8ft9QJpefwYLOdSWjFjMzqt+VLwyqSOTD9MdhvLXXuEWraNlwcuwjacvHznF40jGHkBVwyvEkD7R8iObee6/MnWlkmExkUV3ajfHTdrqalai2lvZP9+zP4ShCQewYRXvjUbb68AJ1BAoooR3W4GqsHNTddV3JG4Z0lq49j3UvN2O73bAkTLeAY2KvmIKMX/qVIjpIV1T440TpwEXeUQz+IF3RiCo6M2uPgqwl1LIinVKYBL23IZh8CVp1lgaFIAr7hepE+Bwst2eoTFMTfYAym1jZ3T42DU9uKUE1WcTQvjn3SIVh+8pF/Q/dVikpOVTe1+/c4t7f/B7/p2JUOg7/pGCQ2gA161WSlkw==;XsuDFV+mOqIuGrDM6irBhQ=="
 ---

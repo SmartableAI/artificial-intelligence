@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces General Availability of Amazon Fraud Detector"
-    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully mana"
-    publishedDateTime: 2020-07-28T17:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200728005790/en/AWS-Announces-General-Availability-Amazon-Fraud-Detector"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200728005790/en/808709/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "3VkFFx6TzR/fxYwqRD95iVoBPTlM12KFuneXrLL64MzrATYVk7pAsgSXDH50BVECweZIHM/qFT2bDEN7ginDrvsxaHxCne/zJzlTaci9cnotBZH1GSp70YWoyUy3wX2xMr2Ga0zEmv422Yo3/+Ue+5TC4kH5ACbpjFfEt3iwNYCo04AikBS2I6ZDjQIfsL7VtTEASMGPIxbiZd+sIsBKi+NWmiK7UWspDb60fuxzSN7oebjWZiRmru7OBujdWiZInNxDECPwzUE/EsN7gVv3gztJaLD0ayMK5Lq7L0ih9+sMSLfE/g7R/TNaU8lu5AIqPdRkcVcgxttWYtLNS8GXtQ==;FwNUi1DhwBn4sfy9H2bzbw=="
 ---

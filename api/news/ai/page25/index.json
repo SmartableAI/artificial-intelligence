@@ -2,6 +2,130 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-07-09-deep-learning-with-tensorflow-pythonr.md",
+      "title": "Deep Learning with TensorFlow (Python/R)",
+      "excerpt": "As specialized consultancy for the resolution of any sort of data driven challenges via data science, machine learning and AI, we support you from the identification and scoping of use cases to the implementation of custom model developments. With cross ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.st.com/en/support-and-applications/deep-learning-with-tensorflow-python-r.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg",
+          "width": 324,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ST",
+        "domain": "st.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.md",
+      "title": "The Birth Of The Cloud-Enabled Hybrid-AI Robotics Platform",
+      "excerpt": "While this does make the robot able to function off-line, the trade-offs between processing power, size, battery limitations, and inflexible technology result in minimal AI capabilities. If you can centralize this intelligence and offer it more on an on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
+      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
+      "publishedDateTime": "2020-07-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-microsoft-releases-preview-of-text-analytics-for-health-battle-tested-in-covid-19-partnership.md",
+      "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
+      "excerpt": "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
+      "publishedDateTime": "2020-07-08T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-welcome-robin-the-ai-robot.md",
       "title": "Welcome, Robin the AI robot",
       "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
@@ -1251,157 +1375,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-qualcomms-new-snapdragon-865-plus-is-its-most-powerful-mobile-chip-designed-for-gaming.md",
-      "title": "Qualcomm’s new Snapdragon 865 Plus is its most powerful mobile chip, designed for gaming",
-      "excerpt": "There are three key improvements of the Snapdragon 865 Plus from the stock standard 865: The Kryo 585 CPU has had its clock speed boosted up to a maximum of 3.1GHz, which is 10 percent higher than the standard 865 Newly added compatibility for Qualcomm’s FastConnect 6900 connectivity suite,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/circuitbreaker/2020/7/8/21312035/qualcomm-new-snapdragon-865-plus-gaming-performance-faster-cpu-gpu-wifi",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/vFJvFGtV87JQC3NEXWaXfK9kkk8=/0x0:8256x5504/1400x933/filters:focal(3468x2092:4788x3412):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67030262/Snapdragon_865_Plus_Reference_Design___Gold_Badge.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Qualcomm’s new Snapdragon 865 Plus is its most powerful mobile chip, designed for gaming",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/circuitbreaker/2020/7/8/21312035/qualcomm-new-snapdragon-865-plus-gaming-performance-faster-cpu-gpu-wifi",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/circuitbreaker/2020/7/8/21312035/qualcomm-new-snapdragon-865-plus-gaming-performance-faster-cpu-gpu-wifi",
-      "publishedDateTime": "2020-07-08T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements.md",
-      "title": "Qualcomm unveils the Snapdragon 865 Plus with GPU, CPU speed improvements",
-      "excerpt": "Qualcomm said speeds on the CPU Prime core have increased 10%, while graphics rendering on the Adreno 650 GPU are also 10% faster than the previous generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/24/9eebbd6d-d946-4633-a122-d881922ed6bc/thumbnail/1200x675/7e24c8926e8d705aa2305b84ca6057b9/snapdragon-qualcomm.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
-      "publishedDateTime": "2020-07-08T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business.md",
-      "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
-      "excerpt": "With the emergence of 5G and the ubiquity of ever more powerful smartphones and other devices, companies are increasingly looking to run AI applications at the “edge” -- that is, at the point of action rather than in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/",
-      "publishedDateTime": "2020-07-08T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
