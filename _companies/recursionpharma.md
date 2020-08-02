@@ -2,7 +2,7 @@
 name: "Recursion Pharmaceuticals"
 overview: "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City."
 type: "profile"
-heat: 86
+heat: 42
 
 website: https://www.recursionpharma.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RecursionPharma"
   url: "https://twitter.com/RecursionPharma"
-  followers: 3193
+  followers: 3192
 
 size: 51-200 employees
 yearFounded: 2013
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
 
-secured: "jQqB6zC94403Q7ZanQxwKU+oMwFo8QxyxjaD/BgMKUh3wXorag/8z3a3Dc6MgLmMVVobDhkZmw7oKd3cHH3Nbdtuxv9pOnE1RZYXWPjPlC27tuVuuiAHr52x8id9hP7Qb8WGQaYSHNKlkbAw3JPe1iH9lRWoSrtx7d7CAHfkMh+uHfn8Obi98YilDcS2GZnGimeRvp1EqWmHbpKZkPpAqh+icSOm9CCbZCLaM90a2NrqP91sfCj3woh1VdpU3XeYgBxITnIPOuZYnEqLR0zpoHyOxWFcNV9BhHwHiWSo+JznqFWZbSacMECKcj95P9WKhG3K/ZR1rXsxOl/Hgi5pvWu/CkxkyyRq2XZBeYeNpFSvjusHwOVEb1g7SNuqSMIp;6HqSjRUScvqeaD05Uf3NFQ=="
+secured: "RNTYcsnmDWe/41GiiwnZFHmFBeL2M4Zzsjvp7DnBr9/pCkPIE3ToCsp+a7J3Ox5EDcmoWNtsUKRBVmitXieELSLAx1SupwC54T2HWe8qb4dMR7BHHg4BnPmv+QRDE5WtlQhuO70a3yxv/6Ti1BIn+NysWNsAP+1/ntyB36rQ6BfQaQvUH38LRcRkhCzRCUdCYzVKQr9T4H6pv24iUcj2SDPjW1Y8G7hrRO4Q/7SMoNWRqnXMTZQzxEaNZOGLwiS4pTrDJBTYr24UFl6MNE/wfZNcoWz4ujzDaDbxF09FqGIelDnFfduSot1K8n09dK8doSxk6j/yD8W0EkrQJkeTa1qQPMbUdzov08nLXFDknyRAgOQwOgGr89C90fVigZYq;W2kqnoRtkJo7bGgdxxWDYQ=="
 ---
 
