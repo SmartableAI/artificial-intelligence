@@ -18,67 +18,69 @@ topics:
   - AI
 
 related:
-  - title: "Facebook raises settlement to $650 million in facial recognition lawsuit"
-    excerpt: "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,"
-    publishedDateTime: 2020-07-31T21:00:00Z
-    webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
+  - title: "Facial Recognition’s Next Big Play: the Sports Stadium"
+    excerpt: "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff."
+    publishedDateTime: 2020-08-01T14:06:00Z
+    webUrl: "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST"
-        width: 831
-        height: 545
+      - url: "https://images.wsj.net/im-213850/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Face masks are messing up facial recognition software"
-    excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
-    publishedDateTime: 2020-07-29T17:35:00Z
-    webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
+  - title: "Face masks are thwarting ‘even the best’ facial recognition systems"
+    excerpt: "Having a tough time recognizing your neighbors behind their pandemic masks? Computers are finding it more difficult, too. A preliminary study published by a US agency on Monday found that even the"
+    publishedDateTime: 2020-07-28T15:08:00Z
+    webUrl: "https://nypost.com/2020/07/28/us-agency-pandemic-masks-thwarting-face-recognition-tech/"
+    ampWebUrl: "https://nypost.com/2020/07/28/us-agency-pandemic-masks-thwarting-face-recognition-tech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/28/us-agency-pandemic-masks-thwarting-face-recognition-tech/amp/"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: New York Post
+      domain: nypost.com
     quality: 59
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1586368270.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/facial-recognition-feature.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 678
+        height: 800
         isCached: true
-  - title: "Chinese facial recognition developer closes $1.5 billion funding round"
-    excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
-    publishedDateTime: 2020-07-31T18:06:00Z
-    webUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
-    ampWebUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
+  - title: "Facial Recognition, Thermal Imaging Part of the New Normal"
+    excerpt: "The coronavirus pandemic has fueled the rise of facial recognition and thermal imaging technologies to detect symptoms of the virus in a variety of sectors. The tech streamlines more manual safety checks."
+    publishedDateTime: 2020-07-31T21:31:00Z
+    webUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html"
+    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/US-NEWS-CORONAVIRUS-OHIO-TECHNOLOGY-.JPG"
+        width: 1110
+        height: 625
+        isCached: true
+  - title: "Sports teams dabble with facial recognition amid coronavirus pandemic"
+    excerpt: "Multiple professional sports teams are considering facial recognition systems to make admitting fans to stadiums as touchless as possible during the coronavirus pandemic, Wall Street Journal report. Why it matters: It is unlikely that fans will be able to return to live sporting events soon unless facilities adopt measures,"
+    publishedDateTime: 2020-08-01T18:50:00Z
+    webUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
+    ampWebUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
     type: article
     provider:
       name: Axios
       domain: axios.com
     quality: 59
     images:
-      - url: "https://images.axios.com/u9fundSGt0qv214WnaDlpg_GiiA=/fit-in/1366x1366/2020/07/31/1596217401749.jpg"
+      - url: "https://images.axios.com/Z1j4-xYV2lr9tk74B1fyDJRvtEw=/fit-in/1366x1366/2020/08/01/1596303538882.jpg"
         width: 1366
-        height: 768
-        isCached: true
-  - title: "As facial recognition draws scrutiny nationwide, Stanford research raises questions closer to home"
-    excerpt: "“I am entitled to repeat what I have seen, including by means of sharing photographs, an act of speech as well,” Gidari explained. “Facial recognition is simply a mathematical representation of the image,” he added. “If you can take the ..."
-    publishedDateTime: 2020-07-28T15:32:00Z
-    webUrl: "https://www.stanforddaily.com/2020/07/28/as-facial-recognition-draws-scrutiny-nationwide-stanford-research-raises-questions-closer-to-home/"
-    type: article
-    provider:
-      name: Stanford Daily
-      domain: stanforddaily.com
-    quality: 42
-    images:
-      - url: "https://wp.stanforddaily.com/wp-content/uploads/2020/07/data-01-2048x1153.png"
-        width: 2048
-        height: 1153
+        height: 911
         isCached: true
 
 secured: "kpN2OeRHbbVuUt7PwUytrEdiFNb6S0Py8mAVWCUPizpfwRaVv126A58RBMAJCO+Bjeb2eaTHtkpLcLITpZkECZOxJQsmerXcqe76ZbeueqIWTXK7Yz9Mqiq2IZPiBTIWtEaI0oCr2e1l3LehUEr0Tlr0xI1WHODcPdy0L80NtEQ3aaZZVITKawRhU2JQC9wxSUWuiDlegIXzRs0SWLc2xksHZ6ZOkCCKhWKAT/mAjkuEHUNBGIUXEbLUzqcgPQpzD3xPPXTqZ9rMPNoh8iy0mscdrgUm/F1w+1ZGUqJ6vS57jQmXvftfMTbF1h+7qV7px7eTKRa+8I3f/I+Yx6X9PA==;4STCLH7I7XQhI5/aZjRspA=="

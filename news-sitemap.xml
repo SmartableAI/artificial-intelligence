@@ -73,12 +73,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313</loc>
-    <lastmod>2020-07-31T14:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/</loc>
     <lastmod>2020-07-31T12:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -493,12 +487,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336</loc>
-    <lastmod>2020-07-28T16:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.neowin.net/news/aws-adds-new-amazon-fraud-detector-to-fight-fraud</loc>
     <lastmod>2020-07-28T15:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -519,6 +507,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/</loc>
     <lastmod>2020-07-28T12:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engadget.com/rite-aid-facial-recognition-reuters-183343353.html</loc>
+    <lastmod>2020-07-28T11:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -745,7 +739,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=8&amp;itm_content=2x6&amp;itm_term=2377051</loc>
+    <loc>https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/</loc>
     <lastmod>2020-07-27T07:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Reuters analyzed Rite Aid's use of facial recognition technology"
-    excerpt: "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020."
-    publishedDateTime: 2020-07-28T11:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24T1H5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527392330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0S8"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Rite Aid used facial recognition in hundreds of stores for years"
     excerpt: "Rite Aid used facial recognition systems in hundreds of its drugstores across the US over the last several years. According to a Reuters investigation, the technology was deployed in “largely lower-income,"
     publishedDateTime: 2020-07-28T18:51:00Z
@@ -74,6 +58,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Facebook raises settlement to $650 million in facial recognition lawsuit"
+    excerpt: "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,"
+    publishedDateTime: 2020-07-31T21:00:00Z
+    webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST"
+        width: 831
+        height: 545
+        isCached: true
   - title: "Rite Aid has been using facial recognition tech across hundreds of its stores"
     excerpt: "This information came to light through a recent investigation by Reuters. During the site's probe, investigative journalists found that a whopping 200 Rite Aid locations used facial recognition technology to detect potential criminals,"
     publishedDateTime: 2020-07-28T23:06:00Z
@@ -105,6 +105,22 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F07%252F28%252Fd0%252Fad18f35789454d23ba46f2df63c4b1e2.f65d2.png%252F1200x630.png?signature=oZQA46cY470kOTNAhOgE9QKWNsU="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Yeah, So It Turns Out Rite Aid Has Been Using Face Recognition at Hundreds of Stores"
+    excerpt: "Rite Aid used face recognition to scan the faces of every single customer who walked into hundreds of its stores in a program encompassing most of the past decade, Reuters reported on Tuesday."
+    publishedDateTime: 2020-07-28T23:13:00Z
+    webUrl: "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336"
+    ampWebUrl: "https://gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/yeah-so-it-turns-out-rite-aid-has-been-using-face-reco-1844537336/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 97
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/auqqu8da3sue1vra6wam.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade"
     excerpt: "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years."
@@ -170,20 +186,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
-    excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
-    publishedDateTime: 2020-07-28T11:33:00Z
-    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/investigates/special-report/assets/usa-riteaid-software/video-01222020_MISIDENTIFICATION_027.JPG"
-        width: 1110
-        height: 620
-        isCached: true
   - title: "Rite Aid deployed facial recognition in hundreds of stores, report finds"
     excerpt: "Reuters today published an in-depth report citing internal documents, interviews with more than 40 sources familiar with the systems, and first-hand observation of cameras in stores, which found the technology was deployed in at least 200 stores,"
     publishedDateTime: 2020-07-28T20:58:00Z
@@ -198,17 +200,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Special Report: Rite Aid Deployed Facial Recognition Systems in Hundreds of U.S. Stores"
-    excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country,"
-    publishedDateTime: 2020-07-28T11:32:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-07-28/special-report-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 76
   - title: "Rite Aid's 200 facial recognition cameras revealed in investigation"
     excerpt: "A sweeping investigative report has revealed that drugstore chain Rite Aid quietly added facial recognition systems to 200 stores across the U.S. in an attempt to bust repeat shoplifters. The Reuters investigation found facial recognition cameras at 33 of ..."
     publishedDateTime: 2020-07-28T21:52:00Z
@@ -266,38 +257,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Face Masks Are Breaking Facial Recognition Algorithms"
-    excerpt: "A study has found that face masks are causing significant issues with facial recognition software. The Verge has reported that the use of face masks is"
-    publishedDateTime: 2020-07-28T15:26:00Z
-    webUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/03/AH-Coronavirus-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Face masks are screwing up facial recognition software"
-    excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
-    publishedDateTime: 2020-07-28T23:54:00Z
-    webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
-    ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 59
-    images:
-      - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
-        width: 775
-        height: 438
-        isCached: true
   - title: "Face Masks Are Thwarting Facial Recognition Tech"
     excerpt: "New research from the National Institute of Standards and Technology (NIST) suggests face masks are hampering facial recognition systems. Because the protective coverings obscure the bottom half of the face,"
     publishedDateTime: 2020-07-28T21:25:00Z
@@ -314,21 +273,21 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "New York Lawsuit Over School Facial Recognition Use Grows"
-    excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
-    publishedDateTime: 2020-07-30T19:07:00Z
-    webUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html"
-    ampWebUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+  - title: "Chinese facial recognition developer closes $1.5 billion funding round"
+    excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
+    publishedDateTime: 2020-07-31T18:06:00Z
+    webUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
+    ampWebUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
+      name: Axios
+      domain: axios.com
     quality: 59
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
-        width: 916
-        height: 630
+      - url: "https://images.axios.com/u9fundSGt0qv214WnaDlpg_GiiA=/fit-in/1366x1366/2020/07/31/1596217401749.jpg"
+        width: 1366
+        height: 768
         isCached: true
   - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
     excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."
@@ -359,6 +318,20 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2020/07/rite-aid-drig-store-580x387.jpg"
         width: 580
         height: 387
+        isCached: true
+  - title: "As facial recognition draws scrutiny nationwide, Stanford research raises questions closer to home"
+    excerpt: "“I am entitled to repeat what I have seen, including by means of sharing photographs, an act of speech as well,” Gidari explained. “Facial recognition is simply a mathematical representation of the image,” he added. “If you can take the ..."
+    publishedDateTime: 2020-07-28T15:32:00Z
+    webUrl: "https://www.stanforddaily.com/2020/07/28/as-facial-recognition-draws-scrutiny-nationwide-stanford-research-raises-questions-closer-to-home/"
+    type: article
+    provider:
+      name: Stanford Daily
+      domain: stanforddaily.com
+    quality: 42
+    images:
+      - url: "https://wp.stanforddaily.com/wp-content/uploads/2020/07/data-01-2048x1153.png"
+        width: 2048
+        height: 1153
         isCached: true
   - title: "Facial recognition retools for masked faces"
     excerpt: "To help developers improve the accuracy of facial recognition systems on people wearing masks, the National Institute of Standards and Technology published evaluation data on 89 commercial algorithms developed before the pandemic."

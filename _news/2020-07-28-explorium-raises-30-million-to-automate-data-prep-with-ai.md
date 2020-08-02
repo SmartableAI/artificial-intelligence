@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/28/explorium-raises-30-million-to-au
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/explorium-raises-30-million-to-automate-data-prep-with-ai/amp/"
 type: article
 quality: 191
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chorus.ai raises $45 million for AI that analyzes sales calls"
-    excerpt: "Chorus.ai, a startup developing an AI and machine learning platform that analyzes sales calls, has raised $45 million in venture capital."
-    publishedDateTime: 2020-07-28T12:07:00Z
-    webUrl: "https://venturebeat.com/2020/07/28/chorus-ai-raises-45-million-for-ai-that-analyzes-sales-calls/"
-    ampWebUrl: "https://venturebeat.com/2020/07/28/chorus-ai-raises-45-million-for-ai-that-analyzes-sales-calls/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/chorus-ai-raises-45-million-for-ai-that-analyzes-sales-calls/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 187
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/434c7501e661e3fd64065ca0b8f5cb1f2666e297.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Candis raises nearly $14 million to automate accounting processes with AI"
     excerpt: "Candis, a startup developing a platform for automated accounting and payment processes, this week closed a €12 million ($13.97 million) financing round. A spokesperson for the company said it ..."
     publishedDateTime: 2020-07-30T12:02:00Z

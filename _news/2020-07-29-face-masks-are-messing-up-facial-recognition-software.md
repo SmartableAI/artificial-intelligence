@@ -26,61 +26,132 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook raises settlement to $650 million in facial recognition lawsuit"
-    excerpt: "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,"
-    publishedDateTime: 2020-07-31T21:00:00Z
-    webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
+  - title: "Coronavirus masks make it harder for facial recognition algorithms to ID people, study finds"
+    excerpt: "Coronavirus face masks can confuse facial recognition technology, government researchers announced Monday after a preliminary study on the issue. Facial recognition algorithms developed before the outbreak struggle to identify people wearing masks or face coverings,"
+    publishedDateTime: 2020-07-28T21:33:00Z
+    webUrl: "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms"
+    ampWebUrl: "https://www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/coronavirus-masks-facial-recognition-algorithms.amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
+      name: Fox News
+      domain: foxnews.com
+    quality: 78
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST"
-        width: 831
-        height: 545
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Face-recognition-with-mask.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Chinese facial recognition developer closes $1.5 billion funding round"
-    excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
-    publishedDateTime: 2020-07-31T18:06:00Z
-    webUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
-    ampWebUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
+  - title: "Wearing a face mask makes it harder for facial recognition algorithms to see you, according to a new government study"
+    excerpt: "The study was carried out with the Department of Homeland Security and Customs and Border Protection, both of which use facial recognition technology."
+    publishedDateTime: 2020-07-28T15:57:00Z
+    webUrl: "https://www.businessinsider.com/wearing-a-face-mask-fools-facial-recognition-algorithms-study-finds-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/wearing-a-face-mask-fools-facial-recognition-algorithms-study-finds-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wearing-a-face-mask-fools-facial-recognition-algorithms-study-finds-2020-7?amp"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/5f2027fd3ad8615ed52c8427?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Face Masks Are Breaking Facial Recognition Algorithms"
+    excerpt: "A study has found that face masks are causing significant issues with facial recognition software. The Verge has reported that the use of face masks is"
+    publishedDateTime: 2020-07-28T15:26:00Z
+    webUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/face-masks-are-breaking-facial-recognition-algorithms.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
     quality: 59
     images:
-      - url: "https://images.axios.com/u9fundSGt0qv214WnaDlpg_GiiA=/fit-in/1366x1366/2020/07/31/1596217401749.jpg"
-        width: 1366
-        height: 768
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/03/AH-Coronavirus-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "As facial recognition draws scrutiny nationwide, Stanford research raises questions closer to home"
-    excerpt: "“I am entitled to repeat what I have seen, including by means of sharing photographs, an act of speech as well,” Gidari explained. “Facial recognition is simply a mathematical representation of the image,” he added. “If you can take the ..."
-    publishedDateTime: 2020-07-28T15:32:00Z
-    webUrl: "https://www.stanforddaily.com/2020/07/28/as-facial-recognition-draws-scrutiny-nationwide-stanford-research-raises-questions-closer-to-home/"
+  - title: "Face masks are screwing up facial recognition software"
+    excerpt: "Apparently, they can also make it much harder for facial-recognition software to identify you, too. This is the key finding of a new report released Monday from federal researchers at the ..."
+    publishedDateTime: 2020-07-28T23:54:00Z
+    webUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/"
+    ampWebUrl: "https://whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/face-masks-are-screwing-up-facial-recognition-software/amp/"
     type: article
     provider:
-      name: Stanford Daily
-      domain: stanforddaily.com
-    quality: 42
+      name: WHDH
+      domain: whdh.com
+    quality: 59
     images:
-      - url: "https://wp.stanforddaily.com/wp-content/uploads/2020/07/data-01-2048x1153.png"
-        width: 2048
-        height: 1153
+      - url: "https://sunbeamwhdh.files.wordpress.com/2019/12/191226_phone.jpg?quality=60&strip=color"
+        width: 775
+        height: 438
         isCached: true
-  - title: "STUDY: MASKS SCREW UP FACIAL RECOGNITION SOFTWARE"
-    excerpt: "TRENTON, N.J. - 1 p.m. (scheduled) New Jersey Gov. Phil Murphy and the state's health department update the Garden State on efforts to combat the COVID-19 (coronavirus) pandemic. Partly sunny, hot and a little more humid with a shower or t-storm possible ..."
-    publishedDateTime: 2020-07-29T16:55:00Z
-    webUrl: "https://www.wfmz.com/news/cnn/clickable/study-masks-screw-up-facial-recognition-software/video_d5e67220-2268-536c-a7fd-0649c3acd148.html"
+  - title: "U.S. agency: Pandemic masks thwarting face recognition tech"
+    excerpt: "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ..."
+    publishedDateTime: 2020-07-29T15:23:00Z
+    webUrl: "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech"
+    ampWebUrl: "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart"
+    cdnAmpWebUrl: "https://www-uticaod-com.cdn.ampproject.org/c/s/www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
+      name: Uticaod
+      domain: uticaod.com
+    quality: 59
+    images:
+      - url: "https://www.uticaod.com/apps/pbcsi.dll/bilde?Site=NY&Date=20200729&Category=NEWS&ArtNo=200729574&Ref=AR"
+        width: 726
+        height: 480
+        isCached: true
+  - title: "Facial recognition, thermal imaging part of future with coronavirus"
+    excerpt: "The coronavirus pandemic has inspired a new wave of technology closely tied to Ohio businesses, including thermal imaging and facial recognition software"
+    publishedDateTime: 2020-07-30T16:50:00Z
+    webUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus"
+    ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
+    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 59
+    images:
+      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200730&Category=BUSINESS&ArtNo=200739920&Ref=AR"
+        width: 1276
+        height: 715
+        isCached: true
+  - title: "Top facial recognition tech is thrown off by masks, study says, but that could soon change"
+    excerpt: "The algorithms can be tripped up by such variables as mask color and shape, researchers find, pushing error rates as high as 50 percent."
+    publishedDateTime: 2020-07-29T17:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/07/29/masks-facial-recognition-error-rates/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/07/29/masks-facial-recognition-error-rates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/07/29/masks-facial-recognition-error-rates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 49
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2LTPNGQOAI6VATLZQ4U3ASOGU.jpg&w=1440"
+        width: 726
+        height: 480
+        isCached: true
+  - title: "Facial Recognition Algorithms Struggle to Detect Faces Under Masks, NIST Study Finds"
+    excerpt: "A new study from the National Institute of Standards and Technology found facial recognition algorithms developed pre-pandemic struggle to identify masked faces."
+    publishedDateTime: 2020-07-29T17:30:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/07/facial-recognition-algorithms-struggle-detect-faces-under-masks-nist-study-finds/167303/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 32
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/29/shutterstock_1684640383_1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "FAHXlLYbSPAqWI08kfTsn1bJ62aT6GKRqqgiOUqQzVrKxUra+7evgxErRAp0YxjVfRzeK40h2WMs4i12JPU5O51e1RXFnzP3ewaMYk3HK61qr9BtFb4GhP3pTmAxBU/Au9RzBDz8CS0oUDGbeh9CSzvlD7t11ADU3w0/fS64vXoKrGMF2UUe7qWRYwtDiuGinKC0oWP+jK9I8gd/YIB/v+yZJSAHIjw5kmi5dPEHo+Xm3oN5e1a49HcFRcuaDLcQaG4ov0XxzPlqvrmt1TEnNzj/ZdvRJ4RcqbeH9WYjnUPwZAm//FUnlmiyDsK8xDTwK8JlyxaaAnDaIg1Fnfa+ks2v7wr/HxT0/T/lS/aNSO9GYI/+vG0s8/RPbRjbD6X+BSG1HfI+6n2NBjJN4q+Z8hKGWaVjEttgGyUc4kdFvv3a000cdv+8pnRd0qhu8gIjiY0wKbRiaCsq0rGtgGswQp/s6zJ9lguL8FU00LMl+ee2nFlUULeFtLLQKnGCRnmpyTSeBV6k7ts5I2rPDxFMGg==;FDOikONFVcXHfoftB+fH9A=="
 ---

@@ -23,22 +23,6 @@ images:
     height: 228
     isCached: true
 
-related:
-  - title: "Exxact Corporation Extends Deep Learning Infrastructure Solutions with NVIDIA DGX A100 Systems"
-    excerpt: "Exxact Corporation, a leading provider of high performance computing (HPC), artificial intelligence (AI), data center solutions, announced"
-    publishedDateTime: 2020-07-28T12:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/exxact-corporation-extends-deep-learning-infrastructure-solutions-with-nvidia-dgx-a100-systems-301098388.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "/3rQBz18onL/BzqhviLUOWDK5Lxiw2cgkbETEFPzy/N9zqO0SxpPDqwqjS630q2fqQ1p5VTqjRRQqiYoplOzvjRWvjr1WLfgohb0mIg7u09g6IEVRWFtGwEE0wURY9NU03QcDYhl93TlTOgsdV6ZpZ/OhKr7rgkh5+BHkzb8tVvvG/LciCFycShwMksu0SWvAB7uzr5Y8biov1ibUZcNo4X3eo5UeHt0ASAxSMSkNU/3XJop3/wiaavDluNtCKG6qNm0BUwZorlb4Ktv27cjGNfBTdagk6nSBDENGGNTCwxq4/tku4kAZTSGcvHxCeQLn732bh9WHOk1dqFS6SOvCt0WAeserna5kX4wGbkQFp59+zF8Lsl8ytq3+2e4g+ncx4f3DhsnTu3vOEw6pLjfdgceOe/wnRO1mh2hL+IQUTzq8wjLBGMSD8LsQqSUW2qsLGu3fzaFr4rpZL0K9834KjhcRCTLUMXU6QyxLXFk+kDqMSu7fKjStikW8gIl3ZTM;JenKp3pnU2CTod6hUM/Mtw=="
 ---
 
