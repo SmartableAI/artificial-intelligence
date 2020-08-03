@@ -1,26 +1,24 @@
 ---
 category: news
 title: "MobiusTrend Research: AI Deep Learning and Hologram AR Applications"
-excerpt: "Deep learning, a subclass of machine learning where software tries to mimic the part of the brain used for pattern recognition, has had a huge impact on the entire technology industry, and is a key factor driving the AR industry forward."
-publishedDateTime: 2020-08-03T07:10:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-research-ai-deep-learning-and-hologram-ar-applications-1029460351"
+excerpt: "MobiusTrend, a market research company in Hong Kong, recently released a research report on 'AI Deep Learning and Hologram"
+publishedDateTime: 2020-08-03T06:51:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g16891745/mobiustrend-research-ai-deep-learning-and-hologram-ar-applications"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16891745"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16891745"
 type: article
-quality: 49
-heat: 49
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
-secured: "4Vph/QP3QpkYrniTb2WlgbHGos3A+w3P7AdVDf0pTZ4FXNxgbk/7t2vd3p0a8i8Vll0PmANKhGjJyk86TJKWWucW25IJNtWwWyiHsU6TSmJqFsf26TdFJkoPs97Nasnf5IcDCvUzK+AodcD0M3Rku/fvz/ElVmPM94IwVKBOfV/xip7oWV1sq0YniDVkGq23V83Y/6avVfPuJ/sehcVZHkGI/OwWBiesB7Z45RUOQ5XP3A5mxbZ8vB7ZS+AWXIiVQuF5optaYcYVmxcmPnvsqWlPlbtgsCkblh1px35DlfPJMGcpOsQrrsroFZ6I5VeorXZT4/qRH+mNtNrArmfgnQ==;Fkrn58gJ3FtfE0CEPUYXqw=="
+secured: "sL3qWv2/c6axueHx9Srv/BCEjd6rSk+FBMpl2TiJisQZQfgTzeDNrfnTUsK1eOXtrl4FKLwMuKncwXtPieWTVZPvzgASLGnskOOBJu7/B8oCkhN6IwvUME/Dy9arA2XNB5EhOiqf8/Xr9CoOufSnoQZSzCvjwDPXEJgWc1okbLro2OlHaHAxJclPgdijweuGww7SIGnNbv4NbJx+BgIaz/lPA9O2cuIyJh/H1K4FvysX1awnbKTANX13kPxnklrvYelUM5ZI3lV0n4FQ8HAwozyqs+wyFMhE1ENgKUiHtLiPgvR5rLPdPbcjszPgUZa3au2WuZq2a++7yGBPbm9zKFwdyvEIT9g7t8ekcBzR+ocWOaDCfCp8ODFynwPPJm6LTDASr5S+5nvNSAaZjTXCeRHn4cbIZxfHaZSttK/qV1Q6YThsf9TgYL97N3FKvo/aGI9G2y7EqFLAv+mav3SsZRsvrrjKt1h72BI0QndMvhgZl2GBsVdH1fW/EPRPkJKfDeVBTPsd5MJXkPxJDkgOMw==;mMS3vGw2PJYQobe0dSTkqQ=="
 ---
 

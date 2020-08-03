@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/08/03/truera-applies-explainability-ai-research-to-grow-its-model-evaluation-platform/</loc>
+    <lastmod>2020-08-03T08:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/03/chinas-xiao-i-sues-apple-for-1-43-billion-over-siri-ai-infringement/</loc>
     <lastmod>2020-08-03T06:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,6 +45,12 @@
   <url>
     <loc>https://www.marketwatch.com/story/apple-faces-14b-suit-from-chinese-ai-company-2020-08-03</loc>
     <lastmod>2020-08-03T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoworld.com/article/3568497/when-hybrid-multicloud-has-technical-advantages.html</loc>
+    <lastmod>2020-08-03T03:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -207,6 +219,12 @@
   <url>
     <loc>https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/</loc>
     <lastmod>2020-07-31T07:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2101008/vehicle-speech-recognition-system-market-economic-forecasting</loc>
+    <lastmod>2020-07-31T06:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -451,6 +469,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.automation.com/en-us/articles/july-2020/opc-foundation-sensor-to-cloud-digitalization</loc>
+    <lastmod>2020-07-29T10:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/07/29/investment-in-ai-startups-slips-to-three-year-low/</loc>
     <lastmod>2020-07-29T10:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -571,6 +595,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29</loc>
+    <lastmod>2020-07-29T01:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/reuters/2020/07/29/business/29reuters-japan-tech-robot.html</loc>
     <lastmod>2020-07-28T23:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -579,12 +609,6 @@
   <url>
     <loc>https://www.vice.com/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy</loc>
     <lastmod>2020-07-28T22:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29?mod=mw_quote_news</loc>
-    <lastmod>2020-07-28T21:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -861,6 +885,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/27/a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind/</loc>
     <lastmod>2020-07-27T13:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.oaoa.com/news/business/datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data/article_569ca5a7-fd83-5731-9fdf-72c42ac6e678.html</loc>
+    <lastmod>2020-07-27T11:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2055,6 +2085,12 @@
   <url>
     <loc>https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608</loc>
     <lastmod>2020-07-20T09:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/</loc>
+    <lastmod>2020-07-20T08:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

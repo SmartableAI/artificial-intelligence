@@ -96,6 +96,34 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Chinese AI company sues Apple for $1.4 bln over Siri patent"
+    excerpt: "Chinese AI company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i is suing Apple on the grounds of patent infringement. Chinese company filed a formal lawsuit against Apple in Shanghai High People’s Court on 3rd of August ..."
+    publishedDateTime: 2020-08-03T15:02:00Z
+    webUrl: "https://www.finchannel.com/technology/78152-chinese-ai-company-sues-apple-for-1-4-billion-over-siri-patent"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 37
+    images:
+      - url: "https://luxurypragueapartments.com/wp-content/uploads/2019/10/types-of-investment-funds.jpg"
+        width: 730
+        height: 467
+        isCached: true
+  - title: "Chinese Artificial Intelligence Firm Sues Apple for $1.4 Billion Over Siri"
+    excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit"
+    publishedDateTime: 2020-08-03T14:25:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/08/03/577739.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 35
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2015/07/Apple_Headquarters_in_Cupertino-580x403.jpg"
+        width: 580
+        height: 403
+        isCached: true
 
 secured: "j2OfsS8kRd3xcrpbBgDobvdTzLD91XeY8dZ9k7noBEOMWjsgZlvMqxr5C7+NN5LOV+SrauzZrokQ7lNKQzXsWPAz3CXSfzYXwoQbsqPU9VQqyCm8XryaPWjP4Tv7GfpPilPwQaeWZZAjm9QDobCYC8XwH2FJEJPoH+j48a31BUaACi3SwSmwsBnwubxKeP8zS00fQtKo2rZfYT1qF5dkrI/wC4FT0OCjoiEfOIdeSDMY6+Gb4CwhLsX2klrlQ28jL0O5IedIM8k+twt+bkIhRnecJCqKwo623eH1keagPJaGB1UfoCjnQ6Bi62C73Q6XzGHrl72yLnQZb7zbLqnbVI4MoM4KcPOsrwErtGE2Tq9zRZ2OeyvkTf1Sy2Yd0LdU9p7ycn76cHH52TFPbO5LQBtnW+M2lDxuhfz9mHHxjsjR157/61p83BtiYeofjpCL8326X+sSBqV0OoQ31oRcLQzRWlUXyT/4dZm7scKSPBBys2bj9raIg6gM/bpnbCCrQfBgHVAP1Kpu1vy+WZ3P9A==;kx5O7IrOR91DjltRdOr+Jg=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/petersuciu/2020/08/03/artificial-intellige
 ampWebUrl: "https://www.forbes.com/sites/petersuciu/2020/08/03/artificial-intelligence-will-help-brands-align-with-influencers/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2020/08/03/artificial-intelligence-will-help-brands-align-with-influencers/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f275c0c7eb7d3a4ca89d8de%2F0x0.jpg"

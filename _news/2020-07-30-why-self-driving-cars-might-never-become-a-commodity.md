@@ -69,6 +69,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
+  - title: "Baidu is ready to produce computers for self-driving cars"
+    excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
+    publishedDateTime: 2020-08-03T14:20:00Z
+    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/baidu-is-ready-to-produce-computers-for-self-driving-cars/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/GIF-Suggestion.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Deadline set for Dubai's Dh6.3 million self-driving transport competition"
     excerpt: "A deadline of August 31 has been set for entries to this year’s Dubai World Self-Driving Transport Challenge. There are prizes of up to Dh6.3 million up for grabs at the annual event which is organised by the emirate’s Roads and Transport Authority (RTA)."
     publishedDateTime: 2020-08-02T13:46:00Z
@@ -83,15 +97,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-Driving Cars Will Make Life Better—For Some of Us"
-    excerpt: "True self-driving cars are still likely decades away, but it might behoove us to start planning for them, and how they’ll change society, now."
-    publishedDateTime: 2020-07-29T21:23:00Z
-    webUrl: "https://www.automobilemag.com/news/self-driving-cars-digital-divide-mobility/"
-    type: article
-    provider:
-      name: Automobile
-      domain: automobilemag.com
-    quality: 4
 
 secured: "G6HiDkVGa/plh6YNxq2sHAC1lk3JLObz+ccRFzIXxCjmKugwV+w3m22Vzp+1n6jCtBeS3EvBKoKGn8D3TVWFUb3J1Gn6C3ZT6RNjQN9ZVEOKslVRe/qBxUA8MwSGJAyx8FkqJOayuc+gMX8dRClO4HSyHsT+/6c4ZleZFAGYdnEuLjy0I+SGvJ+jYQNuiPE/HTqFqtaHMf1Ah4kjAFVN3ZdqoJBnEcuT4yEBZOiPR3NRvO1EDgrdfo4WlMJVVFtVX4623hCt7CmuHhvSFtqDKHTcxGJXcPNCkMIFnNWImf8W/XHtqDE0AIwT2rMAtOT38Gvz5/tLRMZt4lzkMjK3sNSaJBs3r24RKPmUPtvLO/fMKAzV4V3emNmkwEMK2VuZQNWzxXafFbvYJ5oenkTQEu2m+EtV3KRCVCHhXsuohKO63lVXtfl/hSn579+JcJd830poNs8uxWDI1SeVfCslt9X284fn5nj5TVpfqasq7Ro1yzx3xNnObIHsheIAbrRvRRAwyor+LaR0PPzRran1Jg==;HZ7NGqRvrH6scE6gaB24Yg=="
 ---

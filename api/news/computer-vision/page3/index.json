@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-09-uk-and-australia-to-probe-clearview-ai-facial-recognition.md",
+      "title": "UK And Australia To Probe Clearview AI Facial Recognition",
+      "excerpt": "The British and Australian data protection authorities have opened an investigation into the controversial facial recognition technology firm Clearview AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 326,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190624951%2F0x0.jpg",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-09T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories.md",
       "title": "AI at the Edge is enabling the push toward defect-free factories",
       "excerpt": "On-floor factory edge computing is enabing manufacturers to identify 99.6% of errors before a product ever leaves the line.",
@@ -1356,56 +1407,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
-      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
-      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "publishedDateTime": "2020-06-25T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

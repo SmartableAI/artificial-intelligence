@@ -2,6 +2,297 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-14-should-robots-pay-taxes.md",
+      "title": "Should Robots Pay Taxes?",
+      "excerpt": "Federal taxes are due this week in the US. But what about our synthetic coworkers? Should they cough up, too? Jordan Harrod, a Harvard-MIT PhD student, has something to say on the subject.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/s/should-rob/should-robots-pay-taxes_kaze.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
+      "publishedDateTime": "2020-07-14T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge.md",
+      "title": "Facebook uses Amazon EC2 to evaluate the Deepfake Detection Challenge",
+      "excerpt": "In October 2019, AWS announced that it was working with Facebook, Microsoft, and the Partnership on AI on the first Deepfake Detection Challenge. Deepfake algorithms are the same as the underlying technology that has given us realistic animation effects in movies and video games. Unfortunately, those",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/25/Deepfake-692x630.png",
+          "width": 692,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T09:27:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning.md",
+      "title": "Meet The Stanford AI Lab Alums That Raised $15 Million To Optimize Machine Learning",
+      "excerpt": "In 2019, after spending five years developing a ML platform at Stanford's AI Lab, the research team decided to spin out of the lab and create a company called Snorkel AI. Today, Snorkel AI came out of stealth mode announcing it had raised $15 million from investors like Greylock,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ae2de147a4f0006e5be31%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/",
+      "publishedDateTime": "2020-07-14T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-30-years-of-family-videos-in-an-ai-archive.md",
+      "title": "30 years of family videos in an AI archive",
+      "excerpt": "My dad got his first video camera the day I was born nearly three decades ago. “Say hello to the camera!” are the first words he caught on tape, as he pointed it at a red, puffy baby (me) in a hospital bassinet. The clips got more embarrassing from there, as he continued to film through many diaper changes,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pasted_image_0_rXp629k.png",
+          "width": 1600,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
+      "publishedDateTime": "2020-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-integrated-behavioral-health-ibh-uses-ai-and-clinical-data-analytics-to-shape-the-future-of-behavioral-healthcare-in-partnership-with-lyssn.md",
+      "title": "Integrated Behavioral Health (IBH) Uses AI and Clinical Data Analytics to Shape the Future of Behavioral Healthcare in Partnership with Lyssn",
+      "excerpt": "PRNewswire/ -- IBH Population Health Solutions (Integrated Behavioral Health, Inc.), a national leader in behavioral health technology and services, announced the launch of its new Provider Clinical Data Analytics technology platform that uses artificial intelligence (AI) and machine learning to improve the quality and outcomes of talk therapy counseling.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/PR Newswire/a1d3f7d5e51e8b91f694ebb58a8532a4",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers.md",
+      "title": "OpenCV launches two 4K OAK spatial AI cameras for DIYers",
+      "excerpt": "The OpenCV Artificial Intelligence Kit (OAK) project that branched off from CommuteGuardian has introduced two 4K/60fps spatial AI cameras for use in a huge variety of products. The company",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/07/OAK_camera_main.jpg",
+          "width": 1422,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/amp/",
+      "publishedDateTime": "2020-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-concentric-extends-data-protection-coverage-across-widening-range-of-industries-and-functions-with-launch-of-mind-deep-learning-as-a-service.md",
       "title": "Concentric Extends Data Protection Coverage Across Widening Range of Industries and Functions with Launch of MIND Deep Learning-as-a-Service Data Security Solution",
       "excerpt": "Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced the availability of Concent",
@@ -1102,268 +1393,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-how-artificial-intelligence-and-robotic-industry-is-going-to-upsurge-post-covid-19.md",
-      "title": "How Artificial Intelligence and Robotic industry is going to upsurge post-Covid-19",
-      "excerpt": "In a world that is constantly changing and improving, artificial intelligence and robotics is immensely valuable in adapting to new trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/07/web-5371562_640.jpg",
-          "width": 640,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
-      "publishedDateTime": "2020-07-14T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-global-voice-and-speech-recognition-technology-industry.md",
-      "title": "Global Voice and Speech Recognition Technology Industry",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-technology-industry-2020-07-14",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-how-to-choose-a-data-analytics-platform.md",
-      "title": "How to choose a data analytics platform",
-      "excerpt": "For processing big data, the AWS, GCP, and Azure clouds all have Spark and Hadoop offerings as well. Analytics platforms target machine learning and collaboration With data loaded, cleansed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/681283/how-choose-data-analytics-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_87684784.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-smart-retail-tech-startup-cloudpick-raises-series-a-funding.md",
-      "title": "Smart Retail Tech Startup Cloudpick Raises Series A+ Funding",
-      "excerpt": "Cloudpick, the technology startup providing smart retail and artificial intelligence solutions, announced recently that it has raised Series A+ round of funding led by Cathay Innovation. Prior to this,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
-      "publishedDateTime": "2020-07-13T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent.md",
-      "title": "53% of enterprises spending more than $20 million a year on AI technology, talent",
-      "excerpt": "Among seasoned adopters, 68% have spent more than $20 million over the past year on AI, according to Deloitte.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/09/123183af-a6a0-48bf-9891-86cdc7247104/ai-spending-2020.png",
-          "width": 658,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
-      "publishedDateTime": "2020-07-13T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud.md",
-      "title": "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud",
-      "excerpt": "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

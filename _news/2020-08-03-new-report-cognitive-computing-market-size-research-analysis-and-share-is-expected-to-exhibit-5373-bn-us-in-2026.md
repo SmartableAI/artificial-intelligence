@@ -1,0 +1,32 @@
+---
+category: news
+title: "New Report: Cognitive Computing Market Size, Research Analysis and Share is Expected to Exhibit 53.73 Bn US$ in 2026"
+excerpt: "Selbyville, Delaware According to Market Study Report, Has Added A New Report On Cognitive Computing Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size."
+publishedDateTime: 2020-08-03T15:23:00Z
+webUrl: "https://www.marketwatch.com/press-release/new-report-cognitive-computing-market-size-research-analysis-and-share-is-expected-to-exhibit-5373-bn-us-in-2026-2020-08-03"
+type: article
+quality: 31
+heat: 31
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Xot9n96+kbU6WeNSmDDO23I9+HfGY5L9dHbHKzlO0e+O5MonHKc9EDlteummkGO3gpTJkhDbmaYiiXKNWQVlIUpqWAH1BRaoy7X6mzZQDaduoFq1TUiy+KxE4LoRXPpAqs+50/qvxAiOXiptoCvPmzCsIeXOExDNyfVRhW+NVrGc1rAZBB1tWRjcAm41mztBC9t1zKVNFZMlTNWz4iwrz5XaI4Xhca+b5h5Gwf51ye4TzTWauapt8CsmqgG/QNDC9OfqoSkbSbk/kjMLH3WyA3sjosDaU3reH/OY7WiFDRIo4BmASkKprlpZ8tmfKTAgRBRpSKsuBewU3thB5fbi5Q==;IVAWaWw8L/Xr5OZInGnZhQ=="
+---
+

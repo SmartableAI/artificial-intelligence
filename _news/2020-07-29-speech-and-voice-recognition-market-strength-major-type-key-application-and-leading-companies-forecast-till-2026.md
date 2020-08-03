@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Speech and Voice Recognition Market Strength, Major Type, Key Application And Leading Companies Forecast Till 2026"
-excerpt: "Jul 29, 2020 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ..."
-publishedDateTime: 2020-07-29T04:36:00Z
-webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29?mod=mw_quote_news"
+excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
+publishedDateTime: 2020-07-29T08:51:00Z
+webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "nNJTPf8wtKSTD8vi5+Lcb19ZnxLbnTZeJsgXtCquycNbIoZz3ISo8+EZRQJ2sqEL7bGXKG4tc7bgFXl4CXkLgqsfwi9dAWSVLCqYbOF9SkPdLqnC8QsMKIbXQCiCvatk080bXWcqxPCPaltu9OWftD/bA06hJOK8UcaChOlCun2QkrHKvqLdP4oIT055GNhgI6qPjho90D4mTNf9Me9V7mLC2s/LXYD8sZBe09ulbYhBfdvMn+4oky3LMtjrAqTEO753dCMFZYjcWFCXuXd6QTpQywZTYLPEIvpDgWX95/Bw0dEVi0W2Mw7Sa41a6bK267rUQKfyr2FwaP17Q2C69A==;T+Ulhg+Z8Ej8BNTHFXnKEQ=="
+secured: "Hamwfbcb5B+Oh9pbxNhUbiWc0AN5ij0tqvcd/Zyp+6boOXvzJ4VHZeuqViBlX2xw3h8ZHSR565MxgNvHK4MloZ7eeAZXDq+0f4LZFFM6S/RTRHkQETYaV83vFlFH3g/tHWHbpwikVQpn1nSivv7Mg0vyfsryiAC+avNGZPjQs7Hgupwk/X9crSVX9ImLYrD5KfI6aBaQUa6ZXZH8MElPj0a1sLpnLv0heKem8FBkLuOoQphLbny5Det5ZDz0cX9TsgPwyuU2yrqN6PfR2XNcjlZZBfzbyfcv0uaIwg/FH3hWVdVDSOCPUG+5PzagKcaAa9Rq95d8nxhGso2h4lzZGw==;WqDrRyUafyrmbGl8hxeakw=="
 ---
 

@@ -2,6 +2,238 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-26-where-ai-is-delivering-a-competitive-edge-in-2020.md",
+      "title": "Where AI Is Delivering A Competitive Edge In 2020",
+      "excerpt": "One in five enterprises sees modernizing its data infrastructure for AI as the top AI initiative to ... [+] gain a competitive edge today. getty. IDC forecasts that spending on AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/26/where-ai-is-delivering-a-competitive-edge-in-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1cd8680d707a6f84e96b81%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/26/where-ai-is-delivering-a-competitive-edge-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/26/where-ai-is-delivering-a-competitive-edge-in-2020/amp/",
+      "publishedDateTime": "2020-07-26T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-26-how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups.md",
+      "title": "How EQT Ventures’ Motherbrain uses AI to find promising startups",
+      "excerpt": "Sweden's EQT Ventures embraced AI by creating Motherbrain to identify startups. Development hasn't been easy, but the firm is starting to reap the benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/eqtventures.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/amp/",
+      "publishedDateTime": "2020-07-26T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-26-deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions.md",
+      "title": "DeepMind’s Newest AI Programs Itself to Make All the Right Decisions",
+      "excerpt": "When Deep Blue defeated world chess champion Garry Kasparov in 1997, it may have seemed artificial intelligence had finally arrived. A computer had just taken down one of the top chess players of all time.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/07/red-dice-black-background-probability.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/amp/",
+      "publishedDateTime": "2020-07-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-26-artificial-intelligence-platform-detects-power-grid-flaws-and-wildfire-dangers-better-and-faster-than-humans.md",
+      "title": "Artificial Intelligence Platform Detects Power Grid Flaws And Wildfire Dangers Better And Faster Than Humans",
+      "excerpt": "Powerlines and equipment problems have been the cause of most recent wildfires. But a new AI and machine vision technology can analyze millions of images of powerlines and towers to find dangerous faults and flaws to help utilities identify problem areas and repair them before a fire starts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1ba09af74dc5ebe069773c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1077%26cropY1%3D0%26cropY2%3D720",
+          "width": 1077,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/amp/",
+      "publishedDateTime": "2020-07-26T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-26-artificial-intelligence-a-potent-weapon-against-covid-19.md",
+      "title": "Artificial Intelligence: A Potent Weapon Against Covid-19",
+      "excerpt": "The pandemic has ensured that AI has now evolved to the level of being Augmented Intelligence, helping humans in every segment and sector. With the knowledge and insights gathered from the Corona ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2020/07/Untitled-design-2020-07-26T094821.971.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/amp/",
+      "publishedDateTime": "2020-07-25T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Healthcare",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-26-police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.md",
       "title": "Police look to AI, robots to make Dubai the world's safest big city",
       "excerpt": "Dubai Police adopted the AI Ethics framework established and developed by the Smart Dubai initiative. The framework is one of the first in the world to address human concerns about AI and automation; it includes four principles --ethics, security ...",
@@ -926,234 +1158,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-apple-acquires-more-ai-startups-than-any-other-tech-company.md",
-      "title": "Apple Acquires More AI Startups Than Any Other Tech Company",
-      "excerpt": "Of the 489 companies to buy an AI startup over the last decade, 431 of them purchased only one company. That means these tech giants—and Apple, specifically—are dominating this AI arms race. Related: How to Use Your iPad as a Second Monitor on Any ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/353773",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1595605777-apple.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/353773",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353773",
-      "publishedDateTime": "2020-07-24T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-startup-founders-at-new-5g-open-innovation-lab-explain-how-theyve-adjusted-to-the-covid-19-crisis.md",
-      "title": "Startup founders at new 5G Open Innovation Lab explain how they’ve adjusted to the COVID-19 crisis",
-      "excerpt": "Evolute has Infrastructure AI, which allows us to seamlessly understand and transform ... How has your business been affected by COVID-19 and how are you adapting? As a stealth mode startup, we anticipated that our customer base could dissipate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-21-at-3.37.35-PM-297x300.png",
-          "width": 297,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/amp/",
-      "publishedDateTime": "2020-07-24T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.md",
-      "title": "COVID -19: Aerokeys to launch more intelligence, profiling human robotics",
-      "excerpt": "Aerokeys Nigeria Limited, one of the world’s leading aviation company has revealed plans to launch the use of robots in the nation’s fight against COVID-19, aimed at reducing direct",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dailytrust.com.ng/wp-content/uploads/2020/06/COVID-19-testing.jpg",
-          "width": 1080,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html/amp",
-      "cdnAmpWebUrl": "https://www-dailytrust-com-ng.cdn.ampproject.org/c/s/www.dailytrust.com.ng/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.html/amp",
-      "publishedDateTime": "2020-07-24T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Trust",
-        "domain": "dailytrust.com.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast.md",
-      "title": "Artificial Intelligence Market Share 2020-2025 | Size, Price, Analaysis, Report and Forecast",
-      "excerpt": "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics such as language understanding, reasoning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast-2020-07-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-artificial-intelligence-ai-in-construction-market.md",
-      "title": "Artificial Intelligence (AI) in Construction Market",
-      "excerpt": "QMI comes with an in-depth analysis and prediction report on the Artificial intelligence (AI) in construction Market. A new research has been carried out across many regions and sectors. It offers a wide-ranging survey report of market players, product ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2096500/artificial-intelligence-ai-in-construction-market-expecting",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T724430476_g.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting",
-      "publishedDateTime": "2020-07-24T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

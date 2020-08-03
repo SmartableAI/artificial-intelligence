@@ -2,6 +2,254 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-23-tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security.md",
+      "title": "Tech execs urge Washington to accelerate AI adoption for national security",
+      "excerpt": "Watch every session from the AI event of the year Tech company CEOs may be heading to Washington next week to take part in antitrust hearings in Congress, but this week high-profile executives ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/congress.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/amp/",
+      "publishedDateTime": "2020-07-22T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-investors-like-amazon-and-softbank-are-betting-these-10-self-driving-car-startups-are-primed-to-take-on-tesla-and-waymo.md",
+      "title": "Investors like Amazon and SoftBank are betting these 10 self-driving-car startups are primed to take on Tesla and Waymo",
+      "excerpt": "The company's technology uses artificial intelligence, computer vision, sensor technology, and deep learning to operate autonomous vehicles, enabling truck and freight companies to increase truck ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f11b86a988ee342b5413602?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-elon-musk-said-people-who-dont-think-ai-could-be-smarter-than-them-are-way-dumber-than-they-think-they-are.md",
+      "title": "Elon Musk said people who don't think AI could be smarter than them are 'way dumber than they think they are'",
+      "excerpt": "\"The people I see being the most wrong about AI are the ones who are very smart,\" Tesla CEO Elon Musk said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f18bd914dca685317008a54?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7?amp",
+      "publishedDateTime": "2020-07-22T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-microsofts-ai-powered-eye-contact-feature-is-finally-coming-to-the-surface-pro-x.md",
+      "title": "Microsoft’s AI-powered ‘Eye Contact’ feature is finally coming to the Surface Pro X",
+      "excerpt": "Microsoft’s AI-powered “eye contact” feature for the Surface Pro X is finally starting to roll out, months after it was originally announced for the ARM-powered Surface laptop last year. The new feature is rolling out now as part of Windows 10 Insider Preview Build 20175,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/xR8oAKV3jbaat6T1m-otd2NQpSQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67094197/vpavic_191101_3747_0024.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out",
+      "publishedDateTime": "2020-07-22T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-googles-ai-based-product-recommendations-tool-is-now-available-in-beta.md",
+      "title": "Google's AI-based product recommendations tool is now available in beta",
+      "excerpt": "Google announced today that its Recommendations AI service, designed to provide a personalized product recommendations to online customers, is now rolling out to the public in beta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/googles-ai-based-product-recommendations-tool-is-now-available-in-beta",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2018/02/1518707530_google2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/",
+      "publishedDateTime": "2020-07-22T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-new-york-bans-use-of-facial-recognition-in-schools-statewide.md",
       "title": "New York bans use of facial recognition in schools statewide",
       "excerpt": "New York state passed legislation that would ban the use of facial recognition in schools, if signed by Governor Andrew Cuomo.",
@@ -954,246 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that.md",
-      "title": "Trouble with your tennis serves and penalty kicks? There’s an AI for that",
-      "excerpt": "Ah, sportsball. Can you ever forget the first time you grab that pass, fly down the court, and sink that puck right through the net as your fans yell adoringly from the bleachers, TOUCHDOWN! No? Not ringing a bell?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-14-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/amp/",
-      "publishedDateTime": "2020-07-22T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-huddlai-wants-to-bring-more-intelligence-to-online-meetings.md",
-      "title": "huddl.ai wants to bring more intelligence to online meetings",
-      "excerpt": "As the pandemic has shut down in-person meetings, and pushed us online, products like Zoom, Cisco WebEx, Google Meet and Microsoft Teams have become part of our daily lives. Into the fray jumps huddl.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Huddl.ai-Meeting-Moments-Screen-Shot.png?w=680",
-          "width": 680,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
-      "publishedDateTime": "2020-07-22T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-did-a-person-write-this-headline-or-a-machine.md",
-      "title": "Did a Person Write This Headline, or a Machine?",
-      "excerpt": "GPT-3 was built by directing machine-learning algorithms to study the statistical patterns in almost a trillion words collected from the web and digitized books. The system memorized the forms of countless genres and situations, from C++ tutorials to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f177a60a5050d907f3c5f70/master/pass/business_text_1202278559.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
-      "publishedDateTime": "2020-07-22T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-new-look-for-microsoft-office-and-microsoft-365-will-tackle-work-life-distractions-on-desktop-and-mobile.md",
-      "title": "New look for Microsoft Office and Microsoft 365 will tackle work-life distractions on desktop and mobile",
-      "excerpt": "Microsoft readies a new ribbon UI for Office that can move around the window and offers commands the second they're needed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/22/3abb2f18-7749-4c6e-b7e9-b8dc66d38100/thumbnail/1200x675/b2ca1d434b81a43f8b36d8e8ab7e4224/istock-867179816.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "publishedDateTime": "2020-07-22T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-police-claim-violent-extremists-exploit-coronavirus-to-defeat-facial-recognition-leaked-files-show.md",
-      "title": "Police claim 'violent extremists' exploit coronavirus to defeat facial recognition, leaked files show",
-      "excerpt": "Leaked documents reveal the message sent to police behind closed doors: face masks \"embolden some individuals to escalate violence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F22%252F56%252Faa3f838f27ed4b0790aeec22bb0c2b29.eb367.jpg%252F1200x630.jpg?signature=LYdsF0JHdjMt-Mdl8_3CQBS14UU=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "publishedDateTime": "2020-07-22T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

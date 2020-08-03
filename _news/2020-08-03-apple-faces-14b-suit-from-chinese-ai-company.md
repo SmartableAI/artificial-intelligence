@@ -8,7 +8,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/apple-faces-14b-suit-from-chin
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/apple-faces-14b-suit-from-chinese-ai-company-2020-08-03"
 type: article
 quality: 87
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -99,6 +99,34 @@ related:
       - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12986506/16x9/991/557/f2a60f8b4c81920a8a68beeb55607cb8/vD/file-photo--the-apple-inc-logo-is-seen-hanging-at-the-entrance-to-the-apple-store-on-5th-avenue-in-new-york-1.jpg"
         width: 991
         height: 557
+        isCached: true
+  - title: "Chinese AI company sues Apple for $1.4 bln over Siri patent"
+    excerpt: "Chinese AI company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i is suing Apple on the grounds of patent infringement. Chinese company filed a formal lawsuit against Apple in Shanghai High People’s Court on 3rd of August ..."
+    publishedDateTime: 2020-08-03T15:02:00Z
+    webUrl: "https://www.finchannel.com/technology/78152-chinese-ai-company-sues-apple-for-1-4-billion-over-siri-patent"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 37
+    images:
+      - url: "https://luxurypragueapartments.com/wp-content/uploads/2019/10/types-of-investment-funds.jpg"
+        width: 730
+        height: 467
+        isCached: true
+  - title: "Chinese Artificial Intelligence Firm Sues Apple for $1.4 Billion Over Siri"
+    excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit"
+    publishedDateTime: 2020-08-03T14:25:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/08/03/577739.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 35
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2015/07/Apple_Headquarters_in_Cupertino-580x403.jpg"
+        width: 580
+        height: 403
         isCached: true
 
 secured: "I/o2rPBzDjywNeIxizIMrEzsqIZyR9ITW1YqBpzIX+5xZeyBdYeF4NoE74HFH1oo/C7smubdio+HQhTwSNO7KvLlVsxVH9+ojBBqzMe3NnmZnltQtkgVAKL82qZfAD6NH1b+CnP3NqqnIbxrwGfuBDDBleOH2vAVVfdnmJhmkIlj2cmngTOKFQLI0KBhd1h7dtkKGx9LntnzJA0N7wVUihdUWfU172reXA/1YkFwEeDlUrYPXftqENEB4ExtUPc49RNzCL6EEmAsOArpR5TLBUUha01FOXHm1O5Kfc36XrAtvx1ruY6ho5+zKzW8IJSqpKqwgzR7sXl6KR9O37GqjQ==;a36wE/5Fg+/OaFw7KCZaBg=="

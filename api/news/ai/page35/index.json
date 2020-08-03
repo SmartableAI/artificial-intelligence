@@ -2,6 +2,279 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-06-30-artificial-intelligence-is-experiencing-growing-pains.md",
+      "title": "Artificial Intelligence Is Experiencing Growing Pains",
+      "excerpt": "We’ve moved beyond the phase of Is AI a shiny object? toward broader mainstream adoption and actual value creation. But are organizations ready?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/amp/",
+      "publishedDateTime": "2020-06-30T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-australian-authorities-want-an-ai-to-settle-your-divorce.md",
+      "title": "Australian Authorities Want an AI To Settle Your Divorce",
+      "excerpt": "For better or worse, there’s a good chance your current love life owes something to automation. Even if you’re just hooking up with the occasional Tinder fling (which if you are, no judgment), you’re still turning to Tinder’s black-box algorithms to pick out that fling for you before turning to more black-box algorithms to pick out the best dingy bar to meet them at before turning to more black-box algorithms to figure out what,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iecgpkelskttyvkjc7sq.jpg",
+          "width": 800,
+          "height": 451,
+          "title": "Australian Authorities Want an AI To Settle Your Divorce",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
+      "publishedDateTime": "2020-06-30T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-for-machine-builders-its-open-season.md",
+      "title": "For Machine Builders, It’s Open Season",
+      "excerpt": "Today, software developers for the consumer market take advantage of open source code to enable connectivity, databases, visualization and more. Established developers in the industrial operational technology (OT) arena also are finding applications where they would like to use some of these same open source characteristics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/automation-iiot/article/21135495/for-machine-builders-its-open-season",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models.md",
+      "title": "Montreal AI Ethics Institute suggests ways to counter bias in AI models",
+      "excerpt": "In a recent paper, analysts at the Montreal AI Ethics Institute examine key challenges faced by the AI community -- and propose solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Montreal AI Ethics Institute suggests ways to counter bias in AI models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/",
+      "publishedDateTime": "2020-06-30T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning.md",
+      "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
+      "excerpt": "The researchers claim MARGE learns to paraphrase, translate, and summarize text without any fine-tuning, a potential step toward systems that can perform any text task from pre-training alone. In machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/amp/",
+      "publishedDateTime": "2020-06-30T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex.md",
+      "title": "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex",
+      "excerpt": "Organizations across industries have a large number of physical documents such as invoices that they need to process. It is difficult to extract information from a scanned document when it contains tables, forms, paragraphs, and check boxes. Organization have been addressing these problems with manual",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/25/conversational-insights-001.jpg",
+          "width": 1000,
+          "height": 564,
+          "title": "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T12:49:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-how-to-build-a-cognitive-enterprise.md",
       "title": "How to Build a Cognitive Enterprise?",
       "excerpt": "Enterprise Experience and Humanity Enterprise experience and humanity is an essential component of Cognitive Enterprise. In the end, for all the technology centricity of this new world, it is human power that envelopes and leverages this technology to be ...",
@@ -1120,285 +1393,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-zia-khan-predicts-the-ai-of-the-future-will-only-be-used-for-good.md",
-      "title": "Zia Khan predicts the AI of the future will only be used for good",
-      "excerpt": "It took a global pandemic and stay-at-home orders for 1.5 billion people worldwide, but something is finally occurring to us: The future we thought we expected may not be the one we get. We know that things will change;",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/06/Zia-Khan.jpg?quality=75&strip=all&w=1400",
-          "width": 820,
-          "height": 984,
-          "title": "Zia Khan predicts the AI of the future will only be used for good",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/amp/",
-      "publishedDateTime": "2020-06-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-mentenais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery.md",
-      "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
-      "excerpt": "Menten AI has an impressive founding team and a pitch that combines some of the hottest trends in tech to pursue one of the biggest problems in healthcare — new drug discovery. The company is also $4 million richer with a seed investment from firms including Uncork Capital and Khosla",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/01/quantum.jpg?w=1024",
-          "width": 1024,
-          "height": 737,
-          "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
-      "publishedDateTime": "2020-06-30T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era.md",
-      "title": "IBM uses AI to enhance old Wimbledon tennis footage for the digital era",
-      "excerpt": "IBM and Wimbledon are using AI techniques to revitalize classic footage going back to the 1970s to appeal to modern tennis fans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-88811603.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": "IBM uses AI to enhance old Wimbledon tennis footage for the digital era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/amp/",
-      "publishedDateTime": "2020-06-30T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses.md",
-      "title": "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses",
-      "excerpt": "A new MIT robot that uses UV light to kill the coronavirus could be used to disinfect warehouses, schools, and offices.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-88-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/",
-      "publishedDateTime": "2020-06-30T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-1694118-million-in-2025-valuates-reports.md",
-      "title": "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports",
-      "excerpt": "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025---valuates-reports-301085882.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
-          "width": 920,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy.md",
-      "title": "YouTuber Uses Artificial Intelligence To Make Fake Iron Maiden Song, Power Gravy",
-      "excerpt": "Following on from the AI recreations of Metallica’s Deliverance Rides and Nirvana’s Smother, YouTuber and tech wizard Funk Turkey has used artificial intelligence to create a brand new Iron Maiden song",
-      "sourceUrl": null,
-      "webUrl": "https://www.kerrang.com/the-news/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.kerrangcdn.com/MaidenPowerGravy.jpg?auto=compress&fit=crop&w=1008",
-          "width": 1008,
-          "height": 567,
-          "title": "YouTuber Uses Artificial Intelligence To Make Fake Iron Maiden Song, Power Gravy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.kerrang.com/amp/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy",
-      "cdnAmpWebUrl": "https://www-kerrang-com.cdn.ampproject.org/c/s/www.kerrang.com/amp/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy",
-      "publishedDateTime": "2020-06-30T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kerrang!",
-        "domain": "kerrang.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

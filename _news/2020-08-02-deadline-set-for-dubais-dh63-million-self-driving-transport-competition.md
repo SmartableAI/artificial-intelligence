@@ -79,15 +79,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Self-Driving Cars Will Make Life Better—For Some of Us"
-    excerpt: "True self-driving cars are still likely decades away, but it might behoove us to start planning for them, and how they’ll change society, now."
-    publishedDateTime: 2020-07-29T21:23:00Z
-    webUrl: "https://www.automobilemag.com/news/self-driving-cars-digital-divide-mobility/"
+  - title: "Baidu is ready to produce computers for self-driving cars"
+    excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
+    publishedDateTime: 2020-08-03T14:20:00Z
+    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/baidu-is-ready-to-produce-computers-for-self-driving-cars/"
     type: article
     provider:
-      name: Automobile
-      domain: automobilemag.com
-    quality: 4
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/GIF-Suggestion.gif"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "0tSmWfAH9LZ/yeFcDDluY+wZnlLt4HFBpqc5BOKQ56RFMTUw3VfPfIdI1AO3t63zsg827OB4kS6FA5KuwMiHRFI2HDBAB+d49o7ne5boOnzkx7nOatBVm1mjCkunVnvMQgzc+dh2afapEBB2+WMFvZq+Xcp8F3Lz5XrfvY5dqURZwQmdUau+qugonbT9Som+1IZ3FwSpGVfgrmljrz2KAxgrUp2omYCzhVa9bHdkSjCxCFoi0LjWvyj13UQE4Es+oUPzOyw1rqE1Q4p4Xinc/+0o6bB/SPyctmKjQYy+o4uKogLRDhXK3SB081/4YHv/1MfjQAu541o2+OPYZso/Yg==;2S8PpZJ/isWwliClASxF+w=="
 ---

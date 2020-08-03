@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2101008/vehicle-speech-recognition-system
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: openpr.com
@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AppTek Expands Speech Recognition with Modzy AI Platform and Marketplace"
+    excerpt: "The deployment extends AppTek´s language transcription and translation capabilities available via Modzy beyond the initial five ASR languages and two MT languages contributed by AppTek when the platform launched in November 2019."
+    publishedDateTime: 2020-08-03T14:42:00Z
+    webUrl: "https://financial-news.co.uk/apptek-expands-speech-recognition-with-modzy-ai-platfor/"
+    type: article
+    provider:
+      name: Financial News
+      domain: financial-news.co.uk
+    quality: 33
 
 secured: "QNAnssUE1PkS2j2SvyQAyaS+XjXP8RKJq8gctz2IxBBOZNouyTiN5mKnVi7utyBoCEwE2MNuzGCFVWNIzBzeiHPEcPv3zvTkM/xjBin9DIFSXoh1mN8ffJ8Jsk4/WUXroA5vo/hkKISgsk4eb9bHWYQ1vKf2W9LQ/PkbS6otzzsB99mLhAWayTEqjJVLfG/cPnrOBAAKj85RXKeynTiq3OEgZrjIE4nu5EnfR3Pmce08pac2yCZOSSyiVsAw4bTnYxaALcES5PTWEL1QVYH8X7vp2NuUNWG14glm+BNu9SefzL2t9bPDFRpnKn2JFx1N3LBTel7DKCE6tmwrDiwREw==;eklEwOaWRzN3qBoPzPcxKw=="
 ---

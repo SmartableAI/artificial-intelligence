@@ -46,17 +46,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "How Reuters Analyzed Rite Aid's Use of Facial Recognition Technology"
-    excerpt: "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020."
-    publishedDateTime: 2020-07-29T21:29:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-07-28/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 84
   - title: "Reuters: Rite Aid Deployed China-Linked Facial Recognition in Poor Neighborhoods"
     excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country, a Reuters investigation found."
     publishedDateTime: 2020-07-30T13:01:00Z

@@ -66,6 +66,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
+  - title: "Baidu is ready to produce computers for self-driving cars"
+    excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
+    publishedDateTime: 2020-08-03T14:20:00Z
+    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/baidu-is-ready-to-produce-computers-for-self-driving-cars/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/GIF-Suggestion.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Deadline set for Dubai's Dh6.3 million self-driving transport competition"
     excerpt: "A deadline of August 31 has been set for entries to this year’s Dubai World Self-Driving Transport Challenge. There are prizes of up to Dh6.3 million up for grabs at the annual event which is organised by the emirate’s Roads and Transport Authority (RTA)."
     publishedDateTime: 2020-08-02T13:46:00Z
@@ -80,15 +94,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-Driving Cars Will Make Life Better—For Some of Us"
-    excerpt: "True self-driving cars are still likely decades away, but it might behoove us to start planning for them, and how they’ll change society, now."
-    publishedDateTime: 2020-07-29T21:23:00Z
-    webUrl: "https://www.automobilemag.com/news/self-driving-cars-digital-divide-mobility/"
-    type: article
-    provider:
-      name: Automobile
-      domain: automobilemag.com
-    quality: 4
 
 secured: "zJ8Ymr9ajSpIzaq2rEaz6F7kMsyAnNqihIJhh0pf2zjoM3veUnRKLxGYfZeob9oMGJYzhgxmP3zQ+KDN7UcQQTBZrLyF135aTYQSISbEoPmp07ysIyJLySLOhrIn3MVRsRLLKUD4SkyL9JIyGh6rXVE0m1ZgsRFox+x/pAWEFG/Dnv3vbWOetNCL6TGyW9WjMhbehZqOec7oaOnkhdhXES9FOPzbVMIiXPN1fDDoetEOUmE/ekbApVGXTPTXSzoWUw0yyV/bUmtypcjeWgLicCL8GHJUWt2a3x/ovd4cFCQma2v8TYc0POLtenjAOW5SxLoDIRCosS8VrPuA3Ib1Fw==;v8ke4+WV1i7ATXebpcWNwg=="
 ---

@@ -96,6 +96,34 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Chinese AI company sues Apple for $1.4 bln over Siri patent"
+    excerpt: "Chinese AI company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i is suing Apple on the grounds of patent infringement. Chinese company filed a formal lawsuit against Apple in Shanghai High People’s Court on 3rd of August ..."
+    publishedDateTime: 2020-08-03T15:02:00Z
+    webUrl: "https://www.finchannel.com/technology/78152-chinese-ai-company-sues-apple-for-1-4-billion-over-siri-patent"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 37
+    images:
+      - url: "https://luxurypragueapartments.com/wp-content/uploads/2019/10/types-of-investment-funds.jpg"
+        width: 730
+        height: 467
+        isCached: true
+  - title: "Chinese Artificial Intelligence Firm Sues Apple for $1.4 Billion Over Siri"
+    excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit"
+    publishedDateTime: 2020-08-03T14:25:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/08/03/577739.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 35
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2015/07/Apple_Headquarters_in_Cupertino-580x403.jpg"
+        width: 580
+        height: 403
+        isCached: true
 
 secured: "CapXhxPp9pEjUWlH3r5XbjSCxKUPaiQc03vvAgAqL3F7bkYK+IOO5xsn1JxpTTeFwrAyd1QMucREM3VAoEJPhN1wdXiXL5ISKk78JxVyUYQ84B7kjjaQiPX7c5L947on3arTQl83UF3nc6mgqvk4rPVo6/lfamf+eqWO4yDrq3zc9viSK9NyT4vG4GMnSv7NOtIJl01mntNdFL4vAHlHARHUxfii/YjQZPG0nxuHn0WUAnuHdYz5mEcuiObGxKq6D1lNiO5nsMZDlNZ7vZO4o2K1ZSrUieoTGmsEyNt9Ei3PYmurpmOfc58CKlvzwXu94jFyK9cEB+070SCd9XnOgw==;sj214Jf23zEQEQvVKHyKOg=="
 ---

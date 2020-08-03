@@ -59,7 +59,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 112,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1045,7 +1045,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
