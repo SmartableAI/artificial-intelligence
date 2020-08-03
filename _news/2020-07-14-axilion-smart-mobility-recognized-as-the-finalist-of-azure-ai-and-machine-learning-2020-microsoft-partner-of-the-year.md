@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year"
-excerpt: "Axilion Smart Mobility today announced it was recognized as a finalist in Azure - AI and Machine Learning 2020 Microsoft Partner of the Year Award. The company was honored among a global field of ..."
-publishedDateTime: 2020-07-14T19:31:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16620223"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16620223"
+excerpt: "Azure's robust infrastructure and scale empower ... Global Partner of the Year 2020 in AI & Machine Learning Mr. Aharon Aharon, CEO, Israel Innovation Authority said: \"The computerization of ..."
+publishedDateTime: 2020-07-14T21:05:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-9070060"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "yzOXKs+3C5DkY9rqaICoTWD70/sczJRDVnfMM0tZ7LcEZvz+tUzxjR+hAwuOQCm43NVi6gDqtL5y1V2CzkGV7fSUqWIYDGBg4i7ktdHQii8L1DcxNPf7q1WwW04sUUMgIS0RklMfAHIV53lgIfN7NZ1cu0qEk6cKv4RmHmUV2FORCv5ZrgDumDgEa+AaMWO9feDx8raI94Grn70iVuDAjlchci8yaaeYkL6yVeZf3tpQWwjm2sctxDCr5gih6UsD0GVFYX8GA8z3BOCwOg+ZtH0ph//kXlYG8JK7I7KEXA5+61yxKpjCSOS/2tWI/yaXliEdWuCEogOQ6DDB2Ke12g==;zi3tAXQ5nEZe8q5LcpuziQ=="
+secured: "t0vltioFdzdSlF1J0WGTjYsXIGRm0XsEPjQxYkrj2b8dLhfN9udtuMLtPx1eYqGZhW357AM0+lI+NWY1cN/j3Y+5GB7a5c5g+04GOlUME55y61GbsCGXqe+ejYMmn9qtrwnu/sKnYOlEq2xhOu3Mg+XK1Qvl9EzXRhlIC2hN0hDlj6TZiE0NIz7M5YvfugTr21fOASeJjypfiRtvYfYIqrJgpugMfAQQfyM/aIUnOW09sdIDeJ5414po3g9e5OKKl5oEZfO9SZGbrSiF+uC6ixs0+gvWxnkJqbhgx3+gfp9XnEgidmpLjHZIkQD8glZTZo0nxzHGuS2meHphStHwuA==;eKI+5zBVmtM10n/+rKhTrg=="
 ---
 

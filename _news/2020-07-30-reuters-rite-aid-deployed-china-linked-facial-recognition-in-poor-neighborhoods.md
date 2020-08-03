@@ -56,22 +56,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
-    excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."
-    publishedDateTime: 2020-07-29T13:42:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2020/07/rite-aid-used-facial-recognition-cameras-in-multiple-us-stores-for-years-but-has-since-shut-them-off-report.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 54
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/27QQFRYKCVDA5NIMU4CO3KFZEU.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "rQU7W4Fx06g7eIJxi5IqG6u13kEzO1FZV3naT29N1bM2OUGZU/LR/LaD2pRTH7pxAofV0HPly/9vMoQcIuoUcH8KiCQ0os2NQmvmfX6GeMmGq4s7kDf9z6hX7f6ohcI+zGUIPyqSjwQp3yknRYE0bovXmFumBqlSuBPHpQeeiRvG0mg6/DTSmNroz0RKhVCKd56Tyx4ucMbhT8jSHFixEcxRpunevw69J7kNbQEM3c3Xwc51464xDw0mC5NwwhnR+J5hjBXqoJ8qiiWsCMx/xiuUKR/8m8PFg1uF48m/kvrEF3sW85oLivTIct1w2iRSU/7grIL6eUniNGHBluougw==;6zDz9lXPZBuFKORO1yiUVQ=="
 ---

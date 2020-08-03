@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Instrumental raises $20M to scale its AI-powered manufacturing tech"
-    excerpt: "Instrumental, a startup that uses vision-powered AI to detect manufacturing anomalies, announced that it has closed a $20 million Series B led by Canaan Partners. The company had previously raised $10."
-    publishedDateTime: 2020-07-29T14:31:00Z
-    webUrl: "https://techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/"
-    ampWebUrl: "https://techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/instrumental-raises-20m-to-scale-its-ai-powered-manufacturing-tech/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Headshot-Anna-Katrina-Shedletsky-CEO.png?w=300"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Candis raises nearly $14 million to automate accounting processes with AI"
     excerpt: "Candis, a startup developing a platform for automated accounting and payment processes, this week closed a €12 million ($13.97 million) financing round. A spokesperson for the company said it ..."
     publishedDateTime: 2020-07-30T12:02:00Z
