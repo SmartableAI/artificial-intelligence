@@ -19,17 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Experts: AI powered robots will replace humans on the shopfloor if not integrated"
-    excerpt: "Humans will be augmented by robots in ways that will result in productivity, efficiency and safety gains. Matthias Schindler, Head of AI Innovations at BMW Group, said technology needs to serve people rather than replace them."
-    publishedDateTime: 2020-07-29T07:29:00Z
-    webUrl: "https://www.ameinfo.com/industry/technology/ai-powered-robots-will-replace-humans-on-the-shopfloor-if-not-integrated"
-    type: article
-    provider:
-      name: AMEinfo.com
-      domain: ameinfo.com
-    quality: 29
-
 secured: "bTBRQC7t1fhloM8WV/EJKJfas4Pica18ZUYyvFxJnCUQbr6U2y7Pg7tWxkgcsFCj12uKFPPsbhUlQCyg7oWETrORsdJ1FI2fYz1PmvRylPXDaYKvq7EjpPgDghCO/GfIOykckA8w3y0eaAIo+vuT13C6mYRynQTMCfSZZr3KADdk8dHDZu6BAWVOzw4HHSx4pS8IPUaM4YTs2wYvRrs/1y/s2xJiMa/R44UI1VlA2N8QzFqKXlz7TxDaHHb0WYQJH8ArU3nHGo9O5KNHPg+JRSCg6HuGFxqVzeePBN3GKivSOLPId10o7XPnfk4bnNGZ4lspyu7xyzA/GdLJLk4M7A==;y+hBFUg8+GIK1KuIihWSdw=="
 ---
 

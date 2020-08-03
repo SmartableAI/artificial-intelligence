@@ -2,6 +2,136 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-06-24-you-can-now-get-a-botox-treatment-plan-with-help-from-ai.md",
+      "title": "You can now get a Botox treatment plan with help from AI",
+      "excerpt": "Using Botox to enhance your cheekbones or alter your appearance is all the rage, thanks to the Kardashians and Hadids of the world. One doctor is trying to bring Botox back to its wrinkle-fighting basics — with the help of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F24%252Fa3%252F79defb9eb0a74d5a948f15bab526fad3.abb42.jpg%252F1200x630.jpg?signature=Jb-PPpyXWIZZNj5VRsPtL14uX6Y=",
+          "width": 1200,
+          "height": 630,
+          "title": "You can now get a Botox treatment plan with help from AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
+      "publishedDateTime": "2020-06-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-blue-ridge-enhances-machine-learning-capabilities-for-price-optimization.md",
+      "title": "Blue Ridge Enhances Machine Learning Capabilities for Price Optimization",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... which leverage machine learning to quickly identify opportunities and simulate pricing ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/blue-ridge-enhances-machine-learning-capabilities-for-price-optimization-1029338347",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-un-telcos-in-africa-take-on-covid-19-with-ai-and-digital-service.md",
+      "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
+      "excerpt": "The United Nations Economic Commission for Africa joined forces with a group of telecoms operating in Africa to reach over 600 million mobile subscribers with coronavirus health advice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/06/24/africa/un-africa-telcos-coronavius-intl/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200624084633-02-cameroon-coronavirus-0306-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
+      "publishedDateTime": "2020-06-24T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-sqream-technologies-raises-394-million-for-gpu-accelerated-databases.md",
       "title": "SQream Technologies raises $39.4 million for GPU-accelerated databases",
       "excerpt": "Tel Aviv-based startup SQream Technologies raised $39.4 million in venture capital to further develop its GPU-accelerated database product offerings.",
@@ -1221,138 +1351,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization.md",
-      "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
-      "excerpt": "Artificial intelligence has been put to amazing use. However, AI systems can’t do anything at all without access to data to train the machine learning models. And much of that data is locked in documents in paper or electronic form or in human-controlled processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef270f1c708900006e39c79%2F0x0.jpg",
-          "width": 749,
-          "height": 407,
-          "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
-      "publishedDateTime": "2020-06-23T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-4-reasons-to-use-artificial-intelligence-in-your-next-embedded-design.md",
-      "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
-      "excerpt": "For many, just mentioning artificial intelligence brings up mental images of sentient robots at war with mankind and man’s struggle to avoid the endangered species list. While this may one day be a real scenario for when (perhaps a big if?) mankind ever ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/4-reasons-use-artificial-intelligence-your-next-embedded-design",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/difference_between_ai__machine_learning_and_deep_learning.png",
-          "width": 2526,
-          "height": 1442,
-          "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
-      "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
-      "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

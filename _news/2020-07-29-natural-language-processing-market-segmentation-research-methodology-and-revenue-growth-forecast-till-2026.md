@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-29T09:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -41,6 +41,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Diagnostics Market Worth $3.0 Billion By 2027: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in diagnostics market size is expected to reach USD 3.0 billion by 2027, expanding at a CAGR of"
+    publishedDateTime: 2020-07-29T09:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-diagnostics-market-worth-3-0-billion-by-2027-grand-view-research-inc-301101889.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+        width: 1400
+        height: 733
         isCached: true
 
 secured: "8RemTIAzMjeOL9pWdF2rvWlMEwNOxN1MxfYvHthMN31gcsKORZiqPNdNMYlCzUbo9gRmaOHFEKaLX/F5Y/pc1bDG+dHdKhqlxW5Q3fhXTPubwDPieNTlTox9zbwM+1xzUqL3wP6QpJVOqRulg3CddewAu3pBJ+HtpgC2+f8gsPdkkcNSHG9kmqWbWRLxIdgCRmpx/OyWDvpL+NHX4WI6E1kjV9EwcuPOZC+02pCQ2faDd6wgulsl2Ayn6g8gSDEXKcK37rdH1RGoIGOjlWizziELHas0WKQSP8X8cTOAJ7JwLRULN3lKG9VChmn8UHjykExSSVSHPDlJzvjGGBT3LQ==;VgALLtA3VaWBEMdUyysuEw=="

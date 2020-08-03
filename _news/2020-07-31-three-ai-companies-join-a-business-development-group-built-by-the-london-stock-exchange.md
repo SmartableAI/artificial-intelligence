@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/four-ai-companies-jo
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/four-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI in Processor Market Outlook 2026: Top Companies, Trends and Growth Factors Details for Business Development"
-    excerpt: "Snapshot of Global AI in ProcessorEcosystem: The AI Processor and System on Chip (SoC) will make up most of the"
-    publishedDateTime: 2020-07-29T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-processor-market-outlook-2026-top-companies-trends-and-growth-factors-details-for-business-development-2020-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "uyDVAI1cmIHwpnGlSb4VmaHzdipflyGRENovJWUb2dJMPYfggAXaa+BYBNiROUbXHTN8vCg/w3vt+p4qhLjjyWdSqjbzFqv/KiBhIAum7sY8QwNSK+X5OccKqhmQ+mhUvRDKwxPJgzJGkZshXecuqR+wcwUItTnBmkv/EHwn4zgVwljaE1d0PJH2aE/M7/xFH4biNv+f3ZXyb6/T6e77tmtDkgzR+z3jBJV87aZLjVMPPVojW+FEDYF8nhvLLLOkA6Mpeq8af4h1SZ1uwQAdE9b1eTR4am5IQr+LwXUQTE2z3riPuPlE6XJPagc49uwdphrUbFtTbmZ6YXuevnZ6JW5jskURPsQpiah19gvbgR8QP5vpHp192qfsqPA/k4K7JPzRY6pCwTr8L2JXg/SeIvEPjoopB512N+g+phlMWxLslzBrMlzm8iss78syn6NkOncXWOdrlJGE7xzJWH7cnIT2iJVeiv3HG+w0OscbdlP84BLXdvlRzN/UMdbddB/jXMIV30+OVIXNs2U6UFm3Zg==;mUDBvYJ/r/PrTcEVSpcokg=="
 ---

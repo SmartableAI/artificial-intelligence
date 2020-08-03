@@ -1145,43 +1145,34 @@
       ]
     },
     {
-      "path": "_news/2020-07-29-china-is-the-first-surveillance-superpower.md",
-      "title": "China Is the First Surveillance Superpower",
-      "excerpt": "Xi’s pronouncements on AI have a sinister edge. Artificial intelligence has applications in nearly every human domain, from the instant translation of spoken language to early viral-outbreak detection. But Xi also wants to use AI’s awesome analytical ...",
+      "path": "_news/2020-07-29-quantum-computing-market-global-outlook-2020-2025-microsoft-google-ibm-intel.md",
+      "title": "Quantum Computing Market Global Outlook 2020-2025: Microsoft, Google, IBM, Intel",
+      "excerpt": "The Global Quantum Computing Market Research Report 2020 2025 is a valuable source of insightful data for business strategists It provides the industry overview with growth analysis and historical futuristic cost revenue demand and supply data as applicable The research",
       "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/",
+      "webUrl": "https://www.openpr.com/news/2098873/quantum-computing-market-global-outlook-2020-2025-microsoft",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 80,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.theatlantic.com/thumbor/KYuGtZFZ7v1t8Z0xCkj1QB6zF-M=/570x320/media/img/2020/07/WEL_Andersen_ChinaOpener/original.gif",
-          "width": 570,
-          "height": 320,
+          "url": "https://cdn.openpr.com/T/7/T729983952_g.jpg",
+          "width": 409,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/614197/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/614197/",
-      "publishedDateTime": "2020-07-29T04:06:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2098873/quantum-computing-market-global-outlook-2020-2025-microsoft",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2098873/quantum-computing-market-global-outlook-2020-2025-microsoft",
+      "publishedDateTime": "2020-07-29T04:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1190,11 +1181,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "AI Ethics",
-        "AI in Robotics"
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

@@ -445,6 +445,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.openpr.com/news/2098873/quantum-computing-market-global-outlook-2020-2025-microsoft</loc>
+    <lastmod>2020-07-29T04:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/</loc>
     <lastmod>2020-07-29T04:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -477,6 +483,12 @@
   <url>
     <loc>https://odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512</loc>
     <lastmod>2020-07-29T02:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29</loc>
+    <lastmod>2020-07-29T02:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -847,6 +859,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/</loc>
     <lastmod>2020-07-27T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -879,12 +897,6 @@
   <url>
     <loc>https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece</loc>
     <lastmod>2020-07-27T02:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645</loc>
-    <lastmod>2020-07-27T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1059,6 +1071,12 @@
   <url>
     <loc>https://www.bbc.com/news/technology-53530454</loc>
     <lastmod>2020-07-24T09:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nextgov.com/emerging-tech/2020/07/new-intelligence-community-ai-principles-seek-make-tools-usefuland-law-abiding/167180/?oref=ng-skybox-static</loc>
+    <lastmod>2020-07-24T09:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

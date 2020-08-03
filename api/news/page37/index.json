@@ -2,6 +2,138 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-07-03-driverless-car-market-study-2019-with-top-companies-technological-growth-future-demand-analysis-with-impact-of-covid-19-till-2027.md",
+      "title": "Driverless Car Market Study 2019 With Top Companies, Technological Growth, Future Demand Analysis With Impact of COVID-19 Till 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 03, 2020 (AmericaNewsHour) -- The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added a new market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-study-2019-with-top-companies-technological-growth-future-demand-analysis-with-impact-of-covid-19-till-2027-2020-07-03",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-robots-at-dubai-expo-2020-to-enrich-visitor-experience.md",
+      "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
+      "excerpt": "UAE - Terminus Technologies, a China-based leader in smart technologies such as artificial intelligence and robotics, has been named the Expo 2020 Dubai's latest Premier Partner and has signed a long-term lease at District 2020 as part of the innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_at_Dubai_Expo_2020_to_enrich_visitor_experience-SNG_178632150/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_178632150/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_178632150/",
+      "publishedDateTime": "2020-07-02T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business.md",
+      "title": "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business",
+      "excerpt": "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2019/11/Money-logo-new-860x484.jpg",
+          "width": 860,
+          "height": 484,
+          "title": "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-nec-and-japanese-research-agency-to-use-ai-for-automatic-plastic-waste-detection.md",
       "title": "NEC and Japanese research agency to use AI for automatic plastic waste detection",
       "excerpt": "Earth Science and Technology (JAMSTEC) have developed a system that uses artificial intelligence (AI) imaging recognition techniques to automatically detect microplastics from seawater and sediment samples.",
@@ -1000,138 +1132,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-connecting-the-industrial-internet-of-things-with-smart-ai-objects.md",
-      "title": "Connecting The Industrial Internet Of Things With Smart AI Objects",
-      "excerpt": "John Clemons is a Consultant for Rockwell Automation and Maverick Technologies, a leading platform-independent automation solutions provider Smart manufacturing, Industry 4.0 and the industrial internet of things (IIoT) are discussed constantly in the manufacturing world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/",
-      "publishedDateTime": "2020-07-02T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-where-insights-meet-privacy-privacy-preserving-machine-learning.md",
-      "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
-      "excerpt": "As the rise and adoption of AI/ML parallels that of global privacy demand and regulation, businesses must be mindful of the security and privacy considerations associated with leveraging machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcc8f4cdc22100069576cc%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
-      "publishedDateTime": "2020-07-02T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-inheart-raises-42-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations.md",
-      "title": "inHEART Raises $4.2 Million to Improve Treatments for Cardiac Arrhythmias With Medical Imaging, Artificial Intelligence and Numerical Simulations",
-      "excerpt": "PRNewswire/ -- inHEART, providing a cloud-based medical image analysis solution for cardiac interventions on patients with arrhythmias, has closed a round",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/inheart-raises-4-2-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations-301086165.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1198554/inHEART_Logo.jpg?p=facebook",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

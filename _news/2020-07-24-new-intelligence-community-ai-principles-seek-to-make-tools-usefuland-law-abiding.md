@@ -1,13 +1,10 @@
 ---
 category: news
 title: "New Intelligence-Community AI Principles Seek to Make Tools Useful—and Law-Abiding"
-excerpt: "On Thursday, the Office of the Director of National Intelligence released a list of principles to guide its use of AI and the development of new tools. The list and accompanying framework call on the IC to use “explainable and understandable methods;"
+excerpt: "AI has grown considerably, as has public concern about its use, particularly for national security purposes. The promise of artificial intelligence comes with new challenges for the U.S. intelligence community,"
 publishedDateTime: 2020-07-24T16:07:00Z
-webUrl: "https://www.nextgov.com/emerging-tech/2020/07/new-intelligence-community-ai-principles-seek-make-tools-usefuland-law-abiding/167180/"
+webUrl: "https://www.nextgov.com/emerging-tech/2020/07/new-intelligence-community-ai-principles-seek-make-tools-usefuland-law-abiding/167180/?oref=ng-skybox-static"
 type: article
-quality: 33
-heat: -1
-published: false
 
 provider:
   name: Nextgov
@@ -23,22 +20,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "ODNI Released AI Principles Framework for IC"
-    excerpt: "The Office of the Director of National Intelligence (ODNI) has released a list of AI ethics and principles to guide the intelligence community (IC) on its use and development of AI and AI tools. “These Principles supplement the Principles of Professional ..."
-    publishedDateTime: 2020-07-24T15:18:00Z
-    webUrl: "https://www.meritalk.com/articles/odni-released-ai-principles-framework-for-ic/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 39
-    images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_1576838977-min.jpg"
-        width: 800
-        height: 450
-        isCached: true
-
-secured: "QEL6RB3ydQcXGX98Om1yuVGGdRWRWihT1utDCskaZZPt/dlR+uUmHCc+8MApR9W6vXwiv1zcJarqtlMGN3HflaegLnVuOnc649ipr0ejzJ1uq2rXzvYetp0RfpY34VrDd6dR5TPx9A23uY8CMFiiuUZ1JkjBfTjdVLTcNE9LMtrobtVjacq/RD8wmfWIrLUlf4zKgbGWeIsG2yWZTluRhi8PW8of4HJne+ZYUzWWzzAWADOqTdSTCYPthZUANG01xwOGqHXRzxYRZp8D3tf1Zu/S8ZegyXmeGPzoQ+7Lg68XkmkFCa7PjAZJk/m/z7lFhxgrKGQZCBuLDmvaRRs1qw==;oPXHU6ilWW88O9588T38JA=="
+secured: "iEjw13i3K8oIYSSL6HpsR3m4WOc+THcP0cmxC4b1PDbj2ZWpdcRmRWPVaw8rTHXpEO1CrYf4gA1Cc4XIZgV8Fd2hOtkBd7UvzXCS5gZrRz2NtnVzoulpAgsJEE1I1IUrDDUEmcV1C86UCoNM63ya/a7pJXxSvZ2tFxH/ZXn3fbBixyq0/FOb/6Yc98Ri4kAbs15Lytp1jFMDVPlk4lWgs77tHnvHX5KpL4d2Qs7AKsj3XVPo1XqRCtwNc2/8kt6DY0REDy6ZMjGrELqZPovSciCGTvRND8+rwBUrAZqGG1cyEqMP89j+NLrryKHMppi7d+qIqD4+gH7ttF/KLG+oxg==;8EgvLde+NdKiW2jRqcGHTw=="
 ---
 

@@ -2,6 +2,135 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-07-13-kidney-diagnostics-developer-renalytix-ai-sets-terms-for-78-million-us-ipo.md",
+      "title": "Kidney diagnostics developer Renalytix AI sets terms for $78 million US IPO",
+      "excerpt": "Renalytix AI, which is commercializing AI-powered diagnostic tests for kidney disease, announced terms for its IPO on Monday. The Cardiff, United Kingdom-based company plans to raise $78 million by offering 5.5 million ADSs at $14.22, the as-converted last ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/kidney-diagnostics-developer-renalytix-ai-sets-terms-for-%2478-million-us-ipo-2020-07-13",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/kidney-diagnostics-developer-renalytix-ai-sets-terms-for-%2478-million-us-ipo-2020-07-13?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/kidney-diagnostics-developer-renalytix-ai-sets-terms-for-%2478-million-us-ipo-2020-07-13?amp",
+      "publishedDateTime": "2020-07-13T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration.md",
+      "title": "As remote work remains in place, AI helps businesses accelerate collaboration",
+      "excerpt": "The past few weeks and months have presented unprecedented challenges to businesses. From those struggling to survive to those that have found their products and services to be in high demand ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/13/as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Working-from-home.GettyImages-1219924018.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/13/as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration/amp/",
+      "publishedDateTime": "2020-07-13T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush.md",
+      "title": "Comcast credits AI software for handling the pandemic internet traffic crush",
+      "excerpt": "Comcast said investments in artificial intelligence software and network capacity have helped it deal with ongoing demand from the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/13/comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/comcast-3.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/13/comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush/amp/",
+      "publishedDateTime": "2020-07-13T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-artificial-intelligence-ai-in-retail-market.md",
       "title": "Artificial Intelligence (AI) in Retail Market",
       "excerpt": "The latest study on the Artificial Intelligence (AI) in Retail market published by the Reports and Data offers a deep understanding of the various market dynamics such as the challenges, drivers, trends, and opportunities. The report further elaborates on ...",
@@ -1007,128 +1136,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15.md",
-      "title": "AI teammates are finally coming to Ghost Recon Breakpoint on July 15",
-      "excerpt": "Ubisoft today announced that the highly requested AI teammates feature is finally coming to its cooperative tactical title Ghost Recon Wildlands, letting solo players gain help from three AI Ghosts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1594590229_grb_screen01_teammates_goto_200712_9pm_cest_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/",
-      "publishedDateTime": "2020-07-12T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying.md",
-      "title": "2 Healthcare IPOs Getting a Tailwind From COVID-19 to Consider Buying",
-      "excerpt": "If you're considering investing in one or more recent initial public offerings in the healthcare sector, you've got many options. Over the last year, 76 healthcare companies have gone public, according to finviz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?amp",
-      "publishedDateTime": "2020-07-12T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-dairies-to-housekeeping-robots-find-their-way-into-new-spaces.md",
-      "title": "Dairies to housekeeping, robots find their way into new spaces",
-      "excerpt": "They rely on tracks or magnetic strips to cover fixed routes. But mobile robots are becoming more autonomous, with a push from advances in computer vision and artificial intelligence. We read about self-driving cars and driverless delivery vans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces-11594561056223.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/07/12/600x338/startup2_1594561294476_1594561303895.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
-      "publishedDateTime": "2020-07-12T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

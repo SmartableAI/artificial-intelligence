@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/ai-why-not-more-businesses-use/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-why-not-more-businesses-use/amp"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using artificial intelligence to smell the roses"
-    excerpt: "A pair of researchers at the University of California, Riverside, has used machine learning to understand what a chemical smells like—a research breakthrough with potential applications in the food flavor and fragrance industries."
-    publishedDateTime: 2020-07-29T07:20:00Z
-    webUrl: "https://phys.org/news/2020-07-artificial-intelligence-roses.html"
-    ampWebUrl: "https://phys.org/news/2020-07-artificial-intelligence-roses.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-roses.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/7-usingartific.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "New AI Software Helps Businesses Reopen During the Pandemic"
     excerpt: "Now, Tata Consultancy Services (TCS) is joining the fray with new, AI-powered software that aims to help businesses reopen during the pandemic. TCS describes the new software, called IUX for Workplace Resilience, as a “business command center solution.”"
     publishedDateTime: 2020-07-31T16:06:00Z

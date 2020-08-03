@@ -40,22 +40,6 @@ related:
         height: 1350
         isCached: true
   - title: "Using artificial intelligence to smell the roses"
-    excerpt: "A pair of researchers at the University of California, Riverside, has used machine learning to understand what a chemical smells like—a research breakthrough with potential applications in the food flavor and fragrance industries."
-    publishedDateTime: 2020-07-29T07:20:00Z
-    webUrl: "https://phys.org/news/2020-07-artificial-intelligence-roses.html"
-    ampWebUrl: "https://phys.org/news/2020-07-artificial-intelligence-roses.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-roses.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/7-usingartific.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Using artificial intelligence to smell the roses"
     excerpt: "A pair of researchers at the University of California, Riverside, has used machine learning to understand what a chemical smells like -- a research breakthrough with potential applications in the food flavor and fragrance industries."
     publishedDateTime: 2020-08-01T20:14:00Z
     webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--uai072820.php"

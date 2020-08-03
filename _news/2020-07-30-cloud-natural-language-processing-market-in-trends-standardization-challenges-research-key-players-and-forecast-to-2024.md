@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Diagnostics Market Worth $3.0 Billion By 2027: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in diagnostics market size is expected to reach USD 3.0 billion by 2027, expanding at a CAGR of"
+    publishedDateTime: 2020-07-29T09:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-diagnostics-market-worth-3-0-billion-by-2027-grand-view-research-inc-301101889.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+        width: 1400
+        height: 733
+        isCached: true
 
 secured: "yZ0KX+epE/zMalbBtvOdQiyJBGmj/ySQK1IV5ostJZ2o5K/BGh2wWKGWck3p7L/jSd/NgyTyDmRmIHb3VHbIEhg2t4S9LAzkQZLOtEa7awYpRsz/lyx040SMfVlfbsP64PyMAGqRME/S04e+dRMZnOmsjQKj3+DaDKNWmw9OAsNHH1YYG2U0fIjygnEgMdThQP7sXGQNiplJt1dC9Dt+4HZcCXegbf/6Ejet42xXt1ETQgYRZW5b0c9I7gychmkrr6Ff2jZkEVphz04DnhA+qArHOMIRVgKPNScFDE1bRxRlL6QI+nyA4G33jIr0CUHiFCYiNM9PU6FY6T85MKVr8A==;6I3Kcg/Aeukl4henXbDXFg=="
 ---

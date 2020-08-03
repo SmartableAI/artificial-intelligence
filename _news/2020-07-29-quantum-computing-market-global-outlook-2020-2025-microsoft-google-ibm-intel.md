@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2098873/quantum-computing-market-global-o
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2098873/quantum-computing-market-global-outlook-2020-2025-microsoft"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: openpr.com
@@ -37,6 +37,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 39
+  - title: "Autonomous Data Platform Market Study, 2020-2025 - Increasing Need for Real-Time Information to Track and Monitor the Spread of COVID-19"
+    excerpt: "Growth, Trends, and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Autonomous Data Platform Market is expected to register a CAGR of 21.7% over the forecast period 2020 to 2025."
+    publishedDateTime: 2020-07-29T17:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/autonomous-data-platform-market-study-2020-2025---increasing-need-for-real-time-information-to-track-and-monitor-the-spread-of-covid-19-301102158.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
 
 secured: "2C1o7jq6xrTfI2dKXzLKwdoLJ/6hRUVpmJO4pVG3ysa2w0Cm8kUCYwcPsAtKCiGj6mluf8vAG4cK3NTQyH3PUfkjPheB2XLxoZYUpKBUcLVGP+iLnF1PDdUNAD4fjatYgcKfwOZw8QYznU2pZx+J6D3DYBHEgl3P1jh4dJhSiNbA5v/bdEuwIBieGJyohC6qBxES1qg41OI4oZogBRwNc/gIw9Ot/f0uNzvF3OvqU7tbY41vAa0iA9/1ALS/ObMov3GsGH5exBPzz0AssSO2svxeSxFTkGHsrPO57Q5Z6yzJ5kaFN9Ji2qA2CKkl3gyzjZhnYU/XqodOWn6WRHCzaA==;K/NAuUYQI+1fsqu0Fp9BBw=="
 ---
