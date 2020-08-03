@@ -24,20 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and Influential Launch Watson Advertising Social Targeting Solution"
-    excerpt: "IBM has launched Watson Advertising Social Targeting with Influential, a solution that harnesses artificial intelligence (AI) to help companies identify influencers that best align with their brand values. The new solution within the Watson Advertising ..."
-    publishedDateTime: 2020-07-30T16:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142117"
+  - title: "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge"
+    excerpt: "Verizon Business and IBM today announced they are entering into a collaboration to work together on 5 G and edge computing innovation to help enable the future of Industry 4.0. The companies plan to collaborate on solutions combining the high speed and low latency of Verizon's 5 G and Multi-access Edge"
+    publishedDateTime: 2020-08-02T10:16:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-and-verizon-business-to-collaborate-on-5g-and-ai-solutions-at-the-enterprise-edge"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 42
+  - title: "IBM to Acquire WDG Automation to Advance AI-Infused Automation Capabilities for Enterprises"
+    excerpt: "The acquisition further advances IBM's comprehensive AI-infused automation capabilities, spanning business processes to IT operations. By embedding WDG Automation's RPA capabilities into IBM's existing AI-infused automation capabilities across business processes and IT operations,"
+    publishedDateTime: 2020-08-02T10:18:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibm-to-acquire-wdg-automation-to-advance-ai-infused-automation-capabilities-for"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/101348-Featured-News-Finger-on-Touch-Screen-ORG.jpg"
-        width: 580
-        height: 580
-        isCached: true
 
 secured: "3ZN+YR1wUOBOrFsQi/IXnNBscsxHAA7BlcKFndi5M9zuYBAsQOFD+yfEzCQXetgrXusme4UmbU+ZrQS/Dbc5yJjjFHkMuNIxUQvhSC9srsdwTgYnZjWxYFUp/EgKPlCYZlplqwDdj16A9wnd3aE3l9hlGIilzTOPfePfWujc5xd1eqyyJFr/d1xLD5Cg9S/Wlcq/wrBQbLs+qRwxbtk2nGSdV7AjRLNaLxdsUa50vIC9iSS/V/LW79rc5HvjC+oHZ3QuZV6F5dmPAzHvoO0+wI4wK0UpMp6pU1eQwaX5/+7pzMWzKwKYaDWpjaL1Ubk1YKYN61tO4uBIZFA3oSQm0g==;E0IjzkNWAKcTKbGc1gQZ+Q=="
 ---

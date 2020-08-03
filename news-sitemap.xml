@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/</loc>
+    <lastmod>2020-08-03T09:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/the-continuing-growth-story-of-artificial-intelligence-ai-in-cybersecurity-market-darktrace-ibm-nvidia-intel-xilinx-aws-2020-08-03</loc>
+    <lastmod>2020-08-03T09:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/03/truera-applies-explainability-ai-research-to-grow-its-model-evaluation-platform/</loc>
     <lastmod>2020-08-03T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -115,12 +127,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw</loc>
-    <lastmod>2020-08-01T12:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-rate-demands-status-and-application-forecast-to-2026-2020-08-01</loc>
     <lastmod>2020-08-01T11:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -141,6 +147,12 @@
   <url>
     <loc>https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx</loc>
     <lastmod>2020-08-01T07:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=cxrecs_join</loc>
+    <lastmod>2020-08-01T07:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -871,6 +883,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai</loc>
+    <lastmod>2020-07-27T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/</loc>
     <lastmod>2020-07-27T14:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1233,6 +1251,12 @@
   <url>
     <loc>https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/</loc>
     <lastmod>2020-07-24T04:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.embedded.com/protection-suite-adds-secure-edge-and-cloud-integration-for-iot-devices/</loc>
+    <lastmod>2020-07-24T03:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1753,6 +1777,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fleetowner.com/technology/autonomous-vehicles/article/21702097/teslas-semi-makes-first-deliveries-waymo-uber-expand-driverless-truck-testing</loc>
+    <lastmod>2020-07-21T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.designnews.com/electronics-test/autonomous-cars-big-challenge-using-hyperscale-server-fleet-train-ai-neural</loc>
     <lastmod>2020-07-21T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1911,6 +1941,12 @@
   <url>
     <loc>https://www.openpr.com/news/2094065/machine-learning-artificial-intelligence-market-next-big-thing</loc>
     <lastmod>2020-07-21T05:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023-2020-07-21</loc>
+    <lastmod>2020-07-21T05:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3367,12 +3403,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-9070060</loc>
-    <lastmod>2020-07-14T14:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/</loc>
     <lastmod>2020-07-14T14:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3663,6 +3693,12 @@
   <url>
     <loc>https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/</loc>
     <lastmod>2020-07-13T20:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://br.advfn.com/noticias/PRNUS/2020/artigo/82853378</loc>
+    <lastmod>2020-07-13T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

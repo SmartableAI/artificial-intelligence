@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-19-global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva.md",
+      "title": "Global AI Chip for Data Centers Market 2020- Impact of COVID-19, Future Growth Analysis and Challenges | NVIDIA, Intel, IBM, Qualcomm, CEVA",
+      "excerpt": "The report on the AI Chip for Data Centers Market gives a foot perspective on the present continuing inside the AI Chip for Data Centers market. Further, the report likewise considers the effect of the novel COVID-19 pandemic on the AI Chip for Data Centers market and offers an away from of the anticipated market variances during the estimate time frame.",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2020/05/Automomobile.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/amp/",
+      "publishedDateTime": "2020-07-19T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-19-how-ai-can-help-in-a-recession.md",
       "title": "How AI Can Help In A Recession",
       "excerpt": "In this recession, some companies will emerge as winners, and many companies will fail. AI can be the key factor between them.",
@@ -1374,47 +1415,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost.md",
-      "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
-      "excerpt": "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/07/ezgif.com-webp-to-jpg-1.jpg",
-          "width": 920,
-          "height": 613,
-          "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
-      "publishedDateTime": "2020-07-08T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

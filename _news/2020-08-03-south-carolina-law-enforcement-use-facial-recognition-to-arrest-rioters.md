@@ -88,6 +88,17 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Face Masks Confuse Facial Recognition Technology"
+    excerpt: "Americans can't agree on whether face masks are a good way to reduce the threat of transmitting COVID-19. We've even turned mask-donning into a symbol of partisan affiliation; those who would make them compulsory everywhere face off against those who refuse them under all circumstances."
+    publishedDateTime: 2020-08-03T16:41:00Z
+    webUrl: "https://reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/"
+    ampWebUrl: "https://reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
   - title: "NY lawmakers vote to pause facial recognition in schools"
     excerpt: "In this July 10, 2018  a camera with facial recognition capabilities hangs from a wall during installation at Lockport High School in Lockport, N.Y. The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
     publishedDateTime: 2020-08-03T13:35:00Z
@@ -101,6 +112,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/0/20/020b0819-5e41-5f14-94ea-a4358d2834a3/5f19cd2f6b03f.image.jpg?resize=868%2C630"
         width: 868
         height: 630
+        isCached: true
+  - title: "Wearing Masks Confuses Facial Recognition"
+    excerpt: "Facial recognition and masks study explored 3 levels of nose coverage, finding that accuracy degrades with greater nose coverage."
+    publishedDateTime: 2020-08-03T17:20:00Z
+    webUrl: "https://www.commercialintegrator.com/blogs/facial-recognition-masks/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 39
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/08/face_mask.jpg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Big Tech Curbs Police Use of Facial Recognition Systems Due to Racial Biases"
     excerpt: "A lot of these algorithms that have been developed, whether they are in healthcare or policing or visual recognition, are basically including the biases of the people who develop them,” Okolo said."
