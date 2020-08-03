@@ -25,33 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Computing Industry- Global Market demand Analysis, Industry Chain, Competitors, Revenue and Forecast 2020 – 2026"
-    excerpt: "Cognitive computing systems are developed by using machine learning algorithms and Natural Language Processing (NLP)"
-    publishedDateTime: 2020-07-30T09:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-industry--global-market-demand-analysis-industry-chain-competitors-revenue-and-forecast-2020-2026-2020-07-30"
+  - title: "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025"
+    excerpt: "The latest research report on Artificial Intelligence (AI) in Healthcare Market delivers a comprehensive study"
+    publishedDateTime: 2020-08-01T22:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automotive Recognition System Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "The latest report titled Global Automotive Recognition System Market 2020 by Company, Type and Application, Forecast to 2025 provides various levels of analysis such as industry analysis (industry trends),"
-    publishedDateTime: 2020-08-02T20:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-08-02"
+  - title: "Artificial Intelligence in Healthcare Market Growth Rate, Demands, Status and Application Forecast To 2026"
+    excerpt: "The Artificial Intelligence in Healthcare market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The glo"
+    publishedDateTime: 2020-08-01T18:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-rate-demands-status-and-application-forecast-to-2026-2020-08-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Growth, Segmentation, Size and Share"
+    excerpt: "Pune, Maharashtra, India, July 30 2020 (Wiredrelease) MarketResearch.Biz –: The recent report posted via MarketResearch.Biz on Artificial Intelligence (AI) in Agriculture market offers critical market insights in conjunction with targeted segmentation ..."
+    publishedDateTime: 2020-07-30T12:37:00Z
+    webUrl: "https://www.eturbonews.com/577801/artificial-intelligence-ai-in-agriculture-market-growth-segmentation-size-and-shareinternational-business-machines-corporation-deere-company-microsoft-corporation/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 44
+    images:
+      - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
+        width: 350
+        height: 350
         isCached: true
 
 secured: "bRUIx6/88LMRXGb43QTOUIP7YRTk5w8lyQiV4sKkYmTzYgrC5cX4GG0ofLjuGL5Wj/9weoxT6oZYgrRhmdP/cCV70Lu1/H0g2hBAOiEe4eHKyc2astbprqGM/Wy0bIktpT2hNNIVKDAnop7W9APfCT4X6slySRx9voj29Bk5FvjJkVUw3zu5VHl0f9hto/z98EzOy3b/NKu/P1U5gYVrxyqanlQpvo3IGdhLjwcdynbBis9R5CQr+XYwFwwXhX9rD59zF5qVrQMozjWysSOJhzp2q++GykGt7fQMU10q3SGqPnslsaUZi0Od417T/VZtyjYa96AM0m51h42sdJSGGQ==;yNKUQLqKmuA+CKCV0KfQjg=="

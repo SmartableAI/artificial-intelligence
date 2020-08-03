@@ -19,17 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Nava Vision - The education startup that breaks away from usual education"
-    excerpt: "It is certified by the Government of Karnataka and funded under the start-up scheme of the Government ... E & E Club, Robotics, Artificial Intelligence, Unplug Coding and Coding Using Python ..."
-    publishedDateTime: 2020-07-30T04:38:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20200730/3600989.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 3
-
 secured: "JOV4f/OvkjQoTy0xqwapGJbJvAAMbNmk3qqgSQhGDF8Ya6f2UQjnEp5SacOQAtzjS6ZXdhjuzM3zptiYTPzOBPjP6E+eTY9yA9t4nU4SIW3aJgf5HU/L1ZrPNIosnbBxrpbE6u7h1D9RCHXk3YCTMaKAJLpP9eb4nOLPo1nOZsX93TFwM5tWM4fx70Q4yNN/wSwUgU5LJdBQ9rFHP6Cr2liVqoQVD/EmnKeAL7dmTgNXMkdYA4WEvDDqxIrjUn9MBxbGU7zQMdC0Uu3r7Yd0bxQTGohM/laU/f4V9RFykc7qLbXJdulaVdCvjjtevRLWDMWJTA9c2S/KaJZxNSU+qg==;kJAY1vvdP5hhkuz3GFfAeQ=="
 ---
 

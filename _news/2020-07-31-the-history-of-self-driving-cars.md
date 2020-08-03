@@ -7,7 +7,7 @@ webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milesto
 ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/self-driving-car-3-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Baidu completes its computer for self-driving cars"
@@ -97,6 +103,6 @@ related:
         height: 675
         isCached: true
 
-secured: "a8qDs6ovjH1062W6Jy14jmYbYTfi33G7EDyXOFoKYXBW5j2f/UWAN5DHNw2OQ3FQPgA/9fMMhB/+0ZjxunoIGOBrmt8Rh9+aIXwJAu09E6EG8QagxqGZJQfwWK3j8BliTSvGhSqbOD12PGD94qDAp4NgjFGHAP1SQf5eUm2hNhZ0brEabdAG6TMy8oYSe410P7U6doCMiIi3w9g2eWdYjorpw9wWVKvnj0p0rYhjx0qHHUyY7UYYvZy0wloSprTPPcNZRbHo2dMXmCRm9qutvptzoE7aHQzyfXJ3axxA3v9Bn+wvcQiIfgKB3Cv2rX03wpAyc2ThfO8UC5CjNI7dBQ==;O90A2tf8ucAnFMnsyW0ojA=="
+secured: "/Wmvz4Ewr4Bxm7q7vHAWE/RkJKZO2GjhNdFHG+8pyT3O9CxYOdj7wqLmAITJ/HZhoL6BQsAonPzm2fxVktm2NG92eptXAv4ieZnpyz3VivSWjdYwXIH97om/1nwx/b7MWn2dC75v9vMTslkuzt0ap1LAOWF4oy6L7CTESwJVEXeGIVSxieXiROuYqE3W+bojiBDRe/nOSJ1mwfNiqqCsbAjrELyUsJxxTH0jEx9gwW/QCgrHbm7IHqVRuzDyITfKEJMi023Ha34J44GjgQOnBUcRimhlW3bEcTtNJ+W48m0hYQqFvkYvwG/RqfotZti2XRkcXpgXq3ezHqVtFIa0bA==;m4wpjSKKjqPichxOXIP+7Q=="
 ---
 

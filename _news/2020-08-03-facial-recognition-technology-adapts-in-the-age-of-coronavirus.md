@@ -72,6 +72,20 @@ related:
         width: 1366
         height: 911
         isCached: true
+  - title: "Universal Theme Park Takes Next Step with Facial Recognition"
+    excerpt: "A Universal Studios theme park is now using a high-tech, automated facial recognition system to identify annual pass and daily ticket holders as they enter the park. The new system is now in place at Universal Studios Singapore,"
+    publishedDateTime: 2020-08-03T21:38:00Z
+    webUrl: "https://www.themeparkinsider.com/flume/202008/7631/"
+    type: article
+    provider:
+      name: Theme Park Insider
+      domain: themeparkinsider.com
+    quality: 39
+    images:
+      - url: "https://www.themeparkinsider.com/art/flume/7631.jpg"
+        width: 640
+        height: 268
+        isCached: true
 
 secured: "2bbun4aVZE/LQyvB1NOc9RAN1hEyeN5z/T/G5XdBJRnAZHwBkQ/+eJfTblMZm2xPdWbKel+ijXmBhOjaSVKslwU1ukXcp9AsjJj7ViP7muf/8FgXAxEHP4B4twMqqHj9+Jhd4iDB7aB1WBcBzvhg/PB+tL73uKU0kwnGmHWIXY5Qp51ZLi61vHSRaT3KAJuFxnv9fSIzWRfW0TI+uBR+Fpp0D+DMO8bSVAW0Uw7P2h6dOLePas8PHHj6LZcAuzte1ldiLHwCcmxDDlkhvgz7BU5SLB2HAQ1zrkx4rHWVrG8YyJW/cmVOUzCinMmxtVK1L3OnMOapq/y661bs37ppig==;0FKhCnfzQQ2rXPiVhD1ZFQ=="
 ---

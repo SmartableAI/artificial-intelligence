@@ -58,22 +58,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "US government study finds face masks block facial recognition technology"
-    excerpt: "A new study from the National Institute of Standards and Technology (NIST) has tested how accurate commercial facial recognition algorithms are at identifying people wearing protective face masks. The study reveals some commercially used systems fail at authenticating masked faces up to 50"
-    publishedDateTime: 2020-07-30T03:42:00Z
-    webUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/"
-    ampWebUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 88
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/4dfef41/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2Fe7%2F6f9f06cc4df3af243f890df8916b%2Fdepositphotos-372250156-l-2015.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Chinese facial recognition developer closes $1.5 billion funding round"
     excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
     publishedDateTime: 2020-07-31T18:06:00Z
@@ -157,6 +141,15 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "trinamiX Beam Profile Analysis Works Where Facial Recognition Fails Due to Face Protection Masks"
+    excerpt: "Palatinate, Germany, 2020/08/03 - trinamiX announced its acclaimed Beam Profile Analysis technology can help existing facial recognition systems to recognize an owner and unlock their device, even while wearing a protective mask to prevent the spread of COVID-19 - trinamiXsensing."
+    publishedDateTime: 2020-08-03T20:42:00Z
+    webUrl: "https://www.newswiretoday.com/news/173408/trinamiX-Beam-Profile-Analysis-Works-Where-Facial-Recognition-Fails-Due-to-Face-Protection-Masks/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 21
 
 secured: "TH0BJRD8+srOok7fLQfxd8rB45l7PQeqWpcTxjnerJgWwJ4FgZTo3/7Z9uGM5A/TK+h//JzuBkwHUyx79GqwqktvAoz0kQP2KlcgqdlX9jT/CpEjEYq0WoFo6DShtKOgGKCYq15MYIp0JBIUkVV96OHm9qlaLpASQ6H/AUx7nmOCgc01ArMXncFra9vKA+0wEp2JTILWX+4A5lV1Zc/euYnXkGadlPb6DdDISVpYoGGA9Qa9ZZVCTIIEv4t3t2qareqGPy1g7yqvmSbXl/KbY6Qif7RPeHObUk1CG5ldEpLVcP6YvY7BdBcWmFHIvoa7Ha6Pa3xxoEzL0iqexu6bOg==;xw5kpAF89bVW+qJoC3URMA=="
 ---

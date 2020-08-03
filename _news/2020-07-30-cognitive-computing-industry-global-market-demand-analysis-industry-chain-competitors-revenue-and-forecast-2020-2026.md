@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence in Food and Beverage Sales, Revenue and Market Share by Country (2020-2025)"
-    excerpt: "This report also researches and evaluates the impact of Covid 19 outbreak on theArtificial Intelligence in Food and Beverage industry involving potential opportunity and challenges drivers and risks We present the impact assessment of Covid 19 effects onArtificial Intelligence in"
-    publishedDateTime: 2020-07-30T06:16:00Z
-    webUrl: "https://www.openpr.com/news/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
-    ampWebUrl: "https://www.openpr.com/amp/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
-    images:
-      - url: "https://cdn.openpr.com/T/7/T730166302_g.jpg"
-        width: 566
-        height: 348
-        isCached: true
   - title: "Global Automotive Recognition System Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
     excerpt: "The latest report titled Global Automotive Recognition System Market 2020 by Company, Type and Application, Forecast to 2025 provides various levels of analysis such as industry analysis (industry trends),"
     publishedDateTime: 2020-08-02T20:01:00Z

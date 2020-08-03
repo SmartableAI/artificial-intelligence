@@ -42,6 +42,20 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "UK fintech Wiserfunding enters India"
+    excerpt: "UK based fintech Wiserfunding announced its entry into India, launching its Artificial Intelligence (AI) backed cloud-based credit risk assessment tool targeted for small and medium enterprises (SMEs)."
+    publishedDateTime: 2020-08-03T15:43:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83560/uk-fintech-wiserfunding-enters-india"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "+boMmLA3+y5ix7JCUPahvgbWTjXPtcU7lcDIOU8mNG85PEgcFFKkL0Y5y0fAe0Mp3koju/Ws8MtaKanIvkXeN+djgvvttZwHiWPsDF58td9bWeaPSBY6xU0zMRw2IsvV2bgm0q0gFVowBJ429C7zNoQe7ss2Md1LKXlCjAD+gMx2hu0yC70R8wPX2qojKrZmFUbqv2buRlwpzF39mPjra01co1aBG2bdJVGKS5QXKRUfPGf6TXWBC/mMIU36UNOIV49ZhB8prsfmrgd9AKHndcEMA2rL0AtmlntuAvyuS16CrHwr0cCrAeg/5k3m66vsQ/GBk/JT3oXrvmFDRIpgS3+huDAh6sVXstq6uY9TqTjA60st2j6+sifyS8BrPhcGA9wkNljz9CH8RUbWcpz1bF+8kdOiQD9J4sf+WlGs1ucnZ8GeC6qrdpqgPs3Ixd6hgPXo/iYDi+A013d/kxlEbKxcHk29aS+lrgvcasyEmQT6pE/Wik85zhORgTrfBtMigmR0L8NiNfbQUrIIzkmd9g==;7xEv/+X3NBA62WKJduZuiA=="
 ---

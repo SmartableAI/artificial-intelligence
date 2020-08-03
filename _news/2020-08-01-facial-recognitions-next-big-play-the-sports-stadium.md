@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://www.wvxu.org/sites/wvxu/files/styles/medium/public/202007/facial_recognition_picture.png"
         width: 726
         height: 480
+        isCached: true
+  - title: "Universal Theme Park Takes Next Step with Facial Recognition"
+    excerpt: "A Universal Studios theme park is now using a high-tech, automated facial recognition system to identify annual pass and daily ticket holders as they enter the park. The new system is now in place at Universal Studios Singapore,"
+    publishedDateTime: 2020-08-03T21:38:00Z
+    webUrl: "https://www.themeparkinsider.com/flume/202008/7631/"
+    type: article
+    provider:
+      name: Theme Park Insider
+      domain: themeparkinsider.com
+    quality: 39
+    images:
+      - url: "https://www.themeparkinsider.com/art/flume/7631.jpg"
+        width: 640
+        height: 268
         isCached: true
 
 secured: "ZKK7BH72tUAnnkCQcG+q9oGEOQrgW/kvisYnKlNpfrrD5FutXsRx++49MQmTxZU/vfNogqJcESIcPq2gkWhljoybEs6JU/RTHnxsV0xRd0EK2yc2r6oUWf1wZzgeZy7Tgmkf7GIrw4/u68j1iBSkeYzvmisDjYIqODqztzT6bGukdeWsqJfKdM1lLs5zT9RXdfSbvZxInkUw/K5rx02PNONfm1RJ26XiRiJ0saYLPruKd8fUsdTskPODH0W2ThUDMMtiTl+6D/rUpf+xDQIyImjr+xck8IstNh1fIcBm1i+3ab7Ln594Q5EQt8nkxAI/bNgRRgEWkgbcmge/HTUDMA==;4lSaPAGUSmQxqmSemXmhZQ=="

@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1213255/FICO_AI_Infographic.jpg"

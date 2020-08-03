@@ -52,22 +52,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "US government study finds face masks block facial recognition technology"
-    excerpt: "A new study from the National Institute of Standards and Technology (NIST) has tested how accurate commercial facial recognition algorithms are at identifying people wearing protective face masks. The study reveals some commercially used systems fail at authenticating masked faces up to 50"
-    publishedDateTime: 2020-07-30T03:42:00Z
-    webUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/"
-    ampWebUrl: "https://newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/face-masks-block-facial-recognition-technology-nist-study/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 88
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/4dfef41/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F89%2Fe7%2F6f9f06cc4df3af243f890df8916b%2Fdepositphotos-372250156-l-2015.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "New York Lawsuit Over School Facial Recognition Use Grows"
     excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
     publishedDateTime: 2020-07-30T19:07:00Z
@@ -156,6 +140,15 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "trinamiX Beam Profile Analysis Works Where Facial Recognition Fails Due to Face Protection Masks"
+    excerpt: "Palatinate, Germany, 2020/08/03 - trinamiX announced its acclaimed Beam Profile Analysis technology can help existing facial recognition systems to recognize an owner and unlock their device, even while wearing a protective mask to prevent the spread of COVID-19 - trinamiXsensing."
+    publishedDateTime: 2020-08-03T20:42:00Z
+    webUrl: "https://www.newswiretoday.com/news/173408/trinamiX-Beam-Profile-Analysis-Works-Where-Facial-Recognition-Fails-Due-to-Face-Protection-Masks/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 21
 
 secured: "Whtl8LAd6NTeM7lVhE/upzAgqJl8eHTg5FvzjdDw057E+g1LliYvGmRaQXdqAQizDloqXwnNjg3Js3z/CMGRDxFc8ksiXqHPvLIxfN3b2BU2KQ+ax3eCq6+j7IiMxXdqglBVsGBUIsG5Im2bgNkTNZ5o2/aQ0PwehCOcKZ0dMICy7m46MLSc7SbdV8o8SiAQwcFkbQnFBz5MQnxWQ44bx2kqf7klT/ll4Rvj3h2SLC3/Up0dmpF4SHBabuTfLTPln0CBOFvg+RxXLFDLTugcRsxZqUYC1isH1m8QBdJ5jOxyKKPlA7g4XhuVk61E41v4ZgGXbjQXyoRrlyaIUGYyqA8PP9vLLtNINIiBQJ7A+oKwbVqrtJ6EzRtpb6CoIBo85l/S7U1TmV6w7XO4M6K/VSQ9lYi0ms4bpuqcX5U6wy2y9XpMcjeOc8/BZEcvr9k6zn+haX1rRPUnfUgF/0dLuTBPR6Hv0RYenVS49f5TDGkYBKl+aPMLdrvo1YuxVScgGtwyYiPl5VkqOvseQM4S7A==;+XBi/7zQOR89L+JO6arNLg=="
 ---
