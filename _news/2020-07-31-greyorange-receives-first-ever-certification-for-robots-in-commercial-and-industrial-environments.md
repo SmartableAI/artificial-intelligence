@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-31T17:43:00Z
 webUrl: "https://www.logisticsmgmt.com/article/greyorange_receives_first_ever_certification_for_robots_in_commercial_and_i"
 type: article
 quality: 26
-heat: 26
+heat: 36
 published: false
 
 provider:

@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ABB’s new analytics and AI software helps producers optimize operations"
-    excerpt: "The ABB Ability™ Genix Industrial A Suite is a scalable advanced analytics platform with pre-built, easy-to-use applications and services. It collects, contextualizes and converts operational, engineering and information technology data into actionable insights that help industries improve operations,"
-    publishedDateTime: 2020-07-29T17:28:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2020/abb-analytics-ai-software-optimize-production"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 19
   - title: "ABB’s new analytics and AI software helps producers optimize operations in demanding market conditions"
     excerpt: "ABB Ability™ Genix leverages Microsoft Azure for integrated cloud connectivity and services ... domain knowledge, technology and AI,” said Rajesh Ramachandran, Chief Digital Officer for ABB Industrial Automation. “ABB Ability™ Genix helps asset ..."
     publishedDateTime: 2020-07-30T02:14:00Z

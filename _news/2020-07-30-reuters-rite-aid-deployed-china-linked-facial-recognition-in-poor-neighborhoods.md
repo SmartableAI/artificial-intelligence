@@ -56,6 +56,17 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "How Reuters Analyzed Rite Aid's Use of Facial Recognition Technology"
+    excerpt: "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020."
+    publishedDateTime: 2020-07-29T21:29:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-07-28/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-07-28/how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 84
 
 secured: "rQU7W4Fx06g7eIJxi5IqG6u13kEzO1FZV3naT29N1bM2OUGZU/LR/LaD2pRTH7pxAofV0HPly/9vMoQcIuoUcH8KiCQ0os2NQmvmfX6GeMmGq4s7kDf9z6hX7f6ohcI+zGUIPyqSjwQp3yknRYE0bovXmFumBqlSuBPHpQeeiRvG0mg6/DTSmNroz0RKhVCKd56Tyx4ucMbhT8jSHFixEcxRpunevw69J7kNbQEM3c3Xwc51464xDw0mC5NwwhnR+J5hjBXqoJ8qiiWsCMx/xiuUKR/8m8PFg1uF48m/kvrEF3sW85oLivTIct1w2iRSU/7grIL6eUniNGHBluougw==;6zDz9lXPZBuFKORO1yiUVQ=="
 ---

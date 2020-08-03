@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-31T09:27:00Z
 webUrl: "https://slator.com/press-releases/translated-signs-a-contract-to-provide-eu-parliament-with-real-time-speech-translation-ai/"
 type: article
 quality: 30
-heat: 30
+heat: 40
 published: false
 
 provider:

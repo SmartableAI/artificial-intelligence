@@ -8,7 +8,7 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/why-major-compani
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/why-major-companies-shifting-to-trueins-face-recognition-technology-for-attendance-logging/amp_articleshow/77282846.cms"
 type: article
 quality: 13
-heat: 13
+heat: 23
 published: false
 
 provider:

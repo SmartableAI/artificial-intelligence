@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 874
     isCached: true
-
-related:
-  - title: "Nvidia and Google claim bragging rights in MLPerf benchmarks as AI computers get bigger and bigger"
-    excerpt: "Nvidia and Google each had something to crow about in the latest benchmarks of giant AI computers. Some AI startups, though, continue to avoid the MLPerf bake-off."
-    publishedDateTime: 2020-07-29T17:17:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-and-google-claim-bragging-rights-in-mlperf-benchmarks-as-ai-computers-get-bigger-and-bigger/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/29/bebb4f38-0069-44a0-af41-98a98fa8e44f/google-tpuv4-speed-up-versus-v3-july-29th-2020.png"
-        width: 1200
-        height: 742
-        isCached: true
 
 secured: "W0r/ksCJtMBC73AksPUrAdLhe9Tyzr6hv7jz/RlFzzbyfKkaw9dQTMNBms+prmZm6YpIWfvMZRKzfUzhMccCwYD61ADv8am7b/Rf3ze55kt5R3i9KATyEqTGDIt71zNCA7S4eieRvv8RCFoDaPOggq2Th+cCEU/XixWT26fa5A0QFGydB+rh51RnTwz5JPe737KENGMmdcMqvs9aUObTXNR5LHnq0BCUbWQGWlZwE3k2yBtNcIaoWsn4olNA1owlL03vpauUaC/fNR/k2uNKntFnpgKSGXCyKvKvsIV9YjQ+nCzjDN0TZR0m+nqu+in9fKxo0mLIkgpUbIE4T8uxYA==;EBlhnaKR92lNzYUdU7qVQA=="
 ---

@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Face masks are messing up facial recognition software"
-    excerpt: "Face masks are already known to stop the spread of coronavirus. Apparently, they can also make it much harder for facial-recognition software to identify you, too."
-    publishedDateTime: 2020-07-29T17:35:00Z
-    webUrl: "https://www.wmur.com/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    ampWebUrl: "https://www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/face-masks-are-messing-up-facial-recognition-software/33450093"
-    type: article
-    provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-masks-1586368270.jpg?crop=1.00xw:0.997xh;0,0&resize=1200:*"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "New York Lawsuit Over School Facial Recognition Use Grows"
     excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
     publishedDateTime: 2020-07-30T19:07:00Z
@@ -108,15 +92,34 @@ related:
         width: 760
         height: 368
         isCached: true
-  - title: "Rite Aid Drops Facial Recognition Tech"
-    excerpt: "Rite Aid 's quiet use of facial recognition technology in its stores has ended after nearly a decade. Since 2012, the American drugstore had gradually implemented the technology in 200 stores around the country,"
-    publishedDateTime: 2020-07-29T18:00:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/rite-aid-drops-facial-recognition/"
+  - title: "South Carolina Law Enforcement Use Facial Recognition to Arrest Rioters"
+    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May."
+    publishedDateTime: 2020-08-03T11:13:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21148573/south-carolina-law-enforcement-use-facial-recognition-to-arrest-rioters"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 34
+      name: Officer
+      domain: officer.com
+    quality: 39
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/08/16x9/richlandcounty.5f27f1176864c.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Big Tech Curbs Police Use of Facial Recognition Systems Due to Racial Biases"
+    excerpt: "A lot of these algorithms that have been developed, whether they are in healthcare or policing or visual recognition, are basically including the biases of the people who develop them,” Okolo said."
+    publishedDateTime: 2020-08-02T21:16:00Z
+    webUrl: "https://cornellsun.com/2020/08/02/big-tech-curbs-police-use-of-facial-recognition-systems-due-to-racial-biases/"
+    type: article
+    provider:
+      name: Cornell Daily Sun
+      domain: cornellsun.com
+    quality: 36
+    images:
+      - url: "https://i2.wp.com/cornellsun.com/wp-content/uploads/2020/08/UFTP6J0e4OMM_6WIuAp6kCMYpYmUt4V9lDQsb4Aml6eayrVRI3z0KwDsIB3_ta8jGgK0PtVEY0XlGocqT1ARCp0WxljqEJvqtaUJU2DcbNg.jpeg?fit=1170%2C780"
+        width: 1170
+        height: 780
+        isCached: true
 
 secured: "8Yf0vgTdJTx9bOx1BiiI+HdAC/VjERxavmxkMKVvFexifl9VnXRehoZJoO500Nz3UFF/ZteXxXQxx/pmLTY93eAZnOaRrTjctSdJcAPUPT/PUalbljIeN9bTzcaRE0tNGkgw3Uq6LSMoEW1MNmX+YKT3aiZ4iaNe914KDZ3A3SGSzG9ube+8WprW615fj2H+PotABh77J/95Q96lmxAJYBQ/+GZCBfCsGoi3iV8QSXZfkMq+ouC5ofTiDLfxwkboCeXPA2DcObbiczmiZoktkxP3Q2a5CKy0zSzaJkP6oxTMiJOB4/Jh2mFwXe/MVTqXcIqFebfMRz+yeOUgLjL6kbTCGHlA8/6hyQMUGzKr4/Uz633quxG77dzxnEp1GLQmz0oi4ZTvUZcURD/ydQeQo81GuMrOBHpQxMuS1VKfM+GkEbCzWDhM9sMbMpHX3JU5rE2Tan8x3KrQZ7wnhGDpg19VSZW6zI7gLspd4Sltfm9I43/zlzsXnvNktVstb26tot4eD5v4KGYGUp54DmkDBQ==;8h9UN18SS12//djbRaD1mg=="
 ---
