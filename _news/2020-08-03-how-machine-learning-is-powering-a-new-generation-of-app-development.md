@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/site
 type: article
 quality: 89
 heat: 89
+published: true
 
 provider:
   name: Forbes

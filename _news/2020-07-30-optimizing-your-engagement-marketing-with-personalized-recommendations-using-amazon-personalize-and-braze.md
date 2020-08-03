@@ -42,20 +42,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Simplifying application onboarding with Amazon CodeGuru Profiler"
-    excerpt: "Amazon CodeGuru Profiler provides recommendations to help you continuously fine-tune your application’s performance. It does this by collecting runtime performance data from your live applications. It looks for your most expensive lines of code continuously and provides intelligent recommendations. This"
-    publishedDateTime: 2020-07-29T19:37:43Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplifying-application-onboarding-with-amazon-codeguru-profiler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/codeguru-profiler-1-1.jpg"
-        width: 900
-        height: 559
-        isCached: true
 
 secured: "tKNuPulvIAICR9uRpjjvNKjI0Tro5qo1hFTbfiMZBFkwcdzz/y/OCOHw45eqpY8xZVKBJVBNYIC46vmg5Oux6A9rkL2qbVXO12SDtJ/wGmOvgsRMQOKe+Dc54LQDDnCaLNpXGmzjy75viJWQa1WPYYS8e4CEuV3yhsySoSIvxG4M1YMgoY8hADSBMmK9IlZLBfGTTcvXcohF4WNa6IrjF4EM+rCxBbQiDdTsDuBChA8zfZVkUpvjcs3TY07HQfRObI2tS6MSE/YNimCMYamVdGAY+XxmYC+UqsfKlTzjSp2qRujxRREig6TKpfPztG40T5agQvfeyyHvrH8cn5M3sg==;0TaJt7dUrV5BV+ma7Jpf7Q=="
 ---

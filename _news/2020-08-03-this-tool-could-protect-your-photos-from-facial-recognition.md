@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-p
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1050
     height: 549
     isCached: true
+
+related:
+  - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
+    excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
+    publishedDateTime: 2020-08-03T10:25:00Z
+    webUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/"
+    ampWebUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 29
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESQX7VGU2QI6VJ4IFTUGZ2ARFE.jpg&w=1440"
+        width: 1440
+        height: 1152
+        isCached: true
 
 secured: "lCepc5xxPqzBtJZ/J4UvRMNVe50oufjYLYmE1mljTHnzzpugjyl0g/YlHC3jgdDAol9JEmx5xHdlBNc6C5pSceDQHOlFaUjmidHUJ0uedUolfQRJyvrSx4hiFUl0stblMew5wEnR+Mau4IHBaSyAFAIuYRtz1jagPFuw3gj2xg+OFqUW84wltZybkrLjfA4pB0P4doOBncbSg9d23Jifko0LgRqAJlbHaHap/qkeCNiEOriPOhVOWJJKZ3pmWNX/F3LU7LyKOzCErfoURD3MIb3SFoIBDs/3HGfUbzv4r9boouRInvMTgfSZsBVBcfIXGMZ27ypW4t3kR2ICMtP+vJaoTwBmpeSHwBVSz1ghXlKkr6tFTnXZOpXesEqqYKoXLpxOwqvGeaL0GZjnhYMJXOPoz5zQA+slQAiY+3fO0U51d0Q6InmVD3aGEz+FpnzIfN1gXbyjawgU0UFVzxd85m3EngVsbFX+8a+vVD5MpwSzzjecoc4z8/Znct1BwVu0zoyhaqm3P6tDQA4jkKvIGQ==;dOmEIY3Lkf3cMreLCfMmvA=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "Two More West Orange Schools Receive Safe Streets to School Recognition"
 excerpt: "Following on the heels of Kelly Elementary School, Liberty Middle School, and West Orange Township, Redwood and Washington Elementary Schools have received Gold and"
 publishedDateTime: 2020-07-30T06:18:00Z
-webUrl: "https://www.tapinto.net/towns/west-orange/sections/education/articles/two-more-west-orange-schools-receive-safe-streets-to-school-recognition"
+webUrl: "https://www.tapinto.net/articles/two-more-west-orange-schools-receive-safe-streets-to-school-recognition"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "3HJ93/tls/JQ0aI43NkJe5AmyohcHeinkbA4QdQIvfixke3C9I7+KvYp7X9Jk1tMhVfKCOYewKXQPmaShOuLsjW9T93LUnkxs5AOxvP3Z0JhuENjMkjb4lv+a2BFqlv32zF1id50wumDrGduJFjR8iYThVXEeAy1PXHzlDeksCaYIGFsHv4XhtcAEXrgoQ628M3k71YxTrqeeW4SfUXoGsIc9SL94cNc8jFU8oEZnIpZ/s57lp0NngjPq5AfPFt9skUXOq9QINg30nv9n+vE4nJpfBhIYn7YINhtJXubsbMBkRziVY4D8uaXgzM6X75BmgX+9k03KDuyFD+JoDQuvQ==;2MFPuneCAZWwdeE5MLE1Lg=="
+secured: "D9mcJVZHaNF3wbwwQtxIkAOQZ6CkEb4GZszkLyS2vPZKJVRUk3fAo1DQMbkQv9QdS+/17J5bAY2fIiffKcsie8leYbhcl+B/OGigUw0XsWyCBKI96Ds9mhVszl5Crvy42ngNGLtl9d8gwWKQozeFGMtnSxBPiE9lZ5GLk8Yx2AnQG3RvywGz6fx/SqQ5Qv/BCq4Um74OzRASqru4OGGGM1gzSj0as/wc5XYm9zibukrAbxS5F0OnYCnthevmu9+FZikr+lkOLJQBFEVngHjlClxNlen7wTXnHgbXu5ixtMRjwZeBqGIS2DCCrDits1iFCM4b+SyJpAB2T/z0Q01SKA==;ZKZS2LsvKdCa9+UHxChU0A=="
 ---
 

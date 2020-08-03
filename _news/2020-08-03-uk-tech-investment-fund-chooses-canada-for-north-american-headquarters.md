@@ -7,6 +7,7 @@ webUrl: "https://www.theglobeandmail.com/business/article-uk-tech-investment-fun
 type: article
 quality: 23
 heat: 23
+published: false
 
 provider:
   name: The Globe and Mail

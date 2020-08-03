@@ -58,6 +58,20 @@ related:
         width: 1110
         height: 625
         isCached: true
+  - title: "Facial Recognition Technology Adapts In The Age Of Coronavirus"
+    excerpt: "With 60-70% of your face covered up by a mask, it isn't surprising that facial recognition algorithms designed pre-pandemic aren't working very well. The U"
+    publishedDateTime: 2020-08-03T09:20:00Z
+    webUrl: "https://www.wvxu.org/post/facial-recognition-technology-adapts-age-coronavirus"
+    type: article
+    provider:
+      name: WVXU
+      domain: wvxu.org
+    quality: 39
+    images:
+      - url: "https://www.wvxu.org/sites/wvxu/files/styles/medium/public/202007/facial_recognition_picture.png"
+        width: 726
+        height: 480
+        isCached: true
 
 secured: "hYrM2xjoMno3+dh2GNfAtaeVGu7TVeK8dLAjV0qhzPZXQsqqg309xZ84tNgHgPSP7kIYPMnNOmI3p2EnfW+4Dud9RVvSjjmY49/vZ3aVoVFsKVaxD1Wd4jt4eXYyNO37Iojv9LXUXfsyJkoZ/BHZadBHzzHFhNn2p1A+tYTBjKN3P0c8o8yPK3TftQwVZX88rmWjVCJUz78G1HjY0e7Me6tXxoHwH276FUSE93KYLEEzK5Nx8pAiD9OSDWVCLpSW2blPabn3d+vtnnCtQadfyNT6+aWuP+4pwmd9dGFNMpdo4+lD3iW4r27kvJizB83UxXjPDWVRT4+JV2f6J3+AUw==;IvKK/MMfY/5K+hp0lyvQhg=="
 ---

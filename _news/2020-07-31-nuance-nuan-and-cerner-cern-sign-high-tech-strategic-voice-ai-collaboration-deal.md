@@ -8,7 +8,7 @@ ampWebUrl: "https://pulse2.com/nuance-and-cerner-expand-voice-ai-deal/amp/"
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/nuance-and-cerner-expand-voice-ai-deal/amp/"
 type: article
 quality: 30
-heat: 40
+heat: 30
 published: false
 
 provider:

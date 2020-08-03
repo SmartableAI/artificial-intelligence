@@ -1,0 +1,50 @@
+---
+category: news
+title: "2020 Automatic Speech Recognition Applications Market Size, Rising Impact of COVID-19, Insights, Production and Demand Analysis to 2025"
+excerpt: "The report mainly studies the size, recent trends and development status of the Automatic Speech Recognition Applications market, as well as investment opportunities, government policy, market dynamics (drivers,"
+publishedDateTime: 2020-08-02T00:57:00Z
+webUrl: "https://www.marketwatch.com/press-release/2020-automatic-speech-recognition-applications-market-size-rising-impact-of-covid-19-insights-production-and-demand-analysis-to-2025-2020-07-30"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Vehicle Speech Recognition System Market"
+    excerpt: "A new research study has been presented by Dataintelo.com offering a comprehensive analysis on the Global Vehicle Speech Recognition System Market where user can benefit from the complete market research report with all the required useful information ..."
+    publishedDateTime: 2020-07-31T13:10:00Z
+    webUrl: "https://www.openpr.com/news/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
+    ampWebUrl: "https://www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/7/T731922844_g.jpg"
+        width: 560
+        height: 315
+        isCached: true
+
+secured: "zrNa26U+VQOiWaCezLIrvetrEOSzbgLOlF1gT5yJyxPV9+lYqdFVootSfbxiE0cPonlXDhn9TsVrTdwnls6HCGELn+Xb5vwfq4Eaxw6rxqdT/EUn/gcZllw4scue35R7rSz82Uw6ctZWPiItx0IC1dimeptpWl70l6waER59M9l7kSe4clKT+Cg7H00cYGILXvBw4JxoZGFAPtPddVpjiXhHLh/y/R0Zkv71NW8QNAjmtz+eslhI5OTzrhOq39m4kanyc9XRRdetqY1nlCuDNzz4meE2aPEYXy+vz7e74CDc3Tmz1Eh3WIEo7ypsVy44hoRLS980URvyy38wPXfgLA==;2ygWC/SWGg4b2qYZol/Dng=="
+---
+

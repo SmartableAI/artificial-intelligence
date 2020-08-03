@@ -1,27 +1,32 @@
 ---
 category: news
 title: "Global Payments Joins Forces with AWS to Deliver the Future of Payments"
-excerpt: "View the full release here:  Global Payments’ cloud-based issuer processing platform built on AWS will allow financial institutions of all sizes to more seamlessly operate the entire lifecycle of card issuance and management."
-publishedDateTime: 2020-08-03T10:54:00Z
-webUrl: "https://www.heraldstandard.com/business_ap/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments/article_fb6bdc07-c030-58f9-8a42-ce6c727e77c2.html"
+excerpt: "Global Payments Inc. (NYSE: GPN) and Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced a new, multi-year"
+publishedDateTime: 2020-08-03T12:06:00Z
+webUrl: "https://www.marketwatch.com/press-release/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments-2020-08-03?mod=mw_quote_news"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
+published: false
 
 provider:
-  name: The Herald-Standard
-  domain: heraldstandard.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/custom/image/9fc2a2c6-5890-11e5-bdf5-47a82848b584.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
 
-secured: "Q5PYBPnMoLmF20OdwNBtGPFjFTHLasFfJ2F6nKPUVcgBa3ZdVDO8wsafI8hnag6kYe72QAOi/CqJYmw59kY1nSeRmxzSkNB0PzGtgVqN0PsTRLAcOZ5Dblb9noasFC6BESWQpReDw4lLMIg4dlQa7PGgI44lbvROLk8IpXqKx0zUBtf27+SufzKmuXuQBSkRZSQffxghU+QGhGPPLGvnm1twsgQ/smRlSlnhazqy3yjuOeAvtilmhgaoLWNZHNOYb+UOtHkBZqcthUQoOjRIi2rXwGJzsh6OvSfk590YxehIZ17cxRvCa2i+5k7lkDV70gw+8xqzaysaN0+adqIKgQ==;6smGtPsHcchEBVULOlzwYg=="
+secured: "LeZoOlHzNsE9x1XDwXiUQqG8VxgnXTrLYyrI0HFS3pmO/YRpwxJIM8hjL9eSusZbSSrHpBELcZQLtYdPbh3DULY+mfD1T+a+e3YZimHHx1SBsMyo58FzXb7QovW7zvRzmlgKugap7wjis6DjBCuBxzWQLmjF0tWoLkA2q5flzQmiEHyBn/bZ3OjXQJrqzriwas/2jqFm/5uBCr1mp0xMjqg53zn+ZOajJ2iwj605UzJal9Mitwev5fjGaj7RvAKb2vpSZCWPr/T06ORCznA778lFsDO8mDJzm9VGHLsPGyBWBq9/aJFYdIBu8tBkxFDzk+9X4SVFXQPW9Gs2Mctcnw==;dOSmsTJD/eFCCgjsl4pvXg=="
 ---
 

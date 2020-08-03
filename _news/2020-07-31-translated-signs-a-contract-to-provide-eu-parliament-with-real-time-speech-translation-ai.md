@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-31T09:27:00Z
 webUrl: "https://slator.com/press-releases/translated-signs-a-contract-to-provide-eu-parliament-with-real-time-speech-translation-ai/"
 type: article
 quality: 30
-heat: 40
+heat: 30
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "EU Parliament Awards Translated.net With Contract for Automatic Speech Translation"
+    excerpt: "Translation agency, Translated, says automatic speech translation prototype to be delivered to European Parliament within 12 months."
+    publishedDateTime: 2020-07-31T09:00:00Z
+    webUrl: "https://slator.com/deal-wins/eu-parliament-awards-translated-net-with-contract-for-automatic-speech-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 18
+    images:
+      - url: "https://slator.com/assets/2020/07/Translated-Wins-EU-Deal.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "EU Parliament Awards Translated With Contract for Automatic Speech Translation"
     excerpt: "Translation agency, Translated, says automatic speech translation prototype to be delivered to European Parliament within 12 months."
     publishedDateTime: 2020-07-31T09:00:00Z

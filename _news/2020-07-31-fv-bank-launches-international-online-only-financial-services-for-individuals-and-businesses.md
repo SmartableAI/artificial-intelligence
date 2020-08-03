@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/07/164802-fv-bank-launches-int
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/164802-fv-bank-launches-international-online-only-financial-services-for-individuals-and-businesses/amp/"
 type: article
 quality: 48
-heat: 58
+heat: 48
 published: false
 
 provider:

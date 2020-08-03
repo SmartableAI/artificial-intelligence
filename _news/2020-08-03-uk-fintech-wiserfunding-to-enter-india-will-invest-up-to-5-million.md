@@ -8,7 +8,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/startup/uk-fintech-wiserf
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/uk-fintech-wiserfunding-to-enter-india-will-invest-up-to-5-million-5638381.html/amp"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

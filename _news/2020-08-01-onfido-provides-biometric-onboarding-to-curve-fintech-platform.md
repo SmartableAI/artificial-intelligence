@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-01T00:46:00Z
 webUrl: "https://findbiometrics.com/onfido-provides-biometric-onboarding-to-curve-fintech-platform-907317/"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

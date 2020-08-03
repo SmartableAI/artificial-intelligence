@@ -20,22 +20,43 @@ topics:
   - AI
 
 related:
-  - title: "SingPass, a Facial Recognition Solution for ID Verification, Will be Used by Singapore’s DBS Bank for Digital Onboarding"
-    excerpt: "SingPass, a facial recognition solution for ID verification, will be used by Singapore's DBS Bank for completing digital onboarding."
-    publishedDateTime: 2020-08-03T03:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
+  - title: "Facial recognition, thermal imaging part of future with coronavirus"
+    excerpt: "The coronavirus pandemic has inspired a new wave of technology , including thermal imaging and facial recognition software that can detect fevers among employees, a common symptom of the virus. PopEntry+ combines instant facial recognition and temperature screening that can connect to employees’ mobile devices,"
+    publishedDateTime: 2020-08-02T06:00:00Z
+    webUrl: "https://www.dailyitem.com/business/facial-recognition-thermal-imaging-part-of-future-with-coronavirus/article_4b1f1c0a-1799-5dfc-bc7c-7aa1e7bb1454.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/06/Singapore-DBS-Skyscrapers-Asia-600x800.jpg"
-        width: 600
-        height: 800
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "OPTEC Launches Safe-Scan Contactless Infrared Temperature Scanners with Facial Recognition and Mask Compliance Features"
+    excerpt: "CARLSBAD, CA / ACCESSWIRE / August 3, 2020 / OPTEC International, Inc (OTC PINK:OPTI) Today announced the launch of the company’s new “Safe-Scan” stand-alone infrared temperature scanning technology for use in complying with CDC standards for assisting the reopening of Schools,"
+    publishedDateTime: 2020-08-03T12:45:00Z
+    webUrl: "https://apnews.com/31485d52222e12b792a9de9292cc44c8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Optec International, Inc.: OPTEC Launches Safe-Scan Contactless Infrared Temperature Scanners with Facial Recognition and Mask Compliance Features"
+    excerpt: "CARLSBAD, CA / ACCESSWIRE / August 3, 2020 / OPTEC International, Inc (OTC PINK:OPTI) Today announced the launch of the company's new \"Safe-Scan\" stand-alone infrared temperature scanning technology f"
+    publishedDateTime: 2020-08-03T12:56:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50341788-optec-international-inc-optec-launches-safe-scan-contactless-infrared-temperature-scanners-with-facial-recognition-and-mask-compliance-features-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "oBPmVO76fiQnPYp7SpnZrKakIdxOZIHikMQ/FTNW5giSv1cISf40+lWXXuZxFFBNd3b6f4eXc91+udhng5O7wdD/R2ZsxPGVvfzlCD2CpwnTE60b3ofFXTa5b1sTIMG9Cv5Tl+hkjHDAgz4OtsMLy8eCtlh+EcyGdIyR4sg+3k1pGwcsy3lZiUcgiGkoZROJ3QN2iD7I9n2aBn/aB4VhgluPQrPRAwtReNNxZvuzbC697We2kYNKt1clPATGLi0HvWlWuNzwxj+qYqeXOEKzT212OFgdD3Hw2KDlEUdHzFNVzKdYCMb9l6D/D1NPJFWuhIylZA7hVZgbdvrxka+hLg==;0AMhiA13NMm93GuNqIXdJQ=="
 ---

@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowd
 type: article
 quality: 34
 heat: 34
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -23,6 +24,19 @@ images:
     width: 600
     height: 800
     isCached: true
+
+related:
+  - title: "Singapore’s Universal Studios deploys facial recognition for entry amid Covid-19 pandemic"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-03T13:08:00Z
+    webUrl: "https://www.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL.html"
+    ampWebUrl: "https://m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 30
 
 secured: "QvCmJ3VtIjynbVlJjUvV1xBxw+LEfAU1N3TXiAAS5TxydY4WEZ3tGAffYpBLo8OKI2TPQo1U5SzZ5p1Wi8vOBf9/wxmYaJ1QNIhTaJeI5mEi6Xg8qdrqt/HzSP9YGLhNwyiZC9Sxg+bp0D+w+xvBushGEkKz3FMIHFNzkjORpGOX/yKXT13rl82/cCbbwrmxG51hZtiKJXPqDVEzkBJuqsJy8iH1fPEZ0GlD7y0qZR89ma8Hf1ZdBzEwcBW+BaEEAGQB82FQWWmKBc/Jr/DNiF7IJ6FGR0srseOlqP3dYCdkW2E1PLQ6CWD/OMcGlABmbbZ/2EjrKHtR1GBEEt/M0w==;vGRrzYZSjO2/czHWacd5vw=="
 ---

@@ -38,34 +38,6 @@ related:
         width: 1280
         height: 1206
         isCached: true
-  - title: "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers"
-    excerpt: "IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best ..."
-    publishedDateTime: 2020-07-30T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers-301103083.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
-  - title: "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers"
-    excerpt: "NEW YORK, July 30, 2020 /PRNewswire/ -- IBM (NYSE: IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best align with ..."
-    publishedDateTime: 2020-07-31T22:29:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/07/30/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "Pm+jZ4vxG7XB7Q86pkD/HivUeNhgl7E85j8a9cNzC4KawdSqyDi/E0T5paOfMFB61GCrtSFOrsGybOm0C8aSm8InMic9u9Pv013WcjQl5rxwUCcHaYD50Ijq/TmYxFXcb2IyprzdZtAcqm51RhlF8pwFBSXbejdspqNFBIYrAttRfdc+7hi6Nu+gaYZr/B84fyFuVL0DWDhuelYQsKU9J4E1SLEYPOd7IXatsAkaclSaVfsP+soHNazOwgG4BisH0iBkIySzZJ2ND4Rxy9gsE3AClJKD7772HolasF/31Vf/J2deVw0oHrS0Z74v2sYFAsKXlnTy5NGfS9ZmgCY/vQ==;ATtKLiUAw660Jzem1510Vg=="
 ---

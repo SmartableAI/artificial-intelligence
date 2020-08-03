@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/new-approach-aims-to-use-facia
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers/"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200730&Category=BUSINESS&ArtNo=200739920&Ref=AR"
         width: 1276
         height: 715
+        isCached: true
+  - title: "CyberLink FaceMe® Enhances Facial Recognition Technology With Thermal Camera Imaging"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new features for temperature scans to its innovative facial recognition software development kit (SDK),"
+    publishedDateTime: 2020-08-03T11:43:00Z
+    webUrl: "https://apnews.com/b574ac2ef2df41d884c15b9f9faf1f74"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "yt364E2DNJUCX3jaeebxL6b3dYqR4TCBQ7cBYVnSb3v55e46xTiYgOOdmQxdNW2CX8a6PHjxAZZR8o/TkqYD+/x3+/ttOR/zGozKFBCYm+6b0a9WjCLF3nRqU7ff+HTazxujTdYhUr3Gak+jwVjrLPnEvtNmCd5kzH5YurBfwBCVzD/J57Wlc3gwuJmQtzMdI80IXcSn+XbAL8QtNmWJi1btVv08HPmlXLo9GDNC68XiHaTjnUG1X4XBxSPM3VJ684zPvZXH8a3Q+LythzRzwwlLA51o4mJWSvT0D2zIlpjUEf32a1xkX0iY0AUrUMs+V740SSHpUdMWLfqOMtVlAHU00W40bkVt1zSU+tczuKkjVIEFNw3R3VB/ulVXtZH4tqT418xz4UTaq/EKDDdg7ZiRn/Jr4nntn2Gs2vvJlfGbzKoRd/Cm8ZzOEZ+FPN2+IazkUu8VbOB2uFo4DvhX1Jq6cEAZVP1cL1oKIHTf6bVb0VeEBNSVb/2XLgGQPVzXfQ8VX2cFIfw/F3t0crwXig==;dXI0dQW51fj5OAUd4NDGmg=="

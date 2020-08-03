@@ -5,8 +5,8 @@ excerpt: "The Iowa Initiative for Artificial Intelligence and the University of 
 publishedDateTime: 2020-07-30T01:15:00Z
 webUrl: "https://dailyiowan.com/2020/07/29/ui-college-of-engineering-uses-artificial-intelligence-to-solve-problems-across-campus/"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://dailyiowan.com/wp-content/uploads/2020/07/collegeofengineering-900x600.jpg"

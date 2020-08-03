@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-31T22:08:21Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Simplifying application onboarding with Amazon CodeGuru Profiler"
-    excerpt: "Amazon CodeGuru Profiler provides recommendations to help you continuously fine-tune your application’s performance. It does this by collecting runtime performance data from your live applications. It looks for your most expensive lines of code continuously and provides intelligent recommendations. This"
-    publishedDateTime: 2020-07-29T19:37:43Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplifying-application-onboarding-with-amazon-codeguru-profiler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/codeguru-profiler-1-1.jpg"
-        width: 900
-        height: 559
-        isCached: true
   - title: "Optimizing your engagement marketing with personalized recommendations using Amazon Personalize and Braze"
     excerpt: "Today’s marketer has a wide array of channels to communicate with their customers. However, sending the right message to the right customer on the right channel at the right time remains the preeminent challenge marketers face. In this post, I show you how to combine Braze, a customer engagement platform"
     publishedDateTime: 2020-07-30T00:26:57Z

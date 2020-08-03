@@ -42,6 +42,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "CyberLink FaceMe® Enhances Facial Recognition Technology With Thermal Camera Imaging"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new features for temperature scans to its innovative facial recognition software development kit (SDK),"
+    publishedDateTime: 2020-08-03T11:43:00Z
+    webUrl: "https://apnews.com/b574ac2ef2df41d884c15b9f9faf1f74"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "9QqGmDCRLrKEC9+jIFRwftDrpohS4IU2a0i6/XYPIREgscQ+fDdHev34hNTGfH/xWvtibG1uA0odYyYDFGtTVgMRbUsYoNfE6atHLc/RuRPVGo5uEOI82rwFgWfebsjh46gTmMCb6ldls7nRrrdLpgpxH+gifANxMkIbONDk7o0gJxkFcbk4FJ6Yfy9MS4plvf6DXnzct6PLUcdTZXKVs9J3BimAbFB4ZYLk/7XdUpvaqrd07KeVOUjmJmVNZMWHPYPsXF2QOgpiI+wOs3gBruduRPsVVeOqWlfdP0BNLEElfby1CU1I6sBueJI8kTtk94MSAqhiojrns7lc4uwvjw==;+U4IKIWOIxTFc64CvLtHHA=="
 ---

@@ -7,6 +7,7 @@ webUrl: "https://www.ndtv.com/education/iit-roorkee-alumnus-wins-zinnov-award-fo
 type: article
 quality: 32
 heat: 32
+published: false
 
 provider:
   name: NDTV
@@ -21,6 +22,6 @@ images:
     height: 400
     isCached: true
 
-secured: "1tTw2ljpAoo3xLqtBgifryjCCs43nCCo30y1vZmgJwmPNrY9mGEXhLVJLNAweWkVr/Z0gGL0CiSz7tatFjc6v3BaJPdIhfmhvCaxgFiHmdB580EpJwVX3erZwx8UHKozeNSSEgYXHG8LnOzNYMYHZthE39LuiIWNED3EAAt+p1YHJyp+WI0qq0+Un+xLFT4yNpmGxMflZwzlEMdR6b49KuUR5cSi4J/oCdvs8fZSHaS0KR7xCXc1q49SF3r8xuOtea/fQmVGX5JPvGJJyfZZqcoZ3OHtczzVWRReBhvLiiUp7L4gowa90KtDCMCHCQZbF+mE2RR8KatvSf17kkiWxg==;P4VS3eAOeK7vchUeFnC2UQ=="
+secured: "hSXJx+ya9RotdErjb6QqKAqz5H5Ip23FdYlaMIuOd4nWVhdXm4ykXDCJsXjVtGX3KBJaJ/T8a3NOkHLkmygXCA0moB2eoGMElJ2pE73+fihaevteSbg++Y+3Vcc6aDnloZZn42pWv1hQt4X2eRzhFVBA64vZpOul0TnsWdg8Oj10zXgBbgx42ceYG9pqy8AvgPn5e4IiMm6eDf09DjqApgYFzQaQysSRpCj8xPYlaZC4GU5pOnBaYHof4MbgBxwTT9fDnURkqzY98TdylZlPvB9OFPLPwAQFQaif+JRGYaKx0+I2waM9VKTxacqIZxRkMcky3fjKBrOOnhTzWC2AahCcqqzX8hOqAHz4+qqQl9IIzwr2LjSiasKQGa4G87dt3aIPeDLoN0FoVyBK/uBpqv3Kj5+WUujV8/12R0rlBnX2PZ5poQ3Xj2Tj/HR15pmZ5tDvaETCKa3WQJaqD8Cq8XpCBbGrvtks/sZwNDdfBGpzPhHoGnd6eoijo3tpdCtZ/XgGpM4kqj5eHjf17+Vxlg==;2A/J+hc/PmsfnMkX/L3pVw=="
 ---
 

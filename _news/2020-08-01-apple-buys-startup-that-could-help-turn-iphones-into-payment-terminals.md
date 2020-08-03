@@ -8,7 +8,7 @@ ampWebUrl: "https://mybroadband.co.za/news/smartphones/362220-apple-buys-startup
 cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/smartphones/362220-apple-buys-startup-that-could-help-turn-iphones-into-payment-terminals.html/amp"
 type: article
 quality: 22
-heat: 32
+heat: 22
 published: false
 
 provider:

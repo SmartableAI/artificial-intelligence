@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Greenway Health Works with AWS to Further Meet Needs of Ambulatory Care Providers in a Post-COVID Healthcare Environment"
-excerpt: "Greenway Insights will leverage AWS cloud services, giving Greenway engineering teams direct access to a robust set of data analytics and machine learning capabilities, such as Amazon SageMaker and Amazon Comprehend Medical, that will enable product ..."
-publishedDateTime: 2020-07-30T00:00:00Z
-webUrl: "https://www.medindia.net/health-press-release/Greenway-Health-Works-with-AWS-to-Further-Meet-Needs-of-Ambulatory-Care-Providers-in-a-Post-COVID-Healthcare-Environment--479970-1.htm"
+excerpt: "Greenway Insights will leverage AWS cloud services, giving Greenway engineering teams direct access to a robust set of data analytics and machine learning capabilities, such as Amazon SageMaker ..."
+publishedDateTime: 2020-07-30T14:59:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment-9136450"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Medindia
-  domain: medindia.net
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Greenway Health Taps AWS to Develop Cloud-Based, Data Services Platform"
@@ -33,6 +39,6 @@ related:
         height: 512
         isCached: true
 
-secured: "u5uAatXnaYYvCmPXaILAG8S7HyHqx+hebKXJDIeQmsvvixe7dHhVgctmonvtkcNNhjQPNXLZBaLz6EB1T1ITLaXnvFOv1uKOi30wNKllH7J0c0Vg54DjmqT+8gLI9xBGdKLyXk1CbLXzc3sPhVwiZX0EvntRSeQ/MVkloVWqwKlCnHA3SwrKosVBzY/tg4c7TlbBAsISBEoe6fD70MDvb81HCIGj+s7itoUGPTyEqYcB74WDexyn1fym7DAPogdWPKxtzwcFDOjmleD2FMwQzukpeUgOlZhob19zoM7/MdIrqymDzi0l79z5i33rtZrzgx0adVYwItcpXZXAjVt0eA==;RFS6qxlbblaX93ot4NLhmQ=="
+secured: "8EbFJHGKxDByU0/ezOrwyrPZTtaAaXmDbx29zUnYUgHX9gHfA3nYeiE4yju3Rx0pN/Ft7ERUMN4bAkjtIlL4HVTYJwN0P8XiLfrySOkIkhkgqnd/bCmKUfo502AXYxKSEb2FLKPnfwcXrihXKUS4gxSnKxv1Ta/67gC4pdodEjpwvnUoxsQwBxv7rubjO030cJQK784ctAXtcv96A1mVxhZR81bfIKRC99m/l5u/B/8/vXaJ2EkNxMKxI5+alwk+ZdrHXOSPcc0kQ10gMcacS3FFwC23yJSff8Tfc6zuLl+snPBge9kBK0z6X0r3mwQIZBuYIhtuUGXkRhsiHkFGlA==;zOeK1rtTeFMVj7UycoRWYA=="
 ---
 

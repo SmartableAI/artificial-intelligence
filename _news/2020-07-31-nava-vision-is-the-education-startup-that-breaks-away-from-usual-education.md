@@ -8,7 +8,7 @@ ampWebUrl: "https://m.hindustantimes.com/brand-post/nava-vision-is-the-education
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/brand-post/nava-vision-is-the-education-startup-that-breaks-away-from-usual-education/story-amubRxns0UR78n0ht0plbO_amp.html"
 type: article
 quality: 22
-heat: 32
+heat: 22
 published: false
 
 provider:

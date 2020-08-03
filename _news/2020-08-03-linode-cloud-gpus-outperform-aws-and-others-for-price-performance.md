@@ -7,6 +7,7 @@ webUrl: "https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Finanzen

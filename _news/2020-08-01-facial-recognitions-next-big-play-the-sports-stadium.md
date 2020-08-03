@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://images.axios.com/Z1j4-xYV2lr9tk74B1fyDJRvtEw=/fit-in/1366x1366/2020/08/01/1596303538882.jpg"
         width: 1366
         height: 911
+        isCached: true
+  - title: "Facial Recognition Technology Adapts In The Age Of Coronavirus"
+    excerpt: "With 60-70% of your face covered up by a mask, it isn't surprising that facial recognition algorithms designed pre-pandemic aren't working very well. The U"
+    publishedDateTime: 2020-08-03T09:20:00Z
+    webUrl: "https://www.wvxu.org/post/facial-recognition-technology-adapts-age-coronavirus"
+    type: article
+    provider:
+      name: WVXU
+      domain: wvxu.org
+    quality: 39
+    images:
+      - url: "https://www.wvxu.org/sites/wvxu/files/styles/medium/public/202007/facial_recognition_picture.png"
+        width: 726
+        height: 480
         isCached: true
 
 secured: "VkXJ8gc1dPClf9k8NeWmRXbbrbkn6wN7OzSZXG1Ivy7SYp53y+F5w06WbXAHVupKG2+m83mMx4zO+uQ+YsR8JeUgl7jvpRWlmek05IcWkGqTnvjId5240F8NzkXBT+JVQpI2e1Y8zAHK7lpDtOl8xBk+McoZ4AaE6TY6hbYdmo+DoGPd8e/n8eubGrD63frWZ4rDIF1zvpPG4M+2vvizHFsCWx0XdWKhLHOxMzFTE9UwKEUT/iyDFNFLH/KfWIfAmQUVzTAWsDzJqwfK1G5JkS8ns9+0ak3DxY+6goes5bpzKpueYx6z6iZPjCQI40sER75/FJyCBWxz6jUDQV/eFA==;/WPAVQ/wK6rzMA/FD1EWsg=="

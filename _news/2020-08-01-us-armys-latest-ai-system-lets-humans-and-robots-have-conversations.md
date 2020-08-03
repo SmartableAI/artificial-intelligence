@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Conversational AI eases soldier-robot teaming"
-    excerpt: "The Army Research Laboratory is working on bi-directional conversational technology that will make it easier for soldiers to team with autonomous systems."
-    publishedDateTime: 2020-07-29T21:02:00Z
-    webUrl: "https://gcn.com/articles/2020/07/29/conversational-ai-robots-soldiers.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 54
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/July/darpasquadX.png"
-        width: 760
-        height: 368
-        isCached: true
 
 secured: "p//tfMQB7gbPe8EA+E8RthOQh0a7lxJ2lRq44Om2D2mijKNZOqIFbKz/adGxbBMc+rIAR/zwWCcJbYmPj3jidmERl/UOkrA5Aq79RPqk+JqhoWOE1WuYQhCLevAUMR3997x0yQZpWImlzV9ili2nllSBK9yVvdHusrLk4oEXFB/ZHFSwVPbeJR+VQTu3PPpesnIXstf4Sao26kPrm81LE+zsFymcx81jcxgpc8ljffS3UQVNAiIXQ+R+KvaYs+FiCtKbe4FX323tJKyHCKFBNLYvhR5KtzGaD++LW5rHNiy2dJHX2G3D40cIdJ9FloCl8OmduGZO+7VygFBELbEBYQ==;WzRtexQvwo77oauZ97tMJQ=="
 ---

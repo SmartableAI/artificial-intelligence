@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2020/08/us_army_AI_robots_main.jpg"
         width: 1440
         height: 828
-        isCached: true
-  - title: "Conversational AI eases soldier-robot teaming"
-    excerpt: "The Army Research Laboratory is working on bi-directional conversational technology that will make it easier for soldiers to team with autonomous systems."
-    publishedDateTime: 2020-07-29T21:02:00Z
-    webUrl: "https://gcn.com/articles/2020/07/29/conversational-ai-robots-soldiers.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 54
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/July/darpasquadX.png"
-        width: 760
-        height: 368
         isCached: true
 
 secured: "Oqt5LR3tUpUL/6Y3JbKJWG49LLnTfzVUGL1AhadV0K61tOd7N1lVFJb8Zi6/YE16tOEUm6asec0xdLW/2uXG7auRqtmG5/oYX19srdY5RImRRcawljXF5SUrUpyZOisbnVSkvPC+PDLevKe11EwhDvcqhQp4XtLO6mpvkBGci4ZZUhVtnHHkbeJc5oLQXzLiXLElx7JU+BG7KtafwrY6xc8/n0SAS33g7K4NKGh0D5TJi0F4QXQeoJ8r1ZcEZRl063tU7KmJCCqxga5kKJoYcAjiIRrq9y1lMCGbzfCAzFUEYOEu2KTeIhKubeuXp5Cuy+lF+/ahp9Z9T/AVmQuxXQ==;zgssm5gW7qMyIhxmGJsggg=="
