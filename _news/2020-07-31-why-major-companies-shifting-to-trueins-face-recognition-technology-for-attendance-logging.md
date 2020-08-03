@@ -19,6 +19,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Why major companies shifting to Truein's face-recognition technology for attendance-logging?"
+    excerpt: "Was the entrance procedure one of the major things that put you off? For obvious reasons, all workplaces have to maintain a strict record of its visitors and an even more meticulous record of its employees' attendance."
+    publishedDateTime: 2020-08-03T08:27:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20200803/3603224.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+
 secured: "LQkdFd2Hb3ATTxqEqsLfsU1guan739cfHdVsedZy7IcjPLW4COpHRAJaxSNInbW0LpGzYurQshbqj3NF35KCQGJ3GlbvFiigeV+iqqpgp0bEDumUmdsRgvs4bRKt0urR9hLlv/CwHIANU324UYY1ea0kj9gQ5KOKtYa7h3gYbiges/9Sx7/5e72S2ESE5+u0/7dg645OkFUd/dN+4RSSsEuzK36Fq6Q4fsiIN5z1NwIZCXj+0iHYgiMBBS1mDqDrWa0NK+1jh7NbCLvPzZIbADac2s8Sd6Xz4WvpPFcGVVvYa1ECcT+rtlJKoiPPrJN7Xefc534tipYlXaSSap6L1Q==;kQYy5j0mSFUjlzXlguvovg=="
 ---
 

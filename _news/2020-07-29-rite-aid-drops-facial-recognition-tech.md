@@ -112,15 +112,6 @@ related:
         width: 760
         height: 368
         isCached: true
-  - title: "STUDY: MASKS SCREW UP FACIAL RECOGNITION SOFTWARE"
-    excerpt: "TRENTON, N.J. - 1 p.m. (scheduled) New Jersey Gov. Phil Murphy and the state's health department update the Garden State on efforts to combat the COVID-19 (coronavirus) pandemic. Partly sunny, hot and a little more humid with a shower or t-storm possible ..."
-    publishedDateTime: 2020-07-29T16:55:00Z
-    webUrl: "https://www.wfmz.com/news/cnn/clickable/study-masks-screw-up-facial-recognition-software/video_d5e67220-2268-536c-a7fd-0649c3acd148.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "QTWph+JCBmnLTFPWtj4dzH8977TxcTVHy/ogfKDtkHXHSEkSpwBqzQG3tInt5M1JV3CaFCjK5PYBsuO8aCv7QQDTRvcWX2dUJnKT/ulO3Odb7TCo+Q2MGSEDfG6pitAxYERYC9RdOSZNRlvcJFsL5UCMmFp/neYYVKD1/oKarjhG6T2hZ5hJfSVwBRSHUKW5W8RPVr7NQZVLBszCFD9RjJwSoI+zqBG7yJqUyq7QHgkSUR1maSFiICSibWxt/PKxydfT9tYpE2yzPvVnMnwIgH7N3qRgJ9dmqWGAk4PqK+QQ0LSORHq1Ihk2lwaZCGWCaW+iRCy+KMwbDFqAfCMX5w==;AYadVxCEAeUgV6jAZOf79A=="
 ---

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html</loc>
+    <lastmod>2020-08-03T02:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://qz.com/1887438/the-non-tech-companies-hiring-phds-from-elite-ai-programs/</loc>
+    <lastmod>2020-08-03T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/apple-faces-1-4-billion-lawsuit-by-chinese-ai-firm-in-siri-patent-fight-11596436018</loc>
     <lastmod>2020-08-02T23:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,6 +33,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/02/ai-is-struggling-to-adjust-to-2020/</loc>
     <lastmod>2020-08-02T08:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-49456</loc>
+    <lastmod>2020-08-02T06:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -877,12 +895,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
-    <lastmod>2020-07-27T05:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/</loc>
     <lastmod>2020-07-27T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -915,6 +927,12 @@
   <url>
     <loc>https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece</loc>
     <lastmod>2020-07-27T02:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645</loc>
+    <lastmod>2020-07-27T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1903,6 +1921,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.in/finance/6-scenarios-self-driving-cars-still-cant-handle/slidelist/53860744.cms</loc>
+    <lastmod>2020-07-20T14:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20</loc>
     <lastmod>2020-07-20T13:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2101,8 +2125,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20?mod=mw_quote_news</loc>
-    <lastmod>2020-07-19T23:48:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20</loc>
+    <lastmod>2020-07-19T23:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

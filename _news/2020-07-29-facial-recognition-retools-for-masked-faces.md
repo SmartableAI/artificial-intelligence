@@ -113,15 +113,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 34
-  - title: "STUDY: MASKS SCREW UP FACIAL RECOGNITION SOFTWARE"
-    excerpt: "TRENTON, N.J. - 1 p.m. (scheduled) New Jersey Gov. Phil Murphy and the state's health department update the Garden State on efforts to combat the COVID-19 (coronavirus) pandemic. Partly sunny, hot and a little more humid with a shower or t-storm possible ..."
-    publishedDateTime: 2020-07-29T16:55:00Z
-    webUrl: "https://www.wfmz.com/news/cnn/clickable/study-masks-screw-up-facial-recognition-software/video_d5e67220-2268-536c-a7fd-0649c3acd148.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
 
 secured: "wmtHpvIyYSiSN9ngFAiG1PWma/RkmcJWTuMgNoNhn9C2Dt0Y0AIUWG+96K90k0swCth8Ih6tR5v3nO5NFnfavKKPvru0cFl3wK9pM17+Wf9JcbbQkF7b10BFWBup9NydD2yfSD7MJ+Ext8pBPCEXjj09pRHNkNoMpyaLbnCax6ebxeBEG9pzPiCBzyncTVgzh77uVovTYmvHphKY/0lmV7sFx9yG3T/5+63rj7uAG8pq/mHlFl2uSR1hcMVuZlb4bL2ub/Nh17H986whxHoU1UOz2nVYhq3ojBB9JMyOn82WNnK2E6bDuNMubmuCJyZBvKlxrkE+ODpSFFuGO2/XgQ==;bkkYiWGhe4qhUvCbQrHPNA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://m.economictimes.com/small-biz/startups/newsbuzz/uk-based-fin
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/startups/newsbuzz/uk-based-fintech-wiserfunding-set-to-foray-into-indias-msme-credit-market/amp_articleshow/77289894.cms"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 412
     height: 255
     isCached: true
+
+related:
+  - title: "UK fintech Wiserfunding to enter India, will invest up to $ 5 million"
+    excerpt: "The platform, backed by Professor Edward Altman, will use AI-based tools to assess small businesses for credit risk."
+    publishedDateTime: 2020-08-03T08:15:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/uk-fintech-wiserfunding-to-enter-india-will-invest-up-to-5-million-5638381.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/uk-fintech-wiserfunding-to-enter-india-will-invest-up-to-5-million-5638381.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/uk-fintech-wiserfunding-to-enter-india-will-invest-up-to-5-million-5638381.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Fintech-and-retail-lending_3-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
 
 secured: "+boMmLA3+y5ix7JCUPahvgbWTjXPtcU7lcDIOU8mNG85PEgcFFKkL0Y5y0fAe0Mp3koju/Ws8MtaKanIvkXeN+djgvvttZwHiWPsDF58td9bWeaPSBY6xU0zMRw2IsvV2bgm0q0gFVowBJ429C7zNoQe7ss2Md1LKXlCjAD+gMx2hu0yC70R8wPX2qojKrZmFUbqv2buRlwpzF39mPjra01co1aBG2bdJVGKS5QXKRUfPGf6TXWBC/mMIU36UNOIV49ZhB8prsfmrgd9AKHndcEMA2rL0AtmlntuAvyuS16CrHwr0cCrAeg/5k3m66vsQ/GBk/JT3oXrvmFDRIpgS3+huDAh6sVXstq6uY9TqTjA60st2j6+sifyS8BrPhcGA9wkNljz9CH8RUbWcpz1bF+8kdOiQD9J4sf+WlGs1ucnZ8GeC6qrdpqgPs3Ixd6hgPXo/iYDi+A013d/kxlEbKxcHk29aS+lrgvcasyEmQT6pE/Wik85zhORgTrfBtMigmR0L8NiNfbQUrIIzkmd9g==;7xEv/+X3NBA62WKJduZuiA=="
 ---

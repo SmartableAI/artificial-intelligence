@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Self-Driving Car Market – COVID-19 Impact Analysis, Business Profiles and Forecast 2020 to 2024"
-excerpt: "Self-driving cars have pre-installed control systems ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others."
-publishedDateTime: 2020-07-20T06:48:00Z
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20?mod=mw_quote_news"
+excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+publishedDateTime: 2020-07-20T06:50:00Z
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "+1w/Y2bRts62Iu488sHFaGUD8EEwdO+lme/Jc3o0q20qt0jDeouuv8R2YPBAMF15wmxMRJj2JB6ZU+lYpdaY0bLOyV8XNFfOYiu5TkJxlHeCoc6s9FxIZJ9RJUvVfWvDdDzPburMPV97dDpVviX1wlLBmlP1l0dmA6TuVlKi9liYkG9tJTrDY9v2P7upgbxwWa7O6NyOKPKmVSIBUYyUgWDIQZwTChYE/2M1QzBnx2kIPasJIzaF2YRcCcaLUtfgzwXQngScFvIqUj2YaWRpyQMd2URfhmBkHylk3rZoYE4pM4Wftz1tCNymxV0CPmvQ1dqJ3QVhkZBnZN1rrPWogw==;o1sn/jaFy6Jtm6eEhdOfaw=="
+secured: "Z9kc1bjLXfAZLFNCDKFpDEOB/quadROpj+Sg+s76out9c6PGBILVm83JrLQpL+FQN2doVQJebSGjJAtAbYtA0ehIkrIxOev3HThtwFRiN210XbD5YikSowfKknIfOiR/nzaTJ5eH92g+w8X80sW3KKh9HerkkOdQVO4ynQW7xTDsvNsKbRGO+X/9QCYQWOdKenbc6b0Hlz9PpuKjOPbVh/vHe/kCBYKKZB3wYmcrvqjV6EvZa3zUtPANQeABPVchGi9irqIThat9axEELDRuO+qbQsiQZXvHNIBadhPJoWf6y9n5g1evaU4+xDlscZwQtetD7pghNSWgxEBRAEyb+g==;/XNTO2pw8JQ79R3JREEapA=="
 ---
 

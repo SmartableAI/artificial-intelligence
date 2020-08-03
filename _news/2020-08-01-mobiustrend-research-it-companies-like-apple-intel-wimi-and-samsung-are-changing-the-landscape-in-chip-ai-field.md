@@ -21,14 +21,16 @@ topics:
 
 related:
   - title: "MobiusTrend Research: IT Companies like Apple, Intel, WIMI and Samsung Are Changing the Landscape in Chip + AI Field"
-    excerpt: "MobiusTrend, a market research company in Hong Kong, recently released a research report on 'IT companies are changing the landscape in Chip + AI field'. The data shows that the AI chip industry still has huge potential in the next few years,"
-    publishedDateTime: 2020-07-31T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-research-it-companies-like-apple-intel-wimi-and-samsung-are-changing-the-landscape-in-chip-ai-field-1029455023"
+    excerpt: "Artificial intelligence improves quickly while the GPU performance is limited. The industry has begun to develop new types of AI Chip. Through better hardware and chip architecture, the ..."
+    publishedDateTime: 2020-07-31T11:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16871127/mobiustrend-research-it-companies-like-apple-intel-wimi-and-samsung-are-changing-the-landscape-in-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16871127"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16871127"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
 
 secured: "7klo8ZCPN9UUts51Zqw4/N95cij7m0K+X6/FprTc3FAa6Ur1dPklr6FbhbfzNzXVX3v/fxRjjHbTIZMjRa6eGDnBvhInb/aeUI8uhFGBJkMZn+m0moWVIdjXau+Rac0eZrIHNSQZ0/7DBLwtoA4gDQYYnC5+gWI2fs9epbse7TljZiuD6NDL6a+0jA/TU8/aRJxGIhcXkEECHgd+F9uzS9Gt5X+IL44v4DqXiRiLnrcOAwxZ9W6N/IoGQmzy5rLvx/tjD/iX5uXmk8EbIf3iJR0IVxi9oV4npR97u+iUrkCHWpuR0U880Wg3gdlNntqyVBW4vyH6X39E0bAAwD73ZjxvlYLuuy/sMBugjy7C6cibSvGcvIlVJl6lwXjmArUR/933ak/oIu3RLOV1Hm6V1PNC8u5bXei3kUFy2cB9JuacmTTCzHtMaWex36ZfhDVBiGxgfePqfykYbKbkIoF9HtQDVAC7LOiDCuUgogAfwbGA85g2i2T1dSoD51PJO08bQyYP/QLj0D+hZmwlxwCrGg==;IzYqhI/NkpIq+ABpfKQKRg=="
 ---
