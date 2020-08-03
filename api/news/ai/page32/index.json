@@ -2,6 +2,96 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-07-02-ibm-notre-dame-launch-lab-to-focus-on-tech-ethics.md",
+      "title": "IBM, Notre Dame Launch Lab to Focus on Tech Ethics",
+      "excerpt": "IBM Tech Ethics Lab will conduct research and produce guidelines for governments and businesses on the ethical use of emerging technologies",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibm-notre-dame-launch-lab-to-focus-on-tech-ethics-11593682202",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-205092/social",
+          "width": 1280,
+          "height": 640,
+          "title": "IBM, Notre Dame Launch Lab to Focus on Tech Ethics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-cartoonize-online-or-offline-with-the-prima-cartoonizer-desktop-software-for-pc.md",
+      "title": "Cartoonize Online Or Offline With The Prima Cartoonizer Desktop Software For PC",
+      "excerpt": "However, hiring a graphic designer to do it can be expensive and time-consuming. Prima Cartoonizer announces its platform that offers powerful tools to Cartoonize Yourself at a meager price or no ...",
+      "sourceUrl": null,
+      "webUrl": "https://cartoonize-lkqov62dia-de.a.run.app/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cartoonize-lkqov62dia-de.a.run.app/static/sample_images/emma2.jpg",
+          "width": 968,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-networks-of-self-driving-trucks-are-becoming-a-reality-in-the-us.md",
       "title": "Networks of self-driving trucks are becoming a reality in the US",
       "excerpt": "Fully autonomous trucking may be one step closer to reality. On Wednesday, the San Diego-based self-driving startup TuSimple announced what it’s calling the world’s first autonomous freight ...",
@@ -1274,97 +1364,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-yitu-technology-received-isoiec-277012019-certification-from-bsi-becomes-the-first-chinese-ai-company-to-obtain-it.md",
-      "title": "YITU Technology received ISO/IEC 27701:2019 certification from BSI, becomes the first Chinese AI company to obtain it",
-      "excerpt": "On June 30, 2020, YITU Technology, the world’s leading artificial intelligence (AI) company, received the ISO/IEC 27701:2019 certification from the British Standards Institution (BSI) for its privacy information management system,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR Newswire/34a1b2fbe02403a209b95dc63fc98d14",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work.md",
-      "title": "The robots are coming, and this is how they will change the future of work",
-      "excerpt": "Robotic systems have historically been kept separate from humans, and tucked away deep in factory lines. But as robots start mingling with humans in their workplaces, what is work going to look like?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/30/44b82d2a-c7eb-4458-89bb-a1aeff3fc18b/makrshakr-milanoduomo-bp-5972.jpg",
-          "width": 1152,
-          "height": 768,
-          "title": "The robots are coming, and this is how they will change the future of work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/",
-      "publishedDateTime": "2020-07-01T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

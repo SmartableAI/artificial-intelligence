@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-15-navistar-to-develop-self-driving-trucks-with-tusimple.md",
+      "title": "Navistar to develop self-driving trucks with TuSimple",
+      "excerpt": "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24G1L0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0",
+      "publishedDateTime": "2020-07-15T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars.md",
       "title": "Strong AI Versus Weak AI Is Completely Misunderstood, Including For AI Self-Driving Cars",
       "excerpt": "Or, if you prefer, you can state it as weak versus strong AI (it’s okay to list them in either order). If you’ve been reading about AI in the popular press, the odds are that you’ve seen references to so-called strong AI and so-called weak AI,",
@@ -1323,56 +1373,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox.md",
-      "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
-      "excerpt": "Amazon has purchased of Zoox, led by CEO Aicha Evans for $1.2 billion. With Evans at the helm, carving out her own lane in what’s shaping up to be a competitive self-driving car space, is the e-commerce giant in a position to dominate yet another industry?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148406588%2F0x0.jpg",
-          "width": 1200,
-          "height": 827,
-          "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
-      "publishedDateTime": "2020-07-07T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

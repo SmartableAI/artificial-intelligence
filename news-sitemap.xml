@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/</loc>
+    <lastmod>2020-08-02T21:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/</loc>
     <lastmod>2020-08-02T14:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -37,6 +43,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw</loc>
+    <lastmod>2020-08-01T12:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-rate-demands-status-and-application-forecast-to-2026-2020-08-01</loc>
     <lastmod>2020-08-01T11:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -57,12 +69,6 @@
   <url>
     <loc>https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx</loc>
     <lastmod>2020-08-01T07:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400</loc>
-    <lastmod>2020-08-01T07:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -859,6 +865,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/</loc>
     <lastmod>2020-07-27T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -891,12 +903,6 @@
   <url>
     <loc>https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece</loc>
     <lastmod>2020-07-27T02:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645</loc>
-    <lastmod>2020-07-27T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2079,6 +2085,12 @@
   <url>
     <loc>https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/</loc>
     <lastmod>2020-07-20T00:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20?mod=mw_quote_news</loc>
+    <lastmod>2020-07-19T23:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-49456"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 923
     height: 651
     isCached: true
+
+related:
+  - title: "Neuralink brain chip to allow people to hear sounds impossible to humans"
+    excerpt: "Tesla and SpaceX founder, Elon Musk has claimed that his new pet project Neuralink chip will allow users to hear sounds that previously were impossible to human ears."
+    publishedDateTime: 2020-08-03T05:14:00Z
+    webUrl: "https://www.sify.com/finance/neuralink-brain-chip-to-allow-people-to-hear-sounds-impossible-to-humans-news-topnews-uidfkBfjacefj.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 33
 
 secured: "4HfJ8CB7qLwPW3QpWbmI9DoiGMNJpsHG5fKOI7E+S6lnqSJ1B8lcVWVDW/A/4cxR4VMk2eC/BOn6ar74BOU9i+Z4ZcC7yYYEpvxa4HnbkgRx190QbxZfEI43u6CN8qku4KeszTgJihIAymyKC/K0yZ7DSHJmSgQQkthy0BuQluPQ8MIf85STMijhsKUXv5dEs3Uk7nDuCfpsQ8l6i6VUlE87yYr1DGlPNNqwrnousCrXUFV9X+Rg/aZHAvcVfEVhypdUYAa4K1M/SIn1C5rCUYzBizlxTFb2tgvgtZA2gatn+KH4igEEBVny6jgIg13c93Xrdpw7x3mD12ItbBYepQ==;GmTweWuoVNeqbNOj7o35qQ=="
 ---

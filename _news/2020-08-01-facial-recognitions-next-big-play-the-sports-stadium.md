@@ -2,8 +2,8 @@
 category: news
 title: "Facial Recognition’s Next Big Play: the Sports Stadium"
 excerpt: "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff."
-publishedDateTime: 2020-08-01T14:06:00Z
-webUrl: "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
+publishedDateTime: 2020-08-01T19:00:00Z
+webUrl: "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw"
 ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
 type: article
@@ -63,6 +63,6 @@ related:
         height: 911
         isCached: true
 
-secured: "IlIpvF4OzxUm9EiWsVYUTus+w/cEVxh4UHBaaGTphe51+dRPgPKfujnUMvYQ9iUoAgJms2PX9Ed6DNhpSEVBg6pmdUADiNn+0AYJ1EcdgZmWLl6+/LGTjpbOy4I2tTMcbGEdhkgJvLpBJ4OSkzpuMnZ1mrtmWhjT2GK5U3Y8kprLHHufoMTAqFB3UGVZt2Fe3sqTB6iuij49kSBpW/AqEuTZhyOWhtOOj8QULo1kFg7I0r7q4gfEqxKhxt84L/5DEHw1Iz1rwJapgYvtncWMWCOu1Dct1m0+dyCSA2s8JK/CgEFn8dHYa1EabdSXlTRoCxUgXfC45euTaS928Ha6Hg==;XnDezPbKjee9EoQLNGBK+Q=="
+secured: "VkXJ8gc1dPClf9k8NeWmRXbbrbkn6wN7OzSZXG1Ivy7SYp53y+F5w06WbXAHVupKG2+m83mMx4zO+uQ+YsR8JeUgl7jvpRWlmek05IcWkGqTnvjId5240F8NzkXBT+JVQpI2e1Y8zAHK7lpDtOl8xBk+McoZ4AaE6TY6hbYdmo+DoGPd8e/n8eubGrD63frWZ4rDIF1zvpPG4M+2vvizHFsCWx0XdWKhLHOxMzFTE9UwKEUT/iyDFNFLH/KfWIfAmQUVzTAWsDzJqwfK1G5JkS8ns9+0ak3DxY+6goes5bpzKpueYx6z6iZPjCQI40sER75/FJyCBWxz6jUDQV/eFA==;/WPAVQ/wK6rzMA/FD1EWsg=="
 ---
 

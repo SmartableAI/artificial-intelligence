@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-03-3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success.md",
+      "title": "3 Important Ways Artificial Intelligence Will Transform Your Business And Turbocharge Success",
+      "excerpt": "Artificial Intelligence (AI) is likely to be the most powerful technology humans have ever had access to. Here we look at the three main ways AI can be used in businesses to deliver success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f278facccb6d3d3cc3c63b1%2F0x0.jpg",
+          "width": 1200,
+          "height": 728,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/amp/",
+      "publishedDateTime": "2020-08-02T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-02-how-ai-can-help-small-and-medium-businesses-compete-against-big-companies.md",
       "title": "How AI Can Help Small And Medium Businesses Compete Against Big Companies",
       "excerpt": "Right now, larger companies are investing in AI because they recognize the opportunity to dominate a market using this technology.",
@@ -290,6 +339,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-01-facial-recognitions-next-big-play-the-sports-stadium.md",
+      "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
+      "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-213850/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "publishedDateTime": "2020-08-01T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-artificial-intelligence-in-healthcare-market-growth-rate-demands-status-and-application-forecast-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market Growth Rate, Demands, Status and Application Forecast To 2026",
       "excerpt": "The Artificial Intelligence in Healthcare market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The glo",
@@ -297,7 +396,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-rate-demands-status-and-application-forecast-to-2026-2020-08-01",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -488,56 +587,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-01-facial-recognitions-next-big-play-the-sports-stadium.md",
-      "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
-      "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-213850/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
-      "publishedDateTime": "2020-08-01T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-01-security-news-this-week-rite-aid-used-facial-recognition-in-stores-for-nearly-a-decade.md",
       "title": "Security News This Week: Rite Aid Used Facial Recognition in Stores for Nearly a Decade",
       "excerpt": "Rite Aid Used Facial Recognition in Hundreds of Stores for 8 Years Reuters this week published a deep investigation into the use of facial recognition technology by Rite Aid, which the drugstore chain deployed to 200 stores over the last eight years.",
@@ -545,7 +594,7 @@
       "webUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1410,56 +1459,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing.md",
-      "title": "AWS And Vodafone Focuses On Unlocking Enterprise Opportunity With 5G And Edge Computing",
-      "excerpt": "AWS Wavelength provides developers with the ability to build ... \"Responsiveness matters when it comes to artificial intelligence, augmented and virtual reality, video analytics, autonomous vehicles, robotics and drone control. These applications require ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f24b122319cd74a70cf29d5%2F0x0.jpg",
-          "width": 1199,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2020/07/31/aws-and-vodafone-focuses-on-unlocking-enterprise-opportunity-with-5g-and-edge-computing/amp/",
-      "publishedDateTime": "2020-07-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,105 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-06-29-machine-learning-systems-fair-or-biased-reflect-our-moral-standards.md",
+      "title": "Machine learning systems, fair or biased, reflect our moral standards",
+      "excerpt": "There needs to be a concerted effort by regulators, governments and practitioners to ensure machine learning systems and algorithms stem inequities rather than perpetuate them, Experian regional managing director Mohan Jayaraman says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/06/29/b3357438-b9bf-11ea-b64b-070a892763db_image_hires_164720.jpg?itok=jGm8Nybz&v=1593420445",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine learning systems, fair or biased, reflect our moral standards",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
+      "publishedDateTime": "2020-06-29T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability.md",
+      "title": "Amazon launches AI-powered code review service CodeGuru in general availability",
+      "excerpt": "Amazon announced the general availability of CodeGuru, an AI-powered code review service that was first revealed at AWS re:Invent 2019 last year.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon launches AI-powered code review service CodeGuru in general availability",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/amp/",
+      "publishedDateTime": "2020-06-29T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-aws-announces-general-availability-of-amazon-codeguru.md",
       "title": "AWS Announces General Availability of Amazon CodeGuru",
       "excerpt": "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code.",
@@ -1070,88 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-alphabets-waymo-and-volvo-collaborate-on-driverless-cars.md",
-      "title": "Alphabet's Waymo and Volvo Collaborate on Driverless Cars",
-      "excerpt": "Notably, Alphabet’s Waymo has partnered with Volvo to develop a new self-driving electric vehicle for use in a ride-hailing service. Per the deal, Volvo will take care of the design and manufacture of the vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29?amp",
-      "publishedDateTime": "2020-06-29T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy.md",
-      "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
-      "excerpt": "A new surveillance system is deemed \"inefficient and dangerous\" as it fails to protect the personal information of 4 million daily users, associations say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/24/e8481169-ff9b-466b-8e43-10b2b93dae57/thumbnail/1200x675/e7e0863bd1d561f06a8a84b6febb0d56/whats.png",
-          "width": 1200,
-          "height": 675,
-          "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "publishedDateTime": "2020-06-29T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

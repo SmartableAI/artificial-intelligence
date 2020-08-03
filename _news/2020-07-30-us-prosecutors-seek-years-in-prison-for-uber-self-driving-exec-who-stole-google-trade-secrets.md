@@ -23,22 +23,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "U.S. prosecutors seek 27 months imprisonment for former Uber self-driving head"
-    excerpt: "Prosecutors are seeking 27 months imprisonment for the former head of Uber's self-driving unit for taking sensitive documents from Google."
-    publishedDateTime: 2020-07-29T11:40:00Z
-    webUrl: "https://www.foxbusiness.com/technology/prosecutors-prison-uber-anthony-levandowski"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 20
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/self-driving-Uber-car-.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "pt4+YB7dvu9HJ0JeHeNFL6OGW63Rozdo0wY7CINraKBPPzcL8dP72zpunKh1SmHgjw4WkVWDHdhr+L+LhVjj2LwO3cW9+K5W1y8Q3ygYD/rNVeH45sBP52s6/5b6jxzVmIaeHQayBzbRnEDkfIYx2oomtbVM/b53y4uF9PdNhlHEXPaCNsu66HqzZCRKNQkIRcIJtNaknnEj1kMcMUtzmGIELi9YhJgI8WwVpZJp3TPqCdDjNd8RTv4WSOIhTLK87kAzfn4w1z+AThdvk1qhTn2DxUwdBc0/onnNKgZ8DUZjekKAjUZhIaxCjKQ0LOSHp688VAoxjMA8+W6wdFYXdb0HTCvSaLVYCdYgZsAHt5rlNh4vY63evau1R0eeQkvrOfwAs7vVTRbd6DTD8IR+BkmPp83tABjKSF/u/Ya35Qr39pT/ip0DezMjyzm3ZWLH0cwho0lBYtH/9q1M0tCXi/K3DLfRh+NyCjDxfE7eTUc6kAEnO724qUQnNmG0dwF4UWrOX54AlDZ+NSGC247L/A==;t+4X1C5i0ne/9dxsey5ezg=="
 ---
 

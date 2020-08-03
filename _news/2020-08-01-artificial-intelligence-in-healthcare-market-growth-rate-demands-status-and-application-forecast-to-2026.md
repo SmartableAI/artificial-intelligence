@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-01T18:48:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-rate-demands-status-and-application-forecast-to-2026-2020-08-01"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 350
         height: 350
         isCached: true
-  - title: "Digital Healthcare Market Demand,Growth Forecast 2019-30 Future Scope by Major Key Manufacturer – GE Healthcare, McKesson Corporation"
-    excerpt: "Digital Healthcare refers to the improvements in interconnected health systems to enhance the use of computational technologies, computational analysis"
-    publishedDateTime: 2020-07-29T12:32:00Z
-    webUrl: "https://www.medgadget.com/2020/07/digital-healthcare-market-demandgrowth-forecast-2019-30-future-scope-by-major-key-manufacturer-ge-healthcare-mckesson-corporation.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "4U+Tvb7PfBnvIww7V8y5DQxmhGxuIfn9lgMakGjrk96o7imC617o7H5Iuu4QKUtICUMlWfpfffmKkMQnVB+vJb5UagdGwLqYwuZKijrSO8olIktS3tCifMlX9x4VGvDmD6i8vA+IXt1AAoMjv6Nv+pLhUOfryxP2lkqPwgPG0kX88y1WxY6dkj1VbkFhasUXyHXeeAo21e9swaATSZXbCrGM1wPDmMhZb/WdHyT7h/yuBc/9ODcskW8O7vq6AnQYr4BWhupXSs5TnmDYTAlAoQ0e45VMkn+VbcVaqgn9N0IoQ3MQhjyGv1EGe1t2EDeu/obSdRe4oDpnCsh+FAZcDA==;FGmO+pKSOSJnUEWQtoRf3g=="
 ---

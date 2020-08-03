@@ -2,6 +2,56 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-28-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-most-scared-of-googles-deepmind-ai-project.md",
+      "title": "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project",
+      "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said he was most worried about Google's AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
+      "publishedDateTime": "2020-07-27T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-demand-for-autonomous-delivery-robots-rises-as-pandemic-continues.md",
       "title": "Demand For Autonomous Delivery Robots Rises As Pandemic Continues",
       "excerpt": "Answering the need for deliveries that minimize human contact, companies are stepping up R&D efforts in autonomous robot development.",
@@ -847,6 +897,38 @@
       ]
     },
     {
+      "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
+      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
+      "excerpt": "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have access to a variety of offerings, including a series of ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-facebooks-red-team-hacks-its-own-ai-programs.md",
       "title": "Facebook’s ‘Red Team’ Hacks Its Own AI Programs",
       "excerpt": "Attackers increasingly try to confuse and bypass machine-learning systems. So the companies that deploy them are getting creative.",
@@ -1075,96 +1157,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh.md",
-      "title": "GMRIT launches artificial intelligence lab in Andhra Pradesh",
-      "excerpt": "The GMR Institute of Technology (GMRIT) at Rajam, Srikakulam district in Andhra Pradesh has inaugurated an artificial intelligence laboratory set up to provide training and certification on AI applications development to its students and faculty through a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/a833rd/article32201679.ece/ALTERNATES/LANDSCAPE_615/bl28-AI",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece/amp/",
-      "publishedDateTime": "2020-07-27T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
-      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. SILICON SLOPES, Utah, Jul 27, 2020 (GLOBE NEWSWIRE via COMTEX) -- SILICON SLOPES, Utah, July 27, 2020 (GLOBE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

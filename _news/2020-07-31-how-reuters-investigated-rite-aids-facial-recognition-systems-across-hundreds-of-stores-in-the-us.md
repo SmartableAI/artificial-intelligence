@@ -46,15 +46,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Rite Aid deployed facial recognition systems in hundreds of U.S. stores"
-    excerpt: "Rite Aid used facial recognition in largely lower-income, non-white neighborhoods. The systems included one from a firm with links to China and its government"
-    publishedDateTime: 2020-07-29T12:05:00Z
-    webUrl: "https://www.reuters.com/investigates/special-report/usa-riteaid-software/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
   - title: "Rite Aid used facial recognition cameras in multiple U.S. stores for years, but has since shut them off: Report"
     excerpt: "An investigation by international media outlet Reuters found that, for years, Rite Aid used facial recognition cameras and technology in hundreds of its U.S. stores. The drug store chain, which is headquartered in Camp Hill, has since turned the cameras ..."
     publishedDateTime: 2020-07-29T13:42:00Z

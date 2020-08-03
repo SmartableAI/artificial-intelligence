@@ -2,6 +2,108 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-07-02-my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work.md",
+      "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
+      "excerpt": "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/07/02/e10d0e71-25ac-478a-860a-296fb2b1a2e0/resize/1200x/fa952c92b39946fdcbc676d984647dc5/istock-1150345648.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
+      "publishedDateTime": "2020-07-02T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api.md",
+      "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
+      "excerpt": "The Raspberry Pi Foundation has announced it's bringing the OpenVX 1.3 API to Raspberry Pi devices to improve computer vision on the popular single-board computers. The new open and royalty-free API comes from the Khronos Group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/02/6401a79a-c8f7-459b-a88d-9de3e85cfb53/openvx1.gif",
+          "width": 600,
+          "height": 371,
+          "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "publishedDateTime": "2020-07-02T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-connecting-the-industrial-internet-of-things-with-smart-ai-objects.md",
       "title": "Connecting The Industrial Internet Of Things With Smart AI Objects",
       "excerpt": "John Clemons is a Consultant for Rockwell Automation and Maverick Technologies, a leading platform-independent automation solutions provider Smart manufacturing, Industry 4.0 and the industrial internet of things (IIoT) are discussed constantly in the manufacturing world.",
@@ -1052,104 +1154,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-google-brings-its-ai-powered-smartreply-feature-to-youtube.md",
-      "title": "Google brings its AI-powered SmartReply feature to YouTube",
-      "excerpt": "Google’s SmartReply, the four-year old, A.I.-based technology that helps suggest responses to messages in Gmail, Android’s Messages, Play Developer Console, and elsewhere, is now being made available to YouTube Creators.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": "Google brings its AI-powered SmartReply feature to YouTube",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
-      "publishedDateTime": "2020-07-01T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics.md",
-      "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
-      "excerpt": "One notable exception is the state of Texas, thanks largely to lobbying from dating app Bumble. Bumble also uses AI to block out to detect lewd images before they reach their destination. Yesterday, its sister app Badoo launched a similar feature.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-90-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
-      "publishedDateTime": "2020-07-01T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

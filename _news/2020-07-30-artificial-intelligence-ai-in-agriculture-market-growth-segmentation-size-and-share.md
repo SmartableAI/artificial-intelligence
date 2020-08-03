@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digital Healthcare Market Demand,Growth Forecast 2019-30 Future Scope by Major Key Manufacturer – GE Healthcare, McKesson Corporation"
-    excerpt: "Digital Healthcare refers to the improvements in interconnected health systems to enhance the use of computational technologies, computational analysis"
-    publishedDateTime: 2020-07-29T12:32:00Z
-    webUrl: "https://www.medgadget.com/2020/07/digital-healthcare-market-demandgrowth-forecast-2019-30-future-scope-by-major-key-manufacturer-ge-healthcare-mckesson-corporation.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "uxMgWqcNV7Jby5oqWnL5ZPICdTPEUDaTeRtoY46ksjNNl5GVCRHMBQrByF/+lW8xmNXJfRAAF5jWSmnDAMOiBFm62yrqiX0RW5UOfAS3f8ZrOh6O1+Z/cAdd/vhxftYB2P1q6GFCr0CCW+5k+ke6SNqSueiiW/A/4Uv4d/ed6FMBOwm3sAD/jYhC8ImIB06NeIbmLIrETkzpN6hC3avbUQPAWSkWV+qHD33GH5y4KMGazYNJHzu1rPAADfIuQpqie5ZM6zfk63oLSCvE37udDpIJCgaq83uKfAGHNihKkhHY2esEW8WZVi+Z0pGOip1LPPtvgjMzR6sL/4Tlv0U6sBqLAZlQyhrOQ44+ijD5obQYdxGIyy+KRAJkc0c3Cil9f00moZQRtONLPvUlklWhaBaH/E2vqcy4q0kNyKv/qDZ2fMzUjMWn11W9ZLR5exNKLeuW/yeRuT881jgruXT6NAKfQqzoheb3kSsgDull6fdLxJIiYRAEd5v3HjlIJCKnATftHHOL4RZZ6357kvWspw==;V21AF4TWFC5C4TUmDaMrqg=="
 ---

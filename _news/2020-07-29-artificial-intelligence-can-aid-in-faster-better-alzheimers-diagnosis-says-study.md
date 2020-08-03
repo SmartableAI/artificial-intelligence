@@ -8,7 +8,7 @@ ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/290720/artific
 cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence can speed up and improve Alzheimer’s diagnosis: Study"
-    excerpt: "Artificial intelligence can speed up and improve Alzheimer ... Scientists at the UK's University of Sheffield's Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common ..."
-    publishedDateTime: 2020-07-29T11:56:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-artificial-intelligence-can-speed-up-and-improve-alzheimer-s-diagnosis-study-638048"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-artificial-intelligence-can-speed-up-and-improve-alzheimer-s-diagnosis-study-638048"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-artificial-intelligence-can-speed-up-and-improve-alzheimer-s-diagnosis-study-638048"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 56
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/07/ai-1596022896.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Artificial intelligence can speed up and improve Alzheimer’s diagnosis, says study"
     excerpt: "Widespread implementation of AI can help predict which patients showing mild cognitive impairment will go on to develop Alzheimer’s."
     publishedDateTime: 2020-07-29T15:09:00Z

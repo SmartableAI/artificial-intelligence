@@ -8,7 +8,7 @@ ampWebUrl: "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwar
 cdnAmpWebUrl: "https://www-uticaod-com.cdn.ampproject.org/c/s/www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Paravision Achieves Global Top 2 Ranking in NIST Test of Face Recognition with Masks"
-    excerpt: "SAN FRANCISCO, July 29, 2020 /PRNewswire-PRWeb/ -- Paravision, the US-based leader in mission critical computer vision, announced today that it achieved top 2 accuracy globally on the National Institute of Standards and Technology (NIST) Face Recognition ..."
-    publishedDateTime: 2020-07-29T11:55:00Z
-    webUrl: "https://www.medindia.net/health-press-release/paravision-achieves-global-top-2-ranking-in-nist-test-of-face-recognition-with-masks-479646-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 12
 
 secured: "UKt1fvE2Y1s5ytKra88H/HrLHpe+q1ZBI07S4m7FA4BSmqmLu6YlH1vqekUUPfuFpGPKaAqZDNyLOUbqHxUlr68IWMWnxqy1mkvHYATtNI9H6yN5My45jLwb8Qsv/jcyTkomfNXFr0DZiXwdsVMYNUodPu+l2smHykE2WWpLOqJsYrwMZub1fCi8uF9ZvrWXr6s/FBj5ro8dDNIobDrKP85Lt7Of+psY2ndNFuMDG/R18plcICsUnmOT0EXww79iASpBSmHAfH3O2i21XVLL9giAHDLGFJQi75TxF1ARL7MQXW2bQ33yG56DqTSRuVzxMv3DEKuYpZwt/8CscqliXw==;9QhtbANaopcKgAkol8PgvQ=="
 ---
