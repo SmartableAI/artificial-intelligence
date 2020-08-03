@@ -20,6 +20,17 @@ topics:
   - AI
 
 related:
+  - title: "Singapore's Universal Studios Deploys Facial Recognition for Entry"
+    excerpt: "Annual and season ticket holders of Singapore's Universal Studios no longer need physical passes, while guests using day passes will still need tickets for entry but can then exit"
+    publishedDateTime: 2020-08-03T10:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "SingPass, a Facial Recognition Solution for ID Verification, Will be Used by Singapore’s DBS Bank for Digital Onboarding"
     excerpt: "SingPass, a facial recognition solution for ID verification, will be used by Singapore's DBS Bank for completing digital onboarding."
     publishedDateTime: 2020-08-03T03:45:00Z

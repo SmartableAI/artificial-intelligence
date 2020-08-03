@@ -23,17 +23,6 @@ images:
     height: 702
     isCached: true
 
-related:
-  - title: "ABB’s new analytics and AI software helps producers optimize operations in demanding market conditions"
-    excerpt: "ABB Ability™ Genix leverages Microsoft Azure for integrated cloud connectivity and services ... domain knowledge, technology and AI,” said Rajesh Ramachandran, Chief Digital Officer for ABB Industrial Automation. “ABB Ability™ Genix helps asset ..."
-    publishedDateTime: 2020-07-30T02:14:00Z
-    webUrl: "https://www.powermag.com/press-releases/abbs-new-analytics-and-ai-software-helps-producers-optimize-operations-in-demanding-market-conditions/"
-    type: article
-    provider:
-      name: POWER Magazine
-      domain: powermag.com
-    quality: 3
-
 secured: "fyjUa1z4HRbDSuaWKWmdyFiSFQg0CKYpAW1pKMhXONN++5aPeggKf8i9Orc0FYekCU4Ib04zBygmxNLApj+pSp41DlTqfr+jU1rfpywJkb3fcjZmfALCl/ZGfhg72YQGzzfgzQRH1Z0JKxXc5KBTb08OxBz8MQL44HlWV57iRNTqP5FaSIL1XvNtUW7GFH6feFQ/y+iXdTVaSWgTNMNYI2d40paPJoottax8JzxHOjb74+riL8OM+lpM+kLJFdWMnCGMN/iy80GvBbJFz179zkoS3iwgTJ/Nn3XkrI65s3A813WKzG6TpaxIal9ko3/E2nQdlMsXIAfBq71NRXjAQw==;XC24SO2ebCsS8zgEbHVV7g=="
 ---
 

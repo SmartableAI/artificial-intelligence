@@ -5,8 +5,8 @@ excerpt: "The rapid growing market and interest in AI is being driven by the acc
 publishedDateTime: 2020-08-03T16:03:00Z
 webUrl: "https://www.forbes.com/sites/cindygordon/2020/08/03/why-board-directors-and-ceos-must-become-ai-literate/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f27438749c681ce43b6fb6e%2F0x0.jpg"

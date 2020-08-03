@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-20-new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation.md",
+      "title": "New Apple iPhone Patent Applications Surface: Object and Facial Recognition, Messaging, Voice Modulation",
+      "excerpt": "The patents cover object and facial recognition, messaging, and voice modulation. Object Recognition: One patent application, filed on June 17th, 2008, describes methods by which a mobile device ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
+      "publishedDateTime": "2020-07-20T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-clearview-ai-the-facial-recognition-company-that-scraped-billions-of-faces-off-the-internet-was-just-hit-with-a-data-privacy-complaint-in-europe.md",
       "title": "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe",
       "excerpt": "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday.",
@@ -1355,56 +1387,6 @@
         "name": "Search Engine Journal",
         "domain": "searchenginejournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-defending-black-lives-means-banning-facial-recognition.md",
-      "title": "Defending Black Lives Means Banning Facial Recognition",
-      "excerpt": "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
-      "publishedDateTime": "2020-07-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

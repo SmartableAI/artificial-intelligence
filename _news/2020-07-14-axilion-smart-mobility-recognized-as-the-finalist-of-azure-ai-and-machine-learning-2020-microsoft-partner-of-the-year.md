@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year"
-excerpt: "Azure's robust infrastructure and scale empower ... Global Partner of the Year 2020 in AI & Machine Learning Mr. Aharon Aharon, CEO, Israel Innovation Authority said: \"The computerization of ..."
-publishedDateTime: 2020-07-14T00:00:00Z
-webUrl: "https://br.advfn.com/noticias/PRNUS/2020/artigo/82853378"
+excerpt: "Axilion Smart Mobility today announced it was recognized as a finalist in Azure - AI and Machine Learning 2020 Microsoft Partner of the Year Award. The company was honored among a global field of ..."
+publishedDateTime: 2020-07-14T19:31:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16620223"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16620223"
 type: article
 
 provider:
-  name: ADVFN
-  domain: advfn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "aZ/PHOT5vkd/H69miBndJsQs1Wm5iKhXygRY+GaHjrwoe0BXHQsNbU3K8mjWMXKNzu2Y0p0E5GViUrnlC2clXVIJEEFrnj/DahloEyG05Ou2JH9eC39yi+TZ7B+bq3mD7bdffaBhRntcg1qwt0OIaHteQzpQ0zrd9aYVEHY3fCK6/1uUxQoeKqWNINHxVoHoqjMKKlvMQBSnyfekWy/uKV/v2cjAvmt3aAeejwZMnxWeKZwWsQl+5SNRJRwCuhbdBFDE767GqV8VX2mtX/5LmUXwCDqTMPrm0LyE89553/iL4YEkJCKLL03qziHIdB/R8jWCEP9dQtj2+KRKyoC9SQ==;DS328SDqUEmKNisK1/KGgg=="
+secured: "PJ3Sdk3j9aFG4R4845fQigsxLF5LRomLW9d1BY8/E4Ebo6IvLgZdIyS8UHDy1e5xrJCmDZa76OlbxrwsC5IydlYt4cUoTmQpg+d7GrA8vQIQM0pvhIH+5Y1PMxvczML56ka1mVAIKesBj5CKuvElhDM+M/eVpxRArW+8HZfbNzwKL0O1NQbddrIYnUEIRgktbU5rHVnKtCROaeP/Fh08T8UgViirNulArJmsDeZ748eJSP8G1Y7lZirJA427bPsCBYiHctdZojY7kciGB60j8MSlaerMUSnLbo47NTEE26IBUAzIxeFYoir89BGgLDSc8GskzEDN93N6ZP2IVfAfHQ==;Ns6u1d4+bnnZ8ZjsaUrm/A=="
 ---
 

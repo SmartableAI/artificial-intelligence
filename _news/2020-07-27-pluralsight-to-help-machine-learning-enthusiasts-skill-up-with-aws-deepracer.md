@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -24,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ClGtJeW62c/zgsGLh2HhPcMAFBA7kyzMLnLVcczBVM8qhzS25TfNXHy9Pt5+agYZaAB6Ga3GIbDmKfcAOLZIz3pgnRuZpVt77lTUrebfoXCMA2IK+cndwxAayMz6Q8H9qXR0Rl2rmeBZR7wkrECSnjH/ZI2UyAQUKYt64VV9kcgj0b+sD8EjuZ9KLZYooWQlkVrVXXbohRE5WaNXr2IMpwn9GKUJnBHjSlivJHZ7A9k3c8L0hfIyTAx7+VadEnfoSNSdzPIP1seCdsvxXdFjG05yhklrkTjrF/KRJhPQ8+mkwF10pQayrkzemdY6FzyHHRaUMAw/7Jwiy92yK+IgHw==;OEmVO0Wa/WiQTrkqDRsKkw=="
+secured: "rJeTBnbtQwHTRPGupK/rn1Cn5P4WmA/SxjynBP0uVO4Rtb7hSckdA5/IVmh5HKblflBJtTLiNt6TR2itkuYUYlDBWhf2QEPL//eYfDUr1QSIR5cmhz3BYGYVrqp68LUqBaAnC2YU2uia7bj1lX6sO2LC+lCkm8Y4dlX/7QGbq/Yo8Ut9mm7Y39PfKhk/TCKPtMuzqety0Veessnw+r8Vs9gwoYnjH/NzcfTfxqwtkQF/nDdy9SgGPe12ynZXjNKXKuH5xotTb8ymVrJi9Lw3nK0f39tx9DG0rp2bZh0lug3ORAwNdPWphsr/kTvea2weDYCRQXV2cBrEsjhwrD91bA==;VPkaSlqVpJ3NGiEsMdEK/g=="
 ---
 

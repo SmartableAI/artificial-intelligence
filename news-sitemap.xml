@@ -55,8 +55,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://phys.org/news/2020-08-machine-early-galaxy.html</loc>
+    <lastmod>2020-08-03T04:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/story/apple-faces-14b-suit-from-chinese-ai-company-2020-08-03</loc>
     <lastmod>2020-08-03T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry</loc>
+    <lastmod>2020-08-03T03:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -127,6 +139,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400</loc>
+    <lastmod>2020-08-01T12:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-rate-demands-status-and-application-forecast-to-2026-2020-08-01</loc>
     <lastmod>2020-08-01T11:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -147,12 +165,6 @@
   <url>
     <loc>https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx</loc>
     <lastmod>2020-08-01T07:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=cxrecs_join</loc>
-    <lastmod>2020-08-01T07:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3421,6 +3433,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-</loc>
+    <lastmod>2020-07-14T12:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/</loc>
     <lastmod>2020-07-14T11:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3693,12 +3711,6 @@
   <url>
     <loc>https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/</loc>
     <lastmod>2020-07-13T20:32:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://br.advfn.com/noticias/PRNUS/2020/artigo/82853378</loc>
-    <lastmod>2020-07-13T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

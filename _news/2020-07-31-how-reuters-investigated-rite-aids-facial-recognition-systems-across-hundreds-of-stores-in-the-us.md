@@ -46,6 +46,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Rite Aid Facial Recognition Security Was Uncovered, Are You Prepared?"
+    excerpt: "This Reuters article delivers an in-depth review of how Rite Aid used facial recognition to detect repeat offenders, and probably"
+    publishedDateTime: 2020-08-03T19:46:00Z
+    webUrl: "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/"
+    ampWebUrl: "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/"
+    cdnAmpWebUrl: "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/"
+    type: article
+    provider:
+      name: PaymentsJournal
+      domain: paymentsjournal.com
+    quality: 74
+    images:
+      - url: "https://www.paymentsjournal.com/wp-content/uploads/2018/06/flat-3252983_1280.png"
+        width: 1280
+        height: 1066
+        isCached: true
   - title: "Reuters: Rite Aid Deployed China-Linked Facial Recognition in Poor Neighborhoods"
     excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country, a Reuters investigation found."
     publishedDateTime: 2020-07-30T13:01:00Z

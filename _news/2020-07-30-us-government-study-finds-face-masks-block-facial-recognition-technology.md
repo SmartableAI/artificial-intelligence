@@ -46,6 +46,22 @@ related:
         width: 831
         height: 545
         isCached: true
+  - title: "This Algorithm Might Make Facial Recognition Obsolete"
+    excerpt: "In 2020, it’s worth assuming that every status update and selfie you upload online can eventually make its way into the hands of an obscure data-mining third party, into the hands of national authorities,"
+    publishedDateTime: 2020-08-03T18:47:00Z
+    webUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686"
+    ampWebUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uj2hrvj4kqippfvphhht.png"
+        width: 800
+        height: 448
+        isCached: true
   - title: "New York Lawsuit Over School Facial Recognition Use Grows"
     excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
     publishedDateTime: 2020-07-30T19:07:00Z

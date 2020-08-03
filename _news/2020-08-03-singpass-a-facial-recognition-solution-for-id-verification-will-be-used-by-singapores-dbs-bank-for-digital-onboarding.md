@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-re
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore's Universal Studios Deploys Facial Recognition for Entry"
+    excerpt: "Annual and season ticket holders of Singapore's Universal Studios no longer need physical passes, while guests using day passes will still need tickets for entry but can then exit"
+    publishedDateTime: 2020-08-03T10:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Singapore’s Universal Studios deploys facial recognition for entry amid Covid-19 pandemic"
     excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
     publishedDateTime: 2020-08-03T13:08:00Z

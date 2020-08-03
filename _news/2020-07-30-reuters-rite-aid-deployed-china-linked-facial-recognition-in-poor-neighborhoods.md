@@ -56,6 +56,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Rite Aid Facial Recognition Security Was Uncovered, Are You Prepared?"
+    excerpt: "This Reuters article delivers an in-depth review of how Rite Aid used facial recognition to detect repeat offenders, and probably"
+    publishedDateTime: 2020-08-03T19:46:00Z
+    webUrl: "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/"
+    ampWebUrl: "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/"
+    cdnAmpWebUrl: "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/"
+    type: article
+    provider:
+      name: PaymentsJournal
+      domain: paymentsjournal.com
+    quality: 74
+    images:
+      - url: "https://www.paymentsjournal.com/wp-content/uploads/2018/06/flat-3252983_1280.png"
+        width: 1280
+        height: 1066
+        isCached: true
 
 secured: "rQU7W4Fx06g7eIJxi5IqG6u13kEzO1FZV3naT29N1bM2OUGZU/LR/LaD2pRTH7pxAofV0HPly/9vMoQcIuoUcH8KiCQ0os2NQmvmfX6GeMmGq4s7kDf9z6hX7f6ohcI+zGUIPyqSjwQp3yknRYE0bovXmFumBqlSuBPHpQeeiRvG0mg6/DTSmNroz0RKhVCKd56Tyx4ucMbhT8jSHFixEcxRpunevw69J7kNbQEM3c3Xwc51464xDw0mC5NwwhnR+J5hjBXqoJ8qiiWsCMx/xiuUKR/8m8PFg1uF48m/kvrEF3sW85oLivTIct1w2iRSU/7grIL6eUniNGHBluougw==;6zDz9lXPZBuFKORO1yiUVQ=="
 ---

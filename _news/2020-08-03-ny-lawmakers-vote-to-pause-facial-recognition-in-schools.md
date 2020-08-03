@@ -40,6 +40,22 @@ related:
         width: 831
         height: 545
         isCached: true
+  - title: "This Algorithm Might Make Facial Recognition Obsolete"
+    excerpt: "In 2020, it’s worth assuming that every status update and selfie you upload online can eventually make its way into the hands of an obscure data-mining third party, into the hands of national authorities,"
+    publishedDateTime: 2020-08-03T18:47:00Z
+    webUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686"
+    ampWebUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uj2hrvj4kqippfvphhht.png"
+        width: 800
+        height: 448
+        isCached: true
   - title: "US government study finds face masks block facial recognition technology"
     excerpt: "A new study from the National Institute of Standards and Technology (NIST) has tested how accurate commercial facial recognition algorithms are at identifying people wearing protective face masks. The study reveals some commercially used systems fail at authenticating masked faces up to 50"
     publishedDateTime: 2020-07-30T03:42:00Z

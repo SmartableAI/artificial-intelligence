@@ -40,6 +40,22 @@ related:
         width: 831
         height: 545
         isCached: true
+  - title: "This Algorithm Might Make Facial Recognition Obsolete"
+    excerpt: "In 2020, it’s worth assuming that every status update and selfie you upload online can eventually make its way into the hands of an obscure data-mining third party, into the hands of national authorities,"
+    publishedDateTime: 2020-08-03T18:47:00Z
+    webUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686"
+    ampWebUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uj2hrvj4kqippfvphhht.png"
+        width: 800
+        height: 448
+        isCached: true
   - title: "US government study finds face masks block facial recognition technology"
     excerpt: "A new study from the National Institute of Standards and Technology (NIST) has tested how accurate commercial facial recognition algorithms are at identifying people wearing protective face masks. The study reveals some commercially used systems fail at authenticating masked faces up to 50"
     publishedDateTime: 2020-07-30T03:42:00Z
@@ -142,6 +158,6 @@ related:
         height: 780
         isCached: true
 
-secured: "EU5/VCLtBY5P1ZC5j1fJhoNxm4cE1SoQeZ23f8YvkGadPg5VYf1SkJha6qe3MsxUyju41uwqo6Yh39Kp1rzf6WyHZWPlohrGI5nja4cy6yyS/gHOxHkM/0muAjZwTuS4rg34SaO6YpkyCBeV7R/A32jf0ZGxOYGJ6oz3PxHDDRia2pKUMAMtzzNq0bN9XnoKVTPK5FjasxUjkHpcvIBiot0D6XJm7NjGQo+s8U3K0tE1+4iKpHxV5iUqOBl/RiYFBD606bwrexUl7gcw7TBjAwl45S6qOAtZG5RN0TcHkoXKz9+gA8JSRyIE0rnr+O5BodLeQib9f5XeOmJUqWlu/w==;n76nW6Oz65kB1gWrtoESSw=="
+secured: "GGDyYhe0i4tpYUsdGrR4+RejfXWX/wQxg0xz2YMqaPP8WCS1p4M5wko0axtjJ4V6rGZIoMBAzjZL9r4xuF8onhY6tbKkQX07reQMmCcxMN2A4STHJKvI/DRjy3zgTnyS9OaZv5lpVevZjsPOF/ZCYtQIEZZRikIqth5OejBthRs4jMu8j1irDG+hSNVpnoHJwcGIywjLfwWyhJ5kHLHvvMqighBfOnNdFOu7V12C43z3VWfxknTxiXwxEk6jHEuZvX+8wg9qSHgmzUefM3G2UiDKZcKDPqGM3fFvcteIKZuylcQpXqEHubPgrj9I5aWysbO1L38VazOOIHOrrDdYBBbfeApLk2DJlXmVtoeuknlEA7GThvKC6/uyFZ2ls7s9V7INBjw54hiSq20R3B/ZnB+QYedMS01f7k99hxmypLbHI+/RIwQ7oXn4eNu5FwV3eLrH9nwIaz4NJCxbDODl5uZho4JJZn2tqOC9JfRS+xaazcA+oRveucQE5BA3HcHi;8fCf9ha4X85iCtBmTEX0XA=="
 ---
 

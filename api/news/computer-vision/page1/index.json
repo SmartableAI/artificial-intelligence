@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-03-singapores-universal-studios-deploys-facial-recognition-for-entry.md",
+      "title": "Singapore's Universal Studios Deploys Facial Recognition for Entry",
+      "excerpt": "Annual and season ticket holders of Singapore's Universal Studios no longer need physical passes, while guests using day passes will still need tickets for entry but can then exit",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp",
+      "publishedDateTime": "2020-08-03T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-this-tool-could-protect-your-photos-from-facial-recognition.md",
       "title": "This Tool Could Protect Your Photos From Facial Recognition",
       "excerpt": "Researchers at the University of Chicago want you to be able to post selfies without worrying that the next Clearview AI will use them to identify you.",
@@ -9,7 +50,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -56,7 +97,7 @@
       "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
       "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=cxrecs_join",
+      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 119,
@@ -74,7 +115,7 @@
       "type": "article",
       "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
-      "publishedDateTime": "2020-08-01T07:06:00-07:00",
+      "publishedDateTime": "2020-08-01T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -109,7 +150,7 @@
       "webUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -159,7 +200,7 @@
       "webUrl": "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 183,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1386,38 +1427,6 @@
       "provider": {
         "name": "The Conversation",
         "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation.md",
-      "title": "New Apple iPhone Patent Applications Surface: Object and Facial Recognition, Messaging, Voice Modulation",
-      "excerpt": "The patents cover object and facial recognition, messaging, and voice modulation. Object Recognition: One patent application, filed on June 17th, 2008, describes methods by which a mobile device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
-      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
-      "publishedDateTime": "2020-07-20T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
         "images": null,
         "publishers": null,
         "authors": null

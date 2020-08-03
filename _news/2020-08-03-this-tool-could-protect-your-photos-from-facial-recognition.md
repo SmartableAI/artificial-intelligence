@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-p
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "A new tool to protect yourself against facial recognition software"
+    excerpt: "A new research project from the University of Chicago Department of Computer Science provides a powerful new protection mechanism. Named Fawkes, the software tool “cloaks” photos to trick the deep learning computer models that power facial recognition,"
+    publishedDateTime: 2020-08-03T16:38:00Z
+    webUrl: "https://news.uchicago.edu/story/new-tool-protect-yourself-against-facial-recognition-software"
+    type: article
+    provider:
+      name: The University of Chicago Chronicle
+      domain: uchicago.edu
+    quality: 54
+    images:
+      - url: "https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2020-08/FacialRecogition.jpg?itok=QZDhbvoF"
+        width: 1380
+        height: 776
+        isCached: true
   - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
     excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
     publishedDateTime: 2020-08-03T10:25:00Z

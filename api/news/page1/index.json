@@ -447,6 +447,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-03-machine-learning-finds-a-surprising-early-galaxy.md",
+      "title": "Machine learning finds a surprising early galaxy",
+      "excerpt": "New results achieved by combining big data captured by the Subaru Telescope and the power of machine learning have discovered a galaxy with an extremely low 1.6% oxygen abundance, breaking the previous record of the lowest abundance.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-08-machine-early-galaxy.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/39-machinelearn.jpg",
+          "width": 2880,
+          "height": 1608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-08-machine-early-galaxy.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-machine-early-galaxy.amp",
+      "publishedDateTime": "2020-08-03T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-apple-faces-14b-suit-from-chinese-ai-company.md",
       "title": "Apple faces $1.4B suit from Chinese AI company",
       "excerpt": "An artificial-intelligence company recently awarded a Chinese patent for a voice assistant similar to Apple Inc.'s Siri has filed a patent",
@@ -492,6 +533,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-singapores-universal-studios-deploys-facial-recognition-for-entry.md",
+      "title": "Singapore's Universal Studios Deploys Facial Recognition for Entry",
+      "excerpt": "Annual and season ticket holders of Singapore's Universal Studios no longer need physical passes, while guests using day passes will still need tickets for entry but can then exit",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp",
+      "publishedDateTime": "2020-08-03T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -553,7 +635,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1023,6 +1105,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-01-facial-recognitions-next-big-play-the-sports-stadium.md",
+      "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
+      "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-213850/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "publishedDateTime": "2020-08-01T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-artificial-intelligence-in-healthcare-market-growth-rate-demands-status-and-application-forecast-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market Growth Rate, Demands, Status and Application Forecast To 2026",
       "excerpt": "The Artificial Intelligence in Healthcare market is expected to grow from USD X.X million in 2020 to USD X.X million by 2026, at a CAGR of X.X% during the forecast period. The glo",
@@ -1069,154 +1201,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-myth-busting-ai-wont-work.md",
-      "title": "Myth-busting AI won’t work",
-      "excerpt": "Myths, including myths about AI, arise in response to the unknown. Debunking myths about AI won’t create knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/myth-busting-ai-wont-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/01/79dd38d2-7072-4e11-a8b7-2755479c63c4/ai-hype-machine-july-2020.jpg",
-          "width": 4420,
-          "height": 3890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/myth-busting-ai-wont-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/myth-busting-ai-wont-work/",
-      "publishedDateTime": "2020-08-01T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-amazons-zoox-acquisition-is-lidar-next.md",
-      "title": "Amazon’s Zoox Acquisition– Is LiDAR Next?",
-      "excerpt": "Amazon and Apple have interests that go way beyond Autonomous Vehicles and have the resources to buy up large LiDAR companies or LUnicorns. They both have significant applications for LiDAR. The competition for good LiDAR companies will intensify over the next 6 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25a24796857cd70276d476%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D668%26cropY2%3D4606",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
-      "publishedDateTime": "2020-08-01T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
-      "excerpt": "Artificial intelligence (AI) is expected to add $15.7 trillion to the global economy by 2030, according to a study by PricewaterhouseCoopers. This huge figure consists of $6.6 trillion in increased productivity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F584910%2Fgettyimages-ai-text.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
-      "publishedDateTime": "2020-08-01T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -52,6 +52,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-03-machine-learning-finds-a-surprising-early-galaxy.md",
+      "title": "Machine learning finds a surprising early galaxy",
+      "excerpt": "New results achieved by combining big data captured by the Subaru Telescope and the power of machine learning have discovered a galaxy with an extremely low 1.6% oxygen abundance, breaking the previous record of the lowest abundance.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-08-machine-early-galaxy.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/39-machinelearn.jpg",
+          "width": 2880,
+          "height": 1608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-08-machine-early-galaxy.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-machine-early-galaxy.amp",
+      "publishedDateTime": "2020-08-03T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-02-how-to-name-your-baby-using-machine-learning.md",
       "title": "How to name your baby using machine learning",
       "excerpt": "When I was young, I always hated being named Dale. This is mostly because my primary image of what Dales looked like was shaped by Dale Gribble from King of the Hill, and also Dale Earnhardt Jr., the NASCAR driver.",
@@ -866,6 +907,57 @@
       ]
     },
     {
+      "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
+      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. SILICON SLOPES, Utah, Jul 27, 2020 (GLOBE NEWSWIRE via COMTEX) -- SILICON SLOPES, Utah, July 27, 2020 (GLOBE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-machine-learning-reveals-recipe-for-building-artificial-proteins.md",
       "title": "Machine learning reveals recipe for building artificial proteins",
       "excerpt": "Proteins are essential to the life of cells, carrying out complex tasks and catalyzing chemical reactions. Scientists and engineers have long sought to harness this power by designing artificial proteins that can perform new tasks,",
@@ -1338,79 +1430,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-the-autonomous-cars-big-challenge-using-the-hyperscale-server-fleet-to-train-ai-neural-networks.md",
-      "title": "The Autonomous Car’s Big Challenge: Using the Hyperscale Server Fleet to Train AI Neural Networks",
-      "excerpt": "The world knows that artificial intelligence (AI ... The training of the AI model is computationally intensive because neural networks need to use large data sets. The complexity of neural networks requires hyperscale hardware technology to accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/autonomous-cars-big-challenge-using-hyperscale-server-fleet-train-ai-neural",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms.md",
-      "title": "Using Artificial Intelligence/ Machine Learning to Detect Domain Generation Algorithms",
-      "excerpt": "We will also cover some unique and cutting-edge methods leveraging artificial intelligence/machine learning (AI/ML) to counter these threats and discuss how to handle false detections (both positive and negative).",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/cio/CIO_logo_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

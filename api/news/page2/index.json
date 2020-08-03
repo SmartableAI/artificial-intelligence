@@ -2,36 +2,36 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-08-01-facial-recognitions-next-big-play-the-sports-stadium.md",
-      "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
-      "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
+      "path": "_news/2020-08-01-myth-busting-ai-wont-work.md",
+      "title": "Myth-busting AI won’t work",
+      "excerpt": "Myths, including myths about AI, arise in response to the unknown. Debunking myths about AI won’t create knowledge.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=cxrecs_join",
+      "webUrl": "https://www.zdnet.com/article/myth-busting-ai-wont-work/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-213850/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/01/79dd38d2-7072-4e11-a8b7-2755479c63c4/ai-hype-machine-july-2020.jpg",
+          "width": 4420,
+          "height": 3890,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
-      "publishedDateTime": "2020-08-01T07:06:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/myth-busting-ai-wont-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/myth-busting-ai-wont-work/",
+      "publishedDateTime": "2020-08-01T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -47,7 +47,105 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-amazons-zoox-acquisition-is-lidar-next.md",
+      "title": "Amazon’s Zoox Acquisition– Is LiDAR Next?",
+      "excerpt": "Amazon and Apple have interests that go way beyond Autonomous Vehicles and have the resources to buy up large LiDAR companies or LUnicorns. They both have significant applications for LiDAR. The competition for good LiDAR companies will intensify over the next 6 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25a24796857cd70276d476%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D668%26cropY2%3D4606",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
+      "publishedDateTime": "2020-08-01T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
+      "excerpt": "Artificial intelligence (AI) is expected to add $15.7 trillion to the global economy by 2030, according to a study by PricewaterhouseCoopers. This huge figure consists of $6.6 trillion in increased productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F584910%2Fgettyimages-ai-text.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx",
+      "publishedDateTime": "2020-08-01T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -59,7 +157,7 @@
       "webUrl": "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -399,7 +497,7 @@
       "webUrl": "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 183,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1116,98 +1214,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-why-companies-need-their-own-ai-code-of-conduct.md",
-      "title": "Why Companies Need Their Own AI Code Of Conduct",
-      "excerpt": "If companies are smart, they will craft their AI Principles and Ethics position soon and be ready for the demands the market and their customers will expect from them in the age of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2306d76e417b23d437a002%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/",
-      "publishedDateTime": "2020-07-30T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-hillels-tech-corner-kaiai-flips-the-script-on-therapy.md",
-      "title": "Hillel's Tech Corner: Kai.ai flips the script on therapy",
-      "excerpt": "There is, however, some good news. When it comes to artificial intelligence and natural language processing (NLP), we may just have the technological capabilities to offer therapy to those in need using their regular messaging service like WhatsApp and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461466",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "publishedDateTime": "2020-07-30T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
