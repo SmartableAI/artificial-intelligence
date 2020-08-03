@@ -59,20 +59,6 @@ related:
         width: 760
         height: 368
         isCached: true
-  - title: "Cabify Teams Up with Nuance to Deploy Conversational AI that Supercharges Digital Experience for Riders and Drivers"
-    excerpt: "Cabify has leveraged Nuance’s expertise to deploy ‘ABI’, its own virtual assistant, to manage customer requests and questions in several languages – ensuring human agents"
-    publishedDateTime: 2020-07-29T11:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/63ff4d5e82a28b46a6957e5e1c72c0f8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "p//tfMQB7gbPe8EA+E8RthOQh0a7lxJ2lRq44Om2D2mijKNZOqIFbKz/adGxbBMc+rIAR/zwWCcJbYmPj3jidmERl/UOkrA5Aq79RPqk+JqhoWOE1WuYQhCLevAUMR3997x0yQZpWImlzV9ili2nllSBK9yVvdHusrLk4oEXFB/ZHFSwVPbeJR+VQTu3PPpesnIXstf4Sao26kPrm81LE+zsFymcx81jcxgpc8ljffS3UQVNAiIXQ+R+KvaYs+FiCtKbe4FX323tJKyHCKFBNLYvhR5KtzGaD++LW5rHNiy2dJHX2G3D40cIdJ9FloCl8OmduGZO+7VygFBELbEBYQ==;WzRtexQvwo77oauZ97tMJQ=="
 ---

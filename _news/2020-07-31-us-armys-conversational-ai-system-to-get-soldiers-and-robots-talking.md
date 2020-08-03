@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/July/darpasquadX.png"
         width: 760
         height: 368
-        isCached: true
-  - title: "Cabify Teams Up with Nuance to Deploy Conversational AI that Supercharges Digital Experience for Riders and Drivers"
-    excerpt: "Cabify has leveraged Nuance’s expertise to deploy ‘ABI’, its own virtual assistant, to manage customer requests and questions in several languages – ensuring human agents"
-    publishedDateTime: 2020-07-29T11:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/63ff4d5e82a28b46a6957e5e1c72c0f8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Oqt5LR3tUpUL/6Y3JbKJWG49LLnTfzVUGL1AhadV0K61tOd7N1lVFJb8Zi6/YE16tOEUm6asec0xdLW/2uXG7auRqtmG5/oYX19srdY5RImRRcawljXF5SUrUpyZOisbnVSkvPC+PDLevKe11EwhDvcqhQp4XtLO6mpvkBGci4ZZUhVtnHHkbeJc5oLQXzLiXLElx7JU+BG7KtafwrY6xc8/n0SAS33g7K4NKGh0D5TJi0F4QXQeoJ8r1ZcEZRl063tU7KmJCCqxga5kKJoYcAjiIRrq9y1lMCGbzfCAzFUEYOEu2KTeIhKubeuXp5Cuy+lF+/ahp9Z9T/AVmQuxXQ==;zgssm5gW7qMyIhxmGJsggg=="

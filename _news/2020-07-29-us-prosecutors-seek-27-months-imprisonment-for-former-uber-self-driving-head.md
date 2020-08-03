@@ -35,36 +35,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 43
-  - title: "Prosecutors seek 27 months for Uber’s former self-driving head over stolen trade secrets"
-    excerpt: "The case stemmed from accusations by Google and its sister company Waymo that Uber jump-started its own self-driving car development with trade secrets and staff that Anthony Levandowski unlawfully to"
-    publishedDateTime: 2020-07-29T10:45:00Z
-    webUrl: "https://www.theglobeandmail.com/business/international-business/us-business/article-prosecutors-seek-27-months-for-ubers-former-self-driving-head-over/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/international-business/us-business/article-prosecutors-seek-27-months-for-ubers-former-self-driving-head-over/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/international-business/us-business/article-prosecutors-seek-27-months-for-ubers-former-self-driving-head-over/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 35
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/qAWpBS8-BRSG_b7OEdTIq-l0iD4=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/F3MHI2EUKRPQLMQOUP5BGGYN6M.JPG"
-        width: 760
-        height: 499
-        isCached: true
-  - title: "Prosecutors seek more than 2 years in prison for ex-Uber self-driving head"
-    excerpt: "U.S. prosecutors say Anthony Levandowski should spend 27 months in prison. The autonomous-driving engineer argues that at the height of the coronavirus, that could be a “death sentence.” Ahead of Levandowski’s sentencing next week,"
-    publishedDateTime: 2020-07-29T10:45:00Z
-    webUrl: "https://www.autonews.com/mobility-report/prosecutors-seek-more-2-years-prison-ex-uber-self-driving-head"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 22
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Levandowski-MAIN_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "g4Ult7OtvyNEMVjRUmFQ1aR/YT3SMU+f6VBam+C5YTdaO33K6QDy2lX7OYxCRiyIfSFwvDWpzLupvCGMMK7eaEf/ZtBy/Ad4+47A9iZogXVAkgq29sXLi15Vbo4LGsWXT+UUYL+ycGZuqo5rFJOGQb69cwtE+sPmAa7fNXsc0iL9AQsGd68QoV9hZR4l5yClpC7Oc848tlCI+gMmO+gUqt9CteMISnFMKT4BIZDCq4Zsm7cEhsI+H4J3IbVHrBj/nruAMhh5sXuaUCsihskJAt9QNeIQsKzJVv9iOC8hM+EtbOWnKQrlsnFobD62Pjvc8pcY2ygwOX2EQlhjDkhSzjJQceetaeQrNtOqNosT8Dk/uCn3rvdIlxbkRcz8x5yWj7CK9yoixNMPUSjUAkTo8DNDOSwlJ0U88cD8YsgXw9PYWsaHlCZPI/1tDkuzpT5oAcbTGakMg+kv9yhL6Rt7GcLld81Ks38skIb6yKrKLrkJKbSSI1gmoKGWyr9mNPn2/dKFfJUMMHGZDaaht8K2/A==;m6FW3r6P2E54+5tMVZEXdw=="
 ---
