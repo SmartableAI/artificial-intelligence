@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "UK fintech Paymentology announces new partnership with Finartix"
-    excerpt: "UK fintech Paymentology announces partnership with Finartex Fintech Solutions SA to bring data powered and scalable issuing payments solutions to financial inst"
-    publishedDateTime: 2020-07-29T06:56:00Z
-    webUrl: "https://londonlovesbusiness.com/uk-fintech-paymentology-announces-new-partnership-with-finartix/"
-    type: article
-    provider:
-      name: londonlovesbusiness.com
-      domain: londonlovesbusiness.com
-    quality: 24
-    images:
-      - url: "https://londonlovesbusiness.com/wp-content/uploads/converted_files/web/b/i/x/Card-payment.jpg"
-        width: 640
-        height: 426
-        isCached: true
 
 secured: "+mIVb3/53jtyjY4Cd5Bo5AnKOwfOgutDOiglByvhHJqF4Dm+awoJ773LvjQkeFI+osrfRVSlMInElw5PxFRsSZ68BBYq1w4+Y/NmcKLJ9Mg4YEQKG02uCLSZZPyfZZxX6N+01xPKg2lUVzh4yFvHMn7NXLXYv0GdSNbcagueoqMp0UOCRHJfJ1II5hi8ww135K4rZT0iYTE3xOjwinbzHWGVKw7P3j4MTLIVpXeambmZpfqKPzSZVUku0SmrJGw1BjPg/JI4t4hC16O+XZLIZIC1oZvp0Q7tKN6Jqv74KEU8f+oMjww/y5PyHDopxnNG1bX/Y5eDohbBEnG0NTvczg==;m5h2rvtTalU5kKllQHfidA=="
 ---

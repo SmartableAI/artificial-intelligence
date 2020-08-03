@@ -3,9 +3,9 @@ category: news
 title: "Facial recognition, thermal imaging part of future with coronavirus"
 excerpt: "The coronavirus pandemic has inspired a new wave of technology closely tied to Ohio businesses, including thermal imaging and facial recognition software"
 publishedDateTime: 2020-07-30T16:50:00Z
-webUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus"
-ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus?template=ampart"
+webUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus"
+ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
+cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
 type: article
 quality: 59
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 405
         isCached: true
 
-secured: "4wSBGs/tYWrNK7jMVoB8bPvHAuCqs33ZqABfQM36U+zt5bKDyKNfhr0iW0N5mvNS4gFtsq5GYyPCBJUTyAZnXyUfPUXsfiaKwT8ZqvbTPZ4HEidi9yfcExQX+Z91hgypaSahfz+nQEZUs6e++u2Gt27ZTtl+IjDenoDqwhvOy6Jt19l5Pa2GU2Diuj+kxDe76i6eUWjqc1fEDpU9rpok5mTrvb6bDbpiBGGQB8c9ZL+K6UpoOfwVcX5OQy4+qBdYclVaaFNnZlq/seIm0wBHmv9kjyP2bhsggtH7vYiko6azqI6y20QRyjK6w4vQ2tp4rVP3RbkfJF1N37GGDBP/nw==;zBhyKVSMW+9FLA9+1ssJsw=="
+secured: "9QqGmDCRLrKEC9+jIFRwftDrpohS4IU2a0i6/XYPIREgscQ+fDdHev34hNTGfH/xWvtibG1uA0odYyYDFGtTVgMRbUsYoNfE6atHLc/RuRPVGo5uEOI82rwFgWfebsjh46gTmMCb6ldls7nRrrdLpgpxH+gifANxMkIbONDk7o0gJxkFcbk4FJ6Yfy9MS4plvf6DXnzct6PLUcdTZXKVs9J3BimAbFB4ZYLk/7XdUpvaqrd07KeVOUjmJmVNZMWHPYPsXF2QOgpiI+wOs3gBruduRPsVVeOqWlfdP0BNLEElfby1CU1I6sBueJI8kTtk94MSAqhiojrns7lc4uwvjw==;+U4IKIWOIxTFc64CvLtHHA=="
 ---
 

@@ -48,7 +48,7 @@ related:
   - title: "Conversational AI eases soldier-robot teaming"
     excerpt: "The Army Research Laboratory is working on bi-directional conversational technology that will make it easier for soldiers to team with autonomous systems."
     publishedDateTime: 2020-07-29T21:02:00Z
-    webUrl: "https://gcn.com/articles/2020/07/29/conversational-ai-robots-soldiers.aspx?admgarea=TC_EmergingTech"
+    webUrl: "https://gcn.com/articles/2020/07/29/conversational-ai-robots-soldiers.aspx"
     type: article
     provider:
       name: GCN

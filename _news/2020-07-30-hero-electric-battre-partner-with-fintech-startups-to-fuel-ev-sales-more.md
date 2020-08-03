@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK fintech Paymentology announces new partnership with Finartix"
-    excerpt: "UK fintech Paymentology announces partnership with Finartex Fintech Solutions SA to bring data powered and scalable issuing payments solutions to financial inst"
-    publishedDateTime: 2020-07-29T06:56:00Z
-    webUrl: "https://londonlovesbusiness.com/uk-fintech-paymentology-announces-new-partnership-with-finartix/"
-    type: article
-    provider:
-      name: londonlovesbusiness.com
-      domain: londonlovesbusiness.com
-    quality: 24
-    images:
-      - url: "https://londonlovesbusiness.com/wp-content/uploads/converted_files/web/b/i/x/Card-payment.jpg"
-        width: 640
-        height: 426
-        isCached: true
   - title: "Electric Vehicles This Week: Hero Electric, BattRE Partner With Fintech Startups To Fuel EV Sales & More"
     excerpt: "For instance, Hero Electric recently announced its collaboration with fintech startup Autovert Technologies ... EV startup BattRE also announced its partnership with AI-driven EMI financing ..."
     publishedDateTime: 2020-07-31T00:22:00Z
