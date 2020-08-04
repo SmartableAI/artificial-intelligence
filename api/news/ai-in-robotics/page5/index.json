@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday.md",
+      "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
+      "excerpt": "Boston Dynamics will start selling Spot with a robot arm to businesses interested in mobile manipulation in a few months, and eventually for home use.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/spot-robot-arm-home.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
+      "publishedDateTime": "2020-06-25T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-real-ai-robot-cast-in-lead-role-of-sci-fi-movie.md",
       "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
       "excerpt": "A new sci-fi movie is set to become the first-ever film to rely on an artificial intelligence robot named Erica.",

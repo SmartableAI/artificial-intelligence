@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/growth-opportunities-in
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/growth-opportunities-in-the-uk-data-center-market-to-2025-increasing-investments-in-ai-iot-and-5g-drive-revenue-of-server-segment-1029452229"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,21 +24,19 @@ topics:
   - AI
 
 related:
-  - title: "Aerospace Robotics Market (2020-2026) | What Recent Study Say About Top Companies | Industry Growth Insights"
-    excerpt: "artificial intelligence, and cloud computing is expected to present numerous opportunities to the global aerospace robotics industry. The Objective of the “Global Aerospace Robotics Market” report is to depict the trends and upcoming for the Data ..."
-    publishedDateTime: 2020-07-30T14:28:00Z
-    webUrl: "https://www.openpr.com/news/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say"
-    ampWebUrl: "https://www.openpr.com/amp/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2099980/aerospace-robotics-market-2020-2026-what-recent-study-say"
+  - title: "Tapping into the Power of AI to Drive Better B2B Event Marketing"
+    excerpt: "Predictive Audiences, a new AI-powered audience segmentation and targeting capability within Marketo Engage, helps B2B marketers transform how they engage."
+    publishedDateTime: 2020-08-03T17:47:00Z
+    webUrl: "https://theblog.adobe.com/tapping-into-the-power-of-ai-to-drive-better-b2b-event-marketing/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
+      name: Adobe Systems
+      domain: adobe.com
+    quality: 37
     images:
-      - url: "https://cdn.openpr.com/T/7/T730328623_g.jpg"
-        width: 500
-        height: 300
+      - url: "https://theblogimages.adobe.com/wp-content/uploads/2020/07/AdobeStock_334034588-e1595971714200.jpeg"
+        width: 2000
+        height: 875
         isCached: true
 
 secured: "3R1u/fOfTabSPZ5h28gdILNGGc1fittzuZZ6TDVwmvQehT3t+xRBVCPvE5+QqtNEZU8oPDoQeoNeNKk8VJyV0/WaYIXR9S5bNVoNn17MmaA3VWCxMfbh9Ttuo56HMuK00pLO9NBeSFeadBixQFRv0DxosSqGWyXWDRErlVL3CwdY0qAD6bU5+VomITlHKWy2urOHu3sHKqtGnKqrfRrqTq8KhzYzgDwH1/mFhS8y2/UPhyCm/aN9NeixgZMBXJhAYGCjD62oTh56z61clnZkWaLfXOpbpQHz1lCbBO05P0BhmP0oCfXHYktZerwky4vamHkQZFCr0ptt+/PasL0Xlg==;+A2o510NRHmPQ+uae6K+xA=="

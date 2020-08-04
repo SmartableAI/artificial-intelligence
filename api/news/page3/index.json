@@ -2,6 +2,55 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-31-this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic.md",
+      "title": "This CTO Says AI Technology Is Transforming The Pharmacy Industry In Time To Battle The Pandemic",
+      "excerpt": "AI technology can help pharmacists improve the speed and efficiency of manually intensive tasks – verifying medication, counting pills and maintaining adequate staff and inventory – while ensuring patient safety and adherence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f22d7618bde96bcd21f8127%2F0x0.jpg",
+          "width": 960,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
+      "publishedDateTime": "2020-07-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-three-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange.md",
       "title": "Three AI companies join a business development group built by the London Stock Exchange",
       "excerpt": "The cohort will get help refining their investment pitches as well as access to the group's network of institutional investors.",
@@ -207,7 +256,7 @@
       "webUrl": "https://medicalxpress.com/news/2020-07-local-covid-ai.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -236,6 +285,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-nvidias-a100-tensor-core-ampere-gpu-just-set-over-a-dozen-ai-benchmark-records.md",
+      "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set Over A Dozen AI Benchmark Records",
+      "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52376/content/Nvidia_A100.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "publishedDateTime": "2020-07-30T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1112,105 +1202,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-ai-new-gpt-3-language-model-takes-nlp-to-new-heights.md",
-      "title": "AI: New GPT-3 language model takes NLP to new heights",
-      "excerpt": "Natural language processing is still being refined, but its popularity continues to rise. This new, better version is likely to help. When you speak to a computer, whether on the phone, in a chat box, or in your living room, and it understands you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/29/e26a5604-2628-4342-9e40-b3a62abeea95/resize/1200x/d908f035ae0c61b5d332a9d65b9493e4/istock-1055662774.jpg",
-          "width": 1200,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/",
-      "publishedDateTime": "2020-07-30T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-ai-is-all-the-rage-so-why-arent-more-businesses-using-it.md",
-      "title": "AI Is All the Rage. So Why Aren’t More Businesses Using It?",
-      "excerpt": "A big study by the US Census Bureau finds that only about 9 percent of firms employ tools like machine learning or voice recognition—for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f20b5f959ee66a80b965c8d/master/pass/ai-in-business.png",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-why-not-more-businesses-use/amp",
-      "publishedDateTime": "2020-07-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

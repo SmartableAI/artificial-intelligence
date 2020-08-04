@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-04-get-over-50-hours-of-training-in-machine-learning-for-under-30.md",
+      "title": "Get over 50 hours of training in machine learning for under £30",
+      "excerpt": "TL;DR: The Machine Learning Master Class bundle is on sale for £29.85 as of August 4, saving you 91% on list price. Thanks to developing artificial intelligence technologies, computer are smarter ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F08%252F04%252Fa2%252F9d02595b494441d2bb4dc704f8ce4b85.1f5fc.jpg%252F1200x630.jpg?signature=Sptw61vujsHeWR7oaA4xnp6uvgw=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp",
+      "publishedDateTime": "2020-08-03T22:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-02-elon-musks-answer-to-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-to-humans.md",
       "title": "Elon Musk's Answer to Google's DeepMind? Neuralink Brain Chip Hears Sounds Previously Impossible to Humans",
       "excerpt": "Among several other mindboggling features, the Neuralink neuroprosthetics could also help to regulate hormones, reduce anxiety, restore motor functions and overcome AI",
@@ -1358,56 +1400,6 @@
       "ampWebUrl": "https://blog.google/technology/ai/update-work-ai-responsible-innovation/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/update-work-ai-responsible-innovation/amp/",
       "publishedDateTime": "2020-07-09T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ask-a-techspert-how-do-machine-learning-models-explain-themselves.md",
-      "title": "Ask a Techspert: How do machine learning models explain themselves?",
-      "excerpt": "Editor’s Note: Do you ever feel like a fish out of water? Try being a tech novice and talking to an engineer at a place like Google. Ask a Techspert is a series on the Keyword asking Googler experts to explain complicated technology for the rest of us. This isn’t meant to be comprehensive, but just enough",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/-_ky4crC.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "publishedDateTime": "2020-07-09T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

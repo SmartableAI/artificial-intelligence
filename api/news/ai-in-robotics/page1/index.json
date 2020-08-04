@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-04-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
+      "title": "Nokia to set up robotics lab at Indian Institute of Science",
+      "excerpt": "The CoE will promote research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop socially relevant use cases across areas like emergency management, agriculture and industrial automation. The centre will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/article32265976.ece",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/evdls6/article32265975.ece/ALTERNATES/LANDSCAPE_615/BLNOKIA1",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/article32265976.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/article32265976.ece/amp/",
+      "publishedDateTime": "2020-08-04T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid.md",
       "title": "Railways go hi-tech; use Artificial Intelligence, robotics to fight COVID",
       "excerpt": "Robots deployed at railway stations to scan passengers and for surveillance; hospitals also use them to talk to COVID-19 patients",
@@ -1268,57 +1309,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors.md",
-      "title": "Enabling humanoid robot movement with imitation learning and mimicking of animal behaviors",
-      "excerpt": "Humanoid robots have not stood up to the expectation set forth by Rosie from The Jetsons in the 1960s, but they’re finally becoming good enough to come to market.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135729958.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
-      "publishedDateTime": "2020-07-19T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

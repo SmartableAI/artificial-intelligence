@@ -2,6 +2,97 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-30-hillels-tech-corner-kaiai-flips-the-script-on-therapy.md",
+      "title": "Hillel's Tech Corner: Kai.ai flips the script on therapy",
+      "excerpt": "There is, however, some good news. When it comes to artificial intelligence and natural language processing (NLP), we may just have the technological capabilities to offer therapy to those in need using their regular messaging service like WhatsApp and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461466",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
+      "publishedDateTime": "2020-07-30T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites.md",
+      "title": "AI-powered tool aims to help reduce bias and racially charged language on websites",
+      "excerpt": "Website accessibility tech provider UserWay has released an AI-powered tool designed to help organizations ensure their websites are free from discriminatory, biased, and racially charged language. The tool, Content Moderator, flags content for review ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/09/b6ab847a-647d-4dd3-8830-b9a2e978c6c2/resize/1200x/cacbd035a68bdef28ec6012ef91f3936/cloud-security-tr.jpg",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
+      "publishedDateTime": "2020-07-30T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world.md",
       "title": "Foresight’s AI-powered wearable helps low-vision users feel the world",
       "excerpt": "Using a custom version of the computer vision AI system YOLO, Foresight detects, classifies, and estimates the movement of objects surrounding the user, then uses the actuators to apply more or ...",
@@ -1325,107 +1416,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-leverage-ai-to-optimize-customer-service-outcomes.md",
-      "title": "Leverage AI to optimize customer service outcomes",
-      "excerpt": "With a more hands-on approach to AI — that is, using the technology to actually augment everyday communications — workers can gain insight into concepts, workflows and ideas that would otherwise go unnoticed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1147156422.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
-      "publishedDateTime": "2020-07-29T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
-      "title": "NVIDIA AI Runs The Mlperf Table Again",
-      "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/29/nvidia-ai-runs-the-mlperf-table-again/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21b4a80cd05964d6fae2b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing",
-        "Google AI"
       ]
     }
   ],

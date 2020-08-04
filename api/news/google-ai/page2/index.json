@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-09-ask-a-techspert-how-do-machine-learning-models-explain-themselves.md",
+      "title": "Ask a Techspert: How do machine learning models explain themselves?",
+      "excerpt": "Editor’s Note: Do you ever feel like a fish out of water? Try being a tech novice and talking to an engineer at a place like Google. Ask a Techspert is a series on the Keyword asking Googler experts to explain complicated technology for the rest of us. This isn’t meant to be comprehensive, but just enough",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/-_ky4crC.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
+      "publishedDateTime": "2020-07-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-break-into-artificial-intelligence-with-this-four-course-online-training-for-35.md",
       "title": "Break into artificial intelligence with this four-course online training for $35",
       "excerpt": "Finally, there's the top-rated Tensorflow course, which will teach you how to bring all of this new knowledge together in order to create AI solutions to everyday problems, how to maintain and develop your own neural networks, and more. You don't need to ...",
@@ -1282,56 +1332,6 @@
         "AI",
         "AI Ethics",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-why-ai-is-the-future-of-remote-security-monitoring.md",
-      "title": "Why AI Is The Future Of Remote Security Monitoring",
-      "excerpt": "The computer scientists and data modeling experts who created the popular machine learning framework TensorFlow have found that convolutional neural network-based models are the most effective at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eefc5f6db254b0006295634%2F0x0.jpg",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/amp/",
-      "publishedDateTime": "2020-06-21T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-01-facial-recognitions-next-big-play-the-sports-stadium.md",
+      "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
+      "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-213850/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "publishedDateTime": "2020-08-01T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-myth-busting-ai-wont-work.md",
       "title": "Myth-busting AI won’t work",
       "excerpt": "Myths, including myths about AI, arise in response to the unknown. Debunking myths about AI won’t create knowledge.",
@@ -1133,7 +1183,7 @@
       "webUrl": "https://medicalxpress.com/news/2020-07-local-covid-ai.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1162,6 +1212,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-nvidias-a100-tensor-core-ampere-gpu-just-set-over-a-dozen-ai-benchmark-records.md",
+      "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set Over A Dozen AI Benchmark Records",
+      "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52376/content/Nvidia_A100.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "publishedDateTime": "2020-07-30T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1362,97 +1453,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-hillels-tech-corner-kaiai-flips-the-script-on-therapy.md",
-      "title": "Hillel's Tech Corner: Kai.ai flips the script on therapy",
-      "excerpt": "There is, however, some good news. When it comes to artificial intelligence and natural language processing (NLP), we may just have the technological capabilities to offer therapy to those in need using their regular messaging service like WhatsApp and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461466",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "publishedDateTime": "2020-07-30T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites.md",
-      "title": "AI-powered tool aims to help reduce bias and racially charged language on websites",
-      "excerpt": "Website accessibility tech provider UserWay has released an AI-powered tool designed to help organizations ensure their websites are free from discriminatory, biased, and racially charged language. The tool, Content Moderator, flags content for review ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/09/b6ab847a-647d-4dd3-8830-b9a2e978c6c2/resize/1200x/cacbd035a68bdef28ec6012ef91f3936/cloud-security-tr.jpg",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
-      "publishedDateTime": "2020-07-30T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

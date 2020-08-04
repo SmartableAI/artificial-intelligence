@@ -55,20 +55,6 @@ related:
         width: 1000
         height: 653
         isCached: true
-  - title: "Local startup develops AI platform for predicting COVID-19 trends"
-    excerpt: "One-year-old technology startup Decode Health has developed a predictive artificial intelligence platform that identifies emerging trends in the COVID-19 outbreak, providing governments and other organizations early insights to where resources need to be ..."
-    publishedDateTime: 2020-07-30T13:11:00Z
-    webUrl: "https://www.nashvillepost.com/business/health-care/article/21141766/local-startup-develops-ai-platform-for-predicting-covid19-trends"
-    type: article
-    provider:
-      name: Nashville Post
-      domain: nashvillepost.com
-    quality: 37
-    images:
-      - url: "https://cdn.nashvillepost.com/files/base/scomm/nvp/image/2020/07/640w/ChaseSpurlock_square.5f22c1f334d6c.jpg"
-        width: 640
-        height: 640
-        isCached: true
 
 secured: "zvqhSFUdKQUBEsKI3qq2owetT0Z4AiEpbJeIo7HLZrxdFWvh8FD6BCSQWIt+HCm1axz61hpoHH8smgfNzcMEAYNnKd3/YklmMHPfOMQD2Yx7S6ApokrM3ngRd4DPUFlP8PGnArysckn/xMdzjBQdgVsV6aS10hePM8ZjA9H5DTIZ9fqLFP4I2dyC/5SaYchGW7dCYO8sc3uxUVRfNjyW2ZGBIhHp/HU60XTirOtJkdnmj3ja9i9NJUKNN5TW5vLH1lV9Tf3f2xxqjxK9AraYLvRchDFy8EAdgzar+Io1xm/tUPEsw3zhUnDdipRPjUZhyew6xBCrDe1W8SneycfUGcoImFs5Z5ad9hBGLJY15NitoHw6JBTxh+EHRnlRtOoGjhwlTKdFCxmfdK1KxsrHGHTUzz8D/xzoz6pdOpeYGYRpECptCTFs72sYEClnMUbv6cRLZXIZjbaqBwDVh0qewalMBncHi7sLxd9A0CXEzXAy/ghslaES27WDZ92/CVjzhViIyZLB4yWdgO0e2Yde+Q==;9X2WHH+Ijh8oTIfrpoPz2A=="
 ---

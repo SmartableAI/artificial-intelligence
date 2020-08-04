@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-07-local-covid-ai.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-local-covid-ai.amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://www.news.ucsb.edu/sites/default/files/images/2020/coronavirus-US-uc-santa-barbara_0.jpg"
         width: 1000
         height: 653
-        isCached: true
-  - title: "Local startup develops AI platform for predicting COVID-19 trends"
-    excerpt: "One-year-old technology startup Decode Health has developed a predictive artificial intelligence platform that identifies emerging trends in the COVID-19 outbreak, providing governments and other organizations early insights to where resources need to be ..."
-    publishedDateTime: 2020-07-30T13:11:00Z
-    webUrl: "https://www.nashvillepost.com/business/health-care/article/21141766/local-startup-develops-ai-platform-for-predicting-covid19-trends"
-    type: article
-    provider:
-      name: Nashville Post
-      domain: nashvillepost.com
-    quality: 37
-    images:
-      - url: "https://cdn.nashvillepost.com/files/base/scomm/nvp/image/2020/07/640w/ChaseSpurlock_square.5f22c1f334d6c.jpg"
-        width: 640
-        height: 640
         isCached: true
 
 secured: "Bm77ORv6AnomehiRfkrMaFqi9MSpDdje4KdCgIPWUOLG/aqLAS6ApQeAEkbY8p0Rm+s3/ixvf6TEdG18xwDKM2W4tnmIsIkvft1D1sUR9YoR5zxjU1zR21GKa3eR4QwIttSZYqTa/vzI73KhQz9sN1HfofweArYKHLEh40UalDGyFlyTmqs15PJPV77SzUVoPr51RU/uKMyFnXLfp5eEi0426ys/cyCpu1U68Y23VvgnjumwEfUBJRex6IdI0uTd6rzarw6dW+BHkPUKnT805INOFXVEUFc8Xg6MIGSJFOvyBveXY7WRTM9Yef/0KyGmSbSWzjsss6CbY/y/KJRmecmsLnAeTDdSTatX5fN/oOCTSr3wX+DFa4syp/idM0tys0lgJXhVbLf99w4yvRiJaTtFvycTWXGvcPqplNTDGwlTOMoVrrYxYDFEG6t4oGY34ZFjxfO2GB9IzKOa6OopvkIOSl/w2hq2GU7Sl+0+oNiYU5B+CyA3LyA0u1wOILtaV4U2oEUhLMKVsXaGTNY91Q==;2YTHRFVB+YoJiDBQNRWOkQ=="

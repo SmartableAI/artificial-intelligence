@@ -32,17 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "'Not a black-and-white issue:' Legal, business implications of facial recognition tech"
-    excerpt: "Age: 36 Residence: Melrose Education: B.A. in government from Colby College (2006) and a J.D. from the University of Virginia School of Law (2011) Facial recognition technology has become controversial in Massachusetts, as a handful of local municipalities ..."
-    publishedDateTime: 2020-07-30T14:15:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/07/30/troy-lieberman-q-a.html"
-    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/07/30/troy-lieberman-q-a.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/07/30/troy-lieberman-q-a.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
   - title: "OPTEC Launches Safe-Scan Contactless Infrared Temperature Scanners with Facial Recognition and Mask Compliance Features"
     excerpt: "CARLSBAD, CA / ACCESSWIRE / August 3, 2020 / OPTEC International, Inc (OTC PINK:OPTI) Today announced the launch of the company’s new “Safe-Scan” stand-alone infrared temperature scanning technology for use in complying with CDC standards for assisting the reopening of Schools,"
     publishedDateTime: 2020-08-03T12:45:00Z

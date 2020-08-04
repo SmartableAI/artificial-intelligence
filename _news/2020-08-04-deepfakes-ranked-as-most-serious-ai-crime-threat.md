@@ -2,27 +2,28 @@
 category: news
 title: "'Deepfakes' ranked as most serious AI crime threat"
 excerpt: "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report."
-publishedDateTime: 2020-08-04T02:44:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php"
+publishedDateTime: 2020-08-04T07:16:00Z
+webUrl: "https://phys.org/news/2020-08-deepfakes-ai-crime-threat.html"
+ampWebUrl: "https://phys.org/news/2020-08-deepfakes-ai-crime-threat.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-deepfakes-ai-crime-threat.amp"
 type: article
-quality: 39
-heat: 39
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
-  - AI in Autos
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-cybercrime.jpg"
+    width: 1920
+    height: 720
     isCached: true
 
-secured: "KdMruEA/V8ZHm7J5n6uacxjFjHZQrCl6da8S1JeriqYjcvpvhkWXhBzmgytn2WP9glRDGm2bAHI076aUiUf4p6VGtz+pZFssUXuu61tRndMBESKycRetB4cTK+2y/fqhtdpj5dwouYsGJ51l9X2fO2tr4QcroNhbCs3KdM+GTPMY1mVQJFcx9LeGMC7v9/v5Z3c+d5Pd4jGOktmbwChOdjMm91+/QVyDbZRVRr5PQHgtXTRXowJo33zKMRGvZFjBO3AT/Xehv0MWQt2nU+9tUlf1VqUizZTrKyA0rHOjZldYg/PNtQgPS+8Yvd5z5xRmf4GeqxQq0nrsZwHSi3H5lZiTyxEI/JtL+RzdUP9dEDt7OINiJMcirpR0LR0oM0WMWsTSrRqWxn+VIQmH6IdmCMCfto/w8ZOmFfVFAv2M6ehGO1Ijrty1hr6vahxQQ2clvbcXJ09bdE/W4A7mJdlXoMeULprvbk0fho1mq0KFcMglLxGrLvfFcSSrysUROWKBSdenYcDtoTEtWJscD212Lw==;f2rPMG/6WazbDFlCrxHF1Q=="
+secured: "BbjffjfJg5v0tT5zGLzh6Q+RQfzBZf26id/sghQUkff+TGQ1RaN+9ZJaYlVHuHk0WjperXN4APP9pDfAi51O0vdDSyt3bYHKfwcDh7z9UFb/37IbzPrzyiHfffLejp+TFWRRDG6ZqoXb99e8kleY/u1EFl0XySYBiHruSonaYmlWbyjEg5WJ4xrvJxOJslirv7mxJDgmlX8v0kB9ZJGuwqCmNOY+crsHMSjit4yj5nj+5xeySgQEPx3WtBdF3NQfHmB/CaosolBmZgIM3LXPGrVp6CiBwjOiGZCTCwKi9owK+oepZF0uWfTvhkPtnzQ5jbPVekNO6BtaEH8bYwoOBw==;6v9jjKGKCi6n7T+XPLXZ/w=="
 ---
 

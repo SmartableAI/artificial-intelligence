@@ -7,8 +7,8 @@ webUrl: "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/"
 ampWebUrl: "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://mondrian.mashable.com/2020%252F08%252F04%252Fa2%252F9d02595b494441d2bb4dc704f8ce4b85.1f5fc.jpg%252F1200x630.jpg?signature=Sptw61vujsHeWR7oaA4xnp6uvgw="

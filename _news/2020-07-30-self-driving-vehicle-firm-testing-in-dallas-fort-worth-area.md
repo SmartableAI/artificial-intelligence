@@ -8,7 +8,7 @@ ampWebUrl: "https://fortworthbusiness.com/technology/self-driving-vehicle-firm-t
 cdnAmpWebUrl: "https://fortworthbusiness-com.cdn.ampproject.org/c/s/fortworthbusiness.com/technology/self-driving-vehicle-firm-testing-in-dallas-fort-worth-area/?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "The First Fatal Crash In A Self-Driving Car Has Happened; NHTSA Investigating Tesla"
-    excerpt: "One person died in a May crash in Florida involving a Tesla Model S cruising on its semi-autonomous Autopilot mode, as Tesla has officially confirmed. NHTSA is currently investigating the wreck ..."
-    publishedDateTime: 2020-07-30T14:11:00Z
-    webUrl: "https://jalopnik.com/first-fatal-tesla-autopilot-crash-sparks-nhtsa-investig-1782916450"
-    ampWebUrl: "https://jalopnik.com/first-fatal-tesla-autopilot-crash-sparks-nhtsa-investig-1782916450/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/first-fatal-tesla-autopilot-crash-sparks-nhtsa-investig-1782916450/amp"
+  - title: "LiDARs for self-driving vehicles: a technological arms race"
+    excerpt: "It’s also highly suitable for 3D mapping, which means returning vehicles can then navigate the environment predictably —a significant benefit for most self-driving technologies. One of the key strengths of LiDAR is the number of areas that show potential for improvement."
+    publishedDateTime: 2020-08-03T08:47:00Z
+    webUrl: "https://www.automotiveworld.com/articles/lidars-for-self-driving-vehicles-a-technological-arms-race/"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 53
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 24
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fgdrtqmnqtf5k8y5whus.jpg"
-        width: 800
-        height: 362
+      - url: "https://1bgnvt3q09toyb96v2ecsygm-wpengine.netdna-ssl.com/wp-content/themes/jannah/assets/images/tie-empty.png"
+        width: 390
+        height: 220
         isCached: true
 
 secured: "2LdaXMMeVWOwyvEFIzDRGLqwLi4hW0pqR6ApnFwu67L8nOuDDrHujZjpD8IvXOAKrs6HOGPsK1zEaWJoSHx7O5Pov8xO2UDzw/dqBAnMoYZTEWVPcaWCLzG5LMd7lQRtcth2P8Nslj/FAnv4bf7/gsehoHd0MbuWs2CGlvCuoHqQkGyx9eEpN40NNdx9rTBBFNwYwxTw4JSUrtrorgpHDsH9bGvyIjg/lC+5jUF8oZ/9k69VSDJXUqvVepUghdrMIAZopg0NFIgeqZbafXegQ7QJ5Qe5xovY0hzJDxkBlvJ+lGm9ZYjhl/VzDOcAYIH66K7d54t30oDuaqMxJzDQjw==;UdatJbj+fW5xr/zFN/E7lQ=="

@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-04-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
+      "title": "Nokia to set up robotics lab at Indian Institute of Science",
+      "excerpt": "The CoE will promote research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop socially relevant use cases across areas like emergency management, agriculture and industrial automation. The centre will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/article32265976.ece",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/evdls6/article32265975.ece/ALTERNATES/LANDSCAPE_615/BLNOKIA1",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/article32265976.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/article32265976.ece/amp/",
+      "publishedDateTime": "2020-08-04T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-get-over-50-hours-of-training-in-machine-learning-for-under-30.md",
       "title": "Get over 50 hours of training in machine learning for under £30",
       "excerpt": "TL;DR: The Machine Learning Master Class bundle is on sale for £29.85 as of August 4, saving you 91% on list price. Thanks to developing artificial intelligence technologies, computer are smarter ...",
@@ -9,7 +50,7 @@
       "webUrl": "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -39,7 +80,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1373,56 +1415,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-01-facial-recognitions-next-big-play-the-sports-stadium.md",
-      "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
-      "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-213850/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
-      "publishedDateTime": "2020-08-01T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
