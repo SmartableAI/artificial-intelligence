@@ -48,15 +48,20 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 19
-  - title: "L&T Technology Services expands collaboration with Microsoft to offer eco-friendly solutions for workplace transformation"
-    excerpt: "L&T Technology Services Limited, a leading global pure-play engineering services company, today announced that it has expanded its collaboration with Microsoft Corporation and launched its latest and enhanced version of the state-of-the-art i-BEMS solution on Microsoft Azure to transform buildings into future-ready smart campuses."
-    publishedDateTime: 2020-08-04T07:27:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20200804/3603742.html"
+  - title: "L&T Technology Services Expands Collaboration With Microsoft to Offer Eco-friendly Solutions for Workplace Transformation"
+    excerpt: "L&T Technology Services Limited today announced that it has expanded its collaboration with Microsoft Corporation."
+    publishedDateTime: 2020-08-04T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200804005480/en/LT-Technology-Services-Expands-Collaboration-Microsoft-Offer"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
+    images:
+      - url: "https://mms.businesswire.com/media/20200804005480/en/588151/23/L%26T_Technology_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "tRPrZerolF04zosinOzbxzRyDS2izrEOCBff049RC5ViFgH56CShSZyOsebS54CT8ci5QTqkM85DNelDVE0Y+RSvY4T1GRUjL0CQ+FUXQmFWBD1G9bscLSd3Vb9eDwaXtSbTQMD5RktyoLojDEQCq6ZklWJadoQsGezUIzli0dKT2DUwRd5iSxL32nfW0qca7wGXGrXcOIhKY+3rhxKdcDs/2iUuXmfmuLFItgQHpPPmwAmN7qm7DBs+GzH03OZ6kK+jwaVeyWwJCaz0mCIbAzuX5+Hwjhsn3C343hPM0sCRq2xydZlimOaxaETzICKDysvjmKOX6/7oyy/uZw4fRQ==;aIv1Xq9iMCTyh6fUQQ6ScQ=="
 ---

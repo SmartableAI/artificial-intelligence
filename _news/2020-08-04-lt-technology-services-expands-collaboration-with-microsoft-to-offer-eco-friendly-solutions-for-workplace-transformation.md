@@ -1,21 +1,27 @@
 ---
 category: news
-title: "L&T Technology Services expands collaboration with Microsoft to offer eco-friendly solutions for workplace transformation"
-excerpt: "L&T Technology Services Limited, a leading global pure-play engineering services company, today announced that it has expanded its collaboration with Microsoft Corporation and launched its latest and enhanced version of the state-of-the-art i-BEMS solution on Microsoft Azure to transform buildings into future-ready smart campuses."
-publishedDateTime: 2020-08-04T07:27:00Z
-webUrl: "https://news.webindia123.com/news/Articles/Business/20200804/3603742.html"
+title: "L&T Technology Services Expands Collaboration With Microsoft to Offer Eco-friendly Solutions for Workplace Transformation"
+excerpt: "L&T Technology Services Limited today announced that it has expanded its collaboration with Microsoft Corporation."
+publishedDateTime: 2020-08-04T12:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200804005480/en/LT-Technology-Services-Expands-Collaboration-Microsoft-Offer"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20200804005480/en/588151/23/L%26T_Technology_Logo.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "LTTS expands collaboration with Microsoft to offer workplace transformation solutions"
@@ -55,6 +61,6 @@ related:
       domain: dqindia.com
     quality: 19
 
-secured: "xjZZMXw2Mg/gsqSSCkHJ2dWJWgAm/9GI1TXo1VtZ9NRbGQMi5Uq7wZPlQjP8CpvFxetyzSBf4XaaWYhOg0ssJdGi2GrZvLmPY7D3X4LjX7Sk65IRqNN2JGdXFu0klP6h8fxFjVvdG1hKk11KLxuO9f+PAVU04izeZJ4p4bXWL4vwSVFQgYoWdyKpFdV9PMD+tfU7ZWkmdf9yiQ8b8c5wJhxWDnWNtqGtFbD8VHn6+TTHQ836QSe5sC7+wOLA+9x50fP6fqRPpw3Vp7wr9SCkCuA7/kvRaiTKN1Aa21JkmjYW3KE88P2fT4PA9pAyE2pcv0DFEqRvMDaBn+Bsv2p1IA==;Ak6U98I3jQep39HldCuafA=="
+secured: "OYnCXtiBXqab3m0IxBJniEWEJQuUi6JMJo0trzZvnmghVS7YX8E2+35DViEPaNvlTxV5UAItnbrMRelbcbsctlGu6SRnHnvaeWTWXzba/TgO6sjhzEKySi6cgj0end2bTbWAozhI9SaDJHjOoYkGTERmnAfyTeMhD6a3qn+rVhPn05+YUkSh8EwAyjrj3Yd1wJapcuacHrXcs1YZSjHwQlsQEaTo9JNXpyPXcz28c0PrRLp8JATRlvM/GYGa1VwzeZWU0D+Vc3RuapEu8f6+0StKon3ELhtjgPJlt0BFVYuLWIJAgl4DzA7lHGrVI1d0xxXQIK3jwt/Ywvfv7u5UTQ==;9ZLCAT0v2v22qKKjNRL7Hg=="
 ---
 

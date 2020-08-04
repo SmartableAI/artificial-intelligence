@@ -17,6 +17,20 @@ topics:
   - AI
 
 related:
+  - title: "Cyxtera Launches AI Hardware as a Service in Its Data Centers"
+    excerpt: "Cyxtera on Tuesday launched an Nvidia-powered, compute-as-a-service offering for machine learning, giving its data center colocation customers the option to use AI hardware through a subscription-based,"
+    publishedDateTime: 2020-08-04T17:56:00Z
+    webUrl: "https://www.datacenterknowledge.com/machine-learning/cyxtera-launches-ai-hardware-service-its-data-centers"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 39
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/nvidia%20dgx%20a100_0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cyxtera Launches AI/ML Compute-as-a-Service Powered by NVIDIA DGX A100 Systems"
     excerpt: "Cyxtera, provider of datacenter colocation and interconnection services, launched its Artificial Intelligence/Machine Learning"
     publishedDateTime: 2020-08-04T14:34:00Z

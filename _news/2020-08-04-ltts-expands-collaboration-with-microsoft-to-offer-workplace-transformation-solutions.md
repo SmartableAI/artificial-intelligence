@@ -46,15 +46,20 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 19
-  - title: "L&T Technology Services expands collaboration with Microsoft to offer eco-friendly solutions for workplace transformation"
-    excerpt: "L&T Technology Services Limited, a leading global pure-play engineering services company, today announced that it has expanded its collaboration with Microsoft Corporation and launched its latest and enhanced version of the state-of-the-art i-BEMS solution on Microsoft Azure to transform buildings into future-ready smart campuses."
-    publishedDateTime: 2020-08-04T07:27:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20200804/3603742.html"
+  - title: "L&T Technology Services Expands Collaboration With Microsoft to Offer Eco-friendly Solutions for Workplace Transformation"
+    excerpt: "L&T Technology Services Limited today announced that it has expanded its collaboration with Microsoft Corporation."
+    publishedDateTime: 2020-08-04T12:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200804005480/en/LT-Technology-Services-Expands-Collaboration-Microsoft-Offer"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
+    images:
+      - url: "https://mms.businesswire.com/media/20200804005480/en/588151/23/L%26T_Technology_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "1qTuwFjgQLqEf9LOpkqVgouVg6NuRqdmoBrZSBIKL1WR3OFCLfZ80o/BQQgH2BHjoUUNXnCwGILNOfTplsBkUPpZHK8jp17AD/LJLd65zelGpPWfpuEX8rt/LWPTYfYy4sCybsek4ooJVW2uvyLBKFce+GcrAqdws2GUmRvvL6L6tnMqBJZjo+UWFQTLQfggA9UBfhvdp/XHSpXSFkVbQi4QqYSQQlbXTuMV4qNur8RF223D4P2AxsndRck3Wk8PSMzLnZXRJH2A1qbYW4NDIxhBNqX4a6SSUVZpCYcAy5Da8E9UBxLD0ZAoWKcqI86DjDD7a7/vYLDHex1tXFt5TAU+ZD3m/g7HxQqo9BdsSnjHfJnzaSGh2cnWh43duObI4pg7T7ZSeBqkZFD6EzIfyNunSLvbJOWwVryQu0ZTrRL0cfbVXM1b+fmuRiIM7yxezDf7sOmjE/vJWWM4r0X0zBLZx0RO7UFGTCZXfOGAqfbbFHtOoNPQC8pxIGKL7PnEORpKBKKH2gpnjx44SsrC6A==;N6iQWdlKOmlEf49nyiGxeQ=="
 ---

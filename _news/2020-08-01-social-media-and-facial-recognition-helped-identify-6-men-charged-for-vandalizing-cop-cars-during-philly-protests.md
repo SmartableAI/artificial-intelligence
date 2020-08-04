@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Maine city bans local police and government use of biometric facial recognition pending referendum"
-    excerpt: "Biometric facial recognition cannot be used by municipal agencies in Portland, Maine, after its City Council unanimously approved an ordinance banning it until a referendum in November, which will"
-    publishedDateTime: 2020-08-04T15:52:00Z
-    webUrl: "https://www.biometricupdate.com/202008/maine-city-bans-local-police-and-government-use-of-biometric-facial-recognition-pending-referendum"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 40
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
   - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
     excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
     publishedDateTime: 2020-08-03T10:25:00Z

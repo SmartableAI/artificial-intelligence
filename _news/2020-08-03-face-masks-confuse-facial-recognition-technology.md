@@ -52,6 +52,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Portland, Maine, Councilors Ban Facial Recognition Tech"
+    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials, doing so via an ordinance that will take 30 days to go into effect."
+    publishedDateTime: 2020-08-04T16:07:00Z
+    webUrl: "https://www.govtech.com/public-safety/Portland-Maine-Councilors-Ban-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Portland-Maine-Councilors-Ban-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Portland-Maine-Councilors-Ban-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
+        width: 927
+        height: 626
+        isCached: true
   - title: "Chinese facial recognition developer closes $1.5 billion funding round"
     excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
     publishedDateTime: 2020-07-31T18:06:00Z

@@ -24,11 +24,11 @@ images:
 
 related:
   - title: "GSTS awarded contribution for Space-Based Artificial Intelligence"
-    excerpt: "About GSTS GSTS is a leader in Artificial Intelligence solutions for the maritime domain. Our solutions are designed to save lives, energy and the environment on a global scale through the use of ..."
+    excerpt: "GSTS will leverage AI capabilities in Object Detection and Image ClassificationHALIFAX, NS, Aug. 4, 2020 /CNW/ - Global Spatial Technology"
     publishedDateTime: 2020-08-04T15:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468099"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468099"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468099"
+    webUrl: "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086"
     type: article
     provider:
       name: Business Insider

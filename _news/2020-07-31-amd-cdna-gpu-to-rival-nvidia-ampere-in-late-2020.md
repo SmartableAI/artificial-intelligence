@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvi
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AMD CDNA GPU to rival NVIDIA’s Ampere in late 2020"
-    excerpt: "AMD’s next attempt on the server GPU front embraces its new CDNA architecture that is tailored primarily for AI as well as HPC and therefore promises to be a better fit for respective customers. AMD expects to launch its first CDNA-based Radeon Instinct ..."
-    publishedDateTime: 2020-07-31T00:08:00Z
-    webUrl: "https://www.techradar.com/uk/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 49
 
 secured: "QuyGchOsyH23FfsWdIfQ0Oi0WdvfxQJ7trjyXBdKq+YkBSzeOtT2SyEZpujFerX8sVDmzsgZipHRdYlrQIwQ3K9B1wccjoAN/SZX/bltFme7mXJqUSGXKkKTEYO5Rkk0Gnr5R3mNCHtFcNWJMzSnLQRZgw5G5PELVTYDTlEyUSEssYIIM3IPi8T8630tQArr9grvP6jFpNAHilHzqoO9x62zo6qtcO9sdML0hklxFe8Zsguy5vccNP3xT06nw416rMo5+RTneT6WCQlv1OjahmFetv17r18ia0nOH2eX1W/UY5m/89e0ObXxYKci/mDMqweQbxSbBJoMKyLxCemVCQ==;qXJX2+tLF6HTAdgCcM1TlQ=="
 ---

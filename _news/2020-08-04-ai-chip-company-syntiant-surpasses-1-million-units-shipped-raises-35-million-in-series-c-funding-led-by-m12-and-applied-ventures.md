@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-04T12:36:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -28,22 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Syntiant raises $35 million for AI speech-processing edge chips"
-    excerpt: "Syntiant, a startup developing AI and machine learning edge hardware for voice processing, has raised $35 million in venture capital."
-    publishedDateTime: 2020-08-04T12:46:00Z
-    webUrl: "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/"
-    ampWebUrl: "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/"
+  - title: "Syntiant Finds $35M More For AI Chips"
+    excerpt: "Irvine-based Syntiant, a developer of processors used for artificial intelligence applications, has raised $35M more in the company's Series C funding round. The round was led M12, the venture capital investment arm of Microsoft,"
+    publishedDateTime: 2020-08-04T17:58:00Z
+    webUrl: "https://www.socaltech.com/syntiant_finds_3_m_more_for_ai_chips/s-0080185.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/004990b4-5a1a-4216-8477-e262b957b5ab-e1596485443668.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
+      name: SocalTech
+      domain: socaltech.com
+    quality: 34
 
 secured: "dczueYuHzmnIIQXUh3oKMda2AwjgtJSgJaAxynNL+LGgv6Zhmv6bZgz69kLFC69s5osXf3r1fCcv9nh9POwRmMzWNRd8BbGV6AzpMNzzrnSNoCjL4OeZVm6o8D/6s3JbStnp+mrlJcVGXWUk3k3+0O/YfLYyFnPeRtF/haqxNltAp+1ZjLXiECwq2BrVi2f36OVQ0P0eOKIRY3kjdfzQHXLh2FO5K6UAEgj23hiHQEwyCNMR15n32Zm2fpobn93XSfFGXLvdLLWlbIibuS7v8FpMhZcJIDaa4Ro7HRYJVlm54dXautLk+GGLc7BctoRPD6s4qDt/CDS2KpP0SFoKKw==;0FnSoAKKP8oMVYHj3QArpA=="
 ---

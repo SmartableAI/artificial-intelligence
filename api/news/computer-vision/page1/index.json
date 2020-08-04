@@ -2,34 +2,34 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-04-facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking.md",
-      "title": "Facial recognition tech for chimps looks to bust online ape trafficking",
-      "excerpt": "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ...",
+      "path": "_news/2020-08-04-maines-portland-bans-government-use-of-facial-recognition-tech-after-blm-demand.md",
+      "title": "Maine's Portland Bans Government Use of Facial Recognition Tech After BLM Demand",
+      "excerpt": "However, it came amid widespread calls for government officials to stop using facial recognition technology as a growing body of evidence shows that it misidentifies people of color at higher rates than white people.",
       "sourceUrl": null,
-      "webUrl": "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/",
+      "webUrl": "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 79,
+      "heat": 129,
       "tags": null,
-      "images": [
-        {
-          "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/08/04104940/Mongabay-ChimpFace-banner-1200x737.jpg",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/",
-      "cdnAmpWebUrl": "https://news-mongabay-com.cdn.ampproject.org/c/s/news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/",
-      "publishedDateTime": "2020-08-04T08:24:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1",
+      "publishedDateTime": "2020-08-04T06:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mongabay",
-        "domain": "mongabay.com",
-        "images": null,
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -192,7 +192,7 @@
       "webUrl": "https://www.thestate.com/news/local/crime/article244433082.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -365,7 +365,7 @@
       "webUrl": "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 183,
+      "heat": 193,
       "tags": null,
       "images": [
         {

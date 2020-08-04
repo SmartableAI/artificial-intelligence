@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Buildots raises $16 million to marshal AI for construction management"
-    excerpt: "The company uses hardhat-mounted 360-degree cameras to seamlessly determine the exact status of an ongoing project and provides invaluable insight to contractors"
-    publishedDateTime: 2020-08-03T14:58:00Z
-    webUrl: "https://www.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337"
-    ampWebUrl: "https://m.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337/amp"
+  - title: "Kite brings its AI-powered code completions to Jupyter notebooks"
+    excerpt: "Using AI to help developers is not an original idea. Nowadays you have startups like DeepCode offering AI-powered code reviews and tech giants like Microsoft working on applying AI to the entire ..."
+    publishedDateTime: 2020-08-04T16:04:00Z
+    webUrl: "https://venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/"
+    ampWebUrl: "https://venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/amp/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461590"
-        width: 640
-        height: 428
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/kite-jupyterlab-code-completions.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "0S/5SMZqUpdTOHyaf3ar8pIo7OEJuxoxU8Ox4xLESCJIgZ7rvG2Vp+WyeluMHThbxr8PByWAUrPF4isAytEjShVFeFMB5ChEijqtyUThVjYF/DrwBj81+8wPriDNP0URnFDe6GJVPCyLK1WnV3YUdlWd4FZW1HF2txy0/h9NvzwmKTvaSRIsSdNMhkhME2AWDiRpTeR04WZCjwjKEZBCbN1Ph9P6w5/rkIZ8t7OWx3pVlbkYgA3P993yAk6+Kj3O6B09Ci+NYN9TF2bEqjqZ4m9qoVD2Q/Vgn3a1BLmwVPwbLlCZba/Vvbnu5AeY71QWbL+WY7cf2dIzBpFXnDMOPA==;NN1TQGDwTFj/Pdsk/DPRQQ=="

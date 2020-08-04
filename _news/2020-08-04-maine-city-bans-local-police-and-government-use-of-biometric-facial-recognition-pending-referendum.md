@@ -24,55 +24,73 @@ images:
     isCached: true
 
 related:
-  - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
-    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
-    publishedDateTime: 2020-08-02T08:00:00Z
-    webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
-    ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
-    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
+  - title: "Maine's Portland Bans Government Use of Facial Recognition Tech After BLM Demand"
+    excerpt: "However, it came amid widespread calls for government officials to stop using facial recognition technology as a growing body of evidence shows that it misidentifies people of color at higher rates than white people."
+    publishedDateTime: 2020-08-04T13:15:00Z
+    webUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662"
+    ampWebUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
     type: article
     provider:
-      name: The State
-      domain: thestate.com
-    quality: 51
+      name: Newsweek
+      domain: newsweek.com
+    quality: 79
+  - title: "Facial recognition tech for chimps looks to bust online ape trafficking"
+    excerpt: "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ..."
+    publishedDateTime: 2020-08-04T15:24:00Z
+    webUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/"
+    ampWebUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
+    cdnAmpWebUrl: "https://news-mongabay-com.cdn.ampproject.org/c/s/news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
+    type: article
+    provider:
+      name: Mongabay
+      domain: mongabay.com
+    quality: 59
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
+      - url: "https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/08/04104940/Mongabay-ChimpFace-banner-1200x737.jpg"
+        width: 1200
+        height: 737
+        isCached: true
+  - title: "Portland councilors approve ban on facial recognition technology"
+    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
+    publishedDateTime: 2020-08-04T03:17:00Z
+    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 39
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
+        width: 1000
+        height: 701
+        isCached: true
+  - title: "Thank Kade Crockford for driving the ban of facial recognition tech in cities"
+    excerpt: "The activist has become one of the leading proponents of enhancing our privacy and safety by abolishing the technology that would imperil both."
+    publishedDateTime: 2020-08-04T10:00:00Z
+    webUrl: "https://www.fastcompany.com/90525908/most-creative-people-2020-kade-crockford?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 36
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-MCP_TopArt_KadeCrockford-.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
-    excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
-    publishedDateTime: 2020-08-01T14:18:00Z
-    webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
-    ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
+  - title: "Teams explore using facial-recognition technology to admit fans to games"
+    excerpt: "Facial recognition might be coming to a sporting arena near you. As sports leagues fight to make attending event as touchless as possible due to the coronavirus pandemic, a Wall Street Journal report says that some teams may consider adopting the ..."
+    publishedDateTime: 2020-08-04T17:13:00Z
+    webUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/"
+    ampWebUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 38
-    images:
-      - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
-        width: 1200
-        height: 899
-        isCached: true
-  - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
-    excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
-    publishedDateTime: 2020-08-03T10:25:00Z
-    webUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 29
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESQX7VGU2QI6VJ4IFTUGZ2ARFE.jpg&w=1440"
-        width: 1440
-        height: 1152
-        isCached: true
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 23
 
-secured: "hFTauIkwCP0eZUbcW0tU5niI6yDjMu4jK2AXnNUlbJCv9G5drurV1Wj8s9w6iSZXMIDerkMAVG8tg5G/oEN34Vhp/byEg7O0ZzV82PEliv7Gwv6BPbPSov9BXrbMHvoUYBD+tcd+CCyx25WaS/5QKBEtdFSCaNGfkOi8iSeV1iLfAwdWAd0YK2HDNmSm464xzVXcyBjJjQrTv3mkg05hbWFUGOqIG1nxiL/pbbqCtbhPAwYMJ60jedmgn4dRXmK/4I2MC/qd5vK6VCqKsn52hZ49BB72P/WOV2CKrSAVr5CZM0JzL35qNrEpdxwde9ZgsU4q0Uao2v1e4tQcy4mDBA==;FE14jBawp1JKJavTUHkKOA=="
+secured: "NnDnIDCO1+oOTCmTQAdZMU5LATeJ+KqUd3kqD6QK/U+eqpGR5R3ZPHiP/WTyb8M+qWNfgNUPEc+mRvMLc8U2o7kRRa0wEAh37p4qB4HbZVK197RKW9BHwNnlpzsjreeWXR8O0HaFrMBj7OELwSrnosUkRGOtm4i5+WfX+B3rzjzIrLu/ZDHiaLXny4M9f4ltcFyyFsZSLvJFT54k+GPnaRF76qXgxPVqSelyZ7Aelbuto+BWbMMsdpPpDRQdiMK69YMMRMkit+LaTpvQAh2Vi/Lk3X+dBbeMqXkFnu0LQrhfYES8I5GUSjl02mIlId0AtJ0b51gk2Uqn510yS66cs2WxKzqXSjo1xRDEBDsr0PiF9dUnxIMZqelhXXvNxrX+2unflVNwVP4F7HXAFbGqiEX0wV6NevMEGtPAerv2sInTY0s/wAqID2VGYLSrR7V6Kv8DpZIomwa3FxNbBCA6iGQnt+8a+KOaOIBmsxECuBCCI9qS2A3RqtE4SqXcylLM0RKVtt7JriirQmM2gvtDqg==;DgzneuwKlW1lto0yHmggJA=="
 ---
 

@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Maine's Portland Bans Government Use of Facial Recognition Tech After BLM Demand"
+    excerpt: "However, it came amid widespread calls for government officials to stop using facial recognition technology as a growing body of evidence shows that it misidentifies people of color at higher rates than white people."
+    publishedDateTime: 2020-08-04T13:15:00Z
+    webUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662"
+    ampWebUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 79
   - title: "Facial recognition tech for chimps looks to bust online ape trafficking"
     excerpt: "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ..."
     publishedDateTime: 2020-08-04T15:24:00Z
@@ -40,6 +51,20 @@ related:
         width: 1200
         height: 737
         isCached: true
+  - title: "Maine city bans local police and government use of biometric facial recognition pending referendum"
+    excerpt: "Biometric facial recognition cannot be used by municipal agencies in Portland, Maine, after its City Council unanimously approved an ordinance banning it until a referendum in November, which will"
+    publishedDateTime: 2020-08-04T15:52:00Z
+    webUrl: "https://www.biometricupdate.com/202008/maine-city-bans-local-police-and-government-use-of-biometric-facial-recognition-pending-referendum"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 40
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
   - title: "Portland councilors approve ban on facial recognition technology"
     excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
     publishedDateTime: 2020-08-04T03:17:00Z
@@ -54,6 +79,17 @@ related:
         width: 1000
         height: 701
         isCached: true
+  - title: "Teams explore using facial-recognition technology to admit fans to games"
+    excerpt: "Facial recognition might be coming to a sporting arena near you. As sports leagues fight to make attending event as touchless as possible due to the coronavirus pandemic, a Wall Street Journal report says that some teams may consider adopting the ..."
+    publishedDateTime: 2020-08-04T17:13:00Z
+    webUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/"
+    ampWebUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
+    type: article
+    provider:
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 23
 
 secured: "zoYhka/JFH/vF+O6mKlifCiGm1/4tXcwZCTAMcuGQM2ozjnVpO3fxmTP6HwoY8sPqXKRcfmRkexUcG70OjUTu6ADZBICbVLVulEi8O7GWalCBusCIfiDUS+tau16Jy6wDQl2BuA8u4nfVAdDE+yq/fjsBMYc6tS7Y/2isIx49pDbo1+qYxwRaPr8eRvjqAvlOoTkgfwp6HLziac8onvcZ+Dgz1ucQSC8D1KvcHqbWlKM/qv36kI6E5F16l+FOtKXftJzhNdAHeLuFIVSUNNTG7fNER1MlLtNcevQK0FuNVZcx2EWcHk3OVLo0B2vqoTxjPoy5R0ljS7UTnWRQ4nF9w==;xz+4iiY8fbGXnvY1ZGEI8g=="
 ---
