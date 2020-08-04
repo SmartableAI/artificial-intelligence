@@ -24,35 +24,53 @@ images:
     isCached: true
 
 related:
-  - title: "New Approach Aims To Use Facial Recognition Technology To Link The Victims Of Serial Killers"
-    excerpt: "Using facial recognition technology, the approach aims to recognize when victims with similar appearances are being targeted, as has sometimes been the case with historic, infamous serial killers such as Ted Bundy. The project was conceived and lead by ..."
-    publishedDateTime: 2020-07-30T17:08:00Z
-    webUrl: "https://www.iflscience.com/technology/new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers/"
-    ampWebUrl: "https://amp.iflscience.com/technology/new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers/"
+  - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
+    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
+    publishedDateTime: 2020-08-02T08:00:00Z
+    webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
+    ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
+    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
     type: article
     provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 63
+      name: The State
+      domain: thestate.com
+    quality: 51
     images:
-      - url: "https://cdn.iflscience.com/images/bef24761-a040-5402-804a-edf8dd42c8a5/default-1596119009-the-novel-technology-could-reveal-new-information-on-cold-cases-motortion-films-shutterstock.jpg"
-        width: 720
-        height: 405
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "CyberLink FaceMe® Enhances Facial Recognition Technology With Thermal Camera Imaging"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new features for temperature scans to its innovative facial recognition software development kit (SDK),"
-    publishedDateTime: 2020-08-03T11:43:00Z
-    webUrl: "https://apnews.com/b574ac2ef2df41d884c15b9f9faf1f74"
+  - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
+    excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
+    publishedDateTime: 2020-08-01T14:18:00Z
+    webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
+    ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 38
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
+        width: 1200
+        height: 899
+        isCached: true
+  - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
+    excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
+    publishedDateTime: 2020-08-03T10:25:00Z
+    webUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/"
+    ampWebUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 29
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESQX7VGU2QI6VJ4IFTUGZ2ARFE.jpg&w=1440"
+        width: 1440
+        height: 1152
         isCached: true
 
 secured: "Md6apDS+sPHb9aR5+TZ7/A2CheLXUz3lS2fB6FehZMgDQiKKH4MATEo9GObPDlx2HQ+DJIkM+7qsjPcs1yS1FUDtfMjlJObOTAns22dq01wgkphSYJA229SNd0NxetlyAuq/Lz/zvZoGsyM25AeWyR2+GNyJAJXmBi7FtvaPFlpqZhXPZ1i8YAyd4DgQPec/YLSV28ksl/eaaE9tEqwoRzQXPYvDwmqFZojY7tTmLdZrQl/wksSwY4i/WeaSBhJTjoaZuaBHkkO5zRA97zKv90JUqjy1HDTkJZMPl4o4+ltbVYHJQNI5Oi9S9SfYhxVVXc1SBaghAK2aeyoCnj3ETQ==;6dsR0/1fxKCnaIQfixYauQ=="

@@ -27,20 +27,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 39
-  - title: "AI Eye Episode 400: IBM (NYSE: $IBM) Collaborates with Influential on AI-Enabled Social Targeting Solution"
-    excerpt: "IBM (NYSE:IBM), in collaboration with AI-powered social data and conversion firm Influential, has announced the launch of Watson Advertising Social Targeting. The press release describes Watson Advertising Social Targeting as \"a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best align with their brand values."
-    publishedDateTime: 2020-07-30T18:55:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/07301AIEye-IBM-NUAN-CERN.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 21
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
 
 secured: "kXDlt9OEaFRyCqpcnOncsxe3yj9LdHQ0MngY4F5maRPS56NgBg+5CloAsSRYukcuVoaSA6fmK45YaOo/gV3HsLujmYBWWAqBmLyQWyq8VmIhHUxRsWgne0zo17BmW5urevl36q7H5KTB1dwXQ6X2JnN9uZVBHexCqixb5KFc0btFGrYHD7xKHC0/uNDDe08ElaWHqHMa4j2Ro/HINnSRuEG58yTh73j5hSNe0vA+ri6WDoxQl3oCWkooWfOupHMB3p9SXGUjXaE1U4HP2rLRM2Jk7+CDlv2W99H5azbvoc1gVNV/7nrZGF5hTDvP+BNb7YFD2pHubLUG5s3/xR08KQ==;fGwY2nvxrgPc0z/tkTquow=="
 ---

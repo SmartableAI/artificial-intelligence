@@ -7,9 +7,9 @@ webUrl: "https://diginomica.com/ai-in-healthcare-help-or-make-worse"
 ampWebUrl: "https://diginomica.com/ai-in-healthcare-help-or-make-worse?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-in-healthcare-help-or-make-worse?amp"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: Diginomica
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2020-08/unsplash-national-cancer-institute-NFvdKIhxYlU%20740px.jpg"

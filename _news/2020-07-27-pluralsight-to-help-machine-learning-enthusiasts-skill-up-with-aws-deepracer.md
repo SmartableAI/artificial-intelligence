@@ -18,6 +18,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "mZzvEfkOXK2gvYP4AeAifpZ1Zh7stM7lwJAc6FkY+MulCUTmQhhjka7y+1G4ZQ4YNV8G7PqiwCe9DmB1hggk2F2vN/R/TythJn2nSPaPlq54GkawO+UkjJkSuj9ySUwbjLikg7eUkum1uJmNSfYjAhT79mIxCG4OLiD5KMH3O/MQsoy90WWVSdG+SdxY/71cqRu1wkHdrlwqvmx9PqVlCTrvKkUyP+kZbh1mxD4f+KMeFxyV9SLMlyxGLX9YXg+ADGonbrVmIOwYfDtEwawwcilewIkueUXGNKbtBrKGvSUH+eZlj8LkybOGhmE7hc8ktUBc69pHlo7bEyU8wjKr9Q==;HjTeKDr5wlxdi5fR7lgW8A=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "rB7raQ1a+m05L0P38fQUq+YF2KS3AZHeNWES6zd9nOs3+HLxn5uETNSBIvxrSDUS0kC8VzK/Bi+Ww855SQ3uATh2EsY93VCiovyHOkR5qN47hYSbI3w4NUfKWJGBysmyQ9wY2bildfHyI9OX0N2WdHieiwM9mId0e73VR5WbWct1KLQPviAZdqVLzpkp2idkaiCsvb7kTbWHzfGr1FTjIcLB/ono0IWsk7Tc/nKHWGW2fxIv6bPh87O7NlitqtPhIZR/9amQuXEd57EqYJ+uh1vJHFq0L6GJhfwHJbceEeB9CR8hZk1+hXOJ0jSS7wZMSibnit2NsuREyh1S1Y7z1Q==;2Ieo88Zf7NACFYJPuZ5zeg=="
 ---
 

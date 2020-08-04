@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/</loc>
+    <lastmod>2020-08-04T04:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis-11596539192747.html</loc>
+    <lastmod>2020-08-04T04:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes</loc>
+    <lastmod>2020-08-04T04:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/</loc>
+    <lastmod>2020-08-04T03:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://diginomica.com/ai-in-healthcare-help-or-make-worse</loc>
+    <lastmod>2020-08-04T02:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://economictimes.indiatimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/articleshow/77346713.cms</loc>
     <lastmod>2020-08-04T01:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +45,12 @@
   <url>
     <loc>https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/</loc>
     <lastmod>2020-08-03T22:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html</loc>
+    <lastmod>2020-08-03T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -121,12 +157,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html</loc>
-    <lastmod>2020-08-03T02:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://qz.com/1887438/the-non-tech-companies-hiring-phds-from-elite-ai-programs/</loc>
     <lastmod>2020-08-03T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -141,6 +171,12 @@
   <url>
     <loc>https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/</loc>
     <lastmod>2020-08-02T14:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/us/sports-teams-facial-recognition-contactless-admission</loc>
+    <lastmod>2020-08-02T11:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -171,6 +207,12 @@
   <url>
     <loc>https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html</loc>
     <lastmod>2020-08-02T01:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thestate.com/news/local/crime/article244433082.html</loc>
+    <lastmod>2020-08-02T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -697,12 +739,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29</loc>
-    <lastmod>2020-07-29T02:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.benzinga.com/pressreleases/20/07/g16822677/global-artificial-intelligence-in-retail-markets-2020-2027</loc>
     <lastmod>2020-07-29T01:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -723,6 +759,12 @@
   <url>
     <loc>https://www.vice.com/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy</loc>
     <lastmod>2020-07-28T22:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29?mod=mw_quote_news</loc>
+    <lastmod>2020-07-28T22:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -861,6 +903,12 @@
   <url>
     <loc>https://mashable.com/video/elon-musk-neuralink-ai-brain-implant/</loc>
     <lastmod>2020-07-28T08:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eurekalert.org/pub_releases/2020-07/tud-epo072820.php</loc>
+    <lastmod>2020-07-28T07:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1039,6 +1087,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/wisekey-to-showcase-its-cybersecurity-solutions-for-artificial-intelligence-used-in-drones-and-robots-at-sido-2020-2020-07-27</loc>
+    <lastmod>2020-07-27T12:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.oaoa.com/news/business/datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data/article_569ca5a7-fd83-5731-9fdf-72c42ac6e678.html</loc>
     <lastmod>2020-07-27T11:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1107,6 +1161,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/</loc>
     <lastmod>2020-07-27T06:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html</loc>
+    <lastmod>2020-07-27T05:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1207,6 +1267,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cmo.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <lastmod>2020-07-26T10:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/</loc>
     <lastmod>2020-07-26T10:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1255,7 +1321,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25</loc>
     <lastmod>2020-07-25T07:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1267,8 +1333,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative.html</loc>
-    <lastmod>2020-07-25T04:55:00-07:00</lastmod>
+    <loc>https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative</loc>
+    <lastmod>2020-07-25T04:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1879,6 +1945,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.valdostadailytimes.com/news/business/natural-language-processing-based-sentiment-analysis-helped-an-american-biotech-firm-in-reducing-churn-by/article_f1e126e4-ed6c-5d87-9821-7e1c59d41b27.html</loc>
+    <lastmod>2020-07-22T02:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nature.com/articles/s41598-020-69187-5</loc>
     <lastmod>2020-07-22T02:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2133,6 +2205,12 @@
   <url>
     <loc>https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596</loc>
     <lastmod>2020-07-21T05:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.menshealth.com/health/a33368634/doctor-explains-computer-vision-syndrome/</loc>
+    <lastmod>2020-07-21T04:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

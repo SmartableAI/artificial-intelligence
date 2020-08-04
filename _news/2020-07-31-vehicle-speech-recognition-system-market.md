@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2101008/vehicle-speech-recognition-system
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: Financial News
       domain: financial-news.co.uk
     quality: 33
+  - title: "Global Automotive Voice Recognition System Markets to 2025 - Cloud-based VR Systems Expected to Be the Market Leader"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Dublin, Aug. 04, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast ..."
+    publishedDateTime: 2020-08-04T11:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-the-market-leader-1029466115"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
 
 secured: "QNAnssUE1PkS2j2SvyQAyaS+XjXP8RKJq8gctz2IxBBOZNouyTiN5mKnVi7utyBoCEwE2MNuzGCFVWNIzBzeiHPEcPv3zvTkM/xjBin9DIFSXoh1mN8ffJ8Jsk4/WUXroA5vo/hkKISgsk4eb9bHWYQ1vKf2W9LQ/PkbS6otzzsB99mLhAWayTEqjJVLfG/cPnrOBAAKj85RXKeynTiq3OEgZrjIE4nu5EnfR3Pmce08pac2yCZOSSyiVsAw4bTnYxaALcES5PTWEL1QVYH8X7vp2NuUNWG14glm+BNu9SefzL2t9bPDFRpnKn2JFx1N3LBTel7DKCE6tmwrDiwREw==;eklEwOaWRzN3qBoPzPcxKw=="
 ---

@@ -24,68 +24,95 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition’s Next Big Play: the Sports Stadium"
-    excerpt: "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff."
-    publishedDateTime: 2020-08-01T19:00:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
+  - title: "Cloak your photos with this AI privacy tool to fool facial recognition"
+    excerpt: "Ubiquitous facial recognition is a serious threat to privacy. The idea that the photos we share are being collected by companies to train algorithms that are sold commercially is worrying. Anyone can buy these tools, snap a photo of a stranger, and find ..."
+    publishedDateTime: 2020-08-04T11:18:00Z
+    webUrl: "https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: The Verge
+      domain: theverge.com
+    quality: 106
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/3zWa50EJMY12xj2q5enzpWUGUGI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67152844/acastro_180730_1777_facial_recognition_0002.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "This Algorithm Might Make Facial Recognition Obsolete"
+    excerpt: "In 2020, it’s worth assuming that every status update and selfie you upload online can eventually make its way into the hands of an obscure data-mining third party, into the hands of national authorities,"
+    publishedDateTime: 2020-08-03T18:47:00Z
+    webUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686"
+    ampWebUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
     quality: 89
     images:
-      - url: "https://images.wsj.net/im-213850/social"
-        width: 1280
-        height: 640
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uj2hrvj4kqippfvphhht.png"
+        width: 800
+        height: 448
         isCached: true
-  - title: "Facial Recognition, Thermal Imaging Part of the New Normal"
-    excerpt: "The coronavirus pandemic has fueled the rise of facial recognition and thermal imaging technologies to detect symptoms of the virus in a variety of sectors. The tech streamlines more manual safety checks."
-    publishedDateTime: 2020-07-31T21:31:00Z
-    webUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html"
-    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
+  - title: "This Tool Could Protect Your Photos From Facial Recognition"
+    excerpt: "Researchers at the University of Chicago want you to be able to post selfies without worrying that the next Clearview AI will use them to identify you."
+    publishedDateTime: 2020-08-03T09:10:00Z
+    webUrl: "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2020/07/31/business/31fawkes4/31fawkes4-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "New York Lawsuit Over School Facial Recognition Use Grows"
+    excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
+    publishedDateTime: 2020-07-30T19:07:00Z
+    webUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html"
+    ampWebUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
     quality: 59
     images:
-      - url: "https://media2.govtech.com/images/US-NEWS-CORONAVIRUS-OHIO-TECHNOLOGY-.JPG"
-        width: 1110
-        height: 625
+      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
+        width: 916
+        height: 630
         isCached: true
-  - title: "Sports teams dabble with facial recognition amid coronavirus pandemic"
-    excerpt: "Multiple professional sports teams are considering facial recognition systems to make admitting fans to stadiums as touchless as possible during the coronavirus pandemic, Wall Street Journal report. Why it matters: It is unlikely that fans will be able to return to live sporting events soon unless facilities adopt measures,"
-    publishedDateTime: 2020-08-01T18:50:00Z
-    webUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
-    ampWebUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
+  - title: "A new tool to protect yourself against facial recognition software"
+    excerpt: "A new research project from the University of Chicago Department of Computer Science provides a powerful new protection mechanism. Named Fawkes, the software tool “cloaks” photos to trick the deep learning computer models that power facial recognition,"
+    publishedDateTime: 2020-08-03T16:38:00Z
+    webUrl: "https://news.uchicago.edu/story/new-tool-protect-yourself-against-facial-recognition-software"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
+      name: The University of Chicago Chronicle
+      domain: uchicago.edu
+    quality: 54
     images:
-      - url: "https://images.axios.com/Z1j4-xYV2lr9tk74B1fyDJRvtEw=/fit-in/1366x1366/2020/08/01/1596303538882.jpg"
-        width: 1366
-        height: 911
+      - url: "https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2020-08/FacialRecogition.jpg?itok=QZDhbvoF"
+        width: 1380
+        height: 776
         isCached: true
-  - title: "Facial Recognition Technology Adapts In The Age Of Coronavirus"
-    excerpt: "With 60-70% of your face covered up by a mask, it isn't surprising that facial recognition algorithms designed pre-pandemic aren't working very well. The U"
-    publishedDateTime: 2020-08-03T09:20:00Z
-    webUrl: "https://www.wvxu.org/post/facial-recognition-technology-adapts-age-coronavirus"
+  - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-03T12:40:00Z
+    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
     type: article
     provider:
-      name: WVXU
-      domain: wvxu.org
-    quality: 39
-    images:
-      - url: "https://www.wvxu.org/sites/wvxu/files/styles/medium/public/202007/facial_recognition_picture.png"
-        width: 726
-        height: 480
-        isCached: true
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 29
 
 secured: "OvN3tYKAJk4EQggGlcK8zYNTRV7M1C67zR5OMNTTY8a8ei7TnWHG9uEQbUyPpsBUS5dDxdaAj3WdBxpxJN7J16oI7bN1pWPD22EuolU2yWqtg+c9c63dOdMHuRxkSiYgxh4nKqp+NBj8IVGcUTbyQgMb3pxV67PsEhJ1Bll9xVBGYufALks6wiE7lM2soZWhv8rzMRmuQ/xQwl2RhDKOWBhoGkfaqLolK5xKgFR8rpJJo2zwTYoqGXHPjgWLcY+hkc9zPhbkskgaGgqkz2wcfJDg3bUqlZPNYZsgFTbdZG69eKXuEDEqmPqnZSpM73QuWBZ5wGmDqEtMc/Mn765Y1Q==;TVdmiX9ySCzRp4zxuLahGQ=="
 ---

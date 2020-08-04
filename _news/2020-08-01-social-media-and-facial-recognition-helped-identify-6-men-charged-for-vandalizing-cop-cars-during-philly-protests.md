@@ -42,6 +42,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Portland councilors approve ban on facial recognition technology"
+    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
+    publishedDateTime: 2020-08-04T03:17:00Z
+    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 39
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
+        width: 1000
+        height: 701
+        isCached: true
+  - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
+    excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
+    publishedDateTime: 2020-08-03T10:25:00Z
+    webUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/"
+    ampWebUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 29
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESQX7VGU2QI6VJ4IFTUGZ2ARFE.jpg&w=1440"
+        width: 1440
+        height: 1152
+        isCached: true
 
 secured: "Cm2iSBOOEvpRfp1RTRPWK33mOF1g0bz4eiCYWIyqbCPn5Yy07Ptcnb0X6s79n2t+StpKFFMsACM+Ccv0GLGJKPHNTeG3HdVTAFkf3WFGc994PKGAB/Tj/cn2dJDVqDaTteJWJczgBsVBLfLN40DN8Rr62dl9xL0hv800AziMyW1Bcqd20mPhnhwRDrTY4O/YOJgIKWQqCCDQw77DVUdLNQrHkgpnw9HG9tzyjfbr39+X7Zh/Ss+tBkKqLTtHwiki3geMS6rK4GxnNLXL3M8S4WPaFxODpUxhfrkFYbPhak50vbnbIeom4vTd7AzhQ4kCuBL0ys/yr6DKJSmSw+dkylziXztmjvJ75oE7mWpNZqK9rxJwVUfIgB0HnmC26FDaYv/Xb48UJGfSuSck6MbjHgrY+IY6Eyc35un9rnca0hjrZ8Kvlt1YRZL7W8IGbMiT5PS9ezrdpUX3USmHHpOMskDLXXVtDyIAc/DTjdLhLOHiyvqrU6zDWozxOJTQBNxTCVHNzV68Y+7dGV5l2QiWLA==;5WtXxGi99GceqcQPR9pLig=="
 ---

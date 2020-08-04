@@ -20,6 +20,38 @@ topics:
   - AI
 
 related:
+  - title: "Cloak your photos with this AI privacy tool to fool facial recognition"
+    excerpt: "Ubiquitous facial recognition is a serious threat to privacy. The idea that the photos we share are being collected by companies to train algorithms that are sold commercially is worrying. Anyone can buy these tools, snap a photo of a stranger, and find ..."
+    publishedDateTime: 2020-08-04T11:18:00Z
+    webUrl: "https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 106
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/3zWa50EJMY12xj2q5enzpWUGUGI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67152844/acastro_180730_1777_facial_recognition_0002.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "This Algorithm Might Make Facial Recognition Obsolete"
+    excerpt: "In 2020, it’s worth assuming that every status update and selfie you upload online can eventually make its way into the hands of an obscure data-mining third party, into the hands of national authorities,"
+    publishedDateTime: 2020-08-03T18:47:00Z
+    webUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686"
+    ampWebUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uj2hrvj4kqippfvphhht.png"
+        width: 800
+        height: 448
+        isCached: true
   - title: "This Tool Could Protect Your Photos From Facial Recognition"
     excerpt: "Researchers at the University of Chicago want you to be able to post selfies without worrying that the next Clearview AI will use them to identify you."
     publishedDateTime: 2020-08-03T09:10:00Z
@@ -36,6 +68,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "New York Lawsuit Over School Facial Recognition Use Grows"
+    excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
+    publishedDateTime: 2020-07-30T19:07:00Z
+    webUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html"
+    ampWebUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
+        width: 916
+        height: 630
+        isCached: true
   - title: "A new tool to protect yourself against facial recognition software"
     excerpt: "A new research project from the University of Chicago Department of Computer Science provides a powerful new protection mechanism. Named Fawkes, the software tool “cloaks” photos to trick the deep learning computer models that power facial recognition,"
     publishedDateTime: 2020-08-03T16:38:00Z
@@ -50,21 +98,19 @@ related:
         width: 1380
         height: 776
         isCached: true
-  - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
-    excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
-    publishedDateTime: 2020-08-03T10:25:00Z
-    webUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+  - title: "Universal Theme Park Takes Next Step with Facial Recognition"
+    excerpt: "A Universal Studios theme park is now using a high-tech, automated facial recognition system to identify annual pass and daily ticket holders as they enter the park. The new system is now in place at Universal Studios Singapore,"
+    publishedDateTime: 2020-08-03T21:38:00Z
+    webUrl: "https://www.themeparkinsider.com/flume/202008/7631/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 29
+      name: Theme Park Insider
+      domain: themeparkinsider.com
+    quality: 39
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESQX7VGU2QI6VJ4IFTUGZ2ARFE.jpg&w=1440"
-        width: 1440
-        height: 1152
+      - url: "https://www.themeparkinsider.com/art/flume/7631.jpg"
+        width: 640
+        height: 268
         isCached: true
 
 secured: "nrWPvvV1cnxpbjzy7p5tUzLo2GXaj9DV38zuPmGup0GxMUnJ70K6R+QAfE+ezPP5YE51sF29WyIMIGq/AxiqdvH+afnYpJuT8KX4yMKCo4Xj+eO+quMJmmz5130HUy6Xd6xULJ+o//pNFNQLLBjpWy9ptZ4OOZqVTSnmgkHqc3AXu9VkCKeD1x1Vcp4iKikaf9qsZx2MhXwHlzYvZocZGWHeOk9eM+IafWfqyfNZ4NN7zPE7BM78cb++Y5jtzTh9oUcmJttPVDQDQhOJ3XQ9mmfr34dSSH6bu0MVRLwVtAjRKTJLGMJoQECUaBii03b3dLAj27FThkpvmsSKuypvCw==;6YkRySqsl1SQdUsiO5l1zA=="

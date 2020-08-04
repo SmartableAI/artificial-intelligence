@@ -1,9 +1,9 @@
 ---
 category: news
 title: "RBC Seeks to Pump Up Its AI Models With a New Platform"
-excerpt: "The Toronto-based bank, which serves more than 17 million customers in over 30 countries, has 1,000-plus AI models for jobs like fraud detection, risk analysis and marketing. Part of the goal is to take models that use simple prediction techniques ..."
-publishedDateTime: 2020-08-04T09:47:00Z
-webUrl: "https://www.wsj.com/articles/rbc-seeks-to-pump-up-its-ai-models-with-a-new-platform-11596531600?mod=tech_featst_pos1"
+excerpt: "Its new AI private cloud can analyze more than 13 million client records in under 20 minutes, the bank says."
+publishedDateTime: 2020-08-04T09:59:00Z
+webUrl: "https://www.wsj.com/articles/rbc-seeks-to-pump-up-its-ai-models-with-a-new-platform-11596531600"
 type: article
 quality: 67
 heat: 67
@@ -26,6 +26,6 @@ images:
     height: 640
     isCached: true
 
-secured: "4NgT162iQMdmZ8itGGOTwLOodB8bke4IHmfa5gDjYpqYM1s9FswG0s/5eynt3pMAYeE77KYwAUwt7zflpRpVPFU8eJOgXVqXlz3TKW3D5oabdfwbY7Xoke404eFu3L3ZinCAs3whVNRqUyFknv26lKgs39zd0XphRgw5g4p0OQAwp9kk+iy6eJJY33XybR7X7EJr4KcuxUgnCYMuVXYgwqAG0juoOZ/xuygGtbfI4Cpv+dAned+xAxKXNqLxhZz/9PnBA8aOozOPjAk2Z/+TBHbabHVfOmG6ZMWVz0tafCBm/S1xneIhud2bFRloJ4EaJvp6q0pMZBXTLEF+eVxImw==;9YpFUUF2DAubg5Ab0uk4Iw=="
+secured: "Vjt2xHDuuntgLFVaZ5i9pbpgYH6/jts8NYFLDZondnofX3mRAvIEOZGRhVsPTIBtBNOZ/yUiGM7MZAXFYVw0rqJvYuK+rIVDELPNUkg9bQD66eqqFfPG5SXiCKDv+AfTrURyHi/XVZyrtIEU/WczfB2tWFnlDR34K+eINIbdPOVolPZwEtuG2Uo4F6+D9RI0hrmgTyy1ASGkkLqPLcbesXiHEgQgqj3rUAlYlytaUCbP2XqY/h/7+Cypgm6T8iKhU+I6cElnSngSnWz0OI0Q1vsgUWTZmeE6ojhkE1P4Hd6qcAHjOHx2F9obtbLNbqDMPgVZ7p8tqfHbBJc+0kBnXQ==;rW7QiIfm2iXJz1HfYZ2Y/Q=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple hit with $1.43B Siri patent lawsuit from Chinese AI firm"
+    excerpt: "A Chinese AI firm is suing Apple for alleged patent infringement involving the voice assistant Siri. Shanghai Zhizhen — also known as Xiao — is seeking $1.43 billion (10 billion yuan ..."
+    publishedDateTime: 2020-08-04T11:12:00Z
+    webUrl: "https://thenextweb.com/neural/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-04T113236.371-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Apple rebuffs US$1.4 billion patent lawsuit filed by Chinese artificial intelligence company"
     excerpt: "Shanghai Zhizhen Intelligent Network Technology has been locked in a legal battle with Apple over the Siri voice assistant system since 2012."
     publishedDateTime: 2020-08-04T07:26:00Z
@@ -168,6 +184,20 @@ related:
       - url: "https://www.insurancejournal.com/app/uploads/2015/07/Apple_Headquarters_in_Cupertino-580x403.jpg"
         width: 580
         height: 403
+        isCached: true
+  - title: "Apple rebuffs US$1.4bil patent lawsuit filed by Chinese artificial intelligence company"
+    excerpt: "Shanghai Zhizhen Intelligent Network Technology has been locked in a legal battle with Apple over the Siri voice assistant system since 2012. The Chinese AI company claims Apple has infringed a patent it owns,"
+    publishedDateTime: 2020-08-04T09:49:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/08/04/apple-rebuffs-us14bil-patent-lawsuit-filed-by-chinese-artificial-intelligence-company"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 31
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/04/806443.jpg"
+        width: 1240
+        height: 697
         isCached: true
 
 secured: "Ed0uOcvnGxDiL7IM+U6RIW2zIGCYDieS1Z31DZZrZ+LDOAtMTuhvNkddHdWg2IB4lG7fZacspw+4AFzQCfvX88z/NAH2FI6ljF2wb4UXJ2bcMOdKvJxqvioyzU4NDm8NHCNNxE04FSRde4tSQf/VgSrF01jBuHKWy5SekLrF9SeBlTRaNlS7J/X0TSZ89Pe/B5uCCnmK+WhE1Kn0TgVwHkSvAoaoK2tD87mKCCjP3OWjP4FtWFVr5pR6zOKTxKqOG+7yVcAzTa1rzlMz2Pbu8ATxBPOlxYaGoVLETDghLmwIXqfcW2U7hAFEAn6osarf1VcAHgOnQwr0BIgEJDX+IA==;BtVE+gAULwoB/Zm8ZBPf7A=="

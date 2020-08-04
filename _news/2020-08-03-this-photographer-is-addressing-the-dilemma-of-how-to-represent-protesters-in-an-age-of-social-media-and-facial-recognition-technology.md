@@ -27,47 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "This Tool Could Protect Your Photos From Facial Recognition"
-    excerpt: "Researchers at the University of Chicago want you to be able to post selfies without worrying that the next Clearview AI will use them to identify you."
-    publishedDateTime: 2020-08-03T09:10:00Z
-    webUrl: "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.amp.html"
+  - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
+    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
+    publishedDateTime: 2020-08-02T08:00:00Z
+    webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
+    ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
+    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
+      name: The State
+      domain: thestate.com
+    quality: 51
     images:
-      - url: "https://static01.nyt.com/images/2020/07/31/business/31fawkes4/31fawkes4-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "A new tool to protect yourself against facial recognition software"
-    excerpt: "A new research project from the University of Chicago Department of Computer Science provides a powerful new protection mechanism. Named Fawkes, the software tool “cloaks” photos to trick the deep learning computer models that power facial recognition,"
-    publishedDateTime: 2020-08-03T16:38:00Z
-    webUrl: "https://news.uchicago.edu/story/new-tool-protect-yourself-against-facial-recognition-software"
+  - title: "Portland councilors approve ban on facial recognition technology"
+    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
+    publishedDateTime: 2020-08-04T03:17:00Z
+    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
     type: article
     provider:
-      name: The University of Chicago Chronicle
-      domain: uchicago.edu
-    quality: 54
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 39
     images:
-      - url: "https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2020-08/FacialRecogition.jpg?itok=QZDhbvoF"
-        width: 1380
-        height: 776
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
+        width: 1000
+        height: 701
         isCached: true
-  - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
-    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-    publishedDateTime: 2020-08-03T12:40:00Z
-    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+  - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
+    excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
+    publishedDateTime: 2020-08-01T14:18:00Z
+    webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
+    ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 29
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 38
+    images:
+      - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
+        width: 1200
+        height: 899
+        isCached: true
 
 secured: "fbj0nsPA0TVZRgGU0gn4i3ZpMzX9vwbjxLNpwuluqRQSFcx68iy48qoL2fpaq/gaSYz5k04u+t04l9T7iUkqlfrSv1u8neToK6r9C4DIv/TULdE28zo7Htx5dACpPoFfsjtwrrO+hTl1XXOeaIsTAvr4I3Yxj2bKzOnUlonRU9h7hdi3posE9NwUa0nWvV3tNizRlZGbPQLSIcpH1iFSpYh9sF85LRf06KC/msWwb3izZrqi2dqizTgmiNG7qqbc/zlz2syU9iRQGUOhy17qo2kF1vFIu2Is2s0ZQyQ2NK//a5qe2mCVgdPlkCZ4EgRLaGWN6HtDSWIuu7udltJh2wzRBoLt6f7dLIvBQ/WLmm3qia5uhGqlbwSkJST5SQDpipk1JNXaSDZ+cZifWGCrdpe18Ainei66BxjN4VLAShv2vHzKAXtPkBYjZqvaxbUiH9i2pyr38sZMNJm3mLqAvf1/sQPvu7Rc+nFESMJiA46G+ficR2aK8AbYk78F4uUtZXILoB3EU5vTn1R+QqFcvw==;mV/FnYoB3Uus1sTLD3D2ew=="
 ---

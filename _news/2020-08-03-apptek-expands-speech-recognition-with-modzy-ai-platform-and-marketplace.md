@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Automotive Voice Recognition System Markets to 2025 - Cloud-based VR Systems Expected to Be the Market Leader"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Dublin, Aug. 04, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast ..."
+    publishedDateTime: 2020-08-04T11:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-the-market-leader-1029466115"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
 
 secured: "awC+xVsaHMmx4KAOCjR9BXgkxMg7H2fA1ZCm0QLxV1tYHDegY083qC6gaRzmEP5kcDmzjfZdrQEm46NtCzqjKXzx3Njybpf6NczvRsKEfPkb9xzMfB0oUccQYTLkAVhzcS0eHGbirzMsdL+/LjblVAKoZ2yQl+cRcB2Lf0Ff3hJkQgrjaUvfxNjVvjYKBloNVtOUWHyjPHwWfvk5uX0e95lRLldHWaUsSxwszHGuRjSlS6PKQmJyfv7YVCeLR/p58DGdP9yO/uEWiBl5eTbwFaCG0fAYoOmgrqjqu+sAovO1ALpJi8tmG8cIggifd0kSOjEFqRk/bdiPAUPWPTS8DA==;MsTR2uCiD81LPLCCtw+18Q=="
 ---
