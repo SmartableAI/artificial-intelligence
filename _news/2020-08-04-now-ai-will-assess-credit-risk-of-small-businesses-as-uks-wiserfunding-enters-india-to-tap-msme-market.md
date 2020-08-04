@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Now AI will assess credit risk of small businesses as UK’s Wiserfunding enters India to tap MSME market"
-excerpt: "Wiserfunding is planning to tie-up with three-four banks and around eight to 10 non-banking financial companies (NBFC) and cover 8.5 million SMEs in India through its AI-backed models by the end of FY21."
-publishedDateTime: 2020-08-04T13:10:00Z
-webUrl: "https://www.financialexpress.com/industry/sme/msme-fin-2-now-ai-will-assess-credit-risk-of-small-businesses-as-uks-wiserfunding-enters-india-to-tap-msme-market/2044714/"
-ampWebUrl: "https://www.financialexpress.com/industry/sme/msme-fin-2-now-ai-will-assess-credit-risk-of-small-businesses-as-uks-wiserfunding-enters-india-to-tap-msme-market/2044714/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/msme-fin-2-now-ai-will-assess-credit-risk-of-small-businesses-as-uks-wiserfunding-enters-india-to-tap-msme-market/2044714/lite/"
+excerpt: "and cover 8.5 million SMEs in India through its AI-backed models by the end of FY21. Credit and Finance for MSMEs: The UK-based fintech company Wiserfunding, which assesses credit risk of small and medium enterprises (SME), has forayed into India."
+publishedDateTime: 2020-08-04T21:38:00Z
+webUrl: "https://www.financialexpress.com/industry/sme/msme-fin-2/2044714/"
+ampWebUrl: "https://www.financialexpress.com/industry/sme/msme-fin-small-traders-will-die-amid-lockdown-without-foolproof-stimulus-traders-body-tells-government/1916458/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/msme-fin-small-traders-will-die-amid-lockdown-without-foolproof-stimulus-traders-body-tells-government/1916458/lite/"
 type: article
 quality: 43
 heat: -1
@@ -20,7 +20,7 @@ topics:
   - AI
 
 images:
-  - url: "https://images.financialexpress.com/2020/06/Artificial-Intelligence-660x440.jpg"
+  - url: "https://images.financialexpress.com/2020/04/1-38.jpg"
     width: 660
     height: 440
     isCached: true
@@ -73,6 +73,6 @@ related:
         height: 270
         isCached: true
 
-secured: "fh+bycrSxAtPQ9GdW1Deo/ExdXoODLRDQwIfgFuep6ZgIdeJh7KLuvMzFlHD8Ndm6s3faR23/hNSkEx7I+6MaoJoiKgLirG6elrrZGE7dXfFHrn/rKVMn3Y0hBd9YxtVhc87vJYURaJfGEjxQDm2iF3/dwYopH0L5y0BdXIEneqY3H3RNkhz8XN7VJW1GADWywKf8veMuu+sQ7MdCAfse+Q5AnKq18DZHwf9/3BRprJCjcG9VdGqBVWRCMouiN+7jje1AolIpP+7IEOpcCVNwuMnsm8qbJcjnvobZRBrK/QilJ3au+B0gSC566GcG2/YJ+zwn8T4nT8CrYG92fyp5yCTyCZvtuOh3oNZm5UFszy23TVdMIl8CnOb0iQ5xznHo69IdK7Y/j0l1Rr7/DnT3+xO2r8KjSh7jUOoHGH6+nWzjqpz+yd+VaqkkuN6OMH9FXeuLwCdYqjJm330g2ve8v8FwdbOJti0zB5inufJmlZFbsmhOutMdqvbcM556YBp;sLpaKVcvk9Dia48VLlpiwQ=="
+secured: "2enpwQmnvseC8UL0Gr8TgC38GbkrTMHLdjz+bXAEEl5ss7WziOzpts0u2oxj9a37nOSh5srimZo0JqzP+BehqE/h/S6EvNL4jtu/Ghk1AmGffj0ibp0U9dNmMo5Nb4CQ9IilNlmEx7Bdui6yFZhWhD9Jc3N+QDB5X6IFc9J5gA5eiXDuM+k7nGZBO9wsdQ7vf1b730KUgeXsCjmnwbiQr7O6Ediaw69+PnVrVkiXprIzD1W1HXchWJzn6Se5nHAUpliGkwwVApAEiRYAnTcKpjyxOlpnJlJV3O6yF0QAnjAOWGcwaeIKWCQjos4LEzy/BG5/OlHq+yJUcsBdtS/QnA==;UBkh8jzllo4DGiAvu3W/sg=="
 ---
 

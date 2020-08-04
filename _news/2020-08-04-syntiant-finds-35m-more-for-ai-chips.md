@@ -35,9 +35,9 @@ related:
         height: 600
         isCached: true
   - title: "AI Chip Company Syntiant Surpasses 1 Million Units Shipped; Raises $35 Million in Series C Funding Led by M12 and Applied Ventures"
-    excerpt: "Syntiant, a deep learning tech company providing AI voice and sensor solutions at the edge, today announced that the company has shipped more than 1 million units of its Syntiant (R) NDP100(TM) and Syntiant (R) NDP101(TM) microwatt-power Neural Decision Processors(TM) (NDPs) to customers worldwide."
-    publishedDateTime: 2020-08-04T12:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054"
+    excerpt: "\"We are now seeing Syntiant deliver on its execution strategy, setting new benchmarks that are unprecedented for a young AI chip company with the volume of products already shipped, and new customers coming on board.\" The company's highly accurate NDPs ..."
+    publishedDateTime: 2020-08-04T12:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04"
     type: article
     provider:
       name: MarketWatch
@@ -48,6 +48,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft invests in AI chip company Syntiant's $35 million Series C funding"
+    excerpt: "Microsoft Corp. was one of the lead investors in Syntiant's $35 million round of Series C financing. The Irvine, California-based firm said Microsoft’s (Nasdaq: MSFT) venture fund M12 and Applied Ventures LLC, the venture capital arm of Applied Materials ..."
+    publishedDateTime: 2020-08-04T18:19:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/08/04/microsoft-invests-in-ai-chip-company-syntiants-3.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/08/04/microsoft-invests-in-ai-chip-company-syntiants-3.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/08/04/microsoft-invests-in-ai-chip-company-syntiants-3.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 51
 
 secured: "B1jZWk/hcBY1Q+fXotA1jaT0zed9Y+LUP7lEISn8d/EasyGuWOYx26os2FHOw/EJLbUokZpO9xePpfgwwA5yNDOxLOp6o0TF6Fm1Y7GY/DXTMI/n3G6oWdGATn+XQGcwmlU9lHOQSkQv3DFMUdtV2U/OvaesLzadf36HtDV/x3ZS3a/v7fUJNp5Upx4rzmfpjMT9F4yUumx2AnsgKEw65ZU3joiv9XQ0/VMKpQ8uUwE1PGVCeUPtElPKKTiFjNpXme2bMHsq2B6uwSRHU/HsVk50qCHeMjtbBs1LkI18SG8MZedWnc5TVpt19LdRtXE2OnBMG6kAnn0jDzBlC5vP9g==;Px1c7Vw8omQclvckxJ647A=="
 ---

@@ -1,19 +1,19 @@
 ---
 category: news
 title: "WekaIO Named \"Hot Vendor in AI\" by Leading Analyst Firm"
-excerpt: "WekaIO™ (Weka), the innovation leader in high-performance, scalable file storage for data-intensive applications, today announced it has been included"
+excerpt: "We believe that our inclusion in the Hot Vendor report by Aragon Research confirms our continued innovation and success,” said Shailesh Manjrekar, head of AI and strategic alliances at WekaIO. “As AI use cases are moving from computer vision to multi-modal and conversational AI,"
 publishedDateTime: 2020-07-22T14:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200722005531/en/WekaIO-Named-Hot-Vendor-AI-Leading-Analyst"
+webUrl: "https://www.businesswire.com/news/home/20200722005531/en/"
 type: article
 
 provider:
-  name: Business Wire
+  name: The Register-Herald
   domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "HVu8PiSvlf82Bkcu+yFrvo67pGEUcUy8x65DA1vfNg014t97gsNOVNXhAZP23GhSPmE6nfr6ALEPnuNZtWwX9J44LHv40+c14ZiwUsbhM6CS5ULgBg2zSNXhu4wuHmAbo26l/CtfdvW0yhRj4Fwqzhe1+Unn3FQqLHBT2I5OAVOJqBZMoP/Fs/B77RYWttQdSqxFiMfnjt8/AzqaNya2EDUpjytd8U0Wb+o3pLFBvcpkcjyj2wyj5ZlLcEkKLUEWoi3lUWKqTW87zAHEbH3Pn2bOaARn0Xg9HBQ6E1Yi8S7Z5KnAlm9uJLR6+F5GQeYOUsDvlUZKxVDjF3EJ7LX7JQ==;ZOHsfwXrcW2hf696JtEptA=="
+secured: "XIe5J9zHiJ896EyMQHjbOfdxTnOSmXkDbNNOYWQAFPMQcj9UxO8mJEQtggrVOOPEn1oqv0HLZfITqkhNguheA8ej974yz7slRzOZ98clE4qAoFXg4WUEV7dGJguGVqEDDe9567PtBL+Hf64gLK7yEaBZYP3qDjwjHfA7r54oF3D+Iu+A9l4wBZ3tRn3BgRm5VFrKY4NvNe780Sxba9XD+Y+ksU/+5HXDp68gOTqnAh9gQCujZVqJke2X6ZbfhEJQPifNgZ7iFgwHJc114EVQ/i4heCJKZwp/CaCarYcK7C8xEWNs7ktvDU2u3EACWxbKupvwi2G80qmLm06VqmPEwA==;1PBQSb4wM2wh/yfgmdr8Wg=="
 ---
 

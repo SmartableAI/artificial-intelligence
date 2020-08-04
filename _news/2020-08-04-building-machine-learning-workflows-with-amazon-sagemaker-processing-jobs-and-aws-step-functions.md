@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Multi-GPU and distributed training using Horovod in Amazon SageMaker Pipe mode"
+    excerpt: "There are many techniques to train deep learning models with a small amount of data. Examples include transfer learning, few-shot learning, or even one-shot learning for an image classification task and fine-tuning for language models based on a pre-trained BERT or GPT2 model. However, you may still"
+    publishedDateTime: 2020-08-04T21:48:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/multi-gpu-and-distributed-training-using-horovod-in-amazon-sagemaker-pipe-mode/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/28/multi-gpu-distributed-training-2-2.jpg"
+        width: 600
+        height: 464
+        isCached: true
   - title: "Code-free machine learning: AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda"
     excerpt: "One of AWS’s goals is to put machine learning (ML) in the hands of every developer. With the open-source AutoML library AutoGluon, deployed using Amazon SageMaker and AWS Lambda, we can take this a step further, putting ML in the hands of anyone who wants to make predictions based on data—no prior programming"
     publishedDateTime: 2020-07-31T22:05:32Z

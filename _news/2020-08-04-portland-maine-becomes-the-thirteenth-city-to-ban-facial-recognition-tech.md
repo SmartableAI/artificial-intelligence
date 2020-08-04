@@ -78,6 +78,17 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Maine’s Biggest City Decides to Ban Facial Recognition Tech"
+    excerpt: "After months of delay, the Portland city council voted unanimously to ban use of facial recognition technology. The ordinance will begin in 30 days. The police say they have no intention of using it. (TNS) — After months of delay, Portland, Maine ..."
+    publishedDateTime: 2020-08-04T20:53:00Z
+    webUrl: "https://www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 54
   - title: "Face Masks Confuse Facial Recognition Technology"
     excerpt: "Americans can't agree on whether face masks are a good way to reduce the threat of transmitting COVID-19. We've even turned mask-donning into a symbol of partisan affiliation; those who would make them compulsory everywhere face off against those who refuse them under all circumstances."
     publishedDateTime: 2020-08-03T16:41:00Z

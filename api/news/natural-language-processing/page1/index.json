@@ -59,7 +59,7 @@
       "webUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -104,6 +104,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-04-the-survivor-last-korean-war-criminal-in-japan-wants-recognition.md",
+      "title": "The survivor: last Korean war criminal in Japan wants recognition",
+      "excerpt": "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528231197&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7301C",
+          "width": 799,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN25002W",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25002W",
+      "publishedDateTime": "2020-08-03T18:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-vehicle-speech-recognition-system-market.md",
       "title": "Vehicle Speech Recognition System Market",
       "excerpt": "A new research study has been presented by Dataintelo.com offering a comprehensive analysis on the Global Vehicle Speech Recognition System Market where user can benefit from the complete market research report with all the required useful information ...",
@@ -111,7 +161,7 @@
       "webUrl": "https://www.openpr.com/news/2101008/vehicle-speech-recognition-system-market-economic-forecasting",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -986,31 +1036,22 @@
     {
       "path": "_news/2020-07-27-expert-system-releases-expertai-natural-language-api.md",
       "title": "Expert System Releases expert.ai Natural Language API",
-      "excerpt": "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural",
+      "excerpt": "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural Language API that enables",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/288932/expert_system_Logo.jpg?p=facebook",
-          "width": 702,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T05:00:00-07:00",
+      "publishedDateTime": "2020-07-27T05:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1079,20 +1120,29 @@
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Industry Analysis 2019 – 2025",
       "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market report provides in-depth statistics and analysis available on the market status of the Natural Language Processing (NLP) in Healthcare and Life Sciences Manufacturers and is a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/",
+      "webUrl": "https://www.cmo.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg",
+          "width": 620,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-26T01:15:00-07:00",
+      "publishedDateTime": "2020-07-26T10:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1337,47 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-how-natural-language-processing-could-help-you-unpick-the-fed.md",
-      "title": "How natural language processing could help you unpick the Fed",
-      "excerpt": "Axa IM study finds increased use of negative words before the dot-com crisis in 2001 and the global financial crisis in 2008.",
-      "sourceUrl": null,
-      "webUrl": "https://citywireselector.com/news/how-natural-language-processing-could-help-you-unpick-the-fed/a1382858",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1qq9lwf5ow8iz.cloudfront.net/live-images-1/ImageDetail_5b6a85cb-8d53-481d-af02-f5d5fb49e6ca_Large",
-          "width": 1040,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Citywire",
-        "domain": "citywireselector.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

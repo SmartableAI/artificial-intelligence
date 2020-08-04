@@ -5,8 +5,8 @@ excerpt: "With more companies identifying and implementation the Artificial Inte
 publishedDateTime: 2020-08-04T17:48:00Z
 webUrl: "https://www.embedded-computing.com/guest-blogs/artificial-intelligence-and-machine-learning-path-to-intelligent-automation"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - Natural Language Processing
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "http://share.opsy.st/5f299b90d945d-imageedit_184_6711955422.jpg"

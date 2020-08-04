@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2101008/vehicle-speech-recognition-system
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Global Speech Recognition Market Expected to Reach $29.28 Billion by 2026"
+    excerpt: "Speech recognition is especially designed for an interdisciplinary subfield of computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers."
+    publishedDateTime: 2020-08-03T23:54:00Z
+    webUrl: "https://www.alliedmarketresearch.com/press-release/speech-recognition-market.html"
+    ampWebUrl: "https://www.alliedmarketresearch.com/press-release/amp/speech-recognition-market.html"
+    cdnAmpWebUrl: "https://www-alliedmarketresearch-com.cdn.ampproject.org/c/s/www.alliedmarketresearch.com/press-release/amp/speech-recognition-market.html"
+    type: article
+    provider:
+      name: Market
+      domain: alliedmarketresearch.com
+    quality: 38
   - title: "2020 Automatic Speech Recognition Applications Market Size, Rising Impact of COVID-19, Insights, Production and Demand Analysis to 2025"
     excerpt: "The report mainly studies the size, recent trends and development status of the Automatic Speech Recognition Applications market, as well as investment opportunities, government policy, market dynamics (drivers,"
     publishedDateTime: 2020-08-02T00:57:00Z

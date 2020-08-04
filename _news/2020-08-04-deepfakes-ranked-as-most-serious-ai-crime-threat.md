@@ -2,28 +2,45 @@
 category: news
 title: "'Deepfakes' ranked as most serious AI crime threat"
 excerpt: "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report."
-publishedDateTime: 2020-08-04T07:16:00Z
-webUrl: "https://phys.org/news/2020-08-deepfakes-ai-crime-threat.html"
-ampWebUrl: "https://phys.org/news/2020-08-deepfakes-ai-crime-threat.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-deepfakes-ai-crime-threat.amp"
+publishedDateTime: 2020-08-04T02:44:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php"
 type: article
-quality: 57
-heat: 57
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-cybercrime.jpg"
-    width: 1920
-    height: 720
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "3U2sLRT77T/cPGygmApalhvwv5Bf5Jft856eh2wGnhJLFwHvRj3CfnfDWjkI/1sofu0jRr+bA+YQp3WuqNu+vKJ6NMFqNWxHI3zNCKQ02lxJntP4V23wTL3p7qnMZTwqzuPdCsqbOqsfDqWbEqpeAYpNGffQqF6+wzCIjLEkcqgynRTauedNZW8lEYTm0cuJd4p8BxCongSsoMKRo63gP8aBQxPaTxeGfnfccTK7vVaziN0AyV3fynNyVmR3+0K05CeOHCdQyYqFn2qv76hK8y0gxHkTidWIj10Qz/MEyseSiKEXuWZrq5E2301Rk5Pu9XzIXQfeFenEs0mmF198NQ==;jH/20TPIVbHkAZvTkIripA=="
+related:
+  - title: "'Deepfakes' ranked as the most serious AI crime threat"
+    excerpt: "London: Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence (AI ... These are using driverless vehicles as weapons, crafting more tailored phishing messages (spear phishing ..."
+    publishedDateTime: 2020-08-04T21:29:00Z
+    webUrl: "https://www.freepressjournal.in/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat"
+    ampWebUrl: "https://m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
+    images:
+      - url: "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_17573035/thumb.jpg"
+        width: 800
+        height: 531
+        isCached: true
+
+secured: "PjHXKHDiqTID3a1RrDoLLHmbTaytabPoQF0msICg4Csq/Sf+6Yh9VipF28gbRLSmmkzZ8eAo8ChvHt6fU3COe477ilGa+425fwmyJiPujekG/0uKugcn8BUs4XuOW8gL7MLeCl11iRxY72RGyqHlFbyuRJI4/LJMsL2AdRUjtum9lLwncgsgMh3ztDgglMSFsFz5tqxg9Xv12ZSdthQgFaTDVJBpIjBbaYERMJKJgdtG9ZjSznMrpXb2NSqOrKnWjKVxYl1jWLuAIkEilwp3NHpmqq5gRKg6WSesFwxuddJDkBdo7FWw6Pfy0UIotmSO24NLaexC1NfP4WSUtiPWIg==;d8f7tD92paIsITv42pRAdQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-31T22:05:32Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/"
 type: article
 quality: 98
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Multi-GPU and distributed training using Horovod in Amazon SageMaker Pipe mode"
+    excerpt: "There are many techniques to train deep learning models with a small amount of data. Examples include transfer learning, few-shot learning, or even one-shot learning for an image classification task and fine-tuning for language models based on a pre-trained BERT or GPT2 model. However, you may still"
+    publishedDateTime: 2020-08-04T21:48:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/multi-gpu-and-distributed-training-using-horovod-in-amazon-sagemaker-pipe-mode/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/28/multi-gpu-distributed-training-2-2.jpg"
+        width: 600
+        height: 464
+        isCached: true
   - title: "Building machine learning workflows with Amazon SageMaker Processing jobs and AWS Step Functions"
     excerpt: "Machine learning (ML) workflows orchestrate and automate sequences of ML tasks, including data collection, training, testing, evaluating an ML model, and deploying the models for inference. AWS Step Functions automates and orchestrates Amazon SageMaker-related tasks in an end-to-end workflow. The AWS"
     publishedDateTime: 2020-08-04T19:19:05Z

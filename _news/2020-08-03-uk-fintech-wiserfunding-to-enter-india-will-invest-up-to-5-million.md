@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Now AI will assess credit risk of small businesses as UK’s Wiserfunding enters India to tap MSME market"
-    excerpt: "Wiserfunding is planning to tie-up with three-four banks and around eight to 10 non-banking financial companies (NBFC) and cover 8.5 million SMEs in India through its AI-backed models by the end of FY21."
-    publishedDateTime: 2020-08-04T13:10:00Z
-    webUrl: "https://www.financialexpress.com/industry/sme/msme-fin-2-now-ai-will-assess-credit-risk-of-small-businesses-as-uks-wiserfunding-enters-india-to-tap-msme-market/2044714/"
-    ampWebUrl: "https://www.financialexpress.com/industry/sme/msme-fin-2-now-ai-will-assess-credit-risk-of-small-businesses-as-uks-wiserfunding-enters-india-to-tap-msme-market/2044714/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/msme-fin-2-now-ai-will-assess-credit-risk-of-small-businesses-as-uks-wiserfunding-enters-india-to-tap-msme-market/2044714/lite/"
+    excerpt: "and cover 8.5 million SMEs in India through its AI-backed models by the end of FY21. Credit and Finance for MSMEs: The UK-based fintech company Wiserfunding, which assesses credit risk of small and medium enterprises (SME), has forayed into India."
+    publishedDateTime: 2020-08-04T21:38:00Z
+    webUrl: "https://www.financialexpress.com/industry/sme/msme-fin-2/2044714/"
+    ampWebUrl: "https://www.financialexpress.com/industry/sme/msme-fin-small-traders-will-die-amid-lockdown-without-foolproof-stimulus-traders-body-tells-government/1916458/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/msme-fin-small-traders-will-die-amid-lockdown-without-foolproof-stimulus-traders-body-tells-government/1916458/lite/"
     type: article
     provider:
       name: The Financial Express
       domain: financialexpress.com
     quality: 43
     images:
-      - url: "https://images.financialexpress.com/2020/06/Artificial-Intelligence-660x440.jpg"
+      - url: "https://images.financialexpress.com/2020/04/1-38.jpg"
         width: 660
         height: 440
         isCached: true

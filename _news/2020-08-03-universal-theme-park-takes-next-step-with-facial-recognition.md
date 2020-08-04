@@ -88,6 +88,22 @@ related:
         width: 796
         height: 419
         isCached: true
+  - title: "University of Chicago researchers are building a tool to protect your pictures from facial recognition systems"
+    excerpt: "The big picture: Face recognition is quickly becoming one of the biggest threats to our privacy, with many startups looking to create commercial services around this technology while exploiting the immense number of photos we've uploaded online. There is a ..."
+    publishedDateTime: 2020-08-04T19:55:00Z
+    webUrl: "https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-04-image-16.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "A new tool to protect yourself against facial recognition software"
     excerpt: "A new research project from the University of Chicago Department of Computer Science provides a powerful new protection mechanism. Named Fawkes, the software tool “cloaks” photos to trick the deep learning computer models that power facial recognition,"
     publishedDateTime: 2020-08-03T16:38:00Z

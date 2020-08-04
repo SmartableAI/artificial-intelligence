@@ -74,6 +74,22 @@ related:
         width: 1000
         height: 701
         isCached: true
+  - title: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing."
+    excerpt: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing. Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us."
+    publishedDateTime: 2020-08-04T19:12:00Z
+    webUrl: "https://www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down"
+    ampWebUrl: "https://www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down?amp"
+    cdnAmpWebUrl: "https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down?amp"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 37
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
+        width: 288
+        height: 342
+        isCached: true
   - title: "SingPass, a Facial Recognition Solution for ID Verification, Will be Used by Singapore’s DBS Bank for Digital Onboarding"
     excerpt: "SingPass, a facial recognition solution for ID verification, will be used by Singapore's DBS Bank for completing digital onboarding."
     publishedDateTime: 2020-08-03T03:45:00Z

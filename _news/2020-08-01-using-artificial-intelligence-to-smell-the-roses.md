@@ -22,6 +22,22 @@ images:
     height: 1608
     isCached: true
 
+related:
+  - title: "Using artificial intelligence to smell the roses"
+    excerpt: "\"We now can use artificial intelligence to predict how any chemical is going to smell to humans,\" said Anandasankar Ray, a molecular biologist and senior author of a study that appears in iScience. \"Chemicals that are toxic or harsh in, say, flavors ..."
+    publishedDateTime: 2020-08-04T19:53:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300998&org=NSF&from=news"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 37
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/smellthe_roses_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
+
 secured: "Eg+mf/aNXluUcrBlolthTWCUMERD9yJQ2Mets/Qg1eSE/fA720/vTbAr4nOaKZ0UVONpqKxAeOLR89AVppMhftvKor2bQ+8j8gll2pa3RsCKsosURUKIBIl5VKflHa898bgnJDaipdG+hKU7Iyv/FtjGzHXvHPhBNtalmlJTSYMevFf9I89QzDwG5uDoYR6HsCoAcg1urAxzM/2zNMPpESgjf89hyKD3WKCkiVLFQHrOhLJTOfe+NWpXTXAU9XRJvULdBD8yN6iEphv7Uqn7wPQnwD8yX/U8ecLmoGS/vvrPCHfD7TQ4vHSOwqWiJlGUO/5L37wGZnG99K+dfhhsVg==;jtXlHcoS3EzhfBd2FuYwow=="
 ---
 

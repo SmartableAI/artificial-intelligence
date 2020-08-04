@@ -84,6 +84,17 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Maine’s Biggest City Decides to Ban Facial Recognition Tech"
+    excerpt: "After months of delay, the Portland city council voted unanimously to ban use of facial recognition technology. The ordinance will begin in 30 days. The police say they have no intention of using it. (TNS) — After months of delay, Portland, Maine ..."
+    publishedDateTime: 2020-08-04T20:53:00Z
+    webUrl: "https://www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 54
   - title: "NY lawmakers vote to pause facial recognition in schools"
     excerpt: "In this July 10, 2018  a camera with facial recognition capabilities hangs from a wall during installation at Lockport High School in Lockport, N.Y. The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
     publishedDateTime: 2020-08-03T13:35:00Z

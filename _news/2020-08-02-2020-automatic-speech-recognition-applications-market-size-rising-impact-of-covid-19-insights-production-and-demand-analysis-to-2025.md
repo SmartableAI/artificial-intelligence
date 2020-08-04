@@ -44,6 +44,17 @@ related:
         width: 560
         height: 315
         isCached: true
+  - title: "Global Speech Recognition Market Expected to Reach $29.28 Billion by 2026"
+    excerpt: "Speech recognition is especially designed for an interdisciplinary subfield of computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers."
+    publishedDateTime: 2020-08-03T23:54:00Z
+    webUrl: "https://www.alliedmarketresearch.com/press-release/speech-recognition-market.html"
+    ampWebUrl: "https://www.alliedmarketresearch.com/press-release/amp/speech-recognition-market.html"
+    cdnAmpWebUrl: "https://www-alliedmarketresearch-com.cdn.ampproject.org/c/s/www.alliedmarketresearch.com/press-release/amp/speech-recognition-market.html"
+    type: article
+    provider:
+      name: Market
+      domain: alliedmarketresearch.com
+    quality: 38
   - title: "AppTek Expands Speech Recognition with Modzy AI Platform and Marketplace"
     excerpt: "The deployment extends AppTek´s language transcription and translation capabilities available via Modzy beyond the initial five ASR languages and two MT languages contributed by AppTek when the platform launched in November 2019."
     publishedDateTime: 2020-08-03T14:42:00Z

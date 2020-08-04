@@ -9,7 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1251,9 +1251,9 @@
     {
       "path": "_news/2020-07-22-wekaio-named-hot-vendor-in-ai-by-leading-analyst-firm.md",
       "title": "WekaIO Named \"Hot Vendor in AI\" by Leading Analyst Firm",
-      "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance, scalable file storage for data-intensive applications, today announced it has been included",
+      "excerpt": "We believe that our inclusion in the Hot Vendor report by Aragon Research confirms our continued innovation and success,” said Shailesh Manjrekar, head of AI and strategic alliances at WekaIO. “As AI use cases are moving from computer vision to multi-modal and conversational AI,",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200722005531/en/WekaIO-Named-Hot-Vendor-AI-Leading-Analyst",
+      "webUrl": "https://www.businesswire.com/news/home/20200722005531/en/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1265,7 +1265,7 @@
       "publishedDateTime": "2020-07-22T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
+        "name": "The Register-Herald",
         "domain": "businesswire.com",
         "images": null,
         "publishers": null,

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
         width: 1000
         height: 701
         isCached: true
+  - title: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing."
+    excerpt: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing. Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us."
+    publishedDateTime: 2020-08-04T19:12:00Z
+    webUrl: "https://www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down"
+    ampWebUrl: "https://www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down?amp"
+    cdnAmpWebUrl: "https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down?amp"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 37
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
+        width: 288
+        height: 342
+        isCached: true
   - title: "SingPass, a Facial Recognition Solution for ID Verification, Will be Used by Singapore’s DBS Bank for Digital Onboarding"
     excerpt: "SingPass, a facial recognition solution for ID verification, will be used by Singapore's DBS Bank for completing digital onboarding."
     publishedDateTime: 2020-08-03T03:45:00Z
@@ -91,6 +107,6 @@ related:
         height: 800
         isCached: true
 
-secured: "qDDSwfzna5D1u8PUkY0TzGSeIjD0U0csJZ5NTmxuj8/7oRF6Evv2aEwEwWmdjrNRmZ2Dl5pMoHmVRIPZpWe+MLLwvMtkkTUWJL31H5LqQitm0vjrcgxarB8d298N8bYNwjaugBYcuEAmzvPn9t+fIetxribITO+opofGCkwU5Xdus9CxYR+uMYv8VzQbAGfFno01dPb4g+RGadB0cjjY2RGYitwIpr3dWvV07/itjjdwGqMjVQubf6MzOS4FrAain7BY3SNs5jh0MkUGsCd14aTkzaJ8nkBqVQ56pYFoG4euKG/g7jeSr5J0RRIQfUyrKXjyPunuD6SLp51glv6Kwg==;4AJZDG39R3S0MsO7VGbFRw=="
+secured: "JIwayXYZXwg/dWFWPAtrZkTdUslG6KyleeaCbN8Ur/S+gfK+hcaxHOshcntdCUPyzonEjoXoVc6l3V05RDFcezEVF957oXasyZG5GkzMlKzPI+oMf9jWe3AZNC64DkDr0Rgk/icEx0DyCIpAfLv/4Z1k3r7RkIk1NONbOpgQWvOuB6Xz/DNdDyV+nx6HXJmHPxGMF0B+IAwqmi5uY8b3IekCT2l0wSSyjRXudj7KavXsWrDepyO0O09hbMsVyrYGRi/h54mLjNk8m1JjsqmqqTlqmBudfjsNSGvDQUtqvrCG8ZvmO0sQ+4DxccTQFct5Xm/6e57K2B0skkIBkeAAV3xgrwLkkAPmh9+mRVQc3cKfZbgAG3RA5OoXYbxcJcE/7Rt3Htfh31VBaifF0X8WuVYmQDssFppOb1BYtf5Wv/A9FPfee0bU0fB0WnqOrmQ5nDUfU4klCFyvt6cvKCWcmfozw05kAqGsyPCHSEfvve5WyCQObd1LbyihqlT9/ZOf;hix4ohlNIlpwBlWlQQUfLQ=="
 ---
 

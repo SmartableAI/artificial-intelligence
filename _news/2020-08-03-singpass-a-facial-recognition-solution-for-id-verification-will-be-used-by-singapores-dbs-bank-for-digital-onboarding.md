@@ -86,6 +86,22 @@ related:
         width: 1000
         height: 701
         isCached: true
+  - title: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing."
+    excerpt: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing. Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us."
+    publishedDateTime: 2020-08-04T19:12:00Z
+    webUrl: "https://www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down"
+    ampWebUrl: "https://www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down?amp"
+    cdnAmpWebUrl: "https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down?amp"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 37
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
+        width: 288
+        height: 342
+        isCached: true
 
 secured: "QvCmJ3VtIjynbVlJjUvV1xBxw+LEfAU1N3TXiAAS5TxydY4WEZ3tGAffYpBLo8OKI2TPQo1U5SzZ5p1Wi8vOBf9/wxmYaJ1QNIhTaJeI5mEi6Xg8qdrqt/HzSP9YGLhNwyiZC9Sxg+bp0D+w+xvBushGEkKz3FMIHFNzkjORpGOX/yKXT13rl82/cCbbwrmxG51hZtiKJXPqDVEzkBJuqsJy8iH1fPEZ0GlD7y0qZR89ma8Hf1ZdBzEwcBW+BaEEAGQB82FQWWmKBc/Jr/DNiF7IJ6FGR0srseOlqP3dYCdkW2E1PLQ6CWD/OMcGlABmbbZ/2EjrKHtR1GBEEt/M0w==;vGRrzYZSjO2/czHWacd5vw=="
 ---
