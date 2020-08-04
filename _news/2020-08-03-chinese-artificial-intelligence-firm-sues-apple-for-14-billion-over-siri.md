@@ -5,7 +5,7 @@ excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent N
 publishedDateTime: 2020-08-03T14:25:00Z
 webUrl: "https://www.insurancejournal.com/news/national/2020/08/03/577739.htm"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.insurancejournal.com/app/uploads/2015/07/Apple_Headquarters_in_Cupertino-580x403.jpg"

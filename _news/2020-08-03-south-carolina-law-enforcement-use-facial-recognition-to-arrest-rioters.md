@@ -141,6 +141,15 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Buildots raises $16 million as it brings AI computer vision to construction management"
+    excerpt: "Buildots, the company bringing AI to construction, today announced that it had secured $16 million in funding to leverage the power of AI"
+    publishedDateTime: 2020-07-30T19:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
   - title: "trinamiX Beam Profile Analysis Works Where Facial Recognition Fails Due to Face Protection Masks"
     excerpt: "Palatinate, Germany, 2020/08/03 - trinamiX announced its acclaimed Beam Profile Analysis technology can help existing facial recognition systems to recognize an owner and unlock their device, even while wearing a protective mask to prevent the spread of COVID-19 - trinamiXsensing."
     publishedDateTime: 2020-08-03T20:42:00Z

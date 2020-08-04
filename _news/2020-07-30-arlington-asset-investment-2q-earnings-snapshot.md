@@ -39,17 +39,6 @@ related:
         width: 400
         height: 427
         isCached: true
-  - title: "Pluralsight, Inc. (PS) Q2 2020 Earnings Call Transcript"
-    excerpt: "So I think that's helping counteract some of those adverse COVID affect. James, anything you would add? The AWS DeepRacer partnership is really focused on providing machine learning specific Skills development to those participants that are engaging in ..."
-    publishedDateTime: 2020-07-30T12:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/pluralsight-inc.-ps-q2-2020-earnings-call-transcript-2020-07-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/pluralsight-inc.-ps-q2-2020-earnings-call-transcript-2020-07-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pluralsight-inc.-ps-q2-2020-earnings-call-transcript-2020-07-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Siemens Healthineers AG (SEMHF) CEO Bernhard Montag on Q3 2020 Results - Earnings Call Transcript"
     excerpt: "Q3 2020 Earnings Conference Call August 03, 2020, 02:00 ET Company Participants Marc Koebernick - Head, IR Bernhard Montag - President, CEO & Chairman Jochen Schmitz - CFO Conference Call Participants Patrick Wood - Bank of America Merrill Lynch Scott Bardo - Berenberg Veronika Dubajova - Goldman Sachs Group Lisa Clive Bernstein - Sanford C."
     publishedDateTime: 2020-08-03T21:59:00Z

@@ -1,24 +1,19 @@
 ---
 category: news
 title: "WekaIO Named \"Hot Vendor in AI\" by Leading Analyst Firm"
-excerpt: "Vendors are evaluated based on completeness of strategy and performance WekaIO™ (Weka), the innovation leader in high-performance, scalable file storage for"
+excerpt: "WekaIO™ (Weka), the innovation leader in high-performance, scalable file storage for data-intensive applications, today announced it has been included"
 publishedDateTime: 2020-07-22T14:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/b16732625/wekaio-named-hot-vendor-in-ai-by-leading-analyst-firm"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16732625"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16732625"
+webUrl: "https://www.businesswire.com/news/home/20200722005531/en/WekaIO-Named-Hot-Vendor-AI-Leading-Analyst"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "t6GqJ41j4+6QWjPsQCLod05P7I0I/sAy4IhLU7g72sjKjbOTbNMWXKjCSwgt7nxJweegD2hIH30EpelDga70G/m1SnVBQvMoYW7NaM32TTfA76kwB5eNlyb3DEGiJ4D9mj0vcpFZxLJCmbE/5swTNcQwFEZWFpXxB9Zet2HVndOdiEmTbaJJFNuOWNNkhcYM6cXbJdtw7NKFsxTavwNpOb1qJN9PMQZ7s7fBLH5gtUKwhtGGQKpQGsEkw3YFCRoL+Bsxj7BXOEwYdM5GH1pyNIxWph5MEbvDsBwVjrzFoGbonZCy3QJgHe9ZAU9abQYSCqe2nx45Nz9+bHM3TDDX4VYX/dEENQ6XjUepVR5HTwlFI9aUAVw09rgwFE8lpcVoD36TxdCohsV5N1tPZMbUzZDn4qN68AoOWmIciH2mCzuwZ7hcPeEs4dVCxr4vypByQZ6GVbyZrNPk+jJ23+yj+2ClwjMsQEG4Rt3SAMXo9amA+SjZeVDuvfjAp7j/GkUU;blyzOqwuTaCbycvZqo9KbQ=="
+secured: "HVu8PiSvlf82Bkcu+yFrvo67pGEUcUy8x65DA1vfNg014t97gsNOVNXhAZP23GhSPmE6nfr6ALEPnuNZtWwX9J44LHv40+c14ZiwUsbhM6CS5ULgBg2zSNXhu4wuHmAbo26l/CtfdvW0yhRj4Fwqzhe1+Unn3FQqLHBT2I5OAVOJqBZMoP/Fs/B77RYWttQdSqxFiMfnjt8/AzqaNya2EDUpjytd8U0Wb+o3pLFBvcpkcjyj2wyj5ZlLcEkKLUEWoi3lUWKqTW87zAHEbH3Pn2bOaARn0Xg9HBQ6E1Yi8S7Z5KnAlm9uJLR6+F5GQeYOUsDvlUZKxVDjF3EJ7LX7JQ==;ZOHsfwXrcW2hf696JtEptA=="
 ---
 

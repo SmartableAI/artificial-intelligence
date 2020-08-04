@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers"
-    excerpt: "IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best ..."
-    publishedDateTime: 2020-07-30T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers-301103083.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
 
 secured: "81PT3lFaCdgSGU7HcsRV/P75pbanNT66zFdtfEwh8eIvBhJFDtvH4nNeLSdlNYY93ejp6RjYVXArUS5rcnz8ajJ3wvLI5dxFeS1bfd+ng7x6SNVbZk02LodimJEa32kUJxTGEPnNbGpmYyno+ED1qe3q4t2/yBY/TsqgPPvB+dp8u9RoUitc7x4fH/QRhbXw+f9vQZjZZVjMFHg9l1d9vDKnh6125VyDfPeTgVHZ1QuQ7FV3xToXeGhZulnfh+Yf+C2REzzUa4qY0f3FkvxHwXvUmH4YUYj5cIlmBZ/CAb+dgl2L6MKCY+i+htiC5ChA0lz+3Oq+qoLtWJxSG2axbw==;B101gabHn/ZA3gZXelYPQA=="
 ---

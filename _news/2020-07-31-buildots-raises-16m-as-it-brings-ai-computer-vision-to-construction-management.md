@@ -24,54 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Buildots raises $16M to bring computer vision to construction management"
-    excerpt: "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, today announced that it has raised $16 million in total funding. This includes a $3 million seed round that was previously unreported and a $13 million Series A round,"
-    publishedDateTime: 2020-07-30T12:29:00Z
-    webUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/"
-    ampWebUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 103
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/IMG_3411_s.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Candis raises nearly $14 million to automate accounting processes with AI"
-    excerpt: "Candis, a startup developing a platform for automated accounting and payment processes, this week closed a €12 million ($13.97 million) financing round. A spokesperson for the company said it ..."
-    publishedDateTime: 2020-07-30T12:02:00Z
-    webUrl: "https://venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/146b3f7d-5b70-434d-b6bd-d21f8fa3db27-e1595615072117.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The AI Foundation raises $17 million to create digital AI-powered personas"
-    excerpt: "The AI Foundation, a startup developing technology that powers digital personas, has raised $17 million in venture capital."
-    publishedDateTime: 2020-07-30T12:00:00Z
-    webUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/"
-    ampWebUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/106280242-1575548423323digitaldeepak-e1596118510259.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Buildots raises $16 million to marshal AI for construction management"
     excerpt: "The company uses hardhat-mounted 360-degree cameras to seamlessly determine the exact status of an ongoing project and provides invaluable insight to contractors"
     publishedDateTime: 2020-08-03T14:58:00Z
@@ -88,15 +40,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Buildots raises $16 million as it brings AI computer vision to construction management"
-    excerpt: "Buildots, the company bringing AI to construction, today announced that it had secured $16 million in funding to leverage the power of AI"
-    publishedDateTime: 2020-07-30T19:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
 
 secured: "0S/5SMZqUpdTOHyaf3ar8pIo7OEJuxoxU8Ox4xLESCJIgZ7rvG2Vp+WyeluMHThbxr8PByWAUrPF4isAytEjShVFeFMB5ChEijqtyUThVjYF/DrwBj81+8wPriDNP0URnFDe6GJVPCyLK1WnV3YUdlWd4FZW1HF2txy0/h9NvzwmKTvaSRIsSdNMhkhME2AWDiRpTeR04WZCjwjKEZBCbN1Ph9P6w5/rkIZ8t7OWx3pVlbkYgA3P993yAk6+Kj3O6B09Ci+NYN9TF2bEqjqZ4m9qoVD2Q/Vgn3a1BLmwVPwbLlCZba/Vvbnu5AeY71QWbL+WY7cf2dIzBpFXnDMOPA==;NN1TQGDwTFj/Pdsk/DPRQQ=="
 ---

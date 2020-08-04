@@ -2,6 +2,56 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-06-29-chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self-driving-robotaxi-service-in-shanghai.md",
+      "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
+      "excerpt": "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/29/079706d6-b9bb-11ea-b64b-070a892763db_image_hires_115443.jpg?itok=BOII168X&v=1593402889",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
+      "publishedDateTime": "2020-06-28T20:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-anders-ericsson-cognitive-psychologist-and-expert-on-expertise-dies-at-72.md",
       "title": "Anders Ericsson, cognitive psychologist and expert on expertise, dies at 72",
       "excerpt": "Ericsson, a Swedish-born cognitive psychologist, found that expertise was the result not of natural talent but of hard work - \"deliberate practice,\" as he put it, that distinguished the most ...",
@@ -1339,55 +1389,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020.md",
-      "title": "Only 12 hours left to apply for Startup Battlefield at Disrupt 2020",
-      "excerpt": "It’s now o’clock, founders. A mere 12 hours stands between you and a chance to compete in Startup Battlefield and launch your pre-Series A startup during Disrupt 2020 — in front of the world’s influential technorati.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/30671212518_aabcb476d7_k.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Only 12 hours left to apply for Startup Battlefield at Disrupt 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/amp/",
-      "publishedDateTime": "2020-06-26T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

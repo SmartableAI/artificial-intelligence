@@ -62,20 +62,6 @@ related:
         width: 1280
         height: 1066
         isCached: true
-  - title: "Reuters: Rite Aid Deployed China-Linked Facial Recognition in Poor Neighborhoods"
-    excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country, a Reuters investigation found."
-    publishedDateTime: 2020-07-30T13:01:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/07/30/577453.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 49
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/07/rite-aid-drig-store-580x387.jpg"
-        width: 580
-        height: 387
-        isCached: true
 
 secured: "jdn30hdpu+c9BGadaXVtchpbi99iY3xgUwHkoPPvPJ5fWs+ZYckhnEPi2D4+5WKpRZtNJqzjBo4md/dNmY0SpmzTV8PYQQl3dEGCuqNnKDwVLZz+D8g2lSsJFoTLiFfQrC6fU8Io/BwgsY4HZMUrsxIjb//Ci76ikbUMp36sBBrYmdMiqvk6wEDSrS9stZTHk/jSvSSq/OGDrBMPDZFBIDFLhsuwMzKohesXVh8DGHfxlLWjodsB9GaFj7XDYnkj79QCJvBQwDrDVKKxUz2kgo9wIRcpqODuuoTXFnv5NJmyCMgQj6lZ6rkh87Jw/htZFMiTmfieNkjrIQ3tklFWUQ==;6q6pZcIrSN9uwvkrRUfJZA=="
 ---

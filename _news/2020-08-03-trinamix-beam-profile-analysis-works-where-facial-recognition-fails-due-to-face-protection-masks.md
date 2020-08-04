@@ -149,6 +149,15 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Buildots raises $16 million as it brings AI computer vision to construction management"
+    excerpt: "Buildots, the company bringing AI to construction, today announced that it had secured $16 million in funding to leverage the power of AI"
+    publishedDateTime: 2020-07-30T19:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
 
 secured: "8svG5de35hgpgsvggE8oLHHUu8Mc+4KlMirlFtNH41K04buMnDC3B95qD7DjiJD/NjYymabOLPqFv+7HgVACcx2nA/fIty2e9DjnEWNYkcxJGLJwYG/iikDoRJml/ksgS/T2vNc+z8SfoKp/ZDOWPfeUy5XfMsoJEpEdNqCllHql4YeEtpp3C6V3R/owJJtWL/4WfAxgz/yhgGtcmlpw7fYoeKZUwjYx8QuBj5H7aKs00yPPbpnRgD83/SxvvWr6KHekf7dUORRor7JNEDsabHhk5C9TvL6ybQd2iFUrJhPeYP/ZAaGJlallMqUooV8ALKbb+s5f1bRqQn7kxtgz4g==;+sPGLiyWY4dRm0D25/5Bmw=="
 ---

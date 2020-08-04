@@ -2,8 +2,8 @@
 category: news
 title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
 excerpt: "DENVER, July 13, 2020 /PRNewswire/ -- Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its ..."
-publishedDateTime: 2020-07-13T08:35:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
+publishedDateTime: 2020-07-13T08:34:00Z
+webUrl: "https://www.prnewswire.com/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-301091851.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 893
     isCached: true
 
-secured: "tJjUmUEU4Cb3krDg4Ktf417bHSRUQOgVjRhO0I80/hX0UbQnrJVae1Re4yNWEJfgKp5N2NluiGchm+XRxbl5XpDdFCqJaU4cmlh0LJULLS0ZOXTdqJJ1Q3xis3PBGIYN7NGv8RzvYeakghxrBkBkBg4R+wTOjPEzs1Cb2jroFM68F/lPRLANU6h7P4/jXsf6yVxzZOzMHmQriinHKJDZYQcmBpOkFHZ2knC3qpCLImLq0XRdIPNU/RT6OjhCMWowgSk4tb98RZ6HpX4ej7NPiSbZ1npX8MH6v3z4eO2b3Mi5j15Yt2Zzl5AIXhlynMDdvVuGiBIc9vcQouZTST1w6A==;TS3BlP9kNR3A8BdynfmBAw=="
+secured: "SMaI7viQE+gDQT1uR700oleSZbA6iNHle4YPJI7WkhMjzYShQs/1d8ikS9EWUCeNXJLl3pfsceD6zDT0NfAaBnevcqqsk7x/yUhfvTTTOhSHJmURMH6nf2iTA00nbZ/89ULqneHorIMXlQIK25vITz3/0vca/Gkn8uewovdhISehrdRnaetGl9klSN9AOhy7RRpALvV1GJ3UUlvL1pOLaMy4L9sWRrVKfROqWJiEBziQjvM2m6HsAOeOf1bq+azQ+F8M/geK0j4G9LiPlsU7B99in8Dvy4IPtppdu9oYD4epHTd+PLgLDQ6EVGjuaOLQLJGGVMmESLFw/Yc199DvkQ==;VdtA/ohJQ8d305SaN/Ozbg=="
 ---
 

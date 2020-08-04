@@ -18,84 +18,146 @@ topics:
   - AI
 
 related:
-  - title: "Buildots raises $16M to bring computer vision to construction management"
-    excerpt: "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, today announced that it has raised $16 million in total funding. This includes a $3 million seed round that was previously unreported and a $13 million Series A round,"
-    publishedDateTime: 2020-07-30T12:29:00Z
-    webUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/"
-    ampWebUrl: "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/"
+  - title: "Facebook raises settlement to $650 million in facial recognition lawsuit"
+    excerpt: "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,"
+    publishedDateTime: 2020-07-31T21:00:00Z
+    webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: Reuters
+      domain: reuters.com
     quality: 103
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/IMG_3411_s.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST"
+        width: 831
+        height: 545
         isCached: true
-  - title: "Candis raises nearly $14 million to automate accounting processes with AI"
-    excerpt: "Candis, a startup developing a platform for automated accounting and payment processes, this week closed a €12 million ($13.97 million) financing round. A spokesperson for the company said it ..."
-    publishedDateTime: 2020-07-30T12:02:00Z
-    webUrl: "https://venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/candis-raises-nearly-14-million-to-automate-accounting-processes-with-ai/amp/"
+  - title: "This Algorithm Might Make Facial Recognition Obsolete"
+    excerpt: "In 2020, it’s worth assuming that every status update and selfie you upload online can eventually make its way into the hands of an obscure data-mining third party, into the hands of national authorities,"
+    publishedDateTime: 2020-08-03T18:47:00Z
+    webUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686"
+    ampWebUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/146b3f7d-5b70-434d-b6bd-d21f8fa3db27-e1595615072117.png?w=1200&#038;strip=all"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uj2hrvj4kqippfvphhht.png"
+        width: 800
+        height: 448
+        isCached: true
+  - title: "New York Lawsuit Over School Facial Recognition Use Grows"
+    excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
+    publishedDateTime: 2020-07-30T19:07:00Z
+    webUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html"
+    ampWebUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
+        width: 916
+        height: 630
+        isCached: true
+  - title: "Chinese facial recognition developer closes $1.5 billion funding round"
+    excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
+    publishedDateTime: 2020-07-31T18:06:00Z
+    webUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
+    ampWebUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: "https://images.axios.com/u9fundSGt0qv214WnaDlpg_GiiA=/fit-in/1366x1366/2020/07/31/1596217401749.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Face Masks Confuse Facial Recognition Technology"
+    excerpt: "Americans can't agree on whether face masks are a good way to reduce the threat of transmitting COVID-19. We've even turned mask-donning into a symbol of partisan affiliation; those who would make them compulsory everywhere face off against those who refuse them under all circumstances."
+    publishedDateTime: 2020-08-03T16:41:00Z
+    webUrl: "https://reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/"
+    ampWebUrl: "https://reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 39
+  - title: "NY lawmakers vote to pause facial recognition in schools"
+    excerpt: "In this July 10, 2018  a camera with facial recognition capabilities hangs from a wall during installation at Lockport High School in Lockport, N.Y. The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
+    publishedDateTime: 2020-08-03T13:35:00Z
+    webUrl: "https://www.register-herald.com/region/ny-lawmakers-vote-to-pause-facial-recognition-in-schools/article_20087c3b-e052-55c6-bf1b-2250d13e340d.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/0/20/020b0819-5e41-5f14-94ea-a4358d2834a3/5f19cd2f6b03f.image.jpg?resize=868%2C630"
+        width: 868
+        height: 630
+        isCached: true
+  - title: "South Carolina Law Enforcement Use Facial Recognition to Arrest Rioters"
+    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May."
+    publishedDateTime: 2020-08-03T11:13:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21148573/south-carolina-law-enforcement-use-facial-recognition-to-arrest-rioters"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 39
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/08/16x9/richlandcounty.5f27f1176864c.png?auto=format&fit=max&w=1200"
         width: 1200
-        height: 600
+        height: 674
         isCached: true
-  - title: "The AI Foundation raises $17 million to create digital AI-powered personas"
-    excerpt: "The AI Foundation, a startup developing technology that powers digital personas, has raised $17 million in venture capital."
-    publishedDateTime: 2020-07-30T12:00:00Z
-    webUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/"
-    ampWebUrl: "https://venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/the-ai-foundation-raises-17-million-to-create-digital-ai-powered-personas/amp/"
+  - title: "Wearing Masks Confuses Facial Recognition"
+    excerpt: "Facial recognition and masks study explored 3 levels of nose coverage, finding that accuracy degrades with greater nose coverage."
+    publishedDateTime: 2020-08-03T17:20:00Z
+    webUrl: "https://www.commercialintegrator.com/blogs/facial-recognition-masks/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/106280242-1575548423323digitaldeepak-e1596118510259.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/08/face_mask.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "Buildots raises $16 million to marshal AI for construction management"
-    excerpt: "The company uses hardhat-mounted 360-degree cameras to seamlessly determine the exact status of an ongoing project and provides invaluable insight to contractors"
-    publishedDateTime: 2020-08-03T14:58:00Z
-    webUrl: "https://www.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337"
-    ampWebUrl: "https://m.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337/amp"
+  - title: "Big Tech Curbs Police Use of Facial Recognition Systems Due to Racial Biases"
+    excerpt: "A lot of these algorithms that have been developed, whether they are in healthcare or policing or visual recognition, are basically including the biases of the people who develop them,” Okolo said."
+    publishedDateTime: 2020-08-02T21:16:00Z
+    webUrl: "https://cornellsun.com/2020/08/02/big-tech-curbs-police-use-of-facial-recognition-systems-due-to-racial-biases/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
+      name: Cornell Daily Sun
+      domain: cornellsun.com
+    quality: 36
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461590"
-        width: 640
-        height: 428
+      - url: "https://i2.wp.com/cornellsun.com/wp-content/uploads/2020/08/UFTP6J0e4OMM_6WIuAp6kCMYpYmUt4V9lDQsb4Aml6eayrVRI3z0KwDsIB3_ta8jGgK0PtVEY0XlGocqT1ARCp0WxljqEJvqtaUJU2DcbNg.jpeg?fit=1170%2C780"
+        width: 1170
+        height: 780
         isCached: true
-  - title: "Buildots raises $16m as it brings AI computer vision to construction management"
-    excerpt: "Buildots, the company bringing AI to construction, have announced that it had secured $16 million in funding to leverage the power of AI to track, analyze and provide actionable"
-    publishedDateTime: 2020-07-31T05:48:00Z
-    webUrl: "https://londonlovesbusiness.com/buildots-raises-16m-as-it-brings-ai-computer-vision-to-construction-management/"
+  - title: "trinamiX Beam Profile Analysis Works Where Facial Recognition Fails Due to Face Protection Masks"
+    excerpt: "Palatinate, Germany, 2020/08/03 - trinamiX announced its acclaimed Beam Profile Analysis technology can help existing facial recognition systems to recognize an owner and unlock their device, even while wearing a protective mask to prevent the spread of COVID-19 - trinamiXsensing."
+    publishedDateTime: 2020-08-03T20:42:00Z
+    webUrl: "https://www.newswiretoday.com/news/173408/trinamiX-Beam-Profile-Analysis-Works-Where-Facial-Recognition-Fails-Due-to-Face-Protection-Masks/"
     type: article
     provider:
-      name: londonlovesbusiness.com
-      domain: londonlovesbusiness.com
-    quality: 50
-    images:
-      - url: "https://londonlovesbusiness.com/wp-content/uploads/2020/07/Buildots-technology-in-action-photo-credit-Eyal-Toueg.jpg"
-        width: 599
-        height: 400
-        isCached: true
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 21
 
 secured: "pT7R2JM1mtP+wSp/pi5jOWll7YR740mLvESuPaMqJlD0kRp6FGOHRBit95/Vky06CT/7P83WVqJdNlohWEUmAaXWDX4mhg5bOcDZDv1p4Kfu+ybv2oUlLifslDqOsw6uPiVrIq144HrcbU5iePuAxTMufSsPK5qQfRCmv7m+lMuvhVnlCwV7lVOijUrFo204mtP+DdnuwltVefZg2kUnGnCMDSdd5y5x/N8Z64S6DqT+w4p66lFstqm7CKuagRVe7JEREvd0BUvta0y0sVMwa8SQqrcog9zCrpxC+JDXhIQoDouuGfQ+Msyo44deLXnRP9eBxtDI6VJHAQtPQqWIdw==;vw41xNPe9uKRkcEr/5HbBw=="
 ---

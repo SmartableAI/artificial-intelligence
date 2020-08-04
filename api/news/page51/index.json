@@ -2,6 +2,47 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-06-25-dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine.md",
+      "title": "Dayzz Sleep App Announces Publication of the Findings From Clinical Trial to Validate Its Sleep Assessment Machine Learning Engine",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... of its first clinical trial. dayzz' machine learning engine enables assessment of common ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "publishedDateTime": "2020-06-25T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity.md",
       "title": "AI-Fueled Startup Turns Disrupted Supply Chains Into Last Mile Opportunity",
       "excerpt": "When Shamir Rahim, founder and CEO of VersaFleet, transformed his bio-medical startup into an AI-powered transportation management system, he never imagined being at the epicenter (in a good way) of a supply chain revolution during a worldwide pandemic.",
@@ -1109,56 +1150,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly.md",
-      "title": "Apple’s Core ML now lets app developers update AI models on the fly",
-      "excerpt": "Apple's Core ML can now update AI models without the need to ship an App Store update, while Create ML now has an action classification template.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/apple-core-ml.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 574,
-          "title": "Apple’s Core ML now lets app developers update AI models on the fly",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
-      "publishedDateTime": "2020-06-24T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

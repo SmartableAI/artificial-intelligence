@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ca.reuters.com/article/topNews/idCAKCN25002W</loc>
-    <lastmod>2020-08-03T18:27:00-07:00</lastmod>
+    <loc>https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/</loc>
+    <lastmod>2020-08-03T22:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1777,6 +1777,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200722005531/en/WekaIO-Named-Hot-Vendor-AI-Leading-Analyst</loc>
+    <lastmod>2020-07-22T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800</loc>
     <lastmod>2020-07-22T06:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2455,14 +2461,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://news.webindia123.com/news/Articles/Science/20200719/3595133.html</loc>
-    <lastmod>2020-07-19T11:01:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
+    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
-    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
+    <loc>https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California</loc>
+    <lastmod>2020-07-19T10:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3547,6 +3553,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-</loc>
+    <lastmod>2020-07-14T12:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/</loc>
     <lastmod>2020-07-14T11:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3823,12 +3835,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://br.advfn.com/noticias/PRNUS/2020/artigo/82853378</loc>
-    <lastmod>2020-07-13T17:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/</loc>
     <lastmod>2020-07-13T16:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -4039,8 +4045,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html</loc>
-    <lastmod>2020-07-13T01:35:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-301091851.html</loc>
+    <lastmod>2020-07-13T01:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

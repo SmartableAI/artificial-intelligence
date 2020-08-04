@@ -2,12 +2,12 @@
 category: news
 title: "The history of self-driving cars"
 excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
-publishedDateTime: 2020-07-31T21:12:00Z
-webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?itm_source=4&itm_content=1x4&itm_term=2377093"
+publishedDateTime: 2020-07-31T21:26:00Z
+webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/"
 ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/self-driving-car-3-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Baidu completes its computer for self-driving cars"
@@ -54,20 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why Self-Driving Cars Might Never Become A Commodity"
-    excerpt: "It’s no wonder that minimizing or preventing the chance of human (driving) errors is among the key value propositions for the introduction of autonomous (a.k.a. self-driving or driverless) vehicles. Test drives with autonomous vehicles (AVs) have been ..."
-    publishedDateTime: 2020-07-30T11:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/30/why-self-driving-cars-might-never-become-a-commodity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Baidu is ready to produce computers for self-driving cars"
     excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
     publishedDateTime: 2020-08-03T14:20:00Z
@@ -97,6 +89,6 @@ related:
         height: 675
         isCached: true
 
-secured: "RD4+wosmHO+eb+ZR9EjSjl350xV4OvN8qiG0Mv9q7bt4hBy9//p1zFWA79d0yAT09iur70BnQuSADp317hB0HRHpvnE+3HYwB9w4XD4ycEC5Ty7PoOgBTZSJ1lSaqg0OKk6ZuZBaKcZF7C7XmkzAWlHjZKCOv5SM504EGN4g4qNIgDf3VKPW7ANhdBsm5l2ylY6OUhqFtxdX/J4cBVSvdeKjGnkwn0DZxpYffx7kbuQp5md4uR2UI6mGxYZivXcMOqnXmisc0fkR1gQ628F57N4IcCWyrQtofp/1q15K1dyX8bLIIdinx31LW0dBD+7y8dsDKTiKYsiwfKxBvLb6xQ==;2LXv7OZdLrqtGW0k/DPHuQ=="
+secured: "8qfbzelMJ3XBJIjR/8WJr4xRHYgqSrD1aWwCkUzT/W02E8ahQT5C6mh8lZ/uGpfyzNu1giVv8zDupeRz3t02tVILZ57NreTr8PEvqOpH3ZsiDxA5sZpJQNzcP8JA+Qi6e9dovHc62vaTQDsXuUeE00q4JZY4BATduLUdB+PE+cX0yqsiH4SdlRDUiYz0ldoOtVhYJghPxhTrFS5IKrBjHftJZwHIRfJC23qdUVV/yXPyc14ejjh/oo7fh+Fq287MQXmUsG1R1exlDeFuuORZ8wM3qFftp0Jn45Ymxi8rr6u95HgdRmWOJfv7D3fvrub+4NOKt+dSrscyY6oFVZbivQ==;yc7cSghhOEyzA7kPSZatGA=="
 ---
 

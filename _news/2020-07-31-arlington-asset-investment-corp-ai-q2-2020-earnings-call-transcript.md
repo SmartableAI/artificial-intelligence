@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/earnings/call-transcripts/2020/07/31/arling
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pluralsight, Inc. (PS) Q2 2020 Earnings Call Transcript"
-    excerpt: "So I think that's helping counteract some of those adverse COVID affect. James, anything you would add? The AWS DeepRacer partnership is really focused on providing machine learning specific Skills development to those participants that are engaging in ..."
-    publishedDateTime: 2020-07-30T12:16:00Z
-    webUrl: "https://www.nasdaq.com/articles/pluralsight-inc.-ps-q2-2020-earnings-call-transcript-2020-07-30"
-    ampWebUrl: "https://www.nasdaq.com/articles/pluralsight-inc.-ps-q2-2020-earnings-call-transcript-2020-07-30?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pluralsight-inc.-ps-q2-2020-earnings-call-transcript-2020-07-30?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Arlington Asset Investment: 2Q Earnings Snapshot"
     excerpt: "MCLEAN, Va. (AP) — Arlington Asset Investment Corp. (AI) on Thursday reported second-quarter net income of $10.2 million, after reporting a loss in the same period a year earlier. On a per-share basis, the McLean, Virginia-based company said it had ..."
     publishedDateTime: 2020-07-30T21:57:00Z

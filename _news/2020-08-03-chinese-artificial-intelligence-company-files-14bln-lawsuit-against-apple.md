@@ -142,7 +142,7 @@ related:
     provider:
       name: Insurance Journal
       domain: insurancejournal.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://www.insurancejournal.com/app/uploads/2015/07/Apple_Headquarters_in_Cupertino-580x403.jpg"
         width: 580

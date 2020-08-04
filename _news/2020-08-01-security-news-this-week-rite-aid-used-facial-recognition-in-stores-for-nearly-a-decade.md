@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
 type: article
 quality: 96
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.paymentsjournal.com/wp-content/uploads/2018/06/flat-3252983_1280.png"
         width: 1280
         height: 1066
-        isCached: true
-  - title: "Reuters: Rite Aid Deployed China-Linked Facial Recognition in Poor Neighborhoods"
-    excerpt: "Over about eight years, the American drugstore chain Rite Aid Corp quietly added facial recognition systems to 200 stores across the United States, in one of the largest rollouts of such technology among retailers in the country, a Reuters investigation found."
-    publishedDateTime: 2020-07-30T13:01:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/07/30/577453.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 49
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/07/rite-aid-drig-store-580x387.jpg"
-        width: 580
-        height: 387
         isCached: true
 
 secured: "Y1DiVQ4F3Ng5yiRM0HIFPX38+G3LHBo1NFdPCNNJ+R4MaeBBHfxcQMVUWAv+yXVMnbHzGPj/Dx6l2mCT8mPhlc9HxmcnaCywU0UmWKPRZwpCiVbLblEq8vqyVhFo1FU1mlc8uw4Lgm8NnTZlHXkVSUOsuAML4fRBc1j7w0ueF49SQa8FyhgwBUAsoqBoPh3W6/C36igZaJ3O9E0mWY592hXhDHbqxZo/9OnHLCuZC6KBVMT6yVvXT8egLXqMCEg1wicicehJ42GTySb0mTdi5wFGhPugHqBEpzLDZamZ2jeA4Oelt81WUTgcwjeZuNZ45tFMCDiqV3Mhka2YliV6d9xx7BFAumSffwm6rgC1q0BSuM6HsQZ1czd2lMCv/rozgbe6uZ5PHaFrfRKiic9E1gpCS0WK318lQSrYKAfmtQsQLa+f8i2V7sQpvEonKIvWFMxth9ULpAh9v0JffmAGoUVZStSmvF11L/ziooQbiWQmiHHhUlz28ck/SP8PYAQ0DNhw+8X/wA7+nyBCALhPKg==;QnyKHRZFksvwAjfGcIqVBw=="

@@ -2,43 +2,34 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-04-the-survivor-last-korean-war-criminal-in-japan-wants-recognition.md",
-      "title": "The survivor: last Korean war criminal in Japan wants recognition",
-      "excerpt": "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo.",
+      "path": "_news/2020-08-04-get-over-50-hours-of-training-in-machine-learning-for-under-30.md",
+      "title": "Get over 50 hours of training in machine learning for under £30",
+      "excerpt": "TL;DR: The Machine Learning Master Class bundle is on sale for £29.85 as of August 4, saving you 91% on list price. Thanks to developing artificial intelligence technologies, computer are smarter ...",
       "sourceUrl": null,
-      "webUrl": "https://ca.reuters.com/article/topNews/idCAKCN25002W",
+      "webUrl": "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528231197&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7301C",
-          "width": 799,
-          "height": 545,
+          "url": "https://mondrian.mashable.com/2020%252F08%252F04%252Fa2%252F9d02595b494441d2bb4dc704f8ce4b85.1f5fc.jpg%252F1200x630.jpg?signature=Sptw61vujsHeWR7oaA4xnp6uvgw=",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/ca/idCAKCN25002W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/ca/idCAKCN25002W",
-      "publishedDateTime": "2020-08-03T18:27:00-07:00",
+      "ampWebUrl": "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp",
+      "publishedDateTime": "2020-08-03T22:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -47,7 +38,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -553,7 +544,7 @@
       "webUrl": "https://www.forbes.com/sites/petersuciu/2020/08/03/artificial-intelligence-will-help-brands-align-with-influencers/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1212,7 +1203,7 @@
       "webUrl": "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1294,7 +1285,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
