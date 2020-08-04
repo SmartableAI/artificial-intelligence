@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Nokia to set up robotics lab at IISc for 5G research"
-excerpt: "for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop use cases across areas like emergency management, agriculture and industrial automation ..."
+excerpt: "The Nokia Centre of Excellence (CoE) for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI ... between academia, start-ups and industry ecosystem partners ..."
 publishedDateTime: 2020-08-04T13:25:00Z
 webUrl: "https://www.sify.com/finance/nokia-to-set-up-robotics-lab-at-iisc-for-5g-research-news-topnews-uienrkfbehjgd.html"
 type: article
@@ -75,6 +75,6 @@ related:
       domain: dqindia.com
     quality: 19
 
-secured: "lFFrRfZiHGhM/bSsVFnRLn21LxWtrG3XilRuQIv0E0SqG6MO+BFScsIrh5B1nqeZ5UrwjVTnVk/TFyYn+i/uBN874YLeRICmG4qgs2FBhMsY003bhN9MFUhpExL48bSoIADH5ZoxQsPyHXtYY7Wg+xCOrQmcC2SfbBJjGhCglLmLd6dXrA+KM229dTnWhIYmcrI7GK7H0p8c2zui3XXrCt5YMyHTrhV8RD7KZLRxLYADn4TH67eRiotpyH4FChyxvW0nAXCsq5zEYK+sVANgX4v8i3VOOxNj77FOOXJaY8UhyeoUD5eqBLWpmvpBZ2hJtQJ5sA8OasDmOS7bfudCTQ==;Eu8ORasx9Cy32kGLyc2Ylw=="
+secured: "UVoqGoypfWrO7RgeTgkIf7Ao8TGWjRPLxFDFGiB8eBwu8SEhvhE4mZrhnndh4Ca84l2T7L36hXhCeiy8yyNDGE/zdclSe3Fk7T5oT8vTrg4cPDhA8spFydys+m6DBDLvE6X9KQW67RTkD+xgbJB0p1DgQllPJUdNXFL8LjInWQuhQz4Rytxk45LVDbaiijmzBs7Aka3Zg+974S80WYBLCziNbQi1hchEIkmNsPAQn8OZlC/VpNAcXSHcLzvgcf5Ye95CZnR5BXUY7nYzOWzZthut5835+Ft7XAKivKNPQL0llfC2V3aDuycuU9UBJ3HUYY8aBQURXjOYAS9OeWkcIw==;eT1or6oNMWNP1SR6W5jdEQ=="
 ---
 

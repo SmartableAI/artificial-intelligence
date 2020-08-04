@@ -8,7 +8,7 @@ ampWebUrl: "https://m.economictimes.com/tech/software/ltts-expands-collaboration
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "LTTS expands collaboration with Microsoft for workplace transformation"
+    excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
+    publishedDateTime: 2020-08-04T13:52:00Z
+    webUrl: "https://www.dqindia.com/ltts-expands-collaboration-microsoft-workplace-transformation/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
   - title: "L&T Technology Services expands collaboration with Microsoft to offer eco-friendly solutions for workplace transformation"
     excerpt: "L&T Technology Services Limited, a leading global pure-play engineering services company, today announced that it has expanded its collaboration with Microsoft Corporation and launched its latest and enhanced version of the state-of-the-art i-BEMS solution on Microsoft Azure to transform buildings into future-ready smart campuses."
     publishedDateTime: 2020-08-04T07:27:00Z

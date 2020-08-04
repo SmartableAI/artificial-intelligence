@@ -24,43 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition, thermal imaging part of future with coronavirus"
-    excerpt: "The coronavirus pandemic has inspired a new wave of technology , including thermal imaging and facial recognition software that can detect fevers among employees, a common symptom of the virus. PopEntry+ combines instant facial recognition and temperature screening that can connect to employees’ mobile devices,"
-    publishedDateTime: 2020-08-02T06:00:00Z
-    webUrl: "https://www.dailyitem.com/business/facial-recognition-thermal-imaging-part-of-future-with-coronavirus/article_4b1f1c0a-1799-5dfc-bc7c-7aa1e7bb1454.html"
+  - title: "Facial recognition tech for chimps looks to bust online ape trafficking"
+    excerpt: "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ..."
+    publishedDateTime: 2020-08-04T15:24:00Z
+    webUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/"
+    ampWebUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
+    cdnAmpWebUrl: "https://news-mongabay-com.cdn.ampproject.org/c/s/news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
     type: article
     provider:
-      name: The Daily Item
-      domain: dailyitem.com
+      name: Mongabay
+      domain: mongabay.com
+    quality: 59
+    images:
+      - url: "https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/08/04104940/Mongabay-ChimpFace-banner-1200x737.jpg"
+        width: 1200
+        height: 737
+        isCached: true
+  - title: "Portland councilors approve ban on facial recognition technology"
+    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
+    publishedDateTime: 2020-08-04T03:17:00Z
+    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg"
-        width: 1200
-        height: 630
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
+        width: 1000
+        height: 701
         isCached: true
-  - title: "OPTEC Launches Safe-Scan Contactless Infrared Temperature Scanners with Facial Recognition and Mask Compliance Features"
-    excerpt: "CARLSBAD, CA / ACCESSWIRE / August 3, 2020 / OPTEC International, Inc (OTC PINK:OPTI) Today announced the launch of the company’s new “Safe-Scan” stand-alone infrared temperature scanning technology for use in complying with CDC standards for assisting the reopening of Schools,"
-    publishedDateTime: 2020-08-03T12:45:00Z
-    webUrl: "https://apnews.com/31485d52222e12b792a9de9292cc44c8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Optec International, Inc.: OPTEC Launches Safe-Scan Contactless Infrared Temperature Scanners with Facial Recognition and Mask Compliance Features"
-    excerpt: "CARLSBAD, CA / ACCESSWIRE / August 3, 2020 / OPTEC International, Inc (OTC PINK:OPTI) Today announced the launch of the company's new \"Safe-Scan\" stand-alone infrared temperature scanning technology f"
-    publishedDateTime: 2020-08-03T12:56:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50341788-optec-international-inc-optec-launches-safe-scan-contactless-infrared-temperature-scanners-with-facial-recognition-and-mask-compliance-features-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "zoYhka/JFH/vF+O6mKlifCiGm1/4tXcwZCTAMcuGQM2ozjnVpO3fxmTP6HwoY8sPqXKRcfmRkexUcG70OjUTu6ADZBICbVLVulEi8O7GWalCBusCIfiDUS+tau16Jy6wDQl2BuA8u4nfVAdDE+yq/fjsBMYc6tS7Y/2isIx49pDbo1+qYxwRaPr8eRvjqAvlOoTkgfwp6HLziac8onvcZ+Dgz1ucQSC8D1KvcHqbWlKM/qv36kI6E5F16l+FOtKXftJzhNdAHeLuFIVSUNNTG7fNER1MlLtNcevQK0FuNVZcx2EWcHk3OVLo0B2vqoTxjPoy5R0ljS7UTnWRQ4nF9w==;xz+4iiY8fbGXnvY1ZGEI8g=="
 ---

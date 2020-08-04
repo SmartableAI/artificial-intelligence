@@ -24,53 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
-    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
-    publishedDateTime: 2020-08-02T08:00:00Z
-    webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
-    ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
-    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
+  - title: "Facial recognition tech for chimps looks to bust online ape trafficking"
+    excerpt: "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ..."
+    publishedDateTime: 2020-08-04T15:24:00Z
+    webUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/"
+    ampWebUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
+    cdnAmpWebUrl: "https://news-mongabay-com.cdn.ampproject.org/c/s/news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
     type: article
     provider:
-      name: The State
-      domain: thestate.com
-    quality: 51
+      name: Mongabay
+      domain: mongabay.com
+    quality: 59
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
+      - url: "https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/08/04104940/Mongabay-ChimpFace-banner-1200x737.jpg"
+        width: 1200
+        height: 737
+        isCached: true
+  - title: "Thank Kade Crockford for driving the ban of facial recognition tech in cities"
+    excerpt: "The activist has become one of the leading proponents of enhancing our privacy and safety by abolishing the technology that would imperil both."
+    publishedDateTime: 2020-08-04T10:00:00Z
+    webUrl: "https://www.fastcompany.com/90525908/most-creative-people-2020-kade-crockford?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 36
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-MCP_TopArt_KadeCrockford-.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
-    excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
-    publishedDateTime: 2020-08-01T14:18:00Z
-    webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
-    ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 38
-    images:
-      - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
-        width: 1200
-        height: 899
-        isCached: true
-  - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
-    excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
-    publishedDateTime: 2020-08-03T10:25:00Z
-    webUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 29
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESQX7VGU2QI6VJ4IFTUGZ2ARFE.jpg&w=1440"
-        width: 1440
-        height: 1152
         isCached: true
 
 secured: "Md6apDS+sPHb9aR5+TZ7/A2CheLXUz3lS2fB6FehZMgDQiKKH4MATEo9GObPDlx2HQ+DJIkM+7qsjPcs1yS1FUDtfMjlJObOTAns22dq01wgkphSYJA229SNd0NxetlyAuq/Lz/zvZoGsyM25AeWyR2+GNyJAJXmBi7FtvaPFlpqZhXPZ1i8YAyd4DgQPec/YLSV28ksl/eaaE9tEqwoRzQXPYvDwmqFZojY7tTmLdZrQl/wksSwY4i/WeaSBhJTjoaZuaBHkkO5zRA97zKv90JUqjy1HDTkJZMPl4o4+ltbVYHJQNI5Oi9S9SfYhxVVXc1SBaghAK2aeyoCnj3ETQ==;6dsR0/1fxKCnaIQfixYauQ=="

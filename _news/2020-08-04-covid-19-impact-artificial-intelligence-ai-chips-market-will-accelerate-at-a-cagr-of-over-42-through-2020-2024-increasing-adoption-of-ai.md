@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "COVID-19 Impacts: Deep Learning Market Will Accelerate at a CAGR of almost 45% through 2020-2024 | Growing Application of Deep"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-07-30T21:11:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-07-30/covid-19-impacts-deep-learning-market-will-accelerate-at-a-cagr-of-almost-45-through-2020-2024-growing-application-of-deep"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 41
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "zRUKANok52y+FZuisnA9eCu/SUQUXgghrCaIYlpFVKb9AN/EDc5MZszYa9cQNW1+XwzYpfqXz159axODuV98xTb3VbdnLGhy0RF+xiJQQtGHgeNrppO6KcF/tQg1XFrHcl12kZ6anJrDj7fgjIXwuhcywm/ufkqyCdxbx3yxPJ7Kbl3TDpZ/VWVLv6Q8RRLMg3DnJ3VyeVkHPDaq//wJPzoxIJp7crSuB4cj5sl4wY4ZHQ7uj3GCYYqSuY/GxU9eWDopckhffEAnlt6Vlx6Q7PqNi3VtxouKE+N+TTBn8LFeO3b+cZss6JdRB/GKL86+FofXsJTzDMqWWAqKzMpAjA==;riMifq/CxtZrevE6aPJWtg=="
 ---

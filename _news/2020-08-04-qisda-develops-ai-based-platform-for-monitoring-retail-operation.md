@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-04T07:28:00Z
 webUrl: "https://www.digitimes.com/news/a20200804PD208.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,22 +21,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "DinoEdge AI Platform for Health & Safety Monitoring Solutions"
-    excerpt: "The platform features an open full-stack for AI (OSA), including a powerful AI inference engine hardware, driver, API, compiler and optimization tools (AutoML, sparsity and low-bit quantization), support for open source frameworks. The Health & Safety ..."
-    publishedDateTime: 2020-07-30T22:12:00Z
-    webUrl: "https://www.embedded-computing.com/news-releases/dinoedge-ai-platform-for-health-safety-monitoring-solutions"
-    type: article
-    provider:
-      name: Embedded Computing Design
-      domain: embedded-computing.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/639434961/76219803_dinoedge_scalable_real-time_ai_platform.jpg"
-        width: 2999
-        height: 1687
-        isCached: true
 
 secured: "ZGXoEhpC9wA6hEod1bfVFTWgc+jIK00I0uY2HVfz8YfCwZhNEKfYWYCvPBoRdten43vezXqzeDMXTuVMR90rVSqz+/WfKtmroeumVnTykUdMzdL7fWDY0ZVyY0f6oYSurDf+F3wyrfW5DgibOMpwzIS/WGkpueqiry57/aLpbI47i2Q5cy/J7WY+H/bNbBIEQ6/RHV8kMOYTdJx7rA9qgVeE6Y5YRb+5aMcFznimvQ3+HkWt3QAOMB4/OBkixwcNQtQ0u1LZmwVqVCqiB/uuHIlsJ7Mkb5ZzWwcxD+qSJIJYiSA3pqgdoIoAKVQOAWShKcMZnxmiesYjiFoH8xr4uXJZf6NMjC1wIAds+PDX1N6t/OW6dUrd6BOXcjTNYMuIZWBnLj1FsXxRcSeIkXoU8ZFAPe3G0nJglisk1JHWLaI9PFhLK7yMp8VrjmJBfE8bb9urazYCC49nD2upKa0UC0N39wVGBRLYhL92mb9fJwTmJCcg0HLHsvzA0PZeuYEHeh3K7qbTleGbcGAgUlca5Q==;FuATZ8AS8BDwEqzNRNsh6A=="
 ---

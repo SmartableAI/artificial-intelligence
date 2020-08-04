@@ -36,6 +36,22 @@ related:
         width: 831
         height: 545
         isCached: true
+  - title: "Portland, Maine Becomes The Thirteenth City To Ban Facial Recognition Tech"
+    excerpt: "At the time, some officials were reportedly hesitant over putting down their vote, since a ban on facial recognition technology would cut off the city’s local airport from tapping into this tech ..."
+    publishedDateTime: 2020-08-04T15:20:00Z
+    webUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789"
+    ampWebUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 102
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zyeqvljb3kppmiyedurz.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Chinese facial recognition developer closes $1.5 billion funding round"
     excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
     publishedDateTime: 2020-07-31T18:06:00Z

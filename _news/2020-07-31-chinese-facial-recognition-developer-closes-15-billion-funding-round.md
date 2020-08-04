@@ -42,6 +42,22 @@ related:
         width: 831
         height: 545
         isCached: true
+  - title: "Portland, Maine Becomes The Thirteenth City To Ban Facial Recognition Tech"
+    excerpt: "At the time, some officials were reportedly hesitant over putting down their vote, since a ban on facial recognition technology would cut off the city’s local airport from tapping into this tech ..."
+    publishedDateTime: 2020-08-04T15:20:00Z
+    webUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789"
+    ampWebUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 102
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zyeqvljb3kppmiyedurz.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Face Masks Confuse Facial Recognition Technology"
     excerpt: "Americans can't agree on whether face masks are a good way to reduce the threat of transmitting COVID-19. We've even turned mask-donning into a symbol of partisan affiliation; those who would make them compulsory everywhere face off against those who refuse them under all circumstances."
     publishedDateTime: 2020-08-03T16:41:00Z

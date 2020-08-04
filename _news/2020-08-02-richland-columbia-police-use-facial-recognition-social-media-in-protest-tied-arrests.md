@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Portland councilors approve ban on facial recognition technology"
-    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
-    publishedDateTime: 2020-08-04T03:17:00Z
-    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
+  - title: "Maine city bans local police and government use of biometric facial recognition pending referendum"
+    excerpt: "Biometric facial recognition cannot be used by municipal agencies in Portland, Maine, after its City Council unanimously approved an ordinance banning it until a referendum in November, which will"
+    publishedDateTime: 2020-08-04T15:52:00Z
+    webUrl: "https://www.biometricupdate.com/202008/maine-city-bans-local-police-and-government-use-of-biometric-facial-recognition-pending-referendum"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 40
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
-        width: 1000
-        height: 701
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
   - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
     excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "UAE, China to collaborate on fintech, AI as part of China's belt and road initiative"
-excerpt: "The new agreement will enable fintech – financial technology – firms in Dubai and China to access reciprocal markets and create opportunities for mutual development. The memorandum was signed ..."
-publishedDateTime: 2020-07-25T11:55:00Z
-webUrl: "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative.html"
+excerpt: "Dubai International Financial Centre has signed a memorandum of understanding with China’s Jiaozi Fintech Dreamworks as part of China’s belt and road economic initiative to co"
+publishedDateTime: 2020-07-25T11:59:00Z
+webUrl: "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
 ampWebUrl: "https://english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
 cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 263
     isCached: true
 
-secured: "q1WBhEQLrPDc8ODnCedSwzinBBE0CzKwicYmc44Hd63vfbSoOHDtyZzz8FJB9lGqnSOUYbVpRN2Dp3iZlHkbNVsJ+wgVifQf+FcSLkTHfR84sGdKdXRQAV3//8fGxd++C13WZj9GMMX06af55zfSCuH7vsdxDJ80b7oiEwCWNxyCzYwwd+uTCV71C7yK1RP2thqau4z/ZjQnnNbkCO/aBQMUoE9UPs9GiyR+iOPNGpVcrc1NlyF6nn/J0u05tXpgLPXciPX9VAbOz4YDvI3FobfSf5LFOgCE4bqyjuZP/a7B8eVWhApgsT0UB5pkdk/tirR+dIzGO01zCc3YwogzDw==;uRhuPe2nHaB66yGN89Sq2g=="
+secured: "QqOnX/C1MOK7SU1Gpb05tnQO8om+K933ueNH2G0uAJBMNZabCbK+sFR4NOywo4eunS/42BfbLjEo3KiC8oIz+qL+DsQdTN4ru/gu21GQzlK94KYlsYeuB25PDkuNEShIay9pNchjYy/rXdfOMo6nkzGMigAXjsHXFeWyuS3hgz4/3/XaqzQAkTVK/JISKSmVpKJZ0EqYCqL12htEAtaTacJmLSDzvAbbKfrMDgp5z67zZUOFESTwTpdlsSoSodFV5Xej9n/fjY0PE2K49Z2YGONpby5Xu4LBVHEQUys9fnQvJVI4P5VAW1nB2aMnAZ5akaeanR7JIg7e9i6YcHOIUg==;nLDccihhIRTxgGEYlgYDbw=="
 ---
 

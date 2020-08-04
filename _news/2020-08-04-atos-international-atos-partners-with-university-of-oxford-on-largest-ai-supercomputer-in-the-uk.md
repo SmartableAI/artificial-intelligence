@@ -32,6 +32,20 @@ related:
         width: 644
         height: 362
         isCached: true
+  - title: "Atos Partners with University of Oxford on Largest AI Supercomputer in the UK"
+    excerpt: "facility – a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."
+    publishedDateTime: 2020-08-04T14:55:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/atos-partners-with-university-of-oxford-on-largest-ai-supercomputer-in-the-uk/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 36
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
+        width: 440
+        height: 440
+        isCached: true
 
 secured: "FhHskQ834wa5QMTQbpVuxwN5PIrxqYyfwzLdZ6I/nMKyPKAUuOKZKk8Zq15RHMa0clBggo1r8h9Jqq58NCJrbpqhROSHT5WtRolOmMRfWImH6VG0CPhv4NuRasGBKWzPJkMECH6KPUzFdwZAFDe1SSHeCsI/4dcS5glWS80unpH8c1CZsU+puQp6SExzRBLbWP7r2Aa9AeaKm57pvSn9zj7dg8/5pXLQDJIPkWxXg6X3wOPa8Df/YLapQxLlAI0X+D+oixHCNFQw6GuqOcnnNnJZSeIrGdEFNDCvfmLcEM9QTE2Tvcu/tVN5nYojsH2UM7N0XWCe9zARAcG4StH92Q==;GnhxAraUYXsR2y9VrHUacA=="
 ---

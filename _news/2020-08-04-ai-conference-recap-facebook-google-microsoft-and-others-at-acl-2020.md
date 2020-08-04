@@ -5,8 +5,8 @@ excerpt: "At the recent Annual Meeting of the Association for Computational Ling
 publishedDateTime: 2020-08-04T13:14:00Z
 webUrl: "https://www.infoq.com/news/2020/08/conference-recap-acl-2020/"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://res.infoq.com/news/2020/08/conference-recap-acl-2020/en/headerimage/conference-recap-acl-2020-1596386890510.jpg"

@@ -34,20 +34,6 @@ related:
         width: 400
         height: 427
         isCached: true
-  - title: "Arlington Asset Investment: 2Q Earnings Snapshot"
-    excerpt: "MCLEAN, Va. (AP) — Arlington Asset Investment Corp. (AI) on Thursday reported second-quarter net income of $10.2 million, after reporting a loss in the same period a year earlier. On a per-share basis, the McLean, Virginia-based company said it had ..."
-    publishedDateTime: 2020-07-30T21:57:00Z
-    webUrl: "https://www.wiscnews.com/business/arlington-asset-investment-2q-earnings-snapshot/article_1b6906a4-7fc3-59f0-b608-905d70418666.html"
-    type: article
-    provider:
-      name: WiscNews
-      domain: wiscnews.com
-    quality: 22
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/custom/image/1e2024a6-abfb-11e4-82a6-97ddb52e92ae.png"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "Elpbhcm18xtvWwMJ8/sadChFTiYURZbOD+T03SFbKw254129rm2NBYKxWDUSRruBo+ixstvgGFUgp6Uc6cSMeGmU0ZIFvHCMSNTshSiWVKcitygFUiq4Tg5dzYeVMeB1Iw5tZxJXwirASux4Yh4GnfhL/FiQ/ilM20d9QKw8qoxQwkZ+WWnILGJogtIqcyqCbTTIYtwqP07YYAu5jyfQ11DK+X9oE20WiKouVoDY3pbIEyxf31r6zNIE5gKvPELBHjy5UwpxoSL6uR8+JuBRY0amKd+b/rK2/XKGjiDk3C1rsoQC63vxq3ATVkD8p/k8Ov7ic/4Laaa+kXCp1QKeqg==;mnwOy2W8EukVM1avEZM03A=="
 ---

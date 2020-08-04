@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Thank Kade Crockford for driving the ban of facial recognition tech in cities"
-    excerpt: "The activist has become one of the leading proponents of enhancing our privacy and safety by abolishing the technology that would imperil both."
-    publishedDateTime: 2020-08-04T10:00:00Z
-    webUrl: "https://www.fastcompany.com/90525908/most-creative-people-2020-kade-crockford?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 36
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-MCP_TopArt_KadeCrockford-.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "OPTEC Launches Safe-Scan Contactless Infrared Temperature Scanners with Facial Recognition and Mask Compliance Features"
     excerpt: "CARLSBAD, CA / ACCESSWIRE / August 3, 2020 / OPTEC International, Inc (OTC PINK:OPTI) Today announced the launch of the company’s new “Safe-Scan” stand-alone infrared temperature scanning technology for use in complying with CDC standards for assisting the reopening of Schools,"
     publishedDateTime: 2020-08-03T12:45:00Z

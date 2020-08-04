@@ -45,6 +45,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
+  - title: "LTTS expands collaboration with Microsoft for workplace transformation"
+    excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
+    publishedDateTime: 2020-08-04T13:52:00Z
+    webUrl: "https://www.dqindia.com/ltts-expands-collaboration-microsoft-workplace-transformation/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
 
 secured: "xjZZMXw2Mg/gsqSSCkHJ2dWJWgAm/9GI1TXo1VtZ9NRbGQMi5Uq7wZPlQjP8CpvFxetyzSBf4XaaWYhOg0ssJdGi2GrZvLmPY7D3X4LjX7Sk65IRqNN2JGdXFu0klP6h8fxFjVvdG1hKk11KLxuO9f+PAVU04izeZJ4p4bXWL4vwSVFQgYoWdyKpFdV9PMD+tfU7ZWkmdf9yiQ8b8c5wJhxWDnWNtqGtFbD8VHn6+TTHQ836QSe5sC7+wOLA+9x50fP6fqRPpw3Vp7wr9SCkCuA7/kvRaiTKN1Aa21JkmjYW3KE88P2fT4PA9pAyE2pcv0DFEqRvMDaBn+Bsv2p1IA==;Ak6U98I3jQep39HldCuafA=="
 ---

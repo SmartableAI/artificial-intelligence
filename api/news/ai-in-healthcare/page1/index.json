@@ -2,48 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-04-ai-in-healthcare-will-it-help-or-just-make-things-worse.md",
-      "title": "AI in healthcare - will it help or just make things worse?",
-      "excerpt": "Here's a sampling of those mentioned in the Built In article: There is a downside, which AI app vendors typically pay insufficient attention to. This is highlighted in a Brookings article co-authored by the chair of the Department of Medical Ethics and ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-in-healthcare-help-or-make-worse",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-08/unsplash-national-cancer-institute-NFvdKIhxYlU%20740px.jpg",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-in-healthcare-help-or-make-worse?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-in-healthcare-help-or-make-worse?amp",
-      "publishedDateTime": "2020-08-04T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-08-01-artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025",
       "excerpt": "The latest research report on Artificial Intelligence (AI) in Healthcare Market delivers a comprehensive study",
@@ -51,7 +9,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1212,16 +1170,16 @@
       "title": "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
       "excerpt": "July 15, 2020 /PRNewswire/ -- Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301093938.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies/article_ebf9b154-cc75-5a5c-bae3-1b4d304dc64b.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1230,11 +1188,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T02:00:00-07:00",
+      "publishedDateTime": "2020-07-15T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1327,6 +1285,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-new-report-from-corinium-and-fico-signals-increased-demand-for-artificial-intelligence-in-the-age-of-covid-19.md",
+      "title": "New Report from Corinium and FICO Signals Increased Demand for Artificial Intelligence in the Age of COVID-19",
+      "excerpt": "Today, FICO, a global analytics software firm, released a new report from the market intelligence firm Corinium that found ... telecommunications, health care, retail and many other industries. Using FICO solutions, businesses in more than 100 countries ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-report-from-corinium-and-fico-signals-increased-demand-for-artificial-intelligence-in-the-age/article_616d54e9-5354-58fc-8aa0-22fc71666086.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/63/d6393d41-9a84-54b4-bf2b-74fc9bd7e92b/5f0c544ba08a7.image.jpg?resize=283%2C400",
+          "width": 283,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-13T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

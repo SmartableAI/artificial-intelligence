@@ -8,8 +8,8 @@ ampWebUrl: "https://diginomica.com/ai-in-healthcare-help-or-make-worse?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-in-healthcare-help-or-make-worse?amp"
 type: article
 quality: 76
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Diginomica
@@ -25,6 +25,40 @@ images:
     width: 740
     height: 450
     isCached: true
+
+related:
+  - title: "3 Ways Artificial Intelligence Will Change Healthcare"
+    excerpt: "In healthcare, artificial intelligence (AI) can seem intimidating. At the birthday party of a radiologist friend, she gently expressed how she felt her job would be threatened by AI in the coming decade. Yet, for most of the medical profession, AI will be ..."
+    publishedDateTime: 2020-08-04T14:29:00Z
+    webUrl: "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25fd2fd8f0e8a4e8cf29d5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2084%26cropY1%3D0%26cropY2%3D1172"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Digitization of healthcare: Key to broaden access to healthcare"
+    excerpt: "The ongoing pandemic has placed tremendous demands on India’s health system. While there is still room for improvement to maximize access to healthcare, it is heartening to see how innovation and agility have helped"
+    publishedDateTime: 2020-08-04T02:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/digitization-of-healthcare-key-to-broaden-access-to-healthcare/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/digitization-of-healthcare-key-to-broaden-access-to-healthcare/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/digitization-of-healthcare-key-to-broaden-access-to-healthcare/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
 
 secured: "ujRCdfB8XYHzWF39vXDF/NB8vmlZSeq7Czj3mOEE0s1KotfDXwIUtM070EixweOSZCt+6d+Ha6exG1oKDbbo4j/bfFoGyPsMlxOkRWPTRyfIKIHpETOmgkhJCqm/SNnMPaIsTKtFYe35T6SrFHiYJKu4LRbnlvpnAUDEFBv90ItEdGIc178s4h/VYXpxHhCLnUfpZtu9gI6YF3dze/r/c2M2M+IN3uXQoyw/dJPcmKKNkTl2qJtxBjS9LzKo+Lii9HlJauLkwZAP9lw6Hfaxxm6KFZfYLGiwbfck9Mklx6QXzDaQYXzc+eRoPNLMmTfuy5ZHL2Ng6PQToS9rTGcF8g==;lt6+lGWgmTfrIa2lee5qjA=="
 ---

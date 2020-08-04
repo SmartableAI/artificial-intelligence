@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-03T23:19:00Z
 webUrl: "https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 Impacts: Deep Learning Market Will Accelerate at a CAGR of almost 45% through 2020-2024 | Growing Application of Deep"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-07-30T21:11:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-07-30/covid-19-impacts-deep-learning-market-will-accelerate-at-a-cagr-of-almost-45-through-2020-2024-growing-application-of-deep"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 41
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "COVID-19 Impact: Artificial Intelligence (AI) Chips Market Will Accelerate at a CAGR of Over 42% Through 2020-2024 | Increasing Adoption of AI Chips in Data Centers to Boost ..."
     excerpt: "LONDON--(BUSINESS WIRE)--Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 54.03 billion during 2020-2024, progressing at a CAGR of over 42% during the forecast period. The report offers an up-to ..."
     publishedDateTime: 2020-08-04T00:57:00Z

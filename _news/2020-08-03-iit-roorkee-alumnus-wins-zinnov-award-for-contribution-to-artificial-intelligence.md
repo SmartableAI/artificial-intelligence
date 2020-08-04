@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-03T11:44:00Z
 webUrl: "https://www.ndtv.com/education/iit-roorkee-alumnus-wins-zinnov-award-for-contribution-artificial-intelligence"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,19 @@ images:
     width: 650
     height: 400
     isCached: true
+
+related:
+  - title: "GSTS awarded contribution for Space-Based Artificial Intelligence"
+    excerpt: "About GSTS GSTS is a leader in Artificial Intelligence solutions for the maritime domain. Our solutions are designed to save lives, energy and the environment on a global scale through the use of ..."
+    publishedDateTime: 2020-08-04T15:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468099"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468099"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468099"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
 
 secured: "hSXJx+ya9RotdErjb6QqKAqz5H5Ip23FdYlaMIuOd4nWVhdXm4ykXDCJsXjVtGX3KBJaJ/T8a3NOkHLkmygXCA0moB2eoGMElJ2pE73+fihaevteSbg++Y+3Vcc6aDnloZZn42pWv1hQt4X2eRzhFVBA64vZpOul0TnsWdg8Oj10zXgBbgx42ceYG9pqy8AvgPn5e4IiMm6eDf09DjqApgYFzQaQysSRpCj8xPYlaZC4GU5pOnBaYHof4MbgBxwTT9fDnURkqzY98TdylZlPvB9OFPLPwAQFQaif+JRGYaKx0+I2waM9VKTxacqIZxRkMcky3fjKBrOOnhTzWC2AahCcqqzX8hOqAHz4+qqQl9IIzwr2LjSiasKQGa4G87dt3aIPeDLoN0FoVyBK/uBpqv3Kj5+WUujV8/12R0rlBnX2PZ5poQ3Xj2Tj/HR15pmZ5tDvaETCKa3WQJaqD8Cq8XpCBbGrvtks/sZwNDdfBGpzPhHoGnd6eoijo3tpdCtZ/XgGpM4kqj5eHjf17+Vxlg==;2A/J+hc/PmsfnMkX/L3pVw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/earnings/call-transcripts/2020/07/31/arling
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arlington Asset Investment: 2Q Earnings Snapshot"
-    excerpt: "MCLEAN, Va. (AP) — Arlington Asset Investment Corp. (AI) on Thursday reported second-quarter net income of $10.2 million, after reporting a loss in the same period a year earlier. On a per-share basis, the McLean, Virginia-based company said it had ..."
-    publishedDateTime: 2020-07-30T21:57:00Z
-    webUrl: "https://www.wiscnews.com/business/arlington-asset-investment-2q-earnings-snapshot/article_1b6906a4-7fc3-59f0-b608-905d70418666.html"
-    type: article
-    provider:
-      name: WiscNews
-      domain: wiscnews.com
-    quality: 22
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/custom/image/1e2024a6-abfb-11e4-82a6-97ddb52e92ae.png"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Siemens Healthineers AG (SEMHF) CEO Bernhard Montag on Q3 2020 Results - Earnings Call Transcript"
     excerpt: "Q3 2020 Earnings Conference Call August 03, 2020, 02:00 ET Company Participants Marc Koebernick - Head, IR Bernhard Montag - President, CEO & Chairman Jochen Schmitz - CFO Conference Call Participants Patrick Wood - Bank of America Merrill Lynch Scott Bardo - Berenberg Veronika Dubajova - Goldman Sachs Group Lisa Clive Bernstein - Sanford C."
     publishedDateTime: 2020-08-03T21:59:00Z
