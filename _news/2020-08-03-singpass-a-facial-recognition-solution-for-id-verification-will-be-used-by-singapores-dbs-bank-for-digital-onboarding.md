@@ -37,6 +37,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Universal Studios Singapore using facial recognition for entry at RWS"
+    excerpt: "Universal Studios Singapore is now using facial recognition scanners to allow visitors \"more efficient and seamless\" entry to the theme park at RWS."
+    publishedDateTime: 2020-08-04T12:09:00Z
+    webUrl: "https://blooloop.com/news/universal-studios-singapore-facial-recognition/"
+    type: article
+    provider:
+      name: Blooloop
+      domain: blooloop.com
+    quality: 39
+    images:
+      - url: "https://blooloop.com/wp-content/uploads/2020/08/universal-resorts-world-sentosa-e1596541631806.jpg"
+        width: 800
+        height: 390
+        isCached: true
   - title: "Singapore’s Universal Studios deploys facial recognition for entry amid Covid-19 pandemic"
     excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
     publishedDateTime: 2020-08-03T13:08:00Z

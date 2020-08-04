@@ -29,6 +29,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Universal Studios Singapore using facial recognition for entry at RWS"
+    excerpt: "Universal Studios Singapore is now using facial recognition scanners to allow visitors \"more efficient and seamless\" entry to the theme park at RWS."
+    publishedDateTime: 2020-08-04T12:09:00Z
+    webUrl: "https://blooloop.com/news/universal-studios-singapore-facial-recognition/"
+    type: article
+    provider:
+      name: Blooloop
+      domain: blooloop.com
+    quality: 39
+    images:
+      - url: "https://blooloop.com/wp-content/uploads/2020/08/universal-resorts-world-sentosa-e1596541631806.jpg"
+        width: 800
+        height: 390
+        isCached: true
   - title: "SingPass, a Facial Recognition Solution for ID Verification, Will be Used by Singapore’s DBS Bank for Digital Onboarding"
     excerpt: "SingPass, a facial recognition solution for ID verification, will be used by Singapore's DBS Bank for completing digital onboarding."
     publishedDateTime: 2020-08-03T03:45:00Z

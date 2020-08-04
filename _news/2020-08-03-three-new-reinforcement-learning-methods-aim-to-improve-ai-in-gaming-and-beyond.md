@@ -28,22 +28,6 @@ images:
     height: 882
     isCached: true
 
-related:
-  - title: "Machine learning makes drug repurposing for psychiatric disorders more effective"
-    excerpt: "Researchers have correlated information on drugs, genes and diseases to identify potential candidates for psychiatric and neurological treatment. The methodology they developed will be used to search for drugs against COVID-19."
-    publishedDateTime: 2020-08-03T18:25:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/fda-mlm080320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/239246_web.jpg"
-        width: 720
-        height: 509
-        isCached: true
-
 secured: "H8p7UbG/4clsQKTYB3SvBrRFbhI3jv9CWg1jwuAuLsHPGEl1HziVB7Gu7LKQ1iQRM3CgPP5NmVYmySmGVTOqwR1oJBpMYQ7lyiuKEcU6NjlD3eTpg6ingVxS6NtT1jb3CNAUB01spxpZptXTQMmwoLZVT+zJX/jGBRztrJn4jAdmfwuQMvg7I3aSc+ZmV01bp9XIIktZqL4ktfH/fSfVi1AMTNX37nPyv2oMJGb2O6iwyLHTVG/DTGHvZvVMZXz7hGqlN5e17UgUMFptI/iXAiHYT6CVZK+VfVOHOcW8NnPbVetGfYpcaIGBhcNOJsYcs8IYVS8QJEnudJdvhmIrcg==;PLCc/ULVj2Lj35iyqGIM3A=="
 ---
 

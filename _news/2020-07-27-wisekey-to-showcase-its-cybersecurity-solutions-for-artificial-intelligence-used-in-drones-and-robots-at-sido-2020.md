@@ -1,16 +1,16 @@
 ---
 category: news
 title: "WISeKey to Showcase its Cybersecurity Solutions for Artificial Intelligence Used in Drones and Robots at SIDO 2020"
-excerpt: "WISeKey to Showcase its Cybersecurity Solutions for Artificial Intelligence Used in Drones and Robots at SIDO 2020 Drones and robotics sensitive applications are growing thus generating valuable data that has become a target for hackers."
-publishedDateTime: 2020-07-27T19:02:00Z
-webUrl: "https://www.marketwatch.com/press-release/wisekey-to-showcase-its-cybersecurity-solutions-for-artificial-intelligence-used-in-drones-and-robots-at-sido-2020-2020-07-27"
+excerpt: "WISeKey to Showcase its Cybersecurity Solutions for Artificial Intelligence Used in Drones and Robots at SIDO 2020 Drones and robotics sensitive"
+publishedDateTime: 2020-07-27T17:10:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/wisekey-to-showcase-its-cybersecurity-solutions-for-artificial-intelligence-used-in-drones-and-robots-at-sido-2020-1029434905"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -18,12 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "Mtlb5gSMno6IJEh9/mD5FOwFEfXIYqWrYIKKHKHlIhji0siv+mcN9jdSM198al1sbiQQ0OdjY8CtgUu7GQ7D7C9WXpxqlMlbVY2T3WwPALLiNajZEtTNy0xt3i0dPhddY7adl+uRnyuEOpLVnMeZ96NKKXP8iTMZ3jp21R6Rq73BfKKr91NFWod2TemIBDWbIiXYu1TcbQX6yODP9YwIe6QKwbssJyB1rmuotFW50ACC6hwrp7s7GMqMxdjnJwo0FPoLr0b+WCkMmezRrGz6ZZeCn8yIq/mCBFbNUXjBqFo6fDbO3MNAKluCLIQuwsghfHAIRKARDLjCzpULldb8zQ==;4WgNvxdxNN15WRFekAIdUw=="
+secured: "1+Ni5lnHwmLqBvrRU9wQfTp6igCB+m2rcg++cgYTefgu862PR5CjV/Rv61ftPsCjo7eNpexLJSZf1o4fKKlXm7KlFq085oFy0lwZIP57gbVP8vS3OpOO0VPLD4PmzGCXK2BMxeT3/GpiP7S0tyBG1jQ8rUtvF2ocDOF0EAeJ26DF4NRcACRt0WTp/TApGhmMWEzNzy48x/QL+rn1p/jAxVOGa+LRTF3Vk6lPJaZgokTb6crEO8pU2apA2rsFmWOp0EFLFVjwfRZQR8zkHC4dFpEIkDoMqwTTXaIkTVPjoqm5Y/F2/Gc9BzR9PsCRsB8zmlaDAkvNHcfDZOF97TT9sw==;kB/M1pl69CDnd9azzwowww=="
 ---
 

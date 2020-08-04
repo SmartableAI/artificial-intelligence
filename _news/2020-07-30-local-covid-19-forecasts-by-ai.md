@@ -39,22 +39,6 @@ related:
         width: 1920
         height: 1032
         isCached: true
-  - title: "This Startup Is Building Covid-19 Chatbots With Governments and Tech Giants"
-    excerpt: "As Covid-19 continues to spread across the United States, authorities are still in need of large-scale ways to bring individualized information to a mass of people. One tool in that fight is chatbots, an approach that conversational artificial intelligence ..."
-    publishedDateTime: 2020-07-30T20:09:00Z
-    webUrl: "https://www.adweek.com/digital/this-startup-is-building-covid-19-chatbots-with-governments-and-tech-giants/"
-    ampWebUrl: "https://www.adweek.com/digital/this-startup-is-building-covid-19-chatbots-with-governments-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/this-startup-is-building-covid-19-chatbots-with-governments-and-tech-giants/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 40
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/07/emirates-new-covid-insurance-CONTENT-2020-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "qQ60nTASRJxxSi7umFKqT8omBo96L7orkDHk+Eau7KcTbuNuaD7/KwjPK6vz0mw8A0Xk0qpyVDUt453qWTkkjlLRA80WaEUE6v51JlBm0/Sw/hFPi1TK+DtM3m7j71gfgPXPdNqSnsO7VGnr8S+ibRrNSmbDf1vSD8fB1SMqVJeeYHd6fm9qkZjhOrsPchwetnOb119OjTQYMc00qmqNg66BgxRHhHCXhV4apWDKEGLe5MAOPaRh39STtCnAJYhVQRxEAXn1lKnG+xFXh7Y7xtfubWs1D8Dwhvm0F9/Vkz2F+FW+EkNo+mWHS0Ih45KDhRm7zoGV6WiXFLo41W1Fnw==;0BM3weeiXeGPJzt0RjfNhw=="
 ---

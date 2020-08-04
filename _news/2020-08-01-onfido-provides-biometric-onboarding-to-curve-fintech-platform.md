@@ -23,22 +23,6 @@ images:
     height: 257
     isCached: true
 
-related:
-  - title: "Curve FinTech Platform Integrates Onfido’s Biometric Onboarding Solution"
-    excerpt: "Curve has become the latest FinTech firm to sign up for Onfido's biometric onboarding solution. Curve offers a banking platform designed"
-    publishedDateTime: 2020-07-30T19:52:00Z
-    webUrl: "https://mobileidworld.com/curve-fintech-platform-integrates-onfido-biometric-onboarding-solution-107301/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 23
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/iStock-609053800-e1500053167738.jpg"
-        width: 702
-        height: 477
-        isCached: true
-
 secured: "aDCd0j8Mgj4fgnE+QjC43moX8FffcApDBCHds6csRu7HT/I8fy3NUFRyNeEJeO71eMvhGOSDO79VXEAuJkbPCbUbxfvKT+/P0IzmM7K8j/F0jr29N/sd6v97zl8EPWWNlnRg4+GZXTboAIXtnkXPGLFNRPJF5pYWBrCbPt8pDr2wUvK9jajCDssIhQlLz2U82moVOMG+haPh62xH1jMtMe33T8QEvv+zuenKhhhSBnLV61iK28PxAz8wJPezubPoSOEB6zx6mbzWA9Uhu12tei8uC5uZh2DX3fqa6S/P6fzs7RUvjDGst0IijsFI+MSdKGl39uJYqSlNODlNK4JwEsqAltIcRAv33j3KkOgjWHgpSqtqYIMwZjm3KQ5H/mKQjZTbC2wtZjFaYhOSfussqIUM9txPDhIAnCG91do/8OveXZeaZoz1Qv2J+W4Ip2wbRHTdN6MwJIxOPfSFmhdF1+O//T3JGlfjoWj7MF3uM8kmYzbuu37ZuPpC/rPA93umtpplvSjJZJFlJywjhX3hKQ==;Q4DV8W7SurSYHL2Nng6FLw=="
 ---
 

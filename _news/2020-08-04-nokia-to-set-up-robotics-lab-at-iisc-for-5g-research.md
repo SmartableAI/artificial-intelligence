@@ -2,43 +2,43 @@
 category: news
 title: "Nokia to set up robotics lab at IISc for 5G research"
 excerpt: "for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop use cases across areas like emergency management, agriculture and industrial automation ..."
-publishedDateTime: 2020-08-04T08:33:00Z
-webUrl: "https://www.siliconindia.com/news/general/Nokia-to-set-up-robotics-lab-at-IISc-for-5G-research-nid-213508-cid-1.html"
+publishedDateTime: 2020-08-04T13:25:00Z
+webUrl: "https://www.sify.com/finance/nokia-to-set-up-robotics-lab-at-iisc-for-5g-research-news-topnews-uienrkfbehjgd.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.siliconindia.com/news/newsimages/yM102DG9.jpg"
-    width: 570
-    height: 367
+  - url: "https://www.sify.com/uploads/nokia_uh5mGWedhbgef.jpeg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
   - title: "Nokia to set up robotics lab at Indian Institute of Science"
-    excerpt: "The CoE will promote research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop socially relevant use cases across areas like emergency management, agriculture and industrial automation. The centre will ..."
-    publishedDateTime: 2020-08-04T07:35:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/article32265976.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/article32265976.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/article32265976.ece/amp/"
+    excerpt: "Nokia Center of Excellence (CoE) for networked robotics will promote interdisciplinary research involving robotics, advanced communication technologies and artificial intelligence"
+    publishedDateTime: 2020-08-04T12:27:00Z
+    webUrl: "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
+      name: Mint
+      domain: livemint.com
     quality: 74
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/evdls6/article32265975.ece/ALTERNATES/LANDSCAPE_615/BLNOKIA1"
-        width: 615
-        height: 384
+      - url: "https://images.livemint.com/img/2020/08/04/600x338/2020-06-30T092400Z_457483931_RC2LJH910Z5H_RTRMADP_3_NOKIA-FRANCE-LAYOFFS_1596543432399_1596543467201.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Nokia's new robotics lab with IISc will explore 5G use cases and other emerging technology"
     excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
@@ -75,6 +75,6 @@ related:
       domain: dqindia.com
     quality: 19
 
-secured: "fwyw/Lnl8gKWE9Zy0zUwDyJAukV2RJVGIY/ka/ivsnTTgPHtAHyf8rYhOPjvDuwGuf7fl+s+TEMWB5deq8na8K2FVm2Zu8wR2dZXfIIKyqRwIhOAzX0i1s0eI8utvuvvvJIucqoCSDbSqr+wGggLCt8U1kAi53UZGS5P7gm4K1m9l9AJhSL+zp/N5zPl3NUQSXP3lyqYczQcXxjo095eZJIQKq6i+J9xmsFSmQjeUqBkOVCVcvQ04fdHnlgCHc5DFvXif4cV/zc9itQDrjIK0MMjawIYQ4aj2MTAyHpWBlJDwBD5HD9Qe9mOIDRzBhV9+J9HKsmwFEaDE4THT+vbUg==;L2FQp5DwL3P4jQN5DTlIEg=="
+secured: "lFFrRfZiHGhM/bSsVFnRLn21LxWtrG3XilRuQIv0E0SqG6MO+BFScsIrh5B1nqeZ5UrwjVTnVk/TFyYn+i/uBN874YLeRICmG4qgs2FBhMsY003bhN9MFUhpExL48bSoIADH5ZoxQsPyHXtYY7Wg+xCOrQmcC2SfbBJjGhCglLmLd6dXrA+KM229dTnWhIYmcrI7GK7H0p8c2zui3XXrCt5YMyHTrhV8RD7KZLRxLYADn4TH67eRiotpyH4FChyxvW0nAXCsq5zEYK+sVANgX4v8i3VOOxNj77FOOXJaY8UhyeoUD5eqBLWpmvpBZ2hJtQJ5sA8OasDmOS7bfudCTQ==;Eu8ORasx9Cy32kGLyc2Ylw=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Ping An AskBob Doctor's Deep Learning Model Improves Diagnosis of Kidney Disease"
-excerpt: "The system uses deep learning, a type of machine learning, to identify certain types of kidney lesions and cells to help doctors diagnose kidney disease with greater accuracy. The ARPS is ..."
-publishedDateTime: 2020-08-04T11:58:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029466132"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029466132"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029466132"
+excerpt: "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team [1] has joined the National Clinical Research Center of Kidney Diseases in China,"
+publishedDateTime: 2020-08-04T11:13:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
 type: article
 quality: 64
 heat: 64
@@ -23,6 +23,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "KFTrjOLd1JGegBglSw9wM2+dFKfZTVqbHoafCvFi5TagXY8Umml5ggwcbKk3qMCWmoxbCp7JtYtpy3A2n51DeUsP5IumNXh03plTlkdUpH9OJxdEwiTUrYcYP+Rzj6wJ35xn5n7GGydqV/AoGLf3p9vCJl/dvt4vTjJ5VcE0f7ubWJvFF+9uxPLANUXDfH6IGQTY0FYikQc08Ex4C75vjEjeEsiPWpTBV5kar6qTlEx4G2jfj+IIGNhoXULi6QoY7GMgdJGxBvTpY4MMn21nub3GjgTuDZFiH+d3MduxqzNXBSTVMsIIwtU+7RwFrpkTsKrKmfUM8z+jOfmG47t44Q==;aTXpeZEFHFiUhfLRhpBfVA=="
+secured: "NTHMtVr8WNa5d1y845l3mM277LLZAG1AEm7hqGO5T81Xw3q1EvIsUJxv//KPVQnzYB1zrX1WHKOQxLkjrMesdXhgbmLL51qt12W3OXh7dDCVSmzL+thsyE0sjQRPZnHJsozmXIIiz5WWiIhmBL8fPD+ASSMlkuQOKjTO9YZp3Lq+tst+9CBjoSUbO2ycjwXUkbRNO4acAcdAs7D/9HtsnZMC2HFXiduU31iOr6cPTbZYJOT5z2khTr6jwsXSstO15dYAS0n9NyuTs/1dw4jnie8AyissNBl6ppEPwVXgmfaTnbPsh/sT+WSfW5pbMvJU/R1w5swEyVun0cFnjF26kw==;Ey8ODu2Xl4xpsLe7WSj3Cg=="
 ---
 

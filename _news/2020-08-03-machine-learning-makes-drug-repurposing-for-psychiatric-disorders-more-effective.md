@@ -1,44 +1,43 @@
 ---
 category: news
 title: "Machine learning makes drug repurposing for psychiatric disorders more effective"
-excerpt: "Researchers have correlated information on drugs, genes and diseases to identify potential candidates for psychiatric and neurological treatment. The methodology they developed will be used to search for drugs against COVID-19."
-publishedDateTime: 2020-08-03T18:25:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/fda-mlm080320.php"
+excerpt: "Artificial intelligence can increase the effectiveness of drug repositioning or repurposing research, according to a study published in Translational Psychiatry. In the study, which was supported by São Paulo Research Foundation—FAPESP,"
+publishedDateTime: 2020-08-03T19:50:00Z
+webUrl: "https://medicalxpress.com/news/2020-08-machine-drug-repurposing-psychiatric-disorders.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-08-machine-drug-repurposing-psychiatric-disorders.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-machine-drug-repurposing-psychiatric-disorders.amp"
 type: article
-quality: 34
-heat: -1
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/239246_web.jpg"
-    width: 720
-    height: 509
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/40-machinelearn.jpg"
+    width: 395
+    height: 263
     isCached: true
 
 related:
-  - title: "Three new reinforcement learning methods aim to improve AI in gaming and beyond"
-    excerpt: "Researchers at Microsoft Research Cambridge are collaborating with Ninja NinjaTheory to explore the potential of reinforcement learning for gaming. Learn how Project Paidia empowers developers to create more nuanced in-game characters & can lead to real-world applications."
-    publishedDateTime: 2020-08-03T14:01:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/three-new-reinforcement-learning-methods-aim-to-improve-ai-in-gaming-and-beyond/"
+  - title: "Artificial intelligence can increase effectiveness of drug repurposing for psychiatric disorders"
+    excerpt: "Artificial intelligence can increase the effectiveness of drug repositioning or repurposing research, according to a study published in Translational Psychiatry."
+    publishedDateTime: 2020-08-04T01:36:00Z
+    webUrl: "https://www.news-medical.net/news/20200803/Artificial-intelligence-can-increase-effectiveness-of-drug-repurposing-for-psychiatric-disorders.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200803/Artificial-intelligence-can-increase-effectiveness-of-drug-repurposing-for-psychiatric-disorders.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200803/Artificial-intelligence-can-increase-effectiveness-of-drug-repurposing-for-psychiatric-disorders.aspx"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/08/Project-Paidia-Hero.png"
-        width: 1567
-        height: 882
-        isCached: true
+      name: News Medical
+      domain: news-medical.net
+    quality: 24
 
-secured: "UL3PXPzXLpJEUDyy4JZCgFDN9EWenVTnmdW4aWpwDH6cbasD8yueQDR7cQB7k4zl5bHVN8hmp9x/GUOP2P2Iijzwj+Yyp/1U1oLUUNUv0LoWjPMVtQ6rRT17WVHeflv6lWvYlN45Fq732NIBuJCYsnL2k8y1RKlS8M95L7STwwP2Hm7gs1oLaSUswlMZrSG/pk7upjSAViJzVFu2uho/vi/d1LrBvSX8PEcvnLQFGxt5MzsQ03rYVth0UBWYml+IowJKibngNHE5fj/QssOwLvdgN68DBu/amsJOE3S3N4ZFR4MkTnoTnoAjcn3eW4sitKBO3PmTr9O9gIZb4y8w1Q==;qutXMPMtuo1jYrgYpgV20w=="
+secured: "yrO4bNDZQqGT+4boma3t7IIzStFpVgfOvZEEwFBrcX6u8m1y5ir7/+jcxcE+RFmoVz5gYNNUHLW3dq6x4W1/vymQnOSzU+R1UnknA57vfJBLSfYmFWKTEpSMrz+5nhfF4T7Wxr7RKkFRnt7kUZH0DtoKOpRoK69KkOidz2ApzQbOn4ugbha72kH0Kc2x9kAVjjBcGHRPdltql1fKinCXXlQYw/b8cQNu6NbwHDE6VPnMKa3r4QX8KkxR9P604ONlwlyZ+X7m1HZMPVa9S7n5fMeJGcuxbJ16e/t3rWQgLoxjb7z76o+7uKJGT9Ji9rwMg1eqySBpqtz+gjimP0Z5RQ==;1Cu2UIOdQH0G/w44+vG/XQ=="
 ---
 

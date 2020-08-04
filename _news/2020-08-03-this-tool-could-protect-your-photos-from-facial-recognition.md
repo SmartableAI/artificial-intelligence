@@ -62,21 +62,21 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "New York Lawsuit Over School Facial Recognition Use Grows"
-    excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
-    publishedDateTime: 2020-07-30T19:07:00Z
-    webUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html"
-    ampWebUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+  - title: "Why we need more image masking tools to avoid facial recognition systems from identifying us online"
+    excerpt: "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ..."
+    publishedDateTime: 2020-08-04T13:29:00Z
+    webUrl: "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 75
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
-        width: 916
-        height: 630
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg"
+        width: 796
+        height: 419
         isCached: true
   - title: "A new tool to protect yourself against facial recognition software"
     excerpt: "A new research project from the University of Chicago Department of Computer Science provides a powerful new protection mechanism. Named Fawkes, the software tool “cloaks” photos to trick the deep learning computer models that power facial recognition,"
@@ -92,6 +92,22 @@ related:
         width: 1380
         height: 776
         isCached: true
+  - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-03T21:23:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 49
+    images:
+      - url: "https://www.chicagotribune.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Universal Theme Park Takes Next Step with Facial Recognition"
     excerpt: "A Universal Studios theme park is now using a high-tech, automated facial recognition system to identify annual pass and daily ticket holders as they enter the park. The new system is now in place at Universal Studios Singapore,"
     publishedDateTime: 2020-08-03T21:38:00Z
@@ -106,17 +122,6 @@ related:
         width: 640
         height: 268
         isCached: true
-  - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
-    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-    publishedDateTime: 2020-08-03T12:40:00Z
-    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 29
 
 secured: "JWnm/M8mytvNHte9ZEZO5SRpyo6lFHWz2BpK5jr4mk6vvkWmlqG+fLYs51sVHxjr7XTU7903B6bguO/5sEff7le746BPNeuRpiEnv/kdU0tPp/TjN60MMY3pgxUaCkX7Pjg0lJ20cW4BTQp7nwT98EnVspEOIWFe1U3e0LFqw0Cz9oDMt5pQsRIgZtb+JhLpFodMWWM86LXeVY0yh2Ibnf8qoGGW1hVrOdRA44cs/TVpAMHH22jTzUB3g5Rzgp3Nqu+/X6AQf8DU/qxwzVzzec0JEygC4XsFBWyalCw46pc57nu2a0nVEq68pXzbACFpt9xfiUskIDNG0MdZ3MmJgdrhfEgXpY9mcNk+L7lil2hsYE9KjUsDtfk2QSuUPZFBKBJ7YhiqqWtKRMwAKUSUIXeyZeDmta2gxJs2R/l/v+7q6wMElnYZVaD8GUN4ybwfvNyVn8Q3WTOAJbHAB/MSzJJFbz18rhyTVXVfvEyDg1ixDw29TlabPUcpG42272ge;sjtA4Mwq6prmyiMNEMrEjQ=="
 ---

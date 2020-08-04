@@ -2,22 +2,28 @@
 category: news
 title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
 excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-publishedDateTime: 2020-08-03T12:40:00Z
-webUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
-ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+publishedDateTime: 2020-08-03T21:23:00Z
+webUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.chicagotribune.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Cloak your photos with this AI privacy tool to fool facial recognition"
@@ -68,21 +74,21 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "New York Lawsuit Over School Facial Recognition Use Grows"
-    excerpt: "(TNS) — New York Civil Liberties Union has added two more Lockport parents to its lawsuit seeking to overturn a decision by the New York State Education Department that allowed Lockport City School District to activate its facial recognition surveillance ..."
-    publishedDateTime: 2020-07-30T19:07:00Z
-    webUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html"
-    ampWebUrl: "https://www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Lawsuit-Over-School-Facial-Recognition-Use-Grows.html?AMP"
+  - title: "Why we need more image masking tools to avoid facial recognition systems from identifying us online"
+    excerpt: "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ..."
+    publishedDateTime: 2020-08-04T13:29:00Z
+    webUrl: "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 75
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
-        width: 916
-        height: 630
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg"
+        width: 796
+        height: 419
         isCached: true
   - title: "A new tool to protect yourself against facial recognition software"
     excerpt: "A new research project from the University of Chicago Department of Computer Science provides a powerful new protection mechanism. Named Fawkes, the software tool “cloaks” photos to trick the deep learning computer models that power facial recognition,"
@@ -113,6 +119,6 @@ related:
         height: 268
         isCached: true
 
-secured: "nrWPvvV1cnxpbjzy7p5tUzLo2GXaj9DV38zuPmGup0GxMUnJ70K6R+QAfE+ezPP5YE51sF29WyIMIGq/AxiqdvH+afnYpJuT8KX4yMKCo4Xj+eO+quMJmmz5130HUy6Xd6xULJ+o//pNFNQLLBjpWy9ptZ4OOZqVTSnmgkHqc3AXu9VkCKeD1x1Vcp4iKikaf9qsZx2MhXwHlzYvZocZGWHeOk9eM+IafWfqyfNZ4NN7zPE7BM78cb++Y5jtzTh9oUcmJttPVDQDQhOJ3XQ9mmfr34dSSH6bu0MVRLwVtAjRKTJLGMJoQECUaBii03b3dLAj27FThkpvmsSKuypvCw==;6YkRySqsl1SQdUsiO5l1zA=="
+secured: "bJVfSKjvMOZDoLa4wpKvIxeSqBngR9sXAcQny/vyK+euU4aJguY5oXr4EFzHFPnlylSiKMM/Ttvx5LlpPZXJNz+9QxGYbWSb3AOtRvnENclOaynmRgq/vVSZQcDfjhIQohl81Vx6NRwBxCGO/gWU9qqWshN/cogMNXD7Aqd2sjZRy5rvHQMYNuUk/EVuXbu39mWOZ18bcJ8cXVccX7Mw8j1RSGJx2/4SFZp3jzKqsLjDGggAh48QoDbJHdNgGZRvXqxt2UMd+YF/cl0aemvS1ykgMKPvRKwWZF+OhWw9a5mRwFHzGincz0pFOaULhN49JhpnEhFnR3+9CpvurzldKQ==;7hebcdpWyZxYC2Pt4HgWbg=="
 ---
 

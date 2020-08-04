@@ -40,6 +40,22 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Now AI will assess credit risk of small businesses as UK’s Wiserfunding enters India to tap MSME market"
+    excerpt: "Wiserfunding is planning to tie-up with three-four banks and around eight to 10 non-banking financial companies (NBFC) and cover 8.5 million SMEs in India through its AI-backed models by the end of FY21."
+    publishedDateTime: 2020-08-04T13:10:00Z
+    webUrl: "https://www.financialexpress.com/industry/sme/msme-fin-2-now-ai-will-assess-credit-risk-of-small-businesses-as-uks-wiserfunding-enters-india-to-tap-msme-market/2044714/"
+    ampWebUrl: "https://www.financialexpress.com/industry/sme/msme-fin-2-now-ai-will-assess-credit-risk-of-small-businesses-as-uks-wiserfunding-enters-india-to-tap-msme-market/2044714/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/sme/msme-fin-2-now-ai-will-assess-credit-risk-of-small-businesses-as-uks-wiserfunding-enters-india-to-tap-msme-market/2044714/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 43
+    images:
+      - url: "https://images.financialexpress.com/2020/06/Artificial-Intelligence-660x440.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "UK-based fintech Wiserfunding set to foray into India's MSME credit market"
     excerpt: "The company is set to invest $3-5 million in India over the next three years to tailor credit risk models specifically towards Indian SMEs to reach an accuracy level above 80 per cent, Wiserfundings CEO and co-founder Gabriele Sabato,"
     publishedDateTime: 2020-07-31T17:09:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1440
         height: 828
         isCached: true
+  - title: "LivePerson Announces the Conversational Cloud(TM), an AI-powered Command Center for Brand-Consumer Conversations"
+    excerpt: "NEW YORK, Aug. 4, 2020 /PRNewswire/ -- LivePerson, Inc. (Nasdaq: LPSN), a global leader in Conversational AI, today announced its enterprise-grade Conversational Cloud, where hundreds of the world's largest brands build and run AI-powered automations over ..."
+    publishedDateTime: 2020-08-04T13:28:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/liveperson-announces-the-conversational-cloud-tm-an-ai-powered-command-center-for-brand-consumer-conversations/article_3a541153-8b3e-5116-bbe5-743b1b35b767.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "Oqt5LR3tUpUL/6Y3JbKJWG49LLnTfzVUGL1AhadV0K61tOd7N1lVFJb8Zi6/YE16tOEUm6asec0xdLW/2uXG7auRqtmG5/oYX19srdY5RImRRcawljXF5SUrUpyZOisbnVSkvPC+PDLevKe11EwhDvcqhQp4XtLO6mpvkBGci4ZZUhVtnHHkbeJc5oLQXzLiXLElx7JU+BG7KtafwrY6xc8/n0SAS33g7K4NKGh0D5TJi0F4QXQeoJ8r1ZcEZRl063tU7KmJCCqxga5kKJoYcAjiIRrq9y1lMCGbzfCAzFUEYOEu2KTeIhKubeuXp5Cuy+lF+/ahp9Z9T/AVmQuxXQ==;zgssm5gW7qMyIhxmGJsggg=="
 ---

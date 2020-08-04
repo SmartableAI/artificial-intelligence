@@ -8,8 +8,8 @@ ampWebUrl: "https://medicalxpress.com/news/2020-07-local-covid-ai.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-local-covid-ai.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Medical Xpress
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Startup Is Building Covid-19 Chatbots With Governments and Tech Giants"
-    excerpt: "As Covid-19 continues to spread across the United States, authorities are still in need of large-scale ways to bring individualized information to a mass of people. One tool in that fight is chatbots, an approach that conversational artificial intelligence ..."
-    publishedDateTime: 2020-07-30T20:09:00Z
-    webUrl: "https://www.adweek.com/digital/this-startup-is-building-covid-19-chatbots-with-governments-and-tech-giants/"
-    ampWebUrl: "https://www.adweek.com/digital/this-startup-is-building-covid-19-chatbots-with-governments-and-tech-giants/amp/"
-    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/this-startup-is-building-covid-19-chatbots-with-governments-and-tech-giants/amp/"
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 40
-    images:
-      - url: "https://www.adweek.com/wp-content/uploads/2020/07/emirates-new-covid-insurance-CONTENT-2020-640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Local COVID-19 Forecasts by AI"
     excerpt: "The number of confirmed COVID-19 cases in the nation has climbed to more than 3.5 million since the start of the pandemic ... inspired by artificial intelligence (AI) techniques, to provide timely information at a more localized level that officials ..."
     publishedDateTime: 2020-07-30T21:47:00Z
