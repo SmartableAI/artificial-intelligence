@@ -40,22 +40,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Facial recognition, thermal imaging part of future with coronavirus"
-    excerpt: "The coronavirus pandemic has inspired a new wave of technology closely tied to Ohio businesses, including thermal imaging and facial recognition software"
-    publishedDateTime: 2020-07-30T16:50:00Z
-    webUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus"
-    ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 59
-    images:
-      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200730&Category=BUSINESS&ArtNo=200739920&Ref=AR"
-        width: 1276
-        height: 715
-        isCached: true
   - title: "CyberLink FaceMe® Enhances Facial Recognition Technology With Thermal Camera Imaging"
     excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new features for temperature scans to its innovative facial recognition software development kit (SDK),"
     publishedDateTime: 2020-08-03T11:43:00Z

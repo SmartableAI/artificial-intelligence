@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-08-04T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-embedded-digital-instrument-cluster-market-by-development-trends-investigation-2020-and-forecast-to-2026-2020-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI Drug Discovery Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
     excerpt: "The market research study on Global AI Drug Discovery Market Growth (Status and Outlook) 2020-2025 will provide"
     publishedDateTime: 2020-08-03T23:59:00Z

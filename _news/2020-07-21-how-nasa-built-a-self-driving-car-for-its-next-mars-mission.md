@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 images:
   - url: "https://media.wired.com/photos/5f15b1cc3be74bc75e5b4ca0/master/pass/Science_Marscomputer_PIA23469-IOTW-full_res.jpg"

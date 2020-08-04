@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-01T10:16:00Z
 webUrl: "https://arstechnica.com/tech-policy/2020/08/whats-this-a-bipartisan-plan-for-ai-and-national-security/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Ars Technica
@@ -27,24 +27,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "What’s This? A Bipartisan Plan for AI and National Security"
-    excerpt: "They want to cut off China’s access to AI-specific silicon chips and push Congress and federal agencies to devote more resources to advancing and safely deploying AI technology. Although Capitol Hill is increasingly divided, the bipartisan duo claim to ..."
-    publishedDateTime: 2020-07-30T16:08:00Z
-    webUrl: "https://www.wired.com/story/bipartisan-plan-ai-national-security/"
-    ampWebUrl: "https://www.wired.com/story/bipartisan-plan-ai-national-security/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bipartisan-plan-ai-national-security/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/5f2240e32c5af566ee4afe17/master/pass/business_military_535764174.jpg"
-        width: 2170
-        height: 1446
-        isCached: true
 
 secured: "dzYToHJX4p8O/w/u8cM2DQBub5T+kC/wSGOspEDMSYZywgcwWhL3m2i0enTEygfAOdRAg24+ack8EXpGE+MxQQq34g00eQW3vDbU0jMHcP/Wv+RtOvsS0NwSeUo//Rk0wUsCFvUFAWJM+iA2qtJGHV5Cx/urLTDdLXQP/gYJgFd5fxfH1+dTO9IpKvBJ3wWT+g/q9nwKf99hAkIGtQEOtyPe80rPAzvYDIVvWcQW3KrIESQyvWHkNdvXL1IJW/cPoY7wLAxmG33Zri5/44vjhuXhvToaV41KgozDPcQqwe9E/UlzWsOI+7BUSPfy8GLPdSFnezPSrwKp+KnZuK953w==;6z1sXzEKTtOlv4fmdXoy5Q=="
 ---

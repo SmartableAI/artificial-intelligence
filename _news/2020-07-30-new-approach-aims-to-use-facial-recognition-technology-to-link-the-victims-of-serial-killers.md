@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/new-approach-aims-to-use-facia
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition, thermal imaging part of future with coronavirus"
-    excerpt: "The coronavirus pandemic has inspired a new wave of technology closely tied to Ohio businesses, including thermal imaging and facial recognition software"
-    publishedDateTime: 2020-07-30T16:50:00Z
-    webUrl: "https://www.dispatch.com/business/20200730/facial-recognition--thermal-imaging-part-of-future-with-coronavirus"
-    ampWebUrl: "https://www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-    cdnAmpWebUrl: "https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200730/facial-recognition-thermal-imaging-part-of-future-with-coronavirus?template=ampart"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 59
-    images:
-      - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200730&Category=BUSINESS&ArtNo=200739920&Ref=AR"
-        width: 1276
-        height: 715
-        isCached: true
   - title: "Portland councilors approve ban on facial recognition technology"
     excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
     publishedDateTime: 2020-08-04T03:17:00Z

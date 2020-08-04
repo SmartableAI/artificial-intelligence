@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Apple rebuffs US$1.4 billion patent lawsuit filed by Chinese artificial intelligence company"
+    excerpt: "Shanghai Zhizhen Intelligent Network Technology has been locked in a legal battle with Apple over the Siri voice assistant system since 2012."
+    publishedDateTime: 2020-08-04T07:26:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3095936/apple-rebuffs-us14-billion-patent-lawsuit-filed-chinese-artificial"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3095936/apple-rebuffs-us14-billion-patent-lawsuit-filed-chinese-artificial"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3095936/apple-rebuffs-us14-billion-patent-lawsuit-filed-chinese-artificial"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 78
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/08/04/4b9f88fa-d624-11ea-a9df-dfa023813e67_image_hires_154719.jpg?itok=vPru7JbU&v=1596527249"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chinese Artificial Intelligence Company Files $1.4 Billion Lawsuit Against Apple"
     excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co Ltd, also known as Xiao-i, has filed a lawsuit against Apple Inc, alleging it has infringed on its patents. The company is calling for 10 billion yuan ($1."
     publishedDateTime: 2020-08-03T10:08:00Z

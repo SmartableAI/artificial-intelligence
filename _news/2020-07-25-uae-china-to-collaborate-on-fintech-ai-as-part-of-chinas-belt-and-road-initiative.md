@@ -1,15 +1,12 @@
 ---
 category: news
 title: "UAE, China to collaborate on fintech, AI as part of China's belt and road initiative"
-excerpt: "Dubai International Financial Centre has signed a memorandum of understanding with China’s Jiaozi Fintech Dreamworks as part of China’s belt and road economic initiative to co"
-publishedDateTime: 2020-07-25T11:59:00Z
-webUrl: "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
+excerpt: "The new agreement will enable fintech – financial technology – firms in Dubai and China to access reciprocal markets and create opportunities for mutual development. The memorandum was signed ..."
+publishedDateTime: 2020-07-25T11:55:00Z
+webUrl: "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative.html"
 ampWebUrl: "https://english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
 cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
 type: article
-quality: 52
-heat: 62
-published: false
 
 provider:
   name: العربية.نت
@@ -25,24 +22,6 @@ images:
     height: 263
     isCached: true
 
-related:
-  - title: "Chengdu’s Jiaozi Fintech Dreamworks and Dubai International Financial Center to Take Advantage of Fintech Opportunities in the UAE and China"
-    excerpt: "Chengdu's Jiaozi Fintech Dreamworks and Dubai International Financial Center to take advantage of Fintech opportunities in the UAE and China."
-    publishedDateTime: 2020-07-27T01:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/07/164535-chengdus-jiaozi-fintech-dreamworks-and-dubai-international-financial-center-to-take-advantage-of-fintech-opportunities-in-the-uae-and-china/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/164535-chengdus-jiaozi-fintech-dreamworks-and-dubai-international-financial-center-to-take-advantage-of-fintech-opportunities-in-the-uae-and-china/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/164535-chengdus-jiaozi-fintech-dreamworks-and-dubai-international-financial-center-to-take-advantage-of-fintech-opportunities-in-the-uae-and-china/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 24
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Burj-Khalifa-Dubai-United-Arab-Emirates-toa-heftiba-unsplash-600x718.jpg"
-        width: 600
-        height: 718
-        isCached: true
-
-secured: "dkSAv++V1SsmdLzyGUxYqsWAvBHw7LUycvDL4alo/r6XFXPltvEqtOHCyA3rAzLK34zGyU1EDhPuj37aoZNoY5O5AiAZjovjpAOeYMvOUbiKqUXZ6Y6z8BhZrGLilJX2b1+MvIcV71RxpUI+pql3TQAs3tB8KBdHoVJbjYHVDiVdb2hy9nPFnlZBikt3pRXzLuT8SMUqFdwo+JsRiJAmQOCx9yfDr5u96RyNr9cxi1CEXdswfnUqF46lqzyhFx0Z/HldBY02ukTPbqd1pGT5EkZR8JmOHjEr80LKMUX751P9DNALkBVGy3E8BH9yU2L/sbgTIZSkD64e56RtzyzLoHEQCcBld4omIXLLXagB1O6di5mRMOLjWJmZ9fz+3WDw+peqODcT7AOaTCDxeU5rezFpaG9WnyWrujJMZ4EwQ0YAPnn+jou+P5jGykPSX5DTmOg0+Wl1oBCUEIH3XFKSbu306mmmbJgyoGSeHYPdhpsTWaLAbCAshA67/VBaAkQh88/KsDrRcO87P3xJ3DjevA==;a2wOhGlAD+S56/GFnR6rfw=="
+secured: "7luLNtU8rkl5ldkfaLZTj/H+LhJnmFUhhThY8JFk9iozxrz9o01awQNote1YHc3hGWM6ZDM+FMhuB8FJGpbZn0XMKGiVH1Npzd2wGeKG8TxCbgsVuXxUrEniNizXv7DetN6NBL9fn6+AEwJVd+gptlTLeMTCjZfd+1ebZRoA7vHQWtB+27l6jBSIMKYLjQPhEcX62ry/Uf9UDrTtRXOrBFl4fspcLBgkoAvVv8er6lB5meZkihxfYua6n+jRxPZXNfkcYNPROM7fVfvhZdgzBHUChMRnk1h91Ag56gxAtaiUQQgy8VRfSrLUeNHhOEJF+80+9Z2/Po4m/GpP1jLoWA==;H1eBeH/s/6B0Oc2KibH5Mg=="
 ---
 
