@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Buildots raises $16 million as it brings AI computer vision to construction management"
-excerpt: "Thanks to the latest advancements in the fields of AI and computer vision, we've been able to bring modern systems that are ubiquitous in other industries, to construction.\" The Automated Process Management solution created by Buildots compares the ..."
-publishedDateTime: 2020-07-30T12:09:00Z
-webUrl: "https://www.prnewswire.com/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
+excerpt: "Buildots, the company bringing AI to construction, today announced that it had secured $16 million in funding to leverage the power of AI"
+publishedDateTime: 2020-07-30T19:00:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Buildots raises $16M to bring computer vision to construction management"
@@ -103,6 +97,6 @@ related:
         height: 400
         isCached: true
 
-secured: "VsLw1FpdXuL0Xqoz4jNYoMLcknris/9hw0+2EpRZT0XbCbJaotCYjuHdgQCg8W6wcOCer9+QAoEy0grTm/1B2reGKbbAqHmWJBKwizWpFcuwbTNYhhxhgknXTDXTl6WVFqK/lXinQxgpMWp8Gj+b8vM1+d3pOekA3AADApjCX0ZBRb7+C8+CdZMltlv6avEYrtwuGRhC2jhYlnqggOgh+jp06UCI/BnV97jEeX2Tf1/tRslp482RwIghp/9dPdCGOQNv/Xe4P0PG58iUX5phzejHyVerwSK7Ehyj05czgRlT1S8QSBeubV5rK2KgLSmrcFg0DoD2+y3HUmwPOTWG1g==;WnAg+yiY50u2bdh+cUUP1Q=="
+secured: "pT7R2JM1mtP+wSp/pi5jOWll7YR740mLvESuPaMqJlD0kRp6FGOHRBit95/Vky06CT/7P83WVqJdNlohWEUmAaXWDX4mhg5bOcDZDv1p4Kfu+ybv2oUlLifslDqOsw6uPiVrIq144HrcbU5iePuAxTMufSsPK5qQfRCmv7m+lMuvhVnlCwV7lVOijUrFo204mtP+DdnuwltVefZg2kUnGnCMDSdd5y5x/N8Z64S6DqT+w4p66lFstqm7CKuagRVe7JEREvd0BUvta0y0sVMwa8SQqrcog9zCrpxC+JDXhIQoDouuGfQ+Msyo44deLXnRP9eBxtDI6VJHAQtPQqWIdw==;vw41xNPe9uKRkcEr/5HbBw=="
 ---
 

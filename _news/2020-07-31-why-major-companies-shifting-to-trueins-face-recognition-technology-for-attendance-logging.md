@@ -29,6 +29,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "Why major companies shifting to Truein's face-recognition technology for attendance-logging?"
+    excerpt: "Truein's product, Staff Attendance, uses artificial-intelligence-based (AI) face-recognition technology. It aims to replace conventional forms of attendance logging and is primarily targeted at systems that use biometrics including fingerprint scanners."
+    publishedDateTime: 2020-08-04T01:18:00Z
+    webUrl: "https://www.sify.com/finance/why-major-companies-shifting-to-trueins-face-recognition-technology-for-attendance-logging-news-news-uidi9mhhfafdi.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 0
 
 secured: "LQkdFd2Hb3ATTxqEqsLfsU1guan739cfHdVsedZy7IcjPLW4COpHRAJaxSNInbW0LpGzYurQshbqj3NF35KCQGJ3GlbvFiigeV+iqqpgp0bEDumUmdsRgvs4bRKt0urR9hLlv/CwHIANU324UYY1ea0kj9gQ5KOKtYa7h3gYbiges/9Sx7/5e72S2ESE5+u0/7dg645OkFUd/dN+4RSSsEuzK36Fq6Q4fsiIN5z1NwIZCXj+0iHYgiMBBS1mDqDrWa0NK+1jh7NbCLvPzZIbADac2s8Sd6Xz4WvpPFcGVVvYa1ECcT+rtlJKoiPPrJN7Xefc534tipYlXaSSap6L1Q==;kQYy5j0mSFUjlzXlguvovg=="
 ---

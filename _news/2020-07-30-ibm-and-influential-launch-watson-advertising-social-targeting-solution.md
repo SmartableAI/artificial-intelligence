@@ -1,12 +1,12 @@
 ---
 category: news
 title: "IBM and Influential Launch Watson Advertising Social Targeting Solution"
-excerpt: "IBM is expanding its collaboration with social media technology provider Influential to help companies identify suitable influencers."
-publishedDateTime: 2020-07-30T19:28:00Z
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/IBM-and-Influential-Launch-Watson-Advertising-Social-Targeting-Solution-142117.aspx"
+excerpt: "IBM has launched Watson Advertising Social Targeting with Influential, a solution that harnesses artificial intelligence (AI) to help companies identify influencers that best align with their brand values. The new solution within the Watson Advertising ..."
+publishedDateTime: 2020-07-30T16:00:00Z
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142117"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,12 +16,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/101348-Featured-News-Finger-on-Touch-Screen-ORG.jpg"
-    width: 580
-    height: 580
-    isCached: true
 
 related:
   - title: "IBM and Influential Launch AI-based Tool"
@@ -34,6 +28,6 @@ related:
       domain: mrweb.com
     quality: 19
 
-secured: "E1pkjD9ywLH4s0eIZcDg+f/im8dxq7gbsZdaiTy8UnXszjOc93Hsofm1ErJ3NmrW0q4mfJ6ar4ZybEvlbrPMD1RPZOaQgK86YZQHFPPoHCTUuQGwR15HSUPsKSV5WcyKL1it3fFhuV3MzVBoBkeGdXPHe9k6dPkh4p0lxpLIU5iT9H/gRqeGIhztJAshBgVDMl76doxWwOp10wmmflA/v0DnVXBkdZSKnqHbs9cIWazBB7O4/SNfCn9Lvvp64mOB37Wxy1ke0tOdLyOR3jGazwnWugUOjE9j4GI9J1iJ4sbhpxYddQa/MPDmwQHunyKztrUbFGApEx0UF8OHj0BiEg==;SPJjNLyg35hrzsWZOhd6oA=="
+secured: "Bz7rk3rjyK5+CtCY/Uuie6kliZZ3ADV5fiA9k4M1SwN2va82OQEfh7aK63ntnhyDtuCzbZy/75IfRHeHUy2mFkAE9VCk8CFpv6wxlRj69pvuD8B2tOOl7/Y1YZ4nNC9XrLSQe3wDKhs3UgjMNVQwjwIpoDfPNcyb1JKsOmoDpOVmgoCJpjT3oiXkEdJ0xR/PhAnz/WdygEOG4gDLEkrwPmjltxLQb6VQVpwFBQOJv/B1or7sr8U3vDBGuiZFGwU8Bj/0wzi7Mq9SHOJejUmJf2+ZW/OPZdv06+A+eYsRugHJUtonHC91+DRWMViM2ChkAnUEntvGRgdfvYOjiDNUJw==;PmE5BUNBWviBFzH8UJIUYA=="
 ---
 

@@ -1,41 +1,19 @@
 ---
 category: news
 title: "Nuance and Cerner Expand Strategic Voice AI Collaboration to Include Dragon Medical Virtual Assistant Technology"
-excerpt: "(NASDAQ: NUAN) today announced that it has expanded its long-standing AI collaboration with Cerner Corporation (NASDAQ: CERN) to include the integration of Nuance’s virtual assistant technology into the Cerner Millennium® electronic health record (EHR)."
+excerpt: "PRNewswire/ -- Nuance® Communications, Inc. (NASDAQ: NUAN) today announced that it has expanded its long-standing AI collaboration with Cerner"
 publishedDateTime: 2020-07-30T11:00:00Z
-webUrl: "https://apnews.com/PR Newswire/d8a72279e07aa9bb49a0044ccec538da"
+webUrl: "https://www.prnewswire.com/news-releases/nuance-and-cerner-expand-strategic-voice-ai-collaboration-to-include-dragon-medical-virtual-assistant-technology-301102519.html"
 type: article
-quality: 18
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Nuance (NUAN) And Cerner (CERN) Sign High-Tech Strategic Voice AI Collaboration Deal"
-    excerpt: "Nuance Communications Inc. (NASDAQ: NUAN) and Cerner Corporation (NASDAQ: CERN) announced that they have expanded on their long-standing AI collaboration Nuance Communications Inc. (NASDAQ: NUAN) and Cerner Corporation (NASDAQ: CERN) announced that they ..."
-    publishedDateTime: 2020-07-31T12:59:00Z
-    webUrl: "https://pulse2.com/nuance-and-cerner-expand-voice-ai-deal/"
-    ampWebUrl: "https://pulse2.com/nuance-and-cerner-expand-voice-ai-deal/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/nuance-and-cerner-expand-voice-ai-deal/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 30
-
-secured: "V+mHK3M7XCGUmiDHCYOs7vAdiiecsc1fQNHWrwWNQLNrJoLd+uhSBIsKvqkS1EVnPysnQN3mL6x0pIwpmCaX6qArN4WVHOodDsB22qWxp/JGKSK/3yCU0udOKqk9vHUbvQkNPOrILB0PWIUGrxshPwVLcmqeyhd3N+bAw7P9iPQZeSHGRigj/0EiO+Jvrtu0D7mwxa3do2PLG73RJPNhHF26wBPsAbVuCAOxi8pStTjSYFw6BU9Y4AMtsRQ7zaMmG+beTXVXznAzZKQ07EqMXOq3Kcw1NCyNxOgGgkeTEJ9lJ0Ecx0B+2t4Rw/GbDw6uRf5c8b9XlVZiugY4dAHdOg==;6KfEgaHQOj+805JXpqzfbw=="
+secured: "4LyKVEdu3KRHemizzthi40sjDChSUaO9HvEPomWmdWCstyBGoCIuX6FpaSyqyc9QUDGo5fWXayencxpwTB8XqCvEFjRFWyY/imN9pE5c9QiEyJ8zLhxym+fuAzyBlPKTqiodiNOqZwLgs8cmCYyza0wDjDtH5TP7sL2TRoILmGTLphlQYZQYKTX/uyjObe98fyjDpj9M2YpEWna1L5zf1Nvun35XF7FWFwt1byJUPYhMGuITZ3b49xFpdwPwdsNkdMw53grzm/kzw9/DGI8aJ6Wn1PaXIt/vZSrpXtmLsBNUAFBV4nX1aP181TGl1eMAx8NG7kqmr9Ti4x0Vxwv73WlvrEjSJhTX621DhtET62Q92F9dk3t8XafFz/t2HjvexMtSPLQ9N/pzQURCAAVqVG2TrncYE9KbkUojXexQH1/y0xKuMGHc1gK+TCMVr+LiG1cZmU8TRhZNYM6xcQTnD0cz+oVtWCTIxkOHRt472PgtXEufFzy2lh0Modn68I3PJ4UnSG0YJszDGl5EWtdsug==;rULatrPZknmj5lS3d8G/+A=="
 ---
 

@@ -44,22 +44,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "The history of self-driving cars"
-    excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
-    publishedDateTime: 2020-07-31T21:26:00Z
-    webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/self-driving-car-3-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI for research – it's not all robots and self-driving cars"
     excerpt: "In recent years, he has been working on virtual reality, specifically exploring solutions that allow users to navigate large environments without getting motion sickness.) From drones and robots to self-driving cars and smart refrigerators,"
     publishedDateTime: 2020-07-31T02:47:00Z
@@ -74,6 +58,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The history of self-driving cars"
+    excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
+    publishedDateTime: 2020-07-31T21:12:00Z
+    webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?itm_source=4&itm_content=1x4&itm_term=2377093"
+    ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "Baidu is ready to produce computers for self-driving cars"
     excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
     publishedDateTime: 2020-08-03T14:20:00Z

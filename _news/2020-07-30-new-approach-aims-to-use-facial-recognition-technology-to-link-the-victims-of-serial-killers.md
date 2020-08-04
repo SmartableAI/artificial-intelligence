@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/new-approach-aims-to-use-facia
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/new-approach-aims-to-use-facial-recognition-technology-to-link-the-victims-of-serial-killers/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.dispatch.com/apps/pbcsi.dll/bilde?Site=OH&Date=20200730&Category=BUSINESS&ArtNo=200739920&Ref=AR"
         width: 1276
         height: 715
+        isCached: true
+  - title: "Portland councilors approve ban on facial recognition technology"
+    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
+    publishedDateTime: 2020-08-04T03:17:00Z
+    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 39
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
+        width: 1000
+        height: 701
         isCached: true
   - title: "CyberLink FaceMe® Enhances Facial Recognition Technology With Thermal Camera Imaging"
     excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new features for temperature scans to its innovative facial recognition software development kit (SDK),"

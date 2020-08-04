@@ -8,7 +8,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapore
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 30
+  - title: "Universal Studios in Singapore introducing facial recognition scanners"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-04T01:26:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 19
 
 secured: "u0XKcjPWHR6uM6ckPer79a5N1s2FfOMEFl3lKxlyNbZUFTSCND2rw10kiQXZMOg7ivgOtW9WkMt6Q9XuI80K/hwIZIfzCb5Yw50frYr+CVpkfpu7S2jTo9BShX0j2awaVp+sGCh1HRb/pW+OAx5vWamslFfAV/tI19OwBrljhWuLUV1x9DIYNB9eDC/RubmTQwXF/wBKlSgIudfxzw3VXmv+0ccYNUa8mkgEl4cFxJ5dlRaY4DdEzS5UtG9nlHcQTFj/LTcQvVkkyiLXWJ56i0Rd1sFeQa2YYh8oF/4So0bkrk6gYq8SEaQ0NnzT+fra00z/4LMWTk2D+FY3tATp9fs7QjLi9kI+yc38UKSQiw+87uz4LF4EzCbodJpi4k3SV915MVxZvxYFrNW6rm9oIQRjUcAJ+tWnTvAoNpoRHJkEAmsWN2eB6zbSXog4ymCrGxOaLlQLCV/hxe7eunZ1h5jDZD9Oqt0GAq9zfq9K7J/QM4E2951uwR8yw4fA0lZ+;sDS9824/pLXcJHCqUgCOoA=="
 ---

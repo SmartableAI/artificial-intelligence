@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Azure Databricks Now Available on Microsoft Azure Government"
-excerpt: "Databricks, the data and AI company, today announced that Azure Databricks is now on Azure Government as a public preview. Databricks is"
-publishedDateTime: 2020-07-14T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-now-available-on-microsoft-azure-government-301093038.html"
+excerpt: "Databricks is used by organizations worldwide as an open platform for data engineering, machine learning and analytics. This preview complements Azure Databricks security and compliance for high ..."
+publishedDateTime: 2020-07-14T09:00:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/azure-databricks-now-available-on-microsoft-azure-government/article_50ed0349-3a92-5572-b2ee-76ef2a25521a.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-    width: 1094
-    height: 576
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "8IO8xc3nKulQ3E6gqMbs8t1p3IA/nvNOIb1EAZ1V0LQJ80SZihX/nuJohTuRcheMORs7Gfc1joq0vqDSCt3VQjJhqGkJZk+cjh6+nEvtibC85OFcIaDF38cEoMcfNmi4lGNlNbksD9irQbr7Jsa6lkcDzoDk1fiLWiC6Pmqq9juW8dm7z/+PEGQztQMQVRllQvoSA/Lg93rMrKjFt4QVI0Fvy86fVkC2qqNhKt86ej/yGAtjNMH8aAgAFCH+zfW4InB3t+QKqpnwQP6XuOB7RQHOz/Qc/SRnrH8R5nNoeGY5m5KaFthmKcUKl/0nz0hdr9sFG5jb5qoU0jRlxf155+Jty0fWYs8nG0ty4YsDhcyjbfABTXA4oSq74nlTXP0i5zwT6qtHfk4r5BZa+dBqqvgCGtfY0yh/YCe8QzV2OcTni7TN9HZxcCupCnLuyufhEmjc6A82wdTuW92cq/C/E4QhotkXxpRobzyc4TQFOtsUrZxbG2f3sOixNtpJYkkigFO7nyTBFwrYn5FR7xipng==;bbU4rpSMMXE3Zr3tuFv2EA=="
+secured: "jCQ2WYMCw0fPAft6xc1vkSbQ9y2jDhwEQlkHwGZkVOMDtbuaXgc2Y3DwlIbm+eh3yQchWoI8oO47SH4quXMWyhdjt+TpPR+6gFvTkWE8wOqIBcFA4NvRgf+tgtESeODQOeFv+EKeLV1PinSTm6CZAlM7P8JjGW3h0BXuZYPyYWCusFhIwkYDjW3vPOJvjjxsdD8XIcgPfF7VzOaHDCX/tu9pI+mJGkB4zJmUs5jMX5cMkORCnb7cHKHIVZcwCk2ZvsPWhL8Ix11pDuI9TMLUYIRkvhBpmgUOuDHzu0n0+kAPkq5Wcyu4UwDghTHj/WmE65SCidH5qZ7ZFnC4af4SqA==;wGIvOT3oYtgX0EC5i0rLRA=="
 ---
 

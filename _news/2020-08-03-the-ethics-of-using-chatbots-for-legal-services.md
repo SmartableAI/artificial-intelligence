@@ -7,8 +7,8 @@ webUrl: "https://www.law360.com/articles/1296973/the-ethics-of-using-chatbots-fo
 ampWebUrl: "https://www.law360.com/amp/articles/1296973"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1296973"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 secured: "1cdAgLjMu0yUEuvU2AlQNWk9g30bSjDDY7nRS3hhySLs3eqAaSDMAZxFiOTLejYbrO/MD5RNAIPIPHjd+kqmrkcWFdrERS/Y81k0N4AQYyUw8JH1kY5GLLhq3UX2eIeUg80sb2ZGWxayWGPnoFHVE7OKO0DdVOKwkMBbPd2sq6Cwg7qrWSXRcpiDYEMgswWvnckcwvIrtkOc3hoeAXiqkBliCkPc3AibThaHcCXRPBm49n7DcNEzqBbyDVJoj2MJDXaOPPi3Bdd2jpvRwxf0BY8QXK9h0mc9jEsGML+urarlzp/tG2cQtwxvTj7w70oVLRVjO4LPfewNohl/M2l50g==;YN8kNZkEpw6DN1l91B1jtg=="
 ---

@@ -48,6 +48,15 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 30
+  - title: "Universal Studios in Singapore introducing facial recognition scanners"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-04T01:26:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 19
 
 secured: "QvCmJ3VtIjynbVlJjUvV1xBxw+LEfAU1N3TXiAAS5TxydY4WEZ3tGAffYpBLo8OKI2TPQo1U5SzZ5p1Wi8vOBf9/wxmYaJ1QNIhTaJeI5mEi6Xg8qdrqt/HzSP9YGLhNwyiZC9Sxg+bp0D+w+xvBushGEkKz3FMIHFNzkjORpGOX/yKXT13rl82/cCbbwrmxG51hZtiKJXPqDVEzkBJuqsJy8iH1fPEZ0GlD7y0qZR89ma8Hf1ZdBzEwcBW+BaEEAGQB82FQWWmKBc/Jr/DNiF7IJ6FGR0srseOlqP3dYCdkW2E1PLQ6CWD/OMcGlABmbbZ/2EjrKHtR1GBEEt/M0w==;vGRrzYZSjO2/czHWacd5vw=="
 ---

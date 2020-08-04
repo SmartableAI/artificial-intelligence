@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-01T20:14:00Z
 webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--uai072820.php"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,38 +21,6 @@ images:
     width: 1440
     height: 1608
     isCached: true
-
-related:
-  - title: "AI Is All the Rage. So Why Aren’t More Businesses Using It?"
-    excerpt: "A big study by the US Census Bureau finds that only about 9 percent of firms employ tools like machine learning or voice recognition—for now."
-    publishedDateTime: 2020-07-30T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-why-not-more-businesses-use/"
-    ampWebUrl: "https://www.wired.com/story/ai-why-not-more-businesses-use/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-why-not-more-businesses-use/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/5f20b5f959ee66a80b965c8d/master/pass/ai-in-business.png"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "New AI Software Helps Businesses Reopen During the Pandemic"
-    excerpt: "Now, Tata Consultancy Services (TCS) is joining the fray with new, AI-powered software that aims to help businesses reopen during the pandemic. TCS describes the new software, called IUX for Workplace Resilience, as a “business command center solution.”"
-    publishedDateTime: 2020-07-31T16:06:00Z
-    webUrl: "https://www.datanami.com/2020/07/31/new-ai-software-helps-businesses-reopen-during-the-pandemic/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/shutterstock_covid_business_warehouse.jpg"
-        width: 1000
-        height: 660
-        isCached: true
 
 secured: "Eg+mf/aNXluUcrBlolthTWCUMERD9yJQ2Mets/Qg1eSE/fA720/vTbAr4nOaKZ0UVONpqKxAeOLR89AVppMhftvKor2bQ+8j8gll2pa3RsCKsosURUKIBIl5VKflHa898bgnJDaipdG+hKU7Iyv/FtjGzHXvHPhBNtalmlJTSYMevFf9I89QzDwG5uDoYR6HsCoAcg1urAxzM/2zNMPpESgjf89hyKD3WKCkiVLFQHrOhLJTOfe+NWpXTXAU9XRJvULdBD8yN6iEphv7Uqn7wPQnwD8yX/U8ecLmoGS/vvrPCHfD7TQ4vHSOwqWiJlGUO/5L37wGZnG99K+dfhhsVg==;jtXlHcoS3EzhfBd2FuYwow=="
 ---

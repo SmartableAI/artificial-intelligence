@@ -57,6 +57,17 @@ related:
         width: 1380
         height: 776
         isCached: true
+  - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-03T12:40:00Z
+    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 29
 
 secured: "fbj0nsPA0TVZRgGU0gn4i3ZpMzX9vwbjxLNpwuluqRQSFcx68iy48qoL2fpaq/gaSYz5k04u+t04l9T7iUkqlfrSv1u8neToK6r9C4DIv/TULdE28zo7Htx5dACpPoFfsjtwrrO+hTl1XXOeaIsTAvr4I3Yxj2bKzOnUlonRU9h7hdi3posE9NwUa0nWvV3tNizRlZGbPQLSIcpH1iFSpYh9sF85LRf06KC/msWwb3izZrqi2dqizTgmiNG7qqbc/zlz2syU9iRQGUOhy17qo2kF1vFIu2Is2s0ZQyQ2NK//a5qe2mCVgdPlkCZ4EgRLaGWN6HtDSWIuu7udltJh2wzRBoLt6f7dLIvBQ/WLmm3qia5uhGqlbwSkJST5SQDpipk1JNXaSDZ+cZifWGCrdpe18Ainei66BxjN4VLAShv2vHzKAXtPkBYjZqvaxbUiH9i2pyr38sZMNJm3mLqAvf1/sQPvu7Rc+nFESMJiA46G+ficR2aK8AbYk78F4uUtZXILoB3EU5vTn1R+QqFcvw==;mV/FnYoB3Uus1sTLD3D2ew=="
 ---

@@ -93,20 +93,15 @@ related:
         height: 400
         isCached: true
   - title: "Buildots raises $16 million as it brings AI computer vision to construction management"
-    excerpt: "Thanks to the latest advancements in the fields of AI and computer vision, we've been able to bring modern systems that are ubiquitous in other industries, to construction.\" The Automated Process Management solution created by Buildots compares the ..."
-    publishedDateTime: 2020-07-30T12:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
+    excerpt: "Buildots, the company bringing AI to construction, today announced that it had secured $16 million in funding to leverage the power of AI"
+    publishedDateTime: 2020-07-30T19:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 46
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+    quality: 26
 
-secured: "d8RT7q0b6yrrjeabwRTVczAglLRcZbp5v2aA+0pJgE8S1rkqbMXHxcxaeSp+VrlP9Iwt/KGLWmtMpBQNJaPmVguxZVNyhZORBY//BXsuuG/XODwmtS//FroiXWA8HrGBzBBbBHvCgTYAlsfKVK/GwqIDimCJLMJ/n6WbQqvNQP3pSAps5r1EQL+3SrO2a7nWSCj6gB1uEkEQb2OgXlfT2Uj3iI9Hb8HAcEQfZg9pNh9Krke1Kp1CGT1K15kiVUBDnFxLEfLvii/Icb5FCx3gE/fjxPxeoL8p8pDCXrSjafNaMWH6yhpdbXYYK/gaWFwuDPHHOzdRPvxJKEhkA9yJyw==;d+J+F5zJDiolHUGYIH7LWg=="
+secured: "z+jOGKMXUMEkaOXM1zF0+ndkM9LdxVjgLC4yAD6y7IK3CQI+5APfziC925ZEdjm7ba6ngPVxajisEzIU2I5J9n9MW3Ilg6gptAca5wm55cuHag9O0YUSnmMS7ZdsjdiSzim16EEcBOnIZQL76agklOs77K2cJPBacqrasl9I5S1k88TQ0d5wD9EiIaMCrrZARrs3Eu3oyBKSlRlMWz5Pcv/STDTmMKJ4vM3j0lZmcIzvVuWQnolDgXweMLSSABivGffNMQM8/ZzpRCoKGOaaBbLpNMbLkwNAQ3NO8mX1AeX8n0Y4ib0B2ip1gg90CyxVrJBYWoZOSY1XnwdZAhzYW6UDuEK2vHu5wOKFDpP3ZSjsTLFpjdFZL45O6LNxdm++jE0KzGWlyDjVBdpuUA3TFD2wtTqyza39n4tRVDTqtcrslwG0tbnSzCP04VvCA7YXC9nP0olRlNLfuvS/FP3OehPZWP/hkpD+Kd6wmfPRTm56duVk17d/YmLgTvNj62hi;GNNVYsv5DoKe8UGhtuNAuQ=="
 ---
 

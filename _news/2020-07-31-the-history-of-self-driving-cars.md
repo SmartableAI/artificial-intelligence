@@ -2,12 +2,12 @@
 category: news
 title: "The history of self-driving cars"
 excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
-publishedDateTime: 2020-07-31T21:26:00Z
-webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/"
+publishedDateTime: 2020-07-31T21:12:00Z
+webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?itm_source=4&itm_content=1x4&itm_term=2377093"
 ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -22,12 +22,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/self-driving-car-3-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Baidu completes its computer for self-driving cars"
@@ -103,6 +97,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/Wmvz4Ewr4Bxm7q7vHAWE/RkJKZO2GjhNdFHG+8pyT3O9CxYOdj7wqLmAITJ/HZhoL6BQsAonPzm2fxVktm2NG92eptXAv4ieZnpyz3VivSWjdYwXIH97om/1nwx/b7MWn2dC75v9vMTslkuzt0ap1LAOWF4oy6L7CTESwJVEXeGIVSxieXiROuYqE3W+bojiBDRe/nOSJ1mwfNiqqCsbAjrELyUsJxxTH0jEx9gwW/QCgrHbm7IHqVRuzDyITfKEJMi023Ha34J44GjgQOnBUcRimhlW3bEcTtNJ+W48m0hYQqFvkYvwG/RqfotZti2XRkcXpgXq3ezHqVtFIa0bA==;m4wpjSKKjqPichxOXIP+7Q=="
+secured: "RD4+wosmHO+eb+ZR9EjSjl350xV4OvN8qiG0Mv9q7bt4hBy9//p1zFWA79d0yAT09iur70BnQuSADp317hB0HRHpvnE+3HYwB9w4XD4ycEC5Ty7PoOgBTZSJ1lSaqg0OKk6ZuZBaKcZF7C7XmkzAWlHjZKCOv5SM504EGN4g4qNIgDf3VKPW7ANhdBsm5l2ylY6OUhqFtxdX/J4cBVSvdeKjGnkwn0DZxpYffx7kbuQp5md4uR2UI6mGxYZivXcMOqnXmisc0fkR1gQ628F57N4IcCWyrQtofp/1q15K1dyX8bLIIdinx31LW0dBD+7y8dsDKTiKYsiwfKxBvLb6xQ==;2LXv7OZdLrqtGW0k/DPHuQ=="
 ---
 

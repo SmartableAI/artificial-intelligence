@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
-excerpt: "\"Anvesa® harnesses the power of Microsoft Azure AI solutions including Azure Cognitive Services and Azure Machine Learning to help users seamlessly find information critical to winning legal ..."
-publishedDateTime: 2020-07-13T08:34:00Z
-webUrl: "https://www.prnewswire.com/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-301091851.html"
+excerpt: "DENVER, July 13, 2020 /PRNewswire/ -- Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its ..."
+publishedDateTime: 2020-07-13T08:35:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 893
     isCached: true
 
-secured: "atOTeQY/0CQS3ACNklFMymTnJw+10bsTUlHVG+KxsU7XpLpwkcyfrgdSBeBW1K7R6vBrGKEixfC+cutWLz43mG6CFPzJuTt+rbTBJ8GpcybZ9UCc+Ke/gevrWUynmkp2ESFI0D1bsaXoDG/HwQ4NhSXGEXMVIjLk4LA25arrLvgvL/XWr0yUDEH9U8GYwyEWFcf3//hv83VIXclmbHZTqhVGwP2BOx7i3nP0Dcut1yaSdm5KLWs/ZTPoz3RhnYuYen2ogLrdyKqVzil2c2msYEndrE80YTzlbHNMrdYF/hzZi08WwdcEGPyzw5a8p6w15NzEAmks+REGZqweujw35Q==;nxpcAmYn+xXn2DYr62WWEg=="
+secured: "tJjUmUEU4Cb3krDg4Ktf417bHSRUQOgVjRhO0I80/hX0UbQnrJVae1Re4yNWEJfgKp5N2NluiGchm+XRxbl5XpDdFCqJaU4cmlh0LJULLS0ZOXTdqJJ1Q3xis3PBGIYN7NGv8RzvYeakghxrBkBkBg4R+wTOjPEzs1Cb2jroFM68F/lPRLANU6h7P4/jXsf6yVxzZOzMHmQriinHKJDZYQcmBpOkFHZ2knC3qpCLImLq0XRdIPNU/RT6OjhCMWowgSk4tb98RZ6HpX4ej7NPiSbZ1npX8MH6v3z4eO2b3Mi5j15Yt2Zzl5AIXhlynMDdvVuGiBIc9vcQouZTST1w6A==;TS3BlP9kNR3A8BdynfmBAw=="
 ---
 

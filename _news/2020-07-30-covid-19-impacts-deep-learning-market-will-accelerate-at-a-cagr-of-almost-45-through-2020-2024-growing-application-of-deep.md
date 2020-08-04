@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Impact: Artificial Intelligence (AI) Chips Market Will Accelerate at a CAGR of Over 42% Through 2020-2024 | Increasing Adoption of AI Chips in Data Centers to Boost ..."
+    excerpt: "LONDON--(BUSINESS WIRE)--Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 54.03 billion during 2020-2024, progressing at a CAGR of over 42% during the forecast period. The report offers an up-to ..."
+    publishedDateTime: 2020-08-04T00:57:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200803005415/en/COVID-19-Impact-Artificial-Intelligence-AI-Chips-Market"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
+    images:
+      - url: "https://mms.businesswire.com/media/20200803005415/en/809854/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "UZ4vm/tlChKP2L3yGWAVW3pyc7IW8a2x615fH6Sg8ynSzcpmVkFgPK03CLsXg+UVzFa7+LShLXxikDHOkA/my3QaqWK0b9Woxvgfg0f5DDzm5GicmtqwGA3QkeaGi0/tV5tuDVULI7mbGoahulYgFwhbzuaBjKU2lESDDeoWrfswJA6sgts80ilrsAHHQkCPp+tCtbHA3+sIk96pYeIf7VT85ZJBPRgdb+I2O/NdB/9KZwbRSpNIr69vQX50STA4WMUHVo+a2TB1FxO402/ZBKbXrp0kl+sRAdctdHhfG7DMctWVuH6q5djM/RRshcZkeK+GeVUa9nol925j96FWRQ==;wUprW7Fm5lRHJwJA20+O7w=="
 ---

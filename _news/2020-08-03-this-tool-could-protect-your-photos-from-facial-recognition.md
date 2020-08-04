@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-p
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
         width: 1440
         height: 1152
         isCached: true
+  - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-03T12:40:00Z
+    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 29
 
 secured: "JWnm/M8mytvNHte9ZEZO5SRpyo6lFHWz2BpK5jr4mk6vvkWmlqG+fLYs51sVHxjr7XTU7903B6bguO/5sEff7le746BPNeuRpiEnv/kdU0tPp/TjN60MMY3pgxUaCkX7Pjg0lJ20cW4BTQp7nwT98EnVspEOIWFe1U3e0LFqw0Cz9oDMt5pQsRIgZtb+JhLpFodMWWM86LXeVY0yh2Ibnf8qoGGW1hVrOdRA44cs/TVpAMHH22jTzUB3g5Rzgp3Nqu+/X6AQf8DU/qxwzVzzec0JEygC4XsFBWyalCw46pc57nu2a0nVEq68pXzbACFpt9xfiUskIDNG0MdZ3MmJgdrhfEgXpY9mcNk+L7lil2hsYE9KjUsDtfk2QSuUPZFBKBJ7YhiqqWtKRMwAKUSUIXeyZeDmta2gxJs2R/l/v+7q6wMElnYZVaD8GUN4ybwfvNyVn8Q3WTOAJbHAB/MSzJJFbz18rhyTVXVfvEyDg1ixDw29TlabPUcpG42272ge;sjtA4Mwq6prmyiMNEMrEjQ=="
 ---

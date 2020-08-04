@@ -18,22 +18,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Nuance and Cerner Expand Strategic Voice AI Collaboration to Include Dragon Medical Virtual Assistant Technology"
-    excerpt: "(NASDAQ: NUAN) today announced that it has expanded its long-standing AI collaboration with Cerner Corporation (NASDAQ: CERN) to include the integration of Nuance’s virtual assistant technology into the Cerner Millennium® electronic health record (EHR)."
-    publishedDateTime: 2020-07-30T11:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/d8a72279e07aa9bb49a0044ccec538da"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "qysxu7hrZ1z5uWvfcRBr9oBhFTwt9QmO1GQTGTvbesf9AqyBnmO9w7oiD02uADwIIm7+wz9/+Ecy/fiBB4xN4i/1b6wH87G1yo4DfVF8tNroSuuoXmHWyVmabNPmVlQOjuLlcaVat4864JyVls3hbin8Yxn7CXrhHqHogrq4NBYsoF1tOz797CawcfH6zrnSviZkkEdzL2BXZyM1XQnMJCE0BmSkzc1vy9fWuFEQg7G/FVN3YoE45xDOlX5DU5WkW8/0OTHXloiv9/u7x//4BoevRSn97qASSxHtYmK30wn0k/nHi1A0bDOWPRC7PxjfChWVM078nq5Po79vM5ILSg==;BPGo84PgA6Kmah/87awYng=="
 ---
 

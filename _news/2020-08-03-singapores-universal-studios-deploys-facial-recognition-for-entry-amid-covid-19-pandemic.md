@@ -47,6 +47,15 @@ related:
         width: 600
         height: 800
         isCached: true
+  - title: "Universal Studios in Singapore introducing facial recognition scanners"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-04T01:26:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 19
 
 secured: "g1k0sG6M21nvPLrQtF0tJ3bD8bqG+Y+LbWcbf0hjZDpwwDCC4CGQRYw4XbVuEtv9OGlwoZSr9yi75t3PCJdrbP2N/NlRJCkB7xruOzLimw6kPE/sVvLOziSmJ4xxNqNNAg3I5/KmVS1VHhDnXt4QIaIpG8hYk0p89ZFv4lw4k/iMH8EoFrA/5toqI7np25krpm8E9su1DyEJZuvYkftaBscaPzNMgx05iA3HZUGDN3j7rwpAzxsy5il2WNzHsHZIkYlXnW8Fp8LrT9BGIAqbOG4TY4QXnOjgnaO0WgN5MNlL4uNCIln20VrOm/UZakDHy9Nx1mhKTDIVpjLXwsTTaQ==;k1JM672jHEcQQuJWANmlfQ=="
 ---

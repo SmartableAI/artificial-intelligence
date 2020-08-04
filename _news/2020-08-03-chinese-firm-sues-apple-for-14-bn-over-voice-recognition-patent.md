@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI firm sues Apple for $1.4 billion, alleges Siri infringes on its patents"
+    excerpt: "What just happened? Apple's Siri is not the most successful digital assistant, but that didn't stop a Chinese AI company from use it as a means to block sales of Apple devices in the region and potentially score some settlement cash. All of this is ..."
+    publishedDateTime: 2020-08-04T02:42:00Z
+    webUrl: "https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 85
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-03-image-21.jpg"
+        width: 2880
+        height: 1800
+        isCached: true
   - title: "AI start-up claims 10 billion yuan over Apple’s Siri infringement"
     excerpt: "Shanghai-based artificial intelligent (AI) start-up Xiaoi Robot Technology Corp said Monday that it has filed a lawsuit with the Shanghai Higher People's Court, requesting Apple to stop its Siri patent infringement,"
     publishedDateTime: 2020-08-03T10:18:00Z
