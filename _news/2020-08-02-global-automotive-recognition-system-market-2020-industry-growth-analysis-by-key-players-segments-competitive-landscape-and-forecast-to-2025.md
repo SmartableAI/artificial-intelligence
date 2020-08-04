@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Outlook 2027, Analyzed by Business Growth, Industry Analysis, Market Dynamics and Development Trend"
+    excerpt: "Aug 04, 2020 (CDN Newswire via Comtex) -- Data Bridge Market Research published a new report, titled, \"AI in Fintech Market Global Growth, Trends, Opportunities and COVID-19 Impacts\" AI in Fintech report is a definitive solution for sound decision making ..."
+    publishedDateTime: 2020-08-04T18:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-outlook-2027-analyzed-by-business-growth-industry-analysis-market-dynamics-and-development-trend-2020-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rGfuSwZmQyhftC9rXZv3mJADqvzEcJf0JBGTDFU726m5ZgVNpS5H0Zq02vXfzONGlrwdvwhYN/+0kIHO037QEYVj3ApE8qoX6TmkxvUEL8/gn0q6QgkNa81ktRdfWYl88xD/++8epAjCZl3gXq14sztx03Aizgpf1VSi1qk2dNM1tysgoGUv3u6nn/KHvtpbRuzB44dEXJoOlgKaGXdpdWZ6iilKaofwvCg5EAmdm3uk/uuo1EbvCN8Iky/4PuTcnHhwgl/4f1/CFiAwNtANTq7r2uRfv3lX56dYTN9Aeqh/sxME5pgwflA5/yy0x5lZyf3XSpGpQ4WZ4rUqdlTisw==;Z95fAHhCPEKQwuOBR4IQpQ=="
 ---

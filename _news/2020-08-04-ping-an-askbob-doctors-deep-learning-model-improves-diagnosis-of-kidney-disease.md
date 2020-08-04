@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Ping An AskBob Doctor's Deep Learning Model Improves Diagnosis of Kidney Disease"
-excerpt: "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team [1] has joined the National Clinical Research Center of Kidney Diseases in China,"
-publishedDateTime: 2020-08-04T11:13:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
+title: "Ping An AskBob Doctor’s Deep Learning Model Improves Diagnosis of Kidney Disease"
+excerpt: "Company of China, Ltd. (hereafter “Ping An” or the “Group”, HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team[1] has joined the National Clinical Research Center of Kidney Diseases in China,"
+publishedDateTime: 2020-08-04T10:58:00Z
+webUrl: "https://apnews.com/PR Newswire/a0e968babaf90756068e106c752eaf28"
 type: article
-quality: 64
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "NTHMtVr8WNa5d1y845l3mM277LLZAG1AEm7hqGO5T81Xw3q1EvIsUJxv//KPVQnzYB1zrX1WHKOQxLkjrMesdXhgbmLL51qt12W3OXh7dDCVSmzL+thsyE0sjQRPZnHJsozmXIIiz5WWiIhmBL8fPD+ASSMlkuQOKjTO9YZp3Lq+tst+9CBjoSUbO2ycjwXUkbRNO4acAcdAs7D/9HtsnZMC2HFXiduU31iOr6cPTbZYJOT5z2khTr6jwsXSstO15dYAS0n9NyuTs/1dw4jnie8AyissNBl6ppEPwVXgmfaTnbPsh/sT+WSfW5pbMvJU/R1w5swEyVun0cFnjF26kw==;Ey8ODu2Xl4xpsLe7WSj3Cg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "s4PC+yTTAl8jtrGUrr/nFwFZzemHi6X+mQ5A8m4QldPx5yUdkqJxx1sNIGOhlUFhhR92Eng0OtChnj39/8jMFZEN8mJWGHsBViwcBjwmXP5GVBzwOniaSwv42I+VoUOXkkuHJY1pmBS/fEYjRPDWlB7Nm1ULt5cD4betNyeEIKcm4yqJnySCqu6WM4GjsSmWjTGlWmXMwbjY+aJiEmOq2Sx8D9+7z1Exi4u8OYFv1b2htxfyTcHvzAzICcRCdwd+v+PmfPBCi+natAAKQq/wWYdK4H8oE4YZHBKdmjgBmMVXLU/+ETh/LX1W8T3EIpopIH3pmGMxxo+HRYuE6lj8pQ==;9NzCqtG0BVZjW2eecvixzg=="
 ---
 

@@ -26,51 +26,66 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore's Universal Studios Deploys Facial Recognition for Entry"
-    excerpt: "Annual and season ticket holders of Singapore's Universal Studios no longer need physical passes, while guests using day passes will still need tickets for entry but can then exit"
-    publishedDateTime: 2020-08-03T10:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
+  - title: "Federal bill would ban corporate facial recognition without consent"
+    excerpt: "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent."
+    publishedDateTime: 2020-08-04T19:08:00Z
+    webUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/"
+    ampWebUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
-  - title: "Universal Studios Singapore using facial recognition for entry at RWS"
-    excerpt: "Universal Studios Singapore is now using facial recognition scanners to allow visitors \"more efficient and seamless\" entry to the theme park at RWS."
-    publishedDateTime: 2020-08-04T12:09:00Z
-    webUrl: "https://blooloop.com/news/universal-studios-singapore-facial-recognition/"
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-silhouette-getty-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "A new Senate bill would ban corporations from using facial recognition without people's explicit consent"
+    excerpt: "If passed, the bill would wipe out much of the business of controversial facial recognition companies like Clearview AI."
+    publishedDateTime: 2020-08-04T18:54:00Z
+    webUrl: "https://www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8?amp"
     type: article
     provider:
-      name: Blooloop
-      domain: blooloop.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5f298ebede1e9651da0e22dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facial recognition, thermal imaging part of future with coronavirus"
+    excerpt: "The coronavirus pandemic has inspired a new wave of technology , including thermal imaging and facial recognition software that can detect fevers among employees, a common symptom of the virus. PopEntry+ combines instant facial recognition and temperature screening that can connect to employees’ mobile devices,"
+    publishedDateTime: 2020-08-02T06:00:00Z
+    webUrl: "https://www.dailyitem.com/business/facial-recognition-thermal-imaging-part-of-future-with-coronavirus/article_4b1f1c0a-1799-5dfc-bc7c-7aa1e7bb1454.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
     quality: 39
     images:
-      - url: "https://blooloop.com/wp-content/uploads/2020/08/universal-resorts-world-sentosa-e1596541631806.jpg"
-        width: 800
-        height: 390
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Singapore’s Universal Studios deploys facial recognition for entry amid Covid-19 pandemic"
-    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
-    publishedDateTime: 2020-08-03T13:08:00Z
-    webUrl: "https://www.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL.html"
-    ampWebUrl: "https://m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
+  - title: "Portland councilors approve ban on facial recognition technology"
+    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
+    publishedDateTime: 2020-08-04T03:17:00Z
+    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 30
-  - title: "Universal Studios in Singapore introducing facial recognition scanners"
-    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
-    publishedDateTime: 2020-08-04T01:26:00Z
-    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
-    type: article
-    provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 19
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 39
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
+        width: 1000
+        height: 701
+        isCached: true
 
 secured: "QvCmJ3VtIjynbVlJjUvV1xBxw+LEfAU1N3TXiAAS5TxydY4WEZ3tGAffYpBLo8OKI2TPQo1U5SzZ5p1Wi8vOBf9/wxmYaJ1QNIhTaJeI5mEi6Xg8qdrqt/HzSP9YGLhNwyiZC9Sxg+bp0D+w+xvBushGEkKz3FMIHFNzkjORpGOX/yKXT13rl82/cCbbwrmxG51hZtiKJXPqDVEzkBJuqsJy8iH1fPEZ0GlD7y0qZR89ma8Hf1ZdBzEwcBW+BaEEAGQB82FQWWmKBc/Jr/DNiF7IJ6FGR0srseOlqP3dYCdkW2E1PLQ6CWD/OMcGlABmbbZ/2EjrKHtR1GBEEt/M0w==;vGRrzYZSjO2/czHWacd5vw=="
 ---

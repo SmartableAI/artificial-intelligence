@@ -2,27 +2,28 @@
 category: news
 title: "'Deepfakes' ranked as most serious AI crime threat"
 excerpt: "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report."
-publishedDateTime: 2020-08-04T02:44:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php"
+publishedDateTime: 2020-08-04T07:16:00Z
+webUrl: "https://phys.org/news/2020-08-deepfakes-ai-crime-threat.html"
+ampWebUrl: "https://phys.org/news/2020-08-deepfakes-ai-crime-threat.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-deepfakes-ai-crime-threat.amp"
 type: article
-quality: 39
-heat: 39
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-cybercrime.jpg"
+    width: 1920
+    height: 720
     isCached: true
 
-secured: "TEuAAMQFeohhpIqEHnT8jO5X7wmA0y+zJdmFYXibFO5nCb3OY6xjkh66Dv/aQZljSYU/GYHAe/j3U7zoVWoSnPbLwmrqXZPot26u58rK/wsHyIDCp+BB5spkE67xw2R6zu1Kd8419WgYfLeL4+7eXbo2zagraPikryy/At85HlZAt5+wgiit3O1SWn3Ihv15r6AM6bvCmo66boTWFnsWR95HZvsSIwjjWUS+fWAnN/y6QLsJ4E3xzJ/wo0DanCuAicW/NAmfoSRtf4HTySYJ75Uc5vTHwzKgMpk2A2BKSRQvfrhWpg7qP+XTpWfwWpvV2z0FtNMSgG2N+Lg5bRK3jg==;NEFv7RC7wFrhJJ6Bn+0Hbw=="
+secured: "3U2sLRT77T/cPGygmApalhvwv5Bf5Jft856eh2wGnhJLFwHvRj3CfnfDWjkI/1sofu0jRr+bA+YQp3WuqNu+vKJ6NMFqNWxHI3zNCKQ02lxJntP4V23wTL3p7qnMZTwqzuPdCsqbOqsfDqWbEqpeAYpNGffQqF6+wzCIjLEkcqgynRTauedNZW8lEYTm0cuJd4p8BxCongSsoMKRo63gP8aBQxPaTxeGfnfccTK7vVaziN0AyV3fynNyVmR3+0K05CeOHCdQyYqFn2qv76hK8y0gxHkTidWIj10Qz/MEyseSiKEXuWZrq5E2301Rk5Pu9XzIXQfeFenEs0mmF198NQ==;jH/20TPIVbHkAZvTkIripA=="
 ---
 

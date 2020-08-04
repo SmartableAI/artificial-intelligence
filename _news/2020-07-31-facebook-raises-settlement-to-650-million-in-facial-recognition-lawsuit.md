@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
 type: article
 quality: 103
-heat: 193
+heat: 203
 published: true
 
 provider:
@@ -144,6 +144,20 @@ related:
       - url: "https://i2.wp.com/cornellsun.com/wp-content/uploads/2020/08/UFTP6J0e4OMM_6WIuAp6kCMYpYmUt4V9lDQsb4Aml6eayrVRI3z0KwDsIB3_ta8jGgK0PtVEY0XlGocqT1ARCp0WxljqEJvqtaUJU2DcbNg.jpeg?fit=1170%2C780"
         width: 1170
         height: 780
+        isCached: true
+  - title: "Portland votes to ban facial-recognition technology"
+    excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."
+    publishedDateTime: 2020-08-04T19:13:00Z
+    webUrl: "https://bangordailynews.com/2020/08/04/news/portland/portland-votes-to-ban-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/08/America-Protests-Maine-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "trinamiX Beam Profile Analysis Works Where Facial Recognition Fails Due to Face Protection Masks"
     excerpt: "Palatinate, Germany, 2020/08/03 - trinamiX announced its acclaimed Beam Profile Analysis technology can help existing facial recognition systems to recognize an owner and unlock their device, even while wearing a protective mask to prevent the spread of COVID-19 - trinamiXsensing."

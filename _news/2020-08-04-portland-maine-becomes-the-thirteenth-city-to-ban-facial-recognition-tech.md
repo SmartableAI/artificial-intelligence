@@ -145,6 +145,20 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Portland votes to ban facial-recognition technology"
+    excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."
+    publishedDateTime: 2020-08-04T19:13:00Z
+    webUrl: "https://bangordailynews.com/2020/08/04/news/portland/portland-votes-to-ban-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/08/America-Protests-Maine-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "trinamiX Beam Profile Analysis Works Where Facial Recognition Fails Due to Face Protection Masks"
     excerpt: "Palatinate, Germany, 2020/08/03 - trinamiX announced its acclaimed Beam Profile Analysis technology can help existing facial recognition systems to recognize an owner and unlock their device, even while wearing a protective mask to prevent the spread of COVID-19 - trinamiXsensing."
     publishedDateTime: 2020-08-03T20:42:00Z

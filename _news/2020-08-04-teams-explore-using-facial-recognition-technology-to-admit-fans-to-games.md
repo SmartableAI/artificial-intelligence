@@ -20,60 +20,37 @@ topics:
   - AI
 
 related:
-  - title: "Maine's Portland Bans Government Use of Facial Recognition Tech After BLM Demand"
-    excerpt: "However, it came amid widespread calls for government officials to stop using facial recognition technology as a growing body of evidence shows that it misidentifies people of color at higher rates than white people."
-    publishedDateTime: 2020-08-04T13:15:00Z
-    webUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662"
-    ampWebUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
+  - title: "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition"
+    excerpt: "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ..."
+    publishedDateTime: 2020-08-04T18:08:00Z
+    webUrl: "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
+    ampWebUrl: "https://www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
+    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 79
-  - title: "Facial recognition tech for chimps looks to bust online ape trafficking"
-    excerpt: "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ..."
-    publishedDateTime: 2020-08-04T15:24:00Z
-    webUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/"
-    ampWebUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
-    cdnAmpWebUrl: "https://news-mongabay-com.cdn.ampproject.org/c/s/news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
-    type: article
-    provider:
-      name: Mongabay
-      domain: mongabay.com
-    quality: 59
+      name: Vox
+      domain: vox.com
+    quality: 83
     images:
-      - url: "https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/08/04104940/Mongabay-ChimpFace-banner-1200x737.jpg"
-        width: 1200
-        height: 737
+      - url: "https://cdn.vox-cdn.com/thumbor/C2_oi-qdv4rsUQVXp7WfmDZD_zA=/0x0:3000x2000/1400x1050/filters:focal(1488x550:1968x1030):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67155167/GettyImages_857192090.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
-  - title: "Maine city bans local police and government use of biometric facial recognition pending referendum"
-    excerpt: "Biometric facial recognition cannot be used by municipal agencies in Portland, Maine, after its City Council unanimously approved an ordinance banning it until a referendum in November, which will"
-    publishedDateTime: 2020-08-04T15:52:00Z
-    webUrl: "https://www.biometricupdate.com/202008/maine-city-bans-local-police-and-government-use-of-biometric-facial-recognition-pending-referendum"
+  - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
+    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
+    publishedDateTime: 2020-08-02T08:00:00Z
+    webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
+    ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
+    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 40
+      name: The State
+      domain: thestate.com
+    quality: 51
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
-  - title: "Portland councilors approve ban on facial recognition technology"
-    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
-    publishedDateTime: 2020-08-04T03:17:00Z
-    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
-        width: 1000
-        height: 701
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Thank Kade Crockford for driving the ban of facial recognition tech in cities"
     excerpt: "The activist has become one of the leading proponents of enhancing our privacy and safety by abolishing the technology that would imperil both."
@@ -88,6 +65,22 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-MCP_TopArt_KadeCrockford-.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
+    excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
+    publishedDateTime: 2020-08-03T10:25:00Z
+    webUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/"
+    ampWebUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 29
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESQX7VGU2QI6VJ4IFTUGZ2ARFE.jpg&w=1440"
+        width: 1440
+        height: 1152
         isCached: true
 
 secured: "IcDs0b1IuP9bIk9tcVWTAzej5dcfRqhLZI3gzc3RBnvO6NSCoIJxaECye7Ujpho4qNaWkaj23kUG4FNY4UAPG+W2EEU9auob3PPQQRQj4YSTMqfUsnJVBfx9Qp2GO6Kl/PmPjzDvEdaLJwyhtl838Vh8uC2EIH+HVgzZF/95flt5hYYLCTSEemKNMHFSVU/VtefZDB6ENUI2K0H6H4u0yxYm1oEnWVkx+rgbJaVhLjeSYf7HPnjm1N7jcYrdjANr1g0vewsuuazhguJWsAvxqbClhptJGJlI1/jp6SJrRlOvTeKgnvup1UBxSSfd/i8r/u2/W33qJpKIm371RECkJylP8aP7fx8h97mRogyEwr01HGWpG3M3BiQLg6u76e80gK+TeflS2PZXoPrLkY+QDPzADD5ewBVrtnI9Vu2WcS4BJZHHtuIka7IUP8urlR35vSRJiWnAxBGuPkx8lDt9Kc4OpAhTu4V2MaR+i04OI8/uI8xSRG7yXKRqbWmchYBo6K7QCYQPRhmj9/jk4KEN/Q==;15aTJ/wXqzL9ok5b6fhQBA=="

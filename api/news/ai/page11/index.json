@@ -2,6 +2,205 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-23-facebook-explores-simulations-in-fight-against-real-world-bad-guys.md",
+      "title": "Facebook explores simulations in fight against real world bad guys",
+      "excerpt": "For you, Facebook might be a virtual campfire where you gather with your family and friends to share stories. But the social network is also a digital Wild West, filled with scammers, networks of fraudulent accounts and straight-up bullies. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-turns-to-simulations-in-fight-against-real-world-bad-guys/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/VcgQpOmyTDdzq_95ymz9JuubPdc=/756x567/2020/06/19/be400064-5cda-4d1b-a382-4799d1b62378/facebook-logo-phone-laptop-3019.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-turns-to-simulations-in-fight-against-real-world-bad-guys/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-turns-to-simulations-in-fight-against-real-world-bad-guys/",
+      "publishedDateTime": "2020-07-23T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-elon-musk-on-tesla-self-driving-i-can-almost-go-from-my-house-to-work-with-no-intervention.md",
+      "title": "Elon Musk on Tesla Self-Driving: ‘I can almost go from my house to work with no intervention’",
+      "excerpt": "Elon Musk said that he is testing Tesla’s latest alpha built of its self-driving system and claim that he can “almost” go from his house to work without intervention. Last year, Musk announced Tesla’s plan to deploy 1 million “Robotaxi” vehicles for a self-driving ride-sharing network by the end of 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all",
+          "width": 2564,
+          "height": 1236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/",
+      "publishedDateTime": "2020-07-22T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-push-is-on-for-more-artificial-intelligence-in-supply-chains.md",
+      "title": "Push is on for more artificial intelligence in supply chains",
+      "excerpt": "The word on the street is that artificial intelligence efforts have not been delivering the impressive results everyone has been hoping for. The payoff, however, is likely to be found in well-targeted placements in which AI is handling, in real-time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/04/3cd4dc4c-450b-4b23-bc14-c6bfca2f43cf/thumbnail/1200x675/bef5ecfbcd3f707a7894abde7d72b053/data-center-nasa-photo-credit-nasa-office-of-the-cio.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/",
+      "publishedDateTime": "2020-07-22T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-lufax-p2p-fintech-backed-by-chinas-biggest-insurer-said-to-aim-for-ipo-in-the-us-this-year.md",
+      "title": "Lufax, P2P fintech backed by China’s biggest insurer, said to aim for IPO in the US this year",
+      "excerpt": "Now in its 3rd year, this go-to source for understanding China tech also comes with exclusive access to 6+ webinars with C-level executives, including Charles Li, CEO of HKEX, James Peng, CEO/founder of Pony.ai, and senior executives from Alibaba ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/22/3462b0de-cc03-11ea-9c1b-809cdd34beb3_image_hires_232518.jpg?itok=stxhy14D&v=1595431526",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim",
+      "publishedDateTime": "2020-07-22T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-monash-university-and-rmit-develop-ai-and-ar-device-to-read-emotional-cues.md",
       "title": "Monash University and RMIT develop AI and AR device to read emotional cues",
       "excerpt": "Monash University and the Royal Melbourne Institute of Technology (RMIT) have jointly designed an artificial intelligence (AI) and augmented reality (AR) device they say can read and recognise emotional cues that could potentially be used to combat mental health disorders,",
@@ -1216,195 +1415,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-autodesk-acquires-construction-ai-company-pype.md",
-      "title": "Autodesk Acquires Construction AI Company Pype",
-      "excerpt": "It is the first AI-related acquisition by Autodesk, a San Rafael, Calif.-based design software company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-211866/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
-      "publishedDateTime": "2020-07-22T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-ibm-services-teams-with-cbre-to-deliver-smart-maintenance-services-to-data-center-clients.md",
-      "title": "IBM Services Teams with CBRE to Deliver \"Smart Maintenance\" Services to Data Center Clients",
-      "excerpt": "CBRE technicians intend to diagnose and maintain IT hardware from a wide range of manufacturers, leveraging IBM's augmented reality and Watson enabled AI technologies while being supported by IBM's global platform, which includes 57 call centers worldwide ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16730925/ibm-services-teams-with-cbre-to-deliver-smart-maintenance-services-to-data-center-clients",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1217402/CBRE_Data_centers.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16730925",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16730925",
-      "publishedDateTime": "2020-07-22T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that.md",
-      "title": "Trouble with your tennis serves and penalty kicks? There’s an AI for that",
-      "excerpt": "Ah, sportsball. Can you ever forget the first time you grab that pass, fly down the court, and sink that puck right through the net as your fans yell adoringly from the bleachers, TOUCHDOWN! No? Not ringing a bell?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-14-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/amp/",
-      "publishedDateTime": "2020-07-22T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-huddlai-wants-to-bring-more-intelligence-to-online-meetings.md",
-      "title": "huddl.ai wants to bring more intelligence to online meetings",
-      "excerpt": "As the pandemic has shut down in-person meetings, and pushed us online, products like Zoom, Cisco WebEx, Google Meet and Microsoft Teams have become part of our daily lives. Into the fray jumps huddl.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Huddl.ai-Meeting-Moments-Screen-Shot.png?w=680",
-          "width": 680,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
-      "publishedDateTime": "2020-07-22T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

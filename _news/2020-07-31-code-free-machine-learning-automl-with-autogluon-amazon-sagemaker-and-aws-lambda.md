@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-31T22:05:32Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/"
 type: article
 quality: 98
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1000
     height: 414
     isCached: true
+
+related:
+  - title: "Building machine learning workflows with Amazon SageMaker Processing jobs and AWS Step Functions"
+    excerpt: "Machine learning (ML) workflows orchestrate and automate sequences of ML tasks, including data collection, training, testing, evaluating an ML model, and deploying the models for inference. AWS Step Functions automates and orchestrates Amazon SageMaker-related tasks in an end-to-end workflow. The AWS"
+    publishedDateTime: 2020-08-04T19:19:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-machine-learning-workflows-with-amazon-sagemaker-processing-jobs-and-aws-step-functions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
 
 secured: "yG4Zj1T+p+60AtDP1MYbLdbbpuJ9Fq0w5IDOVLIIPNCPM3KuOYkye9LeInFk7waWR2RC8kJw10SOk8w90ihmSrXsGI7jLMf0DwRnfEyyJbnw3L1ysaK6kyGIZIylV0dEkz3xtieeHwAxU3ck1aymc+VLokbjWkm3z9nb8/HypOVpyL84MfjTPD6g4kElsJrE5IxwAt0C2F2W3qc16lIuiboec6gVgZb0m2Zg5IzcZBO0AXgr+kVAAMqAUh8KD48n/8q6FI/yzMZCWtWswNNyt/7cI+ycBxNurKCMTKayuJrnWpT2K/StZ5bGYxIXBWjj1lbtsXaB0d12RBuD6+yGSw==;G7akJ0lZoOG+P24ZQxOOfg=="
 ---

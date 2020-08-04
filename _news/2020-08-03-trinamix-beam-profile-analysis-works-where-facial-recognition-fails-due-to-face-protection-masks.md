@@ -149,6 +149,20 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Portland votes to ban facial-recognition technology"
+    excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."
+    publishedDateTime: 2020-08-04T19:13:00Z
+    webUrl: "https://bangordailynews.com/2020/08/04/news/portland/portland-votes-to-ban-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/08/America-Protests-Maine-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "8svG5de35hgpgsvggE8oLHHUu8Mc+4KlMirlFtNH41K04buMnDC3B95qD7DjiJD/NjYymabOLPqFv+7HgVACcx2nA/fIty2e9DjnEWNYkcxJGLJwYG/iikDoRJml/ksgS/T2vNc+z8SfoKp/ZDOWPfeUy5XfMsoJEpEdNqCllHql4YeEtpp3C6V3R/owJJtWL/4WfAxgz/yhgGtcmlpw7fYoeKZUwjYx8QuBj5H7aKs00yPPbpnRgD83/SxvvWr6KHekf7dUORRor7JNEDsabHhk5C9TvL6ybQd2iFUrJhPeYP/ZAaGJlallMqUooV8ALKbb+s5f1bRqQn7kxtgz4g==;+sPGLiyWY4dRm0D25/5Bmw=="
 ---

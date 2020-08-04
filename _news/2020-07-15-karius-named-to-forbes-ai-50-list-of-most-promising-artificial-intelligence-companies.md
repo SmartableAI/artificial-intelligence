@@ -2,24 +2,24 @@
 category: news
 title: "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
 excerpt: "July 15, 2020 /PRNewswire/ -- Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ..."
-publishedDateTime: 2020-07-15T13:30:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies/article_ebf9b154-cc75-5a5c-bae3-1b4d304dc64b.html"
+publishedDateTime: 2020-07-15T09:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301093938.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "R5hfUHLKPkXnBPX86OFnIW0+po3ng2B71JDk5uGIyDEHeacio0jIA44nyzrBZQ2q+ofMcMbtIUOW30qLHPBaqdzKwwkoNeTeW50KVKhOXo2nTbS3/l5ivkdHo423fddZ3Lg3JlpQJGGsA1CvMu/blRbP9OQDYrVyfhF2EoRK99JDpS5CkG8iEs6UEjkjiOXhedgutUn2vMgwuT9Sr0K6r7FTxZq70rk3uegc69wsRMKdrXsjcwasIfe3hUCDa6UDxXIfXWDwvkkWlExIzQb3lJ+RaUqzHNxaKaDTtiqsaHubVCs9C3FfP1B2IHe9cgNMdnSld/e43w5PfTu1L6EMcA==;hTLjvCcFuINwMmUjic1iNg=="
+secured: "hW2AdzFNkQ3cDOKgHXYeQHjcWmiarErOYblAgLsIwLk+++A4N75a5YpgptScilPAKwqqzmsIl4UF0NQCjPsYdsV3no4Ha9+b0mfaEqPkVn+EI1gPHfYsdih3/tMnCZco5Gn9w8OpyyDQaasFwk70WSEjIeo2Xz24uK6ujc8wV4yX71EQy4WO2ywTrFHPLB5ElHa68QWz7sBrJqON/RuGw5wywrQSWk+AdtNFO9THPrl+k5GpYXd5ZMuQvI8TVeIXmo6eCZjD0WZMV4pjBeR1tq4c+6MbTWkqJDeVxZuvkyxMKFglHRCppE6vxJb6DTjrybikrsDWtIkFezwKavx3GQ==;0fJL4Y44WQvo9oXT1weoSw=="
 ---
 

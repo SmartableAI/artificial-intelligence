@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI for research – it's not all robots and self-driving cars"
-    excerpt: "In recent years, he has been working on virtual reality, specifically exploring solutions that allow users to navigate large environments without getting motion sickness.) From drones and robots to self-driving cars and smart refrigerators,"
-    publishedDateTime: 2020-07-31T02:47:00Z
-    webUrl: "https://www.unr.edu/nevada-today/blogs/2020/ai-and-research"
-    type: article
-    provider:
-      name: unr.edu
-      domain: unr.edu
-    quality: 56
-    images:
-      - url: "https://www.unr.edu/images/unr-main/homepage-features/2017CampusImage-FBImage.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Baidu is ready to produce computers for self-driving cars"
     excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
     publishedDateTime: 2020-08-03T14:20:00Z
