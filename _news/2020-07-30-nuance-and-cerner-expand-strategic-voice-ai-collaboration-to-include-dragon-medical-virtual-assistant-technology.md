@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Nuance and Cerner Expand Strategic Voice AI Collaboration to Include Dragon Medical Virtual Assistant Technology"
-excerpt: "PRNewswire/ -- Nuance® Communications, Inc. (NASDAQ: NUAN) today announced that it has expanded its long-standing AI collaboration with Cerner"
+excerpt: "(NASDAQ: NUAN) today announced that it has expanded its long-standing AI collaboration with Cerner Corporation (NASDAQ: CERN) to include the integration of Nuance’s virtual assistant technology into the Cerner Millennium® electronic health record (EHR)."
 publishedDateTime: 2020-07-30T11:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/nuance-and-cerner-expand-strategic-voice-ai-collaboration-to-include-dragon-medical-virtual-assistant-technology-301102519.html"
+webUrl: "https://apnews.com/PR Newswire/d8a72279e07aa9bb49a0044ccec538da"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg?p=facebook"
-    width: 1500
-    height: 785
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: pulse2.com
     quality: 30
 
-secured: "0dp5a3SKvdoJDYpSogPvTuCkpTSUoSltpo3XY/CkI/q8dvcENmxfbwSJ3BMbnH3go+VEOdpYn4gpoPEj+ZTMpV7+HEuidCchLObj3Au930pr17TTJxxSD9qM0wPnBQa88wzhqEpj82nfO4YtX1n21Dhkv6X1iZUfnS2tmReYdmk/+A2gp7CyvIZGAjaGv/Bm3Y/pZhKeBOyHxYBVAjwLwufCSHaCMEgFriKt2bi/ABjTKIhgmZNdphV/u/AQMoOplvlMbP6gayaTZxLFR46vh0UuIdSok+Ke8k2SiEBqwPvpCPmk17n7TmZBOJ4294hsKnigHNn8QVvN0jnEkVIAMsR+lkF/VyQMqqrxmEEZSP2HNAdnweItJPKpSagPKdhHXfmaaNTZ4e9Gw0mWjcKINh5Ieqq7aKiahASEeuc0aWmZk/Pn59WHltLJeS1ohnGyexOU5jNsbvfOhvyV0dejNfnL/V3jpegIwd+PYLyqFh+bXL7500t59Y+sRpvJpgOnTwfot7PKcIp6Db7fqQJSPg==;OHO4IbtRExLLwCJYzpvc7A=="
+secured: "V+mHK3M7XCGUmiDHCYOs7vAdiiecsc1fQNHWrwWNQLNrJoLd+uhSBIsKvqkS1EVnPysnQN3mL6x0pIwpmCaX6qArN4WVHOodDsB22qWxp/JGKSK/3yCU0udOKqk9vHUbvQkNPOrILB0PWIUGrxshPwVLcmqeyhd3N+bAw7P9iPQZeSHGRigj/0EiO+Jvrtu0D7mwxa3do2PLG73RJPNhHF26wBPsAbVuCAOxi8pStTjSYFw6BU9Y4AMtsRQ7zaMmG+beTXVXznAzZKQ07EqMXOq3Kcw1NCyNxOgGgkeTEJ9lJ0Ecx0B+2t4Rw/GbDw6uRf5c8b9XlVZiugY4dAHdOg==;6KfEgaHQOj+805JXpqzfbw=="
 ---
 

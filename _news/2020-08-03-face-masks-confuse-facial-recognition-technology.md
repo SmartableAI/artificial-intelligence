@@ -143,7 +143,7 @@ related:
   - title: "trinamiX Beam Profile Analysis Works Where Facial Recognition Fails Due to Face Protection Masks"
     excerpt: "Palatinate, Germany, 2020/08/03 - trinamiX announced its acclaimed Beam Profile Analysis technology can help existing facial recognition systems to recognize an owner and unlock their device, even while wearing a protective mask to prevent the spread of COVID-19 - trinamiXsensing."
     publishedDateTime: 2020-08-03T20:42:00Z
-    webUrl: "https://www.newswiretoday.com/news/173408/trinamiX-Beam-Profile-Analysis-Works-Where-Facial-Recognition-Fails-Due-to-Face-Protection-Masks/"
+    webUrl: "https://www.newswiretoday.com/news/173408/"
     type: article
     provider:
       name: Newswire Today

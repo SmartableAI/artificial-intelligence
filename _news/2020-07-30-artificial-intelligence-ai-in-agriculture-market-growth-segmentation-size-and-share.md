@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Food and Beverage Sales, Revenue and Market Share by Country (2020-2025)"
-    excerpt: "This report also researches and evaluates the impact of Covid 19 outbreak on theArtificial Intelligence in Food and Beverage industry involving potential opportunity and challenges drivers and risks We present the impact assessment of Covid 19 effects onArtificial Intelligence in"
-    publishedDateTime: 2020-07-30T06:16:00Z
-    webUrl: "https://www.openpr.com/news/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
-    ampWebUrl: "https://www.openpr.com/amp/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
-    images:
-      - url: "https://cdn.openpr.com/T/7/T730166302_g.jpg"
-        width: 566
-        height: 348
-        isCached: true
 
 secured: "uxMgWqcNV7Jby5oqWnL5ZPICdTPEUDaTeRtoY46ksjNNl5GVCRHMBQrByF/+lW8xmNXJfRAAF5jWSmnDAMOiBFm62yrqiX0RW5UOfAS3f8ZrOh6O1+Z/cAdd/vhxftYB2P1q6GFCr0CCW+5k+ke6SNqSueiiW/A/4Uv4d/ed6FMBOwm3sAD/jYhC8ImIB06NeIbmLIrETkzpN6hC3avbUQPAWSkWV+qHD33GH5y4KMGazYNJHzu1rPAADfIuQpqie5ZM6zfk63oLSCvE37udDpIJCgaq83uKfAGHNihKkhHY2esEW8WZVi+Z0pGOip1LPPtvgjMzR6sL/4Tlv0U6sBqLAZlQyhrOQ44+ijD5obQYdxGIyy+KRAJkc0c3Cil9f00moZQRtONLPvUlklWhaBaH/E2vqcy4q0kNyKv/qDZ2fMzUjMWn11W9ZLR5exNKLeuW/yeRuT881jgruXT6NAKfQqzoheb3kSsgDull6fdLxJIiYRAEd5v3HjlIJCKnATftHHOL4RZZ6357kvWspw==;V21AF4TWFC5C4TUmDaMrqg=="
 ---

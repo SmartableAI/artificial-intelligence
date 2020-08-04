@@ -7,8 +7,8 @@ webUrl: "https://www.express.co.uk/news/science/1318237/artificial-intelligence-
 ampWebUrl: "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/AI-1318237.jpg?r=1596490343190"

@@ -2,6 +2,187 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-28-map-out-financial-crime-with-machine-learning.md",
+      "title": "Map Out Financial Crime with Machine Learning",
+      "excerpt": "Discover a smarter risk based approach to fighting financial crime, powered by analytics from Oracle. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oracle.com/industries/financial-services/aml-and-financial-crime-compliance/machine-learning-aml-financial-crime.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.oracle.com/a/ocom/img/cc01-machine-learning-graph-analytics.jpg",
+          "width": 350,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oracle",
+        "domain": "oracle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors.md",
+      "title": "Advertima raises $17 million for AI that tracks in-store shopping behaviors",
+      "excerpt": "Advertima, a startup leveraging AI to customize in-store experiences, today closed a €15 million ($17.3 million) funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/83b26f72-63b0-4172-beec-932f134a5f86-e1595362730251.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
+      "publishedDateTime": "2020-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities.md",
+      "title": "As ADA turns 30, tech is just getting started helping people with disabilities",
+      "excerpt": "The Americans with Disabilities Act of 1990 paved the way for decades of incremental changes to the way buildings, businesses and laws accommodate people with a wide variety of disabilities. At 30 years old this week,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/teams-captions.png",
+          "width": 520,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/amp/",
+      "publishedDateTime": "2020-07-28T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-machine-learning-as-a-service-market-segmentation-growth-share-and-sizegoogle-inc-ibm-corporation-microsoft-corporation.md",
+      "title": "Machine Learning as a Service Market Segmentation, Growth, Share and Size|Google Inc, IBM Corporation, Microsoft Corporation",
+      "excerpt": "MarketResearch.Biz –: The recent report posted via MarketResearch.Biz on Machine Learning as a | eTurboNews | Trends | Travel News |",
+      "sourceUrl": null,
+      "webUrl": "https://www.eturbonews.com/577492/machine-learning-as-a-service-market-segmentation-growth-share-and-sizegoogle-inc-ibm-corporation-microsoft-corporation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg",
+          "width": 350,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTurboNews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-most-scared-of-googles-deepmind-ai-project.md",
       "title": "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project",
       "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said he was most worried about Google's AI.",
@@ -966,197 +1147,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-facebooks-red-team-hacks-its-own-ai-programs.md",
-      "title": "Facebook’s ‘Red Team’ Hacks Its Own AI Programs",
-      "excerpt": "Attackers increasingly try to confuse and bypass machine-learning systems. So the companies that deploy them are getting creative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f1b5770c8cbb6d85bec4daf/master/pass/business_red-team.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebooks-red-team-hacks-ai-programs/amp",
-      "publishedDateTime": "2020-07-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.md",
-      "title": "6 ways Alibaba Cloud challenges AWS, Azure, and GCP",
-      "excerpt": "From storage and network innovations to eye-popping AI solutions, Alibaba offers a number of advantages over the leading cloud rivals",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/fighter_boxer_competition_boxing-glove_best_fight_-totokita-getty-100787964-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.amp.html",
-      "publishedDateTime": "2020-07-27T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience.md",
-      "title": "How 5G, Wi-Fi 6 and AI will provide a smarter home experience",
-      "excerpt": "The demand for smart home technology is driving diversification in device categories – virtually any appliance you can think of comes in a connected variant today – and also opening up new ways in which advanced technologies like AI and 5G can be used to drive new consumer experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YXL4dK3RBKZ4viQ5Jqnj2M-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
-      "publishedDateTime": "2020-07-27T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-the-real-reason-were-afraid-of-robots.md",
-      "title": "The real reason we’re afraid of robots",
-      "excerpt": "Make no mistake AI does pose many real dangers to us: to our personal privacy and security and to the future of the economy. These are all very good reasons to watch it closely and regulate it aggressively.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2019/07/15/Artificial-Intelligence--AI-_16bf61c847a_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "publishedDateTime": "2020-07-27T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

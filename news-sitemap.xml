@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing</loc>
+    <lastmod>2020-08-03T16:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/improving-speech-to-text-transcripts-from-amazon-transcribe-using-custom-vocabularies-and-amazon-augmented-ai/</loc>
     <lastmod>2020-08-03T14:13:42-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -151,6 +157,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29</loc>
+    <lastmod>2020-08-01T17:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01</loc>
     <lastmod>2020-08-01T15:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -163,7 +175,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400</loc>
+    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw</loc>
     <lastmod>2020-08-01T12:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -643,12 +655,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29</loc>
-    <lastmod>2020-07-29T01:51:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/reuters/2020/07/29/business/29reuters-japan-tech-robot.html</loc>
     <lastmod>2020-07-28T23:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -657,6 +663,12 @@
   <url>
     <loc>https://www.vice.com/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy</loc>
     <lastmod>2020-07-28T22:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29?mod=mw_quote_news</loc>
+    <lastmod>2020-07-28T21:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -889,6 +901,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.oracle.com/industries/financial-services/aml-and-financial-crime-compliance/machine-learning-aml-financial-crime.html</loc>
+    <lastmod>2020-07-28T01:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/</loc>
     <lastmod>2020-07-28T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -897,6 +915,12 @@
   <url>
     <loc>https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/</loc>
     <lastmod>2020-07-28T00:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eturbonews.com/577492/machine-learning-as-a-service-market-segmentation-growth-share-and-sizegoogle-inc-ibm-corporation-microsoft-corporation/</loc>
+    <lastmod>2020-07-27T22:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1717,6 +1741,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16730925/ibm-services-teams-with-cbre-to-deliver-smart-maintenance-services-to-data-center-clients</loc>
+    <lastmod>2020-07-22T06:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/</loc>
     <lastmod>2020-07-22T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2259,6 +2289,12 @@
   <url>
     <loc>https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html</loc>
     <lastmod>2020-07-20T03:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fnlondon.com/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720?link=TD_fnlondon_home.27995a643976ebba</loc>
+    <lastmod>2020-07-20T02:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

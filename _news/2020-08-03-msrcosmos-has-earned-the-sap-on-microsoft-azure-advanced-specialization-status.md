@@ -2,27 +2,23 @@
 category: news
 title: "MSRCosmos Has Earned the SAP on Microsoft Azure Advanced Specialization Status"
 excerpt: "MSRCosmos ( today announced it has earned the SAP on Microsoft Azure advanced specialization, a validation of a"
-publishedDateTime: 2020-08-03T14:48:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status-863201932.html"
+publishedDateTime: 2020-08-03T14:45:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n16899164/msrcosmos-has-earned-the-sap-on-microsoft-azure-advanced-specialization-status"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16899164"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16899164"
 type: article
 quality: 50
 heat: 50
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "dYH9UJt7MplsWY4wLxZO+s5dJs8bE6M/FDYj1ID740qTFlj/7XcTB6aPQt5nRyzeZl2cvrSSV5P0GpSU1BYlzACIZe+so/S3fZgLEkjDxCU0PGuAxxSNnhfsu50Ksj0Gd0Slawkxo9frP4NvP1GV/tCrjNgW37ABu/hCwsTRSgEVrbJF/Mxb0swzthY5dYZBjqdQ4t6RyJEFFgnxxN842VhiEOp7PuxX92oH4kioyMWT8YZqjZlr/gxgNIYlIDVcr4d2rbVj2gxLW/9t2nC+PghHxm7nuTAFBEdtlj9NI/PmdJBJyLzpBB/z0tvW5xKDjsQ05t/2IqLf+Oosk/Lm6w==;UD9acTA4xEkogBnQOu73NA=="
+secured: "q2aSRzRQXFJMwQQsQIvh1O0ZBws6S+QcJnsFGDdyJG+TSxYzzs6YypD3YM4uKBzi0Rx1v90qXNjTwJ7KZ/v+njHpIhCXFm0Z0x/xtViuggRHnK7XsPZzyE5Q2FuIPGncTu0TKjeORmx5DVrUlLYL/zrvO4raguhlaWGGTM58cY474FtdOLa3O7o7PjHRF/q7ep2p0wOTvZDpeBFefiAJtiwdsc8T63LgphjqC+EoimvYSbbwdA+h6Eax1HV1Gleiu28kHGAKH8NOPUrbvm2wkai1APWDRSSded1dzpCTS2PYAP8pAs0e0BnnirLSragE2sp+aR/WuQHSJZzVfseehQ==;ocZ6KTUWkCd7aoRn6OprBw=="
 ---
 

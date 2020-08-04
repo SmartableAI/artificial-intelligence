@@ -335,6 +335,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-22-ibm-services-teams-with-cbre-to-deliver-smart-maintenance-services-to-data-center-clients.md",
+      "title": "IBM Services Teams with CBRE to Deliver \"Smart Maintenance\" Services to Data Center Clients",
+      "excerpt": "CBRE technicians intend to diagnose and maintain IT hardware from a wide range of manufacturers, leveraging IBM's augmented reality and Watson enabled AI technologies while being supported by IBM's global platform, which includes 57 call centers worldwide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16730925/ibm-services-teams-with-cbre-to-deliver-smart-maintenance-services-to-data-center-clients",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1217402/CBRE_Data_centers.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16730925",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16730925",
+      "publishedDateTime": "2020-07-22T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-ibm-providing-ai-solutions-to-government.md",
       "title": "IBM Providing AI Solutions to Government",
       "excerpt": "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services delivery and supports social services organizations with AI ...",
@@ -1351,57 +1392,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-custom-or-out-of-the-box-choose-the-right-nlp-model-for-your-enterprise.md",
-      "title": "Custom, Or Out Of The Box? Choose The Right NLP Model For Your Enterprise",
-      "excerpt": "In the legal industry, for example, LegalMation—a firm that provides AI tools to help lawyers automate routine tasks—uses newly available NLP capabilities from Watson NLU to review complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ibmai/2020/06/26/custom-or-out-of-the-box-choose-the-right-nlp-model-for-your-enterprise/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee40c6efd8cac00060a55d5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1120%26cropY1%3D0%26cropY2%3D630",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ibmai/2020/06/26/custom-or-out-of-the-box-choose-the-right-nlp-model-for-your-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibmai/2020/06/26/custom-or-out-of-the-box-choose-the-right-nlp-model-for-your-enterprise/amp/",
-      "publishedDateTime": "2020-06-26T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

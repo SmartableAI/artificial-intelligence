@@ -93,11 +93,43 @@
       ]
     },
     {
+      "path": "_news/2020-08-02-rite-aid-pulls-plug-on-facial-recognition-system-with-china-links.md",
+      "title": "Rite Aid Pulls Plug on Facial-recognition System with China Links",
+      "excerpt": "The post Rite Aid Pulls Plug on Facial-recognition System with China Links appeared first o. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
+      "publishedDateTime": "2020-08-01T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-facial-recognitions-next-big-play-the-sports-stadium.md",
       "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
       "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 129,
@@ -1387,47 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-why-facial-recognition-algorithms-cant-be-perfectly-fair.md",
-      "title": "Why facial recognition algorithms can’t be perfectly fair",
-      "excerpt": "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop",
-          "width": 320,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "publishedDateTime": "2020-07-20T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

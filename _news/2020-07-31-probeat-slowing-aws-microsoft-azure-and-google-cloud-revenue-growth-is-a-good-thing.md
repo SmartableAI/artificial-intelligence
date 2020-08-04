@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing/amp/"
 type: article
 quality: 96
-heat: 97
+heat: 96
 published: true
 
 provider:

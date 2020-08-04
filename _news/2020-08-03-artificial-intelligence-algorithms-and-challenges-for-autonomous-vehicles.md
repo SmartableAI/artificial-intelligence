@@ -5,8 +5,8 @@ excerpt: "Autonomous vehicles (AVs) are starting to become a real possibility in
 publishedDateTime: 2020-08-03T18:03:00Z
 webUrl: "https://www.embedded.com/artificial-intelligence-algorithms-and-challenges-for-autonomous-vehicles/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2020/07/07ah1_f2.jpg"

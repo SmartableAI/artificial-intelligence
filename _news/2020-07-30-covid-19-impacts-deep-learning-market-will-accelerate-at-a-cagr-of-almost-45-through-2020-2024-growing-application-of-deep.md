@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-30T21:11:00Z
 webUrl: "https://www.bloomberg.com/press-releases/2020-07-30/covid-19-impacts-deep-learning-market-will-accelerate-at-a-cagr-of-almost-45-through-2020-2024-growing-application-of-deep"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "COVID-19 Impact: Artificial Intelligence (AI) Chips Market Will Accelerate at a CAGR of Over 42% Through 2020-2024 | Increasing"
+    excerpt: "Increasing Adoption of AI Chips in Data Centers to Boost Growt"
+    publishedDateTime: 2020-08-03T23:19:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 71
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UZ4vm/tlChKP2L3yGWAVW3pyc7IW8a2x615fH6Sg8ynSzcpmVkFgPK03CLsXg+UVzFa7+LShLXxikDHOkA/my3QaqWK0b9Woxvgfg0f5DDzm5GicmtqwGA3QkeaGi0/tV5tuDVULI7mbGoahulYgFwhbzuaBjKU2lESDDeoWrfswJA6sgts80ilrsAHHQkCPp+tCtbHA3+sIk96pYeIf7VT85ZJBPRgdb+I2O/NdB/9KZwbRSpNIr69vQX50STA4WMUHVo+a2TB1FxO402/ZBKbXrp0kl+sRAdctdHhfG7DMctWVuH6q5djM/RRshcZkeK+GeVUa9nol925j96FWRQ==;wUprW7Fm5lRHJwJA20+O7w=="
 ---

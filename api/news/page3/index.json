@@ -2,6 +2,106 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-31-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
+      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
+      "excerpt": "AMD has revealed that its first GPU designed specifically for computing and based on CDNA architecture will become available later this year. Being developed primarily for artificial intelligence and high-performance computing (HPC) applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "publishedDateTime": "2020-07-31T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-us-armys-conversational-ai-system-to-get-soldiers-and-robots-talking.md",
+      "title": "US Army's conversational AI system to get soldiers and robots talking",
+      "excerpt": "The US Army is working on a soldier-robot interface that uses spoke dialogue to control joint tasks in real-time. The Joint Understanding and Dialogue Interface (JUDI) is designed to reduce training costs while improving soldier/robot teamwork.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5476be0/2147483647/strip/true/crop/1200x800+0+52/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9a%2F1d%2Fa9bdcc024597b4c3de5538899385%2Fmax1200-2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
+      "publishedDateTime": "2020-07-30T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-local-covid-19-forecasts-by-ai.md",
       "title": "Local COVID-19 forecasts by AI",
       "excerpt": "Despite efforts throughout the United States last spring to suppress the spread of the novel coronavirus, states across the country have experienced spikes in the past several weeks. The number of confirmed COVID-19 cases in the nation has climbed to more than 3.",
@@ -1088,106 +1188,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-responsible-data-and-ai-in-the-time-of-pandemic-and-crisis.md",
-      "title": "Responsible Data And AI In The Time Of Pandemic And Crisis",
-      "excerpt": "With artificial intelligence (AI) being used in tracking COVID-19’s spread, there is a dire need for governments and organizations to put together new policies that enable responsible use of AI and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/taarinikaurdang/2020/07/30/responsible-data-and-ai-in-the-time-of-pandemic-and-crisis/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2261bac5c051d8931f8127%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3600%26cropY1%3D334%26cropY2%3D2359",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/taarinikaurdang/2020/07/30/responsible-data-and-ai-in-the-time-of-pandemic-and-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2020/07/30/responsible-data-and-ai-in-the-time-of-pandemic-and-crisis/amp/",
-      "publishedDateTime": "2020-07-29T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-why-developers-should-use-graph-databases.md",
-      "title": "Why developers should use graph databases",
-      "excerpt": "Graph databases are proven architectures for storing data with complex relationships. Why aren't more companies using them?",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3567771/why-developers-should-use-graph-databases.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/thinkstockphotos-509731276-100677664-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3567771/why-developers-should-use-graph-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567771/why-developers-should-use-graph-databases.amp.html",
-      "publishedDateTime": "2020-07-29T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

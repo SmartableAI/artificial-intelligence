@@ -2,6 +2,206 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-07-22-dow-jones-posts-modest-gain-as-slack-files-microsoft-antitrust-complaint-ibm-stock-upgraded.md",
+      "title": "Dow Jones Posts Modest Gain as Slack Files Microsoft Antitrust Complaint, IBM Stock Upgraded",
+      "excerpt": "The Dow Jones Industrial Average (DJINDICES:\\^DJI) was up a modest 0.3% by 11:30 a.m. EDT Wednesday, outperforming the other major stock indices. Weighing on the market was a decis",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/22/dow-jones-posts-modest-gain-as-slack-files-microso.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F583273%2Fantitrust.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/22/dow-jones-posts-modest-gain-as-slack-files-microso.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/22/dow-jones-posts-modest-gain-as-slack-files-microso.aspx",
+      "publishedDateTime": "2020-07-22T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend.md",
+      "title": "Extracting custom entities from documents with Amazon Textract and Amazon Comprehend",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that makes it easy to extract text and data from scanned documents. Textract goes beyond simple optical character recognition (OCR) to identify the contents of fields in forms and information stored in tables. This allows you to use Amazon Textract to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T13:24:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-microsoft-reports-38-billion-in-q4-2020-revenue-azure-up-47-surface-up-28-and-linkedin-up-10.md",
+      "title": "Microsoft reports $38 billion in Q4 2020 revenue: Azure up 47%, Surface up 28%, and LinkedIn up 10%",
+      "excerpt": "Microsoft today reported fiscal Q4 2020 earnings, including revenue of $38.0 billion, net income of $11.2 billion, and earnings per share of $1.46.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/amp/",
+      "publishedDateTime": "2020-07-22T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center.md",
+      "title": "Elon Musk claims his brain chip can stimulate your pleasure center",
+      "excerpt": "Neuralink‘s mission has never quite been clear. We know it’s working on a chip designed to be surgically inserted into the human skull called a brain-computer interface (BCI), but exactly what and who it’s for remains a bit of a mystery.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
+      "publishedDateTime": "2020-07-22T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-increasing-engagement-with-personalized-online-sports-content.md",
       "title": "Increasing engagement with personalized online sports content",
       "excerpt": "This is a guest post by Mark Wood at Pulselive. In their own words, “Pulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.” At Pulselive, we create experiences sports fans can’t live without; whether that’s the official Cricket World Cup website or the English",
@@ -618,6 +818,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-22-ibm-services-teams-with-cbre-to-deliver-smart-maintenance-services-to-data-center-clients.md",
+      "title": "IBM Services Teams with CBRE to Deliver \"Smart Maintenance\" Services to Data Center Clients",
+      "excerpt": "CBRE technicians intend to diagnose and maintain IT hardware from a wide range of manufacturers, leveraging IBM's augmented reality and Watson enabled AI technologies while being supported by IBM's global platform, which includes 57 call centers worldwide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16730925/ibm-services-teams-with-cbre-to-deliver-smart-maintenance-services-to-data-center-clients",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1217402/CBRE_Data_centers.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16730925",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16730925",
+      "publishedDateTime": "2020-07-22T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that.md",
       "title": "Trouble with your tennis serves and penalty kicks? There’s an AI for that",
       "excerpt": "Ah, sportsball. Can you ever forget the first time you grab that pass, fly down the court, and sink that puck right through the net as your fans yell adoringly from the bleachers, TOUCHDOWN! No? Not ringing a bell?",
@@ -1159,236 +1400,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-software-capabilities-for-self-driving-cars.md",
-      "title": "Software Capabilities for Self-Driving Cars",
-      "excerpt": "Self-driving (autonomous) cars have already hit the road. The software capability of these cars, especially those that regulate automated braking or lane departure warning systems, must continuously meet high quality. \"Autonomous vehicles would have to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.unsplash.com/photo-1493238792000-8113da705763?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-          "width": 1050,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/18256/software-capabilities-self-driving-cars/amp",
-      "publishedDateTime": "2020-07-21T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-fca-waymo-team-up-on-level-4-self-driving-commercial-vehicles.md",
-      "title": "FCA, Waymo team up on Level 4 self-driving commercial vehicles",
-      "excerpt": "Google's experts will work on autonomous commercial vehicles exclusively with Fiat Chrysler. FCA will also use Waymo self-driving tech across its brands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/sh59czTv07-USGuvMDBUi3kShMs=/2018/06/26/98fe0842-a9a4-4477-b19e-094af787eea0/rm019-001pm.jpg",
-          "width": 1200,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
-      "publishedDateTime": "2020-07-21T22:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-act-now-get-50-off-pack-pride-annual-subscription.md",
-      "title": "Act Now: Get 50% off Pack Pride annual subscription!",
-      "excerpt": "Hurry, this will only be in effect until July 23 at 11:59 p.m. ET! Click here to get 50 percent off your annual Pack Pride subscription! New members who sign up NOW will get all of the inside scoop for an entire year.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "247 Sports",
-        "domain": "247sports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-air-force-goes-with-blackskys-spectra-ai-platform-to-track-impact-of-covid-19.md",
-      "title": "Air Force goes with BlackSky’s Spectra AI platform to track impact of COVID-19",
-      "excerpt": "The contract calls for BlackSky to monitor U.S. military bases overseas and assess the status of supply chains, using its AI-enabled Spectra geospatial data analysis platform. Spectra can analyze satellite data as well as news feeds and social media ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/HartsfieldJacksonAtlantaInternational-630x406.png",
-          "width": 630,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
-      "publishedDateTime": "2020-07-21T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota.md",
-      "title": "Self-driving Car Market to See Huge Growth by 2025 | Apple, IBM, and Cisco , Waymo, Toyota",
-      "excerpt": "HTF MI Analyst have added a new research study on Title Global Self-driving Car Market (2018-2024) with detailed information of Historical, current and forecasted market size data for the technology components in the global self-driving car market (radar sensors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

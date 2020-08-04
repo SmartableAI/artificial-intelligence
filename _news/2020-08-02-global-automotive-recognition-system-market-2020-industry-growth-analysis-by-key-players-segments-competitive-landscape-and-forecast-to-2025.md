@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Computing Industry- Global Market demand Analysis, Industry Chain, Competitors, Revenue and Forecast 2020 – 2026"
-    excerpt: "Cognitive computing systems are developed by using machine learning algorithms and Natural Language Processing (NLP)"
-    publishedDateTime: 2020-07-30T09:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-industry--global-market-demand-analysis-industry-chain-competitors-revenue-and-forecast-2020-2026-2020-07-30"
+  - title: "Global AI Drug Discovery Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
+    excerpt: "The market research study on Global AI Drug Discovery Market Growth (Status and Outlook) 2020-2025 will provide"
+    publishedDateTime: 2020-08-03T23:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-drug-discovery-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2020-08-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -50,6 +50,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Siemens Healthineers AG (SEMHF) CEO Bernhard Montag on Q3 2020 Results - Earnings Call Transcript"
+    excerpt: "Q3 2020 Earnings Conference Call August 03, 2020, 02:00 ET Company Participants Marc Koebernick - Head, IR Bernhard Montag - President, CEO & Chairman Jochen Schmitz - CFO Conference Call Participants Patrick Wood - Bank of America Merrill Lynch Scott Bardo - Berenberg Veronika Dubajova - Goldman Sachs Group Lisa Clive Bernstein - Sanford C."
+    publishedDateTime: 2020-08-03T21:59:00Z
+    webUrl: "https://seekingalpha.com/article/4363953-siemens-healthineers-ag-semhf-ceo-bernhard-montag-on-q3-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "P3TTtWOB+xvvmdkFfnxha9vYd3YvsVIWuwzbK5c+TeTfBq9PWSvaEVolGKR+jqJI8I0Zd88UVmkuevfEWgK4ETvFTLsRbhzqOQt+UibtISne43KnUVbRNB2maNGxnS1kWNMFcmlwTui/X4ROPXfxhH6k1HPmJT/naE8czqWPwbEzVhCBGoXAwp8BNTnuu5wtgvRz6QIvEtmFpJx/6yb/O962vB9bDMx7JrrMAG/SJjXt7bwUNpJ5euo42GEqzp1ZLGmEgJpVpPTNIGXwVE/KgLjqlmM8Y8BJzftjTMEql4hVszFixksm7+LfzXUkzb5ADaZGVpdm8ok//jX872vsfw==;9Jq5fy3TwLAF+iqtsg0lRg=="
 ---

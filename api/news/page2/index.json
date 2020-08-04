@@ -2,6 +2,88 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-02-baidu-completes-its-computer-for-self-driving-cars.md",
+      "title": "Baidu completes its computer for self-driving cars",
+      "excerpt": "The firm isn’t the only one working on self-driving computers. NVIDIA is quickly landing deals with GM, Toyota and others that could make it a powerhouse, for instance. However, Baidu might be the first to put a platform into real-world (albeit limited) use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F7325be30-d435-11ea-bfb1-aefda5da57d0&client=amp-blogside-v2&signature=9f70eab165ef74f9f781ff7fef9669edcdb62fe8",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html",
+      "publishedDateTime": "2020-08-02T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-02-rite-aid-pulls-plug-on-facial-recognition-system-with-china-links.md",
+      "title": "Rite Aid Pulls Plug on Facial-recognition System with China Links",
+      "excerpt": "The post Rite Aid Pulls Plug on Facial-recognition System with China Links appeared first o. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
+      "publishedDateTime": "2020-08-01T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025",
       "excerpt": "The latest research report on Artificial Intelligence (AI) in Healthcare Market delivers a comprehensive study",
@@ -9,7 +91,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -105,7 +187,7 @@
       "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
       "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 129,
@@ -397,7 +479,7 @@
       "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/07/31/arlington-asset-investment-corp-ai-q2-2020-earning.aspx",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -446,7 +528,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-july-2020-edition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -796,7 +878,7 @@
       "webUrl": "https://venturebeat.com/2020/07/31/probeat-slowing-aws-microsoft-azure-and-google-cloud-revenue-growth-is-a-good-thing/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1122,106 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
-      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
-      "excerpt": "AMD has revealed that its first GPU designed specifically for computing and based on CDNA architecture will become available later this year. Being developed primarily for artificial intelligence and high-performance computing (HPC) applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "publishedDateTime": "2020-07-31T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-us-armys-conversational-ai-system-to-get-soldiers-and-robots-talking.md",
-      "title": "US Army's conversational AI system to get soldiers and robots talking",
-      "excerpt": "The US Army is working on a soldier-robot interface that uses spoke dialogue to control joint tasks in real-time. The Joint Understanding and Dialogue Interface (JUDI) is designed to reduce training costs while improving soldier/robot teamwork.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5476be0/2147483647/strip/true/crop/1200x800+0+52/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9a%2F1d%2Fa9bdcc024597b4c3de5538899385%2Fmax1200-2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
-      "publishedDateTime": "2020-07-30T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

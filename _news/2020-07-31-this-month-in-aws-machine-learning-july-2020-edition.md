@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-31T22:45:14Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-july-2020-edition/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

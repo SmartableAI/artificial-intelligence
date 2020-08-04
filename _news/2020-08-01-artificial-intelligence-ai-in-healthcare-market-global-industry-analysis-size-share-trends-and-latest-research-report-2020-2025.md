@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-01T22:55:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
       - url: "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg"
         width: 350
         height: 350
-        isCached: true
-  - title: "Global Artificial Intelligence in Food and Beverage Sales, Revenue and Market Share by Country (2020-2025)"
-    excerpt: "This report also researches and evaluates the impact of Covid 19 outbreak on theArtificial Intelligence in Food and Beverage industry involving potential opportunity and challenges drivers and risks We present the impact assessment of Covid 19 effects onArtificial Intelligence in"
-    publishedDateTime: 2020-07-30T06:16:00Z
-    webUrl: "https://www.openpr.com/news/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
-    ampWebUrl: "https://www.openpr.com/amp/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2099424/global-artificial-intelligence-in-food-and-beverage-sales"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
-    images:
-      - url: "https://cdn.openpr.com/T/7/T730166302_g.jpg"
-        width: 566
-        height: 348
         isCached: true
 
 secured: "tFvrknBE24PEdNBnnMKmejptK0RwKW29juiZVgQKKKF2EgzBbK985BLtH7fZS1fsOvsjyx/7PZp9Rl39ZZv2415EBtI8jjnSBUnMVJWVa+7nwF2KC+vu/ee7MDJdDT1PKn5aD6qfzEk6Smsf+KfNiLFHVVkiuO/3H92e2pE+5Cg2/z5nv/Qzql6PYLAq7ygFcwPBJ7u3qCDxtHIUusUllqnoRxej6UNLp1pVW8ZkpxjiIikGF2/tpjY3BgvkAT9Qj/zknWGjATU0LGhJsRbTm2LaUoSDZTAHR3v4j20+A1k47K1cPEd5dn2Yro4UhX2RM9ajNXzJZxF2bkz7x+6zcw==;aspiZzHEJNnzT+HljGmKWg=="

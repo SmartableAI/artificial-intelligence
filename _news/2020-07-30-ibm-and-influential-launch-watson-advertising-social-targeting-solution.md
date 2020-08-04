@@ -1,9 +1,9 @@
 ---
 category: news
 title: "IBM and Influential Launch Watson Advertising Social Targeting Solution"
-excerpt: "IBM has launched Watson Advertising Social Targeting with Influential, a solution that harnesses artificial intelligence (AI) to help companies identify influencers that best align with their brand values. The new solution within the Watson Advertising ..."
-publishedDateTime: 2020-07-30T16:00:00Z
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142117"
+excerpt: "IBM is expanding its collaboration with social media technology provider Influential to help companies identify suitable influencers."
+publishedDateTime: 2020-07-30T19:28:00Z
+webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/IBM-and-Influential-Launch-Watson-Advertising-Social-Targeting-Solution-142117.aspx"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,17 @@ images:
     height: 580
     isCached: true
 
-secured: "sREqAPp2MhJdd9RPv70Gb1gbzptWWKpWDHbC3w1goQWFN5T4Cassqgxq90vzVBgkWnZAGH2fAwruAUJwHiNETRalU5WZQXl5/qIe21b68kDh2SCx5k34Dv7kYALkbC4grmJeVVfSlMEFi5GwNKzOwA65IfyhWAbGnvL9DvFVduSxnKHfKs2Y8T4PUSMWSYssAjzkfbVFQje+08DRj6xWGtqSHvcqY7O7dF/W9zQhMzA9g0a7ItvzL8zQ935mn8Y5qArh04stjOLnwa3BHllhXCGEEe8weCxFUJC8lswpIWpkETxlzt8Kot9YoxkpIh9KlvtQkhO12blDKR+elgRCjg==;vfudLqllQGdgMdvRoUYECg=="
+related:
+  - title: "IBM and Influential Launch AI-based Tool"
+    excerpt: "IBM and data-based influencer marketing platform Influential have teamed up to launch a solution using AI to help brands identify those influencers who best align with their brand values. The new Social Targeting solution,"
+    publishedDateTime: 2020-08-03T23:19:00Z
+    webUrl: "https://www.mrweb.com/drno/news30080.htm"
+    type: article
+    provider:
+      name: MrWeb
+      domain: mrweb.com
+    quality: 19
+
+secured: "E1pkjD9ywLH4s0eIZcDg+f/im8dxq7gbsZdaiTy8UnXszjOc93Hsofm1ErJ3NmrW0q4mfJ6ar4ZybEvlbrPMD1RPZOaQgK86YZQHFPPoHCTUuQGwR15HSUPsKSV5WcyKL1it3fFhuV3MzVBoBkeGdXPHe9k6dPkh4p0lxpLIU5iT9H/gRqeGIhztJAshBgVDMl76doxWwOp10wmmflA/v0DnVXBkdZSKnqHbs9cIWazBB7O4/SNfCn9Lvvp64mOB37Wxy1ke0tOdLyOR3jGazwnWugUOjE9j4GI9J1iJ4sbhpxYddQa/MPDmwQHunyKztrUbFGApEx0UF8OHj0BiEg==;SPJjNLyg35hrzsWZOhd6oA=="
 ---
 
