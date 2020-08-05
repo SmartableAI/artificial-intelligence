@@ -22,6 +22,22 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "LivePerson Announces the Conversational Cloud™, an AI-powered Command Center for Brand-Consumer Conversations"
+    excerpt: "As the world’s most advanced AI-powered command center for brand-consumer interactions, the Conversational Cloud empowers brands to instantly respond to messages, answer questions, resolve customer intents,"
+    publishedDateTime: 2020-08-04T12:30:00Z
+    webUrl: "https://apnews.com/PR Newswire/a18be4c9736880209cfb751e4c2b21ae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "kzC8QvsHmNTTjKNGmC12kTcuJgEjO88pBat081+oesfabKY8wEs/zIRS1W04iIC1ZOSqLjW+WXHbfLJGYNzJmpV4/uDBF/pgqaF2y9olu2sQryr4/vXKmQkYWretemVjnAHQ6NiuVkzwCFfoJxH0QZBNV5eACjI6MRvTYeEUYwfzZQWulO3+WJFxlAPWjPeYS/wCYklLraYdeikxolUdqezFkjoeuJhEwO+FNGKvxhP9TqyBafFY53mWG4MpEWuk9vWTIGIyyDC5ZHTJVovZUfCjw2UFwdlcfjBZoSLf3e0FsP1/nQsukYkg/jGnIqMYdb47w0kcjPdc3Wn6g1SfhA==;LrcEsjDWLirapwi1gXIX1w=="
 ---
 

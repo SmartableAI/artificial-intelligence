@@ -2,6 +2,194 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-06-30-how-to-build-a-cognitive-enterprise.md",
+      "title": "How to Build a Cognitive Enterprise?",
+      "excerpt": "Enterprise Experience and Humanity Enterprise experience and humanity is an essential component of Cognitive Enterprise. In the end, for all the technology centricity of this new world, it is human power that envelopes and leverages this technology to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/how-to-build-a-cognitive-enterprise-nid-31499-cid-117.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cioreview.com/Rank_subcat_images/jzvMaster.jpg",
+          "width": 376,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes.md",
+      "title": "K-12 school use AI and automation to customize lessons and pivot from in-person to online classes",
+      "excerpt": "Edtech company Edmentum has built a virtual assistant to help teachers master new education platforms quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/23/3dd79642-a672-4227-b2e8-7498cd4015eb/resize/1200x/ee8113922f79a3209e5641984ac6c549/virtual-classroom.jpg",
+          "width": 1200,
+          "height": 968,
+          "title": "K-12 school use AI and automation to customize lessons and pivot from in-person to online classes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
+      "publishedDateTime": "2020-06-30T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey.md",
+      "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
+      "excerpt": "To learn more about where your company stands now, and how the market is evolving in the AI-first era, take the VB AI Survey now.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/wocintechchat.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
+      "publishedDateTime": "2020-06-30T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle.md",
+      "title": "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle",
+      "excerpt": "Be an in-demand, certified tech professional with 87+ hours of content on Python, Tensorflow, Machine and Deep Learning while saving over $750 off the normal cost of this certification.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1593504884_product_40143_product_shot_wide_story.jpg",
+          "width": 760,
+          "height": 380,
+          "title": "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/",
+      "publishedDateTime": "2020-06-30T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-how-a-former-soldier-went-from-self-taught-truck-driver-to-helping-alphabets-waymo-usher-in-the-era-of-self-driving-semis.md",
       "title": "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis",
       "excerpt": "Jon Rainwater instructs safety drivers for Waymo Via, the self-driving company's freight and deliveries unit.",
@@ -1212,190 +1400,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-daimler-backed-momenta-says-its-robotaxis-will-be-fully-driverless-and-profitable-in-2024.md",
-      "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
-      "excerpt": "In China and the U.S., there’s much debate about when and how humans will achieve fully autonomous robotaxis at scale — cars that chauffeur passengers under complex road conditions without safety drivers behind the wheel.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/30/momenta-robotaxis/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-30-at-12.08.36-PM-e1593490638906.png?w=680",
-          "width": 680,
-          "height": 362,
-          "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/momenta-robotaxis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/momenta-robotaxis/amp/",
-      "publishedDateTime": "2020-06-30T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change.md",
-      "title": "Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change",
-      "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change\" -  The global artificial intelligence services market is expected to decline from $0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change-2020-06-30",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
-      "publishedDateTime": "2020-06-30T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity.md",
-      "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
-      "excerpt": "Automation Anywhere sees enterprises investing in digital workers to build resiliency in their future business plans",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/bb20c7c0ed449b8d619e48b358411162-1200-80.jpg",
-          "width": 622,
-          "height": 350,
-          "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
-      "publishedDateTime": "2020-06-30T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

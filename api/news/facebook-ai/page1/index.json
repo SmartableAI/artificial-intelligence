@@ -102,6 +102,38 @@
       ]
     },
     {
+      "path": "_news/2020-07-30-facebook-develops-new-rebel-poker-ai-that-outperforms-libratus.md",
+      "title": "Facebook Develops New ‘ReBeL’ Poker AI That Outperforms Libratus",
+      "excerpt": "The ReBeL poker AI developed by a team at Facebook uses new concepts in self-learning to help it excel at a variety of imperfect-information games.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
+      "cdnAmpWebUrl": "https://www-cardschat-com.cdn.ampproject.org/c/s/www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
+      "publishedDateTime": "2020-07-29T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Poker Sites",
+        "domain": "cardschat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work.md",
       "title": "A new AI claims it can help remove racism on the web. So I put it to work",
       "excerpt": "It was too tempting a challenge. Which site has more problematic pages? FoxNews.com or ESPN.com? You may be surprised.",
@@ -1390,47 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-the-woman-behind-recruitings-most-talked-about-ai-solution.md",
-      "title": "The Woman Behind Recruiting’s Most Talked About AI Solution",
-      "excerpt": "From start-up to thought leader, here's how Andreea Wade rose to the top in the AI world and what led her to iCIMS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.icims.com/hiring-insights/for-employers/article-the-woman-behind-recruiting-s-most-talked-about-ai-solution",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn31.icims.com/icims3/prod/img/blog-posts/d3c4609f7f25164b5114f87e984d49ce.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iCIMS",
-        "domain": "icims.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-04T22:21:00Z
 webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-analysis-trends-and-cagr-projections-2020-2026-2020-08-04"
 type: article
 quality: 60
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vehicle Speech Recognition System Market"
-    excerpt: "A new research study has been presented by Dataintelo.com offering a comprehensive analysis on the Global Vehicle Speech Recognition System Market where user can benefit from the complete market research report with all the required useful information ..."
-    publishedDateTime: 2020-07-31T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
-    ampWebUrl: "https://www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/7/T731922844_g.jpg"
-        width: 560
-        height: 315
-        isCached: true
   - title: "Global Edge AI Chips Market 2020 by Key Players, Regions, Type and Application, Forecast to 2025"
     excerpt: "Global Edge AI Chips Market Growth 2020-2025 determines the views and opinions expressed by the consumers. The report gives the estimation of the trends, which are based on the present, future market analysis."
     publishedDateTime: 2020-08-04T22:44:00Z

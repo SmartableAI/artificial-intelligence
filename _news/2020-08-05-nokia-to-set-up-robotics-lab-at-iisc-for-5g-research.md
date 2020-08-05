@@ -34,6 +34,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Nokia to set up robotics lab at Indian Institute of Science"
+    excerpt: "Nokia Centre of Excellence will promote engagement and cooperation between academia, startups and industry ecosystem partners in research and development."
+    publishedDateTime: 2020-08-05T07:39:00Z
+    webUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science"
+    ampWebUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 74
+    images:
+      - url: "https://images.yourstory.com/cs/2/730b50702d6c11e9aa979329348d4c3e/Image95d9-1581162506015.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Nokia's new robotics lab with IISc will explore 5G use cases and other emerging technology"
     excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
     publishedDateTime: 2020-08-04T08:15:00Z

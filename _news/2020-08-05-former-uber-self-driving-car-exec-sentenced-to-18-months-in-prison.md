@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Former Uber self-driving car exec sentenced to 18 months in prison"
-excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking document from Google related to its self-driving car program."
-publishedDateTime: 2020-08-05T05:48:00Z
-webUrl: "https://cnnphilippines.com/world/2020/8/5/uber-anthony-levandowski-sentenced.html"
+excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
+publishedDateTime: 2020-08-05T07:16:00Z
+webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/04/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CNN Philippines
-  domain: cnnphilippines.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/8/5/Anthony-Levandowski_CNNPH.jpg/jcr:content/Anthony-Levandowski_CNNPH.jpg"
-    width: 750
-    height: 450
+  - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-1.jpg"
+    width: 500
+    height: 344
     isCached: true
 
 related:
@@ -135,6 +135,6 @@ related:
         height: 382
         isCached: true
 
-secured: "TE/FmfbScvaJ7+nD2XToxahrNBCejPn2EclYO9IpfgMUuhDNBVrk5gfekN4bcpvhn4DkrdyvUd/MsLhsPnBq7eo88AT43FztDjhBEYGjksxb1u8QfblDftA/uRHG3C3tvcjnTQlFphy508WeYLGnkY/2+/qMb6fdlJ6Kfr0mQzYJclOQ9d3deopeeHDerWVUS0jBhDBrfi8G7FHops7FYiGTjuB+OrZTLnre9H8/OMa1KGIfGQ80M9Y6e67mx0Bzv7lrySMNjSL8QH9y/g+VA+BrrS9Clz/zvdBnh8m451acYNk5ErnK0gKuojzzPVtxgP4a3IGJPdajPOu4c/keng==;bZe48MBEdlDrbd069Yt+mw=="
+secured: "szCqrUnhKce5VOEg9BkuLkig1jt066Lb6yDwKZa5SyPogjbx3+v7bDBZ+jtao692lORdpunK3HvLmhlV6HZgWQtgRr52jJo01fGDTVHjL1GqjLpU39EeJHkV4eN3VLAeQS2WUKq/4CAbVZgkdCbb/Dl7PSmCFFJ/2TD3qJqDdXSuj7Ucmwngf2zZiXMnNj0ivygkYjMlxtPs/15wFBLUeoHxdDfzrRNXEZ40S6lSEmulvVxXiCGaZU4UHbOiIwBL9pBt22cMjm5iC2Zbh3v3XefSWQug/xzQgSXTYMgIekAYDBTI+RK1zgGYKtJARRzOZQyZkYmPdQPkuVyJn8N2Qw==;TeH++K1YEoL5zxaevdosSA=="
 ---
 

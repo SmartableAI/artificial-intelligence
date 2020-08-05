@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/christosmakridis/2020/08/05/make-ai-enhance-your-productivity-not-a-surveillance-state/</loc>
+    <lastmod>2020-08-05T00:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft/</loc>
     <lastmod>2020-08-04T20:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -523,7 +529,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/home-page/ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom</loc>
+    <loc>https://www.embedded-computing.com/news/ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom</loc>
     <lastmod>2020-07-30T22:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -631,12 +637,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment-1029451387</loc>
-    <lastmod>2020-07-30T07:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records</loc>
     <lastmod>2020-07-30T06:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -721,8 +721,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/</loc>
+    <lastmod>2020-07-29T19:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-29T18:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.medindia.net/health-press-release/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment--479970-1.htm</loc>
+    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1297,6 +1309,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.hpcwire.com/off-the-wire/halliburton-forms-strategic-agreement-with-microsoft-and-accenture-to-use-azure/</loc>
+    <lastmod>2020-07-27T08:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/</loc>
     <lastmod>2020-07-27T08:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1333,8 +1351,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html</loc>
-    <lastmod>2020-07-27T05:44:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html</loc>
+    <lastmod>2020-07-27T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1347,6 +1365,12 @@
   <url>
     <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
     <lastmod>2020-07-27T05:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html</loc>
+    <lastmod>2020-07-27T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1441,12 +1465,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cmo.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
-    <lastmod>2020-07-26T10:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/</loc>
     <lastmod>2020-07-26T10:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1461,6 +1479,12 @@
   <url>
     <loc>https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/</loc>
     <lastmod>2020-07-26T05:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <lastmod>2020-07-26T01:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1723,14 +1747,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/n16756509/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-chea</loc>
-    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23</loc>
+    <lastmod>2020-07-23T10:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in</loc>
-    <lastmod>2020-07-23T10:15:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html</loc>
+    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
