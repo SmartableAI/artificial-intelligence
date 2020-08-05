@@ -2,7 +2,7 @@
 name: "Recursion Pharmaceuticals"
 overview: "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City."
 type: "profile"
-heat: 41
+heat: 98
 
 website: https://www.recursionpharma.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RecursionPharma"
   url: "https://twitter.com/RecursionPharma"
-  followers: 3196
+  followers: 3199
 
 size: 51-200 employees
 yearFounded: 2013
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
 
-secured: "U4cA0wZU3SFf6nRwf1TKvoAap9dbIbsgtOvWzq/CreRP2Zmfs20FugJyZx3DXZLzrAlcLs21/5WjbBlpBxTajcWAEV1oZIvaFsfKxWeSYad0kNcoqZ+3eS358i4K0/6lZmsfqJ8v5gJJdlU9CoNsUlCU5nOSCowK6rU3H3/ipmlStre8jQldP8Qc7ffTar4JqchnI/NySyzV5MJSmv/H/m5qvzYd0Bg4Ck1R5cDQPaTdB/y9f4WGXlFjMEuxvnVD6GEfcgHiCkl+TcMTJWxJDo+fzRtbd9ghoV2K1NU2qL3l7vG4MVGvWGr0+34Caqo0dbt7eNEnlEIqfId6VnG3J4tOtKij17f1dtwRTPkYlrDSBk/SDgz2E1rC1gYKHH9i;C2Hc/yhn/5thrk6ypXTlJQ=="
+secured: "264Soq+/r5xUdPkNNVrRrDvwE78+pfMPIHEauuSSuc94Aw5KV9SJ2cKrLCmAryYuhjxqA4UByxJf/fCmXX9yur7S2ssEPMSuU7xXnJU7qEYlFG0ZWfUbmizt7hcVcBDiArate4NWNOAZ3B8FyoisLZMgtq1AweMj2GUovklHH39SYsT1Wx2WOSji9iXQ/uZFnW/3kqCYqYfcAnF0hcZ4qGcUpE2TkCBHmf9aTHGrNR0UsjED+ByEJscSgCc5Jx2Qbw/9jyiAy9n0EEWZSwT8c5Ar2uVncMv6tB1KbYIQj6wPAN0sWGBTgosnSWx/kp9CqTABTNkVkrYNgc0sMzap96y2sAKeNyaCsa/DRarfsAxXDJ7bNj1Ia0ahdWAdBNrz;JcNwm4gF0lOI8sAjPEiARg=="
 ---
 
