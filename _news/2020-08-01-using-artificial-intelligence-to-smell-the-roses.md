@@ -25,8 +25,8 @@ images:
 related:
   - title: "Using artificial intelligence to smell the roses"
     excerpt: "\"We now can use artificial intelligence to predict how any chemical is going to smell to humans,\" said Anandasankar Ray, a molecular biologist and senior author of a study that appears in iScience. \"Chemicals that are toxic or harsh in,"
-    publishedDateTime: 2020-08-04T20:29:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300998"
+    publishedDateTime: 2020-08-04T20:18:00Z
+    webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=300998&org=NSF&from=news"
     type: article
     provider:
       name: nsf.gov

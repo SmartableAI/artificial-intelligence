@@ -154,6 +154,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Food and Beverages Market Industry Analysis, Forthcoming Growth, Industry Prospects and Forecast to 2027"
+    excerpt: "AI is helping companies to stock up their inventories only to the extent that the demands can be met. Some factors are anticipated to hinder the growth"
+    publishedDateTime: 2020-08-05T17:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-industry-analysis-forthcoming-growth-industry-prospects-and-forecast-to-2027-2020-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New Report: Cognitive Computing Market Size, Research Analysis and Share is Expected to Exhibit 53.73 Bn US$ in 2026"
     excerpt: "Selbyville, Delaware According to Market Study Report, Has Added A New Report On Cognitive Computing Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size."
     publishedDateTime: 2020-08-03T15:23:00Z

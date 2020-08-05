@@ -2,6 +2,179 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-06-30-artificial-intelligence-is-experiencing-growing-pains.md",
+      "title": "Artificial Intelligence Is Experiencing Growing Pains",
+      "excerpt": "We’ve moved beyond the phase of Is AI a shiny object? toward broader mainstream adoption and actual value creation. But are organizations ready?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/amp/",
+      "publishedDateTime": "2020-06-30T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-australian-authorities-want-an-ai-to-settle-your-divorce.md",
+      "title": "Australian Authorities Want an AI To Settle Your Divorce",
+      "excerpt": "For better or worse, there’s a good chance your current love life owes something to automation. Even if you’re just hooking up with the occasional Tinder fling (which if you are, no judgment), you’re still turning to Tinder’s black-box algorithms to pick out that fling for you before turning to more black-box algorithms to pick out the best dingy bar to meet them at before turning to more black-box algorithms to figure out what,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iecgpkelskttyvkjc7sq.jpg",
+          "width": 800,
+          "height": 451,
+          "title": "Australian Authorities Want an AI To Settle Your Divorce",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
+      "publishedDateTime": "2020-06-30T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-for-machine-builders-its-open-season.md",
+      "title": "For Machine Builders, It’s Open Season",
+      "excerpt": "Today, software developers for the consumer market take advantage of open source code to enable connectivity, databases, visualization and more. Established developers in the industrial operational technology (OT) arena also are finding applications where they would like to use some of these same open source characteristics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/automation-iiot/article/21135495/for-machine-builders-its-open-season",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models.md",
+      "title": "Montreal AI Ethics Institute suggests ways to counter bias in AI models",
+      "excerpt": "In a recent paper, analysts at the Montreal AI Ethics Institute examine key challenges faced by the AI community -- and propose solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Montreal AI Ethics Institute suggests ways to counter bias in AI models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/",
+      "publishedDateTime": "2020-06-30T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning.md",
       "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
       "excerpt": "The researchers claim MARGE learns to paraphrase, translate, and summarize text without any fine-tuning, a potential step toward systems that can perform any text task from pre-training alone. In machine learning,",
@@ -971,205 +1144,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-hunters-raises-15m-series-a-for-its-threat-hunting-platform.md",
-      "title": "Hunters raises $15M Series A for its threat-hunting platform",
-      "excerpt": "Hunters, a Tel Aviv-based cybersecurity startup that helps enterprises defend themselves from intruders and analyze attacks, today announced that it has raised a $15 million Series A funding round from Microsoft’s M12 and U.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Hunters-team-photo.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Hunters raises $15M Series A for its threat-hunting platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
-      "publishedDateTime": "2020-06-30T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-elementary-robotics-raises-127-million-to-automate-industrial-inspections.md",
-      "title": "Elementary Robotics raises $12.7 million to automate industrial inspections",
-      "excerpt": "Elementary Robotics, a startup developing autonomous industrial inspection technologies, has raised $12.7 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Elementary Robotics raises $12.7 million to automate industrial inspections",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/",
-      "publishedDateTime": "2020-06-30T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-refraction-ais-robots-start-delivering-groceries-in-ann-arbor.md",
-      "title": "Refraction AI’s robots start delivering groceries in Ann Arbor",
-      "excerpt": "Refraction AI, a startup based in Ann Arbor, has launched an autonomous delivery pilot for customers of the local Produce Station.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/20200424_120944-scaled-e1593206157534.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Refraction AI’s robots start delivering groceries in Ann Arbor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/amp/",
-      "publishedDateTime": "2020-06-30T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-ai-jen-poo-thinks-well-finally-appreciate-our-essential-workers-in-the-wake-of-coronavirus.md",
-      "title": "Ai-jen Poo thinks we’ll finally appreciate our essential workers in the wake of coronavirus",
-      "excerpt": "Below is an answer from Ai-jen Poo, the co-founder and executive director of the National Domestic Workers’ Alliance, an organization that advocates on behalf of domestic workers. She also co-founded SuperMajority,",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1874537/ai-jen-poo-on-the-future-impacted-by-coronavirus/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2019/08/aijenpoo.credit.othello.banaci-1.jpg?quality=75&strip=all&w=1400",
-          "width": 820,
-          "height": 984,
-          "title": "Ai-jen Poo thinks we’ll finally appreciate our essential workers in the wake of coronavirus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1874537/ai-jen-poo-on-the-future-impacted-by-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1874537/ai-jen-poo-on-the-future-impacted-by-coronavirus/amp/",
-      "publishedDateTime": "2020-06-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

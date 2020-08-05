@@ -168,6 +168,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Food and Beverages Market Industry Analysis, Forthcoming Growth, Industry Prospects and Forecast to 2027"
+    excerpt: "AI is helping companies to stock up their inventories only to the extent that the demands can be met. Some factors are anticipated to hinder the growth"
+    publishedDateTime: 2020-08-05T17:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-industry-analysis-forthcoming-growth-industry-prospects-and-forecast-to-2027-2020-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Automotive Recognition System Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
     excerpt: "The latest report titled Global Automotive Recognition System Market 2020 by Company, Type and Application, Forecast to 2025 provides various levels of analysis such as industry analysis (industry trends),"
     publishedDateTime: 2020-08-02T20:01:00Z

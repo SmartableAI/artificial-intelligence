@@ -74,6 +74,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Senate bill would place limits on use of facial recognition, other biometrics by private companies"
+    excerpt: "Less than two months after legislation was introduced that would prohibit federal agencies from using facial recognition technology, as well as strip support from state and local law enforcement agencies that also leverage it, Sens. Jeff Merkley (D-Ore.)"
+    publishedDateTime: 2020-08-05T16:02:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21149050/senate-bill-would-place-limits-on-use-of-facial-recognition-other-biometrics-by-private-companies"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 25
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/08/bigstock_Ai_Facial_Recognition_On_Cctv__363978424.5f2ad4b202f2a.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 866
+        isCached: true
 
 secured: "QvCmJ3VtIjynbVlJjUvV1xBxw+LEfAU1N3TXiAAS5TxydY4WEZ3tGAffYpBLo8OKI2TPQo1U5SzZ5p1Wi8vOBf9/wxmYaJ1QNIhTaJeI5mEi6Xg8qdrqt/HzSP9YGLhNwyiZC9Sxg+bp0D+w+xvBushGEkKz3FMIHFNzkjORpGOX/yKXT13rl82/cCbbwrmxG51hZtiKJXPqDVEzkBJuqsJy8iH1fPEZ0GlD7y0qZR89ma8Hf1ZdBzEwcBW+BaEEAGQB82FQWWmKBc/Jr/DNiF7IJ6FGR0srseOlqP3dYCdkW2E1PLQ6CWD/OMcGlABmbbZ/2EjrKHtR1GBEEt/M0w==;vGRrzYZSjO2/czHWacd5vw=="
 ---

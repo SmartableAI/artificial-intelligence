@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavir
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "For robots, it’s a time to shine (and maybe disinfect)"
+    excerpt: "The Neo is a 4-foot-tall, 1,000-pound robot floor scrubber. The high-tech machine can cruise large commercial buildings on its own, with no human supervision required."
+    publishedDateTime: 2020-08-05T16:41:00Z
+    webUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
+    images:
+      - url: "https://www.baltimoresun.com/resizer/l5gn6xDkCST4lrt8kj6Y4gf7IUI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CYFAGH6NCJDRNFDVTKGTUYWL5I.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "c9cu4BTq0HUrA+iVzFo+CXz8yePheknEB/BjKFXLvQ6UEVjfDoqKvxzYnYrHQfkUWtejzNadydecRgH58A7HK9VzPTPNN3aS2VdGjwmYn+fQpWE1pWIORYwqKjxfZw/HyvLi+0dHWHZcfzEVTF8NDakfag8zXoPSJEaNXRFDalLjTV18EA5eztCnsY5TW9vxIl+HSgF84Z2g8KIsaTodcuc8cnMXO6ssUHECX5OGqR5mX2+GPSujbkyOKLQReExlp9yJcGGAewqWr0WYQLRptaqPWb1PDki8KV5iV1fJdApzRQSGeuXwF/Z0gzaSrXMF7ELRcgYGJBJau5otqYXNLZYUIs2g+3qIrdL/NxRiA/PiK6T+sDarxMNfEP1YFaICd6WM/5ymI7t+oDiWUlhUSBDmtVg/4q6J0T1C8QyetxuEDthXH+r4POD2mdIpd1qe2eXIsOYimJE//4uAVVUxNZOWEv0z07g6aWSTppFdt+HyeE6DvaDD9z7IFnzzDR0l;ebsemzsKik/AWzfd7v2otw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/06/Singapore-DBS-Skyscrapers-Asia-600x800.jpg"
         width: 600
         height: 800
+        isCached: true
+  - title: "Senate bill would place limits on use of facial recognition, other biometrics by private companies"
+    excerpt: "Less than two months after legislation was introduced that would prohibit federal agencies from using facial recognition technology, as well as strip support from state and local law enforcement agencies that also leverage it, Sens. Jeff Merkley (D-Ore.)"
+    publishedDateTime: 2020-08-05T16:02:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21149050/senate-bill-would-place-limits-on-use-of-facial-recognition-other-biometrics-by-private-companies"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 25
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/08/bigstock_Ai_Facial_Recognition_On_Cctv__363978424.5f2ad4b202f2a.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 866
         isCached: true
 
 secured: "JIwayXYZXwg/dWFWPAtrZkTdUslG6KyleeaCbN8Ur/S+gfK+hcaxHOshcntdCUPyzonEjoXoVc6l3V05RDFcezEVF957oXasyZG5GkzMlKzPI+oMf9jWe3AZNC64DkDr0Rgk/icEx0DyCIpAfLv/4Z1k3r7RkIk1NONbOpgQWvOuB6Xz/DNdDyV+nx6HXJmHPxGMF0B+IAwqmi5uY8b3IekCT2l0wSSyjRXudj7KavXsWrDepyO0O09hbMsVyrYGRi/h54mLjNk8m1JjsqmqqTlqmBudfjsNSGvDQUtqvrCG8ZvmO0sQ+4DxccTQFct5Xm/6e57K2B0skkIBkeAAV3xgrwLkkAPmh9+mRVQc3cKfZbgAG3RA5OoXYbxcJcE/7Rt3Htfh31VBaifF0X8WuVYmQDssFppOb1BYtf5Wv/A9FPfee0bU0fB0WnqOrmQ5nDUfU4klCFyvt6cvKCWcmfozw05kAqGsyPCHSEfvve5WyCQObd1LbyihqlT9/ZOf;hix4ohlNIlpwBlWlQQUfLQ=="
