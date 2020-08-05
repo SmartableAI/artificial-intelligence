@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-l
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea0f35fa37d800062b82f9%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "oAr/ux+F4A/ItcvTOnysdQZHbtmdUKX073WGl3K1UCCdQqJI68y5+lw9Tq/tHvmhk3eruj51uO/yZ3pD125lTRu3tWMOsuqSwDU3VN/ICqbjXJzzFavj5693io3bNfCUERAfCOl6/bpIZRQsVR9+ym+ed1SnwVd6Yl++l9vJSFjgPxvttDIaVk4PuA0JCM6dfXEclCNB2ogNIDG+lWXmI6wYtvVvqTKnVDqNqhhWVhYB8XzO9i0xkss7KFGB43EBda9n4GsOypHXrq3u9htv2UKRhLkmLJRT53MkfQRr2NOixO/SL7O3e0J3TZv4oCf6uAvsY4vsCL5kqvHGIW3wsQ==;B5YDXPLdKH0TvcmnTwdw2g=="
+secured: "rb1KadB+G36mjI+fd4gLuIPHnQbqvzwAryMmoy96oKbr2IYeluUAu8/Qrzy4GTG2ePlPXGCTEsARjkvKBRpVnMIQCXJ3f320sSssoWbKpGtbJQptEGlq6o5Sxnjf4vteI27nwng0V3AG45Q5Sv/xJs9tAX0f+cQ6gvRyNUuNtsCHQPTquqRWqHRHc+laCYo9zduOTbczlTYSoXwacLepL254QLzf9X1ImFhN+5EatBVoqPNE/8I14X87gXo+X5ygzJe75PDCluUNe1yUFN4w+d0Y3ijpzBIRVRl/5IM54VpTcKH0hmCb18ZS5cKNpyRPQMFtbVHekZFrjqiJ+36T+GNuHPjVjJQfTJE/WZD29jnVSK9jnLIabzVSRnlRYFeh2wq6dg7zxKySvpJGk+5R4OvHWf1OeKjb8zJVMtaB5wqfho6nllhSbDrJTkl23LSn7We7+a+c+hZ/pwCkR5X4ym6OTnWJ/+MrWiebZjS3s5Ld4mqS+nrokkmFzdcetnAhgGSyTAOkpuY8LvWl43G+ow==;kn+fPvsW1yLEE0Z6upuWug=="
 ---
 

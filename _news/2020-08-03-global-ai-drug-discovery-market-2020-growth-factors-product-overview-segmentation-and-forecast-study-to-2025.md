@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Chip Market Set for Rapid Growth to Reach CAGR of Over 44.9% by 2030 - NVIDIA, Xilinx, IBM"
-    excerpt: "AI Chip Market Provides an in-Depth Insight of Sales Analysis, Growth Forecast and Upcoming Trends Opportunities by Types and Applications. AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 ..."
-    publishedDateTime: 2020-08-05T10:16:00Z
-    webUrl: "https://www.reseller.co.nz/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 23
 
 secured: "t4uTzyWpmsykRvZiXS/94NdBHo0UXXiPM0PSXfUiYIIYHDcYkAurGJKGI6/2oipwrAD0InHfY0YS88z3LiWVdmaZV00mxUgiHoSRBpZ1OGvyWprCbzm2uanfMDVBTkaQ988PKHBV43w690FtERrenimr5UExqv3nrY1NFmjE46KB2WZKHRCRulIMco9biOcB2wGr1W7qLLhRYlZ45q/hwWWPOkYxs1f9yt+2qwrgfWI5Hmvgjbg9II5bPsaktFZj2MiCjJrh3XyKDOhOdArqC44FLY+ytMAXuMxSMg4IODXlsUf7CBUSFnwzfecvtvUKaemerelz3ABWy17LLQchfg==;UJqJ4qOBFhrnYdeLbbbVbA=="
 ---

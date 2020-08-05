@@ -1284,33 +1284,33 @@
       ]
     },
     {
-      "path": "_news/2020-07-21-ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "IPsoft’s Amelia’s Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "As a Microsoft Partner, IPsoft supports Microsoft Azure customers, sellers and other partners worldwide in using the conversational AI platform to solve real business issues and drive efficiencies through automation. \"We are delighted to become a Microsoft ...",
+      "path": "_news/2020-07-21-seeq-expands-support-for-microsoft-cloud-services.md",
+      "title": "Seeq Expands Support for Microsoft Cloud services",
+      "excerpt": "and Azure Notebooks for machine learning integration, in addition to on premise support for Windows Server, Active Directory, and SQL Server. Seeq is now adding connectivity to Azure Data Explorer, the latest release of Time Series Insights, and Power ...",
       "sourceUrl": null,
-      "webUrl": "https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596",
+      "webUrl": "https://www.dcvelocity.com/articles/46608-seeq-expands-support-for-microsoft-cloud-services",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/ecqg7rq6c6zaep669ex5.jpg",
+          "url": "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/b87fa579-6462-49de-9bc1-ddd365f6a7ee.jpg?crop=true&height=430&t=1596546244&width=640",
           "width": 600,
-          "height": 315,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596",
-      "cdnAmpWebUrl": "https://amp-mynewsdesk-com.cdn.ampproject.org/c/s/amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596",
-      "publishedDateTime": "2020-07-21T05:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T09:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "mynewsdesk.com",
-        "domain": "mynewsdesk.com",
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
         "images": null,
         "publishers": null,
         "authors": null

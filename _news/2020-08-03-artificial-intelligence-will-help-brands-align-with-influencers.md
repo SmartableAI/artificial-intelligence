@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/petersuciu/2020/08/03/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petersuciu/2020/08/03/artificial-intelligence-will-help-brands-align-with-influencers/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers"
-    excerpt: "NEW YORK, July 30, 2020 /PRNewswire/ -- IBM (NYSE: IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best align with ..."
-    publishedDateTime: 2020-07-31T22:29:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/07/30/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "QJY2v75S1+sTKb9Kiu26lI/Gp9dq2eiJmhdfni93lx/cihgAiiuE9dWnxMqdaciUVSkC0c79dQ0n7uftkMnSSOsX70OrCcpygPsK545csGyaURcxnltMKKXzgW5qztwGiIO4TON6MSWPpZuE8DQxTBFaw6WrUThgzUxlBEJ3ncmCcJM5r99gONU8M8ukp0GEK5FmCeZNk+AccpiHzo3YrNYAwrRDhAWYUSWkhRdwbYZsOja1rampZZ5Jt4t+QDQM8QRGRyVw75g8jLwXx5zhyPxteAxDsZeTKxOy1eSfQZWFc+bCxgf9Jr1ygPG6wZwx76dZDRINvd0IT5mTbvF7bg==;6tcvZqyOy0snVgrtbU5ylA=="
 ---

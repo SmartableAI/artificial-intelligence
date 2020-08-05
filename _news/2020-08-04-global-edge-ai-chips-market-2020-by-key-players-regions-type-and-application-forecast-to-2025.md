@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market By Size, Growth, Opportunity and Forecast to 2025 – MRE"
+    excerpt: "Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,"
+    publishedDateTime: 2020-08-05T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Top Manufacturers, Industry Share, Size, Trends, Growth Factor and Forecast 2026"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence (AI)"
     publishedDateTime: 2020-08-05T13:10:00Z
@@ -166,6 +180,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing 2020-2026: Market Dynamics, Value Chain Analysis, Case Studies and Company Profiles - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-08-05T14:36:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200805005700/en/Artificial-Intelligence-AI-Manufacturing-2020-2026-Market-Dynamics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
+    images:
+      - url: "https://mms.businesswire.com/media/20200805005700/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "0y13WbnjM9MNx6Tu1Dlvw67PLm8mFbzW3B2pPsUesrq6R/An22gaEg+WwCbI2WLqJsDTZS2adTDXUliDLWjpBymXaWqRcv8BOkIGe/ogiwvs8JuwKvzzLOXDHd8soMSojQiAx3gHA0euBEfXId8ElZPm9kbilqD8vOSWxOYc8dvr79DQ+1ZBYuuGTLan2Ij/o8pRfMjzUgEMJHgGF+2aG1XRf0LOdiV4y0vQ8oMSuZTnDeJaZMfH8hDo362qt7ZEkFMuWbiqSwTmo8Y1dKHa601frE+cBZzoC/vSX1cbfvXqCmw4D50D10QHWwxMXQURMxNsbV2j0sRj+PNqNLBwbQ==;hB+GwV1SdotHMu2X1X1v2Q=="

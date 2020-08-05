@@ -45,6 +45,20 @@ related:
         width: 800
         height: 390
         isCached: true
+  - title: "Bar Exams’ Facial Recognition Deployment Is Heightening Test Takers’ Anxiety"
+    excerpt: "Taking the bar exam is stressful enough. But the implementation of facial recognition technology in Michigan’s and California’s bar exam has added another layer of anxiety as accuracy, fairness and privacy concerns creep into test takers’ minds."
+    publishedDateTime: 2020-08-05T14:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/08/05/bar-exams-facial-recognition-deployment-is-heightening-test-takers-anxiety/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 36
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/08/Face-scanning-Article-202008041550.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
     excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
     publishedDateTime: 2020-08-04T21:22:00Z

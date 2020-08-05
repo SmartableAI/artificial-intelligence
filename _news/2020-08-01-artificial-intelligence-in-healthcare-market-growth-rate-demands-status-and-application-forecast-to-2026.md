@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market By Size, Growth, Opportunity and Forecast to 2025 – MRE"
+    excerpt: "Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,"
+    publishedDateTime: 2020-08-05T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Edge AI Chips Market 2020 by Key Players, Regions, Type and Application, Forecast to 2025"
     excerpt: "Global Edge AI Chips Market Growth 2020-2025 determines the views and opinions expressed by the consumers. The report gives the estimation of the trends, which are based on the present, future market analysis."
     publishedDateTime: 2020-08-04T22:44:00Z
@@ -167,6 +181,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing 2020-2026: Market Dynamics, Value Chain Analysis, Case Studies and Company Profiles - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-08-05T14:36:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200805005700/en/Artificial-Intelligence-AI-Manufacturing-2020-2026-Market-Dynamics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
+    images:
+      - url: "https://mms.businesswire.com/media/20200805005700/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "4U+Tvb7PfBnvIww7V8y5DQxmhGxuIfn9lgMakGjrk96o7imC617o7H5Iuu4QKUtICUMlWfpfffmKkMQnVB+vJb5UagdGwLqYwuZKijrSO8olIktS3tCifMlX9x4VGvDmD6i8vA+IXt1AAoMjv6Nv+pLhUOfryxP2lkqPwgPG0kX88y1WxY6dkj1VbkFhasUXyHXeeAo21e9swaATSZXbCrGM1wPDmMhZb/WdHyT7h/yuBc/9ODcskW8O7vq6AnQYr4BWhupXSs5TnmDYTAlAoQ0e45VMkn+VbcVaqgn9N0IoQ3MQhjyGv1EGe1t2EDeu/obSdRe4oDpnCsh+FAZcDA==;FGmO+pKSOSJnUEWQtoRf3g=="

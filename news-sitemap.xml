@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/</loc>
+    <lastmod>2020-08-05T08:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/building-a-pictionary-style-game-with-aws-deeplens-and-amazon-alexa/</loc>
+    <lastmod>2020-08-05T08:44:18-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/</loc>
+    <lastmod>2020-08-05T07:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/</loc>
+    <lastmod>2020-08-05T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence</loc>
     <lastmod>2020-08-05T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,12 +45,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/edge-ai-market-analysis-share-size-and-growth-demand-by-2020-2025-2020-08-05?mod=mw_quote_news</loc>
     <lastmod>2020-08-05T04:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/</loc>
-    <lastmod>2020-08-05T04:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -81,12 +99,6 @@
   <url>
     <loc>https://www.ibm.com/blogs/watson/2020/08/behind-the-code-meet-young-suk-lee/</loc>
     <lastmod>2020-08-04T14:17:06-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033</loc>
-    <lastmod>2020-08-04T13:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -475,6 +487,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/07/30/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands</loc>
+    <lastmod>2020-07-31T15:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize/</loc>
     <lastmod>2020-07-31T15:08:21-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -505,7 +523,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of</loc>
+    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com</loc>
     <lastmod>2020-07-31T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2373,6 +2391,12 @@
   <url>
     <loc>https://www.neowin.net/news/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning</loc>
     <lastmod>2020-07-21T09:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.dcvelocity.com/articles/46608-seeq-expands-support-for-microsoft-cloud-services</loc>
+    <lastmod>2020-07-21T09:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -42,34 +42,6 @@ related:
         width: 600
         height: 464
         isCached: true
-  - title: "Code-free machine learning: AutoML with AutoGluon, Amazon SageMaker, and AWS Lambda"
-    excerpt: "One of AWS’s goals is to put machine learning (ML) in the hands of every developer. With the open-source AutoML library AutoGluon, deployed using Amazon SageMaker and AWS Lambda, we can take this a step further, putting ML in the hands of anyone who wants to make predictions based on data—no prior programming"
-    publishedDateTime: 2020-07-31T22:05:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/code-free-machine-learning-automl-with-autogluon-amazon-sagemaker-and-aws-lambda/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/automl-001.jpg"
-        width: 1000
-        height: 414
-        isCached: true
-  - title: "Building machine learning workflows with Amazon SageMaker Processing jobs and AWS Step Functions"
-    excerpt: "Machine learning (ML) workflows orchestrate and automate sequences of ML tasks, including data collection, training, testing, evaluating an ML model, and deploying the models for inference. AWS Step Functions automates and orchestrates Amazon SageMaker-related tasks in an end-to-end workflow. The AWS"
-    publishedDateTime: 2020-08-04T19:19:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-machine-learning-workflows-with-amazon-sagemaker-processing-jobs-and-aws-step-functions/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "Deploying your own data processing code in an Amazon SageMaker Autopilot inference pipeline"
     excerpt: "The machine learning (ML) model-building process requires data scientists to manually prepare data features, select an appropriate algorithm, and optimize its model parameters. It involves a lot of effort and expertise. Amazon SageMaker Autopilot removes the heavy lifting required by this ML process."
     publishedDateTime: 2020-08-04T22:17:05Z

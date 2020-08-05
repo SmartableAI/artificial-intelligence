@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The history of self-driving cars"
-    excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
-    publishedDateTime: 2020-07-31T21:26:00Z
-    webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/self-driving-car-3-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Ex-Google self-driving car chief sentenced for stealing trade secrets"
     excerpt: "Anthony Levandowski, co-founder of Google’s self-driving car project, has been sentenced to 18 months in prison for stealing trade secrets and allegedly using them to help build a rival driverless programme at Uber,"
     publishedDateTime: 2020-08-05T01:09:00Z
@@ -77,6 +61,22 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F24336686-85a3-4f00-9427-ef5e2cd965da.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Ex-Google engineer sentenced to 18 months for stealing self-driving car secrets"
+    excerpt: "A former Google executive who stole thousands of documents about its self-driving car project before resigning and going to Uber was sentenced Tuesday to 18 months behind bars."
+    publishedDateTime: 2020-08-05T15:11:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 40
+    images:
+      - url: "https://www.nydailynews.com/resizer/xVhrb5plckFSELbAhjzoe3slXhE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPTOF3KFBZC4NHL5MCSEJFNWBY.jpg"
+        width: 1200
+        height: 826
         isCached: true
   - title: "Baidu is ready to produce computers for self-driving cars"
     excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"

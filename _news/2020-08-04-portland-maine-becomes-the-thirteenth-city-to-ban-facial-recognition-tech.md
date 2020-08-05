@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ba
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
 type: article
 quality: 102
-heat: 352
+heat: 342
 published: true
 
 provider:
@@ -104,22 +104,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cfe33ff-8ff0-441e-a988-54097de9f0ee/b8e0c60a-4b6f-45a7-8666-6f80f0bff121/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Facial Recognition, Thermal Imaging Part of the New Normal"
-    excerpt: "The coronavirus pandemic has fueled the rise of facial recognition and thermal imaging technologies to detect symptoms of the virus in a variety of sectors. The tech streamlines more manual safety checks."
-    publishedDateTime: 2020-07-31T21:31:00Z
-    webUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html"
-    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-CORONAVIRUS-OHIO-TECHNOLOGY-.JPG"
-        width: 1110
-        height: 625
         isCached: true
   - title: "Sports teams dabble with facial recognition amid coronavirus pandemic"
     excerpt: "Multiple professional sports teams are considering facial recognition systems to make admitting fans to stadiums as touchless as possible during the coronavirus pandemic, Wall Street Journal report. Why it matters: It is unlikely that fans will be able to return to live sporting events soon unless facilities adopt measures,"

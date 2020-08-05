@@ -117,22 +117,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial Recognition, Thermal Imaging Part of the New Normal"
-    excerpt: "The coronavirus pandemic has fueled the rise of facial recognition and thermal imaging technologies to detect symptoms of the virus in a variety of sectors. The tech streamlines more manual safety checks."
-    publishedDateTime: 2020-07-31T21:31:00Z
-    webUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html"
-    ampWebUrl: "https://www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Facial-Recognition-Thermal-Imaging-Part-of-the-New-Normal.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-CORONAVIRUS-OHIO-TECHNOLOGY-.JPG"
-        width: 1110
-        height: 625
-        isCached: true
   - title: "Facial recognition tech for chimps looks to bust online ape trafficking"
     excerpt: "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ..."
     publishedDateTime: 2020-08-04T15:24:00Z

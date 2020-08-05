@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-04-roborocks-s6-maxv-robot-vacuum-is-too-smart-to-do-the-dirty-work.md",
+      "title": "Roborock’s S6 MaxV robot vacuum is too smart to do the dirty work",
+      "excerpt": "To be fair, I didn’t need much convincing to start with. I hate vacuuming ... If that wasn’t enough, its “vision” has been sharpened by AI that has been trained on thousands of images ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2020/08/04/roborock-s6-maxv-review/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/DSCF2689-796x522.jpg",
+          "width": 796,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2020/08/04/roborock-s6-maxv-review/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/08/04/roborock-s6-maxv-review/amp/",
+      "publishedDateTime": "2020-08-04T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-3-ways-artificial-intelligence-will-change-healthcare.md",
+      "title": "3 Ways Artificial Intelligence Will Change Healthcare",
+      "excerpt": "In healthcare, artificial intelligence (AI) can seem intimidating. At the birthday party of a radiologist friend, she gently expressed how she felt her job would be threatened by AI in the coming decade. Yet, for most of the medical profession, AI will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25fd2fd8f0e8a4e8cf29d5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2084%26cropY1%3D0%26cropY2%3D1172",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/",
+      "publishedDateTime": "2020-08-04T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages.md",
       "title": "The ultimate in working from home: Amazon's engineers are building robots in their garages",
       "excerpt": "The next generation of Amazon's Scout bots – the fully-electric autonomous delivery devices the company is hoping to deploy soon – is currently being designed and built by a team of mechanical engineers in Seattle,",
@@ -1068,104 +1168,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
       "publishedDateTime": "2020-08-03T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai.md",
-      "title": "Fifty Years After Designing Electric Lady Studios, Architect Cuts New Track With AI",
-      "excerpt": "Architect and acoustician John Storyk, known for designing recording and performance spaces around the world, was frustrated by the limits of the software at his firm’s disposal. So last year, he and his research and development director decided to build their own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-215878/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "publishedDateTime": "2020-08-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-13-tech-experts-share-exciting-uses-of-human-centered-ai.md",
-      "title": "13 Tech Experts Share Exciting Uses Of Human-Centered AI",
-      "excerpt": "As this technology develops and becomes more integrated into our daily lives, the future of human-centered AI is looking brighter than ever. Below, the members of Forbes Technology Council share 13 exciting future uses of human-centered AI to keep an eye on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f24376198e9a8d4c0cc5da8%2F0x0.jpg",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/amp/",
-      "publishedDateTime": "2020-08-03T05:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

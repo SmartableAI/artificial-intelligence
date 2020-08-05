@@ -49,6 +49,20 @@ related:
         width: 800
         height: 390
         isCached: true
+  - title: "Bar Exams’ Facial Recognition Deployment Is Heightening Test Takers’ Anxiety"
+    excerpt: "Taking the bar exam is stressful enough. But the implementation of facial recognition technology in Michigan’s and California’s bar exam has added another layer of anxiety as accuracy, fairness and privacy concerns creep into test takers’ minds."
+    publishedDateTime: 2020-08-05T14:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/08/05/bar-exams-facial-recognition-deployment-is-heightening-test-takers-anxiety/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 36
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/08/Face-scanning-Article-202008041550.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Singapore’s Universal Studios deploys facial recognition for entry amid Covid-19 pandemic"
     excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
     publishedDateTime: 2020-08-03T13:08:00Z

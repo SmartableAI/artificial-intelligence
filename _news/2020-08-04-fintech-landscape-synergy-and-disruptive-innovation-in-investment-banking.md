@@ -23,6 +23,22 @@ images:
     height: 563
     isCached: true
 
+related:
+  - title: "3 Ethical Considerations When Investing in AI"
+    excerpt: "Artificial intelligence will need to strike a balance between embracing the technology, being realistic about its potential, and keeping workers happy."
+    publishedDateTime: 2020-08-05T14:30:00Z
+    webUrl: "https://www.manufacturing.net/home/blog/21142366/3-ethical-considerations-when-investing-in-ai"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 37
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/08/16x9/Metal_gear_wheels_with_the_engraving_Artificial_Intelligence___3d_render_888759400_5200x3072.5f2ac1ba41f01.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
+
 secured: "FRVOblG2H0SnacuCm1uTUThEQAm4eeQBzGMfv3DhEtRtENI99TRJZymW0nRHJv0LRbJToBqgrcBZSJBVCYfq1cgmxN2+WwuqamSMUheeAL1GQ48IdoHyjEhmYHjCi4FKlr+HiDMmLmb3BNaWFbsF4170kzj/BsQCjtRbPR1YU9rZec+aIv9MJqyoMxe6aXoQbnUxLKI6fOl1GX+6Ro6kkP441nHV4vovVhJCJoCmcIv36v5FK2HUS7WEptGnoIuvqfG+b1rB9Ix/CrhHXOluw8FnbxSPCOl8Wt1Y+2gGjHGyhcibN6+hjdo2PAas/W58iRezwxSsEJdo2SF2KjDX85BBYF7VWV7Bwl0WgmoDZdFP7DbiOi9ZjFd9qBi7h+AD8QhLeW3j8PX8yaWcT5rKgEHvSJMGNdyGCVHow61mgfO3dzJLnuOZQlLsK2fiCW/PfYmI/KIDxcx6DJhCtVqBxRSJ9tAC2+IxprnQuZpDNcCEu3bZRsAWCK8wlHmlNOEo;Fw471QaA+++CnkYXNqlC9A=="
 ---
 

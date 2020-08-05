@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T09:40:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/atos-deliver-uks-largest-ai-supercomputer-university-oxford/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI supercomputer to be given North West base"
+    excerpt: "It aims to build on the success of the current JADE1 (Joint Academic Data Science Endeavour) facility - a resource providing advanced GPU computing facilities to AI and machine learning experts from a consortium of eight UK universities and the Alan Turing ..."
+    publishedDateTime: 2020-08-05T14:20:00Z
+    webUrl: "https://www.insidermedia.com/news/north-west/ai-supercomputer-to-be-given-north-west-base"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 39
+    images:
+      - url: "https://www.insidermedia.com/uploads/event/logos/logo_energy_putting_the_power_in_your_hands.jpg"
+        width: 400
+        height: 271
+        isCached: true
   - title: "Atos Partners with University of Oxford on Largest AI Supercomputer in the UK"
     excerpt: "facility – a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."
     publishedDateTime: 2020-08-04T14:55:00Z
@@ -37,20 +51,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
         width: 440
         height: 440
-        isCached: true
-  - title: "Oxford, Atos in Deal for Nvidia 63-Node DGX System, Said to be UK’s Largest AI Supercomputer"
-    excerpt: "The University of Oxford has signed a £5 million with Atos, provider of  hybrid cloud and big data solutions, to deliver what the two organizations say will be the UK’s largest AI-focused supercomputer,"
-    publishedDateTime: 2020-08-04T22:28:00Z
-    webUrl: "https://insidehpc.com/2020/08/oxford-atos-in-deal-for-nvidia-63-node-dgx-system-said-to-be-uks-largest-ai-supercomputer/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 28
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/08/Oxford-University-logo.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "Atos International: Atos partners with University of Oxford on largest AI supercomputer in the UK"
     excerpt: "facility - a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Concentric Named a Top 100 Cybersecurity Startup for 2020"
-excerpt: "During Black Hat USA 2020 Virtual Conference, Concentric Recognized for Unique Ability to Automate Unstructured Data Security Using Deep Learning Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data,"
+excerpt: "During Black Hat USA 2020 Virtual Conference, Concentric Recognized for Unique Ability to Automate Unstructured Data Security Using Deep Learning Conc"
 publishedDateTime: 2020-08-05T12:17:00Z
-webUrl: "https://apnews.com/26eec63ab84c4290becd063269457abc"
+webUrl: "https://www.businesswire.com/news/home/20200805005373/en/Concentric-Named-Top-100-Cybersecurity-Startup-2020"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200805005373/en/810410/23/CONCENTRIC_WHITE_JPG_%28002%29.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "JAGQaybMHYVFBSxRbJhYdonVmfuZpJUus5iFlln5trg5TknBBoZrtWezFzWzN04beP8av3HvIZdzBOMUuWnd/2pjF6GDvvggn220TZwOkwhswaXR05mtjFzs9HN1ICmL0X2BeQACKCfw3dJswwA1UJS2MBzGhpEfbfAv623qEO9MXvvnTyD8jr0v0anIqGQKcDWtWjVJQ+fd8WphkFS0DIrUF+F0Blr/cOoGLvQ0V372Ffid1WI4aA2M+XtU7Pd1pvSv56Q+MJ+9HdTrlTNfw5dECPSLeaYtVdZBUOVo5tmyYll3i2Nxph+vfSHCWLULsfGOw0d/csHVOynQT8ef+Q==;T97omVYllW8ueKpG2GVnUQ=="
+secured: "eDUWCts+pirbx392TgxCOlxbw7fKE9YReXZW0gJAXGY0IfUouMqZMG2ycI1hiauv1CYiRGAEUohkMCR3s7btbVrNgQU+6Yijxg9Y/SfSCmr7C7S/kI9wc/05dkic8iXUrgd7kc9YYD9Ygafk9v4gqZa2ORTB+t1NDOVSF+xXpXXELUTmrpm72TYURJ7ShD8+bZNGQMMzpEKDn0ecb06f4YNu+K/9rN+oHc3eoJoC9IRzWd8TQnCFl2SoamQT3qx4Rnjfgpj/j73PAO8otjiTKrMJ9oZ1y3biZTdgNi4umVtuvUKIqZYCwcii3QaOKYqI0vO5mZOjYzIhvNXs0wjBRw==;jNtntDCHm+lWbaRCaKdxKw=="
 ---
 

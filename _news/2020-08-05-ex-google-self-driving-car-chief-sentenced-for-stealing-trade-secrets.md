@@ -58,21 +58,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The history of self-driving cars"
-    excerpt: "Once little more than a Hollywood-like dream, self-driving cars became a reality during the 2010s thanks largely to research carried out by tech companies."
-    publishedDateTime: 2020-07-31T21:26:00Z
-    webUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/history-of-self-driving-cars-milestones/?amp"
+  - title: "Ex-Google engineer sentenced to 18 months for stealing self-driving car secrets"
+    excerpt: "A former Google executive who stole thousands of documents about its self-driving car project before resigning and going to Uber was sentenced Tuesday to 18 months behind bars."
+    publishedDateTime: 2020-08-05T15:11:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html?outputType=amp"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 40
     images:
-      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/self-driving-car-3-1200x630-c-ar1.91.jpg"
+      - url: "https://www.nydailynews.com/resizer/xVhrb5plckFSELbAhjzoe3slXhE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPTOF3KFBZC4NHL5MCSEJFNWBY.jpg"
         width: 1200
-        height: 628
+        height: 826
         isCached: true
   - title: "Baidu is ready to produce computers for self-driving cars"
     excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
