@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T08:11:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-statistics-growth-trends-forecast-2020-2025-2020-08-05"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-08-04T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-embedded-digital-instrument-cluster-market-by-development-trends-investigation-2020-and-forecast-to-2026-2020-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI Drug Discovery Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
     excerpt: "The market research study on Global AI Drug Discovery Market Growth (Status and Outlook) 2020-2025 will provide"
     publishedDateTime: 2020-08-03T23:59:00Z
@@ -41,20 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automotive Recognition System Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "The latest report titled Global Automotive Recognition System Market 2020 by Company, Type and Application, Forecast to 2025 provides various levels of analysis such as industry analysis (industry trends),"
-    publishedDateTime: 2020-08-02T20:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-08-02"
+  - title: "AI Chip Market Set for Rapid Growth to Reach CAGR of Over 44.9% by 2030 - NVIDIA, Xilinx, IBM"
+    excerpt: "AI Chip Market Provides an in-Depth Insight of Sales Analysis, Growth Forecast and Upcoming Trends Opportunities by Types and Applications. AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 ..."
+    publishedDateTime: 2020-08-05T10:16:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 23
 
 secured: "bBn8/WMdVufWgTtlYSFhYiVD3xmOZw1cLbPICZWTID+fd8M4mifSIfCqvF8JeF+wOZxYNw8MDPNRBXOcs35POlQOka3wt8syVIwbHgOzN4zItFgZcFWle0k7ujqb0yAsptPtQ6PlyV+ToWBc+bxaIA/PpAFzBNaWK+nDaeysfPxE02iQCoZf7pu0QqlSim9jG2tzWQG9poXzuBp7G3aW7KKNIK3OSLbtan80e4mqDOmcNwc1ItbwmfsdLYaEojyXk+oCoQtyjMXrwxzgTezwCWL7tN6dhbFIyq6VotMvIM2gd1qPxBAHNUBtBb374UnTZ1OCUSlXzxLJl5AcQXrG/w==;1OR5aqsqA9hCMJNncX1RMQ=="
 ---

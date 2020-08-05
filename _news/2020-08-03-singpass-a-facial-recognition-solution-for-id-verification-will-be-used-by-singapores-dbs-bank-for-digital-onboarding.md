@@ -74,6 +74,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Bulawayo based firm partners with Chinese company on facial recognition systems"
+    excerpt: "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ..."
+    publishedDateTime: 2020-08-05T11:26:00Z
+    webUrl: "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/"
+    ampWebUrl: "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/"
+    cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/"
+    type: article
+    provider:
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 55
+    images:
+      - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2020/08/CL2055-installation.jpg"
+        width: 665
+        height: 278
+        isCached: true
   - title: "Facial recognition, thermal imaging part of future with coronavirus"
     excerpt: "The coronavirus pandemic has inspired a new wave of technology , including thermal imaging and facial recognition software that can detect fevers among employees, a common symptom of the virus. PopEntry+ combines instant facial recognition and temperature screening that can connect to employees’ mobile devices,"
     publishedDateTime: 2020-08-02T06:00:00Z

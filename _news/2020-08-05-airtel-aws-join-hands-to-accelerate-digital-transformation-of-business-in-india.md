@@ -8,8 +8,8 @@ ampWebUrl: "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-
 cdnAmpWebUrl: "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/amp/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Odisha Diary
@@ -25,6 +25,24 @@ images:
     height: 552
     isCached: true
 
-secured: "+WRKdpAlATNLvuAZUEeNJQXuF0KjSH51o1PxFSK16O0Nqg5vIx5xW9B3SvnwXzIep5ww2Bt7x4fV+LAWXn9X6NcBG2qhLAWVgxbBP5ICpT41PwF+eKJwrzw//D3q6x4fhNYWqDVPQDhY15RQ1Po6J9IUpIKh5pOwdSdOsYSeM5gqUBeHXC+Byk5DbiHQAmUj3TZ8klTDZWdRNtbmBt97cPfGXLgWOBWlH4IyBcqqbd3rGnZ1kHtjXF8SBi0s8Zq5lbCfX+ZOL36jl8asTjqCOa1xdUTvG0fGSaq5zymwLDAnZ+/u3a7CADIDPsktvcfSbyTyUs54aG9WN+n1NxqlTQ==;0xPGEm3GubMmK9QIlEf0VA=="
+related:
+  - title: "Airtel partners with AWS to accelerate digital transformation of business in India"
+    excerpt: "Cloud and Artificial Intelligence, IDC India. Additionally, Airtel leverages AWS services for development of its digital applications. Airtel is also an AWS Direct Connect Delivery Partner. AWS Direct Connect is a cloud service solution that makes it easy ..."
+    publishedDateTime: 2020-08-05T10:53:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-top-story/airtel-partners-with-aws-to-accelerate-digital-transformation-of-business-in-india-120080500706_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/airtel-partners-with-aws-to-accelerate-digital-transformation-of-business-in-india-120080500706_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/airtel-partners-with-aws-to-accelerate-digital-transformation-of-business-in-india-120080500706_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 68
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2017-12/13/full/1513136322-5297.jpg"
+        width: 350
+        height: 233
+        isCached: true
+
+secured: "VKTjawRm1lkJ441HbBuy/orUoxp+AqieaP4D5SjpYaadNoxmec8/JzclFbZHLlu65NYRqmqIYFhYHH30BXYPiqiC/lmR2qDJDeghxT/bbJW8m0ZITm2HIDys/3QgXM6u55UrKCwfkYRP1zfhPFy2Nu1yc4TEzIhxg8FP7GF676Rr2vBJraM8/tW3eJNxR7GDD9eeqKAZPwMudXs5KNbL//c5hesrp/dpZBh1gaDc860lqPOeZzAtHaGh7Ig1xG+t5ZJOAJXsMx30DiVYLYzCYWdJxC7S4mwr6ELbYSx6j6YFFOq391jfsLL3riGaPe+MXxaS/ypCdClwywzxYcDsTEAFdluYg/QH/32WBAkRY4X0T5j+Ltdf9iRJLJNBuBg9fqhs7IK/jeYRDBYoKPOk3TnIv4/lYMuGum4YbnDEZVVQTktUExRonITODOu0QZN/27Gk7Y0tcZnoW0sJtbf/6ZmFDY8TpQF4wQ7O/mkMbEGgDw0ZVf9Fsg8Sh01csC/U+hIxCjsZaLJedvviTNjmsA==;EknCzOzxTy3WbM/gKnw75A=="
 ---
 

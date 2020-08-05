@@ -72,22 +72,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "UK-based fintech Wiserfunding set to foray into India's MSME credit market"
-    excerpt: "The company is set to invest $3-5 million in India over the next three years to tailor credit risk models specifically towards Indian SMEs to reach an accuracy level above 80 per cent, Wiserfundings CEO and co-founder Gabriele Sabato,"
-    publishedDateTime: 2020-07-31T17:09:00Z
-    webUrl: "https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/uk-based-fintech-wiserfunding-set-to-foray-into-indias-msme-credit-market/articleshow/77289894.cms"
-    ampWebUrl: "https://m.economictimes.com/small-biz/startups/newsbuzz/uk-based-fintech-wiserfunding-set-to-foray-into-indias-msme-credit-market/amp_articleshow/77289894.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/startups/newsbuzz/uk-based-fintech-wiserfunding-set-to-foray-into-indias-msme-credit-market/amp_articleshow/77289894.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 42
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-222772,msid-57496446/6-habits-that-are-holding-you-back-from-being-rich-and-successful.jpg"
-        width: 412
-        height: 255
-        isCached: true
 
 secured: "8onGoYoXgRcgx9dFDmhrXt744YET8mpRQ2Bl2Qh/bZRPpvXhKUSrc0vRurZAThRXDnMkIcVOcA8u8norCT9mj/b+MuqyDFQm2V88aHHnV98KwNM4su2yewCUu9LicBtwbMzYTPWf0hskeci2198+V5wNeCsmxrAOsBb6ziiDq7rd7REn7chwww61wbfzaGH0eSyaDyT+80yAbI5/X18AsPKmaJHj1AZYiDJL9IZy9pDoDHEyv1k649eRbuz3BRBXCtxjtpeecMepsoGE9lMWGsVQk4MH1/LRZTia+eBBm86qFSjQhZAn866ZAKrIXM12+RV/z52RrPIa7lxfgb7M1Q==;A/Sa4pE3yi21WFWxAUGDAA=="
 ---

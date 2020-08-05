@@ -8,8 +8,8 @@ ampWebUrl: "https://m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-m
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Free Press Journal
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deepfakes are the most worrying AI crime, researchers warn"
+    excerpt: "Deepfakes are the most concerning use of AI for crime and terrorism, according to a new report from University College London. The research team first identified 20 different ways AI could be used ..."
+    publishedDateTime: 2020-08-05T11:31:00Z
+    webUrl: "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T121048.824-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "'Deepfakes' ranked as most serious AI crime threat"
     excerpt: "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report."
     publishedDateTime: 2020-08-04T02:44:00Z

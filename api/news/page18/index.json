@@ -2,6 +2,56 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-07-20-researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings.md",
+      "title": "Researchers’ AI system strips identifiable attributes like gender from speech recordings",
+      "excerpt": "Researchers propose an AI and machine learning technique that preserves privacy by obfuscating speech recordings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
+      "publishedDateTime": "2020-07-20T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical.md",
       "title": "Query drug adverse effects and recalls based on natural language using Amazon Comprehend Medical",
       "excerpt": "In this post, we demonstrate how to use Amazon Comprehend Medical to extract medication names and medical conditions to monitor drug safety and adverse events.&nbsp;Amazon Comprehend Medical&nbsp;is a natural language processing (NLP) service that uses machine learning (ML) to easily extract relevant",
@@ -1076,56 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-deeplearning4j-deep-learning-and-etl-for-the-jvm.md",
-      "title": "Deeplearning4j: Deep learning and ETL for the JVM",
-      "excerpt": "AI products within an enterprise often have a wider scope than just machine learning. The overall goal of the distribution is to provide smart defaults for building deep learning applications. Deeplearning4j competes, at some level, with every other deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
-      "publishedDateTime": "2020-07-20T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

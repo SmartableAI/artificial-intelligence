@@ -8,7 +8,7 @@ ampWebUrl: "https://m.economictimes.com/tech/software/ltts-expands-collaboration
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Reissue: L&T Technology Services Expands Collaboration With Microsoft to Offer Eco-Friendly Solutions for Workplace Transformation"
+    excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
+    publishedDateTime: 2020-08-05T11:58:00Z
+    webUrl: "https://www.businesswireindia.com/reissue-lnt-technology-services-expands-collaboration-with-microsoft-to-offer-eco-friendly-solutions-for-workplace-transformation-69015.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "1qTuwFjgQLqEf9LOpkqVgouVg6NuRqdmoBrZSBIKL1WR3OFCLfZ80o/BQQgH2BHjoUUNXnCwGILNOfTplsBkUPpZHK8jp17AD/LJLd65zelGpPWfpuEX8rt/LWPTYfYy4sCybsek4ooJVW2uvyLBKFce+GcrAqdws2GUmRvvL6L6tnMqBJZjo+UWFQTLQfggA9UBfhvdp/XHSpXSFkVbQi4QqYSQQlbXTuMV4qNur8RF223D4P2AxsndRck3Wk8PSMzLnZXRJH2A1qbYW4NDIxhBNqX4a6SSUVZpCYcAy5Da8E9UBxLD0ZAoWKcqI86DjDD7a7/vYLDHex1tXFt5TAU+ZD3m/g7HxQqo9BdsSnjHfJnzaSGh2cnWh43duObI4pg7T7ZSeBqkZFD6EzIfyNunSLvbJOWwVryQu0ZTrRL0cfbVXM1b+fmuRiIM7yxezDf7sOmjE/vJWWM4r0X0zBLZx0RO7UFGTCZXfOGAqfbbFHtOoNPQC8pxIGKL7PnEORpKBKKH2gpnjx44SsrC6A==;N6iQWdlKOmlEf49nyiGxeQ=="
 ---

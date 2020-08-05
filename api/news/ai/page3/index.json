@@ -2,43 +2,25 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-08-01-artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025",
-      "excerpt": "The latest research report on Artificial Intelligence (AI) in Healthcare Market delivers a comprehensive study",
+      "path": "_news/2020-08-02-rite-aid-pulls-plug-on-facial-recognition-system-with-china-links.md",
+      "title": "Rite Aid Pulls Plug on Facial-recognition System with China Links",
+      "excerpt": "The post Rite Aid Pulls Plug on Facial-recognition System with China Links appeared first o. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01",
+      "webUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 106,
+      "heat": 79,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-01T15:55:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
+      "publishedDateTime": "2020-08-01T17:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -47,7 +29,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Computer Vision",
         "AI"
       ]
     },
@@ -745,7 +727,7 @@
       "webUrl": "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 233,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -942,7 +924,7 @@
       "title": "How Artificial Neural Networks Paved the Way For A Dramatic New Theory of Dreams",
       "excerpt": "Machine learning experts struggle to deal with \"overfitting\" in neural networks. Evolution solved it with dreams, says new theory.",
       "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com",
+      "webUrl": "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,

@@ -2,6 +2,56 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-07-20-deeplearning4j-deep-learning-and-etl-for-the-jvm.md",
+      "title": "Deeplearning4j: Deep learning and ETL for the JVM",
+      "excerpt": "AI products within an enterprise often have a wider scope than just machine learning. The overall goal of the distribution is to provide smart defaults for building deep learning applications. Deeplearning4j competes, at some level, with every other deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
+      "publishedDateTime": "2020-07-20T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-its-time-for-a-hard-reset-of-our-financial-services-sector.md",
       "title": "It’s time for a hard reset of our financial services sector",
       "excerpt": "As the government announces its review of the UK’s finance sector today, it should put fintech advances such as machine learning and AI at the heart of its thinking",
@@ -1082,55 +1132,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-even-the-best-ai-models-are-no-match-for-the-coronavirus.md",
-      "title": "Even the Best AI Models Are No Match for the Coronavirus",
-      "excerpt": "Many so-called “quantitative funds” that mine historical data to make trading decisions fared poorly in March, when stocks fell sharply amid coronavirus fears.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/best-ai-models-no-match-coronavirus/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f0e451db62e19a8767ef204/master/pass/business_quant_1206833303.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/best-ai-models-no-match-coronavirus/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/best-ai-models-no-match-coronavirus/amp",
-      "publishedDateTime": "2020-07-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

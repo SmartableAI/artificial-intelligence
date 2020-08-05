@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Deepfakes are the most worrying AI crime, researchers warn"
+    excerpt: "Deepfakes are the most concerning use of AI for crime and terrorism, according to a new report from University College London. The research team first identified 20 different ways AI could be used ..."
+    publishedDateTime: 2020-08-05T11:31:00Z
+    webUrl: "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T121048.824-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "'Deepfakes' ranked as the most serious AI crime threat"
     excerpt: "London: Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence (AI ... These are using driverless vehicles as weapons, crafting more tailored phishing messages (spear phishing ..."
     publishedDateTime: 2020-08-04T21:29:00Z

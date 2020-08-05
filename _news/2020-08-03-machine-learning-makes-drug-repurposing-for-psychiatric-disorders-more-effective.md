@@ -1,43 +1,44 @@
 ---
 category: news
 title: "Machine learning makes drug repurposing for psychiatric disorders more effective"
-excerpt: "Artificial intelligence can increase the effectiveness of drug repositioning or repurposing research, according to a study published in Translational Psychiatry. In the study, which was supported by São Paulo Research Foundation—FAPESP,"
-publishedDateTime: 2020-08-03T19:50:00Z
-webUrl: "https://medicalxpress.com/news/2020-08-machine-drug-repurposing-psychiatric-disorders.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-08-machine-drug-repurposing-psychiatric-disorders.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-machine-drug-repurposing-psychiatric-disorders.amp"
+excerpt: "Researchers have correlated information on drugs, genes and diseases to identify potential candidates for psychiatric and neurological treatment. The methodology they developed will be used to search for drugs against COVID-19."
+publishedDateTime: 2020-08-03T18:25:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-08/fda-mlm080320.php"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2020/40-machinelearn.jpg"
-    width: 395
-    height: 263
+  - url: "https://www.eurekalert.org/multimedia/pub/web/239246_web.jpg"
+    width: 720
+    height: 509
     isCached: true
 
 related:
-  - title: "Artificial intelligence can increase effectiveness of drug repurposing for psychiatric disorders"
-    excerpt: "Artificial intelligence can increase the effectiveness of drug repositioning or repurposing research, according to a study published in Translational Psychiatry."
-    publishedDateTime: 2020-08-04T01:36:00Z
-    webUrl: "https://www.news-medical.net/news/20200803/Artificial-intelligence-can-increase-effectiveness-of-drug-repurposing-for-psychiatric-disorders.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200803/Artificial-intelligence-can-increase-effectiveness-of-drug-repurposing-for-psychiatric-disorders.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200803/Artificial-intelligence-can-increase-effectiveness-of-drug-repurposing-for-psychiatric-disorders.aspx"
+  - title: "Three new reinforcement learning methods aim to improve AI in gaming and beyond"
+    excerpt: "Researchers at Microsoft Research Cambridge are collaborating with Ninja NinjaTheory to explore the potential of reinforcement learning for gaming. Learn how Project Paidia empowers developers to create more nuanced in-game characters & can lead to real-world applications."
+    publishedDateTime: 2020-08-03T14:01:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/three-new-reinforcement-learning-methods-aim-to-improve-ai-in-gaming-and-beyond/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 24
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/08/Project-Paidia-Hero.png"
+        width: 1567
+        height: 882
+        isCached: true
 
-secured: "yrO4bNDZQqGT+4boma3t7IIzStFpVgfOvZEEwFBrcX6u8m1y5ir7/+jcxcE+RFmoVz5gYNNUHLW3dq6x4W1/vymQnOSzU+R1UnknA57vfJBLSfYmFWKTEpSMrz+5nhfF4T7Wxr7RKkFRnt7kUZH0DtoKOpRoK69KkOidz2ApzQbOn4ugbha72kH0Kc2x9kAVjjBcGHRPdltql1fKinCXXlQYw/b8cQNu6NbwHDE6VPnMKa3r4QX8KkxR9P604ONlwlyZ+X7m1HZMPVa9S7n5fMeJGcuxbJ16e/t3rWQgLoxjb7z76o+7uKJGT9Ji9rwMg1eqySBpqtz+gjimP0Z5RQ==;1Cu2UIOdQH0G/w44+vG/XQ=="
+secured: "GIK9fvOsDoc0pWXnJAyRcF58ozdGg6r/GAxYC43IxOa1SpiT+zxCqKmu0uf4GRFubZWpKEv1wwKe5vT3KmKlsLrXs/U1gy8oXXfhEC4tAj0tbd9imEdjSOSHvg3w0VVFE+TSW+XFgiqvaqmF/zzzoGUShbLdzqRClaJs/Q+K6Lc/Ug3kiCMN6IoztIAsx31cvPqK4aW7ARlWFtUo8FZrujeiQuMOHG6ja61zqhonIPxsJie0tspFCL8MOG5vJ2ZeYr8Wiqt3hgj/EPJ2P2XmDchSB6pRbEl4deCy2M7Eh5O7wCEAGr1OYd5cJEcEjXtkrt3BW2LU2zISeN+3lkL7Og==;CcBCmBi9ZK2duR+FL9/XCA=="
 ---
 

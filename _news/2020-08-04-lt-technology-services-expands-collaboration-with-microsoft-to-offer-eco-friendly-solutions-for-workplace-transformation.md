@@ -60,6 +60,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 19
+  - title: "Reissue: L&T Technology Services Expands Collaboration With Microsoft to Offer Eco-Friendly Solutions for Workplace Transformation"
+    excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
+    publishedDateTime: 2020-08-05T11:58:00Z
+    webUrl: "https://www.businesswireindia.com/reissue-lnt-technology-services-expands-collaboration-with-microsoft-to-offer-eco-friendly-solutions-for-workplace-transformation-69015.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "OYnCXtiBXqab3m0IxBJniEWEJQuUi6JMJo0trzZvnmghVS7YX8E2+35DViEPaNvlTxV5UAItnbrMRelbcbsctlGu6SRnHnvaeWTWXzba/TgO6sjhzEKySi6cgj0end2bTbWAozhI9SaDJHjOoYkGTERmnAfyTeMhD6a3qn+rVhPn05+YUkSh8EwAyjrj3Yd1wJapcuacHrXcs1YZSjHwQlsQEaTo9JNXpyPXcz28c0PrRLp8JATRlvM/GYGa1VwzeZWU0D+Vc3RuapEu8f6+0StKon3ELhtjgPJlt0BFVYuLWIJAgl4DzA7lHGrVI1d0xxXQIK3jwt/Ywvfv7u5UTQ==;9ZLCAT0v2v22qKKjNRL7Hg=="
 ---

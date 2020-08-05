@@ -62,22 +62,6 @@ related:
         width: 927
         height: 626
         isCached: true
-  - title: "Chinese facial recognition developer closes $1.5 billion funding round"
-    excerpt: "SenseTime, a Chinese developer of facial recognition technologies, is wrapping up a $1.5 billion funding round at a $10 billion valuation and is in talks to list on China’s STAR market, per Reuters. Why it matters: This is the company’s first fundraise since being placed on a U."
-    publishedDateTime: 2020-07-31T18:06:00Z
-    webUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
-    ampWebUrl: "https://www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/chinese-facial-recognition-funding-5bc19389-3445-4026-a9e0-bbac143372e5.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: "https://images.axios.com/u9fundSGt0qv214WnaDlpg_GiiA=/fit-in/1366x1366/2020/07/31/1596217401749.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Maine’s Biggest City Decides to Ban Facial Recognition Tech"
     excerpt: "After months of delay, the Portland city council voted unanimously to ban use of facial recognition technology. The ordinance will begin in 30 days. The police say they have no intention of using it. (TNS) — After months of delay, Portland, Maine ..."
     publishedDateTime: 2020-08-04T20:53:00Z

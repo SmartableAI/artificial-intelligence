@@ -27,19 +27,14 @@ images:
 
 related:
   - title: "Key brain region was 'recycled' as humans developed the ability to read"
-    excerpt: "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing -- the ability to recognize written letters and words."
-    publishedDateTime: 2020-08-04T17:37:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/miot-kbr080420.php"
+    excerpt: "A new study offers evidence that the brain's inferotemporal cortex, which is specialized to perform object recognition, has been repurposed for a key component of reading called orthographic processing -- the ability to recognize written letters and words."
+    publishedDateTime: 2020-08-04T19:34:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/08/200804134734.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "aFcfep8IBNjD3TCnzcblnh0mxCniAAJg/J4H4l1+lvgSWDycwInkXtQK7gZJYJJMgbnoG44Dntzn8TfoFmbthNBNX7VURCHwhRhrPYYlVEg8tFU06L8EVcfuO7GURO/bIvZNTNfQ82u/9jZ/+c2L0Gayws7Qof/1JHvD2oJSLRxvopYXgVXAtzBphbPIph4qtxHKqgg1W7IrnDLyqEKBbfzEFbX4f/sb0mt8L2CUYUtiXUPRP/PULWzPFa6NGr/ZENMcVU+BBPYioZ/UYHzo3ApM5HEuoUHCDeM2u8JX2Sf6iRmIa9eNl4AOxTMQKQ3UCJQ1hR8YKjK3caB/sspMXA==;hC+Y1HpVYPSR4dlmBCdxiA=="
 ---

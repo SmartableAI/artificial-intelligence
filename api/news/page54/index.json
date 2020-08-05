@@ -2,6 +2,56 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-06-25-how-technology-will-create-these-7-jobs-in-the-future.md",
+      "title": "How Technology Will Create These 7 Jobs In The Future",
+      "excerpt": "These seven futuristic LinkedIn job ads can offer a small glimpse into a future where our children grow up to be hologram stylists, chief empathy officers, or even augmented reality life designers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3f7eec4f2390006f0c356%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": "How Technology Will Create These 7 Jobs In The Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/amp/",
+      "publishedDateTime": "2020-06-24T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-sino-us-tech-race-turbocharges-china-chip-investment-triggering-bubble-fear.md",
       "title": "Sino-US tech race turbocharges China chip investment, triggering bubble fear",
       "excerpt": "An investment boom across China’s semiconductor industry is driving prices of both publicly traded and venture-backed firms into bubble territory.",
@@ -1092,46 +1142,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-you-can-now-get-a-botox-treatment-plan-with-help-from-ai.md",
-      "title": "You can now get a Botox treatment plan with help from AI",
-      "excerpt": "Using Botox to enhance your cheekbones or alter your appearance is all the rage, thanks to the Kardashians and Hadids of the world. One doctor is trying to bring Botox back to its wrinkle-fighting basics — with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F24%252Fa3%252F79defb9eb0a74d5a948f15bab526fad3.abb42.jpg%252F1200x630.jpg?signature=Jb-PPpyXWIZZNj5VRsPtL14uX6Y=",
-          "width": 1200,
-          "height": 630,
-          "title": "You can now get a Botox treatment plan with help from AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
-      "publishedDateTime": "2020-06-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

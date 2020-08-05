@@ -2,6 +2,56 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-18-ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality.md",
+      "title": "AI needs systemic solutions to systemic bias, injustice, and inequality",
+      "excerpt": "Griffin said that Hypergiant has a heuristic for its AI projects called “TOME,” for “top of mind ethics,” which they break down by use case. “With thus use case, is there a positive ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/DEI-breakfast-vb-transform-2020.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/amp/",
+      "publishedDateTime": "2020-07-18T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-2500-nvidia-gpu.md",
       "title": "Death Stranding on PC almost hits 60fps at 8K – all it takes is a $2,500 Nvidia GPU",
       "excerpt": "Essentially, DLSS uses the Tensor Cores of an RTX card to boost the performance of high resolutions thanks to AI and machine learning ... mentioned will have to be used by people without an RTX GPU. This intelligently sharpens the upscaled image, so ...",
@@ -1391,47 +1441,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-platesmart-alpr-helps-authorities-stop-domestic-terrorist.md",
-      "title": "PlateSmart ALPR Helps Authorities Stop Domestic Terrorist",
-      "excerpt": "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with both state-of-the-art cameras and video management ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/platesmart-alpr-helps-authorities-stop-domestic-terrorist-301095431.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1215961/PlateSmart_Logo.jpg?p=facebook",
-          "width": 2079,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

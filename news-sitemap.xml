@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/edge-ai-market-analysis-share-size-and-growth-demand-by-2020-2025-2020-08-05?mod=mw_quote_news</loc>
+    <lastmod>2020-08-05T04:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/</loc>
+    <lastmod>2020-08-05T04:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/</loc>
+    <lastmod>2020-08-05T02:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-statistics-growth-trends-forecast-2020-2025-2020-08-05</loc>
     <lastmod>2020-08-05T01:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -19,12 +37,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-analysis-trends-and-cagr-projections-2020-2026-2020-08-04</loc>
-    <lastmod>2020-08-04T15:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/</loc>
     <lastmod>2020-08-04T15:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,12 +45,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/multi-gpu-and-distributed-training-using-horovod-in-amazon-sagemaker-pipe-mode/</loc>
     <lastmod>2020-08-04T14:48:21-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.freepressjournal.in/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat</loc>
-    <lastmod>2020-08-04T14:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -373,12 +379,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01</loc>
-    <lastmod>2020-08-01T15:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/cathrinetodd/2020/08/01/former-ceo-of-artificial-intelligence-company-buys-historic-napa-valley-winery/</loc>
     <lastmod>2020-08-01T13:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -487,7 +487,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com</loc>
+    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of</loc>
     <lastmod>2020-07-31T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1159,6 +1159,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yext-answers-goes-global-with-language-expansion/article_f474826e-9bc7-554d-8ab9-afcd833674c3.html</loc>
+    <lastmod>2020-07-28T04:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://apnews.com/PR%2520Newswire/67996d718036762ebca7c59be0744f21</loc>
     <lastmod>2020-07-28T03:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1375,8 +1381,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
-    <lastmod>2020-07-27T05:08:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1759,14 +1765,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html</loc>
-    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23</loc>
+    <lastmod>2020-07-23T10:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in</loc>
-    <lastmod>2020-07-23T10:15:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html</loc>
+    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

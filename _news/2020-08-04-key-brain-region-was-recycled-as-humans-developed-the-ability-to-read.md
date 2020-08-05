@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Key brain region was 'recycled' as humans developed the ability to read"
-excerpt: "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing -- the ability to recognize written letters and words."
-publishedDateTime: 2020-08-04T17:37:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/miot-kbr080420.php"
+excerpt: "A new study offers evidence that the brain's inferotemporal cortex, which is specialized to perform object recognition, has been repurposed for a key component of reading called orthographic processing -- the ability to recognize written letters and words."
+publishedDateTime: 2020-08-04T19:34:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/08/200804134734.htm"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Parts of the human brain have been “recycled” for reading, indicates study"
@@ -41,6 +39,6 @@ related:
         height: 480
         isCached: true
 
-secured: "PbpNVFXIEIaevByuI9f7hamGXAzTvDSXRnGL+n2PO5ACM9tGYv7saSAlMDJRDM4DWL+nsqpPzUEkPiwirz45YTqCa4XmebeQNErnQQES4XZpIHKDyCg00YR6gT53l08RlhWl5PNyGold7f8acwiYtbxRR+A3cJsaHcsy4MKB8bY84rUz+GU2RriDYzmUCGqXRFc4iv2lUd8AwaZhygaNtix0LUGMAFkx8SssjZo1FtVTG8uuEKdtCwmpxcTH9D3qtXk1oekqXcH9t1g/CLyIybF+ZNiL1TSuN14BgkAuZ4ZULFlk/QAU7l4F0kd4okbukP7w+BK6Zflcd99DblT5FMOLUhER6TnRyunxLjqxtELN0/QIVjeicAQnv6SHCHT5YPzi+AY31d/AWDJRAuyJ3m3VLSA9IBZvdSkPtSRT9lBP4JRWD0ObTylp1cWi7DkZSB8k6+BsGiK61u5KGBLIgS6i9/z+34Mprs1jTAFDdBfSohfrqXxKObBwgtj8TJVBfOFXoeVIQ2wA+98ivYblcw==;LPVdaIB6GrqLU/gjW+fe6g=="
+secured: "IAvBhXWxZxEv569KDlmS7HAEcxsQu1xHZnkO8TwmySXCWXadtf24KtQgnJj9JMcH8OeS1bF2k28WMWcy3T7v1CMQySRuRfo7LxGkumJ6zrFsGCuV+zNZYTHi6ON+NoB5B1r+VLLE8YfghoUL9F95hzzysGF7z6Dmei9ABYYmNcoQWSS88Ax+3DHQp9DhATaX7JJa2MRA+Stc0rR2JitHmdGpvEAkCrycoHekR+AuAYlUi1/ojJ0+n7Gr5nGDU+BO7S4fUcrTYmgbNit1BCe/fxYi+WQNlkfmXwgSmB+pSDO3w8xhb4L1oH48Yo0mCQ1737fCkziJwJ+4V9NQ9FRQmg==;w94H/2r6fJpxT0aLhEzW/g=="
 ---
 

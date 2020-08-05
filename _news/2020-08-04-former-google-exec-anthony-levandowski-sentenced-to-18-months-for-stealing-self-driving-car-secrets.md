@@ -94,6 +94,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Former Google, Uber Self-Driving Engineer Sentenced To 18 Months In Prison, Seeks $4.1B In Earnouts"
+    excerpt: "A former engineer at Alphabet Inc. (NASDAQ: GOOGL) (NASDAQ: GOOG) subsidiary Waymo, who pleaded guilty to stealing secrets related to self-driving technology from the search engine giant and passing them on to Uber Technologies Inc. (NYSE: UBER), has been ..."
+    publishedDateTime: 2020-08-05T10:42:00Z
+    webUrl: "https://www.benzinga.com/news/20/08/16937134/former-google-uber-self-driving-engineer-sentenced-to-18-months-in-prison-seeks-4-1b-in-earnouts"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16937134"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16937134"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/anthony_levandowski_headshot_0.jpg"
+        width: 5512
+        height: 4410
+        isCached: true
   - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
     excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
     publishedDateTime: 2020-08-05T07:16:00Z

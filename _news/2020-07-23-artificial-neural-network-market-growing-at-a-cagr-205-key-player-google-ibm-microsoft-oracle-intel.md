@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Artificial Neural Network Market Growing at a CAGR 20.5% | Key Player Google, IBM, Microsoft, Oracle, Intel"
-excerpt: "Market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024, at a Compound Annual Growth Rate (CAGR) of 20.5% during the forecast period. The major driving factor in the ANN market is due to the growing demand to train a large volume of data sets with low supervision to drive the market For over a decade,"
-publishedDateTime: 2020-07-23T17:15:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16755993"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16755993"
+excerpt: "The global Artificial Neural Network (ANN) Market size is expected to grow from USD 117 million in 2019 to USD"
+publishedDateTime: 2020-07-23T17:51:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "vP93nRauyMtCmltVkHhwlcJXFTc2w/JIqQkjODShg2MGsV/TH8/8o+SemKRSXWc1JDQmTHPJAISBDInQ+SQEQIKqae8N/iya5vgEb9Go9myxWXu+cwCo3+1w6VcD9Zfuw+BPG+AV8pe2PTwJmOMhgBCbTWCd0Z9I/P4X09i9ubyMfgo2gN/iKZi4s/coGWMlUzWYJX37Ik81ErYraThDe/2oRZWE+cVRkOlrPA2FwuULz+QcINzcfsZTa/py2auMd6Sj91xvNAOUApvfHpvoxg5weW91Ehqa/pKLorr8uFY2DpoH47n7kPCF5b+K1FZ/n+1clKpqPhn5Hg5It5eWBXInTLFRp3kFHRhdvBA3nOoMhEcp9di+FmhKc+T8mL+I7A6oos52/Cs4foBcDlAp1xQPX9cGSO4/xj+TQOFixX7ep7zk1vMbwxzP+xBm9ww9pv/K9ZBVFi+mdbs1cIZd0D7cR3Pz1tNs9Jf8DMz2E2/okylSGmpuazSOldKhPOzB;Oddckyh4YmB4574jc/X60A=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "LcF405Knf5tErUpS5odjVjcqOkS1zOiSiNrwN0bojMFfwUou3FbRpLgvd4mmeatl/znXzJDuL6ViJ9qcq3hhqAxOTzHBks3TRqgjPxcSZY6wjaRjkPe2RAmk6HsWShsp6H0moN1q5ZfzmxMCaO1Yr6P+m39Oy8CEF0lqKVtpxx7d4gB3V8DS1ODD+B6nqMOw2H0Ip8R2O3qyWxswjdWH0/k33Mj716pXjCy7BhD3w89q2ZdbqUKBQt0zgwKFj1T75MsqOj9Vh4jxNOqOskKhOCUchJ+mHYksOlD5NjS42MOV1OVxlZ31AFUI3gpDqEwhosJeZbWUbZOsO/laznxYsQ==;cQvPCcWAwrCb6bXUkAHxOA=="
 ---
 

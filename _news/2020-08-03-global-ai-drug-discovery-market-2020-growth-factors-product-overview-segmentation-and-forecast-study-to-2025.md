@@ -41,20 +41,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automotive Recognition System Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "The latest report titled Global Automotive Recognition System Market 2020 by Company, Type and Application, Forecast to 2025 provides various levels of analysis such as industry analysis (industry trends),"
-    publishedDateTime: 2020-08-02T20:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-08-02"
+  - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-08-04T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-embedded-digital-instrument-cluster-market-by-development-trends-investigation-2020-and-forecast-to-2026-2020-08-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chip Market Set for Rapid Growth to Reach CAGR of Over 44.9% by 2030 - NVIDIA, Xilinx, IBM"
+    excerpt: "AI Chip Market Provides an in-Depth Insight of Sales Analysis, Growth Forecast and Upcoming Trends Opportunities by Types and Applications. AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 ..."
+    publishedDateTime: 2020-08-05T10:16:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 23
 
 secured: "t4uTzyWpmsykRvZiXS/94NdBHo0UXXiPM0PSXfUiYIIYHDcYkAurGJKGI6/2oipwrAD0InHfY0YS88z3LiWVdmaZV00mxUgiHoSRBpZ1OGvyWprCbzm2uanfMDVBTkaQ988PKHBV43w690FtERrenimr5UExqv3nrY1NFmjE46KB2WZKHRCRulIMco9biOcB2wGr1W7qLLhRYlZ45q/hwWWPOkYxs1f9yt+2qwrgfWI5Hmvgjbg9II5bPsaktFZj2MiCjJrh3XyKDOhOdArqC44FLY+ytMAXuMxSMg4IODXlsUf7CBUSFnwzfecvtvUKaemerelz3ABWy17LLQchfg==;UJqJ4qOBFhrnYdeLbbbVbA=="
 ---

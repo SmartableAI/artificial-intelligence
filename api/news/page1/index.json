@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-05-edge-ai-market-analysis-share-size-and-growth-demand-by-2020-2025.md",
+      "title": "Edge AI Market Analysis Share Size and Growth Demand by 2020-2025",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Aug 05, 2020 (Heraldkeepers) -- New York, August 05, 2020: Edge Artificial Intelligence (AI) software market size to grow from US$ 355 Million in 2018 to US$ 1,152 Million by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-analysis-share-size-and-growth-demand-by-2020-2025-2020-08-05?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-deepfakes-are-the-most-worrying-ai-crime-researchers-warn.md",
+      "title": "Deepfakes are the most worrying AI crime, researchers warn",
+      "excerpt": "Deepfakes are the most concerning use of AI for crime and terrorism, according to a new report from University College London. The research team first identified 20 different ways AI could be used ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T121048.824-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/",
+      "publishedDateTime": "2020-08-05T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india.md",
+      "title": "Airtel, AWS join hands to accelerate digital transformation of business in India",
+      "excerpt": "New Delhi: Bharti Airtel (“Airtel”), one of India’s largest integrated telecom providers, today announced a multi-year, Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to deliver a comprehensive set of innovative cloud solutions to large enterprise and small and medium enterprise (SME) customers in India.",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://orissadiary.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/amp/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/amp/",
+      "publishedDateTime": "2020-08-05T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-artificial-intelligence-in-security-market-size-statistics-growth-trends-forecast-2020-2025.md",
       "title": "Artificial Intelligence in Security Market – Size, Statistics Growth, Trends, Forecast (2020 – 2025)",
       "excerpt": "The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection, Firewall,",
@@ -9,7 +148,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-statistics-growth-trends-forecast-2020-2025-2020-08-05",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -107,7 +246,7 @@
       "webUrl": "https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -137,56 +276,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-vehicle-speech-recognition-system-market-analysis-trends-and-cagr-projections-2020-2026.md",
-      "title": "Vehicle Speech Recognition System Market Analysis, Trends and CAGR Projections 2020-2026",
-      "excerpt": "The report provides rational insights along with historical and forecast data to aid in better understanding of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-analysis-trends-and-cagr-projections-2020-2026-2020-08-04",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -279,47 +368,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-deepfakes-ranked-as-the-most-serious-ai-crime-threat.md",
-      "title": "'Deepfakes' ranked as the most serious AI crime threat",
-      "excerpt": "London: Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence (AI ... These are using driverless vehicles as weapons, crafting more tailored phishing messages (spear phishing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_17573035/thumb.jpg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca",
-      "publishedDateTime": "2020-08-04T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -428,7 +476,7 @@
       "webUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1112,56 +1160,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising.md",
-      "title": "How Machine Learning And Automation Give Brands A Boost In E-Commerce Advertising",
-      "excerpt": "Advertising, in particular, requires a new approach. In my view, e-commerce advertising has changed permanently, and brands should use automation and machine learning to develop effective campaigns. Here's a bit of history. As their understanding of e ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F696529578%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/amp/",
-      "publishedDateTime": "2020-08-04T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

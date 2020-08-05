@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Nokia to set up robotics lab at Indian Institute of Science"
-excerpt: "Dubbed the Nokia Centre of Excellence for Networked Robotics, the facility will explore the use of robotics, advanced communications and artificial intelligence (AI ... as well as organise hackathons for start-ups. “The ultimate relevance of technology ..."
-publishedDateTime: 2020-08-05T08:35:00Z
-webUrl: "https://www.computerweekly.com/news/252487189/Nokia-to-set-up-robotics-lab-at-Indian-Institute-of-Science"
-ampWebUrl: "https://www.computerweekly.com/news/252487189/Nokia-to-set-up-robotics-lab-at-Indian-Institute-of-Science?amp=1"
-cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487189/Nokia-to-set-up-robotics-lab-at-Indian-Institute-of-Science?amp=1"
+excerpt: "Nokia Centre of Excellence will promote engagement and cooperation between academia, startups and industry ecosystem partners in research and development."
+publishedDateTime: 2020-08-05T07:39:00Z
+webUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science"
+ampWebUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Computer Weekly
-  domain: computerweekly.com
+  name: Your Story
+  domain: yourstory.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://images.yourstory.com/cs/2/730b50702d6c11e9aa979329348d4c3e/Image95d9-1581162506015.jpg?fm=png&auto=format"
+    width: 800
+    height: 400
+    isCached: true
 
 related:
   - title: "Nokia to set up robotics lab at Indian Institute of Science"
@@ -53,6 +59,20 @@ related:
         height: 275
         isCached: true
   - title: "Nokia to set up robotics lab at IISc for 5G research"
+    excerpt: "The Nokia Centre of Excellence (CoE) for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI ... between academia, start-ups and industry ecosystem partners ..."
+    publishedDateTime: 2020-08-05T06:01:00Z
+    webUrl: "https://www.siliconindia.com/news/general/Nokia-to-set-up-robotics-lab-at-IISc-for-5G-research-nid-213508-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/yM102DG9.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Nokia to set up robotics lab at IISc for 5G research"
     excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
     publishedDateTime: 2020-08-04T13:58:00Z
     webUrl: "https://news.webindia123.com/news/articles/Science/20200804/3603981.html"
@@ -60,15 +80,6 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
-    quality: 34
-  - title: "Nokia to set up robotics lab at IISc for 5G research"
-    excerpt: "for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop use cases across areas like emergency management, agriculture and industrial automation ..."
-    publishedDateTime: 2020-08-05T00:15:00Z
-    webUrl: "https://www.sify.com/news/nokia-to-set-up-robotics-lab-at-iisc-for-5g-research-news-education-uien6hjcabiaf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
     quality: 34
   - title: "Nokia to Set-up Robotics Lab at IISc, Fellowships to be Offered to Select Students"
     excerpt: "The CoE will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop socially relevant use cases across areas like emergency management, agriculture and industrial automation."
@@ -89,6 +100,6 @@ related:
       domain: dqindia.com
     quality: 19
 
-secured: "YGN/3GEnyOhsdGxetHOExdLcs28i7bwF0PDm9VG1z0dhByATCbW76pLu4RK+hDYotXIx5kHwkFvBN4olObw2r9DVHS07NX7cPiCRwLlmF5T4s9n0OhuftqX4g0XWCSRF+3vRdeOut5XswFneF3i/BR+mm28MX5+lTqTM27ZMvP9HrfAMxk2nmZSYuhtxMmfP+JtMGchSkCtik8O+LOh5s4MiMZtnVksD9HYwPsRHpmccCeEsyB1OSvTqCZqYT88i0y9uXWXQxu81ufZA6JB2daLlVNxt4xk6ckfgrRWlc/42wupah3xWkeiGigt8te0b2GlIhCSvlExMZeb2eeK9MD9VgoMGZWaMOpwYU+Iu6aZDMHc6Xg0dfEPhSttUIHq/HfRtwwnzs9+kzSDOpm1eqv9iC2np3ea6SkBwT8Iwu/3GxE+4o2DyZ+H4Ftenxjrkt61yAe7jrzSodhrb2LI9kP6//+idAz5W13F+sacEvPg0cI/SrJAymfvANZLCpZVI9TAGPgGfpd3shrR1LKpM8Q==;RcynkWOikCPzip7HRHeLbg=="
+secured: "QoydUzXwvWdqbP5ONInMouiknzhQBIrWXW/VuzlNJd5a45FKYmlgj0/MaNmdziRAbzlDaTvKE6agtTM7qZWOuBgZXzfPIz0c/6qxPeUQfkPbK34Q+Uo/Xn58AOavsd/syCAdBs+7goYbayiOiCCOrXk8jZ8e92WR8evhCwWBXdCCSfN7MpT63ctfL37uOPUdjR8E02U2b7kbOQJl9H8qBAmwzGtKD9Lw9kcjs6W/pHPSaN0p8B33cKVTaF8oOVAudE44qdRPA8iirobQbkYTP5/9H9/LpRRCpOjAPgGnwavglDVrz6/IAu+csoxP/pBtfPYlJhkp9dzjFB8hwmwE3Q==;TaOy/kPdC8gzD2dSpkhgVg=="
 ---
 

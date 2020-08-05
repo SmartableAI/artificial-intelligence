@@ -2,6 +2,55 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-24-startup-founders-at-new-5g-open-innovation-lab-explain-how-theyve-adjusted-to-the-covid-19-crisis.md",
+      "title": "Startup founders at new 5G Open Innovation Lab explain how they’ve adjusted to the COVID-19 crisis",
+      "excerpt": "Evolute has Infrastructure AI, which allows us to seamlessly understand and transform ... How has your business been affected by COVID-19 and how are you adapting? As a stealth mode startup, we anticipated that our customer base could dissipate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-21-at-3.37.35-PM-297x300.png",
+          "width": 297,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/amp/",
+      "publishedDateTime": "2020-07-24T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics.md",
       "title": "COVID -19: Aerokeys to launch more intelligence, profiling human robotics",
       "excerpt": "Aerokeys Nigeria Limited, one of the world’s leading aviation company has revealed plans to launch the use of robots in the nation’s fight against COVID-19, aimed at reducing direct",
@@ -851,6 +900,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-23-artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel.md",
+      "title": "Artificial Neural Network Market Growing at a CAGR 20.5% | Key Player Google, IBM, Microsoft, Oracle, Intel",
+      "excerpt": "The global Artificial Neural Network (ANN) Market size is expected to grow from USD 117 million in 2019 to USD",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-23T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat.md",
       "title": "M12-backed startup launches computer vision based virtual fitness coach that never lets users cheat",
       "excerpt": "PRNewswire/ - Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as close",
@@ -888,38 +987,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel.md",
-      "title": "Artificial Neural Network Market Growing at a CAGR 20.5% | Key Player Google, IBM, Microsoft, Oracle, Intel",
-      "excerpt": "Market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024, at a Compound Annual Growth Rate (CAGR) of 20.5% during the forecast period. The major driving factor in the ANN market is due to the growing demand to train a large volume of data sets with low supervision to drive the market For over a decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16755993",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16755993",
-      "publishedDateTime": "2020-07-23T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1119,56 +1186,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-voice-tech-the-past-present-and-future.md",
-      "title": "Voice tech: The past, present, and future",
-      "excerpt": "A virtual panel made up of executives from NVIDIA Inception, Deepgram, and Sharpen discussed the state of conversational speech technology in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/voice-tech-the-past-present-and-future/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/07/23/8e4cbdb3-b1ce-4ea8-88cd-f43b76ef0b54/resize/1200x/a0f12b85d37fe39fcc77f2cc7d900ec2/voice-tech.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-tech-the-past-present-and-future/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-tech-the-past-present-and-future/",
-      "publishedDateTime": "2020-07-23T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

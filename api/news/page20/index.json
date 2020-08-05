@@ -2,6 +2,55 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-19-even-the-best-ai-models-are-no-match-for-the-coronavirus.md",
+      "title": "Even the Best AI Models Are No Match for the Coronavirus",
+      "excerpt": "Many so-called “quantitative funds” that mine historical data to make trading decisions fared poorly in March, when stocks fell sharply amid coronavirus fears.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/best-ai-models-no-match-coronavirus/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f0e451db62e19a8767ef204/master/pass/business_quant_1206833303.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/best-ai-models-no-match-coronavirus/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/best-ai-models-no-match-coronavirus/amp",
+      "publishedDateTime": "2020-07-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-how-4-companies-are-using-ai-to-solve-waste-issues-on-earth-in-space.md",
       "title": "How 4 Companies Are Using AI To Solve Waste Issues On Earth & In Space",
       "excerpt": "Waste recognition, space junk, and food waste are a few of the challenges that artificial intelligence is helping humanity tackle.",
@@ -1138,56 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge.md",
-      "title": "Silicon Valley execs and Pentagon AI chief talk AI at the edge",
-      "excerpt": "Returning to the subject of tactical edge AI today, Mulchandani said advances in batteries, chip sets, algorithms, and other areas will be necessary to make progress in deploying AI at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/edge-computer-vision-transform.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge/amp/",
-      "publishedDateTime": "2020-07-17T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

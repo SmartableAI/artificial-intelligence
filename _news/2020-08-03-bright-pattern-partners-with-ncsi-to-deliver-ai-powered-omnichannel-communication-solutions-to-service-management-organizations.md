@@ -62,6 +62,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Reissue: L&T Technology Services Expands Collaboration With Microsoft to Offer Eco-Friendly Solutions for Workplace Transformation"
+    excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
+    publishedDateTime: 2020-08-05T11:58:00Z
+    webUrl: "https://www.businesswireindia.com/reissue-lnt-technology-services-expands-collaboration-with-microsoft-to-offer-eco-friendly-solutions-for-workplace-transformation-69015.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "tRPrZerolF04zosinOzbxzRyDS2izrEOCBff049RC5ViFgH56CShSZyOsebS54CT8ci5QTqkM85DNelDVE0Y+RSvY4T1GRUjL0CQ+FUXQmFWBD1G9bscLSd3Vb9eDwaXtSbTQMD5RktyoLojDEQCq6ZklWJadoQsGezUIzli0dKT2DUwRd5iSxL32nfW0qca7wGXGrXcOIhKY+3rhxKdcDs/2iUuXmfmuLFItgQHpPPmwAmN7qm7DBs+GzH03OZ6kK+jwaVeyWwJCaz0mCIbAzuX5+Hwjhsn3C343hPM0sCRq2xydZlimOaxaETzICKDysvjmKOX6/7oyy/uZw4fRQ==;aIv1Xq9iMCTyh6fUQQ6ScQ=="
 ---
