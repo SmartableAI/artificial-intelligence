@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-02T17:31:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-to-2024-research-report-opportunities-by-leading-manufacturers-and-dynamics-regions-2020-07-13"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Deep Learning Market 2019 Demand Industry Growth by Forecast to 2024 – Market Research Engine"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-08-05T11:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2019-demand-industry-growth-by-forecast-to-2024-market-research-engine-2020-08-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pJzyJeKm07Q2AEwwLLUMPc74kEk62UP3UCZMO44UutOiXXbqosZUJdw26pcMsbKg9e73o1DvVMjasf03QGQzUjrZ8xSDX4oLFLNiFaUEJfYuBrNP+iYt3Z2EKXi+n9LHHzNHpTHmIYuJ1GcGnvLcCo2Kz9c4ASbJt3+P60VwO7E/OmBTdYS5R4BIPyPMg2Rl8I8/5ePl0eSKgYNPbgg7+01UGLGI86n6ck/JseohvNhKMlxu32IbrL70/B4Zk2hDz2hy3v3107M/S+R1B9T8jfi8v4jSwWpwnt87Ilen4U5/kBBpZrhC4SIpeU3qyaPV3w00uRPLYHTLkvH6UL1NMA==;1GGl6l5EzawS0FVdDjqOPg=="
 ---

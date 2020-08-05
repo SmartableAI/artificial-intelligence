@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple"
+    excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents."
+    publishedDateTime: 2020-08-03T22:03:00Z
+    webUrl: "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24Z146"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z146"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MC"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Apple faces $1.4B suit from Chinese AI company"
     excerpt: "An artificial-intelligence company recently awarded a Chinese patent for a voice assistant similar to Apple Inc.'s Siri has filed a patent"
     publishedDateTime: 2020-08-03T10:30:00Z
@@ -40,6 +56,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "China’s Xiao-i sues Apple for $1.43 billion over Siri AI infringement"
+    excerpt: "Following a court's validation of a key patent, a Chinese AI company sued Apple, claiming that Siri infringes on its innovation."
+    publishedDateTime: 2020-08-03T13:49:00Z
+    webUrl: "https://venturebeat.com/2020/08/03/chinas-xiao-i-sues-apple-for-1-43-billion-over-siri-ai-infringement/"
+    ampWebUrl: "https://venturebeat.com/2020/08/03/chinas-xiao-i-sues-apple-for-1-43-billion-over-siri-ai-infringement/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/03/chinas-xiao-i-sues-apple-for-1-43-billion-over-siri-ai-infringement/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/siri13.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Apple hit with $1.43B Siri patent lawsuit from Chinese AI firm"
     excerpt: "A Chinese AI firm is suing Apple for alleged patent infringement involving the voice assistant Siri. Shanghai Zhizhen — also known as Xiao — is seeking $1.43 billion (10 billi"
@@ -73,6 +105,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI firm sues Apple for $1.4 billion, alleges Siri infringes on its patents"
+    excerpt: "What just happened? Apple's Siri is not the most successful digital assistant, but that didn't stop a Chinese AI company from use it as a means to block sales of Apple devices in the region and potentially score some settlement cash. All of this is ..."
+    publishedDateTime: 2020-08-04T02:42:00Z
+    webUrl: "https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 85
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-03-image-21.jpg"
+        width: 2880
+        height: 1800
+        isCached: true
   - title: "Apple rebuffs US$1.4 billion patent lawsuit filed by Chinese artificial intelligence company"
     excerpt: "Shanghai Zhizhen Intelligent Network Technology has been locked in a legal battle with Apple over the Siri voice assistant system since 2012."
     publishedDateTime: 2020-08-04T07:26:00Z
@@ -89,15 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chinese Artificial Intelligence Company Files $1.4 Billion Lawsuit Against Apple"
-    excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co Ltd, also known as Xiao-i, has filed a lawsuit against Apple Inc, alleging it has infringed on its patents. The company is calling for 10 billion yuan ($1."
-    publishedDateTime: 2020-08-03T10:08:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2020-08-03/chinese-artificial-intelligence-company-files-14-billion-lawsuit-against-apple"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
   - title: "Chinese Artificial Intelligence Company Files $1.4 Billion Lawsuit Against Apple In Patent Fight"
     excerpt: "In the lawsuit filed in a local Chinese court, Xiao-i argued that Apple's voice-recognition technology Siri infringes on a patent that it applied for in 2004 and was granted in 2009."
     publishedDateTime: 2020-08-04T03:15:00Z
@@ -194,6 +233,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/08/04/806443.jpg"
         width: 1240
         height: 697
+        isCached: true
+  - title: "Chinese Firm Sues Apple For $ 1.4 Bn Over Voice Recognition Patent"
+    excerpt: "In a breaking news, a Chinese AI firm Shanghai Zhizhen Network Technology (also known as Xiao-i) has sued Apple for infringing on its patent related to Siri, the smart virtual assistant embedded in Apple operating systems."
+    publishedDateTime: 2020-08-03T11:56:00Z
+    webUrl: "https://analyticsindiamag.com/chinese-firm-sues-apple-for-1-4-bn-over-voice-recognition-patent/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/08/CDmz0L1WYAEpgk5.jpeg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "y00SWTYYOJ2/oTrpwo62dYrywpHIw8nn+5P7ozPEjn+V9JtNAoBNAd9q8GTRhlJ6DsQmz5cMhdUf+MvuFJTA3fhZ7dsia9kUANbUromIab1AdLnBMtGc8QiqiQ3aZo0w+/JsHI8j1sRDHJIhxYH2acYwJFI2qhc8BxyzlmmMsHUSOqRtAua5Rd7dvJwpkDjYDxGNtAgk/3ei9Z1ZIWOFtifhlmw1W8ZwJSRdJ9371nPBudRhrrjBBfC55V/ETNaz2Z7X6ugESrPVC/8R32j4Bp0Crh1+8xw4uw1DUOo/tc3wWKCWqbtHBmIX575EsmnJIFZqnNs3dx9KZF9WoXDqUWVY0roS5JHfH7FrgihI/Uq1Zlhb1C3j1pGOfMa+H9JtQUsiQrrFnAiradI3UFcFDDFb3qOU98QqOmDYLF+z4xp67AmKajRkg0ku9Gd9HYKV2kQslgSyRAi8LeNeV0kNm0kzjJDkH7IQ60wmHaGDvH0sWfGSPtCRd8wpgkVv4t4JtvjvT6HtIfYp6i1AsQ3zAw==;Ur9Lxby9Vw9Vsfd9fqjmdQ=="

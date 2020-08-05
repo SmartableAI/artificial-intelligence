@@ -27,29 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market – Size, Statistics Growth, Trends, Forecast (2020 – 2025)"
-    excerpt: "The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection, Firewall,"
-    publishedDateTime: 2020-08-05T08:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-statistics-growth-trends-forecast-2020-2025-2020-08-05"
+  - title: "Artificial Intelligence Robotics Market: A Straight Overview of Growing Market & Future Trend by 2025"
+    excerpt: "AMA Research added a comprehensive research document of 200+ pages on ‘Artificial Intelligence Robotics Market with detailed insights on growth factors and strategies. The study segments key regions that includes North America,"
+    publishedDateTime: 2020-08-05T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 99
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
-    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
-    publishedDateTime: 2020-08-04T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-embedded-digital-instrument-cluster-market-by-development-trends-investigation-2020-and-forecast-to-2026-2020-08-04"
+  - title: "Deep Learning Market 2019 Demand Industry Growth by Forecast to 2024 – Market Research Engine"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-08-05T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2019-demand-industry-growth-by-forecast-to-2024-market-research-engine-2020-08-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -40,6 +40,20 @@ related:
         width: 400
         height: 265
         isCached: true
+  - title: "Machine learning could improve hurricane prediction"
+    excerpt: "The approach could provide more accurate medium-term hurricane forecasts, allowing meteorologists to issue more timely warnings to communities in the path of potentially deadly storms."
+    publishedDateTime: 2020-08-05T20:33:00Z
+    webUrl: "https://gcn.com/articles/2020/08/05/machine-learning-hurricane-prediction.aspx?admgarea=TC_BigData"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/August/stormsurge.png"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "h3/7Xadt3zet1UFfMgwCTMovUNy6pgx/g5QMG4KSh1OwwrBGyofZWOffgJHei6hffiLR8JmNvjca2aiWFeV7Mpkvsnr3+lHoqsUoPXK59bLzu6STTn64cjdIhTZHe0cfKXrvIq9vvOfrTXW63A2jliJBCsY2UZNrlvIf02a0MuIVlUe0eZe9sCitPdr34tR8wAC/inlXoJmYKqkYcQ72/AlP+/iperQpZSApXhQ6CD5YxusoMRUKkF6hXPB+anJwNiU6FC+NjcvGCYOvxzK5jRGQAfF5x2+Z9ISyawDHDFGom7ZGFkD/noJgFeSRg5U5MoAwHCE6JqbcxB+UoPjZobw2GovCsrmSWXRYJnJd9Pzxo60jCRAn7dO5uIw9jg6oyTlG2o8CdwqSSQlvAaV8NQsPzpXzd+9nQ1vU8gy6oMeU3zbZsSiXe8hYQrciqDdTiKCKtMoLzKZCg46bgBzTrVij5Gg4WEQBPQpG27YhvUUNa7B+XSh0FwekbO2yjQzr;Nt230K4Cac1sFlgdUGUVeA=="
 ---

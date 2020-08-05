@@ -72,6 +72,22 @@ related:
         width: 800
         height: 531
         isCached: true
+  - title: "Researchers Rank Deepfakes as the Biggest Crime Threat Posed by AI"
+    excerpt: "Thirty one AI experts say the video fabrication technique could fuel a variety of crimes—from discrediting a public figure with fake footage to extorting money through video call scams impersonating a victim’s loved one—with the cumulative effect ..."
+    publishedDateTime: 2020-08-05T21:20:00Z
+    webUrl: "https://www.adweek.com/digital/researchers-rank-deepfakes-as-the-biggest-crime-threat-posed-by-ai/"
+    ampWebUrl: "https://www.adweek.com/digital/researchers-rank-deepfakes-as-the-biggest-crime-threat-posed-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/researchers-rank-deepfakes-as-the-biggest-crime-threat-posed-by-ai/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 57
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/08/angel-city-owenership-fcla-hed-page-2020-640x360.png"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "eDMJgCOVwKFP3j+3PAmTHm5kPQEOcF6Y5UTDGp34y49dcNFj5/0OTnF9prLGt7k4oXSNzq4OQElMBufEms6NR8nFAqNe+io5brbrzFHaLM9wIbIYau51O/gmhyePH8lIh+qqBjr7UYJ3jjaEDg/tqsu28cG7wX3CglGKfKhAyWrZInZotNw7N4lRhV4GOT0YAExVKEm5Ir/prw7SA/H7Bp2IbYfMB1npCduB8//sxzeQcxL52/K2nS8a6KEXtlyiF4hzxJEHVspVcY2CmSnObBzKhLG5JqH5SkvTN4HVXB3Vj/jISujWWD0fPGueZIixxgKW4gntDHvTmXI88KsIWVD1soupyqYC33ynM6fHFqr8hynYtPhr/8BNlbarig9eYQaWdG58nfYIWO0L58MDF3S7PSq2M1Apt/TM5fEYwkKwhbRRm0j/cBM2ne9p7yJIMmHTur2s3Se+i/5VomWItDIIqSpKuHUSZ9CTCMO3EEC5+3U3kfgRkHQa9EkmtFNuW3slOvAvZzbN18vPKQjf+w==;NQgHCw+Pdgln8tjJRtmvaA=="
 ---

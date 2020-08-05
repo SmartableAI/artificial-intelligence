@@ -5,8 +5,8 @@ excerpt: "Reportlinker.com announces the release of the report \"Artificial Inte
 publishedDateTime: 2020-08-04T12:05:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-hiv-aids-1029465885"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 secured: "UoQ4IItWsvQxBi2sDW7nfdv2eGL68dNQjVh84JO9U8De/b7Rlbf4fU6jgnA5PpJJQr5LBFuF38zsFDwpWMFTMqXo4Yqbhz6ETbLqxeC4fNBH3DZj4M8TMWgjFJhflImPM+qMwxKF34/f9gAgtgP6nxPkIGBW+QxchEfaU906wpW4/nRZ0dnOPn1x39yrxrN2cu2l6os4JBfMpmXDhGpe3v2cXGk6eEmFna5MTwB2fzHVDjPFv1DI7rIHH3hq/CLIki6edYlLPw/y47fPmAz6VG1KCrWnivAqCik//LURgzyufu+lItXMy2/ztjoVFP+5Agb8ibF/NloCjDctomRvyA==;ZrzAyDug3DHNslbUal6tUg=="
 ---
