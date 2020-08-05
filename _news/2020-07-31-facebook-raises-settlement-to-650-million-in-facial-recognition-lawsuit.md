@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
 type: article
 quality: 103
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -155,6 +155,20 @@ related:
       - url: "https://i2.wp.com/cornellsun.com/wp-content/uploads/2020/08/UFTP6J0e4OMM_6WIuAp6kCMYpYmUt4V9lDQsb4Aml6eayrVRI3z0KwDsIB3_ta8jGgK0PtVEY0XlGocqT1ARCp0WxljqEJvqtaUJU2DcbNg.jpeg?fit=1170%2C780"
         width: 1170
         height: 780
+        isCached: true
+  - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
+    excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
+    publishedDateTime: 2020-08-04T21:22:00Z
+    webUrl: "https://www.wbur.org/npr/892433132/judge-facebooks-550-million-settlement-in-facial-recognition-case-is-not-enough"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 33
+    images:
+      - url: "http://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_custom-5e9fe2a47411735dff5e83b81a47ec43feee537f.jpg?s=6"
+        width: 948
+        height: 631
         isCached: true
   - title: "Portland votes to ban facial-recognition technology"
     excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-0
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html"
 type: article
 quality: 89
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Self-Driving Car Maker Sentenced to Prison For Stealing Trade Secrets From Google"
+    excerpt: "(AP Photo/Tony Avelar) (CN) — Anthony Levandowski, a pioneer in self-driving car technology, was sentenced to 18 months in federal prison for swiping upwards of 14,000 proprietary documents from his former employer Google before he left to start his own ..."
+    publishedDateTime: 2020-08-04T23:50:00Z
+    webUrl: "https://www.courthousenews.com/self-driving-car-maker-sentenced-to-prison-for-stealing-trade-secrets-from-google/"
+    ampWebUrl: "https://www.courthousenews.com/self-driving-car-maker-sentenced-to-prison-for-stealing-trade-secrets-from-google/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/self-driving-car-maker-sentenced-to-prison-for-stealing-trade-secrets-from-google/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
+    images:
+      - url: "https://www.courthousenews.com/wp-content/uploads/2018/02/UBER1-1024x734.jpg"
+        width: 1024
+        height: 734
+        isCached: true
   - title: "Deadline set for Dubai's Dh6.3 million self-driving transport competition"
     excerpt: "A deadline of August 31 has been set for entries to this year’s Dubai World Self-Driving Transport Challenge. There are prizes of up to Dh6.3 million up for grabs at the annual event which is organised by the emirate’s Roads and Transport Authority (RTA)."
     publishedDateTime: 2020-08-02T13:46:00Z
@@ -89,6 +105,20 @@ related:
       - url: "https://www.thenational.ae/image/policy:1.1057978:1596379615/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Project preps traffic for self-driving cars, more"
+    excerpt: "The advanced traffic engineering lab will be located in Holmes Hall. A University of Hawaiʻi at Mānoa College of Engineering pilot project is expected to greatly improve traffic flow through a critical Honolulu corridor, while giving students hands-on ..."
+    publishedDateTime: 2020-08-04T22:48:00Z
+    webUrl: "https://www.hawaii.edu/news/2020/08/04/project-preps-traffic-self-driving-cars/"
+    type: article
+    provider:
+      name: University of Hawaii
+      domain: hawaii.edu
+    quality: 24
+    images:
+      - url: "https://www.hawaii.edu/news/wp-content/uploads/2020/08/manoa-engineering-smart-traffic-lab.jpg"
+        width: 676
+        height: 381
         isCached: true
 
 secured: "ToPr5k01L86XxR1YU4IAxl7mYLGV/tz60kBP8KDx1hXztV3XE8qobvmWOkkwL2r+m6PDWd6PcI+lrZjRtsboqpwxs+eEz0z7xqXarMPxm6cvyDgCExFRBk3NiLtKnsg2YUFjMs9N8Vd5Xra0p5hl0j5qYHYuM0ZWsb7gdDXwcYssiButWSwkvjNGmHo3X82C/fJwkKo3H7hmv34NGGZYjfShWVinYuNYyO9/Q46ZFAYJTmAo2D+iBoRt7oMXl93oyzCPnxYt7reGZkIEkuQBr+AWsHj1d0NwaMnU0Iwl9F9RxM44SgHKDsG1PBim/r36xZntfDKRyT3900PmUsl8ww==;QNE2O9jABWyQczyArwvnIA=="

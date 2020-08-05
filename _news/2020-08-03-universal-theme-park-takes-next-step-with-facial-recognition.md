@@ -134,6 +134,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-04T00:25:00Z
+    webUrl: "https://www.courant.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+    ampWebUrl: "https://www.courant.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 49
+    images:
+      - url: "https://www.courant.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "OvN3tYKAJk4EQggGlcK8zYNTRV7M1C67zR5OMNTTY8a8ei7TnWHG9uEQbUyPpsBUS5dDxdaAj3WdBxpxJN7J16oI7bN1pWPD22EuolU2yWqtg+c9c63dOdMHuRxkSiYgxh4nKqp+NBj8IVGcUTbyQgMb3pxV67PsEhJ1Bll9xVBGYufALks6wiE7lM2soZWhv8rzMRmuQ/xQwl2RhDKOWBhoGkfaqLolK5xKgFR8rpJJo2zwTYoqGXHPjgWLcY+hkc9zPhbkskgaGgqkz2wcfJDg3bUqlZPNYZsgFTbdZG69eKXuEDEqmPqnZSpM73QuWBZ5wGmDqEtMc/Mn765Y1Q==;TVdmiX9ySCzRp4zxuLahGQ=="
 ---

@@ -86,6 +86,36 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Self-Driving Car Maker Sentenced to Prison For Stealing Trade Secrets From Google"
+    excerpt: "(AP Photo/Tony Avelar) (CN) — Anthony Levandowski, a pioneer in self-driving car technology, was sentenced to 18 months in federal prison for swiping upwards of 14,000 proprietary documents from his former employer Google before he left to start his own ..."
+    publishedDateTime: 2020-08-04T23:50:00Z
+    webUrl: "https://www.courthousenews.com/self-driving-car-maker-sentenced-to-prison-for-stealing-trade-secrets-from-google/"
+    ampWebUrl: "https://www.courthousenews.com/self-driving-car-maker-sentenced-to-prison-for-stealing-trade-secrets-from-google/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/self-driving-car-maker-sentenced-to-prison-for-stealing-trade-secrets-from-google/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 39
+    images:
+      - url: "https://www.courthousenews.com/wp-content/uploads/2018/02/UBER1-1024x734.jpg"
+        width: 1024
+        height: 734
+        isCached: true
+  - title: "Project preps traffic for self-driving cars, more"
+    excerpt: "The advanced traffic engineering lab will be located in Holmes Hall. A University of Hawaiʻi at Mānoa College of Engineering pilot project is expected to greatly improve traffic flow through a critical Honolulu corridor, while giving students hands-on ..."
+    publishedDateTime: 2020-08-04T22:48:00Z
+    webUrl: "https://www.hawaii.edu/news/2020/08/04/project-preps-traffic-self-driving-cars/"
+    type: article
+    provider:
+      name: University of Hawaii
+      domain: hawaii.edu
+    quality: 24
+    images:
+      - url: "https://www.hawaii.edu/news/wp-content/uploads/2020/08/manoa-engineering-smart-traffic-lab.jpg"
+        width: 676
+        height: 381
+        isCached: true
 
 secured: "0tSmWfAH9LZ/yeFcDDluY+wZnlLt4HFBpqc5BOKQ56RFMTUw3VfPfIdI1AO3t63zsg827OB4kS6FA5KuwMiHRFI2HDBAB+d49o7ne5boOnzkx7nOatBVm1mjCkunVnvMQgzc+dh2afapEBB2+WMFvZq+Xcp8F3Lz5XrfvY5dqURZwQmdUau+qugonbT9Som+1IZ3FwSpGVfgrmljrz2KAxgrUp2omYCzhVa9bHdkSjCxCFoi0LjWvyj13UQE4Es+oUPzOyw1rqE1Q4p4Xinc/+0o6bB/SPyctmKjQYy+o4uKogLRDhXK3SB081/4YHv/1MfjQAu541o2+OPYZso/Yg==;2S8PpZJ/isWwliClASxF+w=="
 ---

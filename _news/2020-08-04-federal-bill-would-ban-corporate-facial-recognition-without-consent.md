@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://i.insider.com/5f298ebede1e9651da0e22dd?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Merkley, Sanders introduce bill limiting corporate facial recognition"
+    excerpt: "Sens. Jeff Merkley (D-Ore.) and Bernie Sanders (I-Vt.) introduced legislation Tuesday aimed at limiting the corporate use of facial recognition technology."
+    publishedDateTime: 2020-08-04T22:51:00Z
+    webUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/merkleyjeff_071119gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Facial recognition, thermal imaging part of future with coronavirus"
     excerpt: "The coronavirus pandemic has inspired a new wave of technology , including thermal imaging and facial recognition software that can detect fevers among employees, a common symptom of the virus. PopEntry+ combines instant facial recognition and temperature screening that can connect to employees’ mobile devices,"

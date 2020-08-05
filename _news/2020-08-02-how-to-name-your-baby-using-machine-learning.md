@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

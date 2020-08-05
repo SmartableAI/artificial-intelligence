@@ -14,6 +14,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "wzpj6rme9MNAuTfUCmdC9IyDuctZdetcY99yP/zY8l89oaDMaauiePgRrML6jTpL60gZj+nOed4Vt+h5+SSXIFauaxDd2KIkCAzVkFzUoMwStQRV1yBmXknKT13K6wEjtnQY5P4oSNwOfpRoZisiJQR5PMYM1yzvpoltRqXFdjB/fDLA/6oinpnr7pUS8E2ajYEasc0eK4+/JQTpelLU29gLCBybXxxp6TrNBc66SckC+lyvDXtgJ2bVXzyl5WjlZ7/NIW1+u/n6f8gLrYI4g2+JK6yiUXOGB+/DGRiyzl8vWI/4swDOm5ywRUsWJA04QNV7d4C5jSREmGhCsoh7GA==;nJURB/7RLKCVidH232dBRg=="
+secured: "GjV0aPs2hDnNu+Y2Kv1agCSHXPMBqxim518McqOKocdpPgGfWEuBlLOEnVHrZC5YTYyvbQ6pbYGu/ecgJ+o3inUgFaQqzd5C2Qyer9vAl3rILLi6pa3rsYcIDc1dja2hP4dC5XIsVN5HiheokR4zkI8zD9M0Yv1Vf1Z2X2XSsaf0Dj0ZLhSfOqYl6pAth6ZQmlu7/baMYSPiKAQ1cn4EiT1yxttrcYwqjegYWsKD64G0jpqNyohq3tw2swEMYKa7L2zd1JzgN4bE4wy0Lu5XB/uWVb0/Ug/O4Jd4aVkuRb1Vd8jrph0RdgRhSYmbZNu3aZSBZlv+vcv6tXCSBPxGqw==;aPKXibJH0Tojo3UHHOQnOQ=="
 ---
 

@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Merkley, Sanders introduce bill limiting corporate facial recognition"
+    excerpt: "Sens. Jeff Merkley (D-Ore.) and Bernie Sanders (I-Vt.) introduced legislation Tuesday aimed at limiting the corporate use of facial recognition technology."
+    publishedDateTime: 2020-08-04T22:51:00Z
+    webUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/merkleyjeff_071119gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Portland councilors approve ban on facial recognition technology"
     excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
     publishedDateTime: 2020-08-04T03:17:00Z

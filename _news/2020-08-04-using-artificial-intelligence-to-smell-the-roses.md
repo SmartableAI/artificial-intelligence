@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Using artificial intelligence to smell the roses"
-excerpt: "\"We now can use artificial intelligence to predict how any chemical is going to smell to humans,\" said Anandasankar Ray, a molecular biologist and senior author of a study that appears in iScience. \"Chemicals that are toxic or harsh in, say, flavors ..."
-publishedDateTime: 2020-08-04T19:53:00Z
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300998&org=NSF&from=news"
+excerpt: "\"We now can use artificial intelligence to predict how any chemical is going to smell to humans,\" said Anandasankar Ray, a molecular biologist and senior author of a study that appears in iScience. \"Chemicals that are toxic or harsh in,"
+publishedDateTime: 2020-08-04T20:29:00Z
+webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=300998"
 type: article
 quality: 37
 heat: -1
@@ -38,6 +38,6 @@ related:
         height: 1608
         isCached: true
 
-secured: "+kdS/XNVGSxpKikkvnHTFUCHzSpRTTlwIBAhuChFjm4SnOjJ9HyBVkBJh9jBmfv7QpMgHM8grIA0YtVTibYbHvNVsLISPV/2PNziBQjwOdAbMrTtTn6SIZHti92AouKJOofWsHCQKX2araMWoVFfrczjJxX/9HMGHcGVHPIoN4gPXvek6jdLKYV3LEn2ZLWhgn5xADMB9hvJCG46b5A5R8cqeKcRMnRactYKRR/3ocK9Ml01nUp6A7l/tEX3rUGg0wUrgLPzvjiiqPFLM8BmffIHPjDjiBYIudYS8EUKz5T07JhhgiJsLCcexxMUF4coYsJnKLH34kzW6wj/AbaFnw==;86vaesvC27QsFLQQEKSioQ=="
+secured: "uSvgF/FbcQy6EiWeNmNGRiGyZED+D5oqf9chZpn3nUDcGEn3UoOSvlscYyvFKSx18lN9C3AvZtWPp+uTfwa6hxDHvDtHjfEV1jN3auN+VRUGb8r++w1EKtQq1qhGMC7v0xv0r71BbYHxedJ4mLpG3LZMqaFFqhm1/ghAHJe/05D0Jr7AbEZd8GziONhFRVS3y/nNEhczvpRw9LiOZ0o9z5oTpma37nnSm4kBFzjyMRfoHFbCIoMKMmkVlVJcP1qAPBVREAnWU2lf0LODBUiXUVAHoao5IF3MIClktSwWWizUcQfJEm1UMNosLQtlhLmuK2NwMFDiaWRjLvvR6sl6QQ==;dY8JWVlPO31OUK8iU5456g=="
 ---
 

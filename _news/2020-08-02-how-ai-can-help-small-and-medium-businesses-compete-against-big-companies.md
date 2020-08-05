@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-sma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 639
     height: 359
     isCached: true
-
-related:
-  - title: "Quantida Announces the Launch of Complete Data Management and Analytics for Growing, Small and Medium Businesses"
-    excerpt: "Quantida is enterprise-scale data integration, infrastructure management and analytics BOSTON (PRWEB) Quantida today announces the launch of its complete"
-    publishedDateTime: 2020-07-31T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/p16867958/quantida-announces-the-launch-of-complete-data-management-and-analytics-for-growing-small-and-medi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16867958"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16867958"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
 
 secured: "eBdKQMCJGcBVHTeB8SqYOEpVnfkukIBFFxxSf7wkKlLc5ogB3kcdxAGFAA3+65BGdsJTiSXvBH90EUeFCNhaL2WPLnxcFY51TKLCldiuDuK0H1TVkiESHEgcJhmFInTO+1UJqg47+LERMNBtxYe+1QPcS+DPX43wdNw+g9sH6LjStYvjNYXex3pXwEiemeOrFRvruQQDYxl5bpsR6O0meh1bZBngxK1drGs2GrQRaEjYQRUQ2gb2IAR+4+BY+lJ4ficL2+Nvr/P5jQNuqhMn+9UzqRYk0NING7Ay0PLT5B/bKzTvOtOWPNZspLzsqoagK9/AawrzzIHOur3EsBLuwQ==;uH3CMP4cDDBzvki3DXS9Qw=="
 ---

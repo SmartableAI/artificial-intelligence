@@ -27,6 +27,17 @@ images:
     height: 770
     isCached: true
 
+related:
+  - title: "LivePerson Announces the Conversational Cloud(TM), an AI-powered Command Center for Brand-Consumer Conversations"
+    excerpt: "NEW YORK, Aug. 4, 2020 /PRNewswire/ -- LivePerson, Inc. (Nasdaq: LPSN), a global leader in Conversational AI, today announced its enterprise-grade Conversational Cloud, where hundreds of the world's largest brands build and run AI-powered automations over ..."
+    publishedDateTime: 2020-08-04T13:28:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/liveperson-announces-the-conversational-cloud-tm-an-ai-powered-command-center-for-brand-consumer-conversations/article_3a541153-8b3e-5116-bbe5-743b1b35b767.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+
 secured: "08NVBWaBL4/YbdVp38Cnh9eUZUIUN3/fq7YXCj1NA/muJ7825LYjMDGPS04WoWTyVIOhvd+KGXBPdeWfjY1U13wwqjkojtn7KruJM8SvW2p1Af6oMM3/VDbCghGewCFIuav4PtME/u5z9vAdBCt2DgU10MeJu4DtOj1/SymBgVZsq2VWmkiJvsjzaw2JP4AqVdlpAUbySfDAZDgVjNE+AG0IQQ3epdsXm9nWvZAxsTo2SUI3YFlMh2wsPkcnMfHaQSaFwbI31L+1Mrt4x750CqINkaXMSoHC/fioug1Omux56xT2R6Y8FjUKQRro67/kj2WSMhUC1dwBTYowEj3TKw==;ty0ONTxcjJ5Q08UCBLf73A=="
 ---
 

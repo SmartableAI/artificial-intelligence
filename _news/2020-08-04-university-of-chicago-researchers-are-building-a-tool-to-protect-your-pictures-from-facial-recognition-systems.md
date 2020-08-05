@@ -124,6 +124,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-04T00:25:00Z
+    webUrl: "https://www.courant.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+    ampWebUrl: "https://www.courant.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 49
+    images:
+      - url: "https://www.courant.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Universal Theme Park Takes Next Step with Facial Recognition"
     excerpt: "A Universal Studios theme park is now using a high-tech, automated facial recognition system to identify annual pass and daily ticket holders as they enter the park. The new system is now in place at Universal Studios Singapore,"
     publishedDateTime: 2020-08-03T21:38:00Z
@@ -139,6 +155,6 @@ related:
         height: 268
         isCached: true
 
-secured: "useRZ+h9GVfxFL7X234rsEZYzMzHiKE8EDS0Gv3ND8Td0/KNboEZs5GXFhrEGbMd10BQA/MSaOKXtYOAvxt4bSYu/RAdkrYoJCp9eqDtTXaSng6H7NW+KJ7ZKZpnIbAMbVZDDTDbN5sKbNsMTu/CDuQ8fqlKoGGn9Kcvlmp25r2TybJIQiKoMVpbMKkWNtnYFcVU0UYQvdiuO6fuVm3N0xj/OY+v4nNsAS+4fawatTKQcOSUmDepFsc0wjbqgNv+Zv0ufemZCsUgz+V3LdGR5rIhDdu5QkYdUHnr6ceuMrOxjuMn3brmPNk6N20PH1Lgms/dPPDU7Mm+y+m/HSVGuQ==;irNvXcHpKQJVUranyQniRA=="
+secured: "L8jdxLeKXacTvLelPuMkEJNGsXCfR+SV5ueywEzvFfLZWQFn54mfk+cip9dPwS5hKumLAhgc6b6xFzhjpmXdkeNbNkSx7Vez6OLDFQYxs6BE3eOOuQpjBQQYLTXkZPXAvTlwNxgScFfAUVvIK9gcoAtUj6FWdQ/Hjx/A4kmv8h6PEllN99pWUH+B5/ab/9v5mF4BC3Re/POP0bMPVBZjO3zWEKcgru2jLhkf42/TQyVTbUYq3bfWT4J9zufxB43Y1FRYw2x4nOBraNjN4/BDBf5AyvDLrywPM164KAPgIvwxN5bvkzowgnrax1tm0e53ZAmWXH0gWXXA/LJgh4Bk0zVUvagLUAvDEwhppLHB/seBPa4vuvTGy/IHs+3Cy6neZOBoYKe+21JM+oczAUzaphUqfoNS1FjnPEMKr6/xSUyy62kMoqDlIdbeX/azBkvvTuvr0AXl9AI/xmUPfdu+vDELZn+wgT2dARF1z757bDGi0a/N/9h06cGw26QlkFpb;jMZxGAv1+iRvZpugnjCRmQ=="
 ---
 

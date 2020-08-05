@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Buildots raises $16m as it brings AI computer vision to construction management"
-    excerpt: "Buildots, the company bringing AI to construction, have announced that it had secured $16 million in funding to leverage the power of AI to track, analyze and provide actionable"
-    publishedDateTime: 2020-07-31T05:48:00Z
-    webUrl: "https://londonlovesbusiness.com/buildots-raises-16m-as-it-brings-ai-computer-vision-to-construction-management/"
-    type: article
-    provider:
-      name: londonlovesbusiness.com
-      domain: londonlovesbusiness.com
-    quality: 50
-    images:
-      - url: "https://londonlovesbusiness.com/wp-content/uploads/2020/07/Buildots-technology-in-action-photo-credit-Eyal-Toueg.jpg"
-        width: 599
-        height: 400
-        isCached: true
 
 secured: "xzlDx+iD9FX9qVCj4mDOvfcZ1U+o7SsR4bdmo0Il2mqTjJgHZ+lFhjZSAdTPEciZVbV4HaNtsmwp1cpK1GvoogZdLoMplRRhZl+kRp1/v7D2bi2gsjccmoDHb6gSimqSeRvKmgZbASy6JEGghpLP9tpAqKawWsVv5b5YxqPYMhK/dhZNzcQLGtCCd73GmNzoS32FlSdz/9FA1gPNF1TmfHZC8u9jDI+aGvKRl0U/tIiEr5hXUJBBOkUkhzZfMvmmGFuy+47dtdwRBvL0O7TIEd+HYybCaDuA9Mll6pYD1vpMMmmmI4SMogTdqotv5awDkzchlfZtIvc723MUj8Jl6Q==;tChrlbg0Czqz1oYFaQjdBg=="
 ---

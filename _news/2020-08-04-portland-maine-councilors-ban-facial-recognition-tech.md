@@ -152,6 +152,20 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
+    excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
+    publishedDateTime: 2020-08-04T21:22:00Z
+    webUrl: "https://www.wbur.org/npr/892433132/judge-facebooks-550-million-settlement-in-facial-recognition-case-is-not-enough"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 33
+    images:
+      - url: "http://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_custom-5e9fe2a47411735dff5e83b81a47ec43feee537f.jpg?s=6"
+        width: 948
+        height: 631
+        isCached: true
   - title: "Portland votes to ban facial-recognition technology"
     excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."
     publishedDateTime: 2020-08-04T19:13:00Z
@@ -176,6 +190,6 @@ related:
       domain: newswiretoday.com
     quality: 21
 
-secured: "KxpDn0BUAXhwnmoywOy4cSBJ+41qkVpR1fxeI8YhzExsMJ7VNAmEbdinTNCQEkN4N2rQkR8BL3EYKUS6Qpi3A5lzzlAVtMmt51lfHjZFlgIuLaxR3cR80gve/A8kUMh6CL9us/Z1cRPzbhGHNpgTaSCUtJLrK4T53VBni9z6YqdAo5ZLs8aKGSQ0G7mh3lX1GduEYWySSA9A78cjg7vds5YsCadVGn1QeIVA3XygcLQE1vchEP3mWOxRFC4DIg6wYWT/xZVEg+c7jjHC/gH8Yx4TkOA/ps9tF7YuOwQyBBWa7OhC7hC9l7z2txrwiONcI7tH2q1uQdHZ7hORqZct5g==;NOzunB1tjAe9jyKehVicOg=="
+secured: "4lINNR9XD7GCvHdYgJVddHVXwbkdet1LDq/ncWUpDpu3unzvBoCMcwJInSV4jI3ypF49UbnX5OTV/M2LXrfJMmox8SRgkBmFlCrOLLkTT1uUh+M2i/GUk9X6KQ8JA6eBnOYWpyZMP8PYriYSoAQq08Kho7SefXfxQFb13d6yvT547++ljpz9kM5v1kA8TnSWJwbQbDGwpxgtZNyt0exfq9Nqx1g2+32+s1+1ECrxZg/NKMgXqhhj64VOfJPDgdVPA4PbN+ruywHFnEFExuVcojELO3WxKyjPp44FfhvNsrLUyUCH2yoD+jJqX1GgfjYyCWopsMwbNUomaFzQpu1U0fmrlZNXQUV7zq24O//UCHqwIdA/MMFDUDkHFjcH73aZxVTRY0NwH45CRMeLtC7TSiIxYoJGqRx475lLiBue+tYUQsjn6OuGr6Z/icXc48saivP0AKOhzObP1aiCbxm3qx/REMBXl+t1F8YvjhgCF2EwDJqYYjH95qAS/qIvyer2;45Ql9BFtjvcf94tATAd7/A=="
 ---
 

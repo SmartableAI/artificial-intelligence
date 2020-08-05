@@ -2,24 +2,18 @@
 category: news
 title: "Greenway Health Works with AWS to Further Meet Needs of Ambulatory Care Providers in a Post-COVID Healthcare Environment"
 excerpt: "Greenway Insights will leverage AWS cloud services, giving Greenway engineering teams direct access to a robust set of data analytics and machine learning capabilities, such as Amazon SageMaker ..."
-publishedDateTime: 2020-07-30T14:59:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment-9136450"
+publishedDateTime: 2020-07-30T00:00:00Z
+webUrl: "https://www.medindia.net/health-press-release/Greenway-Health-Works-with-AWS-to-Further-Meet-Needs-of-Ambulatory-Care-Providers-in-a-Post-COVID-Healthcare-Environment--479970-1.htm"
 type: article
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Medindia
+  domain: medindia.net
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "vVm7+0BgAO7JQ6BhFgaOHs+mqSnnE7y910ZJxn2dR+WRSqOxWGVmoUkr59M5i/ZBoG7IFgnkKfXYq87SokadRELjnrDL9upe0HQ7eDhDovO7mjUh8KWC/XETlePFxqYIQkqS+Rt/hMhtryRbQi68raTBlrwdQxg3LEpOGNLv6heIltGnKtkhGgtbyFCX7HAlvdlxyo7Ekl6dWl1kyorp4kM70ER/xH46d2zV2MjAttggRL3bRz1LLiQuj9U3kAFZMdNemeEZ+GSEyiwYfgbks4BYGTPpGtFJK5kLpRpIGdYDgQLKOggCyUQiDW4pFyGCWCyutpkVy3TPhXKERx3qMQ==;pEky1l3ziqeur12726PRLg=="
+secured: "pfdp3bMHVe0VhIVFbY9/U6tJuaK/qnKd3LokR1lqbmPo0QEI4vb8eWWSWO6kcG6mWSzdQSl5OgHCYNXeWXdzcikoBjQpnbII5TyvtdKmXWgw2GH6iq02KOa3BD5tscCqF5DN+FV3CsVForPFAu8V87f0I2ROkO/awGoomMgaduu0Afh5pRml905aXQ/1W0csywwD//W4EDvzgembh+x+P7XmX+plz6id+Ib/8pI4vdQHPSycUtTdxXVKNMftHDCxtu9cmayYWsOa3bRW3gr0wvDffCPgtbd3d+bbuBGbEwS7MaC91Khje93M2oerE0SqvLUN5cElralkpmTxhFK2Aw==;GeduCUAfsMJKVdaPwt4Fjg=="
 ---
 

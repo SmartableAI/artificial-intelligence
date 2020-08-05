@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-analysis-trends-and-cagr-projections-2020-2026-2020-08-04</loc>
+    <lastmod>2020-08-04T15:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pymnts.com/news/investment-tracker/2020/deep-learning-tech-firm-syntiant-raises-35m-in-series-c/</loc>
+    <lastmod>2020-08-04T15:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/multi-gpu-and-distributed-training-using-horovod-in-amazon-sagemaker-pipe-mode/</loc>
     <lastmod>2020-08-04T14:48:21-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -141,12 +153,6 @@
   <url>
     <loc>https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/</loc>
     <lastmod>2020-08-03T22:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W</loc>
-    <lastmod>2020-08-03T18:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -373,6 +379,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/</loc>
+    <lastmod>2020-08-01T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/karlmoore/2020/08/01/focusing-on-profitability-turned-around-the-ai-powered-travel-start-up-snaptravel/</loc>
     <lastmod>2020-08-01T04:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -451,12 +463,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2101008/vehicle-speech-recognition-system-market-economic-forecasting</loc>
-    <lastmod>2020-07-31T06:10:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/</loc>
     <lastmod>2020-07-31T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -483,6 +489,12 @@
   <url>
     <loc>https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/</loc>
     <lastmod>2020-07-30T22:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.embedded-computing.com/home-page/ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom</loc>
+    <lastmod>2020-07-30T22:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -583,12 +595,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment-9136450</loc>
-    <lastmod>2020-07-30T07:59:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/</loc>
     <lastmod>2020-07-30T07:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -675,6 +681,12 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-29T18:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.medindia.net/health-press-release/Greenway-Health-Works-with-AWS-to-Further-Meet-Needs-of-Ambulatory-Care-Providers-in-a-Post-COVID-Healthcare-Environment--479970-1.htm</loc>
+    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -908,6 +920,12 @@
   </url>
   <url>
     <loc>https://lifehacker.com/im-ibm-watson-product-manager-anamita-guha-and-this-is-1821920759</loc>
+    <lastmod>2020-07-28T17:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.mddionline.com/imaging/medical-imaging-powered-ibm</loc>
     <lastmod>2020-07-28T17:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1279,14 +1297,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html</loc>
-    <lastmod>2020-07-27T05:44:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
+    <lastmod>2020-07-27T05:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
-    <lastmod>2020-07-27T05:15:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html</loc>
+    <lastmod>2020-07-27T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1387,12 +1405,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cmo.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
-    <lastmod>2020-07-26T10:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/</loc>
     <lastmod>2020-07-26T10:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1407,6 +1419,12 @@
   <url>
     <loc>https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/</loc>
     <lastmod>2020-07-26T05:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <lastmod>2020-07-26T01:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

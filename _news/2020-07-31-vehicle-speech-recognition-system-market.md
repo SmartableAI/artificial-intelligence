@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2101008/vehicle-speech-recognition-system
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2101008/vehicle-speech-recognition-system-market-economic-forecasting"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: openpr.com
@@ -26,6 +26,34 @@ images:
     isCached: true
 
 related:
+  - title: "Vehicle Speech Recognition System Market Analysis, Trends and CAGR Projections 2020-2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-08-04T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-analysis-trends-and-cagr-projections-2020-2026-2020-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-08-04T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-embedded-digital-instrument-cluster-market-by-development-trends-investigation-2020-and-forecast-to-2026-2020-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Speech Recognition Market Expected to Reach $29.28 Billion by 2026"
     excerpt: "Speech recognition is especially designed for an interdisciplinary subfield of computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers."
     publishedDateTime: 2020-08-03T23:54:00Z

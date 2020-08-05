@@ -166,6 +166,20 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
+    excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
+    publishedDateTime: 2020-08-04T21:22:00Z
+    webUrl: "https://www.wbur.org/npr/892433132/judge-facebooks-550-million-settlement-in-facial-recognition-case-is-not-enough"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 33
+    images:
+      - url: "http://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_custom-5e9fe2a47411735dff5e83b81a47ec43feee537f.jpg?s=6"
+        width: 948
+        height: 631
+        isCached: true
   - title: "trinamiX Beam Profile Analysis Works Where Facial Recognition Fails Due to Face Protection Masks"
     excerpt: "Palatinate, Germany, 2020/08/03 - trinamiX announced its acclaimed Beam Profile Analysis technology can help existing facial recognition systems to recognize an owner and unlock their device, even while wearing a protective mask to prevent the spread of COVID-19 - trinamiXsensing."
     publishedDateTime: 2020-08-03T20:42:00Z

@@ -56,6 +56,34 @@ related:
         width: 1000
         height: 414
         isCached: true
+  - title: "Safely deploying and monitoring Amazon SageMaker endpoints with AWS CodePipeline and AWS CodeDeploy"
+    excerpt: "As machine learning (ML) applications become more popular, customers are looking to streamline the process for developing, deploying, and continuously improving models. To reliably increase the frequency and quality of this cycle, customers are turning to ML operations (MLOps), which is the discipline"
+    publishedDateTime: 2020-08-04T23:06:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/safely-deploying-and-monitoring-amazon-sagemaker-endpoints-with-aws-codepipeline-and-aws-codedeploy/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/30/deploy-monitor-sagemaker-endpoints-5-2.jpg"
+        width: 800
+        height: 427
+        isCached: true
+  - title: "Deploying your own data processing code in an Amazon SageMaker Autopilot inference pipeline"
+    excerpt: "The machine learning (ML) model-building process requires data scientists to manually prepare data features, select an appropriate algorithm, and optimize its model parameters. It involves a lot of effort and expertise. Amazon SageMaker Autopilot removes the heavy lifting required by this ML process."
+    publishedDateTime: 2020-08-04T22:17:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-your-own-data-processing-code-in-an-amazon-sagemaker-autopilot-inference-pipeline/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 79
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/03/sagemaker-autopilot-inference-pipeline-1-1.jpg"
+        width: 747
+        height: 319
+        isCached: true
 
 secured: "vFTDSngej2EoLex5w7NJKRPU5zRBF/1DHgNCGra/0/iVufpsBkUoYZgNIusWyHvjqV0MvURxJOE8Ds3K5uGsQE1lNglYfpLxvixkUA/SDfT+NcYp8H6JovimM5d5UdZDfvzu6lknolYRKN/Etz1xWG8fKDbvoHDUNd79YEt8Q73lV3U8H5Ss3pRtdrcwU9rxmKuq3hMWVdUOqg8bttKNMVIZ0WERN/sqKIbwKQmZLPWf3USuI0ObhrQKxihs79a4vbr36TZXzwVQeRD8TfJ9O3PNfD38KD54otYwqaGl7/xRK8ABXXLkN+TaxZFA9f5x4d+knJCnBNeKNygVwiUA2g==;xoYljLhU58/+bgg3pWG9zA=="
 ---

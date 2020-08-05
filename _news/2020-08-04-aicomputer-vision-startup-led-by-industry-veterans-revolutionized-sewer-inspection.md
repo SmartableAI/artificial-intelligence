@@ -5,8 +5,8 @@ excerpt: "SAN FRANCISCO, Aug. 4, 2020 /PRNewswire/ -- SewerAI, a startup that us
 publishedDateTime: 2020-08-04T20:29:00Z
 webUrl: "https://www.prnewswire.com/news-releases/aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-301106068.html"
 type: article
-quality: 31
-heat: 31
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://mma.prnewswire.com/media/1223949/SewerAI_Corporation_Logo.jpg?p=facebook"

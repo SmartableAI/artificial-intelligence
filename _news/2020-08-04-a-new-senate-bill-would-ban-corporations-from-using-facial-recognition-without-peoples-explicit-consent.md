@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Merkley, Sanders introduce bill limiting corporate facial recognition"
+    excerpt: "Sens. Jeff Merkley (D-Ore.) and Bernie Sanders (I-Vt.) introduced legislation Tuesday aimed at limiting the corporate use of facial recognition technology."
+    publishedDateTime: 2020-08-04T22:51:00Z
+    webUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/merkleyjeff_071119gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Facial recognition, thermal imaging part of future with coronavirus"
     excerpt: "The coronavirus pandemic has inspired a new wave of technology , including thermal imaging and facial recognition software that can detect fevers among employees, a common symptom of the virus. PopEntry+ combines instant facial recognition and temperature screening that can connect to employees’ mobile devices,"
     publishedDateTime: 2020-08-02T06:00:00Z
@@ -107,6 +123,6 @@ related:
         height: 800
         isCached: true
 
-secured: "kuIsxoCXyVQ5H5KNO4q+dub45OJb1bH7Vp6sKZGUuZGQoGZ36Y5Xuwl7gKExxRX8HLxPa9A9qXwSb+Db0MDtvcwpfM/agjaRaTziZkssK/hbtfUzsARTY6ZwaLXLH2UzobfD+3+FYGTQQUyiM9hcJwH8DiyXFFel4lC+qNpgAsaFxwJ2YU9DDFyTuwilXKrjP89xmMljLx8DWF4Y06cSMtFRGkozZR+pd/33zJoRbd3VqO+E3aNSbji6cKfp27jGNJRywrNpLtR3ittWH5hwdC+/Xfeu262GpCGDj4gVHdoc9M/AYqmYTX02JsMF9aRsw0i+gOMN6xxrTn4XzTKyZg==;5Ds1GHqDXySdzc3P/jfHvQ=="
+secured: "zq2IhfgjRpj89sHQ2vqmD4w4GwzfOWE30KlpMJFUihYtyx4AMrvRuhpMCHozWDT7AAOCMIPGE0krzVHCoBsm6RAzY17wjaUUST1dmRb85/1RmtKJV5UuEYmH3DgV/MhPx1zgYS2REAYuDeWe5Mq/Apit5tTyw00R5OatsbN7orjP0cY5yDt9jNgBGcS9hwofUswiJDGl6eZD9Bq1VdYOOTd32985dboWckNKH5A7OwWPScfVaXngM9tTfw5hihLeeGBA54BKpB6aQee4ms0gpXMu0y/HtZCIWSOXw4NPnjXph4CDAq4YRd2XplwuBGGZ0/nG2+uXeoCIePcEK58OykCF0ZSiCAFnQLrWL6qB/EOjzOrHCY4NCKizmMAFnvdQ+GkS62pYtsDsTLkoVvRtoK7vqctYioG2QOEMnk3yWCDG3KSVGlUsgDBGyWuEhLJwfrYMrUJLzq9s2tK4uL+wqDXNDVaiWW+8xeIVUcKe9pC/aFqJ9+nTN3PZZ3MAM9ty;u7GXRT3KEdkh+xr1oYCzfA=="
 ---
 
