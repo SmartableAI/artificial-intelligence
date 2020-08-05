@@ -2,6 +2,105 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-01-facial-recognitions-next-big-play-the-sports-stadium.md",
+      "title": "Facial Recognition’s Next Big Play: the Sports Stadium",
+      "excerpt": "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-213850/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400",
+      "publishedDateTime": "2020-08-01T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-myth-busting-ai-wont-work.md",
+      "title": "Myth-busting AI won’t work",
+      "excerpt": "Myths, including myths about AI, arise in response to the unknown. Debunking myths about AI won’t create knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/myth-busting-ai-wont-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/08/01/79dd38d2-7072-4e11-a8b7-2755479c63c4/ai-hype-machine-july-2020.jpg",
+          "width": 4420,
+          "height": 3890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/myth-busting-ai-wont-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/myth-busting-ai-wont-work/",
+      "publishedDateTime": "2020-08-01T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-amazons-zoox-acquisition-is-lidar-next.md",
       "title": "Amazon’s Zoox Acquisition– Is LiDAR Next?",
       "excerpt": "Amazon and Apple have interests that go way beyond Autonomous Vehicles and have the resources to buy up large LiDAR companies or LUnicorns. They both have significant applications for LiDAR. The competition for good LiDAR companies will intensify over the next 6 months.",
@@ -1356,97 +1455,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-covid-19-impacts-deep-learning-market-will-accelerate-at-a-cagr-of-almost-45-through-2020-2024-growing-application-of-deep-learning-to-boost.md",
-      "title": "COVID-19 Impacts: Deep Learning Market Will Accelerate at a CAGR of almost 45% through 2020-2024 | Growing Application of Deep Learning to Boost Growth | Technavio",
-      "excerpt": "Technavio has been monitoring the deep learning market and it is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200730005779/en/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200730005779/en/809410/23/IRTNTR41147.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-why-companies-need-their-own-ai-code-of-conduct.md",
-      "title": "Why Companies Need Their Own AI Code Of Conduct",
-      "excerpt": "If companies are smart, they will craft their AI Principles and Ethics position soon and be ready for the demands the market and their customers will expect from them in the age of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2306d76e417b23d437a002%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/",
-      "publishedDateTime": "2020-07-30T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

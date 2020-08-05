@@ -45,6 +45,17 @@ related:
         width: 440
         height: 440
         isCached: true
+  - title: "Regulatory Concerns For US Cos.' Offshore Service Centers"
+    excerpt: "Indeed, enterprises are leveraging emerging technologies such as cloud computing, artificial intelligence/machine learning, internet of things ... Traditionally, information technology and business-process services were readily outsourced to third parties."
+    publishedDateTime: 2020-08-04T21:11:00Z
+    webUrl: "https://www.law360.com/tax-authority/articles/1297068/regulatory-concerns-for-us-cos-offshore-service-centers"
+    ampWebUrl: "https://www.law360.com/tax-authority/amp/articles/1297068"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/tax-authority/amp/articles/1297068"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "QLTyEKR+w289vvC0QHQouBUyxKhAto3FmcD71ex7L+2xy+Rv5gxlXw2GvjytKkMmHdusNbHIfnkna5zLqMVh/XS6UxEjWPSLQX3z0kb/giubHRuGYElDmdofqnfhKJh5nLeEMOvXJ8jykax2E55vvWSg+i1Qego8Wxu73MelwMC70EvTjp99ZAqU7wb4YZUiAbzbJZ3XDH7JOe6yGSrK+5PmnV9GpbIEsY5bD5gczSZ6ffGUGCCY3Baaz3SWtapbWN/LTjaQ44S3YVqD8M7Vm+N9yxqWCiW+up+3AFo2r4mJcqmMODiotXCejsfq6M1mCJ1HfaZmlLNP38Gx5nY0lg==;LTVCC9iUwTY45PRG8fCJbQ=="
 ---

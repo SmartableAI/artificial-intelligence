@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Engineer who took Google's self-driving secrets to Uber sentenced to 18 months"
+    excerpt: "Former Uber engineer Anthony Levandowski has been sentenced to 18 months' imprisonment after pleading guilty to stealing trade secrets from Waymo, Google's self-driving car division. He's also agreed to pay over $756,"
+    publishedDateTime: 2020-08-05T03:52:00Z
+    webUrl: "https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft/"
+    ampWebUrl: "https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 70
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F08%252F05%252F80%252Fe75d84b0e1424ab0bb2e0b0c12976850.22a44.jpg%252F1200x630.jpg?signature=O6lAeS97SgMLbXz0vsFrfRDhn1Q="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files"
     excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber's rival unit. Levandowski's conviction is one ..."
     publishedDateTime: 2020-08-05T01:16:00Z
@@ -87,6 +103,36 @@ related:
       - url: "https://s.hdnux.com/photos/61/45/21/12997715/17/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
+    excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking document from Google related to its self-driving car program."
+    publishedDateTime: 2020-08-05T05:48:00Z
+    webUrl: "https://cnnphilippines.com/world/2020/8/5/uber-anthony-levandowski-sentenced.html"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 24
+    images:
+      - url: "http://cnnphilippines.com/.imaging/mte/demo-cnn-new/750x450/dam/cnn/2020/8/5/Anthony-Levandowski_CNNPH.jpg/jcr:content/Anthony-Levandowski_CNNPH.jpg"
+        width: 750
+        height: 450
+        isCached: true
+  - title: "Former Google engineer Anthony Levandowski is sentenced to 18 months in prison for stealing internet giant's self-driving car files before heading up Uber's rival unit"
+    excerpt: "U.S. District Judge William Alsup said a sentence short of imprisonment would have given 'a green light to every future brilliant engineer to steal trade secrets'."
+    publishedDateTime: 2020-08-05T00:00:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8593831/Anthony-Levandowski-gets-18-months-prison-stealing-Google-self-driving-car-files.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8593831/amp/Anthony-Levandowski-gets-18-months-prison-stealing-Google-self-driving-car-files.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8593831/amp/Anthony-Levandowski-gets-18-months-prison-stealing-Google-self-driving-car-files.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/08/05/06/31581670-0-image-a-11_1596605355635.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "nbn6NDyj5vabVgJKv9sGHeKXj5wnh5JeTzDZAEDcJ66KJ44VdP/RxoBwM4f3hgZ8hOmAHvf3ef+ScZK4Y2Vwd3THPQWyhcnS5rA51imicuzPYSNrqNglTe7FddycC8iYZ+IC8yNzT1KoMuA95ih3qIa4s4qpjycFy6PWtMsehK3RU547p3rDweOs4qsLqq7gDghPFnOFyXM/AnIIpeuhdLWdsLxYUU5M1fpLMMvCA5Pg24ooV6tB6AsrtJeRp7ZgIvEFdK8CBNAooGjTiDel1BRAcCrJTuaSvU4GHUSfDVk3FFxwuwocY7sx0zGYWFl6B8UDmyyJFnpzVDUaQdBNQdJUtC/WzZB3iFokLk+LEO7VYaYmwclwMUdEU+gqFxA6bcrNheWmPixBtj8j6fpVSGcyqeVMsUAKlhm5ZODLfII9MV2KnYpFyiDhTZdR+iTkyMYokpjkUhGf5KZ8Wh6K1rHCZ8tUihsDQezZIIzzyfxfhpvPQME6tNRtk13G31UJImPD2Os8lfU+knBZOglRAw==;9JQDoQLnF175fiDUs+ZJ+g=="

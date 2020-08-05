@@ -2,6 +2,55 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-04-why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky.md",
+      "title": "Why Airlines Should Use AI To Unlock An Amazon In The Sky",
+      "excerpt": "If airlines adopt this technology, storing the data within it becomes easy. Once they have stored that data, applying AI becomes much easier. This technology is what, if adopted successfully, could create an Amazon in the sky. It’s an exciting step and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f293b181b7a56184909fa0d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3072%26cropY1%3D159%26cropY2%3D1887",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/amp/",
+      "publishedDateTime": "2020-08-04T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions.md",
       "title": "LTTS expands collaboration with Microsoft to offer workplace transformation solutions",
       "excerpt": "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms,",
@@ -1120,55 +1169,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success.md",
-      "title": "3 Important Ways Artificial Intelligence Will Transform Your Business And Turbocharge Success",
-      "excerpt": "Artificial Intelligence (AI) is likely to be the most powerful technology humans have ever had access to. Here we look at the three main ways AI can be used in businesses to deliver success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f278facccb6d3d3cc3c63b1%2F0x0.jpg",
-          "width": 1200,
-          "height": 728,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/amp/",
-      "publishedDateTime": "2020-08-02T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

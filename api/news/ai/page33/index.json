@@ -2,6 +2,78 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-07-06-myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts.md",
+      "title": "Myriad Partners OptraHEALTH For AI-Based Information Tool Gene - Quick Facts",
+      "excerpt": "Molecular diagnostics company Myriad Genetics, Inc. (MYGN) announced Monday a new collaboration with AI platform OptraHEALTH to implement a cognitive ChatBOT named Gene to provide pre-test genetic and financial assistance information to prospective patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp",
+      "publishedDateTime": "2020-07-06T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis.md",
+      "title": "Sentieo Drives Improved Sector Investment and Competitive Strategies With New Machine Learning-Driven Analysis",
+      "excerpt": "This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,” said Naman Shah, Co-Founder & President, Sentieo. “Using our leading deep learning models,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change.md",
       "title": "Neural Network Software Market Report (2020 to 2025) – COVID-19 Growth and Change",
       "excerpt": "The Neural Network Software Market is expected to exceed more than US$ 22.55 Billion by 2024 at a CAGR of 33.2% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry.",
@@ -1326,89 +1398,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-industry-analysis-and-forecasts-to-2025.md",
-      "title": "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020 | Industry Analysis and Forecasts to 2025",
-      "excerpt": "13.10.4 Apixio (San Mateo) Revenue in Natural Language Processing (NLP) in Healthcare and Life Sciences Business (2015-2020)",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16504272/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-industry-analy",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16504272",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16504272",
-      "publishedDateTime": "2020-07-03T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-study-only-18-of-data-scientists-are-learning-about-ai-ethics.md",
-      "title": "Study: Only 18% of data scientists are learning about AI ethics",
-      "excerpt": "A study by data science firm Anaconda found a \"concerning\" absence of AI ethics initiatives in both academia and industry.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-94-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Study: Only 18% of data scientists are learning about AI ethics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "publishedDateTime": "2020-07-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

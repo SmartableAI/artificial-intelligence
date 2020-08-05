@@ -2,43 +2,34 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-05-anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files.md",
-      "title": "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files",
-      "excerpt": "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber's rival unit. Levandowski's conviction is one ...",
+      "path": "_news/2020-08-05-engineer-who-took-googles-self-driving-secrets-to-uber-sentenced-to-18-months.md",
+      "title": "Engineer who took Google's self-driving secrets to Uber sentenced to 18 months",
+      "excerpt": "Former Uber engineer Anthony Levandowski has been sentenced to 18 months' imprisonment after pleading guilty to stealing trade secrets from Waymo, Google's self-driving car division. He's also agreed to pay over $756,",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/08/04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files.html",
+      "webUrl": "https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 106,
+      "heat": 140,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/106648265-1596584130509-UBER-LEVANDOWSKI.JPG?v=1596584247",
-          "width": 4393,
-          "height": 2928,
+          "url": "https://mondrian.mashable.com/2020%252F08%252F05%252F80%252Fe75d84b0e1424ab0bb2e0b0c12976850.22a44.jpg%252F1200x630.jpg?signature=O6lAeS97SgMLbXz0vsFrfRDhn1Q=",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/08/04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files.html",
-      "publishedDateTime": "2020-08-04T18:16:00-07:00",
+      "ampWebUrl": "https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft.amp",
+      "publishedDateTime": "2020-08-04T20:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -190,6 +181,47 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-deepfakes-ranked-as-the-most-serious-ai-crime-threat.md",
+      "title": "'Deepfakes' ranked as the most serious AI crime threat",
+      "excerpt": "London: Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence (AI ... These are using driverless vehicles as weapons, crafting more tailored phishing messages (spear phishing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_17573035/thumb.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca",
+      "publishedDateTime": "2020-08-04T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1124,55 +1156,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky.md",
-      "title": "Why Airlines Should Use AI To Unlock An Amazon In The Sky",
-      "excerpt": "If airlines adopt this technology, storing the data within it becomes easy. Once they have stored that data, applying AI becomes much easier. This technology is what, if adopted successfully, could create an Amazon in the sky. It’s an exciting step and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f293b181b7a56184909fa0d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3072%26cropY1%3D159%26cropY2%3D1887",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveking/2020/08/04/why-airlines-should-use-ai-to-unlock-an-amazon-in-the-sky/amp/",
-      "publishedDateTime": "2020-08-04T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

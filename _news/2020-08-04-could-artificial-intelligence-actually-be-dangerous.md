@@ -5,8 +5,8 @@ excerpt: "There are many dangers in this world. Could artificial intelligence ac
 publishedDateTime: 2020-08-04T19:05:00Z
 webUrl: "https://www.edmchicago.com/could-artificial-intelligence-actually-be-dangerous/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.edmchicago.com/wp-content/uploads/2020/08/Artificial-Intelligence.jpg"

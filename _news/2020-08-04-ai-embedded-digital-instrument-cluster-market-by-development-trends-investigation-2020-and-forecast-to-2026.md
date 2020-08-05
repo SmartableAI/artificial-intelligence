@@ -106,14 +106,16 @@ related:
       domain: financial-news.co.uk
     quality: 33
   - title: "Global Automotive Voice Recognition System Markets to 2025 - Cloud-based VR Systems Expected to Be the Market Leader"
-    excerpt: "The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8%,"
-    publishedDateTime: 2020-08-04T11:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-the-market-leader-1029466115"
+    excerpt: "Dublin, Aug. 04, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Automotive Voice Recognition System Market is ..."
+    publishedDateTime: 2020-08-04T11:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/g16915910/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-t"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16915910"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16915910"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "u9N7cvA8fqpJgZLHebRiso+DpdQxEo0ECEywg9AP+VEv5fZJrbe/xLJCY8B0dxxydfKCjfpgQ60IpR4G5JNOWGCp+dR0lLFsK7N90enMFmjwAt2Cs9Vwa4wrnQ+Q0tsL1fUQ5fmoHegDkQk/QVJJqVzBrZcHSWihVpRb7K90f7ezXIEpZTqrwD/RSRJlEVTFbGJhK59Huva54jat2fo+Z36cqtn9k7SzvPWDh/F67NvxgbU+6qRrLzZblqqiKit3+rjjOn58oCoe2XlKjBH1eW1NOjI7JPVzOuY53ioLA7QMvYjKbdNfew9J1E3GRTt9aOyXwmcKwZdOhi5h0lfGzw==;AxQ901ZHAEEPt5oz62GQgg=="
 ---
