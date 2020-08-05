@@ -48,6 +48,20 @@ related:
         width: 560
         height: 315
         isCached: true
+  - title: "Global Edge AI Chips Market 2020 by Key Players, Regions, Type and Application, Forecast to 2025"
+    excerpt: "Global Edge AI Chips Market Growth 2020-2025 determines the views and opinions expressed by the consumers. The report gives the estimation of the trends, which are based on the present, future market analysis."
+    publishedDateTime: 2020-08-04T22:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025-2020-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
     excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
     publishedDateTime: 2020-08-04T09:09:00Z
@@ -88,16 +102,14 @@ related:
         height: 630
         isCached: true
   - title: "Global Automotive Voice Recognition System Markets to 2025 - Cloud-based VR Systems Expected to Be the Market Leader"
-    excerpt: "Dublin, Aug. 04, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Automotive Voice Recognition System Market is ..."
-    publishedDateTime: 2020-08-04T11:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/g16915910/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16915910"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16915910"
+    excerpt: "The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8%,"
+    publishedDateTime: 2020-08-04T11:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-the-market-leader-1029466115"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 11
 
 secured: "awC+xVsaHMmx4KAOCjR9BXgkxMg7H2fA1ZCm0QLxV1tYHDegY083qC6gaRzmEP5kcDmzjfZdrQEm46NtCzqjKXzx3Njybpf6NczvRsKEfPkb9xzMfB0oUccQYTLkAVhzcS0eHGbirzMsdL+/LjblVAKoZ2yQl+cRcB2Lf0Ff3hJkQgrjaUvfxNjVvjYKBloNVtOUWHyjPHwWfvk5uX0e95lRLldHWaUsSxwszHGuRjSlS6PKQmJyfv7YVCeLR/p58DGdP9yO/uEWiBl5eTbwFaCG0fAYoOmgrqjqu+sAovO1ALpJi8tmG8cIggifd0kSOjEFqRk/bdiPAUPWPTS8DA==;MsTR2uCiD81LPLCCtw+18Q=="
 ---

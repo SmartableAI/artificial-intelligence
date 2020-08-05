@@ -89,6 +89,15 @@ related:
       name: Governing
       domain: governing.com
     quality: 54
+  - title: "Portland Votes to Ban Facial Recognition Ahead of Referendum"
+    excerpt: "The ordinance will take effect in 30 days. Danielle West-Chuhta, the city’s top attorney, said that if voters approve the referendum in November to ban facial recognition it would replace the ordinance passed by the city council and can not be touched ..."
+    publishedDateTime: 2020-08-05T00:32:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-08-04/portland-votes-to-ban-facial-recognition-ahead-of-referendum"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Face Masks Confuse Facial Recognition Technology"
     excerpt: "Americans can't agree on whether face masks are a good way to reduce the threat of transmitting COVID-19. We've even turned mask-donning into a symbol of partisan affiliation; those who would make them compulsory everywhere face off against those who refuse them under all circumstances."
     publishedDateTime: 2020-08-03T16:41:00Z

@@ -51,19 +51,23 @@ related:
         height: 275
         isCached: true
   - title: "Nokia to set up robotics lab at IISc for 5G research"
-    excerpt: "The Nokia Centre of Excellence (CoE) for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI ... between academia, start-ups and industry ecosystem partners ..."
-    publishedDateTime: 2020-08-04T13:25:00Z
-    webUrl: "https://www.sify.com/finance/nokia-to-set-up-robotics-lab-at-iisc-for-5g-research-news-topnews-uienrkfbehjgd.html"
+    excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
+    publishedDateTime: 2020-08-04T13:58:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200804/3603981.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
+  - title: "Nokia to set up robotics lab at IISc for 5G research"
+    excerpt: "for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop use cases across areas like emergency management, agriculture and industrial automation ..."
+    publishedDateTime: 2020-08-05T00:15:00Z
+    webUrl: "https://www.sify.com/news/nokia-to-set-up-robotics-lab-at-iisc-for-5g-research-news-education-uien6hjcabiaf.html"
     type: article
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 54
-    images:
-      - url: "https://www.sify.com/uploads/nokia_uh5mGWedhbgef.jpeg"
-        width: 800
-        height: 533
-        isCached: true
+    quality: 34
   - title: "Nokia to Set-up Robotics Lab at IISc, Fellowships to be Offered to Select Students"
     excerpt: "The CoE will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop socially relevant use cases across areas like emergency management, agriculture and industrial automation."
     publishedDateTime: 2020-08-04T07:34:00Z

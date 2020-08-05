@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Apple hit with $1.43B Siri patent lawsuit from Chinese AI firm"
-excerpt: "A Chinese AI firm is suing Apple for alleged patent infringement involving the voice assistant Siri. Shanghai Zhizhen — also known as Xiao — is seeking $1.43 billion (10 billion yuan ..."
-publishedDateTime: 2020-08-04T11:12:00Z
-webUrl: "https://thenextweb.com/neural/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/"
-ampWebUrl: "https://thenextweb.com/neural/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
+excerpt: "A Chinese AI firm is suing Apple for alleged patent infringement involving the voice assistant Siri. Shanghai Zhizhen — also known as Xiao — is seeking $1.43 billion (10 billi"
+publishedDateTime: 2020-08-04T10:54:00Z
+webUrl: "https://thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/"
+ampWebUrl: "https://thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
 type: article
 quality: 87
 heat: -1
@@ -200,6 +200,6 @@ related:
         height: 697
         isCached: true
 
-secured: "mAHlqP6KiAQRQDgbpqeLnyKhP+sAXRe/ci0Z91lNgwYnO0RNpccGXoq8LfYEsAuY2uRjvou+Yem1Hk/bmiYjcGPTpG5G9yo/gZxGGxrresMXmbxZ8Yp5QMxbpFpdr9Zu+Pk38Xn0mqll44tasaQbjpQTpPgf7wux+D7FBE8T4Gj/rEpZEiLArmbpap9mDnSiKXMzLm7x9uUj50zTJASLP2v7MxtebXTOnjWhcBMzCs87OP/B2ms+KJc2lIRzN5gmcqFNJnqQE7DPHTDQieft/55bPWrwnoBMAORqXRA76QSRGSwvWQ3ybgPftNGAMcupBhGccx0AG9SeyPKwXar3sOY/t4EBKbKeTzG9jRhiBZJBk8Qm4IBRdaUpiBiumhFEeVh18/fqoA8fSs1GgddkzNhjZaM3py3ZkdDogmXJUurtPRf6CpKR/AS7fDaSiNZXrFShMmka7qG557LImfXYC+/4K1eLFEoU17rd4uPONdDn6VpU/QyVRAt29MqoLyou;TabJeoR/sWvJq0NWllaCig=="
+secured: "k2LK+wyzYTCjxBS6tJQEaFORVDjPgIV1iIqiNTS1tTxyG73zwNy5awCJQVcRVswHfvbUN3H5yAqq5Wg+/5y29caTrMdYUvG0J/JQ79EwwZcbla6H5Vy41jiyC8BuhK+eRhTy8PXGjmkjTaQpaZVkLeW52PsDOMPkoeKYD/AfLtVgJA6DJnJTnBgTej7intu8x1YCwVbGzQbTBxCgqL7UEzeDh4lH1TcsTkhYbqn72s6BcBwiJGErlY60R6ttqOWmQsDl639n/HrGcD9V9+O9tl13FgpOESfwgK9PlMlf9knvmwAbQZAJUx+zLFcSFe922ZXwlE4foZInPcAA35L/Dw==;mOle9wedhVcDeuaONpDhjw=="
 ---
 

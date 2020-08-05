@@ -95,6 +95,15 @@ related:
       name: Governing
       domain: governing.com
     quality: 54
+  - title: "Portland Votes to Ban Facial Recognition Ahead of Referendum"
+    excerpt: "The ordinance will take effect in 30 days. Danielle West-Chuhta, the city’s top attorney, said that if voters approve the referendum in November to ban facial recognition it would replace the ordinance passed by the city council and can not be touched ..."
+    publishedDateTime: 2020-08-05T00:32:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-08-04/portland-votes-to-ban-facial-recognition-ahead-of-referendum"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "NY lawmakers vote to pause facial recognition in schools"
     excerpt: "In this July 10, 2018  a camera with facial recognition capabilities hangs from a wall during installation at Lockport High School in Lockport, N.Y. The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
     publishedDateTime: 2020-08-03T13:35:00Z

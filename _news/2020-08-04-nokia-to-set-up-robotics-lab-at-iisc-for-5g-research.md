@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Nokia to set up robotics lab at IISc for 5G research"
-excerpt: "The Nokia Centre of Excellence (CoE) for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI ... between academia, start-ups and industry ecosystem partners ..."
-publishedDateTime: 2020-08-04T13:25:00Z
-webUrl: "https://www.sify.com/finance/nokia-to-set-up-robotics-lab-at-iisc-for-5g-research-news-topnews-uienrkfbehjgd.html"
+excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
+publishedDateTime: 2020-08-04T13:58:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200804/3603981.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.sify.com/uploads/nokia_uh5mGWedhbgef.jpeg"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "Nokia to set up robotics lab at Indian Institute of Science"
@@ -56,6 +50,15 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Nokia to set up robotics lab at IISc for 5G research"
+    excerpt: "for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop use cases across areas like emergency management, agriculture and industrial automation ..."
+    publishedDateTime: 2020-08-05T00:15:00Z
+    webUrl: "https://www.sify.com/news/nokia-to-set-up-robotics-lab-at-iisc-for-5g-research-news-education-uien6hjcabiaf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 34
   - title: "Nokia to Set-up Robotics Lab at IISc, Fellowships to be Offered to Select Students"
     excerpt: "The CoE will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop socially relevant use cases across areas like emergency management, agriculture and industrial automation."
     publishedDateTime: 2020-08-04T07:34:00Z
@@ -75,6 +78,6 @@ related:
       domain: dqindia.com
     quality: 19
 
-secured: "rA+0djzdLLbnfYbHIwdcNg4JjgUcSmZ8MWA747YQlU5n8762QHaGNSJfaWMFilnPrwQmluv+3PFnyLAus3ofk7WqUBBYODeTi7w0x0pMisDrXr1+4Vtr68DkVQQyeOMgyDdPepc9FahVdYEJS2mK6RoT9/4GuxH5nRw0pR8OCwytdJ2YqLgtN8h3c9p4mAZNJCYyYqTrVyWeTEnUNxHb8dkv9z686nnW73lylNvEP/Za6bN4Zlre2dKbkpaaCcvIelR0GcmLYX5VrgIBqsho76LH3nMf0LMKBGAYTjkG/OqiPAOLx6MhrGbW+T4rilPzyq92Qo7hcVmzkS4r+hfI1DaGrMcrsunSjWV3fwILyBxJ9ty0/2pZ7wpjZlc/gugBGkHO9fcRQaNqTavz65ZlY3WzR5JvQKYEPY8ZW5nRjD3eWFUfz0WPh8mOwlzoNugR67EfDu+mx7C9uFf73i810BRamdU9fQN+7H27PDIIwCuRbUAMihCy8AtrwTqigUI7JHZCt0bh2AmAPvV/TJ0DOw==;dqf3qwIoSJbB828vRj2veg=="
+secured: "5sWC43fEmYPxvVKVT+UlZS+qYWw258eiE6pPw+AjRpZTQfAQtotwZ1gVb8Qb3LBfkfe5cninqRJjukCRInWzUE0kY2x28xsNhuQfmzP1hSrAVqNePpEQc0TAQFay5t+1S37iHcPKoSF5/qmMG6KA6tIFygf38poWsfw6elOvTbPSpmou4BCztLBLIwOD8EafSfK/zQIUgjlhw/5Kovi7b4t1odmosdYUwjTF6Ll526ecdSJIBkZ1FgJuxGzi5pAnSfZx/Cr+pDXO0PnsvJSj9c9HPc5C1ziDsSlxOs6rbyAn5QHzu3Qb0B8GD/Lq8Z4yb4rg3LoPaCuT9ZHCUOv+Sg==;dZz/R1rr7tBd2c96rrLrdw=="
 ---
 

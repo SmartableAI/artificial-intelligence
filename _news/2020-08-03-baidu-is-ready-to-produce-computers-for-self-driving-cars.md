@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ex-Google self-driving car chief sentenced for stealing trade secrets"
+    excerpt: "Anthony Levandowski, co-founder of Google’s self-driving car project, has been sentenced to 18 months in prison for stealing trade secrets and allegedly using them to help build a rival driverless programme at Uber,"
+    publishedDateTime: 2020-08-05T01:09:00Z
+    webUrl: "https://www.ft.com/content/496c76bf-2d26-4a54-ab3b-934fe019a576"
+    ampWebUrl: "https://amp.ft.com/content/496c76bf-2d26-4a54-ab3b-934fe019a576"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/496c76bf-2d26-4a54-ab3b-934fe019a576"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F24336686-85a3-4f00-9427-ef5e2cd965da.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Self-Driving Car Maker Sentenced to Prison For Stealing Trade Secrets From Google"
     excerpt: "(AP Photo/Tony Avelar) (CN) — Anthony Levandowski, a pioneer in self-driving car technology, was sentenced to 18 months in federal prison for swiping upwards of 14,000 proprietary documents from his former employer Google before he left to start his own ..."
     publishedDateTime: 2020-08-04T23:50:00Z
@@ -101,6 +117,22 @@ related:
       - url: "https://www.thenational.ae/image/policy:1.1057978:1596379615/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ex-Google engineer sentenced to 18 months in prison for stealing self-driving car files"
+    excerpt: "Anthony Levandowski, a former Uber executive, was sentenced to 18-months in prison on Tuesday after pleading guilty to stealing proprietary self-driving car technology from Google, which he had ..."
+    publishedDateTime: 2020-08-05T00:34:00Z
+    webUrl: "https://thehill.com/policy/technology/510595-ex-google-uber-engineer-sentenced-to-18-months-in-prison-for-stealing-self"
+    ampWebUrl: "https://thehill.com/policy/technology/510595-ex-google-uber-engineer-sentenced-to-18-months-in-prison-for-stealing-self?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/510595-ex-google-uber-engineer-sentenced-to-18-months-in-prison-for-stealing-self?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 36
+    images:
+      - url: "https://thehill.com/sites/default/files/google_021719getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Project preps traffic for self-driving cars, more"
     excerpt: "The advanced traffic engineering lab will be located in Holmes Hall. A University of Hawaiʻi at Mānoa College of Engineering pilot project is expected to greatly improve traffic flow through a critical Honolulu corridor, while giving students hands-on ..."

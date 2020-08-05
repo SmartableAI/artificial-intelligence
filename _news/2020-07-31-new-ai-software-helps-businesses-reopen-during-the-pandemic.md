@@ -22,6 +22,17 @@ images:
     height: 660
     isCached: true
 
+related:
+  - title: "AI software startup Boodskapper expands amid the pandemic"
+    excerpt: "Amid the pandemic, a local startup has been busy, growing its client network to help families seeking affordable housing. Dallas-based BoodsKapper, an AI software solutions provider for housing authorities, has landed four new clients, co-founder and CEO ..."
+    publishedDateTime: 2020-08-05T00:19:00Z
+    webUrl: "https://www.bizjournals.com/dallas/inno/stories/news/2020/08/04/dallas-ai-software-startup-expands-during-pandemic.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+
 secured: "5yJ2bbc7hZxiKNUxkD2H5egcydVLWvjUenQRXPG6p3O7TF6NOnv1O4WY45U91Xnn1hE6+ewWcx0E6vlCtz/f2VVwf80vZi1dgxxcpJJP+iCHeRzNHQjvrKhHo1gtpwjlBk1AHdfaLYm+NRo7HeRYjFZbrfZbRsPmpjE6Sup0xYM4ijx7/7RDR6/A1LwEQeNccE3n1BGDhHft4hKr4ean88Do8BKOhRWCedA2VDmaj8iNW/LAFHfRdGDbjiabbYqospv/C/mY3VPGr8/zDbDgO2K1YgsiJvkYKHPZW56qlgchQEnkvAXXztsrgdlfn7LPVfxVvEKW9CQFsviF7Ldi4A==;I+DVNiEwDn0PLp/jue1XXw=="
 ---
 

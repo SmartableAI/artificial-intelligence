@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ex-Google self-driving car chief sentenced for stealing trade secrets"
+    excerpt: "Anthony Levandowski, co-founder of Google’s self-driving car project, has been sentenced to 18 months in prison for stealing trade secrets and allegedly using them to help build a rival driverless programme at Uber,"
+    publishedDateTime: 2020-08-05T01:09:00Z
+    webUrl: "https://www.ft.com/content/496c76bf-2d26-4a54-ab3b-934fe019a576"
+    ampWebUrl: "https://amp.ft.com/content/496c76bf-2d26-4a54-ab3b-934fe019a576"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/496c76bf-2d26-4a54-ab3b-934fe019a576"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F24336686-85a3-4f00-9427-ef5e2cd965da.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Baidu is ready to produce computers for self-driving cars"
     excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
     publishedDateTime: 2020-08-03T14:20:00Z
@@ -115,6 +131,22 @@ related:
       - url: "https://www.thenational.ae/image/policy:1.1057978:1596379615/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ex-Google engineer sentenced to 18 months in prison for stealing self-driving car files"
+    excerpt: "Anthony Levandowski, a former Uber executive, was sentenced to 18-months in prison on Tuesday after pleading guilty to stealing proprietary self-driving car technology from Google, which he had ..."
+    publishedDateTime: 2020-08-05T00:34:00Z
+    webUrl: "https://thehill.com/policy/technology/510595-ex-google-uber-engineer-sentenced-to-18-months-in-prison-for-stealing-self"
+    ampWebUrl: "https://thehill.com/policy/technology/510595-ex-google-uber-engineer-sentenced-to-18-months-in-prison-for-stealing-self?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/510595-ex-google-uber-engineer-sentenced-to-18-months-in-prison-for-stealing-self?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 36
+    images:
+      - url: "https://thehill.com/sites/default/files/google_021719getty.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "Cw5kgRJDMEUUvvO3wGN+29Xt0k4rCxZCr14vBJB00ykOTVddtq3ee4Pd7h1MT8yfcEe5WDD50N+kG/EH0aJknUt0ImhBjPgeXbjpeHqT8Oyv4Su3P2VTnkcHlETmDa+wB1kgUz/+JTHoJOmlabsG7bkNGBDrSfiMo5oe+oCMlO8HzVE2YcHdE1oLxM0kh5s0bOaXR97QacISpIuyG/mVZCLBFGcqvkvfQsliG9c6z/MMD7E9VR93INsKI4GQmzmgng9hTvzQzkjUQSQenOogB7nMBceUQ5O8u7N5ML1Qlgv4vvJCKRTwR3wv05d0gNKZeKoqjJsm5J0ymq1TAblTNw==;qAMN89qLiST+2G8Zt5ZCsQ=="

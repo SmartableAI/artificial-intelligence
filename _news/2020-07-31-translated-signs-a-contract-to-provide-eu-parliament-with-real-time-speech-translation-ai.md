@@ -23,31 +23,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "EU Parliament Awards Translated.net With Contract for Automatic Speech Translation"
-    excerpt: "Translation agency, Translated, says automatic speech translation prototype to be delivered to European Parliament within 12 months."
-    publishedDateTime: 2020-07-31T09:00:00Z
-    webUrl: "https://slator.com/deal-wins/eu-parliament-awards-translated-net-with-contract-for-automatic-speech-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 18
-    images:
-      - url: "https://slator.com/assets/2020/07/Translated-Wins-EU-Deal.png"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "EU Parliament Awards Translated With Contract for Automatic Speech Translation"
-    excerpt: "Translation agency, Translated, says automatic speech translation prototype to be delivered to European Parliament within 12 months."
-    publishedDateTime: 2020-07-31T09:00:00Z
-    webUrl: "https://slator.com/deal-wins/eu-parliament-awards-translated-with-contract-for-automatic-speech-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 0
-
 secured: "kMfSsGa79Xl323o5Wsg6gYFOugoztGYiMrjcEG3yPVDjVwmD2WuBw6ou0gYhPqeasbm/0hyvGDcGXsR7o4BzUEb8yLdL7CcL+4GhUth1gdxZqTkprIR6RVhv5E7AVoG4G/h/y2wV9rPryURa5Notr3QCi8p3QGNmwf466VcQt8NixTxUVZojX6KxlPK6k+dhYGZ9eqj2HVW7D0B/5FEgr+zW6jAU00GgfPIV9/60m5SjFhyVKEUDHl87DK0wSxlZhGZ+CxG4W08KKOpBg195Xwgw+FMgLbbvBRUIrIegrBFr2rfXG7eQr1PYnKyjgXmOmWbf0mk8L2YsLkU7UNF11XrSCIWDnVBz9NW/MNMan5yCmD+P2gn0MJNg3qIe3MhWpzsqXtiwCnoOMZTiSithk3jC9dqm6ru+NWRqkq7lxSOlYIi1uhqsQ2EAKY5RsWnQJKLW2M+9fISgBJaQgjOS7/QHCYx+iJqXx2eOo5OjqtLnAiTnpVMaauphvFV295KotVUC/dwG4zmLvlGUy5/GPw==;z7eV2odNHwTmLCwzghoAGQ=="
 ---
 

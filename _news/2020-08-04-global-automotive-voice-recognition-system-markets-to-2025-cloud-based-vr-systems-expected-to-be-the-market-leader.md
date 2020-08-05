@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Global Automotive Voice Recognition System Markets to 2025 - Cloud-based VR Systems Expected to Be the Market Leader"
-excerpt: "Dublin, Aug. 04, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Automotive Voice Recognition System Market is ..."
-publishedDateTime: 2020-08-04T11:54:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/g16915910/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-t"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16915910"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16915910"
+excerpt: "The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Automotive Voice Recognition System Market is anticipated to register a CAGR of about 8%,"
+publishedDateTime: 2020-08-04T11:37:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-the-market-leader-1029466115"
 type: article
-quality: 1
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -49,6 +51,20 @@ related:
       - url: "https://cdn.openpr.com/T/7/T731922844_g.jpg"
         width: 560
         height: 315
+        isCached: true
+  - title: "Global Edge AI Chips Market 2020 by Key Players, Regions, Type and Application, Forecast to 2025"
+    excerpt: "Global Edge AI Chips Market Growth 2020-2025 determines the views and opinions expressed by the consumers. The report gives the estimation of the trends, which are based on the present, future market analysis."
+    publishedDateTime: 2020-08-04T22:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025-2020-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
     excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
@@ -99,6 +115,6 @@ related:
       domain: financial-news.co.uk
     quality: 33
 
-secured: "UhSMDCCvdw6tXfQhWFWUIn3dis1nDjmprOripY142ypjUJXnv6CFjqfdZ1wbE+3k3QierolaE+oHFoyFfe4hU2Mhcss24fFw5rVbbKNiM6BPn9ltC9hNxjXzPD9oDfFnuTefJQFa0vk9ZvnUNMDax2ks0U4TVvWugW0r/6VBmnUgO+el9ZjH9fzXjS+xUNpUI8Py9rN4Gt/+CQwMp0UvsRjrP02tRwkgVWdM2ZqrZr46fXq2g9oM76LaPsjdsVf+RrVpKszSTxUMMmPgdkBy124LTXZ9/Ni+T8ccgsId/xqz/7/86asOTvLwG971EezuZxhDet4Gz4fAQgV7Guymq5ni2YST0NUWiQWS0rnl7sVZrbmXIhVp1k/x3pGPoqGJYu/OShVfokJjkHbiF0dXMEnEUIN28g3MSf8xoYPAS8uSSENHEQzTRlc/uC52ZXTexRsYL9fy3f4uPSN+kKLZBqwMfqckE+M9KJ71uBhwWzq9uvG/QseaE3P1qGsYPF5pIvP9z6uQtv81Ow6xq+kLxQ==;OcFnx0oSPOIRkGUavn3xzg=="
+secured: "dLEPvbcLgSD+pTUFQIPSNZkZqQCXAZ5QkKOxNsXGfq3NhMEamNrcAvWPhW2aIIG4cXIJJD2p1CbG3Pgi002/m8G9pMIhWgc707GXRtjg1fbVwE7sotlc8RwLjId6sh1h1B6pZTiN9zHV1YSdn5a6vriCzEjLsD43enavXch/NjSi9NCfINsFnvLSgvpldA5Xm2hbILALBdpktNDuehdWL4eZGGNITXNa7FCyzNyma+SQ+65NoK4SN4bPHnPoofNwmE1njBso26WoUjjCbHuIoBRhQXGft/v2kVa+9d5uTWYIx/YBIkH3GogX1R9N4LjZYy3ueQwljhIUYjp20Ybwqw==;aZ9egRkLXJ2NdLu5lHAAfg=="
 ---
 
