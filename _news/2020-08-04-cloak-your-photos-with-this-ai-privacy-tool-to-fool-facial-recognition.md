@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/4/21353810/facial-recog
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes"
 type: article
 quality: 106
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
       - url: "https://www.themeparkinsider.com/art/flume/7631.jpg"
         width: 640
         height: 268
+        isCached: true
+  - title: "Why aren't some people happy with facial recognition?"
+    excerpt: "Unlocking your phone and social media filters - these are just some of the ways we use facial recognition in our lives. It is also used by some authorities around the world, such as the police. However,"
+    publishedDateTime: 2020-08-05T06:00:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/53657056"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "http://c.files.bbci.co.uk/181E6/production/_113809789_p08mr1mx.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "oJsWoGdUzq/+cJHyjZYEuL+ZRJ2KM8mItjWLSrdqEwvmjwOiiDxorhwDDqrTrZBD095giq+1pOPkfYI8eI7/J9K7r9rB3elwunuYFoIuASQe7+ZLNYrKalla/Jd0c4Ney98OA7r9ZvBzVXsBMb2NpU/jQcrZ9H/Ckh3wtfEuC8SI5TghesnaORf7QoloEkaAsv79XGcXdAELlqOwjvAn9iKFRfhMHQqa2kwu2pQykF2UArxgKVQ4Le7j2Cb4B6R7EtSjHSNEwhJc0EroaW3YyOhrU8795PmVLOaELnunV4E20MbWzP6I7hvXF++XTw0OO/bSXI5Oz6ZSeVy4GHdc5A==;WoXXdlFoY6YqwUwNxN9l8w=="

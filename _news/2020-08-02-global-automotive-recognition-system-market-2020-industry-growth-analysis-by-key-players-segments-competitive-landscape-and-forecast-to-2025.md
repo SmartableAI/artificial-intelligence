@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Security Market – Size, Statistics Growth, Trends, Forecast (2020 – 2025)"
+    excerpt: "The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection, Firewall,"
+    publishedDateTime: 2020-08-05T08:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-statistics-growth-trends-forecast-2020-2025-2020-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI Drug Discovery Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
     excerpt: "The market research study on Global AI Drug Discovery Market Growth (Status and Outlook) 2020-2025 will provide"
     publishedDateTime: 2020-08-03T23:59:00Z

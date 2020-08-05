@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "U Florida Announces Plans for Fastest AI Supercomputer in Academia"
-    excerpt: "The University of Florida and NVIDIA have announced a $70 million artificial intelligence initiative that includes building what they're claiming to be the fastest AI supercomputer in academia."
-    publishedDateTime: 2020-07-31T21:16:00Z
-    webUrl: "https://campustechnology.com/articles/2020/07/31/u-florida-announces-plans-for-fastest-ai-supercomputer-in-academia.aspx?admgarea=news"
+  - title: "Atos to deliver UK's largest AI supercomputer to the University of Oxford"
+    excerpt: "French IT giant Atos has signed a four-year contract worth £5 million ($6.5m) with the University of Oxford to deliver a supercomputer for artificial intelligence workloads. The system will be built on the Nvidia DGX SuperPOD reference architecture and feature more than 500 Nvidia GPUs."
+    publishedDateTime: 2020-08-05T09:40:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/atos-deliver-uks-largest-ai-supercomputer-university-oxford/"
     type: article
     provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 37
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 38
     images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2020-images/20200731UFloridaNVIDIAfigure1.jpg"
-        width: 644
-        height: 362
+      - url: "https://media.datacenterdynamics.com/media/images/STFC.5b531b39.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Atos Partners with University of Oxford on Largest AI Supercomputer in the UK"
     excerpt: "facility – a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."

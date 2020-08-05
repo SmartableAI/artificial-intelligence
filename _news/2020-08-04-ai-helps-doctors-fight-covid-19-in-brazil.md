@@ -8,7 +8,7 @@ ampWebUrl: "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-br
 cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "AI helps doctors fight COVID-19 in Brazil"
+    excerpt: "Doctors in Brazil, the country with the second-highest number of cases and deaths in the coronavirus pandemic, have a new tool in their fight against COVID-19: artificial intelligence to detect"
+    publishedDateTime: 2020-08-05T09:54:00Z
+    webUrl: "https://newsinfo.inquirer.net/1317175/ai-helps-doctors-fight-covid-19-in-brazil"
+    ampWebUrl: "https://newsinfo.inquirer.net/1317175/ai-helps-doctors-fight-covid-19-in-brazil/amp"
+    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1317175/ai-helps-doctors-fight-covid-19-in-brazil/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 57
+    images:
+      - url: "https://newsinfo.inquirer.net/files/2020/08/000_1W36K6.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "jQz2wRI2VWVrSsazQnG4kbvCkg90GcbNMV4oFuJ4tIxAJjHZVvc+rEmwS+YCBvSTSeP7RX/mzbxrIkq/f3vG5+kiFRTj39VX3rLgHqdKjJd5CV8+9CIw43MuQ/7zbrs8Rkm+c11iL0snh5yAZq6qZqXduQtcnWYrMdkLrAqVcXUF29kAZg0XjCgWtEceuklAHz6SVUCVIsTJ4xneEbbcckSR0e9vTBBJ9bY+ynSmoGLb2Hr9/ESGQmLtntfIEkNRz1FJXewn/BpekLIt8eufGkvO5E5+am236JveJMqkiKgZH0TJu3Zu+DZ+S1bs1b3byVnfaCz+bbo1RBrIYKEEVg==;1azDbZbM4PLqxitdUB3rDA=="
 ---

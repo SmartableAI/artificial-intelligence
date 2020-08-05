@@ -43,21 +43,16 @@ related:
         height: 338
         isCached: true
   - title: "Nokia to set up robotics lab at Indian Institute of Science"
-    excerpt: "Nokia Centre of Excellence will promote engagement and cooperation between academia, startups and industry ecosystem partners in research and development."
-    publishedDateTime: 2020-08-05T07:39:00Z
-    webUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science"
-    ampWebUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
+    excerpt: "Dubbed the Nokia Centre of Excellence for Networked Robotics, the facility will explore the use of robotics, advanced communications and artificial intelligence (AI ... as well as organise hackathons for start-ups. “The ultimate relevance of technology ..."
+    publishedDateTime: 2020-08-05T08:35:00Z
+    webUrl: "https://www.computerweekly.com/news/252487189/Nokia-to-set-up-robotics-lab-at-Indian-Institute-of-Science"
+    ampWebUrl: "https://www.computerweekly.com/news/252487189/Nokia-to-set-up-robotics-lab-at-Indian-Institute-of-Science?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487189/Nokia-to-set-up-robotics-lab-at-Indian-Institute-of-Science?amp=1"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 74
-    images:
-      - url: "https://images.yourstory.com/cs/2/730b50702d6c11e9aa979329348d4c3e/Image95d9-1581162506015.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
   - title: "Nokia to set up robotics lab at IISc for 5G research"
     excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
     publishedDateTime: 2020-08-04T13:58:00Z

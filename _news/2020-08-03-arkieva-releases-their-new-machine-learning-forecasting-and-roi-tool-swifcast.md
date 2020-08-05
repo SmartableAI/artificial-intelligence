@@ -2,43 +2,27 @@
 category: news
 title: "Arkieva Releases Their New Machine Learning Forecasting And ROI Tool, Swifcast"
 excerpt: "Arkieva, Inc., a leading designer, and provider of the Arkieva suite of Advanced Planning and Scheduling (APS) software tools for manufacturing companies today announced the launch of their new machine learning forecasting and ROI tool,"
-publishedDateTime: 2020-08-03T13:07:00Z
-webUrl: "https://apnews.com/PR Newswire/0738529a0736866753b74b04ad64224a"
+publishedDateTime: 2020-08-03T13:36:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast-1029462064"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast-1029462064"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast-1029462064"
 type: article
-quality: 35
-heat: 35
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "AcademicInfluence.com Unveils Machine-Learning Technology for Ranking the World's Top Colleges and Influential Thought Leaders"
-    excerpt: "What worries today's prospective college students most? Topping the list are two life-altering decisions they don't want to flub: selecting"
-    publishedDateTime: 2020-08-04T12:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/academicinfluencecom-unveils-machine-learning-technology-for-ranking-the-worlds-top-colleges-and-influential-thought-leaders-301105410.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1223233/Academic_Influence_Logo.jpg?p=facebook"
-        width: 598
-        height: 315
-        isCached: true
-
-secured: "0CPa1IRp/Xc4BQMb+DMoropOzWV7nkbYR4mSN6PgdXela0nZLK2WvU/SBBSWqV+ZIAUHtXRuV7VbW29hMLTWlPpU/Bjy0vUASuCaxEkJjsQ12noQ/IPVQK4wmza4Wv2u4ZdvB1DIEoix5xEyHzWz0VGnZZe/v93U4tbHOp3/5zHF/bozCRX70bfRf6OoKfYd8oU8vwIGLzDPQ73GjLx8VIX1erOTJvr6VAp/BNLA0urRZYHu6ghZF/KqxVfmUGHJBtLfeZqMXxfyay/HN2NEMs/p1Xnlfw7HmsW36CyuIZbuQSS6rTXsj6Sq7BSJxaIf9+AllQKwWIgDT4RvHC0V6Q==;19Y2mHgJPlpIsXKw0fIIVg=="
+secured: "5IdQWpfAg9bf7EngyT9fWbhE1f+ROYlCy/KfriC2PX/IQEDQ7Ibiih6NtZ5REJb6QkggrPT9AiE5GY1TAA+br79CpivSgGKxslp8eZlJJdz7w5xUK25hEyDsTcwj6RH12BLQxUQgMCtoBdPqKhkYLPTi83CMH2Xl+82Wl8h8Oi7uJffSPTE8qIANZ2nAoXVNjBj6NE6vgLRekVXUkK54XN7DBY60YjfpheiAUFIM+Pmi4mMEruAtWcGF3I6vIY9odYt3ofbLbsOEqG7yXT6BLkyQNkT9q+Kf5tO+0CbiCwyhYJuBaVYmaoVEqICg2xMQ2vpOaZ2BV80kzG0EFWFuUA==;E3kc8e1iBNa6ylyuKl1SbQ=="
 ---
 

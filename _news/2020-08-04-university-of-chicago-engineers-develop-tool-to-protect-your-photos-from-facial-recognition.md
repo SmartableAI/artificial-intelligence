@@ -150,6 +150,20 @@ related:
         width: 640
         height: 268
         isCached: true
+  - title: "Why aren't some people happy with facial recognition?"
+    excerpt: "Unlocking your phone and social media filters - these are just some of the ways we use facial recognition in our lives. It is also used by some authorities around the world, such as the police. However,"
+    publishedDateTime: 2020-08-05T06:00:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/53657056"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "http://c.files.bbci.co.uk/181E6/production/_113809789_p08mr1mx.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "NnQem1ikiQ/gDXstFJ8/XK7d+kZgWzkIqn7wuC2jF60ibc0gZRtxWOOw4jUonScKIOshri6dypiECaEhic9eEaDL7La+w3gqfoXqBWYo+4a3byu6b21MgUOI+m/98Dx4Rl+MwnquM098vYM5CPAwi4QsEECQMMx3UpIt4ZjzHudb6gDV5HxYxzDO6k59nyvEY8a9P8GAPbV6BwbBh/xZXqUgdiJtJXAh4tI8kAQcYxSXI2H90c3s0ZLooRmkm4gwZUb9o0DdV/Jkudin29XlGlmn+I1q67ZjOMZi7U1sqOO71YdUBUNcfGpP2n5MlL1NNZoZwZ6LLJCh8YJy6hYxBg==;z+JhmctbJOyJLK0yH2Jd1g=="
 ---
