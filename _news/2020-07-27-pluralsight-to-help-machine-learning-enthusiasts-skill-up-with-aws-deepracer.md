@@ -1,29 +1,19 @@
 ---
 category: news
 title: "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. SILICON SLOPES, Utah, Jul 27, 2020 (GLOBE NEWSWIRE via COMTEX) -- SILICON SLOPES, Utah, July 27, 2020 (GLOBE ..."
-publishedDateTime: 2020-07-27T08:17:00Z
-webUrl: "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645?mod=mw_quote_news"
+excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have access to a variety of offerings, including a series of ..."
+publishedDateTime: 2020-07-27T12:08:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "1xT1V0rylZNvzGkjNBbORkn2A4qY6gJUvDwKc/9q/kZ0Y1MBG5C4QugLR6ioc0+UwYUFCnGeWlIAr7opwpEJY6jTSWHe9EpGNh9giCWDBWRUyAFuWiWA6gxi0W7tGGUOPbIuqCod5nntyPajqzhXSrE/zYjzlXunFBj3asfQdav+FJaiNTZwUQIko64srha59KnvejZXSsrciRs0VK2cVJp22F4Id97enyQrr0pbPy3NLCLEIGY/GGt8lWJ94CRLZJJoJtWFKeyCYkc+ZgSw49e3tNBu/0cbbL7uJVVy+TKp6Yxr6FHIg3Dg9Qqf9eWDBBXu7XF/8Glz4y2FqbMwNg==;KDoq2okvrfNrFEAVOE+O3Q=="
+secured: "M1r5Brdo1Jct1P3AlepLs9MJfj1gPqVB1ZPsRWEyvXEDlyxk/R9+IuLk0ZTkRvG+tA0yhPsQyVdjRmIsY0/Tm4s8ih1ue7APW8fjFVvK+3HZ+/wdrDVy1ctuorSong/MZm5GHCyPJpCVV7KQfxG80H80i6xjLLrZLiRwjWZ4/uAoL/fQgzpsAx46teKmxVSxWiiS5b4G/xH4NirxWH8XzxMWQv9XlQvd81+afixx5TB9djPE9fD0ilHTOz3MFV0YON+Nr/ex5HJLSVuoVDPvsWKpGVRG7j7j9Tq25AZlIkT5ElpGnMo2U+CYfy85I1YD9H15jIHTCJajiz34AKTeXQ==;56gwWdsNzZH0LKKPEWof2A=="
 ---
 

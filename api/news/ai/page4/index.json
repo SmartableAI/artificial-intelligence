@@ -2,6 +2,97 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-30-hillels-tech-corner-kaiai-flips-the-script-on-therapy.md",
+      "title": "Hillel's Tech Corner: Kai.ai flips the script on therapy",
+      "excerpt": "There is, however, some good news. When it comes to artificial intelligence and natural language processing (NLP), we may just have the technological capabilities to offer therapy to those in need using their regular messaging service like WhatsApp and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461466",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
+      "publishedDateTime": "2020-07-30T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites.md",
+      "title": "AI-powered tool aims to help reduce bias and racially charged language on websites",
+      "excerpt": "Website accessibility tech provider UserWay has released an AI-powered tool designed to help organizations ensure their websites are free from discriminatory, biased, and racially charged language. The tool, Content Moderator, flags content for review ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/09/b6ab847a-647d-4dd3-8830-b9a2e978c6c2/resize/1200x/cacbd035a68bdef28ec6012ef91f3936/cloud-security-tr.jpg",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-powered-tool-aims-to-help-reduce-bias-and-racially-charged-language-on-websites/",
+      "publishedDateTime": "2020-07-30T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-foresights-ai-powered-wearable-helps-low-vision-users-feel-the-world.md",
       "title": "Foresight’s AI-powered wearable helps low-vision users feel the world",
       "excerpt": "Using a custom version of the computer vision AI system YOLO, Foresight detects, classifies, and estimates the movement of objects surrounding the user, then uses the actuators to apply more or ...",
@@ -421,6 +512,47 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment.md",
+      "title": "Greenway Health Works with AWS to Further Meet Needs of Ambulatory Care Providers in a Post-COVID Healthcare Environment",
+      "excerpt": "Greenway Insights will leverage AWS cloud services, giving Greenway engineering teams direct access to a robust set of data analytics and machine learning capabilities, such as Amazon SageMaker ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment-1029451387",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment-1029451387",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment-1029451387",
+      "publishedDateTime": "2020-07-30T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1038,6 +1170,38 @@
       ]
     },
     {
+      "path": "_news/2020-07-30-pluralsight-inc-ps-ceo-aaron-skonnard-on-q2-2020-results-earnings-call-transcript.md",
+      "title": "Pluralsight, Inc. (PS) CEO Aaron Skonnard on Q2 2020 Results - Earnings Call Transcript",
+      "excerpt": "The AWS DeepRacer partnership is really focused on providing machine learning specific Skills development to those participants that are engaging in their DeepRacer learning campaign. This is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4362108-pluralsight-inc-ps-ceo-aaron-skonnard-on-q2-2020-results-earnings-call-transcript",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-apple-tried-to-lure-amazons-video-app-by-offering-a-lower-15-fee-email-shows.md",
       "title": "Apple tried to lure Amazon's video app by offering a lower 15% fee, email shows",
       "excerpt": "In an email sent from Apple executive Eddy Cue to Amazon CEO Jeff Bezos in 2016, Apple said it would offer a 15% revenue share to Amazon for customers that sign up for Prime Video through Apple's payments system.",
@@ -1083,38 +1247,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment.md",
-      "title": "Greenway Health Works with AWS to Further Meet Needs of Ambulatory Care Providers in a Post-COVID Healthcare Environment",
-      "excerpt": "Greenway Insights will leverage AWS cloud services, giving Greenway engineering teams direct access to a robust set of data analytics and machine learning capabilities, such as Amazon SageMaker ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/health-press-release/Greenway-Health-Works-with-AWS-to-Further-Meet-Needs-of-Ambulatory-Care-Providers-in-a-Post-COVID-Healthcare-Environment--479970-1.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1240,137 +1372,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate.md",
-      "title": "Translating documents, spreadsheets, and presentations in Office Open XML format using Amazon Translate",
-      "excerpt": "Now you can translate .docx, .xlsx, and .pptx documents using Amazon Translate. Every organization creates documents, spreadsheets, and presentations to communicate and share information with a large group and keep records for posterity. These days, we interact with people who don’t share the same language",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T13:57:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics.md",
-      "title": "A Look At Amazon's (AMZN) Initiatives in the Field of Robotics",
-      "excerpt": "Here’s a look at Amazon’s (AMZN) initiatives in the field of robotics and how it’s becoming an integral part of its supply chain process. Amazon runs more 175 fulfillment centers worldwide. There are different types of robots deployed at its fulfillment centers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
-      "publishedDateTime": "2020-07-29T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human.md",
-      "title": "From vampires to AI, Twilight director Catherine Hardwicke offers a new take on being human",
-      "excerpt": "In Quibi's new sci-fi series Don't Look Deeper, Hardwicke introduces us to a bi-racial teen named Aisha who finds she's an artificial human. The mystery unfolds, 10 minutes at a time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/PdpUjXDlYLgFaMrQwiWd0aSC5AA=/756x567/2020/07/28/943d97c7-37d2-47fa-860c-50d655e4458b/catherine-hardwicke-dont-look-deeper.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
-      "publishedDateTime": "2020-07-29T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

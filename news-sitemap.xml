@@ -163,6 +163,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nytimes.com/reuters/2020/08/03/world/asia/03reuters-ww2-anniversary-warcriminal.html</loc>
+    <lastmod>2020-08-03T18:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html</loc>
     <lastmod>2020-08-03T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -493,6 +499,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.openpr.com/news/2100309/speech-recognition-software-market-to-boom-post-2020-ibm</loc>
+    <lastmod>2020-07-30T22:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/</loc>
     <lastmod>2020-07-30T22:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -607,6 +619,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment-1029451387</loc>
+    <lastmod>2020-07-30T07:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records</loc>
     <lastmod>2020-07-30T06:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -685,14 +703,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
-    <lastmod>2020-07-29T18:41:00-07:00</lastmod>
+    <loc>https://seekingalpha.com/article/4362108-pluralsight-inc-ps-ceo-aaron-skonnard-on-q2-2020-results-earnings-call-transcript</loc>
+    <lastmod>2020-07-29T20:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.medindia.net/health-press-release/Greenway-Health-Works-with-AWS-to-Further-Meet-Needs-of-Ambulatory-Care-Providers-in-a-Post-COVID-Healthcare-Environment--479970-1.htm</loc>
-    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
+    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-07-29T18:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1141,7 +1159,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/</loc>
+    <loc>https://www.moneyshow.com/articles/dailyguru-54699/</loc>
     <lastmod>2020-07-28T02:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1309,6 +1327,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html</loc>
     <lastmod>2020-07-27T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1347,12 +1371,6 @@
   <url>
     <loc>https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece</loc>
     <lastmod>2020-07-27T02:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645?mod=mw_quote_news</loc>
-    <lastmod>2020-07-27T01:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3619,6 +3637,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies/article_ebf9b154-cc75-5a5c-bae3-1b4d304dc64b.html</loc>
+    <lastmod>2020-07-15T06:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/</loc>
     <lastmod>2020-07-15T06:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3705,12 +3729,6 @@
   <url>
     <loc>https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/</loc>
     <lastmod>2020-07-15T02:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301093938.html</loc>
-    <lastmod>2020-07-15T02:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

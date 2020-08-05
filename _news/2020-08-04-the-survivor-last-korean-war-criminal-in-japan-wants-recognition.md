@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-04T01:06:00Z
 webUrl: "https://www.nytimes.com/reuters/2020/08/03/world/asia/03reuters-ww2-anniversary-warcriminal.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: New York Times
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "The survivor: last Korean war criminal in Japan wants recognition"
+    excerpt: "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo."
+    publishedDateTime: 2020-08-05T03:26:00Z
+    webUrl: "https://dailytimes.com.pk/649603/the-survivor-last-korean-war-criminal-in-japan-wants-recognition/"
+    ampWebUrl: "https://dailytimes.com.pk/649603/the-survivor-last-korean-war-criminal-in-japan-wants-recognition/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/649603/the-survivor-last-korean-war-criminal-in-japan-wants-recognition/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 24
   - title: "Last Korean war criminal living in Japan wants recognition"
     excerpt: "says Lee, switching in a barely audible voice between Korean and Japanese ... Lee said as he clutched dog-eared clippings documenting his years of campaigning for recognition and compensation. Lee was among 148 Korean war criminals convicted after ..."
     publishedDateTime: 2020-08-04T06:55:00Z

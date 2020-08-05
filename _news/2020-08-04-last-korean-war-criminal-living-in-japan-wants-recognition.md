@@ -32,6 +32,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The survivor: last Korean war criminal in Japan wants recognition"
+    excerpt: "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo."
+    publishedDateTime: 2020-08-05T03:26:00Z
+    webUrl: "https://dailytimes.com.pk/649603/the-survivor-last-korean-war-criminal-in-japan-wants-recognition/"
+    ampWebUrl: "https://dailytimes.com.pk/649603/the-survivor-last-korean-war-criminal-in-japan-wants-recognition/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/649603/the-survivor-last-korean-war-criminal-in-japan-wants-recognition/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 24
 
 secured: "SYPUAi4JdF/sq1aLMhzIxCeZ/PP0ouCkpszDUJtNlgyKIZJzg/u8WVUD56fk/B+efvBiAFgETwFYZTW2kJD28qeQRxya5+VcNe/0CRGi8IOECgkTlrdUVO6PimUJzbmiGznkghiocHXVkz9oaMathpgoaYSraqnooSM3xFx8GE9wIsg/UJiv9gf820hKS5bhRDpHiAe6ufCUqMpzkYKL8CaR1D9n/fq0fPurBM/N+ZmeEtjt7fNZRJg+MCGRh2bDB8ejpsyCnMATqr7t3Wt2pVaYIzxG70yB0FT67BJ7OtDJkzJ5unK1DqLaXqwGkui2ByFDuRg38Yk75DRrIInNhA==;SLdch8E0lTqO9MhMZx28rQ=="
 ---

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK Fintech Wiserfunding to Introduce AI enhanced Cloud based Credit Risk Assessment Tools in India"
+    excerpt: "UK based Fintech firm Wiserfunding is expanding its operations into markets in India. The company is introducing its AI enhanced, cloud-powered credit risk assessment tool for SMEs. Wiserfunding’s entry into Indian markets has come at a time when small ..."
+    publishedDateTime: 2020-08-05T02:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/08/164915-uk-fintech-wiserfunding-to-introduce-ai-enhanced-cloud-based-credit-risk-assessment-tools-in-india/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164915-uk-fintech-wiserfunding-to-introduce-ai-enhanced-cloud-based-credit-risk-assessment-tools-in-india/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164915-uk-fintech-wiserfunding-to-introduce-ai-enhanced-cloud-based-credit-risk-assessment-tools-in-india/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 45
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Elephant-Amber-Palace-Jaipur-India-rayban-unsplash-300x228.jpg"
+        width: 300
+        height: 228
+        isCached: true
   - title: "UK fintech Wiserfunding to enter India, will invest up to $ 5 million"
     excerpt: "The platform, backed by Professor Edward Altman, will use AI-based tools to assess small businesses for credit risk."
     publishedDateTime: 2020-08-03T08:15:00Z

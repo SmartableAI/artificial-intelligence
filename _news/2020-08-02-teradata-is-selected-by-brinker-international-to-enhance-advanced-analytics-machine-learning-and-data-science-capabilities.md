@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Who Does the Machine Learning and Data Science Work?"
+    excerpt: "We know that data professionals, when working on data science and machine learning projects, spend their time on a variety of different activities (e.g., gathering data, analyzing data, communicating to stakeholders) to complete those projects."
+    publishedDateTime: 2020-08-05T03:18:00Z
+    webUrl: "https://customerthink.com/who-does-the-machine-learning-and-data-science-work/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/analysis-2958826_1920-pixabay-analytics-1.jpg"
+        width: 1483
+        height: 1484
+        isCached: true
 
 secured: "m3wldp+hnDgj8EatDTnsxuKm8+lAoQFVjmyMxjO5VyVHogiyLY96592JuoF1H06CgQiccwbrN3K1p2LWe1hrHdsiayn49bTtQxJONl25Vn2UyF4rw+u5+ulYQiuh+c0fgL2lkqZgiu4SoZXAAHAOFULcCcnpiauDqUCUCfmwJ6KALgfNlg86OeI3DV0XDVi0o0NWb0L3aUws/2Ukf5UuiZm0YJF5cckITcpOQ4z3C3DzOKcM1MEOKST6kCidWIScVq2i5dyMk9eMV/eayPD7nWgdu1b+hihZuHXQavRbLM2XK1SttYAIQxYTYKP1+Hnsmh4XLT2MdcWKywonRbJK9g==;D4CrXKjaI+wLVi1y4DvEiA=="
 ---

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Who Does the Machine Learning and Data Science Work?"
+    excerpt: "We know that data professionals, when working on data science and machine learning projects, spend their time on a variety of different activities (e.g., gathering data, analyzing data, communicating to stakeholders) to complete those projects."
+    publishedDateTime: 2020-08-05T03:18:00Z
+    webUrl: "https://customerthink.com/who-does-the-machine-learning-and-data-science-work/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/analysis-2958826_1920-pixabay-analytics-1.jpg"
+        width: 1483
+        height: 1484
+        isCached: true
   - title: "Teradata is Selected by Brinker International to Enhance Advanced Analytics, Machine Learning and Data Science Capabilities"
     excerpt: "Teradata announced that after an evaluation of other cloud analytics offerings on the market, Brinker International has reinvested in Teradata."
     publishedDateTime: 2020-08-02T09:24:00Z

@@ -5,8 +5,8 @@ excerpt: "Microsoft Corp.’s M12 arm has placed a bet on Syntiant Inc., the sta
 publishedDateTime: 2020-08-04T23:30:00Z
 webUrl: "https://siliconangle.com/2020/08/04/microsoft-backs-35m-round-miniature-ai-chip-startup-syntiant/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/syntiant.png"

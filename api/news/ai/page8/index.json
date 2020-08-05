@@ -2,6 +2,138 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-27-exploring-the-three-elephants-in-the-autonomous-vehicle-room.md",
+      "title": "Exploring The Three Elephants In The Autonomous Vehicle Room",
+      "excerpt": "Today, in the area of Autonomous Vehicles (AVs), there are three elephants in the room which are worth exploring. Let’s get started. Is it possible that the current Artificial Intelligence(AI) engines underneath AVs are just the wrong architecture and may never work robustly ?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1eea43aae75494c2b3186e%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/amp/",
+      "publishedDateTime": "2020-07-27T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-3-robotics-stocks-that-will-make-peoples-lives-easier.md",
+      "title": "3 Robotics Stocks That Will Make People’s Lives Easier",
+      "excerpt": "Robotics stocks represent one of the most exciting investment prospects for stock buyers. The increasing importance of information technology in manufacturing and the development in the concept of the industrial “internet of things” are likely to power robotics stocks to a new era of growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-robotics-stocks-that-will-make-peoples-lives-easier-2020-07-27?amp",
+      "publishedDateTime": "2020-07-27T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-mit-csail-employs-machine-learning-to-optimize-vaccine-designs.md",
+      "title": "MIT CSAIL employs machine learning to optimize vaccine designs",
+      "excerpt": "Researchers at MIT CSAIL designed a system that can identify optimal vaccine designs for a large swath of the population.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/amp/",
+      "publishedDateTime": "2020-07-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-how-to-unlock-your-iphone-without-a-pin-or-face-recognition.md",
       "title": "How to unlock your iPhone without a PIN or face recognition",
       "excerpt": "Wearing a mask can be a pain when trying to unlock an iPhone using Face ID. Here's how to unlock your iPhone without a PIN or face recognition.",
@@ -279,6 +411,38 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
+      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
+      "excerpt": "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have access to a variety of offerings, including a series of ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -592,56 +756,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
-      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. SILICON SLOPES, Utah, Jul 27, 2020 (GLOBE NEWSWIRE via COMTEX) -- SILICON SLOPES, Utah, July 27, 2020 (GLOBE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645?mod=mw_quote_news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1230,139 +1344,6 @@
         "Facebook AI",
         "AI in Healthcare",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-26-police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.md",
-      "title": "Police look to AI, robots to make Dubai the world's safest big city",
-      "excerpt": "Dubai Police adopted the AI Ethics framework established and developed by the Smart Dubai initiative. The framework is one of the first in the world to address human concerns about AI and automation; it includes four principles --ethics, security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/al-razzooqi-100852747-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.amp.html",
-      "publishedDateTime": "2020-07-25T19:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-26-audi-working-with-nvidia-to-create-self-driving-ai-cars-by-2020.md",
-      "title": "Audi working with NVIDIA to create self-driving AI cars by 2020",
-      "excerpt": "Audi will have self-driving artificially intelligent cars powered ... world thanks to mapping tie ups with TomTom and HERE plus Baidu in China and ZenRin in Japan. • All the latest from CES ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoexpress.co.uk/car-news/ces-2017/98188/audi-working-with-nvidia-to-create-self-driving-ai-cars-by-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.autoexpress.co.uk/image/private/s--FadMvx4i--/v1562243870/autoexpress/2017/01/100872_4-audiq7.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AutoExpress",
-        "domain": "autoexpress.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech.md",
-      "title": "Sinclair Broadcasting Defends Giving ‘Plandemic’ Conspiracy Air Time: ‘We’re A Supporter Of Free Speech’",
-      "excerpt": "We’re a supporter of free speech and a marketplace of ideas and viewpoints, even if incredibly controversial,” the company said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1c5d98caaaf1038b76cca4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D218%26cropY2%3D2468",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/amp/",
-      "publishedDateTime": "2020-07-25T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,154 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-07-05-chinese-construction-firms-using-ai-to-monitor-workers-safety-but-also-to-spot-loiterers.md",
+      "title": "Chinese construction firms using AI to monitor workers’ safety … but also to spot ‘loiterers’",
+      "excerpt": "Report from Institute of Automation says the technology can spot dangers on sites and determine what workers are doing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3091738/chinese-construction-firms-using-ai-monitor-workers-safety-also",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/05/46ab04da-bd0d-11ea-b64b-070a892763db_image_hires_171918.jpg?itok=H1J6PdUp&v=1593940764",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese construction firms using AI to monitor workers’ safety … but also to spot ‘loiterers’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3091738/chinese-construction-firms-using-ai-monitor-workers-safety-also",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3091738/chinese-construction-firms-using-ai-monitor-workers-safety-also",
+      "publishedDateTime": "2020-07-05T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience.md",
+      "title": "How Stitch Fix used AI to personalize its online shopping experience",
+      "excerpt": "To futher personalize its shopping recommendations, Stitch Fix built out a service using a combination of AI and human curation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/stitch-fix-shop-your-looks-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 610,
+          "title": "How Stitch Fix used AI to personalize its online shopping experience",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
+      "publishedDateTime": "2020-07-05T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
+      "excerpt": "Artificial intelligence (AI) is likewise an important but oft-misunderstood technology. It's still developing, but it promises to create a new segment of the economy based on the automation of simple tasks and raw data crunching.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/4f99495c05b836a8efa014a9663f2e1e.png",
+          "width": 720,
+          "height": 386,
+          "title": "3 Top Artificial Intelligence Stocks to Buy in July",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "publishedDateTime": "2020-07-05T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic.md",
       "title": "Why AI Continues To Deliver Results In A Pandemic",
       "excerpt": "AI-at-scale leaders continue to make progress on their AI initiatives at the same pace as before the Covid-19 pandemic.",
@@ -1037,138 +1185,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts.md",
-      "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
-      "excerpt": "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-japan-tech-ai-tuna-idUSKBN24415L",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200703&t=2&i=1524528857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG620IQ",
-          "width": 813,
-          "height": 545,
-          "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24415L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24415L",
-      "publishedDateTime": "2020-07-03T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-the-future-of-fintech-ai-blockchain.md",
-      "title": "The Future of Fintech: AI & Blockchain",
-      "excerpt": "74% of banking executives believe AI will transform their industry completely, and 46% of global financial services employees expect blockchain to improve transparency and data management. In The Future of Fintech: AI & Blockchain slide deck, Business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.businessinsider.com/image/5e305ac224306a476129d512",
-          "width": 400,
-          "height": 224,
-          "title": "The Future of Fintech: AI & Blockchain",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-how-do-i-install-tensorflow.md",
-      "title": "How do I install TensorFlow",
-      "excerpt": "Hello All, I am learning Tensorflow and I want to how do I install tensorflow in my system or I am looking to online tutorial of tensorflow. Can anyone know, Please suggest me.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow/amp",
-      "cdnAmpWebUrl": "https://www-daniweb-com.cdn.ampproject.org/c/s/www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow/amp",
-      "publishedDateTime": "2020-07-03T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daniweb",
-        "domain": "daniweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],
