@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Mohammed Bin Rashid Space Centre opens registration for deep learning camp"
-excerpt: "The Deep Learning Camp is part of the initiatives of the Mohammed Bin Rashid Space Centre to support the UAE's strategic directions in the science and technology fields, promoting the building of a generation capable of adopting advanced technologies to develop different solutions to tackle future challenges."
-publishedDateTime: 2020-08-05T11:43:00Z
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Mohammed_Bin_Rashid_Space_Centre_opens_registration_for_deep_learning_camp-ZAWYA20200805113436/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200805113436/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200805113436/"
+excerpt: "The Deep Learning Camp is part of the initiatives of the Mohammed Bin Rashid Space Centre to support the UAE's strategic directions in the science and technology fields, promoting the building of a generation capable of adopting advanced technologies to ..."
+publishedDateTime: 2020-08-05T12:23:00Z
+webUrl: "https://www.zawya.com/uae/en/press-releases/story/Mohammed_Bin_Rashid_Space_Centre_opens_registration_for_deep_learning_camp-ZAWYA20200805113436/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200805113436/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200805113436/"
 type: article
 quality: 57
 heat: 57
@@ -25,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "nla8j9b4Lkjn5uxic1hDahVnaIiEWMrf5uSTX13586aSqT2UMaGv/O2Dv8lunhCaDkKnNgGMbKImzOPBsqQOeLGJFbQiI1O6TmRIvTzNei/hO5gj8/NK54tgDEaPdn3Tqw8K8JyhCeJok0F0czHbRXnNSibGm+ezHTOD4ojX3Roe5wQV+uYEJQGoNWNLeEVagHXW0akj+PGSBizXiPQnbC3uFBgYJkhfWCN0Dp9h1wEPOrnh9V0YjkQSZ0o/jSSHNrhanUhhtvjQBNTR3LS/4oM/EJKCoEEg6Mf5VWu7aZUGMBFVaWfl7uvgODFuQVORuDL/9QrcmLhKojcFm4zduw==;V4YrhYzMfnEPozwId332mA=="
+secured: "H8IPNmOzGAY5Ff0TrcqD5bJpftO4L+8wwZPtnuNRMJ39ws7pkRVC8M9bBxZ3VThrQcLox7u4QtJKHO+/zIfwwIWbXI1l673TMm0GhVbIAkBr8N1AWzWyZyc+OaY9+HkLCB89AdS2kAGyZxT/jejKn8CXWng6ew8bjUHLLz3A1Z9jLW/jh32RDckPnakarFHWrHmhzMlfVgdkhHLefmNZS/LLXLf39ePF2w5DTw7P9f9Ia1+1w5WtkfnVaApmwRFKNnHVnzZZ60lxUcwdQ4GBcSgJDB1A6dPgYCWy8XUD2k7P5HQZvOpS+Ees3P0ON90p7kN9c8El29WkytVM8eTg/g==;3/iauM+9vZEWjnFr3qvQ3Q=="
 ---
 

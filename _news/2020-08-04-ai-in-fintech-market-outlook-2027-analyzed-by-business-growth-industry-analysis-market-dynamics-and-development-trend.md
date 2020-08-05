@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Top Manufacturers, Industry Share, Size, Trends, Growth Factor and Forecast 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence (AI)"
+    publishedDateTime: 2020-08-05T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-top-manufacturers-industry-share-size-trends-growth-factor-and-forecast-2026-2020-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2020 Automatic Speech Recognition Applications Market Size, Rising Impact of COVID-19, Insights, Production and Demand Analysis to 2025"
     excerpt: "The report mainly studies the size, recent trends and development status of the Automatic Speech Recognition Applications market, as well as investment opportunities, government policy, market dynamics (drivers,"
     publishedDateTime: 2020-08-02T00:57:00Z

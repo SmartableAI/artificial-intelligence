@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/rite-aid-facial-recognition-twitter-hack
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rite-aid-facial-recognition-twitter-hack-security-news/amp"
 type: article
 quality: 96
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Reuters investigated Rite Aid’s facial recognition systems across hundreds of stores in the U.S."
-    excerpt: "Reuters this week published an investigation into how Rite Aid quietly added facial recognition systems across 200 stores in the United States over the last eight years. The Reuters year-long investigation,"
-    publishedDateTime: 2020-07-31T20:16:00Z
-    webUrl: "https://www.reuters.com/article/rpb-riteaid/how-reuters-investigated-rite-aids-facial-recognition-systems-across-hundreds-of-stores-in-the-us-idUSKCN24W2XY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W2XY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W2XY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527906912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1QC"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Rite Aid Facial Recognition Security Was Uncovered, Are You Prepared?"
     excerpt: "This Reuters article delivers an in-depth review of how Rite Aid used facial recognition to detect repeat offenders, and probably"
     publishedDateTime: 2020-08-03T19:46:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T11:53:00Z
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-analysis-share-size-and-growth-demand-by-2020-2025-2020-08-05?mod=mw_quote_news"
 type: article
 quality: 67
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Top Manufacturers, Industry Share, Size, Trends, Growth Factor and Forecast 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence (AI)"
+    publishedDateTime: 2020-08-05T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-2020-top-manufacturers-industry-share-size-trends-growth-factor-and-forecast-2026-2020-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

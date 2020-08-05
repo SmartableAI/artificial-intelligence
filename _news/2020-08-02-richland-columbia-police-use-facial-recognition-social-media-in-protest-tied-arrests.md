@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
 cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: The State
@@ -26,63 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition"
-    excerpt: "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ..."
-    publishedDateTime: 2020-08-04T18:08:00Z
-    webUrl: "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
-    ampWebUrl: "https://www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
+  - title: "NY lawmakers vote to pause facial recognition in schools"
+    excerpt: "In this July 10, 2018  a camera with facial recognition capabilities hangs from a wall during installation at Lockport High School in Lockport, N.Y. The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
+    publishedDateTime: 2020-08-03T13:35:00Z
+    webUrl: "https://www.register-herald.com/region/ny-lawmakers-vote-to-pause-facial-recognition-in-schools/article_20087c3b-e052-55c6-bf1b-2250d13e340d.html"
     type: article
     provider:
-      name: Vox
-      domain: vox.com
-    quality: 83
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 39
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/C2_oi-qdv4rsUQVXp7WfmDZD_zA=/0x0:3000x2000/1400x1050/filters:focal(1488x550:1968x1030):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67155167/GettyImages_857192090.0.jpg"
-        width: 1400
-        height: 1050
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/0/20/020b0819-5e41-5f14-94ea-a4358d2834a3/5f19cd2f6b03f.image.jpg?resize=868%2C630"
+        width: 868
+        height: 630
         isCached: true
-  - title: "Thank Kade Crockford for driving the ban of facial recognition tech in cities"
-    excerpt: "The activist has become one of the leading proponents of enhancing our privacy and safety by abolishing the technology that would imperil both."
-    publishedDateTime: 2020-08-04T10:00:00Z
-    webUrl: "https://www.fastcompany.com/90525908/most-creative-people-2020-kade-crockford?partner=feedburner"
+  - title: "South Carolina Law Enforcement Use Facial Recognition to Arrest Rioters"
+    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May."
+    publishedDateTime: 2020-08-03T11:13:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21148573/south-carolina-law-enforcement-use-facial-recognition-to-arrest-rioters"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 36
+      name: Officer
+      domain: officer.com
+    quality: 39
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-MCP_TopArt_KadeCrockford-.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/08/16x9/richlandcounty.5f27f1176864c.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
-    excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
-    publishedDateTime: 2020-08-03T10:25:00Z
-    webUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
+  - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
+    excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
+    publishedDateTime: 2020-08-01T14:18:00Z
+    webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
+    ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 29
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 38
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESQX7VGU2QI6VJ4IFTUGZ2ARFE.jpg&w=1440"
-        width: 1440
-        height: 1152
+      - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
+        width: 1200
+        height: 899
         isCached: true
-  - title: "Teams explore using facial-recognition technology to admit fans to games"
-    excerpt: "Facial recognition might be coming to a sporting arena near you. As sports leagues fight to make attending event as touchless as possible due to the coronavirus pandemic, a Wall Street Journal report says that some teams may consider adopting the ..."
-    publishedDateTime: 2020-08-04T17:13:00Z
-    webUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/"
-    ampWebUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 23
 
 secured: "axNMBlBKiz4esSinTPvlM8+wo88Wo5pIoZa0g8/NR4UdSz3rFQFsIlbKcWL1IzkjKM0H/yWueE70Dtp1em9B6AxoH0t6UmND+UAWbrj/HQ1P5lI5fbvHdDpXlVSEDArEdpoeBkVS5vZniTbyKbjDrW/VUpQCRa49HqnXX1cj1Etf37it+SD0c1GpfVkyPnE7652c6pydsSlvKjmAyKaBiD5/jmW7/IRm+1niCeyxsXKWzvglj3yDHw/7Kih2gmDAtERI/9OPUzZyre7/igQzurALisT5SyhddsCQXCQnVs1/A4GNzXt9Ni0GevNCfi7k8+JmNBfKw02cKvy5au20Lg==;PvlzIrlKaDW9OIWxZA1m2A=="
 ---

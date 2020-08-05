@@ -62,6 +62,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "The self-driving whizzkid who stole trade secrets from Google just got 18 months in prison — now wants to sue Uber for $4B"
+    excerpt: "It seems we hadn’t heard the last from the case in which Google‘s former head of self-driving stole trade secrets, joined Uber, and declared bankruptcy after getting sued left, right ..."
+    publishedDateTime: 2020-08-05T13:39:00Z
+    webUrl: "https://thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 48
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/levandowski-uber-google-self-driving-car-autonomous-waymo-otto-pronto-technology-future-796x448.jpg"
+        width: 796
+        height: 448
+        isCached: true
   - title: "Anthony Levandowski, the self-driving car"
     excerpt: "A few months after Otto was founded, Uber acquired the small outfit for a reported $680 million and put Levandowski in charge of its entire self-driving effort. Waymo alleged that the ride-hailing giant set up the deal with Levandowski so it could use ..."
     publishedDateTime: 2020-08-05T00:45:00Z
@@ -112,15 +128,15 @@ related:
         isCached: true
   - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
     excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
-    publishedDateTime: 2020-08-05T07:16:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/04/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+    publishedDateTime: 2020-08-05T12:18:00Z
+    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
     type: article
     provider:
       name: KEYT
       domain: keyt.com
     quality: 24
     images:
-      - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-1.jpg"
+      - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
         width: 500
         height: 344
         isCached: true

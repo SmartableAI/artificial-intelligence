@@ -24,22 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Buildots raises $16 million to marshal AI for construction management"
-    excerpt: "The company uses hardhat-mounted 360-degree cameras to seamlessly determine the exact status of an ongoing project and provides invaluable insight to contractors"
-    publishedDateTime: 2020-08-03T14:58:00Z
-    webUrl: "https://www.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337"
-    ampWebUrl: "https://m.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337/amp"
+  - title: "AI/Computer Vision Startup Led by Industry Veterans Revolutionized Sewer Inspection"
+    excerpt: "SewerAI, a startup that uses artificial intelligence and computer vision to inspect, identify and analyze sewer infrastructure defects before they reach catastrophic levels, announced that it has secured $2 million in seed funding led by venture capital firms Builders VC and EPIC Ventures."
+    publishedDateTime: 2020-08-04T20:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461590"
-        width: 640
-        height: 428
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
 
 secured: "s2Grt17B0/FF2EeDPGZWFMTvbVT6+NbrgRSn00ir7Wguv/cELaY3wHhNThCDaZd9hJOGso30rFAghxKJzy7m5Hc2CCgjd2kxN+whSxuPMtX83DtL+EUw4i6trGkqvNHLqlg+5qnsOpAnBI1hPnlQCgLYTnA4w/d6Uko/gH3y1ozQYWT8o5U2PO2kSyDbbEhW5nQ8DUlNfjJ/DsfT3gcVWOztdQTa/bYfrry6uN0iBTi9bDQ8Xa1aSLr1d6rvAGw4HuIoIyMJXXdzmTpuEXIBi9z9YjZK/+pvopGA0DmcPr/f+xwOcm0cACdeLXe+APYgoVJOkT6YN/MQ+s51EQrz6Q==;96H6sFSxxPw/yEi5exdV0A=="
 ---

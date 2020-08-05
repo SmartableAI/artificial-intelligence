@@ -24,164 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook raises settlement to $650 million in facial recognition lawsuit"
-    excerpt: "Facebook Inc raised its settlement offer by $100 million to $650 million related to a lawsuit that claimed it illegally collected and stored biometric data for millions of users without their consent,"
-    publishedDateTime: 2020-07-31T21:00:00Z
-    webUrl: "https://www.reuters.com/article/us-facebook-privacy-lawsuit/facebook-raises-settlement-to-650-million-in-facial-recognition-lawsuit-idUSKCN24W313"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W313"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W313"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527915704&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1ST"
-        width: 831
-        height: 545
-        isCached: true
-  - title: "Portland, Maine Becomes The Thirteenth City To Ban Facial Recognition Tech"
-    excerpt: "At the time, some officials were reportedly hesitant over putting down their vote, since a ban on facial recognition technology would cut off the city’s local airport from tapping into this tech ..."
-    publishedDateTime: 2020-08-04T15:20:00Z
-    webUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789"
-    ampWebUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 102
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zyeqvljb3kppmiyedurz.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Portland, Maine, Councilors Ban Facial Recognition Tech"
-    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials, doing so via an ordinance that will take 30 days to go into effect."
-    publishedDateTime: 2020-08-04T16:07:00Z
-    webUrl: "https://www.govtech.com/public-safety/Portland-Maine-Councilors-Ban-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Portland-Maine-Councilors-Ban-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Portland-Maine-Councilors-Ban-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
-        width: 927
-        height: 626
-        isCached: true
-  - title: "Maine’s Biggest City Decides to Ban Facial Recognition Tech"
-    excerpt: "After months of delay, the Portland city council voted unanimously to ban use of facial recognition technology. The ordinance will begin in 30 days. The police say they have no intention of using it. (TNS) — After months of delay, Portland, Maine ..."
-    publishedDateTime: 2020-08-04T20:53:00Z
-    webUrl: "https://www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 54
-  - title: "Portland Votes to Ban Facial Recognition Ahead of Referendum"
-    excerpt: "The ordinance will take effect in 30 days. Danielle West-Chuhta, the city’s top attorney, said that if voters approve the referendum in November to ban facial recognition it would replace the ordinance passed by the city council and can not be touched ..."
-    publishedDateTime: 2020-08-05T00:32:00Z
-    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-08-04/portland-votes-to-ban-facial-recognition-ahead-of-referendum"
+  - title: "Singapore's Universal Studios Deploys Facial Recognition for Entry"
+    excerpt: "Annual and season ticket holders of Singapore's Universal Studios no longer need physical passes, while guests using day passes will still need tickets for entry but can then exit"
+    publishedDateTime: 2020-08-03T10:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 49
-  - title: "Face Masks Confuse Facial Recognition Technology"
-    excerpt: "Americans can't agree on whether face masks are a good way to reduce the threat of transmitting COVID-19. We've even turned mask-donning into a symbol of partisan affiliation; those who would make them compulsory everywhere face off against those who refuse them under all circumstances."
-    publishedDateTime: 2020-08-03T16:41:00Z
-    webUrl: "https://reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/"
-    ampWebUrl: "https://reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/?amp"
+    quality: 69
+  - title: "Universal Studios Singapore using facial recognition for entry at RWS"
+    excerpt: "Universal Studios Singapore is now using facial recognition scanners to allow visitors \"more efficient and seamless\" entry to the theme park at RWS."
+    publishedDateTime: 2020-08-04T12:09:00Z
+    webUrl: "https://blooloop.com/news/universal-studios-singapore-facial-recognition/"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
-  - title: "NY lawmakers vote to pause facial recognition in schools"
-    excerpt: "In this July 10, 2018  a camera with facial recognition capabilities hangs from a wall during installation at Lockport High School in Lockport, N.Y. The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
-    publishedDateTime: 2020-08-03T13:35:00Z
-    webUrl: "https://www.register-herald.com/region/ny-lawmakers-vote-to-pause-facial-recognition-in-schools/article_20087c3b-e052-55c6-bf1b-2250d13e340d.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
+      name: Blooloop
+      domain: blooloop.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/0/20/020b0819-5e41-5f14-94ea-a4358d2834a3/5f19cd2f6b03f.image.jpg?resize=868%2C630"
-        width: 868
-        height: 630
+      - url: "https://blooloop.com/wp-content/uploads/2020/08/universal-resorts-world-sentosa-e1596541631806.jpg"
+        width: 800
+        height: 390
         isCached: true
-  - title: "South Carolina Law Enforcement Use Facial Recognition to Arrest Rioters"
-    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May."
-    publishedDateTime: 2020-08-03T11:13:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21148573/south-carolina-law-enforcement-use-facial-recognition-to-arrest-rioters"
+  - title: "Singapore’s Universal Studios deploys facial recognition for entry amid Covid-19 pandemic"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-03T13:08:00Z
+    webUrl: "https://www.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL.html"
+    ampWebUrl: "https://m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
     type: article
     provider:
-      name: Officer
-      domain: officer.com
-    quality: 39
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/08/16x9/richlandcounty.5f27f1176864c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Wearing Masks Confuses Facial Recognition"
-    excerpt: "Facial recognition and masks study explored 3 levels of nose coverage, finding that accuracy degrades with greater nose coverage."
-    publishedDateTime: 2020-08-03T17:20:00Z
-    webUrl: "https://www.commercialintegrator.com/blogs/facial-recognition-masks/"
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 30
+  - title: "Universal Studios in Singapore introducing facial recognition scanners"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-04T01:26:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
     type: article
     provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 39
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/08/face_mask.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Big Tech Curbs Police Use of Facial Recognition Systems Due to Racial Biases"
-    excerpt: "A lot of these algorithms that have been developed, whether they are in healthcare or policing or visual recognition, are basically including the biases of the people who develop them,” Okolo said."
-    publishedDateTime: 2020-08-02T21:16:00Z
-    webUrl: "https://cornellsun.com/2020/08/02/big-tech-curbs-police-use-of-facial-recognition-systems-due-to-racial-biases/"
-    type: article
-    provider:
-      name: Cornell Daily Sun
-      domain: cornellsun.com
-    quality: 36
-    images:
-      - url: "https://i2.wp.com/cornellsun.com/wp-content/uploads/2020/08/UFTP6J0e4OMM_6WIuAp6kCMYpYmUt4V9lDQsb4Aml6eayrVRI3z0KwDsIB3_ta8jGgK0PtVEY0XlGocqT1ARCp0WxljqEJvqtaUJU2DcbNg.jpeg?fit=1170%2C780"
-        width: 1170
-        height: 780
-        isCached: true
-  - title: "Portland votes to ban facial-recognition technology"
-    excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."
-    publishedDateTime: 2020-08-04T19:13:00Z
-    webUrl: "https://bangordailynews.com/2020/08/04/news/portland/portland-votes-to-ban-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/08/America-Protests-Maine-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "trinamiX Beam Profile Analysis Works Where Facial Recognition Fails Due to Face Protection Masks"
-    excerpt: "Palatinate, Germany, 2020/08/03 - trinamiX announced its acclaimed Beam Profile Analysis technology can help existing facial recognition systems to recognize an owner and unlock their device, even while wearing a protective mask to prevent the spread of COVID-19 - trinamiXsensing."
-    publishedDateTime: 2020-08-03T20:42:00Z
-    webUrl: "https://www.newswiretoday.com/news/173408/trinamiX-Beam-Profile-Analysis-Works-Where-Facial-Recognition-Fails-Due-to-Face-Protection-Masks/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 21
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 19
 
 secured: "ArwO3h9IzikQFTtrGBmCHYIdXiElLNnSeMnd0PNk/OM7A73g2UA8NmoooW2EqkBYR6hJj24BuLJ2QKVY/6rrE6poLXw2XzjddXXxoJsZc6mLV07fXlhG3nbJslUovA97fAYWcnfmBfhUuo78LPqM8juk654cuy3ZoziMnPl3aHBK+nqrrDPbcWdwK0hCl4mm9hM3l5F35OQ9aakDmfAWhTfgpWhwgTetbvAEQrbmlz6ZkGDS7NrhiqoAP38aTeMJveShRYA+wReEqiLzT+8K299alBQHSgJo3peeVwhV6FjnMMw6wyGOt02v6loiNaGu0UQ5IiiA8rScEcPSI6ShiQ==;ct4kc+pJNbXxvPDkp2Gh7A=="
 ---

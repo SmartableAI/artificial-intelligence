@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence</loc>
+    <lastmod>2020-08-05T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/</loc>
+    <lastmod>2020-08-05T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/</loc>
+    <lastmod>2020-08-05T05:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/edge-ai-market-analysis-share-size-and-growth-demand-by-2020-2025-2020-08-05?mod=mw_quote_news</loc>
     <lastmod>2020-08-05T04:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +27,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/</loc>
     <lastmod>2020-08-05T04:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2019-demand-industry-growth-by-forecast-to-2024-market-research-engine-2020-08-05</loc>
+    <lastmod>2020-08-05T04:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -61,14 +85,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/</loc>
-    <lastmod>2020-08-04T12:08:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033</loc>
+    <lastmod>2020-08-04T13:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act</loc>
-    <lastmod>2020-08-04T11:08:00-07:00</lastmod>
+    <loc>https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/</loc>
+    <lastmod>2020-08-04T12:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -93,6 +117,12 @@
   <url>
     <loc>https://phys.org/news/2020-08-deep-cell-networks-ai-single-cell.html</loc>
     <lastmod>2020-08-04T08:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789</loc>
+    <lastmod>2020-08-04T08:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -123,12 +153,6 @@
   <url>
     <loc>https://www.zdnet.com/article/the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages/</loc>
     <lastmod>2020-08-04T06:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662</loc>
-    <lastmod>2020-08-04T06:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -337,12 +361,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.foxnews.com/us/sports-teams-facial-recognition-contactless-admission</loc>
-    <lastmod>2020-08-02T11:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/08/02/ai-is-struggling-to-adjust-to-2020/</loc>
     <lastmod>2020-08-02T08:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -373,6 +391,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.thestate.com/news/local/crime/article244433082.html</loc>
+    <lastmod>2020-08-02T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29</loc>
     <lastmod>2020-08-01T17:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -381,12 +405,6 @@
   <url>
     <loc>https://www.forbes.com/sites/cathrinetodd/2020/08/01/former-ceo-of-artificial-intelligence-company-buys-historic-napa-valley-winery/</loc>
     <lastmod>2020-08-01T13:42:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw</loc>
-    <lastmod>2020-08-01T12:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -657,6 +675,12 @@
   <url>
     <loc>https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records</loc>
     <lastmod>2020-07-30T06:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers/article_2506dea5-6c45-554f-b7e5-9326efb69284.html</loc>
+    <lastmod>2020-07-30T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1285,6 +1309,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/il/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html</loc>
+    <lastmod>2020-07-27T13:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.oaoa.com/news/business/datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data/article_569ca5a7-fd83-5731-9fdf-72c42ac6e678.html</loc>
     <lastmod>2020-07-27T11:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1369,20 +1399,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html</loc>
-    <lastmod>2020-07-27T06:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
     <lastmod>2020-07-27T05:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
-    <lastmod>2020-07-27T05:03:00-07:00</lastmod>
+    <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

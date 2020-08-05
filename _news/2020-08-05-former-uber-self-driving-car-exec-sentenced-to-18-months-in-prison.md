@@ -2,8 +2,8 @@
 category: news
 title: "Former Uber self-driving car exec sentenced to 18 months in prison"
 excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
-publishedDateTime: 2020-08-05T07:16:00Z
-webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/04/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+publishedDateTime: 2020-08-05T12:18:00Z
+webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
 type: article
 quality: 24
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-1.jpg"
+  - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
     width: 500
     height: 344
     isCached: true
@@ -71,6 +71,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/5FV-jBV8IMq6-eBWsmnlNrrgKnM=/0x0:5317x3566/1400x933/filters:focal(977x291:1827x1141):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67156985/605519778.jpg.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "The self-driving whizzkid who stole trade secrets from Google just got 18 months in prison — now wants to sue Uber for $4B"
+    excerpt: "It seems we hadn’t heard the last from the case in which Google‘s former head of self-driving stole trade secrets, joined Uber, and declared bankruptcy after getting sued left, right ..."
+    publishedDateTime: 2020-08-05T13:39:00Z
+    webUrl: "https://thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 48
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/levandowski-uber-google-self-driving-car-autonomous-waymo-otto-pronto-technology-future-796x448.jpg"
+        width: 796
+        height: 448
         isCached: true
   - title: "Anthony Levandowski, the self-driving car"
     excerpt: "A few months after Otto was founded, Uber acquired the small outfit for a reported $680 million and put Levandowski in charge of its entire self-driving effort. Waymo alleged that the ride-hailing giant set up the deal with Levandowski so it could use ..."
@@ -151,6 +167,6 @@ related:
         height: 382
         isCached: true
 
-secured: "046Zb0XzgTab9VkOMQ3G3GcaD5IB1z55YRxAGQvpzO9G4WUQVivrmYaOAYNNMR02kwTlTAt0uY7Cr6sXODKNXY8eBqBAmB4PgT+YM5PF3+iD2CboUhTgrZ+xeRsgsoLA4WvysQWlY6PcJ68vCN9204DukBhCZWhklnQCB9BpbZ0SgxErUBD+4NELaazA8bsNwyRfWcsMkNaHQBA8kq6JoCbm88ebC6dwPrzPhdtttUyPJx8MHZ6KVLZf6PeOJE/2im27gEa91KDlcEt9qXawD5rJV2/3p76V8PoLFczg1p9Zu+cS1ljCZJj6ircgfPPj8wuMn+9/xGP+vO7xVX44MJbGT9FxWgFCV8xlLUpg+ahensWD2tJH2JsrLkEjHQgO2SHHyNun2r5UD2bvn43O3yfCB7AK8rHwYD+48vtbDXAxEIT4JC7541qigSb+ucZDCBssy7RrMPYBH9+X7oVGOhv1ChguzzP8Kb+DYO3lAAVtmwt9q9rHVlsb8X3DclmQXIuNmGvBHGK8SfjODbydqA==;uX/M6zuDcR5hVZJA0M8FEA=="
+secured: "S2lcsBODqWm7Ex+BgVPDjA6baYLA9eBSdlTFV/g5dlrIDjd8JlghW6jueQmlfRryDxkBjod1zmO9hJdyZ8B1Q0sSfh5E8SUoaJwbQlKWzjBOAuvLQDaXM1Ycmaosp2dHyIRJRjGxByx6hAHjyUqAoX/smJbgCVDml+6iZo/GWzG8PrA/ug3m1ZzK+5gztjFso4x3OXfKxNfPYWgMcdZi45wI9WuJQHJS6MewHnmKIRlEKpVjyG1kCdppC5SO1NGHrirgCTBusufMt4PfQ49Bxs/9kLpLLlfnDPyqe+c6l8pd/Hp8WzyVgPk2AMP79IEaVolaAgPEsgwgG4A3wsUGKQ==;oVxBTVxrX6TrAZJZGXdyGQ=="
 ---
 

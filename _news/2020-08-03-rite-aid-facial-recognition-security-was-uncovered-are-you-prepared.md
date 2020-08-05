@@ -42,22 +42,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "How Reuters investigated Rite Aid’s facial recognition systems across hundreds of stores in the U.S."
-    excerpt: "Reuters this week published an investigation into how Rite Aid quietly added facial recognition systems across 200 stores in the United States over the last eight years. The Reuters year-long investigation,"
-    publishedDateTime: 2020-07-31T20:16:00Z
-    webUrl: "https://www.reuters.com/article/rpb-riteaid/how-reuters-investigated-rite-aids-facial-recognition-systems-across-hundreds-of-stores-in-the-us-idUSKCN24W2XY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24W2XY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24W2XY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200731&t=2&i=1527906912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6U1QC"
-        width: 818
-        height: 545
-        isCached: true
 
 secured: "hZSmkYoHAGqW6Ok4roW89SUSA/Uwqy9Fw6qDISupyiU3VFNQMcd5xTUSJ3q1mj4Mgj7CCvcWK/+EtB7x7PGZVTEQ49nJVDRJu8INFAIXt7aTuV/wrL9A/ZGfOuz4GhT800IpfQWX9GPSQ1sYvDUJVSSmuB5o1Mxwrhi8FJTApdgbjTF33rhlT4xwsmfx2chCFygvwSu/ud+aX/yd5j034h7BMehiegpdrJVnbQIE/0HOTcb0dv27BjvPVw3jJ3e0jqjJjT95AyLGJHVWqWDIJ1JlntsjvP9GSWOG3Pl7SdEd2+e2+UfA/OiWiJnjlhM61Hfpl54WMmo3zLhp2tK625F8EGPvLA9t20A45C6iUPdtgXF6+oe1voXB9n2OioLAIrZu0OPdDXDOUyJQR+t8autfrR2hmTagtyfkBi77sXbWzBPeR8fMs2sAXl1N2p5WhAiyFBDzG+Y4V9hwjv71Q6A0pVwsA5+3xAciHKc1vL9aTmr3XjksEswyIe4hANNRvyOPiPF4z0Rcr9l/iie8AA==;ugFvKFtqepQtF5umgltaxA=="
 ---

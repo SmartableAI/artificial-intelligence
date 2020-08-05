@@ -42,7 +42,16 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Airtel and AWS join hands to accelerate digital transformation of businesses in India"
+    excerpt: "Bharti Airtel (\"Airtel\"), one of India's largest integrated telecom providers, today announced a multi-year, Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to deliver a comprehensive set of innovative cloud solutions to large enterprise and small and medium enterprise (SME) customers in India."
+    publishedDateTime: 2020-08-05T11:58:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=271583"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 27
 
-secured: "A46+GlfvYoILYEhAMjrQIqWMUUdqG35tMsRgtVIrRGbsGMPq1s84G0wH70afwFqdaafQRQzdeVQ8VqTOjklp0tkvRv91LL8MvkRAkJ0gNTAl/i2LpxJRlzjgxvFOuPE2Yj1XPx3Zu3WKOXV6eGeyhXgB1oG2jdJyJvKQ47o4gChu6F/znXH7Da25QF3gN2cYgUOyh9TJYL00bxqNXAa5EqYjyH5WfT3vB0a3Vlu8Z0GvjjpscLUCf9EdjUndwOxioM4vOmNqQopdYc/H5EQiuqCJgHf1B9H397B2IN6Q+zL5qr3ch0qQhGOZnsxBelXk+6j167n/fEFv6C02aF4AIA==;GJAdhPp/Dhx3aOJgxubP7Q=="
+secured: "SOCuVhxAKkct5P6YPnuv6gI+no8qO/G1qqoryINaBk7oQ2Y5rXELfTQ9yogHtEhkxOsNIPZFBzOsuQ/Gc+6rMERmmyiseclKfAl/jR7Dy5kUxUIOnpKyBx4qLjHAThUszuwxTX13FLO1Kw69XcgLlw6/3OwW480CuFl7BtqdQvdvFWrGZ1YLcYzWAvIyK8K7d6iSYJ1xp3DG6QRfXny19nJxZu+/wpxggwHEas5JRg1IpsdzVGhnMQkUK7JR+0WzkkmZYRihLBvN8/HSapCNfLEKVHf3C+Rboeu+teHzpu/HdtHXxywWOEMm7dlu5GeL4KsCltYNKujj3nsftRJP3DU8Y2q3cltU2i7F+EmnH1kYyjZ/wMGpL3QeJyJeGporByw7Ow6rSsUM1NF8q2BXGXWWoDZc7+QfS/5+aKfMzlSrvAOdtZ4eytAtEsa8RudNVPasdX5WVT4oaCTMyjfZ9s899gLWlbzK5UuroUGxmiWp6WhrW+zKl34dMli4UkguwoTyDUC9UcLG346d151Xlg==;JyqIWlWwh3hKAXBvecjSnw=="
 ---
 
