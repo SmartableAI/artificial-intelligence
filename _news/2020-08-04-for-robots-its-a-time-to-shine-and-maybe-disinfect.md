@@ -33,16 +33,16 @@ related:
   - title: "For robots, it’s a time to shine (and maybe disinfect)"
     excerpt: "The Neo is a 4-foot-tall, 1,000-pound robot floor scrubber. The high-tech machine can cruise large commercial buildings on its own, with no human supervision required."
     publishedDateTime: 2020-08-05T16:41:00Z
-    webUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
+    webUrl: "https://www.orlandosentinel.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 59
     images:
-      - url: "https://www.baltimoresun.com/resizer/l5gn6xDkCST4lrt8kj6Y4gf7IUI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CYFAGH6NCJDRNFDVTKGTUYWL5I.jpg"
+      - url: "https://www.orlandosentinel.com/resizer/l5gn6xDkCST4lrt8kj6Y4gf7IUI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CYFAGH6NCJDRNFDVTKGTUYWL5I.jpg"
         width: 1200
         height: 800
         isCached: true

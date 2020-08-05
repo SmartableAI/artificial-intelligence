@@ -72,22 +72,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "SingPass, a Facial Recognition Solution for ID Verification, Will be Used by Singapore’s DBS Bank for Digital Onboarding"
-    excerpt: "SingPass, a facial recognition solution for ID verification, will be used by Singapore's DBS Bank for completing digital onboarding."
-    publishedDateTime: 2020-08-03T03:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/06/Singapore-DBS-Skyscrapers-Asia-600x800.jpg"
-        width: 600
-        height: 800
-        isCached: true
 
 secured: "HGXLE7OpXsSBMk3jpxBfPs/trnVVMXHd8bo+EsWoqIBD3eB+WKULTZLgS8wc8GVpdAU1Laf6Ld4e0TUpbraSM7fhqqIlARgAPgx7DUGppb1O9irUlA1DF1vcSZbWFs9bTArbShFyBR7InnbZJ6w6nu+wDazqNn5cIWnIGh6EyNHydzElPkCG0vB+eXh3CteNkU3F8YbB6JtXvdvHKFBD9VcpStFStBELKyXRsICGXaTmBaE8qWBvY0Egb1Eyurm693C5+JUPWijClhpiAJ7FfHNLb+7M0f1dERvB6RuF4wj/OCsnbRLhL3FAZMCbfWK+h++MuPfgEG7popjI5KjufA==;Wr/KDSAcRpw6LQhBx60COg=="
 ---

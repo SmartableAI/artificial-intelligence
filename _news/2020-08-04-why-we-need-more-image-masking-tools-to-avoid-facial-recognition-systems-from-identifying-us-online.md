@@ -168,6 +168,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "University of Chicago researchers create tool to block facial recognition technology"
+    excerpt: "\"Fawkes takes your personal images and makes tiny, pixel-level changes that are invisible to the human eye, in a process (called) image cloaking.\""
+    publishedDateTime: 2020-08-05T17:48:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2020/08/05/university-of-chicago-computer-science-researchers.html"
+    ampWebUrl: "https://www.bizjournals.com/chicago/news/2020/08/05/university-of-chicago-computer-science-researchers.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/chicago/news/2020/08/05/university-of-chicago-computer-science-researchers.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
 
 secured: "3pffDmzC9mrCr6WoqZk12KrO1XepKakkjkZTT4Z2H+oVAuP3NyqfW9JvG5GbGvkoRILBFgdk+2JFsBA0FiMihG7shjZxYcb9zkQO6ApmbGBEDy/mkqSpC3/tjiYtlvsd5lC10UPN3G4Gj401MWOhJnHG0eWyZ9uvxpI9vVkvij/bba1wMsitOHadMHlIkxq0Cc1/3lvuEP9/hpolZgOdVCUfLucKMfy1yvTeOesEerKVa9uTc4HCA4pHKp2za9f62WrLr4IjrlegRWjquJsHj/DzNV1AB5fO4/oJiqaQuq6br0B0ievmFDqplgOCcAWIyX1Nzenaupw6cqy7He1h8POlw9Zp5u7tHPJrCWRuhu+KnKDWZrrYnsBhGZ6UqCY7fuGakZkZpPXkPuXAaWzGTNcESFQNF1xE4GFMvkuzcuapi2q27bbxp7cDi0sJi7E/NHq5cU+Z9VtP6qBCcmO/ThUJ4fIhTIM/2PKeg7JIFE3xp5sX/7OT89sX9pJim9+A;idGcYEoXSplJjr3lv1rIdg=="
 ---

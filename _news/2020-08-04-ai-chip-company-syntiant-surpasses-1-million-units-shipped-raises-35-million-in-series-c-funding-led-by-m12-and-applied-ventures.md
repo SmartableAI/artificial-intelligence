@@ -64,6 +64,15 @@ related:
       name: SocalTech
       domain: socaltech.com
     quality: 34
+  - title: "Syntiant Finds $35M More For AI Chips"
+    excerpt: "Irvine-based Syntiant, a developer of processors used for artificial intelligence applications, has raised $35M more in the company's Series C funding round. The round was led M12, the venture capital investment arm of Microsoft,"
+    publishedDateTime: 2020-08-05T19:26:00Z
+    webUrl: "https://socaltech.com/syntiant_finds_3_m_more_for_ai_chips/s-0080185.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 34
 
 secured: "Ed+Q7fsK6t5P0nrXAPRkCd0ufKIuGZhcKtgUf6RuOt+YRs4p6omVKWq/uUMx3hIsmNcd04pgtWRZSkeCsdqSbOPTdCiEJxOsgneQHVIVB34woNL3pnmub/iOZ5CcdCd8Tw1zEuVPoMnRTwPs/WOV6hAneAH+Q1txt964k3igohXbhRVPWEszjR+rrbDuq8ew5u8sCkF6dSrWyvun/N9NYhEyFi6vSoxgNZb39MMcxbPYu/vd1ew41nQcBqLY/dqAQGY93gM0p30+8p1+IKnxd82KM7bMZFEfg5rj9sGE0zj3z5Y4DaX1DZVX8L1NWMC1T/vK/PLLatZoiAJesjPl0Q==;5BBimmxMGSSIPWPfQe5Oaw=="
 ---

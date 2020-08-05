@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-0
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e71688237d0440006bcc12d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D4000"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Self-Driving Cars Can Be A Boon For Those With Disabilities"
+    excerpt: "From access that was impossible before to easier, cheaper access, self-driving technology is going to be a big boon for the disabled"
+    publishedDateTime: 2020-08-05T19:09:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/08/05/self-driving-cars-can-be-a-boon-for-those-with-disabilities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2afe3d2c7ac08cb1a53806%2F0x0.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Ex-Google self-driving car chief sentenced for stealing trade secrets"
     excerpt: "Anthony Levandowski, co-founder of Google’s self-driving car project, has been sentenced to 18 months in prison for stealing trade secrets and allegedly using them to help build a rival driverless programme at Uber,"

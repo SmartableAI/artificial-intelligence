@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-05-researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants.md",
+      "title": "Researchers say we need better benchmarks to build more useful AI assistants",
+      "excerpt": "AI researchers from Element AI, Stanford University, and CIFAR recommend more useful forms of AI that speak with people to get things done.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/echo-dot-home-mini-e1578632867450.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/amp/",
+      "publishedDateTime": "2020-08-05T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-worlds-first-ai-generated-arts-festival-program-opens-this-friday.md",
       "title": "‘World’s first’ AI-generated arts festival program opens this Friday",
       "excerpt": "The Edinburgh Fringe is the world’s largest performing arts festival, but this year’s event has sadly been canceled due to COVID-19. Fortunately, art junkies can still get the",
@@ -777,6 +827,46 @@
       ]
     },
     {
+      "path": "_news/2020-08-05-your-amazon-echo-speaker-just-got-blocked-from-using-a-vital-new-feature.md",
+      "title": "Your Amazon Echo speaker just got blocked from using a vital new feature",
+      "excerpt": "AMAZON confirms that it has blocked Echo owners in the UK from using a useful feature that went live late last month. Those who signed up to the Alexa Guard service before it was pulled are now being offered compensation as a gesture of goodwill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.amazon.com/b?ie=UTF8&node=18021383011",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-na.ssl-images-amazon.com/images/G/01/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized_layout1._CB468670774_.png",
+          "width": 350,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-engineer-who-took-googles-self-driving-secrets-to-uber-sentenced-to-18-months.md",
       "title": "Engineer who took Google's self-driving secrets to Uber sentenced to 18 months",
       "excerpt": "Former Uber engineer Anthony Levandowski has been sentenced to 18 months' imprisonment after pleading guilty to stealing trade secrets from Waymo, Google's self-driving car division. He's also agreed to pay over $756,",
@@ -965,7 +1055,7 @@
       "webUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1316,106 +1406,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-roborocks-s6-maxv-robot-vacuum-is-too-smart-to-do-the-dirty-work.md",
-      "title": "Roborock’s S6 MaxV robot vacuum is too smart to do the dirty work",
-      "excerpt": "To be fair, I didn’t need much convincing to start with. I hate vacuuming ... If that wasn’t enough, its “vision” has been sharpened by AI that has been trained on thousands of images ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/plugged/2020/08/04/roborock-s6-maxv-review/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/DSCF2689-796x522.jpg",
-          "width": 796,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/plugged/2020/08/04/roborock-s6-maxv-review/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/08/04/roborock-s6-maxv-review/amp/",
-      "publishedDateTime": "2020-08-04T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-3-ways-artificial-intelligence-will-change-healthcare.md",
-      "title": "3 Ways Artificial Intelligence Will Change Healthcare",
-      "excerpt": "In healthcare, artificial intelligence (AI) can seem intimidating. At the birthday party of a radiologist friend, she gently expressed how she felt her job would be threatened by AI in the coming decade. Yet, for most of the medical profession, AI will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25fd2fd8f0e8a4e8cf29d5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2084%26cropY1%3D0%26cropY2%3D1172",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/",
-      "publishedDateTime": "2020-08-04T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

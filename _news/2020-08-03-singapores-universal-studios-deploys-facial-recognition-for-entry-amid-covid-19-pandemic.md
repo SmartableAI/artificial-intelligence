@@ -20,17 +20,22 @@ topics:
   - AI
 
 related:
-  - title: "Singapore's Universal Studios Deploys Facial Recognition for Entry"
-    excerpt: "Annual and season ticket holders of Singapore's Universal Studios no longer need physical passes, while guests using day passes will still need tickets for entry but can then exit"
-    publishedDateTime: 2020-08-03T10:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-08-03/singapores-universal-studios-deploys-facial-recognition-for-entry?context=amp"
+  - title: "Singapore's Universal Studios deploys facial recognition for entry"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state's latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-03T14:48:00Z
+    webUrl: "https://www.reuters.com/article/us-singapore-universal-studios-idUSKBN24Z15D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24Z15D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z15D"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138061&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MU"
+        width: 792
+        height: 545
+        isCached: true
   - title: "Universal Studios Singapore using facial recognition for entry at RWS"
     excerpt: "Universal Studios Singapore is now using facial recognition scanners to allow visitors \"more efficient and seamless\" entry to the theme park at RWS."
     publishedDateTime: 2020-08-04T12:09:00Z
@@ -58,6 +63,22 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/08/Face-scanning-Article-202008041550.jpg"
         width: 620
         height: 372
+        isCached: true
+  - title: "SingPass, a Facial Recognition Solution for ID Verification, Will be Used by Singapore’s DBS Bank for Digital Onboarding"
+    excerpt: "SingPass, a facial recognition solution for ID verification, will be used by Singapore's DBS Bank for completing digital onboarding."
+    publishedDateTime: 2020-08-03T03:45:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/06/Singapore-DBS-Skyscrapers-Asia-600x800.jpg"
+        width: 600
+        height: 800
         isCached: true
   - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
     excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."

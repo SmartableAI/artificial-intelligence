@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://thehill.com/sites/default/files/merkleyjeff_071119gn_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "SingPass, a Facial Recognition Solution for ID Verification, Will be Used by Singapore’s DBS Bank for Digital Onboarding"
-    excerpt: "SingPass, a facial recognition solution for ID verification, will be used by Singapore's DBS Bank for completing digital onboarding."
-    publishedDateTime: 2020-08-03T03:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/06/Singapore-DBS-Skyscrapers-Asia-600x800.jpg"
-        width: 600
-        height: 800
         isCached: true
   - title: "Senate bill would place limits on use of facial recognition, other biometrics by private companies"
     excerpt: "Less than two months after legislation was introduced that would prohibit federal agencies from using facial recognition technology, as well as strip support from state and local law enforcement agencies that also leverage it, Sens. Jeff Merkley (D-Ore.)"

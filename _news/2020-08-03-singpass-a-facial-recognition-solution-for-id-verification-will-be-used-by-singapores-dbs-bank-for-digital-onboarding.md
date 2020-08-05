@@ -26,68 +26,84 @@ images:
     isCached: true
 
 related:
-  - title: "Federal bill would ban corporate facial recognition without consent"
-    excerpt: "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent."
-    publishedDateTime: 2020-08-04T19:08:00Z
-    webUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/"
-    ampWebUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
+  - title: "Singapore's Universal Studios deploys facial recognition for entry"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state's latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-03T14:48:00Z
+    webUrl: "https://www.reuters.com/article/us-singapore-universal-studios-idUSKBN24Z15D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24Z15D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z15D"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
+      name: Reuters
+      domain: reuters.com
     quality: 89
     images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-silhouette-getty-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138061&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MU"
+        width: 792
+        height: 545
         isCached: true
-  - title: "A new Senate bill would ban corporations from using facial recognition without people's explicit consent"
-    excerpt: "If passed, the bill would wipe out much of the business of controversial facial recognition companies like Clearview AI."
-    publishedDateTime: 2020-08-04T18:54:00Z
-    webUrl: "https://www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8?amp"
+  - title: "Universal Studios Singapore using facial recognition for entry at RWS"
+    excerpt: "Universal Studios Singapore is now using facial recognition scanners to allow visitors \"more efficient and seamless\" entry to the theme park at RWS."
+    publishedDateTime: 2020-08-04T12:09:00Z
+    webUrl: "https://blooloop.com/news/universal-studios-singapore-facial-recognition/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: Blooloop
+      domain: blooloop.com
+    quality: 39
     images:
-      - url: "https://i.insider.com/5f298ebede1e9651da0e22dd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://blooloop.com/wp-content/uploads/2020/08/universal-resorts-world-sentosa-e1596541631806.jpg"
+        width: 800
+        height: 390
         isCached: true
-  - title: "Merkley, Sanders introduce bill limiting corporate facial recognition"
-    excerpt: "Sens. Jeff Merkley (D-Ore.) and Bernie Sanders (I-Vt.) introduced legislation Tuesday aimed at limiting the corporate use of facial recognition technology."
-    publishedDateTime: 2020-08-04T22:51:00Z
-    webUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
+  - title: "Bar Exams’ Facial Recognition Deployment Is Heightening Test Takers’ Anxiety"
+    excerpt: "Taking the bar exam is stressful enough. But the implementation of facial recognition technology in Michigan’s and California’s bar exam has added another layer of anxiety as accuracy, fairness and privacy concerns creep into test takers’ minds."
+    publishedDateTime: 2020-08-05T14:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/08/05/bar-exams-facial-recognition-deployment-is-heightening-test-takers-anxiety/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
+      name: Law
+      domain: law.com
+    quality: 36
     images:
-      - url: "https://thehill.com/sites/default/files/merkleyjeff_071119gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/08/Face-scanning-Article-202008041550.jpg"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Senate bill would place limits on use of facial recognition, other biometrics by private companies"
-    excerpt: "Less than two months after legislation was introduced that would prohibit federal agencies from using facial recognition technology, as well as strip support from state and local law enforcement agencies that also leverage it, Sens. Jeff Merkley (D-Ore.)"
-    publishedDateTime: 2020-08-05T16:02:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21149050/senate-bill-would-place-limits-on-use-of-facial-recognition-other-biometrics-by-private-companies"
+  - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
+    excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
+    publishedDateTime: 2020-08-04T21:22:00Z
+    webUrl: "https://www.wbur.org/npr/892433132/judge-facebooks-550-million-settlement-in-facial-recognition-case-is-not-enough"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 25
+      name: WBUR
+      domain: wbur.org
+    quality: 33
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/08/bigstock_Ai_Facial_Recognition_On_Cctv__363978424.5f2ad4b202f2a.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 866
+      - url: "http://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_custom-5e9fe2a47411735dff5e83b81a47ec43feee537f.jpg?s=6"
+        width: 948
+        height: 631
         isCached: true
+  - title: "Singapore’s Universal Studios deploys facial recognition for entry amid Covid-19 pandemic"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-03T13:08:00Z
+    webUrl: "https://www.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL.html"
+    ampWebUrl: "https://m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 30
+  - title: "Universal Studios in Singapore introducing facial recognition scanners"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-04T01:26:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 19
 
 secured: "QvCmJ3VtIjynbVlJjUvV1xBxw+LEfAU1N3TXiAAS5TxydY4WEZ3tGAffYpBLo8OKI2TPQo1U5SzZ5p1Wi8vOBf9/wxmYaJ1QNIhTaJeI5mEi6Xg8qdrqt/HzSP9YGLhNwyiZC9Sxg+bp0D+w+xvBushGEkKz3FMIHFNzkjORpGOX/yKXT13rl82/cCbbwrmxG51hZtiKJXPqDVEzkBJuqsJy8iH1fPEZ0GlD7y0qZR89ma8Hf1ZdBzEwcBW+BaEEAGQB82FQWWmKBc/Jr/DNiF7IJ6FGR0srseOlqP3dYCdkW2E1PLQ6CWD/OMcGlABmbbZ/2EjrKHtR1GBEEt/M0w==;vGRrzYZSjO2/czHWacd5vw=="
 ---

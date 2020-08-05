@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-Driving Cars Can Be A Boon For Those With Disabilities"
+    excerpt: "From access that was impossible before to easier, cheaper access, self-driving technology is going to be a big boon for the disabled"
+    publishedDateTime: 2020-08-05T19:09:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/08/05/self-driving-cars-can-be-a-boon-for-those-with-disabilities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2afe3d2c7ac08cb1a53806%2F0x0.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Ex-Google engineer sentenced to 18 months for stealing self-driving car secrets"
     excerpt: "A former Google executive who stole thousands of documents about its self-driving car project before resigning and going to Uber was sentenced Tuesday to 18 months behind bars."
     publishedDateTime: 2020-08-05T15:11:00Z

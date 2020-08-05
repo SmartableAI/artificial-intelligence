@@ -3,7 +3,7 @@ category: news
 title: "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks"
 excerpt: "Click here to subscribe for free.) Automaker Fiat Chrysler (FCA) and driver-less technology developer Waymo are deepening their ties to build self-driving trucks. The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across the automaker’s full product portfolio,"
 publishedDateTime: 2020-07-22T07:55:00Z
-webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!"
+webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece"
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 384
     isCached: true
 
-secured: "MBeVOjkSRCxlJlI16AA4Xmc/clKmCKwvYgd+AE6b6Gjnrj3Cdz5DKawoa+IUxb9D1egiyiQq/gOJelqcammdqVfY2osUBsp9fOO+OoaXeQmr3PC7CPGFaLH/lVkUfkb02Ze8AHWEOmP/zSz5MnaDwEWC7Fq82uVSZHO0MS05O7EFKcx1fYQRiSka9OY61/jO+mkXhHcL/BIVJo6XYLP15VcoYTM3UQx3qzykLYbxgKdoyLDEBh62mnXEggAACp/zSHPwa9fY8o6XDgQux7XwQJ2aDhznVe05wrb6te2bifjG2sTLJJ0wSUepB4ePExXXH+IOtix4KibwiSObljdn0w==;b5H7wrr6ToVl4tPkUA8GrQ=="
+secured: "PULJ7QGfBCjkq7GTVIYte/98A/aTWRT1+xzuKnUS9GLgUq1LoLHpyBhYIh0PBmjpwUER4v81KpEBO/TqEUbAGL+NtRJ2OoQlx0/RzLS6/zVgENd022CWNCix6mHTu/ZPa9dONgDuGCxEArdWijziZPLWPrMYDRzDzaRzTVQ4CGSZcMAQ4sgboT1qFFfAMbZKiJzHx0yjhGEcACIXPaBom7UGczC/rNh13kOhc1HaecyJjeD6qkv1oVkXUhXdxpWkaIEAa2MgvjrSqmaHIZ9ew76jvgvikXyJtmZ+1J1Uwb+bE+B29etwBKvsBCQBlMas0WbYOTKhDt6IHi80JqxkKw==;IH2SNdn0l94zUHGMCRUPOw=="
 ---
 
