@@ -36,6 +36,6 @@ related:
       domain: techshout.com
     quality: 19
 
-secured: "/brxF37doNnYQbQcnIqscdcV8l6W0pTDS0fnKBnUl6RP5AqYtmNbA81BTqkhfkuQCYYpi55RmCuufW7bv6mVjRS5nTLFK4sn/dtINjuUGYa9zU0SrnPx4QMPzsZ2CrDAovecRq/TUfHpsAA+6l3dPxV6R7o1/yEUYtbaZLs7XeTZluPCFXCtx6abCp7cFzJEUAamm3acYaJFZ7twsEZC/bhwM7FZrmz50e+UPH5rcMTtVyHb8LSs4jUHYlvXBbxnvymor3w4lcmYH3HNjogYpgYpEOnOkG6xntS7MxBlyNOVDTD/7amrVf7vr4TLIYC+9eR2AlfzI955JMxXF9zKGQ==;XPM0/Fdg7AHM+blEUw0law=="
+secured: "dG2OAYKDaYuVxbfgGXLjKhTopbxg/Ejl+XjZC89eZVGy2CurKhaxP4oUUzuJx3bmNeT7mBey1m1KBns42YaxBDe9lZlZaPHxxaUF16Fw8eOTbPFJzDuciK3KZO3EZAJDCD/Hx+K/mcapXe4cuhHsQ7UAE8xqto8R/xbSBwfENb1nkGRiw8lZ4E6nBOeFJgEEpuLdESNYKGTXOcnVFTB4BvO6JRvU444Yr1gxm8v1QzCoHPoX/nddxIb1h9lbtRg71YHbHYF/4VfAJQMiwo85r8KS+hDJFFT/k+xYaRYlogOp5A/H5JVKpIGejEp6LGN5MXUYke7aFYo0pBvuyTQ5ww==;cP0fSuXgAylmsIwcY8NEqg=="
 ---
 

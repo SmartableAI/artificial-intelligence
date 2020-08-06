@@ -1,9 +1,9 @@
 ---
 category: news
 title: "UAE, China to collaborate on fintech, AI as part of China's belt and road initiative"
-excerpt: "The new agreement will enable fintech – financial technology – firms in Dubai and China to access reciprocal markets and create opportunities for mutual development. The memorandum was signed ..."
-publishedDateTime: 2020-07-25T11:55:00Z
-webUrl: "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative.html"
+excerpt: "Dubai International Financial Centre has signed a memorandum of understanding with China’s Jiaozi Fintech Dreamworks as part of China’s belt and road economic initiative to co"
+publishedDateTime: 2020-07-25T11:59:00Z
+webUrl: "https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
 ampWebUrl: "https://english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
 cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 263
     isCached: true
 
-secured: "bFpotCTv4A4ufzlSuUwzJ19TE9OealjJ+y2SUZxoOE9HftnCGVpfi/Rq37Gz3aWyz8nzC88IAURxnvJtFU5h0MNC8eCALsStWA9MvV3oSdUpnwTHbE4j8ufWJzBEYX4ararpeDsBTbrvbTcCyZeIhkObg3ywYL6QY5RMqZaTp4nKgLA3oAeP+JQtpQqyYYC06DTmh0VxZ7US89Dk4d4MiSMTs/Xc0Ee5aS6phgEZ7moc1bS/GabipHFQLKVUlyKnTwd6usYcJn80aseZn/8oX6ijDChKbM9MPCWLXN3xSorkpcvaF6XgyzoGCgo31ad4CpgpXkShTxWBTw6ZRXMl6w==;Xj3er1U9aONaqe+4YBlDUw=="
+secured: "2WrOxErwZAMTWygy99Rn46dnOGEUfS1R1eB0x92MjmPZj1dVO3gojNCbNk75qzlHOdQgb5EFClS6yJ3iTwCicUEifTWyVrv3XYl1EgSGaDeJeXR8qVQnzsSvH9EAisCSE6XueEiRLyIN+YQz8E99p4r13USCOteY6k+ADvjMWrOYQvyceu7RBLTiFBtDBqCctAHXwRzIUd4IW9VZ6PRK9yzAr8caObfBXJmpJQwinJKvhdvco2/XIfrUP/g0nMQLzTYzOIwPgrs1e8+pLpCT6WeManc16kxhZsuIS3bWv0N8UvkGHTnLyTkhV2aFnR6UlkO4aHXw3yKf8U/Bj8f9Bg==;ScB7xwlJLaB1C3LZZai8Lg=="
 ---
 

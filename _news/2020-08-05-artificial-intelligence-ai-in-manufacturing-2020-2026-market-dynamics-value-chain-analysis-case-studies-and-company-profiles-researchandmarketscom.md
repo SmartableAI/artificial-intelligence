@@ -23,48 +23,68 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025"
-    excerpt: "The latest research report on Artificial Intelligence (AI) in Healthcare Market delivers a comprehensive study"
-    publishedDateTime: 2020-08-01T22:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01"
+  - title: "Vehicle Speech Recognition System Market Analysis, Trends and CAGR Projections 2020-2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-08-04T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-analysis-trends-and-cagr-projections-2020-2026-2020-08-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Share Current and Future Industry Trends, 2020-2025"
-    excerpt: "Machine learning (ML), deep learning and artificial intelligence (AI) are expanding rapidly as they are finding constant application in healthcare institutions for extracting huge amount of patient data using genomics sequences. AI also aids companies to ..."
-    publishedDateTime: 2020-08-06T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-share-current-and-future-industry-trends-2020-2025-2020-08-06"
+  - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
+    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+    publishedDateTime: 2020-08-04T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-embedded-digital-instrument-cluster-market-by-development-trends-investigation-2020-and-forecast-to-2026-2020-08-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Digital Assistants in Healthcare 2020-2025: Artificial Intelligence (AI) Has Emerged as a Major Boon Amid COVID-19 - ResearchAndMarkets.com"
-    excerpt: "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33."
-    publishedDateTime: 2020-08-04T09:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200804005501/en/"
+  - title: "Global Speech Recognition Market Expected to Reach $29.28 Billion by 2026"
+    excerpt: "Speech recognition is especially designed for an interdisciplinary subfield of computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers."
+    publishedDateTime: 2020-08-03T23:54:00Z
+    webUrl: "https://www.alliedmarketresearch.com/press-release/speech-recognition-market.html"
+    ampWebUrl: "https://www.alliedmarketresearch.com/press-release/amp/speech-recognition-market.html"
+    cdnAmpWebUrl: "https://www-alliedmarketresearch-com.cdn.ampproject.org/c/s/www.alliedmarketresearch.com/press-release/amp/speech-recognition-market.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 35
+      name: Market
+      domain: alliedmarketresearch.com
+    quality: 38
+  - title: "2020 Automatic Speech Recognition Applications Market Size, Rising Impact of COVID-19, Insights, Production and Demand Analysis to 2025"
+    excerpt: "The report mainly studies the size, recent trends and development status of the Automatic Speech Recognition Applications market, as well as investment opportunities, government policy, market dynamics (drivers,"
+    publishedDateTime: 2020-08-02T00:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2020-automatic-speech-recognition-applications-market-size-rising-impact-of-covid-19-insights-production-and-demand-analysis-to-2025-2020-07-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
-      - url: "https://mms.businesswire.com/media/20200804005501/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
+  - title: "AppTek Expands Speech Recognition with Modzy AI Platform and Marketplace"
+    excerpt: "The deployment extends AppTek´s language transcription and translation capabilities available via Modzy beyond the initial five ASR languages and two MT languages contributed by AppTek when the platform launched in November 2019."
+    publishedDateTime: 2020-08-03T14:42:00Z
+    webUrl: "https://financial-news.co.uk/apptek-expands-speech-recognition-with-modzy-ai-platfor/"
+    type: article
+    provider:
+      name: Financial News
+      domain: financial-news.co.uk
+    quality: 33
   - title: "Digital Assistants in Global Healthcare Markets, 2020-2025 - Industry to Witness a CAGR of 33.7% Over the Forecast Period"
     excerpt: "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33."
     publishedDateTime: 2020-08-04T11:40:00Z
@@ -74,6 +94,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 24
+  - title: "Global Automotive Voice Recognition System Markets to 2025 - Cloud-based VR Systems Expected to Be the Market Leader"
+    excerpt: "Dublin, Aug. 04, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Automotive Voice Recognition System Market is ..."
+    publishedDateTime: 2020-08-04T11:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/g16915910/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-t"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16915910"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16915910"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "62RI2HGBQ3SuBij0mnFEHVmlWapJEKGaTr9LVOFS9fX0vcpwN95JF04eVfSUknHjZv92kb849CTKlnV+2s8VgUEPMOD0v6/rsMkyyGAgBUUi3o4+asAV9/VuJ7GFIkVeOM9crgkfSP9gXsBbCDylc+5mTO9Z8IXjA38IZhEq6VKZmRuEPXA/GBN7UMIWjcA6ocUZJbApNfPAId/4GPHXUhZH5RcXJitWgF/A7hqaqqDhNNZn1fMofLZ5fnGHZmzd86BsZk2nJZGqd6EWZb4pM7JHax/M4/icOqSlogo0B0mhdEpzWOluOxLC9rPQ4DU8OXbBP3LT32OL2954oDdaCw==;AwHYXMO/LlaRq14zmiXPUw=="
 ---

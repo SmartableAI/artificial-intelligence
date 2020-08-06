@@ -143,6 +143,20 @@ related:
         width: 665
         height: 278
         isCached: true
+  - title: "Guangzhou Baiyun Airport launches facial recognition for domestic flights"
+    excerpt: "Guangzhou Baiyun International Airport in South China's Guangdong province has launched a new facial recognition service for passengers taking domestic flights. One ID, launched Wednesday at the airport,"
+    publishedDateTime: 2020-08-06T14:37:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202008/06/WS5f2c15bda31083481725eb95.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 53
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202008/06/5f2c15bda3108348fce30235.png"
+        width: 623
+        height: 415
+        isCached: true
   - title: "Portland Votes to Ban Facial Recognition Ahead of Referendum"
     excerpt: "The ordinance will take effect in 30 days. Danielle West-Chuhta, the city’s top attorney, said that if voters approve the referendum in November to ban facial recognition it would replace the ordinance passed by the city council and can not be touched ..."
     publishedDateTime: 2020-08-05T00:32:00Z

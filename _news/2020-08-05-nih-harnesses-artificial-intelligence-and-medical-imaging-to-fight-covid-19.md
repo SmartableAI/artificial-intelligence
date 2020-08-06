@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200805/NIH-harnesses-artific
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "NIH harnesses artificial intelligence for COVID-19 diagnosis, treatment, and monitoring"
+    excerpt: "The National Institutes of Health has launched the Medical Imaging and Data Resource Center (MIDRC), an ambitious effort that will harness the power of artificial intelligence and medical imaging to"
+    publishedDateTime: 2020-08-06T14:17:00Z
+    webUrl: "https://www.muskogeephoenix.com/news/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/article_4636889b-d8bb-514a-9365-a4cf01cddfc5.html"
+    ampWebUrl: "https://www.muskogeephoenix.com/news/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/article_4636889b-d8bb-514a-9365-a4cf01cddfc5.amp.html"
+    cdnAmpWebUrl: "https://www-muskogeephoenix-com.cdn.ampproject.org/c/s/www.muskogeephoenix.com/news/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/article_4636889b-d8bb-514a-9365-a4cf01cddfc5.amp.html"
+    type: article
+    provider:
+      name: Muskogee Phoenix
+      domain: muskogeephoenix.com
+    quality: 51
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/muskogeephoenix.com/content/tncms/assets/v3/editorial/c/4c/c4c25ea1-8795-5350-9535-909dcd4cf5d1/5f2ae5c131e71.image.jpg"
+        width: 800
+        height: 389
+        isCached: true
 
 secured: "f2ze1z/ZWMr0G+Hwyjf+yNROyfbCjttLmDY4l0wcehEdk2yhv3na0Gq6INj+bElLTHqx+yyyFW9Z3RXF49xADwsHx3aSQpGfw+nlKznxU4F3+LXz+/PA+Ha2FGbH4Zlt4/yAB2JBSLdzhnFJgckL5rGWnMn+pIGVOx4nda+Ky4/qrWAv3D6DOGVqVi3Idtn5JMqjmRcCOxtzxUp8wcMefTCP8p0kghrMkNyLRnAhU3rxHwnWkep6msiWQjnobCj4j3PeecYDMRrFKCABY00gLcYN1hPVRQCyHcaGaQt8S1ge6vp1uroS4soxLWAFwfj8JEL1Z/P22xOwlUI7FFe66w==;d6lR6cQwM+yS4vRLt4sI5A=="
 ---

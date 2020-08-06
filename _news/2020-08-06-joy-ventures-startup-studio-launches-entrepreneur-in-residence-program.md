@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Joy Ventures Startup Studio Launches Entrepreneur-in-Residence Program"
-excerpt: "an AI-based voice assistant for websites. He previously served as Innovation Manager for global investment company Hagshama, where he led the development of its investment app. Joy Ventures is a startup studio dedicated to building, funding and supporting ..."
-publishedDateTime: 2020-08-06T13:21:00Z
-webUrl: "https://www.prnewswire.com/news-releases/joy-ventures-startup-studio-launches-entrepreneur-in-residence-program-301107467.html"
+excerpt: "Joy Ventures, a leading startup studio seeding and funding companies building consumer products for emotional wellbeing, today announced"
+publishedDateTime: 2020-08-06T13:06:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/joy-ventures-startup-studio-launches-entrepreneur-in-residence-program-301107467.html"
 type: article
 quality: 22
 heat: 22
@@ -22,6 +22,6 @@ images:
     height: 315
     isCached: true
 
-secured: "0pTZMlMFg+navJChRfAFiILKzUZUZuUdLssSD05kp1P1TcmGpL/vo+ylwT6NIG+DRsgkipEmXHKOt+g9MwEq1zKTIIOf3sRO5vza4mmgsc0gff4b8IV8H6/Nrufq2iNKkD/6FmnpuvgtiUSR0JMQplBnGJLfFMJUsOZxJCgjd8qNJqqbC4QQH09V7PeytX0N+WpM4QeDOK3R98FHm2hOMVXwd2SufKQiZIIXhHCGtngSZTkoJngfp3D39oyHGFUNxHXP6+8fr4aitOGKk8m7fNd9abBImGKPQeg6klMkalwMAjoSOeuhjFlHtBfnL+AdGsK6GrJukssJAPK0JCkL8g==;MI8EXDQwOD98078pXGoVxQ=="
+secured: "HfmpHWJRebMHxpyA6u/e+NvHohEizjC/ZhSVlxbKwpYx0X0kh8rouo6fW+aJ5pyAaQEuRqpcs+eDdo2j6KF8qHRGFumSYYayComP8pUY1GDoDqNpZ0/VRsNI45dbniKHG1WW7oFtNrowLLkzdThkby/vGQQMW485Rl+o6/MUSpmck9geQsM6ossFebhL1XP+v8tf94NbgjLhEECoJOiDrdgMyOLvUDi/1XZoCznVJD+VT3JDP6E+3JkCRDidII4YeWiGb19pnVhsqrj9sj6E42DPIWMJtYYBI9U5AIzwd0toQO+Rw/w7rwlWytsd1WR2N8ZyfyyPDBRwRfI9Pp4ItA==;wnhT2fblDOmVipAEHTP9Lw=="
 ---
 

@@ -7,9 +7,9 @@ webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-lear
 ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: EdTech
@@ -18,6 +18,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
@@ -25,6 +26,22 @@ images:
     height: 500
     isCached: true
 
-secured: "DRW9/tMTrRjwKDGSX5LuOujQKEaX/kT8WemjOMm2UPdDCecTeBI/betD7SwjZQC7XuccIq6WAtBlLS82O/U7E/TP3WwBBhSmDsYOg7qwh/1arMYQs2sy0v1HH/sBgIuExMD+5FPzyGU6Kb/rlkPwamjmfuukdJLdebuQqo4AwSW+9z6HgQpOuanb5eZheFN1zzNdhKRpP76GCUaHnD+HT4JLY6iwJ9m8d80enHztpDnLI4sHPjRmWeF7Nx7nI+6dPMMIMkvz2gAikH0gP5RrjHePxP8iJvBXRZhhWVodxLQdy/Cd8NvFESsh7ksycyd9pC3LqjEa4Gaxi/gbRWi5qw==;5XIHp8BGynLLC09U+kVCVQ=="
+related:
+  - title: "Three new reinforcement learning methods aim to improve AI in gaming and beyond"
+    excerpt: "Researchers at Microsoft Research Cambridge are collaborating with Ninja NinjaTheory to explore the potential of reinforcement learning for gaming. Learn how Project Paidia empowers developers to create more nuanced in-game characters & can lead to real-world applications."
+    publishedDateTime: 2020-08-03T14:01:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/three-new-reinforcement-learning-methods-aim-to-improve-ai-in-gaming-and-beyond/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2020/08/Project-Paidia-Hero.png"
+        width: 1567
+        height: 882
+        isCached: true
+
+secured: "SGU75oqfx2MbBqSdgvoXcGrnmAtyPRgqHsqdCwP1as54IB8l6LZdEGgwI45qL0wOZtGjl+b+D6jrHlsb3TrxP08EJQz73/U7vXVzCn72nW2joPK5FDryr7jnG+1Tzdtj1mNjH2yZ9RbnAC8+Knhlhol2MZW1wOxU+LQYmVfLvy5Dopexe239RGIc/SX7YAGIMqPfB3ApRZ069wdgWKQKOw7cZw2AH4CeEvvNhl4SBm2sTZwDzTcu7GhMXgnRDOlA+12n8YeNAcFFbxY/4xgR2Roi4oJ9T7ymYC0XpB9dbagTS8zlorSpYH43H8nD8MlGYvX3526UMsREHoxkG+8agm3zl7WUWHBEDEXjpiCFFgEHMmXv+3BxJYRaVqtPM9jDPfFmQDQyKRBWJGg1LL1WOqiJ1yeYkJFIy97na239uiJCALbh3jGtyjT/nUxTVvfxA473xJd2af9RHgfjfXMcjDdxHHWERBPUCjZ3ND6NOJdboiwmox+SbCUEncQZCQWzPLfBj8ZowDNCDgRzrh4uVA==;fZhgsfd7Xuxkmre89Dy0bQ=="
 ---
 

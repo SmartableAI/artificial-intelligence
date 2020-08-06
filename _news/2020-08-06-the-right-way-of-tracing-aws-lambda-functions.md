@@ -5,8 +5,8 @@ excerpt: "With an emphasis on distributed tracing, this article discusses best p
 publishedDateTime: 2020-08-06T12:08:00Z
 webUrl: "https://www.infoq.com/articles/tracing-aws-lambda-functions/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://res.infoq.com/articles/tracing-aws-lambda-functions/en/headerimage/croppted-Qs0I94Zo-1596554747059.jpeg"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "bpdFqPJAiebPb0hDKE6y7NHzIqBucihTGk/mS+C1THCGIQGbL4c6F0h8Y1XVAOuMA9/AhARhQR0ZeQ1G6oVoZm2/MLB5i6pfRdqrZmJ3uKnzsEPTyB1e5W5g1amd1i9gt52e/rN89OI2/PZtIx6NgJbtjw7y9gdRqR/qNV6UYv8aUxOcw/hGHfO+/iI7zayqKmmqOHXWmzFm30PN4mGWbQfjIcUdiVmQSh23HVhfsChoBonYaCgl4qeO897S+rfZoADOEVNcFDYTd1yyCT3WiqeI9OR3dCZv/G9VY8uLkJJ4WHB8Hx2f/DGllls4CqdxY0vDIP+aRAycs3JgpnD32A==;qelU5+H1A7UBGivi+62b5w=="
+secured: "1K3GY5EipTR1jPCuCsA6MQDbLq1qlhJ8cQjBBuxlLS7Daq4qMmtK3RHPnYA8Pa+2AxW5ti9jdec4Gw2EMYd3E5y8TEtAZqqrxDc77aNUm3C69Xs9YQAN9iLiYDT/VtHij+SzRRgGouz0LcygZWndBMfaaJi+hULagCiXMgXPnCnax595Lrc/BuECCXCyYwRfQE2PoQWcbjbDxmYs0oQjoaCNe21gD+ulKQXY67ueHKZunDjJgya6NB+VEM6+zQ+foGl5R0vnaG5rMzYL4Ha4sVDivmup2q+Z3MbhqeHQ4D1o+HIhyE6HfcHMLM7Dp+7xQEj40sXexG2xtpB2LGkwEJBeCbN9UxkLZfYgQ6cEVFMekiAPQf8ihPi/AdkZEKer87vrYoVHsVeRqtVxZZR8HeSRHsM1N0CoB3evb5KRLG21h+aubLoRpDQM6VvWTw4+QhDLiTBlMyyTuYe4Jaw/72Ex9imbU6ZUxQp2oTAyN1+ALoc46iCUzWdOJmtlEg2Ym+wlLTzlyUNgnOvDrDyzuA==;Nh32RZk7xVUi1WmCb+CH5A=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Edge to Dethrone Cloud for AI Chipset Revenues with US$12 Billion in 2025"
-excerpt: "Edge to Dethrone Cloud for AI Chipset Revenues with US$12 Billion in 2025. Singapore - 06 Aug 2020. The edge artificial intelligence (AI) chipset market is expected to exceed the"
-publishedDateTime: 2020-08-06T08:57:00Z
-webUrl: "https://www.abiresearch.com/press/edge-dethrone-cloud-ai-chipset-revenues-us12-billion-2025/"
+excerpt: "PRNewswire/ -- The edge artificial intelligence (AI) chipset market is expected to exceed the cloud AI chipset market"
+publishedDateTime: 2020-08-06T13:38:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/edge-to-dethrone-cloud-for-ai-chipset-revenues-with-us-12-billion-in-2025-1029478548"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/edge-to-dethrone-cloud-for-ai-chipset-revenues-with-us-12-billion-in-2025-1029478548"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/edge-to-dethrone-cloud-for-ai-chipset-revenues-with-us-12-billion-in-2025-1029478548"
 type: article
-quality: 36
-heat: 36
+quality: 66
+heat: 66
 published: false
 
 provider:
-  name: ABI Research
-  domain: abiresearch.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://cdn.abiresearch.com/media/social_images/MD-AIML-105.png"
-    width: 501
-    height: 399
-    isCached: true
-
-secured: "wG5LNlBHQQwUg1M9aVPW8MAOTaZxFWytFnRvv/ufBqwYACewhlBuvPfEXNCa6qAyZ2cd0eOEJDJToGl8RSCAPhBe8uF28f96GFTYpVcylGlHlj2GRHQm8gWVfJFztwjrRcdwdWoLjs/xLaaXKvCgZZqkG/o8b7jTGe72j4+3MG8vwAdYj+blFrkazLKsUlkjgvtvGvL/7Vy4+eJ5iJdMdC4sPLY/Svr2jdjVI7uo+xCCHaEk9KumD9ZNmlJ9Q/pZECZ5Jm9eWZQdgZbzl4H5IwS5x4Lbn3A+2T0Wx8K3lBYFvvGBWfg45aCJ+UdAqgsmpKiOMgIKIarrwreZeD/RlDYjtRZo2+TrVsWoRKLjFVcIhDxmgqjAB0Q3Ehq7qTg3L+Aaextd9kOqlD/8uQCtxx3pXe/QQDRGPqPwvz5+v/O+4SThwEEY7yrI1Y12bl42aQBTVKb8Py/E+t7XbAJrs1Sdizq4rhlTEQVhHPnueCMAq2loade5zbFKF6QtXzwq3Ajt9x6+CoENS1rHSqo3bw==;5ubeLkD0rrnfDEWQ6kPRqQ=="
+secured: "jgWZGENBumaCY025SdePBg+AAcGs23ZUcuu1X7DBw0gCv51QNemY7GNt99Ey68QyQE3j7M074GI0WE9h0FeE6LLH9no2PA4eOMHtLPI8yXYU13vQli0oBkMc9BhSkJTYHMA2v/CChHA0diTPzb2sL8zeOP6Am7CfVFIhABj64WS8mlAxAmaeGpwDKsiJsW4mSjZ+BkgMg5fT0CkH30SW0Bz0aIvfDqsQZARYzv5KqpZzS/QxU+9ffGuyfPUo7ZbBvDeXsjkEmHGFCiUAnGL+7BM70apUg8laiFkHmjv7SMKlYuU1orYBGSuBFHCciLNLHmLupoNfSutiRtazxDh8oA==;vrbRn5bgJw7CvxW1wiYdiw=="
 ---
 
