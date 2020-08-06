@@ -22,22 +22,6 @@ images:
     height: 1008
     isCached: true
 
-related:
-  - title: "Startup Funding: July 2020"
-    excerpt: "Founded in 2014 and based in Cambridge, U.K., the startup also has efforts directed to computational chemistry and machine learning. Total reported funding has reached $45.5M. AI, as a broad category, continues to draw the interest of investors."
-    publishedDateTime: 2020-08-05T07:10:00Z
-    webUrl: "https://semiengineering.com/startup-funding-july-2020/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 22
-    images:
-      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2020-07-Jul-table1.png?fit=876%2C527&#038;ssl=1"
-        width: 876
-        height: 527
-        isCached: true
-
 secured: "aAJrcKbU5woFVkdLhZ6dl3CPFrm1c6OuTkGpmDgxW8m27DI2Hfrt0VGFlixeuxvV9BXUz3fxbm3QYJO59VrDTqfGsYRoizw+tW17NJai+LoF6dVIr2ctzeK8dlcuWK7bOq3baRWbfvQ2xBQHhLpvxQqKj07hzj0eCPjeVknJwXmDN9mxa6tV0UKcocZqKvw94mXsMxHhE3v3/Z2Xy8Bhn0pQrDyMecXO4Hm0X+DExcSKvMupQ+dv0vQ1vrVW6qRz4kbySjWN+HQa8uq6XUn7tjbSS1X/V2YcaOpFGcIBn4EcV0B/DmSB3ONf1DXRhrxNCBfQmRttqeE5gOkKTjACYqNo4DGAkQD5XsphiEl9l8q0WIkgnfz49w1wYG/5XaeCt7e5hGs/Y6gwbNKEzSGGuwDVKkWcTHCzvkZaASCkCPEGOA17bSeySvjylLH4gu6t9OxhaS5WRyg8J2FBy+TFweNH49ctPNi46UZaNaptt2AiiVcWv9zOA58n2PXNuLL25LzRVoJFW3hTA6JVnC3xRw==;Wi4xkJ/T+6U1mf5x90XlrA=="
 ---
 

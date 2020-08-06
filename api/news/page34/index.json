@@ -2,6 +2,55 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-07-09-ai-wants-to-make-your-writing-more-polite.md",
+      "title": "AI wants to make your writing more polite",
+      "excerpt": "Carnegie Mellon University scientists come up with a technique that automatically makes communication better mannered, thank you very much.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-wants-to-make-your-writing-more-polite/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
+      "publishedDateTime": "2020-07-09T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-elon-musk-is-extremely-confident-tesla-will-achieve-fully-autonomous-cars-soon.md",
       "title": "Elon Musk Is ‘Extremely Confident’ Tesla Will Achieve Fully Autonomous Cars Soon",
       "excerpt": "In remarks made over video message at Shanghai’s annual World Artificial Intelligence Conference ... is competing with the likes of Alphabet’s Waymo and Uber which are all spending billions ...",
@@ -1099,56 +1148,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning.md",
-      "title": "Digital Transformation Isn’t About ERP Anymore, It’s About Automation With Machine Learning",
-      "excerpt": "All good, for sure. But is this a sustainable role given what’s happening with machine learning? Clearly, companies will invest heavily in automaton to save money and eliminate, streamline and optimize processes. They will map and mine their business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1224178306%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
-      "publishedDateTime": "2020-07-09T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

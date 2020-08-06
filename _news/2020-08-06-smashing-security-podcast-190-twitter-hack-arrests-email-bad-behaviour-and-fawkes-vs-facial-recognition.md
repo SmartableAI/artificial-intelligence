@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
-excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
-publishedDateTime: 2020-08-01T14:18:00Z
-webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
-ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
-cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
+title: "Smashing Security podcast #190: Twitter hack arrests, email bad behaviour, and Fawkes vs facial recognition"
+excerpt: "Special guest Geoff White can’t resist using the podcast to promote his new book, “Crime Dot Com”, but other than that we also discuss the creepy (and apparently legal) way websites can find out"
+publishedDateTime: 2020-08-06T00:26:00Z
+webUrl: "https://grahamcluley.com/smashing-security-podcast-190-twitter-hack-arrests-email-bad-behaviour-and-fawkes-vs-facial-recognition/"
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Philadelphia Inquirer
-  domain: inquirer.com
+  name: Graham Cluley
+  domain: grahamcluley.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
-    width: 1200
-    height: 899
+  - url: "https://grahamcluley.com/wp-content/uploads/2020/08/ss-episode-190.jpeg"
+    width: 730
+    height: 380
     isCached: true
 
 related:
@@ -70,21 +68,23 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Smashing Security podcast #190: Twitter hack arrests, email bad behaviour, and Fawkes vs facial recognition"
-    excerpt: "Special guest Geoff White can’t resist using the podcast to promote his new book, “Crime Dot Com”, but other than that we also discuss the creepy (and apparently legal) way websites can find out"
-    publishedDateTime: 2020-08-06T00:26:00Z
-    webUrl: "https://grahamcluley.com/smashing-security-podcast-190-twitter-hack-arrests-email-bad-behaviour-and-fawkes-vs-facial-recognition/"
+  - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
+    excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
+    publishedDateTime: 2020-08-01T14:18:00Z
+    webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
+    ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
     type: article
     provider:
-      name: Graham Cluley
-      domain: grahamcluley.com
-    quality: 36
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 38
     images:
-      - url: "https://grahamcluley.com/wp-content/uploads/2020/08/ss-episode-190.jpeg"
-        width: 730
-        height: 380
+      - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
+        width: 1200
+        height: 899
         isCached: true
 
-secured: "Cm2iSBOOEvpRfp1RTRPWK33mOF1g0bz4eiCYWIyqbCPn5Yy07Ptcnb0X6s79n2t+StpKFFMsACM+Ccv0GLGJKPHNTeG3HdVTAFkf3WFGc994PKGAB/Tj/cn2dJDVqDaTteJWJczgBsVBLfLN40DN8Rr62dl9xL0hv800AziMyW1Bcqd20mPhnhwRDrTY4O/YOJgIKWQqCCDQw77DVUdLNQrHkgpnw9HG9tzyjfbr39+X7Zh/Ss+tBkKqLTtHwiki3geMS6rK4GxnNLXL3M8S4WPaFxODpUxhfrkFYbPhak50vbnbIeom4vTd7AzhQ4kCuBL0ys/yr6DKJSmSw+dkylziXztmjvJ75oE7mWpNZqK9rxJwVUfIgB0HnmC26FDaYv/Xb48UJGfSuSck6MbjHgrY+IY6Eyc35un9rnca0hjrZ8Kvlt1YRZL7W8IGbMiT5PS9ezrdpUX3USmHHpOMskDLXXVtDyIAc/DTjdLhLOHiyvqrU6zDWozxOJTQBNxTCVHNzV68Y+7dGV5l2QiWLA==;5WtXxGi99GceqcQPR9pLig=="
+secured: "+GaY07XM0WnTYhZBhaYsEaex4Tyd3oY9hblSMKc3TDGwu33nWL9/7d5oRFCgNmfywYtfiTclMzSnjuKKUq2HcbTme+dDQwsJZAQVMDTcH3Z+TT+mOnbYac5S76zTKFfxLuJE02J3UpR6a1DxU1ae83Hv5zw1eufiVepnAKbqJScerrLJmme4Y5lh6kqG5LiUB77DXVBHC4oS6xc3sHbUaGpYT34eXh3DrrjykngsmHECPSoXN4a4p267gZTYRxd86YAd4PVeHlCby4Co0cALBi/LUIE9trKpExWMmEOAwufNWJbh75H+/riOHvKBJ4bXvHnxsNHOwQ3MQ2UEGpf8SQ==;tBquianivlgGgfPquV1YdQ=="
 ---
 

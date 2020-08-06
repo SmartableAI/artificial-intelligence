@@ -1242,22 +1242,31 @@
     {
       "path": "_news/2020-07-22-uipath-announces-integrations-with-amazon-web-services-to-allow-organizations-to-modernize-customer-experiences-and-scale-enterprise-productivity.md",
       "title": "UiPath Announces Integrations with Amazon Web Services to Allow Organizations to Modernize Customer Experiences and Scale Enterprise Productivity",
-      "excerpt": "By integrating with Amazon Textract, Amazon Rekognition, and Amazon Connect, the UiPath Platform can boost employee productivity, enhance customer experience, and accelerate digital transformation through dynamically-scaled AI-powered RPA solutions.",
+      "excerpt": "UiPath, a leading enterprise Robotic Process Automation software company, today announced it has integrated its end-to-end platform for hyperautomation",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/07/22/uipath-announces-integrations-with-amazon-web-services-to-allow-organizations",
+      "webUrl": "https://www.businesswire.com/news/home/20200722005133/en/UiPath-Announces-Integrations-Amazon-Web-Services-Organizations",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200722005133/en/718791/23/new_uipath_logo_orange.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T05:00:00-07:00",
+      "publishedDateTime": "2020-07-22T05:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

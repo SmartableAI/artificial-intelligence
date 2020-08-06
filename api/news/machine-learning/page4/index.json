@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-09-from-chess-to-neural-networks-how-machine-learning-went-deep.md",
+      "title": "From Chess to Neural Networks: How Machine Learning Went Deep",
+      "excerpt": "The man vs. machine debate is one that’s captivated the minds of scientists, sci-fi writers, and anyone with an interest in technology for decades. Ever since the notion of intelligent, self-learning computers was first posited by Arthur Samuel in 1952,",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
+          "width": 500,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
+      "publishedDateTime": "2020-07-09T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-school-debate-president-trump-pushes-for-in-person-learning-to-resume.md",
       "title": "School debate: President Trump pushes for in-person learning to resume",
       "excerpt": "Breaking tonight, how to get students back to school safely amid the coronavirus pandemic? The president and first lady participating in what was billed as a national dialogue on the subject earlier today.",
@@ -1346,56 +1388,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-here-is-how-the-united-states-should-regulate-artificial-intelligence.md",
-      "title": "Here Is How The United States Should Regulate Artificial Intelligence",
-      "excerpt": "In 1934, in the wake of the worst stock market crash in U.S. history, Congress created the Securities and Exchange Commission (SEC) to regulate capital markets. In 1970, as the nation became increasingly alarmed about the deterioration of the natural environment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/06/28/here-is-how-the-united-states-should-regulate-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef900ed2c12b2000624449f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2998%26cropY1%3D0%26cropY2%3D1686",
-          "width": 1200,
-          "height": 675,
-          "title": "Here Is How The United States Should Regulate Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/06/28/here-is-how-the-united-states-should-regulate-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/06/28/here-is-how-the-united-states-should-regulate-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-28T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

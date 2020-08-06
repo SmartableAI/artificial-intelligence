@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 899
         isCached: true
+  - title: "Smashing Security podcast #190: Twitter hack arrests, email bad behaviour, and Fawkes vs facial recognition"
+    excerpt: "Special guest Geoff White can’t resist using the podcast to promote his new book, “Crime Dot Com”, but other than that we also discuss the creepy (and apparently legal) way websites can find out"
+    publishedDateTime: 2020-08-06T00:26:00Z
+    webUrl: "https://grahamcluley.com/smashing-security-podcast-190-twitter-hack-arrests-email-bad-behaviour-and-fawkes-vs-facial-recognition/"
+    type: article
+    provider:
+      name: Graham Cluley
+      domain: grahamcluley.com
+    quality: 36
+    images:
+      - url: "https://grahamcluley.com/wp-content/uploads/2020/08/ss-episode-190.jpeg"
+        width: 730
+        height: 380
+        isCached: true
 
 secured: "vTP7XWh1ned1Imn+BIk7TLXeqJ+HvxFqATXK3BUVvnj8uM6EEHD2D+PAI0SqECTu2RaTGbS5iibR9l4DH62FR2HSiVy4zoQ9D4nkyBanNjC5L9YQGwAhy/hIZMD9H2RIX2lrYYhjryA8geXL3ZAucdyGt2DWXkuoJ7GM727eZ5O8eOnjKTCkbILJlBG5EGYmOtEJZcX7Yv3ZcTyR9ORuAi8f58TbK6YuAGLR2DVrfPnNQ/VJCAWVd8iLQhC/XqDmOgUMHm9bY5pQf0CvF+3La/bfwiSr3tfVKEuHjIcxLuGeQxECtHTkQXel5EYZB+9cD7a+bwano+FtvnraJxoSCw==;vrZO1/8KBAnkrCmi1NmEhg=="
 ---

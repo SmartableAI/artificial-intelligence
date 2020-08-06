@@ -2,6 +2,55 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-29-leverage-ai-to-optimize-customer-service-outcomes.md",
+      "title": "Leverage AI to optimize customer service outcomes",
+      "excerpt": "With a more hands-on approach to AI — that is, using the technology to actually augment everyday communications — workers can gain insight into concepts, workflows and ideas that would otherwise go unnoticed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1147156422.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "publishedDateTime": "2020-07-29T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
       "title": "NVIDIA AI Runs The Mlperf Table Again",
       "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
@@ -1086,55 +1135,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-chinese-dissident-artist-ai-weiwei-on-masks-uighurs-and-democracy.md",
-      "title": "Chinese Dissident Artist Ai Weiwei On Masks, Uighurs and Democracy",
-      "excerpt": "China’s most famous artist and infamous government critic spills on human rights atrocities in Xinjiang and state attempts to cover up the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f20f138fcd71c009e8086ca/lede/1595994995279-0001ow9h9.jpeg?crop=1xw:0.8438xh;0xw,0.1562xh",
-          "width": 4241,
-          "height": 2382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
-      "publishedDateTime": "2020-07-28T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

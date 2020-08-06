@@ -38,17 +38,6 @@ related:
         width: 440
         height: 440
         isCached: true
-  - title: "Regulatory Concerns For US Cos.' Offshore Service Centers"
-    excerpt: "Indeed, enterprises are leveraging emerging technologies such as cloud computing, artificial intelligence/machine learning, internet of things ... Traditionally, information technology and business-process services were readily outsourced to third parties."
-    publishedDateTime: 2020-08-04T21:11:00Z
-    webUrl: "https://www.law360.com/tax-authority/articles/1297068/regulatory-concerns-for-us-cos-offshore-service-centers"
-    ampWebUrl: "https://www.law360.com/tax-authority/amp/articles/1297068"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/tax-authority/amp/articles/1297068"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "Cyxtera Simplifies AI Innovation with AI/ML Compute as a Service Powered by NVIDIA DGX A100 Systems"
     excerpt: "Cyxtera, a global leader in data center colocation and interconnection services, today launched its landmark Artificial Intelligence/Machine Learning (AI/ML) compute as a service offering to deliver data center platform capabilities enabling AI-powered ..."
     publishedDateTime: 2020-08-04T15:44:00Z

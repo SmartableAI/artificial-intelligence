@@ -15,6 +15,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s29755.pcdn.co/wp-content/uploads/2020/07/Aoaeh_commentary_072720_2.jpg"

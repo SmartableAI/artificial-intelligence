@@ -23,19 +23,21 @@ images:
     isCached: true
 
 related:
-  - title: "Local AI and data annotation startup receives funding from E4E"
-    excerpt: "E4E selected the innovative AI and data annotation startup for its focus on creating job opportunities for marginalised South Africans. Enlabeler has received an undisclosed amount in investment funding from E4E Due to Enlabeler’s viability as a business ..."
-    publishedDateTime: 2020-08-05T09:06:00Z
-    webUrl: "https://ventureburn.com/2020/08/local-ai-and-data-annotation-startup-receives-funding-from-e4e/"
+  - title: "City AI tech startup bags IAN funding"
+    excerpt: "India Business News: Kolkata: Data Sutram, a Kolkata-based early stage tech startup has raised funding of Rs 2 crore."
+    publishedDateTime: 2020-08-06T00:47:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/city-ai-tech-startup-bags-ian-funding/articleshow/77382972.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/india-business/city-ai-tech-startup-bags-ian-funding/amp_articleshow/77382972.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/city-ai-tech-startup-bags-ian-funding/amp_articleshow/77382972.cms"
     type: article
     provider:
-      name: Ventureburn
-      domain: ventureburn.com
-    quality: 37
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2020/08/Esther-2-edited.jpg"
-        width: 1792
-        height: 1008
+      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "msLQiPTodZ6uG+eUCZKoJFkWlls/klV8hTMvn6wxIcwrtwKbJ5ltJPCDchZn2KPPgo9Ech56L9X6kcQpMq4gPSBjY8C+VIhEKywQcxeVGWb2gBmgVRX3a1iLjb/p7gY8UBFsq85Zo7elDLUGeBgmgleHYaoXrCon6tiHa45mkHGZZCr5oN+4NbnwKpS3fSJ0pYSVijXvQ0in+US97g3pr8g7EXWRVz9Ojt/EWOFq7AnqE8k1WOYQFi17K331O8uU8JNT3cnLkwuTEZ0BHKxPa9nrMQC7ghmVKkvVJPH2ZE5ztwpQy6bIRZagPeUCqJ1hB46flmGDzpoigguk2xMlUhIbd29s5Zu0jE+TuZUxzvOaxkkcsteza5LpsX7z/WP/Jf34Ge8XuvW2+1lSemrnGyXYIKuy5Cueje0ks1HdgQagcrxcjiGYvjvQs1sFBz2fR8yBVBqBGCZn5nh0aaYsaRDwSX4hCxy7K8WXiITd0GrzOPCm2pBhXHf/kVz1u0ecfz9ga7mAxNrfWC4L+99uHQ==;saYGS+XQ/FfLvGqRSIc5mg=="

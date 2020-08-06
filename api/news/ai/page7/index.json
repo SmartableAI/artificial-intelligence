@@ -2,6 +2,47 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-29-im-ibm-watson-product-manager-anamita-guha-and-this-is-how-i-work.md",
+      "title": "I'm IBM Watson Product Manager Anamita Guha, and This Is How I Work",
+      "excerpt": "As a product manager at IBM, Anamita Guha works on bots, AR/VR technology, and AI—including Watson, the most famous AI that doesn’t come packaged on a phone. She also leads analytics for ...",
+      "sourceUrl": null,
+      "webUrl": "https://lifehacker.com/im-ibm-watson-product-manager-anamita-guha-and-this-is-1821920759",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ippljnbhbgies04sg4qq.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://lifehacker.com/im-ibm-watson-product-manager-anamita-guha-and-this-is-1821920759/amp",
+      "cdnAmpWebUrl": "https://lifehacker-com.cdn.ampproject.org/c/s/lifehacker.com/im-ibm-watson-product-manager-anamita-guha-and-this-is-1821920759/amp",
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lifehacker",
+        "domain": "lifehacker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-medical-imaging-powered-by-ibm.md",
       "title": "Medical Imaging, Powered by IBM",
       "excerpt": "IBM Watson Health and Merge Healthcare are bringing new insights, made possible through artificial intelligence and cognitive computing, to medical imaging. Radiologists are about to get some help with their imaging workload. IBM Watson Health and Merge ...",
@@ -463,7 +504,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1375,56 +1417,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology.md",
-      "title": "How Reuters analyzed Rite Aid's use of facial recognition technology",
-      "excerpt": "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527392330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0S8",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24T1H5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5",
-      "publishedDateTime": "2020-07-28T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

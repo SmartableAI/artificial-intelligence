@@ -2,6 +2,55 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-21-immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos.md",
+      "title": "Immervision uses AI for better wide-angle smartphone videos and photos",
+      "excerpt": "Immervision announced new real-time video distortion correction software to help create professional quality videos on smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/immervision-Montage_Telephone-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
+      "publishedDateTime": "2020-07-21T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-machine-learning-artificial-intelligence-market-next-big-thing-major-giants-aibrain-amazon-anki-cloudminds.md",
       "title": "Machine Learning Artificial intelligence Market Next Big Thing | Major Giants AIBrain, Amazon, Anki, CloudMinds",
       "excerpt": "A New business Strategy report released by HTF MI with title Global Machine Learning Artificial intelligence Market Study Forecast till 2026 This Global Machine Learning Artificial intelligence market report brings data for the estimated year 2020 and forecasted till 2026",
@@ -1316,55 +1365,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-how-automation-ai-and-analytics-driving-martech-amidst-market-challenges.md",
-      "title": "How Automation, AI And Analytics Driving Martech Amidst Market Challenges",
-      "excerpt": "I’ve written a lot about the importance of the marketing stack in providing personalization and automation that will improve and enhance customer experience. Here are some insights on how Martech is enabling enterprises to overcome market challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1073605244%2F0x0.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/",
-      "publishedDateTime": "2020-07-20T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

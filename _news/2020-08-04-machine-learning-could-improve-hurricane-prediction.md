@@ -43,7 +43,7 @@ related:
   - title: "Machine learning could improve hurricane prediction"
     excerpt: "The approach could provide more accurate medium-term hurricane forecasts, allowing meteorologists to issue more timely warnings to communities in the path of potentially deadly storms."
     publishedDateTime: 2020-08-05T20:33:00Z
-    webUrl: "https://gcn.com/articles/2020/08/05/machine-learning-hurricane-prediction.aspx?admgarea=TC_BigData"
+    webUrl: "https://gcn.com/articles/2020/08/05/machine-learning-hurricane-prediction.aspx"
     type: article
     provider:
       name: GCN

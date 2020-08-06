@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
 cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
 type: article
 quality: 51
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Smashing Security podcast #190: Twitter hack arrests, email bad behaviour, and Fawkes vs facial recognition"
+    excerpt: "Special guest Geoff White can’t resist using the podcast to promote his new book, “Crime Dot Com”, but other than that we also discuss the creepy (and apparently legal) way websites can find out"
+    publishedDateTime: 2020-08-06T00:26:00Z
+    webUrl: "https://grahamcluley.com/smashing-security-podcast-190-twitter-hack-arrests-email-bad-behaviour-and-fawkes-vs-facial-recognition/"
+    type: article
+    provider:
+      name: Graham Cluley
+      domain: grahamcluley.com
+    quality: 36
+    images:
+      - url: "https://grahamcluley.com/wp-content/uploads/2020/08/ss-episode-190.jpeg"
+        width: 730
+        height: 380
         isCached: true
 
 secured: "axNMBlBKiz4esSinTPvlM8+wo88Wo5pIoZa0g8/NR4UdSz3rFQFsIlbKcWL1IzkjKM0H/yWueE70Dtp1em9B6AxoH0t6UmND+UAWbrj/HQ1P5lI5fbvHdDpXlVSEDArEdpoeBkVS5vZniTbyKbjDrW/VUpQCRa49HqnXX1cj1Etf37it+SD0c1GpfVkyPnE7652c6pydsSlvKjmAyKaBiD5/jmW7/IRm+1niCeyxsXKWzvglj3yDHw/7Kih2gmDAtERI/9OPUzZyre7/igQzurALisT5SyhddsCQXCQnVs1/A4GNzXt9Ni0GevNCfi7k8+JmNBfKw02cKvy5au20Lg==;PvlzIrlKaDW9OIWxZA1m2A=="

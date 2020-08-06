@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI Chip Company Syntiant Surpasses 1 Million Units Shipped; Raises $35 Million in Series C Funding Led by M12 and Applied Ventures"
-excerpt: "Syntiant, a deep learning tech company providing AI voice and sensor solutions at the edge, today announced that the company has shipped more than 1 million units of its Syntiant (R) NDP100(TM) and Syntiant (R) NDP101(TM) microwatt-power Neural Decision Processors(TM) (NDPs) to customers worldwide."
-publishedDateTime: 2020-08-04T12:37:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054"
+excerpt: "\"We are now seeing Syntiant deliver on its execution strategy, setting new benchmarks that are unprecedented for a young AI chip company with the volume of products already shipped, and new customers coming on board.\" The company's highly accurate NDPs ..."
+publishedDateTime: 2020-08-04T12:36:00Z
+webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04"
 type: article
 quality: 54
 heat: -1
@@ -74,6 +74,6 @@ related:
       domain: socaltech.com
     quality: 34
 
-secured: "Ed+Q7fsK6t5P0nrXAPRkCd0ufKIuGZhcKtgUf6RuOt+YRs4p6omVKWq/uUMx3hIsmNcd04pgtWRZSkeCsdqSbOPTdCiEJxOsgneQHVIVB34woNL3pnmub/iOZ5CcdCd8Tw1zEuVPoMnRTwPs/WOV6hAneAH+Q1txt964k3igohXbhRVPWEszjR+rrbDuq8ew5u8sCkF6dSrWyvun/N9NYhEyFi6vSoxgNZb39MMcxbPYu/vd1ew41nQcBqLY/dqAQGY93gM0p30+8p1+IKnxd82KM7bMZFEfg5rj9sGE0zj3z5Y4DaX1DZVX8L1NWMC1T/vK/PLLatZoiAJesjPl0Q==;5BBimmxMGSSIPWPfQe5Oaw=="
+secured: "pVlCm3SnD5dqySomEH/AY7zoVMXi4i9ZaAxt3vAiAR48vQWUvk4J7RDmDzfNXaQ56L1FefiNygS0qawGVg9MVFQOR49rPNtEd4kmEa3BcsyKGTLegtVxpoTfZ8RdbTS6u35WWAWoaz26u+5C2nRDGnIVTtcqvYSGH7fH6Hb7+qxQgsgxxkl+9mShh+MaWXIhpHdbxQWFgl9q8F8CyzZfS7bPaDnAdtiEyklK4FcDJgjv9IKbeRRcQFtbZeD+M3HEjAemsNKNI9zv8qI+EH2nsBKJytcv29SqitiEunVXkOVOOsVcEsURZwfi5vZMFA6UUbhaYMvFCPLi/8NvDAy6jA==;5jhy2T5cOR2mpfXYSc5zoA=="
 ---
 

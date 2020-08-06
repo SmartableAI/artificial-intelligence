@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-16-deep-learning-in-the-media-supply-chain.md",
+      "title": "Deep Learning in the Media Supply Chain",
+      "excerpt": "Deep Learning is a subset of machine learning and uses artificial neural networks that enable the system to learn autonomously. Deep Learning enables the processing of amounts of data that is not practical to process manually.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/opinion/deep-learning-in-the-media-supply-chain",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UVp4toMBipUZUtxdepAUBb-1200-80.jpg",
+          "width": 726,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
+      "publishedDateTime": "2020-07-16T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution.md",
       "title": "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution",
       "excerpt": "Altair Knowledge Studio’s AutoML wizard automatically selects the top variables, which is useful when there are hundreds of variables. Alternatively, the user can select the number manually and ...",
@@ -1346,48 +1387,6 @@
         "AI in Autos",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-from-chess-to-neural-networks-how-machine-learning-went-deep.md",
-      "title": "From Chess to Neural Networks: How Machine Learning Went Deep",
-      "excerpt": "The man vs. machine debate is one that’s captivated the minds of scientists, sci-fi writers, and anyone with an interest in technology for decades. Ever since the notion of intelligent, self-learning computers was first posited by Arthur Samuel in 1952,",
-      "sourceUrl": null,
-      "webUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
-          "width": 500,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
-      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
-      "publishedDateTime": "2020-07-09T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechportal.com",
-        "domain": "thetechportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
