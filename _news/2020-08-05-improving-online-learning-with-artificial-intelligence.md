@@ -3,11 +3,11 @@ category: news
 title: "Improving Online Learning with Artificial Intelligence"
 excerpt: "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence."
 publishedDateTime: 2020-08-05T19:09:00Z
-webUrl: "https://edtechmagazine.com/higher/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence"
-ampWebUrl: "https://edtechmagazine.com/higher/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
+webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence"
+ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
 type: article
-quality: 61
+quality: 57
 heat: -1
 published: false
 
@@ -16,32 +16,32 @@ provider:
   domain: edtechmagazine.com
 
 topics:
-  - Natural Language Processing
   - AI
-  - IBM AI
 
 images:
-  - url: "https://edtechmagazine.com/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
+  - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
     width: 1440
     height: 500
     isCached: true
 
 related:
-  - title: "Using Machine Learning To Automate Data Coding At The Bureau Of Labor Statistics (BLS)"
-    excerpt: "Government agencies are awash in documents. Some of them, like Bureau Labor Statistics (BLS), turn to machine learning to help improve and streamline various processes."
-    publishedDateTime: 2020-08-01T17:21:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/08/01/using-machine-learning-to-automate-data-coding-at-the-bureau-of-labor-statistics-bls/"
+  - title: "Get over 50 hours of training in machine learning for under £30"
+    excerpt: "TL;DR: The Machine Learning Master Class bundle is on sale for £29.85 as of August 4, saving you 91% on list price. Thanks to developing artificial intelligence technologies, computer are smarter ..."
+    publishedDateTime: 2020-08-04T05:14:00Z
+    webUrl: "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/"
+    ampWebUrl: "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
+      name: Mashable
+      domain: mashable.com
+    quality: 106
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25a15e96f17b5412974670%2F0x0.jpg"
+      - url: "https://mondrian.mashable.com/2020%252F08%252F04%252Fa2%252F9d02595b494441d2bb4dc704f8ce4b85.1f5fc.jpg%252F1200x630.jpg?signature=Sptw61vujsHeWR7oaA4xnp6uvgw="
         width: 1200
-        height: 1600
+        height: 630
         isCached: true
 
-secured: "2vTx/vHK9uwPi2ImsBeYXM6amw9wV0yAIJXrPOC7RYOSQo9luCChaZF6XMrG8LjRR6yQK+tbJpXMsShYHnKWHvVAxYQnoGk7HbzLIgunj0ROwnw5SGBl8uvKMmlzzG4uEIYcnILt/yGMuudnNnpzxMXBgPSnhqIlbpBCqMPJuLvbWLE/gVOAHiV+i6ZKprfBteNnGODwRWY7gaHGPNGb13+JrzX61nN6WmkQ86RunGazDQJYh9aYZuIwuCftI9roH1ZoPrEiQz7q36yNmJ557TqazLZyXFL1/PrR6b4k9nRSrsaF5uhIQe0lzJo8OvAEsE4TuSVShta9Wq0xkrleYVrERBTV0pvQ3OX4H8JVRXb+dVffCjZN5m01Bo6HhMTc3KQXR5gXPgtPhRSGjkp5krd2yHBN6/rpoTNdEge+dxnQasYNfMwanfudkwzqMIf8ADA+HD/wOdw8BxopkI/G4wzlBuzuX56k7B/PV9UNs7Jne92CTrm0KANMxaeRtrWna05Xvs5wGfsoNOiqBj60TA==;qN3EJi2gxV2ushR40E3biA=="
+secured: "rpfa/fycAU5/q6oNlQ4m/dqLRNcjgd25bigCpnMYExyYs/Mhigheey1KqfVcJHyfxcwuCKGy1+EpbVDOoWkCPrBLqn0GZulidr263XuxYGhPmsZywtFdX9NyGhz0fYDGXr/NKFqa7BMTyaqLcN6AEFlFHtCgC54G7/ywmyf3Z+ulQhDKkR0HONSlRATAEKuvEs8hKvHQ9BaJzjSzzD4Px4Eq0svZtyIOSiVfuhOuBeeXIGadZIC3LBBBRVU8XkOT30cFPLkL/KrXEK+cKil0PPpTiqvMi2HQp6YchspmGmoX/94sbSqNoo74T26uvUxdgWWVjDeFNf8p+Kp05XONbA==;dgU1WJAp6QrCOwXnaon6Gg=="
 ---
 

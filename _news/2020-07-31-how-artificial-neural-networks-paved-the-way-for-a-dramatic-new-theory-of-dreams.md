@@ -3,7 +3,7 @@ category: news
 title: "How Artificial Neural Networks Paved the Way For A Dramatic New Theory of Dreams"
 excerpt: "Machine learning experts struggle to deal with \"overfitting\" in neural networks. Evolution solved it with dreams, says new theory."
 publishedDateTime: 2020-07-31T15:15:00Z
-webUrl: "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com"
+webUrl: "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 433
     isCached: true
 
-secured: "e/BAq5/euAVekKniGl88M1fjrH+9nzC9+/LXC6ueDCQTnRYkggAzKmTqy30f8+HmBd9Ie5LNsGoj/TORjSxZKSfbT2Xj6eLa0BylM253pRJn5Wt8aPWgsks72YYcLubBIEKT6ZTq/ZlnVLXF4gdo4aNtEXygYJFOHlv8UXRvWRLPgVz0A12qny6jut/8oW21yAzEvTkZLuI2oexIjWuBLmSfd0WLS+RMqPqOb4UdHsapee+mSpIjXvqMonRH7BMOc3OGnn/gv/rCClWQF6V3ZmxFpFXsOkB9Vusf/x9mSmGSs4XPLqc4USwZvbKq1LXGXSiYO+VbAt8zReLyIw0DguPxRr7V3G25ABcqiyMYl3ulMA/W4tdsX9SqZqyape2HBARr/eR7VKU6AZoLBFQ1bIy55EvwSIQZfvVk7CJtDXfI4NCC2/O5PqgYe1R8G1w/1Qr8KDoNrMsVq790T1InAuvD5bwtHVzeoK2fSrJbRbdVgqR3jvsk9Mdh5GM8MtI7;bLb685shLYMW1WJ54phkeQ=="
+secured: "cS6VDrnI+Kz7zmgXzTEFbpwX3BjwXUmbUMpvObLGETtawy1PLEFjI3mqorfYUV8xq07HC4yby/ZySIrXj9E/hwiWfLYXU6pNqcZFGVvHuDG9FfKnQrp3dkcYUyXICcgc4dAvYsdeJ+IWvRYKuv1p+l8RL9PeeyyBw5AKxzWOOE4ax2aVp9qDUWaEHgpbRYxu0xyohpHF2vXm2P2CorZhEL4qBJswnE44UojEHefWjlfYnRRPU8IWbL/2deyasEESwKs3orX0buhpNX0gUJV5bA8rHCxH/mB9YrJGELtJFz94G3eSGUD0ymFCywrRgZSJJ1ufew9/uFldJ2jaJJy7hQ==;+0qQwiV6J5bvdB683faseQ=="
 ---
 

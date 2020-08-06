@@ -98,6 +98,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Nokia To Set Up Robotics Lab At IISc To Boost Socially Relevant Use Cases"
+    excerpt: "Nokia recently announced that it will collaborate with the Indian Institute of Science (IISc), to establish the Nokia Centre of Excellence (CoE) for Networked Robotics."
+    publishedDateTime: 2020-08-06T06:21:00Z
+    webUrl: "https://analyticsindiamag.com/nokia-to-set-up-robotics-lab-at-iisc-to-boost-socially-relevant-use-cases/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 53
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/08/Nokia-Robotics.jpg"
+        width: 940
+        height: 622
+        isCached: true
   - title: "Nokia to set up robotics lab at IISc for 5G research"
     excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
     publishedDateTime: 2020-08-04T13:58:00Z

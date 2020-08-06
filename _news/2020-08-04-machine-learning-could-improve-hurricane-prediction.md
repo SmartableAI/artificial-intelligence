@@ -42,15 +42,15 @@ related:
         isCached: true
   - title: "Machine learning could improve hurricane prediction"
     excerpt: "The approach could provide more accurate medium-term hurricane forecasts, allowing meteorologists to issue more timely warnings to communities in the path of potentially deadly storms."
-    publishedDateTime: 2020-08-05T22:35:00Z
-    webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/08/05/machine-learning-hurricane-prediction.aspx"
+    publishedDateTime: 2020-08-05T20:33:00Z
+    webUrl: "https://gcn.com/articles/2020/08/05/machine-learning-hurricane-prediction.aspx"
     type: article
     provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
+      name: GCN
+      domain: gcn.com
     quality: 39
     images:
-      - url: "https://washingtontechnology.com/-/media/GIG/GCN/Redesign/Articles/2018/August/stormsurge.png"
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/August/stormsurge.png"
         width: 760
         height: 368
         isCached: true

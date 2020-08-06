@@ -1,30 +1,23 @@
 ---
 category: news
 title: "TikTok’s videos could fuel Microsoft’s artificial-intelligence ambitions"
-excerpt: "More than merely appealing to the young users of TikTok, Microsoft could use the data culled from its videos to better compete against its AI rivals."
-publishedDateTime: 2020-08-05T11:04:00Z
-webUrl: "https://www.washingtonpost.com/technology/2020/08/05/microsoft-tiktok-ai/"
-ampWebUrl: "https://www.washingtonpost.com/technology/2020/08/05/microsoft-tiktok-ai/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/08/05/microsoft-tiktok-ai/?outputType=amp"
+excerpt: "TikTok has no shortage of data in the form of videos, billions of which are uploaded to the service every year. Microsoft can feed all that data into \"training models\" that help its artificial-intelligence systems learn."
+publishedDateTime: 2020-08-05T11:22:00Z
+webUrl: "https://www.seattletimes.com/business/tiktoks-videos-could-fuel-microsofts-artificial-intelligence-ambitions/"
+ampWebUrl: "https://www.seattletimes.com/business/tiktoks-videos-could-fuel-microsofts-artificial-intelligence-ambitions/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tiktoks-videos-could-fuel-microsofts-artificial-intelligence-ambitions/?amp=1"
 type: article
-quality: 43
-heat: 43
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - Facebook AI
   - AI
 
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NRLALCWVDYI6VJ4IFTUGZ2ARFE.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
-
-secured: "YmjZ2SL8SUisk7cUl++huy90lgzz7XmDYasL3E4762hKmF0vogN0b1NXiM7sWjusrW5gHldq/ly/6G3eFrgEYGMgjp/nXAt/BhW5lN3+RaNRZTi3JBp2YUKk1u428hTbKjUgZX5m6s65UVuQHL79+7LqyH1IpAM+OgfV+1aKt5lqGWrxC9JD8t8LGoZq5Wk6nEkKQ4Fs3XwxF/IK4CybgrR7b2U8qDhZDmL+1j2ESrJOVAZ/HnKsp8LnE8aLZbGHlT1MhTqt4fCDs7Ck+QRDRsxMrZMIsnLoBU6BywwvxWlZswxTDT2q4kWuC0KJKdodm894K4IiYNvDmNwb5QGneg==;CjlpQ/tUhqiPCAjftU96Zg=="
+secured: "Eo5qtmWqWjGRK1tuK+I83A1sMwfyxaqc6I/CDfkslC2nP54RVdNYlMvvlteoeQ6cfF6mw90AKgS+ueCq/1RS+XhCZ/EvgQOoo9DfTMLgh+j99Ss5QZwKbbEGweIa0pOGySwQbjYhhOE1McSmzp7VH56gQ7DibeIP4nGnWKt95xm5X0XjDatNR8JaXaf5RPCS7XR0TY4WfjUNf90Y8eABFCKZLg8T9LtVz5jjQg1b/1rxyYgp25ZnQKQG0a3zIlnFeujp7Fh8seQboY39mSKUFrD9fuRZ0fhJROWA1Eu8HFOBmw5cZL4D93XcRHhv88HuDBIolgelRF3dPrMwcvtzsTEfzinYUMoLA8Brq1htSX/8W8BS6a+Do+AYy/V7WisINUpny/IRCRsdKoQar0dSm6sbifgGxJCCSG9VxO5QAGtY5pxmB+eHgoYU67DKKyGPv95IRe5kt2vvA1p9cmdY4sc7+rcNotsTrRzoElYBPDCb0X98BKvKUt+p8qeBce+3SBGxe6nHamnOjCdFtr29RA==;jiIrfVesG0BEGGFrBNSFlQ=="
 ---
 

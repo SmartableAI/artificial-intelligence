@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-l
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Despite The Breakthroughs, Why NLP Has Underrepresented Languages"
+    excerpt: "Natural language processing (NLP) has made several remarkable breakthroughs in recent years by providing implementations."
+    publishedDateTime: 2020-08-06T06:42:00Z
+    webUrl: "https://analyticsindiamag.com/despite-the-breakthroughs-why-nlp-has-underrepresented-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/08/aim_nlp.png"
+        width: 889
+        height: 500
+        isCached: true
 
 secured: "QeJSi8WqPMl0rTDQJIsxM3cA/T9yFvX+LmoudrX0vZlXTZM4l1uJzLt5Gm0fqlhihrt4CcKUX8lfDzBuP9FlFviEs8nWdJc/3JnJYHUvnXOeg165WVAkyTucPd7QCIWhSshJGlJBwQjFO38QiY/Dg/dGubwC4WchDHsT2wiQAnZSK0AHqPJ7TCudj5T9vk3BOVbD9XiLmMuYMfPiULnNPIEEK8HUE3CCoMxLxIPlcnGdRpjst60CmMNV+Ahaap3HjtlHkl9nMSFe/8yva9RYw70wGL2mc61bvLj4rsCbyMEC9L+oLVOQxZajc6p0rOXQ1XNUg1bbsrxYqtAsEGmBPw==;mnCxZ2s5XhrzlZRB9pLR+A=="
 ---

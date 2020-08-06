@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/yM102DG9.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "Nokia To Set Up Robotics Lab At IISc To Boost Socially Relevant Use Cases"
+    excerpt: "Nokia recently announced that it will collaborate with the Indian Institute of Science (IISc), to establish the Nokia Centre of Excellence (CoE) for Networked Robotics."
+    publishedDateTime: 2020-08-06T06:21:00Z
+    webUrl: "https://analyticsindiamag.com/nokia-to-set-up-robotics-lab-at-iisc-to-boost-socially-relevant-use-cases/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 53
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/08/Nokia-Robotics.jpg"
+        width: 940
+        height: 622
         isCached: true
   - title: "Bangalore’s IISc to house Nokia Centre of Excellence for Networked Robotics"
     excerpt: "According to Nokia, the network robotics laboratory will be available to the IISc community and its ecosystem partners for advanced research projects"

@@ -40,6 +40,20 @@ related:
         width: 792
         height: 545
         isCached: true
+  - title: "Guangzhou international airport introduces facial recognition service"
+    excerpt: "A passenger is using \"One ID\" facial recognition service at the Guangzhou Baiyun International Airport on August 5, 2020. Photo: Courtesy of the Guangzhou Baiyun International Airport Guangzhou Baiyun International Airport has introduced a new facial recognition service to simplify and speed up and check-in,"
+    publishedDateTime: 2020-08-06T06:20:00Z
+    webUrl: "https://www.globaltimes.cn/content/1196909.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-08-06/b44b7c56-fded-41b5-8128-ba34e6b1a5a0.jpeg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Bar Exams’ Facial Recognition Deployment Is Heightening Test Takers’ Anxiety"
     excerpt: "Taking the bar exam is stressful enough. But the implementation of facial recognition technology in Michigan’s and California’s bar exam has added another layer of anxiety as accuracy, fairness and privacy concerns creep into test takers’ minds."
     publishedDateTime: 2020-08-05T14:42:00Z

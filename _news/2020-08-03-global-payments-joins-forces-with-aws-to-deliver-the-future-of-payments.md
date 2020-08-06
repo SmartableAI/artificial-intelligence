@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Global Payments Joins Forces with AWS to Deliver the Future of Payments"
-excerpt: "Global Payments Inc. (NYSE: GPN) and Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced a new, multi-year collaboration"
+excerpt: "Global Payments Inc. (NYSE: GPN) and Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced a new, multi-year"
 publishedDateTime: 2020-08-03T12:06:00Z
-webUrl: "https://www.businesswire.com/news/home/20200803005187/en/Global-Payments-Joins-Forces-AWS-Deliver-Future"
+webUrl: "https://www.marketwatch.com/press-release/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments-2020-08-03?mod=mw_quote_news"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200803005187/en/671397/23/GPN_Logo_for_BW.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     isCached: true
 
-secured: "OOG4KVzC9zzTxxr7d+BiNNF4u2yrwAWivXKlGrP2EIUVs4aC4fV/3+S3dH3JcITp4HIwRKviusPj2OUFLZOGU6NfNqMhZSBcp+rm8tqUV/BPgPwi5MrmIpm7XsJf+slr/Fmtg6KJ3wPdcV4b2ng0y5wI5z3zrtdbh3nlhqNPLgloZWCwrJ0dZO9g6givJOfaEjcUznZSY34Mnf6BWKV7Uc+qE4HWr8kscH+BiCaFeRyNcmOV02qu8Z5IbAad/N/MzPlantYlcNqdlUEj41dDkq7uonKREHoZAfLo4daj8gKwM4zMLpcFwEC8drpTqtykN8pcPtOuArUaID+XgqnWPg==;I86UjPqbD/1n9apm/FwvNw=="
+secured: "MEZoVK83e0u5xjjnY3Xgx7xnrDxHS/cl3RCoOLVtZ7GYlH829xbsl+0lh0NY+vVZfvWev/i5jN875xhH1azIWakhWeo+3bOpoo20pSJ+9b+NK/emLppwtGKXomjSb1KExP4Pe+26vRKfF8oqW1QISltAFQUN16OTpomg/g/C6vJQFqwQolsmV7t5SUuEi5oc4vBgcIwoEa9MaBVwEgXpvwMWJ3YyJEi6DJCs55GI9Ww+R0iL7OBW9+GJN5iQrb06YzBeVdnMYALE2hQvfQgJ7xl9wjy7N4lTCtC6Ps8EunFzJVh5l8pmsFTvqFpRp7fU1gMJl2JREQgNuPBdE67PpQ==;8dgc1Y2n8gH4JdG0/Zpypw=="
 ---
 
