@@ -82,7 +82,7 @@ related:
     provider:
       name: Adweek
       domain: adweek.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.adweek.com/wp-content/uploads/2020/08/angel-city-owenership-fcla-hed-page-2020-640x360.png"
         width: 640

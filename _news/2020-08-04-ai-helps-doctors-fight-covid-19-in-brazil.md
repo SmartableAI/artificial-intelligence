@@ -8,8 +8,8 @@ ampWebUrl: "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-br
 cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Courthouse News Service
@@ -40,6 +40,20 @@ related:
       - url: "https://newsinfo.inquirer.net/files/2020/08/000_1W36K6.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Using supercomputers and artificial intelligence to fight COVID-19 at UW Bothell"
+    excerpt: "A new program called “DeepTracer” developed by a team of University of Washington scientists uses artificial intelligence to model the atomic structure of COVID-19."
+    publishedDateTime: 2020-08-05T23:15:00Z
+    webUrl: "https://www.kiro7.com/news/local/using-supercomputers-artificial-intelligence-fight-covid-19-uw-bothell/LMGJG47IXZCLNEGU42FYSSAKHA/"
+    type: article
+    provider:
+      name: KIRO-TV
+      domain: kiro7.com
+    quality: 32
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/BB45WIO4ZBBTFOSFPZIEYBSXEQ.jpg"
+        width: 850
+        height: 480
         isCached: true
 
 secured: "jQz2wRI2VWVrSsazQnG4kbvCkg90GcbNMV4oFuJ4tIxAJjHZVvc+rEmwS+YCBvSTSeP7RX/mzbxrIkq/f3vG5+kiFRTj39VX3rLgHqdKjJd5CV8+9CIw43MuQ/7zbrs8Rkm+c11iL0snh5yAZq6qZqXduQtcnWYrMdkLrAqVcXUF29kAZg0XjCgWtEceuklAHz6SVUCVIsTJ4xneEbbcckSR0e9vTBBJ9bY+ynSmoGLb2Hr9/ESGQmLtntfIEkNRz1FJXewn/BpekLIt8eufGkvO5E5+am236JveJMqkiKgZH0TJu3Zu+DZ+S1bs1b3byVnfaCz+bbo1RBrIYKEEVg==;1azDbZbM4PLqxitdUB3rDA=="

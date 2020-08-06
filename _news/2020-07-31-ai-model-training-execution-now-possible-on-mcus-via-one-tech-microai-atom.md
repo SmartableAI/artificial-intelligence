@@ -3,7 +3,7 @@ category: news
 title: "AI Model Training & Execution Now Possible on MCUs via ONE Tech MicroAI Atom"
 excerpt: "ONE Tech estimates that MicroAI Atom algorithms, which run recursive analysis and reside directly on target MCUs at the edge, reduce the cost of deploying endpoint intelligence by a minimum of 80%."
 publishedDateTime: 2020-07-31T05:31:00Z
-webUrl: "https://www.embedded-computing.com/home-page/ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom"
+webUrl: "https://www.embedded-computing.com/news/ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom"
 type: article
 
 provider:
@@ -15,11 +15,11 @@ topics:
   - AI
 
 images:
-  - url: "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fcontent.cdntwrk.com%2Ffiles%2FaHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmMjQ2MWYwYTgxYWEuanBnJnZlcnNpb249MDAwMCZzaWc9OGFmNmQwMzFjZTgyMGI1YTRkZmU3YWMyNDI5MjExYTU%25253D&size=1&version=1596221948&sig=4129f72f361a989140869ee24c1429eb&default=hubs%2Ftilebg-blogs.jpg"
+  - url: "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f28792318faa-TITAN-3000-1.png&size=1&version=1596487997&sig=ae4e63c24659e1b92636b95ba824a09c&default=hubs%2Ftilebg-blogs.jpg"
     width: 500
     height: 272
     isCached: true
 
-secured: "y3uZUHesZDOWFiV3oCKChihtLWu2RWjS10UKPc8hP3imITcHjAJTJble5Dha4YHDy4q3sELdzYRjfxb2bbo94s655yyiSikQVkUO9cIEnvltCGw1oJJKXNkPGSOOckuQ/dxroUCrsMUOW17Ls22geytNKxDrsiwGyhp9hLC/6rpLGczsluEI5IqI0lIKz6yKDHver5oIURTMv0wApxSt1/toHivtrYj+9VGSpSsiVa/GemXki2Ux3EdPAGa33M1e4w08Ly3wkoNyh5ev3dhh/Pju9wcbqrzs9rNxClsCcoktF0jo6ziv/Ob7d9TO2VtLt4BggO1wjSptk9ZjP8noUQ==;01KEzbnMJ99j1AqsvkxYCQ=="
+secured: "6D/mYc6SvgyyQNr/hFoiGsYfSzBSr0NgHSRjmwC1Jqa7v9qwByAlLpmnQHUHBP2mqD4IK4tqMPxO+J+WOPO4+6ceQw92hZce7sLM4KgwtS7q74PBpO2PFJClvt+mdD5ZVJC8ni1QwpiSOw5fAME3K5Edi8dF8HwPAti01pYX6cNoTfvcqa3S9qFW3HHPuK29udZoj6MoQsE4BSnTeNP8jdr0I4FN8oyoASL6IkSasqy8rPJD8/BddtwEUDnB5j3a4LkHSeiAPGHV7vIXZ5wj9HP1RitAZEblhPt14x9ZuP7GgIwTSgAEkJRo4nLV0MQL1sS9vbFJSOPvmn2ydastZg==;T3TnEX3Ui3tXByiFy/rGIQ=="
 ---
 

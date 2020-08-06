@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-01T15:31:00Z
 webUrl: "https://www.paymentssource.com/articles/apple-buys-mobeewave-a-startup-that-can-turn-iphones-into-payment-terminals"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -21,19 +21,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Apple buys startup that could help turn iPhones into payment terminals"
-    excerpt: "Apple Inc. has acquired Mobeewave Inc., a startup with technology that could transform iPhones into mobile payment terminals, according to people familiar with the matter."
-    publishedDateTime: 2020-08-01T05:39:00Z
-    webUrl: "https://mybroadband.co.za/news/smartphones/362220-apple-buys-startup-that-could-help-turn-iphones-into-payment-terminals.html"
-    ampWebUrl: "https://mybroadband.co.za/news/smartphones/362220-apple-buys-startup-that-could-help-turn-iphones-into-payment-terminals.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/smartphones/362220-apple-buys-startup-that-could-help-turn-iphones-into-payment-terminals.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 22
 
 secured: "LakaWlBZgfOsbXasZgopNPShfWr/n4Tm2Kfg9KQ069pwDCe17tJzWEaoY99YlDouZUbLMDvosfpadnrbBmgTJQwPpH27nRnS0T3c2mApGquu7oZT+DN/On7rtXae6ezHjyQxdPAjK8XfIpkfyK1ruAtxCrmHEgJzjHea/8lBHEKbPUxGTkil+MW3/0+lkswUHw6LsNRzxdUhG8UhzIGKqOOkFQIHt/F4w0u09OlzVUVoZA4vKZXTQ3AKDajbabQqNFx70/xO4ehLBnM7Mev/HkzMfhP01G+tETP13oazojQTYlYfh6MG4wkeNVniFVm6VhoknKitvCfX92VE9NGzEA==;7TZzbHDsns6ISiTS8ehtSg=="
 ---

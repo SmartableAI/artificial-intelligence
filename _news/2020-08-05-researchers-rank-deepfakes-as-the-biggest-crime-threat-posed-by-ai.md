@@ -7,7 +7,7 @@ webUrl: "https://www.adweek.com/digital/researchers-rank-deepfakes-as-the-bigges
 ampWebUrl: "https://www.adweek.com/digital/researchers-rank-deepfakes-as-the-biggest-crime-threat-posed-by-ai/amp/"
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/researchers-rank-deepfakes-as-the-biggest-crime-threat-posed-by-ai/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.adweek.com/wp-content/uploads/2020/08/angel-city-owenership-fcla-hed-page-2020-640x360.png"
@@ -88,6 +89,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ynO8Rf6hva/M3cSbU95V/iRxiRqWmO3KQP/U1nRtf01TfHIYQ99Ov3RNqRFvAeSBQaErIk6c9xD+HxYS215Wn2dJUUkQhucz0k++2GY/Uue3r8uOigv1dopOiVLUrxJxENrGBxeefHdJwyshW764VUXM2FCvHq/UtTgg9j36gad9M1nWwASqTog/gzdtjFOWsFgWe4NUWTdRrKT/pSRJQQcM+18923aN7830NuopJYvEwQ/TbnHQRUxgkM7PegM3vhp84MP/q8Zo9beTH7sfHC5lNnsOsjm/FQTjQimjD9s2MTlsiarSZHm9t4nQ65TwmOd5jQbD3hX6AzF/EhjFlA==;foeOgLkii440VcflKe7UPg=="
+secured: "W7qZDKAEyxWjRXUAsfgjA8VAq3xz7vGU2jdvy7Gzqw9XQuTqls/bAC0G5m0bP37CAV4rVM3KSeZ/NafD1BZZO3Gfl/VrbwXR/DY6Om5gJ+rw8ggNlsm/YcDROc0IbjjeIhiI78hTlAEtQJsMSikbMWlhwvZ8S3rlAU+r5MwXcMonF+DYeGlGCBAcU0KiHczQ9NnJs7IKz3h2ywG7a+q91Y1eEXh/PFCRZyC7fZx263MJL21rinxFiQzaaGKWdC/eENdfTOKsZ6kXpKxhvX7vSPT58FVdyt+X/+RloU9wksRVb6G6hrT8Aefma+0WmWXK6nwGJSx2TxbFXrarwRAj739TQvvdwVqOXiGz5YrqW/ZMpI/nm0he/ojp5NPiLVAuo7oo41HCLe9tslH45SGdibGowEmmo3esw4XkUIeu/N79CkMB10Wu3dSISIn71dSiRJq4doQvwVig7orgsxwziRZ6JzAt0B7yNqBc5w+9Hf5BErYiH6FnZ0bNQKrnxDfXV8yOn1J3xyoGxt9gSL4VTw==;GPYzMOEWOplypjPch/ndxg=="
 ---
 

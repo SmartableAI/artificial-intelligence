@@ -1,27 +1,27 @@
 ---
 category: news
 title: "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform"
-excerpt: "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data"
-publishedDateTime: 2020-08-04T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html"
+excerpt: "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU"
+publishedDateTime: 2020-08-04T13:55:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509"
 type: article
-quality: 22
-heat: -1
+quality: 52
+heat: 62
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook"
-    width: 796
-    height: 419
-    isCached: true
 
 related:
   - title: "cnvrg.io AI OS Delivers Accelerated ML Workloads with Support of NVIDIA A100 Multi-Instance GPU"
@@ -39,6 +39,6 @@ related:
         height: 228
         isCached: true
 
-secured: "85u3wyBXWUcSd5xNWjGZH5Gwt9I/LgPN6Qh8w7diwUQBn/HJ+MoSSTjagAacDU8iQVqHnrVBV2aQq+Ed592y2V5c2PhJlHe0lLSdJ5Uqk3HJQ9O46cBC13gPoHiEuP+CDzSFcMkcz6zwD9VjsjL6X3rJ/naPUm0Ay5zBRtnP/hWOlvQ2/KG71d9/s55WxpZXIW0F98hd1ZFqejI0MaGUaeJx+0490pdyTHG6FKQclEDdrofOmUa8OtGeWxgyP8hmoi9QFxhiCQnmFPd2k4wzzp0vWg8xeReYP8v77n8rWHQ2N9fQQhEily8z4lwqs3fMlDAYbSpzG9cSAN+8DmBrqzQ7jpjRAxFatazAEbG9Al6RcNsttkV85Ua0y1p62UC/wqerkHLYSFdzTRBX+rkBcm/wu61RPR072VF77qqVtbE6RnFLS6JXbxQL1OBp9LVYBZwwhoybVbAgDzzHwxgzJI93ld9RVScs2KCJI/BOanrKq3+f/g1bZ/24rLpjIX1QbqB/FGZR+po9ML40nrliCw==;HJcMWiMHD7jBXdxtPGQ5mQ=="
+secured: "2jfvvwCkBc91mfRuF55aNv/1Y7uOkTly20R+p3B0ow2ju8WL3pYoneRpzYWRnTBGwMJh0xW6YHpWGDqYQvA8XgAfRf3Iyl/u9DX7AS8pOYLVf63RoZX2cWCz04ha/Ixyjiopf+W+H0VYXBVkjVcizZhPoRHO+4vE3HHT+iGf8svc2mDjw61c8bbrOliKemqkp/l7+vufgYlnSWXc0RDOcX0J47x1g/3OQxknaS0uOI+2uJ6Qv3AT6L4R8ZD0EvAuCMLzdxRjvJE1ACIlBzJ3duzK3yKTI7D1V/NGz1HdAzwMZLv27wKD2m4LSnp9jyT5GXw0lOfP+nXJw7ymvhTkmg==;Cvy+onFgoafIQ7haMr+YFA=="
 ---
 

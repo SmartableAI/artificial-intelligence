@@ -33,7 +33,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 37
+    quality: 54
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Syntiant_NDP_AI.png"
         width: 726
