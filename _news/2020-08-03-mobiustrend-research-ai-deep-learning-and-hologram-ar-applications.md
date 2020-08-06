@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16911021"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16911021"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -22,17 +22,63 @@ topics:
   - Facebook AI
 
 related:
-  - title: "MobiusTrend: Hologram AR+AI Live Streaming Technologies by IT Giants"
-    excerpt: "Pandemic accelerates 5G development. Giants like Amazon, Alibaba, WIMI introduce Hologram AR+AI live streaming. Hong Kong – MobiusTrend, a market research company in"
-    publishedDateTime: 2020-08-05T02:42:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16936118/mobiustrend-hologram-ar-ai-live-streaming-technologies-by-it-giants"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16936118"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16936118"
+  - title: "AI and machine learning facilitate pioneering research on Parkinson's"
+    excerpt: "At Friday's 2020 Machine Learning for Healthcare Conference, IBM and Michael J. Fox Foundation reveal disease progression model that accurately pinpoints how far a patient's PD has advanced."
+    publishedDateTime: 2020-08-06T19:54:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM details research on AI to measure Parkinson’s disease progression"
+    excerpt: "IBM recently detailed its work to develop AI systems that can detect signs of disease progression in patients with Parkinson's."
+    publishedDateTime: 2020-08-06T16:54:00Z
+    webUrl: "https://venturebeat.com/2020/08/06/ibm-details-research-on-ai-to-measure-parkinsons-disease-progression/"
+    ampWebUrl: "https://venturebeat.com/2020/08/06/ibm-details-research-on-ai-to-measure-parkinsons-disease-progression/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/ibm-details-research-on-ai-to-measure-parkinsons-disease-progression/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+  - title: "Improving Online Learning with Artificial Intelligence"
+    excerpt: "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence."
+    publishedDateTime: 2020-08-05T19:09:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence"
+    ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 61
+    images:
+      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "Deep Learning Market 2020 to 2024 Research Report: Opportunities by Leading Manufacturers, and Dynamics Regions"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Unusual growth strategies adopted"
+    publishedDateTime: 2020-08-02T17:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-to-2024-research-report-opportunities-by-leading-manufacturers-and-dynamics-regions-2020-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HhCgkM38ZvTHAcgNNF1OEXMaSOcDHVzVFeD8t4gPkWnnOaE5uyZSKs/9Nhoa4cmxr6VWVc0mU6JDaRkxw7066nFJ71A/dxBx8aAF2Fb131Fub2tE7Fe1zziXQKd0OGZoQrfEcp7Vi5SiU10jII6Up7pOdvqdu3GK+Iq12lqwiGFxfddX/QSDq2idmqywhz4W1nR+eWioyUYj6/8jDotXawB+0aE9KSAS8D+GOKkO+9WZqmTEex/nRQmnC76ifxOfICgqdVg2/VuqRRT84Fd3Pyjjo/tI+k3WCXFifrNMyfK6pDRVpoi/53fCv3z6k/BFqir1dE7aKnFrD4Egg91D9oi5KtoiujfSUReXqxxy+8EAQOTQYPc6rhNCz+s04nkNLB3VycQCrxeteT7eo2U1ZMp1cTNa0334zXMhUmz2/kDLLWTLul+U3RZJLlK8SMR1lBc+6AS4zNeFOtm15mtKYoKQjsVSRfs7I+QoQQvv0LPH/k7aRC0c6dR3sCwX7kBWcc/VFmzgMXnPjAJ89oznEw==;bdA7jgzOztKqs9wGHfaTHQ=="
 ---

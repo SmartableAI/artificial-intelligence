@@ -2,6 +2,154 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-07-09-researchers-propose-ai-for-detecting-fraudulent-crowdfunding-campaigns.md",
+      "title": "Researchers propose AI for detecting fraudulent crowdfunding campaigns",
+      "excerpt": "In a new preprint study, researchers propose AI to detect fraudulent crowdfunding campaigns at publication time -- even without donor activity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/09/researchers-propose-ai-that-can-identify-fraudulent-crowdfunding-campaigns/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/01/crowdfunding-e1594302470246.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/09/researchers-propose-ai-that-can-identify-fraudulent-crowdfunding-campaigns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/researchers-propose-ai-that-can-identify-fraudulent-crowdfunding-campaigns/amp/",
+      "publishedDateTime": "2020-07-09T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning.md",
+      "title": "Digital Transformation Isn’t About ERP Anymore, It’s About Automation With Machine Learning",
+      "excerpt": "All good, for sure. But is this a sustainable role given what’s happening with machine learning? Clearly, companies will invest heavily in automaton to save money and eliminate, streamline and optimize processes. They will map and mine their business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1224178306%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
+      "publishedDateTime": "2020-07-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-10-ways-ai-is-improving-new-product-development.md",
+      "title": "10 Ways AI Is Improving New Product Development",
+      "excerpt": "Product Development teams the most advanced in their use of AL & ML achieve greater economies of scale, efficiency and speed gains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/09/10-ways-ai-is-improving-new-product-development/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f069da8f98d0200068ca5ee%2F0x0.jpg",
+          "width": 1200,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/09/10-ways-ai-is-improving-new-product-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/09/10-ways-ai-is-improving-new-product-development/amp/",
+      "publishedDateTime": "2020-07-09T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-ardigen-enters-into-research-collaboration-with-cvc-to-apply-artificial-intelligence-for-identification-of-t-cell-targets.md",
       "title": "Ardigen Enters Into Research Collaboration With CVC to Apply Artificial Intelligence for Identification of T-cell Targets",
       "excerpt": "Ardigen is harnessing advanced Artificial Intelligence methods for novel precision medicine. The company accelerates therapy development by decoding microbiome, designing immunity and providing ...",
@@ -1027,121 +1175,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-can-ai-really-distinguish-between-back-pain.md",
-      "title": "Can AI Really Distinguish Between Back Pain?",
-      "excerpt": "The single code for two different conditions prevents appropriate billing and therapy recommendations, including different return-to-work scenarios. The artificial intelligence model in this study, the first of its kind, could be used to improve the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/can-ai-really-distinguish-between-back-pain",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/back-pain-2402708_1920.jpg",
-          "width": 1920,
-          "height": 1271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-deep-learning-with-tensorflow-pythonr.md",
-      "title": "Deep Learning with TensorFlow (Python/R)",
-      "excerpt": "As specialized consultancy for the resolution of any sort of data driven challenges via data science, machine learning and AI, we support you from the identification and scoping of use cases to the implementation of custom model developments. With cross ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.st.com/en/support-and-applications/deep-learning-with-tensorflow-python-r.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg",
-          "width": 324,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ST",
-        "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.md",
-      "title": "The Birth Of The Cloud-Enabled Hybrid-AI Robotics Platform",
-      "excerpt": "While this does make the robot able to function off-line, the trade-offs between processing power, size, battery limitations, and inflexible technology result in minimal AI capabilities. If you can centralize this intelligence and offer it more on an on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
-      "publishedDateTime": "2020-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

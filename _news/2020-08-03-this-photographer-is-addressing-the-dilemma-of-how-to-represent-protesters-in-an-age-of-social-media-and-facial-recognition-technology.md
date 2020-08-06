@@ -334,6 +334,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Facial recognition could be coming to your office. Here's why companies pitching the tech say the pandemic is a huge tipping point for adoption."
+    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
+    publishedDateTime: 2020-08-06T20:52:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Portland votes to ban facial-recognition technology"
     excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."
     publishedDateTime: 2020-08-04T19:13:00Z

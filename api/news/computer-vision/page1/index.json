@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-06-macys-sued-over-use-of-clearview-facial-recognition-software.md",
+      "title": "Macy’s Sued Over Use of Clearview Facial-Recognition Software",
+      "excerpt": "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjoIH.CSaXQ/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
+      "publishedDateTime": "2020-08-06T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit.md",
       "title": "Google adds Digital Ink Recognition API for touch and stylus input to ML Kit",
       "excerpt": "Google introduced a new API for touch and stylus input to ML Kit, its machine learning development toolkit for Android and iOS.",
@@ -202,7 +252,7 @@
       "webUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 352,
+      "heat": 362,
       "tags": null,
       "images": [
         {
@@ -1372,56 +1422,6 @@
         "name": "Fox Business",
         "domain": "foxbusiness.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-new-york-legislature-votes-to-halt-facial-recognition-tech-in-schools-for-two-years.md",
-      "title": "New York legislature votes to halt facial recognition tech in schools for two years",
-      "excerpt": "The state of New York voted this week to pause any implementation of facial recognition technology in schools for two years. The moratorium, approved by the New York Assembly and Senate Wednesday, comes after an upstate school district adopted the technology earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1157932923.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/",
-      "publishedDateTime": "2020-07-23T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-22-modern-development-splice-machine-a-new-strategy-for-application-first-storage.md",
+      "title": "Modern development - Splice Machine: A new strategy for application-first storage",
+      "excerpt": "This contribution comes from Monte Zweben, CEO of Splice Machine — the company is known for its scale-out database built with Machine Learning (ML ... and MapR that were late to the cloud. AWS, Azure and GCP nearly eliminate the operational complexity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
+      "publishedDateTime": "2020-07-22T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-seeq-expands-support-for-microsoft-cloud-services.md",
       "title": "Seeq Expands Support for Microsoft Cloud services",
       "excerpt": "and Azure Notebooks for machine learning integration, in addition to on premise support for Windows Server, Active Directory, and SQL Server. Seeq is now adding connectivity to Azure Data Explorer, the latest release of Time Series Insights, and Power ...",
@@ -1254,38 +1286,6 @@
       "provider": {
         "name": "Finanzen",
         "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year.md",
-      "title": "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year",
-      "excerpt": "Azure's robust infrastructure and scale empower ... Global Partner of the Year 2020 in AI & Machine Learning Mr. Aharon Aharon, CEO, Israel Innovation Authority said: \"The computerization of ...",
-      "sourceUrl": null,
-      "webUrl": "https://br.advfn.com/noticias/PRNUS/2020/artigo/82853378",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ADVFN",
-        "domain": "advfn.com",
         "images": null,
         "publishers": null,
         "authors": null

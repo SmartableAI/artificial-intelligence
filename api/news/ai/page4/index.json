@@ -2,6 +2,138 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-02-elon-musks-answer-to-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-to-humans.md",
+      "title": "Elon Musk's Answer to Google's DeepMind? Neuralink Brain Chip Hears Sounds Previously Impossible to Humans",
+      "excerpt": "Among several other mindboggling features, the Neuralink neuroprosthetics could also help to regulate hormones, reduce anxiety, restore motor functions and overcome AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-49456",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/40282/elon-musk.jpg",
+          "width": 923,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-49456",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-49456",
+      "publishedDateTime": "2020-08-02T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-02-how-to-name-your-baby-using-machine-learning.md",
+      "title": "How to name your baby using machine learning",
+      "excerpt": "When I was young, I always hated being named Dale. This is mostly because my primary image of what Dales looked like was shaped by Dale Gribble from King of the Hill, and also Dale Earnhardt Jr., the NASCAR driver.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/1-24-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/02/how-to-name-your-baby-using-machine-learning-syndication/amp/",
+      "publishedDateTime": "2020-08-02T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-02-imd-plans-to-use-ai-in-weather-forecasting.md",
+      "title": "IMD plans to use AI in weather forecasting",
+      "excerpt": "The IMD has invited research groups who can study how artificial intelligence (AI) be used for improving weather forecasting",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202008/rain_1-647x363.jpeg?heh0l7Ll.ZuzDBntS218BRV_BXaJRI4N",
+          "width": 647,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02",
+      "publishedDateTime": "2020-08-02T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-02-baidu-completes-its-computer-for-self-driving-cars.md",
       "title": "Baidu completes its computer for self-driving cars",
       "excerpt": "The firm isn’t the only one working on self-driving computers. NVIDIA is quickly landing deals with GM, Toyota and others that could make it a powerhouse, for instance. However, Baidu might be the first to put a platform into real-world (albeit limited) use.",
@@ -9,7 +141,7 @@
       "webUrl": "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1075,7 +1207,7 @@
       "title": "How Artificial Neural Networks Paved the Way For A Dramatic New Theory of Dreams",
       "excerpt": "Machine learning experts struggle to deal with \"overfitting\" in neural networks. Evolution solved it with dreams, says new theory.",
       "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of",
+      "webUrl": "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1305,146 +1437,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-ai-generated-text-is-the-scariest-deepfake-of-all.md",
-      "title": "AI-Generated Text Is the Scariest Deepfake of All",
-      "excerpt": "When pundits and researchers tried to guess what sort of manipulation campaigns might threaten the 2018 and 2020 elections, misleading AI-generated videos often topped the list. Though the tech was still emerging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f2346510a5102775c7122c5/master/pass/Feature-art.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/amp",
-      "publishedDateTime": "2020-07-31T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
-      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
-      "excerpt": "AMD has revealed that its first GPU designed specifically for computing and based on CDNA architecture will become available later this year. Being developed primarily for artificial intelligence and high-performance computing (HPC) applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
-      "publishedDateTime": "2020-07-31T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-speech-recognition-software-market-to-boom-post-2020-ibm-microsoft-apple.md",
-      "title": "Speech Recognition Software Market to Boom Post 2020 | IBM, Microsoft, Apple",
-      "excerpt": "Latest released the research study on Global Speech Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Recognition Market research report shows the latest market insights current situation analysis with upcoming trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T731312235_g.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "publishedDateTime": "2020-07-30T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

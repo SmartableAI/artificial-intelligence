@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-06-researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis.md",
+      "title": "Researchers discover evidence of gender bias in major computer vision APIs",
+      "excerpt": "Researchers at Wunderman Thompson say they've found evidence of gender bias in major computer vision APIs from Google, IBM, and Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/b-e1596722973590.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/",
+      "publishedDateTime": "2020-08-06T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-cloak-your-photos-with-this-ai-privacy-tool-to-fool-facial-recognition.md",
       "title": "Cloak your photos with this AI privacy tool to fool facial recognition",
       "excerpt": "Ubiquitous facial recognition is a serious threat to privacy. The idea that the photos we share are being collected by companies to train algorithms that are sold commercially is worrying. Anyone can buy these tools, snap a photo of a stranger, and find ...",
@@ -1289,38 +1339,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-modern-development-splice-machine-a-new-strategy-for-application-first-storage.md",
-      "title": "Modern development - Splice Machine: A new strategy for application-first storage",
-      "excerpt": "This contribution comes from Monte Zweben, CEO of Splice Machine — the company is known for its scale-out database built with Machine Learning (ML ... and MapR that were late to the cloud. AWS, Azure and GCP nearly eliminate the operational complexity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/Modern-development-Splice-Machine-A-new-strategy-for-application-first-storage?amp=1",
-      "publishedDateTime": "2020-07-22T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

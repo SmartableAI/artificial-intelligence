@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Former Uber self-driving car exec sentenced to 18 months in prison"
-excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
-publishedDateTime: 2020-08-05T12:18:00Z
-webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison"
+publishedDateTime: 2020-08-05T01:30:00Z
+webUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+ampWebUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
+cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: 7News Miami
+  domain: wsvn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
-    width: 500
-    height: 344
+  - url: "https://sunbeamwsvn.files.wordpress.com/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18.jpg?quality=60&strip=color&w=1200"
+    width: 1200
+    height: 826
     isCached: true
 
 related:
@@ -147,6 +149,22 @@ related:
         width: 5512
         height: 4410
         isCached: true
+  - title: "UPDATE: Self-Driving Car Executive Sentenced to 1.5 years in Prison and Public Speech Tour for Trade Secret Theft"
+    excerpt: "Since 2017, we have been covering the legal saga of Anthony Levandowski – the executive/engineer who allegedly stole Google’s trade secrets related to self-driving car technology and"
+    publishedDateTime: 2020-08-06T15:11:00Z
+    webUrl: "https://www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech"
+    ampWebUrl: "https://www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 23
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.jpg"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Former Google engineer Anthony Levandowski is sentenced to 18 months in prison for stealing internet giant's self-driving car files before heading up Uber's rival unit"
     excerpt: "U.S. District Judge William Alsup said a sentence short of imprisonment would have given 'a green light to every future brilliant engineer to steal trade secrets'."
     publishedDateTime: 2020-08-05T00:00:00Z
@@ -164,6 +182,6 @@ related:
         height: 382
         isCached: true
 
-secured: "p4lIvl3XW1aqsZWDnmoJ9YWjqzqeb7yUNHyKoLihyDTyt4YzCYWPuY+KM426nK90cVCs09cVWerTCd73xwG/lhcM4s3CWwI07/1/+k1vU9nmX5xMfco9Z19sDF+5WuN/X5CVg/Dc6E9g9nKpr/iYQ4GRO2rUNTNtC8vlJp/CbfW5mON0peIv/guR/iNL6q8ZbtFWJqh8lLbyrWJD5EAEPqY6tilDZATx8+ON0nIaJ2QyRfvo1A9cYDV0VrbO71SZQ65khhGVDBM0mhHJ7S1aWkSkygsPm4Siqas7NSRdGaB9coXET8Z7LgjT0wGLQa6Z4WcUcwVQHQlaFjYO3B7Nkd6UckOWyz5OyVmnJNRZsXl42EQETftZLLHyYXsgLVmUCxyazFFxtgGqj64nhJYDWVx/4Am8mZvqqdPgjtFM7Czky7xqReFQJF2Arv8PwjVHZJYLUWzdikWy61OjlN/LI6GQcPSdYAYlvIu+Ql6RBOo9I/5tLKpzNh/EmrSD07jff99WMs7CAA2D5R/rVfNC4w==;8IL4Kvj0R7rPYT/h9sqW+g=="
+secured: "++IFj72xTtx7UNbcUY2pdevdY+JDX+SGysccZPjcwrAS0CSmilY0m3y5g9esanubUxEQQ1SI1hghPIXuUxwiIJayov4GAgo7hHo/PVjdybY7w1NawyeiKSWGbf7RvHb7URg4CXvuJNwqFUHuMoagrLskX8VryQGDSmEh3E+A3Tg8G6qXXf7/0Ieb1kkUT4krqqsjIt/bkZ0JtPNF1ae7c7/OAFxv6tsL3nrTZLk9PLfyJB8tQBjdOLraDhss3ABVGt0L6a/cMYbAf7WoBRCSIr4bKZeWDmXuU4MmjU+QkjQl6eBuIc0CyL9Fx4zs+wIE0hSBeCv7kkL4KDySN4j/Ig==;DmFn5C6FAIHvW0KXoad2MA=="
 ---
 

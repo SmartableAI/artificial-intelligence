@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16936118"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16936118"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "MobiusTrend Research: AI Deep Learning and Hologram AR Applications"
-    excerpt: "Facebook, Google and WIMI focus on AI deep learning +AR technologies, which will facilitate the interactive display and extend AR application scenarios. Hong Kong"
-    publishedDateTime: 2020-08-03T23:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16911021/mobiustrend-research-ai-deep-learning-and-hologram-ar-applications"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16911021"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16911021"
+  - title: "MobiusTrend Research: Hologram AR+IP Services in sports and other fields"
+    excerpt: "WIMI’s holographic AR content production is built with image acquisition, object recognition, automatic image processing and computer vision technologies. WIMI’s software engineering team and visual design team work closely to advance these ..."
+    publishedDateTime: 2020-08-04T01:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16911624/mobiustrend-research-hologram-ar-ip-services-in-sports-and-other-fields"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16911624"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16911624"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 58
+    quality: 23
 
 secured: "7NiFLzVhhB+JjrqiwJw48oiZxXlZ7Z5KgFuJ152qtWxBJGFGFhSYDCnreS3TTlZetPZQTX71thBpTdu9yPFXY3qWdl7P/hSLczvRJxkbgvxhnvG8yRB6GcTVJb7x1wks4imeRwdOYqnvRyGBjaAoLJz5RP9IWw9YaJzZqIJaG6tcB+gD3QGbeMz6jY1gc28J/wtoGX9mgaMOSIasuuOZHrQACpXc/kaoNC7NWX0B/K8QNhs6RgzEK4sPP/Avtvwr/ZHIRK5bW932G9UrA63TrEAxCbv9OwDd3K8zDdnuYnoFNL+P5lZ+8q8m9bDT6BygAJIv1l3wJACL8AjSVxMD4nbVKpYn6P99n87R680kZOOQdy7OGwPJHheAPPXmTFd+a+k6+L8do50pBC8HdsleaIoh66+5pqmSahFZDw0k9pY4Ylwm5NpzvADkoKeUKd8wTKES92Rvj58xr/hLgVTQMYUM4ycE02Qo/BklQqDEQg/AnoN5qX0WvPSjmVIMoeL/5+wMASrswniLdSNL7pzgeA==;dEPeHGLmG5xBI7emZrzKIw=="
 ---

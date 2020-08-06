@@ -104,6 +104,22 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
+    excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison"
+    publishedDateTime: 2020-08-05T01:30:00Z
+    webUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+    ampWebUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 44
+    images:
+      - url: "https://sunbeamwsvn.files.wordpress.com/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18.jpg?quality=60&strip=color&w=1200"
+        width: 1200
+        height: 826
+        isCached: true
   - title: "Anthony Levandowski, self-driving tech pioneer, sentenced to prison for stealing trade secrets"
     excerpt: "Anthony Levandowski, a former engineer for Google and Uber and a developer of technology for self-driving cars, was sentenced to 18 months in federal prison Tuesday for stealing trade secrets from Google. Levandowski, who pleaded guilty to the charge ..."
     publishedDateTime: 2020-08-05T01:33:00Z
@@ -136,19 +152,21 @@ related:
         width: 5512
         height: 4410
         isCached: true
-  - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
-    excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
-    publishedDateTime: 2020-08-05T12:18:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+  - title: "UPDATE: Self-Driving Car Executive Sentenced to 1.5 years in Prison and Public Speech Tour for Trade Secret Theft"
+    excerpt: "Since 2017, we have been covering the legal saga of Anthony Levandowski – the executive/engineer who allegedly stole Google’s trade secrets related to self-driving car technology and"
+    publishedDateTime: 2020-08-06T15:11:00Z
+    webUrl: "https://www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech"
+    ampWebUrl: "https://www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech?amp"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 24
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 23
     images:
-      - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
-        width: 500
-        height: 344
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.jpg"
+        width: 1426
+        height: 808
         isCached: true
   - title: "Former Google engineer Anthony Levandowski is sentenced to 18 months in prison for stealing internet giant's self-driving car files before heading up Uber's rival unit"
     excerpt: "U.S. District Judge William Alsup said a sentence short of imprisonment would have given 'a green light to every future brilliant engineer to steal trade secrets'."
