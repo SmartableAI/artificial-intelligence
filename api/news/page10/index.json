@@ -2,6 +2,56 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-07-28-how-reuters-analyzed-rite-aids-use-of-facial-recognition-technology.md",
+      "title": "How Reuters analyzed Rite Aid's use of facial recognition technology",
+      "excerpt": "Reuters analyzed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-riteaid-software-methodology-idUSKCN24T1H5",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 364,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527392330&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0S8",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24T1H5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24T1H5",
+      "publishedDateTime": "2020-07-28T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-yext-answers-goes-global-with-language-expansion.md",
       "title": "Yext Answers Goes Global with Language Expansion",
       "excerpt": "PRNewswire/ -- (NYSE: YEXT), the Search Experience Cloud company, today announced the expansion of Yext Answers, the company's revolutionary site search product, into",
@@ -328,7 +378,7 @@
       "title": "NVIDA: AI, Robotics and Self-Driving Cars",
       "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
       "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/",
+      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -360,8 +410,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1081,55 +1132,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-bird-identifying-ai-could-put-an-end-to-leg-bands.md",
-      "title": "Bird-identifying AI could put an end to leg bands",
-      "excerpt": "If you saw a finch one time, chances are you'd have great difficulty picking it out from a large group of finches later on. A new artificial intelligence-based system can do just that, though, potentially making life much easier for both biologists and the birds that they study.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/bird-identifying-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0ce9b3d/2147483647/strip/true/crop/3360x2240+1+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F12%2Ffc%2F72ed33164940919758665930dc15%2F20great20tit20with20the20bounding20box20illustrating20the20individual20identification20performed20by20the20computer20redits20ndr3920erreira.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/science/bird-identifying-ai/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/bird-identifying-ai/?amp=true",
-      "publishedDateTime": "2020-07-27T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

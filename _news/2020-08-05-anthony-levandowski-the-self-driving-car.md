@@ -56,6 +56,20 @@ related:
         width: 1600
         height: 896
         isCached: true
+  - title: "Tech in 2020: From Elon Musk’s self-driving car pledge to 5G networks and Playstation 5"
+    excerpt: "What to expect from the technology industry in 2020, from wider adoption of 5G and facial recognition tech to social media and fake news regulation."
+    publishedDateTime: 2020-08-06T12:59:00Z
+    webUrl: "https://inews.co.uk/news/technology/tech-in-2020-predictions-analysis-elon-musk-tesla-self-driving-cars-5g-playstation-5-377742"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 16
+    images:
+      - url: "https://inews-prd-a-images.s3.eu-west-2.amazonaws.com/content/uploads/2019/12/GettyImages-1172921055-scaled.jpg"
+        width: 4000
+        height: 2805
+        isCached: true
 
 secured: "LrVJ9BCjjDrWaxEAFm6s/jpSPwWJAiQsVpgrZii+csB8mb2H17mR+Pfvj8+L1qbLRtsjcT8XIkm8O+yqUEk9OeHVDnETP/OoufAxcb/IOfZzUMIIln1TEzBO2UWf5zZrhorzJDpJJYDqOL6IpTF3y0K7+wFps+txrlYjTDLJGo9JKzxTn6QsoAjiEGzS19HHsLQO8P4LKZ7AOA4uHDQYxN9k1pRGZifxttdav6/zs8FxqjvwhcyCfkin5MfJ0zsVQooYMKFT9pxVmpZ5EPxM5yWmPBnTlxayL/6SV/RqL5f3ddFxKRa2/49/5Xc1t4biVK1a94bV7rI9J8bIacBLKw==;jjnSBCMqS9jS0W2baqqtTA=="
 ---

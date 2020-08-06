@@ -333,6 +333,15 @@ related:
       name: CBSSports.com
       domain: cbssports.com
     quality: 23
+  - title: "The Case for Banning Law Enforcement From Using Facial Recognition Technology"
+    excerpt: "Woodrow Hartzog and Evan Selinger published a report on Banning Law Enforcement From Using Facial Recognition Technology. The report was published by the Justice Collaborative Institute. “A federal law would be the most powerful step to regulate the use of this invasive and dangerous technology,"
+    publishedDateTime: 2020-08-06T13:47:00Z
+    webUrl: "https://cyber.harvard.edu/story/2020-08/case-banning-law-enforcement-using-facial-recognition-technology"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 16
 
 secured: "on6ffwypnmaNP7dtbwBdZZHVdjhnOR4pcjQEFWeDRUHtkvBYnUeaz+M+ikGsha0p58oz8/dUhE1wMJcaucaCc17Zw6zSf6gqknWYdkkvqf7SLN292qK23PO6RrMLs8TqLDQ/Dco0NjTg2shsCjK/xdF6WBTZ0eIEDDMsGV45KyBLbbmeOYC8mEUEP9VvITX0m/kCMm6NDT0dXcv+XwJ2U864xzldmfH07nj2xwjPkCuzpvToM65iwZdCcEr8HHZrHXXGchpnnnT908FwYuxj4TjLp+lhe6HirfGEE6U/KVKsr0LKK3FpN1OCi3n7FdhiAm4vgv7sGxVr1b6Q5b7FNw==;uBIG5zEFwcD//1qXaH/U1Q=="
 ---

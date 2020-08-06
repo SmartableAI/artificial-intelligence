@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Former Uber self-driving car exec sentenced to 18 months in prison"
-excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
-publishedDateTime: 2020-08-05T12:18:00Z
-webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison"
+publishedDateTime: 2020-08-05T01:30:00Z
+webUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+ampWebUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
+cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: 7News Miami
+  domain: wsvn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
-    width: 500
-    height: 344
+  - url: "https://sunbeamwsvn.files.wordpress.com/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18.jpg?quality=60&strip=color&w=1200"
+    width: 1200
+    height: 826
     isCached: true
 
 related:
@@ -164,6 +166,6 @@ related:
         height: 382
         isCached: true
 
-secured: "HXu82U1JZhWC/tiAFVOxuSQVfsiTTj+HpDx1svnsFzr9YROW+R5xR/AfMvS8XpRJpXTuLnAHVIZpGcPJIGQEXZw3qK/vQmMi+tyFlAFnwjdzRtSLexrE5MNFrbDBPOkDKt3xvMK5AVSk2R6jteN7SoUbJ2tz0zVLeytWBy75/j1vVHyzDOCi+zsKlLwQ2ehtkWrkxzahTTU01dfBLO/nMjLS4az+FATBKy1KSh5ARC3hWds+z7SNxqEQ8G/8KKHyZocB7UKWazS6OtKIb4MrslmvfA315cRDDp7VXXmjWSvQfuTF4+lSpVP8T0eCk5nj0AuENQ+d9zGs+A1p4Z9y7A==;GT6dA+MoGw0shZdEfwK3Zw=="
+secured: "TOTqsYKnflIQdN9v/81MUSRBpbH7XPpzUg9ry+0Aq89iXmN7379bzBb+R5N66y7w929XQCgz9Mmn3qraNump9aXKCtPjFF4T0+tSH8c+IAC6BioApuKmBl40qO4Uo7HZ3AqvartgcOsr9ZMwRCeH/aNobdwykM1Mkwt5stRROpKGl9d2GQU3j4YsnaUDjQfn3iFfJHNqI+1Vls6Xjzm08px8BcZC0yyq+/YAhKGuT/ept+BExjS5pbUolh/uYJNUSkI00zOlAi2JQ+5tBJIMhMcaH/7Qs0xwH86pE3BvPiftk7eGCy/G+AuQr708Gn/b4WoAW5GErXvjBd1Fp71wwA==;Vy3/FNyaRwmHcieVF+5x4Q=="
 ---
 

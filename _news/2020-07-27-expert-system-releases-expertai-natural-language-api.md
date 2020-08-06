@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Expert System Releases expert.ai Natural Language API"
-excerpt: "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural"
-publishedDateTime: 2020-07-27T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html"
+excerpt: "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural Language API that enables"
+publishedDateTime: 2020-07-27T12:44:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/288932/expert_system_Logo.jpg?p=facebook"
-    width: 702
-    height: 369
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "3jbsguExW+pwS53QrluQrkw2AV2/HiGjOfmujaVmEzFZFpvCtLJe3Ub7XXBHMd90VD4Q4GvWkiYOXGUlGjmrHb/z3oiuSxLwkLBXrbD4D+maY3s7RKgEgQAgupv6GlQKRLdyYRmJww53kr/P/kxYvOBfbz3Y8XxcEroeSDR1pXkYVgUuVTT3pmUzAGKcjBPQKmkWBRbib13JmGwoo0RHk/8zJf6Dlhu5gHn9WbnGRAiD6qwseKoPYqBme4TJBxq/4geGXxbAoucPJ1Aw6AJWV6jsN5OnWD1ds7VPqq2Q4hDuK2Laj5ylLL0lj7w2FF50fv//iGx1+gSKoP48ZBwS8gfAiVOL+y/QQwKIV9dhdCGE0vjfH4Vta0k6ExIQIuX9oRi4TYZxTuNHFzvIyJ1TcWAptH4k388ZwHlUAkZmw5SzLIke56GTP0g/55D++dLC6pxdeO2Bh3pxSsa+NTjLmmb6DfPedKwlsLa+TXeIDU0Y1ApVCthY/FqeQW9IJRfrefLfQeJVLJAVBGqbNax7fA==;cBYnvE45qmNZeI4mKv9z5Q=="
+secured: "lopJQ2K/zTJAhJdOi7YPBg1aMiALXK38/tpGwEmMV2qfw4CJm7yaOZ4jsngybg03/Tdxi3EtwMIT4HGK6noTDmtgo5syDrMcBWfAoGMMwy5RrzwPA2BknhDvv65JAHQgd3IB2ML8ooMp34J3mesIMENO43xshm8NNJh0x+02nUOAWUE3fWK3mZjntjfUKvWKUwP9Kj2w7O5gr6f7jdaYabdFGeqbUPVofcIbjWIdkfKhXzUewY83+zdeh7D8q9DBBsSJzW2CRsxEAVWYLQtXZgXjR6Gs7cXVAQR9dHv+i5GrGIz7vYqCZGrq4FhLUJpjqFe/6u144eMnRNOfD+cbbQ==;thVR17gx235Y0GFxJ/2nkg=="
 ---
 

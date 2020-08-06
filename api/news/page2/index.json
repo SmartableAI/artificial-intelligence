@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-05-airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india.md",
+      "title": "Airtel, AWS join hands to accelerate digital transformation of business in India",
+      "excerpt": "New Delhi: Bharti Airtel (“Airtel”), one of India’s largest integrated telecom providers, today announced a multi-year, Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to deliver a comprehensive set of innovative cloud solutions to large enterprise and small and medium enterprise (SME) customers in India.",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://orissadiary.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/amp/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/amp/",
+      "publishedDateTime": "2020-08-05T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-make-ai-enhance-your-productivitynot-a-surveillance-state.md",
       "title": "Make AI Enhance Your Productivity—Not A ‘Surveillance State’",
       "excerpt": "Artificial intelligence is a powerful tool that can augment employees' experience in the workplace. But, like any tool, it needs to be stewarded properly. Make AI work for you by using it to amplify your productivity.",
@@ -757,7 +798,7 @@
       "webUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 322,
+      "heat": 332,
       "tags": null,
       "images": [
         {
@@ -1121,47 +1162,6 @@
         "Google AI",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
-      "title": "Nokia to set up robotics lab at Indian Institute of Science",
-      "excerpt": "Nokia Center of Excellence (CoE) for networked robotics will promote interdisciplinary research involving robotics, advanced communication technologies and artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/08/04/600x338/2020-06-30T092400Z_457483931_RC2LJH910Z5H_RTRMADP_3_NOKIA-FRANCE-LAYOFFS_1596543432399_1596543467201.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
-      "publishedDateTime": "2020-08-04T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

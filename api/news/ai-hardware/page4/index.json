@@ -2,6 +2,47 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-26-covid-19-significant-shift-in-strategy-of-mobile-artificial-intelligence-market-2020-2024-increasing-use-of-ai-chip-enabled-mobile-devices.md",
+      "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
+      "excerpt": "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200626005284/en/801494/23/IRTNTR40360.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-26T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-ai-accelerating-software-gives-fpgas-a-leg-up-on-gpus.md",
       "title": "AI-Accelerating Software Gives FPGAs a Leg Up on GPUs",
       "excerpt": "Xilinx recently tapped a startup for its AI accelerating software platform. In what ways might this platform add extra benefits for FPGAs in contrast to GPUs?",
@@ -1335,57 +1376,7 @@
         "AI Hardware",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-06-18-lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads.md",
-      "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
-      "excerpt": "Lenovo on Thursday launched two new data center servers aimed at supporting AI and analytics workloads ... The ThinkSystem SR860 V2 server also offers GPU support, accommodating four double-wide 300W or eight single-wide GPUs. Lenovo is also rolling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/16/258996ab-9ba2-4444-b563-7d495c021025/lenovo.jpg",
-          "width": 1115,
-          "height": 584,
-          "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "publishedDateTime": "2020-06-18T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 5
 }

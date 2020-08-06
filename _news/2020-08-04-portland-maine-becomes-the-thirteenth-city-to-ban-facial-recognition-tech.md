@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ba
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
 type: article
 quality: 102
-heat: 322
+heat: 332
 published: true
 
 provider:
@@ -337,6 +337,15 @@ related:
       name: CBSSports.com
       domain: cbssports.com
     quality: 23
+  - title: "The Case for Banning Law Enforcement From Using Facial Recognition Technology"
+    excerpt: "Woodrow Hartzog and Evan Selinger published a report on Banning Law Enforcement From Using Facial Recognition Technology. The report was published by the Justice Collaborative Institute. “A federal law would be the most powerful step to regulate the use of this invasive and dangerous technology,"
+    publishedDateTime: 2020-08-06T13:47:00Z
+    webUrl: "https://cyber.harvard.edu/story/2020-08/case-banning-law-enforcement-using-facial-recognition-technology"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 16
 
 secured: "ZWsMflDIBWy+NDtCPA6nFQBv7B52vSbeRxK0qwqwv+kzyxSXW+N9eFBc7E2gYq273wPK9FYiqJYSrjwx1EF85lMglIUMW8GvMrNO4s201XdEmzb9CyJBxlPzwCzxF8e6dl2wyozXzPLC2vfx/VQ6ooaVraMKee0Q0tTOvc4xby9QDVPK9EJgRTR1hPI9d2oXBVloRJl7wHW/QmOngoL2iiPD40EOvnLFLr7YGrCMc5u7RT/ykQq+GahCXW83+A4jQPlW6b92lHCkpRYfmYknsQu9JZ4jHa7mFcHVLV3NH8xHrmqslsO1U+d2P+2dxpM7fmI27ec2IEmQ9A3ymDMZqQiqyJrHxXaGcdlCdUzalHN8PpzgIKNkxUmpyWb+CUynJuerBUm8iYY+oLN8jxUFZf28F/Hz0ADZas5J1E9WZoX8/C7YrWLhE2T0wbXdpE6ILwg7TmBQ2BkmwBoF+Ut3SOEqDRdrTETebCznjYYmweuiFJtryHKS2SpzGgg5Pexq;ELU862CpapZyTYMZkVS7/g=="
 ---

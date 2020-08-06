@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/</loc>
+    <lastmod>2020-08-06T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/</loc>
     <lastmod>2020-08-06T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -805,6 +811,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment-9136450</loc>
+    <lastmod>2020-07-30T07:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/tomdavenport/2020/07/30/machine-learning-and-organizational-change-at-southern-california-edison/</loc>
     <lastmod>2020-07-30T07:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -909,12 +921,6 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-29T18:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.medindia.net/health-press-release/greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment--479970-1.htm</loc>
-    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1393,7 +1399,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/</loc>
+    <loc>https://www.moneyshow.com/articles/dailyguru-54699/</loc>
     <lastmod>2020-07-28T02:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1573,6 +1579,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html</loc>
+    <lastmod>2020-07-27T05:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
     <lastmod>2020-07-27T05:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1581,12 +1593,6 @@
   <url>
     <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
     <lastmod>2020-07-27T05:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html</loc>
-    <lastmod>2020-07-27T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1681,6 +1687,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cmo.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <lastmod>2020-07-26T10:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/</loc>
     <lastmod>2020-07-26T10:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1695,12 +1707,6 @@
   <url>
     <loc>https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/</loc>
     <lastmod>2020-07-26T05:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
-    <lastmod>2020-07-26T01:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1735,7 +1741,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25?mod=mw_quote_news</loc>
     <lastmod>2020-07-25T07:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1747,8 +1753,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative</loc>
-    <lastmod>2020-07-25T04:59:00-07:00</lastmod>
+    <loc>https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative.html</loc>
+    <lastmod>2020-07-25T04:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

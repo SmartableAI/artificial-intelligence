@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Ensighten Launches Client-Side Threat Intelligence Initiative and Invests in Machine Learning"
-excerpt: "PRNewswire/ -- Ensighten, the leader in client-side website security and privacy compliance enforcement, today announced increased investment into"
-publishedDateTime: 2020-08-06T09:52:00Z
-webUrl: "https://www.prnewswire.co.uk/news-releases/ensighten-launches-client-side-threat-intelligence-initiative-and-invests-in-machine-learning-840742295.html"
+excerpt: "Ensighten, the leader in client-side website security and privacy compliance enforcement, today announced increased investment into threat intelligence powered by machine learning."
+publishedDateTime: 2020-08-06T13:07:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ensighten-launches-client-side-threat-intelligence-initiative-and-invests-in-machine-learning/article_770f1e9b-586f-5841-b3de-67f47c846bc6.html"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "3SXsRLBDGIca4D1PacxVBQMCgkqvF57RhP9J3b8dSIR7ZkVna5+501MPHsV57bjcwxfgzpy2Zs5t+BBFrOk7XbPbmp+Jtyqx9uGGsoEDi3rvAA4Te+d8WKdfzW8wkKfBwEwTZtzeFxAgP1dJqKeIO92EyyUuWbOwRaguOZPpJGnIZ/Pguf47YLbKLchxGgxHO7k4SaWGs4zNIEQsbgvqhLKgEG5IKFQZLCRj4y7O4FR4cuibC1gBwMdoYtSpGP0VUz1KjeNb/NUJOe9JFMjrnLJYJaIbn5y8omldESF0jsr1dDOQHouebRFbeT1whGUFTyxIcKejcD1cn9PLwEtOJw==;uMtzmUxeCA8Q/byG6C+GFA=="
+secured: "A4+9Nw64OO2vACDbA4MtIZqNJgk9+bYdwiXYaGJw4fgWu0KNVd2zEGxGtV0lLcELSW9+yxZcmaBv0DlJaqCtMqQujx/Qi37TR6233FN2nmC7c7VPWFv8F3m1tcawmbYZGzT1WNvO7ZE+0CRvmUobw+RFc5sK8ZlQOBoEd62zfeoTrQ0xBrBXvvj6gMferCeqFWfzNQPt4xqUvPBVfJAp1Bm+zQJtlyhq42bl1xczQVRYkh+PajPX8Pt/QoCsGtiB4vVZ/i+YZ2DitKKWc20LozgBU8DLeG03bUPGJx/7bR6pWU73OxIRnWOj8IYITmwgvoSh8DdJlRTlpyvhSiARpg==;HbnNnK95vBV879ZmplvC3w=="
 ---
 

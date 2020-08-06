@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,7 +60,21 @@ related:
         width: 1600
         height: 896
         isCached: true
+  - title: "Tech in 2020: From Elon Musk’s self-driving car pledge to 5G networks and Playstation 5"
+    excerpt: "What to expect from the technology industry in 2020, from wider adoption of 5G and facial recognition tech to social media and fake news regulation."
+    publishedDateTime: 2020-08-06T12:59:00Z
+    webUrl: "https://inews.co.uk/news/technology/tech-in-2020-predictions-analysis-elon-musk-tesla-self-driving-cars-5g-playstation-5-377742"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 16
+    images:
+      - url: "https://inews-prd-a-images.s3.eu-west-2.amazonaws.com/content/uploads/2019/12/GettyImages-1172921055-scaled.jpg"
+        width: 4000
+        height: 2805
+        isCached: true
 
-secured: "eM9u3i1zZ503vWuiVcVbWcrA+hhB3Js8oT3+po96FZ509VrtXpw6xRD/VzdMlQbBm7JWjfuzBl6cvMX+q3uWUlVNwJ9vCokRHAkyb78RxWbpMPwezilsuEGm/8krRMUWk7Khh40ZsOXhzqNre6Y0SeubYi6b8pwBHQ5I4zvLZqc4RRsYlNyo/oHsKvm5Uwl8l1WF+9sxD4btUxg0ycWwKfcMLrK240h4O391RcmywqwCJwUjktoMSzimq9eWhkjFiHylr/pwnwnu3p7pO3Ig6kQ5K4gxhAZeCf249izVBIOWNMzfKG4uZKllP7tEpW2cKlBAe6k2rl5lsflYQMmoXQ==;AP+XkC3g2e4OpYwib2HWNA=="
+secured: "buAOVGpi8/HM/9a0i671Vc6MsRp5EtuqThE0cCIYbk3hJs5JJ/RoAyCg0AvjSZ7ohX2/PtjPWmkMcmIKB8ucE5YEaDETvcKEY6vmN4WrhdHGy4ZmHmiTDXxjcVjH6skTSyTLBwCKL2sZDHl3iWGEw/XtZRIhvWd2xTeJG6N0KTLWaRnEwQQ+bNpEoxnWFxkxcYwr8NNUxgvnZ7tdUnt07/LmJ6f2UP4OrBcSgNzdxCt815A615BnJAwT25KsBtKtiEB6k/8AiqUdGwSx8f3R9zs/eW+3PKsJfXj66iNuEvnrg3EL73o2JY725AR7eR5sGkQidcwDCQEk0K32PADtagzvUmEMD51VnVSNfWKaCdVx8kdFkKrL7BWBA1Or6FCcHwa82Zgay4LBsMKSmwpeC5YMf+kjB2w1WCHPzJeSSTSnR0ouVe5dHWlOL/2xCAffzNM8NSdbQsEgqRvtWLp/jeb2gbu3Re0lQjg0qw5j9M3ipOMINoWEFt9Lj8JtIMfcN6eHmMrny6sapJaw9aRcjw==;+QzC/xukOiE0EfeW23dFCA=="
 ---
 
