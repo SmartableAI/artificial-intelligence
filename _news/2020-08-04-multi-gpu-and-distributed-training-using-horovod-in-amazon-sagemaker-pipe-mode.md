@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-04T21:48:21Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/multi-gpu-and-distributed-training-using-horovod-in-amazon-sagemaker-pipe-mode/"
 type: article
 quality: 100
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 747
         height: 319
         isCached: true
+  - title: "Managing Machine Learning Workflow with Amazon SageMaker"
+    excerpt: "They naturally expect AI/ML stack to rapidly evolve to meet their needs. At the recent re:Invent conference, Amazon Web Services (AWS) revealed Amazon SageMaker Studio, a web-based IDE that tightly integrates all components of the ML ecosystem within a ..."
+    publishedDateTime: 2020-08-06T06:46:00Z
+    webUrl: "https://www.infoq.com/vendorcontent/show.action?vcr=5426&itm_source=infoq&itm_medium=VCR&itm_campaign=vcr_presentations_click&itm_content=bottom"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 19
 
 secured: "fxrfumEDQ/xIqC7QxE9lYTn78VlrTrDqFuJvpO2FNuQ9skxYfzKc12S0t5j1AcfQxrvkZvdfh3+M0d+ssfmkRNOlzTgyk7KIc4Dks4YtjqvbKITieKjWICPXoL6e5wnEqxauE92fTl3QjkjYdCHuH+GBSzKnjbucxK/aMTRYvZPjK+nxXn9nxSlFw/KzCXWeOG4MO+Q0PVF3SNw89nw2GquERoZfguhw5Oj3+wPC7c6mdQyAJOfcmgpCo1erArf6OIm0IbaEJVSrqEsMjTgfuUGtOFWyIGihHKOA5JJOLTOjuTktqu8s7G5dlwFW90ZZED5KBYmx0BsBRPbX3Rj7Eg==;6NUPUuWrgNYI5uVqHDS95Q=="
 ---

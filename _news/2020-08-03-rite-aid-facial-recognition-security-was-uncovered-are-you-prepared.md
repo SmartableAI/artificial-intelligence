@@ -8,7 +8,7 @@ ampWebUrl: "https://www.paymentsjournal.com/rite-aid-facial-recognition-security
 cdnAmpWebUrl: "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rite Aid Pulls Plug on Facial-recognition System with China Links"
-    excerpt: "The post Rite Aid Pulls Plug on Facial-recognition System with China Links appeared first o. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq,"
-    publishedDateTime: 2020-08-02T00:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "McAfee finds security flaws in internal mechanics of facial recognition models"
     excerpt: "Adversarial machine learning needs to become an integral part when rolling out applications, chief scientist says"
     publishedDateTime: 2020-08-06T04:12:00Z

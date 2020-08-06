@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Edge AI Chips Market 2020 by Key Players, Regions, Type and Application, Forecast to 2025"
-    excerpt: "Global Edge AI Chips Market Growth 2020-2025 determines the views and opinions expressed by the consumers. The report gives the estimation of the trends, which are based on the present, future market analysis."
-    publishedDateTime: 2020-08-04T22:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025-2020-08-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Top Manufacturers, Industry Share, Size, Trends, Growth Factor and Forecast 2026"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence (AI)"
     publishedDateTime: 2020-08-05T13:10:00Z

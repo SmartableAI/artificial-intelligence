@@ -56,6 +56,15 @@ related:
         width: 747
         height: 319
         isCached: true
+  - title: "Managing Machine Learning Workflow with Amazon SageMaker"
+    excerpt: "They naturally expect AI/ML stack to rapidly evolve to meet their needs. At the recent re:Invent conference, Amazon Web Services (AWS) revealed Amazon SageMaker Studio, a web-based IDE that tightly integrates all components of the ML ecosystem within a ..."
+    publishedDateTime: 2020-08-06T06:46:00Z
+    webUrl: "https://www.infoq.com/vendorcontent/show.action?vcr=5426&itm_source=infoq&itm_medium=VCR&itm_campaign=vcr_presentations_click&itm_content=bottom"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 19
 
 secured: "OwbakoYmLK44kCvmQIy8EssGSWnduKR/pQGTLAeKdCVlckVOL0BCsodFW8eR5idjKDKRDJw+jxIyG4qtawqFVO3j3W/EjOF93yJucwkabNRBF1caIC2ekJqc+NQTPpauI39ceSWy9WTfMsto5yRGV81UTz+kE+M+Tniv1J3ojpBsU8bPtFhs9WWXR7A1XE4dN16FuOdSt5v/Ir9DnXORmVOKBVtItxqEt3yg6J3dGm9ePdOFRAnvewzhmT1PCOrOWVG/AbxNnYFYyXZ6D08gkobrFAwisZJmNlaWuSXzxExdNW5xYXy0OH1f1CoyAy3lp5nyy2rcjb8Tg6hhZKxl6A==;amO3wZUSYGVT3/9SLDywIA=="
 ---

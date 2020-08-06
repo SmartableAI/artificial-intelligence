@@ -194,6 +194,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Russia's Yandex chooses Ann Arbor for long-term testing of self-driving cars"
+    excerpt: "Russian tech company Yandex arrived in Michigan with the hopes of showcasing its autonomous-driving systems during the North American International Auto Show in Detroit. Those plans changed amid the pandemic,"
+    publishedDateTime: 2020-08-06T17:04:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/russias-yandex-chooses-ann-arbor-long-term-testing-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/SuperCruise-01.jpg"
+        width: 792
+        height: 488
+        isCached: true
 
 secured: "Cw5kgRJDMEUUvvO3wGN+29Xt0k4rCxZCr14vBJB00ykOTVddtq3ee4Pd7h1MT8yfcEe5WDD50N+kG/EH0aJknUt0ImhBjPgeXbjpeHqT8Oyv4Su3P2VTnkcHlETmDa+wB1kgUz/+JTHoJOmlabsG7bkNGBDrSfiMo5oe+oCMlO8HzVE2YcHdE1oLxM0kh5s0bOaXR97QacISpIuyG/mVZCLBFGcqvkvfQsliG9c6z/MMD7E9VR93INsKI4GQmzmgng9hTvzQzkjUQSQenOogB7nMBceUQ5O8u7N5ML1Qlgv4vvJCKRTwR3wv05d0gNKZeKoqjJsm5J0ymq1TAblTNw==;qAMN89qLiST+2G8Zt5ZCsQ=="
 ---

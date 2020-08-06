@@ -256,6 +256,17 @@ related:
         width: 1000
         height: 701
         isCached: true
+  - title: "Portland votes to ban facial recognition ahead of referendum"
+    excerpt: "A Maine city council has voted unanimously to ban the use of facial recognition technology. Portland City councilors voted Monday in favor of the proposal submitted by City Councilor Pious Ali in November,"
+    publishedDateTime: 2020-08-06T14:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 39
   - title: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing."
     excerpt: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing. Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us."
     publishedDateTime: 2020-08-04T19:12:00Z

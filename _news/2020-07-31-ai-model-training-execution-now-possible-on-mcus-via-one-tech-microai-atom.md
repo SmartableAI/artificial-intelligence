@@ -14,6 +14,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "wWVyft7ec9k42o1NmaZz1495RgVh1QBMOWGmIWeHk+dIe+MJpjWJKjglkGkp3rhvHu+lKV+8VSgput58L2UXejx7f7yLfHDOT1fqevZflDME1tR+c0Og4hMi7iipWp3ZQSfpRIIcAndhh844oDOusvGuLIKIrK/hk/ml1YXx7QgKO4WW/gY3ndg9Qu4dFXNWLJDfY95em8O8J8DQC5QxQN94e4hZRB/4k0u+8KYRsMowgGKgo8vg7E/PLyKzbypmVqAJLewZrn6iDRL4lo5BqQ6HVOAPCmYkAIROQTkCcSMluwO6Fdqk/LcOauhedxvpMq+haK+49i4NYoW5sv9dfQ==;XLZ5+9sxO9d0M2DajOABZA=="
+images:
+  - url: "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fcontent.cdntwrk.com%2Ffiles%2FaHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmMjQ2MWYwYTgxYWEuanBnJnZlcnNpb249MDAwMCZzaWc9OGFmNmQwMzFjZTgyMGI1YTRkZmU3YWMyNDI5MjExYTU%25253D&size=1&version=1596221948&sig=4129f72f361a989140869ee24c1429eb&default=hubs%2Ftilebg-blogs.jpg"
+    width: 500
+    height: 272
+    isCached: true
+
+secured: "GceFxFKJsTOq5lISPIde5NG/JS5lMZP8J02EP/GKl/y1nxz3lip5Bxs++qNpKlkrF46LTdRsvKm/jykhSggOccBsbNqAUABMOl1r8wt0JDMpKGTQJrKAEECjbI7z9Yur08O0fpPENl0Xt7Zp+rIoDmicXYM+5bGe9GA+nM10GeX68jiToM90Ma8VLLc87jKY5NBB/jpTGKrXJyB/1xqTOmbd/lRoezh3DwxfZXVlVdDAi0rTVIbBmBoongC+N1gQSAtYYHd9TY+FP38SF+lBnkAp542MWfCdbI6vLgPGRm4qF4LzIVAdftCrElFti0Id5of/JfoAn6THRtmHSqb7AQ==;Wj+qnACY5MYiAq/j6C9TtA=="
 ---
 

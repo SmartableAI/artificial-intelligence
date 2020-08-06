@@ -44,17 +44,6 @@ related:
         width: 1280
         height: 1066
         isCached: true
-  - title: "Rite Aid Pulls Plug on Facial-recognition System with China Links"
-    excerpt: "The post Rite Aid Pulls Plug on Facial-recognition System with China Links appeared first o. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq,"
-    publishedDateTime: 2020-08-02T00:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "0UUoQmj4X11JHf2e6yWYNFWyV10Ynoz/H4a/IIFP+VlQAiKIx2vbtgXAVuHFZwx81zCKad3Y6GSrYf1qorhD6EpfTH3Q8FLGAFq6zdraWtoZj8G215jklVlMbJKGSQ4G0y6h2t0eWYVzyAidZba+nkL1jwu79qwldX+Fo6+l0oLJs4/bwIp5uaF8egBDcoPZsYdIOWX33awXE+2Yn3hipUb3PQSEn4sbpK2sHTwNvE9c169eI3H+JxO1kwrc/2/LwwXAnmx9ztFylkNQLR82a4wJKbF1onl7o64gWW77nMB2dP0+Vkbv4avNza1KHAdXsz9BPt6rUZub2piB1I08rg==;n4E53pIlJ7rAYkPP97ZXyA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-0
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -197,6 +197,20 @@ related:
       - url: "https://www.hawaii.edu/news/wp-content/uploads/2020/08/manoa-engineering-smart-traffic-lab.jpg"
         width: 676
         height: 381
+        isCached: true
+  - title: "Russia's Yandex chooses Ann Arbor for long-term testing of self-driving cars"
+    excerpt: "Russian tech company Yandex arrived in Michigan with the hopes of showcasing its autonomous-driving systems during the North American International Auto Show in Detroit. Those plans changed amid the pandemic,"
+    publishedDateTime: 2020-08-06T17:04:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/russias-yandex-chooses-ann-arbor-long-term-testing-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 21
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/SuperCruise-01.jpg"
+        width: 792
+        height: 488
         isCached: true
 
 secured: "DdJTNvqdyiNMukRhB1F8bvSQ8S9KxhpI+EnO5q08Eu101utH8YXFii6q+KNLlzJNFRcXLttQdFO2QttgbxAj6lV6i2Yg1bl0tZjC4eqdhNoCqrUnCY+XJYmNceSADV3Daslds2n15JSuKakxNrWD1fkzUYzTXv0OYeVXJENHMuIjYhN2C5mM/cRpHfT3qMfYjogJrInhxEdG+8hd/yuMDerAUZMuyK0P84KdIby0UfQ1iK4n03NbyXq/dgNCJo1kFKkQxuruHyxlGzIuVSIv0ShR4DsIT/hkn313omtbT5cJgNXcLBKqdkKeL1wdlUZCpz60XDqM3GfMQdUQqxTk3eh8rdCbxIbr/DsDtPrPqIguwZFQCOyiZZ3Kyvy0sCG4dF/DHIjIbiZT1sXu84HSoZgsC/oOmABNAVuqTwNH0cc06JuEKpvpMjovV/UcYkupLfYzpOy0w9FHPWihRBKCuLDWOPGGQJtqkGogRgeSZLI9Z/dYhvr/ArmeUosgW45h;KlJNtnJtTs0JmpDmEPX5Lg=="

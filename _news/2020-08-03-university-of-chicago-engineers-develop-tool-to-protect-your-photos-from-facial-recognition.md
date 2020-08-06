@@ -2,25 +2,25 @@
 category: news
 title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
 excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-publishedDateTime: 2020-08-03T21:23:00Z
-webUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
-ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+publishedDateTime: 2020-08-03T21:19:00Z
+webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
+  - url: "https://www.orlandosentinel.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -176,6 +176,6 @@ related:
       domain: bizjournals.com
     quality: 32
 
-secured: "dAEp3FnXvmkvGpCuCLHOHPlwY04u7bzCtYk852v+egFY6QdjgyhMZCcOS2Xf5sDzIayoba4bspEmaZklXeiKcvnpOV/JcInWpY+tMKq/6SF+IlmJWK2PiJuJtjmHQGog358X8Kh3RgFiziB7P9kJTg10xn/PumElQ+T4s3fk6fbpj99Aulzk6/cPT00zuVNX/DORoqd1CPC6mYtSDZG432aYyEhRCPJSa8QOMTcYPPGctF/Bl8bKZJtY7eNVE4s2NDn1OqMXbMZ9t2pESQDi8YVPBFJN0/1QYpo4dqOG2YMXQ9+8YQwHyzDj5IqHRjT2bPISVGN+J6ZEkkqT6CmW3w==;ZJVVAZTvnRtO42kuK5/x6A=="
+secured: "Cv2Q7f/2AjAkB6m4cmjn542dOdaio0XC5D8Z4dC2l0OumfOJJRBQY7Ls5KwQWcLeuGwLq0cj4c+sUDXFMoeNKURIgDHgo1VIYq4Tgaq+apQ0e9hKPE0e0JeAS3FHiKAqxNi7clM0XiDT0Jy8gZs7GMY3NzZdXN9pe25XhEOjzsuW3F6rxjoW4oI61MZ+4ORE8U+k7U4zkmnNex5ZZh/QYqN9PSAY6Gy5EDHVsrm6t0u3TVCtm4vLtHeqOCeqc4Vtpu9TkpLvrBcVYG+Po4ke0nN8jWN2Kpn3c9JHex4ewrMovLf+duYvak46KLLXLfb7HQgoLKbg8W13dbcZEfmNpg==;uLpy3k1rNOQMdQlxeRtBpQ=="
 ---
 

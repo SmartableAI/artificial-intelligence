@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing 2020-2026: Market Dynamics, Value Chain Analysis, Case Studies and Company Profiles - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-08-05T14:36:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200805005700/en/Artificial-Intelligence-AI-Manufacturing-2020-2026-Market-Dynamics"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
+    images:
+      - url: "https://mms.businesswire.com/media/20200805005700/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "thQujIdHqL4EAM9H9Bnk2Cpj/dVEwRCB+Jv5vKu95VQmE/VdOHzcam+nTBe9qIJAw03iyMhrcio+58HL7y61ig/y0uTOtIOGMvcVErKz/u2ESzl6qFfoukmPIEXj/cCvgKLPY71e2S4tmwY99UmrVy4BFzcM1GSIzyU7OL/lbcxbYqC6tNg53S5IioaJMHJnGdQuTCbvyiDdG+kb9lRLbzKT5WxyMrnbh6cCM0r/wGQ/FVFJPXB6lgRB1xgddBJSF/MchpS7X67i8v7KkMmJcQUeYRcZm265pCA0cmKtJMEYGO228E27tIMpYAo3Wirnb731UzQf6uiU9a/YDwHFC3Adkxc7pP43VtsqXLtDZsCtb2v2j2CGXYTVIYLsNUi+0xW8pESzsd73wqo+VW3jdlccsvlyyX85bmPCMTXOUxhCiflPpiZ5B3SAeMnjLZ9LS/FidthN3W6ehZUthbPQet3GqIVhGWDU59MUjnMhoiyYrpAzMwie3Y1Ocob735PsLKmDmYMHSzkpGTCe+TQ+sQ==;ZE/B7EHm2BuY5mCKqRL6hw=="
 ---
