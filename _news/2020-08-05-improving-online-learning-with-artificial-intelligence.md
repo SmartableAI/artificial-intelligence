@@ -7,7 +7,7 @@ webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-lear
 ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
 type: article
-quality: 57
+quality: 61
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+  - Natural Language Processing
 
 images:
   - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
@@ -25,23 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Get over 50 hours of training in machine learning for under £30"
-    excerpt: "TL;DR: The Machine Learning Master Class bundle is on sale for £29.85 as of August 4, saving you 91% on list price. Thanks to developing artificial intelligence technologies, computer are smarter ..."
-    publishedDateTime: 2020-08-04T05:14:00Z
-    webUrl: "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/"
-    ampWebUrl: "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp"
+  - title: "Using Machine Learning To Automate Data Coding At The Bureau Of Labor Statistics (BLS)"
+    excerpt: "Government agencies are awash in documents. Some of them, like Bureau Labor Statistics (BLS), turn to machine learning to help improve and streamline various processes."
+    publishedDateTime: 2020-08-01T17:21:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/08/01/using-machine-learning-to-automate-data-coding-at-the-bureau-of-labor-statistics-bls/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 106
+      name: Forbes
+      domain: forbes.com
+    quality: 63
     images:
-      - url: "https://mondrian.mashable.com/2020%252F08%252F04%252Fa2%252F9d02595b494441d2bb4dc704f8ce4b85.1f5fc.jpg%252F1200x630.jpg?signature=Sptw61vujsHeWR7oaA4xnp6uvgw="
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25a15e96f17b5412974670%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 1600
         isCached: true
 
-secured: "rpfa/fycAU5/q6oNlQ4m/dqLRNcjgd25bigCpnMYExyYs/Mhigheey1KqfVcJHyfxcwuCKGy1+EpbVDOoWkCPrBLqn0GZulidr263XuxYGhPmsZywtFdX9NyGhz0fYDGXr/NKFqa7BMTyaqLcN6AEFlFHtCgC54G7/ywmyf3Z+ulQhDKkR0HONSlRATAEKuvEs8hKvHQ9BaJzjSzzD4Px4Eq0svZtyIOSiVfuhOuBeeXIGadZIC3LBBBRVU8XkOT30cFPLkL/KrXEK+cKil0PPpTiqvMi2HQp6YchspmGmoX/94sbSqNoo74T26uvUxdgWWVjDeFNf8p+Kp05XONbA==;dgU1WJAp6QrCOwXnaon6Gg=="
+secured: "vO45dOvhuR811s/v7naobxMScXTmh4ivo97rv8Fgzao5wcsgP4EAEtssxDrKZtqEQSkm1066wAPf2DfH/lcJ9jtzXGBxAD5Cmpz44s8q0hKdxbSeMTchV9CJC9Y53t+8auFSFdhYrvSEE2tAFDoITMTp4QolWvHjWVoN//VybAxSN91AZ4nBnz5qT5hZ4SsaleobnrmDe444oh87dJcSOFyOvZ6kgRyrjeuIc58FHoZqJM1UFs3W0TvTwM1oMxZer99+SryYq4m1Hk9hOIg/1WWZssnJNLfaStv/dJHqhwQSyjoka8m62t0QdlBAMhfH6khKkFwfmnbYjKTOJIbWtCb8QP9fCmjhT+aKb7b888VkXkzLlALa21Gj893kugGy3StGA23WblIJHAJlo+wbCJRto6u3/lPC7qEzIW9Wr6s+L/w28gWi0Ak5/VUYGQ8vhd6LjHswBxqQ7d9Vb6v6ZzGulhgGEsYUuAreYpP4oRhuEXGLk19ynHuE/IehHBnrfF/nwDUz38Kz/pTgdA/XjA==;rxM3+ul0c7CxOumuejZz9w=="
 ---
 

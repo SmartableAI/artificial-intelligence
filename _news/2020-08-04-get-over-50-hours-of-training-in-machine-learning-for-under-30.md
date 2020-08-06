@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale.
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Improving Online Learning with Artificial Intelligence"
-    excerpt: "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence."
-    publishedDateTime: 2020-08-05T19:09:00Z
-    webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence"
-    ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 57
-    images:
-      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
-        width: 1440
-        height: 500
-        isCached: true
 
 secured: "d6bEfOfluwVGbnAiP0EBl/DnxBr6h+z6Wphk6834AUxZnri8qSYvX0OHK2kjK9AT9aBqA3RpVDoZMXf9BEVs9Bu6Fza9RKXcUCquJcGbnwkJen8YS73SK+/1nqZgEcJa1d0D7pig86WRP7JdI/irkNMC4iihek4GvQllym5BYKVwODRqWArHUxfi1oWe3nv8QHRPIncfWbo1XAULuxlFT68veT7ubPMRBIFO6pxxmSWRzuXoUvDExOO1gVXmkE3FYYAaVIFyP2O5Vztr51vay2U+rIFXrLrpk4zCLr1UXiB6uX5NWNlSfWwBH8e7Su2BzJapjNnTiJbGxIdOpYp/Nw==;E7LMiUozaKlQyaCchpi0eA=="
 ---

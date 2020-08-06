@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Digital Assistants in Healthcare 2020-2025: Artificial Intelligence (AI) Has Emerged as a Major Boon Amid COVID-19 - ResearchAndMarkets.com"
-excerpt: "Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33."
+excerpt: "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33."
 publishedDateTime: 2020-08-04T09:48:00Z
-webUrl: "https://www.morningstar.com/news/business-wire/20200804005501/digital-assistants-in-healthcare-2020-2025-artificial-intelligence-ai-has-emerged-as-a-major-boon-amid-covid-19-researchandmarketscom"
+webUrl: "https://www.businesswire.com/news/home/20200804005501/en/"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20200804005501/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025"
@@ -70,6 +76,6 @@ related:
         height: 627
         isCached: true
 
-secured: "tAAlCJGVG9HA1U104FEUXMCmjH8rC76/W/nSvY7JKdASUfrUCct7wNvp9k1I48tB9Ldd6R3wyFnRQFVj5JZ9Zw85ikEYo0zUB9MfmD3Y8E/sGgAdLWuNvUDKi5AhedemQtoJik4M7YejiSkblONdnQcxTbBfhPjctNm8dTbSHobPniB0Smspcl175ZjQC81HEbGh5asIzDRf2XyAAHxaSs9aI0X3oX79kAMqn2PgIlJCmjhUuV+4+A7iJwXGJWe5dNJ9sOCTwBsg7QhTUu8xte/RexR4OORKgwe9B3c1FuHT76O6SLefSWjUMYZZ0IFI5OP+Tnr/TbdNOkXda0VbXw==;fQgQhSEdUM8F0GDzIMBETg=="
+secured: "a93Fg4J16NQu2yBShAONy3nGuMYOiRz6R00K6+8VSWJBeOHtef9ea8G4FYsih/ipS5bo15sc7gckMQ3ItupxE5S1G9dCEhiIwm1FFXTEpcHbhnd/4U/0lXyL6vbbVHTSfdQgPSybRqSIzKpmSNCoxA5Lel9i3mqroLDuwjeUNYI6PGT0LpxJCmP+WkGoQOQj0GvfqkJBlLCkxkUOAHapWn5K4vrMXXDgawkaKAZ0Yprd1rxqYO3CbDDsp61CWA/j0D67GqTBraBzHkNoXwga7+V2YaDoBuKhhVwU7nG7zD2aUe7KKxDIK0f2X7Pf+fWTg5nMv4ga0h3izRUYY2gu0A==;Lhq0LzuV+N/tHIXAW+hNJg=="
 ---
 

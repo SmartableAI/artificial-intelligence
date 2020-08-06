@@ -3,9 +3,9 @@ category: news
 title: "Apple hit with $1.43B Siri patent lawsuit from Chinese AI firm"
 excerpt: "A Chinese AI firm is suing Apple for alleged patent infringement involving the voice assistant Siri. Shanghai Zhizhen — also known as Xiao — is seeking $1.43 billion (10 billi"
 publishedDateTime: 2020-08-04T10:54:00Z
-webUrl: "https://thenextweb.com/neural/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/"
-ampWebUrl: "https://thenextweb.com/neural/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
+webUrl: "https://thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/"
+ampWebUrl: "https://thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
 type: article
 quality: 87
 heat: -1
@@ -253,6 +253,6 @@ related:
         height: 360
         isCached: true
 
-secured: "KCK1jyKIkcb9jONyqenYZnQr4CBU0R1irkbkzqYq/phxmctYKHw77HlLVmvgR/CrCocXMmERwa9+VRYSHFqyJ+7wuaQtlS+ytCxH2QwZaZdXj2sGWyhTRaSfuDYR9lKzC16B1mG6Ogg8oDzFtsv/mpDs5UltwUnwPE9wzg0IOmT4Tqsi23vRlL3w1Dtk4Bu3MAynkbFRkYhnwfDkazdE9DigveMZluoNwKZS6LnZH0/EQabHwkCmi+e8nNG12ZrJnUTzheRfZ/XS1DTaU2xYnN0OQX7Nx4G1Xr3Zuhdgy2DQXROF3P3AC8gKekKB6fZZLCqp6i9GN8owZlndz+fhKQ==;Bb1VdA3aAzJnY3kLzKVf+Q=="
+secured: "vObsGtDt85N+41Y4g4DmIipb/pUp6inFiuqjJXcbTNB8/O6TybZYR1e4e2393Y7g0KvzW+h4SpPa/BfgwzIYhBKMD1Ir4ImZoVPMnAYtFAp2gT+XOp0fxUUr/g/4BK31A4eN1TcuNWgMK4yDCiVW0+t4HY6/gpSrrJFv/4jYfwOv829HLGO+Yd0LxyHR7IzhM9DPCGPt/EVY1DD61DTbpgO1A1Zaykr3/kmhkKBbFs7HXDgrqeqOBb+dFeL4Vg0e0SBgIUTAuaBDyAAy+7BeDbDmWPdFWjYixCfyeNOScHudXF9M2laqLsyxYco5n6lO1kEiMIEB/fU94agG3aa2BA==;DyYuaLv0/qTnt/AqCfFGVw=="
 ---
 

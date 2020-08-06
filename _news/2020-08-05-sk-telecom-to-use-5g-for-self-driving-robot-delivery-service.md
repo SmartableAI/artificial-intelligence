@@ -18,35 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Watch: Meet the wide-eyed, self-driving robot delivering food and supplies"
-    excerpt: "‘If you live in [California], chances are, one of these has already delivered your food...If you’re a robot and see small kids, run towards the closest adult.’"
-    publishedDateTime: 2020-08-04T07:05:00Z
-    webUrl: "https://scroll.in/video/969322/watch-meet-the-wide-eyed-self-driving-robot-delivering-food-and-supplies"
-    ampWebUrl: "https://amp.scroll.in/video/969322/watch-meet-the-wide-eyed-self-driving-robot-delivering-food-and-supplies"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/video/969322/watch-meet-the-wide-eyed-self-driving-robot-delivering-food-and-supplies"
+  - title: "A closer look at Ohio’s self-driving shuttle bus trial that’s now a food delivery service"
+    excerpt: "This article was originally published by Sarah Wray on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,"
+    publishedDateTime: 2020-08-06T08:32:00Z
+    webUrl: "https://thenextweb.com/shift/2020/08/06/a-closer-look-at-ohios-self-driving-shuttle-bus-trial-thats-now-a-food-delivery-service-syndication/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/08/06/a-closer-look-at-ohios-self-driving-shuttle-bus-trial-thats-now-a-food-delivery-service-syndication/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/06/a-closer-look-at-ohios-self-driving-shuttle-bus-trial-thats-now-a-food-delivery-service-syndication/amp/"
     type: article
     provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 42
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 65
     images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/145420-bzamhirwyh-1596445881.jpeg"
-        width: 600
-        height: 315
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/image-6-796x417.png"
+        width: 796
+        height: 417
         isCached: true
-  - title: "Self-driving tech supplier Aurora plays the field"
-    excerpt: "For Aurora Innovation, independence is the name of the game. The self-driving tech company has resisted efforts over the years to tie itself too closely to any one automaker partner. That's an unusual strategy in an industry where others are eager to establish partnerships and joint ventures to help defray the mammoth costs needed to make progress in autonomous driving."
-    publishedDateTime: 2020-08-06T02:11:00Z
-    webUrl: "https://www.autonews.com/management-briefing-seminars/self-driving-tech-supplier-aurora-plays-field"
+  - title: "CHT, partners kick off self-driving bus services"
+    excerpt: "Kingwaytek Technology and Tamsui Bus has begun autonomous passenger transport services on a dedicated section along a light rail line in New Taipei, according to sources at CHT."
+    publishedDateTime: 2020-08-05T02:02:00Z
+    webUrl: "https://www.digitimes.com/news/a20200804PD212.html"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Digi Times
+      domain: digitimes.com
     quality: 24
     images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/URMSON-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.digitimes.com/newsshow/20200804PD212_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "Z1fOanGMyHH5b4eW7F9ygVjxWaEptcNsdwzuntd4jmX/04ROACdAuxYTYjhuXM+NXbz0XNjkgivaGY85nEMZkJYBlMZVh8lMcLdHQJKrfvdYO3/q+trzEATC/oGyV2+hWUvGHWQkynGXD9Bbsw0qBPKnLeKmS4Lsc02RFXjpJVZLv1RnpK/3qIAssQQiiBstphnPcQVq9C8doeqxranurx7KABiuIuSMtkBK7F2v2BnUbXQbk2s91Df6U9I9M8CxKV6PcUbcbRa0ac3Se41Vv60zMdEeYlyXa6E2JaCu4H9ZrxVGvToebGKsA64vTlTyi2rlxZInPVYaJD81wXwYOEZuZIiSer4BNsMWiUUx8uDQMc4jYQv9d1/NjADRYKRtMVPEzeGs9M8kk8HtiFXGEUpXaF0WsQjuV688dGMC9E7WbrDjInZqMVE/fAHKq7TDOm/AuoHn2sZLHW9yiPjge5V6uaCpy/Ib8J6utkkkuXHVzSDe6JcE6Q8WHGsfQkMTOX/ynB3Q/wQPggioHnYxzQ==;JwOS4Fhk1g5i5nHehqZ2/A=="

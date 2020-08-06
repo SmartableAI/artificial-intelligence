@@ -38,6 +38,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Impacts: Artificial Intelligence-as-a-Service (AIaaS) Market Will Accelerate at a CAGR of Over 48% Through 2020"
+    excerpt: "Based Solutions to Boost Gr"
+    publishedDateTime: 2020-08-06T09:08:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-08-06/covid-19-impacts-artificial-intelligence-as-a-service-aiaas-market-will-accelerate-at-a-cagr-of-over-48-through-2020"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "COVID-19 Impacts: Artificial Intelligence-as-a-Service (AIaaS) Market Will Accelerate at a CAGR of Over 48% Through 2020-2024|Growing Adoption of Cloud-Based Solutions to Boost ..."
+    excerpt: "Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15.14 billion during 2020-2024, progressing at a CAGR of over 48% during the forecast period."
+    publishedDateTime: 2020-08-06T09:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200806005386/en/COVID-19-Impacts-Artificial-Intelligence-as-a-Service-AIaaS-Market-Accelerate"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200806005386/en/810965/23/IRTNTR41175.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "zRUKANok52y+FZuisnA9eCu/SUQUXgghrCaIYlpFVKb9AN/EDc5MZszYa9cQNW1+XwzYpfqXz159axODuV98xTb3VbdnLGhy0RF+xiJQQtGHgeNrppO6KcF/tQg1XFrHcl12kZ6anJrDj7fgjIXwuhcywm/ufkqyCdxbx3yxPJ7Kbl3TDpZ/VWVLv6Q8RRLMg3DnJ3VyeVkHPDaq//wJPzoxIJp7crSuB4cj5sl4wY4ZHQ7uj3GCYYqSuY/GxU9eWDopckhffEAnlt6Vlx6Q7PqNi3VtxouKE+N+TTBn8LFeO3b+cZss6JdRB/GKL86+FofXsJTzDMqWWAqKzMpAjA==;riMifq/CxtZrevE6aPJWtg=="
 ---

@@ -2,25 +2,31 @@
 category: news
 title: "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files"
 excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber Technologies Inc's rival unit."
-publishedDateTime: 2020-08-04T19:52:00Z
-webUrl: "https://www.aol.com/news/anthony-levandowski-gets-18-months-225203755.html"
+publishedDateTime: 2020-08-04T23:23:00Z
+webUrl: "https://www.reuters.com/article/us-autonomous-uber-levandowski/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files-idUSKCN25030T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25030T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25030T"
 type: article
-quality: 16
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-    width: 1200
-    height: 630
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528367649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG731S2"
+    width: 818
+    height: 545
     isCached: true
 
 related:
@@ -138,15 +144,15 @@ related:
         isCached: true
   - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
     excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
-    publishedDateTime: 2020-08-05T12:18:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+    publishedDateTime: 2020-08-05T12:46:00Z
+    webUrl: "https://kesq.com/money/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: KESQ News
+      domain: kesq.com
     quality: 24
     images:
-      - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
+      - url: "https://kesq.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-1.jpg"
         width: 500
         height: 344
         isCached: true
@@ -167,6 +173,6 @@ related:
         height: 382
         isCached: true
 
-secured: "nbn6NDyj5vabVgJKv9sGHeKXj5wnh5JeTzDZAEDcJ66KJ44VdP/RxoBwM4f3hgZ8hOmAHvf3ef+ScZK4Y2Vwd3THPQWyhcnS5rA51imicuzPYSNrqNglTe7FddycC8iYZ+IC8yNzT1KoMuA95ih3qIa4s4qpjycFy6PWtMsehK3RU547p3rDweOs4qsLqq7gDghPFnOFyXM/AnIIpeuhdLWdsLxYUU5M1fpLMMvCA5Pg24ooV6tB6AsrtJeRp7ZgIvEFdK8CBNAooGjTiDel1BRAcCrJTuaSvU4GHUSfDVk3FFxwuwocY7sx0zGYWFl6B8UDmyyJFnpzVDUaQdBNQdJUtC/WzZB3iFokLk+LEO7VYaYmwclwMUdEU+gqFxA6bcrNheWmPixBtj8j6fpVSGcyqeVMsUAKlhm5ZODLfII9MV2KnYpFyiDhTZdR+iTkyMYokpjkUhGf5KZ8Wh6K1rHCZ8tUihsDQezZIIzzyfxfhpvPQME6tNRtk13G31UJImPD2Os8lfU+knBZOglRAw==;9JQDoQLnF175fiDUs+ZJ+g=="
+secured: "gUTIduCPitgbgnV98NiJlTVpOyUus73CUSDla/ICou/tddgNRCOVueoaTp25vXXUlEiOn4e2Ho4Pd48imBD7Nl052G0Xut4tVPSHO5zhUTgSA2T+EvKzzt41+g7wHtfz6ngwYP057yHc975NQGIhb6AriBFHfpFec/5uct1i/Nr3jAZiJlCiKoEaiSlU85qhtkNqamRp91QUDSG44g9UGRf/LWsXpUWeJlFbDCkwoEI/X0AopKS1p3VIBwKXZPbERk393DZzdroTYd5vkREm2FBnC6NGvMvy4apbEegXAvvaWxpwX/j2o1x3Jn1RBOCI3m/WilGXqMwtT/l6ylCUbg==;twbBDmluU16URa0b93qqOw=="
 ---
 

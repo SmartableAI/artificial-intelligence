@@ -2,23 +2,23 @@
 category: news
 title: "Former Uber self-driving car exec sentenced to 18 months in prison"
 excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
-publishedDateTime: 2020-08-05T12:18:00Z
-webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+publishedDateTime: 2020-08-05T12:46:00Z
+webUrl: "https://kesq.com/money/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
+  - url: "https://kesq.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-1.jpg"
     width: 500
     height: 344
     isCached: true
@@ -39,6 +39,22 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F08%252F05%252F80%252Fe75d84b0e1424ab0bb2e0b0c12976850.22a44.jpg%252F1200x630.jpg?signature=O6lAeS97SgMLbXz0vsFrfRDhn1Q="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files"
+    excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber Technologies Inc's rival unit."
+    publishedDateTime: 2020-08-04T23:23:00Z
+    webUrl: "https://www.reuters.com/article/us-autonomous-uber-levandowski/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files-idUSKCN25030T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25030T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25030T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528367649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG731S2"
+        width: 818
+        height: 545
         isCached: true
   - title: "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files"
     excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber's rival unit. Levandowski's conviction is one ..."
@@ -136,20 +152,6 @@ related:
         width: 5512
         height: 4410
         isCached: true
-  - title: "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files"
-    excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber Technologies Inc's rival unit."
-    publishedDateTime: 2020-08-04T19:52:00Z
-    webUrl: "https://www.aol.com/news/anthony-levandowski-gets-18-months-225203755.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 16
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Former Google engineer Anthony Levandowski is sentenced to 18 months in prison for stealing internet giant's self-driving car files before heading up Uber's rival unit"
     excerpt: "U.S. District Judge William Alsup said a sentence short of imprisonment would have given 'a green light to every future brilliant engineer to steal trade secrets'."
     publishedDateTime: 2020-08-05T00:00:00Z
@@ -167,6 +169,6 @@ related:
         height: 382
         isCached: true
 
-secured: "B6PdcME45hmgzrxPbnh29UGZYrG5gNE2bfhf2r6Ckjc6555YBxxFJLWNfSHP7EWY+mTBpxLj+1/VrZ2yp2PP1kAxubdxjFK3vBGcf7AQGHJNF1k77BMFj4efh/D+d0bsLrI9C+UZdCwlGeGaAMnhfSAtMQSD7nU8KMDBgzEpw2/yghr+Ul1Y1i1MIykGwkwg5YhEJeQeWp6vLL5IcXGTLRjq12oEVK3gbeF05FvidLp4IBpbT4mfBNi1BBdCjk14Kp/qjEIv6EO+M/LoULXbe8H5HvQYkDeCaaAT6H/ydERYfl0U4kPw5snNOU5PPVRf+NwFrKZwNmu4cDbXSmtmYipCg9w2M4iZsuVIiifFBG7UWB5+n9sMK/YGSvq2DSCjtFGyZCdM/G9SrGa9fLUkKVt/X9r03Y/lx/wU/vrNLhW1jhH/YrQ6ruJNtSOstgBsXwyf1w8t5eAii8ct34Ru+fcY27GA+O0oLBpzY/wjc9K38zC37zNDQP52ovAmI/eHOTcXu/01Wl3iRrMBP30VWw==;xZyZCedmV2l5+VRqpJrLOQ=="
+secured: "lS48ku78kJBUkZbDD8paGdfIEu/Ml27jpA71g1WB+Q7bKWA2DoBDoUz2OCvkxxyH9YeDgfGi3HVQ0VAUyxo6GAMYh6REj8+VFQDTECNb5x05I/mhSb9f5x8s0OtPN9UL2EmEavydBI5UhiP6gqScXkfFESjyMnpYmbqMN12WMAhFDAxyP7WWG5oYdyIEaVIkC7UBQuojz8tNtHlZfw+Mcy/meHixteyu3zD39hqRV4+y2C33Ha+7bW7zvMQiF9uu/HhbSox+oKoqxjfIF0Mdqna6qn8KQwo5pEmYzspn7Sia3wQGQx/UIAhJ7PYwQzbUdtlVImdzUGIUnSccxQf0yQ==;3MlyyRwGSE+A0P4aaT6FJw=="
 ---
 
