@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving tech supplier Aurora plays the field"
+    excerpt: "For Aurora Innovation, independence is the name of the game. The self-driving tech company has resisted efforts over the years to tie itself too closely to any one automaker partner. That's an unusual strategy in an industry where others are eager to establish partnerships and joint ventures to help defray the mammoth costs needed to make progress in autonomous driving."
+    publishedDateTime: 2020-08-06T02:11:00Z
+    webUrl: "https://www.autonews.com/management-briefing-seminars/self-driving-tech-supplier-aurora-plays-field"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/URMSON-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "SK Telecom to use 5G for self-driving robot delivery service"
     excerpt: "Woowa Brothers operates Korea’s biggest food delivery app by market share and has been focusing on these delivery services using smart, self-driving robots. Under the agreement,"
     publishedDateTime: 2020-08-05T13:30:00Z

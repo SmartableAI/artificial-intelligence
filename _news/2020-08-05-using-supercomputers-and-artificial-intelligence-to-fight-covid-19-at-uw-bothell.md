@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "AI helps doctors fight Covid-19 in Brazil"
+    excerpt: "Doctors in Brazil, the country with the second-highest number of cases and deaths in the coronavirus pandemic, have a new tool in their fight against Covid-19: artificial intelligence to detect infections."
+    publishedDateTime: 2020-08-06T03:39:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/08/06/ai-helps-doctors-fight-covid-19-in-brazil"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/06/808675.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "BdiOYDjN9OyNzVtco4+jUWaxizfLvxRWcfF0mw7Rcs97KrIx+sHNRByRfqbUnb/ijfkOIlI/jQfRn8tWEOIfGUZmo8PYfCSqArq1D3iTblWR0W99RT/cSQYQVX08st52pkVT8jFsuE0GBDKDKp8nDjUNjnWgtUqwLrwh8nV4K6VuIB1pscD6d4x9IWHxjcJZeujHhDq9dx40YrlMJxup5gDaue5kpa4GbAHM5hufpNRebKesvk8CbsDUO7JLfaKrVXUoFslwKNLLKTDQhzYEfSQnoEbM3ux6j/ueRqpPVN9QV6dIprr5DKGEVHS4ud7AbcJIFbmELApdumCKep+3kEhKpbcr5MGtQ75tboH3tBLTTdvHxqycSvcIceJrl5Q5iv49avLH7VAL9XSTx5ytuXrjenfOOYBvV39EYvS7mwUktf+KLfOHOi/IXBueUyesydr2Sh8aXSH5ZaErfVuukyqnpWLBGpZivjwPphy86NR+UpJCPixyU5ZybWQmnS+y0O5jxbKSBG0uhwhC1PxLUg==;w1mbUilzkB/mgXc8JF8zBA=="
 ---

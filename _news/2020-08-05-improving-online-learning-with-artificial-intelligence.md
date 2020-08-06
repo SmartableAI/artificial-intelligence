@@ -3,11 +3,11 @@ category: news
 title: "Improving Online Learning with Artificial Intelligence"
 excerpt: "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence."
 publishedDateTime: 2020-08-05T19:09:00Z
-webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence"
-ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
+webUrl: "https://edtechmagazine.com/higher/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence"
+ampWebUrl: "https://edtechmagazine.com/higher/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -18,10 +18,9 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-  - IBM AI
 
 images:
-  - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
+  - url: "https://edtechmagazine.com/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
     width: 1440
     height: 500
     isCached: true
@@ -42,6 +41,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "IaddQOiXxMN05FQ00j4ZHDMDwjEU9zeW4V18j7QFQh66fn19/9i2WyYYIPWjjDSfNt/wt+n76E5yQ64KcZjFQT2AohGBIdN//b3EDMIc3EWYtoW+b96wFSVeknqGd26/3MOez6MG/Pb9GpExAdGIQgSIOyZ57uKYG1tJP0W1pzDCpGhVv+DEzeij+3knJ3/IJgE+Ey5wVcCup6Nc0hAjXLmVJEPjL35gUuGcn7d2Kp9F7L4qmxfs7Nh/FqFSltSq35w9eQiEXo8iOdClieQIwI2cKdJwmFt0bD203LFqDJq3jy/aFsafXceHCxinKgo/DURernFQKlEdNV4kKkK6PRjiHpa8+N+u6TxTb3N00ezYSrRSVtgrvm0xjZ/X3z4+GbZYRf/agVRwBld7zAzFXqeyp5hsV42odKlVh+KHD+OQRe9P8CbfyCgIQy+4G3D6GSZmSMrCrN7dgqRwToWUjAyJ1PG7faQqiBAueJs6wHSneEybsatrErvjRh0PE0LjflLqb7hDXFpZ7/mgwEf1cQ==;UvRC6D6pilgyU2bdP4uwoA=="
+secured: "gXrZJjy29dBOt/gWkKmRyIb2cz9CB1wItaAoEypWwP9QxQpVGnbnaOSicHwwemmlGutYa0S+JPZVF2rZN8Y/8f9+Dqk9ndhqCzeiOzvts9GqWDb2X3JXR5D1+rb3YYaGlX2kixaXk6UIMgUZtnW8PhX20wbo/GyPO6w41vVdIilJ23WoMIdjUY+KUmADz1kRoYmA6+LFg0Vzpo2lkgj9pb+f7gw15CKe+ZQz3U4s8BkztGDBoElQjo954WjbVSgCP8p9vwtCHmKeNR+ZP2N1WzN4a1mjEFThmnmEtAgbkxiqBTRbuaMa//wqzuDhkows9A/83iCqxJFGVjkTHGd0/A==;t3VlQfKWW3xmFUqTZs1RoA=="
 ---
 

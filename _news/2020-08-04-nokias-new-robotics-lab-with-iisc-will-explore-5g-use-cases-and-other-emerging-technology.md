@@ -58,6 +58,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Nokia sets up robotics for ‘social good’ lab at Indian college"
+    excerpt: "Dubbed the ‘Nokia Centre of Excellence for Networked Robotics’, the center will serve as a hub for research into robotics, advanced comms tech and AI."
+    publishedDateTime: 2020-08-06T02:53:00Z
+    webUrl: "https://techwireasia.com/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/"
+    ampWebUrl: "https://techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2018/02/pexels-photo-744366-1.jpeg"
+        width: 2550
+        height: 1700
+        isCached: true
   - title: "Nokia to set up robotics lab at IISc for 5G research"
     excerpt: "The Nokia Centre of Excellence (CoE) for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI ... between academia, start-ups and industry ecosystem partners ..."
     publishedDateTime: 2020-08-05T06:01:00Z

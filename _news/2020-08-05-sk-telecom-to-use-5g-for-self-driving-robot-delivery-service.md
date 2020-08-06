@@ -34,6 +34,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Self-driving tech supplier Aurora plays the field"
+    excerpt: "For Aurora Innovation, independence is the name of the game. The self-driving tech company has resisted efforts over the years to tie itself too closely to any one automaker partner. That's an unusual strategy in an industry where others are eager to establish partnerships and joint ventures to help defray the mammoth costs needed to make progress in autonomous driving."
+    publishedDateTime: 2020-08-06T02:11:00Z
+    webUrl: "https://www.autonews.com/management-briefing-seminars/self-driving-tech-supplier-aurora-plays-field"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/URMSON-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Z1fOanGMyHH5b4eW7F9ygVjxWaEptcNsdwzuntd4jmX/04ROACdAuxYTYjhuXM+NXbz0XNjkgivaGY85nEMZkJYBlMZVh8lMcLdHQJKrfvdYO3/q+trzEATC/oGyV2+hWUvGHWQkynGXD9Bbsw0qBPKnLeKmS4Lsc02RFXjpJVZLv1RnpK/3qIAssQQiiBstphnPcQVq9C8doeqxranurx7KABiuIuSMtkBK7F2v2BnUbXQbk2s91Df6U9I9M8CxKV6PcUbcbRa0ac3Se41Vv60zMdEeYlyXa6E2JaCu4H9ZrxVGvToebGKsA64vTlTyi2rlxZInPVYaJD81wXwYOEZuZIiSer4BNsMWiUUx8uDQMc4jYQv9d1/NjADRYKRtMVPEzeGs9M8kk8HtiFXGEUpXaF0WsQjuV688dGMC9E7WbrDjInZqMVE/fAHKq7TDOm/AuoHn2sZLHW9yiPjge5V6uaCpy/Ib8J6utkkkuXHVzSDe6JcE6Q8WHGsfQkMTOX/ynB3Q/wQPggioHnYxzQ==;JwOS4Fhk1g5i5nHehqZ2/A=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T13:37:00Z
 webUrl: "https://www.businessinsider.com/pricefx-price-optimization-pitch-deck-cloud-platform-2020-8"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Here's an exclusive look at the pitch deck AI health startup Perspectum used to raise $36 million"
-    excerpt: "Investments in European healthtech firms jumped more than 40% between the first quarters of 2019 and 2020."
-    publishedDateTime: 2020-08-01T09:19:00Z
-    webUrl: "https://www.businessinsider.com/ai-healthtech-startup-perspectum-used-this-pitch-deck-2020-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/5f24214e5fa9a41fdb736b83?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "R9jatzrb9AOZNL3uU6lobqKAl5VllyS0vUBlqCb2prxPlMAVs8E5ZWc3k2jPxGGK97JuJgNYYRqlLiSlVZhmv/btfHNkCFmzKtoDgYmuQB+QdjRNaZjVnBkqInUeqX0Xi6vRQxSTYmPFll+pZ75NAG8onMEXorkTVRZJt/IzXehVs/EmNMOwCRMLLCCWpzF8tWuuIsVhdTmF7Uqw+D1tE4lTfvfjC5L/CD1dhRSZkBPdsQkFQz/kFmnBrG8AsJon7uWcCDQvpZEzRocoYAZKL2ynUE6pHycmnCiwAL6POUmej2StPIM4YdU884+suQJkUnIMJwvPkGX2QTLPlxZklojNdGfTRsgIpFiQUNMIf/Dum2KlH9Z5RoMt670AfJ2EiEItf482ebD6d8fFRZz9HWeJ/Q2/S9syRoDrPRsQ0c5njtWqzW92sNIwXaVCXTObEncMLL9EgHmWGeicr2oB4f0Spy695r1KjhiLJ4RrxXgWA0cHXPhIRDgEXIe4xhKlhqx/cvNBNIb1IqB82CEVNQ==;QEYbGZLR7IdALly0W6fXOA=="
 ---

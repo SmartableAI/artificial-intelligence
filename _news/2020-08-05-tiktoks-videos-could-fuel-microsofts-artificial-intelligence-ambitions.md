@@ -1,23 +1,30 @@
 ---
 category: news
 title: "TikTok’s videos could fuel Microsoft’s artificial-intelligence ambitions"
-excerpt: "TikTok has no shortage of data in the form of videos, billions of which are uploaded to the service every year. Microsoft can feed all that data into \"training models\" that help its artificial-intelligence systems learn."
-publishedDateTime: 2020-08-05T11:22:00Z
-webUrl: "https://www.seattletimes.com/business/tiktoks-videos-could-fuel-microsofts-artificial-intelligence-ambitions/"
-ampWebUrl: "https://www.seattletimes.com/business/tiktoks-videos-could-fuel-microsofts-artificial-intelligence-ambitions/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tiktoks-videos-could-fuel-microsofts-artificial-intelligence-ambitions/?amp=1"
+excerpt: "More than merely appealing to the young users of TikTok, Microsoft could use the data culled from its videos to better compete against its AI rivals."
+publishedDateTime: 2020-08-05T11:04:00Z
+webUrl: "https://www.washingtonpost.com/technology/2020/08/05/microsoft-tiktok-ai/"
+ampWebUrl: "https://www.washingtonpost.com/technology/2020/08/05/microsoft-tiktok-ai/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/08/05/microsoft-tiktok-ai/?outputType=amp"
 type: article
-quality: 21
-heat: 21
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
+  - Facebook AI
   - AI
 
-secured: "Y6qhJATE54nzCulPLPDQa6dE+qrRBlehkw2xeM8gQ2AtHYZSjfSJZwNSpzOj2t4u7sw8V+o5T2uPidPzN0jlCjZcyrKgcdO9vYLUJMUrgpwzCV3Oqz783jxddPJEFmyCylstZ1Q9ZfpivH/3mWwnXjyQJqApR0NijmfmGq95/6oa8JiZN6VG5wK4cWNjq3k7llgBSz0oZmH7JeAyPjro4ag8a0jGWhwCR4k3Kjjlq4WmubtWurNZhRN8KTSLyKi7NBLZjf1LR3z17TNxOm+pwkeBDRqbi61n+BaKHs0LjFSiHMkXrOl0bK1KtAv6PBWhHzl9wxChpTePBbokw2zPFhcF/IZBl9MxBquuXIqgubp8jhOTUOflkiYSYaWzvHe3PaKDoWhAeX79VOJgM1fJvjy5G2JJl8EzcAOne0hrfAXDSyMfHxmjbLGAsYKtg2LDTAb2jPmC6xzMvJbByx/sfR+kaNc0q7GOm2r5SKwKvA2jYTahnZhk6X/wkE0xCvMScW68NVarNl+5NI0N2EWrRw==;vnZ8ocSnK9lBv9r+wws3Fg=="
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NRLALCWVDYI6VJ4IFTUGZ2ARFE.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
+secured: "iJgMjXAOwH/WO8ZnvHMxj/JYNSOyvCky3c1yZkE2S7wWN1JnpUWA2/36rCxSWeCTHvM+rxbSBtOrzs8dWgbkIoKhQx3PcENpSjb8XQVqlu3v4972z8iLpm1g2mCVB6Ln38KKp5JJMzkUs0WJPekGUBgAR1DSpmpOM8GdgK6d4EF+KIdcNNdPnG/3DTDhFCQ6a0aTTWkz2Zohdr7b1FbV9/D29LEPgTppEWdmirOPQA/VzxTarnZP7Ufe2N4KI5AANbYD/j9F6vbMRZCoMeYoIqLeTOgkiy6zU2WzUEFvNjISPrYcXRXOd0YwKV8ra4kI89TZiVXu9zk/JQPzVA7Tnw==;0L+AQK8/YyLdS/5NXLyRmQ=="
 ---
 
