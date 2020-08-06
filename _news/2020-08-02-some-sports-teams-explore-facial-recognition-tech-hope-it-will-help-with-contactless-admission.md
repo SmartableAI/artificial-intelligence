@@ -46,22 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Facial Recognition’s Next Big Play: the Sports Stadium"
-    excerpt: "Los Angeles Football Club wants to “move everything to face,” while the New York Mets are testing the system on players and staff."
-    publishedDateTime: 2020-08-01T19:00:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400?mod=e2tw"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognitions-next-big-play-the-sports-stadium-11596290400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-213850/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition"
     excerpt: "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ..."
     publishedDateTime: 2020-08-04T18:08:00Z
@@ -104,22 +88,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
         width: 927
         height: 626
-        isCached: true
-  - title: "Sports teams dabble with facial recognition amid coronavirus pandemic"
-    excerpt: "Multiple professional sports teams are considering facial recognition systems to make admitting fans to stadiums as touchless as possible during the coronavirus pandemic, Wall Street Journal report. Why it matters: It is unlikely that fans will be able to return to live sporting events soon unless facilities adopt measures,"
-    publishedDateTime: 2020-08-01T18:50:00Z
-    webUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
-    ampWebUrl: "https://www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/sports-facial-recognition-coronavirus-4b84d170-8455-4949-8953-8f56b8855ee3.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: "https://images.axios.com/Z1j4-xYV2lr9tk74B1fyDJRvtEw=/fit-in/1366x1366/2020/08/01/1596303538882.jpg"
-        width: 1366
-        height: 911
         isCached: true
   - title: "Facial recognition tech for chimps looks to bust online ape trafficking"
     excerpt: "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ..."

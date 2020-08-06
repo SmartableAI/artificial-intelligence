@@ -56,6 +56,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Yandex begins testing self-driving cars in Michigan"
+    excerpt: "Yandex announced that it will begin testing self-driving cars in the city of Ann Arbor, Michigan, expanding from test sites including Tel Aviv and Moscow."
+    publishedDateTime: 2020-08-06T11:06:00Z
+    webUrl: "https://venturebeat.com/2020/08/06/yandex-begins-testing-self-driving-cars-in-michigan/"
+    ampWebUrl: "https://venturebeat.com/2020/08/06/yandex-begins-testing-self-driving-cars-in-michigan/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/yandex-begins-testing-self-driving-cars-in-michigan/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/574ee32d-323f-469a-bda2-2c80c9c88afa-e1596578967737.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Russian company Yandex sets up self-driving car testing in Ann Arbor, Michigan"
+    excerpt: "In fact, the company released a video of one of its self-driving test Priuses driving around Ann Arbor for an hour with no human intervention (that we can see) and no human in the"
+    publishedDateTime: 2020-08-06T11:15:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/yandex-russia-self-driving-car-testing-michigan/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/yandex-russia-self-driving-car-testing-michigan/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/yandex-russia-self-driving-car-testing-michigan/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 70
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/UQHd_pKemBXd_8tljLagLCPNyoU=/2020/01/10/1878da6b-0a3e-45eb-ab10-ecd471a78ff0/yandex-1.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Self-Driving Cars Can Be A Boon For Those With Disabilities"
     excerpt: "From access that was impossible before to easier, cheaper access, self-driving technology is going to be a big boon for the disabled"
     publishedDateTime: 2020-08-05T19:09:00Z

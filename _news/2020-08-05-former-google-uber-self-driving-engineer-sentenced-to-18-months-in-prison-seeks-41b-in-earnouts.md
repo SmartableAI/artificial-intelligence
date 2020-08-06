@@ -106,22 +106,17 @@ related:
         width: 796
         height: 448
         isCached: true
-  - title: "Anthony Levandowski, the self-driving car"
-    excerpt: "A few months after Otto was founded, Uber acquired the small outfit for a reported $680 million and put Levandowski in charge of its entire self-driving effort. Waymo alleged that the ride-hailing giant set up the deal with Levandowski so it could use ..."
-    publishedDateTime: 2020-08-05T00:45:00Z
-    webUrl: "https://www.businessinsider.in/thelife/news/anthony-levandowski-the-self-driving-car-engineer-who-sparked-the-massive-waymo-v-uber-lawsuit-sentenced-to-18-months-in-prison-for-trade-secret-theft/articleshow/77362187.cms"
-    ampWebUrl: "https://www.businessinsider.in/thelife/news/anthony-levandowski-the-self-driving-car-engineer-who-sparked-the-massive-waymo-v-uber-lawsuit-sentenced-to-18-months-in-prison-for-trade-secret-theft/amp_articleshow/77362187.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/thelife/news/anthony-levandowski-the-self-driving-car-engineer-who-sparked-the-massive-waymo-v-uber-lawsuit-sentenced-to-18-months-in-prison-for-trade-secret-theft/amp_articleshow/77362187.cms"
+  - title: "Anthony Levandowski Gets 18 Months in Prison for Stealing Google Self-Driving Car Files"
+    excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber Technologies Inc's rival unit."
+    publishedDateTime: 2020-08-06T10:47:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-08-04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-08-04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-08-04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files?context=amp"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 44
-    images:
-      - url: "https://www.businessinsider.in/thumb/77362181.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
   - title: "Anthony Levandowski, self-driving tech pioneer, sentenced to prison for stealing trade secrets"
     excerpt: "Anthony Levandowski, a former engineer for Google and Uber and a developer of technology for self-driving cars, was sentenced to 18 months in federal prison Tuesday for stealing trade secrets from Google. Levandowski, who pleaded guilty to the charge ..."
     publishedDateTime: 2020-08-05T01:33:00Z
@@ -140,15 +135,15 @@ related:
         isCached: true
   - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
     excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
-    publishedDateTime: 2020-08-05T12:46:00Z
-    webUrl: "https://kesq.com/money/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+    publishedDateTime: 2020-08-05T12:18:00Z
+    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/05/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
+      name: KEYT
+      domain: keyt.com
     quality: 24
     images:
-      - url: "https://kesq.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-1.jpg"
+      - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
         width: 500
         height: 344
         isCached: true

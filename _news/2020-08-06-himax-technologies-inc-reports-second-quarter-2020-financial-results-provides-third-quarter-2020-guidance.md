@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Himax Technologies, Inc. Reports Second Quarter 2020 Financial Results; Provides Third Quarter 2020 Guidance"
-excerpt: "Insider Inc. and finanzen.net GmbH All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen."
-publishedDateTime: 2020-08-06T09:42:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/himax-technologies-inc-reports-second-quarter-2020-financial-results-provides-third-quarter-2020-guidance-1029476835"
+excerpt: "(GLOBE NEWSWIRE) -- Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or \"Company\"), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, announced its financial results for the second quarter ended June 30,"
+publishedDateTime: 2020-08-06T09:30:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g16960545/himax-technologies-inc-reports-second-quarter-2020-financial-results-provides-third-quarter-2020-g"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16960545"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16960545"
 type: article
-quality: 15
-heat: 15
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Google AI
   - AI
 
-secured: "HWbr3kvJJp/J09TQbw5XRZef44p8Q5zMNorllbhJt7dTCLh3RMQV4WsiBmTGJeas/8AmbydZu0RU10wnH53Gerpoal35VkhMsFm0zDADkk+zOX7r8/nKvjv+MrV5C3KoFOCLLDYaE7m81d9gHlHw8HFF/wlkiGLywwrGfiaEKedRqd1HLlN6QsqPmliqEcMA+/mR1lAfbw+3j3tnFlT/9DybuSTkmmip7948t6IF+QzdgPv+/R0GELjg9+Mtke+8ohfVWWMGRAr6/C6Wz/eMahDFfhYVto/947mzLkY9tUatMqBzs44ee7hs40fhcBbIKYK9PfliMKiqmL3taCNy9A==;0GaycauiiNDKLYYl928Zog=="
+secured: "UeHswrCEXjauWSFvjg7yKZiUBL73wFf03kvhaw3DNbllxgvlwNnu1YTvlKKtv7u4wn2InmhmPiVh9y3kCc8kLyYmfR6iIgx6Wfw3cIbWw/Krm5dHXPLwXOrA9l1iVhYHqSN5eTk/yG/YSZobMqLRdOFvNPEzg5mrq6T3D9eDeHZH684OAc7TLgciVoK7eaCTsYLm9Qa6TS9iJ2Ktn41E1KQAWIc1AhRuko0gLFA1NjA1JvGAftXoiqaMnOXmnKuvRL4Xw+q+MGGAY6qdzmD/9foio2kRCoSxsRtpg1qejHQBo23J6nHczRvLV9TXvESBzKpy6Skwk2F5VZv6RPOLOfyxdjfpOyutBj3WG3MXHW45LJHvI+51RroldDNLOlcxx6EYik/HCYszWg1K7Kpzbx94cuMRUKFgh6AcYYsg6HoUpH5kkFg1ExfrwNBvMSperzpNTgMakGEMMfX/hBSU1/mn+xPNhPRYn50E3OcMiThEx+9txHtfqgRK1/PLfgDNqgrhabnA+k6tYos5y7IK1g==;Y6fnAVJjG8Dp9S6BklRsZQ=="
 ---
 

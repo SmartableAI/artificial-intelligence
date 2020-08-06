@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-mo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.adweek.com/wp-content/uploads/2020/08/angel-city-owenership-fcla-hed-page-2020-640x360.png"
         width: 640
         height: 360
+        isCached: true
+  - title: "'Deepfakes' ranked as most serious AI crime threat"
+    excerpt: "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report."
+    publishedDateTime: 2020-08-04T02:44:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qv9VawoBjB2eZXdyZ4kBkmeVdntNtYqlzTNnMs7w39fSM/lE0Skj6oVNJ3QliXxan2ZlqiIU+sRtAq6AmBVvyrsXnZ10Ktf4TVzuCEmRvbmCd/PkgyC4AVjrTjlykqxGYPZSHxfQBpFxEdkSdKHxKjoGCH1/CuPl/jG6vz3VJT4piUoEz7uTrk8fcLNm4Two/wf46ey2v03cMKYSk2e0wf8zBhaiwNOlHqK+DfeBCXwPnx/kUUfaWDHa077bObUvekutmZmu/9n1Rftsr0bR8sdFuz68WCei8Pglf3g3pKdZlPgNxn5h+gwxYd+1ZRwTHPMopnPBwn0V8TvqsV8GMBd/gJJmKlFDOjumF0h9pBH+DMpO8wZQcYenxBAD8AHuGMt2o7v3VraGb6cVN5DBuyPVmptIj+bXHILAsR3/2UyVFTpuAL/Rl8cioFPot1v0i4Z/O1n4oLybOYkgc7eRW2tzOn9Gx3hBE286dCHXOVT+0nG7lO+vuyDJmWfk1fhEgrzv4d/UWYDKDIOEXsPwXQ==;MtNwqFu9j5Tn709doeWQjg=="

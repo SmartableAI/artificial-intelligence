@@ -1,19 +1,21 @@
 ---
 category: news
-title: "The Survivor: Last Korean War Criminal in Japan Wants Recognition"
+title: "The survivor: last Korean war criminal in Japan wants recognition"
 excerpt: "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo."
-publishedDateTime: 2020-08-04T01:06:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/08/03/world/asia/03reuters-ww2-anniversary-warcriminal.html"
+publishedDateTime: 2020-08-04T17:29:00Z
+webUrl: "https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25002W"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25002W"
 type: article
-quality: 54
-heat: 74
+quality: 74
+heat: 94
 published: true
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528231197&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7301C"
+    width: 799
+    height: 545
     isCached: true
 
 related:
@@ -49,6 +51,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 4
 
-secured: "9eMaWA5yNKCUFiVtR1GoJcukS4N1GOIYhU6131pTuJB4FBqMEOcc6iKtjhYU9JWViaf/8KZ4+1X1TXIaCUb13UuW9Y/060JHvpJc5KGG6EKrEao/fgaYn7VESpp3D1x5RLEAkbW1FDWcGptvYkMMCx5oEGaEolLMhxWHb/Hz5fa9jjR8D/KW5ta85LNuGRXf9BAwjmOlWX5xCtPrHMsfiaPBr08U0EEPmfEpjxY2zMQ3tZ3Z18awO6t00zIkoQbfzMdcqpHnG2aYXNXy8Zeu6Il9fenMF3hr81v3H7Roc7Pbi1y++38I3jUyPSHWFTBnagfMlR20yF4svUl7x5gVwg==;nQAtyeaCLdYlByEB+RekQg=="
+secured: "cCvYhdA6emgCScvlg8aWUiQyeLFKos7NGHzH5FYRPak8yaCJdlzAFa6M655MlANPmjRPAs/3SDn0Z4KDXm0oshdcaBfkxBu3GKcGszSG5i/husmFIxq5/+1PwQhH5uo2yAnL082lAFqvvref+MkjJYXytNx4jvNZOw4eW6Km9DmHlp2hb+smkGx3zubO63nj3PuoHADKg29z1ZgWFodXvJblF/Y1D+dWn3P1N+LUZoguJSJYc/NvhmicZXqNmr0mb0A13Hxid5LL2HogdKD1FqfTjh4uX1yFESs0WGlx0x3Q1jWZI87lx+QhuSwdEilZ1wD4laAFz5NgkUYzDTzquA==;hSkeT319HYJInKcJaujwpQ=="
 ---
 
