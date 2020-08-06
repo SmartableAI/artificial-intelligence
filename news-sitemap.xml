@@ -301,6 +301,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/</loc>
+    <lastmod>2020-08-03T14:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines</loc>
     <lastmod>2020-08-03T14:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -315,6 +321,12 @@
   <url>
     <loc>https://gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111</loc>
     <lastmod>2020-08-03T13:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/</loc>
+    <lastmod>2020-08-03T12:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -445,18 +457,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thestate.com/news/local/crime/article244433082.html</loc>
-    <lastmod>2020-08-02T01:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29</loc>
-    <lastmod>2020-08-01T17:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025-2020-08-01</loc>
     <lastmod>2020-08-01T15:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -519,6 +519,12 @@
   <url>
     <loc>https://www.mid-day.com/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331</loc>
     <lastmod>2020-07-31T19:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/</loc>
+    <lastmod>2020-07-31T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -855,6 +861,12 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-29T18:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions</loc>
+    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1501,6 +1513,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://insidehpc.com/2020/07/transform-raw-data-to-real-time-actionable-intelligence-using-high-performance-computing-at-the-edge/</loc>
+    <lastmod>2020-07-27T06:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
     <lastmod>2020-07-27T05:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1891,14 +1909,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23</loc>
-    <lastmod>2020-07-23T10:51:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html</loc>
+    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html</loc>
-    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in</loc>
+    <lastmod>2020-07-23T10:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2263,12 +2281,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!</loc>
-    <lastmod>2020-07-22T06:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/</loc>
     <lastmod>2020-07-22T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2331,6 +2343,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players-2020-07-22</loc>
     <lastmod>2020-07-22T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece</loc>
+    <lastmod>2020-07-22T00:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,25 +2,43 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-08-02-rite-aid-pulls-plug-on-facial-recognition-system-with-china-links.md",
-      "title": "Rite Aid Pulls Plug on Facial-recognition System with China Links",
-      "excerpt": "The post Rite Aid Pulls Plug on Facial-recognition System with China Links appeared first o. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq,",
+      "path": "_news/2020-08-02-baidu-completes-its-computer-for-self-driving-cars.md",
+      "title": "Baidu completes its computer for self-driving cars",
+      "excerpt": "The firm isn’t the only one working on self-driving computers. NVIDIA is quickly landing deals with GM, Toyota and others that could make it a powerhouse, for instance. However, Baidu might be the first to put a platform into real-world (albeit limited) use.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29",
+      "webUrl": "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 79,
+      "heat": 179,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F7325be30-d435-11ea-bfb1-aefda5da57d0&client=amp-blogside-v2&signature=9f70eab165ef74f9f781ff7fef9669edcdb62fe8",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
-      "publishedDateTime": "2020-08-01T17:07:00-07:00",
+      "ampWebUrl": "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html",
+      "publishedDateTime": "2020-08-02T01:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -29,7 +47,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -568,6 +586,47 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-how-smart-are-ai-chips-really.md",
+      "title": "How Smart Are AI Chips, Really?",
+      "excerpt": "It’s like a GPU without the graphics hardware. Or conversely, a GPU is like an AI accelerator. Even a low-end graphics card or built-in GPU in an older laptop is also an ‘AI engine’ that is ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1126,55 +1185,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/amp/",
       "publishedDateTime": "2020-07-31T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic.md",
-      "title": "This CTO Says AI Technology Is Transforming The Pharmacy Industry In Time To Battle The Pandemic",
-      "excerpt": "AI technology can help pharmacists improve the speed and efficiency of manually intensive tasks – verifying medication, counting pills and maintaining adequate staff and inventory – while ensuring patient safety and adherence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f22d7618bde96bcd21f8127%2F0x0.jpg",
-          "width": 960,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
-      "publishedDateTime": "2020-07-31T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

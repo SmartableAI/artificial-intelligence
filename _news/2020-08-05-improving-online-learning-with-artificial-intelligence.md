@@ -7,7 +7,7 @@ webUrl: "https://edtechmagazine.com/higher/higher/higher/article/2020/08/improvi
 ampWebUrl: "https://edtechmagazine.com/higher/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://edtechmagazine.com/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
@@ -41,6 +42,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "gXrZJjy29dBOt/gWkKmRyIb2cz9CB1wItaAoEypWwP9QxQpVGnbnaOSicHwwemmlGutYa0S+JPZVF2rZN8Y/8f9+Dqk9ndhqCzeiOzvts9GqWDb2X3JXR5D1+rb3YYaGlX2kixaXk6UIMgUZtnW8PhX20wbo/GyPO6w41vVdIilJ23WoMIdjUY+KUmADz1kRoYmA6+LFg0Vzpo2lkgj9pb+f7gw15CKe+ZQz3U4s8BkztGDBoElQjo954WjbVSgCP8p9vwtCHmKeNR+ZP2N1WzN4a1mjEFThmnmEtAgbkxiqBTRbuaMa//wqzuDhkows9A/83iCqxJFGVjkTHGd0/A==;t3VlQfKWW3xmFUqTZs1RoA=="
+secured: "2vTx/vHK9uwPi2ImsBeYXM6amw9wV0yAIJXrPOC7RYOSQo9luCChaZF6XMrG8LjRR6yQK+tbJpXMsShYHnKWHvVAxYQnoGk7HbzLIgunj0ROwnw5SGBl8uvKMmlzzG4uEIYcnILt/yGMuudnNnpzxMXBgPSnhqIlbpBCqMPJuLvbWLE/gVOAHiV+i6ZKprfBteNnGODwRWY7gaHGPNGb13+JrzX61nN6WmkQ86RunGazDQJYh9aYZuIwuCftI9roH1ZoPrEiQz7q36yNmJ557TqazLZyXFL1/PrR6b4k9nRSrsaF5uhIQe0lzJo8OvAEsE4TuSVShta9Wq0xkrleYVrERBTV0pvQ3OX4H8JVRXb+dVffCjZN5m01Bo6HhMTc3KQXR5gXPgtPhRSGjkp5krd2yHBN6/rpoTNdEge+dxnQasYNfMwanfudkwzqMIf8ADA+HD/wOdw8BxopkI/G4wzlBuzuX56k7B/PV9UNs7Jne92CTrm0KANMxaeRtrWna05Xvs5wGfsoNOiqBj60TA==;qN3EJi2gxV2ushR40E3biA=="
 ---
 

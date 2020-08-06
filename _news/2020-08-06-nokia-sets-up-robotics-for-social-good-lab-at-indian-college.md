@@ -88,6 +88,17 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Bangalore’s IISc to house Nokia Centre of Excellence for Networked Robotics"
+    excerpt: "According to Nokia, the network robotics laboratory will be available to the IISc community and its ecosystem partners for advanced research projects"
+    publishedDateTime: 2020-08-06T05:58:00Z
+    webUrl: "https://www.voicendata.com/bangalores-iisc-house-nokia-centre-excellence-networked-robotics/"
+    ampWebUrl: "https://www.voicendata.com/bangalores-iisc-house-nokia-centre-excellence-networked-robotics/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/bangalores-iisc-house-nokia-centre-excellence-networked-robotics/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 52
   - title: "Nokia to set up robotics lab at IISc for 5G research"
     excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
     publishedDateTime: 2020-08-04T13:58:00Z
@@ -116,6 +127,6 @@ related:
       domain: dqindia.com
     quality: 19
 
-secured: "cxuzPY3P6oqgDC5uLvMCZzAOKJxlQmCblJ7ldzBOSt3cJoYeQ6bJ4jPu87uEXgJFQ6zBmpzc0jV1VT9MOwRXVyK94Z/k390I9mdqUTfKHwcFL0QitIA8NtyLCY0ma+Pclp+zYF6R/9LsKMYOSoUGKmhHqoqpI4rDSozj85zD4ejKFiz+jJlYFdjfYrQwgsAm1X5Q55CZgDfi0t+lJuVmNw/YIvjMvZxpyKZoPH6ig+L+TnUHbhak6Bpqz5FeUAlre2pw7KThi7pntl4EuwNQczyV/4XobJGVoeVRSVzW7l3pf8IjfhmRC34azLYSTjww4fu80GLavaF1RZzx9hL2nA==;fmvgIlOVXl9DdtZj0Il6PA=="
+secured: "vhEoJPpMveli0UbaTYkhWYAsD/tZ2DBfg/8UJhyiRa7cT9XPuvb2h1dJI5VgOTeRSbNiUTvmMqGX2vs4Y2WxxN7s4pDg8UDtKcxt0qiSXuKSbijwVaXQCogdsci/bB9oMH2R0/L4qRoCAo63yS4SWUN8bJP3JRluCaEJqdiFwSbmFXUUMee+b6OPujT/rGKJ6Q0FU3z00kFQOx0Qw3CUHvMToxpw9OwELvwKFb08ucnoRZptxQkU/IxcztO6AQRGzDCjvADdWSJkg/ilQ7u/nepeBR50e8MI7amKDVYm3/voW1fgJoCcWukgPlTtTq50VgXi3WutLofZM2fXPOtn01kvi927HD19YCHQGqq4YWW6XhDnXu9oK4FcX7Ysi7kzDqUwT+naatOxU2YEF9O+1tiZsF2dgGNThCpMXCrl2yRpfWAwhltcuwkwJuMf2v+3b7iPxh66kpEbYNj3dVZ5LNkIPkpyI9zdEZG78vuwdjSGtwPB3VEvqxxkjuTrWp2kwAyK2TiIv1moJWsRl+eCgA==;pg1MuOli7yE4DNfkJPzKrw=="
 ---
 

@@ -96,6 +96,17 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Bangalore’s IISc to house Nokia Centre of Excellence for Networked Robotics"
+    excerpt: "According to Nokia, the network robotics laboratory will be available to the IISc community and its ecosystem partners for advanced research projects"
+    publishedDateTime: 2020-08-06T05:58:00Z
+    webUrl: "https://www.voicendata.com/bangalores-iisc-house-nokia-centre-excellence-networked-robotics/"
+    ampWebUrl: "https://www.voicendata.com/bangalores-iisc-house-nokia-centre-excellence-networked-robotics/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/bangalores-iisc-house-nokia-centre-excellence-networked-robotics/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 52
   - title: "Nokia to Set-up Robotics Lab at IISc, Fellowships to be Offered to Select Students"
     excerpt: "The CoE will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop socially relevant use cases across areas like emergency management, agriculture and industrial automation."
     publishedDateTime: 2020-08-04T07:34:00Z

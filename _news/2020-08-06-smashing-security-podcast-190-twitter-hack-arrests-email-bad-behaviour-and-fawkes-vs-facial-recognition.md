@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T00:26:00Z
 webUrl: "https://grahamcluley.com/smashing-security-podcast-190-twitter-hack-arrests-email-bad-behaviour-and-fawkes-vs-facial-recognition/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,68 +22,6 @@ images:
     width: 730
     height: 380
     isCached: true
-
-related:
-  - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
-    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
-    publishedDateTime: 2020-08-02T08:00:00Z
-    webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
-    ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
-    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
-    type: article
-    provider:
-      name: The State
-      domain: thestate.com
-    quality: 51
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "NY lawmakers vote to pause facial recognition in schools"
-    excerpt: "In this July 10, 2018  a camera with facial recognition capabilities hangs from a wall during installation at Lockport High School in Lockport, N.Y. The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
-    publishedDateTime: 2020-08-03T13:35:00Z
-    webUrl: "https://www.register-herald.com/region/ny-lawmakers-vote-to-pause-facial-recognition-in-schools/article_20087c3b-e052-55c6-bf1b-2250d13e340d.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/0/20/020b0819-5e41-5f14-94ea-a4358d2834a3/5f19cd2f6b03f.image.jpg?resize=868%2C630"
-        width: 868
-        height: 630
-        isCached: true
-  - title: "South Carolina Law Enforcement Use Facial Recognition to Arrest Rioters"
-    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May."
-    publishedDateTime: 2020-08-03T11:13:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21148573/south-carolina-law-enforcement-use-facial-recognition-to-arrest-rioters"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 39
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/08/16x9/richlandcounty.5f27f1176864c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
-    excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
-    publishedDateTime: 2020-08-01T14:18:00Z
-    webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
-    ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 38
-    images:
-      - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
-        width: 1200
-        height: 899
-        isCached: true
 
 secured: "O6PlfFErZht8UL8H0hCpFz7VzWfvW20KT++rRddhKxgv6W7uMVG9UXs+N38NZ6YSKFT6nxjZzvYl25HYB4rWWF8LVREgrdV2chUeC/s4XKzHoIqNnaagXsaRicmkTwod94bo23nz8jbrFd/srJ5sqx373FmWgtry6mNv3zO5h+B8rVjNT0ES/sjQEx5tiT2OCEOiqreRPwPNMiOmZc5dxU4tAQ2QG+9a1502oJ6SMYif7PmjWzVMHI0+jTd3EKOhYf6eiwUZlehT/isoJtbE0afqkmdsvf3iI0MqXmDi2mhEEz8ymh9aL8S/lg6+RDY9Txs2U/iE8JMG/mPrrSQEtTQOTY8tUNbyXxAw3YOgu99xQ6Flt3X2O14nys3STlNEW6K+lJnDLLZ7VMaN9RUdSFBgEp+8lSNBlj2xTaCg+Of/E8BTaSjvQrgiQIKUStdxyEnExt3jcvhde45v3fETIzD3bx5wUQefVAwkEgfllUai5LsdLF52wHFuVdStt0+E6t8mivR5AfSBfyBoKh5wuQ==;2GNUS9/GTPvo/MivoRJTqA=="
 ---

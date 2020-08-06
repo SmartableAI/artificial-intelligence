@@ -2,6 +2,106 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-27-nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms.md",
+      "title": "NIST study finds that masks defeat most facial recognition algorithms",
+      "excerpt": "A National Institutes of Science and Technology found that 89 commercial facial recognition algorithms were defeated by masks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 459,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/facial-recognition-face-mask.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/nist-study-finds-that-masks-defeat-most-facial-recognition-algorithms/amp/",
+      "publishedDateTime": "2020-07-27T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-exploring-the-three-elephants-in-the-autonomous-vehicle-room.md",
+      "title": "Exploring The Three Elephants In The Autonomous Vehicle Room",
+      "excerpt": "Today, in the area of Autonomous Vehicles (AVs), there are three elephants in the room which are worth exploring. Let’s get started. Is it possible that the current Artificial Intelligence(AI) engines underneath AVs are just the wrong architecture and may never work robustly ?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1eea43aae75494c2b3186e%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/07/27/exploring-the-three-elephants-in-the-autonomous-vehicle-room/amp/",
+      "publishedDateTime": "2020-07-27T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-3-robotics-stocks-that-will-make-peoples-lives-easier.md",
       "title": "3 Robotics Stocks That Will Make People’s Lives Easier",
       "excerpt": "Robotics stocks represent one of the most exciting investment prospects for stock buyers. The increasing importance of information technology in manufacturing and the development in the concept of the industrial “internet of things” are likely to power robotics stocks to a new era of growth.",
@@ -352,6 +452,38 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications.md",
+      "title": "NVMe over Fabrics and GPU Direct Storage Boost HPC and AI Edge Applications",
+      "excerpt": "With the ever advancing capability of GPU subsystems, the bottleneck for many of these applications has moved to the storage subsystem requiring new innovations in data IO architectures.” There are a number of technologies and innovations which address t ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/07/transform-raw-data-to-real-time-actionable-intelligence-using-high-performance-computing-at-the-edge/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1210,131 +1342,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-26-artificial-intelligence-platform-detects-power-grid-flaws-and-wildfire-dangers-better-and-faster-than-humans.md",
-      "title": "Artificial Intelligence Platform Detects Power Grid Flaws And Wildfire Dangers Better And Faster Than Humans",
-      "excerpt": "Powerlines and equipment problems have been the cause of most recent wildfires. But a new AI and machine vision technology can analyze millions of images of powerlines and towers to find dangerous faults and flaws to help utilities identify problem areas and repair them before a fire starts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1ba09af74dc5ebe069773c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1077%26cropY1%3D0%26cropY2%3D720",
-          "width": 1077,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/amp/",
-      "publishedDateTime": "2020-07-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-26-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-industry-analysis-2019-2025.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Industry Analysis 2019 – 2025",
-      "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market report provides in-depth statistics and analysis available on the market status of the Natural Language Processing (NLP) in Healthcare and Life Sciences Manufacturers and is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-26T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-26-artificial-intelligence-a-potent-weapon-against-covid-19.md",
-      "title": "Artificial Intelligence: A Potent Weapon Against Covid-19",
-      "excerpt": "The pandemic has ensured that AI has now evolved to the level of being Augmented Intelligence, helping humans in every segment and sector. With the knowledge and insights gathered from the Corona ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/07/Untitled-design-2020-07-26T094821.971.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/amp/",
-      "publishedDateTime": "2020-07-25T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI in Healthcare",
-        "IBM AI"
       ]
     }
   ],

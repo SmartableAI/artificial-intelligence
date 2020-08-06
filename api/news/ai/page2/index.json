@@ -383,7 +383,7 @@
       "webUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -881,6 +881,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-03-bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system.md",
+      "title": "Bulawayo and Chinese firm partner to introduce facial recognition scan system",
+      "excerpt": "Limited has entered into a partnership with a Chinese company, Clou Global Technology, to solely distribute the latter’s facial recognition system integrated with temperature scan. The innovative Chinese-made product is already being sold in China,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2020/08/Mr-Witker-Tholana-680x380.jpg",
+          "width": 680,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/",
+      "cdnAmpWebUrl": "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/",
+      "publishedDateTime": "2020-08-03T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chronicle",
+        "domain": "chronicle.co.zw",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-artificial-intelligence-researchers-release-theaitre-play-written-entirely-by-machines.md",
       "title": "Artificial intelligence: Researchers release 'theAItre' play written entirely by machines",
       "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts are working on a cutting-edge research project merging machine learning with theatre.",
@@ -1017,6 +1058,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-rite-aid-facial-recognition-security-was-uncovered-are-you-prepared.md",
+      "title": "Rite Aid Facial Recognition Security Was Uncovered, Are You Prepared?",
+      "excerpt": "This Reuters article delivers an in-depth review of how Rite Aid used facial recognition to detect repeat offenders, and probably",
+      "sourceUrl": null,
+      "webUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.paymentsjournal.com/wp-content/uploads/2018/06/flat-3252983_1280.png",
+          "width": 1280,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
+      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
+      "publishedDateTime": "2020-08-03T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PaymentsJournal",
+        "domain": "paymentsjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1292,104 +1374,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/amp/",
       "publishedDateTime": "2020-08-03T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai.md",
-      "title": "Fifty Years After Designing Electric Lady Studios, Architect Cuts New Track With AI",
-      "excerpt": "Architect and acoustician John Storyk, known for designing recording and performance spaces around the world, was frustrated by the limits of the software at his firm’s disposal. So last year, he and his research and development director decided to build their own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-215878/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
-      "publishedDateTime": "2020-08-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-13-tech-experts-share-exciting-uses-of-human-centered-ai.md",
-      "title": "13 Tech Experts Share Exciting Uses Of Human-Centered AI",
-      "excerpt": "As this technology develops and becomes more integrated into our daily lives, the future of human-centered AI is looking brighter than ever. Below, the members of Forbes Technology Council share 13 exciting future uses of human-centered AI to keep an eye on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f24376198e9a8d4c0cc5da8%2F0x0.jpg",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/amp/",
-      "publishedDateTime": "2020-08-03T05:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

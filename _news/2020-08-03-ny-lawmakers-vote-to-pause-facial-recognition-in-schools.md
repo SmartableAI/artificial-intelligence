@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bulawayo and Chinese firm partner to introduce facial recognition scan system"
+    excerpt: "Limited has entered into a partnership with a Chinese company, Clou Global Technology, to solely distribute the latter’s facial recognition system integrated with temperature scan. The innovative Chinese-made product is already being sold in China,"
+    publishedDateTime: 2020-08-03T21:58:00Z
+    webUrl: "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/"
+    ampWebUrl: "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/"
+    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/"
+    type: article
+    provider:
+      name: Chronicle
+      domain: chronicle.co.zw
+    quality: 56
+    images:
+      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2020/08/Mr-Witker-Tholana-680x380.jpg"
+        width: 680
+        height: 380
+        isCached: true
   - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
     excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
     publishedDateTime: 2020-08-02T08:00:00Z
@@ -40,48 +56,20 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "South Carolina Law Enforcement Use Facial Recognition to Arrest Rioters"
-    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May."
-    publishedDateTime: 2020-08-03T11:13:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/news/21148573/south-carolina-law-enforcement-use-facial-recognition-to-arrest-rioters"
+  - title: "Byo firm/Chinese company introduce new face recognition, scan system to fight Covid-19"
+    excerpt: "Pamenus Tuso, Business Correspondent A BULAWAYO based company Brains at Work Consulting (Private) Limited has entered into a partnership with a Chinese company, Clou Global Technology, to solely to distribute the Chinese firm‘s face recognition system integrated with temperature scan."
+    publishedDateTime: 2020-08-03T11:05:00Z
+    webUrl: "https://www.chronicle.co.zw/byo-firmchinese-company-introduce-new-face-recognition-scan-system-to-fight-covid-19/"
+    ampWebUrl: "https://www.chronicle.co.zw/byo-firmchinese-company-introduce-new-face-recognition-scan-system-to-fight-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/byo-firmchinese-company-introduce-new-face-recognition-scan-system-to-fight-covid-19/amp/"
     type: article
     provider:
-      name: Officer
-      domain: officer.com
-    quality: 39
+      name: Chronicle
+      domain: chronicle.co.zw
+    quality: 51
     images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2020/08/16x9/richlandcounty.5f27f1176864c.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Social media and facial recognition helped identify 6 men charged for vandalizing cop cars during Philly protests"
-    excerpt: "The case highlights the extent to which the same social media content that has fueled the protests and aided prosecutions of officers charged with police brutality has become a primary resource for investigators seeking to track down those responsible for looting and violence."
-    publishedDateTime: 2020-08-01T14:18:00Z
-    webUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html"
-    ampWebUrl: "https://www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philly-protests-676-arrests-social-media-state-police-instagram-facebook-sammy-rivera-luke-cossman-20200731.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 38
-    images:
-      - url: "https://www.inquirer.com/resizer/OrguOwFy_nF7nLVi6OtIqeVzMQ8=/1200x0/center/middle/www.inquirer.com/resizer/cBGufKhqu1vW2aJQ8J2dGOoBX20=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/JQEWEM3F7BGGRJPKRAV6EAHUO4.jpg"
-        width: 1200
-        height: 899
-        isCached: true
-  - title: "Smashing Security podcast #190: Twitter hack arrests, email bad behaviour, and Fawkes vs facial recognition"
-    excerpt: "Special guest Geoff White can’t resist using the podcast to promote his new book, “Crime Dot Com”, but other than that we also discuss the creepy (and apparently legal) way websites can find out"
-    publishedDateTime: 2020-08-06T00:26:00Z
-    webUrl: "https://grahamcluley.com/smashing-security-podcast-190-twitter-hack-arrests-email-bad-behaviour-and-fawkes-vs-facial-recognition/"
-    type: article
-    provider:
-      name: Graham Cluley
-      domain: grahamcluley.com
-    quality: 36
-    images:
-      - url: "https://grahamcluley.com/wp-content/uploads/2020/08/ss-episode-190.jpeg"
-        width: 730
+      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2020/08/59D76B3D-C48F-4261-B223-015748826C0C-680x380.png"
+        width: 680
         height: 380
         isCached: true
 

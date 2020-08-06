@@ -39,7 +39,7 @@ related:
     provider:
       name: EdTech
       domain: edtechmagazine.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://edtechmagazine.com/higher/higher/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
         width: 1440

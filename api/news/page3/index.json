@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-03-bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system.md",
+      "title": "Bulawayo and Chinese firm partner to introduce facial recognition scan system",
+      "excerpt": "Limited has entered into a partnership with a Chinese company, Clou Global Technology, to solely distribute the latter’s facial recognition system integrated with temperature scan. The innovative Chinese-made product is already being sold in China,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2020/08/Mr-Witker-Tholana-680x380.jpg",
+          "width": 680,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/",
+      "cdnAmpWebUrl": "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/",
+      "publishedDateTime": "2020-08-03T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chronicle",
+        "domain": "chronicle.co.zw",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-artificial-intelligence-researchers-release-theaitre-play-written-entirely-by-machines.md",
       "title": "Artificial intelligence: Researchers release 'theAItre' play written entirely by machines",
       "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts are working on a cutting-edge research project merging machine learning with theatre.",
@@ -138,6 +179,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-rite-aid-facial-recognition-security-was-uncovered-are-you-prepared.md",
+      "title": "Rite Aid Facial Recognition Security Was Uncovered, Are You Prepared?",
+      "excerpt": "This Reuters article delivers an in-depth review of how Rite Aid used facial recognition to detect repeat offenders, and probably",
+      "sourceUrl": null,
+      "webUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.paymentsjournal.com/wp-content/uploads/2018/06/flat-3252983_1280.png",
+          "width": 1280,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
+      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/amp/",
+      "publishedDateTime": "2020-08-03T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PaymentsJournal",
+        "domain": "paymentsjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1110,97 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-baidu-completes-its-computer-for-self-driving-cars.md",
-      "title": "Baidu completes its computer for self-driving cars",
-      "excerpt": "The firm isn’t the only one working on self-driving computers. NVIDIA is quickly landing deals with GM, Toyota and others that could make it a powerhouse, for instance. However, Baidu might be the first to put a platform into real-world (albeit limited) use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/baidu-self-driving-car-computer-ready-081925160.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F7325be30-d435-11ea-bfb1-aefda5da57d0&client=amp-blogside-v2&signature=9f70eab165ef74f9f781ff7fef9669edcdb62fe8",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-self-driving-car-computer-ready-081925160.html",
-      "publishedDateTime": "2020-08-02T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-richland-columbia-police-use-facial-recognition-social-media-in-protest-tied-arrests.md",
-      "title": "Richland, Columbia police use facial recognition, social media in protest tied arrests",
-      "excerpt": "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestate.com/news/local/crime/article244433082.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.thestate.com/news/local/crime/article244433082.html",
-      "cdnAmpWebUrl": "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html",
-      "publishedDateTime": "2020-08-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The State",
-        "domain": "thestate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

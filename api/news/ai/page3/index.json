@@ -2,6 +2,104 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-03-fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai.md",
+      "title": "Fifty Years After Designing Electric Lady Studios, Architect Cuts New Track With AI",
+      "excerpt": "Architect and acoustician John Storyk, known for designing recording and performance spaces around the world, was frustrated by the limits of the software at his firm’s disposal. So last year, he and his research and development director decided to build their own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-215878/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fifty-years-after-designing-electric-lady-studios-architect-cuts-new-track-with-ai-11596457800",
+      "publishedDateTime": "2020-08-03T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-13-tech-experts-share-exciting-uses-of-human-centered-ai.md",
+      "title": "13 Tech Experts Share Exciting Uses Of Human-Centered AI",
+      "excerpt": "As this technology develops and becomes more integrated into our daily lives, the future of human-centered AI is looking brighter than ever. Below, the members of Forbes Technology Council share 13 exciting future uses of human-centered AI to keep an eye on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f24376198e9a8d4c0cc5da8%2F0x0.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/03/13-tech-experts-share-exciting-uses-of-human-centered-ai/amp/",
+      "publishedDateTime": "2020-08-03T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-artificial-intelligence-will-help-brands-align-with-influencers.md",
       "title": "Artificial Intelligence Will Help Brands Align With Influencers",
       "excerpt": "One of the biggest challenges brands face today when utilizing social media is finding the right influencer to align with – and while a \"wrong\" choice likely won't hurt a brand in most cases, it could be more of a wasted effort.",
@@ -580,79 +678,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-02-richland-columbia-police-use-facial-recognition-social-media-in-protest-tied-arrests.md",
-      "title": "Richland, Columbia police use facial recognition, social media in protest tied arrests",
-      "excerpt": "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestate.com/news/local/crime/article244433082.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.thestate.com/news/local/crime/article244433082.html",
-      "cdnAmpWebUrl": "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html",
-      "publishedDateTime": "2020-08-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The State",
-        "domain": "thestate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-rite-aid-pulls-plug-on-facial-recognition-system-with-china-links.md",
-      "title": "Rite Aid Pulls Plug on Facial-recognition System with China Links",
-      "excerpt": "The post Rite Aid Pulls Plug on Facial-recognition System with China Links appeared first o. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/rite-aid-pulls-plug-on-facial-recognition-system-with-china-links-2020-07-29?amp",
-      "publishedDateTime": "2020-08-01T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-01-artificial-intelligence-ai-in-healthcare-market-global-industry-analysis-size-share-trends-and-latest-research-report-2020-2025.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market – Global Industry Analysis, Size, Share, Trends, and Latest Research Report, 2020-2025",
       "excerpt": "The latest research report on Artificial Intelligence (AI) in Healthcare Market delivers a comprehensive study",
@@ -1191,6 +1216,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-31-how-smart-are-ai-chips-really.md",
+      "title": "How Smart Are AI Chips, Really?",
+      "excerpt": "It’s like a GPU without the graphics hardware. Or conversely, a GPU is like an AI accelerator. Even a low-end graphics card or built-in GPU in an older laptop is also an ‘AI engine’ that is ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-arlington-asset-investment-corp-ai-q2-2020-earnings-call-transcript.md",
       "title": "Arlington Asset Investment Corp (AI) Q2 2020 Earnings Call Transcript",
       "excerpt": "Arlington Asset Investment Corp Q2 2020 Earnings Call Jul 31, 2020, 9:00 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator.",
@@ -1378,56 +1444,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize.md",
-      "title": "Enhancing recommendation filters by filtering on item metadata with Amazon Personalize",
-      "excerpt": "We’re pleased to announce enhancements to recommendation filters in Amazon Personalize, which provide you greater control on recommendations your users receive by allowing you to exclude or include items to recommend based on criteria that you define. For example, when recommending products for your",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T15:08:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

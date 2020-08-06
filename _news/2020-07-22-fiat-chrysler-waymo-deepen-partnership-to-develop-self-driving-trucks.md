@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks"
-excerpt: "The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across ... like Yandex and Baidu, whose cars have driven only about a million miles ..."
-publishedDateTime: 2020-07-22T13:24:00Z
-webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!"
+excerpt: "Click here to subscribe for free.) Automaker Fiat Chrysler (FCA) and driver-less technology developer Waymo are deepening their ties to build self-driving trucks. The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across the automaker’s full product portfolio,"
+publishedDateTime: 2020-07-22T07:55:00Z
+webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece"
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 384
     isCached: true
 
-secured: "ywRGDyYrn+kFWuNLfe3877ScxiZFos1ELJ1slikmqzG8GnRFU4+UnIblGw+5wamOcLzIjIOWRzN/eqNhTJfBrY1771tzDvDhApgiI37q0YhIfVQvdZBM96ynmQUqhX5moJZTQyhx+uTc9gx9fYMdB5r4ju2zKMx+CB0jHraRCxPqBoH2LF3P9xnd+5kphBlTGxPiHnf2UvOkJspA5pKjw9QniDwa6skBClfxrK+EbcRI2Th4jE5F6n9d19jDyapYdPUvA3dikzoMUIx1dsKYZLSTouHrsRfIGPoEnsS7Lg+WKjEy6JoYHovaa+cnfmDRy8OuWwfvtdJUAQZ1syUXmw==;S9Kyo3voHWTFkP4sLdHddg=="
+secured: "EeSwOTd1idxQAIlMEmWC+MVCG91tZ3z1TULtJ/LmtAvL5E0dTYHn0/sXTvDVdGEYEEwTIjXO4/jjSjCexrDzIXSpSimP0jKL795slFpZ+OWqZXzqxephnaONZEP5nqYpPtxUlEZFiamyuVrtKzLNNNi+V4i8vRCd628j7S9lnrzZePJR39O8cY9S1sgKLWHZKmZEg5q0NGmHHN4s6LYItWNcSDu+j8oGkzPSXt1qvAqIZtGklxctuIcH3Gt3NgV9vQ2Wjo93x7PMCyQFJ+IexsDNwTOu5DQQY0RMFWaAs8bP5gw40xnaTklP0GsvZSCbhtlT9yGjJzEkSmgOrdkKyw==;6Oyqy/VVK8Ry1MNSAJ6pQg=="
 ---
 

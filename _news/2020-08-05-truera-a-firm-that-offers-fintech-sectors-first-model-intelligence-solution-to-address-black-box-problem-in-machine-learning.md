@@ -7,8 +7,8 @@ webUrl: "https://www.crowdfundinsider.com/2020/08/164966-truera-a-firm-that-offe
 ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164966-truera-a-firm-that-offers-fintech-sectors-first-model-intelligence-solution-to-address-black-box-problem-in-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164966-truera-a-firm-that-offers-fintech-sectors-first-model-intelligence-solution-to-address-black-box-problem-in-machine-learning/amp/"
 type: article
-quality: 16
-heat: 16
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Digital-Money-Dollar-Jackson-600x600.jpeg"

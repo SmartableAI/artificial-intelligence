@@ -2,23 +2,23 @@
 category: news
 title: "Machine learning could improve hurricane prediction"
 excerpt: "The approach could provide more accurate medium-term hurricane forecasts, allowing meteorologists to issue more timely warnings to communities in the path of potentially deadly storms."
-publishedDateTime: 2020-08-05T20:33:00Z
-webUrl: "https://gcn.com/articles/2020/08/05/machine-learning-hurricane-prediction.aspx"
+publishedDateTime: 2020-08-05T22:35:00Z
+webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/08/05/machine-learning-hurricane-prediction.aspx"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: GCN
-  domain: gcn.com
+  name: Washington Technology
+  domain: washingtontechnology.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/August/stormsurge.png"
+  - url: "https://washingtontechnology.com/-/media/GIG/GCN/Redesign/Articles/2018/August/stormsurge.png"
     width: 760
     height: 368
     isCached: true
@@ -55,6 +55,6 @@ related:
         height: 915
         isCached: true
 
-secured: "5Nb1JCgV/eZyhG5w+GLiA52BOT6YTfJqIw8JeOiQTKNhJzozMch91K+BQjcxknb0XJ8fIfzedSaMYap4ooORjPYXZkwGSQgXN/aEpsdGniUc/0xX79GsCrD/yQ0A14tP2vtj6t0m91Htkhr7Iq291oJIwTXkf+qR6EZ/vffzRFmInKu0WPUW0F02En51ZKKJxpyqf7ASfHx2ncIxh1APCoaa0E9kzb9g5GAJNmVFuaKwi+1Jh4QcKoJcRw0Rz4XSIit3Tw5RWwjJhwBK3codUQ+GtOhpAYBqX+o/zS3JHvbSTlTx2Rq01p43juwUXwQnoXhX6uEJ3QXOkKxXL9yY6sBoGnyiZ6YTic18P8yt8ngdCTP7u0WWuFrZ4ybsp0L/gCF79d28Halx7MgGvg86ytHwRBike4GNwBK/gQbhPTp1NpTh5if8pHKjRY7lZFvvzz2edQ/qTABfZyWDY1KFKbkSagM6Czk6ja/h/BAnLIPCEeQ4weqjlFQr80Jv5Vy3fNSqvliQf7EJ06tSotHcZw==;bal2LjzYIPwb0lCUS8Gmsw=="
+secured: "/iLwZuDUtJ169mXIQIw7SeUINk/dkWcQDtiKyCGVh4LSDHLeJaQl2a5nVOZxaj1I/R6H/1aHL4fBPE11Du3rhyPUxH9DYFMPQvGNQ2tuF8/SEH5AGRMmJkl62pB6BJdvuxrSASvhNzyfbMvvlCA9q4L22JbPHdQFyYFSaL0cYKdEKG3APFUAkMFhgz6zVmSHn68fvUmaP8wI2mD2mndiQsH32/lkbYunb/d5Yd32RcqavcA1OuMXfWiy5vEzyxtL5xv0bqVVQfHaeX99zNLUVyB6r9z1K4YyDG19c/6b/C7nLchNFgXcZzzIkkIq8Ata33Vg9n4IbrcJ2dt2yajcxA==;kB0jHrRnV8UhllGObUnyWg=="
 ---
 
