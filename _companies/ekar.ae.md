@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "MyEKar"
   url: "https://twitter.com/MyEKar"
-  followers: 695
+  followers: 694
 
 size: 11-50 employees
 yearFounded: 2015
