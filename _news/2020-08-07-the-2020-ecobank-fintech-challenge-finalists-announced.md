@@ -40,6 +40,22 @@ related:
         width: 425
         height: 223
         isCached: true
+  - title: "Ecobank announces 10 finalists in Fintech challenge, Nigeria misses cut"
+    excerpt: "Ecobank Group has announced the finalists from the 2020 Ecobank Fintech Challenge, with no Nigerian Fintech making the cut."
+    publishedDateTime: 2020-08-07T10:12:00Z
+    webUrl: "https://www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/"
+    ampWebUrl: "https://www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/amp/"
+    cdnAmpWebUrl: "https://www-pmnewsnigeria-com.cdn.ampproject.org/c/s/www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/amp/"
+    type: article
+    provider:
+      name: PM NEWS Nigeria
+      domain: pmnewsnigeria.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/www.pmnewsnigeria.com/wp-content/uploads/2020/08/Ecobank-Fintech.jpg?fit=640%2C427&ssl=1"
+        width: 640
+        height: 427
+        isCached: true
   - title: "2 Ghanaian companies reach Ecobank Group’s 2020 fintech challenge finals"
     excerpt: "Ecobank Group has announced the finalists from its 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
     publishedDateTime: 2020-08-06T17:56:00Z
@@ -69,6 +85,6 @@ related:
         height: 270
         isCached: true
 
-secured: "a1MFK1xMi3IgNz77Glh4xKQhc/ZVyoXe3Lqo2ztuyzBG6Rx9GtwtuMaUb+BrBDk2KuGA5jsf7ZjyOauP3ZAUsmvylrRuWgFdo2pR1Gh7isDyh1croSxuB16oauD09iTdtwX4+JGRDdTxnGo1h0caMZkXgN6ywKQu0ZdQfP2XiqQ56Qj4FHXroEdNpkp50ZzO0dPMY1cmITBzoEFKg1YS1OlIRtzOKPC5SL1t2aAknRisvGTmHWB9Pbhv16DmHppcQNmiYdpkXPukbeIA4/Wekh+zd+/g/U5lhekYRfootHEGYkdGLppEYuu7ln5ezXNlwlnNpjOx0HXLH2lTt2VYTw==;ewLI9rbaGUMe7L13GPeXjQ=="
+secured: "i+Cx75NFHJzsaPesRGvILrN29p4LNjCfAH1w7dx+gvIXwXSNMb1nQNZaZeglA8sxRS35F7w1M722jY/QAKBs2Jx4eNsOUYhJcvdL9g3T9INE3XoPlp/Bc1CSTxokEtK5cy1nEMkWrsemQ2Zp2sD+JvyKutOCYCXx04Tvy2948ufZmqEyBaFywR6EV0hwfRGjg9Dge2BGZZ5B4tEf4spo6psPSbxmgVbpdKMcwmwb4YhWn0ETkfMjU41luJF9gfDCyqR8v5+xwVmjPGzDzS6UVjRekZ4vol4BBImhIR2FCVGqeabWFNmHy/l8k1homtAfJ3uJKzwKjd1QGvRRD2WSr3odj1l5xVJhcT31ztEJ/fibMoxxjY5rpHcpm4OqxDYLGRW56o3Id5cB+cWb7ZrNPNrY1xafFEcTzwAAaUJQJ77ITLagLORurj41F8siuKo0MtWQL8fyauZHEorZz/JYvEcPlt4E0h3RQDLIQuU5r5o3esvIjmXw/L4gNG7ck3ATJr1RyC12LlVmN3aqcO69rQ==;dCP41YWYrsG9IFn2k9vxHw=="
 ---
 

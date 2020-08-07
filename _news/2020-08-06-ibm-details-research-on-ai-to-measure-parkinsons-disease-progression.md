@@ -50,20 +50,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 58
-  - title: "Deep Learning Market 2020 to 2024 Research Report: Opportunities by Leading Manufacturers, and Dynamics Regions"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Unusual growth strategies adopted"
-    publishedDateTime: 2020-08-02T17:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-to-2024-research-report-opportunities-by-leading-manufacturers-and-dynamics-regions-2020-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "cSaJ2FCEt86xN2SUIMmwWWyTbrmV3HvaDXvKXs8Veo5rfB6OMa/u9Z8L5lqmUYNc2rW4n5lvG69LQ1klY3rPWeCH3LmFwKsVw9nZFBBvFdBFRdConxQwhOoiHit+DHbK8RXm5rSM0r3RcrhujaMq9pYNqkr3Cp1NOZqCFPO9K6IY6qrXK35QQS7+bQ4VWmMG5exKovAohDSKy6fgvKyKw25Nnu2i1Ism3u70bDLI9tLWEqZKMcO6yQdFLXcvk6fUDqh6QAieCEKTjK3Jedb4ivpEKy/jcnA1ReZW44HZtGhwTkttvWngGoEmP6z23Y2ahDRuwc8ahHzGrolJ6wW2S1JAMxG0h2tSz5+dLenyDekBEp75GYGtn956GS8mIXrNqFhjnXOUkCF8YnTUcUI5AyJt6U5RKDfvvA4xEVR3gy7db3zV1CGpok3CiVnw9fXU0qn7Iab0XHqs1CltfClaM2mjCfTnohLqxOoQQtkyBT0x9Nbw+AoZcQ8GJoq6e0mqmjCblC+6UiNCR6TVaQtLVg==;KXkK13C21EOxY329AxF+Zw=="
 ---

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/</loc>
+    <lastmod>2020-08-07T04:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update</loc>
     <lastmod>2020-08-07T02:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -81,6 +87,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/</loc>
     <lastmod>2020-08-06T10:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.html</loc>
+    <lastmod>2020-08-06T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -309,6 +321,12 @@
   <url>
     <loc>https://www.ibm.com/blogs/watson/2020/08/behind-the-code-meet-young-suk-lee/</loc>
     <lastmod>2020-08-04T14:17:06-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033</loc>
+    <lastmod>2020-08-04T13:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -993,6 +1011,12 @@
   <url>
     <loc>https://www.techradar.com/nz/news/microsoft-is-taking-this-windows-10-linux-tool-back-fromfacebook</loc>
     <lastmod>2020-07-30T02:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.indiatvnews.com/technology/news-google-supercomputer-nvidia-gpus-break-ai-performance-records-638280</loc>
+    <lastmod>2020-07-30T02:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2349,6 +2373,12 @@
   <url>
     <loc>https://www.caranddriver.com/news/a33395020/waymo-fca-ram-promaster-self-driving/</loc>
     <lastmod>2020-07-22T14:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.electronicdesign.com/industrial-automation/article/21137317/inference-chips-benefit-from-a-concurrent-design-approach</loc>
+    <lastmod>2020-07-22T13:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

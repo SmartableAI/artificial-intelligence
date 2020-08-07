@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-machine-learn
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 58
-  - title: "Deep Learning Market 2020 to 2024 Research Report: Opportunities by Leading Manufacturers, and Dynamics Regions"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Unusual growth strategies adopted"
-    publishedDateTime: 2020-08-02T17:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-to-2024-research-report-opportunities-by-leading-manufacturers-and-dynamics-regions-2020-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Nx4UNSa63nCN5NrL7PnXX+sy3SMUZnMKaESEYrJT6/IkvvG3Gh0ohQwFct6M0jP6paXbgTV9o8gtSGZ/Mec0sqmMwnh3CbiQggkg/4/GJxedb84ePs6OKs+ryizPT7xV8oOdi7vGL/csXUj3CyKyu4p46E5fVj+SSINNRSaGvKdWViYUVaQE7H+YIxO96Zum2HH0DtgGGPWUcDTTlpQDHGG0renfQngM+4z0Bw83+kUmjymvS0xhr6pa0+mmEZ6/WRT9C+STzRSrV+x1VfhrUQw89qZdldxBrLhhhIhyg0neKrCe8cRr/LHGOpYjbvg0hCzUCasDgH6CBSk6pYcIDfVyn7i0j9I2R24T4qLZ0w/+bgzFU8S90bAKmCB7eKpVFy6SSOlKGT+1tJKISQm+/jVG7GOHtJVS1Vxz7YvXVPbiQw0Gu2iGj6YXZl7kWjF39stvt01NW+dpkcS124jEKjfTLgXxYiSbTTaCPxtd28CxGJG+gefMQGGB5HVkBvoM;EET0JXQx4Wa1Lypq1wj7cg=="
 ---

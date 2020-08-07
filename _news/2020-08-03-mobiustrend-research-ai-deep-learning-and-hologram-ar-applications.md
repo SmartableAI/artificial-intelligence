@@ -49,20 +49,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
-  - title: "Deep Learning Market 2020 to 2024 Research Report: Opportunities by Leading Manufacturers, and Dynamics Regions"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Unusual growth strategies adopted"
-    publishedDateTime: 2020-08-02T17:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-to-2024-research-report-opportunities-by-leading-manufacturers-and-dynamics-regions-2020-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HhCgkM38ZvTHAcgNNF1OEXMaSOcDHVzVFeD8t4gPkWnnOaE5uyZSKs/9Nhoa4cmxr6VWVc0mU6JDaRkxw7066nFJ71A/dxBx8aAF2Fb131Fub2tE7Fe1zziXQKd0OGZoQrfEcp7Vi5SiU10jII6Up7pOdvqdu3GK+Iq12lqwiGFxfddX/QSDq2idmqywhz4W1nR+eWioyUYj6/8jDotXawB+0aE9KSAS8D+GOKkO+9WZqmTEex/nRQmnC76ifxOfICgqdVg2/VuqRRT84Fd3Pyjjo/tI+k3WCXFifrNMyfK6pDRVpoi/53fCv3z6k/BFqir1dE7aKnFrD4Egg91D9oi5KtoiujfSUReXqxxy+8EAQOTQYPc6rhNCz+s04nkNLB3VycQCrxeteT7eo2U1ZMp1cTNa0334zXMhUmz2/kDLLWTLul+U3RZJLlK8SMR1lBc+6AS4zNeFOtm15mtKYoKQjsVSRfs7I+QoQQvv0LPH/k7aRC0c6dR3sCwX7kBWcc/VFmzgMXnPjAJ89oznEw==;bdA7jgzOztKqs9wGHfaTHQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-ch
 cdnAmpWebUrl: "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ecobank announces 10 finalists in Fintech challenge, Nigeria misses cut"
+    excerpt: "Ecobank Group has announced the finalists from the 2020 Ecobank Fintech Challenge, with no Nigerian Fintech making the cut."
+    publishedDateTime: 2020-08-07T10:12:00Z
+    webUrl: "https://www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/"
+    ampWebUrl: "https://www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/amp/"
+    cdnAmpWebUrl: "https://www-pmnewsnigeria-com.cdn.ampproject.org/c/s/www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/amp/"
+    type: article
+    provider:
+      name: PM NEWS Nigeria
+      domain: pmnewsnigeria.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/www.pmnewsnigeria.com/wp-content/uploads/2020/08/Ecobank-Fintech.jpg?fit=640%2C427&ssl=1"
+        width: 640
+        height: 427
+        isCached: true
   - title: "2 Ghanaian companies reach Ecobank Group’s 2020 fintech challenge finals"
     excerpt: "Ecobank Group has announced the finalists from its 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
     publishedDateTime: 2020-08-06T17:56:00Z

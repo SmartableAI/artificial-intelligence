@@ -86,22 +86,6 @@ related:
         width: 927
         height: 626
         isCached: true
-  - title: "Some sports teams explore facial-recognition tech, hope it will help with contactless admission"
-    excerpt: "The technology would not only verify a person's identity, but would also check for temperature and face masks."
-    publishedDateTime: 2020-08-02T18:54:00Z
-    webUrl: "https://www.foxnews.com/us/sports-teams-facial-recognition-contactless-admission"
-    ampWebUrl: "https://www.foxnews.com/us/sports-teams-facial-recognition-contactless-admission.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/sports-teams-facial-recognition-contactless-admission.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 62
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cfe33ff-8ff0-441e-a988-54097de9f0ee/b8e0c60a-4b6f-45a7-8666-6f80f0bff121/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facial recognition tech for chimps looks to bust online ape trafficking"
     excerpt: "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ..."
     publishedDateTime: 2020-08-04T15:24:00Z

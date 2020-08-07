@@ -85,22 +85,6 @@ related:
         width: 927
         height: 626
         isCached: true
-  - title: "Some sports teams explore facial-recognition tech, hope it will help with contactless admission"
-    excerpt: "The technology would not only verify a person's identity, but would also check for temperature and face masks."
-    publishedDateTime: 2020-08-02T18:54:00Z
-    webUrl: "https://www.foxnews.com/us/sports-teams-facial-recognition-contactless-admission"
-    ampWebUrl: "https://www.foxnews.com/us/sports-teams-facial-recognition-contactless-admission.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/sports-teams-facial-recognition-contactless-admission.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 62
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cfe33ff-8ff0-441e-a988-54097de9f0ee/b8e0c60a-4b6f-45a7-8666-6f80f0bff121/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The hack that could make face recognition think someone else is you"
     excerpt: "Face recognition is rapidly proliferating as a way to identify people at airports and in high security scenarios—but it's far from foolproof. Researchers demonstrated on Wednesday that they can fool a modern face recognition system into seeing someone ..."
     publishedDateTime: 2020-08-05T11:11:00Z
