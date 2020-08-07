@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1199
     height: 569
     isCached: true
-
-related:
-  - title: "3 Important Ways Artificial Intelligence Will Transform Your Business And Turbocharge Success"
-    excerpt: "Artificial Intelligence (AI) is likely to be the most powerful technology humans have ever had access to. Here we look at the three main ways AI can be used in businesses to deliver success."
-    publishedDateTime: 2020-08-03T04:46:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/03/3-important-ways-artificial-intelligence-will-transform-your-business-and-turbocharge-success/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f278facccb6d3d3cc3c63b1%2F0x0.jpg"
-        width: 1200
-        height: 728
-        isCached: true
 
 secured: "4GHqtEqeqmXn0El/eFndOR/LMPYT1n/rFdJhrDh1IGDEV2yA7DFzSIJlKwT+rN6QSxZqXufjX4ITAJiks6voSNt8I9rwHHKcOb5aqYEtQ5MuaT6rB/zniDsowlCqeS9JXnOcMJrziFONXzBvUoOTrRhcMz5KPP7LimqTLhUbw3fGBDEqqh1ro7rzhBxi4TuN0JWXFVtBkzw3VRR+Y7UgdHYMBLIRzXuf0c47Bme9U7Z6Sz4MudhDqs1QwnR7GkinHSnS+vrVuXIqpK/2S3IfP6ApqS9vP2vMsjlXqEMLEvXQFrkXoIAPFOweb2DI8eFNqeX1uREo5S/TQVsSsLFDMj/aYakHzX5zLDGzTjGUFRA5EKMq7+eUHME0gdPUhAgwNvJT0cYfMgyXZWgH2sttWYI8wyGySCUh80RNQOcEwK8Yw+Z7dP1rfeiQh4zWUYrscVewyLTUpmHl2jREpTP+5B+rtvLljTdBapIQCAWXMKu5Ms0RNeVuE1suhJ8PoMV22PRT7bfReXzqSfmjNz89Xg==;yXXaDKZllQIDzHZLFwYRtg=="
 ---

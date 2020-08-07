@@ -5,8 +5,8 @@ excerpt: "To give a boost to machine-learning functionality in its MCUs and DSPs
 publishedDateTime: 2020-08-07T16:29:00Z
 webUrl: "https://www.electronicdesign.com/technologies/iot/article/21138631/neuralnetwork-compiler-adds-a-glow-to-micros"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/NXP_Glow_Compiler_Promo_web.5f2d7e37241a9.png?auto=format&fit=max&w=1200"

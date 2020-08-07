@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyperspeed: Law firm uses AI to slice months off insurance claims"
-    excerpt: "Developed by Microsoft partner, Arinco, the system saves time for the client while also freeing up the lawyers who would otherwise have their time taken up with combing through insurance policy fine print."
-    publishedDateTime: 2020-08-03T04:54:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/hyperspeed-law-firm-uses-ai-to-slice-months-off-insurance-claims/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/07/Maurice-Blackburn-Image-1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Arinco accesses AI to slash law firm’s processing time"
     excerpt: "Arinco has tapped into Microsoft Azure Cognitive Services to develop an artificial intelligence (AI)-infused solution for Maurice Blackburn Lawyers."
     publishedDateTime: 2020-08-04T07:29:00Z

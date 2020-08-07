@@ -98,22 +98,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "SingPass, a Facial Recognition Solution for ID Verification, Will be Used by Singapore’s DBS Bank for Digital Onboarding"
-    excerpt: "SingPass, a facial recognition solution for ID verification, will be used by Singapore's DBS Bank for completing digital onboarding."
-    publishedDateTime: 2020-08-03T03:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164767-singpass-a-facial-recognition-solution-for-id-verification-will-be-used-by-singapores-dbs-bank-for-digital-onboarding/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/06/Singapore-DBS-Skyscrapers-Asia-600x800.jpg"
-        width: 600
-        height: 800
-        isCached: true
   - title: "Singapore’s Universal Studios deploys facial recognition for entry amid Covid-19 pandemic"
     excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
     publishedDateTime: 2020-08-03T13:08:00Z

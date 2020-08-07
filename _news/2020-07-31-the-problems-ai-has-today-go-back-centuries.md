@@ -19,6 +19,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "0s5z3Dmo4o+BpjA4i3tR++UL+RX9/SmyEbM0JgjIVWV/l1u2QlOhva5BQeeC2PNt9ZdIe/Cc1qc+06zJ5OXigvvCMhABIRA9CN3iZvNraLiq8DxoyMW8GwItrmB/Yqr/ffmt103zVnM3ZuJTDTJCkPiNo76Y/5o1LKeYwzr2QITKrz61JSEV0ScNWSAlko0qIz+pNDRHfq1tHOEvP06R0fV6mE6lxf6imEZdfZV9wgZq4eKQBTnQcOc0JsLPrN+A3+pSz52/7OilT/wMF5PFTnVdk+XAuspNld8fe0xNDJZ8XnXDYVmyAFxsEhEJ7jRaT78STru6ftBRdR7kgdML2w==;kulIUaL14JNJa33gj/rVNQ=="
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2020/07/200728_MIT_Decolonial_AI-01-01-01.jpg?w=3000"
+    width: 3000
+    height: 1688
+    isCached: true
+
+secured: "zBorAwg0vlNyrBuuXFtOkq0xOODXbglPvC607kx0MAnYiOCvnIQ5AozEQ0NPLvyfHndYrWXxLYLxRXcsN76VkY1uPr5XrXkNgHdoA7I3sBuP4Qg0gqpdlWDDOEgoGo52eVC0Jfnm4QSBlBtyp7qhmRM/JEIBIUaD3hLTIcvYGti5HDAjSja535Izchgh8x5njKDvL4Q/jWB3BcU+WfOq/tsApGEuAW/mhJvfAK8xNQ//qyxnKxH5PBIBB9PBp819/Ychzcj+U8MovtLi2gnF504z9+SP635y4WHjqkeJpigwwtOiNHW1J7Y09SZ42dea/JxV7Y05lfhGLCf6/eUTZw==;GXGW7N2F0mAE2pgJs45YbQ=="
 ---
 
