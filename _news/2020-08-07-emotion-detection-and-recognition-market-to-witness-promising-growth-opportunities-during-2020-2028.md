@@ -39,19 +39,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
-  - title: "Global Automotive Recognition System Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "The latest report titled Global Automotive Recognition System Market 2020 by Company, Type and Application, Forecast to 2025 provides various levels of analysis such as industry analysis (industry trends),"
-    publishedDateTime: 2020-08-02T20:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-08-02"
+  - title: "Machine Vision Market 2020 Global Opportunities, Industry Size, Growth, Development Status, Segmentation and Regional Forecast to 2022"
+    excerpt: "Machine Vision Market 2020 Global Opportunities Industry Size Growth Development Status Segmentation and Regional Forecast to 2022"
+    publishedDateTime: 2020-08-07T11:30:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265944313/machine-vision-market-2020-global-opportunities-industry-size-growth-development-status-segmentation-and-regional-forecast-to-2022"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/voa1596800122.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "Ml1iVyGSpzf8HW68eWkTcjW7NxBGuOnKlHT2kuqF3PqQSg3fV0EGfREJBvUsI8pAyg8L3Uqiwro7YC5bJqOECCKI6friZRlCnb+Lw6elTukLZ3nVjEjMQA0YaEJ/XzDF3nG/AxnpdW2W1T9k0Rb2eoDzp5WUy+Wie0K34hpgLFz9icHRXzy++gYd36GkyjH8UAmZaTjtV2naQteCJmb8cDXkK8jhx1ynzJzR8Cm2CldOfhC6HyqZpvEddvfAAGIr7HliMRk+ZDlUZM68Fy9HjogDde1+v1GrlPc4WaAlKUn8oTjYmLo13oWLDySkO+zny4POL78B4pOz7NUKN5SBhw==;4cT91YTjisOx2AY93hRoZg=="

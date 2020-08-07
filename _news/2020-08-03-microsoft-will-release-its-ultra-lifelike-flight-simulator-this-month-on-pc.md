@@ -40,6 +40,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft Flight Simulator Teams with AI Firm Blackshark"
+    excerpt: "Microsoft Flight Simulator will have AI elements courtesy of blackshark.ai, which tapped into Azure and Bing Maps imagery."
+    publishedDateTime: 2020-08-07T13:05:00Z
+    webUrl: "https://winbuzzer.com/2020/08/07/microsoft-flight-simulator-teams-with-ai-firm-blackshark-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/08/Microsoft-Flight-Simulator-Microsoft.jpg"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "P2YZTK2LuxZ3JIN6YVLLv3T0uk0YHG/+RSKFv2LLUmdLjuimXBU3wDOjkqWny+85t0zg1whepB1LOQHOG2Ap/TQsVkCe/rDiatnfvNPCx2ng2e80NAcqPgvgfnL1Y/rroYraoKv4wEEQ/NmRYhTYfNyFykoj02zq8mnVu4Lps5oxlzxDeTJMiEQ3BpJl8tnwK3LVOlSS88orm1PR+23FomR2GdLIZw1OAgRMCBrE/mh/YTI6A4zOv83X8awSpq7U4zm65kgfDC4glK6kGywr8ECtZOw6rH2ZGrEV1s9KxI1yY0dnYd/JA7926MaL+NBX/tCCfOnQ4vRlAFTHqDS5jA==;n9v1X+Vsc000axluBzGJZA=="
 ---

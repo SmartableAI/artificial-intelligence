@@ -3,7 +3,7 @@ category: news
 title: "Australia needs to face up to the dangers of facial recognition technology"
 excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
 publishedDateTime: 2020-08-07T02:35:00Z
-webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 type: article
@@ -372,6 +372,6 @@ related:
       domain: harvard.edu
     quality: 16
 
-secured: "egE//v9A9qF24XyZsl4uIjOvaPLQtq8ZZMkBI0qJYBg0vtHatRfv17nlmIM1hvs5s3o8ygJJ29AI+UjmjUCbUVG+1nGgV7QcQy2qKOWdveUSyLdWTOY9EHM8ZRqNnqo1bLa34xe2MB1qC9V0l6QyNLmgPmS5wddWtDHHlHvD+XCaA27OC67Zs7FaLc+kJmNLQgGB7JxxY5YgOuINauQsmCLPOIz9PS4nc4B8N41rtNN9RP+fkPt6seReLtAXAJQzj6A3DKVrQkytZ4yEmbz95LLNbYsYx9d2fiRBgQ5i6y+MzeU3d2rpMdulY1Yc+xAIbnt2IEJ7O00hWZLV14N2ipUmO4URDHUX2bigTGEYm/BqVym5s/28kuWt50ft0/uwfVO8cnIfBjpwkzc2i2C45bl+OS1YmqXSDLrQuIMQC4KRv7+YFHkPI0YnLHxZ8jp4ZQuG/kf1qBQGODc/f/g+Tg4LDEMCCWjEFxphTCNHkbH8675tnFhv0B/3jJen+2TTbuElUP65cxxL4Ntjnvn7vw==;zJeiU4pqfLwocln+hdUXMw=="
+secured: "S5iYUnP6OfRcqgWMiB8mawsFOynKFOuWFJmWysD+QEDdfhxQ99cS7trA5qEsFdfDXwh5DSDf81Ky9sMENY1xQ3vQTkL+cHmYkfNmSgFgoohjoJlKBlyS0xvSKrhvfg0zmMWCskg1Z1KVwus5BctmmG4vlYSDzwBUNXnoz3hGH/vrEAK4E9Hy0dx5negVLrNmenRDxdWTlyCa1O4el8vN5sN6f+uBEhTJcjosvC7Ihz1OrEpTkZFquWB4p8EspWjEutSTGWVACS8DVFMBGxAsVMOw+b+Hqb8iMGaFnDLV2qP92codFN63HtDU+oyDMFV2LV9VtX97YFqKnnJyMLW7tg==;cun0yJywhtAVjY5Yu51Yog=="
 ---
 

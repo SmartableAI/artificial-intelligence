@@ -175,6 +175,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "UChicago Researchers Made a Photo-Editing Tool That Hides Your Identity From Facial Recognition Algorithms"
+    excerpt: "More than 100,000 people have downloaded the free tool, which \"cloaks\" faces in photos, protecting people's identities from illegal data mining."
+    publishedDateTime: 2020-08-06T19:52:00Z
+    webUrl: "https://www.builtinchicago.org/2020/08/06/uchicago-tool-hides-facial-recognition-fawkes"
+    type: article
+    provider:
+      name: Built In Chicago
+      domain: builtinchicago.org
+    quality: 21
+    images:
+      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/2020-08/Screen%20Shot%202020-08-06%20at%2011.16.44%20AM.png"
+        width: 1091
+        height: 587
+        isCached: true
 
 secured: "OvN3tYKAJk4EQggGlcK8zYNTRV7M1C67zR5OMNTTY8a8ei7TnWHG9uEQbUyPpsBUS5dDxdaAj3WdBxpxJN7J16oI7bN1pWPD22EuolU2yWqtg+c9c63dOdMHuRxkSiYgxh4nKqp+NBj8IVGcUTbyQgMb3pxV67PsEhJ1Bll9xVBGYufALks6wiE7lM2soZWhv8rzMRmuQ/xQwl2RhDKOWBhoGkfaqLolK5xKgFR8rpJJo2zwTYoqGXHPjgWLcY+hkc9zPhbkskgaGgqkz2wcfJDg3bUqlZPNYZsgFTbdZG69eKXuEDEqmPqnZSpM73QuWBZ5wGmDqEtMc/Mn765Y1Q==;TVdmiX9ySCzRp4zxuLahGQ=="
 ---

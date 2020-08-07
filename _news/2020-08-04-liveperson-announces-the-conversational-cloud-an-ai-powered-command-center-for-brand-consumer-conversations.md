@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "What's next for conversational AI?"
+    excerpt: "Jim Benton, CEO of Chorus.ai, sits down with Tonya Hall to talk about the future of conversation AI, including how the sector can grow to better understand business conversations."
+    publishedDateTime: 2020-08-07T13:11:00Z
+    webUrl: "https://www.zdnet.com/video/whats-next-for-conversational-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/06/9dcd64a2-932b-42aa-b15b-87615f502558/thumbnail/770x578/b094ef747751f5d2a3baade4cba2ffc4/thumb.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "USGIC Launches India's 1st AI-powered Conversational Agent for Motor Insurance"
     excerpt: "PRNewswire/ -- The Covid-19 pandemic has caused ambiguity and disruption in customer services across the world and has changed the life of people"
     publishedDateTime: 2020-08-03T08:12:00Z

@@ -34,19 +34,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automotive Recognition System Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
-    excerpt: "The latest report titled Global Automotive Recognition System Market 2020 by Company, Type and Application, Forecast to 2025 provides various levels of analysis such as industry analysis (industry trends),"
-    publishedDateTime: 2020-08-02T20:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-08-02"
+  - title: "Machine Vision Market 2020 Global Opportunities, Industry Size, Growth, Development Status, Segmentation and Regional Forecast to 2022"
+    excerpt: "Machine Vision Market 2020 Global Opportunities Industry Size Growth Development Status Segmentation and Regional Forecast to 2022"
+    publishedDateTime: 2020-08-07T11:30:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265944313/machine-vision-market-2020-global-opportunities-industry-size-growth-development-status-segmentation-and-regional-forecast-to-2022"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/voa1596800122.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "sQVFTrgqN87B/VQHfUNzeu0frGo3Eje9xjamer7Bbe1zkFoU/TV/dQalkAO5smbTDfXmlhpITYuedN1tQWVQVSOQm0kTcZY+0VVCDXvsI1O0CqTb1tt2Mplscbo2k3Va4OuGQSC57rIW1s5oPF33ugecSpYliHUdW0oOIZS0qKFjWcvRuLHAQZl5eJgL/5kPRHFD7RDjUq7oyby8KNY5/Nd7miEbtCYqCrgYhZnDo61X1slW0XTk/0d/NScIks1098nxc6FmNH7zPOYeXm424BTG4Iu8DWRMVzV0eLjLk9P/6lgMGsm4DmTKZSxVo5ugoLbM56fPWEpxyVQdJt+OQLSNKB5scGbh47EphGFLVR97OIC4h5elgztbpsoGetHmRr6OITJdlOoUuKIVlQPV4s8mnIX8IC3Q1lUlM/ainYww7kOGwM3Ichy27iyCTTyxN44Nh/7uU15HaBwlTkmGS1o5udcDl/NKYkIm4ErogExLWgLjyItC5R1OaM5e1pGJU3NmYW+fpJVw2HKv2I6lWw==;uqs1qWUmli1tVN4UE0qphQ=="

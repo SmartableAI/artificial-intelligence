@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/4/21353810/facial-recog
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -180,6 +180,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 32
+  - title: "UChicago Researchers Made a Photo-Editing Tool That Hides Your Identity From Facial Recognition Algorithms"
+    excerpt: "More than 100,000 people have downloaded the free tool, which \"cloaks\" faces in photos, protecting people's identities from illegal data mining."
+    publishedDateTime: 2020-08-06T19:52:00Z
+    webUrl: "https://www.builtinchicago.org/2020/08/06/uchicago-tool-hides-facial-recognition-fawkes"
+    type: article
+    provider:
+      name: Built In Chicago
+      domain: builtinchicago.org
+    quality: 21
+    images:
+      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/2020-08/Screen%20Shot%202020-08-06%20at%2011.16.44%20AM.png"
+        width: 1091
+        height: 587
+        isCached: true
 
 secured: "4sb5t7QtgD6+eG4ms6Sj/MXD+7rFh9cdEyksqsuF5Lu9j7BTXrhKgiwdsKsPIDd4Sz7vw8F/Lgj4DpTQ3wSNZsn5E9YY3hxzsKXkHaDYEs3mx2oIQXi1yZXEhoQhBiXKsH0BiRHGST4dmPaLmxBjflxzWs0Efja55fWTwSv1VvMHk5j4L0+olb2+U/A1B8Uaxu1FMn6ysuHezlcHT8DRwZAlM0q8BhWIbzQ19MiXJF3AoTYGAcBUcRVCf6Z1o7kl6wIep7hr/b8xtWYfPNSo2ybk4qQDdIfVCWpP18B3UhucVfik3u7DBJ8q13jocTMJlEuY55Sc/C9AebZmxkSipoj/gVNZJaT29KO3u1dwhIynpK9Qq7fi5yUJTk9+naQNbYOsIMaj64+89Lql0KKEbr1ACBGQwr9cVZAng2hCeze2ws6LXh57vsuGY6rHjnLnLLNBpBEHKdmX8bb9tuej3v6HGdQfw5sUoWLHUzK6EZsh9DBdoRYGbWp/mSRBv3cE;JydpvxIPkfOnRty0180PbQ=="
 ---

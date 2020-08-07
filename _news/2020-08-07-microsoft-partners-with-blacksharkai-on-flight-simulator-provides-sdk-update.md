@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-f
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Flight Simulator Teams with AI Firm Blackshark"
+    excerpt: "Microsoft Flight Simulator will have AI elements courtesy of blackshark.ai, which tapped into Azure and Bing Maps imagery."
+    publishedDateTime: 2020-08-07T13:05:00Z
+    webUrl: "https://winbuzzer.com/2020/08/07/microsoft-flight-simulator-teams-with-ai-firm-blackshark-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/08/Microsoft-Flight-Simulator-Microsoft.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "Microsoft will release its ultra lifelike Flight Simulator this month on PC"
     excerpt: "The software will make use of satellite maps as well as live readings from weather stations and airports around the world to create 'the most realistic' version of the game ever developed."
     publishedDateTime: 2020-08-03T12:23:00Z
