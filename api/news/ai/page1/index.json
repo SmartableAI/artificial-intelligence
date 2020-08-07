@@ -52,6 +52,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-07-robotics-to-play-bigger-role-in-healthcare.md",
+      "title": "Robotics to play bigger role in healthcare",
+      "excerpt": "Medical staff use a 5G intelligent medical robot for diagnosis procedures at Shanghai General Hospital in June. [Photo by Yin Liqin/For China Daily] Industry experts, scholars and medical specialists voiced their optimism toward employing artificial intelligence within a broader range of medical-use scenarios during the just-concluded World Artificial Intelligence Conference 2020. The third of its kind in Shanghai, where AI medicine constituted a key pillar of discussions, witnessed the inauguration of a medical AI committee under China's AI Industrial Alliance, the unveiling of global medical AI research platform Med-Net as well as the publication of a white paper on worldwide AI medical development. Wu Jinglei, director of the Shanghai Health Commission, said the 114 medical AI companies in the country have helped form industrial clusters in Beijing, the Yangtze River Delta region and Guangzhou, Guangdong province. \"Despite their relatively late start, the companies have made strides in screening and prediction of diseases, medical imaging, case and literature analysis, new drug discovery and other functions,\" Wu said. The development plan for the new generation of AI issued by the State Council has set a target of having core industries reach a market value of 150 billion yuan ($21.5 billion) by 2020. The medical sector is estimated to account for one-fifth of that amount. In light of the COVID-19 pandemic, experts are training their sights on how AI can help improve the public health system through enhanced epidemic research, genetic testing and drug development. Ge Junbo, an academician at the Chinese Academy of Sciences and director of the cardiology department at Zhongshan Hospital affiliated to Fudan University, proposed that AI should lead the construction of medical scenarios, and that AI could help doctors achieve more accurate treatment in complex operations in the future. \"The diagnosis and treatment model of AI plus human experts will surpass our current traditional diagnosis and treatment model,\" he said. \"Ultimately, it will help improve our understanding of diseases and change our current management model of disease cognition, diagnosis, treatment, follow-up and chronic diseases.\" Zhang Wenhong, director of Huashan Hospital's department of infectious diseases, called for a speedier concentration of public health data currently scattered across all medical institutions. \"The combination of online and offline data (and not just medical data) should form a comprehensive system and create a warning mechanism that serves to determine the vulnerability of a city should a pandemic occur,\" he said. Qiao Xin, co-founder and CEO of AI company Deepwise, said:\"AI and 5G technologies have developed rapidly in recent years, and I believe that in five years' time, there will be more medical services that can reach the basic level of general practitioners and provide services to more patients via the cloud.\" French pharmaceutical company Sanofi is piloting the use of AI in streamlining doctors' online consultation processes. \"By teaming up with Chinese AI company Emotibot, we have come up with a platform where doctors with auto-reply functions can turn spoken language into structured language for AI to understand in real time and give a response, which saves a lot of trouble for physicians,\" said Jerry Gao, an innovation manager for internet hospitals at Sanofi China.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202008/07/WS5f2cad7ea31083481725ecf5.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202008/07/5f2caf9ea3108348fce317ce.jpeg",
+          "width": 683,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-csiro-using-artificial-intelligence-to-map-17m-australian-grain-paddocks.md",
       "title": "CSIRO using artificial intelligence to map 1.7m Australian grain paddocks",
       "excerpt": "It developed ePaddocks for the agriculture sector to better understand the boundaries of grain paddocks across the country.",
@@ -1386,55 +1427,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-worlds-first-ai-generated-arts-festival-program-opens-this-friday.md",
-      "title": "‘World’s first’ AI-generated arts festival program opens this Friday",
-      "excerpt": "The Edinburgh Fringe is the world’s largest performing arts festival, but this year’s event has sadly been canceled due to COVID-19. Fortunately, art junkies can still get the",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T171319.315-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
-      "publishedDateTime": "2020-08-05T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

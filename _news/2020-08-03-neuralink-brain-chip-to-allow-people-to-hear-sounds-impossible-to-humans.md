@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-03T08:04:00Z
 webUrl: "https://www.tribuneindia.com/news/schools/neuralink-brain-chip-to-allow-people-to-hear-sounds-impossible-to-humans-121583"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's Answer to Google's DeepMind? Neuralink Brain Chip Hears Sounds Previously Impossible to Humans"
-    excerpt: "Among several other mindboggling features, the Neuralink neuroprosthetics could also help to regulate hormones, reduce anxiety, restore motor functions and overcome AI"
-    publishedDateTime: 2020-08-02T13:51:00Z
-    webUrl: "https://www.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-49456"
-    ampWebUrl: "https://amp.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-49456"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musks-answer-googles-deepmind-neuralink-brain-chip-hears-sounds-previously-impossible-49456"
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 56
-    images:
-      - url: "https://data.ibtimes.sg/en/full/40282/elon-musk.jpg"
-        width: 923
-        height: 651
-        isCached: true
   - title: "Elon Musk’s New Project ‘Neuralink Brain Chip’ To Allow People To Hear Sounds Impossible To Human"
     excerpt: "Tesla and SpaceX founder, Elon Musk has claimed that his new pet project Neuralink chip will allow users to hear sounds that previously were impossible to human ears. Musk founded Neuralink in 2016 but has only held one major public presentation."
     publishedDateTime: 2020-08-03T08:39:00Z

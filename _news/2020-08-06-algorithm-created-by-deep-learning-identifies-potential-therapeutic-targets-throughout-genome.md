@@ -42,7 +42,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 0
+    quality: 9
 
 secured: "hBl4vSpIdwMyKNyMgPDcLdkMPSSkHdaMK0qqT3Nfz/2Njc9drF2hjQ/F+Q0mGzz8PETVAQ4qeT1B2NddNWdlbOkNso1ZsvAwl3cmEG3eG6wH9+R2nQlAcviLM10YDh35g7Afr7CNc9Iaz3JsLo84XjPdUbbOdPIrqQQE1TlNFi8gFupA4RehFWFb3bYVL1aKhGfdFBG3nYUssKSho5ZcCZu/II/IRQmY0eZW/kre9YlxWuTxVh37w/em8HRaa9IqQrGphNwYYKFq3Q84Mg0DgJIhiWd/QYQJCtdEb8FYZBdQs66gvJPQTNoawN2gFjqKYRXCj9+xugjd2PhDzMHDyA==;TshRRjEqibSpzD9M3jGhHg=="
 ---

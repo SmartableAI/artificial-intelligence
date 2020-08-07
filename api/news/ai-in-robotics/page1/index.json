@@ -52,6 +52,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-07-robotics-to-play-bigger-role-in-healthcare.md",
+      "title": "Robotics to play bigger role in healthcare",
+      "excerpt": "Medical staff use a 5G intelligent medical robot for diagnosis procedures at Shanghai General Hospital in June. [Photo by Yin Liqin/For China Daily] Industry experts, scholars and medical specialists voiced their optimism toward employing artificial intelligence within a broader range of medical-use scenarios during the just-concluded World Artificial Intelligence Conference 2020. The third of its kind in Shanghai, where AI medicine constituted a key pillar of discussions, witnessed the inauguration of a medical AI committee under China's AI Industrial Alliance, the unveiling of global medical AI research platform Med-Net as well as the publication of a white paper on worldwide AI medical development. Wu Jinglei, director of the Shanghai Health Commission, said the 114 medical AI companies in the country have helped form industrial clusters in Beijing, the Yangtze River Delta region and Guangzhou, Guangdong province. \"Despite their relatively late start, the companies have made strides in screening and prediction of diseases, medical imaging, case and literature analysis, new drug discovery and other functions,\" Wu said. The development plan for the new generation of AI issued by the State Council has set a target of having core industries reach a market value of 150 billion yuan ($21.5 billion) by 2020. The medical sector is estimated to account for one-fifth of that amount. In light of the COVID-19 pandemic, experts are training their sights on how AI can help improve the public health system through enhanced epidemic research, genetic testing and drug development. Ge Junbo, an academician at the Chinese Academy of Sciences and director of the cardiology department at Zhongshan Hospital affiliated to Fudan University, proposed that AI should lead the construction of medical scenarios, and that AI could help doctors achieve more accurate treatment in complex operations in the future. \"The diagnosis and treatment model of AI plus human experts will surpass our current traditional diagnosis and treatment model,\" he said. \"Ultimately, it will help improve our understanding of diseases and change our current management model of disease cognition, diagnosis, treatment, follow-up and chronic diseases.\" Zhang Wenhong, director of Huashan Hospital's department of infectious diseases, called for a speedier concentration of public health data currently scattered across all medical institutions. \"The combination of online and offline data (and not just medical data) should form a comprehensive system and create a warning mechanism that serves to determine the vulnerability of a city should a pandemic occur,\" he said. Qiao Xin, co-founder and CEO of AI company Deepwise, said:\"AI and 5G technologies have developed rapidly in recent years, and I believe that in five years' time, there will be more medical services that can reach the basic level of general practitioners and provide services to more patients via the cloud.\" French pharmaceutical company Sanofi is piloting the use of AI in streamlining doctors' online consultation processes. \"By teaming up with Chinese AI company Emotibot, we have come up with a platform where doctors with auto-reply functions can turn spoken language into structured language for AI to understand in real time and give a response, which saves a lot of trouble for physicians,\" said Jerry Gao, an innovation manager for internet hospitals at Sanofi China.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202008/07/WS5f2cad7ea31083481725ecf5.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202008/07/5f2caf9ea3108348fce317ce.jpeg",
+          "width": 683,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T19:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-black-hat-hackers-can-remotely-hijack-enterprise-healthcare-temi-robots.md",
       "title": "Black Hat: Hackers can remotely hijack enterprise, healthcare Temi robots",
       "excerpt": "Robots used in hospitals and care homes to assist patients and the vulnerable can be fully hijacked by cyberattackers.  On Thursday at Black Hat USA, McAfee's Advanced Threat Research (ATR) team disclosed new research into the robots,",
@@ -101,7 +142,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1293,47 +1334,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-the-real-reason-were-afraid-of-robots.md",
-      "title": "The real reason we’re afraid of robots",
-      "excerpt": "Make no mistake AI does pose many real dangers to us: to our personal privacy and security and to the future of the economy. These are all very good reasons to watch it closely and regulate it aggressively.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2019/07/15/Artificial-Intelligence--AI-_16bf61c847a_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
-      "publishedDateTime": "2020-07-27T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
         "images": null,
         "publishers": null,
         "authors": null

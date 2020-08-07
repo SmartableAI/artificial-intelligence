@@ -5,7 +5,7 @@ excerpt: "A team of researchers from New Jersey Institute of Technology (NJIT) 
 publishedDateTime: 2020-08-07T04:26:00Z
 webUrl: "https://www.medindia.net/health-press-release/Algorithm-Created-By-Deep-Learning-Identifies-Potential-Therapeutic-Targets-Throughout-Genome-481131-1.htm"
 type: article
-quality: 0
+quality: 9
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 related:
   - title: "Algorithm created by deep learning finds potential therapeutic targets throughout genome"
