@@ -5,7 +5,7 @@ excerpt: "The Artificial Intelligence Market is segmented on the lines of its te
 publishedDateTime: 2020-08-05T08:18:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-trends-forecast-2020-2025-2020-08-05"
 type: article
-quality: 63
+quality: 65
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

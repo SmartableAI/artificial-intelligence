@@ -5,9 +5,9 @@ excerpt: "According to the latest report by IMARC Group, titled \"Artificial Int
 publishedDateTime: 2020-08-07T06:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2020-industry-report-covid-19-impact-analysis-and-scope-2025-2020-08-07"
 type: article
-quality: 63
-heat: 113
-published: true
+quality: 65
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -28,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Network Software Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
-    excerpt: "The Neural Network Software Market is expected to be around US$ 53 Billion by 2025 at a CAGR of 33% in the given forecast period. You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-08-06T23:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-06"
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026"
+    excerpt: "The Zion Market Research added a new report \"Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026″ in its database,"
+    publishedDateTime: 2020-08-07T12:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -79,20 +80,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 24
-  - title: "Artificial Intelligence (AI) in Manufacturing 2020-2026: Market Dynamics, Value Chain Analysis, Case Studies and Company Profiles - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-08-05T14:36:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200805005700/en/Artificial-Intelligence-AI-Manufacturing-2020-2026-Market-Dynamics"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 10
-    images:
-      - url: "https://mms.businesswire.com/media/20200805005700/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "NOcXIrqyeXSSLbeYGVNVo+/wwtLg2hr2d6ho2P+7JKg+B6yBn3qr07oeKEIXVMwX+Ce20JCDass91wt6jTsgFnxDNBF3I4rZ7Rwbyxpi1ElrwsPKP7uWy5pqeW0130eb1VbQHKWgf1TpH95cJxX/m1JUCjaLFhibd9QMiGklWZpv5oU7voM1eloH6GFjThReeB+dI4m9JeXysaSRcCPyyjxUeL/dyFm+dnlYSzWdfq99Xy/TgDDxSXxBM7DWJK35bWt+GqcjzCqtazaA+G3SchJO16m6dKWz+1MJaZEkwOb2UB8UikX3vUjM3Ts9T7TTqFg/mZQtOu0wCIFDwtMleQ==;CteRnqJnfnAu2AFFa1/oKw=="
 ---

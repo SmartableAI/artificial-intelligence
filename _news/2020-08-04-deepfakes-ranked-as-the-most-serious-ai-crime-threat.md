@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Evil AI: These are the 20 most dangerous crimes that artificial intelligence will create"
-    excerpt: "From targeted phishing campaigns to new stalking methods: there are plenty of ways that artificial intelligence could be used to cause harm if it fell into the wrong hands. A team of researchers decided to rank the potential criminal applications that AI will have in the next 15 years,"
-    publishedDateTime: 2020-08-05T15:51:00Z
-    webUrl: "https://www.zdnet.com/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/"
+  - title: "'Deepfakes' ranked as most serious AI crime threat"
+    excerpt: "Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence ... These are using driverless vehicles as weapons, crafting more ..."
+    publishedDateTime: 2020-08-04T12:31:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 93
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg"
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/ai-1596543975.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Deepfakes are the most worrying AI crime, researchers warn"
-    excerpt: "Deepfakes are the most concerning use of AI for crime and terrorism, according to a new report from University College London. The research team first identified 20 different ways AI could be used ..."
-    publishedDateTime: 2020-08-05T11:31:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T121048.824-796x417.png"
-        width: 796
-        height: 417
+        height: 676
         isCached: true
   - title: "Researchers Rank Deepfakes as the Biggest Crime Threat Posed by AI"
     excerpt: "Thirty one AI experts say the video fabrication technique could fuel a variety of crimes—from discrediting a public figure with fake footage to extorting money through video call scams impersonating a victim’s loved one—with the cumulative effect ..."
@@ -74,6 +58,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Deepfakes Emerge As Most Terrifying Of All AI Crime Threats"
+    excerpt: "Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence (AI) for crime or terrorism."
+    publishedDateTime: 2020-08-05T00:17:00Z
+    webUrl: "https://www.techshout.com/artificial-intelligence/2020/04/deepfakes-emerge-as-most-terrifying-of-all-ai-crime-threats/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 19
 
 secured: "i5JtSBvXYbeB60RXxg9bpxgBlY2Eu32/OKbyDm7pVbzMEGl28RPnyd7FpILLV5D5q+JtmAMGqjihkAR8OP6137qq4ja1VItgxr8hzlBfpNWTSIz73Y5ZHZ2C76/udRbabSjrrz/Pgt/icWntxaZLSXdAm4n3uAHFb6rvIY12UdibNipjeSuiWx3LDepBY+WKqYAPEEEWjJr5XL166ZjzDsiQ9Nk06TFbyDBLw/nvXYF76P4mg/HnsV9JdCSZ/Y38q0Hsj1g0wZ39UR6s3mW+IG+7UfiqEFlqylR1X4EWeGOrbG4Y+/SYvAxnPFyGIvjtRn1HCc2/CqYlQU0uo3+Bcm7fpJ/sEkZxh18rZlgc0xh4OhvuLdvkMmM95WsOsSrR9wfPFikSMCUk1zEGrpl7JsGsyudV59E2Ch849n6uYo4Gx8zWx/EWHXHtvtHu2+VtDSfOSL6XSeRKD2DzUKjjpZOHEnz+aIR15eXeLoD2/6S5mDqCePOEiGDjxUw2ddxB;C5zNEjwCRBUAbyFv09OQpQ=="
 ---

@@ -5,9 +5,9 @@ excerpt: "The Zion Market Research added a new report \"Global Artificial Intell
 publishedDateTime: 2020-08-07T12:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 66
+heat: 106
+published: true
 
 provider:
   name: MarketWatch
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -27,48 +28,57 @@ images:
     isCached: true
 
 related:
-  - title: "Global Edge AI Chips Market 2020 by Key Players, Regions, Type and Application, Forecast to 2025"
-    excerpt: "Global Edge AI Chips Market Growth 2020-2025 determines the views and opinions expressed by the consumers. The report gives the estimation of the trends, which are based on the present, future market analysis."
-    publishedDateTime: 2020-08-04T22:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025-2020-08-04"
+  - title: "Artificial Intelligence in Healthcare Market Size 2020 | Industry Report, COVID-19 Impact Analysis and Scope-2025"
+    excerpt: "According to the latest report by IMARC Group, titled \"Artificial Intelligence in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence in healthcare market size experienced healthy growth during 2014-2019."
+    publishedDateTime: 2020-08-07T06:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2020-industry-report-covid-19-impact-analysis-and-scope-2025-2020-08-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Vehicle Speech Recognition System Market Analysis, Trends and CAGR Projections 2020-2026"
-    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
-    publishedDateTime: 2020-08-04T22:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-analysis-trends-and-cagr-projections-2020-2026-2020-08-04"
+  - title: "Artificial Intelligence in Precision Medicine Market Share Current and Future Industry Trends, 2020-2025"
+    excerpt: "Machine learning (ML), deep learning and artificial intelligence (AI) are expanding rapidly as they are finding constant application in healthcare institutions for extracting huge amount of patient data using genomics sequences. AI also aids companies to ..."
+    publishedDateTime: 2020-08-06T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-share-current-and-future-industry-trends-2020-2025-2020-08-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
-    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
-    publishedDateTime: 2020-08-04T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-embedded-digital-instrument-cluster-market-by-development-trends-investigation-2020-and-forecast-to-2026-2020-08-04"
+  - title: "Digital Assistants in Healthcare 2020-2025: Artificial Intelligence (AI) Has Emerged as a Major Boon Amid COVID-19 - ResearchAndMarkets.com"
+    excerpt: "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33."
+    publishedDateTime: 2020-08-04T09:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200804005501/en/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200804005501/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
+  - title: "Digital Assistants in Global Healthcare Markets, 2020-2025 - Industry to Witness a CAGR of 33.7% Over the Forecast Period"
+    excerpt: "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33."
+    publishedDateTime: 2020-08-04T11:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digital-assistants-in-global-healthcare-markets-2020-2025-industry-to-witness-a-cagr-of-33-7-over-the-forecast-period-1029466100"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "BVjDhRFBkW6q6U4tMnS7i2rKKG3bmrTMNZ7of0Bf0gZ5G5j3WkRjIUddDzJzuvJ7lJ9/WT+pOWV88sXfnHz1vxaRCv1TZSE0rHoTBJKYUyl8HK/pW/WgBKc5d21EICpvg/Txjtt4H/eM4pfmiv09DpJaYB3ER24BD2s7N2taFIg64aGK1GRPlGO8F6i5V34RCNFeYgpBSpJKhXgYcuzQSKcchZsbZ0K+kqX3zLdsXPjmWeWaUjnCtGduAaXCHT5FYfPcB7yvVc3qcaNQV/MtY6dr8cI9pYcrRHMAbYBQmndH2nwtXkvdZNys3H9GRa43fX6ycNZnqwBwygxs99XOPQ==;uUalJhRuXrdi4rqLRZVgGQ=="
 ---

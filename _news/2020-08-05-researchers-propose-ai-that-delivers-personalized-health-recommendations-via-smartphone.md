@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/05/researchers-propose-ai-that-deliv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI speeds development of personalized health care"
-    excerpt: "When the COVID-19 pandemic took hold in Michigan, Priority Health turned to predictive analytics to identify which members were at the highest risk."
-    publishedDateTime: 2020-08-02T22:42:00Z
-    webUrl: "https://mibiz.com/sections/health-care/ai-speeds-development-of-personalized-health-care"
-    type: article
-    provider:
-      name: MiBiz
-      domain: mibiz.com
-    quality: 39
-    images:
-      - url: "https://mibiz.com/media/k2/items/cache/f261023636be0a0fbb235657a1d15239_M.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "8m8GUoImmQtJZj9evzpR71d//CXmwFVJi3i5wjvO8BRjWD0JbbZITEt61pq7ty+z08hVjYIuTHFYKhn+a3/gxqByUMeRp13qA0GNt0Gkt3AiXqUWqLIvLZU6Mllo51xHEz5vfa8pRIRQV/bEjz//51t7KEMgwB6PeSe9Gv7bRS+A8FQ/ZxOjUDqRhY70ByDL9Ylk/NJdmP7fy+NDi973JL3uwCXUI4+GDkvuo3Uh0YoP3Qg9ivj/Ju/vRxXrNnQiFdcGLJGusiKnVlDiki0u2wXv3b+A559Kfn7ojnnKJ15ZvKPWEYnCLuANLxPMZh6UUaQOHfPgaCt61vjdAKyI9g==;XebpJ0PojEYWlkhvqOQcgQ=="
 ---

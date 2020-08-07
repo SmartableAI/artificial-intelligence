@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IBM and Michael J. Fox Foundation develop machine learning model for Parkinson’s"
+    excerpt: "The research arm of Big Blue and The Michael J. Fox Foundation (MJFF) have developed a machine learning disease progression model as part of further research into Parkinson's disease (PD). PD is a chronic,"
+    publishedDateTime: 2020-08-07T14:00:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2019/10/14/7b6afd0a-aa57-4c89-b458-1aca5b5509b4/governance.jpg"
+        width: 770
+        height: 511
+        isCached: true
   - title: "IBM details research on AI to measure Parkinson’s disease progression"
     excerpt: "IBM recently detailed its work to develop AI systems that can detect signs of disease progression in patients with Parkinson's."
     publishedDateTime: 2020-08-06T16:54:00Z

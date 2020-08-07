@@ -104,7 +104,7 @@ related:
   - title: "Australia needs to face up to the dangers of facial recognition technology"
     excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
     publishedDateTime: 2020-08-07T02:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
+    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     type: article
@@ -260,20 +260,6 @@ related:
       - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
         width: 288
         height: 342
-        isCached: true
-  - title: "Big Tech Curbs Police Use of Facial Recognition Systems Due to Racial Biases"
-    excerpt: "A lot of these algorithms that have been developed, whether they are in healthcare or policing or visual recognition, are basically including the biases of the people who develop them,” Okolo said."
-    publishedDateTime: 2020-08-02T21:16:00Z
-    webUrl: "https://cornellsun.com/2020/08/02/big-tech-curbs-police-use-of-facial-recognition-systems-due-to-racial-biases/"
-    type: article
-    provider:
-      name: Cornell Daily Sun
-      domain: cornellsun.com
-    quality: 36
-    images:
-      - url: "https://i2.wp.com/cornellsun.com/wp-content/uploads/2020/08/UFTP6J0e4OMM_6WIuAp6kCMYpYmUt4V9lDQsb4Aml6eayrVRI3z0KwDsIB3_ta8jGgK0PtVEY0XlGocqT1ARCp0WxljqEJvqtaUJU2DcbNg.jpeg?fit=1170%2C780"
-        width: 1170
-        height: 780
         isCached: true
   - title: "Thank Kade Crockford for driving the ban of facial recognition tech in cities"
     excerpt: "The activist has become one of the leading proponents of enhancing our privacy and safety by abolishing the technology that would imperil both."

@@ -7,7 +7,7 @@ webUrl: "https://www.rt.com/usa/497287-cambridge-artificial-intelligence-racist/
 ampWebUrl: "https://www.rt.com/usa/497287-cambridge-artificial-intelligence-racist/amp/"
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/497287-cambridge-artificial-intelligence-racist/amp/"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "'White' artificial intelligence risks exacerbating racial inequality, study suggests"

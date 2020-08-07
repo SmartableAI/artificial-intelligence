@@ -55,10 +55,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence as a Service Market Size to Witness Huge Growth by 2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence as a Service Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence as a service market is poised to accumulate considerable revenues by the year 2025."
-    publishedDateTime: 2020-08-07T06:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025-2020-08-07"
+  - title: "Artificial Intelligence Market – Size, Share Growth, Trends, Forecast (2020 – 2025)"
+    excerpt: "The Artificial Intelligence Market is segmented on the lines of its technology, end-user and regional. Based on technology it covers Machine learning, Natural language processing, Image processing and Speech recognition."
+    publishedDateTime: 2020-08-05T08:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-trends-forecast-2020-2025-2020-08-05"
     type: article
     provider:
       name: MarketWatch
@@ -69,15 +69,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market – Size, Share Growth, Trends, Forecast (2020 – 2025)"
-    excerpt: "The Artificial Intelligence Market is segmented on the lines of its technology, end-user and regional. Based on technology it covers Machine learning, Natural language processing, Image processing and Speech recognition."
-    publishedDateTime: 2020-08-05T08:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-trends-forecast-2020-2025-2020-08-05"
+  - title: "Artificial Intelligence as a Service Market Size to Witness Huge Growth by 2025"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence as a Service Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence as a service market is poised to accumulate considerable revenues by the year 2025."
+    publishedDateTime: 2020-08-07T06:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025-2020-08-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

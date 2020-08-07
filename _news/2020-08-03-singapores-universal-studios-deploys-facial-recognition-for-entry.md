@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24Z15D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z15D"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Macy's faces class action lawsuit for use of facial recognition software Clearview AI"
+    excerpt: "An Illinois woman filed a class action lawsuit Wednesday against Macy's, claiming the corporation's use of Clearview AI facial recognition software is an invasion of privacy. Clearview is a research tool used by law enforcement agencies to identify perpetrators and victims of crimes,"
+    publishedDateTime: 2020-08-07T15:05:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2020/08/07/macys-faces-class-action-lawsuit-use-facial-recognition-software-clearview-ai/3315099001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3315099001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3315099001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/05/PCIN/4d576e5c-5bd1-4c28-bda1-6bd46d182c21-020520MacysHQ_09.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Guangzhou international airport introduces facial recognition service"
     excerpt: "A passenger is using \"One ID\" facial recognition service at the Guangzhou Baiyun International Airport on August 5, 2020. Photo: Courtesy of the Guangzhou Baiyun International Airport Guangzhou Baiyun International Airport has introduced a new facial recognition service to simplify and speed up and check-in,"
     publishedDateTime: 2020-08-06T06:20:00Z

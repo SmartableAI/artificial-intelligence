@@ -8,8 +8,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: India TV
@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "'Deepfakes' ranked as the most serious AI crime threat"
+    excerpt: "London: Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence (AI ... These are using driverless vehicles as weapons, crafting more tailored phishing messages (spear phishing ..."
+    publishedDateTime: 2020-08-04T21:29:00Z
+    webUrl: "https://www.freepressjournal.in/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat"
+    ampWebUrl: "https://m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat/d0ff51bd-47ff-46ed-a80e-c79e539c16ca"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
+    images:
+      - url: "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_17573035/thumb.jpg"
+        width: 800
+        height: 531
+        isCached: true
+  - title: "Researchers Rank Deepfakes as the Biggest Crime Threat Posed by AI"
+    excerpt: "Thirty one AI experts say the video fabrication technique could fuel a variety of crimes—from discrediting a public figure with fake footage to extorting money through video call scams impersonating a victim’s loved one—with the cumulative effect ..."
+    publishedDateTime: 2020-08-05T21:20:00Z
+    webUrl: "https://www.adweek.com/digital/researchers-rank-deepfakes-as-the-biggest-crime-threat-posed-by-ai/"
+    ampWebUrl: "https://www.adweek.com/digital/researchers-rank-deepfakes-as-the-biggest-crime-threat-posed-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/researchers-rank-deepfakes-as-the-biggest-crime-threat-posed-by-ai/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 59
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2020/08/angel-city-owenership-fcla-hed-page-2020-640x360.png"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Deepfakes Emerge As Most Terrifying Of All AI Crime Threats"
     excerpt: "Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence (AI) for crime or terrorism."
     publishedDateTime: 2020-08-05T00:17:00Z
@@ -36,6 +68,6 @@ related:
       domain: techshout.com
     quality: 19
 
-secured: "Hu25rfl1dr20pFwrp/vvM4mybD0el9yssmo55BsIAeuQLMTC3NjKhNb4Ewh7GPaCDZ4zASvdp+7EoNU7rbp7UQNmdRdcIWFWkfMDonGWjgvT4B8sOPVWM2jM0jWH8m7hLAEbPAyXHjWf+fnPhuu6q83PAnsFcgAGcouUnQz/u1KcSbVXt2xVAPg5IWl96A35gh5qarIAkvfnjf89gXMh9xZOSt8SWdDc94EcJb++786qCddPU7aPjIPob1SiQeH/rYhJ+9xaD+JFD/y9G7NjTLlx7EiUYU0CwSN9t2CQKyx9YA0pRVD258y7t2ImmPEfhdte1oN5P6N/aO5mm/JkwA==;RJm5//k/Y5lKn4vnoIoHew=="
+secured: "tgs3iFnePEdoX+sU/tGFW8Z4/BubLIAbH1NNHZF6gVNAVHBw06cfZjn4j9gpSoxjLflIh59RLSepefytFSiBqCFGqtWyPRHGlNPWXL5ccdQqO4/9LG/jJiZ2qorT4FLOgC5e9hMwo2Ec6UXw7UtZPfUEdsOIH6MDIuL616DOHvI9sJEuOWxdBxHrBdKzu6f2f5kJSew0/oleMjlw+aT8MsymSzvZqfvzm3XQZ9Xg+HSLUIdGU7dUvjx8Zx6lnJBs+RvJSEYeVYvTCtrupY/y7vXHMEKwq84p0PCK/q4yNbSo+TxGN2mPPCZyeymW8y3wAQ0KzonkbNGxarPy2Sz/ZQ==;zFhyeOpMYx/xNtvfBSeaxw=="
 ---
 

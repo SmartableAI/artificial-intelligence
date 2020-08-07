@@ -36,7 +36,7 @@ related:
     provider:
       name: RT
       domain: rt.com
-    quality: 11
+    quality: 13
 
 secured: "8uiQ/Q0Pr5ORlZAWhhMuYXHurB6+EkQ8BJqAGljpUEVDryXO7iOhL/wWIle0hveDoKBb2w+4/muMaePgbp7yquIwqp0owJyfZWcFOMeNEShnonFNMF9cr+Oz4Mw3TQWaLQizpePe9qavYy8OxEvjH2RMeivZGZ1a40exZzUWWL6ArXtAwwbOgQGQXgfKZbvltgE6WH96nHOID9tUfF35Cbw6rhwntc+f4gDCwCTosQH7/F96uhcuAfkVYPhN2yoF6yCOosDzkLgQ4g2Y+39ma1rsJGNnoSUKVqByCYNHblzxb2n5xxPScDaAOqyy/4sL5ZFNaKConUU5xzThyUd4ACBaUTF8qpdL26aZvskpBZrZFP5+Z7gDPhNups1Cjq89a4OUIBfr9spemU8ogyC2ybivUsTKA3Z3f1+M6Cnf6WHGq9cdPZJyUqDwCcAT9Oe4uWHB2EAUPOPluTIISKrOdn5N0wzFICLu4vnYAcTVsAQn0pPnP04lJUw6UwvsmYV/44ndc4Yfwa2pBIUO70zX3A==;fP5N6UsozKAI5BN5rIaChw=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Adam: a method for stochastic optimization. Preprint at https://arxiv.
 publishedDateTime: 2020-08-07T09:32:00Z
 webUrl: "https://www.nature.com/articles/s41467-020-17591-w"
 type: article
-quality: 4
-heat: 4
+quality: 6
+heat: 6
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-17591-w/MediaObjects/41467_2020_17591_Fig1_HTML.png"
@@ -23,6 +24,6 @@ images:
     height: 685
     isCached: true
 
-secured: "9oueXL6xNgZbTBMmYTdkZhiB9/ANavxoptC/WMOe6D78fqUSuplriX4DuITlJFsCTxlNv7d/HZhnzr3cahdxYZ3NqgfmJKg6+MxXz+p/GMeP9hm3ysLxx9S1sZ5YFtH8su+3oWlbe5ZlwxPkBADJROCUo+zUtaDMq/pMn8FlgOnC0sP7nqPo8q8xPzKlEZbXU+0ixI674PolwpUSCqi2htULeosnF6crNMaGbi1LB9VxoGX1A8UuMEoD6jFI+5TGjd1q43KxSF85u+F8Url4RmpNBpHk7vmJAhc9v+QcgGXatPJT/WmvqOx0oE56POxkIThnDbFc2PokbwdpM+eksQ==;wiIw2DiVUBRVFw9kFf4S6A=="
+secured: "pJiPv6W1HEOkXyvJ51xLT7MWHsy+MmSfWHxMQH/dzOhX/xrRsLagGM3xjMoJXsYlpkLCktMATzN8XgGzL8txhfy4dLDg89Tjcv+V8SWXn3GWDkHD5rNg7RxzBh2CRClGa9jT0UMxQbU/57GhNA38IKkt2s3IGKsOZBwm4VkfIRgVaZzV4rP34+7g1+bgY76A3mczAWTwxdH59nSi17Z8Dlo8dxEIuY93mmhxtAtcLX1jd3K5Xv6kQC4vOrdHl6zcbAWV6Gyfkqoxge1jP2hJIeTMAZSK+Eo/48pN/C5z2JBpadSVxaclKpzJFviL9PQV4urkRcD4xBHG3i6Rwzu+2AUXxWamZdVFrLD07BGqNAKgEaTWQnOSDFWj/ZWhk70PSGSL6B5JXFMPKVA4lyoYs1YDP2pLIgkQw/bfWODjFngBRgiJloNVDPoQsSXEebhpyQtR7KAl1RDg/JEsBjSUtQy7L8D6ADXdDjd2N+H9s7MTWt/V1INOfsEdx2IQ2y0g;A1aPeEgxicsXKpQBo7qRpg=="
 ---
 
