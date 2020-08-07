@@ -40,22 +40,6 @@ related:
         width: 680
         height: 380
         isCached: true
-  - title: "Richland, Columbia police use facial recognition, social media in protest tied arrests"
-    excerpt: "Richland County police are using facial recognition technology and combing social media to arrest people tied to the violence and unrest that followed peaceful protests in late May. The Richland County Sheriff’s Department and Columbia Police Department have charged more than 80 people with crimes,"
-    publishedDateTime: 2020-08-02T08:00:00Z
-    webUrl: "https://www.thestate.com/news/local/crime/article244433082.html"
-    ampWebUrl: "https://amp.thestate.com/news/local/crime/article244433082.html"
-    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/local/crime/article244433082.html"
-    type: article
-    provider:
-      name: The State
-      domain: thestate.com
-    quality: 51
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/b2f6b743-bdab-4ae0-b327-c07aa21ac2dd/37d6c47f-814c-4065-8500-505a5504d3c8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Byo firm/Chinese company introduce new face recognition, scan system to fight Covid-19"
     excerpt: "Pamenus Tuso, Business Correspondent A BULAWAYO based company Brains at Work Consulting (Private) Limited has entered into a partnership with a Chinese company, Clou Global Technology, to solely to distribute the Chinese firm‘s face recognition system integrated with temperature scan."
     publishedDateTime: 2020-08-03T11:05:00Z

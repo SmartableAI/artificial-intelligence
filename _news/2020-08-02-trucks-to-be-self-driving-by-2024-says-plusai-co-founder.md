@@ -8,7 +8,7 @@ ampWebUrl: "https://cheddar.com/media/trucks-to-be-self-driving-by-says-plus-ai-
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/trucks-to-be-self-driving-by-says-plus-ai-co-founder.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 674
     isCached: true
-
-related:
-  - title: "Are We Driving Too Fast Toward a Self-Driving Future?"
-    excerpt: "A just-released study by AAA indicates that partial self-driving technologies found in mass-market vehicles today could be less effective in real-world scenarios than on a closed test track."
-    publishedDateTime: 2020-08-06T04:18:00Z
-    webUrl: "https://www.cars.com/articles/are-we-driving-too-fast-toward-a-self-driving-future-425010/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 24
-    images:
-      - url: "https://images.cars.com/cldstatic/wp-content/uploads/Collision_Mitigation_Braking_System.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "wahJTfj/AlerCpjT3ZV2SGcQKlKRPDhVs/H40Ifa+Y6Kp6QeO17py1AEwCDwBg/pqeGU4GRadmv/RcDE5bnVZuIU49Ok4nm0SdLZReAHXWaWQt16QRfWmRNCOcioNfEN1HHoRdcNPgqnzC3ICbTYKVaW8gehu3HJZSsx72m+SbZPybkogpqEE9v+ws+X9aB9jgs2aKp1wBWOZ4QJo54w77IZ12iQ3lUEFrhEyWqAYCPcZMPLE1tUZ0OvyWCzMFSc4HRG5SwoEt2sfRISZn0bM01qK/uvTQlJXEUFp5havERt2BXHsH8tAOfGrarpcR2ErD8Ej0FcwYdko/1t5N/oOg==;LAVgR1qjKN0t1AA0n34N0g=="
 ---

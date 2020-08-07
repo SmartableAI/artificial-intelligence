@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-07-csiro-using-artificial-intelligence-to-map-17m-australian-grain-paddocks.md",
+      "title": "CSIRO using artificial intelligence to map 1.7m Australian grain paddocks",
+      "excerpt": "It developed ePaddocks for the agriculture sector to better understand the boundaries of grain paddocks across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/07/ce1a2d41-b2cf-4532-b208-75d0b6ba0c14/0000102-epaddocks-australian-paddock-boundaries-550.jpg",
+          "width": 550,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
+      "publishedDateTime": "2020-08-06T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-ecobank-group-announces-the-2020-fintech-challenge-finalists.md",
       "title": "Ecobank Group announces the 2020 Fintech Challenge Finalists",
       "excerpt": "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products.",
@@ -636,6 +685,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-06-russian-company-yandex-sets-up-self-driving-car-testing-in-ann-arbor-michigan.md",
+      "title": "Russian company Yandex sets up self-driving car testing in Ann Arbor, Michigan",
+      "excerpt": "In fact, the company released a video of one of its self-driving test Priuses driving around Ann Arbor for an hour with no human intervention (that we can see) and no human in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/yandex-russia-self-driving-car-testing-michigan/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/UQHd_pKemBXd_8tljLagLCPNyoU=/2020/01/10/1878da6b-0a3e-45eb-ab10-ecd471a78ff0/yandex-1.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/yandex-russia-self-driving-car-testing-michigan/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/yandex-russia-self-driving-car-testing-michigan/",
+      "publishedDateTime": "2020-08-06T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-why-elon-musk-is-wrong-about-level-5-self-driving-cars.md",
       "title": "Why Elon Musk is wrong about Level 5 self-driving cars",
       "excerpt": "I’m extremely confident that level 5 [self-driving cars] or essentially complete autonomy will happen, and I think it will happen very quickly,” Tesla CEO Elon Musk said in a video message to the World Artificial Intelligence Conference in Shanghai earlier this month.",
@@ -792,7 +891,7 @@
       "webUrl": "https://thenextweb.com/shift/2020/08/06/a-closer-look-at-ohios-self-driving-shuttle-bus-trial-thats-now-a-food-delivery-service-syndication/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1113,97 +1212,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-improving-online-learning-with-artificial-intelligence.md",
-      "title": "Improving Online Learning with Artificial Intelligence",
-      "excerpt": "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp",
-      "publishedDateTime": "2020-08-05T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-worlds-first-ai-generated-arts-festival-program-opens-this-friday.md",
-      "title": "‘World’s first’ AI-generated arts festival program opens this Friday",
-      "excerpt": "The Edinburgh Fringe is the world’s largest performing arts festival, but this year’s event has sadly been canceled due to COVID-19. Fortunately, art junkies can still get the",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T171319.315-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
-      "publishedDateTime": "2020-08-05T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

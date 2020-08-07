@@ -14,6 +14,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "rFyC3y4iwJSEiMUZPsW4h8OsHTA8JzW5ZI1WFUHRnxsWvo/QlAlZr6D13py4Em2YVkEh3arCBrFxk2ITcwh5oQ5EwcqE6JQEuAuE5Zh4es4fjboaoSm1Tx/91ctpWJyL8ikKLC1QKj+ty034EObLOsXAbL6QtSHmyG6I8xXmqkVtgTW/U9JdjXUF7CO3O1Ysh+SvMPkcI7OVRxHvf8dE9H2XB7EUECnZWWV4TCIR/oVm+GsG/O7Mfr4x7S40dub3smguVMQjr1ZQY/bCX5WI9T7mbL498qNsiv6Pjgt9fblaRHnZdT9RbExG6hSvLJ4l8knw5UZTCgdY+IjApq4kcQ==;+YzISC3rUiPfMq47Su35Nw=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "kxW80LSt4KeK058u4lIC2TgYXX/MeYdm+blPFiWwgF1x+d+0jUrVzLN1UwvyHZJIPJwyH8QkEGiUm/oXgW0eEE4oRaj+Ex/1rGUYJbmcv1mPAOGrWpd2RnGfA+hFvdaC1uICd+R4x7a+NokWVbUlBD1RbiH3DPGghlDq3JhDTQBvwxU3MhfK5kUbGZ200YOBjjYwksMgznvEZEJO4YMQpKkgmVlAq0/qNwWC+daYCWbq92w1HIGqBUwh9u/KxXOG6RMNaeLBxIh06AxkpBKUo7E1xMygf9yscANWfxYDwLeuPVv2G8S6uX1FxnqhRWDUK3NUHolDaNhHGk1vGnSdLg==;tOVtG/EafWptCC500pzm0w=="
 ---
 

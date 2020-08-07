@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-05-improving-online-learning-with-artificial-intelligence.md",
+      "title": "Improving Online Learning with Artificial Intelligence",
+      "excerpt": "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp",
+      "publishedDateTime": "2020-08-05T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-worlds-first-ai-generated-arts-festival-program-opens-this-friday.md",
+      "title": "‘World’s first’ AI-generated arts festival program opens this Friday",
+      "excerpt": "The Edinburgh Fringe is the world’s largest performing arts festival, but this year’s event has sadly been canceled due to COVID-19. Fortunately, art junkies can still get the",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T171319.315-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
+      "publishedDateTime": "2020-08-05T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-training-knowledge-graph-embeddings-at-scale-with-the-deep-graph-library.md",
       "title": "Training knowledge graph embeddings at scale with the Deep Graph Library",
       "excerpt": "We’re extremely excited to share the Deep Graph Knowledge Embedding Library (DGL-KE), a knowledge graph (KG) embeddings library built on top of the Deep Graph Library (DGL). DGL is an easy-to-use, high-performance, scalable Python library for deep learning on graphs. You can now create embeddings for",
@@ -157,7 +248,7 @@
       "webUrl": "https://www.zdnet.com/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -768,7 +859,7 @@
       "webUrl": "https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 170,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1077,106 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-federal-bill-would-ban-corporate-facial-recognition-without-consent.md",
-      "title": "Federal bill would ban corporate facial recognition without consent",
-      "excerpt": "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-silhouette-getty-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
-      "publishedDateTime": "2020-08-04T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models.md",
-      "title": "The problem of underrepresented languages snowballs from data sets to NLP models",
-      "excerpt": "Just how comprehensively do natural language processing (NLP) pipelines support widely spoken languages? A recent study coauthored by researchers at Clarkson University and Iona College sought to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
-      "publishedDateTime": "2020-08-04T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

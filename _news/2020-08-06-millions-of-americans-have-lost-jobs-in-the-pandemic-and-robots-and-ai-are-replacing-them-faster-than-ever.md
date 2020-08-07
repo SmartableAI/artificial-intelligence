@@ -5,8 +5,8 @@ excerpt: "The drive to replace humans with machinery is accelerating as companie
 publishedDateTime: 2020-08-06T11:07:00Z
 webUrl: "https://time.com/5876604/machines-jobs-coronavirus/"
 type: article
-quality: 50
-heat: 50
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://api.time.com/wp-content/uploads/2020/08/machines-jobs-coronavirus-1-lede-socialcrop.jpg?quality&#x3D;85"

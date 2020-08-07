@@ -2,6 +2,106 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-04-federal-bill-would-ban-corporate-facial-recognition-without-consent.md",
+      "title": "Federal bill would ban corporate facial recognition without consent",
+      "excerpt": "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-silhouette-getty-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
+      "publishedDateTime": "2020-08-04T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models.md",
+      "title": "The problem of underrepresented languages snowballs from data sets to NLP models",
+      "excerpt": "Just how comprehensively do natural language processing (NLP) pipelines support widely spoken languages? A recent study coauthored by researchers at Clarkson University and Iona College sought to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/the-problem-of-underrepresented-languages-snowballs-from-data-sets-to-nlp-models/amp/",
+      "publishedDateTime": "2020-08-04T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-the-survivor-last-korean-war-criminal-in-japan-wants-recognition.md",
       "title": "The survivor: last Korean war criminal in Japan wants recognition",
       "excerpt": "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo.",
@@ -237,6 +337,56 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars.md",
+      "title": "AI Needs To Gain Famed MacGyver Shrewdness, Including For AI Self-Driving Cars",
+      "excerpt": "MacGyver solved it again! Who or what is a MacGyver, you might wonder? Well, most people have heard of MacGyver, the TV series and main character that manages to always find a clever means to extricate himself from some puzzling predicament,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e71688237d0440006bcc12d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D4000",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-04T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1017,138 +1167,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-chinese-artificial-intelligence-company-files-14-billion-lawsuit-against-apple.md",
-      "title": "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple",
-      "excerpt": "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MC",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24Z146",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z146",
-      "publishedDateTime": "2020-08-03T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system.md",
-      "title": "Bulawayo and Chinese firm partner to introduce facial recognition scan system",
-      "excerpt": "Limited has entered into a partnership with a Chinese company, Clou Global Technology, to solely distribute the latter’s facial recognition system integrated with temperature scan. The innovative Chinese-made product is already being sold in China,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2020/08/Mr-Witker-Tholana-680x380.jpg",
-          "width": 680,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/",
-      "cdnAmpWebUrl": "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/",
-      "publishedDateTime": "2020-08-03T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chronicle",
-        "domain": "chronicle.co.zw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-artificial-intelligence-researchers-release-theaitre-play-written-entirely-by-machines.md",
-      "title": "Artificial intelligence: Researchers release 'theAItre' play written entirely by machines",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts are working on a cutting-edge research project merging machine learning with theatre.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/AI-1318237.jpg?r=1596490343190",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "publishedDateTime": "2020-08-03T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

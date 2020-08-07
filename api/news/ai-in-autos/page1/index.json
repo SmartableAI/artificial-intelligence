@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-06-russian-company-yandex-sets-up-self-driving-car-testing-in-ann-arbor-michigan.md",
+      "title": "Russian company Yandex sets up self-driving car testing in Ann Arbor, Michigan",
+      "excerpt": "In fact, the company released a video of one of its self-driving test Priuses driving around Ann Arbor for an hour with no human intervention (that we can see) and no human in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/yandex-russia-self-driving-car-testing-michigan/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/UQHd_pKemBXd_8tljLagLCPNyoU=/2020/01/10/1878da6b-0a3e-45eb-ab10-ecd471a78ff0/yandex-1.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/yandex-russia-self-driving-car-testing-michigan/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/yandex-russia-self-driving-car-testing-michigan/",
+      "publishedDateTime": "2020-08-06T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-why-elon-musk-is-wrong-about-level-5-self-driving-cars.md",
       "title": "Why Elon Musk is wrong about Level 5 self-driving cars",
       "excerpt": "I’m extremely confident that level 5 [self-driving cars] or essentially complete autonomy will happen, and I think it will happen very quickly,” Tesla CEO Elon Musk said in a video message to the World Artificial Intelligence Conference in Shanghai earlier this month.",
@@ -59,7 +109,7 @@
       "webUrl": "https://thenextweb.com/shift/2020/08/06/a-closer-look-at-ohios-self-driving-shuttle-bus-trial-thats-now-a-food-delivery-service-syndication/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -109,7 +159,7 @@
       "webUrl": "https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 170,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -130,6 +180,56 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars.md",
+      "title": "AI Needs To Gain Famed MacGyver Shrewdness, Including For AI Self-Driving Cars",
+      "excerpt": "MacGyver solved it again! Who or what is a MacGyver, you might wonder? Well, most people have heard of MacGyver, the TV series and main character that manages to always find a clever means to extricate himself from some puzzling predicament,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e71688237d0440006bcc12d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D4000",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-08-04T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -404,49 +504,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-nvida-ai-robotics-and-self-driving-cars.md",
-      "title": "NVIDA: AI, Robotics and Self-Driving Cars",
-      "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg",
-          "width": 555,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyShow.com",
-        "domain": "moneyshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     },
     {
@@ -1307,56 +1364,6 @@
         "name": "Business Insider India",
         "domain": "businessinsider.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts.md",
-      "title": "Aurora expands to Texas in bid to ramp up self-driving truck efforts",
-      "excerpt": "Aurora, the autonomous vehicle technology startup backed by Amazon, is expanding into Texas as it aims to accelerate the development self-driving trucks. The company said it plans to test commercial routes in the Dallas-Fort Worth Area with a mix of Fiat Chrysler Pacifica minivans and Class 8",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-10.23.22-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/",
-      "publishedDateTime": "2020-07-20T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

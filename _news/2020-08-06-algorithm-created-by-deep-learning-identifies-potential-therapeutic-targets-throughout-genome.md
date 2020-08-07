@@ -25,18 +25,20 @@ images:
 
 related:
   - title: "Algorithm created by deep learning finds potential therapeutic targets throughout genome"
-    excerpt: "A team of researchers have developed an algorithm through machine learning that helps predict sites of DNA methylation - a process that can change the activity of DNA without changing its overall structure - and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
-    publishedDateTime: 2020-08-06T15:34:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/chop-acb080620.php"
+    excerpt: "A team of researchers from New Jersey Institute of Technology (NJIT) and Children's Hospital of Philadelphia (CHOP) have developed an algorithm through machine learning that helps predict sites of DNA methylation—a process that can change the activity of DNA without changing its overall structure—and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
+    publishedDateTime: 2020-08-06T16:08:00Z
+    webUrl: "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.html"
+    ampWebUrl: "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
+      name: Phys.org
+      domain: phys.org
+    quality: 50
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/1-genome.jpg"
+        width: 960
+        height: 1920
         isCached: true
 
 secured: "XkPihW5kJpPiIBCtp+mEEM/GxAj9TiXzw4PZv7lKY5PTNOId8o+HHQ72xeaGgOXpUC2sSkSrRht+Gbo3vJdP0qYqq6xMoPobmsW+QfzfqEXGTCwOM58HDh1pTzrd8QofOsxurGaZ/nHbuXVQT4rGhAnCVpS0ERnqgpf2gyjrGoQhq0E0gcM2lm0Pvkhn20xGrKlu5uQq/5QCRB9yX/UHapcqX8mJHOIUqvGUZjoxpKDyXnf1lHMBMBAzsIj1PWqC6cO2DPUBVUjl/bU1jm4jWDKgYGdx7CafnC8XVJGhCXBlnYxq5hNe/7jiw/q9c7JE1VVlULpz0h1kujN4oi7d4w==;AHQS9iyOx+aZdaMwvT9Q6A=="

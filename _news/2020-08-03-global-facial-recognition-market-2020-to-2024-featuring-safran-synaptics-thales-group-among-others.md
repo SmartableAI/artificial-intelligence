@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16910911"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16910911"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,36 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Emotion Detection and Recognition Market to Witness Promising Growth Opportunities During 2020-2028"
+    excerpt: "This detailed market report focuses on data from different primary and secondary sources, and is analyzed using various tools. It helps to gain insights into the market’s growth potential, which can help investors identify scope and opportunities."
+    publishedDateTime: 2020-08-07T01:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-to-witness-promising-growth-opportunities-during-2020-2028-2020-08-06?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Automotive Recognition System Market 2020 Industry Growth Analysis by Key Players, Segments, Competitive Landscape and Forecast to 2025"
+    excerpt: "The latest report titled Global Automotive Recognition System Market 2020 by Company, Type and Application, Forecast to 2025 provides various levels of analysis such as industry analysis (industry trends),"
+    publishedDateTime: 2020-08-02T20:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-growth-analysis-by-key-players-segments-competitive-landscape-and-forecast-to-2025-2020-08-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sQVFTrgqN87B/VQHfUNzeu0frGo3Eje9xjamer7Bbe1zkFoU/TV/dQalkAO5smbTDfXmlhpITYuedN1tQWVQVSOQm0kTcZY+0VVCDXvsI1O0CqTb1tt2Mplscbo2k3Va4OuGQSC57rIW1s5oPF33ugecSpYliHUdW0oOIZS0qKFjWcvRuLHAQZl5eJgL/5kPRHFD7RDjUq7oyby8KNY5/Nd7miEbtCYqCrgYhZnDo61X1slW0XTk/0d/NScIks1098nxc6FmNH7zPOYeXm424BTG4Iu8DWRMVzV0eLjLk9P/6lgMGsm4DmTKZSxVo5ugoLbM56fPWEpxyVQdJt+OQLSNKB5scGbh47EphGFLVR97OIC4h5elgztbpsoGetHmRr6OITJdlOoUuKIVlQPV4s8mnIX8IC3Q1lUlM/ainYww7kOGwM3Ichy27iyCTTyxN44Nh/7uU15HaBwlTkmGS1o5udcDl/NKYkIm4ErogExLWgLjyItC5R1OaM5e1pGJU3NmYW+fpJVw2HKv2I6lWw==;uqs1qWUmli1tVN4UE0qphQ=="
 ---
