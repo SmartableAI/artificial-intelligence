@@ -1,28 +1,26 @@
 ---
 category: news
 title: "'Deepfakes' ranked as most serious AI crime threat"
-excerpt: "Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence ... These are using driverless vehicles as weapons, crafting more ..."
-publishedDateTime: 2020-08-04T12:31:00Z
-webUrl: "https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
-ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
-cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
+excerpt: "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report."
+publishedDateTime: 2020-08-04T02:44:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php"
 type: article
-quality: 59
-heat: 89
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: India TV
-  domain: indiatvnews.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/ai-1596543975.jpg"
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
     width: 1200
-    height: 676
+    height: 675
     isCached: true
 
 related:
@@ -68,6 +66,6 @@ related:
       domain: techshout.com
     quality: 19
 
-secured: "XXMcMBumaeSnXN2K0FkQYf0ohzYmMtDgkauDysSZknBe/XtexzIYCXOMgCJqt0I5/IzCMEBqDk4jEELHXErplQ2gp0HQlTbYvzr20kKVZeb/3vAixajQJrYtTYn7mgZV6xWJ+zmpk/CL6BI3QuCKzGqSfmXUQcM9pxk8emPeHJ8u9HMffwZTV6/n78KdvHmbu8N+KX+JcOKfcNs/b4N+X6LofRRozsOhEib3UM51O8oXQ/eUyYNWU2D3OiZXkiaBSI5EPdxW2/zhCZy9rryZ4xGa9AEQe7rHjiAEveY068n/db8iJkfTD9ReTEYbpmQhycN5PQmiKtBZuSZfOUzQpA==;wbd7JXSDbZGbOYZYz9jDaw=="
+secured: "i4XDKwTZTlY6fNihjK5EZ6b1CV5YDQ+emQJCxAtC5hMveARmifIPjSoOnpCH4naF4QO+rFIRrsTK+/EBsbPBAxfydn8Mj6r0FNod0Vl8pnym2tCyHNsAtOHbIP0OzuxP7v1jCm30FiCiqjgDjbNywicRtHbYIYXvyMYF7SjYHocpvNcVjYQFN7mheHjI5hVON/4SNFRDbquxFH8m2pz2zMJyzv+cDh99saBBqtUAbjJxJlOD/L7FTY6lV5+Rr+6Y8hEBa+U6xsIfKAG2q6jwc4I/uSyoToWRKwIt16pEg2z3fYuz1KH74abV6osW9VfYMwmn2yWa5ozZ0XOiduFY9w==;6xf5Zw+yu/iQgPqCobzNkA=="
 ---
 

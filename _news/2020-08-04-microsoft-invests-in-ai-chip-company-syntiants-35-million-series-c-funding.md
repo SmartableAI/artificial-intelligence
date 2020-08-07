@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Syntiant announces $35M funding for edge AI chips after shipping 1M units"
+    excerpt: "Syntiant Corp., the maker of small, energy efficient voice and sensor chips, has completed a $35 million C series investment round. On the same day executives announced the private placement, they"
+    publishedDateTime: 2020-08-07T18:53:00Z
+    webUrl: "https://www.biometricupdate.com/202008/syntiant-announces-35m-funding-for-edge-ai-chips-after-shipping-1m-units"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 53
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/07142616/Syntiant-Corp-NDP100-microwatt-chip.png"
+        width: 876
+        height: 533
+        isCached: true
   - title: "Syntiant Finds $35M More For AI Chips"
     excerpt: "Irvine-based Syntiant, a developer of processors used for artificial intelligence applications, has raised $35M more in the company's Series C funding round. The round was led M12, the venture capital investment arm of Microsoft,"
     publishedDateTime: 2020-08-04T17:58:00Z

@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Using supercomputers and artificial intelligence to fight COVID-19 at UW Bothell"
-    excerpt: "A new program called “DeepTracer” developed by a team of University of Washington scientists uses artificial intelligence to model the atomic structure of COVID-19."
-    publishedDateTime: 2020-08-05T23:15:00Z
-    webUrl: "https://www.kiro7.com/news/local/using-supercomputers-artificial-intelligence-fight-covid-19-uw-bothell/LMGJG47IXZCLNEGU42FYSSAKHA/"
-    type: article
-    provider:
-      name: KIRO-TV
-      domain: kiro7.com
-    quality: 32
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/BB45WIO4ZBBTFOSFPZIEYBSXEQ.jpg"
-        width: 850
-        height: 480
-        isCached: true
 
 secured: "5fBOs7muAdyhJWhPPvqpU3E6swZmMPEpG37NuyrJeomxOarnuY1MJ78NLmCiNOvkRN8LvDwH4pdPrStJ+I2P0uu6/9cU3mKtgIxxgmN+R++cz7eEMGe+TCFfReNbvNHiVkNVfS6Bu88FyKSfFvBfS69etgW2kZUHx59Mfgo0NsPtlcXGjwvxWf6zHzRLyPkRVogSBWOxDyUh886lBc1RRhpEA20I8LlQZ5N7rxycPscdRJTlkl+U6PnHRKGq4pvcOcJiYdOjDYBQxI86HWBt1r2R8l192RC0FjIS2njXUu4MN9xam8kzYt7JAHxgHPQ0mSPS6pqdFsodJsGAY3r/tg==;w7ooYEBUlegmRN5PSKNPQg=="
 ---

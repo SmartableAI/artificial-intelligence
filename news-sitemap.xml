@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/</loc>
+    <lastmod>2020-08-07T12:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/</loc>
+    <lastmod>2020-08-07T11:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/</loc>
     <lastmod>2020-08-07T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -349,6 +361,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.freepressjournal.in/tech/deepfakes-ranked-as-the-most-serious-ai-crime-threat</loc>
+    <lastmod>2020-08-04T14:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.neowin.net/news/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate</loc>
     <lastmod>2020-08-04T14:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -465,12 +483,6 @@
   <url>
     <loc>https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/</loc>
     <lastmod>2020-08-04T05:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528</loc>
-    <lastmod>2020-08-04T05:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1477,7 +1489,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/cognitiveworld/2020/07/28/the-us-department-of-energy-is-a-surprising-powerhouse-in-ai-an-interview-with-cheryl-ingstad-director-ai-and-technology-office-at-us-department-of-energy-doe/</loc>
+    <loc>https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/</loc>
     <lastmod>2020-07-28T08:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1591,7 +1603,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/</loc>
+    <loc>https://www.moneyshow.com/articles/dailyguru-54699/</loc>
     <lastmod>2020-07-28T02:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1783,12 +1795,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html</loc>
-    <lastmod>2020-07-27T05:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275</loc>
     <lastmod>2020-07-27T05:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1797,6 +1803,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
     <lastmod>2020-07-27T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html</loc>
+    <lastmod>2020-07-27T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1945,7 +1957,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25?mod=mw_quote_news</loc>
     <lastmod>2020-07-25T07:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1957,8 +1969,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative</loc>
-    <lastmod>2020-07-25T04:59:00-07:00</lastmod>
+    <loc>https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative.html</loc>
+    <lastmod>2020-07-25T04:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
