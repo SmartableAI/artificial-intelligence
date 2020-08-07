@@ -38,15 +38,6 @@ related:
         width: 1483
         height: 1484
         isCached: true
-  - title: "Teradata is Selected by Brinker International to Enhance Advanced Analytics, Machine Learning and Data Science Capabilities"
-    excerpt: "Teradata announced that after an evaluation of other cloud analytics offerings on the market, Brinker International has reinvested in Teradata."
-    publishedDateTime: 2020-08-02T09:24:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200722005224/en/Teradata-Selected-Brinker-International-Enhance-Advanced-Analytics"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "62ALTEm35yN/BxjhdpGYiRRQSF21+9XJHlNSz3v56eCyxUHtoNxWbMnvRWwlcFHPC6pwiAtkC7lczKPSM6054OdMEPv8YtQSKLf0+Bx29onsIMSTT1iBiMd9P2mdEjgXNgRejhYZEHRKoqV2wr9zu1o+zTs5fbcnKNdyeEnrYz4hfF9YgMkzMBXFkFFwjGLolpPZbcGMevyTFpsDoXiASnx4ZVWwykSm2WgWyEqtITx4LyKF7M1TDW0ZucDprsV7lLUV2fIef69Itqu0PuE38NL1Md13jFwND7TQAb/qt6QcbzhduXH8kOISi1OzFBROzoFHjhOiq7TQasB0eVr20A==;r2tnZ4JhIbU0YAljHri+Fw=="
 ---

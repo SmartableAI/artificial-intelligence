@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-04T17:48:00Z
 webUrl: "https://www.finextra.com/newsarticle/36335/machine-learning-foe-and-friend-for-market-surveillance"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,54 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "DEEP LEARNING MARKET SIZE"
+    excerpt: "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com"
+    publishedDateTime: 2020-08-06T12:55:00Z
+    webUrl: "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/8/T806326785_g.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Young Galaxy Spotted Using Machine Learning May Be A Last-Generation Galaxy"
+    excerpt: "For a new study, an international team of researchers developed a new machine learning method to comb through data from the Subaru Telescope. The team was searching for young, extremely metal-poor galaxies. But since the wide-field data from Subaru could ..."
+    publishedDateTime: 2020-08-04T04:33:00Z
+    webUrl: "https://www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873"
+    ampWebUrl: "https://www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/03/galaxy-hsc-j16314426.jpg"
+        width: 1000
+        height: 558
+        isCached: true
+  - title: "Designing Learning to Prioritize Student Voices"
+    excerpt: "It is not that project criteria should be forgotten, but rather that we should design learning to provide students with choices as well as generative opportunities and possibilities. It is not enough to expose students to information; deep learning happens ..."
+    publishedDateTime: 2020-08-05T08:23:00Z
+    webUrl: "https://www.kqed.org/mindshift/56401/designing-learning-to-prioritize-student-voices"
+    type: article
+    provider:
+      name: KQED
+      domain: kqed.org
+    quality: 24
+    images:
+      - url: "https://ww2.kqed.org/app/uploads/sites/23/2020/08/iStock-1182986455-1020x721.png"
+        width: 1020
+        height: 721
+        isCached: true
 
 secured: "r4uPS5CVC5tvgyPmKuMhtkHt/niIRlyYIDA2M8H1knedvBIe0P11LPfH/6WWWJSuGUv4c2QdshKxwIdoxchOJKxCOIbmDWFgym3pi+BdvpU2Bg9syKzjrOUqGAnBcAL7dc70HxyHIDVr3xr5kpzm1HBZrfCOS78SvCLOoSRjKJHW1DmP3qfEWIbPdZpPfhECksc8EO+z+UjKk15SztxfXEcR/eC0pbpGxaiF1oAbRzGrB5OvE+9sH6nPkr5wBbYOWLKBFyuHTlVJBxk6pjDX+98DccAmY1PetfgoVK5bi/d49deuVgV9pHtPT32A9YLpu8Sd/gvZQpqp5qnINi5N0PI1+/XFKye5I66EM2vI0wL04/YtdiINUAHg7pafXD9GudQfWY5N9VtEg6pDc6nMaK1oeIZ3gGcgcUgnHIw9OR939pKfzAbHUtaMI4lhIj4QXqv+1ymHo0CFsN2pXvZFMEdY3YJDpye3mtvJyudILys7hNE9cDj4yMzckDKW/KUrHBFJhh5X/i7764fCOvGoBg==;NzOR9yg5+atnOglVKmGCjg=="
 ---

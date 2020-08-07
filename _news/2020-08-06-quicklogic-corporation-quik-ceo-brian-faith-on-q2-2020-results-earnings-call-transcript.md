@@ -17,6 +17,17 @@ topics:
   - Google AI
   - AI
 
+related:
+  - title: "Teradata Corporation (TDC) CEO Steve McMillan on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "Q2 2020 Earnings Conference Call August 6, 2020 5:00 P.M. ET Company Participants Nabil Elsheshai - Senior Vice President, Corporate Development and Investor Relations Steve McMillan - President and Chief Executive Officer Mark Culhane - Chief Financial Officer Conference Call Participants Katy Huberty - Morgan Stanley Presentation Operator Good afternoon."
+    publishedDateTime: 2020-08-07T03:29:00Z
+    webUrl: "https://seekingalpha.com/article/4365573-teradata-corporation-tdc-ceo-steve-mcmillan-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
+
 secured: "tEnNki2lkfXeNv75u3EvxcEpE/Jmq//pKZ/itOhQHq/bMmmmHcSOg6VLyhu52NMfdKew+JihFumFIt6UMc1kYr+f4K6D1TLNhJk/do2DfnOH+NtYCTrDhTfDoC2DuwXTqxSUYMDN3NGRxS6Je3hmOH8D3U1j89mg3iMKQvhXZFCWKBIyU8ww0H22DKXi55lGqKK/P4vlf932iopHrcHxs24WQ7CHqjBy2nvSnkBHulZ2UZpaNjrj3lO4WJe6bUokzg3uJIHeFeCH/K0DXcbeW+YBKoDletbIl9pEPj6qproj5jotMAj2K2QFU5CDFh1OGryyLL+VWOgUk/juMNsUUA==;tbL6N4AXf9wa/3GZbRt7hg=="
 ---
 

@@ -147,6 +147,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
+    excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison"
+    publishedDateTime: 2020-08-05T01:30:00Z
+    webUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+    ampWebUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 44
+    images:
+      - url: "https://sunbeamwsvn.files.wordpress.com/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18.jpg?quality=60&strip=color&w=1200"
+        width: 1200
+        height: 826
+        isCached: true
   - title: "Ex-Google engineer sentenced to 18 months for stealing self-driving car secrets"
     excerpt: "A former Google executive who stole thousands of documents about its self-driving car project before resigning and going to Uber was sentenced Tuesday to 18 months behind bars."
     publishedDateTime: 2020-08-05T15:11:00Z
@@ -240,20 +256,6 @@ related:
       - url: "https://s.hdnux.com/photos/61/45/21/12997715/17/rawImage.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
-    excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
-    publishedDateTime: 2020-08-05T07:16:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/04/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 24
-    images:
-      - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
-        width: 500
-        height: 344
         isCached: true
   - title: "Are We Driving Too Fast Toward a Self-Driving Future?"
     excerpt: "A just-released study by AAA indicates that partial self-driving technologies found in mass-market vehicles today could be less effective in real-world scenarios than on a closed test track."

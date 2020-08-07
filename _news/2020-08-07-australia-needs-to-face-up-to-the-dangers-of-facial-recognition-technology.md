@@ -1,28 +1,32 @@
 ---
 category: news
-title: "The hack that could make face recognition think someone else is you"
-excerpt: "Face recognition is rapidly proliferating as a way to identify people at airports and in high security scenarios—but it's far from foolproof. Researchers demonstrated on Wednesday that they can fool a modern face recognition system into seeing someone ..."
-publishedDateTime: 2020-08-05T11:11:00Z
-webUrl: "https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/"
-ampWebUrl: "https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/amp/"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/amp/"
+title: "Australia needs to face up to the dangers of facial recognition technology"
+excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
+publishedDateTime: 2020-08-07T02:35:00Z
+webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: MIT Technology Review
-  domain: technologyreview.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://wp.technologyreview.com/wp-content/uploads/2020/08/photo-1531328153895-18add1c7398e-e1596578469130.jpeg?w=1350"
-    width: 1350
-    height: 759
+  - url: "https://i.guim.co.uk/img/media/5693fa938c56cec79d8c86af0ef39b92504ead44/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ce9e57c1c9647162b7e45f919c5b1863"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -117,21 +121,21 @@ related:
         width: 1200
         height: 737
         isCached: true
-  - title: "Australia needs to face up to the dangers of facial recognition technology"
-    excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
-    publishedDateTime: 2020-08-07T02:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+  - title: "The hack that could make face recognition think someone else is you"
+    excerpt: "Face recognition is rapidly proliferating as a way to identify people at airports and in high security scenarios—but it's far from foolproof. Researchers demonstrated on Wednesday that they can fool a modern face recognition system into seeing someone ..."
+    publishedDateTime: 2020-08-05T11:11:00Z
+    webUrl: "https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/"
+    ampWebUrl: "https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://i.guim.co.uk/img/media/5693fa938c56cec79d8c86af0ef39b92504ead44/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ce9e57c1c9647162b7e45f919c5b1863"
-        width: 600
-        height: 360
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/08/photo-1531328153895-18add1c7398e-e1596578469130.jpeg?w=1350"
+        width: 1350
+        height: 759
         isCached: true
   - title: "Bulawayo based firm partners with Chinese company on facial recognition systems"
     excerpt: "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ..."
@@ -384,6 +388,6 @@ related:
       domain: harvard.edu
     quality: 16
 
-secured: "+m0RJn6i8/6WWMpcXsqsXlpbSbswMaQIxK1BCAOEFNsH6vqaZY0vhUoEtUDBrNUCM2FSMS1wd7r67lsSQqUaSZik/u1jn8sKwxOcSHuXEDes06PgtS1jLkBdJbdt2ijidvnT2ObgE1fwsgwsN7zE/9Xdaaa19GAJStxpl3818RFD6YskZlFkwasiDNsrYurqe1+9bgog1VWV3OIt/BWVm1yYcSHQMW0KSth/uknCgYpk58gawAJjzbQW0IquZPsvBoG9isoCdYtUfpzjHlivQ1taO2NcyjfTw/jafV7+ISl7+dvMtoMtVXxbRlDHLAnkes7tSUyhzitswfvOiJteqKkHZ6ZwmCf0yyVNT4aMu7+ym1ODtmloiIuBNc+jHXZAsOkaWJm3OWyWii3p63N5Qxs4AGwi8ZNNoASk+fEAUowr8D6kOG6dzvhFsVAs1Fn6oyRqS7aqkvQNOLcyj3J2pn6I06AEDRkVAcrAnGI5g3Ov4eLefUdsB2ZQMXQH9gCM4I2Gm5t9CHzv8UFsTdZ4Fg==;JPHfgR1oNRvH3KiREhbYSA=="
+secured: "l4NsmSZMCXoBB57JHMoko32e897dyzKbgoX2umCiNORKRkXXPAdWSNBsDi+jgpm+BjUDHf+eHyi0cXXOhM+j7BpV4jaonOdw/oXnBYKSSWNsvhDi+NwLvaEBTUS/4TlcCkww3kVf5dnHhIqQ5Mb40UiDg7jzaIPlAAL6qtvZf7RB21nW5kwsPyLiQep8qdd4+OXJKLY+xSEK+fWEe/sKdom7DXHOpUbrqYnFMJoOkc+NXM0nRyB9wI07y9KZRseZlNFSflaF5kWlqwyV5jyu0YIlW4Ww0laku3VCi0RbazAn2TVRRqAEErHuzCV+/uCR+dWfk+rwgcSOPHX/FXcMzw==;N5IwPE2PalTtpwz1xr2xBQ=="
 ---
 

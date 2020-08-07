@@ -3,10 +3,10 @@ category: news
 title: "The Right Way of Tracing AWS Lambda Functions"
 excerpt: "With an emphasis on distributed tracing, this article discusses best practices for gaining and leveraging observability into AWS Lambda functions."
 publishedDateTime: 2020-08-06T12:08:00Z
-webUrl: "https://www.infoq.com/articles/tracing-aws-lambda-functions"
+webUrl: "https://www.infoq.com/articles/tracing-aws-lambda-functions/"
 type: article
-quality: 19
-heat: 19
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -14,9 +14,15 @@ provider:
   domain: infoq.com
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
 
-secured: "gvUcQdOkgSmWDwK4QVgJ07dABfYUpj6hZfwIjT3XF98GU6YEv1BZlemRqq4uTQ3bimkY+cSQ9EBc3GSPg+oMJogBLVgsT3E5PSy4FctJRQ8y7A99L+b6HVQY/5Y/8bcPSeKtbYpPSbUAKWPDQVMFz/CBb/sqzIN03lRnbkAHx23clIRmV37q1Az1Sip554Kvh1wkPq/+avy+CdzSpcAzfsouYQv9tQqVqTrmYLop6EJY7dRjuKTbW/VTk1ckQM4jAqGSAjm0k0Cze7Fi+CbPalyQanIZI5FQJThdvafXSBNUfWxNX75pmrjRxL8sk0VunNQl3NiB8wU/XDDiKfUCf672+FDdh3h5Cq/cLWzgXijXLOTL18n/zhZLOYAF0qHoSwJmlOTK7UXj/kfn6HlmcYAaZOtjpw6AVBIBk5VxlcqpNrREj6hrgEy0ZE6OtfRwgnLmJpu4TZpmTBsAmjS67DxH72HEJFzXFvqoIYTKy+33E5KCtReBdpgROBokTTQm;b6U4U+omc4cmlVZU/SYeRA=="
+images:
+  - url: "https://res.infoq.com/articles/tracing-aws-lambda-functions/en/headerimage/croppted-Qs0I94Zo-1596554747059.jpeg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "u2OZB5gwb5x9IaPsTUzHwTRv2ANlxQ9YXoWlUT+vXWdS+bQneKnK0St5q0BsIRK+en2UEC82DYyuA7niY4pwnH1JoQYd7IwIg8vARgRQo00Gsp3Wx3WXCBbAC7nTLPMypfoAIESMXoLRv8lhLJs+X1L9+EJonS1qFZCv4+CduozX/n6r3UraM8sjM9QrLTioAdO28Ce0FgTb8v+GCH4GH8pxzHW7OwYJTdu5aeFqt1K9+mjGvFQdgWZkFeIt66LkXeAYBP9OrCqKj7Uyaso01k+56AUFQQaRSCySdSBGRbG2IY7cqe4mUpcDcjGHLkxXv1E5zBQbVFMq6bhbEUHG3g==;iOpp/GbT9Nveb9ad2kwD9Q=="
 ---
 

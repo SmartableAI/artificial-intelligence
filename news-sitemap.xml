@@ -79,6 +79,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast</loc>
+    <lastmod>2020-08-06T05:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/</loc>
     <lastmod>2020-08-06T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -171,12 +177,6 @@
   <url>
     <loc>https://venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/</loc>
     <lastmod>2020-08-05T09:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.forbes.com/sites/charlestowersclark/2020/08/05/is-facebook-doing-enough-to-stop-racial-bias-in-ai/</loc>
-    <lastmod>2020-08-05T09:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1693,14 +1693,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
-    <lastmod>2020-07-27T05:15:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
-    <lastmod>2020-07-27T05:08:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
+    <lastmod>2020-07-27T05:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

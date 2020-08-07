@@ -1,0 +1,33 @@
+---
+category: news
+title: "Teradata Corporation (TDC) CEO Steve McMillan on Q2 2020 Results - Earnings Call Transcript"
+excerpt: "Q2 2020 Earnings Conference Call August 6, 2020 5:00 P.M. ET Company Participants Nabil Elsheshai - Senior Vice President, Corporate Development and Investor Relations Steve McMillan - President and Chief Executive Officer Mark Culhane - Chief Financial Officer Conference Call Participants Katy Huberty - Morgan Stanley Presentation Operator Good afternoon."
+publishedDateTime: 2020-08-07T03:29:00Z
+webUrl: "https://seekingalpha.com/article/4365573-teradata-corporation-tdc-ceo-steve-mcmillan-on-q2-2020-results-earnings-call-transcript"
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: Seeking Alpha
+  domain: seekingalpha.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+related:
+  - title: "QuickLogic Corporation (QUIK) CEO Brian Faith on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "Q2 2020 Earnings Conference Call August 05, 2020, 05:30 PM ET Company Participants Jim Fanucchi - Darrow Associates Brian Faith - President & Chief Executive Officer Sue Cheung - Chief Financial Officer Conference Call Participants Richard Shannon - Craig-Hallum Sujeeva Desilva - ROTH Capital Presentation Operator Ladies and gentlemen,"
+    publishedDateTime: 2020-08-06T02:43:00Z
+    webUrl: "https://seekingalpha.com/article/4364966-quicklogic-corporation-quik-ceo-brian-faith-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 9
+
+secured: "iX/KnRcRA5p7zwQfwL5VkV+6So60EWLIjo4fIK9P/4Wkul/oHgkSHHE0hssVfaevwzXR58CPfWqokvFSwB5LyMyB3OwBwisy6mc9LaNc2aAqv+VwdiLwK8H6r0WyNl7ivB/YSNKTekSSxuyQ+0vSw6kT7fI9P6U5azaA83U4Xk92SYmitqPxbqB7iwJESs57fMYcBws8kPkUe+6YT7Z17ewckk5h1KYSHouDrCCHYouKzu+6HguJApqyZrM2kWuwr1DoMJrQmgmSNjygY3H/souvT/ygRfPFn9pp/QHkqLfAVv3c5UhT72/i7a15LJ8zfJEKSa1USoSAVXAmWYfAGg==;EKJ+2t6d2td31k5Vyv8TkA=="
+---
+

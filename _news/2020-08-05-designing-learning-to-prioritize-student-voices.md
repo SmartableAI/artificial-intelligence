@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T08:23:00Z
 webUrl: "https://www.kqed.org/mindshift/56401/designing-learning-to-prioritize-student-voices"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,49 @@ images:
     width: 1020
     height: 721
     isCached: true
+
+related:
+  - title: "DEEP LEARNING MARKET SIZE"
+    excerpt: "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com"
+    publishedDateTime: 2020-08-06T12:55:00Z
+    webUrl: "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/8/T806326785_g.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Young Galaxy Spotted Using Machine Learning May Be A Last-Generation Galaxy"
+    excerpt: "For a new study, an international team of researchers developed a new machine learning method to comb through data from the Subaru Telescope. The team was searching for young, extremely metal-poor galaxies. But since the wide-field data from Subaru could ..."
+    publishedDateTime: 2020-08-04T04:33:00Z
+    webUrl: "https://www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873"
+    ampWebUrl: "https://www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/03/galaxy-hsc-j16314426.jpg"
+        width: 1000
+        height: 558
+        isCached: true
+  - title: "Machine learning: foe and friend for market surveillance"
+    excerpt: "The rise of machine learning in trading is posing new challenges for market surveillance, but the technology could also be a useful tool for identifying abuse risks, according to a report from the FICC Markets Standards Board (FMSB). The increased use and ..."
+    publishedDateTime: 2020-08-04T17:48:00Z
+    webUrl: "https://www.finextra.com/newsarticle/36335/machine-learning-foe-and-friend-for-market-surveillance"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "+O8vSgZzkS/qdhYwQlk4BivMQTzlNrHJsDFpSklGSEcrRmQ5aFpFMgUX0bJoMSizcOlNEqlxzJTy5038uD1NeqH2BneBx/F+0JD7deU5ehtU6QkeAIxNOF2FqkWBFycSBKB8H1GZxQS25FVnDY3/MITvDYO/O5ZGsurx5QZplYiFOtdNVWBce4SLjryRwoTnuNMCOxZc4CY5+7e6o8porbSy0fn5qcS938cbGtP2dk+QDf5VbMB3NtwvJxfcETdXwFbVG9QXEkf84HsuOT+MlgbkUA/UWOSQdELIDGE2JZgRKU7Y7/DcDTVH2//U9svFb9nJSBMJQNFcw9njEtEOf34LBTT+yp6n2tNzXQcd5SPKpSLBBlM1rOsi1gmz1vRC83MZfsRjN6wq4j5l+S3ee7sjD7DbJnaojsFQMyr+gGboI6d5NgNoaFwlKVTARJDzsepFakoE6Heq2qhDht0Ntk4rsWfCetq8Fj8smkpXssy95t6kW6dr1lCYZ/d1EL3AmEK4mAji206ttt5IReEGUg==;OrFqa9CaNTTdIlJ1g7MD2A=="
 ---

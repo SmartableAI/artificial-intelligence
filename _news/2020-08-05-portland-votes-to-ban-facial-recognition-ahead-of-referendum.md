@@ -129,6 +129,22 @@ related:
         width: 1350
         height: 759
         isCached: true
+  - title: "Australia needs to face up to the dangers of facial recognition technology"
+    excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
+    publishedDateTime: 2020-08-07T02:35:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/5693fa938c56cec79d8c86af0ef39b92504ead44/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ce9e57c1c9647162b7e45f919c5b1863"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Bulawayo based firm partners with Chinese company on facial recognition systems"
     excerpt: "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ..."
     publishedDateTime: 2020-08-05T11:26:00Z

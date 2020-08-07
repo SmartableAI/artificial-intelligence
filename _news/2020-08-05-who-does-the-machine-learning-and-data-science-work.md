@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata is Selected by Brinker International to Enhance Advanced Analytics, Machine Learning and Data Science Capabilities"
-    excerpt: "Teradata announced that after an evaluation of other cloud analytics offerings on the market, Brinker International has reinvested in Teradata."
-    publishedDateTime: 2020-08-02T09:24:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200722005224/en/Teradata-Selected-Brinker-International-Enhance-Advanced-Analytics"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
   - title: "AcademicInfluence.com Unveils Machine-Learning Technology for Ranking the World's Top Colleges and Influential Thought Leaders"
     excerpt: "What worries today's prospective college students most? Topping the list are two life-altering decisions they don't want to flub: selecting"
     publishedDateTime: 2020-08-04T12:39:00Z

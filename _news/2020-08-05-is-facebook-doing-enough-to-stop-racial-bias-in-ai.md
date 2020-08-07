@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-05T16:14:00Z
 webUrl: "https://www.forbes.com/sites/charlestowersclark/2020/08/05/is-facebook-doing-enough-to-stop-racial-bias-in-ai/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Forbes
@@ -25,24 +25,6 @@ images:
     width: 800
     height: 448
     isCached: true
-
-related:
-  - title: "Is India Fast Enough To Win The AI Race?"
-    excerpt: "Not even the best quantum computers or AI from the past and present can help us in predicting the future. The dichotomy of a world under lockdown is that it is also in flux. Nothing is fixed anymore,"
-    publishedDateTime: 2020-08-02T10:33:00Z
-    webUrl: "https://inc42.com/resources/race-for-being-the-ai-are-we-fast-enough/"
-    ampWebUrl: "https://inc42.com/resources/race-for-being-the-ai-are-we-fast-enough/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/race-for-being-the-ai-are-we-fast-enough/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 57
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2020/08/Untitled-design-2020-08-02T115359.634.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "vaEseLHJpFLqoAno8WqlFt/yMhNQfJVR7yOLtuBRHmMldtz5Dd6L7pgqzCxtYiiQqoekLTy9kTAfQTByhXGMACBejrqg59M7X+SV7SAjtOeAnZpUlektjtpnH+tZ3phjT/+gm8TH51dKjVl3s7q/HqFHFX7iR2yubh6D4EfYlmmxvZJyGNbnt6A3tfyRaFrwsm3d7HIzs6NhdUVB1O0y3CEGl17S1QeJt0VrVO4Zm6F7dDr5qEtXNuKJ9UiVVbSPb6TBzwHl8dGdWUEXdTipzR8J+mW2DjylJ6WsLxhR9LXCbhEka254qUbI8vzBA/Q7b+N4VaGMRWeB1+G5mtu5tnMcP4J6cvSzD9wp36uojPBadpJYnKOQpQH1YC2Zn/EmtmBh1E20Brfg1io1Y5NlsJXgBb0C0JguFo3hsYb0kFH1gADK8pxK0QxAuQeWflgWZmjFoB47+tmRNHNGD7cK4mUtxFs15DR/19zxLvyEYn3/LUYxDQ9H/KrzHQqgvAa4fKv1sTIeRhpYCA2zZ/ti2Q==;V4qws9AqXtFtTUoO8QAdyA=="
 ---
