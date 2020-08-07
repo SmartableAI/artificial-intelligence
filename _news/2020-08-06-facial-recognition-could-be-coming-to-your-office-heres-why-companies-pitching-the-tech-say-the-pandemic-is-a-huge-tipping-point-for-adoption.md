@@ -199,20 +199,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "Facial recognition, thermal imaging part of future with coronavirus"
-    excerpt: "The coronavirus pandemic has inspired a new wave of technology , including thermal imaging and facial recognition software that can detect fevers among employees, a common symptom of the virus. PopEntry+ combines instant facial recognition and temperature screening that can connect to employees’ mobile devices,"
-    publishedDateTime: 2020-08-02T06:00:00Z
-    webUrl: "https://www.dailyitem.com/business/facial-recognition-thermal-imaging-part-of-future-with-coronavirus/article_4b1f1c0a-1799-5dfc-bc7c-7aa1e7bb1454.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Masks Confuse Facial Recognition Technology"
     excerpt: "Americans can't agree on whether face masks are a good way to reduce the threat of transmitting COVID-19. We've even turned mask-donning into a symbol of partisan affiliation; those who would make them compulsory everywhere face off against those who refuse them under all circumstances."
     publishedDateTime: 2020-08-03T16:41:00Z
@@ -386,6 +372,6 @@ related:
       domain: harvard.edu
     quality: 16
 
-secured: "dk1KOyz5dhvdw7JHKdCFKttKKRu4EowSxSUU9plIX+ff0KslpWv/mgdfEukIJ+jGIQGF/Xy/fcXDInl7C14W74LaTBqoHDPJyyrcSXjyJqoW2e0FMte23vruNyiYkEljiWHB4D7IQ89VIqvq1lYl+jff/S0Q7l/XTPkCQt66CHMK+0fCLLvFZqrRxSGqp5Ab0E/Pz/x0h5H7+Yc8Ql7tpi55CrADaQhkzNiMvclRZAWv+pFBTRIZVX56koio8EYaAO5vdpSojZMZu1eXmz9Oxa7lbPxydWVfxJACUCImt8+qZshRFx0/CISMuz1c236mXw5OjdzX7taha6HfYV9cJw==;rJFYj/GYMOnWNRCmnT7ahQ=="
+secured: "nfjuB0lOKRn/5WvFUZ+wKndGlUgX6e3tFW9On/9ncrRZFFknWJL8O5doa17XwpEYEJNpTG6jTeI48+V1/ihIFVeKV0wT41Gv2kPdgq025O60f4rQGCPDoEA095t+X0rTnVRIJlZrYESub6rF6csTyQ5Xd4n5wrNudWa1wgnDriLVnDhDWyMq2mVBNLHimAtz6m26f5WRth8oc5sZZpyO8x7nU7tGtfzVMqbsmeRCBPJdXsuEEQU2gSv3ajSIiE0E6LpzvCFDhtrXNTzAk9RBdC84dwvc8g3srhKgEIuOTdG0VZAPD/XPi3BCb5xv4tpeNBQgyzb9iOLKhqBe4+VypwQ//CnxFK+x2D3Zw74yrNoiUr495CL65pDoDEUGlcFu6fXwljC/U6Mv6vnxjvo523YhLDjmhtc0QQeGusitB2+FOOjJNE2nXMB7043RUFB9K2hto+eFY5LrvKEvg/01yoKlYpZl6S8EoXXyrBeNf9wlTIKNRT2PM8HqHi9X9Jihr8BZ8mXhVmbBa6k8DSCaww==;wr/X1kqiurvnTWw8/fobQw=="
 ---
 

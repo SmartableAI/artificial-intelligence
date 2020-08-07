@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-04T22:16:00Z
 webUrl: "https://www.finextra.com/pressarticle/83586/holt-fintech-accelerator-announces-2020-cohort"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Two Canadian startups among Holt FinTech Accelerator’s 2020 cohort"
-    excerpt: "Montreal-based Holt FinTech Accelerator has revealed the startups part of its 2020 cohort, which features a response to the challenges posed by COVID-19."
-    publishedDateTime: 2020-08-04T11:08:00Z
-    webUrl: "https://betakit.com/two-canadian-startups-among-holt-fintech-accelerators-2020-cohort/"
+  - title: "Ecobank Group announces the 2020 Fintech Challenge Finalists"
+    excerpt: "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
+    publishedDateTime: 2020-08-06T23:26:00Z
+    webUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7"
+    ampWebUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
+    cdnAmpWebUrl: "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 24
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 59
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-03-at-10.51.03-PM-1024x677.png"
-        width: 1024
-        height: 677
+      - url: "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA"
+        width: 425
+        height: 223
+        isCached: true
+  - title: "2 Ghanaian companies reach Ecobank Group’s 2020 fintech challenge finals"
+    excerpt: "Ecobank Group has announced the finalists from its 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
+    publishedDateTime: 2020-08-06T17:56:00Z
+    webUrl: "https://www.myjoyonline.com/business/banking/2-ghanaian-companies-reach-ecobank-groups-2020-fintech-challenge-finals/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 53
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2020/08/Ecobank-Fintech-Challenge-2020.png"
+        width: 810
+        height: 424
         isCached: true
 
 secured: "UhrCLIZ7IweuUo0WvKg0KJNlYEZ1Pqv0K0xJ3n4Bxbyo3+y7tiBE+R7anmN/1AmlwSES/4L8ab4foCDn9hQOmkZOLsYyDhv4y5Hbods07oxBcQn65uMRrG+sQY1Wwkg+nXcE5TbHBLSDWGm2fz7fB9Q9J8PWuaIlH0MT6Jrv8xcqiwMAdXdsd9FzvpWu+e8wxDq6LJoqoiIqBErDhyrvBQqZbb96iWW6Te60xA4rdSoMmmFZF0Jq/VgOWevfl6VUbuhf577nm8IOzUlm+eetOPNrZqVu44Cz59aiRaf9NyeXAb1dRIC1OfYlBgJXCtT1Q0GQYFRBIrmqFne2xfKleQ==;hxbmLM5luww9nlb5MSfICQ=="

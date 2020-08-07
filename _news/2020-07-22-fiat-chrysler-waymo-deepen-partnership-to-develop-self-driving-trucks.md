@@ -3,7 +3,7 @@ category: news
 title: "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks"
 excerpt: "The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across ... like Yandex and Baidu, whose cars have driven only about a million miles ..."
 publishedDateTime: 2020-07-22T13:24:00Z
-webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!"
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 384
     isCached: true
 
-secured: "s9QvHxYhJ0+4YS03ngP3YR1j0+Qh5HM4hwOJ+KwQLs7wpvhsZ9eUjCg/ARKNOLY6bTTSvibASjUNdCJI/PQSS0zQuWyeVhInRSr2R3XsTCjiRkGuIWuOj+wISuSusL+JCeG2JBc5upVROIx6mo2RRxCvLF4FrmNmW7V0qmKZmeqrQyTVk94jEZpD06cJsOOARO8M/NmTkNH9DVJnxzPFRF4oSbaSvuRG6enBfm8LNPaYduZ2/JJNbUB8b8syluYcusmbK8YsenGOKXi08GtjkURYmwaBfJO0rw+o1+pB4xVzsVFQLO7UNHCby/64ZDYO/eK5DDJz9Bpjp7PAfJgJWbzZhJ3scMmtBcg3H96IvAh6qmWB1KYRj8j/jpojke1mfSbu54O6W48znDQm7s/Umt2GBzt6OY89yxQhIAqFKUiOu73k2YUDedFqZir4rEr2srBPZGr4mpXTIHXZPIh6gyVp83W/A9Q2B2+/Vja8um9+pgHwpaQlMJmG38LDukcs;UWzAyk1OsJiKOy483KYtFA=="
+secured: "P9SAetfTHLMneITMEDttkbG7WuYJK6qT3qwEOA+f4RqLrqmitHbGl9DSUeuIj4MvEPlFjKsX6Sq9VEDKczMg8Gp2GBgLCJTn4D6+GRBeXruXQMvxGdsodRS/zojJl3nRFvzIDndReaLk1WuYCflUujvbncNciMXspswwDWT47Y2bP0PkGNSwxUwnreC+kxCqNuLqyfzHj7BI6xLlYTwcVnq29notqFOjyyJbwDgSH0QO7wv0HPmbf+9cB9k7r8bHSfSw1TorL09FWo5phKu9lw0TGvEZisqU/ZwKymANZcBMHb6f3yZQNBJDlFm/USeDo8kfWTm6EeMpbCnKlOZhnw==;BYCAE7P1kG2I7QEc/zO62g=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gen
 ampWebUrl: "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/"
 type: article
-quality: 72
-heat: 72
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Computer Vision
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/b-e1596722973590.jpg?w=1200&#038;strip=all"

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T12:51:00Z
 webUrl: "https://slator.com/press-releases/intento-publishes-the-state-of-machine-translation-2020-report/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "Google machine translation helping disseminate Covid-19 info"
-    excerpt: "Google AI and ML translation services are helping health officials communicate with people in languages they understand to dissemi"
-    publishedDateTime: 2020-08-02T05:42:00Z
-    webUrl: "https://www.canindia.com/google-machine-translation-helping-disseminate-covid-19-info/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 39
-    images:
-      - url: "https://www.canindia.com/epaper/front1a.png"
-        width: 252
-        height: 388
-        isCached: true
 
 secured: "tEXJt6085eLFS+kAB1rTXnpnmJ25xC5Ggxh8mqjG4PkK3Hr6kvXe6y9swGuTJ+qnjRZxrnvfTzWj3qYKrPmxQI07NmmyJEz5xEGaNvNj34Mj1coUZoQAd7CaXsGcz1vHQ7L+xefFhcovLKB/9Utq0pBhZw1+bS58tG65IIDqTMBrwRSCTMzhi2HTyaLshp83ae6s3lHhfeE0GFfJR9lHnsaBgJ9d+kiMbQcGSf615ohHTc9KnURwtpWuHee8ieb16TFG6fidW+BR7GhRUr2GjYTuW1glsLldvOoNosC2k58HEiyjCxhkEjpu1a+9JXSrIZNuat/3lwwwa1n1MMYee8gw54JDdIUkYj40rEZPpNMziylqHniMX1iBMlDGb+EZZ+nndtDCViSMqH6udpKm/ZNjzwaGadq7ICQZFQ2Akf0RhTwo5kmyaRqtFYewE7JKTZmKIvB8LM1A8lLX3eWId1teoF2KAprh5aMFfeue/OulBlbvt4lwZYjzIp0bEAlJ6j2thUo+wcK2f6DCuPu+zA==;xZr39MKRqim3Xrf/WcjuAg=="
 ---

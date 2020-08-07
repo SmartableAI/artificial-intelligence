@@ -9,7 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 72,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,9 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Computer Vision",
+        "IBM AI"
       ]
     },
     {

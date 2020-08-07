@@ -2,6 +2,155 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-23-using-ai-to-identify-the-aggressiveness-of-prostate-cancer.md",
+      "title": "Using AI to identify the aggressiveness of prostate cancer",
+      "excerpt": "Prostate cancer diagnoses are common, with 1 in 9 men developing prostate cancer in their lifetime. A cancer diagnosis relies on specialized doctors, called pathologists, looking at biological tissue samples under the microscope for signs of abnormality in the cells. The difficulty and subjectivity of",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/using-ai-identify-aggressiveness-prostate-cancer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/using-ai-identify-aggressiveness-prostate-cancer/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/using-ai-identify-aggressiveness-prostate-cancer/amp/",
+      "publishedDateTime": "2020-07-23T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-riiid-raises-418-million-to-expand-its-ai-test-prep-apps.md",
+      "title": "Riiid raises $41.8 million to expand its AI test prep apps",
+      "excerpt": "South Korean startup Riiid has raised $41.8 million to further develop its AI test prep technology. To date, the company has raised over $70 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/1-1-e1595515659939.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
+      "publishedDateTime": "2020-07-23T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-tech-startup-funding-declines-as-pandemic-drags-on.md",
+      "title": "Tech Startup Funding Declines as Pandemic Drags On",
+      "excerpt": "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-212166/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
+      "publishedDateTime": "2020-07-23T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-microsoft-commercial-cloud-sales-surpass-50bn-for-1st-time-in-fy20.md",
       "title": "Microsoft commercial cloud sales surpass $50bn for 1st time in FY20",
       "excerpt": "New Delhi, July 23 (IANS) As the digital tech intensity becomes key to business resilience, the commercial cloud business of Microsoft surpassed $50 ... transactions were processed in Azure Cognitive Services, 2.5 billion messages sent, 9 million hours ...",
@@ -1020,155 +1169,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-monash-university-and-rmit-develop-ai-and-ar-device-to-read-emotional-cues.md",
-      "title": "Monash University and RMIT develop AI and AR device to read emotional cues",
-      "excerpt": "Monash University and the Royal Melbourne Institute of Technology (RMIT) have jointly designed an artificial intelligence (AI) and augmented reality (AR) device they say can read and recognise emotional cues that could potentially be used to combat mental health disorders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/monash-university-and-rmit-develop-ai-and-ar-device-to-read-emotional-cues/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/08/28/d4073bfe-b147-4a82-bc71-2e3d84d8d2fe/thumbnail/1200x675/28a969fb33d4643526ec70d03256b478/fb1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-and-rmit-develop-ai-and-ar-device-to-read-emotional-cues/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-and-rmit-develop-ai-and-ar-device-to-read-emotional-cues/",
-      "publishedDateTime": "2020-07-22T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security.md",
-      "title": "Tech execs urge Washington to accelerate AI adoption for national security",
-      "excerpt": "Watch every session from the AI event of the year Tech company CEOs may be heading to Washington next week to take part in antitrust hearings in Congress, but this week high-profile executives ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/congress.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/amp/",
-      "publishedDateTime": "2020-07-22T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-investors-like-amazon-and-softbank-are-betting-these-10-self-driving-car-startups-are-primed-to-take-on-tesla-and-waymo.md",
-      "title": "Investors like Amazon and SoftBank are betting these 10 self-driving-car startups are primed to take on Tesla and Waymo",
-      "excerpt": "The company's technology uses artificial intelligence, computer vision, sensor technology, and deep learning to operate autonomous vehicles, enabling truck and freight companies to increase truck ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f11b86a988ee342b5413602?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

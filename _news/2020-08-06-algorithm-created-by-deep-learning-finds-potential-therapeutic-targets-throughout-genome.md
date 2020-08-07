@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Algorithm created by deep learning finds potential therapeutic targets throughout genome"
-excerpt: "A team of researchers from New Jersey Institute of Technology (NJIT) and Children's Hospital of Philadelphia (CHOP) have developed an algorithm through machine learning that helps predict sites of DNA methylation—a process that can change the activity of DNA without changing its overall structure—and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
-publishedDateTime: 2020-08-06T16:08:00Z
-webUrl: "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.html"
-ampWebUrl: "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp"
+excerpt: "A team of researchers have developed an algorithm through machine learning that helps predict sites of DNA methylation - a process that can change the activity of DNA without changing its overall structure - and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
+publishedDateTime: 2020-08-06T15:34:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-08/chop-acb080620.php"
 type: article
-quality: 50
-heat: 60
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Machine Learning
+  - Google AI
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/1-genome.jpg"
-    width: 960
-    height: 1920
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -41,6 +39,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ctScptMq6Vw7/gn2Ui3tTgQT7CfSiO7EfnNqrz0fPf8e/dHT368tjO782YaDnz0NvMYO+4fbbG5q/UCBdnfmvdY3fFaHweepevzGJLbfTd9RYUjlYnqiHVURGyYlHW8OefMvFKqaSBnJCVL8bpLxTC1K+DlIYetVnpQWdhLLtps7V8W1H1KQ9vqI8m9Ygh/oc+78KMF1ITdYaPSzUnqz7NYnA/swohpl2gm3HBaHONxrW9q5Ra9JYpkqYA9EAJP3Qb4l9WiLOkxgUG/eIhgEUldZ6jzV5T75w5vS2/nnVeC6SmhxQkvVyX6cDhohbr+cyvJQWAn/Kwm+zlit2ZUgnQ==;dfAVDgpO42/xOxubDcuoGQ=="
+secured: "U2P3Gtad8Qi401RZT5w6V8tfYTcbS3WnHq/lZobs4yfeLRxJDlpCWLoV10YuVMJwvlPAClVYYrZk7g/V3VzQQrftv5yd6CTQywIl35hgvLKuEllmUpFksbub0HFeuZjxquSgr7ooEcj5aGuPDmsp5/BBypjEnlo/NCD5p/twhoVMiYsvdt/vSq/TFcEOQ2Scvvv+ZvduX1jPyo9i5J9u6tGTkISJ8UMyLkyRG3MgycE7UdyKGvlqdaiSBKEDdrhvHGfawRVmSgcdK3xThYS4J6dYwkkc+kuDJZBx02raK4KGP0sZMdqvlvNHV0JkTyRlMKYyJH0nE53qb2gRphTU4w==;1FqhKfKKTPGbP/xr3VnERw=="
 ---
 

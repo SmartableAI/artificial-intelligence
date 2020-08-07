@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7</loc>
+    <lastmod>2020-08-06T16:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/</loc>
+    <lastmod>2020-08-06T15:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/build-more-effective-conversations-on-amazon-lex-with-confidence-scores-and-increased-accuracy/</loc>
     <lastmod>2020-08-06T14:29:52-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -123,6 +135,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/</loc>
     <lastmod>2020-08-05T12:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence</loc>
+    <lastmod>2020-08-05T12:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2413,7 +2431,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece</loc>
+    <loc>https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!</loc>
     <lastmod>2020-07-22T06:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

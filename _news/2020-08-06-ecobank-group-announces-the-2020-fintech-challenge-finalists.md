@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Ecobank Group announces the 2020 Fintech Challenge Finalists"
-excerpt: "Ecobank Group ( today announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
-publishedDateTime: 2020-08-06T18:06:00Z
-webUrl: "https://guardian.ng/apo-press-releases/ecobank-group-announces-the-2020-fintech-challenge-finalists/"
-ampWebUrl: "https://guardian.ng/apo-press-releases/ecobank-group-announces-the-2020-fintech-challenge-finalists/amp"
-cdnAmpWebUrl: "https://guardian-ng.cdn.ampproject.org/c/s/guardian.ng/apo-press-releases/ecobank-group-announces-the-2020-fintech-challenge-finalists/amp"
+excerpt: "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
+publishedDateTime: 2020-08-06T23:26:00Z
+webUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7"
+ampWebUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
+cdnAmpWebUrl: "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: The Guardian Nigeria
-  domain: guardian.ng
+  name: Naija Gist - Latest
+  domain: pulse.ng
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA"
+    width: 425
+    height: 223
+    isCached: true
 
 related:
   - title: "2 Ghanaian companies reach Ecobank Group’s 2020 fintech challenge finals"
@@ -34,7 +40,21 @@ related:
         width: 810
         height: 424
         isCached: true
+  - title: "Holt Fintech Accelerator announces 2020 cohort"
+    excerpt: "The 2020 cohort is made up of the following fintech companies: 1. Brazil’s Agryo is an agtech which connects lenders to farmers by combining data and AI modelling to bring better financial services to millions of underserved farming families globally."
+    publishedDateTime: 2020-08-04T22:16:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83586/holt-fintech-accelerator-announces-2020-cohort"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
-secured: "+YxdhhApYUJoTKjHwmIARI6JnKo6cidknIjqciW0zIuJDWGhBB8eLeCNiAQ2OzGI9il+BXZQcSisPF1NLyqAbH/Z2Tpz+LRoDmfinydDkqKTEn0ui1vJlRW00loV0L/bTBpmxBMc3B4xGjgRU12iUdP0+m6KchwCyuu4MwZjExwoRaUtjVzZu1GLUZ7U4ki/gew1Cx8wayBYZs0EFqQFYUU8nuXzjt6ouk4mymSyrgXhLNC1Sl01lPR4Wo2ycHLkMVeNVsHEwiZhRljVm7czcUXEX3vpBBacEHjdy8kMI2PYCtHFuj4+lBYOC/TAhXxzGyJLYWD5afEjbI3p5aWwqQ==;P32Ys1pQE24YI3gKQTZhLg=="
+secured: "sBYufxsWGgN1AoCJpHO6+ikcGhygM+xIM4TLwLrHDGz/vOtZ5pXQ83wr2xzWJJW5NBLDguYwtCEQ13Dp54rNwNEhN4DIQPr0cqQ+xWSn/JOQSdsz3MzH6v9+GvuW/S2TCStGjwVEAQ/r113UXNXtvczcZALb/B2Rgnq9Auf2LvqIVwSt1DXn2wGrBIu+zmuIN1CuR4gaFoD724E+pSEImT4UGWB+xemsUChxrEr/sxeJdzTGpXtniAzcXIKfMsnA5tDVKekUI+YAEZuEi46y+Zpbuuz0aoq614Wert1EfbwJQTFJwJoHTV6wxDa2jsfqHow0mSId9AbqOTAt0mU2mA==;bTf1tA5dk60f+tgyDWWKdQ=="
 ---
 

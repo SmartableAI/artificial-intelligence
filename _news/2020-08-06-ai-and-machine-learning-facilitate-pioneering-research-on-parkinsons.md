@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/ai-and-machine-learning-facilitate
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
 type: article
-quality: 87
-heat: 127
+quality: 104
+heat: 134
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
@@ -40,22 +41,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
-  - title: "Improving Online Learning with Artificial Intelligence"
-    excerpt: "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence."
-    publishedDateTime: 2020-08-05T19:09:00Z
-    webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence"
-    ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 61
-    images:
-      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "MobiusTrend Research: AI Deep Learning and Hologram AR Applications"
     excerpt: "Facebook, Google and WIMI focus on AI deep learning +AR technologies, which will facilitate the interactive display and extend AR application scenarios. Hong Kong"
     publishedDateTime: 2020-08-03T23:56:00Z
@@ -82,6 +67,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vH8gtIVxl+HXRg/TUCnUNFaWjt1Y+GV8VD1rC07ID+pqm7EucbfiIQ7+dQdrVBULPDziYjKUFIcKaro1RoKHt13e8ndzPfyF1wvHoFesMFs+2cy/P7AbqdYn4syXsTARPdhowAje+x1iv5GeCReqxOUji9PP1Zdsjr2zo4vp8Xn4EnFFlGe2bvvlg+pAstA0qhBQGiYMEVwjAMaug2NR+jC1cIZHvfulioJdHZBFymOtnF2tvoT/oMGgOQAEg17JeblgMR/LruofhhM/mGUYFhXVxf2nLpvch9psJC6+dFtS9GhTXZ51AZhjP2HnuRs7fZLEx4wSsjP9m1TWDboSiQ==;azHposKBEsfxzD34110NXw=="
+secured: "Nx4UNSa63nCN5NrL7PnXX+sy3SMUZnMKaESEYrJT6/IkvvG3Gh0ohQwFct6M0jP6paXbgTV9o8gtSGZ/Mec0sqmMwnh3CbiQggkg/4/GJxedb84ePs6OKs+ryizPT7xV8oOdi7vGL/csXUj3CyKyu4p46E5fVj+SSINNRSaGvKdWViYUVaQE7H+YIxO96Zum2HH0DtgGGPWUcDTTlpQDHGG0renfQngM+4z0Bw83+kUmjymvS0xhr6pa0+mmEZ6/WRT9C+STzRSrV+x1VfhrUQw89qZdldxBrLhhhIhyg0neKrCe8cRr/LHGOpYjbvg0hCzUCasDgH6CBSk6pYcIDfVyn7i0j9I2R24T4qLZ0w/+bgzFU8S90bAKmCB7eKpVFy6SSOlKGT+1tJKISQm+/jVG7GOHtJVS1Vxz7YvXVPbiQw0Gu2iGj6YXZl7kWjF39stvt01NW+dpkcS124jEKjfTLgXxYiSbTTaCPxtd28CxGJG+gefMQGGB5HVkBvoM;EET0JXQx4Wa1Lypq1wj7cg=="
 ---
 

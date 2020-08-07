@@ -38,7 +38,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 87
+    quality: 104
     images:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
         width: 1200
@@ -55,22 +55,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
-  - title: "Improving Online Learning with Artificial Intelligence"
-    excerpt: "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence."
-    publishedDateTime: 2020-08-05T19:09:00Z
-    webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence"
-    ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 61
-    images:
-      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "MobiusTrend Research: AI Deep Learning and Hologram AR Applications"
     excerpt: "Facebook, Google and WIMI focus on AI deep learning +AR technologies, which will facilitate the interactive display and extend AR application scenarios. Hong Kong"
     publishedDateTime: 2020-08-03T23:56:00Z
