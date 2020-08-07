@@ -147,22 +147,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
-    excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison"
-    publishedDateTime: 2020-08-05T01:30:00Z
-    webUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
-    ampWebUrl: "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 44
-    images:
-      - url: "https://sunbeamwsvn.files.wordpress.com/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18.jpg?quality=60&strip=color&w=1200"
-        width: 1200
-        height: 826
-        isCached: true
   - title: "Ex-Google engineer sentenced to 18 months for stealing self-driving car secrets"
     excerpt: "A former Google executive who stole thousands of documents about its self-driving car project before resigning and going to Uber was sentenced Tuesday to 18 months behind bars."
     publishedDateTime: 2020-08-05T15:11:00Z
@@ -270,6 +254,20 @@ related:
       - url: "https://www.hawaii.edu/news/wp-content/uploads/2020/08/manoa-engineering-smart-traffic-lab.jpg"
         width: 676
         height: 381
+        isCached: true
+  - title: "Former Uber self-driving car exec sentenced to 18 months in prison"
+    excerpt: "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison on Tuesday for stealing an internal tracking ..."
+    publishedDateTime: 2020-08-05T07:16:00Z
+    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/08/04/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 24
+    images:
+      - url: "https://keyt.b-cdn.net/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18_preview-2.jpg"
+        width: 500
+        height: 344
         isCached: true
   - title: "SK Telecom to use 5G for self-driving robot delivery service"
     excerpt: "Woowa Brothers operates Korea’s biggest food delivery app by market share and has been focusing on these delivery services using smart, self-driving robots. Under the agreement,"

@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Cincoze GM-1000 Embedded GPU Computer Empowers Superior Performance for Machine Vision Applications"
-excerpt: "Given the explosive growth of machine vision, Cincoze, as a professional manufacturer of embedded systems, has expanded its embedded GPU computing pro"
-publishedDateTime: 2020-08-05T08:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior"
+excerpt: "Incorporating with AI, the GM-1000 empowers AIoT edge computing ... Taking advantage of the heterogeneous platform of CPU and GPU, GM-1000 tackles AIoT and machine learning tasks for intelligent ..."
+publishedDateTime: 2020-08-05T09:07:00Z
+webUrl: "https://www.morningstar.com/news/business-wire/20200805005052/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications"
 type: article
-quality: 27
-heat: 27
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200805005052/en/809710/23/05.jpg"
-    width: 1200
-    height: 627
+  - url: "https://mms.businesswire.com/media/20200805005052/en/809710/4/05.jpg"
+    width: 480
+    height: 315
     isCached: true
 
-secured: "W56Sn1R0p5sVR5MzfbIj2ZMzGcTLZF9GDTIcVsZ1MC9jANCQaNOxV4Ri0T1ZS8F9SdbsnBy1AHeAkUxuuvegsLEPja7i3G9WXXYfX3S6m9CZdq24QFwADrELREbXYvMq0M0NPEtPw/clyLGY1h6IXm4y6+EEfiO3HvazaFfg7hP+jSS58/uzq/9WBYKsntDbcUq3LQCHWVcbhYpOBlQDwVQnSFGi1PuW7ZcgoD/VYhcmPvUgY5MT58JFjIq8Ixb1DieEAmLY4Q+3Z+PzxSoZRhmwJs0pb279JRFIGNsEP4zl7+BZ7LyDRZ0KNl1m5sTgoKd7UXkqr5MrKOR5MRKwHOzbLRt8n3zqk5thOFsz/7BcL7/8jCVANpbFTP5JjPIIAYQMb4+eRn3ZttoU2KwjO0TlfatknSeb+atqnpADGlJTproD0YJGrPCvPWBOfHE6w0cwFbTIB3UpIlHviiX+zIjMjAO+f8S7CJerkliwXVmSkBawQFlMOOcrX5x8o8IyiQoISN+YAS52aQJKS0E3nA==;C3tuSIrR5bAiQZUipN+Klg=="
+secured: "4HUJV6vQBCgYZ3Fs09UpBN3nB3VYckaSZssrbAOnZ57ZTgHH6TK6ns9cOTmRAqg7k3dfMjYDhX/PKI2WtmaMned5QrVa2lifjb+11rm/18njj0mbl7akGuw6a56LS1qtXz46exxj04g5YysSUi114oxcPcICy/aZstV0dh68aLtYKXo4lJ38GezM+rLwPnViVZBPhYhG/KTifB0vzwkL/f4K+Ez5NbBmQ9M/eWfjC4H53alXBWU1/M1xXjdZJljaMCLsDQ+EA6hnkBmy+CfqwpW7tjwYhtKRaZHi5U/igQCaaPeYtrkWd4bci7QO+t6nZG4HhMnYAybvdeqhLFwRMA==;6m++73YJjf8StH6VNkUdZw=="
 ---
 

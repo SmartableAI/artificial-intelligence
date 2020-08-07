@@ -23,22 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Participate in Dubai World Self-Driving Transport Challenge 2021 and win Dh6.3million"
-    excerpt: "General and Chairman of the Board of Executive Directors of Roads and Transport Authority launched the second edition of the Challenge in the closing ses"
-    publishedDateTime: 2020-08-02T12:34:00Z
-    webUrl: "https://gulfnews.com/uae/transport/participate-in-dubai-world-self-driving-transport-challenge-2021-and-win-dh63million-1.72942161"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 32
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/08/02/Self-Driving-Challenge_173af1f745f_medium.JPG"
-        width: 540
-        height: 405
-        isCached: true
-
 secured: "0tSmWfAH9LZ/yeFcDDluY+wZnlLt4HFBpqc5BOKQ56RFMTUw3VfPfIdI1AO3t63zsg827OB4kS6FA5KuwMiHRFI2HDBAB+d49o7ne5boOnzkx7nOatBVm1mjCkunVnvMQgzc+dh2afapEBB2+WMFvZq+Xcp8F3Lz5XrfvY5dqURZwQmdUau+qugonbT9Som+1IZ3FwSpGVfgrmljrz2KAxgrUp2omYCzhVa9bHdkSjCxCFoi0LjWvyj13UQE4Es+oUPzOyw1rqE1Q4p4Xinc/+0o6bB/SPyctmKjQYy+o4uKogLRDhXK3SB081/4YHv/1MfjQAu541o2+OPYZso/Yg==;2S8PpZJ/isWwliClASxF+w=="
 ---
 

@@ -2,27 +2,24 @@
 category: news
 title: "RBC powers up its AI with new partnerships"
 excerpt: "Plus, through the use of a GPU, Borealis AI has created trade execution algorithms used by RBC’s Capital Markets division. Said Agrafioti: “AI has the potential to model complex market decisions and increase accuracy in trade execution while adapting ..."
-publishedDateTime: 2020-07-24T19:40:00Z
-webUrl: "https://www.advisor.ca/news/industry-news/rbc-powers-up-its-ai-with-new-partnerships/"
+publishedDateTime: 2020-07-24T15:44:00Z
+webUrl: "https://www.investmentexecutive.com/news/industry-news/rbc-powers-up-its-ai-with-new-partnerships/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Advisor
-  domain: advisor.ca
+  name: Investment Executive
+  domain: investmentexecutive.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.advisor.ca/wp-content/uploads/sites/5/2018/08/800x600_women_tech_861133318_iStockPhoto.jpg"
-    width: 800
-    height: 600
+  - url: "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2018/01/AI_word_cloud.jpeg"
+    width: 804
+    height: 596
     isCached: true
 
-secured: "O2RRAOpg0pUobFtvszjl00kEGkIEAltrQfsfBUS1yOfKGPwrYaliL91xbIKXibOz/4cvXMHBOxNWic3GeaEC3kfO9yUrVjsjqgzQC95wNNehZbR+8Mq06uA0AOToE3u0BAJCg/J+au6jfjeURgcXHmk3RPx0/JywhXRmYTYENldSp8xTGKijMHWoBVo5STnlxn1ca3w2dO/YnwZBwv2xfrY+S7U18e7NzwOu39i5kep3VLLA/xKKHBT/Tl6CoEFUhbc4re9knRyL8DbLwBWelVjoWWb1hwsUybqvKdKy0a7ItB7cY/RHAUuEuNbBt84zGjltA0suYbQh3L9I6PKhxg==;3M6uqtR9VWGNMnnlia+aWQ=="
+secured: "gGmCi9MOV5qj0LUyo/exyzsT6VhYeeF3pqHR5zHnwtwrTdUN08AcWjIZvoYEuaZJadaKah4DM1FGNrBRyT48Wu1en7tYsKn1JNlQ+hDe4TeK5y3Ruc7XJl0EU5d0VLqLFqFe7rMPSN8QjVs2JUmrPPcQauRpMgDqEi+OuMeL7HzZjlaPZqmtuzaunWMIgbLxkUGddVokQgv9bhr1ECEbynplHMOdm/7kKoKXRd8K2gD0Dze3khrrsOsaMPSP1Q3ZRILfLnoAd6twS1RIuqhjWbosqM5ukv+bu9+GxBtKwyRK6OZqpcP6oiTMi0Eo5yk7OoMQPAvOu1qsWBcUWTr4WA==;E9PrKexXyxYsnKM3CiOnzA=="
 ---
 

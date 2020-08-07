@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Solidus making waves in the AI sector"
-excerpt: "In order to get the required level of performance the use of GPU (graphic processor Units ... priceless for the artificial intelligence (AI) and machine learning space. We have seen the demand ..."
-publishedDateTime: 2020-08-03T07:08:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/solidus-making-waves-in-the-ai-sector-9148957"
+excerpt: "Established 2017 Solidus Technologies have been raising funds and working on building a data centre built for the purpose of High"
+publishedDateTime: 2020-08-03T07:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n16891775/solidus-making-waves-in-the-ai-sector"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16891775"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16891775"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "VmDIKNmJQtgnR3CkA+fNU+hZSp1Ri7w4i8zqCbhqmNxoYhvpmuaXtycwuod8c8nRYXDSIUUMRxMe54+dLm1Re0X1TSeWGbg9+i6P7ghJiqCfudvp7uQmNiwsbGJX3R2+O/mX8uRPS3g1i4/igB3B9m8O+NE8QWB1WcCBvyHT4F1oSSCbmkmR5KwpMHP6SLwNTK5LHK7CYKqO4jSNMukNBvAmNG4qZEkgXev7mRfkjltNdA7aSExNiIR21t9+4H5EG4W7fegkalQcHPxkbr8GjV/RvzR/NfdFsq9BfauKfcJsnCZ5G9/ia9taROS5J/9ts4kiGTVsqSMwrm0V/e94Cg==;MCXdV2GyomFJsw1xw/WQAg=="
+secured: "NH/qA7PCOmWVN3f9inQAyziVsLQjKQqhPx3VoXoWvQQomcFVgZYqe4XoeTcUC/yQrvgA81pM8UFKXUwGJfPKJY0Z0gqtIgeGL+/Y/+IJWbtbXGzwMDrj7FmOJsRKjFAqPFMF5fcGAhkf246MDrFJBXl6S5zhLANJFANrtQVk9pN3vwUy2Ugrc4m4Cn6eNHh1IQCikUJANfKtLducQti35+5B4lN6aveseg4q/QQKfDQEREltrtUO5dj4jwpSnhcB0QpbVBUo23XSZQ4A4OXhirW1nXZyDgkfnJsxxiBOgxaVp2lizdaJ78beubTOZX8erkJb26z6bHecz0XF2VTo455wSggfajguk23BLIehfZGLSrTlATwjrdmGxx2Hl5HO7851iU4+hBRn8UHkUAlxpKh5lOVpbN1aU2HyRwkbRJ6CkM4uW+jnXXEYIKyDx28Mi8w5GHmzyhhmKQg/pmyml4wjSfPvpApW3nsqiWaU89USZJ/bZnWwE+2raKzIXBzSHb5OffYe6Jzs/4peX/UmtQ==;pBXD8T4UmuaXR72JJbphEg=="
 ---
 

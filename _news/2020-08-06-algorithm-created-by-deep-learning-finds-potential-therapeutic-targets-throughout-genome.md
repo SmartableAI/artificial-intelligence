@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Algorithm created by deep learning finds potential therapeutic targets throughout genome"
-excerpt: "A team of researchers have developed an algorithm through machine learning that helps predict sites of DNA methylation - a process that can change the activity of DNA without changing its overall structure - and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
-publishedDateTime: 2020-08-06T15:34:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/chop-acb080620.php"
+excerpt: "A team of researchers from New Jersey Institute of Technology (NJIT) and Children's Hospital of Philadelphia (CHOP) have developed an algorithm through machine learning that helps predict sites of DNA methylation—a process that can change the activity of DNA without changing its overall structure—and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
+publishedDateTime: 2020-08-06T16:08:00Z
+webUrl: "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.html"
+ampWebUrl: "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp"
 type: article
-quality: 15
-heat: 15
-published: false
+quality: 50
+heat: 70
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - Google AI
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/1-genome.jpg"
+    width: 960
+    height: 1920
     isCached: true
 
 related:
@@ -33,7 +35,16 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 7
+  - title: "Algorithm Created By \"Deep Learning\" Identifies Potential Therapeutic Targets Throughout Genome"
+    excerpt: "A team of researchers from New Jersey Institute of Technology (NJIT) and Children's Hospital of Philadelphia (CHOP) have developed an algorithm through machine learning that helps predict sites of DNA methylation – a process that can change the activity of DNA without changing its overall structure – and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
+    publishedDateTime: 2020-08-07T04:26:00Z
+    webUrl: "https://www.medindia.net/health-press-release/Algorithm-Created-By-Deep-Learning-Identifies-Potential-Therapeutic-Targets-Throughout-Genome-481131-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 0
 
-secured: "KUwSyoOqZ0c1eUFpnYpMihF4fEoNS8B7RIk13sn53e8C7abJnOEQpEgzVekUPQxA1/LfRbKVEAWAc89dY0xklBJYoOmvNmzIZf9TaxyEXqiES0mwSsoiz4aQa8r7x118syv8Rt+QeEnD+WUsmlf51W36VbdWXOUJ1L3lmOvJ1R9LsP6Hu2s0A8Svbz6kgj15I2ZsiFVszt1oHZwl3NZLcfSnWiqM5P80jWyGF6xIOO8HHY6absmECPgbduqVcI4GUtjiRGLQEPPpU8R83S8TV4EJae4BlFb2oLAJ6IVDj4kYm+HQeBLF/TABHrKPoKRBIpaIBdg+9HqGkDm+dvBJnw==;sfzhVHOe/msPDe/AIKAILQ=="
+secured: "b0EbKdZHRS5wuyQ6Z5ecwnh8CV/ScaDrmyJGpuyOGL7RBhVEPoZBxu9y1ggL5AAdkEI8kJSA+BFdapgtR1yjhqPL2/X0zS7G86ZhFClTMLz1gPXerNp5yruU1n75RN83rwhtgxLI9SVq/4r1RBFCb/BxhH8A+pK52iZ4LFFJIE6DG8o3blNtC6lPBNHaTQXtiL/xvYyOC16fg9356m+fiXkN56vFWh+JpzU3TQsV678U5+gsO5wMZztbjxHuuT1dxIIWFp2XerNDX3HX/Vv6mb2P4tfiW7q86fHrmWDwYHHCS/YPBi8ftWu5PQOHgYoVN0QMKH9XdT8DEHi1B146aQ==;C3o7vc39+9ioF9leOrxSMw=="
 ---
 
