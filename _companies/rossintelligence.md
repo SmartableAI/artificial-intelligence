@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ROSSIntel"
   url: "https://twitter.com/ROSSIntel"
-  followers: 5159
+  followers: 5163
 
 size: 11-50 employees
 yearFounded: 2014
