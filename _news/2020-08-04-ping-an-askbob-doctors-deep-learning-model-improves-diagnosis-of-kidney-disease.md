@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Ping An AskBob Doctor’s Deep Learning Model Improves Diagnosis of Kidney Disease"
-excerpt: "Company of China, Ltd. (hereafter “Ping An” or the “Group”, HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team[1] has joined the National Clinical Research Center of Kidney Diseases in China,"
-publishedDateTime: 2020-08-04T10:58:00Z
-webUrl: "https://apnews.com/PR Newswire/a0e968babaf90756068e106c752eaf28"
+title: "Ping An AskBob Doctor's Deep Learning Model Improves Diagnosis of Kidney Disease"
+excerpt: "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team [1] has joined the National Clinical Research Center of Kidney Diseases in China,"
+publishedDateTime: 2020-08-04T11:13:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
 type: article
-quality: 34
-heat: 34
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Vu6dL11xEaw3trNgjyE26Lh+wAKjFzllHKVr05O8z9dmkAmtHcTIlnAWblEAaij6bhWRp0V6xyXfoXf3KYGu+1MMxT6JM5nTJuhcl8AUr5VUdK6Dr0mkW7JvdY4/CTm8eL+55RJMrUjdrsOzNuKU+FRb0BKr2RDH5Vc3P+CbKuZOLPNEsfZpwrEfwCyvMWifn72FG8Xld0D5bROOHyaqfBRqzs44iHCjwT0ZHgvvBvqZOi4P9WreDu7TWThv2+1KhBMEXS3GN438cWItzA9MfMczAsPg3BrNQ7qfdvkMII0w+G7cgM8/50y+CQl8zsWxx+ylEcmNTkUlbG14fMzcdA==;CEb4Yd8Z/64w7lwi1dLgVA=="
+secured: "WmdDxFi5U2Ktro8PtH4AQs8POeQMPRv1wxmfr3Ra4x5XoFypfjrXpuv72qy3kXJ8QqE9OPi/JteQEcF0jdJDnbOPMw5xPHLyyG14qTEkO9fn4ixMfCzNse4l91VFRXwYPG0DWsabRqe2eR2ezdvg0sS/xVJ+aJv2CdvGt1tVfazom3G5QHG3933KQr/jWhMTUjhQddv8KQwzXpfTiL677pY412SckWBGz+Qbhemq4V46Q4ykrzPuNfrAQ6M8oF3PdjBXLPk4BsMpKRBdSjCet8vUThlUeFOYIk66oeTUQkOEkkDCA267lkNFYWnEIcZ8RTj51fMMxGUE75uGx9UGLA==;WYiFfsdM5dvopAQa7Hdcyg=="
 ---
 

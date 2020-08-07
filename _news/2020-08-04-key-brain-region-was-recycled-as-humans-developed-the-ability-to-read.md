@@ -8,8 +8,8 @@ ampWebUrl: "https://medicalxpress.com/news/2020-08-key-brain-region-recycled-hum
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -41,6 +41,20 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Key Brain Region Was 'Recycled' as Humans Developed the Ability to Read"
+    excerpt: "To account for the development of this skill, some scientists have hypothesized that parts of the brain that originally evolved for other purposes have been"
+    publishedDateTime: 2020-08-05T07:33:00Z
+    webUrl: "https://www.laboratoryequipment.com/566887-Key-Brain-Region-Was-Recycled-as-Humans-Developed-the-Ability-to-Read/"
+    type: article
+    provider:
+      name: Laboratory Equipment
+      domain: laboratoryequipment.com
+    quality: 39
+    images:
+      - url: "https://media.laboratoryequipment.com/m/52/article/566887.jpg"
+        width: 401
+        height: 300
         isCached: true
 
 secured: "aJt1mgU/0xT+Dm2mgDsEg5yC37hfyCJgCktVhOVxPP0bDsENzGiouIx6QLZhYq1j2Kwq4Zv51oVGtOAzP9iizqmUR5VtEgprtwoLgdCNRBHKdHCQdAWUzcQ1e+UerGEA2q+X8skQbV7Z6Ww+NwNjEIM6rqm0TU/WcV/RrOfdlx15PpVuNygvm+dU6bzF1aXSnjdTX9OHQtZ9/1KcySI4rtQ1STIssuCcKQYsG7bFFMyXUT1lwVrL+i5RdsDXfSsmBnqCFR7PgOHm4tK0cPlIREcWNFMGfB9czEurTH6hCPlWg27Qgob4E2EanQpIOfzgQYiZJGxWYTU5tmm/CzJAIg==;h0AQWBRo/LuztWZXHvT+Pw=="

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-f
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/"
 type: article
 quality: 100
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Flight Simulator Devs Announce Blackshark.ai Partnership And SDK Updates"
+    excerpt: "Blackshark.ai uses artificial intelligence to examine flat satellite imagery and extract a photorealistic \"digital twin\" of the planet. This is what allows Microsoft Flight Simulator to show truly 3D buildings and other structures,"
+    publishedDateTime: 2020-08-07T16:05:00Z
+    webUrl: "https://hothardware.com/news/microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/52457/content/microsoft_flight_simulator_blacksharkai_3.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Microsoft Flight Simulator Teams with AI Firm Blackshark"
     excerpt: "Microsoft Flight Simulator will have AI elements courtesy of blackshark.ai, which tapped into Azure and Bing Maps imagery."
     publishedDateTime: 2020-08-07T13:05:00Z

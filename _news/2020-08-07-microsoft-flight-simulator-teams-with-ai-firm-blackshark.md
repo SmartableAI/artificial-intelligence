@@ -40,6 +40,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft Flight Simulator Devs Announce Blackshark.ai Partnership And SDK Updates"
+    excerpt: "Blackshark.ai uses artificial intelligence to examine flat satellite imagery and extract a photorealistic \"digital twin\" of the planet. This is what allows Microsoft Flight Simulator to show truly 3D buildings and other structures,"
+    publishedDateTime: 2020-08-07T16:05:00Z
+    webUrl: "https://hothardware.com/news/microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/52457/content/microsoft_flight_simulator_blacksharkai_3.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Microsoft will release its ultra lifelike Flight Simulator this month on PC"
     excerpt: "The software will make use of satellite maps as well as live readings from weather stations and airports around the world to create 'the most realistic' version of the game ever developed."
     publishedDateTime: 2020-08-03T12:23:00Z

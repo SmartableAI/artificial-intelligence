@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/googles-ai-thinks-women-wearing-masks-hav
 ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +22,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 secured: "D22U/PwWzo2Nw+u10KWaiQplF5/wKjsOYN6sSUGu2kn7jlBJU+ZRUu2owEc/RUfipZMsEFodPTiV7vifSWZFDDUK2A4DUqDMgvxkZlh9FjMOsFIc2y3DcTXJU5bIJr48V1G+t4bjjsbbrN7y1LGx0UU+OhYmm5WiaIFkmp4MIt5Shqgg+3sWjyMX4FN8tUYETpVrQUXWHiGHMCxiksTbPyzUm0YUyLb5vTyw16U8l+H+H74Q9x4q8Wz/+Kl5sKXWpc2bgwJeUbKp8o/baKeOl05J1UZJV4rGGkRrjbHYwVvj+YSavJ1Xe6A+fgl/f/ySlzs8jDcQ2XFgLmtPKSQL9nvG67UzjUhkPmIZQEhwAiJJkb9kRpVvGBKWhRSJZ4aBi25jLfZic2a+CPB2zaWYi6KLUyHQFsmyWXosvpbzhrjG9s+UMp2fpTX69epIaZM+YAQKmG9J12L/3N994rzUTSl08FKmfugIjLo7SAcP/dJUYf9g/sMpKxl4gRrz4OVC;pJ3VA/d42+qPC+Ve9t4PNQ=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Machine learning research may help find new tungsten deposits in SW England"
-excerpt: "Geologists have developed a machine learning technique that highlights the potential for further deposits of the critical metal tungsten in SW England."
-publishedDateTime: 2020-08-07T13:39:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoe-mlr080720.php"
+excerpt: "Geologists have developed a machine learning technique that highlights the potential for further deposits of the critical metal tungsten in SW England. Tungsten is an essential component of high-performance steels but global production is strongly ..."
+publishedDateTime: 2020-08-07T15:11:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/08/200807102332.htm"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/239721_web.jpg"
-    width: 1440
-    height: 1080
-    isCached: true
-
-secured: "ZrzQSAQOPCe82DMgfhDsMZfq7UEdgBYJ1crt9EDT2EGWI0/cXLVWWkuAPSrp6PsmbGSeoXPp88i6YyRi6uXH0DS/QEaxVohoX46wIpka+Qnclt2J0s1ZBN5MXhsbJKtM4MXEPFQBOZBYh+7gmvg7PzWnXZ06iSyFZD4VcGlC3mPp8mWZasXk5ZDebhkTNZJX2GbKK5X9RvmtXKmmaWNEhr6hRNVk8gIcJct4an+ogFIidXHnQMM7dM3xaJzdfS7ZDnHRyFlQDY3V0hCn16IMAjoCdDh2C/vpT+1pDjWcvRID0HBtHXXt3TLk6AFxK/sSMXJkt+eTc8DdKoovxfIOAMsa3lMRST9FRp5nga3DgulgRRZBHp/IgBsWCLVHT4MnZidjWY9dM0XEGKi9QYEauVnVOHqPHfZrrLaIWqOuhLi53va22xHaHKI9STuDap9fGS6Ln7MiWT+hg0WSNxSJTcVY5yFtJ21YUCJVwbsHErOsB6oYVEvaq6qRBzQ+NUmd68IacNamhZ9mSMUfrT34hA==;AX2VV+k1VkVrWp1IrJbjcA=="
+secured: "3iCvSFCMfiRxcs0bWi91Seusms0gGrJrqTM+wIBoMr9aiEda7lkPvIt3tDNco41HMNaugsTrsaBy7zgLpghNC/BMKhTF4uo003u/DK6o+Q69X4mbAbUcZCGqCgUnzdD5k4edMdVzHyiCtaFsOvd4xxh6OUtnntmUEZeG/+pBixGsL5SQQhvrX9ooW7MWGBQeJ+lczGnnEOyI3ZM4FsW+WnGhvMKDl8OHesKIF3acGnz2OzX/uNZu5xyAiOVDZUb1XdSESn+g/ffDC3BvDVBxOWefZgpUh3PEGC9FXKSdOLAHJ+sXACfKNYRnz+3q7rDzGZdM9xkFpNji/J8yqi4BXQ==;w4iZs6Qcv7puc28kpKkQRw=="
 ---
 

@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "FLIR Systems, Inc. (FLIR) CEO James Cannon on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "Q2 2020 Earnings Conference Call August 06, 2020, 09:00 ET Company Participants Lasse Glassen - ADDO Investor Relations James Cannon - President, CEO & Director Carol Lowe - CFO & EVP Conference Call Participants Peter Arment - Robert W."
+    publishedDateTime: 2020-08-07T03:33:00Z
+    webUrl: "https://seekingalpha.com/article/4365579-flir-systems-inc-flir-ceo-james-cannon-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
   - title: "Teradata Corporation (TDC) CEO Steve McMillan on Q2 2020 Results - Earnings Call Transcript"
     excerpt: "Q2 2020 Earnings Conference Call August 6, 2020 5:00 P.M. ET Company Participants Nabil Elsheshai - Senior Vice President, Corporate Development and Investor Relations Steve McMillan - President and Chief Executive Officer Mark Culhane - Chief Financial Officer Conference Call Participants Katy Huberty - Morgan Stanley Presentation Operator Good afternoon."
     publishedDateTime: 2020-08-07T03:29:00Z

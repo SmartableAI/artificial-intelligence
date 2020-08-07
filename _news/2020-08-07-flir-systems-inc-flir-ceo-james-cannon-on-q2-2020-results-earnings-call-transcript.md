@@ -1,0 +1,42 @@
+---
+category: news
+title: "FLIR Systems, Inc. (FLIR) CEO James Cannon on Q2 2020 Results - Earnings Call Transcript"
+excerpt: "Q2 2020 Earnings Conference Call August 06, 2020, 09:00 ET Company Participants Lasse Glassen - ADDO Investor Relations James Cannon - President, CEO & Director Carol Lowe - CFO & EVP Conference Call Participants Peter Arment - Robert W."
+publishedDateTime: 2020-08-07T03:33:00Z
+webUrl: "https://seekingalpha.com/article/4365579-flir-systems-inc-flir-ceo-james-cannon-on-q2-2020-results-earnings-call-transcript"
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: Seeking Alpha
+  domain: seekingalpha.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "QuickLogic Corporation (QUIK) CEO Brian Faith on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "Q2 2020 Earnings Conference Call August 05, 2020, 05:30 PM ET Company Participants Jim Fanucchi - Darrow Associates Brian Faith - President & Chief Executive Officer Sue Cheung - Chief Financial Officer Conference Call Participants Richard Shannon - Craig-Hallum Sujeeva Desilva - ROTH Capital Presentation Operator Ladies and gentlemen,"
+    publishedDateTime: 2020-08-06T02:43:00Z
+    webUrl: "https://seekingalpha.com/article/4364966-quicklogic-corporation-quik-ceo-brian-faith-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 9
+  - title: "Teradata Corporation (TDC) CEO Steve McMillan on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "Q2 2020 Earnings Conference Call August 6, 2020 5:00 P.M. ET Company Participants Nabil Elsheshai - Senior Vice President, Corporate Development and Investor Relations Steve McMillan - President and Chief Executive Officer Mark Culhane - Chief Financial Officer Conference Call Participants Katy Huberty - Morgan Stanley Presentation Operator Good afternoon."
+    publishedDateTime: 2020-08-07T03:29:00Z
+    webUrl: "https://seekingalpha.com/article/4365573-teradata-corporation-tdc-ceo-steve-mcmillan-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
+
+secured: "IAoyqhBAK9QTP4zuA2SlFn3NLTA9mm/MisWzaw0ehzGJnrZxlUxX/YiUN55xwaq/r/X6GF0FyJIV+rkjAqamDFNyPkumefcUJNBtfZavlFS7Vc+owYFHRyAWZuu+9QRpzwRTPwzIKec81smWtOC0aysSt9mJSG7c1SRa03s0qUPHn5Xzd0yC3SL8pZZhndG1g8fPOKAFmFNihr8SHNIKsGgcQiTxJ2rOjcN+zJIsrBjb3GKUGM6F04S461jfaCWVi+bKDWAeqk3B2/NQpMPVZW1sLcsDq5bBH0i0Cs/9fNQzEsvvAX3/rIEp4yvWZ1YnXmsT9krinRdsMcZ5XxMq7g==;XKdISJOnytKAPVyL5kgHWg=="
+---
+
