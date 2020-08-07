@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Affirm"
   url: "https://twitter.com/Affirm"
-  followers: 7946
+  followers: 7947
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ex1KJSLIoKU"
 
-secured: "CfZyS/XY60b2Bmln1dmeAJ/Cjr6T3geo2IRYjK1PNyq1e72Zs6NX1lPTmd9+2RnX9P7XdFd/zWHcAHglYlBs7ESdqdrZPc1SAdZFS3/k0hf1Gkjx2bNvOcevH8qMVaP9+k9qINtbPIyZ490NRTkG3xILLvomVsOzj9yJtfF6UCM7VqbyYVV7teRAAJPi8QCxlCny++UjPJ+nqYFUhEOfw3zG+NpZS+hkOhkQBjB/QgqR9E4F+Mh9g9HS4P0nP0/ZREZmDUHTWZLB7GTy8D4jwsQ5IzyorHyvIqP8e3prEYZJszi49NBZ7kmFl74WQtO45cT0rXUu/8JUc0CAMhykWfZPCXYSBi9oSO/WgaMqYIWNA0ZY2Q85uSUY/4ylTBb6;UiAn1HPgKOTZnF/18sBBhg=="
+secured: "8UXRmRnPdgyRiOSHF4+cjUqPMBQ7Lf4s9xbrJuCVLMAzS4lueQJIE0tqXX8w48mPgtP8vkWRNDd+VIv9ZQmlOd4ndOj3KMmf2bcGhIG4/XdZ4x8XAtzTe996dxiSvntSkthYAwizEiZFgAJfm4GAIvnfYOaLzSXen/JtWS7qBPeBhPd66/B40Re0N9+GkLnnSimcODwsUXgkLyPhTBfWLFHtgQhhmAd9ElfKySadyz4rAr1dQNQgetVkzHQcT03367bJEgiLqLYB7+OEBA1a9lqeEnfoh/0Yp23D430YoG34NvirvH19T/t78gZWG/jKhiFkmFXq4F5LykES50VhBE2dPfD+FuH/1QOCW/HS8kEmv54is4MwTq9D3eKvn+pf;RZJ/Mj14EraW9JX8+pMDgg=="
 ---
 
