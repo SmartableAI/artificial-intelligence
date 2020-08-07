@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-03T12:23:00Z
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-8587631/Microsoft-release-ultra-lifelike-Flight-Simulator-month-PC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 636
     height: 382
     isCached: true
+
+related:
+  - title: "Microsoft partners with blackshark.ai on Flight Simulator, provides SDK update"
+    excerpt: "This week's development update brings news for a bunch of components including the Partnership Series, the SDK, Feedback Snapshots, and the development roadmap for August-November as well."
+    publishedDateTime: 2020-08-07T09:02:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 100
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1589504421_microsoft_flight_simulator_21_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
 
 secured: "P2YZTK2LuxZ3JIN6YVLLv3T0uk0YHG/+RSKFv2LLUmdLjuimXBU3wDOjkqWny+85t0zg1whepB1LOQHOG2Ap/TQsVkCe/rDiatnfvNPCx2ng2e80NAcqPgvgfnL1Y/rroYraoKv4wEEQ/NmRYhTYfNyFykoj02zq8mnVu4Lps5oxlzxDeTJMiEQ3BpJl8tnwK3LVOlSS88orm1PR+23FomR2GdLIZw1OAgRMCBrE/mh/YTI6A4zOv83X8awSpq7U4zm65kgfDC4glK6kGywr8ECtZOw6rH2ZGrEV1s9KxI1yY0dnYd/JA7926MaL+NBX/tCCfOnQ4vRlAFTHqDS5jA==;n9v1X+Vsc000axluBzGJZA=="
 ---

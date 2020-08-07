@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Holt Fintech Accelerator announces 2020 cohort"
-excerpt: "The 2020 cohort is made up of the following fintech companies: 1. Brazil’s Agryo is an agtech which connects lenders to farmers by combining data and AI modelling to bring better financial services to millions of underserved farming families globally."
-publishedDateTime: 2020-08-04T22:16:00Z
-webUrl: "https://www.finextra.com/pressarticle/83586/holt-fintech-accelerator-announces-2020-cohort"
+title: "The 2020 Ecobank Fintech Challenge Finalists Announced"
+excerpt: "Ecobank announces the top ten finalists for their third edition of the ‘Ecobank Fintech Challenge’ emerging from seven countries."
+publishedDateTime: 2020-08-07T09:11:00Z
+webUrl: "https://pctechmag.com/2020/08/ecobank-fintech-challenge-2020-finalists/"
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: PC Tech Magazine
+  domain: pctechmag.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-    width: 480
-    height: 270
+  - url: "https://pctechmag.com/wp-content/uploads/2020/08/img_5153.jpg"
+    width: 600
+    height: 418
     isCached: true
 
 related:
@@ -54,21 +54,21 @@ related:
         width: 810
         height: 424
         isCached: true
-  - title: "The 2020 Ecobank Fintech Challenge Finalists Announced"
-    excerpt: "Ecobank announces the top ten finalists for their third edition of the ‘Ecobank Fintech Challenge’ emerging from seven countries."
-    publishedDateTime: 2020-08-07T09:11:00Z
-    webUrl: "https://pctechmag.com/2020/08/ecobank-fintech-challenge-2020-finalists/"
+  - title: "Holt Fintech Accelerator announces 2020 cohort"
+    excerpt: "The 2020 cohort is made up of the following fintech companies: 1. Brazil’s Agryo is an agtech which connects lenders to farmers by combining data and AI modelling to bring better financial services to millions of underserved farming families globally."
+    publishedDateTime: 2020-08-04T22:16:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83586/holt-fintech-accelerator-announces-2020-cohort"
     type: article
     provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 39
+      name: Finextra
+      domain: finextra.com
+    quality: 24
     images:
-      - url: "https://pctechmag.com/wp-content/uploads/2020/08/img_5153.jpg"
-        width: 600
-        height: 418
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
 
-secured: "UhrCLIZ7IweuUo0WvKg0KJNlYEZ1Pqv0K0xJ3n4Bxbyo3+y7tiBE+R7anmN/1AmlwSES/4L8ab4foCDn9hQOmkZOLsYyDhv4y5Hbods07oxBcQn65uMRrG+sQY1Wwkg+nXcE5TbHBLSDWGm2fz7fB9Q9J8PWuaIlH0MT6Jrv8xcqiwMAdXdsd9FzvpWu+e8wxDq6LJoqoiIqBErDhyrvBQqZbb96iWW6Te60xA4rdSoMmmFZF0Jq/VgOWevfl6VUbuhf577nm8IOzUlm+eetOPNrZqVu44Cz59aiRaf9NyeXAb1dRIC1OfYlBgJXCtT1Q0GQYFRBIrmqFne2xfKleQ==;hxbmLM5luww9nlb5MSfICQ=="
+secured: "a1MFK1xMi3IgNz77Glh4xKQhc/ZVyoXe3Lqo2ztuyzBG6Rx9GtwtuMaUb+BrBDk2KuGA5jsf7ZjyOauP3ZAUsmvylrRuWgFdo2pR1Gh7isDyh1croSxuB16oauD09iTdtwX4+JGRDdTxnGo1h0caMZkXgN6ywKQu0ZdQfP2XiqQ56Qj4FHXroEdNpkp50ZzO0dPMY1cmITBzoEFKg1YS1OlIRtzOKPC5SL1t2aAknRisvGTmHWB9Pbhv16DmHppcQNmiYdpkXPukbeIA4/Wekh+zd+/g/U5lhekYRfootHEGYkdGLppEYuu7ln5ezXNlwlnNpjOx0HXLH2lTt2VYTw==;ewLI9rbaGUMe7L13GPeXjQ=="
 ---
 

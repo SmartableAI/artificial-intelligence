@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-ch
 cdnAmpWebUrl: "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.myjoyonline.com/wp-content/uploads/2020/08/Ecobank-Fintech-Challenge-2020.png"
         width: 810
         height: 424
+        isCached: true
+  - title: "The 2020 Ecobank Fintech Challenge Finalists Announced"
+    excerpt: "Ecobank announces the top ten finalists for their third edition of the ‘Ecobank Fintech Challenge’ emerging from seven countries."
+    publishedDateTime: 2020-08-07T09:11:00Z
+    webUrl: "https://pctechmag.com/2020/08/ecobank-fintech-challenge-2020-finalists/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 39
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2020/08/img_5153.jpg"
+        width: 600
+        height: 418
         isCached: true
   - title: "Holt Fintech Accelerator announces 2020 cohort"
     excerpt: "The 2020 cohort is made up of the following fintech companies: 1. Brazil’s Agryo is an agtech which connects lenders to farmers by combining data and AI modelling to bring better financial services to millions of underserved farming families globally."
