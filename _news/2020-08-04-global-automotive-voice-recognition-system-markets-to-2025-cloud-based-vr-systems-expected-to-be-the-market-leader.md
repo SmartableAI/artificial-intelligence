@@ -20,17 +20,20 @@ topics:
   - AI
 
 related:
-  - title: "Global Speech Recognition Market Expected to Reach $29.28 Billion by 2026"
-    excerpt: "Speech recognition is especially designed for an interdisciplinary subfield of computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers."
-    publishedDateTime: 2020-08-03T23:54:00Z
-    webUrl: "https://www.alliedmarketresearch.com/press-release/speech-recognition-market.html"
-    ampWebUrl: "https://www.alliedmarketresearch.com/press-release/amp/speech-recognition-market.html"
-    cdnAmpWebUrl: "https://www-alliedmarketresearch-com.cdn.ampproject.org/c/s/www.alliedmarketresearch.com/press-release/amp/speech-recognition-market.html"
+  - title: "European Smart Home Market worth $39.6 billion by 2025 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new research report, the \"European Smart Home Market with COVID-19 Impact Analysis by Product (Lighting Control, Security"
+    publishedDateTime: 2020-08-07T11:43:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/european-smart-home-market-worth-39-6-billion-by-2025-exclusive-report-by-marketsandmarkets-tm--842715519.html"
     type: article
     provider:
-      name: Market
-      domain: alliedmarketresearch.com
-    quality: 38
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "wkfkk8Hk6mIaLlIdOm6do4EE3lavT2BLBU4OKHkJVyNdzY72wh4pFoAXrhrJBQjyJ4j2Y8gze3/rRVyQp9L3TW/+k/NCUcexqxb2gWogMkYerwF2yYxvphCtg+3tEaBqf7PHL6ZA4laoXeGNiK3J6ufWQaoWMGUAMBslSP2rUHMgUPpPSpJF1JzwyxgZbwqC5YUsz3MZi8XE0KUFlLNs6NsYxPhrLu3DTIT2wWarSik0Cj/WJYAO+EkcglG0FJJdmnOqdOOt8EPsYDGPvsEgrfYtiCaQFahVYo50GhYuUMEGlq2Ncn3ElnmHIGPi422CyielNpBlTZsfSD8yuS3ZlM8h2gox3+piI61Pcb9JQ0okxkEmPbnSNxikkYYCUoN78/8UezsfNBRmmjyuw3CTDn1snpET/4CWUg3nMWsDQNenQ4ZLCPiPnL9RTluHWdk4CGdwV5uKZDihBAcMfbi4jrXe66p3CqwIy5MpfWLcaKxmdyHOuXRo2w7C6+AmKqce08AGpEeKXMMrhjfrUePRwg==;kIgudE1uG2BfEr47xPirGg=="
 ---

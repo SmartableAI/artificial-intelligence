@@ -5,8 +5,8 @@ excerpt: "In biomanufacturing, few things are hotter than cold calculation—the
 publishedDateTime: 2020-08-06T17:40:00Z
 webUrl: "https://www.genengnews.com/insights/bioprocessing-warms-to-artificial-intelligence/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.genengnews.com/wp-content/uploads/2020/07/AIBioprocessing_Fig1B_BoehringerIngelhein_ProductionFacility.jpg"

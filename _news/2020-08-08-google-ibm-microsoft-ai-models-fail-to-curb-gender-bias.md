@@ -1,22 +1,31 @@
 ---
 category: news
 title: "Google, IBM, Microsoft AI models fail to curb gender bias"
-excerpt: "The results showed that AI algorithms are, indeed, written by \"men\". Out of the 265 images of men in masks, Google correctly identified 36 per cent as containing PPE. It also mistook 27 per cent of images as depicting facial hair."
-publishedDateTime: 2020-08-08T12:00:00Z
-webUrl: "https://news.webindia123.com/news/Articles/Science/20200808/3606271.html"
+excerpt: "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes."
+publishedDateTime: 2020-08-08T06:16:00Z
+webUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
+ampWebUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
-  - Microsoft AI
+  - IBM AI
   - AI
+  - Microsoft AI
 
-secured: "h+GuZ2ELqbDpGnbktrOl6E55Jwwq5YmpLLgYvrB789vMmTPmkeA6pcsqacmtMdUesHFTrSo7Y3a2u3CSATxJUZb5RJKt44+TvgGYxGbp8UEzxwnelpH9XjIMaxLUim0vKsRZ2877AbfiZsy15i2Uf/L1UHtTd7WYV5zAfb4PaE8AwOYyS4gHTU1Wx0AsawxqsvcdDocsD7DvR9+MWyy8cyQyez52zWn7M1DG8bmVZqw5LihjnaQKT6m0OcLcF2uiFGsi/ErWP75wdWAWsKMYgSK1rscMBAI1eyaHWLn/GZmjEEkZYsTMKAo3IM3lN/qzh9VljIJbQam7STkoNC3XBQ==;kXFHD4j+l41wqdTjaLwVLw=="
+images:
+  - url: "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "o/mCx/qz2W/vKRHBwT2laXHvyEAnw+tzckdrWGLR4Ierf9zSr668+tQDznjJW8s6NTNsMeMdWF7XJaecfsGmPZMUX3ktfv5l3HLoVix3Anoj28XX4QeDRUilRZf0oR8Jm7sUcnwCaD4+asQShdAFEL4AzkHoaWm7/3uicLjKx+cio3qJnVjUL0Nbou8+rt5gjkaxZcTlaao+IeZis8xEYIvatPy7dkWxvB7oeM7CeRGzK2JpfGZEusnxM54PbBkBGtJYlO0VvsXemYpYfXyt/3va+Zzp44i73P9oh/zsGLNi+J+W07uECTNqYZ4udHWvn2Fr4XeA5dZ3YPq5UzYX2A==;AborJcsPcGxJUExRxbXdAA=="
 ---
 

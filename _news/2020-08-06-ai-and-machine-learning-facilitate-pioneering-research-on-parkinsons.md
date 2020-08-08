@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-machine-learn
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
-  - title: "MobiusTrend Research: AI Deep Learning and Hologram AR Applications"
-    excerpt: "Facebook, Google and WIMI focus on AI deep learning +AR technologies, which will facilitate the interactive display and extend AR application scenarios. Hong Kong"
-    publishedDateTime: 2020-08-03T23:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16911021/mobiustrend-research-ai-deep-learning-and-hologram-ar-applications"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16911021"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16911021"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
 
 secured: "Nx4UNSa63nCN5NrL7PnXX+sy3SMUZnMKaESEYrJT6/IkvvG3Gh0ohQwFct6M0jP6paXbgTV9o8gtSGZ/Mec0sqmMwnh3CbiQggkg/4/GJxedb84ePs6OKs+ryizPT7xV8oOdi7vGL/csXUj3CyKyu4p46E5fVj+SSINNRSaGvKdWViYUVaQE7H+YIxO96Zum2HH0DtgGGPWUcDTTlpQDHGG0renfQngM+4z0Bw83+kUmjymvS0xhr6pa0+mmEZ6/WRT9C+STzRSrV+x1VfhrUQw89qZdldxBrLhhhIhyg0neKrCe8cRr/LHGOpYjbvg0hCzUCasDgH6CBSk6pYcIDfVyn7i0j9I2R24T4qLZ0w/+bgzFU8S90bAKmCB7eKpVFy6SSOlKGT+1tJKISQm+/jVG7GOHtJVS1Vxz7YvXVPbiQw0Gu2iGj6YXZl7kWjF39stvt01NW+dpkcS124jEKjfTLgXxYiSbTTaCPxtd28CxGJG+gefMQGGB5HVkBvoM;EET0JXQx4Wa1Lypq1wj7cg=="
 ---

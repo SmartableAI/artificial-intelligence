@@ -23,6 +23,19 @@ images:
     height: 350
     isCached: true
 
+related:
+  - title: "Global Automotive Voice Recognition System Markets to 2025 - Cloud-based VR Systems Expected to Be the Market Leader"
+    excerpt: "Dublin, Aug. 04, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Automotive Voice Recognition System Market is ..."
+    publishedDateTime: 2020-08-04T11:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/g16915910/global-automotive-voice-recognition-system-markets-to-2025-cloud-based-vr-systems-expected-to-be-t"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16915910"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16915910"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
+
 secured: "ftTA9ujzMnRUz/q5r/duDLqHZz+oUX5bORvO2j7zV34N9pjqhG7RcKsSlviEhEq0PzNIY6/RUh/cZF/QCo33JlJMPUuCy2ue2vi01TeH+TTFWFIhLo/JZl7/0l8a76tm5c8/KcRMkTv9p4K6ZOVoJ5KT/0SmHuHRzQc3sIwQuMNm5PhAvt2ymtqV4yCtNRp2iSKqoIbAD8w1VZ2+GUnmhdqFQGkyMduzRMKRw1jUv/mlHd8BpIC12k8Td4wOdVqc+mY3uIX6YFtN1b3amnyihz/ub3AdE5tY4aCqVXnGEGWhAnhJTFX3CkXjaNjWiRv8QK9Y6Pm7UftxlqyaVe8KWQ==;v3O+gAEj7clrDxbvCcPicQ=="
 ---
 

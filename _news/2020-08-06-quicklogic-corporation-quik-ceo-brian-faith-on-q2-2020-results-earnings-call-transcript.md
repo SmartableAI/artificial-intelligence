@@ -36,6 +36,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 0
+  - title: "Himax Technologies' (HIMX) CEO Jordan Wu on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "HIMX) Q2 2020 Earnings Conference Call August 6, 2020 7:45 AM ET Company Participants Mark Schwalenberg – Senior Vice President-MZ Group Eric Li – Chief Investor Relations and Public Relations Officer Jordan Wu – President and Chief Executive Officer Conference Call Participants Tristan Gerra – Baird Jerry Su – Credit Suisse Presentation Operator Hello,"
+    publishedDateTime: 2020-08-08T16:38:00Z
+    webUrl: "https://seekingalpha.com/article/4366380-himax-technologies-himx-ceo-jordan-wu-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "tEnNki2lkfXeNv75u3EvxcEpE/Jmq//pKZ/itOhQHq/bMmmmHcSOg6VLyhu52NMfdKew+JihFumFIt6UMc1kYr+f4K6D1TLNhJk/do2DfnOH+NtYCTrDhTfDoC2DuwXTqxSUYMDN3NGRxS6Je3hmOH8D3U1j89mg3iMKQvhXZFCWKBIyU8ww0H22DKXi55lGqKK/P4vlf932iopHrcHxs24WQ7CHqjBy2nvSnkBHulZ2UZpaNjrj3lO4WJe6bUokzg3uJIHeFeCH/K0DXcbeW+YBKoDletbIl9pEPj6qproj5jotMAj2K2QFU5CDFh1OGryyLL+VWOgUk/juMNsUUA==;tbL6N4AXf9wa/3GZbRt7hg=="
 ---

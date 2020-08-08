@@ -55,17 +55,6 @@ related:
         width: 770
         height: 511
         isCached: true
-  - title: "MobiusTrend Research: AI Deep Learning and Hologram AR Applications"
-    excerpt: "Facebook, Google and WIMI focus on AI deep learning +AR technologies, which will facilitate the interactive display and extend AR application scenarios. Hong Kong"
-    publishedDateTime: 2020-08-03T23:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab16911021/mobiustrend-research-ai-deep-learning-and-hologram-ar-applications"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16911021"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16911021"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
 
 secured: "cSaJ2FCEt86xN2SUIMmwWWyTbrmV3HvaDXvKXs8Veo5rfB6OMa/u9Z8L5lqmUYNc2rW4n5lvG69LQ1klY3rPWeCH3LmFwKsVw9nZFBBvFdBFRdConxQwhOoiHit+DHbK8RXm5rSM0r3RcrhujaMq9pYNqkr3Cp1NOZqCFPO9K6IY6qrXK35QQS7+bQ4VWmMG5exKovAohDSKy6fgvKyKw25Nnu2i1Ism3u70bDLI9tLWEqZKMcO6yQdFLXcvk6fUDqh6QAieCEKTjK3Jedb4ivpEKy/jcnA1ReZW44HZtGhwTkttvWngGoEmP6z23Y2ahDRuwc8ahHzGrolJ6wW2S1JAMxG0h2tSz5+dLenyDekBEp75GYGtn956GS8mIXrNqFhjnXOUkCF8YnTUcUI5AyJt6U5RKDfvvA4xEVR3gy7db3zV1CGpok3CiVnw9fXU0qn7Iab0XHqs1CltfClaM2mjCfTnohLqxOoQQtkyBT0x9Nbw+AoZcQ8GJoq6e0mqmjCblC+6UiNCR6TVaQtLVg==;KXkK13C21EOxY329AxF+Zw=="
 ---

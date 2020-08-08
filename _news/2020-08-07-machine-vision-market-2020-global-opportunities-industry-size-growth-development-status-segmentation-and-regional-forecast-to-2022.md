@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Facial Recognition Market (2020 to 2024) - Featuring Safran, Synaptics & Thales Group Among Others"
-    excerpt: "This robust vendor analysis is designed to help clients improve their market position, and in line with this, this report provides a detailed analysis of several leading facial recognition market vendors that include ASSA ABLOY AB,"
-    publishedDateTime: 2020-08-03T23:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/g16910911/global-facial-recognition-market-2020-to-2024-featuring-safran-synaptics-thales-group-among-others"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16910911"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16910911"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
   - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
     excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
     publishedDateTime: 2020-08-08T03:31:00Z

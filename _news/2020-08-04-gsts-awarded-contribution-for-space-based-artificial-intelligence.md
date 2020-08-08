@@ -3,9 +3,9 @@ category: news
 title: "GSTS awarded contribution for Space-Based Artificial Intelligence"
 excerpt: "GSTS will leverage AI capabilities in Object Detection and Image ClassificationHALIFAX, NS, Aug. 4, 2020 /CNW/ - Global Spatial Technology"
 publishedDateTime: 2020-08-04T15:13:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468099"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468099"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468099"
+webUrl: "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086"
 type: article
 quality: 69
 heat: 69
@@ -23,6 +23,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "sSNhUQIkwbvvpOugCFVVeNgvrWAzI8ZAa+y7C1jXBoDIPqAdScr0OvB2XysbZF2YsQ2Kz1oNwoKW+eijYfRUQoevqh6JVV4VmOWrhpK2LP57bThQ6k7sZpOYKaL0Tdj2pasDFFEs9lsvioMso868Pqk5xNCrKgFA0h2eQLL3BRutAaiicKoRiOW/RmM1WNqz6rqGnk9S86cLzW8bAuOKHK+VoJHYoslt3cAS+/R0z6WZbwjMAvSOH1fXuWOnp65ol5Squ6UPpyAqYkjW/IyflvTiP0nfGWcZhUTMomCtgSpnskeranJTcb8kddMOFh9XLUlne7dO9bXj7k91C83c8Q==;SChk4maJIyzlxPobsZr16Q=="
+secured: "HlEb6GFH8LaFUMGqd2st8aEIyXkqreL9cd5kkz2CyNiLATW8ReeK9GG4bkhCCq5kO62qQdsnCqmOXzZakHxcytJpx/iqyo6UkqkENOtUhE6GdUjdCIIukcjQOmxfoUL/qeGesRQyy3RI22+0dDMp49Ao//CAyHje5r8ckjp4bU+Fvwe5cuHHr9CQGH00DU/nUvyu7AurbcryPJXJaYQRoutIN2L7D+U1IKBU31aYLFGesD27scUrKbPIs5OB7pFB5ad3HTdoS84gYsPwM8A3Ac6yoNOBnJuCZ01I4mfvSk7HaDy3FHRNaIbjJnJPoOcZITKU4ziK76uPxMkT0uXIGQ==;jSR3KP5MDgsXE5bYmcjTyw=="
 ---
 
