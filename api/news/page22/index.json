@@ -2,6 +2,56 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-07-20-aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts.md",
+      "title": "Aurora expands to Texas in bid to ramp up self-driving truck efforts",
+      "excerpt": "Aurora, the autonomous vehicle technology startup backed by Amazon, is expanding into Texas as it aims to accelerate the development self-driving trucks. The company said it plans to test commercial routes in the Dallas-Fort Worth Area with a mix of Fiat Chrysler Pacifica minivans and Class 8",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-10.23.22-AM.jpg?w=1024",
+          "width": 1024,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/",
+      "publishedDateTime": "2020-07-20T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.md",
       "title": "Pick up 87 hours of training on AI, machine learning, and more for under $35",
       "excerpt": "From self-driving cars to image recognition, machine learning is already transforming the world. The Ultimate Artificial Intelligence Scientist Certification Bundle helps you understand the technology,",
@@ -1059,47 +1109,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-unesco-invites-public-comments-on-ethics-of-ai.md",
-      "title": "Unesco invites public comments on ethics of AI",
-      "excerpt": "Specialised agency UNESCO has rolled out a global online public consultation process on the ethics of artificial intelligence (AI). This move, according to UNESCO, is to give everyone around the world the opportunity to participate in the work of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/07/AI-laptop-2020.jpg",
-          "width": 2849,
-          "height": 1472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
-      "publishedDateTime": "2020-07-20T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

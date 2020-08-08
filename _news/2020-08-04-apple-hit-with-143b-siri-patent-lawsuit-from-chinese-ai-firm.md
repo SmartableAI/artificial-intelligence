@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/08/04/4b9f88fa-d624-11ea-a9df-dfa023813e67_image_hires_154719.jpg?itok=vPru7JbU&v=1596527249"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chinese Artificial Intelligence Company Files $1.4 Billion Lawsuit Against Apple In Patent Fight"
-    excerpt: "In the lawsuit filed in a local Chinese court, Xiao-i argued that Apple's voice-recognition technology Siri infringes on a patent that it applied for in 2004 and was granted in 2009."
-    publishedDateTime: 2020-08-04T03:15:00Z
-    webUrl: "https://www.ndtv.com/business/chinese-artificial-intelligence-company-files-1-4-billion-lawsuit-against-apple-alleging-it-infringed-on-its-patents-2273674"
-    ampWebUrl: "https://www.ndtv.com/business/chinese-artificial-intelligence-company-files-1-4-billion-lawsuit-against-apple-alleging-it-infringed-on-its-patents-2273674?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/chinese-artificial-intelligence-company-files-1-4-billion-lawsuit-against-apple-alleging-it-infringed-on-its-patents-2273674?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/i1iva75s_apple-logo_625x300_02_August_18.jpg"
-        width: 650
-        height: 400
         isCached: true
   - title: "Apple rebuffs US$1.4bil patent lawsuit filed by Chinese artificial intelligence company"
     excerpt: "Shanghai Zhizhen Intelligent Network Technology has been locked in a legal battle with Apple over the Siri voice assistant system since 2012. The Chinese AI company claims Apple has infringed a patent it owns,"

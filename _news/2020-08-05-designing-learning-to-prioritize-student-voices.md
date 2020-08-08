@@ -40,22 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Young Galaxy Spotted Using Machine Learning May Be A Last-Generation Galaxy"
-    excerpt: "For a new study, an international team of researchers developed a new machine learning method to comb through data from the Subaru Telescope. The team was searching for young, extremely metal-poor galaxies. But since the wide-field data from Subaru could ..."
-    publishedDateTime: 2020-08-04T04:33:00Z
-    webUrl: "https://www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873"
-    ampWebUrl: "https://www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/03/galaxy-hsc-j16314426.jpg"
-        width: 1000
-        height: 558
-        isCached: true
   - title: "Using Machine Learning to Fight Money Laundering"
     excerpt: "Machine learning can play a significant role in mitigating money laundering risks, says Andy Gandhi, managing director, data risk and compliance at the consultancy"
     publishedDateTime: 2020-08-07T13:42:00Z

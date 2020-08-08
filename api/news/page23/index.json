@@ -2,6 +2,47 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-07-20-unesco-invites-public-comments-on-ethics-of-ai.md",
+      "title": "Unesco invites public comments on ethics of AI",
+      "excerpt": "Specialised agency UNESCO has rolled out a global online public consultation process on the ethics of artificial intelligence (AI). This move, according to UNESCO, is to give everyone around the world the opportunity to participate in the work of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/07/AI-laptop-2020.jpg",
+          "width": 2849,
+          "height": 1472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "publishedDateTime": "2020-07-20T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-corporate-execs-are-starting-to-get-skittish-about-ai.md",
       "title": "Corporate execs are starting to get skittish about AI",
       "excerpt": "Corporate boards have begun to worry about the ethical ramifications of turning so much power over to the machines.",
@@ -1120,47 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-the-daily-dash-fundraising-robots-and-who-rules-the-freight-world.md",
-      "title": "The Daily Dash: Fundraising, robots and who rules the freight world?",
-      "excerpt": "In today’s edition of The Daily Dash, an autonomous trucking startup is in search of funding, robots are taking over warehouses, and trucking still rules the freight world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/the-daily-dash-fundraising-robots-and-who-rules-the-freight-world",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/07/Plus.ai-at-Monument-Rocks-Kansas.jpg",
-          "width": 1792,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/the-daily-dash-fundraising-robots-and-who-rules-the-freight-world/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/the-daily-dash-fundraising-robots-and-who-rules-the-freight-world/amp",
-      "publishedDateTime": "2020-07-18T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

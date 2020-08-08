@@ -2,6 +2,55 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-07-22-huddlai-wants-to-bring-more-intelligence-to-online-meetings.md",
+      "title": "huddl.ai wants to bring more intelligence to online meetings",
+      "excerpt": "As the pandemic has shut down in-person meetings, and pushed us online, products like Zoom, Cisco WebEx, Google Meet and Microsoft Teams have become part of our daily lives. Into the fray jumps huddl.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Huddl.ai-Meeting-Moments-Screen-Shot.png?w=680",
+          "width": 680,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
+      "publishedDateTime": "2020-07-22T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-uipath-announces-integrations-with-amazon-web-services-to-allow-organizations-to-modernize-customer-experiences-and-scale-enterprise-productivity.md",
       "title": "UiPath Announces Integrations with Amazon Web Services to Allow Organizations to Modernize Customer Experiences and Scale Enterprise Productivity",
       "excerpt": "UiPath, a leading enterprise Robotic Process Automation software company, today announced it has integrated its end-to-end platform for hyperautomation",
@@ -1052,55 +1101,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses.md",
-      "title": "Roomality uses AI to render window-sized 3D landscapes without glasses",
-      "excerpt": "Now a company called Roomality plans to use AI to deliver an immersively large 3D experience at home, without the need for glasses. The concept is fairly straightforward. Two cameras mounted above ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/roomality-e1595363084354.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses/amp/",
-      "publishedDateTime": "2020-07-21T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

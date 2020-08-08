@@ -191,20 +191,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "Portland councilors approve ban on facial recognition technology"
-    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
-    publishedDateTime: 2020-08-04T03:17:00Z
-    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
-        width: 1000
-        height: 701
-        isCached: true
   - title: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing."
     excerpt: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing. Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us."
     publishedDateTime: 2020-08-04T19:12:00Z

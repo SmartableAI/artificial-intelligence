@@ -40,22 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Young Galaxy Spotted Using Machine Learning May Be A Last-Generation Galaxy"
-    excerpt: "For a new study, an international team of researchers developed a new machine learning method to comb through data from the Subaru Telescope. The team was searching for young, extremely metal-poor galaxies. But since the wide-field data from Subaru could ..."
-    publishedDateTime: 2020-08-04T04:33:00Z
-    webUrl: "https://www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873"
-    ampWebUrl: "https://www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/young-galaxy-spotted-using-machine-learning-may-be-last-generation-galaxy-3021873?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/03/galaxy-hsc-j16314426.jpg"
-        width: 1000
-        height: 558
-        isCached: true
   - title: "Designing Learning to Prioritize Student Voices"
     excerpt: "It is not that project criteria should be forgotten, but rather that we should design learning to provide students with choices as well as generative opportunities and possibilities. It is not enough to expose students to information; deep learning happens ..."
     publishedDateTime: 2020-08-05T08:23:00Z

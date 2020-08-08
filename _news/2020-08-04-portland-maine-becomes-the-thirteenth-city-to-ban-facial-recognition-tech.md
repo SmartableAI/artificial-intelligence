@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ba
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
 type: article
 quality: 102
-heat: 292
+heat: 282
 published: true
 
 provider:
@@ -184,20 +184,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
-        isCached: true
-  - title: "Portland councilors approve ban on facial recognition technology"
-    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
-    publishedDateTime: 2020-08-04T03:17:00Z
-    webUrl: "https://www.pressherald.com/2020/08/03/portland-councilors-approve-ban-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 39
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2019/11/FacialRecognitionPromoWeb-1.jpg"
-        width: 1000
-        height: 701
         isCached: true
   - title: "Portland votes to ban facial recognition ahead of referendum"
     excerpt: "A Maine city council has voted unanimously to ban the use of facial recognition technology. Portland City councilors voted Monday in favor of the proposal submitted by City Councilor Pious Ali in November,"

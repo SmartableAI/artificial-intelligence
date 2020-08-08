@@ -1189,7 +1189,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588</loc>
+    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/</loc>
     <lastmod>2020-07-29T19:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1885,20 +1885,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html</loc>
-    <lastmod>2020-07-27T05:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275</loc>
-    <lastmod>2020-07-27T05:21:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
     <lastmod>2020-07-27T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html</loc>
+    <lastmod>2020-07-27T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1993,12 +1993,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cmo.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
-    <lastmod>2020-07-26T10:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/</loc>
     <lastmod>2020-07-26T10:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2013,6 +2007,12 @@
   <url>
     <loc>https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/</loc>
     <lastmod>2020-07-26T05:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <lastmod>2020-07-26T01:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2091,6 +2091,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/</loc>
     <lastmod>2020-07-24T12:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/apple-leads-other-tech-giants-in-ai-purchases-analysis-finds-2020-7</loc>
+    <lastmod>2020-07-24T12:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

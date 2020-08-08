@@ -324,47 +324,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-26-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-industry-analysis-2019-2025.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Industry Analysis 2019 – 2025",
-      "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market report provides in-depth statistics and analysis available on the market status of the Natural Language Processing (NLP) in Healthcare and Life Sciences Manufacturers and is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg",
-          "width": 620,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-26T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-26-how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups.md",
       "title": "How EQT Ventures’ Motherbrain uses AI to find promising startups",
       "excerpt": "Sweden's EQT Ventures embraced AI by creating Motherbrain to identify startups. Development hasn't been easy, but the firm is starting to reap the benefits.",
@@ -501,6 +460,38 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-26-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-industry-analysis-2019-2025.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Industry Analysis 2019 – 2025",
+      "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market report provides in-depth statistics and analysis available on the market status of the Natural Language Processing (NLP) in Healthcare and Life Sciences Manufacturers and is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-26T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1105,27 +1096,36 @@
       ]
     },
     {
-      "path": "_news/2020-07-24-galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning.md",
-      "title": "Galvanizing manufacturing with Artificial Intelligence and Deep Learning",
-      "excerpt": "As a market leader in CAE solutions, Hewlett Packard Enterprise is delivering a purpose-built solutions portfolio jointly with NVIDIA® and several independent software vendors (ISVs) in the manufacturing industry to help manufacturers improve their AI/DL ...",
+      "path": "_news/2020-07-24-apple-has-acquired-more-ai-startups-than-google-facebook-or-any-other-big-tech-company-is-apple-bulking-up-in-ai-or-just-catching-up.md",
+      "title": "Apple has acquired more AI startups than Google, Facebook or any other Big Tech company. Is Apple bulking up in AI or just catching up?",
+      "excerpt": "Apple bought more AI startups either Google or Microsoft over most of the last decade, a report found. Some purchases may power future services.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
+      "webUrl": "https://www.businessinsider.com/apple-leads-other-tech-giants-in-ai-purchases-analysis-finds-2020-7",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 103,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f1b0f28f34d051e3769ebbb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-07-24T12:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1141,8 +1141,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

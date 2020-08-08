@@ -46,22 +46,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Chinese Artificial Intelligence Company Files $1.4 Billion Lawsuit Against Apple In Patent Fight"
-    excerpt: "In the lawsuit filed in a local Chinese court, Xiao-i argued that Apple's voice-recognition technology Siri infringes on a patent that it applied for in 2004 and was granted in 2009."
-    publishedDateTime: 2020-08-04T03:15:00Z
-    webUrl: "https://www.ndtv.com/business/chinese-artificial-intelligence-company-files-1-4-billion-lawsuit-against-apple-alleging-it-infringed-on-its-patents-2273674"
-    ampWebUrl: "https://www.ndtv.com/business/chinese-artificial-intelligence-company-files-1-4-billion-lawsuit-against-apple-alleging-it-infringed-on-its-patents-2273674?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/chinese-artificial-intelligence-company-files-1-4-billion-lawsuit-against-apple-alleging-it-infringed-on-its-patents-2273674?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/i1iva75s_apple-logo_625x300_02_August_18.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Apple rebuffs US$1.4bil patent lawsuit filed by Chinese artificial intelligence company"
     excerpt: "Shanghai Zhizhen Intelligent Network Technology has been locked in a legal battle with Apple over the Siri voice assistant system since 2012. The Chinese AI company claims Apple has infringed a patent it owns,"
     publishedDateTime: 2020-08-04T09:49:00Z
