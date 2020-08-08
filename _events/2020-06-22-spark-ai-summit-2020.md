@@ -4,7 +4,7 @@ excerpt: "Join more than 4,000 AI experts, developers, engineers, data scientist
 type: conference
 startDateTime: 2020-06-22T09:00:00-07:00
 endDateTime: 2020-06-25T17:00:00-07:00
-location: San Francisco, CA
+location: Online
 price: $$$$
 
 website: https://databricks.com/sparkaisummit/north-america
