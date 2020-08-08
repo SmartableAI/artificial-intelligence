@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Healthcare Natural Language Processing Market Outlook, Opportunities, Key Players, Trends and Forecast by 2024"
-    excerpt: "Aug 04, 2020 (CDN Newswire via Comtex) -- Manhattan, New York, Analytical Research Cognizance: Healthcare natural language processing uses specialized engines capable of scrubbing large sets of unstructured health data to discover previously missed or ..."
-    publishedDateTime: 2020-08-04T12:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-natural-language-processing-market-outlook-opportunities-key-players-trends-and-forecast-by-2024-2020-08-04"
+  - title: "Artificial Intelligence (AI) In Fintech Market Size, Share 2020, Growth Outlook – Microsoft, Google, IBM, Amazon Web Services, IPsoft"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 08, 2020 (Market Insight Reports) -- Global Artificial Intelligence (AI) In Fintech Market is a comprehensive report which provides a detailed overview of the major ..."
+    publishedDateTime: 2020-08-08T11:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-2020-growth-outlook-microsoft-google-ibm-amazon-web-services-ipsoft-2020-08-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

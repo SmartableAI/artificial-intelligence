@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T19:31:00Z
 webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
 type: article
 quality: 17
-heat: 17
+heat: 27
 published: false
 
 provider:

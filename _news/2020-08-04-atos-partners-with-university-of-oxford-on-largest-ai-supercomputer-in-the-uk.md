@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI supercomputer to be given North West base"
-    excerpt: "It aims to build on the success of the current JADE1 (Joint Academic Data Science Endeavour) facility - a resource providing advanced GPU computing facilities to AI and machine learning experts from a consortium of eight UK universities and the Alan Turing ..."
-    publishedDateTime: 2020-08-05T14:20:00Z
-    webUrl: "https://www.insidermedia.com/news/north-west/ai-supercomputer-to-be-given-north-west-base"
+  - title: "Julia and PyCaret Latest Versions, arXiv on Kaggle, UK’s AI Supercomputer And More In This Week’s Top AI News"
+    excerpt: "Every week, we at Analytics India Magazine aggregate the most important news stories that affect the AI/ML industry. Let’s take a look at all the top news stories that took place recently. The following paragraphs summarise the news,"
+    publishedDateTime: 2020-08-08T12:36:00Z
+    webUrl: "https://www.kaggle.com/Cornell-University/arxiv"
     type: article
     provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 118
     images:
-      - url: "https://www.insidermedia.com/uploads/event/logos/logo_energy_putting_the_power_in_your_hands.jpg"
-        width: 400
-        height: 271
-        isCached: true
-  - title: "Atos to deliver UK's largest AI supercomputer to the University of Oxford"
-    excerpt: "French IT giant Atos has signed a four-year contract worth £5 million ($6.5m) with the University of Oxford to deliver a supercomputer for artificial intelligence workloads. The system will be built on the Nvidia DGX SuperPOD reference architecture and feature more than 500 Nvidia GPUs."
-    publishedDateTime: 2020-08-05T09:40:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/atos-deliver-uks-largest-ai-supercomputer-university-oxford/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 38
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/STFC.5b531b39.fill-1200x630.jpg"
+      - url: "https://storage.googleapis.com/kaggle-datasets-images/612177/1095394/42fbd0d6e73b69abfc8b578adca8a72e/dataset-card.png?t=2020-04-20-05-29-08"
         width: 1200
-        height: 630
+        height: 1200
         isCached: true
   - title: "Atos International: Atos partners with University of Oxford on largest AI supercomputer in the UK"
     excerpt: "facility - a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T17:44:00Z
 webUrl: "https://www.eubusiness.com/focus/20-08-053/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

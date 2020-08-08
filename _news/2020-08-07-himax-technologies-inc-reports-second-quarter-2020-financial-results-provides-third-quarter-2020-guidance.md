@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T00:39:00Z
 webUrl: "https://www.marketwatch.com/press-release/himax-technologies-inc-reports-second-quarter-2020-financial-results-provides-third-quarter-2020-guidance-2020-08-06-51843054"
 type: article
 quality: 35
-heat: 35
+heat: 45
 published: false
 
 provider:

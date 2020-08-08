@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T02:43:00Z
 webUrl: "https://seekingalpha.com/article/4364966-quicklogic-corporation-quik-ceo-brian-faith-on-q2-2020-results-earnings-call-transcript"
 type: article
 quality: 9
-heat: 9
+heat: 29
 published: false
 
 provider:

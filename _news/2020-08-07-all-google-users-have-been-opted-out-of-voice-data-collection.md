@@ -8,7 +8,7 @@ ampWebUrl: "https://www.androidheadlines.com/2020/08/google-users-opted-out-voic
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/08/google-users-opted-out-voice-data-collection.html/amp"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:

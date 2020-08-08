@@ -8,8 +8,8 @@ ampWebUrl: "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-int
 cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Chronicle
@@ -42,15 +42,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Universal Studios in Singapore introducing facial recognition scanners"
-    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
-    publishedDateTime: 2020-08-04T01:26:00Z
-    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
-    type: article
-    provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 19
 
 secured: "vmf9xfMo0ErEa548vTOsinFnqX4b0XrPTAtFwZWylRZqZ3PBjH69uyTCb0UWtIGky+A635s8wG3cDO24PyTRERkK/xg8ulbcY51z3m/RgzxWGg3bsHJuRC7Bms6CkPeY/6WeVPoeu6t6K4y8gvmFX+85iVZP6yXsFV409stNbpFqBwi0hrUpvY9zlGRWExsKgU3dv4T+GdnuUaevGLuK+qqLdtqO1rfzexfe8wE6jbFB0CHBcg2Ct3y+mTfwXLMcMDxxy+mxA2YgeaRiU5uPAoN9OkNfqvwZ+tNh89Lfacz2yPvVCng+RUm3pqzR6WB/8n0lTcrSa3v6+sLmjc3Apg==;5EtMINn7HsNwRSJ77iMEMQ=="
 ---

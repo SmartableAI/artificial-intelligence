@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T13:37:00Z
 webUrl: "https://www.prnewswire.com/news-releases/michael-brozino-joins-maverick-medical-ai-as-co-founder-and-chief-commercial-officer-to-bring-clinical-ai-cognition-tech-to-market-301106696.html"
 type: article
 quality: 7
-heat: 7
+heat: 17
 published: false
 
 provider:

@@ -38,29 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Atos Partners with University of Oxford on Largest AI Supercomputer in the UK"
-    excerpt: "facility – a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."
-    publishedDateTime: 2020-08-04T14:55:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/atos-partners-with-university-of-oxford-on-largest-ai-supercomputer-in-the-uk/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 36
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
-        width: 440
-        height: 440
-        isCached: true
-  - title: "Atos International: Atos partners with University of Oxford on largest AI supercomputer in the UK"
-    excerpt: "facility - a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."
-    publishedDateTime: 2020-08-04T08:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50349443-atos-international-atos-partners-with-university-of-oxford-on-largest-ai-supercomputer-in-the-uk-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
 
 secured: "U9VzqYvc+Z5kx/GPn2lMTmeQWDwsCbUnFdnEBgvL4ic5LFulkaEQOEpF60Y8isrQy8TYUKah8WikZk8bXQLchj+bMP4Uv6bzlZHvmndgESYIwr0BKqlR9ddjpinyv0si3hi+lqnIIGBpKJh0JIvWLoAwc0JDrp4xKE0V4hdndAHNrYCayzYiS1pEIZ8Vyd6vE7AmoPZcTfSiuPCk5S2sbtf7t0R0wZHiLVThRWI+1w1IWgsRlv74oNpKS9U9jwPIiCvJDb5vclKslsF6RKHFksBvRl8Bn31W0AgDp+Km6BpEiptzL8eN9mJfzmAoooKEZIzH9Lbms8Mx3MgNEHhuxYqGfUwvQVp9yNPjEI2etkuIfKawGbrrYCVNy06jHVMSKOk6KM67h0VMAb1ecqITAJ4nduqA/y8lQHN5AOrzSxDWiGFJPj8R5r8moduZZrALlTir2zUyxn5Xwi21xwc312XflV1ddZFQE0sMl3Q2ccrwQ3FniGVLuKIGZpE12IIf;FpSNT5F0/dWwAW/wAyZyMg=="
 ---

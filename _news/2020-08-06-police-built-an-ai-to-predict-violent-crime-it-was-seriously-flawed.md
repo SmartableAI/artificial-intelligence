@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T11:13:00Z
 webUrl: "https://www.wired.co.uk/article/police-violence-prediction-ndas"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:
