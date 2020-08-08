@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200805/NIH-harnesses-artific
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: News Medical
@@ -41,6 +41,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/muskogeephoenix.com/content/tncms/assets/v3/editorial/c/4c/c4c25ea1-8795-5350-9535-909dcd4cf5d1/5f2ae5c131e71.image.jpg"
         width: 800
         height: 389
+        isCached: true
+  - title: "NIH Harnesses Artificial Intelligence for COVID-19 Diagnosis, Treatment, and Monitoring"
+    excerpt: "Collaborative network to enlist medical imaging and clinical data sciences to reveal unique features of COVID-19. The National Institutes of Health has launched the Medical Imaging and Data Resource Center (MIDRC),"
+    publishedDateTime: 2020-08-08T11:33:00Z
+    webUrl: "https://scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/"
+    ampWebUrl: "https://scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/COVID-19-Patients-Lungs-CT-Scan-777x377.jpg"
+        width: 777
+        height: 377
         isCached: true
 
 secured: "f2ze1z/ZWMr0G+Hwyjf+yNROyfbCjttLmDY4l0wcehEdk2yhv3na0Gq6INj+bElLTHqx+yyyFW9Z3RXF49xADwsHx3aSQpGfw+nlKznxU4F3+LXz+/PA+Ha2FGbH4Zlt4/yAB2JBSLdzhnFJgckL5rGWnMn+pIGVOx4nda+Ky4/qrWAv3D6DOGVqVi3Idtn5JMqjmRcCOxtzxUp8wcMefTCP8p0kghrMkNyLRnAhU3rxHwnWkep6msiWQjnobCj4j3PeecYDMRrFKCABY00gLcYN1hPVRQCyHcaGaQt8S1ge6vp1uroS4soxLWAFwfj8JEL1Z/P22xOwlUI7FFe66w==;d6lR6cQwM+yS4vRLt4sI5A=="

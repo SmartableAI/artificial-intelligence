@@ -34,17 +34,6 @@ related:
         width: 412
         height: 255
         isCached: true
-  - title: "Bright Pattern Partners with NCSi to Deliver AI-Powered Omnichannel Communication Solutions to Service Management Organizations"
-    excerpt: "Bright Pattern, leading provider of omnichannel communication software for innovative companies, partners with NCSi, lead"
-    publishedDateTime: 2020-08-03T17:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bright-pattern-partners-with-ncsi-to-deliver-ai-powered-omnichannel-communication-solutions-to-service-management-organizations-1029463020"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/bright-pattern-partners-with-ncsi-to-deliver-ai-powered-omnichannel-communication-solutions-to-service-management-organizations-1029463020"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/bright-pattern-partners-with-ncsi-to-deliver-ai-powered-omnichannel-communication-solutions-to-service-management-organizations-1029463020"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "LTTS expands collaboration with Microsoft for workplace transformation"
     excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
     publishedDateTime: 2020-08-04T13:52:00Z

@@ -2,6 +2,80 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-07-03-how-do-i-install-tensorflow.md",
+      "title": "How do I install TensorFlow",
+      "excerpt": "Hello All, I am learning Tensorflow and I want to how do I install tensorflow in my system or I am looking to online tutorial of tensorflow. Can anyone know, Please suggest me.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow/amp",
+      "cdnAmpWebUrl": "https://www-daniweb-com.cdn.ampproject.org/c/s/www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow/amp",
+      "publishedDateTime": "2020-07-03T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daniweb",
+        "domain": "daniweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-israeli-uae-technology-firms-pen-deal-on-virus-research.md",
+      "title": "Israeli, UAE technology firms pen deal on virus research",
+      "excerpt": "JERUSALEM (AP) — A state-linked technology company in the United Arab Emirates has signed a partnership with two major Israeli defense firms to research ways of combating the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgnradio.com/wp-content/uploads/sites/6/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "cdnAmpWebUrl": "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "publishedDateTime": "2020-07-03T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN Radio",
+        "domain": "wgnradio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-sea-trials-begin-for-artificial-intelligence-captain.md",
       "title": "Sea Trials Begin for Artificial Intelligence \"Captain\"",
       "excerpt": "IBM and marine research organization Promare have announced that a new artificial intelligence captain (AI Captain ... many of today's autonomous ships are really just automated - robots which do not dynamically adapt to new situations and rely heavily ...",
@@ -1030,100 +1104,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-larry-magid-facial-recognition-loses-support-as-bias-claims-rise.md",
-      "title": "Larry Magid: Facial recognition loses support as bias claims rise",
-      "excerpt": "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2018/08/SJM-L-RECOGNITION-0807-01.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": "Larry Magid: Facial recognition loses support as bias claims rise",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
-      "publishedDateTime": "2020-07-02T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work.md",
-      "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
-      "excerpt": "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/07/02/e10d0e71-25ac-478a-860a-296fb2b1a2e0/resize/1200x/fa952c92b39946fdcbc676d984647dc5/istock-1150345648.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
-      "publishedDateTime": "2020-07-02T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
       ]
     }
   ],

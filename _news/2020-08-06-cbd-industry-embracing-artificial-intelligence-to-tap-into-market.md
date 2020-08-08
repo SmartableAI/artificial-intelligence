@@ -8,7 +8,7 @@ ampWebUrl: "https://cheddar.com/media/cbd-industry-embracing-artificial-intellig
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/cbd-industry-embracing-artificial-intelligence-to-tap-into-market.amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Tapping into the Power of AI to Drive Better B2B Event Marketing"
-    excerpt: "Predictive Audiences, a new AI-powered audience segmentation and targeting capability within Marketo Engage, helps B2B marketers transform how they engage."
-    publishedDateTime: 2020-08-03T17:47:00Z
-    webUrl: "https://theblog.adobe.com/tapping-into-the-power-of-ai-to-drive-better-b2b-event-marketing/"
-    type: article
-    provider:
-      name: Adobe Systems
-      domain: adobe.com
-    quality: 37
-    images:
-      - url: "https://theblogimages.adobe.com/wp-content/uploads/2020/07/AdobeStock_334034588-e1595971714200.jpeg"
-        width: 2000
-        height: 875
-        isCached: true
 
 secured: "dyN4p/GaZZwc6pQ5SaeYXxPkV1l0nEm6i+2wkrxbmgplv0PDs/MFhMKr7kQJnO6ZCjTvsJeuR9O/1SKzYlSH5rAurq6i1tyDyrVLsliTSppCtcygmHJ1sju3w56FIHcqzC2DEMfN7Tv4E5nL3YZIhwcHVu3LBTxTbdmS04YlyljwmUif3HVCVpIopwbMhtJ2/ohuUSY+vChbb5Vd8qkjO8sPR/63Al6fml0uaiv6+Je9ibFxk/E8RFh0AgaNgd5f2mQ0ASlJyCbMHW0zBeBMec3Xz35jidtPdRA1MZ7BjY4F5V8fIip+2BeNOsMxcLFuoGy7Gh9c8QQwVyy4rG3c/jG+GxLweEktimZziFSZQ7VCkUdX0FXIKDXrzjkBkXOuWwdRtqvkqSJqeKHJzIeAFJariZadVgrwVwguxMR8Fzi7Jc63NhNpGkjcwo+uGovJlhUqlQfPX+5BrLyCRdVCu4ZTWKLFWEDbq1615fQ7wcQnfktfALW1AVyWe4+e4bbT;83YAGZE/Pt/gLTOvkcAx4Q=="
 ---

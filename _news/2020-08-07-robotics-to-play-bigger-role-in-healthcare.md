@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-07T02:25:00Z
 webUrl: "https://global.chinadaily.com.cn/a/202008/07/WS5f2cad7ea31083481725ecf5.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: China Daily
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The interest in automation is increasingly bolstering the demand of robotics professionals."
-    excerpt: "Today, more and more companies are looking to work with robots to drive innovation and gain a competitive edge. However, this interest is giving the rise in demand of skilled talent with distinct engineering and skills."
-    publishedDateTime: 2020-08-07T07:31:00Z
-    webUrl: "https://www.analyticsinsight.net/top-robotics-jobs-highest-salaries-india-august-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 44
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/08/Robotics-1.jpg"
-        width: 960
-        height: 627
-        isCached: true
   - title: "Amazon moves Boulder robotics development to garages during Covid-19"
     excerpt: "As Covid-19 forced many companies out of the office and into their homes, Amazon got creative to enable its Boulder-based robotics team to continue working."
     publishedDateTime: 2020-08-06T10:15:00Z

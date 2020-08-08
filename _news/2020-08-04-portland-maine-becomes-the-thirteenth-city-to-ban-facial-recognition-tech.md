@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ba
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
 type: article
 quality: 102
-heat: 302
+heat: 292
 published: true
 
 provider:
@@ -108,7 +108,7 @@ related:
   - title: "Australia needs to face up to the dangers of facial recognition technology"
     excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
     publishedDateTime: 2020-08-07T02:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
+    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     type: article
@@ -184,20 +184,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
-        isCached: true
-  - title: "Wearing Masks Confuses Facial Recognition"
-    excerpt: "Facial recognition and masks study explored 3 levels of nose coverage, finding that accuracy degrades with greater nose coverage."
-    publishedDateTime: 2020-08-03T17:20:00Z
-    webUrl: "https://www.commercialintegrator.com/blogs/facial-recognition-masks/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 39
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/08/face_mask.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Portland councilors approve ban on facial recognition technology"
     excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."

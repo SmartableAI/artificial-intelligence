@@ -42,6 +42,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "NIH Harnesses Artificial Intelligence for COVID-19 Diagnosis, Treatment, and Monitoring"
+    excerpt: "Collaborative network to enlist medical imaging and clinical data sciences to reveal unique features of COVID-19. The National Institutes of Health has launched the Medical Imaging and Data Resource Center (MIDRC),"
+    publishedDateTime: 2020-08-08T11:33:00Z
+    webUrl: "https://scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/"
+    ampWebUrl: "https://scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/COVID-19-Patients-Lungs-CT-Scan-777x377.jpg"
+        width: 777
+        height: 377
+        isCached: true
 
 secured: "9YffjE3rmahsrYdkbu6A4grNVo2CC76eyeUDxdFjE77ibCmOUhyNrnH7s3mQq6v6nJttVf0ODFWDO5YpcWuZasN1m3apS55a8IlzSrh6j3KCk0JJcLbA+Z3AAAblyhwus5H8U5JPNPvgIwiJupK1RXKGDQfstpbyZDVnkSPbp8Z2ZFu71/0qwCHlZvUN4t3ceO9lL1KEsL9EojF5zSKjn6wsdpJm7O/ML0f93RzlJXFUWCJxySnADUTx9exzQe3q05DYBxFecXrLSlO4VLLcDWlUXlQOUDuqn+6DS9rD06N11/ad9X1HLdkXL813KCjE0fksSn3X5epYFhimAhobpuFZ/bzgOn7O+kMXoN0MQAshYZJ4hnDN5bX6/nrwYp14Yq0y00HL6GTF490QOyizkDnFjHPIfScQZrsfjOru1ir0eWpLQjW+CUbIKXe6NBlFJZwbpzyWZ160JiiY5SD+ITuk00t1ZBR2GvbZo0uKFSpiwLoSGHWesUEw2Zxnuo0hCiJBO/pjKWObBOZCOwQbmQ==;x3SNn0HcGpz/6bnjH+GyQw=="
 ---

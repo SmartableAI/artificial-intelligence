@@ -3,7 +3,7 @@ category: news
 title: "Australia needs to face up to the dangers of facial recognition technology"
 excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
 publishedDateTime: 2020-08-07T02:35:00Z
-webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
+webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 type: article
@@ -185,20 +185,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "Wearing Masks Confuses Facial Recognition"
-    excerpt: "Facial recognition and masks study explored 3 levels of nose coverage, finding that accuracy degrades with greater nose coverage."
-    publishedDateTime: 2020-08-03T17:20:00Z
-    webUrl: "https://www.commercialintegrator.com/blogs/facial-recognition-masks/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 39
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2020/08/face_mask.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Portland councilors approve ban on facial recognition technology"
     excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials. The vote on City Councilor Pious Ali’s proposal, which was first offered to the council in November and faced ..."
     publishedDateTime: 2020-08-04T03:17:00Z
@@ -303,6 +289,6 @@ related:
       domain: harvard.edu
     quality: 16
 
-secured: "xvle2NwxLKTTfcu0WPsuH22VaVhMYBohjGv2g2xcxTuFJhHhDKev2n5nVrmWH8v4FirrFsH7EcaN80ppeWuujkI+Fdxi0Lj1PjyuSvVIvCZtzvSV9X0P4GbqLNeKD0/D8MYZD9TupZ+2ZZOHFtOBokFAXfUqz+mQbC738WHrNmMAr6RAFYRlm4hTjXMndX8Gcb7i6/Z8gd08WYRm7f5opL+S13P8Rs6BGwMbVVYGWC3CMDcUBhslwt1ycBpFVBAwUtDX+U4XKn3rzbf8aHoI2T90xyik7TiOny8CbaFjKVTH1V/Gk6aLDfyfmVFuXN1dnasWfifgiWZWKWmCGprB1w==;SaH5doLB8fjcFgPxYR0rBQ=="
+secured: "xDdT81/M3VoGH1JtyQvQoTG+uEl5b+i/RQ8Ezhaa6BKju55sl1rDS4hmk8+KYfWhHpKaGwdVYfWlsU/hmIder5wEr3MS2oGBoi6N9H6mpWbx20pSYHf8p9Oy746NBoWItgkjUswkfVL+Cej/ZZ5BewBqgGnIACdLbK2WopALI6fqjDyLYH4AwQ1PfSGXHmJBvHEnBe1kKffn89Sbtvx6Auv+GZYv84IiMpBGzfEsdp3kpHSIzrUgOFfHXDvkyMdNKPl8yMxhfvYrED7h/NFUh3DJMyzsYrWtX2nC1PhPG21dI2/Q/wH8UFYcfpUPRWP5/H+uBeJWtcf/zMv+8UiS3w==;o9Cqk4/q5PrM4Xhjz95zGA=="
 ---
 

@@ -46,22 +46,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "This Algorithm Might Make Facial Recognition Obsolete"
-    excerpt: "In 2020, it’s worth assuming that every status update and selfie you upload online can eventually make its way into the hands of an obscure data-mining third party, into the hands of national authorities,"
-    publishedDateTime: 2020-08-03T18:47:00Z
-    webUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686"
-    ampWebUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uj2hrvj4kqippfvphhht.png"
-        width: 800
-        height: 448
-        isCached: true
   - title: "University of Chicago researchers are building a tool to protect your pictures from facial recognition systems"
     excerpt: "The big picture: Face recognition is quickly becoming one of the biggest threats to our privacy, with many startups looking to create commercial services around this technology while exploiting the immense number of photos we've uploaded online. There is a ..."
     publishedDateTime: 2020-08-04T19:55:00Z

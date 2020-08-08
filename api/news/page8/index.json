@@ -2,6 +2,88 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-30-nvidias-a100-tensor-core-ampere-gpu-just-set-a-flurry-of-ai-benchmark-records.md",
+      "title": "NVIDIA's A100 Tensor Core Ampere GPU Just Set A Flurry Of AI Benchmark Records",
+      "excerpt": "For the third time in a row, NVIDIA ran a clean sweep of MLPerf's set of AI and machine learning performance benchmarking suite. This time, however, the distinction of fastest GPU went to NVIDIA's ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52376/content/Nvidia_A100.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-tensor-core-ampere-gpu-ai-benchmark-records",
+      "publishedDateTime": "2020-07-30T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers.md",
+      "title": "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers",
+      "excerpt": "IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers/article_2506dea5-6c45-554f-b7e5-9326efb69284.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/da/dda7e99f-e470-54a0-afec-a29238bbefca/5f22c54d96cd6.image.jpg?resize=400%2C209",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-the-panopticon-is-already-here.md",
       "title": "The Panopticon Is Already Here",
       "excerpt": "Xi Jinping is using artificial intelligence to enhance his government’s totalitarian control—and he’s exporting this technology to regimes around the globe.",
@@ -692,7 +774,7 @@
       "title": "Facebook Develops New ‘ReBeL’ Poker AI That Outperforms Libratus",
       "excerpt": "The ReBeL poker AI developed by a team at Facebook uses new concepts in self-learning to help it excel at a variety of imperfect-information games.",
       "sourceUrl": null,
-      "webUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588",
+      "webUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1019,88 +1101,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate.md",
-      "title": "Translating documents, spreadsheets, and presentations in Office Open XML format using Amazon Translate",
-      "excerpt": "Now you can translate .docx, .xlsx, and .pptx documents using Amazon Translate. Every organization creates documents, spreadsheets, and presentations to communicate and share information with a large group and keep records for posterity. These days, we interact with people who don’t share the same language",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-documents-spreadsheets-and-presentations-in-office-open-xml-format-using-amazon-translate/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T13:57:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics.md",
-      "title": "A Look At Amazon's (AMZN) Initiatives in the Field of Robotics",
-      "excerpt": "Here’s a look at Amazon’s (AMZN) initiatives in the field of robotics and how it’s becoming an integral part of its supply chain process. Amazon runs more 175 fulfillment centers worldwide. There are different types of robots deployed at its fulfillment centers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
-      "publishedDateTime": "2020-07-29T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

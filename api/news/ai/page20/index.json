@@ -2,6 +2,105 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-18-how-a-colombian-market-is-using-ai-to-combat-covid-19-outbreaks.md",
+      "title": "How a Colombian market is using AI to combat Covid-19 outbreaks",
+      "excerpt": "Mr Palacio is the director of the densely packed market which sits in the heart of the Colombian city of Medellín. Every day, up to 15,000 people flood into the giant building where more than 3,300 vendors sell fruits,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-latin-america-53388656",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12D0/production/_113461840_whatsappimage2020-07-01at11.55.59am-2-1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-latin-america-53388656",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-latin-america-53388656",
+      "publishedDateTime": "2020-07-17T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations.md",
+      "title": "Microsoft reportedly cuts jobs across MSN, Azure, and sales organizations",
+      "excerpt": "The decrease in the staffing of an unspecified number of people was a result of the company relying on AI algorithms and models to do the work of the editors and curators. The Redmond giant has not publicly acknowledged these layoffs and sources say that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595019621_microsoft_layoffs_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "publishedDateTime": "2020-07-17T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-after-jack-mas-holographic-appearance-at-an-ai-conference-shares-of-this-chinese-company-soared.md",
       "title": "After Jack Ma’s holographic appearance at an AI conference, shares of this Chinese company soared",
       "excerpt": ". But not in person – he appeared as a holographic projection at the event on July 9, which took place mostly online amid the coronavirus pandemic The day after Ma’s speech at the conference, shares for a relatively obscure Chinese company nearly ...",
@@ -1335,106 +1434,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-female-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast.md",
-      "title": "Female leaders talk ethics, advancing representation, and more at Transform’s Women in AI breakfast",
-      "excerpt": "Powerful women from tech companies across the industry talk about how women can take their seats at the table in the technology industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-17-at-7.57.57-AM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "publishedDateTime": "2020-07-17T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-after-george-floyd-french-police-face-fresh-scrutiny-over-alleged-brutality.md",
-      "title": "After George Floyd, French police face fresh scrutiny over alleged brutality",
-      "excerpt": "\"J'etouffe!\" It's French, for \"I'm suffocating\" or \"I can't breathe,\" and it was repeated seven times by a man in January as he was being pinned down by three police officers and as another filmed, near the Eiffel Tower in Paris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200717115009-cedric-chouviat-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html",
-      "publishedDateTime": "2020-07-17T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

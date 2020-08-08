@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.analyticsinsight.net/top-ai-robotics-investments-july-2020/</loc>
+    <lastmod>2020-08-08T04:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/</loc>
+    <lastmod>2020-08-08T02:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
     <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -105,12 +117,6 @@
   <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/</loc>
     <lastmod>2020-08-06T21:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://global.chinadaily.com.cn/a/202008/07/WS5f2cad7ea31083481725ecf5.html</loc>
-    <lastmod>2020-08-06T19:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -285,6 +291,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/</loc>
     <lastmod>2020-08-05T10:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.news-medical.net/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx</loc>
+    <lastmod>2020-08-05T10:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1141,7 +1153,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588</loc>
+    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/</loc>
     <lastmod>2020-07-29T19:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2143,8 +2155,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html</loc>
-    <lastmod>2020-07-24T06:02:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765</loc>
+    <lastmod>2020-07-24T06:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

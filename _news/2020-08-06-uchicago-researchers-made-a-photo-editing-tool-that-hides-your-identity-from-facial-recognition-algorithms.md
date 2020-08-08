@@ -40,22 +40,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "This Algorithm Might Make Facial Recognition Obsolete"
-    excerpt: "In 2020, it’s worth assuming that every status update and selfie you upload online can eventually make its way into the hands of an obscure data-mining third party, into the hands of national authorities,"
-    publishedDateTime: 2020-08-03T18:47:00Z
-    webUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686"
-    ampWebUrl: "https://gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-algorithm-might-make-facial-recognition-obsolete-1844591686/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uj2hrvj4kqippfvphhht.png"
-        width: 800
-        height: 448
-        isCached: true
   - title: "Why we need more image masking tools to avoid facial recognition systems from identifying us online"
     excerpt: "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ..."
     publishedDateTime: 2020-08-04T13:29:00Z
