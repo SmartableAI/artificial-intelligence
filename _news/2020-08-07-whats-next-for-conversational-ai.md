@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T13:11:00Z
 webUrl: "https://www.zdnet.com/video/whats-next-for-conversational-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "USGIC Launches India's 1st AI-powered Conversational Agent for Motor Insurance"
-    excerpt: "PRNewswire/ -- The Covid-19 pandemic has caused ambiguity and disruption in customer services across the world and has changed the life of people"
-    publishedDateTime: 2020-08-03T08:12:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/usgic-launches-india-s-1st-ai-powered-conversational-agent-for-motor-insurance-824542997.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "LivePerson Announces the Conversational Cloud™, an AI-powered Command Center for Brand-Consumer Conversations"
     excerpt: "As the world’s most advanced AI-powered command center for brand-consumer interactions, the Conversational Cloud empowers brands to instantly respond to messages, answer questions, resolve customer intents,"
     publishedDateTime: 2020-08-04T12:30:00Z

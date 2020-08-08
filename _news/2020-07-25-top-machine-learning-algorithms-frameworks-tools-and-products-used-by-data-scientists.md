@@ -16,6 +16,8 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Google AI
+  - Microsoft AI
 
 images:
   - url: "https://customerthink.com/wp-content/uploads/learn-1996846_1280-pixabay-innovation-ideas-analytics.jpg"

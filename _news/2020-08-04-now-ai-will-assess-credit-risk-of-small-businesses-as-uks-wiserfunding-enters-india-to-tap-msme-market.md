@@ -42,22 +42,6 @@ related:
         width: 300
         height: 228
         isCached: true
-  - title: "UK fintech Wiserfunding to enter India, will invest up to $ 5 million"
-    excerpt: "The platform, backed by Professor Edward Altman, will use AI-based tools to assess small businesses for credit risk."
-    publishedDateTime: 2020-08-03T08:15:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/uk-fintech-wiserfunding-to-enter-india-will-invest-up-to-5-million-5638381.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/uk-fintech-wiserfunding-to-enter-india-will-invest-up-to-5-million-5638381.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/uk-fintech-wiserfunding-to-enter-india-will-invest-up-to-5-million-5638381.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Fintech-and-retail-lending_3-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "UK fintech Wiserfunding enters India"
     excerpt: "UK based fintech Wiserfunding announced its entry into India, launching its Artificial Intelligence (AI) backed cloud-based credit risk assessment tool targeted for small and medium enterprises (SMEs)."
     publishedDateTime: 2020-08-03T15:43:00Z

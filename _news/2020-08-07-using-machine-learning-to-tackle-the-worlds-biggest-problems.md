@@ -5,8 +5,8 @@ excerpt: "Machine learning has graduated from the realm of science fiction to be
 publishedDateTime: 2020-08-07T19:03:00Z
 webUrl: "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1038383026.jpg?w=1200&#038;strip=all"
@@ -43,6 +44,6 @@ related:
         height: 315
         isCached: true
 
-secured: "s8LiV0s/YY7qt6s9pgNtK0OcoVy65RUNzJR5RO6QyVM+d4DYSkX0meOkXPg2R7ZnzEqnKxPtIo9ycNEzfYwXvk7xJjkms/8uzbZAQNNbPD2VtkYfA8ydHGKAVcEuadPvnUBO7pTZUyxAOv60s2gRCn1QLP4k1RKNGBsHNo0U1x7ca8q+fTskPxZe3RDsNE9ePxMMCQxRxizsB6kWddP15C5aDmzi5CPdeyPevWn9HGAh7ZekS5TdIvQ4qBJkxkEi6I65BjTwcPpQba7hIHqwxdM2uBepQHtLO/YMrnCTtdXsN3j/budUq1CFnehYtX839scM4cOx8XKPnzXpRvTXNw==;b3begkDCMdIIP6f5UHIvEQ=="
+secured: "tyWhA6BPhtvzJkgQS6JcCvKEUSrH5t4Ztp6ceyyrL08JJZD5UO5QZ08awTNCDtTySmCaSOsU6Qii3k4o6Qk8T1aSE8XMA18iqTsfDuuU9TcroSHZQHPLh/Pn3vSW+/dbipdg2goum9QM3j6NC0PhW+sx8/XijRKZ+ZcLrlxsWZcsGWacCY0lYUrYLqQAR1wl09wQYrpEMJdoP01z4IrhH/zoIHf6tCMxgvK6FHcLLliMceE8H5ZBl4kEKgo5Mfcxdmrx0U6Aoc+1aZxzDMLff1psQjZQWiedqp9+SZ20HXHlRlQ3OIJ2dI9fd8r71ajpyTw/ZV/sjmIyGj0iHraEh5K2ym5Qtnz7fvzUzLZgKRfFprjx2MaBQqBixUnUPUoKpNKR1eyeVrDogBpkQ+kWwtSxsTZHQozSVnnmvAzxr1Lv7lTpu7X62qyy2PefRVXuEx/wDU4l16qvbXwR9h9bL9Fm80+6o1R+HhlhANdZnXrQG6B+ssYRjT4835QZXU2elA4uUoNHKE2C3KGHDkKrag==;osIAZ280LsqbumEgOZ7R4w=="
 ---
 

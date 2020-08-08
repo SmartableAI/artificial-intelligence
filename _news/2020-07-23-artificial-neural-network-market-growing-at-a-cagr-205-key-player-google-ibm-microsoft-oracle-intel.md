@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Artificial Neural Network Market Growing at a CAGR 20.5% | Key Player Google, IBM, Microsoft, Oracle, Intel"
-excerpt: "The global Artificial Neural Network (ANN) Market size is expected to grow from USD 117 million in 2019 to USD"
-publishedDateTime: 2020-07-23T17:51:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23"
+excerpt: "Market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024, at a Compound Annual Growth Rate (CAGR) of 20.5% during the forecast period. The major driving factor in the ANN market is due to the growing demand to train a large volume of data sets with low supervision to drive the market For over a decade,"
+publishedDateTime: 2020-07-23T17:15:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16755993"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16755993"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "gT9jj6q13mwwq5pyTc/+87PbyyNpqGkUAR5qmpL5+xAbuuUV8kVsKHjVu1eCLjpUgnFd0S4oKl/C4UR+WLmo4Ki0wrPQdK+KDEnYLm1fwq4L0je9CnhHM/q60vFdVDyuUU5ghEBYETqwMAwu+X1Geo1/pJsjviBATkQ3NhE20O1g0avGOJdaf+KJaSWIG+qL4EQVV+fsxXb9eZ1DxE+JskSKCAARRv8WGrUdQKvok7ta1U8gMRYce5Z598gOt909J0Vy7PsdcbhkvYeNeZnBMMnELiEzIjrMVjaV5tMY4dtaY9f8A8Big9r7+WTCD10MTjbNb/ugDoczYpD0vPpRiA==;R35tIGNfMZpAMnCzLPFnxA=="
+secured: "FQuFqYQASu3DVn0lGuw3jcfmFTEwIprjoJ2nV7+vl0lX9ypGKPcedlAWCo66EVpZDbuLbwc15/aquS0HqYRy4cNqd29X9/ZAjzulN/7NxTVO59J7cj5ue06jax3X2Qny9YkYNGRDo19t8UZiBAPkrYlHn3biu4knw9I37FC1LgaVAUw2wDyzNX/A0NgTalqGQAwedhy+QNvAgpNC9jTd1+PkskI2/nIS0R2Taf2Is6HBavaT1mzHcmmIUC1YiQcKmq1ZP6AFVUIr8OQlYx5e2KgIZWCw5PsBrRZlqTbaQE8iulzoGpUNsAgGdFHIpI88oyU3ZbSSkPUiPafZYMGltKlJvvLN4UwK+Df+jyN3kBNV6Xbdxgc/Lf9srHol5ZJrLKcYV4AgY5OhUn0UCRoqrujYrpYn1tmBWvvPFZUOkZVN2xffX1V0Qad5mXUaaD1SosNpmsJY93DGQiAfm1EcmBXXtFCSt8cfF5lXW3Hxgrs1/6/c9YMVBfogpii1J6z5;6W32rHGgnwyFWomuHFzTrQ=="
 ---
 

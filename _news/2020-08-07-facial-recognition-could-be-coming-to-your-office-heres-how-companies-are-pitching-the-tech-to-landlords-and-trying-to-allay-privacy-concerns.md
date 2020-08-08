@@ -29,15 +29,6 @@ images:
 
 related:
   - title: "Why major companies shifting to Truein's face-recognition technology for attendance-logging?"
-    excerpt: "Was the entrance procedure one of the major things that put you off? For obvious reasons, all workplaces have to maintain a strict record of its visitors and an even more meticulous record of its employees' attendance."
-    publishedDateTime: 2020-08-03T08:27:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20200803/3603224.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "Why major companies shifting to Truein's face-recognition technology for attendance-logging?"
     excerpt: "Truein's product, Staff Attendance, uses artificial-intelligence-based (AI) face-recognition technology. It aims to replace conventional forms of attendance logging and is primarily targeted at systems that use biometrics including fingerprint scanners."
     publishedDateTime: 2020-08-04T01:18:00Z
     webUrl: "https://www.sify.com/finance/why-major-companies-shifting-to-trueins-face-recognition-technology-for-attendance-logging-news-news-uidi9mhhfafdi.html"
