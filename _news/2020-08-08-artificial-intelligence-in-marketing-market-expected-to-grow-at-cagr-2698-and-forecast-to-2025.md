@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI Drug Discovery Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
+    excerpt: "The market research study on Global AI Drug Discovery Market Growth (Status and Outlook) 2020-2025 will provide"
+    publishedDateTime: 2020-08-03T23:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-drug-discovery-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2020-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Food and Beverages Market Industry Analysis, Forthcoming Growth, Industry Prospects and Forecast to 2027"
     excerpt: "AI is helping companies to stock up their inventories only to the extent that the demands can be met. Some factors are anticipated to hinder the growth"
     publishedDateTime: 2020-08-05T17:57:00Z

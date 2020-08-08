@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T08:02:00Z
 webUrl: "https://www.insidermedia.com/news/south-east/global-group-pens-oxford-uni-deal-for-ai-supercomputer"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

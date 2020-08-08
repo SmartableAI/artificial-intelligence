@@ -7,6 +7,7 @@ webUrl: "https://bipartisanpolicy.org/report/ai-research-development/"
 type: article
 quality: 137
 heat: 137
+published: true
 
 provider:
   name: MeriTalk

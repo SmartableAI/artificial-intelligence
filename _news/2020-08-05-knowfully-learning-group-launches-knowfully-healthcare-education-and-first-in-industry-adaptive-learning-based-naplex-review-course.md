@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/knowfully-learning-grou
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/knowfully-learning-group-launches-knowfully-healthcare-education-and-first-in-industry-adaptive-learning-based-naplex-review-course-1029473462"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

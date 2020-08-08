@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164915-uk-fintech-wiserfund
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164915-uk-fintech-wiserfunding-to-introduce-ai-enhanced-cloud-based-credit-risk-assessment-tools-in-india/amp/"
 type: article
 quality: 45
-heat: 55
+heat: 45
 published: false
 
 provider:

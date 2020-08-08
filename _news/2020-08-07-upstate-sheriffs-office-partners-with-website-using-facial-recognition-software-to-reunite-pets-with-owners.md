@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxcarolina.com/news/upstate-sheriffs-office-partners-wi
 cdnAmpWebUrl: "https://www-foxcarolina-com.cdn.ampproject.org/c/s/www.foxcarolina.com/news/upstate-sheriffs-office-partners-with-website-using-facial-recognition-software-to-reunite-pets-with-owners/article_8ce73b0e-d8b9-11ea-9c64-a31a217727f2.amp.html"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -26,31 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Bulawayo and Chinese firm partner to introduce facial recognition scan system"
-    excerpt: "Limited has entered into a partnership with a Chinese company, Clou Global Technology, to solely distribute the latter’s facial recognition system integrated with temperature scan. The innovative Chinese-made product is already being sold in China,"
-    publishedDateTime: 2020-08-03T21:58:00Z
-    webUrl: "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/"
-    ampWebUrl: "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/"
-    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/amp/"
+  - title: "Universal Studios Singapore using facial recognition for entry at RWS"
+    excerpt: "Universal Studios Singapore is now using facial recognition scanners to allow visitors \"more efficient and seamless\" entry to the theme park at RWS."
+    publishedDateTime: 2020-08-04T12:09:00Z
+    webUrl: "https://blooloop.com/news/universal-studios-singapore-facial-recognition/"
     type: article
     provider:
-      name: Chronicle
-      domain: chronicle.co.zw
-    quality: 56
+      name: Blooloop
+      domain: blooloop.com
+    quality: 39
     images:
-      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2020/08/Mr-Witker-Tholana-680x380.jpg"
-        width: 680
-        height: 380
+      - url: "https://blooloop.com/wp-content/uploads/2020/08/universal-resorts-world-sentosa-e1596541631806.jpg"
+        width: 800
+        height: 390
         isCached: true
-  - title: "Universal Studios in Singapore introducing facial recognition scanners"
-    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
-    publishedDateTime: 2020-08-04T01:26:00Z
-    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
+  - title: "Poland’s mPay Partners with iDenfy to use its Biometric Facial Recognition Software to Complete KYC Checks Needed for Mobile Payments"
+    excerpt: "Poland’s mPay partners with iDenfy to use its biometric facial recognition software to complete KYC checks needed for mobile payments."
+    publishedDateTime: 2020-08-07T04:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/08/165004-polands-mpay-partners-with-idenfy-to-use-its-biometric-facial-recognition-software-to-complete-kyc-checks-needed-for-mobile-payments/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165004-polands-mpay-partners-with-idenfy-to-use-its-biometric-facial-recognition-software-to-complete-kyc-checks-needed-for-mobile-payments/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165004-polands-mpay-partners-with-idenfy-to-use-its-biometric-facial-recognition-software-to-complete-kyc-checks-needed-for-mobile-payments/amp/"
     type: article
     provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 19
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
 
 secured: "tUuwmI/VqO8rYOwpiYqFaHCPj3kN4Z8ANFUHJypdEjKMD/5baCxVeBxw1pRsb9zdFbt3JLOH6RIkAA0ntCwy++iOvXcN3xNfujhwdYAiLTHeT3uaXdBJ1jpARKTzjoyVA7gpxNoqL1pQKwd2egzSZ9TKIFmkyrqh9wfFsMNlv/cIoI6PQspc4Y5On1vlZWwxHpp6pBeOLZjoD+AY0lQQ4vpkhU49eJ2qDJkUpDRvva0KCtAU3Tyml8d+1dlTLnnEb7jb4ym0xbyuajT44cCGGxfuQHUK7R7cLi7/Ky5EFbK2KNRkIL4x3ppP1ntv/3yIzRBrSY3+B9zZQ0cyhK5PK4pcvECzFZeUa6iXBFioEou2B3W6esgbPykHrJFjLMr4gnidXdxmKg8qiXrf05IjW9PGZZnguaQ/4wSb5mjFLlb9BAApjIBjLawpwjVhJKDEh1qFqrthUqNvezA22mXCjj5ClxukWlhsySQ/WruwYnPNFJs7cQYS5kFTT2f1khtM;Dmvp2OX2RTpT+0+JA4cKRg=="
 ---

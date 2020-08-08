@@ -8,7 +8,7 @@ ampWebUrl: "https://www.broadwayworld.com/amp/c.php?url=Researchers-in-Prague-Ar
 cdnAmpWebUrl: "https://www-broadwayworld-com.cdn.ampproject.org/c/s/www.broadwayworld.com/amp/c.php?url=Researchers-in-Prague-Are-Working-on-a-Play-Written-by-Artificial-Intelligence-20200804"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence: Researchers release 'theAItre' play written entirely by machines"
-    excerpt: "ARTIFICIAL INTELLIGENCE (AI) experts are working on a cutting-edge research project merging machine learning with theatre."
-    publishedDateTime: 2020-08-03T21:32:00Z
-    webUrl: "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines"
-    ampWebUrl: "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp"
+  - title: "New play written by artificial intelligence expected to premiere in 2021"
+    excerpt: "A play written entirely by artificial intelligence is expected to premiere next January. Created by Czech researchers at Charles University, Švanda Theater and the Academy of Performing Arts in Prague, the piece will be a new reimagining of science ..."
+    publishedDateTime: 2020-08-04T13:41:00Z
+    webUrl: "https://www.whatsonstage.com/london-theatre/news/artificial-intelligence-play-premiere-2021_52124.html"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 65
+      name: WhatsOnStage
+      domain: whatsonstage.com
+    quality: 38
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/AI-1318237.jpg?r=1596490343190"
-        width: 590
-        height: 350
+      - url: "https://www.whatsonstage.com/dyn/photos/whatsonstage/v1finw1200x0y0w1200h607/have-you-learnt-your-lines-143349.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "ocikxoEFDYamFiXnYJj8EUDshL/dDMWAu/WdCwvKFawMrKEVEoNE7zi7huf0PzAqTuUqTrmqLPfPVR47zkQdRe+NzKibiuDbIId2MYDU0SEwXkOSgHlRcOMxEXiLi4nOnHnCVigStCokc9SUCcAIWtgMLfTGrU9+l7M6f+rn8nxxC6nUeSEzTahojJK8kCeqtg0KVNOU0bYMuQgZ92ppjylZiSYnXknoEyilN8evcUR9eoc6tt6YcBaMiJ3n2T2GlsApVRko4OKmVsvbuYOetdXnYtHwdCvOX00RiQycdqyWOaiBtG2gCsWRdyRtvwJjPc42XT9gbnJrMK/jlRUbqg==;ZtCk95E1UiJHE7a12TsjhQ=="

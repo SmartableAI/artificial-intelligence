@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T16:26:00Z
 webUrl: "https://insidehpc.com/2020/08/inspur-nf5488a5-breaks-ai-server-performance-record-in-latest-mlperf-benchmarks/"
 type: article
 quality: 17
-heat: 27
+heat: 17
 published: false
 
 provider:

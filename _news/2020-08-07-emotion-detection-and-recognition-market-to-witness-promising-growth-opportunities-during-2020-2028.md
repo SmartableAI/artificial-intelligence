@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T01:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-to-witness-promising-growth-opportunities-during-2020-2028-2020-08-06?mod=mw_quote_news"
 type: article
 quality: 40
-heat: 70
+heat: 40
 published: false
 
 provider:

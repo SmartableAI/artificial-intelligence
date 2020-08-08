@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple"
-    excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents."
-    publishedDateTime: 2020-08-03T22:03:00Z
-    webUrl: "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24Z146"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z146"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MC"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Apple hit with $1.43B Siri patent lawsuit from Chinese AI firm"
     excerpt: "A Chinese AI firm is suing Apple for alleged patent infringement involving the voice assistant Siri. Shanghai Zhizhen — also known as Xiao — is seeking $1.43 billion (10 billi"
     publishedDateTime: 2020-08-04T10:54:00Z
@@ -55,22 +39,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-04T113236.371-796x417.png"
         width: 796
         height: 417
-        isCached: true
-  - title: "AI firm sues Apple for $1.4 billion, alleges Siri infringes on its patents"
-    excerpt: "What just happened? Apple's Siri is not the most successful digital assistant, but that didn't stop a Chinese AI company from use it as a means to block sales of Apple devices in the region and potentially score some settlement cash. All of this is ..."
-    publishedDateTime: 2020-08-04T02:42:00Z
-    webUrl: "https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 85
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-03-image-21.jpg"
-        width: 2880
-        height: 1800
         isCached: true
   - title: "Apple rebuffs US$1.4 billion patent lawsuit filed by Chinese artificial intelligence company"
     excerpt: "Shanghai Zhizhen Intelligent Network Technology has been locked in a legal battle with Apple over the Siri voice assistant system since 2012."

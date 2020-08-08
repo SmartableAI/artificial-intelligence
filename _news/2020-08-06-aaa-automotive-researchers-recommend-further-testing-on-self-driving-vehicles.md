@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macombdaily.com/business/aaa-automotive-researchers-reco
 cdnAmpWebUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/business/aaa-automotive-researchers-recommend-further-testing-on-self-driving-vehicles/article_d6572b7e-d7f5-11ea-ab86-3f01608ebcf1.amp.html"
 type: article
 quality: 41
-heat: 51
+heat: 41
 published: false
 
 provider:

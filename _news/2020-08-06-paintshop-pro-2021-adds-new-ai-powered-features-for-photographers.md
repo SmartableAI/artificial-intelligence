@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T18:03:00Z
 webUrl: "https://petapixel.com/2020/08/06/paintshop-pro-2021-adds-new-ai-powered-features-for-photographers/"
 type: article
 quality: 37
-heat: 47
+heat: 37
 published: false
 
 provider:

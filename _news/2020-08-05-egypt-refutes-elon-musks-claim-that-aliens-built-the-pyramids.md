@@ -7,6 +7,7 @@ webUrl: "https://mobile.twitter.com/elonmusk?ref_src=twsrc^google|twcamp^serp|tw
 type: article
 quality: 117
 heat: 117
+published: true
 
 provider:
   name: Comicbook.com

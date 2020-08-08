@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI Drug Discovery Market 2020 Growth Factors, Product Overview, Segmentation and Forecast Study to 2025"
+    excerpt: "The market research study on Global AI Drug Discovery Market Growth (Status and Outlook) 2020-2025 will provide"
+    publishedDateTime: 2020-08-03T23:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-drug-discovery-market-2020-growth-factors-product-overview-segmentation-and-forecast-study-to-2025-2020-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "isCdyqnFq1nDVMBVHqRKKAEvcgGsLNItc1qynVzdL2JKjZVKNzsoOp0Y9YPCuRCnzhyTHm/EgM7dVxWid+CoKRAM4put9JdM1Mcyx0/8IPoIak15Pf/Nx1Zcr67xmB4fN5ob3gfYyydPbh1RDnW0nO1Y6+HvOAhyacI12wSBDGg8vPFTcLbCqzJ02M72LDoksyyLqdjaPgTg5WzuCSkwaOgxmrTTxTAxB8kO5uUFDDxqGxa4qaYJcC2kyfOmFnzG+ujGPKoBewQf0qZs3eiS0qKYWR7xfSfs4fIuaWLFYu3BcBNFFgmf7mF0ZGFHSe+WTRFT1gGYU7lWINbVIzF+tw==;4QFUQUqAFN3tJqRhbmFPBg=="
 ---

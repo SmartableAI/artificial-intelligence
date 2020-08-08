@@ -70,22 +70,6 @@ related:
         isCached: true
   - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
     excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-    publishedDateTime: 2020-08-03T21:19:00Z
-    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 49
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
-    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
     publishedDateTime: 2020-08-04T00:25:00Z
     webUrl: "https://www.courant.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
     ampWebUrl: "https://www.courant.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
@@ -99,20 +83,6 @@ related:
       - url: "https://www.courant.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Universal Theme Park Takes Next Step with Facial Recognition"
-    excerpt: "A Universal Studios theme park is now using a high-tech, automated facial recognition system to identify annual pass and daily ticket holders as they enter the park. The new system is now in place at Universal Studios Singapore,"
-    publishedDateTime: 2020-08-03T21:38:00Z
-    webUrl: "https://www.themeparkinsider.com/flume/202008/7631/"
-    type: article
-    provider:
-      name: Theme Park Insider
-      domain: themeparkinsider.com
-    quality: 39
-    images:
-      - url: "https://www.themeparkinsider.com/art/flume/7631.jpg"
-        width: 640
-        height: 268
         isCached: true
   - title: "Why aren't some people happy with facial recognition?"
     excerpt: "Unlocking your phone and social media filters - these are just some of the ways we use facial recognition in our lives. It is also used by some authorities around the world, such as the police. However,"

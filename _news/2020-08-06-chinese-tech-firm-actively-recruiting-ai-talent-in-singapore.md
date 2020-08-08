@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T22:31:00Z
 webUrl: "https://www.straitstimes.com/tech/chinese-tech-firm-actively-recruiting-ai-talent-in-singapore"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

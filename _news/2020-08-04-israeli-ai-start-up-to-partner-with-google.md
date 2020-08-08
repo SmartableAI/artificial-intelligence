@@ -8,7 +8,7 @@ ampWebUrl: "https://m.jpost.com/israel-news/israeli-ai-start-up-to-partner-with-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/israeli-ai-start-up-to-partner-with-google-637419/amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 640
     height: 428
     isCached: true
-
-related:
-  - title: "Google Partners With Israel’s Rise.ai To Help Businesses Offer Digital Gift Cards"
-    excerpt: "Google aims to help Rise.ai enable small and medium businesses to survive and thrive during the COVID-19 crisis and beyond."
-    publishedDateTime: 2020-08-03T21:29:00Z
-    webUrl: "https://nocamels.com/2020/08/rise-ai-digital-gift-cards-small-businesses-google/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 34
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2018/08/googlemobile.jpg"
-        width: 1400
-        height: 934
-        isCached: true
 
 secured: "BGGWjNm3sLS8c30RTmzWnBoRQPcfhMc+JI9vEkJWTXY3si+q4TSjiz1sANMm0g1i6VqLo/V4q/u7N0V9OnInOW2VGvLBju06a9b/yM0XWWH48M6pl2xZzQpq4G6hCDKEC+2A9ujbPOPc7hdiyPwGnfuBRfw0I/Jw7eOrq7OCNcKTM24JLzUSTuTeM7Sd++tZU6PQfEG9dxkBh7CRaYnIPSeXHWe/7z6/Ui7pf9Fe3ZpWSmGuN/DpTDHYFPAppjJ+jAVERYviPv2Ciw67RvYQlSh8gUUFT5JtXWXENBKJD23M0YRnwaAmEJmWJelJYavg0zrU0EAP0fbb9oYJhXHDSgAEHC35R4T82ihMI1hWeF3FZtvWNiBVpx9J4pUQ5D3CNX79k4p7hKeXA0l1eiqrQNmveuF6/OpV3V7C+vdiguwOQm7bK+xLpR90jYaAh9yu285VRPqAC2X9FCAfDTYd1cBpdjBOe90qCpA9Twa+FGpREBQMS9UgCqCYMbq2HsRd;58jp7xtBj4awdAIEhe+yDQ=="
 ---
