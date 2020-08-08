@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Buildots raises $16 million to marshal AI for construction management"
-    excerpt: "The company uses hardhat-mounted 360-degree cameras to seamlessly determine the exact status of an ongoing project and provides invaluable insight to contractors"
-    publishedDateTime: 2020-08-03T14:58:00Z
-    webUrl: "https://www.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337"
-    ampWebUrl: "https://m.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/buildots-raises-16-million-to-marshal-ai-for-construction-management-637337/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461590"
-        width: 640
-        height: 428
-        isCached: true
   - title: "Regtech: kompany Raises €6 million for boost DLT based KYC Service, AI Shareholder Analysis Tool"
     excerpt: "This brings total funding to €14 million. kompany is an AML/KYC service that is also developing an artificial intelligence (AI), DLT based, compliance solution. kompany is targeting the fast-growing Regtech sector that is anticipated to grow to €55 ..."
     publishedDateTime: 2020-08-05T11:27:00Z

@@ -2,47 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-07-08-ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts.md",
-      "title": "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts",
-      "excerpt": "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
-      "publishedDateTime": "2020-07-08T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-08-ibm-to-acquire-wdg-automation-to-advance-ai-infused-automation-capabilities-for-enterprises.md",
       "title": "IBM to Acquire WDG Automation to Advance AI-Infused Automation Capabilities for Enterprises",
       "excerpt": "When AI-infused automation is applied to business ... specifically Watson AIOps and Cloud Pak for Multicloud Management. IBM Watson AIOps, for example, automates how CIOs self-detect, diagnose ...",

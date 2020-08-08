@@ -165,20 +165,6 @@ related:
         width: 1200
         height: 826
         isCached: true
-  - title: "Baidu is ready to produce computers for self-driving cars"
-    excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
-    publishedDateTime: 2020-08-03T14:20:00Z
-    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/baidu-is-ready-to-produce-computers-for-self-driving-cars/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 39
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/GIF-Suggestion.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Ex-Google engineer sentenced to 18 months in prison for stealing self-driving car files"
     excerpt: "Anthony Levandowski, a former Uber executive, was sentenced to 18-months in prison on Tuesday after pleading guilty to stealing proprietary self-driving car technology from Google, which he had ..."
     publishedDateTime: 2020-08-05T00:34:00Z

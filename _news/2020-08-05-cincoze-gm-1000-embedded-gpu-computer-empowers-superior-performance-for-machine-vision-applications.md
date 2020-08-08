@@ -2,27 +2,27 @@
 category: news
 title: "Cincoze GM-1000 Embedded GPU Computer Empowers Superior Performance for Machine Vision Applications"
 excerpt: "Incorporating with AI, the GM-1000 empowers AIoT edge computing ... Taking advantage of the heterogeneous platform of CPU and GPU, GM-1000 tackles AIoT and machine learning tasks for intelligent ..."
-publishedDateTime: 2020-08-05T09:09:00Z
-webUrl: "https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior"
+publishedDateTime: 2020-08-05T09:07:00Z
+webUrl: "https://www.morningstar.com/news/business-wire/20200805005052/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200805005052/en/809710/23/05.jpg"
-    width: 1200
-    height: 627
+  - url: "https://mms.businesswire.com/media/20200805005052/en/809710/4/05.jpg"
+    width: 480
+    height: 315
     isCached: true
 
-secured: "jwyTFdtHrEWtMxJNPNSb3MYHTWZekKYxlsZVRNC2ynEvyw6lev+T1j37felHjV15nVm2m70VXhy28eroQ5unyqHRMLdUzXzuUA24U+Zp/t2KjRBwnf4VgamVGpxkF2rmXhCoJV/kqL6RQwiYqqJh5PNKX9zG/R4gusygM1Ij9laPcnzed183q3nRPXDYgxG/YSkqqaKyuEbF98rYZbOpRqmKErSgpTUhyGO/YV6tqSw98w/yC715ixfZSfJPxw8TsSvQhmkUNLBq8pzGBM2RFCmH3qwK+tYqWuIgLzTlcm1j9aiy1LbE2+sR9BvOIxSwiGgIEpXgsZ2sQVkSTn9QUg==;9nVYCxCjzH6EotS4Owd7qA=="
+secured: "TnRIhEJa/5VClmgllB6fI9uQzRS6ViUA83BKkYQ7NMqluZC5QGBzLKLvvziyeXRC84IH/YFyENCxK/V92zxJS9FtILAqGWhuTksQfxNHXf75dkqhjG/bz8GHmXgpoOI3FLmKS0FxFmRbSmM5xZbLEDsY+8kLeIwJsz+/LbSpXPDJnSvjOgZIwk7e4m7pPKnLuHcdHVtuLPxYHIueBwTey9d7Qmuse5TTpovjur+xfJ5njhpGlzXkk94HEddojp9TvTjzlDkQCTcXvC/PaI7nMpYV8EmbfhjxZhGF8Jr8O+wmQexgescvjg+fC00oWv7QZHa2BizxKVzlhW7dNNyNWg==;yNwQptCq5PcuXJn2nKr/nQ=="
 ---
 

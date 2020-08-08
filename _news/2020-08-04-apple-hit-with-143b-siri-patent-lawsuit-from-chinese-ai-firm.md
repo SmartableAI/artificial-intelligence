@@ -45,22 +45,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "China’s Xiao-i sues Apple for $1.43 billion over Siri AI infringement"
-    excerpt: "Following a court's validation of a key patent, a Chinese AI company sued Apple, claiming that Siri infringes on its innovation."
-    publishedDateTime: 2020-08-03T13:49:00Z
-    webUrl: "https://venturebeat.com/2020/08/03/chinas-xiao-i-sues-apple-for-1-43-billion-over-siri-ai-infringement/"
-    ampWebUrl: "https://venturebeat.com/2020/08/03/chinas-xiao-i-sues-apple-for-1-43-billion-over-siri-ai-infringement/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/03/chinas-xiao-i-sues-apple-for-1-43-billion-over-siri-ai-infringement/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/siri13.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI firm sues Apple for $1.4 billion, alleges Siri infringes on its patents"
     excerpt: "What just happened? Apple's Siri is not the most successful digital assistant, but that didn't stop a Chinese AI company from use it as a means to block sales of Apple devices in the region and potentially score some settlement cash. All of this is ..."
     publishedDateTime: 2020-08-04T02:42:00Z
@@ -122,20 +106,6 @@ related:
       - url: "https://luxurypragueapartments.com/wp-content/uploads/2019/10/types-of-investment-funds.jpg"
         width: 730
         height: 467
-        isCached: true
-  - title: "Chinese Artificial Intelligence Firm Sues Apple for $1.4 Billion Over Siri"
-    excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit"
-    publishedDateTime: 2020-08-03T14:25:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/08/03/577739.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 37
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2015/07/Apple_Headquarters_in_Cupertino-580x403.jpg"
-        width: 580
-        height: 403
         isCached: true
   - title: "Apple rebuffs US$1.4bil patent lawsuit filed by Chinese artificial intelligence company"
     excerpt: "Shanghai Zhizhen Intelligent Network Technology has been locked in a legal battle with Apple over the Siri voice assistant system since 2012. The Chinese AI company claims Apple has infringed a patent it owns,"

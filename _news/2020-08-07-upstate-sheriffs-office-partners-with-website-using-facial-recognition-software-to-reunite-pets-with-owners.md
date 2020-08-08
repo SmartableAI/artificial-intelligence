@@ -42,20 +42,15 @@ related:
         width: 680
         height: 380
         isCached: true
-  - title: "NY lawmakers vote to pause facial recognition in schools"
-    excerpt: "In this July 10, 2018  a camera with facial recognition capabilities hangs from a wall during installation at Lockport High School in Lockport, N.Y. The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
-    publishedDateTime: 2020-08-03T13:35:00Z
-    webUrl: "https://www.register-herald.com/region/ny-lawmakers-vote-to-pause-facial-recognition-in-schools/article_20087c3b-e052-55c6-bf1b-2250d13e340d.html"
+  - title: "Universal Studios in Singapore introducing facial recognition scanners"
+    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
+    publishedDateTime: 2020-08-04T01:26:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/0/20/020b0819-5e41-5f14-94ea-a4358d2834a3/5f19cd2f6b03f.image.jpg?resize=868%2C630"
-        width: 868
-        height: 630
-        isCached: true
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 19
 
 secured: "I//gZR5gw2CFhAqLMmd2t9M0/uY08X0EjDlAOwoC6X/BREc7NJv6ZQrXfSWq9XB0vS4kPmaTI+JIq6fgAyVx5GiANijQcnQpIfDLG0NN49Mo+UaEQdwByj9Y7B/PGulE0pT5s9sAChIS5rouGvsyn9DTs79Igz2YcXr4YJ+veev2XozsAjVriKRp6p/dgs09bHbfVlUJXRVDADQsAi2UWa6KwSUXwqioHl/Vl2JhmArBNOYAIsHx3Bt7rV2WBWra6mctTg1Cd5sDd8GfSYpHb5gzAN4lrrsbsJxVBGbaySEzbgOFnVBynWZwFGhOv7EBDpslkdcNI+QSsFTFWFGdUg==;7cl5YIXuLgiZm3BO2BvThQ=="
 ---

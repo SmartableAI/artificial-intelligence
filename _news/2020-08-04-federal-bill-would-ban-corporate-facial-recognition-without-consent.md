@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://thehill.com/sites/default/files/merkleyjeff_071119gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Guangzhou international airport introduces facial recognition service"
+    excerpt: "A passenger is using \"One ID\" facial recognition service at the Guangzhou Baiyun International Airport on August 5, 2020. Photo: Courtesy of the Guangzhou Baiyun International Airport Guangzhou Baiyun International Airport has introduced a new facial recognition service to simplify and speed up and check-in,"
+    publishedDateTime: 2020-08-06T06:20:00Z
+    webUrl: "https://www.globaltimes.cn/content/1196909.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-08-06/b44b7c56-fded-41b5-8128-ba34e6b1a5a0.jpeg"
+        width: 500
+        height: 300
         isCached: true
   - title: "Senate bill would place limits on use of facial recognition, other biometrics by private companies"
     excerpt: "Less than two months after legislation was introduced that would prohibit federal agencies from using facial recognition technology, as well as strip support from state and local law enforcement agencies that also leverage it, Sens. Jeff Merkley (D-Ore.)"

@@ -27,98 +27,64 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore's Universal Studios deploys facial recognition for entry"
-    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state's latest foray with a technology that has stoked privacy concerns."
-    publishedDateTime: 2020-08-03T14:48:00Z
-    webUrl: "https://www.reuters.com/article/us-singapore-universal-studios-idUSKBN24Z15D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24Z15D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z15D"
+  - title: "Macy’s Sued Over Use of Clearview Facial-Recognition Software"
+    excerpt: "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI."
+    publishedDateTime: 2020-08-06T18:24:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138061&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MU"
-        width: 792
-        height: 545
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjoIH.CSaXQ/v1/360x-1.jpg"
+        width: 360
+        height: 240
         isCached: true
-  - title: "Guangzhou international airport introduces facial recognition service"
-    excerpt: "A passenger is using \"One ID\" facial recognition service at the Guangzhou Baiyun International Airport on August 5, 2020. Photo: Courtesy of the Guangzhou Baiyun International Airport Guangzhou Baiyun International Airport has introduced a new facial recognition service to simplify and speed up and check-in,"
-    publishedDateTime: 2020-08-06T06:20:00Z
-    webUrl: "https://www.globaltimes.cn/content/1196909.shtml"
+  - title: "New Facial and Eye Recognition Software in Airports to Increase Effectiveness of Safety Procedures"
+    excerpt: "Developments in technology have allowed authorities to use facial recognition when identifying individuals. EDISON Software Development Centre have coupled this technology with eye recognition software to monitor and train customs officers that improves accountability and attentiveness."
+    publishedDateTime: 2020-08-05T17:24:00Z
+    webUrl: "https://apnews.com/79daba601dabdab4695ae24599975759"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-08-06/b44b7c56-fded-41b5-8128-ba34e6b1a5a0.jpeg"
-        width: 500
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Universal Studios Singapore using facial recognition for entry at RWS"
-    excerpt: "Universal Studios Singapore is now using facial recognition scanners to allow visitors \"more efficient and seamless\" entry to the theme park at RWS."
-    publishedDateTime: 2020-08-04T12:09:00Z
-    webUrl: "https://blooloop.com/news/universal-studios-singapore-facial-recognition/"
+  - title: "Macy’s sued for gathering facial data of customers at stores"
+    excerpt: "The department store giant is accused of using facial recognition software to match faces with personal information on social media. More than 6,000 people could be affected. The class action lawsuit was filed in the Northern District of Illinois seeking ..."
+    publishedDateTime: 2020-08-07T23:58:00Z
+    webUrl: "https://www.fox19.com/2020/08/07/macys-sued-gathering-facial-data-customers-stores/"
     type: article
     provider:
-      name: Blooloop
-      domain: blooloop.com
-    quality: 39
+      name: WXIX-TV
+      domain: fox19.com
+    quality: 24
     images:
-      - url: "https://blooloop.com/wp-content/uploads/2020/08/universal-resorts-world-sentosa-e1596541631806.jpg"
+      - url: "https://www.fox19.com/resizer/Wh97N447lX5k3cQr9vRhk9UNRaM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/CTYBKVMO7BDIRJNGSNEQ4HWBPU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Macy’s sued over use of Clearview facial-recognition software"
+    excerpt: "Macy’s Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI. An Illinois woman filed a proposed class action against Macy’s Wednesday in federal court in Chicago,"
+    publishedDateTime: 2020-08-07T11:30:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/macys-sued-over-use-clearview-facial-recognition-software"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/362184947.jpg"
         width: 800
-        height: 390
+        height: 600
         isCached: true
-  - title: "Bar Exams’ Facial Recognition Deployment Is Heightening Test Takers’ Anxiety"
-    excerpt: "Taking the bar exam is stressful enough. But the implementation of facial recognition technology in Michigan’s and California’s bar exam has added another layer of anxiety as accuracy, fairness and privacy concerns creep into test takers’ minds."
-    publishedDateTime: 2020-08-05T14:42:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/08/05/bar-exams-facial-recognition-deployment-is-heightening-test-takers-anxiety/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 36
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/08/Face-scanning-Article-202008041550.jpg"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
-    excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
-    publishedDateTime: 2020-08-04T21:22:00Z
-    webUrl: "https://www.wbur.org/npr/892433132/judge-facebooks-550-million-settlement-in-facial-recognition-case-is-not-enough"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 33
-    images:
-      - url: "http://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_custom-5e9fe2a47411735dff5e83b81a47ec43feee537f.jpg?s=6"
-        width: 948
-        height: 631
-        isCached: true
-  - title: "Singapore’s Universal Studios deploys facial recognition for entry amid Covid-19 pandemic"
-    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
-    publishedDateTime: 2020-08-03T13:08:00Z
-    webUrl: "https://www.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL.html"
-    ampWebUrl: "https://m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/travel/singapore-s-universal-studios-deploys-facial-recognition-for-entry-amid-covid-19-pandemic/story-6TBzjWo9b2nDX0zsvKDMrL_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 30
-  - title: "Universal Studios in Singapore introducing facial recognition scanners"
-    excerpt: "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state’s latest foray with a technology that has stoked privacy concerns."
-    publishedDateTime: 2020-08-04T01:26:00Z
-    webUrl: "https://www.nyoooz.com/features/technology/universal-studios-in-singapore-introducing-facial-recognition-scanners.html/4242/"
-    type: article
-    provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 19
 
 secured: "zWnla1YO7znVGnJcYlbRl1E2uW5i0MrOWz0hx2brE7lKq9apG17npA8BCQgvdW/oLMgkelvl0ILrVK766b3w6Y1KGwRNkMannbweOGooY4jtF7vnXzDNtgs2l+MpUO4elbohj4WXNIq3N7Vg0lKBNs4Eku8MrNT2Jm7NleFK1KZBAvhmRcugphaEljQpEObVuOpVT8A8VnYnpOqLtDgdsmQXchQ3LEf7SpSMSjFOrSKQy5wor+ytJ7XZMQe7RLWHVqYXHno6cZM4a/NnUH2KZ87EBVeH0SN/dy1SVeYoojO//yb6U/mDVhpszs604P7iozQaRcq1oOOJDZRLTrYVcBWqc6rDOLRhpXmVdC422Khndz4FaH3WxMCULMaM8GUB+gC6Z8htWWMDv+D5mEr3XZPPaEYRQ6lP0uIPeDvKZiCfupR1kJHocnNH6rB61paVIolbe1Q5ku0nKQmzHl6GFPchsYEdIgiGBWd8xzP/A8zTUfHcJ8DESoVJ73DNXg+kS1euEB4rSd6UyDy4gDr0Tw==;S9EUGNE+hUxVbitXrZE/vw=="
 ---

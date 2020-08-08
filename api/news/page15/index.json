@@ -2,146 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-07-24-tech-tent-have-we-seen-our-ai-future.md",
-      "title": "Tech Tent: Have we seen our AI future?",
-      "excerpt": "On this week’s Tech Tent we find out what the big fuss is about something called GPT-3. OpenAI is a Californian company started in 2015 with a high-minded mission - to ensure that artificial general intelligence systems that could outperform humans in most jobs would benefit all humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-53530454",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7F5F/production/_108470623_robotwriter.gif",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53530454",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53530454",
-      "publishedDateTime": "2020-07-24T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-new-intelligence-community-ai-principles-seek-to-make-tools-usefuland-law-abiding.md",
-      "title": "New Intelligence-Community AI Principles Seek to Make Tools Useful—and Law-Abiding",
-      "excerpt": "AI has grown considerably, as has public concern about its use, particularly for national security purposes. The promise of artificial intelligence comes with new challenges for the U.S. intelligence community,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/07/new-intelligence-community-ai-principles-seek-make-tools-usefuland-law-abiding/167180/?oref=ng-skybox-static",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/upload/2020/07/24/NGai20200724/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-24T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars.md",
-      "title": "Our Neanderthal DNA Might Get Triggered By AI, Initially Set Off By Self-Driving Cars",
-      "excerpt": "Modern-day genetic hunters are using all the tricks of the trade-in conducting DNA analyses to possibly discover a fluke or some standout innate genomic characteristic that might account for the widespread differences in how people react upon COVID-19 exposure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1186943945%2F0x0.jpg",
-          "width": 1200,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/",
-      "publishedDateTime": "2020-07-24T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-24-apple-acquires-more-ai-startups-than-any-other-tech-company.md",
       "title": "Apple Acquires More AI Startups Than Any Other Tech Company",
       "excerpt": "Of the 489 companies to buy an AI startup over the last decade, 431 of them purchased only one company. That means these tech giants—and Apple, specifically—are dominating this AI arms race. Related: How to Use Your iPad as a Second Monitor on Any ...",
@@ -1149,6 +1009,146 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-closing-data-gaps-with-lacuna-fund.md",
+      "title": "Closing data gaps with Lacuna Fund",
+      "excerpt": "Machine learning has shown enormous promise for social good, whether in helping respond to global health pandemics or reach citizens before natural disasters hit. But even as machine learning technology becomes increasingly accessible, social innovators still face significant barriers in their efforts",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Wadhwani_2.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
+      "publishedDateTime": "2020-07-23T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga.md",
+      "title": "Amazon brings Contact Lens, a set of AI-powered contact center tools, into GA",
+      "excerpt": "The machine learning-powered set of capabilities allow companies to automatically transcribe and analyze customer calls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/22/50660081-ce3a-4998-ac36-6ea4c455bed6/thumbnail/1200x675/dc14c7d75bfcc9ea40ab77d1c94e9af7/googrecommendations.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
+      "publishedDateTime": "2020-07-23T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat.md",
+      "title": "M12-backed startup launches computer vision based virtual fitness coach that never lets users cheat",
+      "excerpt": "PRNewswire/ - Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as close",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg?p=facebook",
+          "width": 1920,
+          "height": 1005,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-23T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

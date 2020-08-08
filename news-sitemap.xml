@@ -79,12 +79,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thenextweb.com/world/2020/08/07/this-startup-is-fighting-air-pollution-with-ai/</loc>
-    <lastmod>2020-08-07T05:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07</loc>
     <lastmod>2020-08-07T05:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -279,12 +273,6 @@
   <url>
     <loc>https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/</loc>
     <lastmod>2020-08-05T12:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence</loc>
-    <lastmod>2020-08-05T12:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -567,12 +555,6 @@
   <url>
     <loc>https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/</loc>
     <lastmod>2020-08-03T22:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html</loc>
-    <lastmod>2020-08-03T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -961,7 +943,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200730005779/en/COVID-19-Impacts-Deep-Learning-Market-Accelerate-CAGR</loc>
+    <loc>https://www.businesswire.com/news/home/20200730005779/en/</loc>
     <lastmod>2020-07-30T14:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1741,12 +1723,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/</loc>
-    <lastmod>2020-07-27T14:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/neural/2020/07/27/a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind/</loc>
     <lastmod>2020-07-27T13:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1849,14 +1825,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
-    <lastmod>2020-07-27T05:30:00-07:00</lastmod>
+    <loc>https://insidehpc.com/2020/07/transform-raw-data-to-real-time-actionable-intelligence-using-high-performance-computing-at-the-edge/</loc>
+    <lastmod>2020-07-27T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
     <lastmod>2020-07-27T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

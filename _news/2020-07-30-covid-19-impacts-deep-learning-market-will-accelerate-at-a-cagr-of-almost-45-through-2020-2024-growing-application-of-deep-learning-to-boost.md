@@ -3,7 +3,7 @@ category: news
 title: "COVID-19 Impacts: Deep Learning Market Will Accelerate at a CAGR of almost 45% through 2020-2024 | Growing Application of Deep Learning to Boost Growth | Technavio"
 excerpt: "Technavio has been monitoring the deep learning market and it is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
 publishedDateTime: 2020-07-30T21:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200730005779/en/COVID-19-Impacts-Deep-Learning-Market-Accelerate-CAGR"
+webUrl: "https://www.businesswire.com/news/home/20200730005779/en/"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 627
     isCached: true
 
-secured: "HTXo3E2FAMqJY/MdIxTKPPgVVF1L4wJ9hc2dbfA3KOmGJUoWprzwVGw5ZzzVWDJHIeL5VmlFGQanGhaox1oa7bFu+pnDU6VYP9NKSvSYZpGnsM+/deWdrfQk3biL7vwClExiLWcDGIhAtq4tGsYss8BBSJRrMSwU6ZW6NLD3WZvPmnyK5vFjPDJpl7s8csvdqFKUzRw/o/K7LLI++aGi/cVBOQCAxb3vnWc8HP9ZRnAfvYUEls3ELpnPervO+NytS1/8tInb0d5osZ68y+J/Uq4HZPnHXnKQFg14TT6uTojlIMNWuS1At1XiVskYREXSNROX6nXGk57PLa4onuhaEXsc7G+25og91/JiATu5B209SeGImqQsEKjYxGongYCeETFXng5OLeaYPZ82nLdVSTNrNRwHcq+A78jLgM4QBwBcoSc1+Q8iY86ILVDZ07dINZOMumhdQ5zgAQMAquT4zC0CjEigxwU/m5259z+v2SlILRmUIhtuUOlBm3n1J5mhrgQBKAYxoscd3j7BHoHm5Q==;96zVCAMmI6aq3ChmcpFyog=="
+secured: "TU2g2E/id/c9wOsVd7VamH60oSrjZLy2lTmRn+fghlhVQbAphg9fmhmJqkyZmvfTuEQjjuUM14wfAAcy141pG6PcKCqu0pQOEV+5aH/52A7VtiOYoz3d4r3UTUFdIiucQYXc1NEa2foGAze59rWjkns35Ob5mGMexIVorgxyy1fNuVLNE/a475eX4ow2hLq/gBDS9sL/fa7l9ueBhsXkqHGLEXKFG7MvsvDTdyZ5UhtEr2V+4czTQT2Tds8X9L61bz9FkqbtoTiNsKpbXQP9rwwRmFUOuJWDl8jYE8clDer6H1Uk06KctHNheSXlkUvN+488N9eDlC6v9Ii9WXQ5Uw==;SBr2LxqRq0EJ9UxxRFyP8g=="
 ---
 

@@ -96,48 +96,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-05-improving-online-learning-with-artificial-intelligence.md",
-      "title": "Improving Online Learning with Artificial Intelligence",
-      "excerpt": "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp",
-      "publishedDateTime": "2020-08-05T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-08-04-behind-the-code-meet-young-suk-lee.md",
       "title": "Behind the Code: Meet Young-Suk Lee",
       "excerpt": "\nYoung-Suk Lee first learned about machine translation while studying English linguistics and literature. Now as a machine translation developer, she works on the multilingual systems that power Watson Language Translator. We talked to her about her first exposure to machine learning tech, the themes",
@@ -1352,6 +1310,47 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts.md",
+      "title": "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts",
+      "excerpt": "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
+      "publishedDateTime": "2020-07-08T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

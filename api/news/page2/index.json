@@ -2,56 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-08-06-verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing.md",
-      "title": "Verizon 5G Edge released in two new cities with AWS always-connected computing",
-      "excerpt": "This week the folks at Verizon revealed a pair of new cities in which their 5G Edge tech would launch. This system works with AWS, making it the “world’s first mobile edge computing platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/08/edgegaewa.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/amp/",
-      "publishedDateTime": "2020-08-06T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-06-ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons.md",
       "title": "AI and machine learning facilitate pioneering research on Parkinson's",
       "excerpt": "At Friday's 2020 Machine Learning for Healthcare Conference, IBM and Michael J. Fox Foundation reveal disease progression model that accurately pinpoints how far a patient's PD has advanced.",
@@ -207,7 +157,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1055,48 +1005,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-05-improving-online-learning-with-artificial-intelligence.md",
-      "title": "Improving Online Learning with Artificial Intelligence",
-      "excerpt": "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-artificial-intelligence?amp",
-      "publishedDateTime": "2020-08-05T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-08-05-worlds-first-ai-generated-arts-festival-program-opens-this-friday.md",
       "title": "‘World’s first’ AI-generated arts festival program opens this Friday",
       "excerpt": "The Edinburgh Fringe is the world’s largest performing arts festival, but this year’s event has sadly been canceled due to COVID-19. Fortunately, art junkies can still get the",
@@ -1193,6 +1101,105 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone.md",
+      "title": "Researchers propose AI that delivers personalized health recommendations via smartphone",
+      "excerpt": "Researchers at Harvard, Stanford, and the University of Michigan propose an AI system that delivers personalized health recommendations via mobile.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/amp/",
+      "publishedDateTime": "2020-08-05T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create.md",
+      "title": "Evil AI: These are the 20 most dangerous crimes that artificial intelligence will create",
+      "excerpt": "From targeted phishing campaigns to new stalking methods: there are plenty of ways that artificial intelligence could be used to cause harm if it fell into the wrong hands. A team of researchers decided to rank the potential criminal applications that AI will have in the next 15 years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
+      "publishedDateTime": "2020-08-05T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

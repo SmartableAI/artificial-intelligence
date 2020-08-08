@@ -20,15 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "AppTek Expands Speech Recognition with Modzy AI Platform and Marketplace"
-    excerpt: "The deployment extends AppTek´s language transcription and translation capabilities available via Modzy beyond the initial five ASR languages and two MT languages contributed by AppTek when the platform launched in November 2019."
-    publishedDateTime: 2020-08-03T14:42:00Z
-    webUrl: "https://financial-news.co.uk/apptek-expands-speech-recognition-with-modzy-ai-platfor/"
-    type: article
-    provider:
-      name: Financial News
-      domain: financial-news.co.uk
-    quality: 33
   - title: "Global Automotive Voice Recognition System Markets to 2025 - Cloud-based VR Systems Expected to Be the Market Leader"
     excerpt: "Dublin, Aug. 04, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Voice Recognition System Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Automotive Voice Recognition System Market is ..."
     publishedDateTime: 2020-08-04T11:54:00Z

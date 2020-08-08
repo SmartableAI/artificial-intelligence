@@ -2,147 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-07-28-tasers-a-pink-diary-and-a-bulge-in-the-front-of-his-pants-the-inside-story-of-an-albany-meth-dealers-violent-run-ins-with-police.md",
-      "title": "Tasers, a pink diary and a bulge in the front of his pants — the inside story of an Albany meth dealer’s violent run-ins with police",
-      "excerpt": "Convicted Albany meth dealer Nicholas Knight broke down in tears in court last week as he was sentenced to prison in a hearing that revealed dramatic details of his violent run-ins with police.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The West Australian",
-        "domain": "thewest.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-mind-controlled-drones-and-robots-how-thought-reading-tech-will-change-the-face-of-warfare.md",
-      "title": "Mind-controlled drones and robots: How thought-reading tech will change the face of warfare",
-      "excerpt": "DARPA is funding a number of brain-computer interface projects to enable soliders to control equipment at the speed of thought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/28/b6169b0b-a114-488f-bf41-f99025d6be35/thumbnail/1200x675/316e4bcea8de79eea954e2fead27af0f/istock-477598506.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
-      "publishedDateTime": "2020-07-28T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read.md",
-      "title": "Embarking on a Python journey? Then ‘Hands-on Machine Learning’ is a must read",
-      "excerpt": "Writing an all-encompassing book on Python machine learning is difficult, given how expansive the field is. But reviewing one is not an easy feat either, especially when it’s a highly acclaimed title such as Hands-On Machine Learning with Scikit-Learn,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/1-9-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read-syndication/amp/",
-      "publishedDateTime": "2020-07-28T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-07-28-nvida-ai-robotics-and-self-driving-cars.md",
       "title": "NVIDA: AI, Robotics and Self-Driving Cars",
       "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
@@ -823,47 +682,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-27-nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications.md",
-      "title": "NVMe over Fabrics and GPU Direct Storage Boost HPC and AI Edge Applications",
-      "excerpt": "In this special guest feature, Tim Miller, VP of Product Marketing at One Stop Systems (OSS), discuses how deploying edge HPC solutions - instead of data movement over relatively slow or unsecure networks to distant datacenters - provides significant benefits in cost,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/07/eos_with_bezel-with-SB2000-24.png",
-          "width": 600,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-27-a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind.md",
       "title": "A beginner’s guide to the AI apocalypse: Humanity joins the hivemind",
       "excerpt": "Welcome to the latest article in TNW’s guide to the AI apocalypse. In this series we’ll examine some of the most popular doomsday scenarios prognosticated by modern AI experts. It’s ...",
@@ -1337,6 +1155,196 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-mit-csail-employs-machine-learning-to-optimize-vaccine-designs.md",
+      "title": "MIT CSAIL employs machine learning to optimize vaccine designs",
+      "excerpt": "Researchers at MIT CSAIL designed a system that can identify optimal vaccine designs for a large swath of the population.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/amp/",
+      "publishedDateTime": "2020-07-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-how-to-unlock-your-iphone-without-a-pin-or-face-recognition.md",
+      "title": "How to unlock your iPhone without a PIN or face recognition",
+      "excerpt": "Wearing a mask can be a pain when trying to unlock an iPhone using Face ID. Here's how to unlock your iPhone without a PIN or face recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=8&itm_content=1x6&itm_term=2361344",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/man-checking-phone-with-mask-getty-1200x630-c-ar1.91-w.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp",
+      "publishedDateTime": "2020-07-27T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-facebook-builds-ai-tool-to-identify-harmful-behavior-of-people.md",
+      "title": "Facebook Builds AI Tool To Identify Harmful Behavior of People",
+      "excerpt": "The latest development can significantly improve software testing for complicated environments, specifically in areas related to privacy, safety and security",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data.ibtimes.sg/en/full/31511/artificial-intelligence.jpg",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
+      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
+      "publishedDateTime": "2020-07-27T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellen",
+        "domain": "ibtimes.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-will-ai-save-us-from-ourselves.md",
+      "title": "Will AI Save Us From Ourselves?",
+      "excerpt": "People are wired for immediate threats. That’s why humanity hasn’t made big progress on solving huge global challenges such as climate change, pandemics, food production, etc. If we are our own worst enemy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1e0b60bdf8e1f6991b2489%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/amp/",
+      "publishedDateTime": "2020-07-27T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

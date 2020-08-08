@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/amp/"
 type: article
 quality: 85
-heat: 265
+heat: 255
 published: true
 
 provider:
@@ -152,20 +152,6 @@ related:
       - url: "https://www.nydailynews.com/resizer/xVhrb5plckFSELbAhjzoe3slXhE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPTOF3KFBZC4NHL5MCSEJFNWBY.jpg"
         width: 1200
         height: 826
-        isCached: true
-  - title: "Baidu is ready to produce computers for self-driving cars"
-    excerpt: "Baidu is reported to have taken a big step towards making self-driving cars more widely available. The Chinese company is reported to have completed a computer designed for self-driving cars. In July,"
-    publishedDateTime: 2020-08-03T14:20:00Z
-    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/baidu-is-ready-to-produce-computers-for-self-driving-cars/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 39
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/GIF-Suggestion.gif"
-        width: 300
-        height: 250
         isCached: true
   - title: "Self-Driving Car Maker Sentenced to Prison For Stealing Trade Secrets From Google"
     excerpt: "(AP Photo/Tony Avelar) (CN) — Anthony Levandowski, a pioneer in self-driving car technology, was sentenced to 18 months in federal prison for swiping upwards of 14,000 proprietary documents from his former employer Google before he left to start his own ..."

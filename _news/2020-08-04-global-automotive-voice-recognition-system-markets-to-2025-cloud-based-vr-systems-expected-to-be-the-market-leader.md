@@ -31,15 +31,6 @@ related:
       name: Market
       domain: alliedmarketresearch.com
     quality: 38
-  - title: "AppTek Expands Speech Recognition with Modzy AI Platform and Marketplace"
-    excerpt: "The deployment extends AppTek´s language transcription and translation capabilities available via Modzy beyond the initial five ASR languages and two MT languages contributed by AppTek when the platform launched in November 2019."
-    publishedDateTime: 2020-08-03T14:42:00Z
-    webUrl: "https://financial-news.co.uk/apptek-expands-speech-recognition-with-modzy-ai-platfor/"
-    type: article
-    provider:
-      name: Financial News
-      domain: financial-news.co.uk
-    quality: 33
 
 secured: "wkfkk8Hk6mIaLlIdOm6do4EE3lavT2BLBU4OKHkJVyNdzY72wh4pFoAXrhrJBQjyJ4j2Y8gze3/rRVyQp9L3TW/+k/NCUcexqxb2gWogMkYerwF2yYxvphCtg+3tEaBqf7PHL6ZA4laoXeGNiK3J6ufWQaoWMGUAMBslSP2rUHMgUPpPSpJF1JzwyxgZbwqC5YUsz3MZi8XE0KUFlLNs6NsYxPhrLu3DTIT2wWarSik0Cj/WJYAO+EkcglG0FJJdmnOqdOOt8EPsYDGPvsEgrfYtiCaQFahVYo50GhYuUMEGlq2Ncn3ElnmHIGPi422CyielNpBlTZsfSD8yuS3ZlM8h2gox3+piI61Pcb9JQ0okxkEmPbnSNxikkYYCUoN78/8UezsfNBRmmjyuw3CTDn1snpET/4CWUg3nMWsDQNenQ4ZLCPiPnL9RTluHWdk4CGdwV5uKZDihBAcMfbi4jrXe66p3CqwIy5MpfWLcaKxmdyHOuXRo2w7C6+AmKqce08AGpEeKXMMrhjfrUePRwg==;kIgudE1uG2BfEr47xPirGg=="
 ---

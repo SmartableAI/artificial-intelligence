@@ -2,146 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2020-07-08-watch-google-deepminds-alphago-documentary-for-free.md",
-      "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
-      "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg",
-          "width": 1278,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-how-k-health-is-using-ai-to-become-a-leader-in-telehealth-amid-the-pandemic.md",
-      "title": "How K Health is using AI to become a leader in telehealth amid the pandemic",
-      "excerpt": "CNBC's Julia Boorstin reports on K Health, an AI-driven telehealth service that offers patients access to care through their iPhone or Android device. The company ranked No. 35 on the 2020 Disruptor 50 list.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2020/07/07/how-k-health-is-using-ai-to-become-telehealth-leader-amid-pandemic.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106606195-15941460253ED3-50-KHEALTH-070720.jpg?v=1594146024",
-          "width": 1920,
-          "height": 1080,
-          "title": "How K Health is using AI to become a leader in telehealth amid the pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-facial-recognition-market-to-surpass-12-billion-by-2026.md",
-      "title": "Facial recognition market to surpass $12 billion by 2026",
-      "excerpt": "To enhance tracking and security in public spaces, the facial recognition technologies market is expected to surge in the years ahead. In the era of digital transformation, more organizations are utilizing facial recognition technologies for a host of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/07/52407e3d-cfe0-434d-9778-e1df9e7274a5/resize/1200x/dd5a6f0f9bbb18f40fa1b8cffa7ccf91/facial-recognition-primipil.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Facial recognition market to surpass $12 billion by 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
-      "publishedDateTime": "2020-07-07T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-07-autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation.md",
       "title": "Autonomous driving startup turns its AI expertise to space for automated satellite operation",
       "excerpt": "Hungarian autonomous driving startup AImotive is leveraging its technology to address a different industry and growing need: autonomous satellite operation. AImotive is teaming up with C3S, a supplier of satellite and space-based technologies,",
@@ -1184,6 +1044,157 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox.md",
+      "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
+      "excerpt": "Amazon has purchased of Zoox, led by CEO Aicha Evans for $1.2 billion. With Evans at the helm, carving out her own lane in what’s shaping up to be a competitive self-driving car space, is the e-commerce giant in a position to dominate yet another industry?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148406588%2F0x0.jpg",
+          "width": 1200,
+          "height": 827,
+          "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
+      "publishedDateTime": "2020-07-07T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-self-driving-tech-is-becoming-a-game-of-partnerships.md",
+      "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
+      "excerpt": "Making an autonomous vehicle is proving harder and costlier than many startups predicted. So they're teaming up with giants like Hyundai, Jaguar, and Ford.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f03caf26cd63b0e8be2ced6/master/pass/business_voyage.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-tech-game-partnerships/amp",
+      "publishedDateTime": "2020-07-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-from-ai-to-open-source-how-tech-is-changing-everything-about-the-future-of-healthcare.md",
+      "title": "From AI to open source, how tech is changing everything about the future of healthcare",
+      "excerpt": "The coronavirus pandemic has caused significant shifts in how healthcare is delivered. How many of these advances will last beyond the virus?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/07/cb1aeed9-c3de-46fe-84ef-1334feec0cf8/thumbnail/1200x675/7a57cb88b29b68d90e8c917d264ba786/istock-1180529694.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "From AI to open source, how tech is changing everything about the future of healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "publishedDateTime": "2020-07-07T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],
