@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Expert System Releases expert.ai Natural Language API"
-excerpt: "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural Language API that enables"
-publishedDateTime: 2020-07-27T12:44:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html"
+excerpt: "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural"
+publishedDateTime: 2020-07-27T12:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mma.prnewswire.com/media/288932/expert_system_Logo.jpg?p=facebook"
+    width: 702
+    height: 369
     isCached: true
 
-secured: "HpEnYLI+fC4tRbclV/zVu3BAR0BmAJbdMhDrAnsfD9hIWAmf/H0l9eXzBRRkZwtp/iG777gcsAvnnr4/+Ja3P6lwX8iHh2t9zRbLnceFtq+ZVwcpx6WpznUKUlDatrZzo7tHmrhboVUr63YnDJrwFwpic032O9oePnL2vbDn/KXvcj4HJcAjIKuz/TKsTgDEHzBt5lsW/9JSLFJ3NmGScln1NgW6514+1ZRuR22Ck4/w7jgI+iyGTO7xWHsrk5HeoL/vJpa0XmCsvrX9KMQUQ2K4qP0nUb0kiqWtJVp9mbY/pe1eGfQAcL90zUvp6Ia6bqmEuv5RltM2Z7FfJfU03Q==;Z1stkcpoD/kQlBIEYSKmYg=="
+secured: "pKzfGhXLB7SOHo5NMpPa8Pwo4m5BmrnsqlW7klY0ccUQ6sG+dmJMmS6yB46UPTtwcS+4DZphAMYTxZ/gMo51wmjTrq+VJtS8kBA6sffO2ndm1CGp5xrfpzzj4jdE1dZ2v1Nrk4+ceX+8wYmmTxTTXhVMBXf/duAcSkPyCDv8UKsBs6+URX6JsOlO5iWxRrFBB8IHZKngGmDG7Gh+XSE09oe6pfU2QW8kkN7T4xLJlMLQYrpZV1TKtreqHsDfyqHLMctZPxzqYYU8fkXisa8vsMW8sDEpS7SQzX0ej/lOMFj9YJXnSQTwMMqaCz+DNwefwnnVVxnwZDIbLnOyRCFMnw==;5LZ9ye9VyZKYcV8FBfDrhg=="
 ---
 

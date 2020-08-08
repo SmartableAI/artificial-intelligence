@@ -7,7 +7,7 @@ webUrl: "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strai
 ampWebUrl: "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/"
 type: article
-quality: 86
+quality: 88
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1158990325.jpg?w=1024"
@@ -46,6 +47,6 @@ related:
         height: 683
         isCached: true
 
-secured: "/XkZOKAK0G4S2WjzynpXwiD19MFz/li0Ya4wevsleq53Y15xQVoGJlSX5VjlUUuXaPDVdQPpmAunTMC26C6efVvJVSSpyaHrWrm/pbNNc7uqwJmtCS8tYxIotZFCApy8vgVKUaPjk7S0STxN+2WpNGlCLTfDoApVo8wtsyIgA0KQJsMK1v7UWBmSGduFX5X7j/qvF8ck5wpiccLjifwn/PeCr4Q8g89zVicGQAQkWMrYqIWahR7U+wStx438BTobxVWEDbkEyET0pSlcM62jsqzKI2LzeRxt0cityGDcQ1FoTYnUhtaeb0FUOjHm75LZ4lX+waOpxq4X8SMw59aZ+w==;V9ETtscCLpdsiVs5MS4MJA=="
+secured: "TFX/5f8+vPD7l24Z96XMoDKO3u2Jgc8xymHEkEg/tAKEQhyYtdnliyU8/wYugPdckmw66PhgOUFf616sQeAIBXUdOXch6Pbbw9CFIjy+kCEWtyAD4vF3PLqiO4Tz96fi1NyfooLtByk6vBNdX6Sj+LkKeZWnxMI0bftg0tHBJUow5+uwROUtiyt5+SeHVfOHChdleyqvpz8kUs+riwsD/yEoT/HM1ih6QQqgDl1qLC158AMvXLJ5xq1YaoZoITcIn46SWzU+qDFeYklaowDiFuAH2ENuwgk25Ix7/BP+YwQmowHsrnNsYaDhwtobNj5s5VjeIaHplFJYhDUAw5Ew6w1I9iKN70xnb1H/BiuCrJeAyURVAYQNsfQmaM9rU+FhgiZ0OYZpMnV64EqGqM7xs920tr1BjXJLfBYk67uMlYeE7KFX9m/+1pF1ERjmqhfRNWmqVM3yX1K5d3AI0QeAv5XWsTsuwCaWcqJT7GN0QwcAse1smVCmFP8/LCQZKg5gFu9sA+iVwL7MIwU0fJZOfg==;gBUnti2l4T+VDRfXjIQSfw=="
 ---
 

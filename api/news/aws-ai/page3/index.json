@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-08-petroai-and-aws-partner-to-operationalize-modern-analytics-reduce-costs.md",
+      "title": "Petro.ai and AWS Partner to Operationalize Modern Analytics, Reduce Costs",
+      "excerpt": "The automated integration of Petro.ai with Amazon S3, AWS Lambda, and AWS VPC minimizes time spent loading, normalizing, and managing data while providing the elastic compute power required for modern analytics at enterprise scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
+          "width": 605,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
+      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
+      "publishedDateTime": "2020-07-08T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hart Energy",
+        "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-decision-points-in-storage-for-artificial-intelligence-machine-learning-and-big-data.md",
+      "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+      "excerpt": "Advanced analytics needs powerful computing to turn data into insights. Machine learning (ML) and AI takes this to another level because such systems need rich datasets for training and rapid access to new data for operations. These can run to multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/infrastructure/searchEnterpriseAI_050.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "publishedDateTime": "2020-07-08T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-super-bowl-plays-to-tech.md",
       "title": "Super Bowl Plays To Tech",
       "excerpt": "The Amazon Cloud was used in conjunction with its advanced analytics tools and a machine learning package from SageMaker to provide valuable information to the NFL, broadcasters, in-stadium displays, coaches, players and, of course, the fans. Today ...",
@@ -1286,88 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-amazon-adds-media-analysis-tools-to-amazon-rekognition-video.md",
-      "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
-      "excerpt": "Machine learning service automates workflows such as creating promo videos, ad insertion and packaging content for streaming services",
-      "sourceUrl": null,
-      "webUrl": "https://www.broadcastnow.co.uk/tech/amazon-adds-media-analysis-tools-to-amazon-rekognition-video/5151053.article",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/2/0/5/1327205_screenshot20200625at10.14.00_839733.png",
-          "width": 715,
-          "height": 398,
-          "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Broadcast",
-        "domain": "broadcastnow.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-aws-upgrades-sagemaker-labeling-tool.md",
-      "title": "AWS Upgrades SageMaker Labeling Tool",
-      "excerpt": "Amazon Web Services has added a 3D visualization capability to its SageMaker data labeling tool used to build training data sets for machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2020/06/10/aws-sagemaker-adds-ml-labeling-tool/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/self-Driving_car_shutterstock_metamorworks.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

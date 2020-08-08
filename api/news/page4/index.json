@@ -2,6 +2,55 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-04-ai-driven-fitness-making-gyms-obsolete.md",
+      "title": "AI-Driven Fitness: Making Gyms Obsolete?",
+      "excerpt": "And a staggering 80% of men are exercising more now without access to their gyms than before Covid-19, according to data from Freeletics, an AI-based fitness app with 47 million users in over 160 countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f298efbe2252631e7028543%2F0x0.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/amp/",
+      "publishedDateTime": "2020-08-04T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks.md",
       "title": "Kite brings its AI-powered code completions to Jupyter notebooks",
       "excerpt": "Using AI to help developers is not an original idea. Nowadays you have startups like DeepCode offering AI-powered code reviews and tech giants like Microsoft working on applying AI to the entire ...",
@@ -149,7 +198,7 @@
       "webUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 342,
+      "heat": 322,
       "tags": null,
       "images": [
         {
@@ -654,7 +703,7 @@
       "webUrl": "https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 216,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -928,7 +977,7 @@
       "webUrl": "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 239,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -978,7 +1027,7 @@
       "webUrl": "https://www.chronicle.co.zw/bulawayo-and-chinese-firm-partner-to-introduce-facial-recognition-scan-system/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1100,55 +1149,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-this-ai-powered-choose-your-own-adventure-text-game-is-super-fun-and-makes-no-sense.md",
-      "title": "This AI-Powered Choose-Your-Own-Adventure Text Game Is Super Fun and Makes No Sense",
-      "excerpt": "AI Dungeon debuted as a free text adventure game. Now the game’s AI system has been upgraded to GPT-3, or Generative Pre-trained Transformer, which has a language model that uses deep learning to produce human-like text.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bh9ni0rqlv4zfseavxe4.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-ai-powered-choose-your-own-adventure-text-game-is-1844593111/amp",
-      "publishedDateTime": "2020-08-03T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -207,7 +207,7 @@
       "webUrl": "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -247,7 +247,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI in Finance"
+        "AI in Finance",
+        "AWS AI"
       ]
     },
     {
@@ -1115,6 +1116,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-06-verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing.md",
+      "title": "Verizon 5G Edge released in two new cities with AWS always-connected computing",
+      "excerpt": "This week the folks at Verizon revealed a pair of new cities in which their 5G Edge tech would launch. This system works with AWS, making it the “world’s first mobile edge computing platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/08/edgegaewa.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/amp/",
+      "publishedDateTime": "2020-08-06T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons.md",
       "title": "AI and machine learning facilitate pioneering research on Parkinson's",
       "excerpt": "At Friday's 2020 Machine Learning for Healthcare Conference, IBM and Michael J. Fox Foundation reveal disease progression model that accurately pinpoints how far a patient's PD has advanced.",
@@ -1162,55 +1213,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color.md",
-      "title": "Researchers say ‘The Whiteness of AI’ in pop culture erases people of color",
-      "excerpt": "Researchers argue predominately portraying artificial intelligence as white in science fiction, stock imagery, and popular culture has consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/robot-stock-imagery.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/amp/",
-      "publishedDateTime": "2020-08-06T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

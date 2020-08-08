@@ -56,6 +56,22 @@ related:
         width: 680
         height: 380
         isCached: true
+  - title: "Upstate sheriff's office partners with website using facial recognition software to reunite pets with owners"
+    excerpt: "The Laurens County Sheriff's Office Animal Control division has partnered with FindingRover.com in the hopes lost pets can be reunited with their owners."
+    publishedDateTime: 2020-08-07T14:33:00Z
+    webUrl: "https://www.foxcarolina.com/news/upstate-sheriffs-office-partners-with-website-using-facial-recognition-software-to-reunite-pets-with-owners/article_8ce73b0e-d8b9-11ea-9c64-a31a217727f2.html"
+    ampWebUrl: "https://www.foxcarolina.com/news/upstate-sheriffs-office-partners-with-website-using-facial-recognition-software-to-reunite-pets-with-owners/article_8ce73b0e-d8b9-11ea-9c64-a31a217727f2.amp.html"
+    cdnAmpWebUrl: "https://www-foxcarolina-com.cdn.ampproject.org/c/s/www.foxcarolina.com/news/upstate-sheriffs-office-partners-with-website-using-facial-recognition-software-to-reunite-pets-with-owners/article_8ce73b0e-d8b9-11ea-9c64-a31a217727f2.amp.html"
+    type: article
+    provider:
+      name: Fox Carolina
+      domain: foxcarolina.com
+    quality: 40
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/foxcarolina.com/content/tncms/assets/v3/editorial/f/32/f325b21c-6016-528f-9295-799d7a6c34ec/5dc44e5648998.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "DOySuHfwDyQLxvzhlwGobPELu93FnPAyBfW8q/Bw0mM2+/7qSc+85FFa/UTX9ZN+fEutHs2fis1wcpcLA8JqTU0aSf2QJUgj7QlxPn+FzCKJj8GrkNUuFZv9A9QkQ8q4vOI8bfgoZFM4zlbaG5qtnN/X6tsh7KAUUngqty55BNpjFwZvnIzcK8PJIBJVaBLmtLDnxKflvdoIIsdCWYJwVQ2GEBSMhoS5h6fYK7hXAxvms+Dz3DcUawovoxkBpLBkyc4SHgKCWxuzqw9lW0f99N3JeDgVT5ZpEgRW3VBI0o3JFaIzTavuNc7/nR6brCgTPl2HtrJAlpxtuVgX1jgyWg==;rLQqGa7z5iNDZPQiiErhvg=="
 ---

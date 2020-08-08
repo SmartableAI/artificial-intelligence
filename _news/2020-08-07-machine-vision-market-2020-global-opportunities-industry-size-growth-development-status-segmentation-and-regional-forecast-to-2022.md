@@ -49,6 +49,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
+    excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
+    publishedDateTime: 2020-08-08T03:31:00Z
+    webUrl: "https://apnews.com/07cf0c568e784ed79333d3f3ce53bde2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "MNuWqVdco5uCGC55hTj9SIs80RssUmKJSAtshZXMAwRWfyYGnD9kbqPoyYVS3pgYOKLrsjg3Fbj7fS5Ztrvk7xE24FwibhPWYNlkrtrPmT0PiyPxA7lziUGTtJ+yqYQCbnGbi0/ffTSKo+q02o8fzzrTVdccl+rfkHEkkoh0fv86sRWUkehnnuQLhdYRyyLB56EVTNvdKBsdjXeg5AOUOoLqCAti8iYYgymGx6nsLFi9lczLhFTps7iFZeEh2+HEIlZ5lLGyCb736yRwuYvGrV26mKNwxKp9N5GZhtaSAD0wSuT7xoLTY9N5NLm4bOSlpsvGTw2ZOOGQlTba3BmMtg==;qvRLBuMHjvYg8+3UO2W65g=="
 ---

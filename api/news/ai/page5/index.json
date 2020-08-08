@@ -2,6 +2,46 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-02-imd-plans-to-use-ai-in-weather-forecasting.md",
+      "title": "IMD plans to use AI in weather forecasting",
+      "excerpt": "The IMD has invited research groups who can study how artificial intelligence (AI) be used for improving weather forecasting",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202008/rain_1-647x363.jpeg?heh0l7Ll.ZuzDBntS218BRV_BXaJRI4N",
+          "width": 647,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/india/story/imd-plans-to-use-ai-in-weather-forecasting-1706999-2020-08-02",
+      "publishedDateTime": "2020-08-02T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-02-baidu-completes-its-computer-for-self-driving-cars.md",
       "title": "Baidu completes its computer for self-driving cars",
       "excerpt": "The firm isn’t the only one working on self-driving computers. NVIDIA is quickly landing deals with GM, Toyota and others that could make it a powerhouse, for instance. However, Baidu might be the first to put a platform into real-world (albeit limited) use.",
@@ -1404,47 +1444,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-speech-recognition-software-market-to-boom-post-2020-ibm-microsoft-apple.md",
-      "title": "Speech Recognition Software Market to Boom Post 2020 | IBM, Microsoft, Apple",
-      "excerpt": "Latest released the research study on Global Speech Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Recognition Market research report shows the latest market insights current situation analysis with upcoming trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T731312235_g.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
-      "publishedDateTime": "2020-07-30T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

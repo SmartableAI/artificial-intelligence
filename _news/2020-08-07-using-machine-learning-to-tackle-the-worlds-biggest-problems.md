@@ -5,8 +5,8 @@ excerpt: "Machine learning has graduated from the realm of science fiction to be
 publishedDateTime: 2020-08-07T19:03:00Z
 webUrl: "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/"
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1038383026.jpg?w=1200&#038;strip=all"

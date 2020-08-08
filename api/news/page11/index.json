@@ -2,6 +2,47 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-28-inpowered-selected-by-ana-as-winner-of-best-use-of-aimachine-learning-category-at-2020-b2-awards.md",
+      "title": "inPowered Selected by ANA as Winner of 'Best Use of AI/Machine Learning' Category at 2020 B2 Awards",
+      "excerpt": "PRNewswire/ -- inPowered, the AI platform delivering business outcomes with content marketing, was awarded the top",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "publishedDateTime": "2020-07-28T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-this-ai-will-turn-your-ugly-face-into-a-cute-cartoon.md",
       "title": "This AI will turn your ugly face into a cute cartoon",
       "excerpt": "thanks to new AI tool that turns images and videos into cartoons. Mahajan and Pandkar used their open-source implementation to create a publicly-available demo of the system, using GPU (Graphics ...",
@@ -1097,7 +1138,7 @@
       "title": "NVIDA: AI, Robotics and Self-Driving Cars",
       "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
       "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
+      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1129,49 +1170,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-map-out-financial-crime-with-machine-learning.md",
-      "title": "Map Out Financial Crime with Machine Learning",
-      "excerpt": "Discover a smarter risk based approach to fighting financial crime, powered by analytics from Oracle. Learn more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oracle.com/industries/financial-services/aml-and-financial-crime-compliance/machine-learning-aml-financial-crime.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oracle.com/a/ocom/img/cc01-machine-learning-graph-analytics.jpg",
-          "width": 350,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oracle",
-        "domain": "oracle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
+        "AI in Robotics",
         "AI"
       ]
     }

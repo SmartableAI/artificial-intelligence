@@ -2,6 +2,97 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-24-new-intelligence-community-ai-principles-seek-to-make-tools-usefuland-law-abiding.md",
+      "title": "New Intelligence-Community AI Principles Seek to Make Tools Useful—and Law-Abiding",
+      "excerpt": "AI has grown considerably, as has public concern about its use, particularly for national security purposes. The promise of artificial intelligence comes with new challenges for the U.S. intelligence community,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/07/new-intelligence-community-ai-principles-seek-make-tools-usefuland-law-abiding/167180/?oref=ng-skybox-static",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2020/07/24/NGai20200724/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars.md",
+      "title": "Our Neanderthal DNA Might Get Triggered By AI, Initially Set Off By Self-Driving Cars",
+      "excerpt": "Modern-day genetic hunters are using all the tricks of the trade-in conducting DNA analyses to possibly discover a fluke or some standout innate genomic characteristic that might account for the widespread differences in how people react upon COVID-19 exposure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1186943945%2F0x0.jpg",
+          "width": 1200,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/",
+      "publishedDateTime": "2020-07-24T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-apple-acquires-more-ai-startups-than-any-other-tech-company.md",
       "title": "Apple Acquires More AI Startups Than Any Other Tech Company",
       "excerpt": "Of the 489 companies to buy an AI startup over the last decade, 431 of them purchased only one company. That means these tech giants—and Apple, specifically—are dominating this AI arms race. Related: How to Use Your iPad as a Second Monitor on Any ...",
@@ -275,30 +366,30 @@
       "title": "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace",
       "excerpt": "and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from predictive analytics to create real business value, with better ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765",
+      "webUrl": "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765",
-      "publishedDateTime": "2020-07-24T06:19:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1067,79 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat.md",
-      "title": "M12-backed startup launches computer vision based virtual fitness coach that never lets users cheat",
-      "excerpt": "PRNewswire/ - Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as close",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel.md",
-      "title": "Artificial Neural Network Market Growing at a CAGR 20.5% | Key Player Google, IBM, Microsoft, Oracle, Intel",
-      "excerpt": "Market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024, at a Compound Annual Growth Rate (CAGR) of 20.5% during the forecast period. The major driving factor in the ANN market is due to the growing demand to train a large volume of data sets with low supervision to drive the market For over a decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16755993",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16755993",
-      "publishedDateTime": "2020-07-23T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

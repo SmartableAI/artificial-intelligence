@@ -3,7 +3,7 @@ category: news
 title: "Australia needs to face up to the dangers of facial recognition technology"
 excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
 publishedDateTime: 2020-08-07T02:35:00Z
-webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 type: article
@@ -196,20 +196,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 39
-  - title: "Facial Recognition Technology Adapts In The Age Of Coronavirus"
-    excerpt: "With 60-70% of your face covered up by a mask, it isn't surprising that facial recognition algorithms designed pre-pandemic aren't working very well. The U"
-    publishedDateTime: 2020-08-03T09:20:00Z
-    webUrl: "https://www.wvxu.org/post/facial-recognition-technology-adapts-age-coronavirus"
-    type: article
-    provider:
-      name: WVXU
-      domain: wvxu.org
-    quality: 39
-    images:
-      - url: "https://www.wvxu.org/sites/wvxu/files/styles/medium/public/202007/facial_recognition_picture.png"
-        width: 726
-        height: 480
-        isCached: true
   - title: "Wearing Masks Confuses Facial Recognition"
     excerpt: "Facial recognition and masks study explored 3 levels of nose coverage, finding that accuracy degrades with greater nose coverage."
     publishedDateTime: 2020-08-03T17:20:00Z
@@ -307,22 +293,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "This photographer is addressing the dilemma of how to represent protesters in an age of social media and facial recognition technology"
-    excerpt: "Brooklyn-based photographer Yuvraj Khanna gives voice to BLM protestors who want to obscure their identities while actively protesting"
-    publishedDateTime: 2020-08-03T10:25:00Z
-    webUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/photography/2020/08/03/this-photographer-is-addressing-dilemma-how-represent-protestors-an-age-social-media-facial-recognition-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 29
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ESQX7VGU2QI6VJ4IFTUGZ2ARFE.jpg&w=1440"
-        width: 1440
-        height: 1152
-        isCached: true
   - title: "Portland votes to ban facial-recognition technology"
     excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."
     publishedDateTime: 2020-08-04T19:13:00Z
@@ -358,6 +328,6 @@ related:
       domain: harvard.edu
     quality: 16
 
-secured: "EoztqHYAuMwFh6DffhJ43PBxoCE1AG9JbYNiLLrW/hWT8Y6f/3z1IxIMYk5wMhcFQECUvmv7lRAfkdeLxyrV4uxQwhn1E2DErX7cJGi8dOz6QX0vCAmkfTdAh3ewp4cIIry02RfpVC3Be550ssnI8jnuir7y0Lnk9za9Ls6+bgX1gwnOCRxVm5oDLcH8TVOR04yKKaeS3PmNAS8iu+7VOXoK3riEBURsedDkEzwtJiNaKGy0EMUS1Q7RekbjZJr5/qIlU2sR5Ep0MAxPO8bMgKUfNCHi12CmGfkBVdz1DumWFYMFANf1bux8JQmoGHH4PttOfwPEpD2/xRfdHy1EJ/l7p8WPT3N5KLcwzSBmv+FxzgtjTFtIelTahJJTafJWu6PASnTQWNGG6gRWA8a/FVT9qTTMEmaR2o8Uo9iQLE1trCytJ7+UJOUGTpemccnyd12XXa6PODXgnmrjVfmEoDYHoTZ+is/mj1SbpqdnMpN/RnazzPQVKhlBmJCgDp5zRxKMygA703kvDd2T0hp6UA==;DE1CDTojh3p4HY97KTSxxQ=="
+secured: "YSd/U6bXK5dTsJiE7KRW09ltAYMf7MB1boQfMW3GawPlDt6xgQ0Wun54RGw4t3md9tSMgsnPETzQDerYVHUSToTsO50cwEXuOVrWHTIelt7SLR0MTa+e+9o+oNf/ge7Kjn9hxysnXlVzoYESCJFEIQTLmROBIFku70wbdANYzKYggcEw+RNxt69VshevSFwjRB3nloyCL4FMavJ51TOHviPSCj8ixfWVzqjATXIvnxnMrnPhYQPYilivvZogg6XjVwBkBjAtVbQT0k950yqUNRgbgeHzdCLALKUZC1keVqt5R1Jytvje25fHvSImH0np7vVEJLl2VEQb6fXUCT3GtQ==;Jx3Ww8K/djuW+umwSOIG0Q=="
 ---
 

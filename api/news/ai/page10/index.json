@@ -2,6 +2,56 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-07-28-mind-controlled-drones-and-robots-how-thought-reading-tech-will-change-the-face-of-warfare.md",
+      "title": "Mind-controlled drones and robots: How thought-reading tech will change the face of warfare",
+      "excerpt": "DARPA is funding a number of brain-computer interface projects to enable soliders to control equipment at the speed of thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/28/b6169b0b-a114-488f-bf41-f99025d6be35/thumbnail/1200x675/316e4bcea8de79eea954e2fead27af0f/istock-477598506.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mind-reading-particles-for-the-military-the-bcis-that-enable-soliders-to-fly-planes-with-their-thoughts-alone/",
+      "publishedDateTime": "2020-07-28T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-embarking-on-a-python-journey-then-hands-on-machine-learning-is-a-must-read.md",
       "title": "Embarking on a Python journey? Then ‘Hands-on Machine Learning’ is a must read",
       "excerpt": "Writing an all-encompassing book on Python machine learning is difficult, given how expansive the field is. But reviewing one is not an easy feat either, especially when it’s a highly acclaimed title such as Hands-On Machine Learning with Scikit-Learn,",
@@ -57,7 +107,7 @@
       "title": "NVIDA: AI, Robotics and Self-Driving Cars",
       "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
       "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
+      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -89,9 +139,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -132,6 +181,56 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-darpas-mind-controlled-arm-will-make-you-wish-you-were-a-cyborg.md",
+      "title": "DARPA's Mind-Controlled Arm Will Make You Wish You Were a Cyborg",
+      "excerpt": "Pointing to his robotic fingertips ... The life-changing impact of DARPA’s mind-controlled limbs was clear after spending just a few minutes with Matheny—as was the fact that we’ve barely ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mdbscxrgplrpbvjpx3dq.jpg",
+          "width": 800,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193/amp",
+      "publishedDateTime": "2020-07-28T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1256,96 +1355,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-facebook-builds-ai-tool-to-identify-harmful-behavior-of-people.md",
-      "title": "Facebook Builds AI Tool To Identify Harmful Behavior of People",
-      "excerpt": "The latest development can significantly improve software testing for complicated environments, specifically in areas related to privacy, safety and security",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/31511/artificial-intelligence.jpg",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140",
-      "publishedDateTime": "2020-07-27T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellen",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-will-ai-save-us-from-ourselves.md",
-      "title": "Will AI Save Us From Ourselves?",
-      "excerpt": "People are wired for immediate threats. That’s why humanity hasn’t made big progress on solving huge global challenges such as climate change, pandemics, food production, etc. If we are our own worst enemy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1e0b60bdf8e1f6991b2489%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/amp/",
-      "publishedDateTime": "2020-07-27T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

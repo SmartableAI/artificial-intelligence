@@ -2,25 +2,25 @@
 category: news
 title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
 excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-publishedDateTime: 2020-08-03T21:19:00Z
-webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
-ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+publishedDateTime: 2020-08-03T21:23:00Z
+webUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.orlandosentinel.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
+  - url: "https://www.chicagotribune.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -57,22 +57,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uj2hrvj4kqippfvphhht.png"
         width: 800
         height: 448
-        isCached: true
-  - title: "This Tool Could Protect Your Photos From Facial Recognition"
-    excerpt: "Researchers at the University of Chicago want you to be able to post selfies without worrying that the next Clearview AI will use them to identify you."
-    publishedDateTime: 2020-08-03T09:10:00Z
-    webUrl: "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html"
-    ampWebUrl: "https://www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2020/07/31/business/31fawkes4/31fawkes4-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Why we need more image masking tools to avoid facial recognition systems from identifying us online"
     excerpt: "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ..."
@@ -190,6 +174,6 @@ related:
         height: 587
         isCached: true
 
-secured: "uK6zXv5w/E21Sli5NTXgKSGFcL4d50OwXXUz3BBMbNDid8HSHIezkgMfAkUVsuZRRLFn3sDoM9dQmQA4wBhnEnTVl0ro4P9RbRIRPgUB3sgWrUNJMGcmiZFYi3pUQu4bLp22RVrU7WwTyTPV+0t5tEaOJXpwWymUwuPAtfQsbQycSgTVbEetVOfHQ/7DRHduT2D0EvJLd2MYlMFYIon/78BEzyQRb2AA1FO8sKx8l/c6mA+4FhACDX1O9vuv9TRULynPQ8LEEAO5Ka7uaK/COPoOhAqsuZLw8ccmhOWqm1oFVMGAoFIrIZ/G+N2p847YvYjUHKd4KnMMw2nhzQrcZ7qzf5mw5HSS/flprjBWfqMh5C3o3lQRmWi7jzNZPLFQ2lY9MMI1k9D6+fBvfhsg0xlM+l3IHI5s05B3A4hG2ne7ONu3/wwn3axbNNAznGT0bHXgMcsU7SH0RhAtGhYrTLMsD/5MvahTFTclFkXR1R+9Vtvil+Q7VMt8R0hGM8B1;0q57U0I6UfZ82RI3DGAkQQ=="
+secured: "evM/dfaAIYva3r6y+IbNLqiPknJBj2TAyU/8WnAknZywy+tFIpP4sB4R+/UmEz0Mzanei8UjnoXLM5qqZJUJUDPPw98y22ZAehdR7pVq4F+I/Y3GiJkw6fCnme3CbWp9cruzBsTnJjQ/7msdFqPUA/g3aJoWGdM+HTVb4RbrbTmbTe4iC+ZcAjP8X/5od0Tip61Esy+YZWOz65JCMHoFb2yBJPZtT1WPHhcnSaybmXE1gR3zsCwuEjEPaZLUkxdDhNRyy+wGl31A9dUvxXT8ez/F7Q0x6ceRnazOYiqPInBlzW6O/LNGVD6e91UKXL62T2WDD//qYnefLrugk2Furw==;qNIpnhLLbIRE1/9e42J1nA=="
 ---
 

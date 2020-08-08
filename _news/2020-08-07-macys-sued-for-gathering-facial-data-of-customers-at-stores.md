@@ -54,6 +54,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Macy’s sued over use of Clearview facial-recognition software"
+    excerpt: "Macy’s Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI. An Illinois woman filed a proposed class action against Macy’s Wednesday in federal court in Chicago,"
+    publishedDateTime: 2020-08-07T11:30:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/macys-sued-over-use-clearview-facial-recognition-software"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/362184947.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "EOIxF3EBQunVb8wITIW7Lso/hMAtMCXEJ7arfiNmCvhpgtf+XwvCwi5uJI64/eixvp4uXw9NBTno22MMFB3TdxdGEvt7yfmueXgSCh0XlUptDgmqQOA9s4mhMRqinCICjBYxanqlGKXGl5AN+a/x5u3SzTvQyOHk1lFpMXxDhXF+Lyvwbw+i+VEcT7WmxJNYS1vgtlu18DeXdvq3EKFuiGwetlMvJNM+9Sf2PqjdJlKDqkkMpLRQPbf5dhnf20qjW7WaKuFWEopp6TRSK6yAUovJ9ZWJX+KNDy9A/fzalVmeG8piQBHAodInTA2HFAUrabE4rblTdJFogzNhlyknJg==;Wee9V91j/A2wgJDiXKbR4Q=="
 ---

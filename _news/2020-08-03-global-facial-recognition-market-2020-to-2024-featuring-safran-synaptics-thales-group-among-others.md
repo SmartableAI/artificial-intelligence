@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
+    excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
+    publishedDateTime: 2020-08-08T03:31:00Z
+    webUrl: "https://apnews.com/07cf0c568e784ed79333d3f3ce53bde2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Machine Vision Market 2020 Global Opportunities, Industry Size, Growth, Development Status, Segmentation and Regional Forecast to 2022"
     excerpt: "Machine Vision Market 2020 Global Opportunities Industry Size Growth Development Status Segmentation and Regional Forecast to 2022"
     publishedDateTime: 2020-08-07T11:30:00Z
