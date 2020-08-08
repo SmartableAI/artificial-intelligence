@@ -42,22 +42,6 @@ related:
         width: 680
         height: 380
         isCached: true
-  - title: "Byo firm/Chinese company introduce new face recognition, scan system to fight Covid-19"
-    excerpt: "Pamenus Tuso, Business Correspondent A BULAWAYO based company Brains at Work Consulting (Private) Limited has entered into a partnership with a Chinese company, Clou Global Technology, to solely to distribute the Chinese firm‘s face recognition system integrated with temperature scan."
-    publishedDateTime: 2020-08-03T11:05:00Z
-    webUrl: "https://www.chronicle.co.zw/byo-firmchinese-company-introduce-new-face-recognition-scan-system-to-fight-covid-19/"
-    ampWebUrl: "https://www.chronicle.co.zw/byo-firmchinese-company-introduce-new-face-recognition-scan-system-to-fight-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/byo-firmchinese-company-introduce-new-face-recognition-scan-system-to-fight-covid-19/amp/"
-    type: article
-    provider:
-      name: Chronicle
-      domain: chronicle.co.zw
-    quality: 51
-    images:
-      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2020/08/59D76B3D-C48F-4261-B223-015748826C0C-680x380.png"
-        width: 680
-        height: 380
-        isCached: true
   - title: "NY lawmakers vote to pause facial recognition in schools"
     excerpt: "In this July 10, 2018  a camera with facial recognition capabilities hangs from a wall during installation at Lockport High School in Lockport, N.Y. The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
     publishedDateTime: 2020-08-03T13:35:00Z

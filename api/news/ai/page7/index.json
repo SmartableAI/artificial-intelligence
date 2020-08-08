@@ -2,6 +2,55 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-30-ai-is-all-the-rage-so-why-arent-more-businesses-using-it.md",
+      "title": "AI Is All the Rage. So Why Aren’t More Businesses Using It?",
+      "excerpt": "A big study by the US Census Bureau finds that only about 9 percent of firms employ tools like machine learning or voice recognition—for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f20b5f959ee66a80b965c8d/master/pass/ai-in-business.png",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-why-not-more-businesses-use/amp",
+      "publishedDateTime": "2020-07-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-nuance-and-cerner-expand-strategic-voice-ai-collaboration-to-include-dragon-medical-virtual-assistant-technology.md",
       "title": "Nuance and Cerner Expand Strategic Voice AI Collaboration to Include Dragon Medical Virtual Assistant Technology",
       "excerpt": "PRNewswire/ -- Nuance® Communications, Inc. (NASDAQ: NUAN) today announced that it has expanded its long-standing AI collaboration with Cerner",
@@ -1272,47 +1321,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-us-agency-pandemic-masks-thwarting-face-recognition-tech.md",
-      "title": "U.S. agency: Pandemic masks thwarting face recognition tech",
-      "excerpt": "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uticaod.com/apps/pbcsi.dll/bilde?Site=NY&Date=20200729&Category=NEWS&ArtNo=200729574&Ref=AR",
-          "width": 726,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
-      "cdnAmpWebUrl": "https://www-uticaod-com.cdn.ampproject.org/c/s/www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
-      "publishedDateTime": "2020-07-29T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Uticaod",
-        "domain": "uticaod.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

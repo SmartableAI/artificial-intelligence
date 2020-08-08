@@ -2,6 +2,97 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-06-22-windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu.md",
+      "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
+      "excerpt": "Adobe has been putting in GPU-accelerated machine learning in applications like Photoshop and Lightroom, while Corel has added AI-powered brushes to its natural material Painter. By opening DirectX's GPU compute to cross-platform APIs like Mesa3D ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/22/a12d1b1f-4aa8-4503-9d90-2c4e4936e64b/resize/1200x/b33bed0bf6b44bc77a5dce7fbd51c7e7/mesa-3d-tr.jpg",
+          "width": 1200,
+          "height": 732,
+          "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "publishedDateTime": "2020-06-22T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-deep-learning-and-artificial-neural-networks.md",
+      "title": "Deep learning and artificial neural networks",
+      "excerpt": "Martin Spano is the author of Artificial Intelligence in a Nutshell, a book that explores the mystified subject of artificial intelligence (AI) with simple, non-technical language. Spano’s passion for AI began after he watched 2001: A Space Odyssey,",
+      "sourceUrl": null,
+      "webUrl": "https://spectator.sme.sk/c/22427836/deep-learning-and-artificial-neural-networks.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.smedata.sk/api-media/media/image/spectator/3/63/6350623/6350623_1200x.jpeg?rev=3",
+          "width": 1200,
+          "height": 800,
+          "title": "Deep learning and artificial neural networks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SME",
+        "domain": "spectator.sme.sk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus.md",
       "title": "Computer makers unveil 50 AI servers with Nvidia’s A100 GPUs",
       "excerpt": "Computer makers are launching 50 servers with Nvidia's A100 GPUs to power AI, data science, and scientific computing applications.",
@@ -1290,88 +1381,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-lost-memories-war-crimes-evidence-threatened-by-ai-moderation.md",
-      "title": "'Lost memories': War crimes evidence threatened by AI moderation",
-      "excerpt": "From bombings and protests to the opening of a new health center, student journalist Baraa Razzouk has been documenting daily life in Idlib, Syria, for years, and posting the videos to his YouTube account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-socialmedia-rights-trfn/lost-memories-war-crimes-evidence-threatened-by-ai-moderation-idUSKBN23Q2TO",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23Q2TO",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23Q2TO",
-      "publishedDateTime": "2020-06-19T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness.md",
-      "title": "Teaching physics to neural networks removes 'chaos blindness'",
-      "excerpt": "Artificial neural networks mimic this behavior by adjusting numerical weights and biases during training sessions to minimize the difference between their actual and desired outputs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200619143437.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

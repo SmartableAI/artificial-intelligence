@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/</loc>
+    <lastmod>2020-08-07T22:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye</loc>
     <lastmod>2020-08-07T15:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -111,6 +117,12 @@
   <url>
     <loc>https://www.zdnet.com/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/</loc>
     <lastmod>2020-08-06T17:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/</loc>
+    <lastmod>2020-08-06T17:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -477,12 +489,6 @@
   <url>
     <loc>https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789</loc>
     <lastmod>2020-08-04T08:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086</loc>
-    <lastmod>2020-08-04T08:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -967,12 +973,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/IBM-and-Influential-Launch-Watson-Advertising-Social-Targeting-Solution-142117.aspx</loc>
-    <lastmod>2020-07-30T12:28:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985</loc>
     <lastmod>2020-07-30T12:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1029,6 +1029,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/</loc>
     <lastmod>2020-07-30T09:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142117</loc>
+    <lastmod>2020-07-30T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1645,7 +1651,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/</loc>
+    <loc>https://www.moneyshow.com/articles/dailyguru-54699/</loc>
     <lastmod>2020-07-28T02:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1731,6 +1737,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-to-reach-us-55084-bn-by-2027-2020-07-27</loc>
     <lastmod>2020-07-27T14:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/</loc>
+    <lastmod>2020-07-27T14:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1837,14 +1849,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://insidehpc.com/2020/07/transform-raw-data-to-real-time-actionable-intelligence-using-high-performance-computing-at-the-edge/</loc>
-    <lastmod>2020-07-27T06:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275</loc>
-    <lastmod>2020-07-27T05:21:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2163,6 +2169,12 @@
   <url>
     <loc>https://www.embedded.com/protection-suite-adds-secure-edge-and-cloud-integration-for-iot-devices/</loc>
     <lastmod>2020-07-24T03:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2096108/healthcare-cognitive-computing-market-witness-excellent</loc>
+    <lastmod>2020-07-24T00:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

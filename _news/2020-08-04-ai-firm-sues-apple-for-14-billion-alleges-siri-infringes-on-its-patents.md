@@ -109,22 +109,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Apple Facing $1.4 Billion Lawsuit by Chinese AI Firm in Siri Patent Battle"
-    excerpt: "Apple has been hit with a $1.4 billion lawsuit by a Chinese artificial intelligence company that alleges Apple violated a patent it owns for"
-    publishedDateTime: 2020-08-03T12:25:00Z
-    webUrl: "https://www.macrumors.com/2020/08/03/apple-lawsuit-chinese-ai-firm-siri-patent/"
-    ampWebUrl: "https://www.macrumors.com/2020/08/03/apple-lawsuit-chinese-ai-firm-siri-patent/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/08/03/apple-lawsuit-chinese-ai-firm-siri-patent/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 55
-    images:
-      - url: "https://images.macrumors.com/article-new/2020/01/ios14compactsiri.jpg"
-        width: 1200
-        height: 822
-        isCached: true
   - title: "Chinese AI company sues Apple for $1.4 bln over Siri patent"
     excerpt: "Chinese AI company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i is suing Apple on the grounds of patent infringement. Chinese company filed a formal lawsuit against Apple in Shanghai High People’s Court on 3rd of August ..."
     publishedDateTime: 2020-08-03T15:02:00Z
@@ -166,20 +150,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/08/04/806443.jpg"
         width: 1240
         height: 697
-        isCached: true
-  - title: "Chinese Firm Sues Apple For $ 1.4 Bn Over Voice Recognition Patent"
-    excerpt: "In a breaking news, a Chinese AI firm Shanghai Zhizhen Network Technology (also known as Xiao-i) has sued Apple for infringing on its patent related to Siri, the smart virtual assistant embedded in Apple operating systems."
-    publishedDateTime: 2020-08-03T11:56:00Z
-    webUrl: "https://analyticsindiamag.com/chinese-firm-sues-apple-for-1-4-bn-over-voice-recognition-patent/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/08/CDmz0L1WYAEpgk5.jpeg"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "iWi637YL6XunSL1nHSsWvE+Qs/TL1110ztYqN0pE2GnZ2PhC9DJzNKrvnprvzWwu+LyjG4ZNoWHsoa+Ciz2JSu9vYSI9Uh58s1pNsPdQUypi754vmD6mMMYJ7NOyUtDMWu96GloI5AuPOhh8RcvVmyRqHsuWTxFI5dZ9c802PviytUS0Hx9+8taregXXj1qIgd+byE8hCxkrkKs2OkYX3c/NWFk3nxBFRHaigrKrxnndYz9YudnHA4IPbyFAzS+YHhXSqK4vOKDMZkLn8YF8/TKIxtz6lbROoLUl07zO7bQ+u7uKxh94elIT+OH4pq27FcpQSqSIP+K2gTJx73oG9Q==;473tv+DY///yHp0H5A+ZeA=="

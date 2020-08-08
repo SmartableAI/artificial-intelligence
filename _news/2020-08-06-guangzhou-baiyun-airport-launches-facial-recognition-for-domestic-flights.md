@@ -118,7 +118,7 @@ related:
   - title: "Australia needs to face up to the dangers of facial recognition technology"
     excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
     publishedDateTime: 2020-08-07T02:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
+    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     type: article
@@ -260,20 +260,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-MCP_TopArt_KadeCrockford-.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "CyberLink FaceMe® Enhances Facial Recognition Technology With Thermal Camera Imaging"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new features for temperature scans to its innovative facial recognition software development kit (SDK),"
-    publishedDateTime: 2020-08-03T11:43:00Z
-    webUrl: "https://apnews.com/b574ac2ef2df41d884c15b9f9faf1f74"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Facial recognition could be coming to your office. Here's why companies pitching the tech say the pandemic is a huge tipping point for adoption."
     excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."

@@ -40,22 +40,6 @@ related:
         width: 680
         height: 380
         isCached: true
-  - title: "Byo firm/Chinese company introduce new face recognition, scan system to fight Covid-19"
-    excerpt: "Pamenus Tuso, Business Correspondent A BULAWAYO based company Brains at Work Consulting (Private) Limited has entered into a partnership with a Chinese company, Clou Global Technology, to solely to distribute the Chinese firm‘s face recognition system integrated with temperature scan."
-    publishedDateTime: 2020-08-03T11:05:00Z
-    webUrl: "https://www.chronicle.co.zw/byo-firmchinese-company-introduce-new-face-recognition-scan-system-to-fight-covid-19/"
-    ampWebUrl: "https://www.chronicle.co.zw/byo-firmchinese-company-introduce-new-face-recognition-scan-system-to-fight-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/byo-firmchinese-company-introduce-new-face-recognition-scan-system-to-fight-covid-19/amp/"
-    type: article
-    provider:
-      name: Chronicle
-      domain: chronicle.co.zw
-    quality: 51
-    images:
-      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2020/08/59D76B3D-C48F-4261-B223-015748826C0C-680x380.png"
-        width: 680
-        height: 380
-        isCached: true
   - title: "Upstate sheriff's office partners with website using facial recognition software to reunite pets with owners"
     excerpt: "The Laurens County Sheriff's Office Animal Control division has partnered with FindingRover.com in the hopes lost pets can be reunited with their owners."
     publishedDateTime: 2020-08-07T14:33:00Z

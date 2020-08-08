@@ -2,6 +2,106 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-14-bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui.md",
+      "title": "BigQuery Omni pulls Google, AWS, and Azure analytics into one UI",
+      "excerpt": "Google has launched an early version of BigQuery Omni, it’s new analytics tool that lets users access and view data across Google Cloud and Amazon Web Services without leaving the Big Query UI. Powered by Google Anthos,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1594727792/itpro/BigQuery_Omni_google_press.png",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui?amp",
+      "publishedDateTime": "2020-07-14T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies.md",
+      "title": "Seebo raises $9 million for AI tools that spot and fix manufacturing inefficiencies",
+      "excerpt": "And Microsoft itself provides Azure Digital Twins and Project Bonsai ... and applying process-based AI to predict and help prevent issues that drive scrap and rework. Seebo accounts for production ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/b0d69bbe-6c80-4f0d-993b-0e57dc0a5909-e1594077034984.png?w=1200&#038;strip=all",
+          "width": 1180,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/seebo-raises-9-million-for-ai-tools-that-spot-and-fix-manufacturing-inefficiencies/amp/",
+      "publishedDateTime": "2020-07-14T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers.md",
       "title": "Microsoft Power Virtual Agents: Now you can build no-code chatbots without developers",
       "excerpt": "Microsoft uses its low-code Power Platform to help you quickly author and deploy chatbots on websites or in applications like Teams.",
@@ -1252,97 +1352,6 @@
         "name": "CIOReview",
         "domain": "cioreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure.md",
-      "title": "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure",
-      "excerpt": "BNY Mellon has announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data, improve the success of US-listed fund launches and support the customisation of investment portfolios to preferred Environmental,",
-      "sourceUrl": null,
-      "webUrl": "https://hubbis.com/news/bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hubbis.com/bundles/app/home/images/icon_search.png",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hubbis",
-        "domain": "hubbis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-hunters-raises-15m-series-a-for-its-threat-hunting-platform.md",
-      "title": "Hunters raises $15M Series A for its threat-hunting platform",
-      "excerpt": "Hunters, a Tel Aviv-based cybersecurity startup that helps enterprises defend themselves from intruders and analyze attacks, today announced that it has raised a $15 million Series A funding round from Microsoft’s M12 and U.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Hunters-team-photo.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Hunters raises $15M Series A for its threat-hunting platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
-      "publishedDateTime": "2020-06-30T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

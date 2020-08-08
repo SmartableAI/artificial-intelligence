@@ -56,20 +56,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Microsoft will release its ultra lifelike Flight Simulator this month on PC"
-    excerpt: "The software will make use of satellite maps as well as live readings from weather stations and airports around the world to create 'the most realistic' version of the game ever developed."
-    publishedDateTime: 2020-08-03T12:23:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8587631/Microsoft-release-ultra-lifelike-Flight-Simulator-month-PC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 37
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2019/09/30/23/19129074-0-image-a-3_1569882460547.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "TmFD8EAQpiT/qir0ijZy9l2U5uDso5X0Zn1yV89Yv3fjrNvyiaMa/K7xpCkAnL+kFmyTrgPD3+iiX8+l4cFLVF8bObPXeVepnHylbPIaHeRxudQzlquxUR8mZ8yX98TPqQZ27KY6+Csn5urnRjhYU1ZAdxqiiUVV3vuTH85T5HyuyGyBcBxGkP0ZBDw7+lgFqHkHidVoyyqfqW2COywZrrOGupZJdF4+bTEeUn1PO/NnWyFtA+C3NCIwryRbAlJafTh59RqaPR3QUSga7suTFIf9j/a5SUEuGEr7zJId4zttkiI9jJmTyKrpbgh1rOJIljvyf4SAo/RK7++rNZQHRJakawNwkIYgeBHhp9rRmJ4hkpFcYvLVXFAybErjO+qO2OjFVlLDhQF0u3EZPCs9QzDoeCC8wvCZo3MaX08XbMwDLGN6f9bI6hWs5k00GuxVN0nxA2sQpm40r7fGhpDndspIGtA/ZpEvliGVzg/SZHMz/VzzHTB49tUGhYOEdjkOiWTYcnBILlcyjBtcHFZqIQ==;IPDitrWzEul5uMwuajbk0Q=="
 ---

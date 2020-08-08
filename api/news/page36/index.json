@@ -2,6 +2,96 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-07-10-ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023.md",
+      "title": "AI in Fintech Market 2019: UpStream and Downstream Fundamentals, Import-Export Data, Rapidly Increasing Growth Rate and Revenue Share Till 2023",
+      "excerpt": "According to the latest research “AI in Fintech Market” share is predicted to gain better growth in upcoming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-artificial-intelligence-will-aid-in-better-decision-making-capacity.md",
+      "title": "‘Artificial Intelligence will aid in better decision-making capacity’",
+      "excerpt": "MUMBAI: Artificial intelligence (AI) will not only help to resolve complex global problems but can enable businesses make better decisions on a day-to-day basis if applied well, said panelists at the Mint Pivot or Perish webinar on automation in the new normal post covid pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity-11594342977989.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/07/10/600x338/AI-kkGH--621x414@LiveMint_1594343197035.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "publishedDateTime": "2020-07-09T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-elon-musk-brags-that-tesla-is-very-close-to-full-level-5-self-driving.md",
       "title": "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving",
       "excerpt": "That dream, formally known as Level 5 autonomy, is probably still many years out — but Tesla CEO Elon Musk believes it could be right around the corner. In a video message recorded for the opening of Shanghai’s annual World Artificial Intelligence Conference (WAIC),",
@@ -1074,88 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-mim-software-inc-receives-fda-510k-clearance-for-deep-learning-auto-contouring-software.md",
-      "title": "MIM Software Inc. Receives FDA 510(k) Clearance for Deep Learning Auto-Contouring Software",
-      "excerpt": "MIM Software Inc., a leading global provider of medical imaging software, announced today it has received 510(k) clearance from the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/mim-software-inc-receives-fda-510k-clearance-for-deep-learning-auto-contouring-software-301091012.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/709760/MIM_Software_Logo.jpg?p=facebook",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-elon-musk-says-tesla-vehicles-are-very-close-to-being-completely-autonomous-and-will-reach-basic-functionality-by-end-of-2020-allowing-the.md",
-      "title": "Elon Musk says Tesla vehicles are 'very close' to being completely autonomous and will reach 'basic functionality' by end of 2020, allowing the cars to drive without human input",
-      "excerpt": "Tesla CEO Elon Musk speaking by video during the World Artificial Intelligence Conference said the EV maker is 'very close' to achieving complete autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-8506589/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/07/09/15/30578508-0-image-a-17_1594306081798.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8506589/amp/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8506589/amp/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html",
-      "publishedDateTime": "2020-07-09T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

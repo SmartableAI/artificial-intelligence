@@ -51,7 +51,7 @@
       "webUrl": "https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -74,6 +74,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-microsoft-azure-a-cheat-sheet.md",
+      "title": "Microsoft Azure: A cheat sheet",
+      "excerpt": "Cray supercomputing comes to Microsoft Azure to boost AI workloads in the cloud (TechRepublic) Microsoft is working on an Azure-powered Cloud PC service (ZDNet) One of the core strengths of Microsoft Azure is the ease of transition for organizations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
+      "publishedDateTime": "2020-08-06T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1172,6 +1222,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-24-healthcare-cognitive-computing-market.md",
+      "title": "Healthcare Cognitive Computing Market",
+      "excerpt": "DBMR Analyses the Healthcare Cognitive Computing Market to grow at ... Data Bridge adepts in creating satisfied clients who reckon upon our services and rely on our hard work with certitude.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2096108/healthcare-cognitive-computing-market-witness-excellent",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T724883708_g.jpg",
+          "width": 800,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2096108/healthcare-cognitive-computing-market-witness-excellent",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096108/healthcare-cognitive-computing-market-witness-excellent",
+      "publishedDateTime": "2020-07-24T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-microsoft-commercial-cloud-sales-surpass-50bn-for-1st-time-in-fy20.md",
       "title": "Microsoft commercial cloud sales surpass $50bn for 1st time in FY20",
       "excerpt": "New Delhi, July 23 (IANS) As the digital tech intensity becomes key to business resilience, the commercial cloud business of Microsoft surpassed $50 ... transactions were processed in Azure Cognitive Services, 2.5 billion messages sent, 9 million hours ...",
@@ -1234,88 +1325,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-msci-announces-strategic-alliance-with-microsoft-to-accelerate-innovation-in-the-global-investment-industry.md",
-      "title": "MSCI Announces Strategic Alliance With Microsoft to Accelerate Innovation in the Global Investment Industry",
-      "excerpt": "MSCI Inc. (NYSE:MSCI) and Microsoft Corp. have formed a strategic alliance to accelerate innovation among the global investment industry. By bringing",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200723005265/en/MSCI-Announces-Strategic-Alliance-Microsoft-Accelerate-Innovation",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-dow-jones-posts-modest-gain-as-slack-files-microsoft-antitrust-complaint-ibm-stock-upgraded.md",
-      "title": "Dow Jones Posts Modest Gain as Slack Files Microsoft Antitrust Complaint, IBM Stock Upgraded",
-      "excerpt": "The Dow Jones Industrial Average (DJINDICES:\\^DJI) was up a modest 0.3% by 11:30 a.m. EDT Wednesday, outperforming the other major stock indices. Weighing on the market was a decis",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/22/dow-jones-posts-modest-gain-as-slack-files-microso.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F583273%2Fantitrust.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/22/dow-jones-posts-modest-gain-as-slack-files-microso.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/22/dow-jones-posts-modest-gain-as-slack-files-microso.aspx",
-      "publishedDateTime": "2020-07-22T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

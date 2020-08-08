@@ -119,22 +119,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Apple Facing $1.4 Billion Lawsuit by Chinese AI Firm in Siri Patent Battle"
-    excerpt: "Apple has been hit with a $1.4 billion lawsuit by a Chinese artificial intelligence company that alleges Apple violated a patent it owns for"
-    publishedDateTime: 2020-08-03T12:25:00Z
-    webUrl: "https://www.macrumors.com/2020/08/03/apple-lawsuit-chinese-ai-firm-siri-patent/"
-    ampWebUrl: "https://www.macrumors.com/2020/08/03/apple-lawsuit-chinese-ai-firm-siri-patent/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/08/03/apple-lawsuit-chinese-ai-firm-siri-patent/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 55
-    images:
-      - url: "https://images.macrumors.com/article-new/2020/01/ios14compactsiri.jpg"
-        width: 1200
-        height: 822
-        isCached: true
   - title: "Chinese Artificial Intelligence Firm Sues Apple for $1.4 Billion Over Siri"
     excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit"
     publishedDateTime: 2020-08-03T14:25:00Z
@@ -162,20 +146,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/08/04/806443.jpg"
         width: 1240
         height: 697
-        isCached: true
-  - title: "Chinese Firm Sues Apple For $ 1.4 Bn Over Voice Recognition Patent"
-    excerpt: "In a breaking news, a Chinese AI firm Shanghai Zhizhen Network Technology (also known as Xiao-i) has sued Apple for infringing on its patent related to Siri, the smart virtual assistant embedded in Apple operating systems."
-    publishedDateTime: 2020-08-03T11:56:00Z
-    webUrl: "https://analyticsindiamag.com/chinese-firm-sues-apple-for-1-4-bn-over-voice-recognition-patent/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/08/CDmz0L1WYAEpgk5.jpeg"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "63ize953AWDY+oFcwDMQvajYQJ1QRIr80iOnolQ34tUvEt/5AkmORt5eDO7dgEVBuf76T/RhiG2aeIg3ixaZrgrbBcztatW4ZJ3yHTWjH3fdJI1QcdHU6lfc1qDdJp0nnTh4Pz0ZhYNaldhdm3cTIJ5Lxte+HbdsRj8ZJtOk16/IHKtpUvgcg+coLZFAeylayq4z2IhGIiu8RwroEGuHrnWoZA9+pyqTgwar2wT7WTCGhB5HkbYWd2G9frcZhdQwvcVbBjiVdMCa8nJmTZpMK6CCs5E24ZgL9R1L7QxFA7AYvdbska9SB0dnxdMhKpcHzRu+1SdEma9vd3xzCzS4CA==;uCh8WV4C44D4O0avzWTlEw=="

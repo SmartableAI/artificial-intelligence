@@ -2,6 +2,98 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-05-can-machine-learning-for-enterprise-security-advance-like-voice-recognition.md",
+      "title": "Can Machine Learning For Enterprise Security Advance Like Voice Recognition?",
+      "excerpt": "The generally touted answer for pinpointing an attacker is machine learning. Finding signs of an attack or attacker is a big data problem involving finding meaningful signs and an accurate understanding. Machine learning is seen as a way of finding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea0f35fa37d800062b82f9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/amp/",
+      "publishedDateTime": "2020-08-05T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india.md",
+      "title": "Airtel, AWS join hands to accelerate digital transformation of business in India",
+      "excerpt": "New Delhi: Bharti Airtel (“Airtel”), one of India’s largest integrated telecom providers, today announced a multi-year, Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to deliver a comprehensive set of innovative cloud solutions to large enterprise and small and medium enterprise (SME) customers in India.",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://orissadiary.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/amp/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/amp/",
+      "publishedDateTime": "2020-08-05T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-make-ai-enhance-your-productivitynot-a-surveillance-state.md",
       "title": "Make AI Enhance Your Productivity—Not A ‘Surveillance State’",
       "excerpt": "Artificial intelligence is a powerful tool that can augment employees' experience in the workplace. But, like any tool, it needs to be stewarded properly. Make AI work for you by using it to amplify your productivity.",
@@ -840,7 +932,7 @@
       "webUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 322,
+      "heat": 312,
       "tags": null,
       "images": [
         {
@@ -879,47 +971,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-gsts-awarded-contribution-for-space-based-artificial-intelligence.md",
-      "title": "GSTS awarded contribution for Space-Based Artificial Intelligence",
-      "excerpt": "GSTS will leverage AI capabilities in Object Detection and Image ClassificationHALIFAX, NS, Aug. 4, 2020 /CNW/ - Global Spatial Technology",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-space-based-artificial-intelligence-1029468086",
-      "publishedDateTime": "2020-08-04T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1335,57 +1386,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-cloak-your-photos-with-this-ai-privacy-tool-to-fool-facial-recognition.md",
-      "title": "Cloak your photos with this AI privacy tool to fool facial recognition",
-      "excerpt": "Ubiquitous facial recognition is a serious threat to privacy. The idea that the photos we share are being collected by companies to train algorithms that are sold commercially is worrying. Anyone can buy these tools, snap a photo of a stranger, and find ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/3zWa50EJMY12xj2q5enzpWUGUGI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67152844/acastro_180730_1777_facial_recognition_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes",
-      "publishedDateTime": "2020-08-04T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

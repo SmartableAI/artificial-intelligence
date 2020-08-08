@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-f
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/"
 type: article
 quality: 100
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -60,21 +60,7 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "Microsoft will release its ultra lifelike Flight Simulator this month on PC"
-    excerpt: "The software will make use of satellite maps as well as live readings from weather stations and airports around the world to create 'the most realistic' version of the game ever developed."
-    publishedDateTime: 2020-08-03T12:23:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8587631/Microsoft-release-ultra-lifelike-Flight-Simulator-month-PC.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 37
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2019/09/30/23/19129074-0-image-a-3_1569882460547.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
-secured: "DrVAawfwBbhRJxoeXRnzxiLF2jFLKqVdkYtyizvN4rp+yyrS9WU+tK7RaFzh8iq5v4EQ0Qtabce7bHxrz/NFrxW/WYl/EGq1F3Pm2eWWm+bkfbKhErr63DeFtpHnxGDw59wV671mPe/8/+j9JRV79BPGMUTnytJ8VcmGgmsTr18PJtb1HeySe4/pzUDqsM3z6Dvp3kQ3LY4+iu2pbxQz40SfCN1v0RUHwd9Qe4xD5zpn8JwTNVAcpGM1NTfrgkHqyx6cbTjBI//O7FUBr6kWIQ7MYuDISoaUzauRCy/g0qVk8JQIrAri4hyc/R4S6BbPgI4vsaDzysbduzNoXsth+Q==;T0HGfKtlYzsRXp0xJ6i0cA=="
+secured: "/O2pSHha0Y2dm2h3pSq5sDcqps2IuLWjnGY216i0Bjejjiq0bQDe7Yo2Rws5ZC8kJfc7dHT1lNu5Uo+R/gotH9slYSf+Q8+kv/qWJWwh5DUETNG03cP06YMbNXDyJOXG41acmbBp/vjeT4d5ZDDppWuIyma8sPo0afky5YiAxMBNe5aYrZ2mVs3RmwMM50KMw/ybsZGXhFWIuW0uwKpkhCGwUAKZAtGFK6D16oqF73ih+XznwLmWqBUZtARf3e2FQwEoXwFCK0DnNshw5Y85TFSZie/TgdETsXyTBH7uZySiF4BSe7iHCFNb3PZKYDMC5Z7O6ViNEktsWneNfuPEwbGB/LUZetQv30P7Mm3OAsaDqDZtP0NpmiHqu4y83Kqyf2xhvU7Oh1osCzJhjnNhXLY+CmMniU4Ptz54SeoPMv4pvFsXDgNNfV8sY0SyIC0njsy6pv2RCjdijKyCROlfDrNbYwnz+l9K1jt4x50jS3rkmuMMjEyF1kKzaHd+cCDI;wTlCbb2b2FijZ+OK6Bk3kQ=="
 ---
 

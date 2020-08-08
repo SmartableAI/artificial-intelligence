@@ -37,9 +37,9 @@ related:
         height: 600
         isCached: true
   - title: "AI Chip Company Syntiant Surpasses 1 Million Units Shipped; Raises $35 Million in Series C Funding Led by M12 and Applied Ventures"
-    excerpt: "\"We are now seeing Syntiant deliver on its execution strategy, setting new benchmarks that are unprecedented for a young AI chip company with the volume of products already shipped, and new customers coming on board.\" The company's highly accurate NDPs ..."
-    publishedDateTime: 2020-08-04T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04"
+    excerpt: "The company also announced it has completed a $35 million Series C funding round. Microsoft's venture fund M12 and Applied Ventures, LLC, the venture capital arm of Applied Materials, Inc., led the financing,"
+    publishedDateTime: 2020-08-04T12:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054"
     type: article
     provider:
       name: MarketWatch
@@ -83,6 +83,6 @@ related:
       domain: socaltech.com
     quality: 34
 
-secured: "Fk3p51PfrKgrVSNAwq3K5tqxR0kWnr/vJRoaLhlS7cYopA0ZwPUmT7OtYZkbAn8IWuK4WWpdXHEVEWVd/eMhRDRaLz0nX0asHZ0AvilS289BW145egiL+Vzri+oIPNhvI3/xfEaevdUQrEXtk/Saa4mSFIS3++goDNdWB0HMTlqHTk58lbuaYSHw7H1x8R8lAbhxE0GfRLihGl4SPv4Xye8tt7wOe3CPudYS4e75guttiJLKVVrOVFtzXQi7O4TLFfqwONien31SEYxahVsJm2Ta/FIgVGXTdEkw4j1GWyJhPxUHNwRlV+HpkYOZY90tLJQU2oMoC0wXJoV2h+4K3A==;ND3xnKVsSXTYKdrryV7rPQ=="
+secured: "mX00uhL1XYTAj9sAeVZ3Rj+cbTDbF6S+Cid8y1VeMA5DVcMsegRPl2YkAygrfsdjhDFo+cGy3A83PBibz8dnGQnhRM+gK+ENIHJhEj4r0gueBZNg38s1Tlc7jG/cj2zf9uW0NHTwGODteuDoONAmXshozOggY9AVIVAysyEDllgsVCsZjeQ/s1SVprCuYZNKPckcyH6w+QaIojW5tNj5Jr3gKdQWo69OFQm6eMBuzyVAY45Jb62xKMjzKtTbVRomYXmMbYt6NY8WRddQtYkWJ751HLJTUz0ew2SfP1nYEtRXGSqSwtc/7xuJQi/MGVSMPWlyxJnW2wKeD/7cWeZVPl4uypfei+Cu6aMguUaDBR7X2nN2k5PK3Q0MQ6Y5lpriOJgqdZefIoi094bnhPjanPt1hndpTw3uSAhxn1LR/O42V9lRWlqTqWDTT+FAmN/bmgeKVBYisClAaDFlgK+RM/4kGd7Hdi04vbM+q7a8Uzi0Sb+WHsuLvD9sRTUUsRw/;DS+Cwwn4pHopw47px3cWVQ=="
 ---
 

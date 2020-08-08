@@ -3,7 +3,7 @@ category: news
 title: "Australia needs to face up to the dangers of facial recognition technology"
 excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
 publishedDateTime: 2020-08-07T02:35:00Z
-webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
+webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 type: article
@@ -265,20 +265,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "CyberLink FaceMe® Enhances Facial Recognition Technology With Thermal Camera Imaging"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new features for temperature scans to its innovative facial recognition software development kit (SDK),"
-    publishedDateTime: 2020-08-03T11:43:00Z
-    webUrl: "https://apnews.com/b574ac2ef2df41d884c15b9f9faf1f74"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Facial recognition could be coming to your office. Here's why companies pitching the tech say the pandemic is a huge tipping point for adoption."
     excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
     publishedDateTime: 2020-08-06T20:52:00Z
@@ -328,6 +314,6 @@ related:
       domain: harvard.edu
     quality: 16
 
-secured: "YSd/U6bXK5dTsJiE7KRW09ltAYMf7MB1boQfMW3GawPlDt6xgQ0Wun54RGw4t3md9tSMgsnPETzQDerYVHUSToTsO50cwEXuOVrWHTIelt7SLR0MTa+e+9o+oNf/ge7Kjn9hxysnXlVzoYESCJFEIQTLmROBIFku70wbdANYzKYggcEw+RNxt69VshevSFwjRB3nloyCL4FMavJ51TOHviPSCj8ixfWVzqjATXIvnxnMrnPhYQPYilivvZogg6XjVwBkBjAtVbQT0k950yqUNRgbgeHzdCLALKUZC1keVqt5R1Jytvje25fHvSImH0np7vVEJLl2VEQb6fXUCT3GtQ==;Jx3Ww8K/djuW+umwSOIG0Q=="
+secured: "cR8fAMqJbYd/tW6H3m9kRJT9XXs9cr2NEPLcwvIXP6kZk8HhzOJN4ZeNklEgFJaiW80PFh2JIQUxoeAsk3vBbRCcCaQfpNnYx/DxPOfa7ns3hqGAeZ1Sqa6uCjU7V6OIWb7U5XchnlqOLlH6oNUrTOJRXiZVcKXEDRBUwOhWveCZxxT9NpsE3GkWJfdKkQaxMFm/EAuzJLsc2Sg3Jou6TMNQsqPkKwglCWtCeGx3yKyBRpldQ7P7RxBNOfn/FWzSBgIUxkRXTYydJNCLQzrcpczK5e2R/k6+/kHkqXA5Y4pU93q0zCPz4CLeWZnUDlrPcHrBzlA+TlSxHE/TYE3+/w==;ff1JWaT9n4RJrPKhU2R95A=="
 ---
 
