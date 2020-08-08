@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/"
 ampWebUrl: "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars.jpg?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "FBgti7NsZ4gLcD4R8ZFhICJmBeW5ASdXVTBViIkgDb5PK14JRqBVkbOZf8LlqMdGH1MUVUhXOj1o59CgAVJqFQkrOmrMMpNuqQbQYeH5muJcdCBHmL1wBmrAF31JAyVU6JPd+rzk7aZOVWDKVpsqhUl0j21WcQRIQaKcOuvIDm3XlPuu9TvNs1xReARyko/apcRcrsSpTaIpru3Xk80ZFgGepQguBfxScUpEOSJP7/DxPp284D2FO13MFVeJqvEffpzoTNoJ7Rz5oOMtjgcJdaCsrudCvxD3eeKyx66NhEp0zRx8GvotNp4ZpzYc2kcstRZBQVKLu0MokVtGj1oTXA==;/V/mT8aGkBSzsfzwc4LQuA=="
+secured: "P85WDecJFujd/2/Cc0XohQNk2ywkN9qGn8EZziORatWft92qtmsl1t1HbxJ0MmkkTsbf+bQ2w5Zb29sjw994kHsxoF3toZkWXyRPiKPR0e/B1M7ECr0jkoUqVPd09Z2kOi0jALsgUYcQvxyq1Mjc8Mke/lxtuTQaMEZUy59PkNFfvbsNLsn1CrWSwn/6mcVmzxtHUCwY6sS9Jr+ntxZ2UTmNQkb+c+Ci1CMJRAKZoiO8fvnviW/pBUrRQzKiPRxgvqHWj8iSTJMaOUvVrECS61Q3DICCH/FzWnHX2T9esbOs7/ClcGPt2RhnHzIUZVrMt99H1m47ku64pster43xM5cQEr1JO0rZlmRfTmf3enCV1+fZVt+2fVByFGElhsmZVH03aOvZmhLy/gUKg5PKJSlfbxaJLOHwqPtm+AXfQry6lwom2x9Gp492gu7BDy4q2tDC6V12KPaFXcb6VBfxMc4+CJxp68BD7XbzLGIVynDmklcCJjCx4Wmd/zZu2L13CXQ79AD26w3Qa7e3P7bn9g==;ov9wru2pN9XXIyBNiu1D/A=="
 ---
 

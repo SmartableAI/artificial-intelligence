@@ -289,12 +289,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models</loc>
-    <lastmod>2020-08-05T21:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.zdnet.com/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/</loc>
     <lastmod>2020-08-05T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -459,12 +453,6 @@
   <url>
     <loc>https://www.ibm.com/blogs/watson/2020/08/behind-the-code-meet-young-suk-lee/</loc>
     <lastmod>2020-08-04T14:17:06-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033</loc>
-    <lastmod>2020-08-04T13:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1033,12 +1021,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/il/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html</loc>
-    <lastmod>2020-07-30T12:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.cioreview.com/news/organizations-successfully-scaling-their-ai-initiatives-see-biggest-benefit-in-growing-revenue-ahead-of-improving-operational-efficiency-pnid-268-cid-141.html</loc>
     <lastmod>2020-07-30T11:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1069,8 +1051,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator</loc>
-    <lastmod>2020-07-30T09:21:00-07:00</lastmod>
+    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss</loc>
+    <lastmod>2020-07-30T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1136,6 +1118,12 @@
   </url>
   <url>
     <loc>https://www.techrepublic.com/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/</loc>
+    <lastmod>2020-07-30T05:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html</loc>
     <lastmod>2020-07-30T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1897,6 +1885,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/expert-system-releases-expert-ai-natural-language-api/article_167ce221-de78-592a-b47c-69dd1dbc660e.html</loc>
+    <lastmod>2020-07-27T05:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275</loc>
     <lastmod>2020-07-27T05:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1905,12 +1899,6 @@
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
     <lastmod>2020-07-27T05:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/expert-system-releases-expertai-natural-language-api-301099577.html</loc>
-    <lastmod>2020-07-27T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2005,6 +1993,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cmo.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <lastmod>2020-07-26T10:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/</loc>
     <lastmod>2020-07-26T10:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2019,12 +2013,6 @@
   <url>
     <loc>https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/</loc>
     <lastmod>2020-07-26T05:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
-    <lastmod>2020-07-26T01:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

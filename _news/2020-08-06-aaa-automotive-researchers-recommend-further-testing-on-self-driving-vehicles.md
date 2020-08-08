@@ -25,19 +25,6 @@ images:
     height: 681
     isCached: true
 
-related:
-  - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans, other vehicles"
-    excerpt: "Fiat Chrysler Automobiles will place Waymo's self-driving car technology on its vehicles, including immediate plans for the Ram ProMaster van."
-    publishedDateTime: 2020-08-04T01:41:00Z
-    webUrl: "https://www.freep.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
-    ampWebUrl: "https://amp.freep.com/amp/5485167002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5485167002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 38
-
 secured: "RBriubPh8E893NLq/uXlvfjgoXqvOupp6M7C93F5xytI6PXe6kUrrK/woqjfIFm9gTxwK/3s0kAgOmByQHcTQlEaSDmWM8UAHhB6mWxgUNDQqNhWFa79WwmiWVAzU3SBBrSa/C96e2JEFOA65uk4dSoIWhxyW+1Y1RnoTREwdPVYxyFoMvzrKjT31azejaL73trNoXhW1yqwQ8GyK0VbnPFHFHI5WpID+6aszE0QfBQIPuq4vZ2pt4wi6vTk6rja9whrGkRo0jUZml7qDynOfsTpfrrV1ii1Dul/5QAshqMtmVlmluupOe4T/R+Nos0v1D8dCKNsV5YA3QpjQYC+h21H9bu3VfUadXMPkE6hGABwAvV8PeZBedQmDtgWM9C9ZzIEK20Wpi+qOPdXe5z4PqZ7ufmnqPp3zEMewEDbPjqRdTBpJVL3VGTUT3Rr57cY3hONRl1Qh1EUMYAh6iyzYMzaNpisXhBrXOI73Q29YLPieqava1fcWojNDX8toA3K;B/j+3C7LQfHw3zExFLLU/w=="
 ---
 

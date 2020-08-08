@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-art
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2020-08/unsplash-national-cancer-institute-NFvdKIhxYlU%20740px.jpg"
         width: 740
         height: 450
-        isCached: true
-  - title: "Digitization of healthcare: Key to broaden access to healthcare"
-    excerpt: "The ongoing pandemic has placed tremendous demands on India’s health system. While there is still room for improvement to maximize access to healthcare, it is heartening to see how innovation and agility have helped"
-    publishedDateTime: 2020-08-04T02:40:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/digitization-of-healthcare-key-to-broaden-access-to-healthcare/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/digitization-of-healthcare-key-to-broaden-access-to-healthcare/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/digitization-of-healthcare-key-to-broaden-access-to-healthcare/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
         isCached: true
 
 secured: "UWMcSw0+iJ+Q5DJK4IJJcraYTiTFDLcmR9rCVYJ/pzviv2z8RvAtldJyM50ckKlQIdJ+OnPFKfQYZ5Oin1r8YiKnDvunheLp7Ih9DkRbibegc6iQw+mzz3eJWQZLzZsB88CSADKMQQZgVKUJqIYujGamPE+QVmqcaWgEn1f8kkLiwes+xJ6AB4yzyHaCItZ+1SwadoyGgyhHquzTfHgrewc1QtRxkzKiMcg7YKhP6aNvUQTSehyCClh0+SlkaFHyLpvSRipN9qzcLvlMFT2K7B8eDJw3lawdIPwlsFOA58HQlLC4CSSVHQ8MRDk5B6E8GSymbEHGNIJyo5Ov17GG3y+TKc0gWX1XcuWEig6vXaIyhGw+oVAsYZOvTDEHHip94K7I1FnmRIvUG9oeuy+dxXWQ0F1GU7ZysYBA4O47Db1K7+a3JJucP24pEs/K/Ncs2yyRhuYDa+eHk1I3v/1/g/ETkFaQsPLbKeLorauOsF41Fs4tUzIxrHvofT0A3WJJ;zWYkAucAkEWOnB/pVtp9Kg=="

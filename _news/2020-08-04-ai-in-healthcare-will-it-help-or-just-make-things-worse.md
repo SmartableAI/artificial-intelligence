@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Digitization of healthcare: Key to broaden access to healthcare"
-    excerpt: "The ongoing pandemic has placed tremendous demands on India’s health system. While there is still room for improvement to maximize access to healthcare, it is heartening to see how innovation and agility have helped"
-    publishedDateTime: 2020-08-04T02:40:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/digitization-of-healthcare-key-to-broaden-access-to-healthcare/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/digitization-of-healthcare-key-to-broaden-access-to-healthcare/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/digitization-of-healthcare-key-to-broaden-access-to-healthcare/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
 
 secured: "uZUzgQlqkXTwbn7d6oyGqvQlUasRPAxd/jRD+v8USOB/yLOydnu0AtRjxKFFwt+5ylDZ13YdYi8h9RQTXrKxPdkfkkOtlxg852lBiFIx4bkv27f0mFnGTnzjwMr+zabJLX3Gh3sx66FbmU6qRK/YSOe2H5QDJUnbIuKri3est2lgiT1dQb6+Ehm3FTWy9xKvV7UAXNNGVZmVismOhFNdTUToED9G/oWMEh/vFkJE8mAZFLtBbeWEYer9lOycA373SSBLQjQVEGQ8sJ7NudGinC7NJOIDglbUnNZeivc4ofrsODihUIz1HKLPh+91E4ox12akqK0D+CRvuBhD4Ly+OhngV9D3bBdbD0uvNYHXYP3sARrCjlOS4OCbZWWNg53HRtHE14ey0UfNsxMtomJRILWyUC26pDvdzlBmSqQ8nvqUK1tpHKk7xuulPkKQzvHrqQnyvyKS63nhMwkN1+gk2+84dhpf8lUN9d1QvEIJYcmrPNaUwJb+0/rVtOg4IpHf;xMNkvgFspq1iJluI4M6xjw=="
 ---

@@ -27,17 +27,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Why major companies shifting to Truein's face-recognition technology for attendance-logging?"
-    excerpt: "Truein's product, Staff Attendance, uses artificial-intelligence-based (AI) face-recognition technology. It aims to replace conventional forms of attendance logging and is primarily targeted at systems that use biometrics including fingerprint scanners."
-    publishedDateTime: 2020-08-04T01:18:00Z
-    webUrl: "https://www.sify.com/finance/why-major-companies-shifting-to-trueins-face-recognition-technology-for-attendance-logging-news-news-uidi9mhhfafdi.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 0
-
 secured: "7nhzD7MkanRO2FbZbY+8s+igl11sIIJKVIPAGt77NNC3VxkTk9IhrA+1vBIQcsldZIjZ074qHXMlQobs+vQxZeM4rIUm5aXm1J8BeRMK3iWOGlpWJTFpEVK23leDCFssb98sVRD/ZKgz/mj5H8u2ehWc82qWIP+vNj3HX6tZojvvuRE7WofqY4pIPLnH92OOQjZ/B4NM4ooKUXhneCgd86dzsQIntYoL9kCix/nhn5W/UAG6Q+M8c7f6ekNsYP1r4CYhXcrEFYeVk5jjJY2XXsNfEdOr8lCpYyXIOi2+LgvgdwiiN9NLd7o+mYgOpA0rtyi01YgPbZa/JNRtWqkSnkB+haS0ekUwod4xjdO17S1J1h1415Dxy+27Tynk6fU5BamRwL7YmTY0MSmeA4T6BsjDZN6KBrOJQ5fvbuTBqIqbPXR6Bme6g7VQzb/7TCkDReR8rs++5pnbNiK80eAYmdO8bcr6YVCbBWyHKmcpF6aYAvp1Y8Bo5RrIjGanlmQBI6CXsf4XkZbudZzHet35eg==;6jNHsl5T9QS416ve07P22g=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-04T17:23:00Z
 webUrl: "https://www.tdworld.com/test-and-measurement/article/21138311/buzz-solutions-raises-12-million-to-deliver-ai-tech-to-spot-and-analyze-power-line-flaws"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 547
     height: 375
     isCached: true
-
-related:
-  - title: "AI/Computer Vision Startup Led by Industry Veterans Revolutionized Sewer Inspection"
-    excerpt: "SewerAI was established by sewer infrastructure inspection technology veterans to address the massive problem of aging pipe infrastructure—with over 6 billion feet of sewer pipe in just the U.S. alone,"
-    publishedDateTime: 2020-08-04T20:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
 
 secured: "s2Grt17B0/FF2EeDPGZWFMTvbVT6+NbrgRSn00ir7Wguv/cELaY3wHhNThCDaZd9hJOGso30rFAghxKJzy7m5Hc2CCgjd2kxN+whSxuPMtX83DtL+EUw4i6trGkqvNHLqlg+5qnsOpAnBI1hPnlQCgLYTnA4w/d6Uko/gH3y1ozQYWT8o5U2PO2kSyDbbEhW5nQ8DUlNfjJ/DsfT3gcVWOztdQTa/bYfrry6uN0iBTi9bDQ8Xa1aSLr1d6rvAGw4HuIoIyMJXXdzmTpuEXIBi9z9YjZK/+pvopGA0DmcPr/f+xwOcm0cACdeLXe+APYgoVJOkT6YN/MQ+s51EQrz6Q==;96H6sFSxxPw/yEi5exdV0A=="
 ---

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Twelve Fintech Startups Selected for Village Capital's Finance Forward Latin America 2020 Accelerator"
-excerpt: "Village Capital, with the support of MetLife Foundation, PayPal, and Moody’s, today announced the twelve early-stage fintech startups selected to take part in Finance Forward Latin America 2020. An accelerator,"
-publishedDateTime: 2020-07-30T16:21:00Z
-webUrl: "https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator"
+excerpt: "Over 80% of companies selected have one or more female founders, while over 40% are working from outside major fintech hubs in four different financial ... CIGE Mexico (Mexico) offers an AI solution that guarantees entrepreneurs advisory to manage their ..."
+publishedDateTime: 2020-07-30T16:18:00Z
+webUrl: "https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss"
 type: article
 
 provider:
@@ -14,6 +14,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "j2APWuEvo2BBO4TAZDmwq/Vj2ZejIHLw2lWgxCfBoHTBwoPYMAcF/bvWEv08hcIOOyVq6BW8AYElh4KQyl2+JalL0+jysywswajDFKfkBuqNmqo28W32k0eMDcaJosVvlJYuArq9n1W1vFWMYGPIo7clCNdmJdAwWNaBdVlpzwanOIQIRafNVqiweCk5e32LeZlY4j0x5CL7+EKrsmmXQApjy57aD+MAptvUXkjhi7HAQIM1+cF98SxdMc3Wb+ko9bm+kfHRpi3zsljZO4/8YD1Z1GO14IuUi00QfzkcCZciQSohfQSxKt6UPXM6oG0ZULTm1HG3eNRQWX+VOaOnbg==;ECVvu12THRglpIhYI5N7UQ=="
+secured: "XBvQdY6xCpZ+EVhLuVuRrCNF7V1Zub+99Y4YgW507Pd1CQdWR9VIz39BYBSql3niX/nn59bXXdw1Yh/X9VYTYk5F5XgIYU28D9EtqCBnxrr3Oknh3ZQQRd+GUzTdbnPIfApHUireLQ0FizO832H67D/e3PSadbJWE338zW+jdzX/6tyqXuzHmskWTcIVcTJk0pliY9nqEJPmT48jR/nH9Iwq3rjj3z9e4i+ImhK5/vzWKR1SqJRMxewIzSK9GcSxkzziak3MGwZk0zOL7lKxjaBc0J95xkfsi+itanuuOT6QDFjCJppE4eWq1MgFhW/vRy/3O+8ssqhBRtVwR3Byrg==;C+oxgdAzVpueqZZ9wxQ5tQ=="
 ---
 

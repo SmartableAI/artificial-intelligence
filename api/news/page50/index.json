@@ -2,88 +2,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_news/2020-06-30-notre-dame-ibm-launch-tech-ethics-lab-to-tackle-the-ethical-implications-of-technology.md",
-      "title": "Notre Dame, IBM launch Tech Ethics Lab to tackle the ethical implications of technology",
-      "excerpt": "Notre Dame News gathers and disseminates information that enhances understanding of the University’s academic and research mission and its accomplishments as a Catholic institute of higher learning.",
-      "sourceUrl": null,
-      "webUrl": "https://news.nd.edu/news/notre-dame-ibm-launch-tech-ethics-lab-to-tackle-the-ethical-implications-of-technology/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.nd.edu/assets/394469/1200x630/ibm_blue_feature_2.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Notre Dame News",
-        "domain": "nd.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-the-time-for-ethics-is-over.md",
-      "title": "Artificial Intelligence: The time for ethics is over",
-      "excerpt": "If the rules are too weak, there is a too great a risk that our rights and freedoms will be undermined: This currently applies to all applications of artificial intelligence, […]",
-      "sourceUrl": null,
-      "webUrl": "https://ctovision.com/artificial-intelligence-the-time-for-ethics-is-over/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
-          "width": 632,
-          "height": 422,
-          "title": "Artificial Intelligence: The time for ethics is over",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-30-ibm-donates-machine-learning-tooling-to-enable-responsible-ai.md",
       "title": "IBM donates machine learning tooling to enable ‘responsible’ AI",
       "excerpt": "IBM Corp. is donating three open-source artificial intelligence development toolkits to LF AI, an organization within the Linux Foundation that maintains open-source machine learning tools. The LF AI Technical Advisory Committee",
@@ -1172,6 +1090,90 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
+      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
+      "excerpt": "With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
+      "publishedDateTime": "2020-06-30T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity.md",
+      "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
+      "excerpt": "Automation Anywhere sees enterprises investing in digital workers to build resiliency in their future business plans",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/bb20c7c0ed449b8d619e48b358411162-1200-80.jpg",
+          "width": 622,
+          "height": 350,
+          "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
+      "publishedDateTime": "2020-06-30T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],
