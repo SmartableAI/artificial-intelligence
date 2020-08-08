@@ -142,7 +142,7 @@
       "type": "conference",
       "startDateTime": "2020-06-22T09:00:00-07:00",
       "endDateTime": "2020-06-25T17:00:00-07:00",
-      "location": "San Francisco, CA",
+      "location": "Online",
       "website": "https://databricks.com/sparkaisummit/north-america",
       "provider": {
         "name": "databricks",
@@ -171,7 +171,7 @@
       "type": "conference",
       "startDateTime": "2020-07-09T00:00:00-07:00",
       "endDateTime": "2020-07-12T10:00:00-07:00",
-      "location": "Graz, Austria",
+      "location": "Online",
       "website": "http://www.learningtheory.org/colt2020/",
       "provider": {
         "name": "ACL",
@@ -204,7 +204,7 @@
       "type": "conference",
       "startDateTime": "2020-07-12T09:00:00-07:00",
       "endDateTime": "2020-07-16T19:00:00-07:00",
-      "location": "Corvallis, OR",
+      "location": "Online",
       "website": "https://roboticsconference.org/",
       "provider": {
         "name": "RSS",
@@ -228,16 +228,16 @@
       ]
     },
     {
-      "path": "_events/2020-09-01-ai4-2020.md",
+      "path": "_events/2020-08-18-ai4-2020.md",
       "title": "Ai4 2020",
       "excerpt": "Over two days, Ai4 2020 brings together business leaders and data practitioners to facilitate the adoption of artificial intelligence and machine learning technology. Join us at industry’s most impactful AI event.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-09-01-ai4-2020/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-08-18-ai4-2020/index.json",
       "webUrl": "https://ai4.io/",
       "name": "Ai4 2020",
       "type": "conference",
-      "startDateTime": "2020-09-01T09:00:00-07:00",
-      "endDateTime": "2020-09-02T19:00:00-07:00",
-      "location": "Las Vegas, NV",
+      "startDateTime": "2020-08-18T09:00:00-07:00",
+      "endDateTime": "2020-08-20T19:00:00-07:00",
+      "location": "Online",
       "website": "https://ai4.io/",
       "provider": {
         "name": "Ai4",
@@ -252,46 +252,6 @@
           "width": 2033,
           "height": 1050,
           "title": "Ai4 2020",
-          "isCached": false
-        }
-      ]
-    },
-    {
-      "path": "_events/2020-09-14-oreilly-strata-data-ai-2020-ny.md",
-      "title": "O'Reilly Strata Data & AI Conference",
-      "excerpt": "Data feeds AI; AI makes sense of data. So it also made sense to combine the O'Reilly Strata Data and AI Conferences—covering two of the most pressing technological trends of the decade—and giving you access to the full breadth of both programs.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-09-14-oreilly-strata-data-ai-2020-ny/index.json",
-      "webUrl": "https://conferences.oreilly.com/strata-data-ai/stai-ny",
-      "name": "O'Reilly Strata Data & AI Conference",
-      "type": "conference",
-      "startDateTime": "2020-09-14T09:00:00-07:00",
-      "endDateTime": "2020-09-17T19:00:00-07:00",
-      "location": "New York, NY",
-      "website": "https://conferences.oreilly.com/strata-data-ai/stai-ny",
-      "provider": {
-        "name": "O'Reilly",
-        "domain": "oreilly.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/oreilly.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI"
-      ],
-      "tags": [
-        "Big Data"
-      ],
-      "images": [
-        {
-          "url": "https://cdn.oreillystatic.com/en/assets/1/event/324/stratany2020_800x600.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "O'Reilly Strata Data & AI Conference",
           "isCached": false
         }
       ]
