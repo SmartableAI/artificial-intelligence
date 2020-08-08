@@ -40,6 +40,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Macy’s sued for gathering facial data of customers at stores"
+    excerpt: "The department store giant is accused of using facial recognition software to match faces with personal information on social media. More than 6,000 people could be affected. The class action lawsuit was filed in the Northern District of Illinois seeking ..."
+    publishedDateTime: 2020-08-07T23:58:00Z
+    webUrl: "https://www.fox19.com/2020/08/07/macys-sued-gathering-facial-data-customers-stores/"
+    type: article
+    provider:
+      name: WXIX-TV
+      domain: fox19.com
+    quality: 24
+    images:
+      - url: "https://www.fox19.com/resizer/Wh97N447lX5k3cQr9vRhk9UNRaM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/CTYBKVMO7BDIRJNGSNEQ4HWBPU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ODClindJQfyZKzSrYm7Gr5pT2ShpR+AJ/ER3vGM+HcAIRiukSzqAVKqz1upeJbYofeVnSV2KtzxvEImyFt5kxBPWz9UbSOfx1zbWNH9GyszfG5xGqB3TBI5KS/gRY2G48h/ddf7nQrKWg9/Sq5ciFGRtCd1VgD7rxhRn2m8Fx66snC8mTaJG+W/d6LeIE9Z5jdKwYBZJK6oRuP0+XXW/24ndcTau6AjWp31k5Quw29QvcUbm3MycMiIh0xZAumNu77+XEmOKSQJqBY4ONxfGgYl+uRXLjrMyZ1/MSGnZuZ8iV/O6L7ndahw4zAAwvVe0V8VGLWgURmAMQ8DUjZnJew==;N4Tf55ubSP032Fc95564dA=="
 ---

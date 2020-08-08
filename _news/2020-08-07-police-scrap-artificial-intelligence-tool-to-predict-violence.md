@@ -1,0 +1,43 @@
+---
+category: news
+title: "Police scrap artificial intelligence tool to predict violence"
+excerpt: "An artificial intelligence programme designed to predict serious violence has been scrapped after its findings were found to be wildly inaccurate.The predictive programme, piloted by West Midlands and"
+publishedDateTime: 2020-08-07T23:01:00Z
+webUrl: "https://www.thetimes.co.uk/article/police-scrap-artificial-intelligence-tool-to-predict-violence-zdln8bgz0"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: The Times
+  domain: thetimes.co.uk
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F531a216c-d8d6-11ea-8f95-6d813022b2d7.jpg?crop=4000%2C2250%2C0%2C208&resize=685"
+    width: 685
+    height: 385
+    isCached: true
+
+related:
+  - title: "Police built an AI to predict violent crime. It was seriously flawed"
+    excerpt: "A Home Office-funded project that used artificial intelligence to predict gun and knife crime was found to be wildly inaccurate"
+    publishedDateTime: 2020-08-06T11:13:00Z
+    webUrl: "https://www.wired.co.uk/article/police-violence-prediction-ndas"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: "https://wi-images.condecdn.net/image/Q7WBgokZrb2/crop/1440/0.5235602094240838/f/wired-facialrec.jpg"
+        width: 1440
+        height: 753
+        isCached: true
+
+secured: "4e6BquOBSoYsGtf0J92jxAyEQdyps06Cun27Z09vA3BBrzT9QKo7m4lB7Vyrw1btL42fzn2JD3qfFl0LUXo0JdXNMkerr8RbzUGbp0//lRuPLWkvfQxKSy/C4FXfXmpRSMSHWUKzqQouyv3leS0rU0Hth/c6FrD0b+k+1lKwJQ7PZEsUxba9sOwAdKWruBJgELiXiyuVUYNtBWuz4zSAKpfCVLxdItxh3IlJeOVSv5x2sJZ0Fp4QAtdxED5oT4+pyKP14dw+jp3NYzGUMADhBnJC0RkfrJZ2Q5qe2Ef3lc0qW+GOhEs3hBivK9NtI4ZFyINWbvQ0bFgKCrxeCSXfCg==;u6EM2+9BkbPZ0ZaTo60oTQ=="
+---
+

@@ -7,8 +7,8 @@ webUrl: "https://www.adweek.com/creativity/ai-is-more-likely-to-misidentify-wome
 ampWebUrl: "https://www.adweek.com/creativity/ai-is-more-likely-to-misidentify-womens-masks/amp/"
 cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/creativity/ai-is-more-likely-to-misidentify-womens-masks/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.adweek.com/wp-content/uploads/2020/08/acl-cornhole-PAGE-2020-640x360.jpg"
@@ -25,6 +26,6 @@ images:
     height: 360
     isCached: true
 
-secured: "YY03ppbDc8YWdfoNLxAo9+mqhkcMi353GZZKfGGb16bLLjQbmHsEXSd/XFcm0YAQgb2VfjcQdWaaBpa3Ck6tNTc/GYzLoLRmQDypWwFpLYbLzRflBU4Kl4KxMNBgkceD+ttTpDKFMrE/znla8ea3Lsnwlf/u0dqMtN0q0nL1Zn3zPlimrVUR6U0Be/r/yWJ+4YZ52XB2/Yjz/qn39CZi+u7O2/ddJkRn8uVkekYrDJ5aEH7KY6Ri+iNtZpouJo7gd42VpZNt70TVBoXegHvmRoDXtTlmjNx59E1yJrISE3eCFE4HokK2AaR2fiC8odjRiDcfCTkMd8rjY7IsSQcUqQ==;EjCntUTisFTITs6ZO2rEcw=="
+secured: "ZuCLO/ttQINDFpuF1+wBKZ2w9ng7vaeybzxatyHIqjSOJyb3w6Nn7njW7Lu1okxNDDVEoJ9DBb/vnhTMqX/MAm5vuHkqAPz0i+VaNxij/ovq0o59lf/0pA1GLazB7l4V2w8TZ741RrbsWxqvP2aW6ag1P/XoAxJcJurTfWIuh7Gg9rqpgqq3WR0bZ3ydJGfqk0a0g+711oCU+cKzilsDAaQ9IXQ/dKmZuDuYMsix3PPEAN39AZwjT6VlAZ1SS15HnVTAkxAgK3GKGiOJQUpBUV3poSxLj9lnLb05hQlb5eTn60ONmgiHqbVucz7YBT2Y5ZCKCBKD3kRsda2rBeAIW35hOqmrnfKLHC4ueUodLJybY1PxlMvYvbnpa+K7WraYfqr8r89NXWerSmZVzN+h9/S2fbnB7I1yFTmorLG3iHg6JAYG7em2LGsXcT1Aulg9bYnDPTZ3UgZWNVQ0tljws72Py9Bux7dQ6S7EFbKmy04XjaozvBhmRr2mf8okO+qLcOcrbGjzafSu8G4gVnT+uQ==;OwlMSXYtP0x+7NNJr4+CnQ=="
 ---
 

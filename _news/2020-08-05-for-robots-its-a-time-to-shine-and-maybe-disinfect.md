@@ -2,25 +2,25 @@
 category: news
 title: "For robots, it’s a time to shine (and maybe disinfect)"
 excerpt: "The Neo is a 4-foot-tall, 1,000-pound robot floor scrubber. The high-tech machine can cruise large commercial buildings on its own, with no human supervision required."
-publishedDateTime: 2020-08-05T20:30:00Z
-webUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html"
-ampWebUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
+publishedDateTime: 2020-08-05T16:41:00Z
+webUrl: "https://www.orlandosentinel.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html"
+ampWebUrl: "https://www.orlandosentinel.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/sns-nyt-robot-cleaning-coronavirus-20200805-dfjjreei7jeknfc2amz7qypyt4-story.html?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/l5gn6xDkCST4lrt8kj6Y4gf7IUI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CYFAGH6NCJDRNFDVTKGTUYWL5I.jpg"
+  - url: "https://www.orlandosentinel.com/resizer/l5gn6xDkCST4lrt8kj6Y4gf7IUI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CYFAGH6NCJDRNFDVTKGTUYWL5I.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 550
         isCached: true
 
-secured: "NcMht6c5Q6+4brDwsbxF69t2eXj2Bwo2FFjOCeflyYqHDtUJqTd7DyZ9LKrR44oDkLMR7ia/dPY0bL8i0YhYCqcuxAxLEfEMPPO8c1C5dPDre1pwQjMSZP5oYpD+sWpccXP30uwIsMWH4H8eiUAhQ/ijT8YNxnBVfQObSqm0RzczzWka9+t/rEvESrZm93XHO0nxnHF26Fv5gdrxDrtn38mQlUdSdgjstrVMY/UFEDxPomGn8TTjot2lVGOa7Ub8fkdvC682kPr4SB/M0JLfEOh+q9HsYKuvIz+iPAA8CzsLtfgToAlTrK+6houkCj6jomRLxF8L+dFz7JhsM+z56y9oAsSJGAj3l/7QV5ozEO701/K4sr8q6pKkPWMMhnZw7HytGOt1a3NBBoAqZRu7tPVt5UCtbiRjnAFSt86UXcil0v2030+vXl3vlU6yveJH3k65Fe+yqTa3uV+nQixQnTCJnkm/KKPNzdYKy7fdg7O41oqq+dtUVP2xSuTG/KGqe7JKn5pNHb3llwimYfU5vQ==;fQZFpeaDLjbwXsm6N8uwfA=="
+secured: "B+Y6WdbWx21EbFOY3piOxnLsGQ9GlJvvpoTCy1x5s1MpV6Z46p3EYJFB+WVB23uDdS2oO0fGjaTX8L+m+V2rn408QxGPqXYr+z4WgR63IBOyQSrRaD+mJm29oLsDUZCNMrDoWMcG0wNliU9KBVO4Yz4VZHaWDSHuufj19eKo5ZNzHpjE3/AVxGGCCg0mRRkaFrA9dLtaKHNIk4WtpADP4oidSyLgQlpk+XdWHzcoewOag5KeUHrpw2tBp4bH7usHp3Bes5kb7fvOQhHqoU6HXFtbX0+90mH2n2ckyDbAGCv1TcwSUHAVSNoOHZvI74DZwJAE0Po/HHd/LGgzQ4RYig==;PgTJ8sC4D89bpkIDn4wFUA=="
 ---
 

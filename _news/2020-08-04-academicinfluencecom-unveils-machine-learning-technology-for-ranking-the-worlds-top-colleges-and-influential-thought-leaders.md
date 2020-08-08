@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Who Does the Machine Learning and Data Science Work?"
-    excerpt: "We know that data professionals, when working on data science and machine learning projects, spend their time on a variety of different activities (e.g., gathering data, analyzing data, communicating to stakeholders) to complete those projects."
-    publishedDateTime: 2020-08-05T03:18:00Z
-    webUrl: "https://customerthink.com/who-does-the-machine-learning-and-data-science-work/"
+  - title: "Using machine learning to tackle the world’s biggest problems"
+    excerpt: "Machine learning has graduated from the realm of science fiction to become a core, transformative technology for organizations across industries and categories. The unique potential and power of machine learning is sparking genuine innovation,"
+    publishedDateTime: 2020-08-07T19:03:00Z
+    webUrl: "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://customerthink.com/wp-content/uploads/analysis-2958826_1920-pixabay-analytics-1.jpg"
-        width: 1483
-        height: 1484
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1038383026.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "62ALTEm35yN/BxjhdpGYiRRQSF21+9XJHlNSz3v56eCyxUHtoNxWbMnvRWwlcFHPC6pwiAtkC7lczKPSM6054OdMEPv8YtQSKLf0+Bx29onsIMSTT1iBiMd9P2mdEjgXNgRejhYZEHRKoqV2wr9zu1o+zTs5fbcnKNdyeEnrYz4hfF9YgMkzMBXFkFFwjGLolpPZbcGMevyTFpsDoXiASnx4ZVWwykSm2WgWyEqtITx4LyKF7M1TDW0ZucDprsV7lLUV2fIef69Itqu0PuE38NL1Md13jFwND7TQAb/qt6QcbzhduXH8kOISi1OzFBROzoFHjhOiq7TQasB0eVr20A==;r2tnZ4JhIbU0YAljHri+Fw=="

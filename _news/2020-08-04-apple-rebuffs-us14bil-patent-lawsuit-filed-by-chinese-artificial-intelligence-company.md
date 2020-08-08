@@ -88,22 +88,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Apple Faces $1.4 Billion Lawsuit by Chinese AI Firm in Siri Patent Fight"
-    excerpt: "An artificial-intelligence company recently awarded a Chinese patent for a voice assistant similar to Apple’s Siri has filed a patent infringement lawsuit against Apple that, if successful, could prevent the American tech giant from selling many of its products in the world’s second-largest economy."
-    publishedDateTime: 2020-08-03T06:42:00Z
-    webUrl: "https://www.wsj.com/articles/apple-faces-1-4-billion-lawsuit-by-chinese-ai-firm-in-siri-patent-fight-11596436018"
-    ampWebUrl: "https://www.wsj.com/amp/articles/apple-faces-1-4-billion-lawsuit-by-chinese-ai-firm-in-siri-patent-fight-11596436018"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/apple-faces-1-4-billion-lawsuit-by-chinese-ai-firm-in-siri-patent-fight-11596436018"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 86
-    images:
-      - url: "https://images.wsj.net/im-216184/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI firm sues Apple for $1.4 billion, alleges Siri infringes on its patents"
     excerpt: "What just happened? Apple's Siri is not the most successful digital assistant, but that didn't stop a Chinese AI company from use it as a means to block sales of Apple devices in the region and potentially score some settlement cash. All of this is ..."
     publishedDateTime: 2020-08-04T02:42:00Z

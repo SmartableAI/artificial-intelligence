@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving Bus Market Analysis Report| Business Insights, market conditions, company overviews Business Opportunities and predictions of 2026"
+    excerpt: "Aug 03, 2020 (Profound via COMTEX) -- Self-driving Bus Market 2020 Report offers a professional and in-depth study on the current state of the"
+    publishedDateTime: 2020-08-03T16:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-analysis-report-business-insights-market-conditions-company-overviews-business-opportunities-and-predictions-of-2026-2020-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Xot9n96+kbU6WeNSmDDO23I9+HfGY5L9dHbHKzlO0e+O5MonHKc9EDlteummkGO3gpTJkhDbmaYiiXKNWQVlIUpqWAH1BRaoy7X6mzZQDaduoFq1TUiy+KxE4LoRXPpAqs+50/qvxAiOXiptoCvPmzCsIeXOExDNyfVRhW+NVrGc1rAZBB1tWRjcAm41mztBC9t1zKVNFZMlTNWz4iwrz5XaI4Xhca+b5h5Gwf51ye4TzTWauapt8CsmqgG/QNDC9OfqoSkbSbk/kjMLH3WyA3sjosDaU3reH/OY7WiFDRIo4BmASkKprlpZ8tmfKTAgRBRpSKsuBewU3thB5fbi5Q==;IVAWaWw8L/Xr5OZInGnZhQ=="
 ---
