@@ -3,7 +3,7 @@ category: news
 title: "Customer Experience Outsourcers Launch Intelligent and Self-service Options to Improve Business Outcomes in Europe Finds Frost & Sullivan"
 excerpt: "Frost & Sullivan’s recent analysis, European Customer Experience Outsourcing Services Market, 2020, reveals that outsourcers are increasingly relying on advanced technologies to"
 publishedDateTime: 2020-08-07T05:30:00Z
-webUrl: "https://www.newswiretoday.com/news/173439/"
+webUrl: "https://www.newswiretoday.com/news/173439/Customer-Experience-Outsourcers-Launch-Intelligent-and-Self-service-Options-to-Improve-Business-Outcomes-in-Europe-Finds-Frost-and-Sullivan/"
 type: article
 quality: 0
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 1203
         isCached: true
 
-secured: "NUI0hKz5+h2xziwfMxzbITwaTNxsSVMCmk1xAo63O72U7acqz6OOxFome2Di31MrdIJAMgSJGcVdHmpDBIXOiXcnU5MrIxv0rIvGuB0sqAup6wxl4Y0Xa+QF7MwXQDTKd7ZvNtFkhXtlAhnK5oHkDdBuo2wUsHZ7n8D0Fi41PP9+27PpCfMtBKWFsbPEpCRFs8+mD219MSzQkKklNSFbL1HY+5Uqi4uKQqiVObGCGr+Lr4wvh5GV7Rm1/f787fu6ESdp0enoQ3hIHVYJSr4KiZUwOgVeVY4VrRoHMzexXD8juwB1pXsDJRZtqmUXNNCipfxYroCQqARBj+oKvyXBmQ==;O3DwcQ2ok+5yPgJH3NvjRg=="
+secured: "91Irz7yzUkeEc8oCddHlue2eUpNbNoNMcxvnyMrkfnIqc7hrxJR4BC7j7up+4USdMfDSq5HBaHCDdMPWHRukPBMPFmVL3SdTTW6bzI1CxT0eBjZbmSyLoURYeg654HRp+/4EjrauGyXVfgFfXqgFtIQCBNbgUPckXFOyTxooJkCwJBQj1a2H8z4XxHO/HfAPCxsXCHqEjunylct+G5fzqMQrBWHg26bfSEbrMDe9ceKCqjgx32Edl4WPo7p04SixnF737GYs4PPZk53L93iwwdYMlw/sR3gKHaWXIC+fO7Cx2LUU5nxyBreixDXJcBBy6uTcrRoyHVb6SCowizqSZw==;X/ZNqIh/vyMyWbtYTS5hUw=="
 ---
 

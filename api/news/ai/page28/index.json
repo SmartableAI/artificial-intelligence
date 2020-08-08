@@ -2,6 +2,56 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-07-13-paige-raises-15-million-from-goldman-sachs-to-detect-cancer-with-computer-vision.md",
+      "title": "Paige raises $15 million from Goldman Sachs to detect cancer with computer vision",
+      "excerpt": "Take the latest VB Survey to share how your company is implementing AI today. Health care startup Paige has raised an additional $15 million to help diagnose cancer using computer vision trained ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/13/paige-raises-15-million-from-goldman-sachs-to-detect-cancer-with-computer-vision/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/paige.jpg?w=800&resize=800%2C336&strip=all",
+          "width": 800,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/13/paige-raises-15-million-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/paige-raises-15-million-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "publishedDateTime": "2020-07-13T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-the-secrets-of-how-ibm-maintains-ai-leadership.md",
       "title": "The Secrets of How IBM Maintains AI Leadership",
       "excerpt": "IBM's focus has been on the AI (Watson), and quantum computing efforts. I got an update on their AI efforts last week, and they have moved the ball a lot over the last few months. Let's talk about that this week, and we'll close with my product of the week ...",
@@ -1321,58 +1371,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-the-path-to-real-world-artificial-intelligence.md",
-      "title": "The path to real-world artificial intelligence",
-      "excerpt": "Experts from MIT and IBM held a webinar this week to discuss where AI technologies are today and advances that will help make their usage more practical and widespread.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/the-path-to-real-world-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "publishedDateTime": "2020-07-10T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

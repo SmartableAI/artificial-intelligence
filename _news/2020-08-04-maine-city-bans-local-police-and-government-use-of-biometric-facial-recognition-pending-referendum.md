@@ -118,7 +118,7 @@ related:
   - title: "Australia needs to face up to the dangers of facial recognition technology"
     excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
     publishedDateTime: 2020-08-07T02:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     type: article
@@ -181,17 +181,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Face Masks Confuse Facial Recognition Technology"
-    excerpt: "Americans can't agree on whether face masks are a good way to reduce the threat of transmitting COVID-19. We've even turned mask-donning into a symbol of partisan affiliation; those who would make them compulsory everywhere face off against those who refuse them under all circumstances."
-    publishedDateTime: 2020-08-03T16:41:00Z
-    webUrl: "https://reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/"
-    ampWebUrl: "https://reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/08/03/face-masks-confuse-facial-recognition-technology/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 39
   - title: "Wearing Masks Confuses Facial Recognition"
     excerpt: "Facial recognition and masks study explored 3 levels of nose coverage, finding that accuracy degrades with greater nose coverage."
     publishedDateTime: 2020-08-03T17:20:00Z

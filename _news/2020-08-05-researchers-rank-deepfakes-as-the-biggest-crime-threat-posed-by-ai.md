@@ -44,8 +44,8 @@ related:
         isCached: true
   - title: "'Deepfakes' ranked as most serious AI crime threat"
     excerpt: "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report."
-    publishedDateTime: 2020-08-04T02:44:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php"
+    publishedDateTime: 2020-08-04T00:03:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/ucl-ra080320.php"
     type: article
     provider:
       name: EurekAlert!

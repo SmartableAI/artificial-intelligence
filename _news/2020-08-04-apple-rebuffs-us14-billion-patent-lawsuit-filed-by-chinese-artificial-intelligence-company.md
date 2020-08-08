@@ -94,20 +94,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Chinese AI company sues Apple for $1.4 bln over Siri patent"
-    excerpt: "Chinese AI company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i is suing Apple on the grounds of patent infringement. Chinese company filed a formal lawsuit against Apple in Shanghai High People’s Court on 3rd of August ..."
-    publishedDateTime: 2020-08-03T15:02:00Z
-    webUrl: "https://www.finchannel.com/technology/78152-chinese-ai-company-sues-apple-for-1-4-billion-over-siri-patent"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 37
-    images:
-      - url: "https://luxurypragueapartments.com/wp-content/uploads/2019/10/types-of-investment-funds.jpg"
-        width: 730
-        height: 467
-        isCached: true
   - title: "Apple rebuffs US$1.4bil patent lawsuit filed by Chinese artificial intelligence company"
     excerpt: "Shanghai Zhizhen Intelligent Network Technology has been locked in a legal battle with Apple over the Siri voice assistant system since 2012. The Chinese AI company claims Apple has infringed a patent it owns,"
     publishedDateTime: 2020-08-04T09:49:00Z

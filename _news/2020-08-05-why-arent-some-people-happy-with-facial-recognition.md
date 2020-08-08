@@ -88,33 +88,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A new tool to protect yourself against facial recognition software"
-    excerpt: "A new research project from the University of Chicago Department of Computer Science provides a powerful new protection mechanism. Named Fawkes, the software tool “cloaks” photos to trick the deep learning computer models that power facial recognition,"
-    publishedDateTime: 2020-08-03T16:38:00Z
-    webUrl: "https://news.uchicago.edu/story/new-tool-protect-yourself-against-facial-recognition-software"
-    type: article
-    provider:
-      name: The University of Chicago Chronicle
-      domain: uchicago.edu
-    quality: 54
-    images:
-      - url: "https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2020-08/FacialRecogition.jpg?itok=QZDhbvoF"
-        width: 1380
-        height: 776
-        isCached: true
   - title: "University of Chicago engineers develop tool to protect your photos from facial recognition"
     excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-    publishedDateTime: 2020-08-03T21:23:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    publishedDateTime: 2020-08-03T21:19:00Z
+    webUrl: "https://www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 49
     images:
-      - url: "https://www.chicagotribune.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
+      - url: "https://www.orlandosentinel.com/resizer/GAd2gxIaZlVf1GfmUSHZjOFbMAA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QL6IV26XVE3DNE5XYAEEPTTUQ.jpg"
         width: 1200
         height: 800
         isCached: true

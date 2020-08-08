@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T13:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05"
 type: article
 quality: 75
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Marketing Market Expected to Grow at CAGR 26.98% and Forecast to 2025"
+    excerpt: "In its latest report on Artificial Intelligence in Marketing Market provides a concise analysis of the recent market trends. The report further includes statistics, market forecasts and revenue estimations,"
+    publishedDateTime: 2020-08-08T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-expected-to-grow-at-cagr-2698-and-forecast-to-2025-2020-08-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

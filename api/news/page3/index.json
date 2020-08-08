@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-05-evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create.md",
+      "title": "Evil AI: These are the 20 most dangerous crimes that artificial intelligence will create",
+      "excerpt": "From targeted phishing campaigns to new stalking methods: there are plenty of ways that artificial intelligence could be used to cause harm if it fell into the wrong hands. A team of researchers decided to rank the potential criminal applications that AI will have in the next 15 years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
+      "publishedDateTime": "2020-08-05T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-building-a-pictionary-style-game-with-aws-deeplens-and-amazon-alexa.md",
       "title": "Building a Pictionary-style game with AWS DeepLens and Amazon Alexa",
       "excerpt": "Are you bored of the same old board games? Tired of going through the motions with charades week after week? In need of a fun and exciting way to mix up game night? Well we have a solution for you! From the makers of AWS DeepLens, Guess My Drawing with DeepLens is a do-it-yourself recipe […]",
@@ -290,7 +340,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1096,56 +1146,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model.md",
-      "title": "Microsoft researchers claim ‘state-of-the-art’ biomedical NLP model",
-      "excerpt": "Microsoft researchers propose a new training technique that achieves state-of-the-art performance in natural language processing biomedical tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/04/microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/04/microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model/amp/",
-      "publishedDateTime": "2020-08-04T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

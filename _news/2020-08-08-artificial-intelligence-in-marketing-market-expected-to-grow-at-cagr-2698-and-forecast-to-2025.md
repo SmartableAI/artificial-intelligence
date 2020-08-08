@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Edge AI Market Analysis Share Size and Growth Demand by 2020-2025"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 05, 2020 (Heraldkeepers) -- New York, August 05, 2020: Edge Artificial Intelligence (AI) software market size to grow from US$ 355 Million in 2018 to US$ 1,152 Million by ..."
-publishedDateTime: 2020-08-05T11:53:00Z
-webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-analysis-share-size-and-growth-demand-by-2020-2025-2020-08-05?mod=mw_quote_news"
+title: "Artificial Intelligence in Marketing Market Expected to Grow at CAGR 26.98% and Forecast to 2025"
+excerpt: "In its latest report on Artificial Intelligence in Marketing Market provides a concise analysis of the recent market trends. The report further includes statistics, market forecasts and revenue estimations,"
+publishedDateTime: 2020-08-08T09:51:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-expected-to-grow-at-cagr-2698-and-forecast-to-2025-2020-08-08"
 type: article
-quality: 67
+quality: 56
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -36,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge AI Market Analysis Share Size and Growth Demand by 2020-2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 05, 2020 (Heraldkeepers) -- New York, August 05, 2020: Edge Artificial Intelligence (AI) software market size to grow from US$ 355 Million in 2018 to US$ 1,152 Million by ..."
+    publishedDateTime: 2020-08-05T11:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-analysis-share-size-and-growth-demand-by-2020-2025-2020-08-05?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,20 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Marketing Market Expected to Grow at CAGR 26.98% and Forecast to 2025"
-    excerpt: "In its latest report on Artificial Intelligence in Marketing Market provides a concise analysis of the recent market trends. The report further includes statistics, market forecasts and revenue estimations,"
-    publishedDateTime: 2020-08-08T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-expected-to-grow-at-cagr-2698-and-forecast-to-2025-2020-08-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -126,6 +127,6 @@ related:
         height: 630
         isCached: true
 
-secured: "iSPwgtTwG5/d22AY2mRn47IMbSZMfl4bDW+OweuZvdAHv4w65H58DeTFqi3bA8h3hZ8CZ2hkNC//q/hr1skmpneOZd9IJTFdVsEMcQOz477DyvJ+BXrUoSSOWWDiO0VLBCThw4VyK5tI/PbE1kAOjazP+lOFG2tLiT9lYrYnjU7T5UY4VRK2EBvc0VEDygA5Rdt6IkWd/pG9+wT0JWyrvg8/Gmzxl3RfNQE0hM6XxFMghR7hVU5+wtFCM9zGYlbddqR69vpcXmMKQ9pzDZflId90Jn9Qc5ZwkS8e3BY21TStf8yqv496QRkQpnplEhjOQAr6KdJSKfSibYWUnLdBXA==;bfT2XfvwAnJAJjAo9QDdqQ=="
+secured: "EzB/v+3TKFoCtAIqW3TXI3J6Py+AzCQH9/infGwFQdMt1mqikO+ROzYZwuoP5fU+YcN/MIzoRcJGHxY9zcRizSBt8IDr2ea0jaEVwQrigPGwLGvdzEuf3HzyfjkKbYzYfb81kavR1knlPuyAnWboce7uo82GGpm4+Thth3lasMrAhZBuwkcY2rrGogi3AgMDLNOEFrGQpWq1L5gyt5oaIlwk+L6wZDu/DNs7312vS5i9p/SzMNts5U9N0ZS95K+FNaIYLzQgoM9NM1tSQSO6ZjTwq6pY3AEdH4VXb3tiZVxvqOh+t2dTuB7GKulwJTIcv/S9CauraVCjeZNG/ye4Jw==;YHSVmgUNpVdcwTK/BIlWmQ=="
 ---
 

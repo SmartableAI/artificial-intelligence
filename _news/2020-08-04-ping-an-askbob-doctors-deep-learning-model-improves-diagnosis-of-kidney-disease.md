@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Ping An AskBob Doctor's Deep Learning Model Improves Diagnosis of Kidney Disease"
-excerpt: "The system uses deep learning, a type of machine learning, to identify certain types of kidney lesions and cells to help doctors diagnose kidney disease with greater accuracy. The ARPS is ..."
-publishedDateTime: 2020-08-04T13:24:00Z
-webUrl: "https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease"
-ampWebUrl: "https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease?amp"
+excerpt: "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team [1] has joined the National Clinical Research Center of Kidney Diseases in China,"
+publishedDateTime: 2020-08-04T11:13:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
 type: article
-quality: 54
-heat: 54
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/pr-newswire_500_4_123.jpg?itok=K0XbM7NT"
-    width: 763
-    height: 509
-    isCached: true
-
-secured: "u2IDkW7QuaIkiPbJos5OFTp+g2wKZ0IpD019hzppFHEYg0tdXFcNLGV8rAZiS8dAN3tzpatUiMx00tiLA7iJXezXo2AQwCftCj5aCm42Il0y19MGbAkvhupeNvBozI0AmdQWmAGbKYBYw3DppAZB7JFQvBcY2FLN3aDq2UFlXTkGPSAAEThQCC9NGkUcW+O+fmbo60Oq6dbDpxV/0Clc6w0bMVkZWkjEWUQet7LSmccWboOVde5PCQETpjm4U7B9WirBQYu/lStMPOf5VAWS4Q2TmQafw3f5DeYcFTknOMah5NU2Y5KZfv5G/kz2TV8aWKl+LoBZM/T9T8J4L1Cxgg==;tIm/Gaeg4+2hPkh7/ZGCvw=="
+secured: "krDvckcGe7EajYAKpifmqI3ZOw0NtXN4Fg/7Ca+GGumnDFBvVVT1TVZ2PuVehtdO5TtYLs+tXhWmCSa3x9N6r2BNaz+gno4jDx8jUx95ux1nQjTAxLjTLanMQEM+u9II856bInarCq+cwe2rYec5p8Gb3jvZmO8W46mJrHMcs+/4wRnStn0NC82jyBfToEoSB0RdQ5gclYdHJmK7dQwbylQoCE0JCv0AbbpZyAXXc4MMl1jJeCfxkKbK7Nl6AVoB1LoF/7xeZByhYFq2+dxFbX25/u9AtRT30llelH66DfkCWO1T60J4SDRabJC8brai9SqAtpS++z9MGA5RBo2KBQ==;uFWd2yS4GMOFxaCkInZKJQ=="
 ---
 

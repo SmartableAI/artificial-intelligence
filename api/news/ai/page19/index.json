@@ -2,6 +2,55 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-07-20-chinese-autonomous-driving-start-up-autox-wins-driverless-car-permit-for-tests-in-california.md",
+      "title": "Chinese autonomous driving start-up AutoX wins driverless car permit for tests in California",
+      "excerpt": "AutoX is the third company to win such a driverless permit from the California DMV, after Google-backed Waymo and California-based Nuro.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3093891/chinese-autonomous-driving-start-autox-wins-driverless-car-permit",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/20/7737d176-ca52-11ea-9c1b-809cdd34beb3_image_hires_143152.jpg?itok=MeUHKAnS&v=1595226717",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3093891/chinese-autonomous-driving-start-autox-wins-driverless-car-permit",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3093891/chinese-autonomous-driving-start-autox-wins-driverless-car-permit",
+      "publishedDateTime": "2020-07-19T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-neural-network-software-market-growth-by-manufacturers-type-and-application-forecast-to-2026.md",
       "title": "Neural Network Software Market Growth By Manufacturers, Type And Application, Forecast To 2026",
       "excerpt": "Neural network software is used to simulate, research, develop, and apply artificial neural networks, software thoughts adapted from biological neural networks, and, in some cases, a wider array of adaptive systems for instance artificial intelligence and ...",
@@ -1360,55 +1409,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-after-jack-mas-holographic-appearance-at-an-ai-conference-shares-of-this-chinese-company-soared.md",
-      "title": "After Jack Ma’s holographic appearance at an AI conference, shares of this Chinese company soared",
-      "excerpt": ". But not in person – he appeared as a holographic projection at the event on July 9, which took place mostly online amid the coronavirus pandemic The day after Ma’s speech at the conference, shares for a relatively obscure Chinese company nearly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/18/b5a7e496-c7e6-11ea-86df-6d561651b5f4_image_hires_093712.jpg?itok=_yCoEWJZ&v=1595036239",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese",
-      "publishedDateTime": "2020-07-17T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

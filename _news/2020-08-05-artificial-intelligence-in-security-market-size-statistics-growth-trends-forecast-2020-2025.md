@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Marketing Market Expected to Grow at CAGR 26.98% and Forecast to 2025"
+    excerpt: "In its latest report on Artificial Intelligence in Marketing Market provides a concise analysis of the recent market trends. The report further includes statistics, market forecasts and revenue estimations,"
+    publishedDateTime: 2020-08-08T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-expected-to-grow-at-cagr-2698-and-forecast-to-2025-2020-08-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in BFSI Market 2020 Top Manufacturers, Industry Share, Size, Trends, Growth Factor and Forecast 2026"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence (AI)"
     publishedDateTime: 2020-08-05T13:10:00Z
