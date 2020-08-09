@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T12:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digital Assistants in Global Healthcare Markets, 2020-2025 - Industry to Witness a CAGR of 33.7% Over the Forecast Period"
-    excerpt: "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33."
-    publishedDateTime: 2020-08-04T11:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/digital-assistants-in-global-healthcare-markets-2020-2025-industry-to-witness-a-cagr-of-33-7-over-the-forecast-period-1029466100"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
 
 secured: "b+NDFwy9u8ppl/1XMU1rNPbkDGlnOqpJVBAzB9q9MWVtNQqAPqYFP8tMzVZIcfyGwcL4ie4LoHluEoPRfnSN/k0zRAZxO2dJzCDDf7Kdf78bxL88Zf6KweujkdB5dm8XToHobuQrBGyZ5IcTHePtlAdooS+JVfw7aifL11JTakSBK4jRt2mlTEd3J/t8VYEkOKI29DXGKc2FfwuhIRprV0o590DUyfP8FCKnD8jc+ZSXE3z7DYu/0LQH3zIXubPGUkdWEjgpH4IjLxpFyS6xKB40Q5kD5kFr2+MPZaCDxKEvSXLKRGAOFzl8AKZEOBJyAurFdQ4riqtRzolwvgoJhg==;cUBb7jzXgUGJk14x4tV1Kg=="
 ---

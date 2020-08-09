@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T19:03:00Z
 webUrl: "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AcademicInfluence.com Unveils Machine-Learning Technology for Ranking the World's Top Colleges and Influential Thought Leaders"
-    excerpt: "What worries today's prospective college students most? Topping the list are two life-altering decisions they don't want to flub: selecting"
-    publishedDateTime: 2020-08-04T12:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/academicinfluencecom-unveils-machine-learning-technology-for-ranking-the-worlds-top-colleges-and-influential-thought-leaders-301105410.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1223233/Academic_Influence_Logo.jpg?p=facebook"
-        width: 598
-        height: 315
-        isCached: true
 
 secured: "tyWhA6BPhtvzJkgQS6JcCvKEUSrH5t4Ztp6ceyyrL08JJZD5UO5QZ08awTNCDtTySmCaSOsU6Qii3k4o6Qk8T1aSE8XMA18iqTsfDuuU9TcroSHZQHPLh/Pn3vSW+/dbipdg2goum9QM3j6NC0PhW+sx8/XijRKZ+ZcLrlxsWZcsGWacCY0lYUrYLqQAR1wl09wQYrpEMJdoP01z4IrhH/zoIHf6tCMxgvK6FHcLLliMceE8H5ZBl4kEKgo5Mfcxdmrx0U6Aoc+1aZxzDMLff1psQjZQWiedqp9+SZ20HXHlRlQ3OIJ2dI9fd8r71ajpyTw/ZV/sjmIyGj0iHraEh5K2ym5Qtnz7fvzUzLZgKRfFprjx2MaBQqBixUnUPUoKpNKR1eyeVrDogBpkQ+kWwtSxsTZHQozSVnnmvAzxr1Lv7lTpu7X62qyy2PefRVXuEx/wDU4l16qvbXwR9h9bL9Fm80+6o1R+HhlhANdZnXrQG6B+ssYRjT4835QZXU2elA4uUoNHKE2C3KGHDkKrag==;osIAZ280LsqbumEgOZ7R4w=="
 ---

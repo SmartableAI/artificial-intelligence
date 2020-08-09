@@ -690,6 +690,38 @@
       ]
     },
     {
+      "path": "_news/2020-07-28-future-cars-to-integrate-advanced-healthcare-systems.md",
+      "title": "Future Cars to Integrate Advanced Healthcare Systems",
+      "excerpt": "It is understandable given that driverless cars ... It includes investing in the face recognition Artificial Intelligence (AI) startup Deep Glint which will recognize faces in 3D.",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/future-cars-integrate-advanced-healthcare-systems-1371276",
+      "publishedDateTime": "2020-07-28T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-26-audi-working-with-nvidia-to-create-self-driving-ai-cars-by-2020.md",
       "title": "Audi working with NVIDIA to create self-driving AI cars by 2020",
       "excerpt": "Audi will have self-driving artificially intelligent cars powered ... world thanks to mapping tie ups with TomTom and HERE plus Baidu in China and ZenRin in Japan. • All the latest from CES ...",
@@ -1108,7 +1140,7 @@
       "title": "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks",
       "excerpt": "The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across ... like Yandex and Baidu, whose cars have driven only about a million miles ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!",
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1313,47 +1345,6 @@
       "provider": {
         "name": "Fleet Owner",
         "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-when-autonomous-cars-crash-should-they-save-passengers-or-pedestrians.md",
-      "title": "When autonomous cars crash, should they save passengers or pedestrians?",
-      "excerpt": "When a driverless car crashes ... I am able to put this car in the best scenario.’ Machines and artificial intelligence are not perfect, just like humans are not. And you talk to people leading ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scpr.org/programs/airtalk/2016/06/27/50013/when-autonomous-cars-crash-should-they-save-passen/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a.scpr.org/i/c080d29db043a2faa0e2d2edf041474e/131452-full.jpg",
-          "width": 1024,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPCC",
-        "domain": "scpr.org",
         "images": null,
         "publishers": null,
         "authors": null

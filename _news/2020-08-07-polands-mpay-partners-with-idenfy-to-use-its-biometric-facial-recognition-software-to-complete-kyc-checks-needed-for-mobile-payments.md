@@ -36,20 +36,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Universal Studios Singapore using facial recognition for entry at RWS"
-    excerpt: "Universal Studios Singapore is now using facial recognition scanners to allow visitors \"more efficient and seamless\" entry to the theme park at RWS."
-    publishedDateTime: 2020-08-04T12:09:00Z
-    webUrl: "https://blooloop.com/news/universal-studios-singapore-facial-recognition/"
-    type: article
-    provider:
-      name: Blooloop
-      domain: blooloop.com
-    quality: 39
-    images:
-      - url: "https://blooloop.com/wp-content/uploads/2020/08/universal-resorts-world-sentosa-e1596541631806.jpg"
-        width: 800
-        height: 390
-        isCached: true
 
 secured: "2XD0I+VEWJATParTsrxf+uGplip4mprF4vaq7uTrzvSFV9i/GwAxZXb2yalb5TcIBb1KZAbV6ficpGMumafI976Yv7yG1SfSlmZ+y22w2fZ+bZW3ACgg3TWsMpi2UV2wI0CgIeQKV6ajStOYDS54YFZqi1EJOWeksImIv+9TALPI8J+SRYLXhog0oy+czLH7n31rOghRnLoy92LxwIZeVp+xUps0T9LKqfWKiKcu5NPNIXCsR1mq8Hj+TqErWsUyuNlkz48fbIGauJHkZ4I/bH67dGKcxIYLhtubmXy1/OM/DKBnzbqqzIcRnK6kCZqD3m6dsYRuNqXECgHs688/h4MuJE8q0k1c2IKGbzMiIpOs1TTq5yp+kigbFyf9AuJB7C/sbmpwIBjlFIDmuR4L0y0ny3Z3mtsa5wR/CrV2okxrBEGfERSpEzeAMNlqItTygUy4AGXomG06xJGfdfWFFQmaLrXFp80yGxwkHdAabccaAubbMNcAUa5mLlCGsCfQ;HLpmLRxEcGV8Qi2raq8syw=="
 ---

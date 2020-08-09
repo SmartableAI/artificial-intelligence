@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-07T13:11:00Z
 webUrl: "https://www.zdnet.com/video/whats-next-for-conversational-ai/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: ZDNet
@@ -25,22 +25,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "LivePerson Announces the Conversational Cloud™, an AI-powered Command Center for Brand-Consumer Conversations"
-    excerpt: "As the world’s most advanced AI-powered command center for brand-consumer interactions, the Conversational Cloud empowers brands to instantly respond to messages, answer questions, resolve customer intents,"
-    publishedDateTime: 2020-08-04T12:30:00Z
-    webUrl: "https://apnews.com/PR Newswire/a18be4c9736880209cfb751e4c2b21ae"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "q3v9upMMGYxw9X8kXdtN+WA3RZ9t734xnrcydN7pYicZnwufw6xXJGO0JOOPx50QSKGLRC1qGDWNLsyS3yy46RIG3FVtTNM/UJZdaRNdZH4gpfsSpfHZRFZp2ty6Ewo1XVZ9Q5HtUKvaDsvgC9/94Oed2G1MNKvqXGBNKwmR9Qw5DqKV9MUYgDFKHuRNVUHeI8XWEFR7YaHISfuQFlSgzJpxpxFQGw1TOLdP2cZr2q6BQXMhU76fpDq42DAx5rrYi42p+OTmSo0oU0HJOHlQielVehIZVnBNkr/5Fbm83P3ucOEF1GYKKJvnjMm+w1jQJW1pESYSrX/jLogGtvDcFS04qpFW/aY6FnBRHsrqXmatf+0svrXniKbK6j7giB+XCDGxb+Tk1vEed7Pv4G+qglOPHmcrHVbtou1+J3GsMNwiL1aaeoP9B7hlj0nhePCB3wE1tVqzpNSYZEpsFzYeFGGxwU6PyZbIOOPv67o7H9bTdlftyB1rVNyPNwV5CzU/ItHyKIdUk5pzqf7qqZEudw==;CBP32Yio6d8AU3MROwBZPA=="
 ---

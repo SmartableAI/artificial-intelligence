@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "L&T Technology Services Expands Collaboration With Microsoft to Offer Eco-friendly Solutions for Workplace Transformation"
-    excerpt: "L&T Technology Services Limited today announced that it has expanded its collaboration with Microsoft Corporation."
-    publishedDateTime: 2020-08-04T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200804005480/en/LT-Technology-Services-Expands-Collaboration-Microsoft-Offer"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: "https://mms.businesswire.com/media/20200804005480/en/588151/23/L%26T_Technology_Logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "L&T Technology Services expands collaboration with Microsoft to offer eco-friendly solutions for workplace transformation"
     excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning ..."
     publishedDateTime: 2020-08-05T13:59:00Z

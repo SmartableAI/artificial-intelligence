@@ -24,61 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Study finds artificial intelligence-enhanced ECGs speed heart failure diagnosis"
-    excerpt: "WASHINGTON D.C.: When people seek emergency care for shortness of breath, a routine electrocardiogram (ECG or EKG) enhanced by artificial intelligence (AI) is better than standard blood tests at determining if the cause is heart failure, according to new ..."
-    publishedDateTime: 2020-08-04T11:27:00Z
-    webUrl: "https://www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis-11596539192747.html"
-    ampWebUrl: "https://www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis/amp-11596539192747.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis/amp-11596539192747.html"
+  - title: "Artificial intelligence may help doctors diagnose heart patients faster"
+    excerpt: "MED TECH: Research out of @MayoClinic enhanced EKG using artificial intelligence. Diagnosing shortness of breath, decreases in heart function faster in age of COVID-19. 5:45 on @FCN2go pic.twitter.com/rr3s6jQnVa"
+    publishedDateTime: 2020-08-04T22:01:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/health/artificial-intelligence-updated-ekg-may-help-doctors-diagnose-heart-patients-faster/77-80b56237-6d23-4e94-87ca-b0b8e3b19eb1"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/health/artificial-intelligence-updated-ekg-may-help-doctors-diagnose-heart-patients-faster/77-80b56237-6d23-4e94-87ca-b0b8e3b19eb1"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/health/artificial-intelligence-updated-ekg-may-help-doctors-diagnose-heart-patients-faster/77-80b56237-6d23-4e94-87ca-b0b8e3b19eb1"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 68
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 57
     images:
-      - url: "https://images.livemint.com/img/2020/08/04/600x338/PTI29-04-2020_000145B_1593188447489_1596539886462.jpg"
-        width: 600
-        height: 338
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/f0b8b611-1d19-4c12-bb9c-be852354c2f9/f0b8b611-1d19-4c12-bb9c-be852354c2f9_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "AI-enabled ECG provides a rapid and effective method to screen heart failure"
-    excerpt: "When people seek emergency care for shortness of breath, a routine electrocardiogram (ECG or EKG) enhanced by artificial intelligence (AI) is better than standard blood tests at determining if the cause is heart failure, according to new research published ..."
-    publishedDateTime: 2020-08-04T13:28:00Z
-    webUrl: "https://www.news-medical.net/news/20200804/AI-enabled-ECG-provides-a-rapid-and-effective-method-to-screen-heart-failure.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200804/AI-enabled-ECG-provides-a-rapid-and-effective-method-to-screen-heart-failure.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200804/AI-enabled-ECG-provides-a-rapid-and-effective-method-to-screen-heart-failure.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Artificial Intelligence-Enhanced ECG for Rapid Heart Failure Assessment"
-    excerpt: "Enhanced ECGs are quicker at assessing high-risk cardiac patients and outperform current standard-of-care blood tests, reveals a new study."
-    publishedDateTime: 2020-08-05T07:58:00Z
-    webUrl: "https://www.medindia.net/news/healthinfocus/artificial-intelligence-enhanced-ecg-for-rapid-heart-failure-assessment-196621-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 54
-    images:
-      - url: "https://www.medindia.net/images/common/news/950_400/ai-enhanced-ecgs.jpg"
-        width: 735
-        height: 400
-        isCached: true
-  - title: "Study finds artificial intelligence-enhanced ECGs may speed heart failure diagnosis, treatment"
-    excerpt: "When people seek emergency care for shortness of breath, a routine electrocardiogram (ECG or EKG) enhanced by artificial intelligence (AI) is better than standard blood tests at determining if the ..."
-    publishedDateTime: 2020-08-04T11:06:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200804/3603848.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 20
 
 secured: "LymMv7zPlDu+BeGYX2Pk+j9Dq6Qh1UCBkp1PhxSGjg4H8o9lqzmQ75nFMmIQtT6UBJrg45NDfhAm9sjrLC+R7TgZFRHjgNkPIb0yBAZOg0gLNCMqPM5WGy8I03RWEUByHzdogV2tF/u/DtqTFGNNcaeUgDjPbILQWn0HBw2McqNhoi8Zrz4II+3ZAMIcqwHorg9Ky/1MlCOhR9BxUHQ75lfPNqykrK7X4edUpxkjK4sqnlZQDiY6QON4WL76jDE6znPE3vYrVcIjQUFE6YN3VWpuV2wCuVgSbwvyQ0QoESP26g0SFZ14M26L7zr3qRew5vpYs30GZAIXNrpfqwLSY4VtdZL/XP2sqjKE8fj92VUF/agBPMhP/YQ21uXQQhD9br5L9HC7KVX3AcV1205qWdoGOuk9Nfc4VDiO0y3ZLxmUS6lMTw+cO7pS3Pz0csEM3k03o030tT+ca/azqgRCo3WCbPERy8s8qOpA27sPHL5caakuFbvaPyPUGGlG0jzDmNOXhBWkylszcI4i/TALFA==;TLiswt1nZgsUg+D4R+4/Bw=="
 ---

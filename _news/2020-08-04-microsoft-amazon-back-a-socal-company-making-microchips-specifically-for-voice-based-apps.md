@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/08/04/microsoft-amazon-back-a-socal-comp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/04/microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps/amp/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: TechCrunch
@@ -28,6 +28,19 @@ images:
     width: 1024
     height: 558
     isCached: true
+
+related:
+  - title: "Microsoft invests in AI chip company Syntiant's $35 million Series C funding"
+    excerpt: "Microsoft Corp. was one of the lead investors in Syntiant's $35 million round of Series C financing. The Irvine, California-based firm said Microsoft’s (Nasdaq: MSFT) venture fund M12 and Applied Ventures LLC, the venture capital arm of Applied Materials ..."
+    publishedDateTime: 2020-08-04T18:19:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/08/04/microsoft-invests-in-ai-chip-company-syntiants-3.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/08/04/microsoft-invests-in-ai-chip-company-syntiants-3.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/08/04/microsoft-invests-in-ai-chip-company-syntiants-3.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 51
 
 secured: "WUQBOlBgcEdKqybtx0cQl9aw4r9I7iTQiqY/dtD/KEE7fCWPPZOxwE65S3pnnUDLc/AtWecME08Rw7WPJMGDgW6yFXiz+WhxJSzsBLpmkp1nTor5Eu1gh6nRodzWw61vrpio85KhUcoJT7146I06LypxSLddS51EGNZCiBKbQUqg717B81XoaKNn/7PhbkNNH66qMVCeuIlmKGVQCEPncVeSVVXVFHW6RfwyqZ1/3RD6hEAxaq9FmDaae9ORpw0FNF4pumRFDo8yPfFq6uDnX6CFkwO3pKeOM6e2H3O9K1T6JF9+X2thzsubLPZ9y+e/M2pLfW0pBfPVbqRCtbmvRg==;T4qjKig9r0c5W9H0/mdGRQ=="
 ---

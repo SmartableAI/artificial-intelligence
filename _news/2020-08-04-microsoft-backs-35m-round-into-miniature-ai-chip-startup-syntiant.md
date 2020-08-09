@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-04T23:30:00Z
 webUrl: "https://siliconangle.com/2020/08/04/microsoft-backs-35m-round-miniature-ai-chip-startup-syntiant/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 96
+published: true
 
 provider:
   name: SiliconANGLE
@@ -39,6 +39,38 @@ related:
         width: 726
         height: 596
         isCached: true
+  - title: "Syntiant announces $35M funding for edge AI chips after shipping 1M units"
+    excerpt: "Syntiant Corp., the maker of small, energy efficient voice and sensor chips, has completed a $35 million C series investment round. On the same day executives announced the private placement, they"
+    publishedDateTime: 2020-08-07T18:53:00Z
+    webUrl: "https://www.biometricupdate.com/202008/syntiant-announces-35m-funding-for-edge-ai-chips-after-shipping-1m-units"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 53
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/07142616/Syntiant-Corp-NDP100-microwatt-chip.png"
+        width: 876
+        height: 533
+        isCached: true
+  - title: "Syntiant Finds $35M More For AI Chips"
+    excerpt: "Irvine-based Syntiant, a developer of processors used for artificial intelligence applications, has raised $35M more in the company's Series C funding round. The round was led M12, the venture capital investment arm of Microsoft,"
+    publishedDateTime: 2020-08-04T17:58:00Z
+    webUrl: "https://www.socaltech.com/syntiant_finds_3_m_more_for_ai_chips/s-0080185.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 34
+  - title: "Syntiant Finds $35M More For AI Chips"
+    excerpt: "Irvine-based Syntiant, a developer of processors used for artificial intelligence applications, has raised $35M more in the company's Series C funding round. The round was led M12, the venture capital investment arm of Microsoft,"
+    publishedDateTime: 2020-08-05T19:26:00Z
+    webUrl: "https://socaltech.com/syntiant_finds_3_m_more_for_ai_chips/s-0080185.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 34
 
 secured: "6+9nUgzcY5EXadbP3AmWC6bfeapya2/n7fUXDwgl+p1gOt83RCJzz+kJuIz3+MQvXhuLHcuGgx5jQMP+eCx3b8NwjAnpUjQMf/PwN211xBdasJOtK7rgRbMaJvwKKZvYBntJOWqTfmPsJKj4HkUWJFkJqVWse06Snk5XbmkVI81Hsu6Zm3x0TYgsNhGUBfIxiLXygQiMHeg+8SSVpz8iQrgCl9eKBgY2W6ocTy4AtBCNklsNq5ckpb/zRU1cnrMrFgq3Y0nFSjA6mp7H9nHL5kathO6y5AAMgJgiTpnkTE8BU9ddQu61pyWWxo3TCei5MsOyIFZqI2HqXWbtjp8f/Ni1bqzLvtu8RKUj6dlvVw9ll4Z2OBPNbTN7r/DKCbx73vJpeiqThDAQGALoAlX5/tkoaj7xbtcuHw60YIHtBvw/XW1NdwFrFlNja2uDKv/1HZHV18JNi6ew7VZvJbT8T33LOn56GY8BAP3b5jjLmw5Zouz3zHESErKSEwioWD4DAAq1Ueh7nqgjwcrsyGPKDQ==;Tkjvq4yP8QDM6jiDqSLjhA=="
 ---

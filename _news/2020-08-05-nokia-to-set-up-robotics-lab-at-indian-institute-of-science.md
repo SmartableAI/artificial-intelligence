@@ -8,8 +8,8 @@ ampWebUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-insti
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Your Story
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nokia to set up robotics lab at Indian Institute of Science"
-    excerpt: "Nokia Center of Excellence (CoE) for networked robotics will promote interdisciplinary research involving robotics, advanced communication technologies and artificial intelligence"
-    publishedDateTime: 2020-08-04T12:27:00Z
-    webUrl: "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2020/08/04/600x338/2020-06-30T092400Z_457483931_RC2LJH910Z5H_RTRMADP_3_NOKIA-FRANCE-LAYOFFS_1596543432399_1596543467201.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Nokia sets up robotics for ‘social good’ lab at Indian college"
     excerpt: "Dubbed the ‘Nokia Centre of Excellence for Networked Robotics’, the center will serve as a hub for research into robotics, advanced comms tech and AI."
     publishedDateTime: 2020-08-06T02:53:00Z

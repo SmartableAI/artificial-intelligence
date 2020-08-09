@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digital Assistants in Global Healthcare Markets, 2020-2025 - Industry to Witness a CAGR of 33.7% Over the Forecast Period"
-    excerpt: "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33."
-    publishedDateTime: 2020-08-04T11:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/digital-assistants-in-global-healthcare-markets-2020-2025-industry-to-witness-a-cagr-of-33-7-over-the-forecast-period-1029466100"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
 
 secured: "yK/nq34uIhr8nMKOCL7O8MJmdyyGs6AnILSMBtnN1uDxw3hBpXcKMUcsNi65xujgpfGlPb9J8lPvmL1TND3aTpFsDIRKJqi/TYH4bYAJwAafR7rwM/WMuFajDQ57UEcWr4JOHCPeOroSz3OTb2Yd+LHdYk4KLXd1/qp7DK7dTmBj0xO264ZZ0sBaClC+QjpyRGdNg7RYEo8X5jx9ad7EZrgOds4Y1GzzoW0aV1MzP1lPx4dWonlpZYdvBRsJgMl+x82zqcNd8XTnIumNJ2/+6U8qTNzwDxDaZGEx2dThTMCog8qqkZGcY3brdr7xz+vthOUWzAUx8AEMXqZYYJfGuA==;yP6ELCTMxilCKvq2amcMbQ=="
 ---

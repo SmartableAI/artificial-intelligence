@@ -8,7 +8,7 @@ ampWebUrl: "https://www.milforddailynews.com/news/20200808/column-reason-were-af
 cdnAmpWebUrl: "https://www-milforddailynews-com.cdn.ampproject.org/c/s/www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots?template=ampart"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
