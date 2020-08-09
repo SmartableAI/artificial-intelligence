@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-t
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1020
         height: 721
         isCached: true
-  - title: "Machine learning: foe and friend for market surveillance"
-    excerpt: "The rise of machine learning in trading is posing new challenges for market surveillance, but the technology could also be a useful tool for identifying abuse risks, according to a report from the FICC Markets Standards Board (FMSB). The increased use and ..."
-    publishedDateTime: 2020-08-04T17:48:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36335/machine-learning-foe-and-friend-for-market-surveillance"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "KH5NQfiHqlbUy9kdHbY5CetWPwZeZhtyheG2bLqzv0nxvMwfPunzNjgojoYN92dgCFEa8EzQ2rwkr6JpQdQfnneET/evW7OWmhwZXG089Fc/wAa5/FaVj3BS9KGJWNXOKezTx05q/MurvyVT8msOQRkb1OdkoPzrlkFbCqALOJxeInilclj25lrOWj4aezesEJmYIK7IhSQmF9GTrSyVL+QFUEKS0TE0AwDd+7nOHUjSgK+1rW6qajfTU6AXfWOwFDCfPpeTpup1g8bC9xseFrPRlxjJiDyHUsdjvC64h7Bk48kNDyyiX3P3IOINd5CHyaq9AehvPrWsSWnR7twsc2iVHcXxFVQqftwh2jQUXZ/H+hXmzLeSdBIyaEtv/08QoKOhwyvLdy2HP/MD258qYuJygjjlnWYVRaWTl4hV5p9uoiZRARcphXonmBUCmoOISdBtmuvvg7RowqljHxMCbcy4oP7zqpo6yyoajQ1E6fRo0lzWR25pHuxYBP2VySxG;+q6R2CWbCZpVOKoYXxJn7g=="
 ---

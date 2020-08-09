@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Machine learning research may help find new tungsten deposits in SW England"
-excerpt: "Geologists have developed a machine learning technique that highlights the potential for further deposits of the critical metal tungsten in SW England. Tungsten is an essential component of high-performance steels but global production is strongly ..."
-publishedDateTime: 2020-08-07T15:11:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/08/200807102332.htm"
+excerpt: "Geologists have developed a machine learning technique that highlights the potential for further deposits of the critical metal tungsten in SW England."
+publishedDateTime: 2020-08-07T13:39:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uoe-mlr080720.php"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "eamNIUlJh3mMsERTn9bYHWaic8444yXmAY4zYT3/RaIFZcqISHa7O+J30liu4ySdzdVDLIy6x54/5X3fpCMsBoGWjKwk5EMW2z17Ie/PqYEuLJdo1Xqn/eKJHQ9++8f8dk9/LcOlqgc12i8YjPOY7V476MFUPjwPTNwzfchMHI8DZFBSnyVhxI5wn3+Fqjh609DYKl6u4jgUp+1rDQWd2znQuQ4/5W0ZzNtKJwrzHg7RIpstadhs6InjHFMNByodU0VEPHILPEX21QDchf2GDZE2I8P9RvfI0TRQ0ycCR6GIPQUVSAhr2KDCFVk3PchjtZ3FmkwHYgnQlmogOECawQ==;BMSgc5reNXeBHw3HAcQS8w=="
+images:
+  - url: "https://eurekalert.org/multimedia/pub/web/239721_web.jpg"
+    width: 1440
+    height: 1080
+    isCached: true
+
+secured: "SPtcCR19Iq4stpvEYEqOPjbWNJyH4dnCvYAqVUVnXBDiWeCvMbNdvVY5v5j/7JxwWr+rTT6oc/nzw5xjEPRJkJJajOHNgWG/CtqQCHEqq+u/sq4SPH80xsuc/JYWIMEqA/EDR/4Ou+T2EhK17E6G7MdawhzE38X7cvKP8BlwmcViC2dto2fC2YvbYPbvdWjV/WMpzrpQOAK3aVB+OkCrQ1dU0bUQfFrb3TLZFXW0FRMyeEBONYrS4dTwa+oH2VyIZm3sit1OySsiBQ7dKoxnxR3xB6x4QpkIuLN0gdmVt00BpMyQUYApYd/QVAJmHyprAVFsK5xH49oVlVrnYyIatw==;kEODq0huS2AAwaIdM9zCQg=="
 ---
 

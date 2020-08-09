@@ -45,6 +45,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 0
+  - title: "Everest Re Group Ltd (RE) CEO Juan Andrade on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "Q2 2020 Earnings Conference Call August 06, 2020, 10:30 ET Company Participants Jon Levenson - Head, IR Juan Andrade - President, CEO & Director Craig Howie - EVP, CFO & Treasurer John Doucette - EVP,"
+    publishedDateTime: 2020-08-09T11:09:00Z
+    webUrl: "https://seekingalpha.com/article/4366618-everest-re-group-ltd-re-ceo-juan-andrade-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "IAoyqhBAK9QTP4zuA2SlFn3NLTA9mm/MisWzaw0ehzGJnrZxlUxX/YiUN55xwaq/r/X6GF0FyJIV+rkjAqamDFNyPkumefcUJNBtfZavlFS7Vc+owYFHRyAWZuu+9QRpzwRTPwzIKec81smWtOC0aysSt9mJSG7c1SRa03s0qUPHn5Xzd0yC3SL8pZZhndG1g8fPOKAFmFNihr8SHNIKsGgcQiTxJ2rOjcN+zJIsrBjb3GKUGM6F04S461jfaCWVi+bKDWAeqk3B2/NQpMPVZW1sLcsDq5bBH0i0Cs/9fNQzEsvvAX3/rIEp4yvWZ1YnXmsT9krinRdsMcZ5XxMq7g==;XKdISJOnytKAPVyL5kgHWg=="
 ---

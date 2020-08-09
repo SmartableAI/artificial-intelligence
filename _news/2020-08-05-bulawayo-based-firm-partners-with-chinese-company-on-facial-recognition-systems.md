@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "A new Senate bill would ban corporations from using facial recognition without people's explicit consent"
-    excerpt: "If passed, the bill would wipe out much of the business of controversial facial recognition companies like Clearview AI."
-    publishedDateTime: 2020-08-04T18:54:00Z
-    webUrl: "https://www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/5f298ebede1e9651da0e22dd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Merkley, Sanders introduce bill limiting corporate facial recognition"
     excerpt: "Sens. Jeff Merkley (D-Ore.) and Bernie Sanders (I-Vt.) introduced legislation Tuesday aimed at limiting the corporate use of facial recognition technology."
     publishedDateTime: 2020-08-04T22:51:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-08T11:31:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-2020-growth-outlook-microsoft-google-ibm-amazon-web-services-ipsoft-2020-08-08"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI in Fintech Market Outlook 2027, Analyzed by Business Growth, Industry Analysis, Market Dynamics and Development Trend"
-    excerpt: "Aug 04, 2020 (CDN Newswire via Comtex) -- Data Bridge Market Research published a new report, titled, \"AI in Fintech Market Global Growth, Trends, Opportunities and COVID-19 Impacts\" AI in Fintech report is a definitive solution for sound decision making ..."
-    publishedDateTime: 2020-08-04T18:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-outlook-2027-analyzed-by-business-growth-industry-analysis-market-dynamics-and-development-trend-2020-08-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "UTLVN1UwmoqQXE1kJtAW7lR+xHaFpENr9iTeJrbO0eWDWsZE8Zo6EHiL4x/z5axk2cyxVwAfOqdJ32MVha/pGkcFa4YWBK69eEDBXGt2nOeaazvHSZFHDDedLr8FWyxQrkV9mvs2kRSjD82F0g1JFK61B+ySlsItU9njGYaHCTxoywVjkI2upASLV4ZmLBurWZArgP7dskPTRrffGR2wkB+8hqbrQd3AZaWVr6q+z09Gh6YeE7mc4BUoCLma1C6ap3R9g5E54rCP0HUAo86EhzjgWVGvusCn0FDAmQ9gy3+EbaPljlZ8S3tuRuAwZ7FwNeFAG69SpIqKY659juR9PA==;PxrdffsChbThNXzqVV75FQ=="
 ---

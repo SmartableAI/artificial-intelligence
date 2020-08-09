@@ -28,47 +28,60 @@ images:
     isCached: true
 
 related:
-  - title: "Emotion Detection and Recognition Market to Witness Promising Growth Opportunities During 2020-2028"
-    excerpt: "This detailed market report focuses on data from different primary and secondary sources, and is analyzed using various tools. It helps to gain insights into the market’s growth potential, which can help investors identify scope and opportunities."
-    publishedDateTime: 2020-08-07T01:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-to-witness-promising-growth-opportunities-during-2020-2028-2020-08-06?mod=mw_quote_news"
+  - title: "University of Chicago researchers are building a tool to protect your pictures from facial recognition systems"
+    excerpt: "The big picture: Face recognition is quickly becoming one of the biggest threats to our privacy, with many startups looking to create commercial services around this technology while exploiting the immense number of photos we've uploaded online. There is a ..."
+    publishedDateTime: 2020-08-04T19:55:00Z
+    webUrl: "https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-04-image-16.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
-    publishedDateTime: 2020-08-08T03:31:00Z
-    webUrl: "https://apnews.com/07cf0c568e784ed79333d3f3ce53bde2"
+  - title: "University of Chicago researchers create tool to block facial recognition technology"
+    excerpt: "\"Fawkes takes your personal images and makes tiny, pixel-level changes that are invisible to the human eye, in a process (called) image cloaking.\""
+    publishedDateTime: 2020-08-05T17:48:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2020/08/05/university-of-chicago-computer-science-researchers.html"
+    ampWebUrl: "https://www.bizjournals.com/chicago/news/2020/08/05/university-of-chicago-computer-science-researchers.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/chicago/news/2020/08/05/university-of-chicago-computer-science-researchers.amp.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Machine Vision Market 2020 Global Opportunities, Industry Size, Growth, Development Status, Segmentation and Regional Forecast to 2022"
-    excerpt: "Machine Vision Market 2020 Global Opportunities Industry Size Growth Development Status Segmentation and Regional Forecast to 2022"
-    publishedDateTime: 2020-08-07T11:30:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/265944313/machine-vision-market-2020-global-opportunities-industry-size-growth-development-status-segmentation-and-regional-forecast-to-2022"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 32
+  - title: "UChicago Researchers Made a Photo-Editing Tool That Hides Your Identity From Facial Recognition Algorithms"
+    excerpt: "More than 100,000 people have downloaded the free tool, which \"cloaks\" faces in photos, protecting people's identities from illegal data mining."
+    publishedDateTime: 2020-08-06T19:52:00Z
+    webUrl: "https://www.builtinchicago.org/2020/08/06/uchicago-tool-hides-facial-recognition-fawkes"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
+      name: Built In Chicago
+      domain: builtinchicago.org
+    quality: 21
     images:
-      - url: "https://cdn.bignewsnetwork.com/voa1596800122.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/2020-08/Screen%20Shot%202020-08-06%20at%2011.16.44%20AM.png"
+        width: 1091
+        height: 587
+        isCached: true
+  - title: "Facial-recognition could be coming to your office. Here's how companies are pitching the tech to landlords and trying to allay privacy concerns."
+    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
+    publishedDateTime: 2020-08-07T19:31:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
+    images:
+      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "nfjuB0lOKRn/5WvFUZ+wKndGlUgX6e3tFW9On/9ncrRZFFknWJL8O5doa17XwpEYEJNpTG6jTeI48+V1/ihIFVeKV0wT41Gv2kPdgq025O60f4rQGCPDoEA095t+X0rTnVRIJlZrYESub6rF6csTyQ5Xd4n5wrNudWa1wgnDriLVnDhDWyMq2mVBNLHimAtz6m26f5WRth8oc5sZZpyO8x7nU7tGtfzVMqbsmeRCBPJdXsuEEQU2gSv3ajSIiE0E6LpzvCFDhtrXNTzAk9RBdC84dwvc8g3srhKgEIuOTdG0VZAPD/XPi3BCb5xv4tpeNBQgyzb9iOLKhqBe4+VypwQ//CnxFK+x2D3Zw74yrNoiUr495CL65pDoDEUGlcFu6fXwljC/U6Mv6vnxjvo523YhLDjmhtc0QQeGusitB2+FOOjJNE2nXMB7043RUFB9K2hto+eFY5LrvKEvg/01yoKlYpZl6S8EoXXyrBeNf9wlTIKNRT2PM8HqHi9X9Jihr8BZ8mXhVmbBa6k8DSCaww==;wr/X1kqiurvnTWw8/fobQw=="

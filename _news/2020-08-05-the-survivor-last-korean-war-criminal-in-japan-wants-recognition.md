@@ -8,7 +8,7 @@ ampWebUrl: "https://dailytimes.com.pk/649603/the-survivor-last-korean-war-crimin
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/649603/the-survivor-last-korean-war-criminal-in-japan-wants-recognition/amp/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -18,24 +18,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "The survivor: last Korean war criminal in Japan wants recognition"
-    excerpt: "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo."
-    publishedDateTime: 2020-08-04T17:29:00Z
-    webUrl: "https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25002W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25002W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528231197&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7301C"
-        width: 799
-        height: 545
-        isCached: true
 
 secured: "eEXn51GqtuxX3YSSbGR9J/eLVQ6NXtTi/u2EOKyDvBWaEUYDkbkHDzrWAGjmPv1rO3NCM0mDEskuoinu4pvskKG/VRkCKwpW8tHtgdMeaQ05KmcO90lgpXbmaCqGHT0zM3GukVwKp6/ehMaVMgivIe8IXHol1885NfXobQb9VkU+PgVSyNKD8hySP83sU0yc2qqIDUcP83yoedbDadw+HvA/JxpnBAyhvFH5dYHlCtIWzHSDlQ/XjeK66rgrPFpLduTQkyOmbBpp8iaDNbfsq/RxWIKdLizLmwmi5sH6eoOZh5soN9eFwqcevg2JJUHr0UuV5etTWQyjMv5RBT41xQ==;h5zWJPRBCi/auBc7Isd59w=="
 ---

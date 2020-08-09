@@ -54,15 +54,6 @@ related:
         width: 1020
         height: 721
         isCached: true
-  - title: "Machine learning: foe and friend for market surveillance"
-    excerpt: "The rise of machine learning in trading is posing new challenges for market surveillance, but the technology could also be a useful tool for identifying abuse risks, according to a report from the FICC Markets Standards Board (FMSB). The increased use and ..."
-    publishedDateTime: 2020-08-04T17:48:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36335/machine-learning-foe-and-friend-for-market-surveillance"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "7mB4m6K5Hin8boav53FzXVdSVT0cojgY1PNzv0oO60amBiPHdXyCikmsHu88rQy5mb6wiKR6fztD0fdz+yJTDgmOz+HxioBbHHrlvQxQMal7VDbrcotn3Senz8WW2rb5lnZYvI6V/6kVuJSkJDyPubHDwCdp6woXhJgFJrQn03sWvMDHtBzfB8X3ogl+PVdgs4OV1prD5BlvU1ocDX6jIQ1d3OJmS/3svOrMXWNP2UGOt5AmOHIPI7Iz2EQQCoFl5qMowuMQzrPq4top3KSFDKk0YrInhW7Q0Femu8JcE+g75hLLWLjSnIkIG2zAmLH53n50iXG3HcTZwJb+pXM1I5DYRM/ZBBAbsT6ZMMzdD3Zn0Qfy01OdYT7Q4GIbyuXLvdo+tJaimtzNadR7Kgn4Pnp1NqU93qryL7WGgvsGoIbWIPc32W7LE5ZnBfaWJjIopbHW/bfdd/Du9N+fxlsWHQ02S5u6AZmXllLfCBZQsZbSdqomwl9bG8TveASCt2Jt;iqlXIFyhZPvhRK4gOBZ+Fg=="
 ---
