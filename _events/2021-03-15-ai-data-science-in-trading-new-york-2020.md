@@ -4,8 +4,8 @@ excerpt: "AI & Data Science in Trading brings together experts in the use of AI 
 originalUrl: https://www.aidatatrading.com/
 website: https://www.aidatatrading.com/
 type: conference
-startDateTime: 2021-03-15T09:00:00Z
-endDateTime: 2021-03-17T17:00:00Z
+startDateTime: 2020-10-01T09:00:00Z
+endDateTime: 2020-10-01T17:00:00Z
 location: "New York, NY"
 
 provider:

@@ -221,6 +221,35 @@
       ]
     },
     {
+      "path": "_events/2021-10-01-ai-data-science-in-trading-new-york-2020.md",
+      "title": "AI & Data Science in Trading New York 2020",
+      "excerpt": "AI & Data Science in Trading brings together experts in the use of AI and advanced data analytic techniques within asset management, primarily for finding alpha, managing risk and optimizing portfolios.  Initially exclusively used by analysts within quantitative firms, automation and outsourced tools are allowing fundamental firms to benefit from these techniques -  providing new insight for their discretionary strategies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2021-10-01-ai-data-science-in-trading-new-york-2020/index.json",
+      "webUrl": "https://www.aidatatrading.com/",
+      "originalUrl": "https://www.aidatatrading.com/",
+      "name": "AI & Data Science in Trading New York 2020",
+      "type": "conference",
+      "startDateTime": "2020-10-01T02:00:00-07:00",
+      "endDateTime": "2020-10-01T10:00:00-07:00",
+      "location": "New York, NY",
+      "website": "https://www.aidatatrading.com/",
+      "provider": {
+        "name": "aidatatrading.com",
+        "domain": "aidatatrading.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://plsadaptive.s3.amazonaws.com/eco/images/logos/a6zxkHCMS4PWWwq1V1GzGJcqHatPbWwNw2Uh68Uq.png",
+          "width": 800,
+          "height": 600,
+          "isCached": true
+        }
+      ]
+    },
+    {
       "path": "_events/2020-10-05-middle-east-banking-ai-analytics-summit-dubai-2020.md",
       "title": "Middle East Banking AI & Analytics Summit Dubai 2020",
       "excerpt": "3rd Edition Middle East Banking AI & Analytics Summit brings together 300+ senior-level executives & decision-makers from the Banking and Financial Services sector along with all that's top of mind for those in Artificial Intelligence, RPA, Machine Learning, Big Data & Analytics.",

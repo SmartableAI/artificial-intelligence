@@ -341,6 +341,35 @@
       ]
     },
     {
+      "path": "_events/2021-10-01-ai-data-science-in-trading-new-york-2020.md",
+      "title": "AI & Data Science in Trading New York 2020",
+      "excerpt": "AI & Data Science in Trading brings together experts in the use of AI and advanced data analytic techniques within asset management, primarily for finding alpha, managing risk and optimizing portfolios.  Initially exclusively used by analysts within quantitative firms, automation and outsourced tools are allowing fundamental firms to benefit from these techniques -  providing new insight for their discretionary strategies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2021-10-01-ai-data-science-in-trading-new-york-2020/index.json",
+      "webUrl": "https://www.aidatatrading.com/",
+      "originalUrl": "https://www.aidatatrading.com/",
+      "name": "AI & Data Science in Trading New York 2020",
+      "type": "conference",
+      "startDateTime": "2020-10-01T02:00:00-07:00",
+      "endDateTime": "2020-10-01T10:00:00-07:00",
+      "location": "New York, NY",
+      "website": "https://www.aidatatrading.com/",
+      "provider": {
+        "name": "aidatatrading.com",
+        "domain": "aidatatrading.com"
+      },
+      "topics": [
+        "AI"
+      ],
+      "images": [
+        {
+          "url": "https://plsadaptive.s3.amazonaws.com/eco/images/logos/a6zxkHCMS4PWWwq1V1GzGJcqHatPbWwNw2Uh68Uq.png",
+          "width": 800,
+          "height": 600,
+          "isCached": true
+        }
+      ]
+    },
+    {
       "path": "_events/2020-09-30-data-science-salon-seattle-2020.md",
       "title": "Data Science Salon Seattle 2020",
       "excerpt": "Machine Learning and Artificial Intelligence Conference in Retail and eCommerce The data science salon is a unique vertical focused conference which brings together specialists face-to-face to educate each other, illuminate best practices and innovate new solutions in a casual atmosphere with food, great coffee and entertainment. Data Science Salon Seattle is the only vertically-focused industry conference series around applications in AI and Machine Learning in Retails and eCommerce.",
@@ -722,39 +751,7 @@
           "isCached": false
         }
       ]
-    },
-    {
-      "path": "_events/2019-12-08-neurips-2019.md",
-      "title": "NeurIPS 2019",
-      "excerpt": "The 33rd annual Conference on Neural Information Processing Systems brings together researchers from all fields engaged in fundamental work in Machine Learning and Artificial Intelligence to enjoy a week of talks, panels, workshops, demonstrations, and competitions.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2019-12-08-neurips-2019/index.json",
-      "webUrl": "https://nips.cc/Conferences/2019",
-      "name": "NeurIPS 2019",
-      "type": "conference",
-      "startDateTime": "2019-12-08T08:00:00-08:00",
-      "endDateTime": "2019-12-14T18:00:00-08:00",
-      "location": "Vancouver, BC, Canada",
-      "website": "https://nips.cc/Conferences/2019",
-      "provider": {
-        "name": "nips",
-        "domain": "nips.cc"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "tags": [
-        "Academic Conference"
-      ],
-      "images": [
-        {
-          "url": "https://media.neurips.cc/Conferences/NeurIPS2019/Poster/NeurIPS-2019-Poster-Thumbnail.jpg",
-          "width": 510,
-          "height": 660,
-          "title": "NeurIPS 2019",
-          "isCached": false
-        }
-      ]
     }
-  ]
+  ],
+  "nextPage": 2
 }
