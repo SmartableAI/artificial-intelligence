@@ -2,6 +2,38 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-08-aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india.md",
+      "title": "AWS-powered Covid-19 diagnostic tool seeks lung scans from India",
+      "excerpt": "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-education-uhikPSdgdddhc.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/news/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-education-uhikPSdgdddhc.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-education-uhikPSdgdddhc.html",
+      "publishedDateTime": "2020-07-08T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights.md",
       "title": "Accelerating innovation: How serverless machine learning on AWS powers F1 Insights",
       "excerpt": "FORMULA 1 (F1) turns 70 years old in 2020 and is one of the few sports that combines real-time skill with engineering and technical prowess. Technology has always played a central role in F1; where the evolution of the rules and tools is built into the DNA of F1. This keeps fans engaged and drivers […]",
@@ -1339,47 +1371,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-databricks-donates-mlflow-project-to-linux-foundation.md",
-      "title": "Databricks Donates MLflow Project To Linux Foundation",
-      "excerpt": "MLflow is available on Azure and AWS as a managed MLOps platform which comes with tight integration with Azure ML services and Amazon SageMaker. With MLflow project becoming a part of the Linux ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "publishedDateTime": "2020-06-25T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

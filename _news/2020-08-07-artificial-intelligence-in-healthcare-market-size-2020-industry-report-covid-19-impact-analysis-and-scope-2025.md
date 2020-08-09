@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI in Manufacturing Market 2020-2026: COVID-19's Impact on the Industry and Future Projections"
+    excerpt: "The \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-08-07T19:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
 
 secured: "NOcXIrqyeXSSLbeYGVNVo+/wwtLg2hr2d6ho2P+7JKg+B6yBn3qr07oeKEIXVMwX+Ce20JCDass91wt6jTsgFnxDNBF3I4rZ7Rwbyxpi1ElrwsPKP7uWy5pqeW0130eb1VbQHKWgf1TpH95cJxX/m1JUCjaLFhibd9QMiGklWZpv5oU7voM1eloH6GFjThReeB+dI4m9JeXysaSRcCPyyjxUeL/dyFm+dnlYSzWdfq99Xy/TgDDxSXxBM7DWJK35bWt+GqcjzCqtazaA+G3SchJO16m6dKWz+1MJaZEkwOb2UB8UikX3vUjM3Ts9T7TTqFg/mZQtOu0wCIFDwtMleQ==;CteRnqJnfnAu2AFFa1/oKw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T16:02:00Z
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21149050/senate-bill-would-place-limits-on-use-of-facial-recognition-other-biometrics-by-private-companies"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 866
     isCached: true
-
-related:
-  - title: "Merkley, Sanders introduce bill limiting corporate facial recognition"
-    excerpt: "Sens. Jeff Merkley (D-Ore.) and Bernie Sanders (I-Vt.) introduced legislation Tuesday aimed at limiting the corporate use of facial recognition technology."
-    publishedDateTime: 2020-08-04T22:51:00Z
-    webUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/sites/default/files/merkleyjeff_071119gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
 
 secured: "lGmM/Y8oZmZqGItCT6AvA40DxZ4729XOGtHsCknd3cuyVCOeOQGSk/3NIRMXOiqrGraxTIvJMezAX20yEN+c164H/PwFUOHuwPPJr5VkAdjSfkwlmBQNkIv9BBNeVONnuDgK0fU/nwv5scH9YPXxxE4bz65QAZfnoRErLTUp7K52JwvCfNX2ZuK492s7wVdaWVdZCQrxLDekJzJE4RAXREJP/bd+U1ppab4yK22w9kZyYFRQPnHBOJxBUNW2W1flxbWY/ueomZUT/2Z+/JNsJE9aNCVXyay5YbznzDYTOS41PsyHAL4KQvSYnP6YJK64yePNakBN9dOSPu91OGoK5Y2Fi1HitpDbnddvatnUMy8RmaT5bbdBWlG0NPMzNpMhQJyNXaW2oPsHcBphK+5Yq9RlffdSed0cApj3WLMFsQ88HQsKJu/uMr0VZsdt4R1HBzKG7T75YTxLZeFShAMPlVhKH+qtTKt0h8+tgdI4/y0gWmdzsysyF0nhOUTVtawCosf4+td/3O8PSMRrM7IoEw==;DbSGwvmhqE8V46158Weh8Q=="
 ---

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "IBM and Influential Launch Watson Advertising Social Targeting Solution"
-excerpt: "IBM is expanding its collaboration with social media technology provider Influential to help companies identify suitable influencers."
-publishedDateTime: 2020-07-30T19:28:00Z
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/IBM-and-Influential-Launch-Watson-Advertising-Social-Targeting-Solution-142117.aspx"
+excerpt: "IBM has launched Watson Advertising Social Targeting with Influential, a solution that harnesses artificial intelligence (AI) to help companies identify influencers that best align with their brand values. The new solution within the Watson Advertising ..."
+publishedDateTime: 2020-07-30T16:00:00Z
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142117"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 580
     isCached: true
 
-secured: "aLGeMTPc6mZGhosYUXYVUe8xhwLQte9Pw14jvh9/ekgPkpAWNNPb8V6mxplO0xVFSUu+3HfZ6hJ5ezNhQueKqTSOKBRk/fG3ZMm9sSCz6ieSA2L/nlDGRG1UwIgSm/BRKu2fz1/Xb/IHvqJ/TODNReoNPa7o9svaBEwYISEkjRy1K4fFuV3xwkAxlCQRkZu4BLEJh0Ia82j6H4pNbMU0M/pPvc6HU/kcfsMH0cjuM64My7+uz/B6L9ytQSAkX+EH01Bj8FwzFB9u0dqzKtwA/K312yTf4a2fLK2kpnlkCoVU231Km/cr6SK0iMOFSoWSEe4rmZeZfRARqwOx88EylQ==;qkT1QhfHLH7iQ8ZZ6y9WQQ=="
+secured: "zDoA825EwEG+x+2kA5+VJzpqOPeuLAoRD2laNOx3SWQKkOVrxGjJZjCrW4iO5y+AnPpEf5pseMq06xqibNG90kO84PxoEx0/GLOGmS8lppT0zdytOyp/DyrhkWrLaxHNzU1sPYegd5pD1hPjB54UHy8mbNNaI6TqfI09Bl7iE6LPiAHk3zCWRtML8IIBHkmyNZsYLKSiqlfqEZaWsBLfNx2+cVAoTHM7l1/ck1U7841v62G9Snq4Ct5EztjRkXNw+9lJqFITnrxJcBYX0MNUmfkU1bd1DQTDocl3oXm58gKU7cxvf86JEht8KXop3PbkNaMiRNJ/f+fqhQn/DJirzA==;/iTLcnaV3yELHYwbcmvbSQ=="
 ---
 

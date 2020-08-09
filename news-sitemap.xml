@@ -463,6 +463,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/safely-deploying-and-monitoring-amazon-sagemaker-endpoints-with-aws-codepipeline-and-aws-codedeploy/</loc>
+    <lastmod>2020-08-04T16:06:58-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025-2020-08-04</loc>
     <lastmod>2020-08-04T15:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1099,12 +1105,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/IBM-and-Influential-Launch-Watson-Advertising-Social-Targeting-Solution-142117.aspx</loc>
-    <lastmod>2020-07-30T12:28:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985</loc>
     <lastmod>2020-07-30T12:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1161,6 +1161,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/</loc>
     <lastmod>2020-07-30T09:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142117</loc>
+    <lastmod>2020-07-30T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1879,6 +1885,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/il/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html</loc>
+    <lastmod>2020-07-27T13:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.oaoa.com/news/business/datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data/article_569ca5a7-fd83-5731-9fdf-72c42ac6e678.html</loc>
     <lastmod>2020-07-27T11:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1971,12 +1983,6 @@
   <url>
     <loc>https://insidehpc.com/2020/07/transform-raw-data-to-real-time-actionable-intelligence-using-high-performance-computing-at-the-edge/</loc>
     <lastmod>2020-07-27T06:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html</loc>
-    <lastmod>2020-07-27T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

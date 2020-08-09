@@ -23,29 +23,57 @@ topics:
   - AI
 
 related:
-  - title: "Global Edge AI Chips Market 2020 by Key Players, Regions, Type and Application, Forecast to 2025"
-    excerpt: "Global Edge AI Chips Market Growth 2020-2025 determines the views and opinions expressed by the consumers. The report gives the estimation of the trends, which are based on the present, future market analysis."
-    publishedDateTime: 2020-08-04T22:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025-2020-08-04"
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026"
+    excerpt: "The Zion Market Research added a new report \"Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026″ in its database,"
+    publishedDateTime: 2020-08-07T12:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Vehicle Speech Recognition System Market Analysis, Trends and CAGR Projections 2020-2026"
-    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
-    publishedDateTime: 2020-08-04T22:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-analysis-trends-and-cagr-projections-2020-2026-2020-08-04"
+  - title: "Artificial Intelligence in Healthcare Market Size 2020 | Industry Report, COVID-19 Impact Analysis and Scope-2025"
+    excerpt: "According to the latest report by IMARC Group, titled \"Artificial Intelligence in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence in healthcare market size experienced healthy growth during 2014-2019."
+    publishedDateTime: 2020-08-07T06:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2020-industry-report-covid-19-impact-analysis-and-scope-2025-2020-08-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Military Artificial Intelligence (AI) Market Insights, Technology Advancements and Global Outlook | 2020-2025"
+    excerpt: "The Global Military Artificial Intelligence (AI) Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue ..."
+    publishedDateTime: 2020-08-07T09:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-insights-technology-advancements-and-global-outlook-2020-2025-2020-08-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Precision Medicine Market Share Current and Future Industry Trends, 2020-2025"
+    excerpt: "Machine learning (ML), deep learning and artificial intelligence (AI) are expanding rapidly as they are finding constant application in healthcare institutions for extracting huge amount of patient data using genomics sequences. AI also aids companies to ..."
+    publishedDateTime: 2020-08-06T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-share-current-and-future-industry-trends-2020-2025-2020-08-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

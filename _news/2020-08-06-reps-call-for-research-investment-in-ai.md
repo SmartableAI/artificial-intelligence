@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T15:45:00Z
 webUrl: "https://bipartisanpolicy.org/report/ai-research-development/"
 type: article
 quality: 137
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -23,6 +23,17 @@ images:
     isCached: true
 
 related:
+  - title: "The Changing Venture Capital Investment Climate For AI"
+    excerpt: "When it became clear less than a decade ago that AI was the latest, hottest place to build companies that could grow from tiny startups to huge public market exits of acquisitions, the VC community got all in."
+    publishedDateTime: 2020-08-09T15:53:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/08/09/the-changing-venture-capital-investment-climate-for-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/08/09/the-changing-venture-capital-investment-climate-for-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/09/the-changing-venture-capital-investment-climate-for-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
   - title: "Cambridge Investment Research Advisors Inc. Has $2.03 Million Position in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ)"
     excerpt: "Cambridge Investment Research Advisors Inc. increased its position in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ) by 16.0% during the second quarter, according to its most recent Form 13F filing with the SEC."
     publishedDateTime: 2020-08-07T11:44:00Z

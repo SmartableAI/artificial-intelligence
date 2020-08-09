@@ -2,6 +2,55 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-07-16-shield-ai-rejected-a-pivot-to-selfie-drones-now-its-drones-are-being-used-by-the-military-overseas.md",
+      "title": "Shield AI Rejected A Pivot To ‘Selfie Drones.’ Now Its Drones Are Being Used By The Military Overseas",
+      "excerpt": "The overseas deployment of the startup's drones comes full circle for cofounder Brandon Tseng, who came up with the idea as a Navy SEAL in Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee17ac1194e4200062e8f19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1236%26cropY1%3D185%26cropY2%3D1009",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/amp/",
+      "publishedDateTime": "2020-07-16T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies.md",
       "title": "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
       "excerpt": "Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ® Test uses novel genomics and AI approaches to identify more than 1,",
@@ -1054,56 +1103,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024.md",
-      "title": "Navistar teams up with TuSimple to produce self-driving trucks by 2024",
-      "excerpt": "Navistar and TuSimple deepened their two-year relationship on Wednesday, announcing plans to develop and begin producing autonomous semi trucks by 2024. The strategic partnership includes Navistar taking an undisclosed stake in self-driving trucks startup TuSimple.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/",
-      "publishedDateTime": "2020-07-15T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -70,20 +70,6 @@ related:
         width: 600
         height: 418
         isCached: true
-  - title: "Holt Fintech Accelerator announces 2020 cohort"
-    excerpt: "The 2020 cohort is made up of the following fintech companies: 1. Brazil’s Agryo is an agtech which connects lenders to farmers by combining data and AI modelling to bring better financial services to millions of underserved farming families globally."
-    publishedDateTime: 2020-08-04T22:16:00Z
-    webUrl: "https://www.finextra.com/pressarticle/83586/holt-fintech-accelerator-announces-2020-cohort"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "jUndZYqyeJ1HYcuwZFNBkOyQ2DN4CNWrd+6eZeMr+0kPrGE1N0V6nji2Yj937BQe1DgxWaATUqun1AeTTq1q+KKEepl3KvAjNWRyUnGucGYEqRdKMcl9xjv75QxIDKIW8OhSCEjuzBGr9CgfqpDmF2BaiaN8+Sua5TzYnlIRQPi/KREkDSy5gPwHGDe0z6GZCNHyCbTNYFv4Bfq5JGCe2c6LcSvcVdGiqaN0HUZC46Sg3I9d8OZXFOP1KlRKZOJzX+6kWkE2Y7rHuJT2G7DPy4VVk7hleHapTkbqWCmiNfZM7KR9cfdibLAK7psRWmnQ7cKZQV03kepCewP5FRh83rfCo6xIDBwGxOzg+tbGFipaftqlGCilxwCJnOE2Ms+1Dh2uv7t4mAFRUt+H4gCP5KRK1a7MzIqywJFKbFN3Cl4YhRDptD71iUHuSm062znFZkiqyTG52HU0od3CzRelQYkG/4P+Qd/M/MYhN5nHNJksQbgespfy9RF6BX+yc7HEKOXaIJ3DwxSUkTyXtjeHPQ==;/SSSonZqyuHZiNFEhB5Jfg=="
 ---

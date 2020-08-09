@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-05T19:09:00Z
 webUrl: "https://www.forbes.com/sites/bradtempleton/2020/08/05/self-driving-cars-can-be-a-boon-for-those-with-disabilities/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Project preps traffic for self-driving cars, more"
-    excerpt: "The advanced traffic engineering lab will be located in Holmes Hall. A University of Hawaiʻi at Mānoa College of Engineering pilot project is expected to greatly improve traffic flow through a critical Honolulu corridor, while giving students hands-on ..."
-    publishedDateTime: 2020-08-04T22:48:00Z
-    webUrl: "https://www.hawaii.edu/news/2020/08/04/project-preps-traffic-self-driving-cars/"
-    type: article
-    provider:
-      name: University of Hawaii
-      domain: hawaii.edu
-    quality: 24
-    images:
-      - url: "https://www.hawaii.edu/news/wp-content/uploads/2020/08/manoa-engineering-smart-traffic-lab.jpg"
-        width: 676
-        height: 381
-        isCached: true
 
 secured: "XbiP8rU9eyF68i3ZLkJ9u7Dcu1awZ5M9sySaZxBmhqIo2tamdl8XkRYFMkNDteHWan5QrUoDNz1HwKuVQALLFGCjTjkeWKLhcK7QZt1d5jOcFDw4go9O+H07x6EdycMFostDFXH/Hf1sI5bwIziIrliuXki/L2DTs0u+4H2T+wdy8UalXh4we7DsiqbxzgBrfgDrYN0hKPr1D0V+tZ5Q/h5DS4jbn0TDEJsGRgudMFBYPRztAOEMDHsbzfD2xQp/jBXLifGcqOsUkVNNbrDvLH6eKb+YrMPZMoiPTB43JzQWQ0EUTipAlxqW6A4aPimbtwBlbCwyymZUUil47pkpA2wbjX80S9cmcBtTAB/uybw1pqrY7h+1R2vB5gYZV6StzZvbUEfIdRH0Dl1fJ124dR5NOmkyVdbt392t+9OgTpjYnf4zSp4LUkNAe032xrlx4J3fauMsPA5lVfyNm8ahrmLp4FvPrsDFEL5gVmS8HBaZa4T89MrlvHYO3B2936IlR0C0x45rNUm0NCQYyMoPgg==;3peOcAkJH7uY/QTEGJbRSw=="
 ---

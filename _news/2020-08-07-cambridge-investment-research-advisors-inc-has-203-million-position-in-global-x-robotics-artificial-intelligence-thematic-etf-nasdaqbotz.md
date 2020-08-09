@@ -39,6 +39,17 @@ related:
         width: 700
         height: 468
         isCached: true
+  - title: "The Changing Venture Capital Investment Climate For AI"
+    excerpt: "When it became clear less than a decade ago that AI was the latest, hottest place to build companies that could grow from tiny startups to huge public market exits of acquisitions, the VC community got all in."
+    publishedDateTime: 2020-08-09T15:53:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/08/09/the-changing-venture-capital-investment-climate-for-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/08/09/the-changing-venture-capital-investment-climate-for-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/09/the-changing-venture-capital-investment-climate-for-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
 
 secured: "L7qZ8L6XrOmh29oq9mQl5s82u09k1xuABKlgjAIQtEYCcGaOLhWF+jPvgkC+fWrlQMx/YN4iO8M81G5B3UK9usU6LrHloN1Vxe0eMwPEvAfJM+QKNv7krVP5s3YoUaYvAimBphuNTLV8JYjwY2IK9nnsWQN8VgvKIWvKKf1n74UA0pAfK0PCjDyAbwwRb29TULO+hVyyRS9VLFgAogQMeWXoQw5/3wj6H28jGQczuQ6l5+p/AaFInxkv5DWIeUWL9Ij92AtA05lMJs8JAD82Ie07Ni7qeAFQSc/4LvQV70esFFOG5XrHOPmm3befLsrE54ctnFfN9rhmEo1hr630vA==;l+PxVMUQ8ubL75n14fXWDA=="
 ---
