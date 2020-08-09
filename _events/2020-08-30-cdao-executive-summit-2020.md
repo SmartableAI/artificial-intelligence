@@ -8,7 +8,7 @@ startDateTime: 2020-08-30T09:00:00Z
 endDateTime: 2020-09-01T17:00:00Z
 
 provider:
-  name: opalgroup.net
+  name: Opal Group
   domain: opalgroup.net
 
 topics:

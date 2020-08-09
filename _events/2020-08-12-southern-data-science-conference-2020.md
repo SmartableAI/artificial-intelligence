@@ -8,7 +8,7 @@ startDateTime: 2020-08-12T09:00:00Z
 endDateTime: 2020-08-14T17:00:00Z
 
 provider:
-  name: southerndatascience.com
+  name: Southern Data Science Conference
   domain: southerndatascience.com
 
 topics:
