@@ -77,20 +77,6 @@ related:
         width: 700
         height: 480
         isCached: true
-  - title: "Artificial intelligence-enhanced ECGs may speed heart failure diagnosis and treatment"
-    excerpt: "Electrocardiogram results evaluated with an artificial intelligence-enhanced formula may be able to detect decreased heart function more accurately and quickly than standard blood tests in patients being evaluated in the emergency room for shortness of breath."
-    publishedDateTime: 2020-08-04T09:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/aha-aie073020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ou9gAlxVGdUVwEr/znPUxzBCi43vZEOHZ5bkENSXDEpqBqse+Tae9xHTiL96a8LJp96fiSIx7SO6FLr5b6TyyOqXp+09WhA+BiX7eqGmCTcO0E3qEBqUf0kR5RH0Ftts/vZ0XX5cioHCl18svZezxW1Af/g+GdujaC7NcKlnQLyQ8vXrLYmddsmjvTk4Vtu8EqXbGmCEj+yQoxkVKvmKV6Oxx0OA3yhTSO0zq6LfNSoT31akfAWPrXnrArxdSYybSJaAkMNjyhxk6knlanUeMzl1GNBZuswxQeChHYF6KEt4CG539rZT9a7BBhNch/mQeSnCabOddviyI65XB97PoA==;rnAES2Fij/c7c/hNHqUIQw=="
 ---

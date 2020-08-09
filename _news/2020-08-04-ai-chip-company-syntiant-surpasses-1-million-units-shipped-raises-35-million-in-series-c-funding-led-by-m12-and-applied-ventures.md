@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI Chip Company Syntiant Surpasses 1 Million Units Shipped; Raises $35 Million in Series C Funding Led by M12 and Applied Ventures"
-excerpt: "\"We are now seeing Syntiant deliver on its execution strategy, setting new benchmarks that are unprecedented for a young AI chip company with the volume of products already shipped, and new customers coming on board.\" The company's highly accurate NDPs ..."
-publishedDateTime: 2020-08-04T12:36:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04"
+excerpt: "The company also announced it has completed a $35 million Series C funding round. Microsoft's venture fund M12 and Applied Ventures, LLC, the venture capital arm of Applied Materials, Inc., led the financing,"
+publishedDateTime: 2020-08-04T12:37:00Z
+webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054"
 type: article
 quality: 54
 heat: -1
@@ -88,6 +88,6 @@ related:
       domain: socaltech.com
     quality: 34
 
-secured: "QQgCzRfekGfK4nswL0ZwBzKVDSTuDpUPof0vLKkZ293QxAcme1N4/tnBJtWOfDwGHZnfWZWffMNajIIYI5FCcUKSt9kQWCZqtYoii3cRdJU0ogbB0KNJFGgl5HxMD7GGW30l7CjH6lvjB0wZnLNNc3Nzsk5anbA9ah/crza5N2we2NHsrRujfh7X+FwS4m2OaCI0VyGJffYrqIB6lz61OV/bk7BDUy9/ipAXaYXD+5mFKuNaI2bf8WceNbIUrHO6dDn8KdeIgLVLbM2LysYyYDy9HdYUA4PE2zC8Djg0kq51siEqLMwx7xA/bKBQ840WMG4m2m6BZm9vj8Xkr/hmbQ==;y5nINwAmFd+4PNjF0/zVrg=="
+secured: "atXJ4S85NUaIhLCEBcJapBYBWdrHVP4B9KMjDW1jHr5J69jOy99INec0gGOGeNQ9bsxuD8DNTTIewHCtZrqgQJNbUAaWRATVKpL4IwMaOb98KAZo+JSIOI8JmeI9tpQ5MoxD186WDTXxyRxLU5YkMVaWwJsHl2phj6Ejh6U72GEr39q7ndll6SL9DUEL3z4dkouHlrOWqBmSQMmrGG+JbFG407UyKCVEfRt2TFSxengvj9jSfXqN/MCLYxIzcu9ehCvpRs3BljkcNuHe2JoP8S2Wtrw+KVji9jbVLN7iPl5MCIytAO/FtWMJ+i93wJNdNqooUnOAwvfe+e2VqtUwPA==;8J2qI2K/oG00sQReJ/XVLw=="
 ---
 

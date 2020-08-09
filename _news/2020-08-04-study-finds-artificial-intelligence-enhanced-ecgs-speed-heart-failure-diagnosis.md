@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/science/health/study-finds-artificial-intel
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/science/health/study-finds-artificial-intelligence-enhanced-ecgs-speed-heart-failure-diagnosis/amp-11596539192747.html"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1094058356.jpg"
         width: 700
         height: 480
-        isCached: true
-  - title: "Artificial intelligence-enhanced ECGs may speed heart failure diagnosis and treatment"
-    excerpt: "Electrocardiogram results evaluated with an artificial intelligence-enhanced formula may be able to detect decreased heart function more accurately and quickly than standard blood tests in patients being evaluated in the emergency room for shortness of breath."
-    publishedDateTime: 2020-08-04T09:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/aha-aie073020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Study finds artificial intelligence-enhanced ECGs may speed heart failure diagnosis, treatment"
     excerpt: "When people seek emergency care for shortness of breath, a routine electrocardiogram (ECG or EKG) enhanced by artificial intelligence (AI) is better than standard blood tests at determining if the ..."

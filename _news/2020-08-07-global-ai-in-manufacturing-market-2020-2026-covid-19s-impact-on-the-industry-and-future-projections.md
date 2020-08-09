@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-embedded Digital Instrument Cluster Market By Development, Trends, Investigation 2020 And Forecast To 2026"
-    excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
-    publishedDateTime: 2020-08-04T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-embedded-digital-instrument-cluster-market-by-development-trends-investigation-2020-and-forecast-to-2026-2020-08-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KVOehlCk6NJ9ckLjdWeaTSNTvwQIsGmsa3GeyhD8slcpCp7T2IYbrKCRL+/iaR09HCvq6QntqOm3g1Ov9oFEefOAVr8V7b7vm44taQ29Efdp0VaiXNg0C3SAsDQfxeM1UGOIatfTk+zHw15nc6tMHTGghyZZwAYSGUTPPsc6NYbtr6jRRmtVfSx5yYZiel1rnpIZ/LLb6JRmAFTXUlkZgKyfYCy2hAoI5flpVO9fQ4zsEK6RWLgWANZ5rBbBuygSyMHYGTTT//Zo5tND2VZ2sJlMEdt4254Frr2HfxbW3SrHuu7eA2JwMYMrGQ3xXHoTZH5WA1E9Es8Qn8tWcuIbYA==;rNAYDP20NAbu1nsboWGeug=="
 ---

@@ -2,8 +2,8 @@
 category: news
 title: "DinoEdge AI Platform for Health & Safety Monitoring Solutions"
 excerpt: "The platform features an open full-stack for AI (OSA), including a powerful AI inference engine hardware, driver, API, compiler and optimization tools (AutoML, sparsity and low-bit quantization), support for open source frameworks. The Health & Safety ..."
-publishedDateTime: 2020-07-30T00:00:00Z
-webUrl: "https://www.embedded-computing.com/news-releases/dinoedge-ai-platform-for-health-safety-monitoring-solutions"
+publishedDateTime: 2020-07-30T22:12:00Z
+webUrl: "https://www.embedded-computing.com/home-page/dinoedge-ai-platform-for-health-safety-monitoring-solutions"
 type: article
 
 provider:
@@ -15,11 +15,11 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.amazonaws.com/files.formstack.com/uploads/3411018/76219803/639434961/76219803_dinoedge_scalable_real-time_ai_platform.jpg"
-    width: 2999
-    height: 1687
+  - url: "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f233ed396b28-76219803_cover_design.jpg&size=1&version=1596145650&sig=7ea38959f2da1fe785f0d3b794759236&default=hubs%2Ftilebg-blogs.jpg"
+    width: 500
+    height: 272
     isCached: true
 
-secured: "Q0FDZNYwNJMYSlVB88KIPx6UKW/aYbr5VR8zSnc3bHMravZ3G7T6pRgZ1sJS52a9vkUYvPADgubJGSawXESKVVYdXd5PBCEH2OfAPLOZt2jNqfeBBkjP552+MRtomJRZ2b0bjJCxkMLicpmUF6lOV6kqj7mBacm1HreUtaIB2OuSDyEttOVcXvJB2FuQtqkhYRLKfaynQ68mQLQmHMRyXAb/V/6AeAz5+CB9G1IdcJnKKAXDAakYXXLE74p/+pICbYZxaNKsvWzkyZ30Det/lW7tXg8acDA2YFGLeaRXHvgj9UNTOQd11kYU03NNmlhPwEfgds20k2RBBzxo36r4aw==;NYFUfxYGA/0g61JRVWzAvw=="
+secured: "3g8pzwmbapOGs6Pfqdvt//ikj6aeuaiDbiCcal6eFmFCU0b5Pa7+hIOKmHK27NiacMWPn5Ag5tjdz9zl+duHDAn+lbfo01KxC/4NU/qojap6DcBytBOfnoLtejy1cPGV68l9ByMNGAVFBhtnMb0NDBf2xXCUFY1xJG81EF1l5xjKBxC5D/zIjw8jbPs/Yw2S7U7xjYR0TfdIiWZ48O+VUazDdsDz7aGiEfylAIus/aIqQ19dOGYtIW75/fAHnh7UuNJh5jE8d5tJedGCydeEoJ0szy6xwISrKdhoPPIuuU3UEfeHL9Jd+1lTVYU/4C4NoESJ22ZwP4g7UOBCSSJM1w==;IUsiLgMLC+vCydv3N1h9Lw=="
 ---
 

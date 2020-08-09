@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-art
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI in healthcare - will it help or just make things worse?"
-    excerpt: "Here's a sampling of those mentioned in the Built In article: There is a downside, which AI app vendors typically pay insufficient attention to. This is highlighted in a Brookings article co-authored by the chair of the Department of Medical Ethics and ..."
-    publishedDateTime: 2020-08-04T09:23:00Z
-    webUrl: "https://diginomica.com/ai-in-healthcare-help-or-make-worse"
-    ampWebUrl: "https://diginomica.com/ai-in-healthcare-help-or-make-worse?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-in-healthcare-help-or-make-worse?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 76
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-08/unsplash-national-cancer-institute-NFvdKIhxYlU%20740px.jpg"
-        width: 740
-        height: 450
-        isCached: true
 
 secured: "UWMcSw0+iJ+Q5DJK4IJJcraYTiTFDLcmR9rCVYJ/pzviv2z8RvAtldJyM50ckKlQIdJ+OnPFKfQYZ5Oin1r8YiKnDvunheLp7Ih9DkRbibegc6iQw+mzz3eJWQZLzZsB88CSADKMQQZgVKUJqIYujGamPE+QVmqcaWgEn1f8kkLiwes+xJ6AB4yzyHaCItZ+1SwadoyGgyhHquzTfHgrewc1QtRxkzKiMcg7YKhP6aNvUQTSehyCClh0+SlkaFHyLpvSRipN9qzcLvlMFT2K7B8eDJw3lawdIPwlsFOA58HQlLC4CSSVHQ8MRDk5B6E8GSymbEHGNIJyo5Ov17GG3y+TKc0gWX1XcuWEig6vXaIyhGw+oVAsYZOvTDEHHip94K7I1FnmRIvUG9oeuy+dxXWQ0F1GU7ZysYBA4O47Db1K7+a3JJucP24pEs/K/Ncs2yyRhuYDa+eHk1I3v/1/g/ETkFaQsPLbKeLorauOsF41Fs4tUzIxrHvofT0A3WJJ;zWYkAucAkEWOnB/pVtp9Kg=="
 ---
