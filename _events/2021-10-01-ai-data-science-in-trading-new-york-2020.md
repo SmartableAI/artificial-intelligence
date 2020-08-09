@@ -7,6 +7,8 @@ type: conference
 startDateTime: 2020-10-01T09:00:00Z
 endDateTime: 2020-10-01T17:00:00Z
 location: "New York, NY"
+removed: true
+published: false
 
 provider:
   name: aidatatrading.com
