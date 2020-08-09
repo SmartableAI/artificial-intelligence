@@ -47,22 +47,6 @@ related:
         height: 630
         isCached: true
   - title: "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files"
-    excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber Technologies Inc's rival unit."
-    publishedDateTime: 2020-08-04T23:23:00Z
-    webUrl: "https://www.reuters.com/article/us-autonomous-uber-levandowski/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files-idUSKCN25030T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25030T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25030T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528367649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG731S2"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files"
     excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber's rival unit. Levandowski's conviction is one ..."
     publishedDateTime: 2020-08-05T01:16:00Z
     webUrl: "https://www.cnbc.com/2020/08/04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files.html"
@@ -77,22 +61,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106648265-1596584130509-UBER-LEVANDOWSKI.JPG?v=1596584247"
         width: 4393
         height: 2928
-        isCached: true
-  - title: "Former Google exec Anthony Levandowski sentenced to 18 months for stealing self-driving car secrets"
-    excerpt: "Levandowski was once a superstar engineer in the fast-growing world of self-driving cars who helped jumpstart a Google division dedicated to the technology. He was later accused of stealing documents from his time at Google before founding Otto ..."
-    publishedDateTime: 2020-08-04T23:53:00Z
-    webUrl: "https://www.theverge.com/2020/8/4/21354906/anthony-levandowski-waymo-uber-lawsuit-sentence-18-months-prison-lawsuit"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/4/21354906/anthony-levandowski-waymo-uber-lawsuit-sentence-18-months-prison-lawsuit"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21354906/anthony-levandowski-waymo-uber-lawsuit-sentence-18-months-prison-lawsuit"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 60
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/5FV-jBV8IMq6-eBWsmnlNrrgKnM=/0x0:5317x3566/1400x933/filters:focal(977x291:1827x1141):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67156985/605519778.jpg.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Anthony Levandowski Gets 18 Months in Prison for Stealing Google Self-Driving Car Files"
     excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber Technologies Inc's rival unit."
@@ -136,38 +104,6 @@ related:
       - url: "https://www.nydailynews.com/resizer/xVhrb5plckFSELbAhjzoe3slXhE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPTOF3KFBZC4NHL5MCSEJFNWBY.jpg"
         width: 1200
         height: 826
-        isCached: true
-  - title: "Self-Driving Car Maker Sentenced to Prison For Stealing Trade Secrets From Google"
-    excerpt: "(AP Photo/Tony Avelar) (CN) — Anthony Levandowski, a pioneer in self-driving car technology, was sentenced to 18 months in federal prison for swiping upwards of 14,000 proprietary documents from his former employer Google before he left to start his own ..."
-    publishedDateTime: 2020-08-04T23:50:00Z
-    webUrl: "https://www.courthousenews.com/self-driving-car-maker-sentenced-to-prison-for-stealing-trade-secrets-from-google/"
-    ampWebUrl: "https://www.courthousenews.com/self-driving-car-maker-sentenced-to-prison-for-stealing-trade-secrets-from-google/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/self-driving-car-maker-sentenced-to-prison-for-stealing-trade-secrets-from-google/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 39
-    images:
-      - url: "https://www.courthousenews.com/wp-content/uploads/2018/02/UBER1-1024x734.jpg"
-        width: 1024
-        height: 734
-        isCached: true
-  - title: "Ex-Google engineer sentenced to 18 months in prison for stealing self-driving car files"
-    excerpt: "Anthony Levandowski, a former Uber executive, was sentenced to 18-months in prison on Tuesday after pleading guilty to stealing proprietary self-driving car technology from Google, which he had ..."
-    publishedDateTime: 2020-08-05T00:34:00Z
-    webUrl: "https://thehill.com/policy/technology/510595-ex-google-uber-engineer-sentenced-to-18-months-in-prison-for-stealing-self"
-    ampWebUrl: "https://thehill.com/policy/technology/510595-ex-google-uber-engineer-sentenced-to-18-months-in-prison-for-stealing-self?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/510595-ex-google-uber-engineer-sentenced-to-18-months-in-prison-for-stealing-self?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 36
-    images:
-      - url: "https://thehill.com/sites/default/files/google_021719getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Anthony Levandowski, self-driving tech pioneer, sentenced to prison for stealing trade secrets"
     excerpt: "Anthony Levandowski, a former engineer for Google and Uber and a developer of technology for self-driving cars, was sentenced to 18 months in federal prison Tuesday for stealing trade secrets from Google. Levandowski, who pleaded guilty to the charge ..."
@@ -230,22 +166,6 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.jpg"
         width: 1426
         height: 808
-        isCached: true
-  - title: "Former Google engineer Anthony Levandowski is sentenced to 18 months in prison for stealing internet giant's self-driving car files before heading up Uber's rival unit"
-    excerpt: "U.S. District Judge William Alsup said a sentence short of imprisonment would have given 'a green light to every future brilliant engineer to steal trade secrets'."
-    publishedDateTime: 2020-08-05T00:00:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8593831/Anthony-Levandowski-gets-18-months-prison-stealing-Google-self-driving-car-files.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8593831/amp/Anthony-Levandowski-gets-18-months-prison-stealing-Google-self-driving-car-files.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8593831/amp/Anthony-Levandowski-gets-18-months-prison-stealing-Google-self-driving-car-files.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/08/05/06/31581670-0-image-a-11_1596605355635.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "CE2a7YP6xmnTn2GQTh0P2tkKnTrPh3uOpmBq36zdcMg7diDB0KYoLAOJ+Jh52sGHfse17m1DlcCuv+ZYy6JbsQy133h6BC1k0jwHaf26wut4adfnuqpP8MKAd4+Mp4LrOTN9U1RGejy5Zux/ys+wbvK49k2qhAbY4QNPEzEckmlzZ2bjMHSFTWtbDZVbTpvQW/h4hB8yHLymIbkDV7TZ9wFg5Y8k5nEUKOBqIjGdFohOwN042NOMZKR27Y0LVHB0VN4VLadnwPTcBzc3Arr7LPLt6ESP4sQecr2Hf0pn7moGST3qabrijD2iF7DV+E7kBnJcue4IFERVXA28CxaBNStWlBTv3iNKixD7kzO2h08Bu0LDvghzdz09YTxz/u4ZU1pDhbGBhvE2VBHZqp5ANkrRLtF0vFF7s4YbJE5RzzOayThwcdRwE2cQJtVD1cIAIEf22i7zqiTL9ID7G4MG0mx7nQkUREF0H6ysOhTknvFLQayvcA7wRIU7bS3RWXbV07IJTKftayMs6svRUDh50g==;c5ZD6vD5CtdXnWzKBa4vtA=="

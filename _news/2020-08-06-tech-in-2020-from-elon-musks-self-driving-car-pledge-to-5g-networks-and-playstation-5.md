@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Anthony Levandowski, the self-driving car"
-    excerpt: "A few months after Otto was founded, Uber acquired the small outfit for a reported $680 million and put Levandowski in charge of its entire self-driving effort. Waymo alleged that the ride-hailing giant set up the deal with Levandowski so it could use ..."
-    publishedDateTime: 2020-08-05T00:45:00Z
-    webUrl: "https://www.businessinsider.in/thelife/news/anthony-levandowski-the-self-driving-car-engineer-who-sparked-the-massive-waymo-v-uber-lawsuit-sentenced-to-18-months-in-prison-for-trade-secret-theft/articleshow/77362187.cms"
-    ampWebUrl: "https://www.businessinsider.in/thelife/news/anthony-levandowski-the-self-driving-car-engineer-who-sparked-the-massive-waymo-v-uber-lawsuit-sentenced-to-18-months-in-prison-for-trade-secret-theft/amp_articleshow/77362187.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/thelife/news/anthony-levandowski-the-self-driving-car-engineer-who-sparked-the-massive-waymo-v-uber-lawsuit-sentenced-to-18-months-in-prison-for-trade-secret-theft/amp_articleshow/77362187.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 44
-    images:
-      - url: "https://www.businessinsider.in/thumb/77362181.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
 
 secured: "Vkq4qyxBB+l61bwMUFjzIPmnV/kPwlWWRjf3zosvF0M+FfcGKw+qTInF6y3vLTPCu4QDZAYqzE4pDUBn0KzEPFeUGM5TY0ete2EoPAWI3x675drPoWbS0OJVOzRChIoLiJ6Bw89xCqtanP7phUQO1SyYsNx6eznyxG79SWyYXHFuWlrWsfBgB3On9oTVYGV4ZP4Z9gcXApuzNZRYMg6WZoj2VslZsf7giUly+4iy5LkJdpsUlG9laj8J8WYwWGluI5V2Nr9ZtSctD1nLj+BbrmXAl/JfFn3JobviVmkTugThsPqq4oEa/ib5gqEbXH4GGFOQOKdQ78assUYDpJiFpg==;k4SOu+iZHUQpwoI5IbjuEQ=="
 ---

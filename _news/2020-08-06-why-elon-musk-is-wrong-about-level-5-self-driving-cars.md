@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/08/574ee32d-323f-469a-bda2-2c80c9c88afa-e1596578967737.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Anthony Levandowski, the self-driving car"
-    excerpt: "A few months after Otto was founded, Uber acquired the small outfit for a reported $680 million and put Levandowski in charge of its entire self-driving effort. Waymo alleged that the ride-hailing giant set up the deal with Levandowski so it could use ..."
-    publishedDateTime: 2020-08-05T00:45:00Z
-    webUrl: "https://www.businessinsider.in/thelife/news/anthony-levandowski-the-self-driving-car-engineer-who-sparked-the-massive-waymo-v-uber-lawsuit-sentenced-to-18-months-in-prison-for-trade-secret-theft/articleshow/77362187.cms"
-    ampWebUrl: "https://www.businessinsider.in/thelife/news/anthony-levandowski-the-self-driving-car-engineer-who-sparked-the-massive-waymo-v-uber-lawsuit-sentenced-to-18-months-in-prison-for-trade-secret-theft/amp_articleshow/77362187.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/thelife/news/anthony-levandowski-the-self-driving-car-engineer-who-sparked-the-massive-waymo-v-uber-lawsuit-sentenced-to-18-months-in-prison-for-trade-secret-theft/amp_articleshow/77362187.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 44
-    images:
-      - url: "https://www.businessinsider.in/thumb/77362181.cms?height=275&width=412"
-        width: 412
-        height: 275
         isCached: true
   - title: "Tech in 2020: From Elon Musk’s self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "What to expect from the technology industry in 2020, from wider adoption of 5G and facial recognition tech to social media and fake news regulation."

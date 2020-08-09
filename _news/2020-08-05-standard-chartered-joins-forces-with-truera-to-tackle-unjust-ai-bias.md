@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/08/164978-standard-chartered-j
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/164978-standard-chartered-joins-forces-with-truera-to-tackle-unjust-ai-bias/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 600
     height: 600
     isCached: true
-
-related:
-  - title: "Standard Chartered partners Truera to combat bias in AI"
-    excerpt: "Standard Chartered is teaming up with US outfit Truera to help tackle unjust bias in AI-assisted decision making."
-    publishedDateTime: 2020-08-05T00:08:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36336/standard-chartered-partners-truera-to-combat-bias-in-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "1IBlCz4xyVxad2V8ybri6hrat/osE39DJaG5g8URug7AcO7RzG/kelsR+ECgfX4wm9avhJbNijANmgueg14cAAV038ycfMzMvRemzFm6uq7wWvAQyD/ekw4hDLVJfJaIdKBYAX9EDNlyr6z5A/c5O0kiIFqcebyO4EaIIKYpc5v6ycrmDlKHYE67nF2kFEyUcmzsTI3u4QMKBwwZB7bwzjwun8z/HiyAlryPU9Mc/eplflj9vgnYx2HzOG3bju18AXLj/kJwXlZRvjyp6p2y+wNWXLQUNYlMVLK0BO+3jzpZ9VZ9GBz4hfSySPLtipb4Wf91N2noGe4KRzCgID9Jtg==;kySyWIsNGV4I+EUGqWKgqA=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-06T14:37:00Z
 webUrl: "https://www.chinadaily.com.cn/a/202008/06/WS5f2c15bda31083481725eb95.html"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: China Daily
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Portland Votes to Ban Facial Recognition Ahead of Referendum"
-    excerpt: "The ordinance will take effect in 30 days. Danielle West-Chuhta, the city’s top attorney, said that if voters approve the referendum in November to ban facial recognition it would replace the ordinance passed by the city council and can not be touched ..."
-    publishedDateTime: 2020-08-05T00:32:00Z
-    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-08-04/portland-votes-to-ban-facial-recognition-ahead-of-referendum"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Portland votes to ban facial recognition ahead of referendum"
     excerpt: "A Maine city council has voted unanimously to ban the use of facial recognition technology. Portland City councilors voted Monday in favor of the proposal submitted by City Councilor Pious Ali in November,"
     publishedDateTime: 2020-08-06T14:41:00Z

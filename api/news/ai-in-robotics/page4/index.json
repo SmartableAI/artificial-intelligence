@@ -2,56 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-07-08-robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine.md",
-      "title": "Robots, drones and surveillance apps: The unexpected future of medicine",
-      "excerpt": "Healthcare has traditionally been cautious about new technologies. But a new wave of innovation is likely to change all of that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/01/ac472c67-d9bf-4475-afb8-352f6030b09b/thumbnail/1200x675/1f5ccd50506dd71d1a47b6d1cf3f5b0b/istock-471508902-2.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Robots, drones and surveillance apps: The unexpected future of medicine",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine/",
-      "publishedDateTime": "2020-07-08T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-08-ucla-launches-an-ai-robot-to-support-the-emotional-needs-of-children.md",
       "title": "UCLA launches an AI robot to support the emotional needs of children",
       "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
@@ -1347,6 +1297,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-elementary-robotics-raises-127-million-to-automate-industrial-inspections.md",
+      "title": "Elementary Robotics raises $12.7 million to automate industrial inspections",
+      "excerpt": "Elementary Robotics, a startup developing autonomous industrial inspection technologies, has raised $12.7 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Elementary Robotics raises $12.7 million to automate industrial inspections",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/",
+      "publishedDateTime": "2020-06-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,55 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-22-air-force-goes-with-blackskys-spectra-ai-platform-to-track-impact-of-covid-19.md",
+      "title": "Air Force goes with BlackSky’s Spectra AI platform to track impact of COVID-19",
+      "excerpt": "The contract calls for BlackSky to monitor U.S. military bases overseas and assess the status of supply chains, using its AI-enabled Spectra geospatial data analysis platform. Spectra can analyze satellite data as well as news feeds and social media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/HartsfieldJacksonAtlantaInternational-630x406.png",
+          "width": 630,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
+      "publishedDateTime": "2020-07-21T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota.md",
       "title": "Self-driving Car Market to See Huge Growth by 2025 | Apple, IBM, and Cisco , Waymo, Toyota",
       "excerpt": "HTF MI Analyst have added a new research study on Title Global Self-driving Car Market (2018-2024) with detailed information of Historical, current and forecasted market size data for the technology components in the global self-driving car market (radar sensors,",
@@ -1278,55 +1327,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos.md",
-      "title": "Immervision uses AI for better wide-angle smartphone videos and photos",
-      "excerpt": "Immervision announced new real-time video distortion correction software to help create professional quality videos on smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/immervision-Montage_Telephone-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
-      "publishedDateTime": "2020-07-21T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

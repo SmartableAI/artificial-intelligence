@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/</loc>
+    <lastmod>2020-08-09T10:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/a-british-ai-tool-to-predict-violent-crime-is-too-flawed-to-use/</loc>
     <lastmod>2020-08-09T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -229,12 +235,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.chinadaily.com.cn/a/202008/06/WS5f2c15bda31083481725eb95.html</loc>
-    <lastmod>2020-08-06T07:37:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://markets.businessinsider.com/news/stocks/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122</loc>
     <lastmod>2020-08-06T06:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -369,12 +369,6 @@
   <url>
     <loc>https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/</loc>
     <lastmod>2020-08-05T07:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://phys.org/news/2020-08-application-machine-optimize-hurricane-track.html</loc>
-    <lastmod>2020-08-05T06:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -703,12 +697,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146</loc>
-    <lastmod>2020-08-03T15:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines</loc>
     <lastmod>2020-08-03T14:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -807,6 +795,12 @@
   <url>
     <loc>https://www.infoworld.com/article/3568497/when-hybrid-multicloud-has-technical-advantages.html</loc>
     <lastmod>2020-08-03T03:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/reuters/2020/08/03/business/03reuters-apple-china-patent-suit.html</loc>
+    <lastmod>2020-08-03T02:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1081,6 +1075,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.embedded-computing.com/home-page/dinoedge-ai-platform-for-health-safety-monitoring-solutions</loc>
+    <lastmod>2020-07-30T15:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/gear/article/3095308/chinese-ar-start-rokid-eyes-industrial-applications-after-success</loc>
     <lastmod>2020-07-30T15:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1293,12 +1293,6 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-29T18:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.embedded-computing.com/news-releases/dinoedge-ai-platform-for-health-safety-monitoring-solutions</loc>
-    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1885,6 +1879,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.infoq.com/presentations/setting-up-digital-strategy/</loc>
+    <lastmod>2020-07-27T13:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.prnewswire.com/il/news-releases/theator-is-making-its-surgical-intelligence-platform-available-in-microsoft-azure-marketplace-301100033.html</loc>
     <lastmod>2020-07-27T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2097,6 +2097,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/</loc>
     <lastmod>2020-07-26T10:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.finextra.com/blogposting/19138/bigdata-lake-for-financial-services---need-to-stress-on-platform-governance</loc>
+    <lastmod>2020-07-26T09:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3219,6 +3225,12 @@
   <url>
     <loc>https://www.cambridgenetwork.co.uk/news/deepmind-supports-further-scholarships-cambridge-students-backgrounds-under-represented</loc>
     <lastmod>2020-07-20T13:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/ibm-beats-q2-expectations-on-30-cloud-revenue-growth/</loc>
+    <lastmod>2020-07-20T13:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

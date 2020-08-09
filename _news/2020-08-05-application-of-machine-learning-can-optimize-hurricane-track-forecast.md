@@ -8,8 +8,8 @@ ampWebUrl: "https://phys.org/news/2020-08-application-machine-optimize-hurricane
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-application-machine-optimize-hurricane-track.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Phys.org
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning could improve hurricane prediction"
-    excerpt: "Machine learning could improve forecasts for hurricanes. The method could help save lives by giving people earlier warnings about severe storms."
-    publishedDateTime: 2020-08-04T23:59:00Z
-    webUrl: "https://www.futurity.org/hurricanes-prediction-machine-learning-2416402/"
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 39
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/08/hurricane-prediction-machine-learning_1600.jpg"
-        width: 1600
-        height: 915
-        isCached: true
   - title: "Machine learning could improve hurricane prediction"
     excerpt: "The approach could provide more accurate medium-term hurricane forecasts, allowing meteorologists to issue more timely warnings to communities in the path of potentially deadly storms."
     publishedDateTime: 2020-08-05T20:33:00Z
