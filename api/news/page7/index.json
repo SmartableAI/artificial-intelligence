@@ -2,6 +2,56 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-31-researchers-examine-the-ethical-implications-of-ai-in-surgical-settings.md",
+      "title": "Researchers examine the ethical implications of AI in surgical settings",
+      "excerpt": "In a whitepaper, researchers at the Vector Institute examine the ethical implications of applying AI and machine learning systems in surgical settings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Cmglee_Cambridge_Science_Festival_2015_da_Vinci-1-e1596222334568.jpg?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/researchers-examine-the-ethical-implications-of-ai-in-surgical-settings/amp/",
+      "publishedDateTime": "2020-07-31T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-announcing-the-aws-deepcomposer-chartbusters-spin-the-model-challenge.md",
       "title": "Announcing the AWS DeepComposer Chartbusters Spin the Model challenge",
       "excerpt": "Whether your jam is reggae, hip-hop or electronic you can get creative and enter the latest AWS DeepComposer Chartbusters challenge! The Spin the Model challenge launches today and is open until August 23, 2020. AWS DeepComposer gives developers a creative way to get started with machine learning. Chartbusters",
@@ -1125,56 +1175,6 @@
         "AI",
         "Natural Language Processing",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-technologists-and-business-leaders-dont-see-eye-to-eye-on-artificial-intelligence.md",
-      "title": "Technologists and business leaders don't see eye to eye on artificial intelligence",
-      "excerpt": "Business leaders and technologists see artificial intelligence differently -- which is not a surprise. However, they have different perspectives on the progress on AI projects, and what it takes to scale AI to meet enterprise challenges. For example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-state-of-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/30/1ba9fe6c-0378-41b8-a981-1e8ecf7e03df/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
-          "width": 480,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai/",
-      "publishedDateTime": "2020-07-30T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

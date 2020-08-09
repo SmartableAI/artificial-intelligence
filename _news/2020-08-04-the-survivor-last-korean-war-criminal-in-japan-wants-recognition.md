@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25002W"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25002W"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
       name: Daily Times
       domain: dailytimes.com.pk
     quality: 24
-  - title: "Last Korean war criminal living in Japan wants recognition"
-    excerpt: "says Lee, switching in a barely audible voice between Korean and Japanese ... Lee said as he clutched dog-eared clippings documenting his years of campaigning for recognition and compensation. Lee was among 148 Korean war criminals convicted after ..."
-    publishedDateTime: 2020-08-04T06:55:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2020/08/04/last-korean-war-criminal-living-in-japan-wants-recognition/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "/daLAxMFu8y04eIArchdsjdngTLCIpt0rLj5bclXpimj54yot1s77dvbwbLNWJXTRXdfBmnxCjRUgX4lOiNKAzWUp64syWYtvR4Z582s6WRGDQ35CT9JFQBki37LRPlnwelJzRxR/U+8yq3EEiZUDRM/9Gtk3nPZjWib/chqMlzr5v3eoJI+Rl9eWdpknbTUgVTbL+5jEyYws26r9EWXW5RIttWkgGYZPpghLfU3UeffGqBQNd4TfSR4NCohRqqAd51RFY5Kti14rEXAGfHr6jNs6w3ZX0YiQKK3W5UnfwkgImGr++8ydyAErDT3oYoQdCmJybHMP/Rm5X22uUV9zUf7P4GNRJ46mYfxt81IZMxY17DFSLgFEt1MOyPP09uEClDDL2PDgGDGDqaMYva3uP+zhoVHZbCsHquInsAQ0s84BI3ViM7gszGJAUPI79h0TRCYOgmr92rnBME39tVzgdxlQhiaFSb+qEDjunj9Xc9EZOy6I6OxRUNylGOxXDlN;Uowfg0hnoD/T9EJC3xsMsA=="
 ---

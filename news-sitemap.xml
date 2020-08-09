@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots</loc>
+    <lastmod>2020-08-08T16:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/</loc>
     <lastmod>2020-08-08T10:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1051,8 +1057,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss</loc>
-    <lastmod>2020-07-30T09:18:00-07:00</lastmod>
+    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator</loc>
+    <lastmod>2020-07-30T09:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1189,7 +1195,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/</loc>
+    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588</loc>
     <lastmod>2020-07-29T19:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1885,8 +1891,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
-    <lastmod>2020-07-27T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275</loc>
+    <lastmod>2020-07-27T05:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,6 +2,47 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-04-ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions.md",
+      "title": "LTTS expands collaboration with Microsoft to offer workplace transformation solutions",
+      "excerpt": "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/articleshow/77346713.cms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-410760,msid-77327714/dodo-drop-the-indian-shareit-developed-by-kashmiri-teenager.jpg",
+          "width": 412,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms",
+      "publishedDateTime": "2020-08-04T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-get-over-50-hours-of-training-in-machine-learning-for-under-30.md",
       "title": "Get over 50 hours of training in machine learning for under £30",
       "excerpt": "TL;DR: The Machine Learning Master Class bundle is on sale for £29.85 as of August 4, saving you 91% on list price. Thanks to developing artificial intelligence technologies, computer are smarter ...",
@@ -1136,55 +1177,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-how-ai-can-help-small-and-medium-businesses-compete-against-big-companies.md",
-      "title": "How AI Can Help Small And Medium Businesses Compete Against Big Companies",
-      "excerpt": "Right now, larger companies are investing in AI because they recognize the opportunity to dominate a market using this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f260beb82340ead1915d82c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D639%26cropY1%3D0%26cropY2%3D359",
-          "width": 639,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/amp/",
-      "publishedDateTime": "2020-08-02T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

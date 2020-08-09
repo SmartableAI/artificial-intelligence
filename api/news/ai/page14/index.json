@@ -2,6 +2,55 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-07-23-riiid-raises-418-million-to-expand-its-ai-test-prep-apps.md",
+      "title": "Riiid raises $41.8 million to expand its AI test prep apps",
+      "excerpt": "South Korean startup Riiid has raised $41.8 million to further develop its AI test prep technology. To date, the company has raised over $70 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/1-1-e1595515659939.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/amp/",
+      "publishedDateTime": "2020-07-23T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-tech-startup-funding-declines-as-pandemic-drags-on.md",
       "title": "Tech Startup Funding Declines as Pandemic Drags On",
       "excerpt": "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies.",
@@ -1367,56 +1416,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-new-york-bans-use-of-facial-recognition-in-schools-statewide.md",
-      "title": "New York bans use of facial recognition in schools statewide",
-      "excerpt": "New York state passed legislation that would ban the use of facial recognition in schools, if signed by Governor Andrew Cuomo.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
-      "publishedDateTime": "2020-07-22T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

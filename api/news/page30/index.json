@@ -2,6 +2,56 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-07-15-hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars.md",
+      "title": "'Hands free': Automakers race to next level of not quite self-driving cars",
+      "excerpt": "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f0ed4b4f0f4194e5c33bb62?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp",
+      "publishedDateTime": "2020-07-15T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-coping-with-inconsistent-facial-recognition-in-apple-photos.md",
       "title": "Coping with inconsistent facial recognition in Apple Photos",
       "excerpt": "It is extremely handy to tag people you know in photos you take. You can then easily find images of those people across time and at specific events. This feature appears in Photos in iOS, iPadOS, and macOS,",
@@ -1137,55 +1187,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages.md",
-      "title": "Microsoft’s SoftNER AI uses unsupervised learning to help triage cloud service outages",
-      "excerpt": "In a new paper, Microsoft researchers detail an AI system that parses cloud service interruption incident descriptions to help with triaging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/amp/",
-      "publishedDateTime": "2020-07-14T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

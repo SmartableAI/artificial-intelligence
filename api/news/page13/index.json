@@ -2,6 +2,56 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-27-mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine.md",
+      "title": "MIT develops machine learning model to quicken release of COVID-19 vaccine",
+      "excerpt": "OptiVax tests potential vaccines for efficacy and population coverage, then designs vaccines for testing, all with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/02/2fe5b8ac-05e6-4864-af5e-53a826a43cbb/resize/1200x/61d45b868cfcaadf844b70cdcce59491/shutterstock-1703465413.jpg",
+          "width": 1200,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
+      "publishedDateTime": "2020-07-27T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-nvidia-geforce-vs-amd-radeon-gpu-which-graphics-card-should-you-buy.md",
       "title": "NVIDIA GeForce vs AMD Radeon GPU: Which graphics card should you buy?",
       "excerpt": "But there's another highlight in NVIDIA RTX GPUs, and that's deep learning super sampling (DLSS) 2.0, which effectively uses an AI to boost frame ... Still, a GPU is simply that, a graphics ...",
@@ -623,21 +673,30 @@
       "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
       "excerpt": "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16786243",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16786243",
-      "publishedDateTime": "2020-07-27T05:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T05:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1060,56 +1119,6 @@
       ],
       "topics": [
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-this-ai-uses-emoji-to-protect-blm-protestors-from-facial-recognition.md",
-      "title": "This AI uses emoji to protect BLM protestors from facial recognition",
-      "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
-      "publishedDateTime": "2020-07-27T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -36,15 +36,6 @@ related:
         width: 799
         height: 545
         isCached: true
-  - title: "Last Korean war criminal living in Japan wants recognition"
-    excerpt: "says Lee, switching in a barely audible voice between Korean and Japanese ... Lee said as he clutched dog-eared clippings documenting his years of campaigning for recognition and compensation. Lee was among 148 Korean war criminals convicted after ..."
-    publishedDateTime: 2020-08-04T06:55:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2020/08/04/last-korean-war-criminal-living-in-japan-wants-recognition/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "eEXn51GqtuxX3YSSbGR9J/eLVQ6NXtTi/u2EOKyDvBWaEUYDkbkHDzrWAGjmPv1rO3NCM0mDEskuoinu4pvskKG/VRkCKwpW8tHtgdMeaQ05KmcO90lgpXbmaCqGHT0zM3GukVwKp6/ehMaVMgivIe8IXHol1885NfXobQb9VkU+PgVSyNKD8hySP83sU0yc2qqIDUcP83yoedbDadw+HvA/JxpnBAyhvFH5dYHlCtIWzHSDlQ/XjeK66rgrPFpLduTQkyOmbBpp8iaDNbfsq/RxWIKdLizLmwmi5sH6eoOZh5soN9eFwqcevg2JJUHr0UuV5etTWQyjMv5RBT41xQ==;h5zWJPRBCi/auBc7Isd59w=="
 ---

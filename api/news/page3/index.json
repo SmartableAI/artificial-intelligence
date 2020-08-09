@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-05-researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants.md",
+      "title": "Researchers say we need better benchmarks to build more useful AI assistants",
+      "excerpt": "AI researchers from Element AI, Stanford University, and CIFAR recommend more useful forms of AI that speak with people to get things done.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/echo-dot-home-mini-e1578632867450.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/amp/",
+      "publishedDateTime": "2020-08-05T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-worlds-first-ai-generated-arts-festival-program-opens-this-friday.md",
       "title": "‘World’s first’ AI-generated arts festival program opens this Friday",
       "excerpt": "The Edinburgh Fringe is the world’s largest performing arts festival, but this year’s event has sadly been canceled due to COVID-19. Fortunately, art junkies can still get the",
@@ -1104,55 +1154,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate.md",
-      "title": "IDC: AI market revenues continue to grow but at a slower rate",
-      "excerpt": "IDC has said that it expects to see worldwide revenue in the artificial intelligence (AI) market rise this year by around 12.3% compared to 2019. With the increase factored in, the analyst said that the market could see $156.5 billion in revenue this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/08/1596574155_1920px-international-data-corporation-logo.svg_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/idc-ai-market-revenues-continue-to-grow-but-at-a-slower-rate/",
-      "publishedDateTime": "2020-08-04T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
