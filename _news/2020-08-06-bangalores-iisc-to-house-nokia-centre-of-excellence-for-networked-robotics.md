@@ -80,15 +80,6 @@ related:
         width: 940
         height: 622
         isCached: true
-  - title: "Nokia to set up robotics lab at IISc for 5G research"
-    excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
-    publishedDateTime: 2020-08-04T13:58:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200804/3603981.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "/Lmd7uypjdzosMnPOFy2TSAAtQGITv7eJ5ZFiL7omcuZyLc+Sg4jujCZ4HnTiIrRIkZ/0y4OBJ5z8ZUBVf3vvhWJSWNvyK31IJ1A86AOkzvTq9b0F8lV1l45NwQazvHhpjq+S3nuy9sZ64+vlok0dw9WJ8qPPdfcRE+tJODMqvNit7DT7Vf8JXgvcXMBlIVMVxsEAT1Eq+4KUtzcQq1iL6XCZnLP4/OPA+oTheJOnaIMhrLONRLOmppMBb3h339xjUDnnYQP1MO7N1njq5W+4fBDzSxlPYkaVI5RFqnLJaKoeQGZDAioxlXNoo20ZpUOjYbn77l9kEUTM1AkpnC2zdtdHaKBj/hbdoT4K6sicDTLxAkKSop1jTymFZntlW71dIp1DjeWSjHrdMWKd+sQZG1UUK+BYD0kA8QiP2yWuQEHjxtkwhd+UheFEoW+7rXjc1IaxnAWlrOGSc04AmtYiXvNaROXtLbo3iEKEMQhzRpbAdiM3dGzgUV5Imo6yzal9aFNHqWl2hXPuanL/V2KJA==;WZ3er2S1PC7YrXcDOnlrrQ=="
 ---

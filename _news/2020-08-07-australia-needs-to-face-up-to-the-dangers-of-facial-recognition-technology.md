@@ -3,7 +3,7 @@ category: news
 title: "Australia needs to face up to the dangers of facial recognition technology"
 excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
 publishedDateTime: 2020-08-07T02:35:00Z
-webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 type: article
@@ -62,17 +62,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Maine's Portland Bans Government Use of Facial Recognition Tech After BLM Demand"
-    excerpt: "However, it came amid widespread calls for government officials to stop using facial recognition technology as a growing body of evidence shows that it misidentifies people of color at higher rates than white people."
-    publishedDateTime: 2020-08-04T13:15:00Z
-    webUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662"
-    ampWebUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 79
   - title: "Portland, Maine, Councilors Ban Facial Recognition Tech"
     excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials, doing so via an ordinance that will take 30 days to go into effect."
     publishedDateTime: 2020-08-04T16:07:00Z
@@ -272,6 +261,6 @@ related:
       domain: harvard.edu
     quality: 16
 
-secured: "Bay32Pi9/CVLOGJQbYzy2Vdq0QJv+8NtvaqQDD07S8rPiizKHZyN1DBAefyLq7/LkHU6YVpShtacVaU3uPG/WrAt4TdyiZXFC2zw87w7H5vscqZNrNrzqv06q4+F5WK56L6XLh4Hwcqn2eSsSCDQQYiMG3iDNpunD5hte5fT7ucxYJcS8sg9OAFBlFVo4yrVwYEmmbFJHYIXlRBJK9xUvsMaWPuORA8OYU0URZOKLvkKjC23DoqPA/bmqCy63f4YqxeK6hF/3bT0rp4ur5S3NKWjaUpj4MhgV2f5p7tzwUIS2OhWJPwytQL6B0QRgCQJ6jfI4yOdPwNxD8OCUWU/JGI1nbkQr0qPa522BzU5kJopy3zDiOXRy/PjA3HYuuyiSTCtIVBjqhr1xByieuZfrJh+1GMswYihZ/24dr6V+G8NhxEuJ+BnrMXzitZxpmHwAbLg0nWqQRwG203lLK88bz8OiKwYKaMIeOMeJLc312Gi9I0KebJxtX2lU0HnPktgg3HmVrhtA5M+SpANGzMlag==;zKIplppcjZqtIT/+jYRelg=="
+secured: "Jf6YBMQl+oVw17C1MyQK07Trxu5F5BAte/f4Xf0aQtIPuWBU94CEVmdQ9JX5IN97afAtMBso/r3guunBFGA6yQXL6TLzLXz6GVvJoPPGOyiL1bfqLAIMxaQybsCxJoAKKouaYgY8BQdyIUu8pxPC90154VG/kPh4cyM+CCLKGSbVGyFqPS6w4Vkdz5cYpiWZBrVso/nJChp/X7reCH5gbGJl3onxgy0CX4rdueA3Au9vlGRiRWCz/gPWidW3ZdhfAFHmDM92t0J41Q9RUeRObp0Oaao1Nc1fHLQ27qYwGZnMtwqJHI4oxirSvHOGeCMdMO9tLYaSWxcZb0qcpdYMbQ==;Wbw9KabUTkIq5d80L1hM/A=="
 ---
 

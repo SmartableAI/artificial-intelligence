@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-insti
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 52
-  - title: "Nokia to set up robotics lab at IISc for 5G research"
-    excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
-    publishedDateTime: 2020-08-04T13:58:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200804/3603981.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "y+CB8y0jWcgLiNcB6VtBWxgJPUYdc8rVWM3e2LEtXGUmzGATmAxgEG7mXITOyidmw1NapCmhmsNpZ7FkL4Yc9cZT7yOq7bY+QBTWc75xpINKW3GxhziFk+GWIgp58rfqAzvaxlNch02YAd38aBuYk/07HyPRc++Rb1PzaisguRxTtO1vpZ2wR8NR3WXpyq1/KOV+QyiLKABP2dgPSUmt+mBOhfJ8Uw/JK2zXL9ZhJMAcl68pc0lcN0kbauSYm6DJTqIaF/cpxyNZ2SBX+I7qNW6tI1d2OQBU8ZYHMxANwx/Pqn+SJAcy+USkJ2y99HyK+6oEYq1KfkbpofvRRqdRj1p98d6aR9mJW+wPPAteYZj/031LLcpMwlzKRoKKYru9SoQgQMTDbvcer9oCKlRWJdpoVldY4Zhx48++ccDxuQhmMDBTBtuXDRiePG1gpwN5Cmt1DNTmcGG9Hxpl/4J3agX5xnhIvG4DOQDkRrICSTrz9OPzgzo5COQiVtxZh5XwkgPiRQtNBbYOPVBzzTqBeA==;TxRnZlv6qRbno3SkcieNCw=="
 ---

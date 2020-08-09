@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-09T05:32:00Z
 webUrl: "https://www.ibtimes.com/road-test-chinese-robotaxis-take-riders-spin-3025222"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     height: 681
     isCached: true
 
-secured: "/2eJW7ABFNZaCuXrodUYQ1h+2yNZji06VOjjo1waX0nlOSZPiWUNZxSFUdhIlNGgOKyGwu/J6dosxunD5Q9PrAaSHDfcXy7R1SB483//Bt/AjB5KuDk16uI9ErpEQAJZdT38iuKVUuQuuBGCBig+rF4Y1aECG9YY/YAITsc74hL1URMdgidcnXGxt1J+26XZrkUXEyo88rbPHrRJ1VQlbVEfjW39jKiwN3N9FTfeXonRlr5swg3gG7AhRB5yqD/8u+gY+Gf6XdJ+y3gC0q6C6G6hBL6LbRj9UMscXMkzyqEo6jH4QItzAEGjD1ZZqR0j2XVW6xjlQ++bJlN8mP4kjg==;UQl/qtJ7LHF63olkfb7V8g=="
+related:
+  - title: "Chinese 'robotaxis' take riders for a spin"
+    excerpt: "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country."
+    publishedDateTime: 2020-08-09T07:00:00Z
+    webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+    ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 44
+    images:
+      - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
+
+secured: "uLnZgp3fWcGhjZEoaArd/BM8hyCb/zQDIryWky4E3gt3X5UMQ220vdGVcdm1AaZuoMxFKqXlZX8Mmjxu7XEeeD+pP7pj9Ayxzpf8SwGT60mQXcy5f122gIfrr6SVNQP7iZk9zBke7hcnVtxwOtv10VHy3x3nbEJFWp3OJeaLzxvsbnvFI6APMBbeiOETUMy9GIRYrdzXsqvCS7QcWK3jHlXdK9NWLYRwZuRbJy76eSmb/L0gXIYPDHPmZg5q8HZ4J3apJmF18l5qfnEP4V2jlBMOPn8PRrwv7gD8ap6xtXQk0C6nKNnulG3VBz/qGD5LXHqgmbU5eW8kbjO7wsBuh/cdiFNfvXXp9mb4yOYLO/8bHbeKHtbgPlEntZ1cJun2cN0RSMRbUPONEPiOudzpavc/1jUDyDz61zjxRmb2wXf+rZNLOhoHBt3W73uJyQoMhncIxNBgep+gEp5YprNGiJuQ4dWiBSo1UiHmIVY1/u/MDUP+cppvMPIuf5jh9NJOG5eaJQfUJohLwOObtMmVvQ==;21h/BE/7RS+9lIvlGCRVNg=="
 ---
 

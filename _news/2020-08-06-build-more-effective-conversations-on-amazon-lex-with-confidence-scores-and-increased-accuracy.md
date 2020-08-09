@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T21:29:52Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-more-effective-conversations-on-amazon-lex-with-confidence-scores-and-increased-accuracy/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "LivePerson Announces the Conversational Cloud(TM), an AI-powered Command Center for Brand-Consumer Conversations"
-    excerpt: "NEW YORK, Aug. 4, 2020 /PRNewswire/ -- LivePerson, Inc. (Nasdaq: LPSN), a global leader in Conversational AI, today announced its enterprise-grade Conversational Cloud, where hundreds of the world's largest brands build and run AI-powered automations over ..."
-    publishedDateTime: 2020-08-04T13:28:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/liveperson-announces-the-conversational-cloud-tm-an-ai-powered-command-center-for-brand-consumer-conversations/article_3a541153-8b3e-5116-bbe5-743b1b35b767.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "+CUYe6Q8N8KyHT7cHdI9eKHRGZcteJmdDlaY5JnfRzzICtlF3Dnvev0CESRD4Sdee41VG+Jo8tnE7iZj6BcXtfliOVuGLz0eMmpvS1G2LnzvftMQzm4Fi9XYpXzPt5ypgzt/LHY6H+x2TgRnQRUDa6Eghmww1wXUBqWCmvjEmUmd/tRdywc1eVclxQywLC1kiSzxV2D1NuJgBdh0X7W+34relqGZq/gRN6mIR1/GcSzH55cNZCCyKIdsUybx4MILtBbhHxvCXrZCcj2Q11X6NOHIV+C88cPLKyN41LQMA2YybjbswYS8QNxhjCxSlfVkJlzdMZfQplvs8Wb5Ctnmzg==;ByjYKt4Rnwg5t7qbzrw1Ww=="
 ---

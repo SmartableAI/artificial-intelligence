@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ba
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
 type: article
 quality: 102
-heat: 282
+heat: 272
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Maine's Portland Bans Government Use of Facial Recognition Tech After BLM Demand"
-    excerpt: "However, it came amid widespread calls for government officials to stop using facial recognition technology as a growing body of evidence shows that it misidentifies people of color at higher rates than white people."
-    publishedDateTime: 2020-08-04T13:15:00Z
-    webUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662"
-    ampWebUrl: "https://www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/maines-portland-bans-government-use-facial-recognition-tech-after-blm-demand-1522662?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 79
   - title: "Portland, Maine, Councilors Ban Facial Recognition Tech"
     excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials, doing so via an ordinance that will take 30 days to go into effect."
     publishedDateTime: 2020-08-04T16:07:00Z
@@ -108,7 +97,7 @@ related:
   - title: "Australia needs to face up to the dangers of facial recognition technology"
     excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
     publishedDateTime: 2020-08-07T02:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
+    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
     type: article

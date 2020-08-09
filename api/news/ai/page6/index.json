@@ -2,6 +2,97 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-31-ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry.md",
+      "title": "AI Weekly: Big Tech’s antitrust reckoning is a cautionary tale for the AI industry",
+      "excerpt": "Being smart and ruthless was the way of old big tech, but the growing field of AI requires people to be smart, wise, and empathetic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/apple-amazon-facebook-google-1.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
+      "publishedDateTime": "2020-07-31T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers.md",
+      "title": "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers",
+      "excerpt": "NEW YORK, July 30, 2020 /PRNewswire/ -- IBM (NYSE: IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best align with ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/07/30/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-enhancing-recommendation-filters-by-filtering-on-item-metadata-with-amazon-personalize.md",
       "title": "Enhancing recommendation filters by filtering on item metadata with Amazon Personalize",
       "excerpt": "We’re pleased to announce enhancements to recommendation filters in Amazon Personalize, which provide you greater control on recommendations your users receive by allowing you to exclude or include items to recommend based on criteria that you define. For example, when recommending products for your",
@@ -844,47 +935,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-30-dinoedge-ai-platform-for-health-safety-monitoring-solutions.md",
-      "title": "DinoEdge AI Platform for Health & Safety Monitoring Solutions",
-      "excerpt": "The platform features an open full-stack for AI (OSA), including a powerful AI inference engine hardware, driver, API, compiler and optimization tools (AutoML, sparsity and low-bit quantization), support for open source frameworks. The Health & Safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded-computing.com/home-page/dinoedge-ai-platform-for-health-safety-monitoring-solutions",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f233ed396b28-76219803_cover_design.jpg&size=1&version=1596145650&sig=7ea38959f2da1fe785f0d3b794759236&default=hubs%2Ftilebg-blogs.jpg",
-          "width": 500,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-30-chinese-ar-start-up-rokid-eyes-industrial-applications-after-success-with-temperature-reading-smart-glasses.md",
       "title": "Chinese AR start-up Rokid eyes industrial applications after success with temperature-reading smart glasses",
       "excerpt": "Hangzhou-based Rokid expands end-use applications for second generation product after its temperature-detecting smart glasses helped limit the spread of Covid-19",
@@ -1348,56 +1398,6 @@
         "AI",
         "Natural Language Processing",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-technologists-and-business-leaders-dont-see-eye-to-eye-on-artificial-intelligence.md",
-      "title": "Technologists and business leaders don't see eye to eye on artificial intelligence",
-      "excerpt": "Business leaders and technologists see artificial intelligence differently -- which is not a surprise. However, they have different perspectives on the progress on AI projects, and what it takes to scale AI to meet enterprise challenges. For example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-state-of-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/30/1ba9fe6c-0378-41b8-a981-1e8ecf7e03df/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
-          "width": 480,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai/",
-      "publishedDateTime": "2020-07-30T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

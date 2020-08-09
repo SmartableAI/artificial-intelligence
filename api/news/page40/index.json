@@ -2,6 +2,88 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-07-08-global-natural-language-processing-market-2019-to-2024-technology-landscape-trends-and-opportunities-researchandmarketscom.md",
+      "title": "Global Natural Language Processing Market (2019 to 2024) - Technology Landscape, Trends and Opportunities - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200708005731/en/Global-Natural-Language-Processing-Market-2019-2024",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200708005731/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-why-the-cars-of-our-self-driving-future-will-be-electric.md",
+      "title": "Why the cars of our self-driving future will be electric",
+      "excerpt": "Ford Motor Co. is planning to launch self-driving tech in 2022 but in hybrid cars first. The company’s testing found computers and sensors powering self-driving could cut the electric car’s range by more than 50%. Photo via Ford Motor Company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bworldonline.com/why-the-cars-of-our-self-driving-future-will-be-electric/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bworldonline.com/wp-content/uploads/2017/05/Ford-motor.jpeg",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessWorld",
+        "domain": "bworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-cognitive-analytics-market-2020-global-industry-analysis-size-share-growth-trends-and-forecast-2026.md",
       "title": "Cognitive Analytics market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2026",
       "excerpt": "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published",
@@ -1066,106 +1148,6 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-the-us-china-and-the-ai-arms-race-cutting-through-the-hype.md",
-      "title": "The US, China and the AI arms race: Cutting through the hype",
-      "excerpt": "The reality is that US and China efforts to develop AI are entwined, even if the tensions of coronavirus and trade disagreements may spur a separation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/DVYxHNtyKp5XHMiiLCfbwOo6_Yo=/756x567/2020/06/30/fbf0e0ea-8dfc-4bcb-9793-f6eaa8993108/gettyimages-1039282538.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "The US, China and the AI arms race: Cutting through the hype",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
-      "publishedDateTime": "2020-07-08T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos.md",
-      "title": "Artificial Intelligence Drives This Brand New Bluetooth Headset From EPOS",
-      "excerpt": "Artificial Intelligence is now helping wireless headsets to help people sound clearer and take part in calls and video chats with real audio clarity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2020/07/08/artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efa095d236e830006d4071b%2F0x0.jpg",
-          "width": 1200,
-          "height": 686,
-          "title": "Artificial Intelligence Drives This Brand New Bluetooth Headset From EPOS",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2020/07/08/artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2020/07/08/artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos/amp/",
-      "publishedDateTime": "2020-07-08T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

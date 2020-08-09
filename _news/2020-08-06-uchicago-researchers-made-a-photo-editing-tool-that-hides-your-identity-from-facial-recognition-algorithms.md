@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why we need more image masking tools to avoid facial recognition systems from identifying us online"
-    excerpt: "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ..."
-    publishedDateTime: 2020-08-04T13:29:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 75
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg"
-        width: 796
-        height: 419
-        isCached: true
   - title: "University of Chicago researchers are building a tool to protect your pictures from facial recognition systems"
     excerpt: "The big picture: Face recognition is quickly becoming one of the biggest threats to our privacy, with many startups looking to create commercial services around this technology while exploiting the immense number of photos we've uploaded online. There is a ..."
     publishedDateTime: 2020-08-04T19:55:00Z
@@ -56,21 +40,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI named after V For Vendetta masks protects photos from being gathered by facial recognition apps"
-    excerpt: "A new AI-powered program 'cloaks' images to ward off facial recognition apps. The tool makes subtle pixel-level changes that distort pictures enough so they cannot be used by online scrapers."
-    publishedDateTime: 2020-08-05T22:54:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8597437/AI-named-V-Vendetta-masks-protects-photos-gathered-facial-recognition-apps.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8597437/amp/AI-named-V-Vendetta-masks-protects-photos-gathered-facial-recognition-apps.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8597437/amp/AI-named-V-Vendetta-masks-protects-photos-gathered-facial-recognition-apps.html"
+  - title: "Facial-recognition could be coming to your office. Here's how companies are pitching the tech to landlords and trying to allay privacy concerns."
+    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
+    publishedDateTime: 2020-08-07T19:31:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 60
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/08/05/23/31614202-0-image-a-13_1596667554176.jpg"
-        width: 636
-        height: 382
+      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Y700+6aCdcbcmOX4B7laDgzeKwOFPJnd2vckW3F1DUOaSqD33IgF13j2P3cmLTsN2r4u+xTAwx6egNSMle9USp4g04aVm+Sh7fwlQAesyIEK3+2cefQvFfSKHKuNA4c7vWmfY2rZIfWkxWIQlPl3xc2moMZuVewHY1ZJIotliCVrPR7UemOOntKmMBZICO/9YfcT4aNK2DcIJqT1qJsVfUH0RgNBMjFBBv3TyDtmMCiZfeJzOP5RXH0Ta64KbmhQWqQwlA9UXekAxWVFWt/uTd4DF29ptU5RF4G5Ezh4udNa9a8WMkbwTX5Du7Qn1RVHPbaElTvnNalbFreZ+Nb6Ds7A8+mNRnNj/jPNHNY4ahNDdNRhWnpWENVgDugjVWC0qPg6Mz6gF9NseZztbyZHCSLP/f1kYLseTt0paZRm4uVidMxxFDoDtkYzPbdSpCIkOvRNzvEA7kxt4RKAP25TIozvJMOZIyw+0tNlr3+G9qczQcklo+PnDJCpx5YNmN7j;tRR3w+OENSukLmOct2qk8g=="

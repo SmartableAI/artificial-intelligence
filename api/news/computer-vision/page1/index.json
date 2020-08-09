@@ -247,6 +247,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-04-university-of-chicago-researchers-are-building-a-tool-to-protect-your-pictures-from-facial-recognition-systems.md",
+      "title": "University of Chicago researchers are building a tool to protect your pictures from facial recognition systems",
+      "excerpt": "The big picture: Face recognition is quickly becoming one of the biggest threats to our privacy, with many startups looking to create commercial services around this technology while exploiting the immense number of photos we've uploaded online. There is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-04-image-16.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html",
+      "publishedDateTime": "2020-08-04T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-federal-bill-would-ban-corporate-facial-recognition-without-consent.md",
       "title": "Federal bill would ban corporate facial recognition without consent",
       "excerpt": "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent.",
@@ -304,7 +354,7 @@
       "webUrl": "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 282,
+      "heat": 272,
       "tags": null,
       "images": [
         {
@@ -1401,47 +1451,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-facebook-adds-100-million-to-facial-recognition-settlement-over-tagged-photos.md",
-      "title": "Facebook adds $100 million to facial recognition settlement over tagged photos",
-      "excerpt": "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "publishedDateTime": "2020-07-24T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

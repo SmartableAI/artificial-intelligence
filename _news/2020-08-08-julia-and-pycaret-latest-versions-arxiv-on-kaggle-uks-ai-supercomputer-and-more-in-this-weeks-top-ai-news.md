@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-08T12:36:00Z
 webUrl: "https://www.kaggle.com/Cornell-University/arxiv"
 type: article
 quality: 118
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -21,22 +21,6 @@ images:
     width: 1200
     height: 1200
     isCached: true
-
-related:
-  - title: "Atos Partners with University of Oxford on Largest AI Supercomputer in the UK"
-    excerpt: "facility – a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."
-    publishedDateTime: 2020-08-04T14:55:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/atos-partners-with-university-of-oxford-on-largest-ai-supercomputer-in-the-uk/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 36
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
-        width: 440
-        height: 440
-        isCached: true
 
 secured: "gjbWMbtIzI6eOjy5QGix6QEhl5vHGweFkid9W9Zev1kGK6SHRtkV2aj5Krf4dMYKyedS8tiTE+OwL8RseOEYxnwN1dV+3p2GlJAd9qc+4b13sGAomV3MVOwk01doeDj6tsuklO2Bv1EbRstrrJ5qz6vT76cOoah106y6crWgEx0hbcNu+mefWyijgVikThrBB5h9goLk70fMjlpw0zhloJ2trDaSdvOaUNEKHSAuzJIsmUsLW9NpnPzumxjm1Ds0gqsTxroDBI/aHlOl7UkpVSy/K5J0ZVyv+gvxH/qsJv5WRO+WhtSY/C9eco1sTlHWJQT/JRILZKNHC5n0zVM7G+Kxrg+58DxdqGYbymcTIt1juGhh4xOcMrle+uBQJgP7OusBy9X/BbDOMR2gsqNdr4cUD6oUDW3ncFitS0g3mhl2qGL8OxIACHhkEXPT4afOOUyelIYe1bHsx4+3h7o+thhsL9GAYhs2HWQfTsRjRUYZ447scdflJGpcgYWnbUP4OUXKe+3ShCtxkxKFlHm4nA==;qzZCICZ+KU7zJJD3CbuXZw=="
 ---

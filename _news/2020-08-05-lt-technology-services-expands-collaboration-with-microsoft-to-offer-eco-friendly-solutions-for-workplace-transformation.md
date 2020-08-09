@@ -18,15 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "LTTS expands collaboration with Microsoft for workplace transformation"
-    excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
-    publishedDateTime: 2020-08-04T13:52:00Z
-    webUrl: "https://www.dqindia.com/ltts-expands-collaboration-microsoft-workplace-transformation/"
+  - title: "Envestnet Inc (ENV): Yodlee Rolls Out Hyper-Personalization Solutions For The Financial Industry"
+    excerpt: "The Yodlee arm of Envestnet Inc (NYSE: ENV) -- which is a leading data aggregation and analytics platform powering cloud-based innovation for digital financial services -- announced Insights Solutions."
+    publishedDateTime: 2020-08-05T16:27:00Z
+    webUrl: "https://pulse2.com/envestnet-inc-env-yodlee-rolls-out-hyper-personalization-solutions-for-the-financial-industry/"
+    ampWebUrl: "https://pulse2.com/envestnet-inc-env-yodlee-rolls-out-hyper-personalization-solutions-for-the-financial-industry/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/envestnet-inc-env-yodlee-rolls-out-hyper-personalization-solutions-for-the-financial-industry/amp/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 11
   - title: "Reissue: L&T Technology Services Expands Collaboration With Microsoft to Offer Eco-Friendly Solutions for Workplace Transformation"
     excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
     publishedDateTime: 2020-08-05T11:58:00Z

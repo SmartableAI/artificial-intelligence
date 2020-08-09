@@ -2,6 +2,56 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-30-why-companies-need-their-own-ai-code-of-conduct.md",
+      "title": "Why Companies Need Their Own AI Code Of Conduct",
+      "excerpt": "If companies are smart, they will craft their AI Principles and Ethics position soon and be ready for the demands the market and their customers will expect from them in the age of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2306d76e417b23d437a002%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/",
+      "publishedDateTime": "2020-07-30T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-hillels-tech-corner-kaiai-flips-the-script-on-therapy.md",
       "title": "Hillel's Tech Corner: Kai.ai flips the script on therapy",
       "excerpt": "There is, however, some good news. When it comes to artificial intelligence and natural language processing (NLP), we may just have the technological capabilities to offer therapy to those in need using their regular messaging service like WhatsApp and ...",
@@ -329,9 +379,9 @@
     {
       "path": "_news/2020-07-30-twelve-fintech-startups-selected-for-village-capitals-finance-forward-latin-america-2020-accelerator.md",
       "title": "Twelve Fintech Startups Selected for Village Capital's Finance Forward Latin America 2020 Accelerator",
-      "excerpt": "Village Capital, with the support of MetLife Foundation, PayPal, and Moody’s, today announced the twelve early-stage fintech startups selected to take part in Finance Forward Latin America 2020. An accelerator,",
+      "excerpt": "Over 80% of companies selected have one or more female founders, while over 40% are working from outside major fintech hubs in four different financial ... CIGE Mexico (Mexico) offers an AI solution that guarantees entrepreneurs advisory to manage their ...",
       "sourceUrl": null,
-      "webUrl": "https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator",
+      "webUrl": "https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -340,7 +390,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T09:21:00-07:00",
+      "publishedDateTime": "2020-07-30T09:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CSR Wire",
@@ -1090,47 +1140,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-googles-new-supercomputer-breaks-ai-records-setting-new-performance-ones.md",
-      "title": "Google's new supercomputer breaks AI records setting new performance ones",
-      "excerpt": "Google's latest TPU supercomputer can train the same model almost five orders of magnitude faster just five years later.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-google-supercomputer-nvidia-gpus-break-ai-performance-records-638280",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/07/ai-1-1596100384.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-google-supercomputer-nvidia-gpus-break-ai-performance-records-638280",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-google-supercomputer-nvidia-gpus-break-ai-performance-records-638280",
-      "publishedDateTime": "2020-07-30T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

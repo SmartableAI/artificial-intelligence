@@ -2,6 +2,104 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-07-13-microsoft-spinning-off-xiaoice-as-standalone-ai-venture-with-former-exec-harry-shum-as-chairman.md",
+      "title": "Microsoft spinning off XiaoIce as standalone AI venture, with former exec Harry Shum as chairman",
+      "excerpt": "Register today Subscribe to GeekWire's free newsletters to catch every headline Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/Xiaoice-image-1600x900-1-630x354.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/amp/",
+      "publishedDateTime": "2020-07-13T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-verizon-taps-google-cloud-for-contact-center-ai.md",
+      "title": "Verizon taps Google Cloud for Contact Center AI",
+      "excerpt": "Read More Google Cloud on Monday announced that Verizon is piloting its Contact Center AI technology to improve its customer experiences. The deal shows Google making progress in its broad plans to win over the telecommunications industry with its cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/verizon-taps-google-cloud-for-contact-center-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/10/04/2e67b15e-0829-4ed6-99da-91694134f9e5/thumbnail/1200x675/92fd3e23cc4dab3e809ad7659da97bc5/verizon-store.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/verizon-taps-google-cloud-for-contact-center-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-taps-google-cloud-for-contact-center-ai/",
+      "publishedDateTime": "2020-07-13T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-janggu-makes-deep-learning-a-breeze.md",
       "title": "Janggu makes deep learning a breeze",
       "excerpt": "Researchers have developed a new tool that makes it easier to maximize the power of deep learning for studying genomics. Imagine that before you could make dinner, you first had to rebuild the ...",
@@ -1260,104 +1358,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university.md",
-      "title": "How AI Researchers Are Tackling Transparent AI: Interview With Steve Eglash, Stanford University",
-      "excerpt": "One of the often cited challenges with AI is the inability to get well-understood explanations of how the AI systems are making decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/12/how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0b8c72147a4f0006e5c12f%2F0x0.jpg",
-          "width": 1200,
-          "height": 822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/12/how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/12/how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university/amp/",
-      "publishedDateTime": "2020-07-12T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15.md",
-      "title": "AI teammates are finally coming to Ghost Recon Breakpoint on July 15",
-      "excerpt": "Ubisoft today announced that the highly requested AI teammates feature is finally coming to its cooperative tactical title Ghost Recon Wildlands, letting solo players gain help from three AI Ghosts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1594590229_grb_screen01_teammates_goto_200712_9pm_cest_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/",
-      "publishedDateTime": "2020-07-12T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
