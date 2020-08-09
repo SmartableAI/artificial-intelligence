@@ -7,8 +7,6 @@ type: conference
 location: Online
 startDateTime: 2020-12-08T09:00:00Z
 endDateTime: 2020-12-11T17:00:00Z
-removed: true
-published: false
 
 provider:
   name: Data Science Salon
