@@ -135,35 +135,6 @@
       ]
     },
     {
-      "path": "_events/2020-09-30-data-science-salon-seattle-2020.md",
-      "title": "Data Science Salon Seattle 2020",
-      "excerpt": "Machine Learning and Artificial Intelligence Conference in Retail and eCommerce The data science salon is a unique vertical focused conference which brings together specialists face-to-face to educate each other, illuminate best practices and innovate new solutions in a casual atmosphere with food, great coffee and entertainment. Data Science Salon Seattle is the only vertically-focused industry conference series around applications in AI and Machine Learning in Retails and eCommerce.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-09-30-data-science-salon-seattle-2020/index.json",
-      "webUrl": "https://www.datascience.salon/seattle/",
-      "originalUrl": "https://www.datascience.salon/seattle/",
-      "name": "Data Science Salon Seattle 2020",
-      "type": "conference",
-      "startDateTime": "2020-09-30T02:00:00-07:00",
-      "endDateTime": "2020-09-30T10:00:00-07:00",
-      "website": "https://www.datascience.salon/seattle/",
-      "provider": {
-        "name": "datascience.salon",
-        "domain": "datascience.salon"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "images": [
-        {
-          "url": "https://www.datascience.salon/wp-content/uploads/2020/06/DSS-Webinars-background.jpg",
-          "width": 1800,
-          "height": 952,
-          "isCached": true
-        }
-      ]
-    },
-    {
       "path": "_events/2020-09-30-politico-ai-summit-brussels-2020.md",
       "title": "POLITICO AI Summit Brussels 2020",
       "excerpt": "AI has infiltrated every aspect of our lives, from the way we work and communicate to how we treat diseases and wage wars. Globally, businesses and governments are focusing on how to make the most out of this disruptive technology and mitigate the associated risks.",

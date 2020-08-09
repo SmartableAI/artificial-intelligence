@@ -6,9 +6,11 @@ website: https://www.datascience.salon/seattle/
 type: conference
 startDateTime: 2020-09-30T09:00:00Z
 endDateTime: 2020-09-30T17:00:00Z
+removed: true
+published: false
 
 provider:
-  name: datascience.salon
+  name: Data Science Salon
   domain: datascience.salon
 
 topics:
