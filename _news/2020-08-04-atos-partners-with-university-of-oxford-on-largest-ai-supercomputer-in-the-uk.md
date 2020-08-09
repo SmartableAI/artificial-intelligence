@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Atos International: Atos partners with University of Oxford on largest AI supercomputer in the UK"
-    excerpt: "facility - a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."
-    publishedDateTime: 2020-08-04T08:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50349443-atos-international-atos-partners-with-university-of-oxford-on-largest-ai-supercomputer-in-the-uk-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
 
 secured: "8F8gYLRT+9Jls1aQAUTHYUnszxgL1fkFOjaTW5PCUXLiEsIu/D4nZ9+Na7LlFajY7mhiAdmjw3x6Qcn9LMNs2wWZS0Gx6trRzTng7VUaqplv+SA05twoDZF/Ck7Z7D2DjQ8qwX7Ehyw/iHmCAY1k9ZSHZVqAU3hohmJ1t428wB6Mq831IETfHpX+DDCkq94PZdP+Q+HsH3aL0KuMwDHlDYicBEXGdUMX9ziyAL5Eh7BHy6pENfG6QfTLPfoljuB6IMkiIXUCKxEE8Ag544vS10x1ZqjpSBVvTyIUKO6K+cAXdIUCcViDCSkDMY4WJaxkg8P+B/SLfcC/+QazY5lkVx03dw6Qa5NXxhQNyqZOtpyFNhrVzsxI9ZP0Mc/38vu+BkaLpfNur/ofniPl6jXx3dERpAo2Y/En37n0wL5uJrCWEhw0QPsYmLWU44bPDIZIYbQPTXylovCi6nbazwZ368vtoIC7pMj4X5q7DKUpJXbjPz/ODeOPGaF3tpDF3jDE;zUS1/iECcp+Z40UQm0cWHg=="
 ---

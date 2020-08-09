@@ -56,20 +56,6 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "5 reasons why self-driving cars are still not on our roads"
-    excerpt: "Analysis: despite what Elon Musk might think, there are still obstacles ahead for fully autonomous cars Elon Musk thinks his company Tesla will have fully autonomous cars ready by the end of 2020. \"There are no fundamental challenges remaining,"
-    publishedDateTime: 2020-08-04T08:42:00Z
-    webUrl: "https://www.rte.ie/brainstorm/2020/0804/1157190-self-driving-cars-autonomous-cars-sensors-social-acceptability-safety/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 24
-    images:
-      - url: "https://img.rasset.ie/0014ed48-1600.jpg"
-        width: 1600
-        height: 896
-        isCached: true
 
 secured: "Vkq4qyxBB+l61bwMUFjzIPmnV/kPwlWWRjf3zosvF0M+FfcGKw+qTInF6y3vLTPCu4QDZAYqzE4pDUBn0KzEPFeUGM5TY0ete2EoPAWI3x675drPoWbS0OJVOzRChIoLiJ6Bw89xCqtanP7phUQO1SyYsNx6eznyxG79SWyYXHFuWlrWsfBgB3On9oTVYGV4ZP4Z9gcXApuzNZRYMg6WZoj2VslZsf7giUly+4iy5LkJdpsUlG9laj8J8WYwWGluI5V2Nr9ZtSctD1nLj+BbrmXAl/JfFn3JobviVmkTugThsPqq4oEa/ib5gqEbXH4GGFOQOKdQ78assUYDpJiFpg==;k4SOu+iZHUQpwoI5IbjuEQ=="
 ---

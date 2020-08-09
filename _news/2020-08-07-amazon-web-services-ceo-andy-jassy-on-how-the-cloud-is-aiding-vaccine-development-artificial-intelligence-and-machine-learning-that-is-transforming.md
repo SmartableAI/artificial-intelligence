@@ -5,8 +5,8 @@ excerpt: "CEO Andy Jassy discusses how cloud-based services have buttressed the 
 publishedDateTime: 2020-08-07T16:01:00Z
 webUrl: "https://www.businesswire.com/news/home/20200714005726/en/Amazon-Web-Services-CEO-Andy-Jassy-Cloud"
 type: article
-quality: 1
-heat: 1
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AWS AI
 
 images:
   - url: "https://mms.businesswire.com/media/20200714005726/en/536112/23/IHSM_Logo_H_prf_clr_web.jpg"

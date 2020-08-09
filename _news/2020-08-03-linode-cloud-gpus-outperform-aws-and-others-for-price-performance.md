@@ -2,27 +2,24 @@
 category: news
 title: "Linode Cloud GPUs Outperform AWS and Others for Price-Performance"
 excerpt: "Alternative cloud provider Linode has published a report titled \"GPU Price-Performance Benchmarking,\" highlighting commissioned research by Cloud Spectator evaluating the price-performance of Linode GPU-based virtual machines against those of Amazon Web Services,"
-publishedDateTime: 2020-08-03T11:00:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-9149653"
+publishedDateTime: 2020-08-03T23:23:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "4Nvh+Kzd9fWjS3hJ0/YLKQzhNrNU49GkBlUw3uhW7ZoncMiUvbGbZMI30Tc1jUEwbpsfKJZx8IKpuZxIgNlPl807pPYkB+tXe2i95myzQ0qtuWF+WjGQ2P8cgjEmf3yDUEiTUGDjtugmSRkz8X601l8ChBAmnlJFk2EJ2TWqPyDLgwiGUScOWTF97pYprZoseY3uHrIT4WV3UWJLCvxYZN/H3qBr88VLqLM1EMpdlxoqxF7eikqu9oy8bCvrzLivyY+Ub7yaU7SJ0JxESNa1TR/F8GIXzpRrg1nUZFcBtZXvYPmHHJa5Yw4U/Hp5ImOLyxJTHtrFrCEYQ/zjKYiDOg==;/DhagUPcV2kjdhtCsvN+mA=="
+secured: "4pdVGHMlGxUbTYOyQIpJRTYfwJZZwSzZ6bYDpkgId70ItBL7Pd9fXaiLu+PMOTIo41VAKVa6l9WUx7eT9WQ+f/HPBYcSt8M/Y51MXJ3pkMuSor1enn/xcqqpAe01MKGDqNiHPxQGXFRu7mFuLMJP3VnJuvq4FKbyYEH4f3qA60P+2HwpvYAVkdMkQCVkDrX22SbqkFi9AQYRkD5EehF7Lwg4Q0y1AQ4lI5qFMwc/w1SN2oOsm/VNqU5Y8xrMFwQ5MuMdi6xsZBPxWxxrF05LMDFksuOPrV43rXzr6ggoCEYDOHXTIDT0xIyEZNITS20qDRRUV41IJZpavt8Nt5ToFg==;1KioUASsUb361nOCl6X/Kg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-08T12:36:00Z
 webUrl: "https://www.kaggle.com/Cornell-University/arxiv"
 type: article
 quality: 118
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 440
         height: 440
         isCached: true
-  - title: "Atos International: Atos partners with University of Oxford on largest AI supercomputer in the UK"
-    excerpt: "facility - a national resource providing advanced GPU computing facilities to world-leading AI and machine learning experts from a consortium of eight UK universities and the Alan Turing Institute. The JADE2 supercomputer is built on NVIDIA DGX systems ..."
-    publishedDateTime: 2020-08-04T08:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-08/50349443-atos-international-atos-partners-with-university-of-oxford-on-largest-ai-supercomputer-in-the-uk-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 6
 
 secured: "gjbWMbtIzI6eOjy5QGix6QEhl5vHGweFkid9W9Zev1kGK6SHRtkV2aj5Krf4dMYKyedS8tiTE+OwL8RseOEYxnwN1dV+3p2GlJAd9qc+4b13sGAomV3MVOwk01doeDj6tsuklO2Bv1EbRstrrJ5qz6vT76cOoah106y6crWgEx0hbcNu+mefWyijgVikThrBB5h9goLk70fMjlpw0zhloJ2trDaSdvOaUNEKHSAuzJIsmUsLW9NpnPzumxjm1Ds0gqsTxroDBI/aHlOl7UkpVSy/K5J0ZVyv+gvxH/qsJv5WRO+WhtSY/C9eco1sTlHWJQT/JRILZKNHC5n0zVM7G+Kxrg+58DxdqGYbymcTIt1juGhh4xOcMrle+uBQJgP7OusBy9X/BbDOMR2gsqNdr4cUD6oUDW3ncFitS0g3mhl2qGL8OxIACHhkEXPT4afOOUyelIYe1bHsx4+3h7o+thhsL9GAYhs2HWQfTsRjRUYZ447scdflJGpcgYWnbUP4OUXKe+3ShCtxkxKFlHm4nA==;qzZCICZ+KU7zJJD3CbuXZw=="
 ---

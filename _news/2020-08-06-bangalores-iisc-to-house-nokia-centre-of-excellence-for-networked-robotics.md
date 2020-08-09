@@ -68,22 +68,6 @@ related:
         width: 2550
         height: 1700
         isCached: true
-  - title: "Nokia's new robotics lab with IISc will explore 5G use cases and other emerging technology"
-    excerpt: "Finnish telecom gear maker Nokia on Tuesday announced a collaboration with the Indian Institute of Science (IISc) in Bengaluru to establish a network robotics laboratory for research on socially relevant use cases based on 5G and emerging technologies."
-    publishedDateTime: 2020-08-04T08:15:00Z
-    webUrl: "https://www.businessinsider.in/tech/enterprise/news/nokias-new-robotics-lab-with-iisc-will-explore-5g-use-cases-and-other-emerging-technology/articleshow/77346870.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/enterprise/news/nokias-new-robotics-lab-with-iisc-will-explore-5g-use-cases-and-other-emerging-technology/amp_articleshow/77346870.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/enterprise/news/nokias-new-robotics-lab-with-iisc-will-explore-5g-use-cases-and-other-emerging-technology/amp_articleshow/77346870.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 64
-    images:
-      - url: "https://www.businessinsider.in/thumb/msid-77346900,height-275,width-412,imgsize-80384/tech/enterprise/news/nokias-new-robotics-lab-with-iisc-will-explore-5g-use-cases-and-other-emerging-technology/nokia_edited.jpg"
-        width: 412
-        height: 275
-        isCached: true
   - title: "Nokia to set up robotics lab at IISc for 5G research"
     excerpt: "The Nokia Centre of Excellence (CoE) for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI ... between academia, start-ups and industry ecosystem partners ..."
     publishedDateTime: 2020-08-05T06:01:00Z
@@ -121,24 +105,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 34
-  - title: "Nokia to Set-up Robotics Lab at IISc, Fellowships to be Offered to Select Students"
-    excerpt: "The CoE will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI) to develop socially relevant use cases across areas like emergency management, agriculture and industrial automation."
-    publishedDateTime: 2020-08-04T07:34:00Z
-    webUrl: "https://www.dqindia.com/nokia-set-robotics-lab-iisc-fellowships-offered-select-students/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 28
-  - title: "Nokia to set up robotics lab at IISc for research on use cases based on 5G and emerging technologies"
-    excerpt: "One area is using drones for remote management of agricultural orchards to promote water conservation and avoid human contact with pesticide"
-    publishedDateTime: 2020-08-04T07:27:00Z
-    webUrl: "https://www.dqindia.com/nokia-set-robotics-lab-iisc-research-use-cases-based-5g-emerging-technologies/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "/Lmd7uypjdzosMnPOFy2TSAAtQGITv7eJ5ZFiL7omcuZyLc+Sg4jujCZ4HnTiIrRIkZ/0y4OBJ5z8ZUBVf3vvhWJSWNvyK31IJ1A86AOkzvTq9b0F8lV1l45NwQazvHhpjq+S3nuy9sZ64+vlok0dw9WJ8qPPdfcRE+tJODMqvNit7DT7Vf8JXgvcXMBlIVMVxsEAT1Eq+4KUtzcQq1iL6XCZnLP4/OPA+oTheJOnaIMhrLONRLOmppMBb3h339xjUDnnYQP1MO7N1njq5W+4fBDzSxlPYkaVI5RFqnLJaKoeQGZDAioxlXNoo20ZpUOjYbn77l9kEUTM1AkpnC2zdtdHaKBj/hbdoT4K6sicDTLxAkKSop1jTymFZntlW71dIp1DjeWSjHrdMWKd+sQZG1UUK+BYD0kA8QiP2yWuQEHjxtkwhd+UheFEoW+7rXjc1IaxnAWlrOGSc04AmtYiXvNaROXtLbo3iEKEMQhzRpbAdiM3dGzgUV5Imo6yzal9aFNHqWl2hXPuanL/V2KJA==;WZ3er2S1PC7YrXcDOnlrrQ=="
 ---

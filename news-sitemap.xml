@@ -31,12 +31,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
-    <lastmod>2020-08-07T23:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/</loc>
     <lastmod>2020-08-07T22:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -619,6 +613,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997</loc>
+    <lastmod>2020-08-03T16:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing</loc>
     <lastmod>2020-08-03T16:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1027,6 +1027,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/il/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html</loc>
+    <lastmod>2020-07-30T12:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cioreview.com/news/organizations-successfully-scaling-their-ai-initiatives-see-biggest-benefit-in-growing-revenue-ahead-of-improving-operational-efficiency-pnid-268-cid-141.html</loc>
     <lastmod>2020-07-30T11:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1124,12 +1130,6 @@
   </url>
   <url>
     <loc>https://www.techrepublic.com/article/ai-new-gpt-3-language-model-takes-nlp-to-new-heights/</loc>
-    <lastmod>2020-07-30T05:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-301102905.html</loc>
     <lastmod>2020-07-30T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1783,6 +1783,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/</loc>
+    <lastmod>2020-07-27T14:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/07/27/a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind/</loc>
     <lastmod>2020-07-27T13:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1881,12 +1887,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/</loc>
     <lastmod>2020-07-27T06:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://insidehpc.com/2020/07/transform-raw-data-to-real-time-actionable-intelligence-using-high-performance-computing-at-the-edge/</loc>
-    <lastmod>2020-07-27T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

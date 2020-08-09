@@ -1004,6 +1004,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-27-nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications.md",
+      "title": "NVMe over Fabrics and GPU Direct Storage Boost HPC and AI Edge Applications",
+      "excerpt": "In this special guest feature, Tim Miller, VP of Product Marketing at One Stop Systems (OSS), discuses how deploying edge HPC solutions - instead of data movement over relatively slow or unsecure networks to distant datacenters - provides significant benefits in cost,",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/07/eos_with_bezel-with-SB2000-24.png",
+          "width": 600,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind.md",
       "title": "A beginner’s guide to the AI apocalypse: Humanity joins the hivemind",
       "excerpt": "Welcome to the latest article in TNW’s guide to the AI apocalypse. In this series we’ll examine some of the most popular doomsday scenarios prognosticated by modern AI experts. It’s ...",
@@ -1081,38 +1122,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data.md",
-      "title": "Datavard and Pyramid Analytics Announce Partnership to Help Customers Extend the Value of SAP Data",
-      "excerpt": "Under the partnership, Pyramid Analytics gains the rights to re-sell Datavard’s flagship product—Datavard Glue®. Pyramid is an enterprise BI platform that supports the full analytics workflow, from data modeling to dashboards and reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data/article_569ca5a7-fd83-5731-9fdf-72c42ac6e678.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null

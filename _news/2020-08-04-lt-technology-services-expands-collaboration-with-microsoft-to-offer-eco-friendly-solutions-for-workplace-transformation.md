@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "LTTS expands collaboration with Microsoft to offer workplace transformation solutions"
-    excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms,"
-    publishedDateTime: 2020-08-04T08:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/articleshow/77346713.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-410760,msid-77327714/dodo-drop-the-indian-shareit-developed-by-kashmiri-teenager.jpg"
-        width: 412
-        height: 255
-        isCached: true
   - title: "LTTS expands collaboration with Microsoft for workplace transformation"
     excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
     publishedDateTime: 2020-08-04T13:52:00Z
