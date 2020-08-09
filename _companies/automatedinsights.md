@@ -2,7 +2,7 @@
 name: "Automated Insights"
 overview: "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep."
 type: "profile"
-heat: 64
+heat: 50
 
 website: https://automatedinsights.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "AInsights"
   url: "https://twitter.com/AInsights"
-  followers: 4741
+  followers: 4740
 
 size: 51-200 employees
 yearFounded: 2007
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ziizj6u1f6M"
 
-secured: "7UxWLiUc1Qhl0z6S+NVbrQQOWqjv/S9xVL0ZVFdybzD600z9ICGuCmPUzgAhya5mvSNDnDqBZSSkk6ld4KJg77NkHJQVE6WnGBeFdQEhIUlbaTgsrZ8yjL/lJ7l3ERl1H7FE+Vot0daWiPAm0nHDXQcqwbzIdbe30uvbeTLrapeh9EiutyNzJQ1VvwZogUdlKQZwKpuTmexRxHS8v0OXY2UW1tFZww/YsHxmoR9kiHX4z48ISx3GalKawX0mF3v2mW5VFZ+zxBjdRIuUvAXBxhawKlDrQxJPNjA91JVJ/C3gxDl5KAUV2IjVtMJhcm+GOYX4+llTg9dQPA5yFTdsioSODC5LppbgUr5YHpEv8GMuZ6eEoNzVkx3oMf1xKCbY;6PiZuQrZSHkzo72yYRvpYw=="
+secured: "cp/bAadt2yMlEK5KVKrA6on8HwNPHwoR/VZNv/TSmhmHIHJbtLvwwEJQncYMAVNnrJg9zDzGzzBmlaeYBQ+vPVCUIwxbdqHmDwGy7zNEqE3hvTpM1UThuEXWQOPovGqWWOr261c83wijIfSQqjfSGRfDGFnilbqE7RGpdwIfjCUnb/fzzt1nwPmb8Ht8V9Wul1w8oIGWeEScMCPG8+vf6wUlwNM1HirqxH9Onpr4Vy6Ge/3aFn/puApF8h7YLpdAmIDsS7ORQJ0yv1gSv5KQdTibOBVuXhJ2zdw8ggAQyZmFmt9odotUwnpOKnGDlbLEIlQhUPzRXGjDvzId7g22SFX0HDz+4xIBxDIclFHofGkkP6gmU9opcsGVkeO6ZzhZ;ka97R/KAE+8uxOzIBL014Q=="
 ---
 
