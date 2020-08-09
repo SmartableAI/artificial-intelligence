@@ -1,9 +1,9 @@
 ---
 category: news
 title: "NVMe over Fabrics and GPU Direct Storage Boost HPC and AI Edge Applications"
-excerpt: "In this special guest feature, Tim Miller, VP of Product Marketing at One Stop Systems (OSS), discuses how deploying edge HPC solutions - instead of data movement over relatively slow or unsecure networks to distant datacenters - provides significant benefits in cost,"
-publishedDateTime: 2020-07-27T21:06:00Z
-webUrl: "https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/"
+excerpt: "With the ever advancing capability of GPU subsystems, the bottleneck for many of these applications has moved to the storage subsystem requiring new innovations in data IO architectures.” There are a number of technologies and innovations which address t ..."
+publishedDateTime: 2020-07-27T13:05:00Z
+webUrl: "https://insidehpc.com/2020/07/transform-raw-data-to-real-time-actionable-intelligence-using-high-performance-computing-at-the-edge/"
 type: article
 
 provider:
@@ -14,12 +14,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://insidehpc.com/wp-content/uploads/2020/07/eos_with_bezel-with-SB2000-24.png"
-    width: 600
-    height: 420
-    isCached: true
-
-secured: "DhrXmwGGOIGgLxA5SxlG17aNqEdsNQp84REP6TLcbHi4DetgH3hvA9xf1AziFvD+gYVWDzIro/7WUQ/M5dPYPmxcJmaIelEC3krPstpG0t9hI+qDH6Vkh84fIF3JqUDnq3PvqJUncG680Vr2Inq6AUGXuSti5fsGe07NheXqUQkoAw5/QLUvstuWfkqHltcES6Ex+SCFh/LoWr9HOfdurO4OaajTk50eLUu8oedFa6ewFajKcEIPPVD42iBgQ7t0yXzNM56rZrCbXCaZIN2mskwRHWwpUkMo1VxYPRVJS4LdHOkoKd6cub7sEhPYhiLenxWCq/8JdYzmFShh0yhC3w==;5tO9x55df2hyTuK30MAtOQ=="
+secured: "m0G0MBCxdOMGC8Xsp+vxQ/7vfxh09Da+pXFoKelbXjl+TnHAOMsr9GZ7gHy/ug8b/Dnb8T+1aLdbbhvvDpcuYJVOyHUDH11YxyJg/rVdvWCxKRGnjLWpgtN481+c67D1WKp4729drKnRdGnmIlSiUebg6DNBjhC22iPEafyBZQIwanURtx9v2Ivi+iRmvWZwxYG8vEPilV+GXNGdgs3lw9Z1Vti8MQRZj1LRUtNc/SaeiAnt1x35kEdHbNNEyH6/T3sv2vd41KsBxNiMlhh667VODAkXx2SY4AY8y6d2dZjM2P73SdKZPl+0XeZoUbW7gponpQh8ZG08Ws5wqvoLWA==;hMZJX43DAY7ZGPwJTe+UIQ=="
 ---
 

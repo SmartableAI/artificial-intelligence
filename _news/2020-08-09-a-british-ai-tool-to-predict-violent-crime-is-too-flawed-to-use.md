@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/5f2dcc014950556fc2cf0812/191:100/w_1280,c_limit/business_police_1221515355.jpg"
@@ -56,6 +57,6 @@ related:
         height: 385
         isCached: true
 
-secured: "VxhDQuyrySRVLSzqh4qMAcuzuPK1JnjzQhhJ97ZMpNXr2UslC2PxQdcwckcYwOi9x5wNalFXuBAMqh2u4e8s+QMYW6JIiIXjBvg2Rsvp4ZZbWYR0nSxmQHjTO9rfTVVHh7raPrNsQxHA2D1BUv8enCWb9FeskfXiLUej4DO/fQLT1UIKc2PmadQkqOK59ShqEhtuN/LEpKzyMSh61F1juIdKEFoXTzizMUmnfYkfEkt1NgTMtcU/NHeYuk6sy3mde6oSZqQwXyZ9JFu7Bxi85ZiQ9IlRKs5hgTY1jmaIt+mWjAIEUNS87R0J6UsRtIQYWBlWY3X9ebbTqwUBHb8IKQ==;OM+dy5h8Mh5Aq3QATSMIrA=="
+secured: "8SIrJL4K6UuVdYaSlXTvr9XdKeRmSNMYjU/dsPXudi/1REkwjefdgdSQjf7MNN7i+UFsWWJ4uRBRFYSMyS4fos9pj5CSWRkfVYPrL/UBt4dM4NL2JsQsAuBZ/BQLLGOySDgwLvIsO/33PI9L1sNbgcQ8n3D+yrxXE2QquF2voTYJaWz2UcZfjSkEQwFcJYW0mse+ReZv0WGOwGRxoUmrdl3Aemxyx0gHZdpUbTUFjVMfmO3KqdGZxgEn8M6uI7FlRf79QT9nOK7uVcMCQJy2S4wV7CHJnoF2ouBsheGiNadUbqIk4uhEqIeSXABIkJSbg+q7GB6DigKJ0Jh1WdTk6+HZvUMxeeJwLZZKqD8A8mz68xduUKYS/yoBwyB964pM1vwL5XBlZlRDhs7CgtidP9nwa1ovV5NKjTkMvRSlQ+LgwqNeTUrt0XVrXgg6f0quOhATVxL5EUd41OdrJ3zQddtoGMM4yRX0evYUvRjnJgxZ6rUjA8zJqWxebnLDdX5zHGzQ/TsMrGVUdQwS4gLnUQ==;XRaDODQzJNdT5RjBxHx4FQ=="
 ---
 
