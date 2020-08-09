@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/r/2019/08/28/d4073bfe-b147-4a82-bc71-2e3d84d8d2fe/thumbnail/1200x675/28a969fb33d4643526ec70d03256b478/fb1.jpg"

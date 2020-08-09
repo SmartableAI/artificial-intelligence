@@ -26,101 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Portland, Maine Becomes The Thirteenth City To Ban Facial Recognition Tech"
-    excerpt: "At the time, some officials were reportedly hesitant over putting down their vote, since a ban on facial recognition technology would cut off the city’s local airport from tapping into this tech ..."
-    publishedDateTime: 2020-08-04T15:20:00Z
-    webUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789"
-    ampWebUrl: "https://gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/portland-maine-becomes-the-thirteenth-city-to-ban-faci-1844604789/amp"
+  - title: "Federal bill would ban corporate facial recognition without consent"
+    excerpt: "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent."
+    publishedDateTime: 2020-08-04T19:08:00Z
+    webUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/"
+    ampWebUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 102
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zyeqvljb3kppmiyedurz.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition"
-    excerpt: "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ..."
-    publishedDateTime: 2020-08-04T18:08:00Z
-    webUrl: "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
-    ampWebUrl: "https://www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
-    type: article
-    provider:
-      name: Vox
-      domain: vox.com
-    quality: 83
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/C2_oi-qdv4rsUQVXp7WfmDZD_zA=/0x0:3000x2000/1400x1050/filters:focal(1488x550:1968x1030):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67155167/GettyImages_857192090.0.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
-  - title: "Portland, Maine, Councilors Ban Facial Recognition Tech"
-    excerpt: "After months of delay, Portland councilors voted unanimously Monday night to ban the use of facial recognition technology by city officials, doing so via an ordinance that will take 30 days to go into effect."
-    publishedDateTime: 2020-08-04T16:07:00Z
-    webUrl: "https://www.govtech.com/public-safety/Portland-Maine-Councilors-Ban-Facial-Recognition-Tech.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Portland-Maine-Councilors-Ban-Facial-Recognition-Tech.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Portland-Maine-Councilors-Ban-Facial-Recognition-Tech.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
-        width: 927
-        height: 626
-        isCached: true
-  - title: "Facial recognition tech for chimps looks to bust online ape trafficking"
-    excerpt: "One of the best-known, and most controversial uses of the technology is facial recognition, in which programs use biometric markers to identify people in digital images. In conservation ..."
-    publishedDateTime: 2020-08-04T15:24:00Z
-    webUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/"
-    ampWebUrl: "https://news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
-    cdnAmpWebUrl: "https://news-mongabay-com.cdn.ampproject.org/c/s/news.mongabay.com/2020/08/facial-recognition-tech-for-chimps-looks-to-bust-online-ape-trafficking/amp/"
-    type: article
-    provider:
-      name: Mongabay
-      domain: mongabay.com
-    quality: 59
-    images:
-      - url: "https://imgs.mongabay.com/wp-content/uploads/sites/20/2020/08/04104940/Mongabay-ChimpFace-banner-1200x737.jpg"
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-silhouette-getty-1200x630-c-ar1.91.jpg"
         width: 1200
-        height: 737
+        height: 628
         isCached: true
-  - title: "The hack that could make face recognition think someone else is you"
-    excerpt: "Face recognition is rapidly proliferating as a way to identify people at airports and in high security scenarios—but it's far from foolproof. Researchers demonstrated on Wednesday that they can fool a modern face recognition system into seeing someone ..."
-    publishedDateTime: 2020-08-05T11:11:00Z
-    webUrl: "https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/"
-    ampWebUrl: "https://www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/05/1006008/ai-face-recognition-hack-misidentifies-person/amp/"
+  - title: "A new Senate bill would ban corporations from using facial recognition without people's explicit consent"
+    excerpt: "If passed, the bill would wipe out much of the business of controversial facial recognition companies like Clearview AI."
+    publishedDateTime: 2020-08-04T18:54:00Z
+    webUrl: "https://www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-bill-sanders-merkley-ban-corporate-facial-recognition-without-consent-2020-8?amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5f298ebede1e9651da0e22dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Merkley, Sanders introduce bill limiting corporate facial recognition"
+    excerpt: "Sens. Jeff Merkley (D-Ore.) and Bernie Sanders (I-Vt.) introduced legislation Tuesday aimed at limiting the corporate use of facial recognition technology."
+    publishedDateTime: 2020-08-04T22:51:00Z
+    webUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/510563-merkley-sanders-introduce-bill-limiting-corporate-facial-recognition?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 59
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/08/photo-1531328153895-18add1c7398e-e1596578469130.jpeg?w=1350"
-        width: 1350
-        height: 759
-        isCached: true
-  - title: "Australia needs to face up to the dangers of facial recognition technology"
-    excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
-    publishedDateTime: 2020-08-07T02:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology?via=indexdotco"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/5693fa938c56cec79d8c86af0ef39b92504ead44/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ce9e57c1c9647162b7e45f919c5b1863"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/merkleyjeff_071119gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Bulawayo based firm partners with Chinese company on facial recognition systems"
     excerpt: "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ..."
@@ -149,19 +101,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 54
-  - title: "Guangzhou Baiyun Airport launches facial recognition for domestic flights"
-    excerpt: "Guangzhou Baiyun International Airport in South China's Guangdong province has launched a new facial recognition service for passengers taking domestic flights. One ID, launched Wednesday at the airport,"
-    publishedDateTime: 2020-08-06T14:37:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202008/06/WS5f2c15bda31083481725eb95.html"
+  - title: "Guangzhou international airport introduces facial recognition service"
+    excerpt: "A passenger is using \"One ID\" facial recognition service at the Guangzhou Baiyun International Airport on August 5, 2020. Photo: Courtesy of the Guangzhou Baiyun International Airport Guangzhou Baiyun International Airport has introduced a new facial recognition service to simplify and speed up and check-in,"
+    publishedDateTime: 2020-08-06T06:20:00Z
+    webUrl: "https://www.globaltimes.cn/content/1196909.shtml"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 53
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202008/06/5f2c15bda3108348fce30235.png"
-        width: 623
-        height: 415
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-08-06/b44b7c56-fded-41b5-8128-ba34e6b1a5a0.jpeg"
+        width: 500
+        height: 300
         isCached: true
   - title: "Portland Votes to Ban Facial Recognition Ahead of Referendum"
     excerpt: "The ordinance will take effect in 30 days. Danielle West-Chuhta, the city’s top attorney, said that if voters approve the referendum in November to ban facial recognition it would replace the ordinance passed by the city council and can not be touched ..."
@@ -172,19 +124,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Maine city bans local police and government use of biometric facial recognition pending referendum"
-    excerpt: "Biometric facial recognition cannot be used by municipal agencies in Portland, Maine, after its City Council unanimously approved an ordinance banning it until a referendum in November, which will"
-    publishedDateTime: 2020-08-04T15:52:00Z
-    webUrl: "https://www.biometricupdate.com/202008/maine-city-bans-local-police-and-government-use-of-biometric-facial-recognition-pending-referendum"
+  - title: "Why aren't some people happy with facial recognition?"
+    excerpt: "Unlocking your phone and social media filters - these are just some of the ways we use facial recognition in our lives. It is also used by some authorities around the world, such as the police. However,"
+    publishedDateTime: 2020-08-05T06:00:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/53657056"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 40
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
+      - url: "http://c.files.bbci.co.uk/181E6/production/_113809789_p08mr1mx.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Portland votes to ban facial recognition ahead of referendum"
     excerpt: "A Maine city council has voted unanimously to ban the use of facial recognition technology. Portland City councilors voted Monday in favor of the proposal submitted by City Councilor Pious Ali in November,"
@@ -197,65 +149,20 @@ related:
       name: Washington Times
       domain: washingtontimes.com
     quality: 39
-  - title: "University of Chicago researchers create tool to block facial recognition technology"
-    excerpt: "\"Fawkes takes your personal images and makes tiny, pixel-level changes that are invisible to the human eye, in a process (called) image cloaking.\""
-    publishedDateTime: 2020-08-05T17:48:00Z
-    webUrl: "https://www.bizjournals.com/chicago/news/2020/08/05/university-of-chicago-computer-science-researchers.html"
-    ampWebUrl: "https://www.bizjournals.com/chicago/news/2020/08/05/university-of-chicago-computer-science-researchers.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/chicago/news/2020/08/05/university-of-chicago-computer-science-researchers.amp.html"
+  - title: "Senate bill would place limits on use of facial recognition, other biometrics by private companies"
+    excerpt: "Less than two months after legislation was introduced that would prohibit federal agencies from using facial recognition technology, as well as strip support from state and local law enforcement agencies that also leverage it, Sens. Jeff Merkley (D-Ore.)"
+    publishedDateTime: 2020-08-05T16:02:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21149050/senate-bill-would-place-limits-on-use-of-facial-recognition-other-biometrics-by-private-companies"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 32
-  - title: "Facial recognition could be coming to your office. Here's why companies pitching the tech say the pandemic is a huge tipping point for adoption."
-    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
-    publishedDateTime: 2020-08-06T20:52:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
+      name: Security
+      domain: securityinfowatch.com
+    quality: 25
     images:
-      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/08/bigstock_Ai_Facial_Recognition_On_Cctv__363978424.5f2ad4b202f2a.png?auto=format&fit=max&w=1200"
         width: 1200
-        height: 600
+        height: 866
         isCached: true
-  - title: "Portland votes to ban facial-recognition technology"
-    excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."
-    publishedDateTime: 2020-08-04T19:13:00Z
-    webUrl: "https://bangordailynews.com/2020/08/04/news/portland/portland-votes-to-ban-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/08/America-Protests-Maine-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Teams explore using facial-recognition technology to admit fans to games"
-    excerpt: "Facial recognition might be coming to a sporting arena near you. As sports leagues fight to make attending event as touchless as possible due to the coronavirus pandemic, a Wall Street Journal report says that some teams may consider adopting the ..."
-    publishedDateTime: 2020-08-04T17:13:00Z
-    webUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/"
-    ampWebUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 23
-  - title: "The Case for Banning Law Enforcement From Using Facial Recognition Technology"
-    excerpt: "Woodrow Hartzog and Evan Selinger published a report on Banning Law Enforcement From Using Facial Recognition Technology. The report was published by the Justice Collaborative Institute. “A federal law would be the most powerful step to regulate the use of this invasive and dangerous technology,"
-    publishedDateTime: 2020-08-06T13:47:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-08/case-banning-law-enforcement-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 16
 
 secured: "8ljQbLtpjy3HNosuav+q8LibkPJCv/+W/djLsPEvB3AAwIbOSTNAkiLgTxfUjVwwS4/c0qlJpsQZsqdRVl8wUYjHjemQ82Zg8bJUiQTp17Ch1/oR84zjyMMUmwiEKyRZg2Qa/50ny10loF9KdGaeTUKnWpOVodlgXPOUnAx6v/2X9vhkHetNRHue+jdNPNRvztVLd8jzRT0qIrcemQhfUAiMRezthYM7t01oMXoWcQKFpSP+/CZIBHQK/Y38PP/z2YH5WEQJWRiT6o5NCVB3NVvnARJdZeXa2OLdN086cHjYl/xxKhzT8KVr/hd3KgAIID9QczTuQyewLFKkcI04AA==;ze54uSpGyoHTK78Hgmfj8A=="
 ---

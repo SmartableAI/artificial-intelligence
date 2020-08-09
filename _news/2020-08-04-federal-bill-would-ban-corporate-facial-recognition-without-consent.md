@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp"
 type: article
 quality: 89
-heat: 139
+heat: 189
 published: true
 
 provider:
@@ -62,6 +62,33 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Bulawayo based firm partners with Chinese company on facial recognition systems"
+    excerpt: "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ..."
+    publishedDateTime: 2020-08-05T11:26:00Z
+    webUrl: "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/"
+    ampWebUrl: "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/"
+    cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/"
+    type: article
+    provider:
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 55
+    images:
+      - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2020/08/CL2055-installation.jpg"
+        width: 665
+        height: 278
+        isCached: true
+  - title: "Maine’s Biggest City Decides to Ban Facial Recognition Tech"
+    excerpt: "After months of delay, the Portland city council voted unanimously to ban use of facial recognition technology. The ordinance will begin in 30 days. The police say they have no intention of using it. (TNS) — After months of delay, Portland, Maine ..."
+    publishedDateTime: 2020-08-04T20:53:00Z
+    webUrl: "https://www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html"
+    ampWebUrl: "https://www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Maines-Biggest-City-Decides-to-Ban-Facial-Recognition-Tech.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 54
   - title: "Guangzhou international airport introduces facial recognition service"
     excerpt: "A passenger is using \"One ID\" facial recognition service at the Guangzhou Baiyun International Airport on August 5, 2020. Photo: Courtesy of the Guangzhou Baiyun International Airport Guangzhou Baiyun International Airport has introduced a new facial recognition service to simplify and speed up and check-in,"
     publishedDateTime: 2020-08-06T06:20:00Z
@@ -76,6 +103,15 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "Portland Votes to Ban Facial Recognition Ahead of Referendum"
+    excerpt: "The ordinance will take effect in 30 days. Danielle West-Chuhta, the city’s top attorney, said that if voters approve the referendum in November to ban facial recognition it would replace the ordinance passed by the city council and can not be touched ..."
+    publishedDateTime: 2020-08-05T00:32:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maine/articles/2020-08-04/portland-votes-to-ban-facial-recognition-ahead-of-referendum"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Why aren't some people happy with facial recognition?"
     excerpt: "Unlocking your phone and social media filters - these are just some of the ways we use facial recognition in our lives. It is also used by some authorities around the world, such as the police. However,"
     publishedDateTime: 2020-08-05T06:00:00Z
@@ -89,6 +125,33 @@ related:
       - url: "http://c.files.bbci.co.uk/181E6/production/_113809789_p08mr1mx.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Portland votes to ban facial recognition ahead of referendum"
+    excerpt: "A Maine city council has voted unanimously to ban the use of facial recognition technology. Portland City councilors voted Monday in favor of the proposal submitted by City Councilor Pious Ali in November,"
+    publishedDateTime: 2020-08-06T14:41:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 39
+  - title: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing."
+    excerpt: "Corporate Use of Facial Recognition Should Be Banned. But This Bill Will Help Slow It Down and That’s a Good Thing. Because of people like you, another world is possible. There are many battles to be won, but we will battle them together—all of us."
+    publishedDateTime: 2020-08-04T19:12:00Z
+    webUrl: "https://www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down"
+    ampWebUrl: "https://www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down?amp"
+    cdnAmpWebUrl: "https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/08/04/corporate-use-facial-recognition-should-be-banned-bill-will-help-slow-it-down?amp"
+    type: article
+    provider:
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 37
+    images:
+      - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
+        width: 288
+        height: 342
         isCached: true
   - title: "Senate bill would place limits on use of facial recognition, other biometrics by private companies"
     excerpt: "Less than two months after legislation was introduced that would prohibit federal agencies from using facial recognition technology, as well as strip support from state and local law enforcement agencies that also leverage it, Sens. Jeff Merkley (D-Ore.)"

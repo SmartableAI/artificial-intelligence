@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T19:52:00Z
 webUrl: "https://www.builtinchicago.org/2020/08/06/uchicago-tool-hides-facial-recognition-fawkes"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1091
     height: 587
     isCached: true
-
-related:
-  - title: "University of Chicago researchers are building a tool to protect your pictures from facial recognition systems"
-    excerpt: "The big picture: Face recognition is quickly becoming one of the biggest threats to our privacy, with many startups looking to create commercial services around this technology while exploiting the immense number of photos we've uploaded online. There is a ..."
-    publishedDateTime: 2020-08-04T19:55:00Z
-    webUrl: "https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-04-image-16.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facial-recognition could be coming to your office. Here's how companies are pitching the tech to landlords and trying to allay privacy concerns."
-    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
-    publishedDateTime: 2020-08-07T19:31:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
-    images:
-      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "Y700+6aCdcbcmOX4B7laDgzeKwOFPJnd2vckW3F1DUOaSqD33IgF13j2P3cmLTsN2r4u+xTAwx6egNSMle9USp4g04aVm+Sh7fwlQAesyIEK3+2cefQvFfSKHKuNA4c7vWmfY2rZIfWkxWIQlPl3xc2moMZuVewHY1ZJIotliCVrPR7UemOOntKmMBZICO/9YfcT4aNK2DcIJqT1qJsVfUH0RgNBMjFBBv3TyDtmMCiZfeJzOP5RXH0Ta64KbmhQWqQwlA9UXekAxWVFWt/uTd4DF29ptU5RF4G5Ezh4udNa9a8WMkbwTX5Du7Qn1RVHPbaElTvnNalbFreZ+Nb6Ds7A8+mNRnNj/jPNHNY4ahNDdNRhWnpWENVgDugjVWC0qPg6Mz6gF9NseZztbyZHCSLP/f1kYLseTt0paZRm4uVidMxxFDoDtkYzPbdSpCIkOvRNzvEA7kxt4RKAP25TIozvJMOZIyw+0tNlr3+G9qczQcklo+PnDJCpx5YNmN7j;tRR3w+OENSukLmOct2qk8g=="
 ---

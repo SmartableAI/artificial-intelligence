@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/06/why-elon-musk-is-wrong-about-level-5-self-driving-cars-syndication/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Yandex begins testing self-driving cars in Michigan"
+    excerpt: "Yandex announced that it will begin testing self-driving cars in the city of Ann Arbor, Michigan, expanding from test sites including Tel Aviv and Moscow."
+    publishedDateTime: 2020-08-06T11:06:00Z
+    webUrl: "https://venturebeat.com/2020/08/06/yandex-begins-testing-self-driving-cars-in-michigan/"
+    ampWebUrl: "https://venturebeat.com/2020/08/06/yandex-begins-testing-self-driving-cars-in-michigan/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/yandex-begins-testing-self-driving-cars-in-michigan/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/574ee32d-323f-469a-bda2-2c80c9c88afa-e1596578967737.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Anthony Levandowski, the self-driving car"
     excerpt: "A few months after Otto was founded, Uber acquired the small outfit for a reported $680 million and put Levandowski in charge of its entire self-driving effort. Waymo alleged that the ride-hailing giant set up the deal with Levandowski so it could use ..."
     publishedDateTime: 2020-08-05T00:45:00Z

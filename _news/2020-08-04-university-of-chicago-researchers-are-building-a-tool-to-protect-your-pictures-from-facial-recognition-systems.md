@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/86233-university-chicago-researche
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -30,34 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "UChicago Researchers Made a Photo-Editing Tool That Hides Your Identity From Facial Recognition Algorithms"
-    excerpt: "More than 100,000 people have downloaded the free tool, which \"cloaks\" faces in photos, protecting people's identities from illegal data mining."
-    publishedDateTime: 2020-08-06T19:52:00Z
-    webUrl: "https://www.builtinchicago.org/2020/08/06/uchicago-tool-hides-facial-recognition-fawkes"
+  - title: "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition"
+    excerpt: "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ..."
+    publishedDateTime: 2020-08-04T18:08:00Z
+    webUrl: "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
+    ampWebUrl: "https://www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
+    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act"
     type: article
     provider:
-      name: Built In Chicago
-      domain: builtinchicago.org
-    quality: 21
+      name: Vox
+      domain: vox.com
+    quality: 83
     images:
-      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/2020-08/Screen%20Shot%202020-08-06%20at%2011.16.44%20AM.png"
-        width: 1091
-        height: 587
+      - url: "https://cdn.vox-cdn.com/thumbor/C2_oi-qdv4rsUQVXp7WfmDZD_zA=/0x0:3000x2000/1400x1050/filters:focal(1488x550:1968x1030):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67155167/GettyImages_857192090.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
-  - title: "Facial-recognition could be coming to your office. Here's how companies are pitching the tech to landlords and trying to allay privacy concerns."
-    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
-    publishedDateTime: 2020-08-07T19:31:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
+  - title: "Portland votes to ban facial-recognition technology"
+    excerpt: "Meant to be a tool to aid police in identifying suspects, the technology has come under fire from civil-rights advocates."
+    publishedDateTime: 2020-08-04T19:13:00Z
+    webUrl: "https://bangordailynews.com/2020/08/04/news/portland/portland-votes-to-ban-facial-recognition-technology/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 17
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 24
     images:
-      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/08/America-Protests-Maine-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
         isCached: true
+  - title: "Teams explore using facial-recognition technology to admit fans to games"
+    excerpt: "Facial recognition might be coming to a sporting arena near you. As sports leagues fight to make attending event as touchless as possible due to the coronavirus pandemic, a Wall Street Journal report says that some teams may consider adopting the ..."
+    publishedDateTime: 2020-08-04T17:13:00Z
+    webUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/"
+    ampWebUrl: "https://www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/general/news/teams-explore-using-facial-recognition-technology-to-admit-fans-to-games/amp/"
+    type: article
+    provider:
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 23
 
 secured: "L8jdxLeKXacTvLelPuMkEJNGsXCfR+SV5ueywEzvFfLZWQFn54mfk+cip9dPwS5hKumLAhgc6b6xFzhjpmXdkeNbNkSx7Vez6OLDFQYxs6BE3eOOuQpjBQQYLTXkZPXAvTlwNxgScFfAUVvIK9gcoAtUj6FWdQ/Hjx/A4kmv8h6PEllN99pWUH+B5/ab/9v5mF4BC3Re/POP0bMPVBZjO3zWEKcgru2jLhkf42/TQyVTbUYq3bfWT4J9zufxB43Y1FRYw2x4nOBraNjN4/BDBf5AyvDLrywPM164KAPgIvwxN5bvkzowgnrax1tm0e53ZAmWXH0gWXXA/LJgh4Bk0zVUvagLUAvDEwhppLHB/seBPa4vuvTGy/IHs+3Cy6neZOBoYKe+21JM+oczAUzaphUqfoNS1FjnPEMKr6/xSUyy62kMoqDlIdbeX/azBkvvTuvr0AXl9AI/xmUPfdu+vDELZn+wgT2dARF1z757bDGi0a/N/9h06cGw26QlkFpb;jMZxGAv1+iRvZpugnjCRmQ=="
 ---

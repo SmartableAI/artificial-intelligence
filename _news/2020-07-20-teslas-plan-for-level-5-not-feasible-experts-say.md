@@ -2,12 +2,9 @@
 category: news
 title: "Tesla's plan for Level 5 not feasible, experts say"
 excerpt: "That's the consensus from experts across the technology, safety and automotive realms, who say the Tesla and SpaceX CEO's claims about achieving Level 5 autonomy sometime this year are technologically infeasible and border on the preposterous."
-publishedDateTime: 2020-07-20T04:00:00Z
-webUrl: "https://www.autonews.com/mobility-report/teslas-plan-level-5-not-feasible-experts-say"
+publishedDateTime: 2020-07-20T10:49:00Z
+webUrl: "https://europe.autonews.com/automakers/teslas-plan-level-5-not-feasible-experts-say"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Automotive News
@@ -18,27 +15,11 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/3TESLA-MAIN_i_1.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/3TESLA-MAIN_i.jpg"
     width: 800
     height: 600
     isCached: true
 
-related:
-  - title: "Tesla's plan for Level 5 not feasible, experts say"
-    excerpt: "During a remote appearance at the World Artificial Intelligence Conference in Shanghai this month ... For comparison's sake, Waymo, the self-driving company spun from Google, has deployed a handful of minivans capable of Level 4 operations—those where ..."
-    publishedDateTime: 2020-07-21T14:38:00Z
-    webUrl: "https://www.rubbernews.com/automotive/teslas-plan-level-5-not-feasible-experts-say"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.rubbernews.com/s3fs-public/styles/800x600/public/Tesla%20autopilot_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
-secured: "ELfjjArOYEdy5wIRpMzoew5HHAsgXqG1I3Y8XWdcK6MUF60ZMEpSjITgGgLJYE7NiGQFox3B31XuUEKpgII2H9wkkuDDF7LKGRSudX6PYETDd+GaALiT/UL5GrcKp/7N8rzXhnJ7HOtdnPQaP9bLioM0J2zGi7MZP7yNELjJV+RhGoCThu4qB8jTpOQJ0SMHiAsSew2yqyN5Y/4e5IHk3lrzpoeTnDXxE4GBt+ItGwqwG61ZlZj3NtIKtK7lD1rm6Z8iH3/N1BjGmWNidJAiStzmBxgcFA3wF2V+yVpRVApwyoUgr/dG5dPYOqNgDcafsq2AC15Z8jseZCA9uy0eYnrVe5lPhFTxjBR+d+d8SgH9TZx73N3luOTDGljJ0tLkic3ARc+J8MDduLWJtuNtNGQEe+RVkx8YTwL1Eycehu6ti7g/RKn7cFM+2r1y4slSQwIVcoZ6oICtI1Ljgm7kB9mutwpwbJ0t70nmvU2b/s0pEYTAllQpasdlt9y9YcAMVN7/eBu1iKgEzGlPVl84JQ==;MF4NNCJh9c4MS95qtvJNWg=="
+secured: "Gp9dMaz1sEDOvMO6sliCMBSBtfbZxjxCu8pAs7IYh8Rc1NKvTqsXs02d0iQlPL5/WXhGIOV4ljDXWqwnKk72GpKjaP8ETFHTFVwbW7BcXlziHeCB2Svs823SGicf+HH4T70gdggFoYfw+SyrXwmVsrPQc7o7JUNPVd2M/9LUb/XE9CDP9wLuM3dg/T2VmuSupU4h1L6CIPciKBh0TmA042tzn/ncewu+0TAI7N4ZTNJXH/4Xg9voaToiDKP4AZ1mGWYBU0T7jbCqFDAInhxjVFLjiX3e1ShsESdxAYlbH1iMVkBF+hhDXVxhopkHqwBTcvZa9olV62XDmfSS7O2Vsg==;CKvBLx4lYeRAYG8S44lQcQ=="
 ---
 

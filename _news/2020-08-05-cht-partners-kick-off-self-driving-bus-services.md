@@ -40,6 +40,15 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "SK Telecom to use 5G for self-driving robot delivery service"
+    excerpt: "Woowa Brothers operates Korea’s biggest food delivery app by market share and has been focusing on these delivery services using smart, self-driving robots. Under the agreement,"
+    publishedDateTime: 2020-08-05T13:30:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15525/sk-telecom-to-use-5g-for-self-driving-robot-delivery-service"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "CQB45ci9NNkJlLIItTJHODTDryP4J01uN8RzAn1O5+CayysApJ1L3gGV8et0vizO6+B3S0LlWf8pKqiIYdf+avK8XGmHJBVyLo6YY9Wn0R9DgC8LHON1Qz+LocO7XyIo2HpotUdh59JTGsPgbXSsd+LG+KT2UGUptvyy6zsLPctRe/7cWs1Ux8xO+A9U6CrgCxcPQR28z/Wto+jAuK6vx5e0W6gX6ujD48B1wUM11wl9V94vaChn1LGlYeQyxC/zOhLa4uwYdILvxiTZJZv0Ukpz+eEOqCnqX6oPDjBR7/MsQ5qqjW9Zjp/eafJ5R00GHncGBYNbSxeIIm4kiuajgQ==;RAxKsRX58wA+Go3j/u1cUQ=="
 ---

@@ -42,6 +42,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Yandex begins testing self-driving cars in Michigan"
+    excerpt: "Yandex announced that it will begin testing self-driving cars in the city of Ann Arbor, Michigan, expanding from test sites including Tel Aviv and Moscow."
+    publishedDateTime: 2020-08-06T11:06:00Z
+    webUrl: "https://venturebeat.com/2020/08/06/yandex-begins-testing-self-driving-cars-in-michigan/"
+    ampWebUrl: "https://venturebeat.com/2020/08/06/yandex-begins-testing-self-driving-cars-in-michigan/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/yandex-begins-testing-self-driving-cars-in-michigan/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/574ee32d-323f-469a-bda2-2c80c9c88afa-e1596578967737.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tech in 2020: From Elon Musk’s self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "What to expect from the technology industry in 2020, from wider adoption of 5G and facial recognition tech to social media and fake news regulation."
     publishedDateTime: 2020-08-06T12:59:00Z
