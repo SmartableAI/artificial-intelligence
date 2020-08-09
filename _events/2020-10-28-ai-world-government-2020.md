@@ -6,7 +6,7 @@ website: https://www.aiworldgov.com/
 type: conference
 startDateTime: 2020-10-28T09:00:00Z
 endDateTime: 2020-10-30T17:00:00Z
-location: Online
+location: "Online"
 
 provider:
   name: AI World Government

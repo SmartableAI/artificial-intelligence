@@ -6,7 +6,7 @@ website: https://aiconference.london/
 type: conference
 startDateTime: 2020-10-22T09:00:00Z
 endDateTime: 2020-10-23T17:00:00Z
-location: Online
+location: "Online"
 
 provider:
   name: AI Conference

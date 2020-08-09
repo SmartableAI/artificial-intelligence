@@ -6,7 +6,7 @@ website: https://www.kinfos.events/aipsummit/
 type: conference
 startDateTime: 2020-11-18T09:00:00Z
 endDateTime: 2020-11-18T17:00:00Z
-location: New York, NY
+location: "New York, NY"
 
 provider:
   name: Kinfos Events

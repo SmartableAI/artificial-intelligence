@@ -49,15 +49,6 @@
       },
       "topics": [
         "AI"
-      ],
-      "images": [
-        {
-          "url": "https://1np04e3thcprxq5tj4az7bct-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Website-Icon.jpg",
-          "width": 2033,
-          "height": 1050,
-          "title": "Ai4 2020",
-          "isCached": false
-        }
       ]
     },
     {
@@ -144,35 +135,6 @@
       ]
     },
     {
-      "path": "_events/2020-09-21-gartner-data-analytics-summit-texas-2020.md",
-      "title": "Gartner Data & Analytics Summit Texas 2020",
-      "excerpt": "Demand for data and analytics skills has doubled inside IT, and even more rapidly outside IT. New business models and sweeping technology change, including AI, are driving the need for a data and analytics-centric culture.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-09-21-gartner-data-analytics-summit-texas-2020/index.json",
-      "webUrl": "https://www.gartner.com/en/conferences/na/data-analytics-us",
-      "originalUrl": "https://www.gartner.com/en/conferences/na/data-analytics-us",
-      "name": "Gartner Data & Analytics Summit Texas 2020",
-      "type": "conference",
-      "startDateTime": "2020-09-21T02:00:00-07:00",
-      "endDateTime": "2020-09-24T10:00:00-07:00",
-      "website": "https://www.gartner.com/en/conferences/na/data-analytics-us",
-      "provider": {
-        "name": "gartner.com",
-        "domain": "gartner.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "images": [
-        {
-          "url": "https://emtemp.gcom.cloud/ngw/commonassets/images/build-graphics/corporate-homepage/conference-promotion/conference-images-na.jpg",
-          "width": 510,
-          "height": 300,
-          "isCached": true
-        }
-      ]
-    },
-    {
       "path": "_events/2020-09-30-data-science-salon-seattle-2020.md",
       "title": "Data Science Salon Seattle 2020",
       "excerpt": "Machine Learning and Artificial Intelligence Conference in Retail and eCommerce The data science salon is a unique vertical focused conference which brings together specialists face-to-face to educate each other, illuminate best practices and innovate new solutions in a casual atmosphere with food, great coffee and entertainment. Data Science Salon Seattle is the only vertically-focused industry conference series around applications in AI and Machine Learning in Retails and eCommerce.",
@@ -230,16 +192,17 @@
       ]
     },
     {
-      "path": "_events/2020-10-01-ai-data-science-in-trading-new-york-2020.md",
+      "path": "_events/2021-03-15-ai-data-science-in-trading-new-york-2020.md",
       "title": "AI & Data Science in Trading New York 2020",
       "excerpt": "AI & Data Science in Trading brings together experts in the use of AI and advanced data analytic techniques within asset management, primarily for finding alpha, managing risk and optimizing portfolios.  Initially exclusively used by analysts within quantitative firms, automation and outsourced tools are allowing fundamental firms to benefit from these techniques -  providing new insight for their discretionary strategies.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-10-01-ai-data-science-in-trading-new-york-2020/index.json",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2021-03-15-ai-data-science-in-trading-new-york-2020/index.json",
       "webUrl": "https://www.aidatatrading.com/",
       "originalUrl": "https://www.aidatatrading.com/",
       "name": "AI & Data Science in Trading New York 2020",
       "type": "conference",
       "startDateTime": "2020-10-01T02:00:00-07:00",
       "endDateTime": "2020-10-01T10:00:00-07:00",
+      "location": "New York, NY",
       "website": "https://www.aidatatrading.com/",
       "provider": {
         "name": "aidatatrading.com",
@@ -258,35 +221,6 @@
       ]
     },
     {
-      "path": "_events/2020-10-01-reinforce-conference-2020.md",
-      "title": "Reinforce Conference 2020",
-      "excerpt": "In recent years our ability to apply AI and Deep Learning to real-world problems and products has increased exponentially. Andrew Ng has famously said that AI is the “New Electricity”.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-10-01-reinforce-conference-2020/index.json",
-      "webUrl": "http://reinforceconf.com/",
-      "originalUrl": "http://reinforceconf.com/",
-      "name": "Reinforce Conference 2020",
-      "type": "conference",
-      "startDateTime": "2020-10-01T02:00:00-07:00",
-      "endDateTime": "2020-12-31T09:00:00-08:00",
-      "website": "http://reinforceconf.com/",
-      "provider": {
-        "name": "reinforceconf.com",
-        "domain": "reinforceconf.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "images": [
-        {
-          "url": "http://reinforceconf.com/reinforce/images/reinforce_2020_speakers_and_logos_group.jpg",
-          "width": 1920,
-          "height": 1080,
-          "isCached": true
-        }
-      ]
-    },
-    {
       "path": "_events/2020-10-05-middle-east-banking-ai-analytics-summit-dubai-2020.md",
       "title": "Middle East Banking AI & Analytics Summit Dubai 2020",
       "excerpt": "3rd Edition Middle East Banking AI & Analytics Summit brings together 300+ senior-level executives & decision-makers from the Banking and Financial Services sector along with all that's top of mind for those in Artificial Intelligence, RPA, Machine Learning, Big Data & Analytics.",
@@ -299,7 +233,7 @@
       "endDateTime": "2020-10-06T10:00:00-07:00",
       "website": "https://www.mebankingai.com/",
       "provider": {
-        "name": "mebankingai.com",
+        "name": "Middle East Banking AI & Analytics",
         "domain": "mebankingai.com"
       },
       "topics": [
@@ -317,67 +251,6 @@
       ]
     },
     {
-      "path": "_events/2020-10-07-data-science-salon-miami-2020.md",
-      "title": "Data Science Salon Miami 2020",
-      "excerpt": "The data science salon is a unique vertical focused conference which brings together specialists face-to-face to educate each other, illuminate best practices and innovate new solutions in a casual atmosphere with food, great coffee and entertainment. Data Science Salon Miami is the only vertically-focused industry conference series around applications in AI and Machine Learning in Finance, Healthcare, and Hospitality.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-10-07-data-science-salon-miami-2020/index.json",
-      "webUrl": "https://www.datascience.salon/miami/",
-      "originalUrl": "https://www.datascience.salon/miami/",
-      "name": "Data Science Salon Miami 2020",
-      "type": "conference",
-      "startDateTime": "2020-10-07T02:00:00-07:00",
-      "endDateTime": "2020-10-08T10:00:00-07:00",
-      "website": "https://www.datascience.salon/miami/",
-      "provider": {
-        "name": "datascience.salon",
-        "domain": "datascience.salon"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance",
-        "AI in Healthcare",
-        "AI in Healthcare"
-      ],
-      "images": [
-        {
-          "url": "https://www.datascience.salon/wp-content/uploads/2020/06/DSS-Webinars-background.jpg",
-          "width": 1800,
-          "height": 952,
-          "isCached": true
-        }
-      ]
-    },
-    {
-      "path": "_events/2020-10-15-data-science-salon-new-york-2020.md",
-      "title": "Data Science Salon New York 2020",
-      "excerpt": "Machine Learning and Artificial Intelligence Conference in Media, Entertainment and Advertising Data Science Salon New York is the only vertically-focused industry conference series around applications in AI and Machine Learning in Media, Entertainme...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/events/2020-10-15-data-science-salon-new-york-2020/index.json",
-      "webUrl": "https://www.datascience.salon/newyork/",
-      "originalUrl": "https://www.datascience.salon/newyork/",
-      "name": "Data Science Salon New York 2020",
-      "type": "conference",
-      "startDateTime": "2020-10-15T02:00:00-07:00",
-      "endDateTime": "2020-10-15T10:00:00-07:00",
-      "website": "https://www.datascience.salon/newyork/",
-      "provider": {
-        "name": "datascience.salon",
-        "domain": "datascience.salon"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "images": [
-        {
-          "url": "https://www.datascience.salon/wp-content/uploads/2020/06/DSS-Webinars-background.jpg",
-          "width": 1800,
-          "height": 952,
-          "isCached": true
-        }
-      ]
-    },
-    {
       "path": "_events/2020-10-22-ai-world-congress-london-2020.md",
       "title": "AI World Congress London 2020",
       "excerpt": "AI Conference in London is AI World Congress 2020, fostering debate as AI events and Artificial Intelligence Conference on ai technology and ai business, ai industry and smart cities. It is one of leading global ML AI events in UK Europe.",
@@ -388,9 +261,10 @@
       "type": "conference",
       "startDateTime": "2020-10-22T02:00:00-07:00",
       "endDateTime": "2020-10-23T10:00:00-07:00",
+      "location": "Online",
       "website": "https://aiconference.london/",
       "provider": {
-        "name": "aiconference.london",
+        "name": "AI Conference",
         "domain": "aiconference.london"
       },
       "topics": [
@@ -417,9 +291,10 @@
       "type": "conference",
       "startDateTime": "2020-10-28T02:00:00-07:00",
       "endDateTime": "2020-10-30T10:00:00-07:00",
+      "location": "Online",
       "website": "https://www.aiworldgov.com/",
       "provider": {
-        "name": "aiworldgov.com",
+        "name": "AI World Government",
         "domain": "aiworldgov.com"
       },
       "topics": [
@@ -445,9 +320,10 @@
       "type": "conference",
       "startDateTime": "2020-11-09T01:00:00-08:00",
       "endDateTime": "2020-11-10T09:00:00-08:00",
+      "location": "Birmingham, UK",
       "website": "http://www.aimlconvention.com/",
       "provider": {
-        "name": "aimlconvention.com",
+        "name": "AI & Machine Learning Convention",
         "domain": "aimlconvention.com"
       },
       "topics": [
@@ -468,9 +344,10 @@
       "type": "conference",
       "startDateTime": "2020-11-11T01:00:00-08:00",
       "endDateTime": "2020-11-11T09:00:00-08:00",
+      "location": "Los Angeles, CA",
       "website": "https://www.datascience.salon/la/",
       "provider": {
-        "name": "datascience.salon",
+        "name": "Data Science Salon",
         "domain": "datascience.salon"
       },
       "topics": [
@@ -497,10 +374,19 @@
       "type": "conference",
       "startDateTime": "2020-11-16T01:00:00-08:00",
       "endDateTime": "2020-11-18T09:00:00-08:00",
+      "location": "Online",
       "website": "https://mlconference.ai/munich/",
       "provider": {
-        "name": "mlconference.ai",
-        "domain": "mlconference.ai"
+        "name": "ML Conference",
+        "domain": "mlconference.ai",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mlconference.ai-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "AI",
@@ -526,9 +412,10 @@
       "type": "conference",
       "startDateTime": "2020-11-18T01:00:00-08:00",
       "endDateTime": "2020-11-18T09:00:00-08:00",
+      "location": "New York, NY",
       "website": "https://www.kinfos.events/aipsummit/",
       "provider": {
-        "name": "kinfos.events",
+        "name": "Kinfos Events",
         "domain": "kinfos.events"
       },
       "topics": [
@@ -556,6 +443,7 @@
       "type": "conference",
       "startDateTime": "2021-01-01T01:00:00-08:00",
       "endDateTime": "2021-01-31T09:00:00-08:00",
+      "location": "Yokohama, Japan",
       "website": "https://www.ijcai20.org",
       "provider": {
         "name": "ijcai20.org",
@@ -584,9 +472,10 @@
       "type": "conference",
       "startDateTime": "2021-02-03T01:00:00-08:00",
       "endDateTime": "2021-02-04T09:00:00-08:00",
+      "location": "Hong Kong, China",
       "website": "https://www.themartechsummit.com/hongkong",
       "provider": {
-        "name": "themartechsummit.com",
+        "name": "The MarTech Summit",
         "domain": "themartechsummit.com"
       },
       "topics": [
@@ -615,8 +504,16 @@
       "endDateTime": "2021-06-16T10:00:00-07:00",
       "website": "http://gdtechevent.com/",
       "provider": {
-        "name": "gdtechevent.com",
-        "domain": "gdtechevent.com"
+        "name": "GDTECH",
+        "domain": "gdtechevent.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gdtechevent.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "AI",

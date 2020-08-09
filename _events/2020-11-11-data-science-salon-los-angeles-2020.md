@@ -6,7 +6,7 @@ website: https://www.datascience.salon/la/
 type: conference
 startDateTime: 2020-11-11T09:00:00Z
 endDateTime: 2020-11-11T17:00:00Z
-location: Los Angeles, CA
+location: "Los Angeles, CA"
 
 provider:
   name: Data Science Salon

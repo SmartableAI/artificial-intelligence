@@ -7,6 +7,7 @@ type: conference
 startDateTime: 2020-10-01T09:00:00Z
 endDateTime: 2020-12-31T17:00:00Z
 removed: true
+published: false
 
 provider:
   name: Reinforce Conference
