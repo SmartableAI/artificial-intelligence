@@ -34,20 +34,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "CHT, partners kick off self-driving bus services"
-    excerpt: "Kingwaytek Technology and Tamsui Bus has begun autonomous passenger transport services on a dedicated section along a light rail line in New Taipei, according to sources at CHT."
-    publishedDateTime: 2020-08-05T02:02:00Z
-    webUrl: "https://www.digitimes.com/news/a20200804PD212.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200804PD212_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "Z1fOanGMyHH5b4eW7F9ygVjxWaEptcNsdwzuntd4jmX/04ROACdAuxYTYjhuXM+NXbz0XNjkgivaGY85nEMZkJYBlMZVh8lMcLdHQJKrfvdYO3/q+trzEATC/oGyV2+hWUvGHWQkynGXD9Bbsw0qBPKnLeKmS4Lsc02RFXjpJVZLv1RnpK/3qIAssQQiiBstphnPcQVq9C8doeqxranurx7KABiuIuSMtkBK7F2v2BnUbXQbk2s91Df6U9I9M8CxKV6PcUbcbRa0ac3Se41Vv60zMdEeYlyXa6E2JaCu4H9ZrxVGvToebGKsA64vTlTyi2rlxZInPVYaJD81wXwYOEZuZIiSer4BNsMWiUUx8uDQMc4jYQv9d1/NjADRYKRtMVPEzeGs9M8kk8HtiFXGEUpXaF0WsQjuV688dGMC9E7WbrDjInZqMVE/fAHKq7TDOm/AuoHn2sZLHW9yiPjge5V6uaCpy/Ib8J6utkkkuXHVzSDe6JcE6Q8WHGsfQkMTOX/ynB3Q/wQPggioHnYxzQ==;JwOS4Fhk1g5i5nHehqZ2/A=="
 ---

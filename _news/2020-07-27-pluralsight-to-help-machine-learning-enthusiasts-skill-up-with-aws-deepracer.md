@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer"
-excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have access to a variety of offerings, including a series of ..."
-publishedDateTime: 2020-07-27T12:08:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
+excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have ..."
+publishedDateTime: 2020-07-27T12:30:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16786243"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16786243"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "q7j2MuoEqF2XgM6offuX8fqiU3g242+QcWAFLBbg0q/BY8pRGaKtCjd5imRCJCKNaOViHoA1zGDBxSTGlkbYuZ7A4wAGa84o8hhATqVntXMToDHlBFVjB70JSL4tv85vNN68cKHEA8aqS2CRUcM2JRV/XCkJpBC4eFQq5af5pFPrIB0iQCfCMGpv9RmDOKoUnBYJZIVYJyDUlj3hrfbjDNd4AoH4A9FOQZR+QfxTwG4GnTgIX/cm6u/D/tw6MQx3TjnIqA0AS3BowvKCtlAzQpF+46KLnORZcPSw7aL4/19JNe55inKdyTFn3PFQJ5JQU4GGFsdyD3ZqZFXe3f1gbQ==;nhwx+j517uflCfzjW3zniw=="
+secured: "iz1wN8tqUsUpAyXre4uosiI2lke+7S3mmQ1JKVlFq/hgTGMFcl5fmBtR/QdVHhW7qVlTd6pM4xDvLjgbIrtAcrAX9u7ZxvtToUeO2ZKw281OBL180B9mlTxRK21UU1JEs2u5S78LBUhvwvRlGpKJ61GaUlsVMi3ITAH2BFEPEBd6Iup8mReidNHckQ5T4aQlNlRxX7eCM9wUMjqFZezi9S7fcv29YITu6TMYJmsQCOhH5Rf9/RgKHd3T1MGrTy6pg3AenlaHChLFGgCba2cl3n1UTFiThRp7Yio2yAlisCe5HZJSIwquSj6NC+R1sMvu8menMVGGXsMf2DTAb33SiQ==;31kg2ZeEGTQlP4TXMv8g3Q=="
 ---
 

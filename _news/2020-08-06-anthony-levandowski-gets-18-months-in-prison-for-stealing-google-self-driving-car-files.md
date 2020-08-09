@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files"
-    excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber's rival unit. Levandowski's conviction is one ..."
-    publishedDateTime: 2020-08-05T01:16:00Z
-    webUrl: "https://www.cnbc.com/2020/08/04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/08/04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 66
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106648265-1596584130509-UBER-LEVANDOWSKI.JPG?v=1596584247"
-        width: 4393
-        height: 2928
-        isCached: true
   - title: "The self-driving whizzkid who stole trade secrets from Google just got 18 months in prison — now wants to sue Uber for $4B"
     excerpt: "It seems we hadn’t heard the last from the case in which Google‘s former head of self-driving stole trade secrets, joined Uber, and declared bankruptcy after getting sued left, right ..."
     publishedDateTime: 2020-08-05T13:39:00Z
@@ -72,22 +56,6 @@ related:
         width: 796
         height: 448
         isCached: true
-  - title: "Ex-Google self-driving car chief sentenced for stealing trade secrets"
-    excerpt: "Anthony Levandowski, co-founder of Google’s self-driving car project, has been sentenced to 18 months in prison for stealing trade secrets and allegedly using them to help build a rival driverless programme at Uber,"
-    publishedDateTime: 2020-08-05T01:09:00Z
-    webUrl: "https://www.ft.com/content/496c76bf-2d26-4a54-ab3b-934fe019a576"
-    ampWebUrl: "https://amp.ft.com/content/496c76bf-2d26-4a54-ab3b-934fe019a576"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/496c76bf-2d26-4a54-ab3b-934fe019a576"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F24336686-85a3-4f00-9427-ef5e2cd965da.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Ex-Google engineer sentenced to 18 months for stealing self-driving car secrets"
     excerpt: "A former Google executive who stole thousands of documents about its self-driving car project before resigning and going to Uber was sentenced Tuesday to 18 months behind bars."
     publishedDateTime: 2020-08-05T15:11:00Z
@@ -103,22 +71,6 @@ related:
       - url: "https://www.nydailynews.com/resizer/xVhrb5plckFSELbAhjzoe3slXhE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPTOF3KFBZC4NHL5MCSEJFNWBY.jpg"
         width: 1200
         height: 826
-        isCached: true
-  - title: "Anthony Levandowski, self-driving tech pioneer, sentenced to prison for stealing trade secrets"
-    excerpt: "Anthony Levandowski, a former engineer for Google and Uber and a developer of technology for self-driving cars, was sentenced to 18 months in federal prison Tuesday for stealing trade secrets from Google. Levandowski, who pleaded guilty to the charge ..."
-    publishedDateTime: 2020-08-05T01:33:00Z
-    webUrl: "https://www.sfchronicle.com/business/article/Anthony-Levandowski-self-driving-tech-pioneer-15459192.php"
-    ampWebUrl: "https://www.sfchronicle.com/business/amp/Anthony-Levandowski-self-driving-tech-pioneer-15459192.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/business/amp/Anthony-Levandowski-self-driving-tech-pioneer-15459192.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 32
-    images:
-      - url: "https://s.hdnux.com/photos/61/45/21/12997715/17/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Former Google, Uber Self-Driving Engineer Sentenced To 18 Months In Prison, Seeks $4.1B In Earnouts"
     excerpt: "A former engineer at Alphabet Inc. (NASDAQ: GOOGL) (NASDAQ: GOOG) subsidiary Waymo, who pleaded guilty to stealing secrets related to self-driving technology from the search engine giant and passing them on to Uber Technologies Inc. (NYSE: UBER), has been ..."

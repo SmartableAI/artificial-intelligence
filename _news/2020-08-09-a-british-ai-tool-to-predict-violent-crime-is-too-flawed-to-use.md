@@ -5,8 +5,8 @@ excerpt: "A government-funded system known as Most Serious Violence was built to
 publishedDateTime: 2020-08-09T13:00:00Z
 webUrl: "https://www.wired.com/story/a-british-ai-tool-to-predict-violent-crime-is-too-flawed-to-use/"
 type: article
-quality: 69
-heat: 89
+quality: 67
+heat: 87
 published: true
 
 provider:
@@ -19,7 +19,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/5f2dcc014950556fc2cf0812/191:100/w_1280,c_limit/business_police_1221515355.jpg"
@@ -57,6 +56,6 @@ related:
         height: 385
         isCached: true
 
-secured: "PM0XhpPz64WMHFubSI3L9ljX5XjTix85BB2mSE0qmcIq1v7/L2cH7nMKJKw+2W4foiUuPbuKRUUKq07fKXhBDeOYA0HA+g2w1/du7QzMuPF275dTuwjxiibRTTETeVXz7eUdtSubzKS7G2aPRaT289DPjFzMTJAaBcRM74+Q9Xm1lcViLigQEbNgklRSPPgf+YSZ8QcvVTqYQZL5hDBR+FCxe7qSTUHvFi3PjJXrhJEj0JTsKKtF+bkU50rCIzzbAF/sdbDaBLaQYXMxqgPBTE8YspttGjLzJPuh7s62p59QDYhKDhES0tu4M+Wcdh1cvqAGWTdhRqtrjU0dQGkO7llGpocIPpTWYyWBz31zJtHcPgAjiz+pNVFVsUnhMocXtvUx6gwoXUB/N+7I5UewtbO1Y93LGdrBKO43rpOAKOk4WCLDIG/Y97yhfkMiMCHAng597MGchvAZw5U4on/kyYHTCWPWYCzITcSSfW5aEcd9ZbHYiRtCpUqWvtXaf/Sv00F6JtQXsVBC0tGKoVTgeA==;Dw7oRalB6dZASgy05D6flg=="
+secured: "VxhDQuyrySRVLSzqh4qMAcuzuPK1JnjzQhhJ97ZMpNXr2UslC2PxQdcwckcYwOi9x5wNalFXuBAMqh2u4e8s+QMYW6JIiIXjBvg2Rsvp4ZZbWYR0nSxmQHjTO9rfTVVHh7raPrNsQxHA2D1BUv8enCWb9FeskfXiLUej4DO/fQLT1UIKc2PmadQkqOK59ShqEhtuN/LEpKzyMSh61F1juIdKEFoXTzizMUmnfYkfEkt1NgTMtcU/NHeYuk6sy3mde6oSZqQwXyZ9JFu7Bxi85ZiQ9IlRKs5hgTY1jmaIt+mWjAIEUNS87R0J6UsRtIQYWBlWY3X9ebbTqwUBHb8IKQ==;OM+dy5h8Mh5Aq3QATSMIrA=="
 ---
 

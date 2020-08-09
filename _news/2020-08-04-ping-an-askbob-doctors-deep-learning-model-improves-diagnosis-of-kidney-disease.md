@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Ping An AskBob Doctor's Deep Learning Model Improves Diagnosis of Kidney Disease"
-excerpt: "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team [1] has joined the National Clinical Research Center of Kidney Diseases in China,"
-publishedDateTime: 2020-08-04T11:13:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865"
+excerpt: "The system uses deep learning, a type of machine learning, to identify certain types of kidney lesions and cells to help doctors diagnose kidney disease with greater accuracy. The ARPS is ..."
+publishedDateTime: 2020-08-04T13:24:00Z
+webUrl: "https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease"
+ampWebUrl: "https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease?amp"
 type: article
-quality: 64
-heat: 64
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "krDvckcGe7EajYAKpifmqI3ZOw0NtXN4Fg/7Ca+GGumnDFBvVVT1TVZ2PuVehtdO5TtYLs+tXhWmCSa3x9N6r2BNaz+gno4jDx8jUx95ux1nQjTAxLjTLanMQEM+u9II856bInarCq+cwe2rYec5p8Gb3jvZmO8W46mJrHMcs+/4wRnStn0NC82jyBfToEoSB0RdQ5gclYdHJmK7dQwbylQoCE0JCv0AbbpZyAXXc4MMl1jJeCfxkKbK7Nl6AVoB1LoF/7xeZByhYFq2+dxFbX25/u9AtRT30llelH66DfkCWO1T60J4SDRabJC8brai9SqAtpS++z9MGA5RBo2KBQ==;uFWd2yS4GMOFxaCkInZKJQ=="
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/pr-newswire_500_4_123.jpg?itok=K0XbM7NT"
+    width: 763
+    height: 509
+    isCached: true
+
+secured: "T7uwfoXv+Iu/hN/wKm9u9O6cxKwxwvNRip57HT2k0QFgeu0uDMtpWkHXa5xI5byy9vZTz+aUCMe7PMsTpPh1byy45BQc4JtXGEsc/MpBSpQcPFucNZXZ5l4zVfT+Jve0Ry5ndO6jPs3v+C0Acggj+JPitx1Pi6IQAysD2omUbgI5z/76ZepzHnjofdnzJiGlXXLDiiqmoDMaKC2IGMe4b9lyJcm+o7ZBfkoui6MSMXMJ7Fmj907PIHZLpapCCClDU6pIVKuX1VJM+3WHalP0WpM8OVXq+mEXTKM+YTDaMlmP8IbSvlkSwGXs5pvldThGw2UZfxItf7gjnrHRNYmHyg==;s/uqf20nSrRLLjQmEV7f/g=="
 ---
 

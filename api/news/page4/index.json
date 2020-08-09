@@ -2,6 +2,37 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-05-egypt-refutes-elon-musks-claim-that-aliens-built-the-pyramids.md",
+      "title": "Egypt Refutes Elon Musk's Claim That Aliens Built the Pyramids",
+      "excerpt": "Elon Musk may think aliens built the Great Pyramids; usually, here's the point where we might say something about 2020 being the most bizarre year on record, but since you already know that — let's just hop right into it.",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/elonmusk?ref_src=twsrc^google|twcamp^serp|twgr^author",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Comicbook.com",
+        "domain": "comicbook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-microsoft-backs-35m-round-into-miniature-ai-chip-startup-syntiant.md",
       "title": "Microsoft backs $35M round into miniature AI chip startup Syntiant",
       "excerpt": "Microsoft Corp.’s M12 arm has placed a bet on Syntiant Inc., the startup behind tiny artificial intelligence chips for connected devices that it says is 100 times more power-efficient than rivals. M12 co-led a $35 million funding round into Syntiant that was announced this morning.",
@@ -1122,56 +1153,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-3-ways-artificial-intelligence-will-change-healthcare.md",
-      "title": "3 Ways Artificial Intelligence Will Change Healthcare",
-      "excerpt": "In healthcare, artificial intelligence (AI) can seem intimidating. At the birthday party of a radiologist friend, she gently expressed how she felt her job would be threatened by AI in the coming decade. Yet, for most of the medical profession, AI will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25fd2fd8f0e8a4e8cf29d5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2084%26cropY1%3D0%26cropY2%3D1172",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/08/04/3-ways-artificial-intelligence-will-change-healthcare/amp/",
-      "publishedDateTime": "2020-08-04T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/08/06/a-closer-look-at-ohios-self-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/06/a-closer-look-at-ohios-self-driving-shuttle-bus-trial-thats-now-a-food-delivery-service-syndication/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "CHT, partners kick off self-driving bus services"
-    excerpt: "Kingwaytek Technology and Tamsui Bus has begun autonomous passenger transport services on a dedicated section along a light rail line in New Taipei, according to sources at CHT."
-    publishedDateTime: 2020-08-05T02:02:00Z
-    webUrl: "https://www.digitimes.com/news/a20200804PD212.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200804PD212_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "SK Telecom to use 5G for self-driving robot delivery service"
     excerpt: "Woowa Brothers operates Korea’s biggest food delivery app by market share and has been focusing on these delivery services using smart, self-driving robots. Under the agreement,"
     publishedDateTime: 2020-08-05T13:30:00Z

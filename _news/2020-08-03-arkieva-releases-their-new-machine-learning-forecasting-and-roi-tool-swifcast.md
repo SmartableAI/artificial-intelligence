@@ -2,27 +2,24 @@
 category: news
 title: "Arkieva Releases Their New Machine Learning Forecasting And ROI Tool, Swifcast"
 excerpt: "Arkieva, Inc., a leading designer, and provider of the Arkieva suite of Advanced Planning and Scheduling (APS) software tools for manufacturing companies today announced the launch of their new machine learning forecasting and ROI tool,"
-publishedDateTime: 2020-08-03T13:36:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast-1029462064"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast-1029462064"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast-1029462064"
+publishedDateTime: 2020-08-03T13:07:00Z
+webUrl: "https://apnews.com/PR Newswire/0738529a0736866753b74b04ad64224a"
 type: article
-quality: 50
-heat: 50
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
-secured: "fgnNVg1fxfS7/e3R/G3QUIx69F4iDsj1ZOVzKprdjjeRoIy+1yYy9YnOKXMxS0ABvkyv4gxwoA3RllW/+EX+c0aWq6T5TXTG8SJCZD37F4de+9DdmKZ2f6fPyUF27FmwKj3bb3X7aq/0zlqwxqoNaiU0uUgZWAT9bc+8zhjZAV+TkQT6lVn3v5g6VW+0tIPg4q4HmBHYbJMZS0b2Fl5Y2jHPZPgCy775Vr3DpZQuXezgpivv2FYlQd8kSbm2OVnL7nZf0xdrbZPUzfdsz1a5LhtKC4Jz3A00VUvnlYVYrPb5TuhvlKjha5ymO5/CDJl3d2aQXmp8TRC3mhqBkU5gXA==;nQ4IgvpQadQPFLOMYN1ybQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "f/QPMytPdCLOsV5nV59F7ygABuy8Ah3Kn4Nt3cR/nJQRXhq/XRoPkYi8zun9y7S1XKf5/BYr38Yw2Zi1Z1T/l1qKCuTqw2arZhhNrOmYfGbybAcR2FtsazzuGWG2CNMOKtvRdVS4hvjsy5gjNjC8Y8LGskZmXhIZiWy9DSj9pgSb0x35wG8SOoPrzloHPFk7RBN1Q6nTNoGfKMr5aOI0snn3r2C1xnY5SSvVREYm2xLqvyzuWF3zF/uRXFuoa2zq6VEECj6lKVZKfQwJ8qxGHVg7MEoPshFTjk8nVQ2dGTTr5nFb4Bv9GbY+yFtBXRWMGLmZi5FaVAU4ec2BGYss8A==;vXH8fDoGMHkCsbsq4TF39g=="
 ---
 
