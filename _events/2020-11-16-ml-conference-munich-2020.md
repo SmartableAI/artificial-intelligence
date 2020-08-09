@@ -6,10 +6,15 @@ website: https://mlconference.ai/munich/
 type: conference
 startDateTime: 2020-11-16T09:00:00Z
 endDateTime: 2020-11-18T17:00:00Z
+location: Online
 
 provider:
-  name: mlconference.ai
+  name: ML Conference
   domain: mlconference.ai
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mlconference.ai-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

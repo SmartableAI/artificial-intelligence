@@ -8,7 +8,7 @@ startDateTime: 2020-10-05T09:00:00Z
 endDateTime: 2020-10-06T17:00:00Z
 
 provider:
-  name: mebankingai.com
+  name: Middle East Banking AI & Analytics
   domain: mebankingai.com
 
 topics:

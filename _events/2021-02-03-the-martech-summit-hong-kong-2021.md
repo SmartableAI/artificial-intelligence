@@ -6,9 +6,10 @@ website: https://www.themartechsummit.com/hongkong
 type: conference
 startDateTime: 2021-02-03T09:00:00Z
 endDateTime: 2021-02-04T17:00:00Z
+location: Hong Kong, China
 
 provider:
-  name: themartechsummit.com
+  name: The MarTech Summit
   domain: themartechsummit.com
 
 topics:

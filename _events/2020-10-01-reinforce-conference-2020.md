@@ -6,9 +6,10 @@ website: http://reinforceconf.com/
 type: conference
 startDateTime: 2020-10-01T09:00:00Z
 endDateTime: 2020-12-31T17:00:00Z
+removed: true
 
 provider:
-  name: reinforceconf.com
+  name: Reinforce Conference
   domain: reinforceconf.com
 
 topics:

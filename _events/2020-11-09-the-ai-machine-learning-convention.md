@@ -6,9 +6,10 @@ website: http://www.aimlconvention.com/
 type: conference
 startDateTime: 2020-11-09T09:00:00Z
 endDateTime: 2020-11-10T17:00:00Z
+location: Birmingham, UK
 
 provider:
-  name: aimlconvention.com
+  name: AI & Machine Learning Convention
   domain: aimlconvention.com
 
 topics:

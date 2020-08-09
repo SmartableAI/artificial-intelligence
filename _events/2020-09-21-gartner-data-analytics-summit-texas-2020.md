@@ -6,10 +6,16 @@ website: https://www.gartner.com/en/conferences/na/data-analytics-us
 type: conference
 startDateTime: 2020-09-21T09:00:00Z
 endDateTime: 2020-09-24T17:00:00Z
+removed: true
+published: false
 
 provider:
-  name: gartner.com
+  name: Gartner
   domain: gartner.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gartner.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

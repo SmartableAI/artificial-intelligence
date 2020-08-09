@@ -6,9 +6,12 @@ website: https://www.datascience.salon/miami/
 type: conference
 startDateTime: 2020-10-07T09:00:00Z
 endDateTime: 2020-10-08T17:00:00Z
+location: Miami, CA
+removed: true
+published: false
 
 provider:
-  name: datascience.salon
+  name: Data Science Salon
   domain: datascience.salon
 
 topics:

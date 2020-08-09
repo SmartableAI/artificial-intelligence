@@ -8,8 +8,12 @@ startDateTime: 2021-06-15T09:00:00Z
 endDateTime: 2021-06-16T17:00:00Z
 
 provider:
-  name: gdtechevent.com
+  name: GDTECH
   domain: gdtechevent.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gdtechevent.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
