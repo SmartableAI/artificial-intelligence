@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 722
         isCached: true
+  - title: "Guangzhou international airport introduces facial recognition service"
+    excerpt: "A passenger is using \"One ID\" facial recognition service at the Guangzhou Baiyun International Airport on August 5, 2020. Photo: Courtesy of the Guangzhou Baiyun International Airport Guangzhou Baiyun International Airport has introduced a new facial recognition service to simplify and speed up and check-in,"
+    publishedDateTime: 2020-08-06T06:20:00Z
+    webUrl: "https://www.globaltimes.cn/content/1196909.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-08-06/b44b7c56-fded-41b5-8128-ba34e6b1a5a0.jpeg"
+        width: 500
+        height: 300
+        isCached: true
 
 secured: "0L/X2LSke8NNi6Oxg7/a4yuv8i16rcvRRjs4m2Ddo8q67wAAMGke2ylRPfDvvaRcSNo96N2IUa4m20tycltNHD7RGuXNjZR2LsC/E9cJkHzId1dsVl4EaRLbrEyVumpV5A/ENQCLx9+o0vhXr0uZkyE5kibGOJosEz+rVpAaFvxubZINnQFsZU47QJdmp0KQIEk6oLPRV+R4m6T1EtcHm/EyBQT6eDOqV1G9cFP3IyAnQoxffNiZbjJuqTval6VL9yr4DPF3CMjaOLBe6HJW4o0a9ug8XqPM2v7VaARsjb5+hD8q6Cf809leXhFtTz+G8ALJBEylJwtLbWYEZNUUrx3RHGu6PSopVJjX4o4xZ+qAAgH+B4l2cmMWkI3DxEJuzMY6ECyw7Z9ENYlcKoKPDutHFvKnRFV+XG9WD/Nf9rrf93OER7dQDtQQHElp7R9Bva2IX5AcBuU5iBSFb5KZ+wuOHTroHUREs86jiZheC8i0nogFljU3xtYfxcOEHLQ+Wzgfwk3jD4XVbB+8X3Q+aw==;avkUKmMlOYVhoJTpBQv0Tw=="
 ---

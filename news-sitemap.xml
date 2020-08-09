@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wired.com/story/a-british-ai-tool-to-predict-violent-crime-is-too-flawed-to-use/</loc>
+    <lastmod>2020-08-09T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.entrepreneur.com/article/354461</loc>
+    <lastmod>2020-08-09T01:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots</loc>
     <lastmod>2020-08-08T16:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -217,6 +229,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.chinadaily.com.cn/a/202008/06/WS5f2c15bda31083481725eb95.html</loc>
+    <lastmod>2020-08-06T07:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122</loc>
     <lastmod>2020-08-06T06:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -387,6 +405,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/05/can-machine-learning-for-enterprise-security-advance-like-voice-recognition/</loc>
     <lastmod>2020-08-05T05:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/</loc>
+    <lastmod>2020-08-05T04:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1075,6 +1099,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/IBM-and-Influential-Launch-Watson-Advertising-Social-Targeting-Solution-142117.aspx</loc>
+    <lastmod>2020-07-30T12:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985</loc>
     <lastmod>2020-07-30T12:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1117,8 +1147,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator</loc>
-    <lastmod>2020-07-30T09:21:00-07:00</lastmod>
+    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss</loc>
+    <lastmod>2020-07-30T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1131,12 +1161,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/</loc>
     <lastmod>2020-07-30T09:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142117</loc>
-    <lastmod>2020-07-30T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

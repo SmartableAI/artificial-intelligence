@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxcarolina.com/news/upstate-sheriffs-office-partners-wi
 cdnAmpWebUrl: "https://www-foxcarolina-com.cdn.ampproject.org/c/s/www.foxcarolina.com/news/upstate-sheriffs-office-partners-with-website-using-facial-recognition-software-to-reunite-pets-with-owners/article_8ce73b0e-d8b9-11ea-9c64-a31a217727f2.amp.html"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bulawayo based firm partners with Chinese company on facial recognition systems"
+    excerpt: "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ..."
+    publishedDateTime: 2020-08-05T11:26:00Z
+    webUrl: "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/"
+    ampWebUrl: "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/"
+    cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/"
+    type: article
+    provider:
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 55
+    images:
+      - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2020/08/CL2055-installation.jpg"
+        width: 665
+        height: 278
+        isCached: true
   - title: "Poland’s mPay Partners with iDenfy to use its Biometric Facial Recognition Software to Complete KYC Checks Needed for Mobile Payments"
     excerpt: "Poland’s mPay partners with iDenfy to use its biometric facial recognition software to complete KYC checks needed for mobile payments."
     publishedDateTime: 2020-08-07T04:47:00Z

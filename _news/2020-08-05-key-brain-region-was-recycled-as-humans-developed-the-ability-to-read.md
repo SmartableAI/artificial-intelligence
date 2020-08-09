@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Key brain region was 'recycled' as humans developed the ability to read"
-    excerpt: "Humans began to develop systems of reading and writing only within the past few thousand years. Our reading abilities set us apart from other animal species, but a few thousand years is much too short a timeframe for our brains to have evolved new areas specifically devoted to reading."
-    publishedDateTime: 2020-08-04T20:22:00Z
-    webUrl: "https://medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-reading.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Parts of the human brain have been “recycled” for reading, indicates study"
     excerpt: "Humans began to develop systems of reading and writing only within the past few thousand years. Our reading abilities set us apart from other animal species, but a few thousand years is much too short a timeframe for our brains to have evolved new areas specifically devoted to reading."
     publishedDateTime: 2020-08-05T04:51:00Z

@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Bulawayo based firm partners with Chinese company on facial recognition systems"
+    excerpt: "In a report by The Chronicle, Bulawayo based firm Brains at Work Consulting Pvt Ltd has entered into a partnership with a Chinese company called Clou Global Technology to be the sole distributor of Clou Global’s facial recognition and temperature scan ..."
+    publishedDateTime: 2020-08-05T11:26:00Z
+    webUrl: "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/"
+    ampWebUrl: "https://www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/"
+    cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2020/08/bulawayo-based-firm-partners-with-chinese-company-on-facial-recognition-systems/amp/"
+    type: article
+    provider:
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 55
+    images:
+      - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2020/08/CL2055-installation.jpg"
+        width: 665
+        height: 278
+        isCached: true
   - title: "Upstate sheriff's office partners with website using facial recognition software to reunite pets with owners"
     excerpt: "The Laurens County Sheriff's Office Animal Control division has partnered with FindingRover.com in the hopes lost pets can be reunited with their owners."
     publishedDateTime: 2020-08-07T14:33:00Z

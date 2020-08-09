@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200805/Parts-of-the-human-br
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200805/Parts-of-the-human-brain-have-been-e2809crecyclede2809d-for-reading-indicates-study.aspx"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Key brain region was 'recycled' as humans developed the ability to read"
-    excerpt: "Humans began to develop systems of reading and writing only within the past few thousand years. Our reading abilities set us apart from other animal species, but a few thousand years is much too short a timeframe for our brains to have evolved new areas specifically devoted to reading."
-    publishedDateTime: 2020-08-04T20:22:00Z
-    webUrl: "https://medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-reading.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Key Brain Region Was 'Recycled' as Humans Developed the Ability to Read"
     excerpt: "To account for the development of this skill, some scientists have hypothesized that parts of the brain that originally evolved for other purposes have been"
     publishedDateTime: 2020-08-05T07:33:00Z

@@ -23,6 +23,20 @@ images:
     isCached: true
 
 related:
+  - title: "A British AI Tool to Predict Violent Crime Is Too Flawed to Use"
+    excerpt: "A government-funded system known as Most Serious Violence was built to predict first offenses but turned out to be wildly inaccurate."
+    publishedDateTime: 2020-08-09T13:00:00Z
+    webUrl: "https://www.wired.com/story/a-british-ai-tool-to-predict-violent-crime-is-too-flawed-to-use/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/5f2dcc014950556fc2cf0812/191:100/w_1280,c_limit/business_police_1221515355.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Police built an AI to predict violent crime. It was seriously flawed"
     excerpt: "A Home Office-funded project that used artificial intelligence to predict gun and knife crime was found to be wildly inaccurate"
     publishedDateTime: 2020-08-06T11:13:00Z
