@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-t
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -39,20 +39,6 @@ related:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/using-machine-learning-to-fight-money-laundering-showcase_image-4-a-14782.jpg"
         width: 860
         height: 520
-        isCached: true
-  - title: "Designing Learning to Prioritize Student Voices"
-    excerpt: "It is not that project criteria should be forgotten, but rather that we should design learning to provide students with choices as well as generative opportunities and possibilities. It is not enough to expose students to information; deep learning happens ..."
-    publishedDateTime: 2020-08-05T08:23:00Z
-    webUrl: "https://www.kqed.org/mindshift/56401/designing-learning-to-prioritize-student-voices"
-    type: article
-    provider:
-      name: KQED
-      domain: kqed.org
-    quality: 24
-    images:
-      - url: "https://ww2.kqed.org/app/uploads/sites/23/2020/08/iStock-1182986455-1020x721.png"
-        width: 1020
-        height: 721
         isCached: true
 
 secured: "KH5NQfiHqlbUy9kdHbY5CetWPwZeZhtyheG2bLqzv0nxvMwfPunzNjgojoYN92dgCFEa8EzQ2rwkr6JpQdQfnneET/evW7OWmhwZXG089Fc/wAa5/FaVj3BS9KGJWNXOKezTx05q/MurvyVT8msOQRkb1OdkoPzrlkFbCqALOJxeInilclj25lrOWj4aezesEJmYIK7IhSQmF9GTrSyVL+QFUEKS0TE0AwDd+7nOHUjSgK+1rW6qajfTU6AXfWOwFDCfPpeTpup1g8bC9xseFrPRlxjJiDyHUsdjvC64h7Bk48kNDyyiX3P3IOINd5CHyaq9AehvPrWsSWnR7twsc2iVHcXxFVQqftwh2jQUXZ/H+hXmzLeSdBIyaEtv/08QoKOhwyvLdy2HP/MD258qYuJygjjlnWYVRaWTl4hV5p9uoiZRARcphXonmBUCmoOISdBtmuvvg7RowqljHxMCbcy4oP7zqpo6yyoajQ1E6fRo0lzWR25pHuxYBP2VySxG;+q6R2CWbCZpVOKoYXxJn7g=="

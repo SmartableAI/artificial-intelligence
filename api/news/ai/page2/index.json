@@ -2,6 +2,147 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-06-ecobank-group-announces-the-2020-fintech-challenge-finalists.md",
+      "title": "Ecobank Group announces the 2020 Fintech Challenge Finalists",
+      "excerpt": "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA",
+          "width": 425,
+          "height": 223,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
+      "publishedDateTime": "2020-08-06T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-why-human-like-is-a-low-bar-for-most-ai-projects.md",
+      "title": "Why ‘human-like’ is a low bar for most AI projects",
+      "excerpt": "Show me a human-like machine and I’ll show you a faulty piece of tech. The AI market is expected to eclipse $300 billion by 2025. And the vast majority of the companies trying to cash in on that bonanza are marketing some form of “human-like” AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/12/robot_teddybear-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/amp/",
+      "publishedDateTime": "2020-08-06T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-build-more-effective-conversations-on-amazon-lex-with-confidence-scores-and-increased-accuracy.md",
+      "title": "Build more effective conversations on Amazon Lex with confidence scores and increased accuracy",
+      "excerpt": "In the rush of our daily lives, we often have conversations that contain ambiguous or incomplete sentences. For example, when talking to a banking associate, a customer might say, “What’s my balance?” This request is ambiguous and it is difficult to disambiguate if the intent of the customer is to check",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-more-effective-conversations-on-amazon-lex-with-confidence-scores-and-increased-accuracy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T14:29:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis.md",
       "title": "Researchers discover evidence of gender bias in major computer vision APIs",
       "excerpt": "Researchers at Wunderman Thompson say they've found evidence of gender bias in major computer vision APIs from Google, IBM, and Microsoft.",
@@ -575,47 +716,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-06-deep-learning-market-size.md",
-      "title": "DEEP LEARNING MARKET SIZE",
-      "excerpt": "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T806326785_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
-      "publishedDateTime": "2020-08-06T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-06-apple-explains-how-it-uses-machine-learning-across-iosand-soon-macos.md",
       "title": "Apple explains how it uses machine learning across iOS—and soon, macOS",
       "excerpt": "Machine learning (ML) and artificial intelligence (AI) now permeate nearly every feature on the iPhone, but Apple hasn't been touting these technologies like some of its competitors have. I wanted to understand more about Apple's approach ,",
@@ -1106,6 +1206,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-06-nokia-sets-up-robotics-for-social-good-lab-at-indian-college.md",
+      "title": "Nokia sets up robotics for ‘social good’ lab at Indian college",
+      "excerpt": "Dubbed the ‘Nokia Centre of Excellence for Networked Robotics’, the center will serve as a hub for research into robotics, advanced comms tech and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2018/02/pexels-photo-744366-1.jpeg",
+          "width": 2550,
+          "height": 1700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
+      "publishedDateTime": "2020-08-05T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-ai-named-after-v-for-vendetta-masks-protects-photos-from-being-gathered-by-facial-recognition-apps.md",
       "title": "AI named after V For Vendetta masks protects photos from being gathered by facial recognition apps",
       "excerpt": "A new AI-powered program 'cloaks' images to ward off facial recognition apps. The tool makes subtle pixel-level changes that distort pictures enough so they cannot be used by online scrapers.",
@@ -1284,155 +1425,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-training-knowledge-graph-embeddings-at-scale-with-the-deep-graph-library.md",
-      "title": "Training knowledge graph embeddings at scale with the Deep Graph Library",
-      "excerpt": "We’re extremely excited to share the Deep Graph Knowledge Embedding Library (DGL-KE), a knowledge graph (KG) embeddings library built on top of the Deep Graph Library (DGL). DGL is an easy-to-use, high-performance, scalable Python library for deep learning on graphs. You can now create embeddings for",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-knowledge-graph-embeddings-at-scale-with-the-deep-graph-library/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/05/ml1084-training-knowledge-graph-embeddings-2-2.jpg",
-          "width": 800,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T10:07:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone.md",
-      "title": "Researchers propose AI that delivers personalized health recommendations via smartphone",
-      "excerpt": "Researchers at Harvard, Stanford, and the University of Michigan propose an AI system that delivers personalized health recommendations via mobile.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/researchers-propose-ai-that-delivers-personalized-health-recommendations-via-smartphone/amp/",
-      "publishedDateTime": "2020-08-05T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create.md",
-      "title": "Evil AI: These are the 20 most dangerous crimes that artificial intelligence will create",
-      "excerpt": "From targeted phishing campaigns to new stalking methods: there are plenty of ways that artificial intelligence could be used to cause harm if it fell into the wrong hands. A team of researchers decided to rank the potential criminal applications that AI will have in the next 15 years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
-      "publishedDateTime": "2020-08-05T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

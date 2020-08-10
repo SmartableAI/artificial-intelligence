@@ -2,6 +2,97 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-30-rios-comes-out-of-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics.md",
+      "title": "RIOS comes out of stealth to announce $5M in funding for ‘industry-agnostic’ robotics",
+      "excerpt": "Bay Area-based robotics startup RIOS is coming out of stealth today to announce $5 million in funding. The round is being led by Valley Capital Partners and Morpheus Ventures, with participation from a long list of investors,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/ezgif-1-72d452008e01.gif",
+          "width": 600,
+          "height": 338,
+          "title": "RIOS comes out of stealth to announce $5M in funding for ‘industry-agnostic’ robotics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/amp/",
+      "publishedDateTime": "2020-06-30T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots.md",
+      "title": "Meet The College Dropout Who Just Raised Nearly $13 Million To Create Smart Robots",
+      "excerpt": "Robotics company Elementary Robotics, started in 2017 by Under 30 honoree Arye Barnehama, today announced a $12.7 million Series A round led by Threshold Ventures (formerly DFJ), with participation from existing investors Fika Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/06/30/meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/06/30/meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/06/30/meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots/amp/",
+      "publishedDateTime": "2020-06-30T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-elementary-robotics-raises-127-million-to-automate-industrial-inspections.md",
       "title": "Elementary Robotics raises $12.7 million to automate industrial inspections",
       "excerpt": "Elementary Robotics, a startup developing autonomous industrial inspection technologies, has raised $12.7 million in venture capital.",
@@ -1294,88 +1385,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-qualcomm-puts-ai-and-5g-in-the-hands-of-robotics-designers.md",
-      "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-      "excerpt": "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.allaboutcircuits.com/news/qualcomm-puts-ai-5g-in-hands-robotics-designers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/RB5_Platform.jpg",
-          "width": 700,
-          "height": 301,
-          "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-noninvasive-system-lets-people-mind-control-robot-arm.md",
-      "title": "Noninvasive system lets people ‘mind control’ robot arm",
-      "excerpt": "Using a noninvasive brain-computer interface, researchers have developed the first-ever successful mind-controlled robotic arm with the ability to continuously track and follow a computer cursor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurity.org/brain-computer-interface-robotic-arm-2088502/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.futurity.org/wp/wp-content/uploads/2019/06/robot-hand-on-dark-background_1600.jpg",
-          "width": 1600,
-          "height": 915,
-          "title": "Noninvasive system lets people ‘mind control’ robot arm",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurity News",
-        "domain": "futurity.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,88 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-10-union-bank-partners-awarri-to-launch-next-robotics-legend.md",
+      "title": "Union Bank, partners Awarri to launch ‘Next Robotics Legend’",
+      "excerpt": "Union Bank of Nigeria Plc, through its education platform,  Edu360, has announced its partnership with Awarri,  a pan-African technology company",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2017/04/Union-Bank.png?fit=412%2C275&ssl=1",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "publishedDateTime": "2020-08-09T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-bits-pilani-students-robotics-startup-is-working-towards-mind-controlled-wheelchairs-and-prostheses.md",
+      "title": "BITS Pilani students' robotics startup is working towards mind-controlled wheelchairs and prostheses",
+      "excerpt": "Founded by two BITS Pilani students, robotics startup Nexstem uses EEG signals to predict users’ thoughts and bridge the gap between man and machine. It can be used to create mind-controlled wheelchairs,",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/nextstemP-1596869064769.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
+      "publishedDateTime": "2020-08-09T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-08-column-the-reason-were-afraid-of-robots.md",
       "title": "Column: The reason we're afraid of robots",
       "excerpt": "When we focus so much of our attention on improbable scenarios, we run the risk of ignoring other problems posed by AI that are pressing and preventable.",
@@ -227,6 +309,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-06-nokia-sets-up-robotics-for-social-good-lab-at-indian-college.md",
+      "title": "Nokia sets up robotics for ‘social good’ lab at Indian college",
+      "excerpt": "Dubbed the ‘Nokia Centre of Excellence for Networked Robotics’, the center will serve as a hub for research into robotics, advanced comms tech and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2018/02/pexels-photo-744366-1.jpeg",
+          "width": 2550,
+          "height": 1700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
+      "publishedDateTime": "2020-08-05T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create.md",
       "title": "Evil AI: These are the 20 most dangerous crimes that artificial intelligence will create",
       "excerpt": "From targeted phishing campaigns to new stalking methods: there are plenty of ways that artificial intelligence could be used to cause harm if it fell into the wrong hands. A team of researchers decided to rank the potential criminal applications that AI will have in the next 15 years,",
@@ -334,7 +457,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -597,56 +720,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-chinese-artificial-intelligence-company-files-14-billion-lawsuit-against-apple.md",
-      "title": "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple",
-      "excerpt": "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MC",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24Z146",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z146",
-      "publishedDateTime": "2020-08-03T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1271,106 +1344,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-darpas-mind-controlled-arm-will-make-you-wish-you-were-a-cyborg.md",
-      "title": "DARPA's Mind-Controlled Arm Will Make You Wish You Were a Cyborg",
-      "excerpt": "Pointing to his robotic fingertips ... The life-changing impact of DARPA’s mind-controlled limbs was clear after spending just a few minutes with Matheny—as was the fact that we’ve barely ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mdbscxrgplrpbvjpx3dq.jpg",
-          "width": 800,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/darpas-mind-controlled-arm-will-make-you-wish-you-were-1776130193/amp",
-      "publishedDateTime": "2020-07-28T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-demand-for-autonomous-delivery-robots-rises-as-pandemic-continues.md",
-      "title": "Demand For Autonomous Delivery Robots Rises As Pandemic Continues",
-      "excerpt": "Answering the need for deliveries that minimize human contact, companies are stepping up R&D efforts in autonomous robot development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1f969d138498e307bb28ad%2F0x0.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "publishedDateTime": "2020-07-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

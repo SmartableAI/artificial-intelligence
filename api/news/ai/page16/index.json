@@ -2,6 +2,156 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-07-22-extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend.md",
+      "title": "Extracting custom entities from documents with Amazon Textract and Amazon Comprehend",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that makes it easy to extract text and data from scanned documents. Textract goes beyond simple optical character recognition (OCR) to identify the contents of fields in forms and information stored in tables. This allows you to use Amazon Textract to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T13:24:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-microsoft-reports-38-billion-in-q4-2020-revenue-azure-up-47-surface-up-28-and-linkedin-up-10.md",
+      "title": "Microsoft reports $38 billion in Q4 2020 revenue: Azure up 47%, Surface up 28%, and LinkedIn up 10%",
+      "excerpt": "Microsoft today reported fiscal Q4 2020 earnings, including revenue of $38.0 billion, net income of $11.2 billion, and earnings per share of $1.46.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/microsoft-earnings-q4-2020/amp/",
+      "publishedDateTime": "2020-07-22T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center.md",
+      "title": "Elon Musk claims his brain chip can stimulate your pleasure center",
+      "excerpt": "Neuralink‘s mission has never quite been clear. We know it’s working on a chip designed to be surgically inserted into the human skull called a brain-computer interface (BCI), but exactly what and who it’s for remains a bit of a mystery.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
+      "publishedDateTime": "2020-07-22T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-increasing-engagement-with-personalized-online-sports-content.md",
       "title": "Increasing engagement with personalized online sports content",
       "excerpt": "This is a guest post by Mark Wood at Pulselive. In their own words, “Pulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.” At Pulselive, we create experiences sports fans can’t live without; whether that’s the official Cricket World Cup website or the English",
@@ -1195,138 +1345,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-natural-language-processing-based-sentiment-analysis-helped-an-american-biotech-firm-in-reducing-churn-by-57-quantzig.md",
-      "title": "Natural Language Processing Based Sentiment Analysis Helped an American Biotech Firm in Reducing Churn by 57% | Quantzig",
-      "excerpt": "The case study aligns perfectly with Quantzig’s commitment to helping its clients to leverage sentiment analysis to reduce customer churn and drive better outcomes using data-driven insights. Sentiment analysis that leverages NLP helps in the detection and classification of customer sentiments into two groups- positive and negative based on their context within a text,",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/natural-language-processing-based-sentiment-analysis-helped-an-american-biotech-firm-in-reducing-churn-by/article_f1e126e4-ed6c-5d87-9821-7e1c59d41b27.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg",
-          "width": 640,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-a-residual-based-deep-learning-approach-for-ghost-imaging.md",
-      "title": "A residual-based deep learning approach for ghost imaging",
-      "excerpt": "Ghost imaging using deep learning (GIDL) is a kind of computational quantum imaging method devised to improve the imaging efficiency. However, among most proposals of GIDL so far, the same set of random patterns were used in both the training and test set ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-020-69187-5",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-69187-5/MediaObjects/41598_2020_69187_Fig3_HTML.png",
-          "width": 685,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players.md",
-      "title": "Artificial Intelligence in the Healthcare Market Future Scope, Opportunities with Strategic Growth and Top Players",
-      "excerpt": "Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players-2020-07-22",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,88 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-10-union-bank-partners-awarri-to-launch-next-robotics-legend.md",
+      "title": "Union Bank, partners Awarri to launch ‘Next Robotics Legend’",
+      "excerpt": "Union Bank of Nigeria Plc, through its education platform,  Edu360, has announced its partnership with Awarri,  a pan-African technology company",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2017/04/Union-Bank.png?fit=412%2C275&ssl=1",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "publishedDateTime": "2020-08-09T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-bits-pilani-students-robotics-startup-is-working-towards-mind-controlled-wheelchairs-and-prostheses.md",
+      "title": "BITS Pilani students' robotics startup is working towards mind-controlled wheelchairs and prostheses",
+      "excerpt": "Founded by two BITS Pilani students, robotics startup Nexstem uses EEG signals to predict users’ thoughts and bridge the gap between man and machine. It can be used to create mind-controlled wheelchairs,",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/nextstemP-1596869064769.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
+      "publishedDateTime": "2020-08-09T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-09-its-world-mask-week-here-are-10-misconceptions-about-face-coverings.md",
       "title": "It’s World Mask Week, Here Are 10 Misconceptions About Face Coverings",
       "excerpt": "From beliefs that face masks will affect your immune system to child-trafficking conspiracy theories, there are a lot of myths floating around out there.",
@@ -411,6 +493,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-08-google-ibm-microsoft-ai-models-fail-to-curb-gender-bias.md",
+      "title": "Google, IBM, Microsoft AI models fail to curb gender bias",
+      "excerpt": "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "publishedDateTime": "2020-08-07T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1046,155 +1169,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping.md",
-      "title": "AI on the high seas: Digital transformation is revolutionizing global shipping",
-      "excerpt": "From unmanned vessels to artificial intelligence applications, digital transformation is giving shipping a 21st-century reboot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/",
-      "publishedDateTime": "2020-08-07T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update.md",
-      "title": "Microsoft partners with blackshark.ai on Flight Simulator, provides SDK update",
-      "excerpt": "This week's development update brings news for a bunch of components including the Partnership Series, the SDK, Feedback Snapshots, and the development roadmap for August-November as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589504421_microsoft_flight_simulator_21_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/",
-      "publishedDateTime": "2020-08-07T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-3-daunting-ways-ai-will-transform-the-world-of-work.md",
-      "title": "3 Daunting Ways AI Will Transform The World Of Work",
-      "excerpt": "It shouldn’t be a surprise to anyone that artificial intelligence is going to change the jobs we will do in the future and redefine the role of humans in the workplace. Here we look at the three ways AI will change the world of work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2cd5b7552557925d573987%2F0x0.jpg",
-          "width": 1199,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/amp/",
-      "publishedDateTime": "2020-08-06T21:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

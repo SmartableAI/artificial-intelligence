@@ -40,20 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Designing Learning to Prioritize Student Voices"
-    excerpt: "It is not that project criteria should be forgotten, but rather that we should design learning to provide students with choices as well as generative opportunities and possibilities. It is not enough to expose students to information; deep learning happens ..."
-    publishedDateTime: 2020-08-05T08:23:00Z
-    webUrl: "https://www.kqed.org/mindshift/56401/designing-learning-to-prioritize-student-voices"
-    type: article
-    provider:
-      name: KQED
-      domain: kqed.org
-    quality: 24
-    images:
-      - url: "https://ww2.kqed.org/app/uploads/sites/23/2020/08/iStock-1182986455-1020x721.png"
-        width: 1020
-        height: 721
-        isCached: true
 
 secured: "7mB4m6K5Hin8boav53FzXVdSVT0cojgY1PNzv0oO60amBiPHdXyCikmsHu88rQy5mb6wiKR6fztD0fdz+yJTDgmOz+HxioBbHHrlvQxQMal7VDbrcotn3Senz8WW2rb5lnZYvI6V/6kVuJSkJDyPubHDwCdp6woXhJgFJrQn03sWvMDHtBzfB8X3ogl+PVdgs4OV1prD5BlvU1ocDX6jIQ1d3OJmS/3svOrMXWNP2UGOt5AmOHIPI7Iz2EQQCoFl5qMowuMQzrPq4top3KSFDKk0YrInhW7Q0Femu8JcE+g75hLLWLjSnIkIG2zAmLH53n50iXG3HcTZwJb+pXM1I5DYRM/ZBBAbsT6ZMMzdD3Zn0Qfy01OdYT7Q4GIbyuXLvdo+tJaimtzNadR7Kgn4Pnp1NqU93qryL7WGgvsGoIbWIPc32W7LE5ZnBfaWJjIopbHW/bfdd/Du9N+fxlsWHQ02S5u6AZmXllLfCBZQsZbSdqomwl9bG8TveASCt2Jt;iqlXIFyhZPvhRK4gOBZ+Fg=="
 ---

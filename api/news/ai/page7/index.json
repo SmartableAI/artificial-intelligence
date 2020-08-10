@@ -2,6 +2,147 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-31-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
+      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
+      "excerpt": "AMD has revealed that its first GPU designed specifically for computing and based on CDNA architecture will become available later this year. Being developed primarily for artificial intelligence and high-performance computing (HPC) applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "publishedDateTime": "2020-07-31T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-speech-recognition-software-market-to-boom-post-2020-ibm-microsoft-apple.md",
+      "title": "Speech Recognition Software Market to Boom Post 2020 | IBM, Microsoft, Apple",
+      "excerpt": "Latest released the research study on Global Speech Recognition Market offers a detailed overview of the factors influencing the global business scope Speech Recognition Market research report shows the latest market insights current situation analysis with upcoming trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T731312235_g.jpg",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2100309/speech-recognition-software-market-to-boom-post-2020-ibm",
+      "publishedDateTime": "2020-07-30T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-us-armys-conversational-ai-system-to-get-soldiers-and-robots-talking.md",
+      "title": "US Army's conversational AI system to get soldiers and robots talking",
+      "excerpt": "The US Army is working on a soldier-robot interface that uses spoke dialogue to control joint tasks in real-time. The Joint Understanding and Dialogue Interface (JUDI) is designed to reduce training costs while improving soldier/robot teamwork.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5476be0/2147483647/strip/true/crop/1200x800+0+52/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F9a%2F1d%2Fa9bdcc024597b4c3de5538899385%2Fmax1200-2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/us-army-judi-soldier-autonomous-robots-dialogue/?amp=true",
+      "publishedDateTime": "2020-07-30T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom.md",
       "title": "AI Model Training & Execution Now Possible on MCUs via ONE Tech MicroAI Atom",
       "excerpt": "ONE Tech estimates that MicroAI Atom algorithms, which run recursive analysis and reside directly on target MCUs at the edge, reduce the cost of deploying endpoint intelligence by a minimum of 80%.",
@@ -1232,128 +1373,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-ai-is-all-the-rage-so-why-arent-more-businesses-using-it.md",
-      "title": "AI Is All the Rage. So Why Aren’t More Businesses Using It?",
-      "excerpt": "A big study by the US Census Bureau finds that only about 9 percent of firms employ tools like machine learning or voice recognition—for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f20b5f959ee66a80b965c8d/master/pass/ai-in-business.png",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-why-not-more-businesses-use/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-why-not-more-businesses-use/amp",
-      "publishedDateTime": "2020-07-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-nuance-and-cerner-expand-strategic-voice-ai-collaboration-to-include-dragon-medical-virtual-assistant-technology.md",
-      "title": "Nuance and Cerner Expand Strategic Voice AI Collaboration to Include Dragon Medical Virtual Assistant Technology",
-      "excerpt": "PRNewswire/ -- Nuance® Communications, Inc. (NASDAQ: NUAN) today announced that it has expanded its long-standing AI collaboration with Cerner",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/nuance-and-cerner-expand-strategic-voice-ai-collaboration-to-include-dragon-medical-virtual-assistant-technology-301102519.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-artificial-intelligence-for-healthcare-insights-from-india.md",
-      "title": "Artificial Intelligence for Healthcare: Insights from India",
-      "excerpt": "This paper describes some of the main opportunities and challenges of using AI in healthcare. It then turns to a case study of the use of AI for healthcare purposes in India, discussing key applications, challenges and risks in this context.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chathamhouse.org/sites/default/files/styles/main_image_800x460/public/images/GettyImages-691077118.jpg?itok=8IV3dmDG",
-          "width": 800,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india?amp",
-      "cdnAmpWebUrl": "https://www-chathamhouse-org.cdn.ampproject.org/c/s/www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india?amp",
-      "publishedDateTime": "2020-07-30T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chatham House",
-        "domain": "chathamhouse.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ ampWebUrl: "https://techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-soci
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: techwireasia.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nokia to set up robotics lab at Indian Institute of Science"
-    excerpt: "Nokia Centre of Excellence will promote engagement and cooperation between academia, startups and industry ecosystem partners in research and development."
-    publishedDateTime: 2020-08-05T07:39:00Z
-    webUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science"
-    ampWebUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 74
-    images:
-      - url: "https://images.yourstory.com/cs/2/730b50702d6c11e9aa979329348d4c3e/Image95d9-1581162506015.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Nokia To Set Up Robotics Lab At IISc To Boost Socially Relevant Use Cases"
     excerpt: "Nokia recently announced that it will collaborate with the Indian Institute of Science (IISc), to establish the Nokia Centre of Excellence (CoE) for Networked Robotics."
     publishedDateTime: 2020-08-06T06:21:00Z

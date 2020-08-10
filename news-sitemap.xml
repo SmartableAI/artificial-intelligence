@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/</loc>
+    <lastmod>2020-08-09T18:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen</loc>
+    <lastmod>2020-08-09T17:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/</loc>
     <lastmod>2020-08-09T10:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -51,6 +63,12 @@
   <url>
     <loc>https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/</loc>
     <lastmod>2020-08-08T02:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
+    <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -253,12 +271,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast</loc>
-    <lastmod>2020-08-06T05:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/</loc>
     <lastmod>2020-08-06T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -315,6 +327,12 @@
   <url>
     <loc>https://www.zdnet.com/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/</loc>
     <lastmod>2020-08-05T21:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techwireasia.com/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/</loc>
+    <lastmod>2020-08-05T19:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -433,6 +451,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://keyt.com/lifestyle/money-and-business/2020/08/04/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/</loc>
+    <lastmod>2020-08-05T00:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/christosmakridis/2020/08/05/make-ai-enhance-your-productivity-not-a-surveillance-state/</loc>
     <lastmod>2020-08-05T00:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -453,12 +477,6 @@
   <url>
     <loc>https://mobile.twitter.com/elonmusk?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor</loc>
     <lastmod>2020-08-04T20:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/</loc>
-    <lastmod>2020-08-04T18:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -625,14 +643,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
-    <lastmod>2020-08-04T06:04:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of/article_4c669605-d9da-51c5-a003-080a094d85d2.html</loc>
+    <lastmod>2020-08-04T06:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
-    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
+    <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
+    <lastmod>2020-08-04T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -643,8 +661,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054</loc>
-    <lastmod>2020-08-04T05:37:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04</loc>
+    <lastmod>2020-08-04T05:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -717,12 +735,6 @@
   <url>
     <loc>https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing</loc>
     <lastmod>2020-08-03T16:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146</loc>
-    <lastmod>2020-08-03T15:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -837,6 +849,12 @@
   <url>
     <loc>https://www.infoworld.com/article/3568497/when-hybrid-multicloud-has-technical-advantages.html</loc>
     <lastmod>2020-08-03T03:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/reuters/2020/08/03/business/03reuters-apple-china-patent-suit.html</loc>
+    <lastmod>2020-08-03T02:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1897,6 +1915,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/</loc>
+    <lastmod>2020-07-27T15:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/</loc>
     <lastmod>2020-07-27T14:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2013,12 +2037,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/</loc>
     <lastmod>2020-07-27T06:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://insidehpc.com/2020/07/transform-raw-data-to-real-time-actionable-intelligence-using-high-performance-computing-at-the-edge/</loc>
-    <lastmod>2020-07-27T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

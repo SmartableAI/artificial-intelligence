@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Nokia to set up robotics lab at Indian Institute of Science"
-    excerpt: "Nokia Centre of Excellence will promote engagement and cooperation between academia, startups and industry ecosystem partners in research and development."
-    publishedDateTime: 2020-08-05T07:39:00Z
-    webUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science"
-    ampWebUrl: "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 74
-    images:
-      - url: "https://images.yourstory.com/cs/2/730b50702d6c11e9aa979329348d4c3e/Image95d9-1581162506015.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Nokia sets up robotics for ‘social good’ lab at Indian college"
     excerpt: "Dubbed the ‘Nokia Centre of Excellence for Networked Robotics’, the center will serve as a hub for research into robotics, advanced comms tech and AI."
     publishedDateTime: 2020-08-06T02:53:00Z

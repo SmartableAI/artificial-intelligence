@@ -2,6 +2,88 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-16-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.md",
+      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Shares Up 5%",
+      "excerpt": "Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares shot up 5% on Tuesday . The company traded as high as $123.51 and last traded at $123.51, 10,035 shares were traded during mid-day trading.",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html/amp",
+      "publishedDateTime": "2020-07-15T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-human-quirks-health-medicine.md",
+      "title": "Human Quirks: Health & Medicine",
+      "excerpt": "July 15, 2020 — In a groundbreaking new study, researchers have 3D printed a functioning centimeter-scale human heart pump in the lab. The discovery could have major implications for studying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/news/strange_offbeat/health_medicine/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-mind-controlled-arm-boasts-fine-precision.md",
       "title": "Mind-Controlled Arm Boasts Fine Precision",
       "excerpt": "This robotic arm used at the University of Pittsburgh offers ten dimensional control of hand movements. The extra dimensions come from four distinct hand movements: finger abduction, a scoop, thumb extension, and a pinch. These new movements have enabled ...",
@@ -1263,97 +1345,6 @@
         "name": "Datamation",
         "domain": "datamation.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-welcome-robin-the-ai-robot.md",
-      "title": "Welcome, Robin the AI robot",
-      "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/welcomerobin.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp",
-      "publishedDateTime": "2020-07-08T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-kai-fu-lee-gives-ai-a-b-minus-grade-in-the-covid-19-fight.md",
-      "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
-      "excerpt": "Robots and computer programs can help with social distancing and food delivery, but have been less helpful in developing a vaccine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efe3bf5f435e6f478b28aac/master/pass/business_kai-fu_1052208482.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
-      "publishedDateTime": "2020-07-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

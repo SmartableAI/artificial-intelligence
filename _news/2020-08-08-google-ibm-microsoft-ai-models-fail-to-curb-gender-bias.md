@@ -7,16 +7,16 @@ webUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-cur
 ampWebUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Sify.com
   domain: sify.com
 
 topics:
-  - IBM AI
+  - Microsoft AI
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "SF0xD+T0/VmiC3jUeA4jejSrtIds4ihadpSenjrJH6N/th5MphoKMYNCUlJaYJ65Z4u6grT/31xVD5IlmD4KYmQS99yv0lJozOqb9xcSRwmwxW81VKZq3OWbawj0ORCZcoY/ppUADEaSBmLiVSuo9zjypsKpwNU2Zskk+1x0jNmtYa+tKdacpyXifbgBopOUejNgf6+dYOAkqW3tY+HneS9+CYiwlXnDhhPbF4eO04NF6vFjJJVspMeL1OAjUMEFyl9UP9bCUo96Q7bkHfOEZsyxJXNlnDmu7doyap6PuxvJw71FGdvkmLy0aHXB6c4ngCMO0NSyVHeiJYTpye8R3g==;xV6AAF+Bp/Sdkw/MDPUqZQ=="
+secured: "C3g538oXCFak5x1TcEHhOgwUev6uTo9+kWCk0UtXdjZnAgGG4MlbsV0/43ypBP51H0SH6jGz6KyVt9fOoj44Necp+Gd/nhhD1twZBAaa49fBrf2FBKrLLu6NMQz4xSWSOtxOwmmhsO9rRIHutPgndCSVNLCSajCfvVu7ogOKsTcLL2qU5n5yyytmUZO20Q2gaPRO+m0DUPaFP4+MQNstxQMZrs4rT4oeHYqXrZghA8p41+HoUM7ejczZHfBTw/3Yzt6ghWWFq0xdXaGlhU7pzCcCcHSEnW2AAcoftaVqEUeVj3T+JKtKsSnc/AKJiG0svWsk2jdnrnex9+yetG2iJg==;OwmQIiDa55gtrswAG0cHHQ=="
 ---
 
