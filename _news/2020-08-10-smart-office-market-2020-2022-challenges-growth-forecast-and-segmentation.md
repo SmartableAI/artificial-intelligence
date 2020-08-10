@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-10T06:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 51
+published: false
 
 provider:
   name: MarketWatch
@@ -26,31 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Self-Driving Car Market 2020-2024 / overview and scope, Industry Outlook, Size & Forecast"
-    excerpt: "By components, the self-driving car market is segmented into hardware, software, Lidar, radar, optical cameras and others. The software component is largest segment at present and is likely to hold its position throughout the forecast period due technological enhancement in software segment such as advanced driver assistance systems to enhance safety and driving process."
-    publishedDateTime: 2020-08-09T04:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Self-Driving Truck Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
-    excerpt: "Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
-    publishedDateTime: 2020-08-09T21:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2020-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 6
 
 secured: "sseDYRq91QoDNHYpgInRbNn+frZ8s9yt9qYRca99H5a5PF/PIP+Wm0XCSIn4wcqpFgc0yViTUH9J2/wyJP2lq+khHWJ59gFN8wuRKNcdPa88u63M95oT8eX9VaDta8n76x2p0E/O8Z2ZicmyankixVOBSOVIzMCZ6Sez+9SJ6RWMMUr3epx0hnR67lZ8lM1BCO76nTsShuNhLSAaCp/2BCHTQNtJuhgRX66k4GApyDaBxi+xI65uLk1ce2ap+cvEKeN5mpHEOpk3qPw0E0MkZBqD1nuZvOc3gTb78EETh0uXQheFaPn0qAMMFgHusR0QzQyk9BB0Y18QnhfdSR/0uw==;Dw+6RTRUw9ODBi2dAXLKrg=="
 ---

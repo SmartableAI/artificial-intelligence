@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-17-federal-agencies-concerned-face-masks-will-thwart-facial-recognition-tech.md",
+      "title": "Federal agencies concerned face masks will thwart facial recognition tech",
+      "excerpt": "The US Department of Homeland Security has raised concerns internally that face masks meant to protect against the spread of COVID-19 may interfere with facial recognition technology, The Intercept reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 298,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/TSB8bFoAXUnsnwCyw0czZdijB_k=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67071413/acastro_170621_1777_0006_v2.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests",
+      "publishedDateTime": "2020-07-17T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-platesmart-alpr-helps-authorities-stop-domestic-terrorist.md",
       "title": "PlateSmart ALPR Helps Authorities Stop Domestic Terrorist",
       "excerpt": "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with both state-of-the-art cameras and video management ...",
@@ -1368,56 +1418,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-buys-vision-system-vendor-orions-systems.md",
-      "title": "Microsoft buys vision system vendor Orions Systems",
-      "excerpt": "Microsoft is looking to combine the video and image content analysis technology it is acquiring with Orions Systems to supplement its own Dynamics 365 Connected Store app and Power Platform services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/08/2affdcdf-5569-410f-9f0b-03bbc3844369/msbuysorion.jpg",
-          "width": 1304,
-          "height": 929,
-          "title": "Microsoft buys vision system vendor Orions Systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "publishedDateTime": "2020-07-08T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -3,10 +3,10 @@ category: news
 title: "The costs and benefits of artificial intelligence"
 excerpt: "The COVID-19 pandemic is hastening the spread of artificial intelligence, but few have fully considered the short- and long-run consequences. In thinking about AI, it is natural to start from the perspective of welfare economics — productivity and distribution."
 publishedDateTime: 2020-08-10T09:14:00Z
-webUrl: "https://www.japantimes.co.jp/opinion/2020/08/10/commentary/world-commentary/economic-effect-artificial-intelligence"
+webUrl: "https://www.japantimes.co.jp/opinion/2020/08/10/commentary/world-commentary/economic-effect-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -14,6 +14,7 @@ provider:
   domain: japantimes.co.jp
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -22,6 +23,6 @@ images:
     height: 580
     isCached: true
 
-secured: "ecRHXHzUW/y2mfqF3L5UgTyh4Lx3tdm6UWzUpKFQ6TlWsvr+zr1Qn+Xx1H8a4Q+azbay8k5quOUuj6FsPspL1ipc3h5qEj3fpzSySNnT9SmtJblicrc42i28iU1KI1Kutnz2FMKl5Sh7ED9Caw0gFm5hyWj3wKkudxgk6g2Xmx1il4WH5K18Rp9eTi5r17fQ88QTLwyKQycBLDwoSeIMZWRal0vxAXqVgQasDlk3hWmziANAuXxDLPL77W1TAAGZgG8bm0NTMEtfII+EJPVJFP4LxoS5krqYDozRSs0/buArQUCvTBoiJF4CDGqUaSmppvDfe3g+1UuIMPaqD0QJRw==;+yvqYBeXuF1ypaKPlVcf2g=="
+secured: "OBfNMBz8YKU0jwLEWO4mMdssakgn6oDFgp7OPpKwo/WxWC/PuNxZT4n+yM6X4kw6Zd6sy21C+K3CluWxP1CFltcFm16ihnCd75ynKAaHONEjOhGrsZsgHtiQ8m3IMDjKXTJ7csaAEyA9/UHS8yXAaIt5B0jznlsT48UXuTHPxf769JRqeb5Nh3CUSpQUe+FvlumvuPe8RUsgteQh0gRw1g9+Y4vP1M8biNrsiI//ASgJPv+tzG0b14G1ErMDNutXi3AgtRm7rJuG4ZbCDIMrdBxqxJu0YVtYgeB2LQa00aY/bhlcDBl7f7nQQ22nekPKykyKb3grxcCptTx1eUF6wA==;n35pEUoE7CvqSOTxe0bkpQ=="
 ---
 

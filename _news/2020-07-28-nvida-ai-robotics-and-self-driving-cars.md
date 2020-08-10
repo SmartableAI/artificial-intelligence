@@ -11,7 +11,7 @@ provider:
   domain: moneyshow.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
@@ -20,6 +20,6 @@ images:
     height: 370
     isCached: true
 
-secured: "LXtlxcAqbwZFAnOeEy+USfx3pOanFRt/kJ17Y8qRCdGQGHpBJoHZrWcrs8t1qdk3O5G9ARRvxet+RD76zvS9cSxlfyGFWiQ93pvKbDDUpOhxP+wfPpDbzkqxwyRHO122MLbo9MsfrrVCHFAMUAHtsgM9VyKGVMwGHdazie6bPnPwlQ6K9eSRY9ZihmgVxVlWuJuCK2ANL5a+XPwe0iZumIsIcBnkZ5Egya6xtedoKj7YeE4cunBy3Es3OzXSTDtO+YO6DKYsx9d4GPNWJ9rMnU4ZHynmz7xYoSbw46u7QirnPYdfXBpCZfHR5C9qTYj1u+lPCYm3YI9Ynljc7OECRg==;7ijI1AZ3qDWHm22dz2Q0Vw=="
+secured: "TlsfUUIASC9zjle8qj+IAdEgzj2k/ZXknr3gvoYJgUH3VdOh29k98+ilvwduBJdXqxZwFG5KrInuZG0k9g168zOigPIGFR1BI/Sa8WhbwFS+xIFAO+um5zK1uwL2Na1mR52fet3VZFzY1rdN1BoqbfmaEUOTvTLbipf4TwOiAbvTDT4x0AUeQOkx5KLjNeozMKjjRHKeTIu4p5lioE2Utu072LOsdl+cB4Di15qW48MkzwMsLJSUSBpkksf4J6CfX7XZKCwOedCIP2qIsmrth0ivHwil+Ewx84o53dyXOdJGWuV8BvoKM/yKhF9XBZz8HLHPPMdiz7GkklB/4RfANA==;YBWrJMMMt4f1/0yplYh5Ug=="
 ---
 

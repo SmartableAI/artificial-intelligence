@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-07T09:43:00Z
 webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-insights-technology-advancements-and-global-outlook-2020-2025-2020-08-07"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -27,88 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026"
-    excerpt: "The Zion Market Research added a new report \"Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026″ in its database,"
-    publishedDateTime: 2020-08-07T12:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07"
+  - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
+    excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
+    publishedDateTime: 2020-08-08T03:31:00Z
+    webUrl: "https://apnews.com/07cf0c568e784ed79333d3f3ce53bde2"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size 2020 | Industry Report, COVID-19 Impact Analysis and Scope-2025"
-    excerpt: "According to the latest report by IMARC Group, titled \"Artificial Intelligence in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence in healthcare market size experienced healthy growth during 2014-2019."
-    publishedDateTime: 2020-08-07T06:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2020-industry-report-covid-19-impact-analysis-and-scope-2025-2020-08-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Share Current and Future Industry Trends, 2020-2025"
-    excerpt: "Machine learning (ML), deep learning and artificial intelligence (AI) are expanding rapidly as they are finding constant application in healthcare institutions for extracting huge amount of patient data using genomics sequences. AI also aids companies to ..."
-    publishedDateTime: 2020-08-06T06:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-share-current-and-future-industry-trends-2020-2025-2020-08-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI in Manufacturing Market 2020-2026: COVID-19's Impact on the Industry and Future Projections"
-    excerpt: "The \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-08-07T19:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-  - title: "ZMR Revises Artificial Intelligence (AI) in Manufacturing Market Forecast, as COVID-19 Continues to Expand Quickly Across the Globe"
-    excerpt: "The Zion Market Research added a new report \"ZMR Revises Artificial Intelligence (AI) in Manufacturing Market Forecast, as COVID-19 Continues to Expand Quickly Across the Globe\" in its database, which provides an expert and in-depth analysis of key business trends and future market development prospects,"
-    publishedDateTime: 2020-08-10T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/zmr-revises-artificial-intelligence-ai-in-manufacturing-market-forecast-as-covid-19-continues-to-expand-quickly-across-the-globe-2020-08-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in BFSI Market Share, Growth, Statistics, By Application, Production, Revenue & Forecast To 2026"
-    excerpt: "DataIntelo one of the world s prominent market research firms has announced a novel report on Global Artificial Intelligence AI in BFSI Market The report contains vital insights on the market which will support the clients to make the right"
-    publishedDateTime: 2020-08-09T12:49:00Z
-    webUrl: "https://www.openpr.com/news/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/T/8/T809254303_g.jpg"
-        width: 560
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Sz9nqindrJMTf7uTmHavfeX03joLk1GH18ADNLmR8sK+qhpzx3DaeRmvFQsDgjls2Q8g2tQviisll81nQblBfclaWsJeHng50QwiiyZvWykKepUnvVh3kcO/uRifye3ZJgNBDZA6R8iBMeQLL2JuMY2rUKDW8hoASVkLR/7rOd03eVCY9ejHTCfkl3eV1U1KRC4XVXB4UacijbpcxGzolzum2dkKKjWolerZxudUQrqaJP740qXsg6KpVKis+rRio81WRHzs5p/7idsD3OP0zsCqB3rwmBSlCGdKPhT/S0ECM7KElb+OEe5LKEDgwnT8QGx1uaIJMKpdtIJcOJe6uQ==;dRnWi8++n3hVd4A7K3xQEQ=="

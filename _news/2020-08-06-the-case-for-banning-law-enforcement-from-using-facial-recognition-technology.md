@@ -18,33 +18,34 @@ topics:
   - AI
 
 related:
-  - title: "AI named after V For Vendetta masks protects photos from being gathered by facial recognition apps"
-    excerpt: "A new AI-powered program 'cloaks' images to ward off facial recognition apps. The tool makes subtle pixel-level changes that distort pictures enough so they cannot be used by online scrapers."
-    publishedDateTime: 2020-08-05T22:54:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8597437/AI-named-V-Vendetta-masks-protects-photos-gathered-facial-recognition-apps.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8597437/amp/AI-named-V-Vendetta-masks-protects-photos-gathered-facial-recognition-apps.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8597437/amp/AI-named-V-Vendetta-masks-protects-photos-gathered-facial-recognition-apps.html"
+  - title: "Facial recognition could be coming to your office. Here's why companies pitching the tech say the pandemic is a huge tipping point for adoption."
+    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
+    publishedDateTime: 2020-08-06T20:52:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 60
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/08/05/23/31614202-0-image-a-13_1596667554176.jpg"
-        width: 636
-        height: 382
+      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "This tool could protect your photos from facial recognition"
-    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-    publishedDateTime: 2020-08-09T22:01:00Z
-    webUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/"
-    ampWebUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+  - title: "Facial-recognition could be coming to your office. Here's how companies are pitching the tech to landlords and trying to allay privacy concerns."
+    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
+    publishedDateTime: 2020-08-07T19:31:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
+    images:
+      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "cN/by1Rp3DyZVgf+wXnfhUXVO1ufwPaMTcqYaUkomA524NNePu5QNcBBAwEKhG7j/D/8AOt7yBWNsLoXmVfWe0k8Y1yFIrrqG1oGqSfLPoHXbB1moXAoOyQTnxYG54GJZx6XsTlo241d0JpZCiwwOwxAR2tkLzYov2f3PuTkoPgRSv9V7F+YDjWubFR4wokpHqr+pqoy+sTIdt3KbZ05hKerQVzHEAGcoeVB/bwkRD2g9jW3+ODPeEtxTOx2wJRBM5247jYZJLvCjsCmo4ky7OKWduDaFaF00uEYekOeaJNC3YNRfUHJY3ITyvPGVY/wlz/fKvFZbxjqyDc4PNek9Q==;b0cMhx/qytHqSKLqQk63Ow=="
 ---

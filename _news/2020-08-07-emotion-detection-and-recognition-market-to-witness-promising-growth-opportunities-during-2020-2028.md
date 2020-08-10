@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T01:03:00Z
 webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-to-witness-promising-growth-opportunities-during-2020-2028-2020-08-06?mod=mw_quote_news"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -28,33 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition could be coming to your office. Here's why companies pitching the tech say the pandemic is a huge tipping point for adoption."
-    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
-    publishedDateTime: 2020-08-06T20:52:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
+  - title: "Artificial Intelligence (AI) in BFSI Market Share, Growth, Statistics, By Application, Production, Revenue & Forecast To 2026"
+    excerpt: "DataIntelo one of the world s prominent market research firms has announced a novel report on Global Artificial Intelligence AI in BFSI Market The report contains vital insights on the market which will support the clients to make the right"
+    publishedDateTime: 2020-08-09T12:49:00Z
+    webUrl: "https://www.openpr.com/news/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
     images:
-      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How movie studio Laika and Intel are revolutionizing stop-motion animation with AI"
-    excerpt: "The acclaimed studio behind ‘Missing Link’ and ‘Coraline’ is collaborating with Intel to create an AI tool that could be a big leap in stop-motion animation."
-    publishedDateTime: 2020-08-10T10:00:00Z
-    webUrl: "https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai?ref=hvper.com"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 31
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-laika-using-ai-to-complete-filming.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.openpr.com/T/8/T809254303_g.jpg"
+        width: 560
+        height: 315
         isCached: true
   - title: "Gesture Recognition Solution Market 2020 Analysis, Size, Share, Growth, Trends, Application, Types, and Upcoming Opportunities 2023"
     excerpt: "Global \"Gesture Recognition Solution Market\" report 2020 plans to give forefront advertise knowledge and help decision makers take sound investment evaluation. The report identifies and analyses the emerging trends along with major drivers,"
@@ -69,34 +57,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
-    publishedDateTime: 2020-08-08T03:31:00Z
-    webUrl: "https://apnews.com/07cf0c568e784ed79333d3f3ce53bde2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Machine Vision Market 2020 Global Opportunities, Industry Size, Growth, Development Status, Segmentation and Regional Forecast to 2022"
-    excerpt: "Machine Vision Market 2020 Global Opportunities Industry Size Growth Development Status Segmentation and Regional Forecast to 2022"
-    publishedDateTime: 2020-08-07T11:30:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/265944313/machine-vision-market-2020-global-opportunities-industry-size-growth-development-status-segmentation-and-regional-forecast-to-2022"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1596800122.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "Ml1iVyGSpzf8HW68eWkTcjW7NxBGuOnKlHT2kuqF3PqQSg3fV0EGfREJBvUsI8pAyg8L3Uqiwro7YC5bJqOECCKI6friZRlCnb+Lw6elTukLZ3nVjEjMQA0YaEJ/XzDF3nG/AxnpdW2W1T9k0Rb2eoDzp5WUy+Wie0K34hpgLFz9icHRXzy++gYd36GkyjH8UAmZaTjtV2naQteCJmb8cDXkK8jhx1ynzJzR8Cm2CldOfhC6HyqZpvEddvfAAGIr7HliMRk+ZDlUZM68Fy9HjogDde1+v1GrlPc4WaAlKUn8oTjYmLo13oWLDySkO+zny4POL78B4pOz7NUKN5SBhw==;4cT91YTjisOx2AY93hRoZg=="

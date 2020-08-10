@@ -1,22 +1,30 @@
 ---
 category: news
-title: "TCS a leader in Advanced Digital Workplace Services - NelsonHall"
-excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organisation, has been recognised as a Leader in the NelsonHall NEAT for Advanced Digital Workplace Services,"
-publishedDateTime: 2020-08-07T07:38:00Z
-webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716"
+title: "TCS a leader in advanced digital workplace services: NelsonHall"
+excerpt: "It highlights the company’s dedicated Microsoft Business Unit and defined modern ... through industry agnostic solutions on top of the traditional cognitive workplace services (i.e. service desk, field services support, and remote services)."
+publishedDateTime: 2020-08-07T11:50:00Z
+webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Equity Bulls
-  domain: equitybulls.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "H+L12Bdq0wiqScE+6z2BkKvxrNIXl6KAqBVvpA5UPhsUjBA9ayhHe3jm/cJhgrIGCPzyFt6YKlCIKrPqRPu0hUMdkr4zf98Ui+FGLfMx8/RWKonDLBivgdWMeob+na39bs/1BpQN9udjFmKwqSK+cEtlnJw3sw2sriY8etm425KlzFh76Rpm1eTSSXw3Sl9lacbK60TcPdwNt7OYpXz/y0iry3Pq2nD1qgtu8Cm7G2JHbSnQS/u9PzeuP0liqmlkYb/gblwARR0ld1qeianDk40saOXe3GNRHECho8JLep8E3G10FyDmob0+zhljt6yxbDu1a0LkjwE2oUdQrEnDPw==;BhQH+i+UhK8fn8oUVcM4kQ=="
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg"
+    width: 350
+    height: 233
+    isCached: true
+
+secured: "ef1ZiIlADaNPy2fTqIABIK0Ht1XWtPO/5VXIvHGcCmv9eaNAMomz7SOStnE9gnycbcnYufXRA3CC0f7+FeU8ciqyKZoxqRtd6tJ+9cRm5DgP0mqkDsZPATG76bAf22AAuTm1jMEXGWhyTwDm0QDq4spplqe4QAsd4vbv/SNHORW7VxEK1+X7y7e68wgDKGobOdzYDIDUp+spvn7ZImGBY16N9CLNhrroBf6CEejOKKy/Npih92ZN2XsQi0Y/DhaPKGakPV2b+AHgvV1MrtxbT6BGQinbn33a3zzonIXY/bm3iQ7HKtXsh+k36p9VtwQKEli1qp28xjP7H9C49te/uQ==;WDs/Of/hilDhHOO0QAjTJA=="
 ---
 

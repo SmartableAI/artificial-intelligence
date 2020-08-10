@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-07T06:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025-2020-08-07"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence (AI) in Medical Market to Witness a Pronounce Growth During 2025"
+    excerpt: "LP INFORMATION recently released a research report on the Artificial Intelligence AI in Medical market analysis and elaborate the industry coverage current market competitive status and market outlook and forecast by 2025 Moreover it categorizes the global Artificial Intelligence AI"
+    publishedDateTime: 2020-08-10T07:50:00Z
+    webUrl: "https://www.openpr.com/news/2107997/global-artificial-intelligence-ai-in-medical-market"
+    ampWebUrl: "https://www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 60
+    images:
+      - url: "https://cdn.openpr.com/T/8/T810604764_g.jpg"
+        width: 696
+        height: 392
+        isCached: true
 
 secured: "YQh4odVMwtS6sXyvwNB1AP6I+W+NfXdTaqyTh0C6rP86akgp/b/7/WIQHsp8HJLQEHxqW9+2TI6NTLwCfd2Fpqr7+99xvdsZg+drTkoNz6O2jeGvqsVIahDB2eyzsI6jPg5RuT7m0MLqDHfxlaeQgX/SrHXTRqPPUg5PVhI1jqkgc4t4Px3L5S+JXLZAmiVUn4H4GaI5etaMt3qnTh1b319c25lqqqy5IHTl28kG+aOU64tnl+vCkumgxU5KrzdVlJ9aKALaP60faxAfJfbpJbPHqeSLxIso8SDTpyY4F3MlaYm9Ts8s7KAUgpFZNOpM3DrsdQJSZFnqXCasvB2sew==;3WOQKZXPIo4WuR5LrYo/2A=="
 ---

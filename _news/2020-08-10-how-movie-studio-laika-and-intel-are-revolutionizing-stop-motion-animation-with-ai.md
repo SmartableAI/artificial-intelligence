@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T10:00:00Z
 webUrl: "https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai?ref=hvper.com"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,78 +22,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Emotion Detection and Recognition Market to Witness Promising Growth Opportunities During 2020-2028"
-    excerpt: "This detailed market report focuses on data from different primary and secondary sources, and is analyzed using various tools. It helps to gain insights into the market’s growth potential, which can help investors identify scope and opportunities."
-    publishedDateTime: 2020-08-07T01:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-to-witness-promising-growth-opportunities-during-2020-2028-2020-08-06?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial recognition could be coming to your office. Here's why companies pitching the tech say the pandemic is a huge tipping point for adoption."
-    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
-    publishedDateTime: 2020-08-06T20:52:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Gesture Recognition Solution Market 2020 Analysis, Size, Share, Growth, Trends, Application, Types, and Upcoming Opportunities 2023"
-    excerpt: "Global \"Gesture Recognition Solution Market\" report 2020 plans to give forefront advertise knowledge and help decision makers take sound investment evaluation. The report identifies and analyses the emerging trends along with major drivers,"
-    publishedDateTime: 2020-08-10T12:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-solution-market-2020-analysis-size-share-growth-trends-application-types-and-upcoming-opportunities-2023-2020-08-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
-    publishedDateTime: 2020-08-08T03:31:00Z
-    webUrl: "https://apnews.com/07cf0c568e784ed79333d3f3ce53bde2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Machine Vision Market 2020 Global Opportunities, Industry Size, Growth, Development Status, Segmentation and Regional Forecast to 2022"
-    excerpt: "Machine Vision Market 2020 Global Opportunities Industry Size Growth Development Status Segmentation and Regional Forecast to 2022"
-    publishedDateTime: 2020-08-07T11:30:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/265944313/machine-vision-market-2020-global-opportunities-industry-size-growth-development-status-segmentation-and-regional-forecast-to-2022"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1596800122.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
-secured: "DoY5IhgQmsBKH8cr/YiAdRbfr1NfxqwYcO7eMJVU5/EBYIYVOo4HkhrmTfDusbhIsybvbVzyCJgzeHm3dhHCFXR9n34m+CjcyyP8O/DY/5qwfdXLBe8Oe357LdkM3TwCeCMrKmKIggSpquSvYYNz2lH6dz+Yjkg/9AN9Xu+ZVMmLEu/D/EwEbIMn1kG8bYcxQ56gumTXLNrf3uBd+wsGG2u+DbJyv18cciQ253X3SfdtxWfP19pdKUit/zCRXSVL/jOn84+4zzfVFXt1stpsaJfrGJ67ySHlVk7P/aViLuo2YPjVCMFIflA6mRheJpXKZaY3K6gGRqYgCN+ojd1CbQ==;zsQfF4usYX/aWqDuA4mucQ=="
+secured: "BdIwJ1DCfaw/tXOg0wp27AnfjOwPzKHYHXdZyngkYYsxMQtreYPfjVbaNteM/pp3s065UdQgmJKLHMim/408S0oxmUwSUnX1RtUmlxt0/3Cx37nVmqhUPWd6nZWLAetg8syjZW4CL8GPgOq4iVND0MtNsbgOjC8dVNH/nxE2LirbhLBQpZBAT/0Mg/Sloq9y8pZUd9q9SF8vpj9NvX+tllxW7MwpiAxGtyhsbMVsNIODoQmOcS2Qzm0X3tqQbf8k0WG+e4fgS9nOdJkr8J00uxJYaaKgY22HR2f+rhOqRjJN4CHRPJrHekZQId++O+7FZy1S4vtUrVSOia/6/K0ZrKdIinkWxe7X7azbDObY1hmBjCLRK5SFqPIJFMNrL5qNc3KN+TKGMKQWjfFRsCFH/qSNYjX7kraRj7uu4WhWnfKj2pT5O0vkwgGLYjq3NpU2Jp1814k3draktOtS7WPt9zamYNSP+a4ftCxpdGzKcuFfwWPmboRey9YmYJkTT2265fMLeGjyvFS7rbi+CEB8+g==;wL3nLGmNvxQI1qP0fqXPnA=="
 ---
 

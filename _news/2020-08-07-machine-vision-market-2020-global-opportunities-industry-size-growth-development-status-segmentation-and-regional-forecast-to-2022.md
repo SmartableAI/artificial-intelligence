@@ -24,76 +24,150 @@ images:
     isCached: true
 
 related:
-  - title: "Emotion Detection and Recognition Market to Witness Promising Growth Opportunities During 2020-2028"
-    excerpt: "This detailed market report focuses on data from different primary and secondary sources, and is analyzed using various tools. It helps to gain insights into the market’s growth potential, which can help investors identify scope and opportunities."
-    publishedDateTime: 2020-08-07T01:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-to-witness-promising-growth-opportunities-during-2020-2028-2020-08-06?mod=mw_quote_news"
+  - title: "Artificial Intelligence (AI) Market : Industry Development Scenario and Forecast to 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 10, 2020 (AmericaNewsHour) -- Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with a healthy growth rate of ..."
+    publishedDateTime: 2020-08-10T13:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-industry-development-scenario-and-forecast-to-2025-2020-08-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition could be coming to your office. Here's why companies pitching the tech say the pandemic is a huge tipping point for adoption."
-    excerpt: "The technology has been seen by some as a potential threat to privacy, but facial-recognition experts say it can be deployed responsibly in offices."
-    publishedDateTime: 2020-08-06T20:52:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-technology-in-offices-touchless-entry-coronavirus-2020-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://i.insider.com/5f2c508c2438173cbb2a3e74?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How movie studio Laika and Intel are revolutionizing stop-motion animation with AI"
-    excerpt: "The acclaimed studio behind ‘Missing Link’ and ‘Coraline’ is collaborating with Intel to create an AI tool that could be a big leap in stop-motion animation."
-    publishedDateTime: 2020-08-10T10:00:00Z
-    webUrl: "https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai?ref=hvper.com"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 31
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-laika-using-ai-to-complete-filming.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Gesture Recognition Solution Market 2020 Analysis, Size, Share, Growth, Trends, Application, Types, and Upcoming Opportunities 2023"
-    excerpt: "Global \"Gesture Recognition Solution Market\" report 2020 plans to give forefront advertise knowledge and help decision makers take sound investment evaluation. The report identifies and analyses the emerging trends along with major drivers,"
-    publishedDateTime: 2020-08-10T12:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-solution-market-2020-analysis-size-share-growth-trends-application-types-and-upcoming-opportunities-2023-2020-08-10"
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026"
+    excerpt: "The Zion Market Research added a new report \"Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026″ in its database,"
+    publishedDateTime: 2020-08-07T12:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 24
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
-    publishedDateTime: 2020-08-08T03:31:00Z
-    webUrl: "https://apnews.com/07cf0c568e784ed79333d3f3ce53bde2"
+  - title: "Artificial Intelligence in Healthcare Market Size 2020 | Industry Report, COVID-19 Impact Analysis and Scope-2025"
+    excerpt: "According to the latest report by IMARC Group, titled \"Artificial Intelligence in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence in healthcare market size experienced healthy growth during 2014-2019."
+    publishedDateTime: 2020-08-07T06:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2020-industry-report-covid-19-impact-analysis-and-scope-2025-2020-08-07"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Inclinations & Development Status Highlighted During Forecast Period 2019-2025"
+    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
+    publishedDateTime: 2020-08-10T12:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-inclinations-development-status-highlighted-during-forecast-period-2019-2025-2020-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Marketing Market Expected to Grow at CAGR 26.98% and Forecast to 2025"
+    excerpt: "In its latest report on Artificial Intelligence in Marketing Market provides a concise analysis of the recent market trends. The report further includes statistics, market forecasts and revenue estimations,"
+    publishedDateTime: 2020-08-08T09:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-expected-to-grow-at-cagr-2698-and-forecast-to-2025-2020-08-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
+    excerpt: "The Neural Network Software Market is expected to be around US$ 53 Billion by 2025 at a CAGR of 33% in the given forecast period. You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-08-06T23:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Precision Medicine Market Share Current and Future Industry Trends, 2020-2025"
+    excerpt: "Machine learning (ML), deep learning and artificial intelligence (AI) are expanding rapidly as they are finding constant application in healthcare institutions for extracting huge amount of patient data using genomics sequences. AI also aids companies to ..."
+    publishedDateTime: 2020-08-06T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-share-current-and-future-industry-trends-2020-2025-2020-08-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market 2020-2024 / overview and scope, Industry Outlook, Size & Forecast"
+    excerpt: "By components, the self-driving car market is segmented into hardware, software, Lidar, radar, optical cameras and others. The software component is largest segment at present and is likely to hold its position throughout the forecast period due technological enhancement in software segment such as advanced driver assistance systems to enhance safety and driving process."
+    publishedDateTime: 2020-08-09T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning as a Service Market 2020 Potential Growth, Competitive Landscape and Development of Industry by 2025"
+    excerpt: "According to the latest report titled Global Machine Learning as a Service Market 2020 by Company, Type and Application, Forecast to 2025 by MarketsandResearch.biz, the global market will accumulate steady income in the forecast period from 2020 to 2025."
+    publishedDateTime: 2020-08-09T21:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-potential-growth-competitive-landscape-and-development-of-industry-by-2025-2020-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+  - title: "Global Artificial Intelligence for Drug Development and Discovery Market (2020 to 2027) - by Type, Indication, and End-user"
+    excerpt: "The \"Artificial Intelligence For Drug Development and Discovery Market by Type, Indication, and End User: Global Opportunity Analysis"
+    publishedDateTime: 2020-08-06T19:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-for-drug-development-and-discovery-market-2020-to-2027---by-type-indication-and-end-user-301107628.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 13
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Global Self-Driving Truck Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
+    excerpt: "Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
+    publishedDateTime: 2020-08-09T21:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2020-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 6
 
 secured: "MNuWqVdco5uCGC55hTj9SIs80RssUmKJSAtshZXMAwRWfyYGnD9kbqPoyYVS3pgYOKLrsjg3Fbj7fS5Ztrvk7xE24FwibhPWYNlkrtrPmT0PiyPxA7lziUGTtJ+yqYQCbnGbi0/ffTSKo+q02o8fzzrTVdccl+rfkHEkkoh0fv86sRWUkehnnuQLhdYRyyLB56EVTNvdKBsdjXeg5AOUOoLqCAti8iYYgymGx6nsLFi9lczLhFTps7iFZeEh2+HEIlZ5lLGyCb736yRwuYvGrV26mKNwxKp9N5GZhtaSAD0wSuT7xoLTY9N5NLm4bOSlpsvGTw2ZOOGQlTba3BmMtg==;qvRLBuMHjvYg8+3UO2W65g=="
 ---
