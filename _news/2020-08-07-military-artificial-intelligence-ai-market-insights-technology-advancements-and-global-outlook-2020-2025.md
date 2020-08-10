@@ -80,6 +80,50 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "ZMR Revises Artificial Intelligence (AI) in Manufacturing Market Forecast, as COVID-19 Continues to Expand Quickly Across the Globe"
+    excerpt: "The Zion Market Research added a new report \"ZMR Revises Artificial Intelligence (AI) in Manufacturing Market Forecast, as COVID-19 Continues to Expand Quickly Across the Globe\" in its database, which provides an expert and in-depth analysis of key business trends and future market development prospects,"
+    publishedDateTime: 2020-08-10T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/zmr-revises-artificial-intelligence-ai-in-manufacturing-market-forecast-as-covid-19-continues-to-expand-quickly-across-the-globe-2020-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market Share, Growth, Statistics, By Application, Production, Revenue & Forecast To 2026"
+    excerpt: "DataIntelo one of the world s prominent market research firms has announced a novel report on Global Artificial Intelligence AI in BFSI Market The report contains vital insights on the market which will support the clients to make the right"
+    publishedDateTime: 2020-08-09T12:49:00Z
+    webUrl: "https://www.openpr.com/news/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/T/8/T809254303_g.jpg"
+        width: 560
+        height: 315
+        isCached: true
+  - title: "Artificial Intelligence In Food and Beverages Market Industry Analysis, Forthcoming Growth, Industry Prospects and Forecast to 2027"
+    excerpt: "AI is helping companies to stock up their inventories only to the extent that the demands can be met. Some factors are anticipated to hinder the growth"
+    publishedDateTime: 2020-08-05T17:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-industry-analysis-forthcoming-growth-industry-prospects-and-forecast-to-2027-2020-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Sz9nqindrJMTf7uTmHavfeX03joLk1GH18ADNLmR8sK+qhpzx3DaeRmvFQsDgjls2Q8g2tQviisll81nQblBfclaWsJeHng50QwiiyZvWykKepUnvVh3kcO/uRifye3ZJgNBDZA6R8iBMeQLL2JuMY2rUKDW8hoASVkLR/7rOd03eVCY9ejHTCfkl3eV1U1KRC4XVXB4UacijbpcxGzolzum2dkKKjWolerZxudUQrqaJP740qXsg6KpVKis+rRio81WRHzs5p/7idsD3OP0zsCqB3rwmBSlCGdKPhT/S0ECM7KElb+OEe5LKEDgwnT8QGx1uaIJMKpdtIJcOJe6uQ==;dRnWi8++n3hVd4A7K3xQEQ=="
 ---

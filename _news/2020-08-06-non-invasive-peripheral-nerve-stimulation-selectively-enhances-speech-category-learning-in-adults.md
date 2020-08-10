@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T09:04:00Z
 webUrl: "https://www.nature.com/articles/s41539-020-0070-0"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 685
     height: 538
     isCached: true
-
-related:
-  - title: "KnowFully Learning Group Launches KnowFully Healthcare Education and First-in-Industry Adaptive Learning-Based NAPLEX Review Course"
-    excerpt: "MyMCQ™, another KnowFully innovation, uses machine learning to deliver multiple choice questions (MCQs) that are calibrated to just the right difficulty level for each student's area of ..."
-    publishedDateTime: 2020-08-05T13:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/knowfully-learning-group-launches-knowfully-healthcare-education-and-first-in-industry-adaptive-learning-based-naplex-review-course-1029473462"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/knowfully-learning-group-launches-knowfully-healthcare-education-and-first-in-industry-adaptive-learning-based-naplex-review-course-1029473462"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/knowfully-learning-group-launches-knowfully-healthcare-education-and-first-in-industry-adaptive-learning-based-naplex-review-course-1029473462"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
 
 secured: "mnGlDQ8BjlszRq41dBB64P6pKoxOgj5YeON26VXMzCCw872xRFHqXpSUcklyM0BQbUbz+2ECLprYQjuFZa3t3AfeYBeRb2lxsVYI6VrdjTqa5Th2R0qupg65p5kFASQvsnBb9dT+6NrQVdHsIpKUNzCpoeyom5wggoSdbXlLhJ5Fu60/B2k6d0iNJk/Z2vt6XBZVrxHxt32ctrot8rtdw5tM7gNvtJThvsEl+CoFY5JNNnwjIu56z2VYPn05/kTRZUvma9687TRXjH27uY6eN6p0aa/FRbKhE9dyF1/W1gFBaiCbZ67lmwtLN3+ZTdtuDy/dHbzz6jH2a0NZWGxcbuBGTyEneDWB8NhTBqt8IIm7c6g6sYq6PKjjvnZnrNUm04/rGXMZzVW3GDpef6uBE6wyGyhQB6y5pEH9tsx/DgAbRRRDy6aq/Lt3D8lCM8NWCMia8p4Gjnye2GpzsZH2wd/4+G33SIUoUWIJDexUdP/XvaSmsrPjRp+sBOherIhx;gfk5KtOBGWfz5kBdRyRWQw=="
 ---

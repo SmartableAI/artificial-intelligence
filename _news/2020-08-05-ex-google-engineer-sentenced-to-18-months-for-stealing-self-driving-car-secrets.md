@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nydailynews.com/news/national/ny-google-uber-levandowski
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html?outputType=amp"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The self-driving whizzkid who stole trade secrets from Google just got 18 months in prison — now wants to sue Uber for $4B"
-    excerpt: "It seems we hadn’t heard the last from the case in which Google‘s former head of self-driving stole trade secrets, joined Uber, and declared bankruptcy after getting sued left, right ..."
-    publishedDateTime: 2020-08-05T13:39:00Z
-    webUrl: "https://thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 48
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/levandowski-uber-google-self-driving-car-autonomous-waymo-otto-pronto-technology-future-796x448.jpg"
-        width: 796
-        height: 448
-        isCached: true
   - title: "UPDATE: Self-Driving Car Executive Sentenced to 1.5 years in Prison and Public Speech Tour for Trade Secret Theft"
     excerpt: "Since 2017, we have been covering the legal saga of Anthony Levandowski – the executive/engineer who allegedly stole Google’s trade secrets related to self-driving car technology and"
     publishedDateTime: 2020-08-06T15:11:00Z

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The self-driving whizzkid who stole trade secrets from Google just got 18 months in prison — now wants to sue Uber for $4B"
-    excerpt: "It seems we hadn’t heard the last from the case in which Google‘s former head of self-driving stole trade secrets, joined Uber, and declared bankruptcy after getting sued left, right ..."
-    publishedDateTime: 2020-08-05T13:39:00Z
-    webUrl: "https://thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/"
-    ampWebUrl: "https://thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/08/05/self-driving-whizzkid-stole-trade-secrets-google-18-months-prison-to-sue-uber-4b/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 48
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/levandowski-uber-google-self-driving-car-autonomous-waymo-otto-pronto-technology-future-796x448.jpg"
-        width: 796
-        height: 448
-        isCached: true
   - title: "Ex-Google engineer sentenced to 18 months for stealing self-driving car secrets"
     excerpt: "A former Google executive who stole thousands of documents about its self-driving car project before resigning and going to Uber was sentenced Tuesday to 18 months behind bars."
     publishedDateTime: 2020-08-05T15:11:00Z

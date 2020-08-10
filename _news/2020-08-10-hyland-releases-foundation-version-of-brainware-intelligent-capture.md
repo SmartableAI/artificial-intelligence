@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T03:04:00Z
 webUrl: "https://itwire.com/market/hyland-releases-foundation-version-of-brainware-intelligent-capture.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Hyland Releases Foundation Version of Brainware Intelligent Capture"
-    excerpt: "an intelligent content analysis tool within the portfolio of Microsoft Azure Cognitive Services. The Microsoft engine includes advanced OCR capabilities for extracting difficult handwritten inputs, in addition to machine-printed text. Extraction can be ..."
-    publishedDateTime: 2020-08-05T13:52:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/hyland-releases-foundation-version-of-brainware-intelligent-capture-301106713.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/456686/Hyland_Software_Logo.jpg?p=facebook"
-        width: 1166
-        height: 610
-        isCached: true
 
 secured: "34JosuwysFjs9FIwuT+NBqgI2PexCeF7fg37k35rHGJiSDOF5t44o/p7xapKexfH93WbXmPRt5xr8QP1s10ddbWY9bcObaJGI4z099FwgbsPXZuVo5hsI3oMVFKQRznYkAp+0bkUhqoMYS1wOtwcN0LpkBgM0wtITanj969218rXx7xRB0N4+pZLG4HHWFmnuP7CxKdo/vOq93N3unQLiirUzLakplMoTFcu184CkY2EE2IoSeMvt2t2XbfLr7f6eucmiV4vqC4JdLBoquuUn4bS1S7bJTqRkbPaMu6WKxWKWQzZru5Yr+1CHjef8iHH5etHWphXE5+qI5iVHHx8U2WNYvOQ8AXk1YDcRy5DckBQOGySA5l6G2JxjDaaCesg3QYSpLYVcNg9tmyXxBRHBlVMhYjfZcM28Qy0r+Jp5fS/cEYDZHkzNptAUZGVtU/NdOXyGJCJ4WVVjGSDYbqyqFXualV5Jpt/LI3YJkocb+RGSCJktiwYnFaiZlsTuDr3dinidLLJG+5XXWa+3nnUFw==;6KmaHxtRthU9rB7lnlq/2A=="
 ---
