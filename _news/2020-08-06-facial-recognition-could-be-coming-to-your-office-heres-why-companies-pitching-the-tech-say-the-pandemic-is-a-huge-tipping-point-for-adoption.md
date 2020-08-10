@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Case for Banning Law Enforcement From Using Facial Recognition Technology"
-    excerpt: "Woodrow Hartzog and Evan Selinger published a report on Banning Law Enforcement From Using Facial Recognition Technology. The report was published by the Justice Collaborative Institute. “A federal law would be the most powerful step to regulate the use of this invasive and dangerous technology,"
-    publishedDateTime: 2020-08-06T13:47:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-08/case-banning-law-enforcement-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 16
 
 secured: "nfjuB0lOKRn/5WvFUZ+wKndGlUgX6e3tFW9On/9ncrRZFFknWJL8O5doa17XwpEYEJNpTG6jTeI48+V1/ihIFVeKV0wT41Gv2kPdgq025O60f4rQGCPDoEA095t+X0rTnVRIJlZrYESub6rF6csTyQ5Xd4n5wrNudWa1wgnDriLVnDhDWyMq2mVBNLHimAtz6m26f5WRth8oc5sZZpyO8x7nU7tGtfzVMqbsmeRCBPJdXsuEEQU2gSv3ajSIiE0E6LpzvCFDhtrXNTzAk9RBdC84dwvc8g3srhKgEIuOTdG0VZAPD/XPi3BCb5xv4tpeNBQgyzb9iOLKhqBe4+VypwQ//CnxFK+x2D3Zw74yrNoiUr495CL65pDoDEUGlcFu6fXwljC/U6Mv6vnxjvo523YhLDjmhtc0QQeGusitB2+FOOjJNE2nXMB7043RUFB9K2hto+eFY5LrvKEvg/01yoKlYpZl6S8EoXXyrBeNf9wlTIKNRT2PM8HqHi9X9Jihr8BZ8mXhVmbBa6k8DSCaww==;wr/X1kqiurvnTWw8/fobQw=="
 ---

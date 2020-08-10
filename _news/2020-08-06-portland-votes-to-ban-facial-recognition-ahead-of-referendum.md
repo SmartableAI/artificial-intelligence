@@ -20,19 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "Guangzhou Baiyun Airport launches facial recognition for domestic flights"
-    excerpt: "Guangzhou Baiyun International Airport in South China's Guangdong province has launched a new facial recognition service for passengers taking domestic flights. One ID, launched Wednesday at the airport,"
-    publishedDateTime: 2020-08-06T14:37:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202008/06/WS5f2c15bda31083481725eb95.html"
+  - title: "Michigan University study advocates ban of facial recognition in schools"
+    excerpt: "A newly published study by University of Michigan researchers shows facial recognition technology in schools presents multiple problems and has limited efficacy. Led by Shobita Parthasarathy, director of the university’s Science,"
+    publishedDateTime: 2020-08-10T21:11:00Z
+    webUrl: "https://venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/"
+    ampWebUrl: "https://venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/amp/"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 53
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202008/06/5f2c15bda3108348fce30235.png"
-        width: 623
-        height: 415
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "kDyPB555KjoFcGvhYhHAGAaZxQjwcHnSFx8r3ZlsElO4jxIxgLQcY37qWlVPRe2eUgE+R4Ioe2jFwkH90ZQlOLqiJ/VeHbIz7t9K4eFaVcU91TX6xoc3UaxzLcKMdoLlrpTWt+QT5hGqmBDc1kI71UOnEAaETHu1wWGLGDTTMUwjOPX1aCtl+QAZf4sbA0T0P3ORzHxXDZsJod5lB6qkB8oM0mdLFMdwm/uqvAcACgaH19ZrqmiMKmcOzz9OJ/d9EvIhq6dbWTymh4e7sAxe4UQXVv8tQwo0Enzg7nd/T9eOSM2L8Cc2jJdivS66/RJernfmsHmrxKyU1cQKWPdvVQ==;pytMyuqkZvuMzilm34imdg=="

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T06:20:00Z
 webUrl: "https://www.globaltimes.cn/content/1196909.shtml"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "McAfee finds security flaws in internal mechanics of facial recognition models"
-    excerpt: "Adversarial machine learning needs to become an integral part when rolling out applications, chief scientist says"
-    publishedDateTime: 2020-08-06T04:12:00Z
-    webUrl: "https://www.techradar.com/news/mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models"
+  - title: "Guangzhou Baiyun Airport launches facial recognition for domestic flights"
+    excerpt: "Guangzhou Baiyun International Airport in South China's Guangdong province has launched a new facial recognition service for passengers taking domestic flights. One ID, launched Wednesday at the airport,"
+    publishedDateTime: 2020-08-06T14:37:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202008/06/WS5f2c15bda31083481725eb95.html"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 65
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 53
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/eqqPdJ74HL7KwryaKJ9DS4-1200-80.jpg"
-        width: 1200
-        height: 722
-        isCached: true
-  - title: "Australia needs to face up to the dangers of facial recognition technology"
-    excerpt: "State and federal governments must follow the lead of cities here and abroad to suspend its use and develop a regulatory framework"
-    publishedDateTime: 2020-08-07T02:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/5693fa938c56cec79d8c86af0ef39b92504ead44/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ce9e57c1c9647162b7e45f919c5b1863"
-        width: 600
-        height: 360
+      - url: "http://img2.chinadaily.com.cn/images/202008/06/5f2c15bda3108348fce30235.png"
+        width: 623
+        height: 415
         isCached: true
 
 secured: "E1XGbHsK20Nw/42vF1qo+sClTMd6FQJXOj1eU/CntndsNhQRAq5RHhbSw3gsupxj/46AT7O1zxF8nMSv+1/Q4F1L2ZOBfJ5mlQI2HFZQ/J/ft1V7IVUCp+p5u4i5fchPL1Io1sUo1zFXdM5Ob7WpRIyGPKd8UGSJ9V7P4yDBsvNmYFzfUId8e53uD8EjWufQQ1FX/1qz0RrwJ/a+St9FV0M1Du+195aAvk/QhYmfK3L6nYKbNyuW/tAJb+AH6ebE8z8AHpwBaXBxKZaTiX/h6qZlC13RCDxPHc15I9Awvu0YZOOktpOY0uEY764HBsomg1wZtws72XCk4xvJIU/uUQ==;Zjqqjk2v+hUQZPuztNI+Gg=="

@@ -3,7 +3,7 @@ category: news
 title: "NVIDA: AI, Robotics and Self-Driving Cars"
 excerpt: "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid"
 publishedDateTime: 2020-07-28T09:04:00Z
-webUrl: "https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/"
+webUrl: "https://www.moneyshow.com/articles/dailyguru-54699/"
 type: article
 
 provider:
@@ -13,6 +13,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg"
@@ -20,6 +21,6 @@ images:
     height: 370
     isCached: true
 
-secured: "McbaA47Pj9nLRRfcsDwis+U6SDk6NxOJAl0aPT+TP8KcqPaSGpy5pYc9e0dSbnnsMvTkErR5P2ddBc+fP7nwY2RV0fWdJAm2fIH8i3Pn2KOKX+hBTNlImEkhiqndzIH0VlU3FTjjxcDGzJufVkf4HnKcqhPqiNOCdGrWIR+K2DgRJxY0cjaLNiu/kImv+0FcOiC7MWwLBJSCQvDF/5qn00qzukWpmJQy3pEtlPRBFhjnhL4PaP+j1UfEZrUiKUfn545SSAvgup+fgKPyC/h/u485GcnXRFFRbK/B8EN693R41G2AjT5sLkPGSZIm/gA+8g+PfbMMtCzIxJhUnMUi8w==;7aI3BM5VwfFDV9u+Nsg07Q=="
+secured: "cNl4v+PKDCQEASAb+RVstLyCPiWMse5pxVyBxt/UF7QbMbwGAkNJPO346DfKwF532gCbEU/jZX3EckMvnlwU0j08iNR3t1Hm40u17qGkALJO1VqBxuI4mxK9ngVh0/16yaYJqP593mHLjmPgihwL8+vsSlDI/LF6ELbJprq+5rd8PRiBBtbJ3Bg66WDcBqgLuqi7XCGDyu2bqpFThgGD9Ow2JD8Okd8SrjT7cYnQk+hUx2JkC4OkdBhGZPxLWAfyantV+BJZDip9uLCHOacwA7yec1TSy4FMU+yYWd1qFlRbqbNi4FhnMpAcZH0yzJPhtBscXVYdSGZM7INVvFi5sQ==;/GXbcx8gBJ515pZRjfoe8A=="
 ---
 

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "MTA calls on Apple to expedite Face ID improvements to prevent riders from removing masks"
+    excerpt: "Gotta remove your mask to unlock your phone?  The Metropolitan Transportation Authority is not taking any chances with the possible spread of COVID-19 and"
+    publishedDateTime: 2020-08-10T20:49:00Z
+    webUrl: "https://www.amny.com/transit/mta-calls-on-apple-to-expedite-face-id-improvements-to-prevent-riders-from-removing-masks/"
+    ampWebUrl: "https://www.amny.com/transit/mta-calls-on-apple-to-expedite-face-id-improvements-to-prevent-riders-from-removing-masks/amp/"
+    cdnAmpWebUrl: "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/transit/mta-calls-on-apple-to-expedite-face-id-improvements-to-prevent-riders-from-removing-masks/amp/"
+    type: article
+    provider:
+      name: AM New York
+      domain: amny.com
+    quality: 35
+    images:
+      - url: "https://www.amny.com/wp-content/uploads/2020/08/Image-from-iOS-9-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "New York’s transit agency asks Apple for help to solve iPhone face-recognition issue"
     excerpt: "Metropolitan Transportation Authority Chairman Patrick Foye said riders have been seen removing their masks to unlock their phones using face-recognition technology, despite a recent update by Apple that simplifies the unlock process for people wearing masks."
     publishedDateTime: 2020-08-10T13:26:00Z

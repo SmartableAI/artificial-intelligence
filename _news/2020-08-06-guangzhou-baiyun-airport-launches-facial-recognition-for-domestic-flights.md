@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T14:37:00Z
 webUrl: "https://www.chinadaily.com.cn/a/202008/06/WS5f2c15bda31083481725eb95.html"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -24,17 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Portland votes to ban facial recognition ahead of referendum"
-    excerpt: "A Maine city council has voted unanimously to ban the use of facial recognition technology. Portland City councilors voted Monday in favor of the proposal submitted by City Councilor Pious Ali in November,"
-    publishedDateTime: 2020-08-06T14:41:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
+  - title: "Guangzhou international airport introduces facial recognition service"
+    excerpt: "A passenger is using \"One ID\" facial recognition service at the Guangzhou Baiyun International Airport on August 5, 2020. Photo: Courtesy of the Guangzhou Baiyun International Airport Guangzhou Baiyun International Airport has introduced a new facial recognition service to simplify and speed up and check-in,"
+    publishedDateTime: 2020-08-06T06:20:00Z
+    webUrl: "https://www.globaltimes.cn/content/1196909.shtml"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 39
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 54
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-08-06/b44b7c56-fded-41b5-8128-ba34e6b1a5a0.jpeg"
+        width: 500
+        height: 300
+        isCached: true
 
 secured: "Tog9oa2wkJKzsLXi1y5ZEdRfNmSUxRA2A4qoxotc2gRKWtWr7Vid0Yf/ZYEhWtrZdfyjTxWJcOkRPAlSEKJ7+446sgzgpBMziXfsHUfveVzqa88nvv2eyuxso1aNUQeiMhDMUIaL0B0NWRVobHWx1eGTXaIjlK+mQQlutYUQQ+/TJ3Q54F8ZJVpJwqjEjp80JQNYLY6TSstOGWrSm0Tdfgvz5U6o0HMBiYZCuTBcpx3iH4Y332kRvJfpOXkEOykrjMLZZeC7nU36ZzaVYnDOCnKzYkzBcf4vuKPVPxBIHOtnRcB933d431TOiK84BdQsEwd3wzvORQ4UVemc62GDvg==;6Gvf+Uat/Xc5rHeBGEWYxg=="
 ---

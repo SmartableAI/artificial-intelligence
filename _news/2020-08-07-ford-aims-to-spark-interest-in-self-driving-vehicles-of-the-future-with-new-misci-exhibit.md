@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/5574470002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5574470002"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Are We Driving Too Fast Toward a Self-Driving Future?"
-    excerpt: "A just-released study by AAA indicates that partial self-driving technologies found in mass-market vehicles today could be less effective in real-world scenarios than on a closed test track."
-    publishedDateTime: 2020-08-06T04:18:00Z
-    webUrl: "https://www.cars.com/articles/are-we-driving-too-fast-toward-a-self-driving-future-425010/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 24
-    images:
-      - url: "https://images.cars.com/cldstatic/wp-content/uploads/Collision_Mitigation_Braking_System.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "GDLBk0LM0pmNLOkTVSg00p8KEedHQSPfv/MFhHmcwrMaTjXl5vLodeiTJa/0eFOTxwSq1K+fK42kLKSsjgfLTfvFoNynpCcyqxkN+Kc0Quv4s2rhLkN2N+uw/yAqhIoSnNNV4U7xcVyKYo+yKSDyh0OUa3RAAU0i+OQxo67cF6Khl0xI9JqG3irgMbYtvTiz/jqmUy+gjl10Po8oic/CmrT1IFfwyOLNFonViNfagNAZNh8cvfwknhvZOQOL3c2BbQfrsXC0rRK7LacCwbFWK25lXMRmryqy9ZwKQxcgCrAlST7R1eW97e0wbDMg53UdkD+OxyirajV8iqD1e20B52ReFnCavqDJKR2mF8YyrPVmBJUB3CXSLpbwJ2+0sTctd1inhN+WvON9/l/uCOwbQfuHQI6dInoABXSazkuTPwzTjWBe5u0s5Pad9uNFP/u8CQob5B4lcVVw6KBjCYBnx5CnTN/y1sfZK/7nM7Yd33dzBZIJkUSH8vr6Vg3ThaXok6eDFY14O1z7OFv3iMB9sg==;iUDEtb/NqWwN/TYSeeHwMw=="
 ---
