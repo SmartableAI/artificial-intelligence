@@ -5,8 +5,8 @@ excerpt: "A government-funded system known as Most Serious Violence was built to
 publishedDateTime: 2020-08-09T13:00:00Z
 webUrl: "https://www.wired.com/story/a-british-ai-tool-to-predict-violent-crime-is-too-flawed-to-use/"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:

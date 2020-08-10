@@ -50,7 +50,7 @@
       "webUrl": "https://www.wsj.com/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -187,32 +187,23 @@
     {
       "path": "_news/2020-08-04-cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform.md",
       "title": "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform",
-      "excerpt": "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU",
+      "excerpt": "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509",
+      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509",
-      "publishedDateTime": "2020-08-04T06:55:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -280,9 +271,9 @@
     {
       "path": "_news/2020-08-04-ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures.md",
       "title": "AI Chip Company Syntiant Surpasses 1 Million Units Shipped; Raises $35 Million in Series C Funding Led by M12 and Applied Ventures",
-      "excerpt": "\"We are now seeing Syntiant deliver on its execution strategy, setting new benchmarks that are unprecedented for a young AI chip company with the volume of products already shipped, and new customers coming on board.\" The company's highly accurate NDPs ...",
+      "excerpt": "The company also announced it has completed a $35 million Series C funding round. Microsoft's venture fund M12 and Applied Ventures, LLC, the venture capital arm of Applied Materials, Inc., led the financing,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -300,7 +291,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T05:36:00-07:00",
+      "publishedDateTime": "2020-08-04T05:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1301,47 +1292,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-27-nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications.md",
-      "title": "NVMe over Fabrics and GPU Direct Storage Boost HPC and AI Edge Applications",
-      "excerpt": "In this special guest feature, Tim Miller, VP of Product Marketing at One Stop Systems (OSS), discuses how deploying edge HPC solutions - instead of data movement over relatively slow or unsecure networks to distant datacenters - provides significant benefits in cost,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/07/eos_with_bezel-with-SB2000-24.png",
-          "width": 600,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-27-a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind.md",
       "title": "A beginner’s guide to the AI apocalypse: Humanity joins the hivemind",
       "excerpt": "Welcome to the latest article in TNW’s guide to the AI apocalypse. In this series we’ll examine some of the most popular doomsday scenarios prognosticated by modern AI experts. It’s ...",
@@ -1389,6 +1339,47 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-nvidia-geforce-vs-amd-radeon-gpu-which-graphics-card-should-you-buy.md",
+      "title": "NVIDIA GeForce vs AMD Radeon GPU: Which graphics card should you buy?",
+      "excerpt": "But there's another highlight in NVIDIA RTX GPUs, and that's deep learning super sampling (DLSS) 2.0, which effectively uses an AI to boost frame ... Still, a GPU is simply that, a graphics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/06/computex-2019-thermaltake-custom-pc-8.jpg",
+          "width": 800,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
+      "publishedDateTime": "2020-07-27T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

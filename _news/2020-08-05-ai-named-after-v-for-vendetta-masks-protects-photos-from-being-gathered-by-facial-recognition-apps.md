@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8597437/amp/AI-named
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8597437/amp/AI-named-V-Vendetta-masks-protects-photos-gathered-facial-recognition-apps.html"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "This tool could protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-09T22:01:00Z
+    webUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/"
+    ampWebUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "University of Chicago researchers create tool to block facial recognition technology"
     excerpt: "\"Fawkes takes your personal images and makes tiny, pixel-level changes that are invisible to the human eye, in a process (called) image cloaking.\""
     publishedDateTime: 2020-08-05T17:48:00Z

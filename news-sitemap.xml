@@ -457,6 +457,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/</loc>
+    <lastmod>2020-08-04T18:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://siliconangle.com/2020/08/04/microsoft-backs-35m-round-miniature-ai-chip-startup-syntiant/</loc>
     <lastmod>2020-08-04T16:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -607,12 +613,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509</loc>
-    <lastmod>2020-08-04T06:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.zdnet.com/article/the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages/</loc>
     <lastmod>2020-08-04T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -625,14 +625,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease</loc>
-    <lastmod>2020-08-04T06:24:00-07:00</lastmod>
+    <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
+    <lastmod>2020-08-04T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
-    <lastmod>2020-08-04T06:04:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
+    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -643,8 +643,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04</loc>
-    <lastmod>2020-08-04T05:36:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054</loc>
+    <lastmod>2020-08-04T05:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -673,6 +673,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865</loc>
+    <lastmod>2020-08-04T04:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/</loc>
     <lastmod>2020-08-04T03:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -697,14 +703,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
-    <lastmod>2020-08-03T19:44:00-07:00</lastmod>
+    <loc>https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html</loc>
+    <lastmod>2020-08-03T19:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html</loc>
-    <lastmod>2020-08-03T19:42:00-07:00</lastmod>
+    <loc>https://www.eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
+    <lastmod>2020-08-03T17:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -715,8 +721,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146</loc>
+    <lastmod>2020-08-03T15:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines</loc>
     <lastmod>2020-08-03T14:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html</loc>
+    <lastmod>2020-08-03T14:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -775,14 +793,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/</loc>
-    <lastmod>2020-08-03T06:33:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast-1029462064</loc>
+    <lastmod>2020-08-03T06:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR%2520Newswire/0738529a0736866753b74b04ad64224a</loc>
-    <lastmod>2020-08-03T06:07:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/jonathanmoed/2020/08/03/this-startup-aims-to-make-ecommerce-accessible-for-everyone/</loc>
+    <lastmod>2020-08-03T06:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -819,12 +837,6 @@
   <url>
     <loc>https://www.infoworld.com/article/3568497/when-hybrid-multicloud-has-technical-advantages.html</loc>
     <lastmod>2020-08-03T03:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/reuters/2020/08/03/business/03reuters-apple-china-patent-suit.html</loc>
-    <lastmod>2020-08-03T02:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1111,7 +1123,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200730005779/en/</loc>
+    <loc>https://www.businesswire.com/news/home/20200730005779/en/COVID-19-Impacts-Deep-Learning-Market-Accelerate-CAGR</loc>
     <lastmod>2020-07-30T14:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1897,12 +1909,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/</loc>
-    <lastmod>2020-07-27T14:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/neural/2020/07/27/a-beginners-guide-to-the-ai-apocalypse-humanity-joins-the-hivemind/</loc>
     <lastmod>2020-07-27T13:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2011,14 +2017,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
-    <lastmod>2020-07-27T05:30:00-07:00</lastmod>
+    <loc>https://insidehpc.com/2020/07/transform-raw-data-to-real-time-actionable-intelligence-using-high-performance-computing-at-the-edge/</loc>
+    <lastmod>2020-07-27T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
     <lastmod>2020-07-27T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://stockhouse.com/news/press-releases/2020/07/27/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

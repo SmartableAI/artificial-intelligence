@@ -52,20 +52,6 @@ related:
         width: 2550
         height: 1700
         isCached: true
-  - title: "Nokia to set up robotics lab at IISc for 5G research"
-    excerpt: "The Nokia Centre of Excellence (CoE) for Networked Robotics will promote interdisciplinary research involving robotics, advanced communication technologies and Artificial Intelligence (AI ... between academia, start-ups and industry ecosystem partners ..."
-    publishedDateTime: 2020-08-05T06:01:00Z
-    webUrl: "https://www.siliconindia.com/news/general/Nokia-to-set-up-robotics-lab-at-IISc-for-5G-research-nid-213508-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/yM102DG9.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Nokia To Set Up Robotics Lab At IISc To Boost Socially Relevant Use Cases"
     excerpt: "Nokia recently announced that it will collaborate with the Indian Institute of Science (IISc), to establish the Nokia Centre of Excellence (CoE) for Networked Robotics."
     publishedDateTime: 2020-08-06T06:21:00Z

@@ -27,6 +27,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Global Self-Driving Truck Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
+    excerpt: "Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
+    publishedDateTime: 2020-08-09T21:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2020-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 6
+
 secured: "D3ACdcVnNn1wYb0igC9F+VpIFHNN0n1tL93tjdccE7FhtAIp4Onc0+awPLvADS+2KS1I+okLbmAnDj2tugcVjzcqsWjSCAWLWXlsl94EHDHDLpw2mj26t0vYv/GS34wvkogCKhKle0U0fS0so1jfREaTKkP4+u3x9eoCcAVlcsMRpy60d+fQK8/M40rdPf0OEXfNGSw9WDfYEnB4jfSIzIiOBwkYpWstUL7Y338FMwQl92KI5cEy7bc/L/3y+uCT4qzpMb0aHtGW0DizK/BcrxF/mqrORDboLEUAI8//9NJVdRA+yI/EBEB8nztfh6JX0MMw6KXWNObK7+jI/1VS3A==;6Icyms6bmNY0a1IrcnK51Q=="
 ---
 

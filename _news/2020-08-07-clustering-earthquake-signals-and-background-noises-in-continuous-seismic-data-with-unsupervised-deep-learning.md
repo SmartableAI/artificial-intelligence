@@ -5,6 +5,9 @@ excerpt: "The authors here tackle the problem that too much seismic data is acqu
 publishedDateTime: 2020-08-07T09:37:00Z
 webUrl: "https://www.nature.com/articles/s41467-020-17841-x?error=cookies_not_supported&code=71afb2ca-03de-4b0e-9c1f-293188e4ec58"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Nature

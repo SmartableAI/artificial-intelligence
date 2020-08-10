@@ -36,6 +36,17 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "This tool could protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-09T22:01:00Z
+    webUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/"
+    ampWebUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "The Case for Banning Law Enforcement From Using Facial Recognition Technology"
     excerpt: "Woodrow Hartzog and Evan Selinger published a report on Banning Law Enforcement From Using Facial Recognition Technology. The report was published by the Justice Collaborative Institute. “A federal law would be the most powerful step to regulate the use of this invasive and dangerous technology,"
     publishedDateTime: 2020-08-06T13:47:00Z

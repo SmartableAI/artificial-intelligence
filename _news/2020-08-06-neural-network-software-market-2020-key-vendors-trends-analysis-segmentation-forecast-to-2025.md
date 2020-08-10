@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning as a Service Market 2020 Potential Growth, Competitive Landscape and Development of Industry by 2025"
+    excerpt: "According to the latest report titled Global Machine Learning as a Service Market 2020 by Company, Type and Application, Forecast to 2025 by MarketsandResearch.biz, the global market will accumulate steady income in the forecast period from 2020 to 2025."
+    publishedDateTime: 2020-08-09T21:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-potential-growth-competitive-landscape-and-development-of-industry-by-2025-2020-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "CZ2miKTxnV2jjn541MVnOGwtxSWKoIjvgUFD2s7WmB7FMkYi2o0pVZUbDjyQi/mih/El/BTx+qDBd6+x9SmziVw3yvxhJ6nh0jRQqxGggPhj/QWhMp5z7U3+ucGbBnLCannXVVG9WLiPdzmeaZY4+AMTPJBxuQBIq/YhoN5HL1+ca53f6CPWLjSIVfcHjdWd5hZTVkk6YBYN0/YD6vqpuqAmtgpx7TsNy0BGzBUI5v6OM5lFT4ONWtEzrYPccya0X6W4vMJlmB8F3303ppQzVrG07Lxo0w6wB+VSvDiBo17MtlGmSpaIyGg5I9vdv008mNw0WIbW09yHb4q4kaXbRQ==;NSUSLxGoexaGPpg6970TYw=="
 ---

@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-04-the-survivor-last-korean-war-criminal-in-japan-wants-recognition.md",
+      "title": "The survivor: last Korean war criminal in Japan wants recognition",
+      "excerpt": "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528231197&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7301C",
+          "width": 799,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN25002W",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25002W",
+      "publishedDateTime": "2020-08-04T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps.md",
       "title": "Microsoft, Amazon back a SoCal company making microchips specifically for voice-based apps",
       "excerpt": "Microsoft’s venture capital fund, M12 Ventures, has led a slew of strategic corporate investors backing a new chip developer out of Southern California called Syntiant, which makes semiconductors for voice recognition and speech-based applications.",
@@ -472,47 +522,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-04-cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform.md",
-      "title": "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform",
-      "excerpt": "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509",
-      "publishedDateTime": "2020-08-04T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-04-the-ultimate-in-working-from-home-amazons-engineers-are-building-robots-in-their-garages.md",
       "title": "The ultimate in working from home: Amazon's engineers are building robots in their garages",
       "excerpt": "The next generation of Amazon's Scout bots – the fully-electric autonomous delivery devices the company is hoping to deploy soon – is currently being designed and built by a team of mechanical engineers in Seattle,",
@@ -613,47 +622,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-04-ping-an-askbob-doctors-deep-learning-model-improves-diagnosis-of-kidney-disease.md",
-      "title": "Ping An AskBob Doctor's Deep Learning Model Improves Diagnosis of Kidney Disease",
-      "excerpt": "The system uses deep learning, a type of machine learning, to identify certain types of kidney lesions and cells to help doctors diagnose kidney disease with greater accuracy. The ARPS is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/pr-newswire_500_4_123.jpg?itok=K0XbM7NT",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease?amp",
-      "publishedDateTime": "2020-08-04T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-04-for-robots-its-a-time-to-shine-and-maybe-disinfect.md",
       "title": "For Robots, It’s a Time to Shine (and Maybe Disinfect)",
       "excerpt": "The pandemic has turned cleaning and other mundane building tasks into a challenge, stoking interest in machines as cost-effective solutions.",
@@ -700,6 +668,38 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform.md",
+      "title": "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform",
+      "excerpt": "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -758,9 +758,9 @@
     {
       "path": "_news/2020-08-04-ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures.md",
       "title": "AI Chip Company Syntiant Surpasses 1 Million Units Shipped; Raises $35 Million in Series C Funding Led by M12 and Applied Ventures",
-      "excerpt": "\"We are now seeing Syntiant deliver on its execution strategy, setting new benchmarks that are unprecedented for a young AI chip company with the volume of products already shipped, and new customers coming on board.\" The company's highly accurate NDPs ...",
+      "excerpt": "The company also announced it has completed a $35 million Series C funding round. Microsoft's venture fund M12 and Applied Ventures, LLC, the venture capital arm of Applied Materials, Inc., led the financing,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -778,7 +778,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T05:36:00-07:00",
+      "publishedDateTime": "2020-08-04T05:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -988,6 +988,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-04-ping-an-askbob-doctors-deep-learning-model-improves-diagnosis-of-kidney-disease.md",
+      "title": "Ping An AskBob Doctor's Deep Learning Model Improves Diagnosis of Kidney Disease",
+      "excerpt": "Company of China, Ltd. (hereafter \"Ping An\" or the \"Group\", HKEx:2318; SSE:601318) is pleased to announce that its smart healthcare team [1] has joined the National Clinical Research Center of Kidney Diseases in China,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-04T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-apple-hit-with-143b-siri-patent-lawsuit-from-chinese-ai-firm.md",
       "title": "Apple hit with $1.43B Siri patent lawsuit from Chinese AI firm",
       "excerpt": "A Chinese AI firm is suing Apple for alleged patent infringement involving the voice assistant Siri. Shanghai Zhizhen — also known as Xiao — is seeking $1.43 billion (10 billi",
@@ -1169,47 +1210,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-04-deepfakes-ranked-as-most-serious-ai-crime-threat.md",
-      "title": "'Deepfakes' ranked as most serious AI crime threat",
-      "excerpt": "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report.",
-      "sourceUrl": null,
-      "webUrl": "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-04-ai-firm-sues-apple-for-14-billion-alleges-siri-infringes-on-its-patents.md",
       "title": "AI firm sues Apple for $1.4 billion, alleges Siri infringes on its patents",
       "excerpt": "What just happened? Apple's Siri is not the most successful digital assistant, but that didn't stop a Chinese AI company from use it as a means to block sales of Apple devices in the region and potentially score some settlement cash. All of this is ...",
@@ -1255,6 +1255,38 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-deepfakes-ranked-as-most-serious-ai-crime-threat.md",
+      "title": "'Deepfakes' ranked as most serious AI crime threat",
+      "excerpt": "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/ucl-ra080320.php",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-03T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1309,77 +1341,36 @@
       ]
     },
     {
-      "path": "_news/2020-08-03-artificial-intelligence-researchers-release-theaitre-play-written-entirely-by-machines.md",
-      "title": "Artificial intelligence: Researchers release 'theAItre' play written entirely by machines",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts are working on a cutting-edge research project merging machine learning with theatre.",
+      "path": "_news/2020-08-03-chinese-artificial-intelligence-company-files-14-billion-lawsuit-against-apple.md",
+      "title": "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple",
+      "excerpt": "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents.",
       "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines",
+      "webUrl": "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 75,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/AI-1318237.jpg?r=1596490343190",
-          "width": 590,
-          "height": 350,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MC",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "publishedDateTime": "2020-08-03T14:32:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24Z146",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z146",
+      "publishedDateTime": "2020-08-03T15:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-improving-speech-to-text-transcripts-from-amazon-transcribe-using-custom-vocabularies-and-amazon-augmented-ai.md",
-      "title": "Improving speech-to-text transcripts from Amazon Transcribe using custom vocabularies and Amazon Augmented AI",
-      "excerpt": "Businesses and organizations are increasingly using video and audio content for a variety of functions, such as advertising, customer service, media post-production, employee training, and education. As the volume of multimedia content generated by these activities proliferates, businesses are demanding",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improving-speech-to-text-transcripts-from-amazon-transcribe-using-custom-vocabularies-and-amazon-augmented-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/improving-speech-to-text-1-1.jpg",
-          "width": 1000,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T14:13:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1395,8 +1386,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],
