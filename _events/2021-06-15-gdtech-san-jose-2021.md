@@ -20,10 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: http://gdtechevent.com/images/msg.png
-    width: 432
-    height: 488
-    isCached: true
+  - url: http://gdtechevent.com/images/Banner-1.jpg
+    width: 768
+    height: 439
 
 ---
 
