@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anki"
   url: "https://twitter.com/anki"
-  followers: 27031
+  followers: 27030
 
 size: 51-200 employees
 yearFounded: 2010
