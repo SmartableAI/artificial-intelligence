@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How movie studio Laika and Intel are revolutionizing stop-motion animation with AI"
+    excerpt: "The acclaimed studio behind ‘Missing Link’ and ‘Coraline’ is collaborating with Intel to create an AI tool that could be a big leap in stop-motion animation."
+    publishedDateTime: 2020-08-10T10:00:00Z
+    webUrl: "https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 31
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-laika-using-ai-to-complete-filming.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
     excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
     publishedDateTime: 2020-08-08T03:31:00Z

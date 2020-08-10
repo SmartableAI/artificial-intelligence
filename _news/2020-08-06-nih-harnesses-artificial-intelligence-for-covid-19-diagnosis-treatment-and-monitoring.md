@@ -8,7 +8,7 @@ ampWebUrl: "https://www.muskogeephoenix.com/news/nih-harnesses-artificial-intell
 cdnAmpWebUrl: "https://www-muskogeephoenix-com.cdn.ampproject.org/c/s/www.muskogeephoenix.com/news/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/article_4636889b-d8bb-514a-9365-a4cf01cddfc5.amp.html"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "NIH harnesses artificial intelligence and medical imaging to fight COVID-19"
-    excerpt: "The National Institutes of Health has launched the Medical Imaging and Data Resource Center, an ambitious effort that will harness the powers of artificial intelligence, and medical imaging to fight COVID-19."
-    publishedDateTime: 2020-08-05T17:26:00Z
-    webUrl: "https://www.news-medical.net/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200805/NIH-harnesses-artificial-intelligence-and-medical-imaging-to-fight-COVID-19.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "NIH Harnesses Artificial Intelligence for COVID-19 Diagnosis, Treatment, and Monitoring"
     excerpt: "Collaborative network to enlist medical imaging and clinical data sciences to reveal unique features of COVID-19. The National Institutes of Health has launched the Medical Imaging and Data Resource Center (MIDRC),"
     publishedDateTime: 2020-08-08T11:33:00Z

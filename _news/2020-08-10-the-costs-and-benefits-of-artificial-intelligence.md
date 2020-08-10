@@ -5,8 +5,8 @@ excerpt: "The COVID-19 pandemic is hastening the spread of artificial intelligen
 publishedDateTime: 2020-08-10T09:14:00Z
 webUrl: "https://www.japantimes.co.jp/opinion/2020/08/10/commentary/world-commentary/economic-effect-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -15,6 +15,9 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Autos
+  - AI Ethics
 
 images:
   - url: "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/08/np_file_29359-870x580.jpeg"
@@ -22,6 +25,6 @@ images:
     height: 580
     isCached: true
 
-secured: "DzVtnGvoNXTKQSt92SsfL5275audqWa+SP+ET8ZrDWYjHQSQuVplgXGc50ruVy+j4BFffiWG+2BasY/nelOzyP1KuPzPta0UZLs/cn2nUHgau/bgw5TZU/auIkkUgPrDi9wmAqhXDOYjoRrpllirWF6P1MyEPsjekBJI51wvG688u6Yz3JKOXdaI7OtlOG35e2ZsZkUUwC9tLRn3rlm+QHzwbJFqlJ91IdzGY77RSmx+6WFlnwhVLmjgl8ZDgVZQIiP73T59bMbYgXBwKOGibg3TxeZfl3v/hsD4L15HvevUdz2G2sRQS2w7KMiA47N15iJ232esjgJN/IYvgLJywg==;vQBJfLq1w6K7HjNgfpi0Ow=="
+secured: "j5K7MVe7otR3MzvsEHM37M22Q6tpcltEYvqyEUWjvUV31atMhMhzd8UFBNi2sPko+AB5I6f42W6ZCEdddz02PnfGKiJ9Ww9gX72qBiYbHMhgM4d3YCp0gfxj1C5Jhs0gb5wMPazY47YDHIgTRSY9fcDtd74Vdg0uFWfvBKbgGG4DJLdE759DnHb5/UE78khP+3q8YGGTCGCGuiqFB0CLRRgKrH2ujH27lxcjG8y1lyIL6eler11hlazrrQNFaKCQ6Qq6UkY606U2qLALMwtfs7UgP8ZoTXfEo7Nufdv1O65v927wwv8EsFREFa0cV3ICTmcDacINtgiyaWArIqq6yEY+YwvTKjHlSvzLLZfFa/FrBUcJKL4IN6AoTsFXz4JH9Cm9yAJu9pqjuNVlaTdWAASRXI7puwPG3iYa7X54ycg2tijgFCJQh8pF2kjpb2ienLXqtKagipNfnW7TwRW6+cW0LwnfAtwd2lGDULfUk5xJ1DnfEW3jmppiq6JHrdxYS/cA2ssvK97XubKyb2edhw==;NZt+yYa2isVq2eJtbg99+g=="
 ---
 

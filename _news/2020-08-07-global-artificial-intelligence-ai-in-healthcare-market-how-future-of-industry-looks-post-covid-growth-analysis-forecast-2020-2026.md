@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T12:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07"
 type: article
 quality: 66
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://cdn.openpr.com/T/8/T809254303_g.jpg"
         width: 560
         height: 315
-        isCached: true
-  - title: "Artificial Intelligence In Food and Beverages Market Industry Analysis, Forthcoming Growth, Industry Prospects and Forecast to 2027"
-    excerpt: "AI is helping companies to stock up their inventories only to the extent that the demands can be met. Some factors are anticipated to hinder the growth"
-    publishedDateTime: 2020-08-05T17:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market-industry-analysis-forthcoming-growth-industry-prospects-and-forecast-to-2027-2020-08-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "b+NDFwy9u8ppl/1XMU1rNPbkDGlnOqpJVBAzB9q9MWVtNQqAPqYFP8tMzVZIcfyGwcL4ie4LoHluEoPRfnSN/k0zRAZxO2dJzCDDf7Kdf78bxL88Zf6KweujkdB5dm8XToHobuQrBGyZ5IcTHePtlAdooS+JVfw7aifL11JTakSBK4jRt2mlTEd3J/t8VYEkOKI29DXGKc2FfwuhIRprV0o590DUyfP8FCKnD8jc+ZSXE3z7DYu/0LQH3zIXubPGUkdWEjgpH4IjLxpFyS6xKB40Q5kD5kFr2+MPZaCDxKEvSXLKRGAOFzl8AKZEOBJyAurFdQ4riqtRzolwvgoJhg==;cUBb7jzXgUGJk14x4tV1Kg=="

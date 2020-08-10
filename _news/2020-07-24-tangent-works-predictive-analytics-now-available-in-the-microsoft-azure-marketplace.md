@@ -2,24 +2,24 @@
 category: news
 title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
 excerpt: "and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from predictive analytics to create real business value, with better ..."
-publishedDateTime: 2020-07-24T13:05:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
+publishedDateTime: 2020-07-24T13:02:00Z
+webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
-    width: 400
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
+    width: 2699
+    height: 1414
     isCached: true
 
-secured: "cuFU0tpPP/4n+OnkDtTy2sVlXGnLYLsPwU2xBKrTSHTCBgrQk5TP77eXyo/F/N/DaBbOEsvS9XxBZwmjl4g98de1nwP2qVTR0NEn27Wgb/z7+XqUdnu4cMAOFjZMl0heJ1ayy3DvrjS9lx/s2k9RDMwlFgMfQdmWgZHbOPPykIVrnqFrBfUpckQXDVb8Q0KxXWJk3dhqJVHGJRlcNELiezXgVZzfFc1u5WnnfU/cJ6Ap1OAFdIPi67OsT2gwowPO6P5XmNm/o+jA9FlKBB0ObbOPw8V2Zxff1bQ3vMJX0h5ti+FbVh4ayS5Aju7AFPmJe76/+D7b88AZSPqZDVTCwQ==;JcKDu4cqf2IkrWm/pbzXWw=="
+secured: "z0uK8x6wr7Ixfw8LFGeWlTWzu3fGJvpKJ5YgoSKlYO2oDGzEc1XrAD+jt+W1wOqSroiKqXp9BzwQWaOB8CkUv9g4MEnfs99SYg2Fi7xOy99J+M9E8PyrN08OmxQXKxynZbgLaK71wKS031WQmUF2SS5pHCYzAB5LPcGPyilmuh95tFzSu1mfEI+kXNbyMdW5aV2daavaNfBq/bFmu443d32jwrIOk/8VS116jz7mgDkI++N31G/3F1r5yxBlENOMLEOQTguGDv5yh+UBK8d43toEQh139PSvzEI5ZRqpPY71ep4TA4YRZrzR1DdLVgCEgxdnGIAZfzJSvDDV35Ixew==;k6XrVjuYnuiZ7RsYV3OGvw=="
 ---
 

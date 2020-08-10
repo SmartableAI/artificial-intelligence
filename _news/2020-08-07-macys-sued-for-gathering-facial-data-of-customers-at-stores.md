@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New Facial and Eye Recognition Software in Airports to Increase Effectiveness of Safety Procedures"
-    excerpt: "Developments in technology have allowed authorities to use facial recognition when identifying individuals. EDISON Software Development Centre have coupled this technology with eye recognition software to monitor and train customs officers that improves accountability and attentiveness."
-    publishedDateTime: 2020-08-05T17:24:00Z
-    webUrl: "https://apnews.com/79daba601dabdab4695ae24599975759"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Macy’s sued over use of Clearview facial-recognition software"
     excerpt: "Macy’s Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI. An Illinois woman filed a proposed class action against Macy’s Wednesday in federal court in Chicago,"
     publishedDateTime: 2020-08-07T11:30:00Z

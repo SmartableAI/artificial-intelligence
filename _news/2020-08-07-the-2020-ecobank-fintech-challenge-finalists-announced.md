@@ -86,6 +86,20 @@ related:
         width: 810
         height: 424
         isCached: true
+  - title: "Ecobank Group announces the 2020 Fintech Challenge finalists"
+    excerpt: "Ecobank Group today announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
+    publishedDateTime: 2020-08-10T09:49:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ecobank-Group-announces-the-2020-Fintech-Challenge-finalists-1029889"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/932/93206888.jpg"
+        width: 480
+        height: 266
+        isCached: true
 
 secured: "i+Cx75NFHJzsaPesRGvILrN29p4LNjCfAH1w7dx+gvIXwXSNMb1nQNZaZeglA8sxRS35F7w1M722jY/QAKBs2Jx4eNsOUYhJcvdL9g3T9INE3XoPlp/Bc1CSTxokEtK5cy1nEMkWrsemQ2Zp2sD+JvyKutOCYCXx04Tvy2948ufZmqEyBaFywR6EV0hwfRGjg9Dge2BGZZ5B4tEf4spo6psPSbxmgVbpdKMcwmwb4YhWn0ETkfMjU41luJF9gfDCyqR8v5+xwVmjPGzDzS6UVjRekZ4vol4BBImhIR2FCVGqeabWFNmHy/l8k1homtAfJ3uJKzwKjd1QGvRRD2WSr3odj1l5xVJhcT31ztEJ/fibMoxxjY5rpHcpm4OqxDYLGRW56o3Id5cB+cWb7ZrNPNrY1xafFEcTzwAAaUJQJ77ITLagLORurj41F8siuKo0MtWQL8fyauZHEorZz/JYvEcPlt4E0h3RQDLIQuU5r5o3esvIjmXw/L4gNG7ck3ATJr1RyC12LlVmN3aqcO69rQ==;dCP41YWYrsG9IFn2k9vxHw=="
 ---

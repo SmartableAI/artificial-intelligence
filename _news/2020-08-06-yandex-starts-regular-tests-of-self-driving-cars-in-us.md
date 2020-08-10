@@ -36,6 +36,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Coronavirus Pandemic Fuels China’s Self-Driving Cars"
+    excerpt: "Autonomous-vehicle road testing has skidded to a halt in the U.S. amid the Covid-19 pandemic. But China’s startups have pushed ahead by more than doubling the number of self-driving car projects, with a boost from the country’s 5G network."
+    publishedDateTime: 2020-08-10T10:03:00Z
+    webUrl: "https://www.wsj.com/video/coronavirus-pandemic-fuels-chinas-self-driving-cars/C88A4535-BAA5-4F8F-A9D5-17CEA7A86DA7.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "http://m.wsj.net/video/20200810/081020selfdrivingcars/081020selfdrivingcars_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Yandex, Uber’s Russian Partner, Kicks Off Self-Driving Car Tests In Ann Arbor"
     excerpt: "The Russian tech company has brought its self-driving vehicle program to the U.S. after years of testing in Moscow and Tel Aviv."
     publishedDateTime: 2020-08-06T18:05:00Z

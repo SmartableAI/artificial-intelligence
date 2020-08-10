@@ -43,20 +43,6 @@ related:
         width: 360
         height: 240
         isCached: true
-  - title: "New Facial and Eye Recognition Software in Airports to Increase Effectiveness of Safety Procedures"
-    excerpt: "Developments in technology have allowed authorities to use facial recognition when identifying individuals. EDISON Software Development Centre have coupled this technology with eye recognition software to monitor and train customs officers that improves accountability and attentiveness."
-    publishedDateTime: 2020-08-05T17:24:00Z
-    webUrl: "https://apnews.com/79daba601dabdab4695ae24599975759"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Macy’s sued for gathering facial data of customers at stores"
     excerpt: "The department store giant is accused of using facial recognition software to match faces with personal information on social media. More than 6,000 people could be affected. The class action lawsuit was filed in the Northern District of Illinois seeking ..."
     publishedDateTime: 2020-08-07T23:58:00Z
