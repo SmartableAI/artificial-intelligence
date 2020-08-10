@@ -2,6 +2,55 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-04-ai-firm-sues-apple-for-14-billion-alleges-siri-infringes-on-its-patents.md",
+      "title": "AI firm sues Apple for $1.4 billion, alleges Siri infringes on its patents",
+      "excerpt": "What just happened? Apple's Siri is not the most successful digital assistant, but that didn't stop a Chinese AI company from use it as a means to block sales of Apple devices in the region and potentially score some settlement cash. All of this is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-03-image-21.jpg",
+          "width": 2880,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html",
+      "publishedDateTime": "2020-08-03T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-deepfakes-ranked-as-most-serious-ai-crime-threat.md",
       "title": "'Deepfakes' ranked as most serious AI crime threat",
       "excerpt": "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report.",
@@ -1341,46 +1390,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-02-india-meteorological-department-to-use-ai-in-weather-forecasting.md",
-      "title": "India Meteorological Department to use AI in weather forecasting",
-      "excerpt": "Officials say this can help improve 3-6 hours prediction of extreme weather events, especially for issuing nowcasts",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/science/science/020820/india-meteorological-department-to-use-ai-in-weather-forecasting.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gmsqitju2km8f9j2ea331sb733-20200802143231.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/science/science/020820/india-meteorological-department-to-use-ai-in-weather-forecasting.html",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/science/science/020820/india-meteorological-department-to-use-ai-in-weather-forecasting.html",
-      "publishedDateTime": "2020-08-02T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

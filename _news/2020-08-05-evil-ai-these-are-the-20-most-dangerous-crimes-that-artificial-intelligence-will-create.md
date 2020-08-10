@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-mo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/"
 type: article
 quality: 95
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Deepfakes are the most worrying AI crime, researchers warn"
-    excerpt: "Deepfakes are the most concerning use of AI for crime and terrorism, according to a new report from University College London. The research team first identified 20 different ways AI could be used ..."
-    publishedDateTime: 2020-08-05T11:31:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/deepfakes-are-the-most-worrying-ai-crime-researchers-warn/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T121048.824-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
 
 secured: "qv9VawoBjB2eZXdyZ4kBkmeVdntNtYqlzTNnMs7w39fSM/lE0Skj6oVNJ3QliXxan2ZlqiIU+sRtAq6AmBVvyrsXnZ10Ktf4TVzuCEmRvbmCd/PkgyC4AVjrTjlykqxGYPZSHxfQBpFxEdkSdKHxKjoGCH1/CuPl/jG6vz3VJT4piUoEz7uTrk8fcLNm4Two/wf46ey2v03cMKYSk2e0wf8zBhaiwNOlHqK+DfeBCXwPnx/kUUfaWDHa077bObUvekutmZmu/9n1Rftsr0bR8sdFuz68WCei8Pglf3g3pKdZlPgNxn5h+gwxYd+1ZRwTHPMopnPBwn0V8TvqsV8GMBd/gJJmKlFDOjumF0h9pBH+DMpO8wZQcYenxBAD8AHuGMt2o7v3VraGb6cVN5DBuyPVmptIj+bXHILAsR3/2UyVFTpuAL/Rl8cioFPot1v0i4Z/O1n4oLybOYkgc7eRW2tzOn9Gx3hBE286dCHXOVT+0nG7lO+vuyDJmWfk1fhEgrzv4d/UWYDKDIOEXsPwXQ==;MtNwqFu9j5Tn709doeWQjg=="
 ---

@@ -32,20 +32,6 @@ related:
         width: 1024
         height: 581
         isCached: true
-  - title: "Customer Experience Outsourcers Launch Intelligent and Self-service Options to Improve Business Outcomes in Europe"
-    excerpt: "\"By integrating advanced analytics, artificial intelligence, and machine learning, outsourcers transform the customer ... \"Sectors such as telecom, banking, financial services, and insurance (BFSI), and travel and hospitality will see the most changes ..."
-    publishedDateTime: 2020-08-05T12:59:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/customer-experience-outsourcers-launch-intelligent-and-self-service-options-to-improve-business-outcomes-in-europe-301106648.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 2
-    images:
-      - url: "https://mma.prnewswire.com/media/1224314/Frost_Sullivan_Customer_Experience.jpg?p=facebook"
-        width: 2298
-        height: 1203
-        isCached: true
 
 secured: "91Irz7yzUkeEc8oCddHlue2eUpNbNoNMcxvnyMrkfnIqc7hrxJR4BC7j7up+4USdMfDSq5HBaHCDdMPWHRukPBMPFmVL3SdTTW6bzI1CxT0eBjZbmSyLoURYeg654HRp+/4EjrauGyXVfgFfXqgFtIQCBNbgUPckXFOyTxooJkCwJBQj1a2H8z4XxHO/HfAPCxsXCHqEjunylct+G5fzqMQrBWHg26bfSEbrMDe9ceKCqjgx32Edl4WPo7p04SixnF737GYs4PPZk53L93iwwdYMlw/sR3gKHaWXIC+fO7Cx2LUU5nxyBreixDXJcBBy6uTcrRoyHVb6SCowizqSZw==;X/ZNqIh/vyMyWbtYTS5hUw=="
 ---

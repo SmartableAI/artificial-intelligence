@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Road test: Chinese 'robotaxis' take riders for a spin"
+    excerpt: "It is expected to be years before cars that operate without human intervention are unleashed owing to lingering technological, regulatory, and safety hurdles."
+    publishedDateTime: 2020-08-10T05:14:00Z
+    webUrl: "https://www.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
+    ampWebUrl: "https://amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 44
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1683802/chinese-robotaxis-take-riders-spin.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Road Test: Chinese 'Robotaxis' Take Riders For A Spin"
     excerpt: "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country."
     publishedDateTime: 2020-08-09T05:32:00Z

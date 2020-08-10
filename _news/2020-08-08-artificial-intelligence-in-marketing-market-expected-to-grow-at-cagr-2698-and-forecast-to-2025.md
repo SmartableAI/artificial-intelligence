@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge AI Market Analysis Share Size and Growth Demand by 2020-2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 05, 2020 (Heraldkeepers) -- New York, August 05, 2020: Edge Artificial Intelligence (AI) software market size to grow from US$ 355 Million in 2018 to US$ 1,152 Million by ..."
-    publishedDateTime: 2020-08-05T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-analysis-share-size-and-growth-demand-by-2020-2025-2020-08-05?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence as a Service Market Size to Witness Huge Growth by 2025"
     excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence as a Service Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence as a service market is poised to accumulate considerable revenues by the year 2025."
     publishedDateTime: 2020-08-07T06:19:00Z

@@ -23,22 +23,6 @@ images:
     height: 328
     isCached: true
 
-related:
-  - title: "Merchavia invest in Aura Smart Air, a company that deals with purification and air quality management using artificial intelligence technology"
-    excerpt: "a company that deals with purification and air quality management using artificial intelligence technology. According to the MoU, Merchavia will invest $250,000 and will receive preference shares, which constitute approximately 1.93% of Aura Air's issued ..."
-    publishedDateTime: 2020-08-05T12:28:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/merchavia-invest-in-aura-smart-air-a-company-that-deals-with-purification-and-air-quality-management-using-artificial-intelligence-technology-301106394.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "SX08ZYBzLIh0D6Mvn8mkHFsFYVUcTRJEPbC3Ck6NiuEz0xc3x1eGjBgUdgThcsU2B7Kw7WaZ/gxCJ9pJecB+jwIRbH3rGSQHhKCHKAiLHxAG/N7ilD4EzXZUxLa1sZ7EvMGGronRkSeHkm8q2p2T6aryxUYuOhPCiVPeBDvkDQChnYgdUNKgRPs7VB53/9AihWNLqh+Ci16IRQ2KXhWkAuLzZQiQ5TuI6aywHwEIa86WpmbMKsNKyZrypKqrncMaKjqMQ8GSD4C4c+0bTw3/PNBi1HqNfI24zPMNkIuEgolVnGIYM9m/6wEJ/KZddlBtVuvT1AvqrMmDGl/1l8UJ8g==;Z8fW3AMqUwDcAWKE6bXwzw=="
 ---
 

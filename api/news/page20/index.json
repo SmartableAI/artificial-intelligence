@@ -2,6 +2,55 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-22-autodesk-acquires-construction-ai-company-pype.md",
+      "title": "Autodesk Acquires Construction AI Company Pype",
+      "excerpt": "It is the first AI-related acquisition by Autodesk, a San Rafael, Calif.-based design software company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-211866/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
+      "publishedDateTime": "2020-07-22T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-ibm-services-teams-with-cbre-to-deliver-smart-maintenance-services-to-data-center-clients.md",
       "title": "IBM Services Teams with CBRE to Deliver \"Smart Maintenance\" Services to Data Center Clients",
       "excerpt": "CBRE technicians intend to diagnose and maintain IT hardware from a wide range of manufacturers, leveraging IBM's augmented reality and Watson enabled AI technologies while being supported by IBM's global platform, which includes 57 call centers worldwide ...",
@@ -1051,47 +1100,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-when-autonomous-cars-crash-should-they-save-passengers-or-pedestrians.md",
-      "title": "When autonomous cars crash, should they save passengers or pedestrians?",
-      "excerpt": "When a driverless car crashes ... I am able to put this car in the best scenario.’ Machines and artificial intelligence are not perfect, just like humans are not. And you talk to people leading ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scpr.org/programs/airtalk/2016/06/27/50013/when-autonomous-cars-crash-should-they-save-passen/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a.scpr.org/i/c080d29db043a2faa0e2d2edf041474e/131452-full.jpg",
-          "width": 1024,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPCC",
-        "domain": "scpr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -357,7 +357,7 @@
       "webUrl": "https://www.zdnet.com/article/evil-ai-these-are-the-20-most-dangerous-crimes-that-artificial-intelligence-will-create/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -457,7 +457,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1309,7 +1309,7 @@
       "title": "NVIDA: AI, Robotics and Self-Driving Cars",
       "excerpt": "NVIDIA (NVDA) is the pioneer and leading designer of graphics processing unit (GPU) chips, which initially were built into computers to improve vid",
       "sourceUrl": null,
-      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/",
+      "webUrl": "https://www.moneyshow.com/articles/dailyguru-54699/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1341,8 +1341,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

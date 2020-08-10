@@ -29,15 +29,6 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 11
-  - title: "Reissue: L&T Technology Services Expands Collaboration With Microsoft to Offer Eco-Friendly Solutions for Workplace Transformation"
-    excerpt: "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimize business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms ... to leverage Azure IoT platform for ..."
-    publishedDateTime: 2020-08-05T11:58:00Z
-    webUrl: "https://www.businesswireindia.com/reissue-lnt-technology-services-expands-collaboration-with-microsoft-to-offer-eco-friendly-solutions-for-workplace-transformation-69015.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
 
 secured: "GOG7psNaa9CKHWenwtRXpsh0E2jq+PSMbewEBJ1iT1CnkBx29L/a8vWkSBftxMgirWi+GrDl8ActS9yQQ4UGLbzrvBrCHN4rj7hywFTrN6idSGV1je961EIkPLKYPeyPzxtq2iUQaGQ/W4YnlvHNPClNEfnisyjZcXtoasFwttcFDy9AqPIJHjzmJQI/wBP9cG3VEJan9QAvdCkSnEZI/Wp6eBGC2w5UY2e1BWOFpAAoSqRvj9ekeu91VZROcesVu0LKiBx6u7+nLrHkuYgrDNbnhhKmEq+hBWjvhDCf/KcBu8DTaMkEI3YIWVxWF+jK+xzMMmyJxIRMpjLMVo7AOA==;BBwmIvTFTvK5hpS80xueQQ=="
 ---

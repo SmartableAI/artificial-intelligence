@@ -40,6 +40,22 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "Road test: Chinese 'robotaxis' take riders for a spin"
+    excerpt: "It is expected to be years before cars that operate without human intervention are unleashed owing to lingering technological, regulatory, and safety hurdles."
+    publishedDateTime: 2020-08-10T05:14:00Z
+    webUrl: "https://www.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
+    ampWebUrl: "https://amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 44
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1683802/chinese-robotaxis-take-riders-spin.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "uLnZgp3fWcGhjZEoaArd/BM8hyCb/zQDIryWky4E3gt3X5UMQ220vdGVcdm1AaZuoMxFKqXlZX8Mmjxu7XEeeD+pP7pj9Ayxzpf8SwGT60mQXcy5f122gIfrr6SVNQP7iZk9zBke7hcnVtxwOtv10VHy3x3nbEJFWp3OJeaLzxvsbnvFI6APMBbeiOETUMy9GIRYrdzXsqvCS7QcWK3jHlXdK9NWLYRwZuRbJy76eSmb/L0gXIYPDHPmZg5q8HZ4J3apJmF18l5qfnEP4V2jlBMOPn8PRrwv7gD8ap6xtXQk0C6nKNnulG3VBz/qGD5LXHqgmbU5eW8kbjO7wsBuh/cdiFNfvXXp9mb4yOYLO/8bHbeKHtbgPlEntZ1cJun2cN0RSMRbUPONEPiOudzpavc/1jUDyDz61zjxRmb2wXf+rZNLOhoHBt3W73uJyQoMhncIxNBgep+gEp5YprNGiJuQ4dWiBSo1UiHmIVY1/u/MDUP+cppvMPIuf5jh9NJOG5eaJQfUJohLwOObtMmVvQ==;21h/BE/7RS+9lIvlGCRVNg=="
 ---
