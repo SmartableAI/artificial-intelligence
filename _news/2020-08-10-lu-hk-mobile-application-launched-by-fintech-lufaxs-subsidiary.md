@@ -7,6 +7,7 @@ webUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/lu-hk-mobile-applicati
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: IBS
@@ -22,6 +23,6 @@ images:
     height: 300
     isCached: true
 
-secured: "oq2CJ49cQ6aIgGoRfUcsr/H80B4E8RBXWCSPVbTIIDfsCRWQFhfDSDL4ZFHnvg5VhyJgY6kxAZCMeExEr+nFtPkJ11V9VBC49Qj7O+JsiHOd0qKPwp1AKhfqfjB2WSUZ9xP4fq6eh05f/UdqMbFNOCm0vFkkO6F3juOhtdFWF7OV7EumYdEe/0JD5Kl2yfAt4xMKh+RtpOBxdFD5q1gJUIUqxAXHx2M69OBnwxEnRGChW6gsvTsi71LGeX0PZUFQ4sN148vn0dQzpqo5DbnLcvV8XJJgiA5bDAA0oZFQSEKQooM+FJ5Mru3TCWi070aKcyud0k2THPfBF1P/GJm8dQ==;1sa5Fvz+oxOyV3zrj8h/0w=="
+secured: "cTH+UK+XV2gWojgUf2AGSN4tFNmERDCHyjIM3wFb+AZ5NWK5kfUaAPyPh+3xwI4h1Qh8LhYPbozwPSQLUP0FxRyDdAKC6NWbgItcLA7LcXI532RLFgd68ma/W42SwgXWAch8YHjPVuRle5m4CbAsiZk0si2m2F3Lhgxx4/t54C0mrNF3JtUO9iNLM171XEQiEHXjuoRBdWExUHD/7Co/PmHKpfl25SJLdh/+GpRQcO/FD6Z65b/41RhZoBoXVa17EHavu3OXkmqU2BPdvODzNiU6/4Js0xT8VAW1/VddZ1epap0aDmz2dlQZYcGz/g9czqBTIHLOThd0WitYNwNn06Z5TTfGoaqQIBXCrCA6Zg6RAJbwndWwxGR2us3m+LZQxQ7yJ1bo3nBIUNlJvuMh50EPqndlJhh39eIyspJ2evVg37JOzu3+7jAGwrSVSeR3L4U8IsSY5rp6lm2sP1nSLNmQYe6DcQuM18CB7bdTxnzbYFffykZTupE9owaJ3HpE;Kk3tK+sWvxuQ+N7R77OTqA=="
 ---
 

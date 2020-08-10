@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200806/Researchers-develop-a
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200806/Researchers-develop-a-deep-learning-based-algorithm-for-predicting-sites-of-DNA-methylation.aspx"
 type: article
 quality: 49
-heat: 59
+heat: 49
 published: false
 
 provider:

@@ -7,6 +7,7 @@ webUrl: "https://menafn.com/1100613268/Global-Gesture-Recognition-Market-Expecte
 type: article
 quality: 14
 heat: 14
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

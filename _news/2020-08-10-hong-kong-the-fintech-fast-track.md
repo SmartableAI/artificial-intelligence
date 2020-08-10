@@ -7,6 +7,7 @@ webUrl: "https://www.cnbc.com/advertorial/hong-kong-the-fintech-fast-track/"
 type: article
 quality: 54
 heat: 54
+published: false
 
 provider:
   name: CNBC
@@ -26,6 +27,6 @@ images:
     height: 1000
     isCached: true
 
-secured: "9ezV6QDrMPJC1Jwc/bghTvUS05Nw9enScpRVqnSlJ/TIH1itkN/zLM/bqYVx2Pck9xFod4LqUWrSJ896hsVFu/XlUlMNGgzRDoKBlclA9TI/z3PCme5MGO7tHLaCSmTS9o0hRqFIIadXWKN1Wk0mdsWdwLXJ9k4POwzp0cwFkdDkubT3/p/bqZbTVQKe59otR0Vs9y/qcxImHMYdbZDeHq7fj3OO/C/5w+2YzKCvcGiP3xSwTegKno17PUYlZlBQ7NYdLLmrIKbgyyRA6F1YNEc0/NLGDnuu7W2GT2JU/HQj+oPwssi1lkg104XoAr0UivAeY8ajAL+WyBQoo39YdA==;CjtE/o8yRVvYGaqOBDNQRw=="
+secured: "4OyHVN9aINL8AZJidUw351h5HEFuYgzh+1mXILHpbj6F+IuGcjXzEtgtfdcGKEWNkbBB/p3H15Z8tcyBXMPYdTmkrRTht6ED8NW0Srlipo9w2l/cO7QFRqGkNmMapxfVQ4KIsZnbqZNcniBjw3SalfH9yTAH94QmdlpO0XYm3MIBoK9T35r4BYd5yrAmdyYUnFL3n2m4FOmTRPsPxh6CUXku2h4W3ZbYdFpJkECeMP2Dcrg68FOhS50voHhOMUOXLApLkbyo+ScnbnwUf2gzqbZIjpvQ7sjtWhkj/Vr3HTEHLD9K/wXiAfn6pRCBCLdgtRjQlLF/vCTES5BVo5QmqdB0st5sXflR7icgIjlqTGfCV1Dl74FVwUMnnhoVWA8V3dt1qvFD49s6B2QnxmHw62EoTwWb6+V+ksa9tiu0xRJyBY9O0SST9WpQ9sS3KmwvPd9TbYW9biBn4WAHXAIwXOU2EdJVBD0iHuodmjVZhGZdtqkVNjrC/eeVA/9r8YNv;fZJKZPQOSh7L8EnZKkKW6Q=="
 ---
 

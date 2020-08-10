@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfs
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
 type: article
 quality: 45
-heat: 65
+heat: 45
 published: false
 
 provider:

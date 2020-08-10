@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "QuickLogic Corporation (QUIK) CEO Brian Faith on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "Q2 2020 Earnings Conference Call August 05, 2020, 05:30 PM ET Company Participants Jim Fanucchi - Darrow Associates Brian Faith - President & Chief Executive Officer Sue Cheung - Chief Financial Officer Conference Call Participants Richard Shannon - Craig-Hallum Sujeeva Desilva - ROTH Capital Presentation Operator Ladies and gentlemen,"
-    publishedDateTime: 2020-08-06T02:43:00Z
-    webUrl: "https://seekingalpha.com/article/4364966-quicklogic-corporation-quik-ceo-brian-faith-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 9
   - title: "FLIR Systems, Inc. (FLIR) CEO James Cannon on Q2 2020 Results - Earnings Call Transcript"
     excerpt: "Q2 2020 Earnings Conference Call August 06, 2020, 09:00 ET Company Participants Lasse Glassen - ADDO Investor Relations James Cannon - President, CEO & Director Carol Lowe - CFO & EVP Conference Call Participants Peter Arment - Robert W."
     publishedDateTime: 2020-08-07T03:33:00Z
@@ -49,6 +40,15 @@ related:
     excerpt: "Q2 2020 Earnings Conference Call August 06, 2020, 10:30 ET Company Participants Jon Levenson - Head, IR Juan Andrade - President, CEO & Director Craig Howie - EVP, CFO & Treasurer John Doucette - EVP,"
     publishedDateTime: 2020-08-09T11:09:00Z
     webUrl: "https://seekingalpha.com/article/4366618-everest-re-group-ltd-re-ceo-juan-andrade-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
+  - title: "Sogou, Inc. (SOGO) CEO Xiaochuan Wang on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "SOGO) Q2 2020 Earnings Conference Call August 10, 2020 6:30 AM ET Company Participants Jessie Zheng – Investor Relations Xiaochuan Wang – Chief Executive Officer Fion Zhou – Chief Financial Officer Conference Call Participants Presentation Operator Ladies and gentlemen,"
+    publishedDateTime: 2020-08-10T16:52:00Z
+    webUrl: "https://seekingalpha.com/article/4367118-sogou-inc-sogo-ceo-xiaochuan-wang-on-q2-2020-results-earnings-call-transcript"
     type: article
     provider:
       name: Seeking Alpha

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxcarolina.com/news/upstate-sheriffs-office-partners-wi
 cdnAmpWebUrl: "https://www-foxcarolina-com.cdn.ampproject.org/c/s/www.foxcarolina.com/news/upstate-sheriffs-office-partners-with-website-using-facial-recognition-software-to-reunite-pets-with-owners/article_8ce73b0e-d8b9-11ea-9c64-a31a217727f2.amp.html"
 type: article
 quality: 40
-heat: 50
+heat: 40
 published: false
 
 provider:

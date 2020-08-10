@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/business/international-business/
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/international-business/us-business/article-new-yorks-transit-agency-asks-apple-for-help-to-solve-iphone-face/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "MTA Asks Apple for Face ID Update to Help Users Keep Masks On"
+    excerpt: "New York City's MTA is reaching out to Apple in hopes that a new facial recognition update can be released as the agency encourages riders to keep masks on while riding public transportation. The ask comes as ridership on buses and subways in the city ticks up."
+    publishedDateTime: 2020-08-10T19:29:00Z
+    webUrl: "https://cheddar.com/media/mta-asks-apple-for-face-id-update-to-help-users-keep-masks-on"
+    ampWebUrl: "https://cheddar.com/media/mta-asks-apple-for-face-id-update-to-help-users-keep-masks-on.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/mta-asks-apple-for-face-id-update-to-help-users-keep-masks-on.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 44
+    images:
+      - url: "https://img.chdrstatic.com/media/89eb9fc5-dd8d-43cd-aec5-07629744455b.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "TFgOCOJ04lsMYsOrLHDqfPkwJjUeLLSTgB1ecgYqWFbrI2H0sfGBdxBUZeD5mJbjO7TzrJ440cVVtLB1tBkN4CQ7CDDLMMV1A8w4nel47Y23pHOQo49W0ihzbtPO80zP/Td2zByHzCx2W+sgM004VQPJuK+HmFBCAJt6z0DTM8lKtFmfQsMzLYJQIK4Pa+TEjlQkbRPZKusFzyMen3fXsQOD3hW3/hTWTohIeDXJRxDqKnXHL+WE6INYad1+Tvwhj1rE8qPtYQVLeOiWrcEHu2X6jQc/f4tnXyiMpba15Vlc3SCCg2m8WU/HwDIbP7/9JdCDTRClI705w2czbrlzudBmSD+enk24j3b5NpZ9uYMMKLKlpjmvoBOLmy3wgcMj57bduOHwnV4fSAJJ31zFejCRwei1/U4CADKWoPaH41R8XvBunlBvISDa4BSCejulQhB85hRs+z26lxp9vC0x4WhOI2mFCOYkwmUwB905oabuN23+HxBWWK1BkjiUryi95AMWU/5D23+CUJFlmF+pYg==;i+rifX/QWJuT7xJdXifZPQ=="
 ---

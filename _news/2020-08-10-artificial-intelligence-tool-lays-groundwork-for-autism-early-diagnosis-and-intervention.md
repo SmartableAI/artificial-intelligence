@@ -7,6 +7,7 @@ webUrl: "https://news.northwestern.edu/stories/2020/08/artificial-intelligence-a
 type: article
 quality: 30
 heat: 30
+published: false
 
 provider:
   name: Kellogg School of Management
@@ -22,6 +23,6 @@ images:
     height: 270
     isCached: true
 
-secured: "OUeAjJ4AN7qUXegCu+MuCT2E9EJqyaqCT7RLrUdk0GLyDmzEP4Qdvu1IOG0XajSaAAtdCjEIdTGfTRBfKJJKMZaCX4zcUjfPt3ZUW/XPMnmoCviV/HUbLVtCUDfhKgjUe2PUlDo4FqkP5oKOo+LL5QpFTXZb6u1eHEAQc1jhWf1Xb27PIQsX2Btt1GovkkwMgYqhkdmPVKdNJjKB2FaHc2WPstdD/dVDdDKx/l56fAKp5GSPmRwFDNIMKj3QaquvVrQF+3lPt0t6A1r/GTwASM+a2gRKqWzM8XZST/q551AG8f7Geib1rdYya+4WZgF/hUPsABEE3/OQegaxKGVByg==;zLh083l8nkbjY9hY06j05A=="
+secured: "tOUdEWILP1LAx29ikRwTbvF0GyVbmzgSrZDMhBTjLm72y+nu/k5QiXdQKknVpZwTTAUBrUlF4/t8n0nd1Y5vX3EbtnRq8Yc/mhXi56YmrzGDNE8GXwGgS6x2ijPr1kim9X7QK6DzJ9h0ziIOowblutSzzazUHJnl/5NPVmRC81tmE7oNgaQ7f6IawBThx4w5cUbhyb2oEdukl8pMgQiZWYe42mg9AGPRgn/y+OpSeHom64uI00YYvXr9qGRrbb6KJ0f4VBhndwbZlojscV0Ebqc/Z9Ky8vL8Lti0zmyfUB/lCk8RXSZ3ZswyVCwCCnn5/peLYqIRnIp+vmxEzo/iOjA77ifVGS4hwr2nSnf210RGm71n+b2C2NCCzLQ/c8l7+XGINpsmhltupFJJGM6ZehThBdo9HqYq6dnDnVgLwOicnwcJj0WeYt7MhKN/QASORaBdzkOzoA4Dx9P1L3rc5SwE/u6FuLQ+qznSKmaaF6jsFEHMWkAK0Df+JiuTNokK+s3kw+vUAptQ9VUeN1UXoQ==;SJwmU5WHNoFGXmqsj03zEw=="
 ---
 

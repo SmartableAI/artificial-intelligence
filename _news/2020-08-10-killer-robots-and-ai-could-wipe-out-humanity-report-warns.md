@@ -8,7 +8,7 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-c
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-could-wipe-humanity-report-warns/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "We need legislation against ‘killer robots,’ Human Rights Watch says"
+    excerpt: "Now, real-life researchers with the Human Rights Watch are sounding the alarm on potentially world-ending “killer robots,” according to a new report. The message comes as part of their Campaign to Stop Killer Robots,"
+    publishedDateTime: 2020-08-10T08:38:00Z
+    webUrl: "https://nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/"
+    ampWebUrl: "https://nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/killer-robot-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Action needed to stop the use of killer robots, report says"
     excerpt: "The US and Russia are said to be in a group of military powers who have rejected proposals for regulation on autonomous weapons."
     publishedDateTime: 2020-08-10T13:49:00Z

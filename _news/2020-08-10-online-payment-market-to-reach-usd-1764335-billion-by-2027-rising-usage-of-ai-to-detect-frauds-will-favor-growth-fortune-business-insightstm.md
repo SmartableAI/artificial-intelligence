@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T15:29:00Z
 webUrl: "https://www.marketwatch.com/press-release/online-payment-market-to-reach-usd-1764335-billion-by-2027-rising-usage-of-ai-to-detect-frauds-will-favor-growth-fortune-business-insightstm-2020-08-10-111842033"
 type: article
 quality: 31
-heat: 41
+heat: 31
 published: false
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 5
+    quality: 3
 
 secured: "KkuNsmD4Col6FvwgiruJsAx/lODPxozAeviW2WUBL2f6YkVpfoXS0UxZEktpwWECYjQ3daG4fnNffEqkn52Z/bfVaFCEhMzynOAkrghiO5hM7Y/VXWGr3F+ltErB0PdenxlT+TTCgRyyGBVYxNXKblmvf2e5tnpHYjQJ5yEy6tb4N5qZpGLLXwi3yaLzc5iLg+Lx0uOE+kKFBveUmD12OSUl/T3WoUNqxbw3VFlmD9JhQPsl/uUkD/mkX7jBeVc5U3L6nUkQJgHhqObcqTtdG1dRXzsI5yM5nGiwGq/nLhqw41BCr0n2/eSpZpVcrLrlReaPxjyszgIsyaiECEUgSw==;ktfR/cdZUQe9pK5m4vvZMA=="
 ---

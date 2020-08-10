@@ -2,38 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-07-09-the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.md",
-      "title": "The Birth Of The Cloud-Enabled Hybrid-AI Robotics Platform",
-      "excerpt": "While this does make the robot able to function off-line, the trade-offs between processing power, size, battery limitations, and inflexible technology result in minimal AI capabilities. If you can centralize this intelligence and offer it more on an on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.html",
-      "publishedDateTime": "2020-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-08-welcome-robin-the-ai-robot.md",
       "title": "Welcome, Robin the AI robot",
       "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
@@ -1345,6 +1313,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-ai-robot-named-erica-starring-in-70-million-sci-fi-movie-b.md",
+      "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
+      "excerpt": "With the Coronavirus pandemic forcing Hollywood into a new era of critical thinking, one which has forced the industry to find new ways to complete productions, as well as figure out new forms of distribution – it seems they’ve also figured out a way to replace actors and actresses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.screengeek.net/wp-content/uploads/2020/06/ai-robot-erica-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
+      "cdnAmpWebUrl": "https://www-screengeek-net.cdn.ampproject.org/c/s/www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
+      "publishedDateTime": "2020-06-30T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScreenGeek",
+        "domain": "screengeek.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },

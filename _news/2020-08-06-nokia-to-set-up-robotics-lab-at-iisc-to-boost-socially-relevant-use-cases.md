@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T06:21:00Z
 webUrl: "https://analyticsindiamag.com/nokia-to-set-up-robotics-lab-at-iisc-to-boost-socially-relevant-use-cases/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nokia sets up robotics for ‘social good’ lab at Indian college"
-    excerpt: "Dubbed the ‘Nokia Centre of Excellence for Networked Robotics’, the center will serve as a hub for research into robotics, advanced comms tech and AI."
-    publishedDateTime: 2020-08-06T02:53:00Z
-    webUrl: "https://techwireasia.com/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/"
-    ampWebUrl: "https://techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2018/02/pexels-photo-744366-1.jpeg"
-        width: 2550
-        height: 1700
-        isCached: true
   - title: "Bangalore’s IISc to house Nokia Centre of Excellence for Networked Robotics"
     excerpt: "According to Nokia, the network robotics laboratory will be available to the IISc community and its ecosystem partners for advanced research projects"
     publishedDateTime: 2020-08-06T05:58:00Z

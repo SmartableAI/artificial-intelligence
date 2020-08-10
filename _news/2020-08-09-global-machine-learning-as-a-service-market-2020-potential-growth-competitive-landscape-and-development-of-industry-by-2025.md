@@ -134,6 +134,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Chips and Particles Market to 2025 - Analysis, Forecast, Size, Trends and Insights"
+    excerpt: "Market Analysis, Forecast, Size, Trends and Insights\" report has been added to ResearchAndMarkets.com's offering. This report has been designed to provide a detailed survey of the global chip market."
+    publishedDateTime: 2020-08-10T17:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-chips-and-particles-market-to-2025---analysis-forecast-size-trends-and-insights-301109242.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Global Artificial Intelligence for Drug Development and Discovery Market (2020 to 2027) - by Type, Indication, and End-user"
     excerpt: "The \"Artificial Intelligence For Drug Development and Discovery Market by Type, Indication, and End User: Global Opportunity Analysis"
     publishedDateTime: 2020-08-06T19:45:00Z

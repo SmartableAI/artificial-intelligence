@@ -8,7 +8,8 @@ ampWebUrl: "https://biztimes.com/sift-healthcare-raises-2-8-million/?amp"
 cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/sift-healthcare-raises-2-8-million/?amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
+published: true
 
 provider:
   name: BizTimes
@@ -23,6 +24,17 @@ images:
     width: 770
     height: 560
     isCached: true
+
+related:
+  - title: "Milwaukee's Sift Healthcare raises $2.8M to expand AI-based payment platform"
+    excerpt: "In addition to the capital raise, Sift also announced it has entered a three-year enterprise-level contract with health care receivables company State Collection Service in Madison."
+    publishedDateTime: 2020-08-07T21:41:00Z
+    webUrl: "https://www.bizjournals.com/milwaukee/news/2020/08/07/milwaukee-sift-healthcare-raises-2-8-m-to-expand.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
 
 secured: "rlUbjSgvIZFyQjKHKxxji6m1e7Hl5DqVQzdB7lS+lOttZpKD85CrX2WMKaEpbZz/lafvGXxqx9itqhnIMJAGbbfg0tTmfzX0UDov6ePLB/13RNa1ERnHza8AW4+MhnIVJl2i14PDWnGDx4hPATdCNdE2QaJ+7uAaSwvmIk8TBtVhuwi2MQR0+we3zdLlBWqgjpxBj2jrUVhiQTpFjNf1z2mkCRsTxmRFSZusPXRxTUL40H2VbXPEEhaXnH3/oMpvPNLq9ZPO4ZQR6WR05Je4d/ouKmS9Phnt3wO0O4CMKWPzpqHwoQBvy3WrUUjvfeAIAtpxQ/hYV319bmVVHgHhow==;xXQLi2UmDjAXmL1GOCe/1g=="
 ---

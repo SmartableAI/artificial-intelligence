@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/</loc>
+    <lastmod>2020-08-10T10:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibm.com/blogs/watson/2020/08/solving-common-challenges-in-sentiment-analysis-with-help-from-project-debater/</loc>
+    <lastmod>2020-08-10T10:28:47-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://biztimes.com/sift-healthcare-raises-2-8-million/</loc>
+    <lastmod>2020-08-10T10:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/machine-learning-best-practices-in-financial-services/</loc>
+    <lastmod>2020-08-10T09:58:52-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/10/researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers/</loc>
+    <lastmod>2020-08-10T09:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10</loc>
     <lastmod>2020-08-10T08:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/davidteich/2020/08/10/artificial-intelligence-and-data-privacy--turning-a-risk-into-a-benefit/</loc>
+    <lastmod>2020-08-10T08:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -523,6 +559,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.arnnet.com.au/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/</loc>
+    <lastmod>2020-08-05T03:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://orissadiary.com/airtel-aws-join-hands-to-accelerate-digital-transformation-of-business-in-india/</loc>
     <lastmod>2020-08-05T02:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -757,6 +799,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528</loc>
+    <lastmod>2020-08-04T05:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html</loc>
     <lastmod>2020-08-04T05:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -781,8 +829,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR%2520Newswire/a0e968babaf90756068e106c752eaf28</loc>
-    <lastmod>2020-08-04T03:58:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865</loc>
+    <lastmod>2020-08-04T04:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -811,12 +859,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
-    <lastmod>2020-08-03T19:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html</loc>
     <lastmod>2020-08-03T19:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -831,6 +873,12 @@
   <url>
     <loc>https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing</loc>
     <lastmod>2020-08-03T16:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.law360.com/bankruptcy/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
+    <lastmod>2020-08-03T14:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1231,12 +1279,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/home-page/dinoedge-ai-platform-for-health-safety-monitoring-solutions</loc>
-    <lastmod>2020-07-30T15:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.scmp.com/tech/gear/article/3095308/chinese-ar-start-rokid-eyes-industrial-applications-after-success</loc>
     <lastmod>2020-07-30T15:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1257,6 +1299,12 @@
   <url>
     <loc>https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/</loc>
     <lastmod>2020-07-30T13:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.destinationcrm.com/Articles/CRM-News/CRM-Featured-Articles/IBM-and-Influential-Launch-Watson-Advertising-Social-Targeting-Solution-142117.aspx</loc>
+    <lastmod>2020-07-30T12:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1303,8 +1351,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss</loc>
-    <lastmod>2020-07-30T09:18:00-07:00</lastmod>
+    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator</loc>
+    <lastmod>2020-07-30T09:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1317,12 +1365,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/</loc>
     <lastmod>2020-07-30T09:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=142117</loc>
-    <lastmod>2020-07-30T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1449,6 +1491,12 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-29T18:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.embedded-computing.com/news-releases/dinoedge-ai-platform-for-health-safety-monitoring-solutions</loc>
+    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2059,6 +2107,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/news/20/07/16794158/computer-vision-drives-automated-warehouse-solution</loc>
+    <lastmod>2020-07-27T12:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.oaoa.com/news/business/datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data/article_569ca5a7-fd83-5731-9fdf-72c42ac6e678.html</loc>
     <lastmod>2020-07-27T11:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2499,6 +2553,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/</loc>
     <lastmod>2020-07-23T23:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/us-artificial-intelligence-in-manufacturing-market-top-companies-microsoft-ibm-intel-siemens-aws-2020-07-24</loc>
+    <lastmod>2020-07-23T21:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3559,12 +3619,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://europe.autonews.com/automakers/teslas-plan-level-5-not-feasible-experts-say</loc>
-    <lastmod>2020-07-20T03:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html</loc>
     <lastmod>2020-07-20T03:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3650,6 +3704,12 @@
   </url>
   <url>
     <loc>https://www.machinedesign.com/mechanical-motion-systems/article/21836407/hope-turns-into-reality-with-robotic-prosthetics-exoskeletons</loc>
+    <lastmod>2020-07-19T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.autonews.com/mobility-report/teslas-plan-level-5-not-feasible-experts-say</loc>
     <lastmod>2020-07-19T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

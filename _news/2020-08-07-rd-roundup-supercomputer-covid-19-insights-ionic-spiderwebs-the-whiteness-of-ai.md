@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Using supercomputers and artificial intelligence to fight COVID-19 at UW Bothell"
-    excerpt: "A new program called “DeepTracer” developed by a team of University of Washington scientists uses artificial intelligence to model the atomic structure of COVID-19."
-    publishedDateTime: 2020-08-05T23:15:00Z
-    webUrl: "https://www.kiro7.com/news/local/using-supercomputers-artificial-intelligence-fight-covid-19-uw-bothell/LMGJG47IXZCLNEGU42FYSSAKHA/"
-    type: article
-    provider:
-      name: KIRO-TV
-      domain: kiro7.com
-    quality: 32
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/BB45WIO4ZBBTFOSFPZIEYBSXEQ.jpg"
-        width: 850
-        height: 480
-        isCached: true
 
 secured: "7zoy9VX40VNG7eSacLYVuIGBSJnA0gSFhB/nVwutYMFgMTyrZvsvJGuHn9hcQOdRHNSyPDh+0DN+lpFGieHZsbgXh+UrFZ0ivluU6WUGJMGw7RrNVJ6bALkKKSDmuMUzxbAYcWxwxPtSLwng4fC/2det3Kc/m5AGFNM7fD1i/xiyGxaNyPmYpidvrmuznyZzLXxDJNEIX0bTdijohiFQG8s8ELyKOceAUkqb8fVgmcPRlUGI0lBPRo5gx4kTMOp+/G8Wp9rNCQ8cHj4H99yX8wzXhMSE+slTcy5m5Pajn22EkU4SUWbBJ/uVSAiXZakJpLb1y4BuEGE1sBQvDfb8Ak43CU4PKk1xhJzer6NWwgnDOjQkPQXXqHT4lobmyP7eEwskNIyBtPwZ2AtCAchyPi7zzLEyEuJJlK/u8yubCqlEELWoUdqcNKms+/2M3URLlmOHj55IqFtoDLqba1KcK8wkM4dM6ICPiD5213iSyzp3zD1eBjvV9eTyanmofQWPlhP2/Wtn3cXcD7Dq5FZzfA==;Eycg9j80LfSx9kdb4Z/ZwA=="
 ---

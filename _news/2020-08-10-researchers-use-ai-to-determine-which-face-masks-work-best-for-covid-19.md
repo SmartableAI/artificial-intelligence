@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neur
 type: article
 quality: 89
 heat: 89
+published: true
 
 provider:
   name: The Next Web
@@ -28,6 +29,6 @@ images:
     height: 417
     isCached: true
 
-secured: "h+6XtqnoPDwYsKZ3teiEgJqTvcJXiS0SsMHIOkWX8vTkNsA2zGP+hCGYnCmLwxwO9OtCxBkUPQtu0pDgi8c1pULem3//lYX9KVvmr8a25PwIr5y/Mib63dAewgZHr5iSWcKz8QTjG7AcDrSZp/hhsiB7X6xVUMiuudehnf6JdIQ5I9e8N8amcCQDddySEQuaDG18LM3vEN7ZJ/8Oz4tErZxlqBJwzyzPNe1+AJQeTAP8lVtjvRBbT+Znrs0N+04qdDM3vjLWHbknbnEzZ/tfIJU8QnkkszhngzG57khni4VOKVJ0x2J2WcqKzDkPbHiRyPAvxNw/XBe4brR18/FA4Q==;ALg/3f+iKSFoDpCJSqHJqA=="
+secured: "i+T8DRhkReSvP8ZbcytvVQWPBxzMfQRoSkApXblxhHFw+gyV6sTwojet9QuOYFehYpduoG8K9vnKVbHYWB6i2aH0I5HcXPtKP4G5Ku+pM6kKUY/FQE9cfF9xq5SqibBIbMFUjV3EIum/21ck87/lDruGg4C3JyNG85GMhscTXXPOdyzl3UdgSlEHs2RfNb53J3HCAKptU4qsJ7XOJ+RQ3YE18QQFDTUryzkrKg3msJVBo81lsPVyTDLex4/YObc7dMn5l8D9+4emWZQPkXIXZ/Pr7QLPe06ijrziPYCo+E8ph7BXdSfc4UroGnJfgBAlKjyuBHBMReiTIpQgFC0BY94kY34iY+cr0mDwAgNm1OTwm+zNBGM2MDMCzoZGHRc5tswfCrFeqv9nZRwu2ArYuL1/fx5zlkt0K3UVV6Gk1vRCh6/Tf9I1VOB4+hmWq25I73JOpSkBKEdWJa92Tryjxhg1FhB0GshA7okkNvJdfOPdD4y69u9iwn4vZ4948wGUPWB9Thbv47ezDAoxKMxwBQ==;QmVXvK5kdAalK53imhdaKA=="
 ---
 

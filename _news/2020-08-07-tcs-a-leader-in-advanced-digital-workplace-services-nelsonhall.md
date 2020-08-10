@@ -7,6 +7,7 @@ webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716"
 type: article
 quality: 4
 heat: 4
+published: false
 
 provider:
   name: Equity Bulls
