@@ -1,25 +1,25 @@
 ---
 category: news
 title: "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform"
-excerpt: "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data"
-publishedDateTime: 2020-08-04T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html"
+excerpt: "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU"
+publishedDateTime: 2020-08-04T13:55:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-1029467509"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook"
-    width: 796
-    height: 419
-    isCached: true
-
-secured: "rm4J6ZOx9avyPGxm6KDn8uhOj2umSCQ0/4dfMS9xq/V5SXA4MgcqHMaTh93UGwaCHXx/DldIe2YM0xHRD25Boz6il52nhCaPS5qj22AhkFaiZl05kCE3xNeqeX53sa3ItoebYbsUC+ral7u/BwNwckkNhN8wOdYkJocEZdmSECC39kIU4Krc+lbP8gGNMkZbSDVkgC9OjI7/pqBV2bblI7qic+shndgKxbwoU4SFiKrPt6h0WOjIrqw+RW/JDlD2H5H4Q5agepeBsyIquI/+pjes4etUVvEjCLK6gMo8ioHCltqYkXgl4AsYIHL1yfExCBV2M0BpjghkE4F7ZYVRypZFD6ONtRIR8mNm+0q1yVfBD/gGnM/DwLFNegpdhgsLuCyL0o3y9wTIhG67kEJa/Vmk+DhPAF5VjhmTRDrCvLaxnOU8uMzeO2wRHJjUxvpIFXtb5huaO63XDZoPXeNT+0RuCxtxNSfGixRRpD4/Ym4l0FF3TBCcyW0OuEpQe+bkTwZs/1s3rU4lmxpNhx8Hhg==;pYMteDtLX/oKupkozYsqQw=="
+secured: "qoaLXD3B22+diwD+sA2cIlX6Yf1L94PJp6sg+JObvCL+NI9wFzafrhzdtA0Q0gM9qw19ziG2hfYaz/4a3Xt1q4k+pwCcUqpboGjUsro5VQzJWn2WOzJlx2HIjRSK8sVQbY6VEgfUPJnch0VFd4NE6mTW+EuRqo+rll2GijbdaJvYE6QesBMbklqci7aI8qzjI649eqosMGXJMthkmAbly7BWYa3+7HRRv6C3I6SUueMkjxZ8lUsHvt/DwKeBLxelS03OziEKPRSE7ffIRuEYdddA5BeBW6V/0V2GeGgeCdvL5mhF49PhR1jrEcIwKpGH9wu+Vqv/OYpRwkPSd35NrA==;uHHXTtlaXOrkDyinxghCkg=="
 ---
 

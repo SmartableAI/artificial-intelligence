@@ -5,8 +5,8 @@ excerpt: "Artificial intelligence applications are not open, and can put privacy
 publishedDateTime: 2020-08-10T15:31:00Z
 webUrl: "https://www.forbes.com/sites/davidteich/2020/08/10/artificial-intelligence-and-data-privacy--turning-a-risk-into-a-benefit/"
 type: article
-quality: 68
-heat: 68
+quality: 72
+heat: 72
 published: false
 
 provider:
@@ -20,6 +20,8 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"

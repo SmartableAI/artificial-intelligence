@@ -8,7 +8,7 @@ ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
 type: article
 quality: 44
-heat: 44
+heat: 64
 published: false
 
 provider:

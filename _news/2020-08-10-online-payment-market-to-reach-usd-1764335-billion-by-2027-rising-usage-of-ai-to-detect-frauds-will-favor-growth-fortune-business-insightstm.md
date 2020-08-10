@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T15:29:00Z
 webUrl: "https://www.marketwatch.com/press-release/online-payment-market-to-reach-usd-1764335-billion-by-2027-rising-usage-of-ai-to-detect-frauds-will-favor-growth-fortune-business-insightstm-2020-08-10-111842033"
 type: article
 quality: 31
-heat: 31
+heat: 41
 published: false
 
 provider:

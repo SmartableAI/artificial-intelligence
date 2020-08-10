@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T11:12:00Z
 webUrl: "https://www.law.com/legaltechnews/2020/08/10/the-impact-of-deep-learning-on-anomaly-detection/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

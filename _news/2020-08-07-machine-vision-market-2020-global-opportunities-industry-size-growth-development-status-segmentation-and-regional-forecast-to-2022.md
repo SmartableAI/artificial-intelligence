@@ -136,6 +136,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Chips and Particles Market to 2025 - Analysis, Forecast, Size, Trends and Insights"
+    excerpt: "Market Analysis, Forecast, Size, Trends and Insights\" report has been added to ResearchAndMarkets.com's offering. This report has been designed to provide a detailed survey of the global chip market."
+    publishedDateTime: 2020-08-10T17:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-chips-and-particles-market-to-2025---analysis-forecast-size-trends-and-insights-301109242.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Global Machine Learning as a Service Market 2020 Potential Growth, Competitive Landscape and Development of Industry by 2025"
     excerpt: "According to the latest report titled Global Machine Learning as a Service Market 2020 by Company, Type and Application, Forecast to 2025 by MarketsandResearch.biz, the global market will accumulate steady income in the forecast period from 2020 to 2025."
     publishedDateTime: 2020-08-09T21:49:00Z
