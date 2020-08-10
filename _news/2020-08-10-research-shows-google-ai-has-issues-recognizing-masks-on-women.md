@@ -7,7 +7,7 @@ webUrl: "https://www.androidheadlines.com/2020/08/research-google-ai-women-masks
 ampWebUrl: "https://www.androidheadlines.com/2020/08/research-google-ai-women-masks.html/amp"
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/08/research-google-ai-women-masks.html/amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/google-ai.jpg"
@@ -38,6 +39,6 @@ related:
       domain: zdnet.com
     quality: 70
 
-secured: "/2fijLuyFKt2vkeXK9amPMlM3+BOo9l0lS7nXA/rhaxVDAQ4OxqGwGXkyT5trDaiMVzJ2Mf3qw38v8PQW9jW5xU70VutRboezGqylhHOkPbEP15bBx9JMAygV4mpsCbk7JhtRhyIhx2HC3RtZTRPELlzmFxF7E9XdvwYYe8vx32wkyCiBTUO/BVkwR7Ap/T/efcRRot47OXjD5YxWuIJ5/Io7nKlt7qI2XpfL4BSyea+JY5yyGSaA9gLVllr+aFPt3j1bil+TZpHbGfOVk2mx1KWk7VXXv+odrXlii4GBzNZlTX4rbjoTH8szWhHAfFtq3GrA+79lgd5vdeMPDYDDQ==;iHciJuUQmNUIM8Ibg6k/3g=="
+secured: "32yWtxISG8KUMWeRR5NESa4cAM7oGK0ez1qEd9ha7NBdmKJrbApFtRB5F9qqeAa05gse8XI6QNTeLbw8VVey/OfZgXWbuvzWRZ9OljIFpUZ9JTopnqErI4TGaC/fN7zccH99nox0zrj4SBcXNsv00GhlDIpq+v75jnc4CkdSS+O8pFSfQ3vj0Q0vEZbsklG3qlz80g8InBbzYkIAbnoopOQSY4Eq4IxgjIrWoxPRJ4N8WNqJIzApOcjqK+rhjfyxp6rq5xTd2/MRdJExLqHGg9PwjmwmctCPCxjaF4cLdHl3elnsy0VFVEtt9wNgNMngL8LRfg7+yJCAwLhhPoVlhTJ4ebjE8wEzH6eXN852AAJ5t65LoBs90C80ivhrIGRhlQjw8uBGvFL8xFOpQQkWXW00W+22syaj5KCTpQwmJcCxbGpLeYoPPYQewmeHW/pDwc7MhaVXj7bSFo7DsWnksptdNjpqEFNea0LnMLDO0CK8XgT+0cVidaeUwb7rWIFBuoFmrI1luZXAHvms0qmO5w==;CO916OxZvIqmjN340r9Mwg=="
 ---
 

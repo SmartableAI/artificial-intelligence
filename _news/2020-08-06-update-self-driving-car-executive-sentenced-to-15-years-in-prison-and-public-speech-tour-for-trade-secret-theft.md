@@ -8,7 +8,7 @@ ampWebUrl: "https://www.natlawreview.com/article/update-self-driving-car-executi
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech?amp"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1426
     height: 808
     isCached: true
-
-related:
-  - title: "Ex-Google engineer sentenced to 18 months for stealing self-driving car secrets"
-    excerpt: "A former Google executive who stole thousands of documents about its self-driving car project before resigning and going to Uber was sentenced Tuesday to 18 months behind bars."
-    publishedDateTime: 2020-08-05T15:11:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-google-uber-levandowski-self-driving-car-20200805-uuyfeimyojawxpqdiiwxwvzmoa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 40
-    images:
-      - url: "https://www.nydailynews.com/resizer/xVhrb5plckFSELbAhjzoe3slXhE=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZPTOF3KFBZC4NHL5MCSEJFNWBY.jpg"
-        width: 1200
-        height: 826
-        isCached: true
 
 secured: "0+n31tWYFs6b6JBOZpufIP+3npO4+dypor4mu+DNWKxLmBjs0EhSwfVa+nPV9h66slQOc9/W2YsqQ6tqvm5Csgax2y6GTSAhZtrgyf4E6Mg3Z+l3fN/LsSVv7PJGGMxlmB7RSeadI/tzDK3N4f+p0NQhs7iJqat/oBujdlVYBsLzyGvnH+aVilClXigqnDNIm0gUY+KZ/SrhvZWENkblEzSTUhZJW9/T18n/XBg3L6M0uHmr0dPBGrM86QvSrC05rZKrPKgJdjvGmpdBTdkPRthg+i0zN7g6aNsMyS5yelllXTXCHXubiMmJJ2Z1pC0Sd7719p4JJoQE+9u3akIMlyORx9Q7ZZTciIzwmNWMIXLXJWd+inkZK2ihpXfpZOUoFK5i8HoWW3GteDxiBrh45rRaf8v1KSwzsaPRuYEa6mDPEMTLMXfYeeFZpKjLF7sszqW0QyU7g3JW67d2X0xrVUJ3RHRYpBiZbQWLNV+Qqtbo8IuoytsNm6KvF4jYYMO3;JA9e1VUmoWjBECiqZU/svQ=="
 ---

@@ -35,7 +35,7 @@ related:
     provider:
       name: Android
       domain: androidheadlines.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2020/08/google-ai.jpg"
         width: 1006
