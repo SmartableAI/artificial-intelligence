@@ -2,6 +2,239 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-27-this-ai-uses-emoji-to-protect-blm-protestors-from-facial-recognition.md",
+      "title": "This AI uses emoji to protect BLM protestors from facial recognition",
+      "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-27T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-how-india-can-become-a-powerhouse-in-artificial-intelligence.md",
+      "title": "How India can become a powerhouse in Artificial Intelligence",
+      "excerpt": "India should declare data as a national resource to prevent misuse. An institution that helps leverage data for AI is called for",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/uhc04b/article32197433.ece/ALTERNATES/LANDSCAPE_615/BL25THINKAI1",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece/amp/",
+      "publishedDateTime": "2020-07-27T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-artificial-intelligence-in-healthcare-market-is-booming-worldwide-with-cagr-of-448-during-2020-to-2025.md",
+      "title": "Artificial Intelligence In Healthcare Market is Booming worldwide with CAGR of 44.8% during 2020 to 2025",
+      "excerpt": "This Artificial Intelligence In Healthcare Market Research Report Forecast 2020-2025 is a valuable source of insightful data for business strategists. It provides an in-depth analysis of the COVID-19 impact,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-booming-worldwide-with-cagr-of-448-during-2020-to-2025-2020-07-27",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-disinfectant-robots-tested-at-tokyo-train-station.md",
+      "title": "Disinfectant robots tested at Tokyo train station",
+      "excerpt": "A railway operator is testing disinfectant robots at a station in Tokyo to help prevent the spread of the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20200727_22/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200727_22_864046_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20200727_22/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200727_22/amp.html",
+      "publishedDateTime": "2020-07-26T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-the-6-biggest-technology-trends-in-accounting-and-finance.md",
+      "title": "The 6 Biggest Technology Trends In Accounting And Finance",
+      "excerpt": "New technology, fueled by the explosion of data, is transforming business as well as accounting and finance functions and firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/27/the-6-biggest-technology-trends-in-accounting-and-finance/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1e55e18ba283c9ad86684a%2F0x0.jpg",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/27/the-6-biggest-technology-trends-in-accounting-and-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/27/the-6-biggest-technology-trends-in-accounting-and-finance/amp/",
+      "publishedDateTime": "2020-07-26T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-new-approach-reduces-power-requirements-of-neural-interfaces-while-improving-accuracy.md",
       "title": "New approach reduces power requirements of neural interfaces while improving accuracy",
       "excerpt": "The team, led by Cynthia Chestek, associate professor of biomedical engineering and core faculty at the Robotics Institute, estimated a 90% drop in power consumption of neural interfaces by ...",
@@ -1142,236 +1375,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes.md",
-      "title": "Higher ed institutions are using Otter's AI technology to transfer lectures into notes",
-      "excerpt": "Turning spoken lectures into highly accurate lecture notes. Otter.ai's Otter for Education AI speech technology aims to give both lecturers and students the ability to avoid Zoom call information overload,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/23/3dd79642-a672-4227-b2e8-7498cd4015eb/resize/1200x/ee8113922f79a3209e5641984ac6c549/virtual-classroom.jpg",
-          "width": 1200,
-          "height": 968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes/",
-      "publishedDateTime": "2020-07-24T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-facebook-adds-100-million-to-facial-recognition-settlement-over-tagged-photos.md",
-      "title": "Facebook adds $100 million to facial recognition settlement over tagged photos",
-      "excerpt": "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "publishedDateTime": "2020-07-24T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-python-language-what-you-need-to-know.md",
-      "title": "Python Language: What You Need To Know",
-      "excerpt": "Python is a high-level programming language, easy for beginners and advanced users to get started with,” said Jory Schwach, who is the CEO of Andium.com . “It’s forgiving in its usage, allowing coders to skip learning the nuances that are necessary in other,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b0df21f4b0a28b2202528%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3988%26cropY1%3D202%26cropY2%3D2445",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/amp/",
-      "publishedDateTime": "2020-07-24T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-facebook-agrees-to-pay-record-650m-to-settle-facial-recognition-lawsuit.md",
-      "title": "Facebook agrees to pay record $650M to settle facial recognition lawsuit",
-      "excerpt": "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
-      "publishedDateTime": "2020-07-24T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-tech-tent-have-we-seen-our-ai-future.md",
-      "title": "Tech Tent: Have we seen our AI future?",
-      "excerpt": "On this week’s Tech Tent we find out what the big fuss is about something called GPT-3. OpenAI is a Californian company started in 2015 with a high-minded mission - to ensure that artificial general intelligence systems that could outperform humans in most jobs would benefit all humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-53530454",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7F5F/production/_108470623_robotwriter.gif",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53530454",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53530454",
-      "publishedDateTime": "2020-07-24T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

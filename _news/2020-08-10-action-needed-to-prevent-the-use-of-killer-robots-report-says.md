@@ -40,6 +40,36 @@ related:
         width: 2501
         height: 1563
         isCached: true
+  - title: "Action needed to stop the use of killer robots, report says"
+    excerpt: "The US and Russia are said to be in a group of military powers who have rejected proposals for regulation on autonomous weapons."
+    publishedDateTime: 2020-08-10T13:49:00Z
+    webUrl: "https://news.sky.com/story/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509"
+    ampWebUrl: "https://news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/20/08/1600x900/skynews-killer-robots-weapons_5063928.jpg?20200810134641"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Killer Robots: Growing Support for a Ban"
+    excerpt: "A growing number of countries recognize a duty to save humanity from fully autonomous weapons, Human Rights Watch said in a report released today. Weapons systems that select and engage targets without meaningful human control,"
+    publishedDateTime: 2020-08-10T12:56:00Z
+    webUrl: "https://www.hrw.org/news/2020/08/10/killer-robots-growing-support-ban"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/media_2020/07/202008arms_killer_robots_main.jpg"
+        width: 1400
+        height: 1004
+        isCached: true
 
 secured: "gGlM3MM+KtQyGof1BSulDoGhNsSmuy13UcOOGxv630R8/lMavdpY0wGZgTgi/Lxx+slL54W+EC16O16RPDGo+rT0w3EuO87qnexjrJIzMdSJCfqzNt2mVAu2fn0sy1Lf1yBEGgPaewR1gv439JDuLV/CPjAokZIAoqeIfyBGSxHS9gq648zWpa/ZATNi9Aog2UL2/KbhZXpxHIAhaK7tV+F+czX+fMQ+yg9u2Fufa+J4p3Zkvc5BaBuMwX6aKGAyZ1D97Pp4bmVrIRVzMcFFDIZkRbUr7onNCGYCZTnCNR0nLPQ9LeU91PXId2QnaL7vhSH17JAmB4ceYEeee+Wy7A==;b1OCj7+X7LjxvHXK/hnbkA=="
 ---

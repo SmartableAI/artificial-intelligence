@@ -8,7 +8,7 @@ ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-08-04/anthony-lev
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-08-04/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files?context=amp"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -24,19 +24,21 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Cars Can Be A Boon For Those With Disabilities"
-    excerpt: "From access that was impossible before to easier, cheaper access, self-driving technology is going to be a big boon for the disabled"
-    publishedDateTime: 2020-08-05T19:09:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/08/05/self-driving-cars-can-be-a-boon-for-those-with-disabilities/"
+  - title: "UPDATE: Self-Driving Car Executive Sentenced to 1.5 years in Prison and Public Speech Tour for Trade Secret Theft"
+    excerpt: "Since 2017, we have been covering the legal saga of Anthony Levandowski – the executive/engineer who allegedly stole Google’s trade secrets related to self-driving car technology and"
+    publishedDateTime: 2020-08-06T15:11:00Z
+    webUrl: "https://www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech"
+    ampWebUrl: "https://www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-self-driving-car-executive-sentenced-to-15-years-prison-and-public-speech?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 23
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2afe3d2c7ac08cb1a53806%2F0x0.jpg"
-        width: 400
-        height: 300
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.jpg"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "6Oy/PW1ffNHWhRThw3jERawg/QGg/w22r0f+3U2XqnA9C/47ctv9Z1m6GY/1nNLdSoO/Wc8soLGMtvYUzuWk1TLNHHZ5yfn0s3bGBryVo9DT7ZUSRyy5ZV+64QSQa7s8UGgAHvZOfPFFkI+hfeXjPKNXbbIxB3614GlYR6TM7gGLnYRlggKoEhWZaW3o7/ia5IBxQzUtZWfpRoC+P6Hhj0pkaXCS0a1v5zbVnxUlCFDtUnQVjYU3WEWj6s5KavWptHWWvW2H8oczoLnttoYFmmKvaFg8c10/YQeW3KoAdLAvRyBNkljkdIlrWRBV2q4WRt8bJaVSfVgEQRlmRj0DgmdQ29JMCKxyCRGpwbOvzRF5c0rx38CGGitYLiUYwYyEjiuaDbPKNCKL+er5uzTDSitXWLUp10l4iIAHirPWVXg4dcYhzF8Cm6FKODB18LwW7MAwD/8nfB7LYzv/Zx1aqgR3DehsAOcX14LwHShocqq0GqQ8jv86lsb/65XEorVgICdvvCACFsMTf8vU0dQDgw==;drBUG6qt405QtkTBhaPZBA=="

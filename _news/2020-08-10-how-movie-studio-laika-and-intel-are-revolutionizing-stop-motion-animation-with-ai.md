@@ -3,7 +3,7 @@ category: news
 title: "How movie studio Laika and Intel are revolutionizing stop-motion animation with AI"
 excerpt: "The acclaimed studio behind ‘Missing Link’ and ‘Coraline’ is collaborating with Intel to create an AI tool that could be a big leap in stop-motion animation."
 publishedDateTime: 2020-08-10T10:00:00Z
-webUrl: "https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai?partner=feedburner"
+webUrl: "https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai?ref=hvper.com"
 type: article
 quality: 31
 heat: -1
@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Gesture Recognition Solution Market 2020 Analysis, Size, Share, Growth, Trends, Application, Types, and Upcoming Opportunities 2023"
+    excerpt: "Global \"Gesture Recognition Solution Market\" report 2020 plans to give forefront advertise knowledge and help decision makers take sound investment evaluation. The report identifies and analyses the emerging trends along with major drivers,"
+    publishedDateTime: 2020-08-10T12:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-solution-market-2020-analysis-size-share-growth-trends-application-types-and-upcoming-opportunities-2023-2020-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
     excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
     publishedDateTime: 2020-08-08T03:31:00Z
@@ -80,6 +94,6 @@ related:
         height: 420
         isCached: true
 
-secured: "UTXfPjcr6df4/C0nvE2KbhyJaQeAal/vOcjaAa9d0fXGzpLFcwxNmWYSf027HwSjQzaPBQhKAruOuNdLtQcJjNVT7fNREthA4k8zHh//A3+fLUD9UHMiDia95Li1IOncN0z/Smec7WUMBgT04MZJQxJsKsmucBV/awNPl6fQoTEF+/8Pzk2Z6Cp1mSqt71G6uPzEEXKZqLWVa5BgeIgoh+rx7IEw01wZiShAf+9DC6+enBvPJt6sJuswDx0krFdzdlqVRqyGFwhuZRo+NvfjJBXnNQfTP00cMvoGqJSP9qGZeHzAX+IcYDkEsZ8y5dkpt2vlEuyqLLDgjSbaneWfuQ==;uuBIVpb7psfMov8lblyizQ=="
+secured: "DoY5IhgQmsBKH8cr/YiAdRbfr1NfxqwYcO7eMJVU5/EBYIYVOo4HkhrmTfDusbhIsybvbVzyCJgzeHm3dhHCFXR9n34m+CjcyyP8O/DY/5qwfdXLBe8Oe357LdkM3TwCeCMrKmKIggSpquSvYYNz2lH6dz+Yjkg/9AN9Xu+ZVMmLEu/D/EwEbIMn1kG8bYcxQ56gumTXLNrf3uBd+wsGG2u+DbJyv18cciQ253X3SfdtxWfP19pdKUit/zCRXSVL/jOn84+4zzfVFXt1stpsaJfrGJ67ySHlVk7P/aViLuo2YPjVCMFIflA6mRheJpXKZaY3K6gGRqYgCN+ojd1CbQ==;zsQfF4usYX/aWqDuA4mucQ=="
 ---
 

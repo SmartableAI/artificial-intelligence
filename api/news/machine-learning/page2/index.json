@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-28-inpowered-selected-by-ana-as-winner-of-best-use-of-aimachine-learning-category-at-2020-b2-awards.md",
+      "title": "inPowered Selected by ANA as Winner of 'Best Use of AI/Machine Learning' Category at 2020 B2 Awards",
+      "excerpt": "PRNewswire/ -- inPowered, the AI platform delivering business outcomes with content marketing, was awarded the top",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "publishedDateTime": "2020-07-28T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-explorium-raises-30-million-to-automate-data-prep-with-ai.md",
       "title": "Explorium raises $30 million to automate data prep with AI",
       "excerpt": "Explorium, a Tel Aviv-based startup developing an automated data and feature discovery platform, secured $30 million in financing.",
@@ -1306,56 +1347,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-deeplearning4j-deep-learning-and-etl-for-the-jvm.md",
-      "title": "Deeplearning4j: Deep learning and ETL for the JVM",
-      "excerpt": "AI products within an enterprise often have a wider scope than just machine learning. The overall goal of the distribution is to provide smart defaults for building deep learning applications. Deeplearning4j competes, at some level, with every other deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html",
-      "publishedDateTime": "2020-07-20T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

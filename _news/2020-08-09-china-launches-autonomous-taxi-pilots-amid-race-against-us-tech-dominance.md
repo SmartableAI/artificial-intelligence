@@ -29,7 +29,7 @@ related:
   - title: "China begins testing robotaxis for hire amid race against US tech dominance"
     excerpt: "Autonomous hired cars are considered ideal for accumulating driving time and the data cache needed for cars to learn and become safe enough."
     publishedDateTime: 2020-08-09T11:03:00Z
-    webUrl: "https://www.asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
+    webUrl: "https://asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
     ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
     cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
     type: article

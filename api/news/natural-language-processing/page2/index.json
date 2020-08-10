@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-29-natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026.md",
+      "title": "Natural Language Processing Market Segmentation, Research Methodology And Revenue Growth Forecast Till 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 29, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-2020-emmy-nominations-yield-pleasant-surprises-overdue-recognition-column.md",
       "title": "2020 Emmy Nominations Yield Pleasant Surprises, Overdue Recognition (Column)",
       "excerpt": "This year’s Emmy Awards nominations saw Netflix claim a decisive lead with 160 overall nominations, while HBO’s “Watchmen” was the most-nominated series overall and several surprise newcomers",
@@ -1329,56 +1379,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-richard-socher-natural-language-processing-creates-value-in-the-enterprise.md",
-      "title": "Richard Socher: Natural language processing creates value in the enterprise",
-      "excerpt": "During a session at VentureBeat's Transform summit, former Salesforce chief scientist Richard Socher spoke about how AI can create value in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/da53d202-38f4-41a3-bc3a-051c83cbc1f9-e1594699876370.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/amp/",
-      "publishedDateTime": "2020-07-16T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

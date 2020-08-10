@@ -2,6 +2,158 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-07-using-machine-learning-to-tackle-the-worlds-biggest-problems.md",
+      "title": "Using machine learning to tackle the world’s biggest problems",
+      "excerpt": "Machine learning has graduated from the realm of science fiction to become a core, transformative technology for organizations across industries and categories. The unique potential and power of machine learning is sparking genuine innovation,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1038383026.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai.md",
+      "title": "Researchers quantify bias in Reddit content sometimes used to train AI",
+      "excerpt": "Researchers developed a technique that helps to quantfy bias on communities like Reddit, data from which is often used to train AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/amp/",
+      "publishedDateTime": "2020-08-07T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-driverless-cars-gain-speed-despite-global-slowdown.md",
+      "title": "Driverless Cars Gain Speed, Despite Global Slowdown",
+      "excerpt": "The solution, according to today’s most influential automakers, is to accelerate the development of electric, driverless cars programmed by artificial intelligence. For real. Our Meet George Jetson! destiny is not only inevitable, it will arrive sooner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2d8f331d23de6d2c78380f%2F0x0.jpg",
+          "width": 1200,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce.md",
       "title": "Hypotenuse AI wants to take the strain out of copywriting for ecommerce",
       "excerpt": "Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same",
@@ -1046,146 +1198,6 @@
         "name": "MeriTalk",
         "domain": "meritalk.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy.md",
-      "title": "Google's new voice and audio settings give you more control over your privacy",
-      "excerpt": "Google on Wednesday let people know it's still having humans review voice and audio recordings on devices like Google Home. However, the search giant's email also said it's giving you more control over what's being shared and has automatically turned off the feature for all accounts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/KBR1GYWD2mNrI9tvFINf3uZtuxk=/756x567/2019/01/17/160d0588-c985-400c-9c2b-50604e69486d/jot-google-home-mini-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "publishedDateTime": "2020-08-06T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-city-of-tucson-water-department-selects-vodaais-machine-learning-to-support-decision-making.md",
-      "title": "City of Tucson Water Department Selects VODA.ai's Machine Learning to Support Decision-Making",
-      "excerpt": "The City of Tucson Water Department has selected VODA.ai as their exclusive provider of artificial intelligence software service for pipe prioritization. VODA.ai is excited to expand the partnership with the City of Tucson and provide continuous virtual condition assessment for the entire water system of over 4,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
-      "publishedDateTime": "2020-08-06T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies.md",
-      "title": "Salesforce open-sources the AI Economist, a research environment for exploring tax policies",
-      "excerpt": "Salesforce today open sourced the AI Economist, a research environment that leverages AI to arrive at optimal tax policies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot66_photo_x4-e1596572153473.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
-      "publishedDateTime": "2020-08-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

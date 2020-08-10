@@ -3,7 +3,7 @@ category: news
 title: "ZMR Revises Artificial Intelligence (AI) in Manufacturing Market Forecast, as COVID-19 Continues to Expand Quickly Across the Globe"
 excerpt: "The Zion Market Research added a new report \"ZMR Revises Artificial Intelligence (AI) in Manufacturing Market Forecast, as COVID-19 Continues to Expand Quickly Across the Globe\" in its database, which provides an expert and in-depth analysis of key business trends and future market development prospects,"
 publishedDateTime: 2020-08-10T06:43:00Z
-webUrl: "https://www.marketwatch.com/press-release/zmr-revises-artificial-intelligence-ai-in-manufacturing-market-forecast-as-covid-19-continues-to-expand-quickly-across-the-globe-2020-08-10-41971545"
+webUrl: "https://www.marketwatch.com/press-release/zmr-revises-artificial-intelligence-ai-in-manufacturing-market-forecast-as-covid-19-continues-to-expand-quickly-across-the-globe-2020-08-10"
 type: article
 quality: 52
 heat: -1
@@ -111,6 +111,6 @@ related:
         height: 315
         isCached: true
 
-secured: "puo63Ds5D4E90pEGh5yxtSIP6iGJlcxdaPiGXnDd7sWuCth37lMKlXEUrftgMBl/sC4Kup+Y00zwiiYCtaoBapuA2ti+766HSye8/X911SRNCOgHtrUl5eV1Q+h4HweYbPpZKu9R0XRDX1LmicAoJCSqxP11ki58LAiiTJ04VDtM2Im6+MusIKbayP8Zbs8luPOoab4n/EqG4PR+rPKkvnfWmnTjjC3P+5I7Oj5zaGQ+YmWKXtsM0qMoQtgudQ1xy7SO9OtwvOHoHizj+bfOCwiIAF088qpR8IujcBu1+jiN9Cl6tYzR/r74k+AX6gEa9mmMz9KR1QpE9uGfrWeViw==;Xgc75eQx6JN4LpRH2JSmLg=="
+secured: "3MhkalvXY5vtPCYlscY324k0uHcOYXsMN7DWbeevF8pG/LTpVY6fC3TrOBp7SvFIWekO62D4XcDel9gH/MCu5va1KpQ3GjTKUALCKLudwk9DnsMjbtD3qZG/DSPwHIcVslzY3s2KMqppUycKvR4p0mbc7+nv7wNKjzRhYBXL2hj2MfapFiluR+/Y5XBMYvx7Bl3k/Xz9nMUfv6AIhgukBCK+td8PAsprwzO+KL+pRSayjNeWidpJbh6rp6Gxu8iHO+dkvjrIFmhmm8k00zbLEj2SWLw8C+xF1FtSXatUy8pYQhmY7FeI/yBVta0Jy+UL6BMXr47zmQV0rcsLccHC5w==;SeyHYsbcjT/iSG34MdSILA=="
 ---
 

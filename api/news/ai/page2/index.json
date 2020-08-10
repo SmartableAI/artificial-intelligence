@@ -2,6 +2,147 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-07-gradient-installer-launches-to-deliver-ai-development-for-any-cloud-anywhere.md",
+      "title": "Gradient Installer Launches To Deliver AI Development For Any Cloud, Anywhere",
+      "excerpt": "Paperspace announced today the launch of Gradient Installer, an open source installation package that developers can use to turn their own G",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gradient-installer-launches-to-deliver-ai-development-for-any-cloud-anywhere-1029478805",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gradient-installer-launches-to-deliver-ai-development-for-any-cloud-anywhere-1029478805",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gradient-installer-launches-to-deliver-ai-development-for-any-cloud-anywhere-1029478805",
+      "publishedDateTime": "2020-08-07T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-ai-is-a-new-weapon-in-the-battle-against-counterfeits.md",
+      "title": "AI Is a New Weapon in the Battle Against Counterfeits",
+      "excerpt": "Algorithms that can spot features invisible to the human eye are helping to protect retailers and shoppers from a glut of fake goods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-217414/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
+      "publishedDateTime": "2020-08-07T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-global-artificial-intelligence-ai-in-healthcare-market-how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026",
+      "excerpt": "The Zion Market Research added a new report \"Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026″ in its database,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping.md",
       "title": "AI on the high seas: Digital transformation is revolutionizing global shipping",
       "excerpt": "From unmanned vessels to artificial intelligence applications, digital transformation is giving shipping a 21st-century reboot.",
@@ -965,6 +1106,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-06-deep-learning-market-size.md",
+      "title": "DEEP LEARNING MARKET SIZE",
+      "excerpt": "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T806326785_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "publishedDateTime": "2020-08-06T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-apple-explains-how-it-uses-machine-learning-across-iosand-soon-macos.md",
       "title": "Apple explains how it uses machine learning across iOS—and soon, macOS",
       "excerpt": "Machine learning (ML) and artificial intelligence (AI) now permeate nearly every feature on the iPhone, but Apple hasn't been touting these technologies like some of its competitors have. I wanted to understand more about Apple's approach ,",
@@ -1260,188 +1442,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-ai-models-need-to-be-interpretable-rather-than-just-explainable.md",
-      "title": "AI models need to be ‘interpretable’ rather than just ‘explainable’",
-      "excerpt": "Apple ran into trouble after customers pointed out on Twitter that its credit card service was discriminating against women. David Heinemeir Hansson, the creator of Ruby on Rails, called Apple Card a sexist program.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
-      "publishedDateTime": "2020-08-06T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models.md",
-      "title": "McAfee finds security flaws in internal mechanics of facial recognition models",
-      "excerpt": "Adversarial machine learning needs to become an integral part when rolling out applications, chief scientist says",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/eqqPdJ74HL7KwryaKJ9DS4-1200-80.jpg",
-          "width": 1200,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T21:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-black-hat-hackers-can-remotely-hijack-enterprise-healthcare-temi-robots.md",
-      "title": "Black Hat: Hackers can remotely hijack enterprise, healthcare Temi robots",
-      "excerpt": "Robots used in hospitals and care homes to assist patients and the vulnerable can be fully hijacked by cyberattackers.  On Thursday at Black Hat USA, McAfee's Advanced Threat Research (ATR) team disclosed new research into the robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/black-hat-healthcare-senior-living-temi-robots-can-be-hijacked-remotely-by-hackers/",
-      "publishedDateTime": "2020-08-05T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-nokia-sets-up-robotics-for-social-good-lab-at-indian-college.md",
-      "title": "Nokia sets up robotics for ‘social good’ lab at Indian college",
-      "excerpt": "Dubbed the ‘Nokia Centre of Excellence for Networked Robotics’, the center will serve as a hub for research into robotics, advanced comms tech and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2018/02/pexels-photo-744366-1.jpeg",
-          "width": 2550,
-          "height": 1700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/08/nokia-sets-up-robotics-for-social-good-lab-at-indian-college/",
-      "publishedDateTime": "2020-08-05T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

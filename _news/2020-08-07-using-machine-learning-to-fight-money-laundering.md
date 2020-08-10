@@ -40,6 +40,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Online Learning Market Size is Projected to Grow CAGR 10.85% by 2025 - Valuates Reports"
+    excerpt: "Online learning has seen exponential development as the Internet and education merge to allow new capabilities to be developed. Since"
+    publishedDateTime: 2020-08-10T13:36:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/online-learning-market-size-is-projected-to-grow-cagr-10-85-by-2025-valuates-reports-800472802.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
 
 secured: "7mB4m6K5Hin8boav53FzXVdSVT0cojgY1PNzv0oO60amBiPHdXyCikmsHu88rQy5mb6wiKR6fztD0fdz+yJTDgmOz+HxioBbHHrlvQxQMal7VDbrcotn3Senz8WW2rb5lnZYvI6V/6kVuJSkJDyPubHDwCdp6woXhJgFJrQn03sWvMDHtBzfB8X3ogl+PVdgs4OV1prD5BlvU1ocDX6jIQ1d3OJmS/3svOrMXWNP2UGOt5AmOHIPI7Iz2EQQCoFl5qMowuMQzrPq4top3KSFDKk0YrInhW7Q0Femu8JcE+g75hLLWLjSnIkIG2zAmLH53n50iXG3HcTZwJb+pXM1I5DYRM/ZBBAbsT6ZMMzdD3Zn0Qfy01OdYT7Q4GIbyuXLvdo+tJaimtzNadR7Kgn4Pnp1NqU93qryL7WGgvsGoIbWIPc32W7LE5ZnBfaWJjIopbHW/bfdd/Du9N+fxlsWHQ02S5u6AZmXllLfCBZQsZbSdqomwl9bG8TveASCt2Jt;iqlXIFyhZPvhRK4gOBZ+Fg=="
 ---

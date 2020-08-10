@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T18:53:00Z
 webUrl: "https://www.biometricupdate.com/202008/syntiant-announces-35m-funding-for-edge-ai-chips-after-shipping-1m-units"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 876
     height: 533
     isCached: true
-
-related:
-  - title: "Syntiant Finds $35M More For AI Chips"
-    excerpt: "Irvine-based Syntiant, a developer of processors used for artificial intelligence applications, has raised $35M more in the company's Series C funding round. The round was led M12, the venture capital investment arm of Microsoft,"
-    publishedDateTime: 2020-08-05T19:26:00Z
-    webUrl: "https://socaltech.com/syntiant_finds_3_m_more_for_ai_chips/s-0080185.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 34
 
 secured: "EX2um7D6kudf+SgwOjdl1Jh9ndZTxbP/jKNkNIkirxiDlDkozgGVrGg7uaL6UIkAFDsFUbYN8gnrKgy1adOPecPqImjgx5bnmD7UHySwfykVi0I/gA2ESGU4OnYMpLomQtb+m0Yz7YWGMeQY81Y1doEvGsya+wLropcphGYH2XwKJUyYUU5eYtK01r5tc1Gy1UN51FPdv4pAMTwdLHRPmt1erb0CzY1SnMq18vnDx9I1i4tm4Snh+o1/MhnXzh52Dqc5WtQjzVCxHAVoRnI3uQP542nFh34R526PxFt9gDSlzeXU7CfO60fQ7aeFNVPjAt24g+84afTBmA+TCB1J0rDeJQtXcPWm4M1hZjZIzeIURpf2fOywCy0x0JybuFcRXTfAykE+xzUcYWX4D63HLZi8V9it0EG+xozkpgiZNInYUxE76d4L76WJLMl7cuoKmZ25L/CwR3Tlw+rxu+UMdo7KRVzRoHTSKnJ/gmz0kUTAyxXPaDOOHLBjzVrY7ncp4HXTohSjUm0nfeYYYYrDUw==;ZFrHrxvzyT4gm9w1kY+Q/A=="
 ---

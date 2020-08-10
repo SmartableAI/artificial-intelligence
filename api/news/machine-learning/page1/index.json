@@ -318,6 +318,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-06-deep-learning-market-size.md",
+      "title": "DEEP LEARNING MARKET SIZE",
+      "excerpt": "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T806326785_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "publishedDateTime": "2020-08-06T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-apple-explains-how-it-uses-machine-learning-across-iosand-soon-macos.md",
       "title": "Apple explains how it uses machine learning across iOS—and soon, macOS",
       "excerpt": "Machine learning (ML) and artificial intelligence (AI) now permeate nearly every feature on the iPhone, but Apple hasn't been touting these technologies like some of its competitors have. I wanted to understand more about Apple's approach ,",
@@ -1345,47 +1386,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-inpowered-selected-by-ana-as-winner-of-best-use-of-aimachine-learning-category-at-2020-b2-awards.md",
-      "title": "inPowered Selected by ANA as Winner of 'Best Use of AI/Machine Learning' Category at 2020 B2 Awards",
-      "excerpt": "PRNewswire/ -- inPowered, the AI platform delivering business outcomes with content marketing, was awarded the top",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
-      "publishedDateTime": "2020-07-28T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

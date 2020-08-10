@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/</loc>
+    <lastmod>2020-08-10T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/</loc>
+    <lastmod>2020-08-10T05:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-corporation-to-conduct-study-to-assess-efficacy-of-artificial-intelligence-based-covid-19-test-2277214</loc>
+    <lastmod>2020-08-10T05:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engadget.com/the-morning-after-ai-fighter-pilots-112824955.html</loc>
+    <lastmod>2020-08-10T04:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-could-wipe-humanity-report-warns/</loc>
     <lastmod>2020-08-10T04:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -57,12 +81,6 @@
   <url>
     <loc>https://www.entrepreneur.com/article/354461</loc>
     <lastmod>2020-08-09T01:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.engadget.com/darpa-alphadogfight-championship-043711508.html</loc>
-    <lastmod>2020-08-08T21:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -297,6 +315,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/</loc>
     <lastmod>2020-08-06T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast</loc>
+    <lastmod>2020-08-06T05:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -595,12 +619,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W</loc>
-    <lastmod>2020-08-04T10:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/08/04/microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps/</loc>
     <lastmod>2020-08-04T10:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -679,14 +697,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of/article_4c669605-d9da-51c5-a003-080a094d85d2.html</loc>
-    <lastmod>2020-08-04T06:26:00-07:00</lastmod>
+    <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
+    <lastmod>2020-08-04T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
-    <lastmod>2020-08-04T06:04:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
+    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -765,6 +783,12 @@
   <url>
     <loc>https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html</loc>
     <lastmod>2020-08-03T19:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usnews.com/news/world/articles/2020-08-03/the-survivor-last-korean-war-criminal-in-japan-wants-recognition</loc>
+    <lastmod>2020-08-03T18:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -867,6 +891,12 @@
   <url>
     <loc>https://www.forbes.com/sites/petersuciu/2020/08/03/artificial-intelligence-will-help-brands-align-with-influencers/</loc>
     <lastmod>2020-08-03T05:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200803005187/en/Global-Payments-Joins-Forces-AWS-Deliver-Future</loc>
+    <lastmod>2020-08-03T05:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1873,7 +1903,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.moneyshow.com/articles/dailyguru-54699/</loc>
+    <loc>https://www.moneyshow.com/articles/dailyguru-54699/nvida-ai-robotics-and-self-driving-cars/</loc>
     <lastmod>2020-07-28T02:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2083,6 +2113,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275</loc>
+    <lastmod>2020-07-27T05:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
     <lastmod>2020-07-27T05:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2133,12 +2169,6 @@
   <url>
     <loc>https://www.thehindubusinessline.com/info-tech/gmrit-launches-artificial-intelligence-lab-in-andhra-pradesh/article32201680.ece</loc>
     <lastmod>2020-07-27T02:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27</loc>
-    <lastmod>2020-07-27T01:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2407,8 +2437,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html</loc>
-    <lastmod>2020-07-24T06:02:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html</loc>
+    <lastmod>2020-07-24T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2899,12 +2929,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece</loc>
-    <lastmod>2020-07-22T06:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/</loc>
     <lastmod>2020-07-22T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2967,6 +2991,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players-2020-07-22</loc>
     <lastmod>2020-07-22T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!</loc>
+    <lastmod>2020-07-22T00:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-10-ai-needs-to-learn-multi-intent-for-computers-to-show-empathy.md",
+      "title": "AI Needs To Learn Multi-Intent For Computers To Show Empathy",
+      "excerpt": "Artificial Intelligence (AI) is smart, but it could do better. The software development industry is constantly working to push algorithmic logic beyond the scope of the current computer processing envelope and create new ways for computers to ‘think’ and emulate human beings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f311f1dc01c7ae12882d816%2F0x0.jpg",
+          "width": 640,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
+      "publishedDateTime": "2020-08-10T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-08-08-how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai.md",
       "title": "How The Federal Government’s AI Center Of Excellence Is Impacting Government-Wide Adoption Of AI",
       "excerpt": "The GSA's AI Center of Excellence aims to improve and enhance AI implementations in the government and help agencies on their journey with AI adoption. The relatively small team at the GSA AI CoE is helping to bring about some very impressive changes within the federal government.",
@@ -457,56 +508,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-04-the-survivor-last-korean-war-criminal-in-japan-wants-recognition.md",
-      "title": "The survivor: last Korean war criminal in Japan wants recognition",
-      "excerpt": "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528231197&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7301C",
-          "width": 799,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN25002W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25002W",
-      "publishedDateTime": "2020-08-04T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-04-microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps.md",
       "title": "Microsoft, Amazon back a SoCal company making microchips specifically for voice-based apps",
       "excerpt": "Microsoft’s venture capital fund, M12 Ventures, has led a slew of strategic corporate investors backing a new chip developer out of Southern California called Syntiant, which makes semiconductors for voice recognition and speech-based applications.",
@@ -656,6 +657,47 @@
         "Google AI",
         "Natural Language Processing",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-the-survivor-last-korean-war-criminal-in-japan-wants-recognition.md",
+      "title": "The Survivor: Last Korean War Criminal in Japan Wants Recognition",
+      "excerpt": "TOKYO (Reuters) - To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/world/articles/2020-08-03/the-survivor-last-korean-war-criminal-in-japan-wants-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2020-08-03/the-survivor-last-korean-war-criminal-in-japan-wants-recognition?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-08-03/the-survivor-last-korean-war-criminal-in-japan-wants-recognition?context=amp",
+      "publishedDateTime": "2020-08-03T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1381,56 +1423,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-07-29T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026.md",
-      "title": "Natural Language Processing Market Segmentation, Research Methodology And Revenue Growth Forecast Till 2026",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 29, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29?mod=mw_quote_news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T22:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

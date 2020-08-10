@@ -2,6 +2,236 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-07-24-higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes.md",
+      "title": "Higher ed institutions are using Otter's AI technology to transfer lectures into notes",
+      "excerpt": "Turning spoken lectures into highly accurate lecture notes. Otter.ai's Otter for Education AI speech technology aims to give both lecturers and students the ability to avoid Zoom call information overload,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/23/3dd79642-a672-4227-b2e8-7498cd4015eb/resize/1200x/ee8113922f79a3209e5641984ac6c549/virtual-classroom.jpg",
+          "width": 1200,
+          "height": 968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes/",
+      "publishedDateTime": "2020-07-24T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-facebook-adds-100-million-to-facial-recognition-settlement-over-tagged-photos.md",
+      "title": "Facebook adds $100 million to facial recognition settlement over tagged photos",
+      "excerpt": "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
+      "publishedDateTime": "2020-07-24T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-python-language-what-you-need-to-know.md",
+      "title": "Python Language: What You Need To Know",
+      "excerpt": "Python is a high-level programming language, easy for beginners and advanced users to get started with,” said Jory Schwach, who is the CEO of Andium.com . “It’s forgiving in its usage, allowing coders to skip learning the nuances that are necessary in other,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b0df21f4b0a28b2202528%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3988%26cropY1%3D202%26cropY2%3D2445",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/amp/",
+      "publishedDateTime": "2020-07-24T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-facebook-agrees-to-pay-record-650m-to-settle-facial-recognition-lawsuit.md",
+      "title": "Facebook agrees to pay record $650M to settle facial recognition lawsuit",
+      "excerpt": "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
+      "publishedDateTime": "2020-07-24T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-tech-tent-have-we-seen-our-ai-future.md",
+      "title": "Tech Tent: Have we seen our AI future?",
+      "excerpt": "On this week’s Tech Tent we find out what the big fuss is about something called GPT-3. OpenAI is a Californian company started in 2015 with a high-minded mission - to ensure that artificial general intelligence systems that could outperform humans in most jobs would benefit all humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-53530454",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7F5F/production/_108470623_robotwriter.gif",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53530454",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53530454",
+      "publishedDateTime": "2020-07-24T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-new-intelligence-community-ai-principles-seek-to-make-tools-usefuland-law-abiding.md",
       "title": "New Intelligence-Community AI Principles Seek to Make Tools Useful—and Law-Abiding",
       "excerpt": "AI has grown considerably, as has public concern about its use, particularly for national security purposes. The promise of artificial intelligence comes with new challenges for the U.S. intelligence community,",
@@ -366,16 +596,16 @@
       "title": "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace",
       "excerpt": "and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from predictive analytics to create real business value, with better ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook",
-          "width": 2699,
-          "height": 1414,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300",
+          "width": 400,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -384,11 +614,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-24T06:02:00-07:00",
+      "publishedDateTime": "2020-07-24T06:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1151,227 +1381,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga.md",
-      "title": "Amazon brings Contact Lens, a set of AI-powered contact center tools, into GA",
-      "excerpt": "The machine learning-powered set of capabilities allow companies to automatically transcribe and analyze customer calls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/22/50660081-ce3a-4998-ac36-6ea4c455bed6/thumbnail/1200x675/dc14c7d75bfcc9ea40ab77d1c94e9af7/googrecommendations.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/",
-      "publishedDateTime": "2020-07-23T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat.md",
-      "title": "M12-backed startup launches computer vision based virtual fitness coach that never lets users cheat",
-      "excerpt": "PRNewswire/ - Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as close",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel.md",
-      "title": "Artificial Neural Network Market Growing at a CAGR 20.5% | Key Player Google, IBM, Microsoft, Oracle, Intel",
-      "excerpt": "Market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024, at a Compound Annual Growth Rate (CAGR) of 20.5% during the forecast period. The major driving factor in the ANN market is due to the growing demand to train a large volume of data sets with low supervision to drive the market For over a decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16755993",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16755993",
-      "publishedDateTime": "2020-07-23T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy.md",
-      "title": "Google claims its AI system can grade prostate cancer samples with 72% accuracy",
-      "excerpt": "In a peer-reviewed study, Google reseachers claim to have developed an AI system that grades prostate tumor severity with 72% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/amp/",
-      "publishedDateTime": "2020-07-23T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-ordered-to-pay-650-million-in-facial-recognition-lawsuit.md",
-      "title": "Facebook ordered to pay $650 million in facial recognition lawsuit",
-      "excerpt": "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp",
-      "publishedDateTime": "2020-07-23T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
