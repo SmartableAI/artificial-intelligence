@@ -14,6 +14,12 @@ topics:
   - AI Hardware
   - AI
 
+images:
+  - url: "https://mms.businesswire.com/media/20200805005052/en/809710/4/05.jpg"
+    width: 480
+    height: 315
+    isCached: true
+
 secured: "Vy8yKjCCCn+HuXQ8LKpqhAXSbniWaQUyuKR46xKV9dDrk6jDXkOH0851L4IAhxyja4FlXeN2XvMfj8LLMOcrMFJnlcvjDygDTKXzh09ckXLHjfa9AjVxlqpBfVWR5noEMLJD17YgnvxruA1YQAO/Kr6GIMJCFKepRFzUSLjIbNMX+IZR04g4eIdqKZPVEofLTu4v6gSU6lLBgvYlVrE01LrHN/qYELXYgWr77UZqpigzugUaWx5Sosh68lyGdJIJChO4A29QqvTVgwbGNNdPVOTGz1b8JzCYpRce/RiHbvzdCh26qHTrRjiwadHiP7jcCv35Se0bfBIJtIMGTVBugw==;WB+OEYrAhFKJlxOaL8Oh8g=="
 ---
 

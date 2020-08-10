@@ -2,6 +2,56 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-07-08-robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine.md",
+      "title": "Robots, drones and surveillance apps: The unexpected future of medicine",
+      "excerpt": "Healthcare has traditionally been cautious about new technologies. But a new wave of innovation is likely to change all of that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/01/ac472c67-d9bf-4475-afb8-352f6030b09b/thumbnail/1200x675/1f5ccd50506dd71d1a47b6d1cf3f5b0b/istock-471508902-2.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Robots, drones and surveillance apps: The unexpected future of medicine",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine/",
+      "publishedDateTime": "2020-07-08T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-world-artificial-intelligence-conference-to-kick-off-in-shanghai.md",
       "title": "World Artificial Intelligence Conference to kick off in Shanghai",
       "excerpt": "The World Artificial Intelligence Conference will kick off Thursday ... unmanned driving, education, healthcare and blockchain, among other topics. SenseTime, a leading AI unicorn from China focusing on facial recognition, deep learning and supercomputing ...",
@@ -1322,38 +1372,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-artificial-intelligence-ai-in-cancer-market-2020-global-analysis-opportunities-and-forecast-to-2024.md",
-      "title": "Artificial Intelligence (AI) in Cancer Market 2020 Global Analysis, Opportunities And Forecast To 2024",
-      "excerpt": "Artificial intelligence (AI) is a term used to identify ... A look at the major applications of AI tools in the diagnosis, therapy, R&D and health management of cancer – Information on types ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16539798/artificial-intelligence-ai-in-cancer-market-2020-global-analysis-opportunities-and-forecast-to-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16539798",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16539798",
-      "publishedDateTime": "2020-07-07T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

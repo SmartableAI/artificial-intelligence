@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 826
         isCached: true
-  - title: "Former Google, Uber Self-Driving Engineer Sentenced To 18 Months In Prison, Seeks $4.1B In Earnouts"
-    excerpt: "A former engineer at Alphabet Inc. (NASDAQ: GOOGL) (NASDAQ: GOOG) subsidiary Waymo, who pleaded guilty to stealing secrets related to self-driving technology from the search engine giant and passing them on to Uber Technologies Inc. (NYSE: UBER), has been ..."
-    publishedDateTime: 2020-08-05T10:42:00Z
-    webUrl: "https://www.benzinga.com/news/20/08/16937134/former-google-uber-self-driving-engineer-sentenced-to-18-months-in-prison-seeks-4-1b-in-earnouts"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16937134"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16937134"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/anthony_levandowski_headshot_0.jpg"
-        width: 5512
-        height: 4410
-        isCached: true
 
 secured: "0+n31tWYFs6b6JBOZpufIP+3npO4+dypor4mu+DNWKxLmBjs0EhSwfVa+nPV9h66slQOc9/W2YsqQ6tqvm5Csgax2y6GTSAhZtrgyf4E6Mg3Z+l3fN/LsSVv7PJGGMxlmB7RSeadI/tzDK3N4f+p0NQhs7iJqat/oBujdlVYBsLzyGvnH+aVilClXigqnDNIm0gUY+KZ/SrhvZWENkblEzSTUhZJW9/T18n/XBg3L6M0uHmr0dPBGrM86QvSrC05rZKrPKgJdjvGmpdBTdkPRthg+i0zN7g6aNsMyS5yelllXTXCHXubiMmJJ2Z1pC0Sd7719p4JJoQE+9u3akIMlyORx9Q7ZZTciIzwmNWMIXLXJWd+inkZK2ihpXfpZOUoFK5i8HoWW3GteDxiBrh45rRaf8v1KSwzsaPRuYEa6mDPEMTLMXfYeeFZpKjLF7sszqW0QyU7g3JW67d2X0xrVUJ3RHRYpBiZbQWLNV+Qqtbo8IuoytsNm6KvF4jYYMO3;JA9e1VUmoWjBECiqZU/svQ=="
 ---

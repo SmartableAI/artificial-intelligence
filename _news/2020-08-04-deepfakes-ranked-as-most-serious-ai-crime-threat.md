@@ -14,6 +14,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "yLojWFUEuKmUdTC9dJh1fzsFul74W6wppauLxOcZCpl2LZ1u4rtCkEN93N9jvRX1sW0BHCnBXN1Lfv31LYYHrtcKqCFLSHqCaD9rLpJfafsns8VZvQ22lWyINCjKZw+phYP6iMaErwPm3cyoRDWEYszGa19FanCZX7idSJ9y7Z2NCADRAultK9bAhkByAWowPiG+ngUxtRKXAg7vS/5GVScbe8//rteOzwJmnc8XQ53/hXFCEetXRsXK+dRDUzaugZDETXXZeH5VlwWSDpMWR74zb+GtedbNP2R+Wg6cV/m9itPKW9l9SxhCWQzSdKDrUF9e87v9y74IyquJ5e0tqj9AM+ovU/lKxa8zfLweQTc5T0Fx7Uy+8LqnIKHg+NQwcGi+Z3V8cDlGYrsR82YOfzAlGAdIWPvClUWSHqyYlFOMW7YtyWqNO4N6MaDamcfAS/PB9zeIShPj0JdSpQ8O4K3Q/2QuJPfiQR/8TegaNai0UWs0j0pnxN3efuDWtCcgV0ZVKibBpSrKZ9vOX5sr3g==;OhGIuA8Ax6mO4iyu+ZcrDQ=="
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "4aU09G1GFab4u55YoJb0EdTm+3XSLBiDL/neZ16pd43B7zlU9lStO0UDGmGdrsomINXQUTB3FxIBa39AP3ycB66xyc5Hkj/PrtbkG1EIZuRshfnJpBXOhxYwQIWulZFbLrsej90peK+yrajeGKoy6nYwugUQZC1h7XdJH1w1e0/8NmPonofjPE0zUyuB7w+49UZ003hTZiio/GtvXhPtYjYN0pLJtsotAJO0C0kLL2/imBYw3PTqe8oOdpkfdNJKXb9ZQhF4JfzNK2y2C7IEzG3CsQYrSODED4uuP3ozUha2h2ejEBf3fIFBu1njUj+XKL9ugOzNympJxwPagg+Nog==;NsXf/iiOB8r9T8ELb5621w=="
 ---
 

@@ -5,6 +5,9 @@ excerpt: "Transport for NSW has launched a new ‘skill’ for Amazon’s Alexa 
 publishedDateTime: 2020-08-10T03:15:00Z
 webUrl: "https://www.itnews.com.au/news/transport-for-nsw-dives-deeper-into-voice-assistance-with-alexa-551068"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: IT News For Australia Business
@@ -14,6 +17,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "CWZ7DEAy6irXYMwZEZ2BkcTxsHXfxCnuJ/sA1+stjQVP8UHRj/KaL6iYZL5DSIATP9QuoFqHz0xS/3y0+Clz8mX4IPS1VHDv61Cs/hDGk23KsySNE681bPzUV4x7ENm0GPzP/TLt1SIcuSZG5HEi9JQGp7kijPw/Kd0/0pgT7UnR/4W8jsZDqPnJJ+cg4WozPIY5rxWEB+qsp6Yic1BFRQSV6OI+b2Vxd+UF2K6K+dYgT/Y0lNezjB1dsDyoBQoJb43pDXwqBVpn3uu+gGm+Zyv8ZbvP0VXljCNFlADY9uhBQ8S5jr1Mdu9a+tyZBbICfrTVEIHVZ3peNc3jy39SEEJtfgvgxkqoUP6+6l4rq7JVTFxEmRXpqOGwnVuC6Xu/7dAbM4eY+TC6eCQTOtw7GsTXqabMHjn7VbG3S3MSSgBdQvjBC9VnZNtk0B09Z2UTzqrIozQX+JX0idduZHKsW+0SMPPMFfB8MugqMAYpEqSiTRY2wAPoBXrCAWYjH3I8m2BNH7yIf6Y1v3VRKcl1lA==;NISEE3XfjtpmA5ylT38snw=="
+images:
+  - url: "https://i.nextmedia.com.au/News/amazon_alexa_dark.jpg"
+    width: 420
+    height: 280
+    isCached: true
+
+secured: "jd5EhaFbs2f6XgV2OtiC1xDkKeGCt4eQRQO32HU4a91QJ1yZ4ef9Wyrwca1FER2YKRh2JpCqQuwx4YmeKKoUQij0RbpDidyowpoQKsgpG5VfGUfkLcYaNJenbAnb4xwl+73ztmYNfM0IVnb55q1zUBv/yMXAZJSyi2nxWJmwfL51omrtvrU0cZE77KA6OTh0iPVkq3JEWazswwyh0DEca6Ny0WXACSGUWenzC+WQh7RbWlVA+OFdYy6SfgM9rjEL7DfLZpzpI5rBZHVLjpf6ppav7p+j3OhGb3WLMGFT1Okw41jAK/fF4CavVz3zLjxmyffPrRclWlBkLvzTA3jm3g==;ctPj7rK0cHMe+LM6fG28XQ=="
 ---
 

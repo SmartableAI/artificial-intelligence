@@ -23,22 +23,6 @@ images:
     height: 271
     isCached: true
 
-related:
-  - title: "Atos to deliver UK's largest AI supercomputer to the University of Oxford"
-    excerpt: "French IT giant Atos has signed a four-year contract worth £5 million ($6.5m) with the University of Oxford to deliver a supercomputer for artificial intelligence workloads. The system will be built on the Nvidia DGX SuperPOD reference architecture and feature more than 500 Nvidia GPUs."
-    publishedDateTime: 2020-08-05T09:40:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/atos-deliver-uks-largest-ai-supercomputer-university-oxford/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 38
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/STFC.5b531b39.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "U9VzqYvc+Z5kx/GPn2lMTmeQWDwsCbUnFdnEBgvL4ic5LFulkaEQOEpF60Y8isrQy8TYUKah8WikZk8bXQLchj+bMP4Uv6bzlZHvmndgESYIwr0BKqlR9ddjpinyv0si3hi+lqnIIGBpKJh0JIvWLoAwc0JDrp4xKE0V4hdndAHNrYCayzYiS1pEIZ8Vyd6vE7AmoPZcTfSiuPCk5S2sbtf7t0R0wZHiLVThRWI+1w1IWgsRlv74oNpKS9U9jwPIiCvJDb5vclKslsF6RKHFksBvRl8Bn31W0AgDp+Km6BpEiptzL8eN9mJfzmAoooKEZIzH9Lbms8Mx3MgNEHhuxYqGfUwvQVp9yNPjEI2etkuIfKawGbrrYCVNy06jHVMSKOk6KM67h0VMAb1ecqITAJ4nduqA/y8lQHN5AOrzSxDWiGFJPj8R5r8moduZZrALlTir2zUyxn5Xwi21xwc312XflV1ddZFQE0sMl3Q2ccrwQ3FniGVLuKIGZpE12IIf;FpSNT5F0/dWwAW/wAyZyMg=="
 ---
 

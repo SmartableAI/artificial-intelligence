@@ -14,6 +14,12 @@ topics:
   - Machine Learning
   - AI
 
+images:
+  - url: "https://content.cdntwrk.com/mediaproxy?url=http%3A%2F%2Fshare.opsy.st%2F5f233ed396b28-76219803_cover_design.jpg&size=1&version=1596145650&sig=7ea38959f2da1fe785f0d3b794759236&default=hubs%2Ftilebg-blogs.jpg"
+    width: 500
+    height: 272
+    isCached: true
+
 secured: "LcTHcXD8cAakq+otYTWlmEoQlVFKaT869UCpxRWNo3J56LR0PQkezjOZ5zFhTVpqxj9PNrq0QiJusCPeLBTlLhIlqCyz/KdiYp7lasj8U5mFcHVLnKvE1zxSl+Uxwx8pzaRWiORjj9pP7TBE3mrDyBbXIzKgweMUv833Vs+W5pkp259TU2H+rd4Yccwgw79bK54zVNpHjysbjTGdVlkTLNnrUrgCmAM89enOhlHLxUug0rsFEPG2u1AuYwZdxJDvTXbhPGVjjro8mUqvh9vaSlamMKh9dHQkTKWouyqud2EFUMncZxP4W5AMEZj51bIduS47Sl6LtSX8t/tIppRYCg==;gGIm/O1ATi22igrckeAOZA=="
 ---
 

@@ -7,6 +7,9 @@ webUrl: "https://www.thehindu.com/business/Industry/watson-assistant-speaks-for-
 ampWebUrl: "https://www.thehindu.com/business/Industry/watson-assistant-speaks-for-icmr/article32298771.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/watson-assistant-speaks-for-icmr/article32298771.ece/amp/"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: The Hindu
@@ -15,6 +18,12 @@ provider:
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.thehindu.com/business/nun9rg/article32298770.ece/ALTERNATES/LANDSCAPE_615/th08BUSubram-Natarajan"
+    width: 615
+    height: 384
+    isCached: true
 
 secured: "nYPAVkoeX9JNPw0capwSCD0QHjQonXbQf5etAVSiyR1PxE5LI+4OGSlSQ1m+FwuFBsRWUZl8sFKp1V/rdt+lvjK3+1AW2F6NJ1GyDsTnxCTAh3vD8LlILV7QD3mynt/fLetXTFTfMFZ4dObf5QSlabSHPeExH02ZsbFEkdtSuveJxDB7zrH+iH45I+reWDhmDhZk13iKiOVqH3sFoTZJGUaexVOV7yPf6UZVCV82QGhDSXBOUNrKq7A4SI4+Nwq/dJyhT453ouaoHoyHQwF5mlkf7tTLlzCubRvjp02Qq8fjHvYh0HeWVohKo3WJVPX5Vm6tPt0JzJusHRY+88BYlg==;DPa6XeEcO9s9P2t4vVax6Q=="
 ---

@@ -14,6 +14,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "5kuUirfK2HBvaVZnI+sHWRGP84W9+a9Os4WvrvMoyUN9I2Kw8ZdYTgkAP8YuXqUybrxFjuBpRaERrQ3u3SvdXaYcsFiaxTGlrolKsiVKnNTkkwTPqCHNbG2sWB0grmwQD83moLT0+TWLUUbyE3I5K/BUCmk/jXhBmysKZtSANYjNsA8M8Uaq3hYick+NQhuAj1CDirHBl4LB+WxBdQ5ZFnJ0a1VGz8ybKUNcEq8lwmujWmFlGsxcQz2moHz78dDRXo3LyPOvcK5X7+JJGYG9mA0Rh6c/YIqWWHyU2UA7ggziVkr0+YOOFgiJgZG70Q/0V88jBIX719jDwule4xrodYDJapCMeTqRFHGH8jsIh4gU9qtKq9q6Sp2IgmzU367cabEWJjVYGBEg8i3s+HNah+ceTBl1ZuSGff9PP6t0V6rS5CrWouoX8dw/sWU9NFg8AU1zjOGwEPGP8xA79yzoQaF8WHUOjaLnlVtN/ouXR3ZyRRl4RBJijyUvABeDlnyx;QLKr7P4n7ZEVZdKpkNvxqQ=="
+images:
+  - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg"
+    width: 555
+    height: 370
+    isCached: true
+
+secured: "lQTMPeQ7D1rbdleahZ2DfOlm/NzW0ij87/wGh3KPX4i7wbJk3PJGdd9s4meRFyJs8WyqFcC58C55znQbTmqc2paHFWAfO5l+HmqO1XawOTo5JxmBHbBYhlqHjco4iuZGwZMJkMpAR8HAgqU4LSfRwTd7ZyxRPL79rX87D3mit6g0JDzscBZBan0HpylnOWDw5ShtPwQ2HOBxidi/lpCks/h0MtPCWYIIunHqqG2Ep+snVQwyaA5hgLnIx5UYdgFp961T+koYbSFBLKIQ1nBLW+Ste31dAJyRl8EQbBZseWCwZFflot3p2E2nt/390hoHGIj1ayh3IlRuhfwwAZc4HQ==;sSVM4jCz9kWJf/jtEChlDw=="
 ---
 

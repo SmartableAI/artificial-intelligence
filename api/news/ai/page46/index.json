@@ -2,6 +2,56 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-shakes-up-the-race-for-self-drivingand-ride-hailing.md",
+      "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
+      "excerpt": "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef60bd7be64fa7887c43297/master/pass/Biz_Zoox_1215628120.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp",
+      "publishedDateTime": "2020-06-26T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-what-you-should-know-about-investing-in-ai-during-economic-downturn.md",
       "title": "What you should know about investing in AI during economic downturn",
       "excerpt": "Over the past few months, the COVID-19 virus has had a huge impact on the globe. As of April 28, according to the World Health Organization, there have been more than 2.8 million confirmed cases worldwide and nearly 198,",
@@ -1357,56 +1407,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-amazon-has-reportedly-bought-self-driving-car-startup-zoox-for-more-than-1-billion.md",
-      "title": "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion",
-      "excerpt": "Sources told the Financial Times that Zoox's management team will report to Jeff Wilke, head of Amazon's worldwide consumer division",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ece37e6aee6a8643064e963?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp",
-      "publishedDateTime": "2020-06-26T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -97,6 +97,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market Share, Growth, Statistics, By Application, Production, Revenue & Forecast To 2026"
+    excerpt: "DataIntelo one of the world s prominent market research firms has announced a novel report on Global Artificial Intelligence AI in BFSI Market The report contains vital insights on the market which will support the clients to make the right"
+    publishedDateTime: 2020-08-09T12:49:00Z
+    webUrl: "https://www.openpr.com/news/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/T/8/T809254303_g.jpg"
+        width: 560
+        height: 315
+        isCached: true
 
 secured: "isCdyqnFq1nDVMBVHqRKKAEvcgGsLNItc1qynVzdL2JKjZVKNzsoOp0Y9YPCuRCnzhyTHm/EgM7dVxWid+CoKRAM4put9JdM1Mcyx0/8IPoIak15Pf/Nx1Zcr67xmB4fN5ob3gfYyydPbh1RDnW0nO1Y6+HvOAhyacI12wSBDGg8vPFTcLbCqzJ02M72LDoksyyLqdjaPgTg5WzuCSkwaOgxmrTTxTAxB8kO5uUFDDxqGxa4qaYJcC2kyfOmFnzG+ujGPKoBewQf0qZs3eiS0qKYWR7xfSfs4fIuaWLFYu3BcBNFFgmf7mF0ZGFHSe+WTRFT1gGYU7lWINbVIzF+tw==;4QFUQUqAFN3tJqRhbmFPBg=="
 ---
