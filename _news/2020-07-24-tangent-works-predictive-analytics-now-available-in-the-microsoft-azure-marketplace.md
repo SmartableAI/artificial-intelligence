@@ -13,6 +13,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"

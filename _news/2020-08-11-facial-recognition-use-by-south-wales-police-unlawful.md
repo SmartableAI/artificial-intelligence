@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
 type: article
 quality: 89
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -337,6 +337,20 @@ related:
       - url: "https://i2-prod.walesonline.co.uk/incoming/article17202824.ece/ALTERNATES/s615/0_WNS_210519_Facial_Recognition_Court_Case_07JPG.jpg"
         width: 615
         height: 409
+        isCached: true
+  - title: "Live biometric facial recognition use by South Wales Police ruled unlawful by appeals court"
+    excerpt: "The use of facial biometrics for automatic public identification by South Wales Police has been declared unlawful by the UK Court of Appeal, which agreed with the plaintiff on three of five points"
+    publishedDateTime: 2020-08-11T18:34:00Z
+    webUrl: "https://www.biometricupdate.com/202008/live-biometric-facial-recognition-use-by-south-wales-police-ruled-unlawful-by-appeals-court"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/17123440/south-wales-police-facial-recognition-vehicles.jpg"
+        width: 750
+        height: 430
         isCached: true
 
 secured: "lXrt0Ln5aSEd3SRdArosKZpbs4DvCGOd+GRQUNhtNXdBzVBX7FcJfgh/gkmE3xa0xtwA9MQ7NtKtTBpOYbHKisynLR735p7sAEt/49q7NIgP2i8tjP42S6zZjeMO8jVlLUfS5qRLuStbXWsmvxai/NBFBRIbdquax1NhAHanl5fjZyRdWAMVaZeb3ARnvLALFfreKjjbjKW0/fvrnVS80t3t3EgKsL4mpypDv3kGFDEpvXbwobwUxoMNd/4KHTHyWz7XaWdKxyBg+RG/I655mIo1gJMFcSpZn7q2CkAGaYtp0bae/zMDxxlsZh3aArv/H3VMC7/7Dv9KD9lkN2igJlEr4HMRoYMuVmEtZIDj/eq+oD5aiqpsrS9khvcN0sVcj5cI2U0byi4jkLa0CxagORqAwinJ8uq1Gwh1rG4J1SJ3o1mctw9T8CA/toHbbvyl9xwWpjuKC9aRsbtDOyWBYS8dA8fGTXWOzLTrVr7lPTGOzYGzzo/u6J1Ur8AWcpGQGIT2ZoPrz7Ozqay1ozh0ig==;LtIDLSq0LtsZgRO1fr0cSA=="

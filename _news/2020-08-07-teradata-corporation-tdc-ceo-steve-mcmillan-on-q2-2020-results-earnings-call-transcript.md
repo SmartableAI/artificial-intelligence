@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "SailPoint Technologies Holdings, Inc. (SAIL) CEO Mark McClain on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "SAIL) Q2 2020 Earnings Conference Call August 06, 2020 05:00 PM ET Company Participants Josh Harding - Investor Relations Mark McClain - Chief Executive Officer Jason Ream - Chief Financial Officer Conference Call Participants Matt Hedberg - RBC Capital Markets Hamza Fodderwala - Morgan Stanley Brian Essex - Goldman Sachs Andrew Nowinski - D."
+    publishedDateTime: 2020-08-08T23:21:00Z
+    webUrl: "https://seekingalpha.com/article/4366405-sailpoint-technologies-holdings-inc-sail-ceo-mark-mcclain-on-q2-2020-results-earnings-call"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 1
   - title: "FLIR Systems, Inc. (FLIR) CEO James Cannon on Q2 2020 Results - Earnings Call Transcript"
     excerpt: "Q2 2020 Earnings Conference Call August 06, 2020, 09:00 ET Company Participants Lasse Glassen - ADDO Investor Relations James Cannon - President, CEO & Director Carol Lowe - CFO & EVP Conference Call Participants Peter Arment - Robert W."
     publishedDateTime: 2020-08-07T03:33:00Z

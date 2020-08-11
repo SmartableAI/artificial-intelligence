@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Emotion Detection and Recognition Market to Witness Promising Growth Opportunities During 2020-2028"
-    excerpt: "This detailed market report focuses on data from different primary and secondary sources, and is analyzed using various tools. It helps to gain insights into the market’s growth potential, which can help investors identify scope and opportunities."
-    publishedDateTime: 2020-08-07T01:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-to-witness-promising-growth-opportunities-during-2020-2028-2020-08-06?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025"
     excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
     publishedDateTime: 2020-08-11T13:39:00Z

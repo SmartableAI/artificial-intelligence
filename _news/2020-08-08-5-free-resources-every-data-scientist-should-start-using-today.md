@@ -7,8 +7,8 @@ webUrl: "https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-ever
 ampWebUrl: "https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/"
 type: article
-quality: 72
-heat: 72
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/5-free-resources-every-data-scientist-should-start-using-today-796x417.png"

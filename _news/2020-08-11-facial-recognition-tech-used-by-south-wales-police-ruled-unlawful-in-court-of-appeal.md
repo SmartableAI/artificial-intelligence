@@ -334,6 +334,20 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Live biometric facial recognition use by South Wales Police ruled unlawful by appeals court"
+    excerpt: "The use of facial biometrics for automatic public identification by South Wales Police has been declared unlawful by the UK Court of Appeal, which agreed with the plaintiff on three of five points"
+    publishedDateTime: 2020-08-11T18:34:00Z
+    webUrl: "https://www.biometricupdate.com/202008/live-biometric-facial-recognition-use-by-south-wales-police-ruled-unlawful-by-appeals-court"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/17123440/south-wales-police-facial-recognition-vehicles.jpg"
+        width: 750
+        height: 430
+        isCached: true
 
 secured: "/z4yIHEk/iswZU0I7ptDMfwE8EcsZKDHbdEnOZHV1ilCgv4yHB0rCWEcyGT4aB7k5RDvLrYdLp/oVZE3iG4JjfZh57XMwatj3RjRlK40yEefYiAsmREm7hrJQkgoSo0ASEZWva8Ii/XACf3kKSk2jOal3zjMg2lekqa5GuM9blratVW0gO8yuLgv1EdftCwL2pzlAFoyD7iw/WAWQcEIFIXoNBbyOu8YI2OZfYSPPa3cYR6Hs5GgXITLo0ufBPFxdJr76MxfooVpBPfmP1O6ZHEgy4WOGd4BOYeYRy311vJEw6EkDs+axWWupHlM5rQmCBWbia+8hIGvgvCQfJa4pQ==;lmDLXeoOPY1l1p0CMLxfkA=="
 ---

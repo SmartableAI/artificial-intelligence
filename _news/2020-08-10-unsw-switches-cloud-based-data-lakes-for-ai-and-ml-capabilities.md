@@ -46,18 +46,18 @@ related:
         height: 683
         isCached: true
   - title: "BPT Analytics Ltd. launches cloud-based analytics dashboard “A Landscape of Artificial Intelligence (AI) In Pharma R&D”"
-    excerpt: "BPT Analytics Ltd. (BiopharmaTrend) a provider of web-based business intelligence dashboards for the pharmaceutical industry, launched cloud-based analytics dashboard “ A Landscape of Artificial Intelligence (AI) In Pharma R&D ”, as part of the company ..."
-    publishedDateTime: 2020-08-11T17:51:00Z
-    webUrl: "https://www.register-herald.com/region/bpt-analytics-ltd-launches-cloud-based-analytics-dashboard-a-landscape-of-artificial-intelligence-ai-in/article_3ef46e63-8b46-5ad9-b4be-a027feb0adb3.html"
+    excerpt: "BPT Analytics Ltd. (BiopharmaTrend) a provider of web-based business intelligence dashboards for the pharmaceutical industry, launched cloud-based ana"
+    publishedDateTime: 2020-08-11T18:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200811005513/en/"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 28
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/4/c9/4c96327c-ecbb-5b23-a080-9bf08ec29c11/5f32d26cd43b2.image.jpg?resize=930%2C630"
-        width: 930
-        height: 630
+      - url: "https://mms.businesswire.com/media/20200811005513/en/811962/23/bpt_press_image_mon1.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "9SJaRi6XFvxz0SMvw+2DHhpJZ+BFOpnlIGV06FPho8/4uu2HdnXOE3MDPLy9pw5rvLi9ZD/ZPvH6t16TpPfbk87zw4bEVNu2k3LLv0BJ/U0n89zV3u1OI6F3n19E6VlpIG+N7f+lr1SvVgMjQyDJY1qph+O+bLjxjPBsgLBMz9BaFzphObXjvDc5lmkV7NoQ//d9woIN43J0kH8kdzaJ03PmK2z3Ksd70Z5DFU6nJH4+wfw4tDB81L7dzdGZtOxPeWkzk7ge4YpBA0wZtYhFJ0naiTwsiicriGi7clmjcEHKADCG32Z4WFGgfI4kR3PAPd+T2bFWw0znqB0LPOcHSEIFCfJOW2QmOQMWGdQ2ZKvk5tNhVW/VC5IIpXNgbUQFsLqq4H9t2ok+BZ3ZQRzICQ+ZOthDA6x0R8zUQbsaWccrgoXdYjpMJnI3u4iKgLMoz9YuD3areJfwIy/YIzHTalZErbgXAiOjlLeY7ebXJDa4L/aOpwi9EN/QuGzpeZeuvJiGQdVtQoDmvRphIi5I4w==;tC5kTtR+UU9BMqTWEDHoIw=="

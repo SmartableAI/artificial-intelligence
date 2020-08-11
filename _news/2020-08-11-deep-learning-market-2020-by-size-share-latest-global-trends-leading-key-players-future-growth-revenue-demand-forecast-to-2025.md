@@ -44,20 +44,6 @@ related:
         width: 560
         height: 315
         isCached: true
-  - title: "Emotion Detection and Recognition Market to Witness Promising Growth Opportunities During 2020-2028"
-    excerpt: "This detailed market report focuses on data from different primary and secondary sources, and is analyzed using various tools. It helps to gain insights into the market’s growth potential, which can help investors identify scope and opportunities."
-    publishedDateTime: 2020-08-07T01:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-to-witness-promising-growth-opportunities-during-2020-2028-2020-08-06?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Gesture Recognition Solution Market 2020 Analysis, Size, Share, Growth, Trends, Application, Types, and Upcoming Opportunities 2023"
     excerpt: "Global \"Gesture Recognition Solution Market\" report 2020 plans to give forefront advertise knowledge and help decision makers take sound investment evaluation. The report identifies and analyses the emerging trends along with major drivers,"
     publishedDateTime: 2020-08-10T12:43:00Z

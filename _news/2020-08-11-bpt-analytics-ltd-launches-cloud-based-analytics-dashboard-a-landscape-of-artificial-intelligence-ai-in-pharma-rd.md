@@ -1,25 +1,25 @@
 ---
 category: news
 title: "BPT Analytics Ltd. launches cloud-based analytics dashboard “A Landscape of Artificial Intelligence (AI) In Pharma R&D”"
-excerpt: "BPT Analytics Ltd. (BiopharmaTrend) a provider of web-based business intelligence dashboards for the pharmaceutical industry, launched cloud-based analytics dashboard “ A Landscape of Artificial Intelligence (AI) In Pharma R&D ”, as part of the company ..."
-publishedDateTime: 2020-08-11T17:51:00Z
-webUrl: "https://www.register-herald.com/region/bpt-analytics-ltd-launches-cloud-based-analytics-dashboard-a-landscape-of-artificial-intelligence-ai-in/article_3ef46e63-8b46-5ad9-b4be-a027feb0adb3.html"
+excerpt: "BPT Analytics Ltd. (BiopharmaTrend) a provider of web-based business intelligence dashboards for the pharmaceutical industry, launched cloud-based ana"
+publishedDateTime: 2020-08-11T18:02:00Z
+webUrl: "https://www.businesswire.com/news/home/20200811005513/en/"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/4/c9/4c96327c-ecbb-5b23-a080-9bf08ec29c11/5f32d26cd43b2.image.jpg?resize=930%2C630"
-    width: 930
-    height: 630
+  - url: "https://mms.businesswire.com/media/20200811005513/en/811962/23/bpt_press_image_mon1.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 683
         isCached: true
 
-secured: "L2CMlpWt6jxetrIbl+4miWjKemndLGP8fOP+WWTDJuwXI8SgQeKvY/qpkgc184NTIB39l3Vs/L6YnRKlVuO1SnQlpBemkww/6wnRt39ORTkh5jY2rNrbkEMt+ktT1lWsnNbBwfr1IA+bIvViEQxhSqjJcYE7VnVShK+DeaelBi7EzO3vjuBIvMwJ6q5EsvIsoSrLLpthmPLmvNdA7BkFItmm+9xUa/xotFCepBi6UqDBlTD6+ay+Z0HWKCL01OBCXi8L8tyvVpUrpgMcY2zpb923NZo+7O+juEdSgPHPbaeaTfG7rIu2I+TB4CHQCzrztEhE093ZrR3/xFv96dCz1g==;iqxODM4c/28hjz/9wjsYOg=="
+secured: "aYBUIhzIPCsQnN7+CaOFUvl1ranFNzrcXdrSf7guDGRrznd+H3Lgwk2Pd7MuIBaITaL16U2qNZwefHHQcu5PyD2HzcfOOaneEXQX+mWS0dcf9KqI3i4InK0vZeNPYsMOIVHnsrm2m/4rDAcALJbkwvBIrH2uSPd53L+sWWxmDOT+lyjp1qgu+2Qhg6RQ1ieLIQ4VX7+6QqXEqkH09X5diMM1qNtmRXtAzFUQzoX00iLXUN02BwGXH2ZH5PD81ZM28sh2lhogoh7gChm2aIGJIvyBBv4KCCVTMYvSoKorThgN0lT+IWycehkNDlZ572QQt0em4pL6ymRU+EPi9YYeDA==;pONRJR2KIYEaySDWxhS4rA=="
 ---
 

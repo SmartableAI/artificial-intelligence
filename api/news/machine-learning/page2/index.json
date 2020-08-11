@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-29-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
+      "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
+      "excerpt": "The software is called Cloud AutoML Vision. In an accompanying blog post, the chief scientist of Google’s Cloud AI division explains how the software can help users without machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuscxid9fobckrwjepfk.png",
+          "width": 800,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-supply-chain-resiliency-begins-in-the-cloud.md",
       "title": "Supply Chain Resiliency Begins In The Cloud",
       "excerpt": "As our lives and work continue to adjust, it’s important to retain the many lessons the pandemic has taught us and think about how we can build more resilient supply chains.",
@@ -811,6 +861,48 @@
       ]
     },
     {
+      "path": "_news/2020-07-24-tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from predictive analytics to create real business value, with better ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-24T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-machine-learning-how-embeddings-make-complex-data-simple.md",
       "title": "Machine learning: How embeddings make complex data simple",
       "excerpt": "Working with non-numerical data can be tough, even for experienced data scientists. A typical machine learning model expects its features to be numbers, not words, emails, website pages ...",
@@ -1272,97 +1364,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning.md",
-      "title": "Save half the cost off a 2-Yr subscription to Busuu language learning",
-      "excerpt": "Busuu is the world's largest community for language learning, providing courses in 12 different languages on web and mobile to more than 100 million learners worldwide. Save half off today!",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595320043_product_41710_product_shots1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
-      "publishedDateTime": "2020-07-21T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms.md",
-      "title": "QC Ware Races Ahead With Breakthrough in Quantum Machine Learning Algorithms",
-      "excerpt": "QC Ware, the leader in enterprise software and services for quantum computing, today announced a significant breakthrough in quant",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443",
-      "publishedDateTime": "2020-07-21T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

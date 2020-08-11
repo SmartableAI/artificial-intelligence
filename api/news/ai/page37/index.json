@@ -2,6 +2,137 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-07-08-facebook-civil-rights-audit-urges-mandatory-algorithmic-bias-detection.md",
+      "title": "Facebook civil rights audit urges ‘mandatory’ algorithmic bias detection",
+      "excerpt": "An independent civil rights review found the company's efforts to detect algorithmic bias are falling short and leave users vulnerable to manipulation.",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2020/07/NRP-Civil_Rights_Audit_Report_banner_FINAL.jpg?fit=4000%2C2251",
+          "width": 4000,
+          "height": 2251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
+      "publishedDateTime": "2020-07-08T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19.md",
+      "title": "Run:AI Supports AI Centre to Speed Up Machine Learning, Particularly in the Fight Against Covid-19",
+      "excerpt": "AI, a company virtualizing AI infrastructure, today announced that it is working with the London Medical Imaging & Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19-301090026.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts.md",
+      "title": "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts",
+      "excerpt": "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
+      "publishedDateTime": "2020-07-08T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-fintech-industry-expert-rates-vantagepoint-ai-software-as-highly-recommended.md",
       "title": "FinTech Industry Expert Rates VantagePoint AI Software As \"Highly Recommended\"",
       "excerpt": "Legendary FinTech Editor Darrell Jobman Reviews VantagePoint Software in the latest edition of TradersWorld MagazineWesley Chapel, Florida, July",
@@ -1212,154 +1343,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-corelogic-launches-ai-driven-platform-for-real-estate-agents.md",
-      "title": "CoreLogic launches AI driven platform for real estate agents",
-      "excerpt": "CoreLogic said that OneHome streamlines communication between agents and home buyers during the purchase process, while also providing access to financing, insurance and home improvement providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2016/04/20/47a3b2bf-44da-4ee6-b992-835438f05049/thumbnail/1200x675/a5ea8a156af5329ed76d0bde668d79bc/istock000079198859medium.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "CoreLogic launches AI driven platform for real estate agents",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
-      "publishedDateTime": "2020-07-07T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025.md",
-      "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
-      "excerpt": "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-adobe-tests-an-ai-recommendation-tool-for-headlines-and-images.md",
-      "title": "Adobe tests an AI recommendation tool for headlines and images",
-      "excerpt": "Team members at Adobe have built a new way to use artificial intelligence to automatically personalize a blog for different visitors. This tool was built as part of the Adobe Sneaks program, where employees can create demos to show off new ideas,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/07/adobe-ai-for-content-creators/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/For-Thrillseekers-copy.jpg?w=680",
-          "width": 680,
-          "height": 292,
-          "title": "Adobe tests an AI recommendation tool for headlines and images",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/07/adobe-ai-for-content-creators/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/07/adobe-ai-for-content-creators/amp/",
-      "publishedDateTime": "2020-07-07T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

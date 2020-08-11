@@ -2,27 +2,27 @@
 category: news
 title: "Road test: Chinese 'robotaxis' take riders for a spin"
 excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-publishedDateTime: 2020-08-09T09:45:00Z
-webUrl: "https://www.thejakartapost.com/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
-ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
-cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
+publishedDateTime: 2020-08-09T04:57:00Z
+webUrl: "https://www.france24.com/en/20200809-road-test-chinese-robotaxis-take-riders-for-a-spin"
+ampWebUrl: "https://amp.france24.com/en/20200809-road-test-chinese-robotaxis-take-riders-for-a-spin"
+cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/20200809-road-test-chinese-robotaxis-take-riders-for-a-spin"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: The Jakarta Post
-  domain: thejakartapost.com
+  name: France 24
+  domain: france24.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img.jakpost.net/c/2020/08/09/2020_08_09_101962_1596964560._medium.jpg"
-    width: 747
-    height: 497
+  - url: "https://s.france24.com/media/display/5be5a52e-d9fc-11ea-abd2-005056a98db9/w:1280/p:16x9/d758857655228467338aada6d7c398b52acf5ca4.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -50,6 +50,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "GK4a8FwFIws3k3DBiRgccilWs/w3YHEfPN5Te1gLZuD/sR/FmjGsGAueupdubr5e9KRPHyu2odSk+CIHAM4g+lMzYZhdUtgRSCcp4ZTVLPooXluj6XKe8HHw/aNBEpkdOzByH0UxgeCFdCkWpcoqUy1moMulni9MBsIRGNxSpYf7kNn79/+em900+4pagoPknH+muxaFUHaebT8BBJEQLw93aT7HU9kPItSPedUnxXDh6m76N7I7HIYl6eCzauPQo6e8KRGrjvw7tg4c53eveGAz5QUQTNlysgc+zgrvgXa3axmrQ4qZ4UwNiNmcLGKzkpGgv/VG7zEABCrjeCxbvA==;p6Ba8L7WYNFqXhVgwtOBTw=="
+secured: "mSirvpKvTCkB31ZvrZiaiqb9Zkbh0wXCrH5NETg9jG4rPorrPOXTcyWNWIuWVW1sch5u5RTiKImd+FHXbIxOCTiv6HfYdwZKEVaf52gIpVB5bB0zCmrqezVzRxb40tb4DbX9xMPJoQOT17tiElc2UJF46caPOUSwQoDAcqay+C/Bcz49r01B+JK48ovkLqURGNah4uPRbbe5hJV4bmi65gIKfgw0BAO9OvE2NJ750rzoJm/3rX+i9wgH3X/Vkg0LLti5tMHOk4qvCfsbkAvaaD8MPtoRf7kKjc2xTqqBgNzrP0y4O2CZ7T9yh7ZPpLdJgAOeD9p7l8QTuQsBwBMS/w==;xm5Nz5t5QKuZQsjS9k/jXg=="
 ---
 

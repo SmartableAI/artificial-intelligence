@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/securing-amazon-comprehend-api-calls-with-aws-privatelink/</loc>
+    <lastmod>2020-08-11T12:31:10-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibm.com/blogs/watson/2020/08/uncover-hidden-risks-with-ai-enabled-grc-platform/</loc>
+    <lastmod>2020-08-11T11:28:27-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/</loc>
     <lastmod>2020-08-11T10:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -547,6 +559,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/</loc>
+    <lastmod>2020-08-06T06:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122</loc>
     <lastmod>2020-08-06T06:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -597,6 +615,12 @@
   <url>
     <loc>https://www.infoworld.com/article/3568680/is-the-carbon-footprint-of-ai-too-big.html</loc>
     <lastmod>2020-08-06T03:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nature.com/articles/s41598-020-70149-0</loc>
+    <lastmod>2020-08-06T02:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -997,12 +1021,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528</loc>
-    <lastmod>2020-08-04T05:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html</loc>
     <lastmod>2020-08-04T05:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1053,6 +1071,12 @@
   <url>
     <loc>https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/</loc>
     <lastmod>2020-08-03T22:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
+    <lastmod>2020-08-03T19:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1561,8 +1585,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator</loc>
-    <lastmod>2020-07-30T09:21:00-07:00</lastmod>
+    <loc>https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss</loc>
+    <lastmod>2020-07-30T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

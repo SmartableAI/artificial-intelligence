@@ -7,8 +7,8 @@ webUrl: "https://www.cio.com/article/3570511/how-first-abu-dhabi-bank-uses-cloud
 ampWebUrl: "https://www.cio.com/article/3570511/how-first-abu-dhabi-bank-uses-cloud-mobile-tech-to-stay-competitive.amp.html"
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3570511/how-first-abu-dhabi-bank-uses-cloud-mobile-tech-to-stay-competitive.amp.html"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/08/yuri-misnik-100853907-large.jpg"

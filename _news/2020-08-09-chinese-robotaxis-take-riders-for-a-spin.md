@@ -26,19 +26,19 @@ images:
 related:
   - title: "Road test: Chinese 'robotaxis' take riders for a spin"
     excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-    publishedDateTime: 2020-08-09T09:45:00Z
-    webUrl: "https://www.thejakartapost.com/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
+    publishedDateTime: 2020-08-09T04:57:00Z
+    webUrl: "https://www.france24.com/en/20200809-road-test-chinese-robotaxis-take-riders-for-a-spin"
+    ampWebUrl: "https://amp.france24.com/en/20200809-road-test-chinese-robotaxis-take-riders-for-a-spin"
+    cdnAmpWebUrl: "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/20200809-road-test-chinese-robotaxis-take-riders-for-a-spin"
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
+      name: France 24
+      domain: france24.com
     quality: 44
     images:
-      - url: "https://img.jakpost.net/c/2020/08/09/2020_08_09_101962_1596964560._medium.jpg"
-        width: 747
-        height: 497
+      - url: "https://s.france24.com/media/display/5be5a52e-d9fc-11ea-abd2-005056a98db9/w:1280/p:16x9/d758857655228467338aada6d7c398b52acf5ca4.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Road test: Chinese 'robotaxis' take riders for a spin"
     excerpt: "Chinese entrants in the race to put autonomous vehicles on the road are bringing \"robotaxis\" online in hopes that a hired-car format can be the key to unlocking wide acceptance of the futuristic technology."
@@ -50,6 +50,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "UnnCJtzTFGEj1lfg5lE6rHPwd/qBsGKM+ivNngh/kP5yw6cSoWrNrYzhfMs2H6uBeAHE5OSm4LtxQRcYxq3Ya4pWL6uWAfM+oRvJ9ACNTK/NsQ809G35GQZLShpEz6odkq2/tgujWZ3hOpjJZRE0c0rvxsfTJVwLhVKf8vAFWnuuMa2nou0jm+fk4UBt+279SWp1e8RDB3Jp0m4G4CCbvQUwnrjT89THu4LXBvYXSMzBoX6Z6uw7doSr8B7I/RHYODriHe0iitVC3DVL1PRUqD+6sBeSjxtr41YiJ0B0P6peLoNK4PZLExZWp4XoWusXcxUSZi4UsreyQ7y0J/a3dw==;w0CTccYrdihL3pZWsZdgTA=="
+secured: "i0+OqWUEzeGUvo5nt+NSlIxsOD0K28Ifg3fZBX17frC3kAzmI5g17v4eySFu9jZC4bODwJO1MPS5s3AkCfIImLUSgQ2yx0LV1zCjdq0qiGA3GfOUqQ53MJNvHUpwRP7Vq+LmH3JK1bNx7aG+80L3E0PB1Lph+P1lg2mTPKbGp1XrwTtJMwUfLxtqXzpVtPi/UIy0GTzTqPZb2Onw7sWRDykRLrKew8qznu2ZljCzOyfsN5ElXqK9XjMxVu7W35OXP90HGPvgToQGfEihuzNSNNuFyNCu+kbba/USJXtt66WiykBfUCG/INegT0qNGyuvjVUblWH+7VLhINeKwbEaXw==;WAC8XqRBGnIpmWxWgxJRhw=="
 ---
 

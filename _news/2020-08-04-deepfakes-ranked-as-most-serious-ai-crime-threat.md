@@ -1,27 +1,25 @@
 ---
 category: news
 title: "'Deepfakes' ranked as most serious AI crime threat"
-excerpt: "Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence ... These are using driverless vehicles as weapons, crafting more ..."
-publishedDateTime: 2020-08-04T12:31:00Z
-webUrl: "https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
-ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
-cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
+excerpt: "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report."
+publishedDateTime: 2020-08-04T02:44:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php"
 type: article
 
 provider:
-  name: India TV
-  domain: indiatvnews.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/ai-1596543975.jpg"
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
     width: 1200
-    height: 676
+    height: 675
     isCached: true
 
-secured: "ePQh9y5pUT2zgUNmGvmNNCEqjpZYgpDcAS7keEUtXwXxJT/EPUsikaXXv7LN+nrLyZ4K6TO1H4C4uXCDy0cd0XdrmWO+nv/d4C0CG5MbO7/iCAdXZGUJQ/Y2ow8BFZA09hXsD246z88PnmkSxugS+eYMRszAx+Bgi9zpg4qF8OCL9GpLj8zIw1FMkbL8/3eCipm7k09TVzxarJGEJT4vfsWyadxACRL5mcklg/Ibh0O+/IlL2JzkKQB7rrzQ0/q6Bj18EXcWlw/26vKpdEC1TwIJ1ccilCUckHfsfxfrSCMLRa/jnU0jlX+DjHDBDk+mTOaKlkZ3AjhfX8SyjzSY6A==;f9c/Jox7QUWVsHwrqDcjSA=="
+secured: "i2JIQF0VPzGKt+bUXVb9Nj+jicS6oVAJIo18GC4jA1qUnXS+ya2lb+Hroc+ggUIkYii7sotzj/OBJb20svZEIGLh5xrIKyDXMkyhGAbwQEwMBVltoXEGoyEg5fNjO7jSFp+yc1Yh1ZpNqk1xLr29FwS37M3St2gcHhweFsIx7O0fGkDCp7gueq+Q/CeeX5WzXadyvPolzCpxpTEY3xnMXJwbPuo1GCQOfQChjAuetjTFLj5wlAfWhwaAlFW5qY99GSXZ1f8IxldR1CsYI+HZ1WoawVhX/TncVlL/fh0IaMitCP/MkOsKZ0x/blDYoI5jm3YEsWbxzASP6Yo5+ouCrw==;lclOF79uEG019HMay+8Mbg=="
 ---
 
