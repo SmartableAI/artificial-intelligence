@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-mot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Hyundai and Aptiv form Motional self-driving tech joint venture"
+    excerpt: "Hyundai and automotive supplier Aptiv (formerly Delphi) on Tuesday announced a new self-driving technology joint venture by the name of Motional. The 50:50 joint venture is valued at $4 billion and was first announced last fall."
+    publishedDateTime: 2020-08-11T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1125165_hyundai-and-aptiv-form-motional-self-driving-tech-joint-venture"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/motional-self-driving-car-prototype_100755795_h.jpg"
+        width: 1920
+        height: 1192
+        isCached: true
   - title: "Hyundai-Aptiv self-driving JV now named Motional"
     excerpt: "The Hyundai-Aptiv autonomous driving joint venture will go by the name Motional. The $4 billion self-driving joint venture announced Tuesday that its brand name is a combination of the words \"motion\" and \"emotional."
     publishedDateTime: 2020-08-11T12:00:00Z
@@ -88,6 +102,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/CemIL2HpHmhsEnhOKhn9yaxoRbh0n/CWE9kyyDtvEKKzq69yXzjAWwZUdNME0J8upX6E/PpDxz4fNiZ22jeoUDUwPr5q7NUZrBqUDPvpFCKVNDntXDpz6RJ6QJHa1naSfwcFFq+asCNMDSWLc2dv4wm5kwn66u6BmUe67KMXCV3jAkwOVNtehciy+Z/OUybwv++I+TfXIJivJAs0XKFM0mT95eyUM3CxqW3TCibiN+OHXYEG2JTWnxLtVHYpUyMGJpF1T/wwkvHLb9CmiHzofxECWzaCv1f0EibzmMerIbgvRxcpcYyt+qGkOcieQo5J6+n0t45pUpROEpePED2AA==;6wJi1DOmkPnap5igBBbx7A=="
+secured: "bCMZ/VGSfEX1aLyShFZsq2Was7aeI5iuvQ6BFWlkDgLWs2Hc8Z/mTnkobqgyw9mBFmeiNe4Lv51DlkKPnqHqHDhp4gb8xFuiqLU4nNl+U9EnTlR9u47P09cos/Sn5xMhfR3bjBKKeWjg58iBfVLF6QPhyeK5eEyP1058pMaLHIM+Hn+tWbhVObHw68d0rqi2SBokI4V8ubbnafFrFY59qbPexJmNtv9uLcGDBGMDvxBh7DzoytE0tC65QzL/zUJf/yiyZgKJtBFurIH/HUkHdlUjj6s2EntP+2bSHXF7UoUr6VWZqAarmxTQFhTaZXZpvkoC4MFJxpQk9VQX4Jn6JZQF29h7ndk9/y7VBaJwBwusxk6ZzZ+4atgbsq3Gz5fAO9xxoq/3AAdaHQ9N/Lk3eSmLXBRfC9hAVwdu1u8dAkz20lLuleJAi3isXkBolt9r2FPc1fFXrrUpulhOyMN5AgRqVA5xkd/Eftdb4YJtUNkg8fOxCH+qGWucs17FZpBZYZpvfK0vN5xuncQ1pWqUng==;lqpDtp7xJwS+oDWntD0CDw=="
 ---
 

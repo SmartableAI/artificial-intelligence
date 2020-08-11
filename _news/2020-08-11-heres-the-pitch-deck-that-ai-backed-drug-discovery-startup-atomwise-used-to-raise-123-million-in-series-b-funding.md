@@ -51,7 +51,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/atom.png"
         width: 886
@@ -69,6 +69,6 @@ related:
       domain: bizjournals.com
     quality: 37
 
-secured: "NBNnIzLmNS1n/dkaOUfobeayhhzLDC8tu7jFciGJNLSI57xviOWdYuyqRgBCWzqvydvem+wDjLORqylNm+rxgS7/H+eb1gt80L7w7wT0VhI/wubRDXqxPkmjR7rUI6WP5isAfewFT3Hwsz1Si1FFWIYtXR/QM52DmaY6v9662TgWsMsq3zatMjsrZpzrjdU8odXOPo++ORzJARg5lEBQlEGcFV0oULVY8iDQjKVWAWVRj5hAesuG7x1YibNoGReJ4Oo2CiTalFZv4Lz0PUFBnaa5tXv2x8JbMmr2lZ5TlEUMC/txQBpfKXQC5NGmgQWfWwRD0LnyfUdWj2asAD776w==;baDjUcxxjBVzIWUKc/NMLQ=="
+secured: "fQ2lCcn3jNohKn02sa12svZihCcPoG/aT5QTuLyxKiNY9m52F2+XfYW/3nMXxPT4ppR/IZl8YLOW4cPHgqqRrf8ZZ0msNg2TuD6qU1QAn0EZB0YdZhQblKANb5f4F/TGq3i3caOlqQlnzqB8Grx2SCrCa/bLN+oPL1VvIAWRtK/KP0og3p3czv631Cse5E4HVbDtWG7gPlZDaQnQ8Z4+BmSHpP4PT/21NsuYrGVvjNIehqjsx3IyAYTN29RWMHwV0KFrO3iz6u5uNoHLJ5tTvy0I0LGqhAoCMB1/N+w6rd21pqMXcY1I/GYPgX3aQXoKWx8ZkaUUD0KPxdwQCo+XstS3NSw7KtrPQgbgTlpMRyyv+nmVYFB/mKpAU1wRwo69UdUyTyPJ+FEH4DrN40/NsokiphG6EGrol7wx5ZC1wOHuuW5bZjV8QTQ6T4O4+PkLfiJ5aotVCfSlUFP8S9a18gd2cmq/eeVEQ5LQoxK9JD74mIC7mSlHoHYososp8N27Z+/zg9iLEh+lQdn3TczYoA==;3+gSVszkd5MZF8v7wTZi1w=="
 ---
 

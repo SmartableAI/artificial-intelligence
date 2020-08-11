@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
+    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8</loc>
     <lastmod>2020-08-11T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -237,6 +243,12 @@
   <url>
     <loc>https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.html</loc>
     <lastmod>2020-08-10T03:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.html</loc>
+    <lastmod>2020-08-10T03:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -931,12 +943,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease</loc>
-    <lastmod>2020-08-04T06:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
     <lastmod>2020-08-04T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -981,6 +987,12 @@
   <url>
     <loc>https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes</loc>
     <lastmod>2020-08-04T04:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865</loc>
+    <lastmod>2020-08-04T04:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1149,6 +1161,12 @@
   <url>
     <loc>https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-9149653</loc>
     <lastmod>2020-08-03T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wallstreet-online.de/nachricht/12790951-leveris-conor-fennelly-on-reinventing-banking-through-digital-technology-fintech-magazine</loc>
+    <lastmod>2020-08-03T03:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2031,6 +2049,12 @@
   <url>
     <loc>https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/</loc>
     <lastmod>2020-07-28T08:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html</loc>
+    <lastmod>2020-07-28T08:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

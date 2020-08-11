@@ -3,9 +3,9 @@ category: news
 title: "Global Artificial Intelligence (AI) in Healthcare Market Research with COVID-19 After Effects, Development Factors and Growth Analysis (2020-2026)"
 excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) in Healthcare Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
 publishedDateTime: 2020-08-11T11:24:00Z
-webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11"
 type: article
-quality: 44
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -213,6 +214,6 @@ related:
         height: 420
         isCached: true
 
-secured: "ns5KysIsLOR+n/7Jk18MjRPYwrsJeKKpkcEFDAfKpnLZiQaE88SKKPixwPTPATVAkavEoWoxVSFTuJZ8ffMOeyxLk/hP6MV3piL05kAnIdW2Djr32Stjx6DKNywRkcllNCyZfAwQs7ziOyYRgQKzP/P7FZsQBeRXfCAQOf7V15nCqm8MflMCG6tcdH4GmkiYWHvmL6q8YlqHlFx4lqJL6xl4G3qmZ+pqezuoxZVvfUMX2Ocju4aKEdpnte8bAIO393/7+2TJWv3wEYXva+HWuQzMWqKIg+TZ6B1NeKxRyYUxS/3ltc5niO0lbirblSw+6wyqG3APWY3zPG4Q4fVGcQ==;bxUxoVSpv0zm9x3owDMwqw=="
+secured: "VahfbZtsQwXHopkkOzZ/Y7C8L6RTravtsPLUcmuH+ouXSLyrV2HAXFX0BpP81/f/qW3LNb9SWI8u62CDy+t7au7vnhLQclMJE9z05cOiz/EI5ZEKJi/r7ybZ5ckWXWw3ggjbEnOc04vPxcUuIdH0wh+krQvLUpVVxmZC9zuE/7NBeXPxy61KNYJzX025iuo0jkjShqnUgNawy3GDbgkywBBKg26CqtnRKsceTH6dmG2jOjTJ6wQUb+nIfG41JIDbXWagIEBHF/4dZlwxa4ExvrxuvNiiwH/5VryobQX3Lw2qqAAIACISeO6gPdgsJ6k1n4H4E4uBbntThdG2oTlK2Q==;y8I/GcBBOOIbxOaJEY+x2g=="
 ---
 

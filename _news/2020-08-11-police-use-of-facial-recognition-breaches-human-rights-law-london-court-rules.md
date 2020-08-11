@@ -74,6 +74,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "UK court finds facial recognition technology used by police was unlawful"
+    excerpt: "The use of automatic facial recognition technology by South Wales Police was unlawful, according to the Court of Appeal."
+    publishedDateTime: 2020-08-11T14:04:00Z
+    webUrl: "https://www.cnbc.com/2020/08/11/swp-facial-recognition-unlawful.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/08/11/swp-facial-recognition-unlawful.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/11/swp-facial-recognition-unlawful.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 88
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Court finds some fault with UK police force’s use of facial recognition tech"
     excerpt: "Civil rights campaigners in the UK have won a legal challenge to South Wales Police’s (SWP) use of facial recognition technology. The win on appeal is being hailed as a “world-first” victory in the fight against the use of an “oppressive surveillance tool”,"
     publishedDateTime: 2020-08-11T11:45:00Z
@@ -154,6 +170,22 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "UK Police Use of Facial Recognition Ruled Unlawful"
+    excerpt: "The use of facial recognition technology by a British police force was ruled unlawful on Tuesday by the Court of Appeal in a case brought by a civil rights campaigner."
+    publishedDateTime: 2020-08-11T15:19:00Z
+    webUrl: "https://www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
+    ampWebUrl: "https://www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/AP20205626931949.jpg?fit=2500%2C1813&#038;ssl=1"
+        width: 2500
+        height: 1813
+        isCached: true
   - title: "Campaigner ‘delighted’ at Court of Appeal facial recognition technology ruling"
     excerpt: "A civil rights campaigner has expressed his delight after the Court of Appeal ruled police use of facial recognition technology interfered with privacy rights and data protection"
     publishedDateTime: 2020-08-11T13:15:00Z
@@ -212,19 +244,19 @@ related:
         width: 685
         height: 385
         isCached: true
-  - title: "UK police use of facial recognition ruled unlawful"
-    excerpt: "The Court of Appeal has ruled that South Wales Police deployed facial-recognition tools in a way which violated privacy and data protection laws and equality rules, concluding a closely watched legal battle over use of the controversial technology."
-    publishedDateTime: 2020-08-11T12:57:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2020/08/uk-police-use-of-facial-recognition-ruled-unlawful/"
+  - title: "Landmark UK court ruling finds police use of facial recognition unlawful"
+    excerpt: "A British court said on Tuesday that a police force's use of facial recognition to hunt for suspects was unlawful, in a ruling that privacy campaigners hailed as a \"major victory\" in their fight against the surveillance technology."
+    publishedDateTime: 2020-08-11T15:21:00Z
+    webUrl: "https://news.trust.org/item/20200811143409-qxket"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 38
     images:
-      - url: "https://eandt.theiet.org/media/6502/dreamstime_xl_117735807.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131751037210000000"
-        width: 1200
-        height: 450
+      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/47572cf0-7712-4263-b7a8-97c612523d24/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 708
         isCached: true
   - title: "Facial recognition tech used by South Wales Police ruled unlawful in Court of Appeal"
     excerpt: "Mr Bridges' case, which was supported by civil rights group Liberty, is believed to be the world's first legal challenge against police use"
@@ -271,6 +303,6 @@ related:
         height: 409
         isCached: true
 
-secured: "r61eyNi+hYtieG8ouzTp2feI5q1fosvmoI4IklpxsgwCAFsqFCdWINOHQ1girH1MHlsT3wBjzdEM6n4bsWQ5C4umcHnHD4tBbvewNfwJDtlFtB3rDwj1IPY7DRO9A2VlmCalz5dI5dAv3LgeWBr8j3W2L55zxSglRREibLAtBQ/zLTaZrEB83noFad++gpMWOF4cemYbF8v1sCfE8VzEv2cw267Q1kdnW8CgEPh2TBd09Qz50uT/bxzsVFRF6ylYvN+I0pVKrOz+3ZfFw78yRLwDAQl1zhVmKJ7aGK6bAd6lHkuV5pe0rriQoYVEAtXs3fKy5s0pHfPSgpTEEPKQ3w==;bZNMTQgt6Lywhk0mYZs+sw=="
+secured: "9cH2RaNtNYimbk7x+/nJCUHWLDGt0xXo1W0s1A+dXpnAnrlOKp6WMLApVxkK2sx1SjO5DSZimWPEkgInkiF/YTpRklrdPE82IP/0RlhTXVsnmyfqm2yT+kCovsgd7GM7gsKCZqNHAsRs9/WkUlWc4682dP82baUdmFHKZOYnrUOs4tjJWd1O+deABiP/2PnGqhwlTkpR/46hBS+Wtnnt27u1o26rtL9CoCoZCJ5WhIImC9uAfglNipmXzaJ9JuJOK6hU0YywJfxUWXejEZaTB1U2Yc4KvnJNFx5oDletDsqf49S7sN3H0Pzwn28TmvFFJC4oDYtRWbz8ECg2pTpk8N/zNQyKLBeNZgCNor1iFK6Q217uqXOpY8Fvtuege8qjDRuToUerFuY/C15L0DEOjtsQ9J0KY4QeCoRvYNzL49nx7xZCTstbzhOr5gkFg0Y9PBzEEogTLBJGbD+KLhAAjO6uw2FavuYZutDDkLYW4Rty1d0RvkORY6C4HZhbKelgaNkgjiIyows45GDb7KDafQ==;giMQBehzZScmIIPCUN4PoA=="
 ---
 

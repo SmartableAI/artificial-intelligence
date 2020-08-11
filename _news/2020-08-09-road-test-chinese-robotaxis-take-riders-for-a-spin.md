@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese
 cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,19 +27,17 @@ images:
 
 related:
   - title: "Chinese 'robotaxis' take riders for a spin"
-    excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-    publishedDateTime: 2020-08-09T06:55:00Z
-    webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-    ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+    excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
+    publishedDateTime: 2020-08-09T19:58:00Z
+    webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
+      name: Euronews
+      domain: euronews.com
+    quality: 24
     images:
-      - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
-        width: 750
+      - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
+        width: 1000
         height: 563
         isCached: true
   - title: "Road test: Chinese 'robotaxis' take riders for a spin"
@@ -52,6 +50,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "VIgBee92PrYOy2ne9ZVHXKDuSVhbrAZhdwIPhYQmyNn6nLc30EnI+FNYBUdqPUmQCCboyoiHhqQUcSdHzyxb0bgEXbaAt2UP7PCEFNRd2D/J42IB/6pbfPU6flN4a4mL97iDz171mcpBrsLbx5AhQgfRpGMzBkkltM7UoDcRUl0fdtiNM7OP99kzTMjm7afVrGPaCH+4GUFvyv9BBh5IPKjQKqgzIp1TWBOEb+4Ko2dqrB4Mm7AjRJS7L7RsCJZrNuCQOt2g7ffN6DivnbnIxCT8tVzVIaD/oVIQmm6KNv/962pFE0GMdrUk//BcoADJvMs8b2MIZ3g/CqtZ7O003Q==;4T+lGAz20NtSIm3PEFZNyA=="
+secured: "uAJPahHt5ebfc9mnYXZkMjREn96lVt41Z+cwCiLs1c9aJLH4XUfbEgBgoieUJmD992ZnH+wC9AYNg6Mn4k8SWI1Bf3qBY5r6HPlq2o6pD5IoWN0Re8LziaImjKwSvZd0vyepvcHxUR3uc+mW8OpjwNgz3+p1A+3so9QrsyoDLar4twWQOgzwEYeT6QkdEye3JzYHUWjd+uToUP0VFCDahertBldLq9lMlgcdVhPb3pHQmZhLV33RoEn03869jJkTjRtpJk89mKcUs/jvTzz+b0FS1AnwOBqNps9gZzw6vDnvej2+pQ6wbwVri4KeFnFXbm/qnHuywDyZPgDBVfiPYQ==;RWqOoNPvOelA7L9HXrPFLQ=="
 ---
 

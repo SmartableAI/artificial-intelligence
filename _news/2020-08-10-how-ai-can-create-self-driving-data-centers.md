@@ -8,8 +8,8 @@ ampWebUrl: "https://www.networkworld.com/article/3568354/how-ai-can-create-self-
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.amp.html"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Network World
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How AI can create self-driving data centres"
+    excerpt: "Early adopters are driving the use of AI to optimise power and cooling systems, automate predictive maintenance, and improve workload distribution."
+    publishedDateTime: 2020-08-11T02:00:00Z
+    webUrl: "https://www.reseller.co.nz/article/682051/how-ai-can-create-self-driving-data-centres/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_104995220_4.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "Cbu+N221FYlm/+thtGZuKaS2ueDHXQDZr1nOtb8EwRmXBC3+MoDzIu4fAxJqn3UNU1YjFnTQyRPYGNg9avgZYT7xGduVV9T33AlKvg22gqn9bfYafNlnuhRyeJqY9Zce7ycIFNQOR9CLOr9SbDPBnT3DnrHW49VMGQW6mmJUk2QOHVwDOheARhcb9bwBXqoHUVZ084ZU5rapzxUWQ+iFGHEqd54LmIlN4SCG3nxsHv5CDAm6dMg+SWRn4PoYMTy7WPGPBPWDs11ZptQ5o7w9qAqtZW6o1iWxLimSRyfzn6eaVkob2tUiqvQ2OfHZrvAGbX2KSiejW03ROo6LSv+u3/PjPt0NfH3JBUhlWExHg6Kj3IuSWx3hGVdBbd4fNiQ2IJvqLrK50+ipDOBn66KkeGdt/506oF5ex1WNdMtcms6eLvs/Ns9VTGeFtJEA4rqJW6TsW8KwZQtQ4EEtvhApBu+9kJ/MR+AnShLl0Mk03ft1Nuuyu4UBitLYpDdKDOBWG9kJsvRlQxxGQykm8vIVbg==;PBUFvsMGq1o9uxhdEwEFYQ=="
 ---

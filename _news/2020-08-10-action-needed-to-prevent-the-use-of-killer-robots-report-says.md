@@ -83,6 +83,22 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 51
+  - title: "Killer robots are now ‘urgent threat to humanity’ and should be BANNED, shock report warns"
+    excerpt: "KILLER robots pose an “urgent threat” to humanity and the world must come together to stop their development, a grim report warns. Human rights experts say the deadly technology, which"
+    publishedDateTime: 2020-08-11T15:43:00Z
+    webUrl: "https://www.thesun.co.uk/tech/12374252/killer-robots-threat-humanity-ban-humans-rights-watch/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/12374252/killer-robots-threat-humanity-ban-humans-rights-watch/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/12374252/killer-robots-threat-humanity-ban-humans-rights-watch/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 49
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000477540307-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Killer Robots: Growing Support for a Ban"
     excerpt: "A growing number of countries recognize a duty to save humanity from fully autonomous weapons, Human Rights Watch said in a report released today. Weapons systems that select and engage targets without meaningful human control,"
     publishedDateTime: 2020-08-10T12:56:00Z

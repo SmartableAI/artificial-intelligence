@@ -5,7 +5,7 @@ excerpt: "Artificial intelligence drug discovery startup Atomwise Inc. announced
 publishedDateTime: 2020-08-11T13:26:00Z
 webUrl: "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/atom.png"
@@ -66,6 +67,6 @@ related:
       domain: bizjournals.com
     quality: 37
 
-secured: "z0Ia0I05DMJ9kHxuSuY1loYi86dAhBMiqMpg/AgoapOAv4UUKyzu5EjcniiTk5W9m88Fr+PNZEHMe+ViRbxS6X+69Ql1K8ywdT2pVfEtf7MOvwhVRE2TjKF3t1uD0HLLrbZGivw/uoDiRSlRWwvG8MMOrzTtV2xjJD384xmVjYT1YxUxvzXBQ5kIfmnPYokS5W9HX95pKxDkv7b6LysGyDwmnrimFItXOculI+CnNuzi31IxtNGkAHLiOap0YPfyC0uxohJJtpCKg3rEObM6pmscGiSuG/gxtvXsNt1dHvQSrSGAod91br737YnGjnQPkgwRnLZxEtyhh/IDRWP09A==;EAQOBTarScvMkPksjqgstQ=="
+secured: "Q9/lcjWwZy603iRqeKibdVIMu2lvaqY8ekAnsisXK3vsS18ghC1qwPCGZXTKcZ2LBteAO30BplLD1qSdzvhVQRopjwGDIY+7avDUQqZ1LGjzWwZ41vtZqYwV5iaQVGJs+HquMEeoWxGFFN0U1lu3nCywJCrm/xTPpve6slPmo+guofW7IZhwHXlUkPgw8ZqFTOHWPzqw0p1BvTOfJfgTbggxCiOSwOjI/tfBzDRHmGI2IZXM3HAkWImI1dimlzisGLGJ7zx+6z00mijxDbouKHACaWFllFpqi4zRYfENA/bYXlfYiOq5LJ7xKScA0ZcE2786A5/PJCOfu8Zd4HQZikxCCYFCtLTKKD6z08wqGb1Flt6y6Wu265HuuU7Tj4wwD0snCKboXJCZtDwsX2t8UqIXe/XtByqEFrud/sMGcLaHbUhO3LaDHrnXk/n5b1wzwR/QGvMux+GtJtP4Yc+wDUqtyHtIQhl5Bxpfe7PUXBjAsnbWxk9iH3k/XSstpVK0;b88LfMS4MXK7Pv8NUomp7Q=="
 ---
 

@@ -69,6 +69,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Hyundai and Aptiv form Motional self-driving tech joint venture"
+    excerpt: "Hyundai and automotive supplier Aptiv (formerly Delphi) on Tuesday announced a new self-driving technology joint venture by the name of Motional. The 50:50 joint venture is valued at $4 billion and was first announced last fall."
+    publishedDateTime: 2020-08-11T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1125165_hyundai-and-aptiv-form-motional-self-driving-tech-joint-venture"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/motional-self-driving-car-prototype_100755795_h.jpg"
+        width: 1920
+        height: 1192
+        isCached: true
   - title: "Hyundai-Aptiv self-driving JV now named Motional"
     excerpt: "The Hyundai-Aptiv autonomous driving joint venture will go by the name Motional. The $4 billion self-driving joint venture announced Tuesday that its brand name is a combination of the words \"motion\" and \"emotional."
     publishedDateTime: 2020-08-11T12:00:00Z
@@ -84,6 +98,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0ZuzvI1X2a34+FAEg9AJdx9+PNpUQrKmOlERhBfbsNiq1zx7WEOsSbInF9DjJoh6YjsQzDwVXMxX1/jSVpBWLceDLMlap4VJJ3q0rpwxtkWf5WlSxbvNaYnOecTDx5EaLE+VmUlGl630uZZViXXsxbbj1xxemWR4M8w9u2kNsqvjc8DGQ8EIt8Zgb/4nglzLK+cq/XMbBdhvZOg4Q7Mv0kKXK3WzTBn8PvdG+YiQMn60LMqxMc/dJ7SNon7918uMzGAiNBJbOH+pgf0qLpbYiqYmdDNNy1qQ54QgpKC3AD+EgscoCDU051NmPVMGdZq3HqdEoCvq7/HgQGDE2whGoA==;G1Y5wEQ/o1MboeFD0rtYlQ=="
+secured: "dS/UuUEJ8v5A9HmsQtIynZ5O5ElUf1zMBVFnyfx8JFMp72wCi6uTpmxybxMgCGPo5LCltTVWS8bqWFACw8MZUlay+2QIY7uiSMXYqyar082cZLg7ddT6/iqUNmPBUa/q25JmiYYiyMrtgvMXestT6cOuzV+iPwaRMP4SuBu1PFwDhfH43Zu/+juWApb7w/82T8ghftAYJ670UsFHw5jwSiUAhe2uojscZJenpMRqEeLM/bJYkolDpFG4cT/eKIeWP+DF34pDReCBx+DKJNo5N/wnKiu17BT7LG3WVNIiOqlR2rDyuhluLp8mgQsymWW4GDmQGGspHIhcexxG5f/K1KInzBVak3XUkZaZmKbIXjfyUlAgUFC1Yx73g5+FVSXEIPMNFFJpJEAO5np+YDmyAfNeYBU4wV6IZVm3c33zjrxFa6R1ZoN0jx/uT6FozMohqDRllSwKbIvx3IHnl3m0FXcUNUh0vxcddPcyiPoPI9NaXZGW9omuGFTfzwrSoGL9zBP2NJb7m3tIqG3LqeuJaA==;rAC1FUiE9vDpDMTF3YqpJQ=="
 ---
 
