@@ -26,7 +26,7 @@ related:
   - title: "Artificial Intelligence in Healthcare Market 2019 All Major Industrial Aspects and COVID-19 Impact Analysis"
     excerpt: "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,"
     publishedDateTime: 2020-08-10T15:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10?tesla=y"
     type: article
     provider:
       name: MarketWatch

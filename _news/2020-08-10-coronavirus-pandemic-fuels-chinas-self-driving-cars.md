@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-10T10:03:00Z
 webUrl: "https://www.wsj.com/video/coronavirus-pandemic-fuels-chinas-self-driving-cars/C88A4535-BAA5-4F8F-A9D5-17CEA7A86DA7.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Wall Street Journal
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Russian company Yandex sets up self-driving car testing in Ann Arbor, Michigan"
-    excerpt: "In fact, the company released a video of one of its self-driving test Priuses driving around Ann Arbor for an hour with no human intervention (that we can see) and no human in the"
-    publishedDateTime: 2020-08-06T11:15:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/yandex-russia-self-driving-car-testing-michigan/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/yandex-russia-self-driving-car-testing-michigan/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/yandex-russia-self-driving-car-testing-michigan/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 70
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/UQHd_pKemBXd_8tljLagLCPNyoU=/2020/01/10/1878da6b-0a3e-45eb-ab10-ecd471a78ff0/yandex-1.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Yandex, Uber’s Russian Partner, Kicks Off Self-Driving Car Tests In Ann Arbor"
     excerpt: "The Russian tech company has brought its self-driving vehicle program to the U.S. after years of testing in Moscow and Tel Aviv."
     publishedDateTime: 2020-08-06T18:05:00Z

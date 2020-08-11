@@ -2,22 +2,24 @@
 category: news
 title: "Arkieva Releases Their New Machine Learning Forecasting And ROI Tool, Swifcast"
 excerpt: "Arkieva, Inc., a leading designer, and provider of the Arkieva suite of Advanced Planning and Scheduling (APS) software tools for manufacturing companies today announced the launch of their new machine learning forecasting and ROI tool,"
-publishedDateTime: 2020-08-03T13:36:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast-1029462064"
+publishedDateTime: 2020-08-03T13:07:00Z
+webUrl: "https://apnews.com/PR Newswire/0738529a0736866753b74b04ad64224a"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
-secured: "KavWKeYCz0A3LtpNqqK/TJgoHkeV7iNGByK0Jl4cqqvEsYKQIzcfpaUB4LrRr5GQ8V7TE1pe/vANWIu8Tl8HzCaIL2VwmI3X12RmQz9HHRVgQvgnZ4YzlbktOTxGrEAIpxJ6K3Nhs6bDpYTOowPTkcoxn18Met9oi3XB4tYTFPNfzNAq2SDK1GwiMMWxungYLdmkJL651c8zAGn/7TxfuE1HxXsUkvwCa0H7IDwh3y3Uduam92q0lWXWEZ8AQiFCq5eQDje8MDef/cFweESBcG7b589Vpc1Gk1vyyJEjJ3ysjYcexqXRh8vYrovEuK3ml86BxRoWkFs5C/6DAs7CKg==;2wWr4bnvyW7+jl8iO7WgIQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "vKV9XY80rZV2s6FX9O6XvSGiLPWDeFahcZn2UnUwNfEA2qYpUBxc5dqYlk0TmpR0D6JqT9pWU69/0MKBAnVR/xqWcaLNxHq1Eo3/ctXFaEnDYkKNZpgn+dTgNqrWSIndtuO2QPMrmaJDKOZqApXDla8I7vTIFnIOaFyeKQQ2PCzKqdHx0tfKAYZz+m6YMl5jtj3THBCPKbfbk8cp6cKKPKYWSb4C/8/FQ4AP7LHUIY7GwUeJmE2ObgapX97W0RL+B62E8wUG/3qXoa25LBNcOSgoXe09fGHUF9sZialsfpQkcR0490PPZTrzhp5wfBTkdI4usyN/x7fzauj4/dLOjQ==;xbkDJQPW/Ys0iDR4GZ2CJw=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://www.physiciansweekly.com/the-evolution-of-diabetic-retinopathy-
 ampWebUrl: "https://www.physiciansweekly.com/the-evolution-of-diabetic-retinopathy-screening-programmes-a-chronology-of-retinal-photography-from-35-mm-slides-to-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/the-evolution-of-diabetic-retinopathy-screening-programmes-a-chronology-of-retinal-photography-from-35-mm-slides-to-artificial-intelligence/amp/"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.physiciansweekly.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg"

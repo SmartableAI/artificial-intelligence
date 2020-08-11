@@ -5,9 +5,6 @@ excerpt: "In a significant advance in the development of Artificial General Inte
 publishedDateTime: 2020-08-06T12:39:00Z
 webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer-301106973.html"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: PR Newswire
@@ -22,6 +19,6 @@ images:
     height: 315
     isCached: true
 
-secured: "vAQa1H+PRhtiWGhj+/MEf1lRodL6c6R4qRiLlfHW9EPUuWfWbFURO9mbTMadw1rhIB6fDFId6lJYcycQgb1csg805bu7oW999dAra4bX5A2ufxJaWRWNr7SZv3IA7RfQh3686AGlMcLzXwuvP3aW/0MI6P6gQrmPqqN1OUsZSeUskJy4nw5bi2JwuFaa3i10N/FqjXk7mi4KVGoDku0acvlORUYCks/ktQLIM+t+mkuRaQ303UkwkXsvfUFLxJRu4DinNpbEHmlWASfoxcYXglBMihsTqDFSM/mXKR6F4+lyQPZVZ77ClLNq2fu1ajyhNGyMwiJ9l6WDQpDtOZZBJQ==;dzG43aMnHxbvYXbXvR1c+Q=="
+secured: "u7V+kn++rDO7N15y4ZZvMWvyrCGbz57hpa+Z4+ahcNu4OCySj2Hf9hAEYIhLZ1XMB+1kBDK6JA+rpAFDRlBfBdUqXL8h2BwJArsL3HZ9lH7NN+AGOomEFQPjfyeB/TFDPUBUgWBXljM5Eqyrce6RWhk80ShMo/j8eXv+FZxlNiD6UaHwb1DezLtNm/XJEZlXuOAMavwLfch/n+N+L7clE7WYHVXeJhZvlGerLVcsiV0DVyHq3wXuyl2XZXv0lMNjz2vyLNFlKYSpCxEVe1ezTpIwwSO4CpDU0jk/2NuwXU79dfFqb/JgDX6ernvwH4/7/4EnO4EnOmbaZtlGkn5MYg==;SsfE/EBhVsjOvsgwf7Pv4A=="
 ---
 

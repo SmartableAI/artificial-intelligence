@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-09T13:00:00Z
 webUrl: "https://www.wired.com/story/a-british-ai-tool-to-predict-violent-crime-is-too-flawed-to-use/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police built an AI to predict violent crime. It was seriously flawed"
-    excerpt: "A Home Office-funded project that used artificial intelligence to predict gun and knife crime was found to be wildly inaccurate"
-    publishedDateTime: 2020-08-06T11:13:00Z
-    webUrl: "https://www.wired.co.uk/article/police-violence-prediction-ndas"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/Q7WBgokZrb2/crop/1440/0.5235602094240838/f/wired-facialrec.jpg"
-        width: 1440
-        height: 753
-        isCached: true
   - title: "Police scrap artificial intelligence tool to predict violence"
     excerpt: "An artificial intelligence programme designed to predict serious violence has been scrapped after its findings were found to be wildly inaccurate.The predictive programme, piloted by West Midlands and"
     publishedDateTime: 2020-08-07T23:01:00Z

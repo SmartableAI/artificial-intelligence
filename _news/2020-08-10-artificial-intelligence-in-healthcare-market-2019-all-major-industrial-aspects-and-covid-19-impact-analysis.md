@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence in Healthcare Market 2019 All Major Industrial Aspects and COVID-19 Impact Analysis"
 excerpt: "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,"
 publishedDateTime: 2020-08-10T15:54:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10?tesla=y"
 type: article
 quality: 66
 heat: 76
@@ -40,6 +40,6 @@ related:
       domain: businessinsider.com
     quality: 52
 
-secured: "lyHXVmIRkFeKQ+NVi2AWZqqZZ22N5dLW4rwQj/NHniNO1twj/Qn9udX7/eZdiMnkvNJRWybDqg6PhtTLqR1/CXAXTl1uLZ1n+6h6V1zQOZwz5ySO8ZfEZkn12unm8OIkqLMzR9fdtfS3RZ/ARXSR35YVFfeWaQNuEHy5lsofavFqfEToxq+t2/2jFQ5OTvV5tVDEA9D/q/cpJO39aO8TRIJ0PJcpdnOmZHbCWlhShSYdVzRlfA7pgGV+LMvH3zYs5q0KhoL9MKjjmKwMz7SBd8wVThH809lAVRVdxASv5CR17O3Vf5JSB0zzhsUy4BusxuCbltebJYVBFRkkJeQ61A==;7YBWmnBake6/xCoEKdph2g=="
+secured: "oU46gInVugr4JFA1BsiMQmZi4mupBKBNBVH3a3YKmQ64NwMIQUa1Kt8y0u5o4A7PXZQc+K9KGzyfeD0pUUAh7eF+exllWjEZ3fgJl0mf3wZRBRI7zJE2SGMb8R6zqvkrgJoJocNG9bySmdcQG57bHluHaNXCYNUYZTw7Vk4rRJ66ZQPuAEdpQ2PJJuNsegORNiPxSeCncu7fo9J4ueHoZ6hc0u61h5xHMFFOtPdNpJwjFV6QMjWjXZIDcBxonsGXD+45bYun3k8Y+q2pgCGShbTSApVl3JiXakPTLpKCAok4sC1i3stEpoIMUVbfsYLbKO+TdkYAXgwzcmdkUy33AA==;YOzRbK+B2A79Arp/qeGAuw=="
 ---
 
