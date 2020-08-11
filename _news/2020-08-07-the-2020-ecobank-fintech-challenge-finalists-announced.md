@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ecobank Group announces the 2020 Fintech Challenge Finalists"
-    excerpt: "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
-    publishedDateTime: 2020-08-06T23:26:00Z
-    webUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7"
-    ampWebUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
-    cdnAmpWebUrl: "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
-    type: article
-    provider:
-      name: Naija Gist - Latest
-      domain: pulse.ng
-    quality: 59
-    images:
-      - url: "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA"
-        width: 425
-        height: 223
-        isCached: true
   - title: "Ecobank announces 10 finalists in Fintech challenge, Nigeria misses cut"
     excerpt: "Ecobank Group has announced the finalists from the 2020 Ecobank Fintech Challenge, with no Nigerian Fintech making the cut."
     publishedDateTime: 2020-08-07T10:12:00Z

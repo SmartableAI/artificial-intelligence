@@ -8,7 +8,7 @@ ampWebUrl: "https://biztimes.com/sift-healthcare-raises-2-8-million/?amp"
 cdnAmpWebUrl: "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/sift-healthcare-raises-2-8-million/?amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Payments Company Sift Raises $2.8 Million"
+    excerpt: "Milwaukee-based Sift Healthcare announced it has raised $2.8 million in a new round of funding. These are the details about the funding."
+    publishedDateTime: 2020-08-11T17:44:00Z
+    webUrl: "https://pulse2.com/sift-raises-2-8-million-funding/"
+    ampWebUrl: "https://pulse2.com/sift-raises-2-8-million-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/sift-raises-2-8-million-funding/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
   - title: "Milwaukee's Sift Healthcare raises $2.8M to expand AI-based payment platform"
     excerpt: "In addition to the capital raise, Sift also announced it has entered a three-year enterprise-level contract with health care receivables company State Collection Service in Madison."
     publishedDateTime: 2020-08-07T21:41:00Z

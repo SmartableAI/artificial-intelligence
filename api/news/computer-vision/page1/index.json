@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-11-neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams.md",
+      "title": "NeuralCam Live uses ML to turn iPhones into ‘smart’ computer webcams",
+      "excerpt": "After bringing Google Night Sight-like functionality to iOS, NeuralCam now has an app that lets Macs stream live, deep learning-filtered video from iPhones.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/neuralcamlive.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
+      "publishedDateTime": "2020-08-11T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents.md",
       "title": "Google’s Lookout app for vision-impaired now scans food labels and long documents",
       "excerpt": "Google has updated its Lookout app, an AI toolkit for people with impaired vision, with two helpful new capabilities: scanning long documents and reading out food labels. Paper forms and similarly-shaped products at the store present a challenge for blind folks and this ought to make things easier.",
@@ -109,7 +159,7 @@
       "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 269,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -1373,47 +1423,6 @@
         "name": "IFLScience",
         "domain": "iflscience.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management.md",
-      "title": "Buildots raises $16 million as it brings AI computer vision to construction management",
-      "excerpt": "Buildots, the company bringing AI to construction, today announced that it had secured $16 million in funding to leverage the power of AI to track, analyze and provide actionable data for construction project teams.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-1029450628",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-1029450628",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management-1029450628",
-      "publishedDateTime": "2020-07-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

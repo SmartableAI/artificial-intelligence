@@ -52,6 +52,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-07-ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut.md",
+      "title": "Ecobank announces 10 finalists in Fintech challenge, Nigeria misses cut",
+      "excerpt": "Ecobank Group has announced the finalists from the 2020 Ecobank Fintech Challenge, with no Nigerian Fintech making the cut.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.pmnewsnigeria.com/wp-content/uploads/2020/08/Ecobank-Fintech.jpg?fit=640%2C427&ssl=1",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/amp/",
+      "cdnAmpWebUrl": "https://www-pmnewsnigeria-com.cdn.ampproject.org/c/s/www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/amp/",
+      "publishedDateTime": "2020-08-07T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PM NEWS Nigeria",
+        "domain": "pmnewsnigeria.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-ecobank-group-announces-the-2020-fintech-challenge-finalists.md",
       "title": "Ecobank Group announces the 2020 Fintech Challenge Finalists",
       "excerpt": "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products.",
@@ -219,9 +260,9 @@
     {
       "path": "_news/2020-07-30-twelve-fintech-startups-selected-for-village-capitals-finance-forward-latin-america-2020-accelerator.md",
       "title": "Twelve Fintech Startups Selected for Village Capital's Finance Forward Latin America 2020 Accelerator",
-      "excerpt": "Over 80% of companies selected have one or more female founders, while over 40% are working from outside major fintech hubs in four different financial ... CIGE Mexico (Mexico) offers an AI solution that guarantees entrepreneurs advisory to manage their ...",
+      "excerpt": "Village Capital, with the support of MetLife Foundation, PayPal, and Moody’s, today announced the twelve early-stage fintech startups selected to take part in Finance Forward Latin America 2020. An accelerator,",
       "sourceUrl": null,
-      "webUrl": "https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss",
+      "webUrl": "https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -230,7 +271,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T09:18:00-07:00",
+      "publishedDateTime": "2020-07-30T09:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CSR Wire",
@@ -1302,48 +1343,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-from-chess-to-neural-networks-how-machine-learning-went-deep.md",
-      "title": "From Chess to Neural Networks: How Machine Learning Went Deep",
-      "excerpt": "The man vs. machine debate is one that’s captivated the minds of scientists, sci-fi writers, and anyone with an interest in technology for decades. Ever since the notion of intelligent, self-learning computers was first posited by Arthur Samuel in 1952,",
-      "sourceUrl": null,
-      "webUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
-          "width": 500,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
-      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
-      "publishedDateTime": "2020-07-09T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechportal.com",
-        "domain": "thetechportal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

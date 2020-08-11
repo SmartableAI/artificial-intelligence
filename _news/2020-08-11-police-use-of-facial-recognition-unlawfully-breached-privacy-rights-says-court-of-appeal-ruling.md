@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facial recognition: What led Ed Bridges to take on South Wales Police?"
+    excerpt: "\"I didn't wake up one morning and think, you know what I really want to take my local police force to court,\" he said. \"It wasn't the case that I had planned to get particularly involved in, but it developed organically."
+    publishedDateTime: 2020-08-11T16:15:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53742099"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53742099"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53742099"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "UK court rules police facial recognition trials violate privacy laws"
     excerpt: "Facial recognition is unreliable, dystopian and, according to a British court, incompatible with privacy and data protection legislation."
     publishedDateTime: 2020-08-11T11:39:00Z
@@ -202,6 +218,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "UK Court Rules Police Use Of Facial Recognition Unlawful, Could Set Major Precedent"
+    excerpt: "We should all be able to use our public spaces without being subjected to oppressive surveillance.” The ruling comes at a time when facial recognition is becoming increasingly common in law enforcement and could help set an important precedent,"
+    publishedDateTime: 2020-08-11T16:19:00Z
+    webUrl: "https://www.ibtimes.com/uk-court-rules-police-use-facial-recognition-unlawful-could-set-major-precedent-3026497"
+    ampWebUrl: "https://www.ibtimes.com/uk-court-rules-police-use-facial-recognition-unlawful-could-set-major-precedent-3026497?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/uk-court-rules-police-use-facial-recognition-unlawful-could-set-major-precedent-3026497?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/04/san-francisco-and-several-other-cities-have-banned.jpg"
+        width: 1024
+        height: 718
+        isCached: true
   - title: "Campaigner ‘delighted’ at Court of Appeal facial recognition technology ruling"
     excerpt: "A civil rights campaigner has expressed his delight after the Court of Appeal ruled police use of facial recognition technology interfered with privacy rights and data protection"
     publishedDateTime: 2020-08-11T13:15:00Z
@@ -245,9 +277,9 @@ related:
         height: 385
         isCached: true
   - title: "Landmark UK court ruling finds police use of facial recognition unlawful"
-    excerpt: "A British court said on Tuesday that a police force's use of facial recognition to hunt for suspects was unlawful, in a ruling that privacy campaigners hailed as a \"major victory\" in their fight against the surveillance technology."
+    excerpt: "Privacy campaigners hail major victory against surveillance technology in world's first legal challenge against police"
     publishedDateTime: 2020-08-11T15:21:00Z
-    webUrl: "https://news.trust.org/item/20200811143409-qxket"
+    webUrl: "https://news.trust.org/item/20200811143409-qxket/"
     type: article
     provider:
       name: Thomson Reuters Foundation

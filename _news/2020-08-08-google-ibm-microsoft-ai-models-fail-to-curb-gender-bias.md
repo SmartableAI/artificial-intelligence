@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Google, IBM, Microsoft AI models fail to curb gender bias"
-excerpt: "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes."
-publishedDateTime: 2020-08-08T06:16:00Z
+excerpt: "Not just Google. When put to work, artificial intelligence-powered IBM Watson virtual assistant was not far behind on gender bias. In 23 per cent of cases, Watson saw a woman wearing a gag while ..."
+publishedDateTime: 2020-08-08T08:19:00Z
 webUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
 ampWebUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
 type: article
-quality: 76
-heat: 76
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Sify.com
@@ -18,7 +18,6 @@ provider:
 topics:
   - IBM AI
   - AI
-  - Microsoft AI
 
 images:
   - url: "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg"
@@ -26,6 +25,6 @@ images:
     height: 450
     isCached: true
 
-secured: "vo8KGgEjv+LkNJxiH2YDMcG/SyGEvwmr7bVc75XYvDLLHBkyh7R2Tcj+JHVuzaQU9b17j7mrI4mPUqTRpsfeXFBBajoFUBe2zDF12YBVBlLSVuTIBnybj3asIar0AgeqOJnx+ks85x+CTyvQMfn5fs+f/s69pafsMdP8anFEVAeRHsko3ALjSEVQ0HuYuKIjF2oxycHNv/xOHY9mb/gJTTJ1nEQV7NFUOJwJPCxUpSuXXMklerhJAANPQKODE9pSgQJCFHttyf5TDOJAhTOYXWE+xsLYh1SCxxN0l0wzOMpAWql4Kt0DaliJC4qvHtDIZ7dGihYn8qqpjY8DI2H13w==;XCD6G1nevXLMEzMYKpAM7A=="
+secured: "bejvZLrHEjr5Ax6WZraGT/cGLOR96ZgiipnhwhiMkuGAncluA5s4cl4K7NvbcFV0fWS6BB8s/P3UFMMqT/RZ6ggQGvrw3A0Us9YsYOwKSIVMQv926r+sX1tnr0upFiN8xHK7i423N5x/jLCMM9CdfoqW4GPqFgkcC3qAkx8sHdLTilUBLqFoq8a4CNFTfayCHI7IvAboIp9x1zuIKCDobNNdZqfvLJ1YaR6/E+Vfz/XD/MbYfWJ0TSi76zEJeuNtLYXp7AhJkbJY6j6qusV7OsEt3EC9/2wfHdFinaQ+NWIjrn83tRqk6iE6an7ULcCWQhA+FqdOa2uJCs/SbgvK5Q==;/IkhrI2zCdEW9QL6wK/stA=="
 ---
 

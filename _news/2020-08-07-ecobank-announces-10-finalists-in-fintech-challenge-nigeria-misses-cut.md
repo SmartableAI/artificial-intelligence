@@ -8,8 +8,8 @@ ampWebUrl: "https://www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finali
 cdnAmpWebUrl: "https://www-pmnewsnigeria-com.cdn.ampproject.org/c/s/www.pmnewsnigeria.com/2020/08/07/ecobank-announces-10-finalists-in-fintech-challenge-nigeria-misses-cut/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: PM NEWS Nigeria
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ecobank Group announces the 2020 Fintech Challenge Finalists"
-    excerpt: "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
-    publishedDateTime: 2020-08-06T23:26:00Z
-    webUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7"
-    ampWebUrl: "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
-    cdnAmpWebUrl: "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp"
-    type: article
-    provider:
-      name: Naija Gist - Latest
-      domain: pulse.ng
-    quality: 59
-    images:
-      - url: "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA"
-        width: 425
-        height: 223
-        isCached: true
   - title: "Ecobank Announces Fintech Challenge Finalists"
     excerpt: "The Ecobank Group has announced finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
     publishedDateTime: 2020-08-10T00:05:00Z

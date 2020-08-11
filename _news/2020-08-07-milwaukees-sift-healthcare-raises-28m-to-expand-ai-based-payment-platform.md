@@ -34,6 +34,17 @@ related:
         width: 770
         height: 560
         isCached: true
+  - title: "Healthcare Payments Company Sift Raises $2.8 Million"
+    excerpt: "Milwaukee-based Sift Healthcare announced it has raised $2.8 million in a new round of funding. These are the details about the funding."
+    publishedDateTime: 2020-08-11T17:44:00Z
+    webUrl: "https://pulse2.com/sift-raises-2-8-million-funding/"
+    ampWebUrl: "https://pulse2.com/sift-raises-2-8-million-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/sift-raises-2-8-million-funding/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
 
 secured: "lC54GKAHcyr4QNJnBIxEK2cg6LrZ1AdUrkZOXsgaKDYq6HciyGhLI8H5GxoepzrlM8nlfZQRpFDtevKVya2lO/mBNya2KSk4R4bwAO7TJ6LQ8htxrB6dhp+KJvSr7PmzByUyMsJSUDthaB6s4VQ9z7SmP/XW4zqllKJzD58H+x8yQR/UqS2v5IEqk8apv6988CXR8wNoWBPbfZIw9h0zrmLeEpdle1yfzCszcw/PWeV7zm3Kp3AByQlIostoPB73f/8zwkGMRe+vQVCTJbJD2ZUcs9VVtFxEomUEr4dnSQ4hgc5jyGhQgCKWjGw50oZZCknzdhnQIqvteCG0Rst00pNUiekZw+zcjVE7YMkqxTmHQ32/LO549z66wfSeIs7M7ZTsJUzDUnbxQq72cb1s2lfm9oRLHFAorjEjMDdibhB+qdUtc/1W/t+oAjiC4cA2upwkZwcJdYqT1gkJgAQBsQs8LxiiDv+aRiDBAGnarwPcg39QKEW519d4j586jjc7Yb+2ztpbAcm0iidmxUCNTg==;NSOcUJvmYxakuCwSVyjdqw=="
 ---

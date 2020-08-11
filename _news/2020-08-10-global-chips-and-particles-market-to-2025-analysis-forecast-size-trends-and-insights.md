@@ -108,20 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
-    excerpt: "The Neural Network Software Market is expected to be around US$ 53 Billion by 2025 at a CAGR of 33% in the given forecast period. You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-08-06T23:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-08-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Car Market 2020-2024 / overview and scope, Industry Outlook, Size & Forecast"
     excerpt: "Self-driving cars have pre-installed control systems ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others."
     publishedDateTime: 2020-08-09T04:45:00Z
