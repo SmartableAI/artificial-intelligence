@@ -56,6 +56,22 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Hyundai unveils its self-driving car company, Motional - Daily Mail"
+    excerpt: "Hyundai's autonomous vehicle company, Motional, represents a $4 billion deal with self-driving tech company Aptiv. Its goal is to make driverless cars available to the general public by 2027."
+    publishedDateTime: 2020-08-11T21:55:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8616221/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8616221/amp/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8616221/amp/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/08/11/22/31838638-0-image-a-26_1597182703228.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "James Wan To Develop Knight Rider Movie, The Original Self-Driving Car"
     excerpt: "Comic Years is the go-to source on news, discussion, and community for comics, movies, gaming, anime, pop culture and TV!"
     publishedDateTime: 2020-08-08T12:16:00Z

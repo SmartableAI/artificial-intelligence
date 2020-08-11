@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Media Market Forecast, Manufacture Size, Developments and Future Scope To 2025"
+    excerpt: "Market Research Engine has published a new report titled as \" Cognitive Media Market by Component (Solutions, Services), Deployment, Enterprise Size, Technology (Deep Learning & Machine Learning, NLP),"
+    publishedDateTime: 2020-08-11T15:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-forecast-manufacture-size-developments-and-future-scope-to-2025-2020-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Computer Vision Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
     excerpt: "According to the latest report titled Global Computer Vision Market 2020 by Company, Type and Application, Forecast to 2025 by MarketsandResearch.biz, the global market will accumulate steady income in the forecast period from 2020 to 2025."
     publishedDateTime: 2020-08-10T21:51:00Z

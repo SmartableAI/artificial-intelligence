@@ -47,7 +47,7 @@ related:
   - title: "BPT Analytics Ltd. launches cloud-based analytics dashboard “A Landscape of Artificial Intelligence (AI) In Pharma R&D”"
     excerpt: "BPT Analytics Ltd. (BiopharmaTrend) a provider of web-based business intelligence dashboards for the pharmaceutical industry, launched cloud-based ana"
     publishedDateTime: 2020-08-11T18:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200811005513/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200811005513/en/BPT-Analytics-Ltd.-launches-cloud-based-analytics-dashboard"
     type: article
     provider:
       name: Business Wire

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Smart Office Market 2020-2022 / Challenges, Growth Forecast and Segmentation"
-excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
-publishedDateTime: 2020-08-10T06:30:00Z
-webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10"
+excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have ..."
+publishedDateTime: 2020-08-10T06:09:00Z
+webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10?mod=mw_quote_news"
 type: article
 quality: 51
 heat: 61
@@ -43,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "sseDYRq91QoDNHYpgInRbNn+frZ8s9yt9qYRca99H5a5PF/PIP+Wm0XCSIn4wcqpFgc0yViTUH9J2/wyJP2lq+khHWJ59gFN8wuRKNcdPa88u63M95oT8eX9VaDta8n76x2p0E/O8Z2ZicmyankixVOBSOVIzMCZ6Sez+9SJ6RWMMUr3epx0hnR67lZ8lM1BCO76nTsShuNhLSAaCp/2BCHTQNtJuhgRX66k4GApyDaBxi+xI65uLk1ce2ap+cvEKeN5mpHEOpk3qPw0E0MkZBqD1nuZvOc3gTb78EETh0uXQheFaPn0qAMMFgHusR0QzQyk9BB0Y18QnhfdSR/0uw==;Dw+6RTRUw9ODBi2dAXLKrg=="
+secured: "YJkYk4yGULDqrQhOdZPWoESHof1uH6+U7MlNXUe5LQhPxu/vIzT0+BqvwUM4zxy/zO097VzPPo7ri6RU5pvVQ4uwi9MnR6lK6YGHbVXwNFGPmUmMmtOHaAnvNpZFUnQOHCHGaMN6zNBRnO4rQQRfTTgqJ0t5D9oplpM1RQlHlCS2sxQY3mxJurktx2feCxQCj/1Hnb8O6dz5fcci004ze5OKxzpgDfgGzHbu6A0OO6PboAHnQkvShMv3tBMi8guCsl0Y+okhp+23J/90vYCVeGrUNHInr/55LCbi2bAOJ1F1KVq4troZ/Eh3gblpQrch7/X/bIJ+EBR22hIU11/hYw==;/Pg6FNO9h2wvsPsRYQm7Bg=="
 ---
 

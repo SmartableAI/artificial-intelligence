@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/08/11/atomwise-raises-123-million-to-ac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/atomwise-raises-123-million-to-accelerate-drug-discovery-with-ai/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Atomwise’s machine learning-based drug discovery service raises $123 million"
+    excerpt: "With a slew of partnerships with large pharmaceutical companies under its belt and the successful spin out of at least one new company, Atomwise has already proved the value of its machine learning platform for discovering and commercializing potential small molecule therapies for a host of"
+    publishedDateTime: 2020-08-11T12:30:00Z
+    webUrl: "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/"
+    ampWebUrl: "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 101
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-20-at-7.58.55-PM.png?w=1024"
+        width: 1024
+        height: 519
+        isCached: true
   - title: "Artificial intelligence drug discovery startup Atomwise raises $123M"
     excerpt: "Artificial intelligence drug discovery startup Atomwise Inc. announced today it has raised $123 million in new funding to scale up its AI technology platform. The Series B round was led by B Capital Group and Sanabil Investments and included DCVC,"
     publishedDateTime: 2020-08-11T13:26:00Z

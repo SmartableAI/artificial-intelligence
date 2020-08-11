@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Police use of facial recognition violates human rights, UK court rules"
+    excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."
+    publishedDateTime: 2020-08-11T21:08:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/08/police-use-of-facial-recognition-violates-human-rights-uk-court-rules/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1199025045-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Facial Recognition Could Help to Stamp Out Bitcoin Social Media Scams"
     excerpt: "Facial recognition can help prevent future Bitcoin scams like those that hit Twitter and YouTube, said Rod Hsu, president and co-founder of virtual currency platform Coincurve. Du"
     publishedDateTime: 2020-08-09T15:08:00Z
@@ -353,6 +367,6 @@ related:
         height: 430
         isCached: true
 
-secured: "axpFEDqxLPKZJzcHv2hGZLIkc+geQXK/FESU2YBcBtMUiTwjg7gVOk20HgVqVWB3boyUVWTaia1XaOdQ5a/8ZME1tVNi3O3YTsmpq74Mj4cPwZXyn4PXVxh6Vbb0IqwphOqFcFg13AWeXuyOskwxwGkwq884xFhE1tkF2zzksn8dgcK7KLzBne3dO/T3mOavwF9OGvaCfnsppJcm58MDnW+unneVasZTcx71Yc9TjYlzj2aCdwB/GUV3yGD+0Q64c6n3jQyv4aviMI3wsn1C+Y6OfhGWCFM6Bdg7ylsbq4cQEVmfcBpy5ZkgOmDMW0KrDa4pETxFQBzI/wGlZJOuVQ==;ryUr7HZ3K7e1XpSTTfQIjQ=="
+secured: "Kuae6klIFfiQW+9JBz6eDAOts07D+isv93Fcs/FaGaKfFz1n9HkmkgxYn+pDFtjc9NrFZze1kJTA9k6gkMWuAv9d/aORFd433FPv2FOCWA/DAU44uMpufr3aNYtcU0R3ElZDdtunavbFoBI9rWXpY7N8HwAu2d/0naXQMqHoX+2tBkfaEv92Z9WFezta2Y9ByiQyCqV1aY3DCdUccrc8NppPUtonSOu2r/Vk5+LXeueD6VdYhs2ubCZSghgq1w0dC8JXDZSy00Px/k5VSeT55+DYQRafTLll0ZBPHI/spXRFbZ8hgsF6+5Q61g3FHYarvZn0P2xM1FIa7u4hlzv18xlDOZQB4wHqopyEc7vGfrBjmKo1d/Hg1fvvrWTrjh0C7sHCROpGK8mRRCEpAUoutbQlUskCP0j5Yq2Bhtc7IMsRmwrXwZ9UvTosGzktNBnfIwpa9ZJ5pakDTSyVmcwPFUTOIfa0Z0ysd6rsxEmtA7itW0qPpmzggZZrG2M8Oo0+MQARbwjFTgnKnBzMQBMKvg==;AcgwyVU0grfuDipya/ZBIQ=="
 ---
 

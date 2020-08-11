@@ -3,7 +3,7 @@ category: news
 title: "BPT Analytics Ltd. launches cloud-based analytics dashboard “A Landscape of Artificial Intelligence (AI) In Pharma R&D”"
 excerpt: "BPT Analytics Ltd. (BiopharmaTrend) a provider of web-based business intelligence dashboards for the pharmaceutical industry, launched cloud-based ana"
 publishedDateTime: 2020-08-11T18:02:00Z
-webUrl: "https://www.businesswire.com/news/home/20200811005513/en/"
+webUrl: "https://www.businesswire.com/news/home/20200811005513/en/BPT-Analytics-Ltd.-launches-cloud-based-analytics-dashboard"
 type: article
 quality: 28
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 683
         isCached: true
 
-secured: "aYBUIhzIPCsQnN7+CaOFUvl1ranFNzrcXdrSf7guDGRrznd+H3Lgwk2Pd7MuIBaITaL16U2qNZwefHHQcu5PyD2HzcfOOaneEXQX+mWS0dcf9KqI3i4InK0vZeNPYsMOIVHnsrm2m/4rDAcALJbkwvBIrH2uSPd53L+sWWxmDOT+lyjp1qgu+2Qhg6RQ1ieLIQ4VX7+6QqXEqkH09X5diMM1qNtmRXtAzFUQzoX00iLXUN02BwGXH2ZH5PD81ZM28sh2lhogoh7gChm2aIGJIvyBBv4KCCVTMYvSoKorThgN0lT+IWycehkNDlZ572QQt0em4pL6ymRU+EPi9YYeDA==;pONRJR2KIYEaySDWxhS4rA=="
+secured: "DJ3M7xdvr+1EspXAasyw25O8u0aekYZ3WiKzebJqXIpM2nLEFGXquWdQXbnjj4k+033IS5z1OQJC24QQ0V+0JhIS6evrO2ta2tBt4eS0r2nFDWitYmlveO3bIEwrT/kAfB39DWO3eSptqA8o5BoSUoHtn8KaUo/SMFO8tEgJdlIwP5UA6uDz28y8lHaDvKcj29rBUCwd4khcKTflxXu/OeCWxeXH22kAHj8v+uyjYmysAkgM6NgrIzlOnQ346JNEIYLRlDz0AsgMhoaPsJI7oZiZbZGapIbw/eyjbep5eSKpsbSwutw5Axooh6F024f048dOgwUDK5LuPEdVvlkOqw==;CTNKsORGrG5IK8/85oez7A=="
 ---
 

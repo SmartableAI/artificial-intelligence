@@ -32,7 +32,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 10
+    quality: 27
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600

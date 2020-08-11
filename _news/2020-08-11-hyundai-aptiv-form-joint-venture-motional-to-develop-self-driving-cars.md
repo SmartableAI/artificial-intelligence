@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-mot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://images.axios.com/PuHGZVI7EPYUYs7qIVHZO-qYwjs=/fit-in/1366x1366/2020/08/10/1597089662772.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Hyundai unveils its self-driving car company, Motional - Daily Mail"
+    excerpt: "Hyundai's autonomous vehicle company, Motional, represents a $4 billion deal with self-driving tech company Aptiv. Its goal is to make driverless cars available to the general public by 2027."
+    publishedDateTime: 2020-08-11T21:55:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8616221/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8616221/amp/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8616221/amp/Hyundai-unveils-self-driving-car-company-Motional-announces-plans-robotaxi-fleet-2022.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/08/11/22/31838638-0-image-a-26_1597182703228.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "James Wan To Develop Knight Rider Movie, The Original Self-Driving Car"
     excerpt: "Comic Years is the go-to source on news, discussion, and community for comics, movies, gaming, anime, pop culture and TV!"

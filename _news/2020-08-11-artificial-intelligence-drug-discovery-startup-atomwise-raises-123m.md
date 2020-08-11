@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Atomwise’s machine learning-based drug discovery service raises $123 million"
+    excerpt: "With a slew of partnerships with large pharmaceutical companies under its belt and the successful spin out of at least one new company, Atomwise has already proved the value of its machine learning platform for discovering and commercializing potential small molecule therapies for a host of"
+    publishedDateTime: 2020-08-11T12:30:00Z
+    webUrl: "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/"
+    ampWebUrl: "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 101
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-20-at-7.58.55-PM.png?w=1024"
+        width: 1024
+        height: 519
+        isCached: true
   - title: "Atomwise raises $123 million to accelerate drug discovery with AI"
     excerpt: "Atomwise, a company leveraging AI and machine learning to accelerate drug discovery, has raised $123 million in venture capital."
     publishedDateTime: 2020-08-11T13:05:00Z

@@ -138,6 +138,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Police use of facial recognition violates human rights, UK court rules"
+    excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."
+    publishedDateTime: 2020-08-11T21:08:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/08/police-use-of-facial-recognition-violates-human-rights-uk-court-rules/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1199025045-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Facial recognition use by South Wales Police ruled unlawful"
     excerpt: "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,"
     publishedDateTime: 2020-08-11T11:40:00Z

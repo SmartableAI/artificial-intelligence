@@ -29,9 +29,9 @@ images:
 
 related:
   - title: "Smart Office Market 2020-2022 / Challenges, Growth Forecast and Segmentation"
-    excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
-    publishedDateTime: 2020-08-10T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10"
+    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have ..."
+    publishedDateTime: 2020-08-10T06:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
