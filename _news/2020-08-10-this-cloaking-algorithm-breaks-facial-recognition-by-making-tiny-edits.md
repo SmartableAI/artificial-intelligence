@@ -35,20 +35,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "UChicago Researchers Made a Photo-Editing Tool That Hides Your Identity From Facial Recognition Algorithms"
-    excerpt: "More than 100,000 people have downloaded the free tool, which \"cloaks\" faces in photos, protecting people's identities from illegal data mining."
-    publishedDateTime: 2020-08-06T19:52:00Z
-    webUrl: "https://www.builtinchicago.org/2020/08/06/uchicago-tool-hides-facial-recognition-fawkes"
-    type: article
-    provider:
-      name: Built In Chicago
-      domain: builtinchicago.org
-    quality: 21
-    images:
-      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/2020-08/Screen%20Shot%202020-08-06%20at%2011.16.44%20AM.png"
-        width: 1091
-        height: 587
-        isCached: true
 
 secured: "Y6zkd5q0m2Su9qqqSYdW0fmJtA7RMi2e2Qt+dZtqVP/dzpbPzvVOK8+BFj7HSEqoST3poQGwBb6D+HABMyey4kTQseYGau0qodfSJRoGiLlXR+C/myYOQU2TuqHp2T/C3aGXMmNEqULuVkqvCM9QyKkg0FNSo+tTlDcUD8qSZ8A6cbE0hN2BbmhvQCx3zmcTDLRvvwbJ3UE/NJfPcQwA0UdvWJ2MbQNUdyipNPYb8/rjFaK3SlN021flxwzN6O7CRzkvG8r61393w6FgYsFPBoBMKnH9YxvWvmmo6WJZ2RabveKeVov2/MIuB58tUuXJwoqRTyeqFu6eMQFUr3P2AJjneaie4I1hGgw89IoRzNyJ9zWtN5wUDXcDtPQzzU3TMvqLOIgxGok3CDYW8qnhgxz4FwOO2mG3hPq4lKSMfbvOOfIgGk8sX5nHYbOXLEnWiWJ67vJUOG+jwgac6BvJg/pjEkdmRY69KbdJcSpvFQLk9fi4PXQ/bf8OOoFOqtBwDjYvtR0aSwO+t4qzwQpHcg==;/Yio44GIkYYZWIJSVRY2iA=="
 ---

@@ -3,50 +3,29 @@ category: news
 title: "IBM and Michael J. Fox Foundation develop machine learning model for Parkinson’s"
 excerpt: "The research arm of Big Blue and The Michael J. Fox Foundation (MJFF) have developed a machine learning disease progression model as part of further research into Parkinson's disease (PD). PD is a chronic,"
 publishedDateTime: 2020-08-07T14:00:00Z
-webUrl: "https://www.zdnet.com/article/ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons/"
+webUrl: "https://www.michaeljfox.org/"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 147
+heat: 147
+published: true
 
 provider:
   name: ZDNet
   domain: zdnet.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/2019/10/14/7b6afd0a-aa57-4c89-b458-1aca5b5509b4/governance.jpg"
-    width: 770
-    height: 511
+  - url: "https://www.michaeljfox.org/themes/custom/fox/assets/images/png/og-image-logo.png"
+    width: 800
+    height: 800
     isCached: true
 
-related:
-  - title: "AI and machine learning facilitate pioneering research on Parkinson's"
-    excerpt: "At Friday's 2020 Machine Learning for Healthcare Conference, IBM and Michael J. Fox Foundation reveal disease progression model that accurately pinpoints how far a patient's PD has advanced."
-    publishedDateTime: 2020-08-06T19:54:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "oB63ny0j/jb2N2OR2jg7QYYC7y7KYkYj2/cUBDN5MBbLwCQEqW0+C4dGN5k0I1dDhNP+NzffDaTWeHJHiOzOLY6VXm3Pkz6NyjI4qTMfskoohMZsHns8GFAR9hzRNt/Pvqcqu5HsOlxhqc3n6PAajmY7ymvrgSpNNq4PAOUzkDvVtLY7TTb7+jMt/LfVjS8Hp+2iicdf/w+NjpUqvDtZjyrknyNqn56BP+7/KKXRQyKQjfu2XMUDM26m/vKJ/nEBrPe3ZqGgMECr5xBU0cgG6VIzpL5ZSWBDV0GxtFWYCyeG+XHBavMYk9O+XVi7+D6Wq7kFXM47CPe8fs2jaCLqWyIr4b84rgiJ+g7SRuzozgV3NvfoLC2XLeFT7g26qKELHt+hM24C+vtG6SzAI6VxFLNHUohN/txcH409n4KxsNoWuwAA4RVo1Rck5GsfPPAD6JpZnOywWIVBjVY/P5oyWruaqzEnnPPrGLcCQxFpRe6HeTtIDCNYwYUkbPjENncw;Lx3sf4OOVZZ3hvmppxvDYg=="
+secured: "jWEizhmt0s7F1gKHrjH+SnwzVmV8K0jtyUS4xVF/9HMOIzW3qkCGjLwCh71NlAE2WCIuk/1GHFniOuIzr7Xde/EcVKjPJrCihSCeUPDhylstVSb1xDocMAdwq2tUIM8Ap7V5GZPDx5N2I37MBK6T4DZ8s+5i9khpkjQeQwTLgM8mlQnWvEE9uXBYJG/Z8HQ4yf7S2e2231kH2a8lyuGdnFYwovi9eVn1fNzDBU5JviRUKNG/H+8SCwTZ+FmZnCm27LdBFytCA2T1mSifq+Iystv9AkUqbyNYU82A7JNFpPe6t5Wv3qfYmtiTCsOr+Xe5hyWt4tBneWPisBef+14D0A==;d1U18gvfn2IG6gAQsbIjXg=="
 ---
 

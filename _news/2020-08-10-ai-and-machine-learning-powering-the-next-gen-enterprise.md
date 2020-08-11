@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cio.com/article/3570613/ai-and-machine-learning-powering
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.amp.html"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: CIO
@@ -26,19 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Predictive modeling of estrogen receptor agonism, antagonism, and binding activities using machine- and deep-learning approaches"
-    excerpt: "The efficient identification of suitable chemical descriptors and machine-learning algorithms, including deep learning, is a considerable challenge for computational toxicology studies. Here, we sought to apply classic machine-learning algorithms and deep ..."
-    publishedDateTime: 2020-08-10T18:33:00Z
-    webUrl: "https://www.nature.com/articles/s41374-020-00477-2"
+  - title: "Python-powered machine-learning tool drives robot farming project"
+    excerpt: "Blue River Technology is using the Python-based machine-learning framework to develop smarter crop-spraying tech."
+    publishedDateTime: 2020-08-11T10:12:00Z
+    webUrl: "https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/python-powered-machine-learning-tool-drives-robot-farming-project/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-powered-machine-learning-tool-drives-robot-farming-project/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41374-020-00477-2/MediaObjects/41374_2020_477_Fig1_HTML.png"
-        width: 518
-        height: 685
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/08/10/31093303-12fd-4ee2-aaf0-01b2ced00cb6/117209681-649532229249033-1834877204712057685-n.png"
+        width: 512
+        height: 357
+        isCached: true
+  - title: "Using machine learning to tackle the world’s biggest problems"
+    excerpt: "Machine learning has graduated from the realm of science fiction to become a core, transformative technology for organizations across industries and categories. The unique potential and power of machine learning is sparking genuine innovation,"
+    publishedDateTime: 2020-08-07T19:03:00Z
+    webUrl: "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1038383026.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Using Machine Learning to Fight Money Laundering"
+    excerpt: "Machine learning can play a significant role in mitigating money laundering risks, says Andy Gandhi, managing director, data risk and compliance at the consultancy"
+    publishedDateTime: 2020-08-07T13:42:00Z
+    webUrl: "https://www.govinfosecurity.com/using-machine-learning-to-fight-money-laundering-a-14782"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/using-machine-learning-to-fight-money-laundering-showcase_image-4-a-14782.jpg"
+        width: 860
+        height: 520
         isCached: true
 
 secured: "5ygy28bHxFAQbcUWZ9zxqr9W5EqlRKp8kFRWXQRC7CrauK8gFYJEsWBdnBoUonRVOF6wmWhDqN/ZKER2sRV1olr/aJL1fiWWD6ZUikUlOL7Ngcmri2Od+fS5J1+lnkDoYIo6fdL84L5/IJRHYOfZfBwE7rJi5qYNMjVtuRxeorkUd1VUUqJqPB+vImNgrjWG/GBzD4HRY5hUvo2Vn458iB6ZgaGR940/8BKfaOHBGz8bVFCB/0yxnEEmtLSDp1aHMJseYUfiKZ3Y46BQUCfZcr8HiflZCOl8/3wfovv49Iv0NwblaeeoakwJU24rzeMeUauYQ3eZP3TdIPH2mNCe/gtloA454dc1xeL8wDM82EOhRESqWcSlkNuax0nUCxBhr15Pg2uHBbqxOnBw7nYRMzBI+2q020+wLjGd89wKVDb5lhsXSnEhPLADiKkPgvdn4zUlpBqBdDdOxDJVePDERJtUS8LdQH5EZIbgCxgrEfsYp8dN8DFeZZ9gNa8Kbfyw834vGrrylQkSCsowjL0TZQ==;SOGN+jHWctopFdtCl+VB8w=="

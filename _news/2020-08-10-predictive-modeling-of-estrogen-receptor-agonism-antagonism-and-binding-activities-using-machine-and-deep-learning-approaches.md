@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T18:33:00Z
 webUrl: "https://www.nature.com/articles/s41374-020-00477-2"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 685
     isCached: true
 
-related:
-  - title: "AI and machine learning: Powering the next-gen enterprise"
-    excerpt: "IT leaders are already starting to reap the rewards promised by AI and machine learning -- and a recent survey reveals half are considering greater investment as we hit economic headwinds."
-    publishedDateTime: 2020-08-10T10:01:00Z
-    webUrl: "https://www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.html"
-    ampWebUrl: "https://www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.amp.html"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.amp.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/08/intro_ts_ai_ml_by-monsitj-getty-images_2400x1600-100853894-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "ndRPJuvfsH3W4tAcNk3IuFJgjEob5NLzxdW5GCETO3a8+I2zh4EsPk+ocuZUWSRLF06+yBnxPN9hgkQWFoGlf55czX4O/MPnDsZWWJouaMHOO/Hrf8xLPpxYBZapCaFxM2QjHmF7tBHbCYFVqIWQ0uvO5hS6pdPQg4dL1Exz0CvcrWkoXN1hJAeCiL/n9RT3zojOZB4Espeyk1BO9uAQYCNdkwvkaxy8aKp+oYs7q92F6/jpsJ6pkJq6e36KF13OYoc23Ht/Dvj//2aV9dtlucgnytiehGoca2yQ7NDhUgAD1QpDf2M9kSSfYcNHrvXY6p9Ci3eC8/7KmzHI9OehIg==;t6UUfaDkDsU19KWAw6+OnA=="
+secured: "Oqd6wWcjxvrlhsuGvXw5/RinEwybNcc85WlbqFVr2EbRH6eXdDZSo5KQutVt8llfcwG8zjnt5duKdJxQ1Cd0hJrHFyUYiYo8DAxdCs7QdZ1eCqOHVRi1yq53b7JnjnC13CbnKmKXvBHJQ9bGPemb3am/NALwrSMe5E9wL5S0jkkRSgxLlDP+VL0j7EegOKcfzJBtg2oINbO3q1yEBj3jtbrIvXqw9oW8LeRZbpxyssHg69mYfhEuJyBxg51Iz69AuLTFxLbVtH7m3BOCsh82GzZc/6aptVng7+8Ob/u4z71ovLfw4eXSfWstymDNHHacF2ngf5/PbdHbDAhozIi1Arfky+5BAfGy333Yv1JMSYXiFp3NwzOOM2Tzo+feTesDCm4/b+Ofb8byNNdgbYFeGiz3bLOe5xge98J2lewPbByOUgnazaYPi/sGRtt++USZEaREG9iaPxQSsRKPyv07776yjipiLkPUrEjt6MCCcpvm6HnO/yqq2lpim82sdOIQ;F2k3IpUQ8JyopDceiBBm2g=="
 ---
 

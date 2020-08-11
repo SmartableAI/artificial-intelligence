@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-22-microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-azure-iot-business.md",
+      "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
+      "excerpt": "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
+      "publishedDateTime": "2020-06-22T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-fortude-first-from-sri-lanka-to-join-microsoft-ai-for-accessibility-program.md",
       "title": "Fortude first from Sri Lanka to join Microsoft AI for Accessibility program",
       "excerpt": "The work they have done is an important step in scaling accessible technology and building on our recent advancements in Microsoft Cognitive Services and Machine Learning to develop accessible and intelligent AI solutions for all,” added Hasitha.",

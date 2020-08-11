@@ -2,6 +2,508 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday.md",
+      "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
+      "excerpt": "Boston Dynamics will start selling Spot with a robot arm to businesses interested in mobile manipulation in a few months, and eventually for home use.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/spot-robot-arm-home.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
+      "publishedDateTime": "2020-06-25T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again.md",
+      "title": "Tesla's most robust self-driving package will cost more — again",
+      "excerpt": "It'll soon cost you $8,000 to buy a Tesla upgrade package, which includes some features that don't even exist yet. Tesla's Full Self-Driving package is a future-ready option for t",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/tesla-fsd-price-increase-/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F25%252Fd1%252F85b76a05bbb241488ffceb4b20b4d9a3.8b07b.jpg%252F1200x630.jpg?signature=Kdns6EbdS8gZHz0DCtCccLpQqcE=",
+          "width": 1200,
+          "height": 630,
+          "title": "Tesla's most robust self-driving package will cost more — again",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-price-increase-.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-price-increase-.amp",
+      "publishedDateTime": "2020-06-25T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
+      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous/volvo-cars-waymo-partner-to-build-self-driving-vehicles-idUSKBN23W2V0",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23W2V0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23W2V0",
+      "publishedDateTime": "2020-06-25T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-ai-is-vital-to-cybersecurity-during-covid-19-dont-underestimate-risks.md",
+      "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+      "excerpt": "The importance of cybersecurity during COVID-19 is not to be underestimated. AI, or artificial intelligence, plays a key role in this issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/06/shutterstock_619615334.jpg",
+          "width": 1000,
+          "height": 714,
+          "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "publishedDateTime": "2020-06-25T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-cambricon-once-huaweis-core-ai-chip-supplier-eyes-400m-ipo.md",
+      "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
+      "excerpt": "One of China’s most valuable artificial intelligence chipmakers, Cambricon, is one step closer to its initial public offering, and its prospectus reveals a rare snapshot of where Chinese companies stand in relation to their international counterparts in this critical field.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/24/chip-cambricon-ipo/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/cambricon-.jpg?w=720",
+          "width": 720,
+          "height": 360,
+          "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/24/chip-cambricon-ipo/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/24/chip-cambricon-ipo/amp/",
+      "publishedDateTime": "2020-06-25T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity.md",
+      "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
+      "excerpt": "More companies are using AI hiring tools in the hiring process to pinpoint premium candidates. But potential biases in these technologies have raised ethical concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/25/93e5c41c-e9fb-4d75-a0da-9f14f5a5d5d3/resize/1200x/42e74b2fc02c29579b0ebee6d0ae7060/jovanmandic.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "publishedDateTime": "2020-06-25T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-variation-in-natural-speech-is-challenging-for-dyslexic-adults.md",
+      "title": "Variation in natural speech is challenging for dyslexic adults",
+      "excerpt": "A new study brings neural-level evidence that the continuous variation in natural speech makes the discrimination of phonemes challenging for adults suffering from developmental reading-deficit dyslexia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20200625/Variation-in-natural-speech-is-challenging-for-dyslexic-adults.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200625/Variation-in-natural-speech-is-challenging-for-dyslexic-adults.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200625/Variation-in-natural-speech-is-challenging-for-dyslexic-adults.aspx",
+      "publishedDateTime": "2020-06-25T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-voice-ai-is-coming-to-the-workplace-loud-and-clear.md",
+      "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
+      "excerpt": "While many of us have grown to rely on voice-based devices in our personal lives, our professional lives have yet to leverage the power of voice and AI, until now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128057578%2F0x0.jpg",
+          "width": 1200,
+          "height": 556,
+          "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
+      "publishedDateTime": "2020-06-25T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-machine-learning-platform-mlflow-joins-the-linux-foundation.md",
+      "title": "Machine learning platform MLflow joins the Linux Foundation",
+      "excerpt": "Handing the platform run by Databricks to the vendor-neutral foundation will speed growth, the organizations say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/01/24/815af793-11d7-4337-8ab0-cc3048fe78cf/resize/1200x/fe1818e94dbdea2e87869e3264c8e2b5/opensourceistock-479493570boygovideo.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": "Machine learning platform MLflow joins the Linux Foundation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
+      "publishedDateTime": "2020-06-25T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data.md",
+      "title": "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data",
+      "excerpt": "Research that Uses Artificial Intelligence and Big Data | Read more about UCF Colleges & Campus News, Research, Orlando and Central Florida news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucf.edu/news/files/2020/06/WebAI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp",
+      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp",
+      "publishedDateTime": "2020-06-25T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UCF Today",
+        "domain": "ucf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-low-power-fpga-targets-low-cost-apps.md",
+      "title": "Low-Power FPGA Targets Low-Cost Apps",
+      "excerpt": "The SensAI neural-network compiler can accept models from frameworks like Caffe and TensorFlow. The evolution of the set-top box into a true hub of the smart home is being driven by three forces ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21135078/low-power-fpga-targets-lowcost-apps",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/06/LatticeCircuitry_Printed_514570034.5ef39c16e3337.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-intel-aims-to-bring-ai-education-to-community-colleges.md",
       "title": "Intel aims to bring AI education to community colleges",
       "excerpt": "The AI and ML deployments are well underway, but for CXOs the biggest issue will be managing these initiatives, and figuring out where the data science team fits in and what algorithms to buy versus build.",
@@ -634,529 +1136,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup.md",
-      "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-      "excerpt": "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/imageserve/5ef431b4816bb40006d1c766/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "publishedDateTime": "2020-06-25T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-apples-ai-plan-a-thousand-small-conveniences.md",
-      "title": "Apple’s AI plan: a thousand small conveniences",
-      "excerpt": "Sprinkled throughout Apple’s announcements about iOS, iPadOS, and macOS were a number of features and updates that have machine learning at their heart. Some weren’t announced onstage, and some features that almost certainly use AI weren’t identified as such,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/-2YBHYjho09Yd9WWECA00opzEn8=/0x0:2556x1634/1400x933/filters:focal(1074x613:1482x1021):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66979576/Screen_Shot_2020_06_22_at_6.54.32_PM.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": "Apple’s AI plan: a thousand small conveniences",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
-      "publishedDateTime": "2020-06-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-if-done-right-ai-could-make-policing-fairer.md",
-      "title": "If Done Right, AI Could Make Policing Fairer",
-      "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef419aeaf3d0a069fd1d59d/master/pass/business_policing_1175954210.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "If Done Right, AI Could Make Policing Fairer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "publishedDateTime": "2020-06-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr.md",
-      "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
-      "excerpt": "The global GPU Market size is expected to reach USD 103.60 billion by 2026, at a significant growth rate of 30 % during the forecasted period from 2020 to 2026. The market report provides an analysis of the global GPU Market for the period 2015-2026,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr-2020-06-25",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-ai-is-now-a-c-suite-imperative.md",
-      "title": "AI is now a C-suite imperative",
-      "excerpt": "Machines can work at infinitely higher speed and the pressure on the C-suite has never been higher. Now the execs are turning to AI to help them make the best decisions in as short a time as possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/priority_high_priorities_importance_important_urgent_thinkstock_680720450-100749329-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI is now a C-suite imperative",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
-      "publishedDateTime": "2020-06-25T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-startup-genome-80-regions-have-produced-unicorns-as-tech-democratizes.md",
-      "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
-      "excerpt": "Startup Genome warned of a “mass extinction event” coming because of the pandemic. VB Transform 2020 Online - July 15-17. Join leading AI executives: Register for the free livestream.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/sg.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/amp/",
-      "publishedDateTime": "2020-06-25T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-circadia-gets-fda-nod-for-ai-powered-respiratory-monitor.md",
-      "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
-      "excerpt": "Startup Circadia Technologies has received FDA approval for a bedside device that remotely monitors breathing using artificial intelligence and that has been shown to help detect Covid-19 symptoms such as breathlessness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-202428/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
-      "publishedDateTime": "2020-06-25T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
-      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
-      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "publishedDateTime": "2020-06-25T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-amazon-adds-media-analysis-tools-to-amazon-rekognition-video.md",
-      "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
-      "excerpt": "Machine learning service automates workflows such as creating promo videos, ad insertion and packaging content for streaming services",
-      "sourceUrl": null,
-      "webUrl": "https://www.broadcastnow.co.uk/tech/amazon-adds-media-analysis-tools-to-amazon-rekognition-video/5151053.article",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/2/0/5/1327205_screenshot20200625at10.14.00_839733.png",
-          "width": 715,
-          "height": 398,
-          "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Broadcast",
-        "domain": "broadcastnow.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-aws-upgrades-sagemaker-labeling-tool.md",
-      "title": "AWS Upgrades SageMaker Labeling Tool",
-      "excerpt": "Amazon Web Services has added a 3D visualization capability to its SageMaker data labeling tool used to build training data sets for machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2020/06/10/aws-sagemaker-adds-ml-labeling-tool/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/self-Driving_car_shutterstock_metamorworks.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-real-ai-robot-cast-in-lead-role-of-sci-fi-movie.md",
-      "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
-      "excerpt": "A new sci-fi movie is set to become the first-ever film to rely on an artificial intelligence robot named Erica.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/12/07/robotaicapital-markets.jpg",
-          "width": 1200,
-          "height": 848,
-          "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1",
-      "publishedDateTime": "2020-06-24T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

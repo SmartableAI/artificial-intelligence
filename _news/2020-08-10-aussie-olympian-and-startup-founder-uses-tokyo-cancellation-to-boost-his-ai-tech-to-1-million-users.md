@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T01:00:00Z
 webUrl: "https://www.smartcompany.com.au/startupsmart/news/olympian-outwrite-founder-nick-hough-1-million-users/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ images:
     width: 733
     height: 358
     isCached: true
+
+related:
+  - title: "Aussie AI startup HIVERY secures $8 million for tech telling retailers what to stock"
+    excerpt: "HIVERY has raised $8 million, as it makes a grab for a global opportunity helping retailers stock products consumers want."
+    publishedDateTime: 2020-08-11T01:55:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/hivery-8-million-ai-retail-stock-tech/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 30
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/08/HIVERY-founders.jpg"
+        width: 733
+        height: 358
+        isCached: true
 
 secured: "8Wsnm5/5Y9v/Z5PQr9uGbcdeUbp0YvsTffDy+oVv0i5yEcksRitnSdrysOcZ54+LrvKabUWrK1opD/Z2smPAaFPlI+N+GQlNDWup0zRqS4ACg+xzYfhX5lpUWtitJvvKTZ3kfhQ/MTErxH2AxexFuE5Z8Z+X62FyKauBn5snBm6UcUVMP5TRTgOF+n/t5k9igHS4MI8hNzvjn7Ol55TDd9pXI9PZphwF0BLjQCaGqc6e0fb/z0rKkRsogMoLlODKayn2uoACCRn6sr9i8ZIob7GhWkl9awk6eu3mrv6bm2TO6unUHS2tmUkKU5kFLRhah9D8XJOLyi7pQezI2nReWrAdRFxLDLGjtb3LAXeKLnyHHfcUBWXmGALu3YHlH/pPoj1HFB52Y13QQXV9ohkz0DK23Svni8NtlK2G6AEQA8ms1n2+WjGnQpFh47soH8Ca223BfYFpQjqzUqyo9Dnl5Gah58QZtcKoO+TJXhU8xyaGJ1Hw5J2lB8T+C1Dvpy0Cz3o2pUFO/LABgLimM7aP2A==;nj00niu/Cd4O9QAZp3dOhw=="
 ---

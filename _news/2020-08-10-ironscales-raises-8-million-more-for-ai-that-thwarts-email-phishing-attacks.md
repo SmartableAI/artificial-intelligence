@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,19 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Aussie AI startup HIVERY secures $8 million for tech telling retailers what to stock"
-    excerpt: "HIVERY has raised $8 million, as it makes a grab for a global opportunity helping retailers stock products consumers want."
-    publishedDateTime: 2020-08-11T01:55:00Z
-    webUrl: "https://www.smartcompany.com.au/startupsmart/news/hivery-8-million-ai-retail-stock-tech/"
+  - title: "Simpplr raises $10 million for its AI-powered intranet platform"
+    excerpt: "Simpplr, a startup developing an AI-powered intranet platform, has raised $10 million in funding to streamline communications."
+    publishedDateTime: 2020-08-11T12:03:00Z
+    webUrl: "https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/"
+    ampWebUrl: "https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/amp/"
     type: article
     provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 30
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/08/HIVERY-founders.jpg"
-        width: 733
-        height: 358
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/intranet-simpplr-tiles-e1596649630868.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How RBC Built Its Own GPU Farm for an Artificial Intelligence-Powered Banking Platform"
+    excerpt: "Its vendors, Nvidia and Red Hat, expect lessons from the collaborative project will benefit the broader fintech space, as well as other industries."
+    publishedDateTime: 2020-08-10T19:04:00Z
+    webUrl: "https://www.datacenterknowledge.com/machine-learning/how-rbc-built-its-own-gpu-farm-artificial-intelligence-powered-banking-platform"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 46
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/rbc%20royal%20bank%20canada%20building%20toronto%202019%20getty.jpg"
+        width: 1024
+        height: 690
         isCached: true
 
 secured: "AbrHLrXzMAjXo6iR9VBrk867w+wqaiYil2JGWEq0jDrLMdE3+zr+aT5PIy6CaxNdOwtrnGHYVLw2SfmflVHHgLy4kZiT9qNLvcHq287a3ZP0M1FT7bgk7Clu5rDZnZ5feG57/qTIf+qDI6INd7vbkHGhwGYzmiHXxTTVhrAh4ifv/pOYjvJeDge7LFLhVQi5kX/4u2d/Sp0lSduI3bYo+NPCo5dSMMKtAsP5xRkkzu6b6URRmAh/3CplgHH1KtBxar/XcxW/CVPk2bDdaWsF9hHm8MGeE9qheKO4Gq69flwvqYMCUoEjw/TP/ydKnZ+qbxd4+4A4me3baQ/sJ0jIjd/XlpH2jTNfeIOQUa9EQVrgeTvturemKXK4pr6jMF8t6o8x8xYq/FB5mwqyRSSXzNaWt39YAKDK2itGdoqrD2rqXBSgnpJMtcsfT3iYhBxekFViSq+pieae6TVSsgNOxtOeLYkEEgc4nli2H/f7cvO3afUDIxzfN3ErV7mOjg1w/KQors3/y1DWjbvie40kug==;yKehTWKlVXQHGExi321wUw=="

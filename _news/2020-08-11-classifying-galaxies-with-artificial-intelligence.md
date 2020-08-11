@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Classifying Galaxies with Artificial Intelligence"
-excerpt: "Conceptual illustration of how artificial intelligence classifies various types of galaxies according to their morphologies. (Credit: NAOJ/HSC-SSP)"
-publishedDateTime: 2020-08-11T01:08:00Z
-webUrl: "https://www.miragenews.com/classifying-galaxies-with-artificial-intelligence/"
+title: "Classifying galaxies with artificial intelligence"
+excerpt: "Astronomers have applied artificial intelligence (AI) to ultra-wide field-of-view images of the distant Universe captured by the Subaru Telescope, and have achieved a very high accuracy for finding and classifying spiral galaxies in those images."
+publishedDateTime: 2020-08-11T12:34:00Z
+webUrl: "https://phys.org/news/2020-08-galaxies-artificial-intelligence.html"
+ampWebUrl: "https://phys.org/news/2020-08-galaxies-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-galaxies-artificial-intelligence.amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
 images:
-  - url: "https://www.nao.ac.jp/en/contents/news/science/2020/20200811-subaru-fig.jpg"
-    width: 900
-    height: 961
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/galaxy.jpg"
+    width: 1920
+    height: 904
     isCached: true
 
-secured: "fQ+5ygSTHWY8SgSIilXavdMUJ6z0ytO+GZUw18fDcjhJrKFIx0RRqS2vEb/x8FrQopGcqDqJo1KIZhN+wQn8LggtW5JqWxL6x6xjlfReFjBR2X/vthTJtNpv8OS6i7ZYsRoAvu0N+c9PtpDfsIlilReYgDw5GJ/N9ker/pykBTgQ574dfRYu+63XEfL6xirE/GPSWPZrEYjc/1uHepTgf3WYZpqXSIi/tP6lp3zpoZs2O1UvjcWRhudHbmpSR6DCiKkjcMN+kUzTHaBX25QixneDYvYNA3fhqyYjnU5tv1Bo58c9Ccw16YkTO1X6S0OQ9cUnESyyWSoON3C8lHK1cHdN/dh2rb4rakFnvUeuiWIMzyO5tA8CwOWOGqtLg7A2UvgcIAgOHyNAqbE1AniNBAFBPVaPltKdAf/PxBGWJhOuwCvaoX8iuD3p+uyDFn6bJjeeoTnA/qKoXex8C/bA3L1JuiJKxxUq+T2/WBOU5Uj55ex869oEvysTuc59Rb7mhsSolngjFNADTZSCsKqPqQ==;v4+2NZOBz7VTeL+PEPRnUA=="
+secured: "h7MxEaqxKI5gAgs86nqbrmLjZY8pLQ4qLQmLJe7OhxiDKkHE/tDTeFu7mM6MYQYPRs8aG9PH7L6NNn8/dHA32RmEd2ISgHOX3uJv5oOexdXaBqS9X+JS+Uu6hOozcLpk/Kxr124ctbWjNn+MBx1MfUPzEF0YUmuNCKUAVv7XyUsB0e4/LVPTmQgHh4adXprZm7Q65a59CNp4jGuZ+mIU7pxq7D4k7Ok4HnQiyoYDSF+Zn3jvq4zm18erZxRvvyR/61i8JeJ+8K3uw/3T9uVOXXkPh0/L63m0QeG3nXZXSlc7wmBIdVqPsnUY2kjUU2QxxZcW1AfjsAxTnm7vu+uIbw==;oNd5TfCDoS/aFR/EasJwOg=="
 ---
 

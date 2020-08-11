@@ -1,41 +1,22 @@
 ---
 category: news
 title: "Avanade named strategic go-to Microsoft Azure partner in new global alliance with Databricks"
-excerpt: "Avanade, the leading digital innovator on the Microsoft ecosystem, and Databricks, the leading provider of unified data analytics solutions, have fo"
+excerpt: "Avanade will become Databricks’ key global partner and benefit from its deep knowledge and experience in massive scale data engineering, and collaborative data science, complementing Avanade’s Azure data and AI capabilities."
 publishedDateTime: 2020-08-11T05:41:00Z
-webUrl: "https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/"
+webUrl: "https://www.arnnet.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/"
 type: article
-quality: 43
-heat: 43
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: cmo.com.au
-  domain: cmo.com.au
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg"
-    width: 620
-    height: 254
-    isCached: true
-
-related:
-  - title: "TekLink International Inc. Is Now A Microsoft Gold Partner For Azure Cloud Analytics And Data Analytics"
-    excerpt: "TekLink International Inc., a respected leader in Cloud Platforms, Business and Financial Planning Solutions, and"
-    publishedDateTime: 2020-08-07T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n16992431/teklink-international-inc-is-now-a-microsoft-gold-partner-for-azure-cloud-analytics-and-data-analy"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16992431"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16992431"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
-
-secured: "77u3nnmC8G/9zuERyup9YVHps/xUkTRjUcog0BhIoZ7ooMvaLFZDNPDUvnUrcT47H2uQ9ROpmRtvejR1R76EliVPVS16zL1d0kwE5Tzk+JrpEt+oD32Wk9L91BOBS9QBosl+v9oJuGZ6A8J5xNwpezBjuOfBZJdygPk1tNrEZhGHJAuuPPg5M7BYAjarGeImcRLfXSNamdzDjI1y+r1V9QGF5GmITkAKKWZX+PsOMSkRHLGUWkP9F0MmE3FA7R4CkvVlbP56awq264KQcOw2a3j+o9R6zeJy0l5EZYRZWrDkrZEPuuXeHhsK3z/m/BhyGHRUwNNbsT7WXrQj2JpQuA==;3m1R8Up6Hgvm73udA5jBKg=="
+secured: "M/UpBargQZ2rtke0ojIZxTOO99wGCT35mYsg1xmoQEuphVCTU51Qn6ZrIkaIr3vbuIy8NY5JFk+mDcc87iAHbnwGx/gmFPytatsr4uh9PHJfg/Qi5K7TQIvH0bYlmWke7YHP72t07Wz/yYDavFUHgizd35aQhuvuuLZ65nuBySRlfQO6sQZUivEkKK0OYxMkNVKXrbC1tOFcMJL8p8I1DJIeCDwdGFQrRwr8BWk5iPYfvJMXPhHCvsMOM5o1prZ0ueK+VJASj/kbNz9II3XrWrWkYNShDwGJ+U1oMAOhhyiP4e9/Co3wCwyaLJDvtxdCPEZW/K9juT9rCUeclSyrWw==;QoPTZhs0EdY1gOf4UJJDgA=="
 ---
 

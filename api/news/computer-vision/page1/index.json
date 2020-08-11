@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-11-googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents.md",
+      "title": "Google’s Lookout app for vision-impaired now scans food labels and long documents",
+      "excerpt": "Google has updated its Lookout app, an AI toolkit for people with impaired vision, with two helpful new capabilities: scanning long documents and reading out food labels. Paper forms and similarly-shaped products at the store present a challenge for blind folks and this ought to make things easier.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/google-lookout-shots.jpg?w=1024",
+          "width": 1024,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/amp/",
+      "publishedDateTime": "2020-08-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand.md",
+      "title": "In China, facial recognition, public shaming and control go hand in hand",
+      "excerpt": "Facial recognition supporters in the US often argue that the surveillance technology is reserved for the greatest risks -- to help deal with violent crimes, terrorist threats and",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/dD_b_3LnM8xnDw8b1chQVYmkwRY=/756x567/2020/08/10/7160792a-58c7-4445-817b-fb35532e24ec/gettyimages-1063617532.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
+      "publishedDateTime": "2020-08-11T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-facial-recognition-use-by-south-wales-police-unlawful.md",
       "title": "Facial recognition use by South Wales Police 'unlawful'",
       "excerpt": "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,",
@@ -9,7 +109,7 @@
       "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 169,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1314,97 +1414,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-buildots-raises-16m-to-bring-computer-vision-to-construction-management.md",
-      "title": "Buildots raises $16M to bring computer vision to construction management",
-      "excerpt": "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, today announced that it has raised $16 million in total funding. This includes a $3 million seed round that was previously unreported and a $13 million Series A round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/IMG_3411_s.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/",
-      "publishedDateTime": "2020-07-30T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-us-agency-pandemic-masks-thwarting-face-recognition-tech.md",
-      "title": "U.S. agency: Pandemic masks thwarting face recognition tech",
-      "excerpt": "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uticaod.com/apps/pbcsi.dll/bilde?Site=NY&Date=20200729&Category=NEWS&ArtNo=200729574&Ref=AR",
-          "width": 726,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
-      "cdnAmpWebUrl": "https://www-uticaod-com.cdn.ampproject.org/c/s/www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
-      "publishedDateTime": "2020-07-29T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Uticaod",
-        "domain": "uticaod.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,387 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-08-top-artificial-intelligence-and-robotics-investments-in-july-2020.md",
+      "title": "Top Artificial Intelligence and Robotics Investments in July 2020",
+      "excerpt": "Artificial Intelligence is growing at a faster pace. With this faster pace, it is also attracting a series of funding and financial investments. Here are some of the important investments in artificial intelligence and robotics companies in July 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-ai-robotics-investments-july-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/08/AI.png",
+          "width": 1548,
+          "height": 872,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-08T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-08-5-free-resources-every-data-scientist-should-start-using-today.md",
+      "title": "5 free resources every data scientist should start using today",
+      "excerpt": "I was a recent college grad, starting out my career at a four-person IoT startup. One of my first assignments was to research and propose a solution for an AI-based digital assistant for military settings.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/5-free-resources-every-data-scientist-should-start-using-today-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/",
+      "publishedDateTime": "2020-08-08T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-08-google-ibm-microsoft-ai-models-fail-to-curb-gender-bias.md",
+      "title": "Google, IBM, Microsoft AI models fail to curb gender bias",
+      "excerpt": "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "publishedDateTime": "2020-08-07T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-08-how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai.md",
+      "title": "How The Federal Government’s AI Center Of Excellence Is Impacting Government-Wide Adoption Of AI",
+      "excerpt": "The GSA's AI Center of Excellence aims to improve and enhance AI implementations in the government and help agencies on their journey with AI adoption. The relatively small team at the GSA AI CoE is helping to bring about some very impressive changes within the federal government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f26034d053c2d98f415d82c%2F0x0.jpg",
+          "width": 1200,
+          "height": 1202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/amp/",
+      "publishedDateTime": "2020-08-07T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye-on-the-driverless-road.md",
+      "title": "These Chinese autonomous vehicle start-ups are keeping their eye on the driverless road",
+      "excerpt": "Auto X, Baidu Apollo, Didi Chuxing, Pony.ai and WeRide – are focused on bringing autonomous vehicle technology to the consumer passenger market",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_explainer/public/d8/images/methode/2020/08/08/19d82302-d87e-11ea-a9df-dfa023813e67_image_hires_070552.jpg?itok=pm2ubq68&v=1596841564",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3096495/these-chinese-autonomous-vehicle-start-ups-are-keeping-their-eye",
+      "publishedDateTime": "2020-08-07T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-this-little-ai-powered-robot-pet-is-so-cute-it-hurts.md",
+      "title": "This Little AI-Powered Robot Pet Is So Cute It Hurts",
+      "excerpt": "I’m not sure if Moflin is supposed to be a robotic hamster, guinea pig, baby bunny, or some alternate take on a Tribble, but goddamn this robo-pet is cute.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-little-ai-powered-robot-pet-is-so-cute-it-hurts-1844651546",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/mcf5sjju33otprzatou0.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-little-ai-powered-robot-pet-is-so-cute-it-hurts-1844651546/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-little-ai-powered-robot-pet-is-so-cute-it-hurts-1844651546/amp",
+      "publishedDateTime": "2020-08-07T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-ai-weekly-can-language-models-learn-morality.md",
+      "title": "AI Weekly: Can language models learn morality?",
+      "excerpt": "Researchers believe representations could imbue language models with a broader set of human preferences about the world, and thus morality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/07/ai-weekly-can-language-models-learn-morality/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/code-of-ethics-in-technology-e1596833286745.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/07/ai-weekly-can-language-models-learn-morality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/07/ai-weekly-can-language-models-learn-morality/amp/",
+      "publishedDateTime": "2020-08-07T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai.md",
+      "title": "R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI",
+      "excerpt": "I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/BeetleCameraWEB012.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/amp/",
+      "publishedDateTime": "2020-08-07T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai.md",
       "title": "Researchers quantify bias in Reddit content sometimes used to train AI",
       "excerpt": "Researchers developed a technique that helps to quantfy bias on communities like Reddit, data from which is often used to train AI models.",
@@ -191,6 +572,55 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons.md",
+      "title": "IBM and Michael J. Fox Foundation develop machine learning model for Parkinson’s",
+      "excerpt": "The research arm of Big Blue and The Michael J. Fox Foundation (MJFF) have developed a machine learning disease progression model as part of further research into Parkinson's disease (PD). PD is a chronic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.michaeljfox.org/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.michaeljfox.org/themes/custom/fox/assets/images/png/og-image-logo.png",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -399,7 +829,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025-2020-08-07",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -782,437 +1212,6 @@
         "AI",
         "Computer Vision",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing.md",
-      "title": "Verizon 5G Edge released in two new cities with AWS always-connected computing",
-      "excerpt": "This week the folks at Verizon revealed a pair of new cities in which their 5G Edge tech would launch. This system works with AWS, making it the “world’s first mobile edge computing platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/08/edgegaewa.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/amp/",
-      "publishedDateTime": "2020-08-06T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons.md",
-      "title": "AI and machine learning facilitate pioneering research on Parkinson's",
-      "excerpt": "At Friday's 2020 Machine Learning for Healthcare Conference, IBM and Michael J. Fox Foundation reveal disease progression model that accurately pinpoints how far a patient's PD has advanced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/",
-      "publishedDateTime": "2020-08-06T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color.md",
-      "title": "Researchers say ‘The Whiteness of AI’ in pop culture erases people of color",
-      "excerpt": "Researchers argue predominately portraying artificial intelligence as white in science fiction, stock imagery, and popular culture has consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/robot-stock-imagery.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/amp/",
-      "publishedDateTime": "2020-08-06T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-the-tesla-of-banking-start-up-credai-unveils-its-ai-powered-credit-card.md",
-      "title": "The ‘Tesla Of Banking’ Start-Up Cred.ai Unveils Its AI-Powered Credit Card",
-      "excerpt": "How many bonus features does it take to convince a millennial to use a credit card? Try no fees, no interest, credit optimization, self-destructing account numbers, spending on future paychecks, customizable settings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michelamoscufo/2020/08/06/the-tesla-of-banking-start-up-credai-unveils-its-ai-powered-credit-card/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2c18f3aec36fcaef4955ad%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michelamoscufo/2020/08/06/the-tesla-of-banking-start-up-credai-unveils-its-ai-powered-credit-card/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelamoscufo/2020/08/06/the-tesla-of-banking-start-up-credai-unveils-its-ai-powered-credit-card/amp/",
-      "publishedDateTime": "2020-08-06T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-macys-sued-over-use-of-clearview-facial-recognition-software.md",
-      "title": "Macy’s Sued Over Use of Clearview Facial-Recognition Software",
-      "excerpt": "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjoIH.CSaXQ/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software",
-      "publishedDateTime": "2020-08-06T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit.md",
-      "title": "Google adds Digital Ink Recognition API for touch and stylus input to ML Kit",
-      "excerpt": "Google introduced a new API for touch and stylus input to ML Kit, its machine learning development toolkit for Android and iOS.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/amp/",
-      "publishedDateTime": "2020-08-06T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Google AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-reps-call-for-research-investment-in-ai.md",
-      "title": "Reps. Call for Research Investment in AI",
-      "excerpt": "have partnered with the Bipartisan Policy Center (BPC) and the Center for ... that calls for Federal investments into AI R&D. The Cementing American Artificial Intelligence Leadership: AI Research & Development report is the third in a series on AI issues ...",
-      "sourceUrl": null,
-      "webUrl": "https://bipartisanpolicy.org/report/ai-research-development/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bipartisanpolicy.org/wp-content/uploads/2020/08/shutterstock_690256660.png",
-          "width": 700,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MeriTalk",
-        "domain": "meritalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy.md",
-      "title": "Google's new voice and audio settings give you more control over your privacy",
-      "excerpt": "Google on Wednesday let people know it's still having humans review voice and audio recordings on devices like Google Home. However, the search giant's email also said it's giving you more control over what's being shared and has automatically turned off the feature for all accounts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/KBR1GYWD2mNrI9tvFINf3uZtuxk=/756x567/2019/01/17/160d0588-c985-400c-9c2b-50604e69486d/jot-google-home-mini-1.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
-      "publishedDateTime": "2020-08-06T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-city-of-tucson-water-department-selects-vodaais-machine-learning-to-support-decision-making.md",
-      "title": "City of Tucson Water Department Selects VODA.ai's Machine Learning to Support Decision-Making",
-      "excerpt": "The City of Tucson Water Department has selected VODA.ai as their exclusive provider of artificial intelligence software service for pipe prioritization. VODA.ai is excited to expand the partnership with the City of Tucson and provide continuous virtual condition assessment for the entire water system of over 4,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
-      "publishedDateTime": "2020-08-06T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

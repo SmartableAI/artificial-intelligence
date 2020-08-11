@@ -2,6 +2,504 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-07-09-meet-the-robot-chemist-that-can-perform-its-own-experiments-wvideo.md",
+      "title": "Meet the robot chemist that can perform its own experiments (w/video)",
+      "excerpt": "A robot that might typically be found in a car assembly line can be modified to operate in a chemistry laboratory alongside humans, reports a paper published this week in Nature (\"A mobile robotic chemist\"). The robot is linked to machine-learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=96a5891f-2592-4d33-9962-1b71863a0744",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-020-2442-2/MediaObjects/41586_2020_2442_Fig1_HTML.png",
+          "width": 583,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-from-chess-to-neural-networks-how-machine-learning-went-deep.md",
+      "title": "From Chess to Neural Networks: How Machine Learning Went Deep",
+      "excerpt": "The man vs. machine debate is one that’s captivated the minds of scientists, sci-fi writers, and anyone with an interest in technology for decades. Ever since the notion of intelligent, self-learning computers was first posited by Arthur Samuel in 1952,",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
+          "width": 500,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
+      "publishedDateTime": "2020-07-09T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us1578-billion-service-opportunity-by-2030.md",
+      "title": "Cloud Computing will be the Great Enabler of Mobile Robotics and a US$157.8 billion service opportunity by 2030",
+      "excerpt": "Several cloud service providers, including AWS, Microsoft Azure, and Google Cloud, have begun collaborating with robotics developers, while start-ups like InOrbit target cloud-enabled operations for the first major deployment of mobile service robots.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
+      "publishedDateTime": "2020-07-09T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-ai-in-enabled-computer-vision-market-will-register-a-cagr-of-about-22-between-2020-and-2027-covid19-impact-analysis-on-ecosystem.md",
+      "title": "AI in Enabled Computer Vision Market will Register a CAGR of about 22% between 2020 and 2027 | COVID19 Impact Analysis on Ecosystem",
+      "excerpt": "AI in Enabled Computer Vision Market Ecosystem: The ripple effect of Coronavirus-COVID19 on the AI in Enabled Computer Vision Ecosystem needs to become part of strategy discussions to emerge strong. The Analyst team is meticulously tracking the impact and relevance to all the sectors in theAI in Enabled Computer Vision Market Ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-enabled-computer-vision-market-will-register-a-cagr-of-about-22-between-2020-and-2027-covid19-impact-analysis-on-ecosystem-2020-07-15",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-artificial-intelligence-solutions-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029.md",
+      "title": "Artificial Intelligence Solutions Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029",
+      "excerpt": "MarketResearch.Biz published a new industry research report “Artificial Intelligence Solutions Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025.md",
+      "title": "Huge Expansion for Global AI in Healthcare Market Expecting to Grow at 54.5% CAGR to Achieve Remarkable Revenue by 2025",
+      "excerpt": "Selbyville, Delaware, Global AI in Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis. Global AI in Healthcare Market also covers top key players analysis and market segmentation in detail.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025-2020-07-09",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029.md",
+      "title": "Artificial Intelligence in Retail Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029",
+      "excerpt": "MarketResearch.Biz published a new industry research report “Artificial Intelligence in Retail Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida.md",
+      "title": "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida",
+      "excerpt": "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcmiami.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650",
+          "width": 1200,
+          "height": 650,
+          "title": "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp",
+      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp",
+      "publishedDateTime": "2020-07-08T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 6 South Florida",
+        "domain": "nbcmiami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-school-debate-president-trump-pushes-for-in-person-learning-to-resume.md",
+      "title": "School debate: President Trump pushes for in-person learning to resume",
+      "excerpt": "Breaking tonight, how to get students back to school safely amid the coronavirus pandemic? The president and first lady participating in what was billed as a national dialogue on the subject earlier today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1e786f4-809a-4cdd-9722-7073e51af51b/bf181f1d-83c9-4e48-9f79-10247b07dd6a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "School debate: President Trump pushes for in-person learning to resume",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
+      "publishedDateTime": "2020-07-08T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-can-ai-really-distinguish-between-back-pain.md",
+      "title": "Can AI Really Distinguish Between Back Pain?",
+      "excerpt": "The single code for two different conditions prevents appropriate billing and therapy recommendations, including different return-to-work scenarios. The artificial intelligence model in this study, the first of its kind, could be used to improve the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/can-ai-really-distinguish-between-back-pain",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/back-pain-2402708_1920.jpg",
+          "width": 1920,
+          "height": 1271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-deep-learning-with-tensorflow-pythonr.md",
+      "title": "Deep Learning with TensorFlow (Python/R)",
+      "excerpt": "As specialized consultancy for the resolution of any sort of data driven challenges via data science, machine learning and AI, we support you from the identification and scoping of use cases to the implementation of custom model developments. With cross ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.st.com/en/support-and-applications/deep-learning-with-tensorflow-python-r.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.st.com/content/dam/logos/stmicroelectronics-logo.jpg",
+          "width": 324,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ST",
+        "domain": "st.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-the-birth-of-the-cloud-enabled-hybrid-ai-robotics-platform.md",
       "title": "The Birth Of The Cloud-Enabled Hybrid-AI Robotics Platform",
       "excerpt": "While this does make the robot able to function off-line, the trade-offs between processing power, size, battery limitations, and inflexible technology result in minimal AI capabilities. If you can centralize this intelligence and offer it more on an on ...",
@@ -863,525 +1361,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-facebooks-speech-recognition-model-supports-51-different-languages.md",
-      "title": "Facebook’s speech recognition model supports 51 different languages",
-      "excerpt": "Facebook researchers developed a language model they say can recognize words in 51 different languages, including 'low-resource' languages like Persian.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s speech recognition model supports 51 different languages",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/amp/",
-      "publishedDateTime": "2020-07-08T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india.md",
-      "title": "AWS-powered Covid-19 diagnostic tool seeks lung scans from India",
-      "excerpt": "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-education-uhikPSdgdddhc.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-education-uhikPSdgdddhc.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-education-uhikPSdgdddhc.html",
-      "publishedDateTime": "2020-07-08T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-buys-vision-system-vendor-orions-systems.md",
-      "title": "Microsoft buys vision system vendor Orions Systems",
-      "excerpt": "Microsoft is looking to combine the video and image content analysis technology it is acquiring with Orions Systems to supplement its own Dynamics 365 Connected Store app and Power Platform services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/08/2affdcdf-5569-410f-9f0b-03bbc3844369/msbuysorion.jpg",
-          "width": 1304,
-          "height": 929,
-          "title": "Microsoft buys vision system vendor Orions Systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "publishedDateTime": "2020-07-08T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights.md",
-      "title": "Accelerating innovation: How serverless machine learning on AWS powers F1 Insights",
-      "excerpt": "FORMULA 1 (F1) turns 70 years old in 2020 and is one of the few sports that combines real-time skill with engineering and technical prowess. Technology has always played a central role in F1; where the evolution of the rules and tools is built into the DNA of F1. This keeps fans engaged and drivers […]",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/03/accelerating-innovation-1.gif",
-          "width": 1000,
-          "height": 501,
-          "title": "Accelerating innovation: How serverless machine learning on AWS powers F1 Insights",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T08:52:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-tellius-unveils-on-demand-ai-platform.md",
-      "title": "Tellius unveils on-demand AI platform",
-      "excerpt": "The software-as-a-service (SaaS) offering is intended to lower analytics costs and provide an easy-to-use, comprehensive package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tellius-unveils-on-demand-ai-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/08/07fbd827-e281-4447-9e66-204cd035b782/resize/1200x/bf50a36dcd544574fd1d9564eca03466/saas-istock-1203544876-putilich.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Tellius unveils on-demand AI platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tellius-unveils-on-demand-ai-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tellius-unveils-on-demand-ai-platform/",
-      "publishedDateTime": "2020-07-08T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ai-weiwei-yours-truly-review-on-the-irony-of-personal-freedom.md",
-      "title": "‘Ai Weiwei: Yours Truly’ Review: On the Irony of Personal Freedom",
-      "excerpt": "This documentary from Cheryl Haines about Ai, a Chinese artist and activist, explores the tension between the idea of liberty and the fate of those who pursue it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/07/09/arts/09aiweiwei-art/merlin_174157329_9408a62c-fb78-4b32-9e4d-18fd514a078f-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": "‘Ai Weiwei: Yours Truly’ Review: On the Irony of Personal Freedom",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.amp.html",
-      "publishedDateTime": "2020-07-08T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-continues-to-build-out-its-azure-cognitive-services-api-family.md",
-      "title": "Microsoft continues to build out its Azure Cognitive Services API family",
-      "excerpt": "The idea behind Azure Cognitive Services is to enable developers to use an API call in building heir apps to add sight, speech, search and other AI capabilities without having to master machine learning techniques first. Microsoft also has made a number ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg",
-          "width": 781,
-          "height": 494,
-          "title": "Microsoft continues to build out its Azure Cognitive Services API family",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/",
-      "publishedDateTime": "2020-07-08T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-inside-peacocks-strategy-to-entice-streaming-viewers-and-cord-cutters-with-7500-hours-of-free-tv-and-40-linear-channels.md",
-      "title": "Inside Peacock's strategy to entice streaming viewers and cord-cutters with 7,500 hours of free TV and 40 linear channels",
-      "excerpt": "NBCUniversal's Peacock lands nationally on July 15, with a free tier and two subscription offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": "Inside Peacock's strategy to entice streaming viewers and cord-cutters with 7,500 hours of free TV and 40 linear channels",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ai-finds-250-foreign-stars-that-migrated-to-our-galaxy.md",
-      "title": "AI finds 250 foreign stars that migrated to our galaxy",
-      "excerpt": "Astronomers have used deep learning to discover 250 new stars in the Milky Way, which they believe were born outside the galaxy.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-99-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI finds 250 foreign stars that migrated to our galaxy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/amp/",
-      "publishedDateTime": "2020-07-08T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-petroai-and-aws-partner-to-operationalize-modern-analytics-reduce-costs.md",
-      "title": "Petro.ai and AWS Partner to Operationalize Modern Analytics, Reduce Costs",
-      "excerpt": "The automated integration of Petro.ai with Amazon S3, AWS Lambda, and AWS VPC minimizes time spent loading, normalizing, and managing data while providing the elastic compute power required for modern analytics at enterprise scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
-          "width": 605,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
-      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
-      "publishedDateTime": "2020-07-08T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hart Energy",
-        "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-qualcomms-new-snapdragon-865-plus-is-its-most-powerful-mobile-chip-designed-for-gaming.md",
-      "title": "Qualcomm’s new Snapdragon 865 Plus is its most powerful mobile chip, designed for gaming",
-      "excerpt": "There are three key improvements of the Snapdragon 865 Plus from the stock standard 865: The Kryo 585 CPU has had its clock speed boosted up to a maximum of 3.1GHz, which is 10 percent higher than the standard 865 Newly added compatibility for Qualcomm’s FastConnect 6900 connectivity suite,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/circuitbreaker/2020/7/8/21312035/qualcomm-new-snapdragon-865-plus-gaming-performance-faster-cpu-gpu-wifi",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/vFJvFGtV87JQC3NEXWaXfK9kkk8=/0x0:8256x5504/1400x933/filters:focal(3468x2092:4788x3412):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67030262/Snapdragon_865_Plus_Reference_Design___Gold_Badge.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Qualcomm’s new Snapdragon 865 Plus is its most powerful mobile chip, designed for gaming",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/circuitbreaker/2020/7/8/21312035/qualcomm-new-snapdragon-865-plus-gaming-performance-faster-cpu-gpu-wifi",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/circuitbreaker/2020/7/8/21312035/qualcomm-new-snapdragon-865-plus-gaming-performance-faster-cpu-gpu-wifi",
-      "publishedDateTime": "2020-07-08T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
 type: article
 quality: 89
-heat: 169
+heat: 249
 published: true
 
 provider:
@@ -110,6 +110,68 @@ related:
         width: 370
         height: 246
         isCached: true
+  - title: "Facial recognition use by South Wales Police ruled unlawful"
+    excerpt: "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,"
+    publishedDateTime: 2020-08-11T11:40:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-wales-53734716"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53734716"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53734716"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Police use of ‘sinister’ facial recognition ruled a breach of privacy"
+    excerpt: "Ed Bridges crowdfunded a legal challenge against the use of Automatic Facial Recognition technology (Picture: PA) A police force’s use of facial recognition has been ruled unlawful in a landmark ..."
+    publishedDateTime: 2020-08-11T13:26:00Z
+    webUrl: "https://metro.co.uk/2020/08/11/police-use-sinister-facial-recognition-ruled-breach-privacy-13114310/"
+    ampWebUrl: "https://metro.co.uk/2020/08/11/police-use-sinister-facial-recognition-ruled-breach-privacy-13114310/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/08/11/police-use-sinister-facial-recognition-ruled-breach-privacy-13114310/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/08/PRI_160846234.jpg?quality=90&strip=all&zoom=1&resize=600%2C399&ssl=1"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "Police use of facial recognition breaches human rights law, London court rules"
+    excerpt: "Campaigners challenging the use of facial recognition technology by police in England and Wales have won a landmark legal victory after the Court of Appeal ruled its deployment breached human rights and data protection laws."
+    publishedDateTime: 2020-08-11T13:08:00Z
+    webUrl: "https://www.ft.com/content/b79e0bee-d32a-4d8e-b9b4-c8ffd3ac23f4"
+    ampWebUrl: "https://amp.ft.com/content/b79e0bee-d32a-4d8e-b9b4-c8ffd3ac23f4"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b79e0bee-d32a-4d8e-b9b4-c8ffd3ac23f4"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 55
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcbf8f682-d285-4ab0-8088-9df51ac17ad4.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Campaigner ‘delighted’ at Court of Appeal facial recognition technology ruling"
+    excerpt: "A civil rights campaigner has expressed his delight after the Court of Appeal ruled police use of facial recognition technology interfered with privacy rights and data protection"
+    publishedDateTime: 2020-08-11T13:15:00Z
+    webUrl: "https://www.shropshirestar.com/news/uk-news/2020/08/11/campaigner-delighted-at-court-of-appeal-facial-recognition-technology-ruling/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 50
+    images:
+      - url: "https://www.shropshirestar.com/resizer/vNMFGvSrd0Rt2mnczTqsvrhPzv4=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/MODQIB66OBEELCGGKC6RXOYVQU.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling"
     excerpt: "The Court of Appeal has upheld a complaint against South Wales Police for automatically scanning the faces of pedestrians."
     publishedDateTime: 2020-08-11T11:33:00Z
@@ -126,6 +188,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Is police use of face recognition now illegal in the UK?"
+    excerpt: "The UK Court of Appeal has determined that the use of a face-recognition system by South Wales Police was “unlawful”, which could have ramifications for the widespread use of such technology across th"
+    publishedDateTime: 2020-08-11T13:24:00Z
+    webUrl: "https://www.newscientist.com/article/2251508-is-police-use-of-face-recognition-now-illegal-in-the-uk/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/08/11132306/gettyimages-1199025045_web.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Police force violated human rights with face recognition cameras"
     excerpt: "A police force’s use of facial recognition technology was a violation of human rights, according to a landmark legal ruling.The Court of Appeal ruled that South Wales Police violated rights and failed"
     publishedDateTime: 2020-08-11T11:00:00Z
@@ -139,6 +215,48 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F20e91628-dbbd-11ea-9bd5-8c0b68caf23e.jpg?crop=3499%2C1968%2C0%2C182&resize=685"
         width: 685
         height: 385
+        isCached: true
+  - title: "UK police use of facial recognition ruled unlawful"
+    excerpt: "The Court of Appeal has ruled that South Wales Police deployed facial-recognition tools in a way which violated privacy and data protection laws and equality rules, concluding a closely watched legal battle over use of the controversial technology."
+    publishedDateTime: 2020-08-11T12:57:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2020/08/uk-police-use-of-facial-recognition-ruled-unlawful/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/6502/dreamstime_xl_117735807.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131751037210000000"
+        width: 1200
+        height: 450
+        isCached: true
+  - title: "Facial recognition tech used by South Wales Police ruled unlawful in Court of Appeal"
+    excerpt: "Mr Bridges' case, which was supported by civil rights group Liberty, is believed to be the world's first legal challenge against police use"
+    publishedDateTime: 2020-08-11T13:20:00Z
+    webUrl: "https://inews.co.uk/news/technology/facial-recognition-tech-south-wales-police-liberty-ed-bridges-court-of-appeal-576250"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 32
+    images:
+      - url: "https://inews-prd-a-images.s3.eu-west-2.amazonaws.com/content/uploads/2019/05/COURTS-Facial-100854.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Police use of facial recognition ruled 'unlawful' by judges after challenge by shopper"
+    excerpt: "Ed Bridges had his face scanned while he was Christmas shopping in Cardiff in 2017 and at a peaceful anti-arms protest the following year"
+    publishedDateTime: 2020-08-11T12:35:00Z
+    webUrl: "https://www.nottinghampost.com/news/uk-world-news/police-use-facial-recognition-ruled-4414423"
+    type: article
+    provider:
+      name: Nottingham Post
+      domain: nottinghampost.com
+    quality: 31
+    images:
+      - url: "https://i2-prod.bristolpost.co.uk/incoming/article2765411.ece/ALTERNATES/s1200/4_camjpeg.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "South Wales Police's use of facial recognition cameras in Cardiff was unlawful - live updates as Court of Appeal delivers verdict"
     excerpt: "Ed Bridges brought legal action at the High Court after claiming his face was scanned while doing shopping in the city centre"

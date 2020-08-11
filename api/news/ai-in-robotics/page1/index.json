@@ -9,7 +9,7 @@
       "webUrl": "https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

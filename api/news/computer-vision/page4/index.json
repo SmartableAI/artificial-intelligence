@@ -2,6 +2,97 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-10-how-to-generate-structured-data-automatically-using-computer-vision.md",
+      "title": "How to Generate Structured Data Automatically Using Computer Vision",
+      "excerpt": "The best way to learn and appreciate the power of computer vision is to run a quick example. I put together a simple Colab notebook that basically follows the steps outlined in this repo from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/07/how-to-generate-structured-data-automatically-using-computer-vision-5f06c03959da0.png",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/amp/",
+      "publishedDateTime": "2020-07-10T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-defending-black-lives-means-banning-facial-recognition.md",
+      "title": "Defending Black Lives Means Banning Facial Recognition",
+      "excerpt": "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "publishedDateTime": "2020-07-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-uk-and-australia-to-probe-clearview-ai-facial-recognition.md",
       "title": "UK And Australia To Probe Clearview AI Facial Recognition",
       "excerpt": "The British and Australian data protection authorities have opened an investigation into the controversial facial recognition technology firm Clearview AI.",
@@ -1324,89 +1415,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-facial-recognition-bill-would-ban-use-by-federal-law-enforcement.md",
-      "title": "Facial recognition bill would ban use by federal law enforcement",
-      "excerpt": "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/security/2-democratic-senators-propose-ban-use-facial-recognition-federal-law-n1232128",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2019_46/3101861/191114-facial-recognition-se-724p_89349dce96428fbb668c940dd897e041.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": "Facial recognition bill would ban use by federal law enforcement",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1232128",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232128",
-      "publishedDateTime": "2020-06-25T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories.md",
-      "title": "Pure Storage Recognized as a Leader in Enterprise Flash Array Storage and Object Storage Categories",
-      "excerpt": "Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service in a multicloud world, today announced that TrustRadius has recognized both FlashArrayTM and FlashBladeTM as 2020 Top Rated Award winners.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR Newswire/ce4dcd5499280c67e7fc78684a93d651",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8</loc>
+    <lastmod>2020-08-11T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/</loc>
+    <lastmod>2020-08-11T06:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/11/atomwise-raises-123-million-to-accelerate-drug-discovery-with-ai/</loc>
+    <lastmod>2020-08-11T06:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/</loc>
+    <lastmod>2020-08-11T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/</loc>
+    <lastmod>2020-08-11T05:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/video/artificial-intelligence-these-criminal-applications-of-ai-are-a-big-threat/</loc>
+    <lastmod>2020-08-11T05:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/</loc>
+    <lastmod>2020-08-11T05:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/roadshow/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/</loc>
+    <lastmod>2020-08-11T05:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/</loc>
+    <lastmod>2020-08-11T05:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/</loc>
     <lastmod>2020-08-11T03:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -45,6 +99,12 @@
   <url>
     <loc>https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.html</loc>
     <lastmod>2020-08-11T00:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/</loc>
+    <lastmod>2020-08-10T23:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -139,12 +199,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/</loc>
-    <lastmod>2020-08-10T06:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/</loc>
     <lastmod>2020-08-10T05:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -183,12 +237,6 @@
   <url>
     <loc>https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.html</loc>
     <lastmod>2020-08-10T03:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.html</loc>
-    <lastmod>2020-08-10T03:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -265,6 +313,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
+    <lastmod>2020-08-07T23:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/</loc>
     <lastmod>2020-08-07T22:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -295,12 +349,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/</loc>
-    <lastmod>2020-08-07T12:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/</loc>
     <lastmod>2020-08-07T11:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -321,6 +369,12 @@
   <url>
     <loc>https://www.zdnet.com/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/</loc>
     <lastmod>2020-08-07T07:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.michaeljfox.org/</loc>
+    <lastmod>2020-08-07T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -703,6 +757,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nytimes.com/reuters/2020/08/04/business/04reuters-autonomous-uber-levandowski.html</loc>
+    <lastmod>2020-08-04T16:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/global-edge-ai-chips-market-2020-by-key-players-regions-type-and-application-forecast-to-2025-2020-08-04</loc>
     <lastmod>2020-08-04T15:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -777,6 +837,12 @@
   <url>
     <loc>https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act</loc>
     <lastmod>2020-08-04T11:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W</loc>
+    <lastmod>2020-08-04T10:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -865,6 +931,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease</loc>
+    <lastmod>2020-08-04T06:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
     <lastmod>2020-08-04T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -913,12 +985,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865</loc>
-    <lastmod>2020-08-04T04:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/plugged/2020/08/04/apple-hit-with-1-43b-siri-patent-lawsuit-from-chinese-ai-firm/</loc>
     <lastmod>2020-08-04T03:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -951,18 +1017,6 @@
   <url>
     <loc>https://www.bignewsnetwork.com/news/265983784/artificial-intelligence-ai-in-healthcare-market-next-big-thing--major-giants-intel-nvidia-google</loc>
     <lastmod>2020-08-03T19:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/reuters/2020/08/03/world/asia/03reuters-ww2-anniversary-warcriminal.html</loc>
-    <lastmod>2020-08-03T18:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997</loc>
-    <lastmod>2020-08-03T16:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1089,6 +1143,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/</loc>
     <lastmod>2020-08-03T04:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-9149653</loc>
+    <lastmod>2020-08-03T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1233,6 +1293,12 @@
   <url>
     <loc>https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/</loc>
     <lastmod>2020-07-31T16:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.vice.com/en_us/article/pkyxwv/las-vegas-cops-used-unsuitable-facial-recognition-photos-to-make-arrests</loc>
+    <lastmod>2020-07-31T16:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025"
+    excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
+    publishedDateTime: 2020-08-11T13:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gesture Recognition Solution Market 2020 Analysis, Size, Share, Growth, Trends, Application, Types, and Upcoming Opportunities 2023"
     excerpt: "Global \"Gesture Recognition Solution Market\" report 2020 plans to give forefront advertise knowledge and help decision makers take sound investment evaluation. The report identifies and analyses the emerging trends along with major drivers,"
     publishedDateTime: 2020-08-10T12:43:00Z

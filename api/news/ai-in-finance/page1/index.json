@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-07-using-machine-learning-to-tackle-the-worlds-biggest-problems.md",
-      "title": "Using machine learning to tackle the world’s biggest problems",
-      "excerpt": "Machine learning has graduated from the realm of science fiction to become a core, transformative technology for organizations across industries and categories. The unique potential and power of machine learning is sparking genuine innovation,",
+      "path": "_news/2020-08-11-a-no-code-environment-brings-ai-to-the-business-user.md",
+      "title": "A No-Code Environment Brings AI To The Business User",
+      "excerpt": "For financial services organizations to truly reap the benefits AI can bring to efficiency and ROI, they need to empower business users to take the lead.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/using-machine-learning-to-tackle-the-worlds-biggest-problems/",
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 73,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1038383026.jpg?w=1200&#038;strip=all",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f31c65b669f3bb05a4ef108%2F0x0.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-07T12:03:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/amp/",
+      "publishedDateTime": "2020-08-11T05:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -47,10 +47,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
         "AI in Finance",
-        "AWS AI"
+        "AI"
       ]
     },
     {

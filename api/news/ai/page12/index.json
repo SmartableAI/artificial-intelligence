@@ -2,6 +2,526 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-28-inpowered-selected-by-ana-as-winner-of-best-use-of-aimachine-learning-category-at-2020-b2-awards.md",
+      "title": "inPowered Selected by ANA as Winner of 'Best Use of AI/Machine Learning' Category at 2020 B2 Awards",
+      "excerpt": "PRNewswire/ -- inPowered, the AI platform delivering business outcomes with content marketing, was awarded the top",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
+      "publishedDateTime": "2020-07-28T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-this-ai-will-turn-your-ugly-face-into-a-cute-cartoon.md",
+      "title": "This AI will turn your ugly face into a cute cartoon",
+      "excerpt": "thanks to new AI tool that turns images and videos into cartoons. Mahajan and Pandkar used their open-source implementation to create a publicly-available demo of the system, using GPU (Graphics ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T191306.193-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
+      "publishedDateTime": "2020-07-28T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-facebook-passes-pytorch-for-windows-development-to-microsoft.md",
+      "title": "Facebook passes PyTorch for Windows development to Microsoft",
+      "excerpt": "Microsoft has pledged to expand its participation in PyTorch to take ownership of the Facebook-led machine learning framework's development on Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/",
+      "publishedDateTime": "2020-07-28T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker.md",
+      "title": "How SNCF Réseau and Olexya migrated a Caffe2 vision pipeline to Managed Spot Training in Amazon SageMaker",
+      "excerpt": "This blog post is co-written by guest authors from SNCF and Olexya. Transportation and logistics are fertile ground for machine learning (ML). In this post, we show how the French state-owned railway company Soci&eacute;t&eacute; Nationale des Chemins de fer Fran&ccedil;ais (SNCF) uses ML from AWS with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T09:54:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-podcast-editor-descript-adds-new-pro-tier-with-access-to-its-ai-voice-double-feature.md",
+      "title": "Podcast editor Descript adds new pro tier with access to its AI voice double feature",
+      "excerpt": "Descript, the maker of artificial intelligence-powered audio editing software, is launching a new tier of subscription today called Descript Pro that features access to its Overdub feature. Overdub, first released in beta last year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/o_8is0wzt7RbChOC5Y9kp8mGoOs=/0x0:2196x1620/1400x933/filters:focal(923x635:1273x985):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67121420/descript_2.0.png",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
+      "publishedDateTime": "2020-07-28T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-cheryl-ingstad-director-of-the-ai-and-technology-office-us-department-of-energy-doe.md",
+      "title": "Cheryl Ingstad, Director of the AI and Technology Office, U.S. Department of Energy (DOE)",
+      "excerpt": "The US Department of Energy has been at the forefront of most of the groundbreaking and world-changing revolutions in science and technology including nuclear energy, genomics, and high-performance computing.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2020/07/Appen_State_of_AI_report.png",
+          "width": 462,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-elon-musk-wants-to-unite-the-human-brain-with-ai-using-a-tiny-implant.md",
+      "title": "Elon Musk wants to unite the human brain with AI using a tiny implant",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F28%252F0b%252Fd555b7c7b93142d59e1382b7504f8ac6.29b8b.jpg%252F1200x630.jpg?signature=0ul5lcJR6ywpbjzcZ9m-3rhAnWU=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
+      "publishedDateTime": "2020-07-28T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises.md",
+      "title": "TikTok owner ByteDance’s AI chief to leave as US pressure rises",
+      "excerpt": "ByteDance's head of AI research is leaving the Beijing-based firm amid mounting scrutiny of the company's video app TikTok.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T145238.994-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
+      "publishedDateTime": "2020-07-28T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision.md",
+      "title": "NVIDIA, BMW, Red Hat, and more on the promise of AI, edge computing, and computer vision",
+      "excerpt": "The limits of compute power on devices keep getting pushed and computer vision models are becoming faster and more accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-28-at-8.51.01-AM.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
+      "publishedDateTime": "2020-07-28T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors.md",
+      "title": "Density raises $51 million to promote social distancing with AI occupancy-tracking sensors",
+      "excerpt": "Density, a startup building AI-powered, people-counting infrared sensors, today closed a $51 million round to address pandemic-driven demand.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/density-webiste-preview.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/",
+      "publishedDateTime": "2020-07-28T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure.md",
+      "title": "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure",
+      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
+      "publishedDateTime": "2020-07-28T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-explorium-raises-30-million-to-automate-data-prep-with-ai.md",
       "title": "Explorium raises $30 million to automate data prep with AI",
       "excerpt": "Explorium, a Tel Aviv-based startup developing an automated data and feature discovery platform, secured $30 million in financing.",
@@ -865,485 +1385,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities.md",
-      "title": "As ADA turns 30, tech is just getting started helping people with disabilities",
-      "excerpt": "The Americans with Disabilities Act of 1990 paved the way for decades of incremental changes to the way buildings, businesses and laws accommodate people with a wide variety of disabilities. At 30 years old this week,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/teams-captions.png",
-          "width": 520,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/27/as-ada-turns-30-tech-is-just-getting-started-helping-people-with-disabilities/amp/",
-      "publishedDateTime": "2020-07-28T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-machine-learning-as-a-service-market-segmentation-growth-share-and-sizegoogle-inc-ibm-corporation-microsoft-corporation.md",
-      "title": "Machine Learning as a Service Market Segmentation, Growth, Share and Size|Google Inc, IBM Corporation, Microsoft Corporation",
-      "excerpt": "MarketResearch.Biz –: The recent report posted via MarketResearch.Biz on Machine Learning as a | eTurboNews | Trends | Travel News |",
-      "sourceUrl": null,
-      "webUrl": "https://www.eturbonews.com/577492/machine-learning-as-a-service-market-segmentation-growth-share-and-sizegoogle-inc-ibm-corporation-microsoft-corporation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eturbonews.com/wp-content/uploads/2019/08/untitled-design-high-quality.jpg",
-          "width": 350,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTurboNews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-elon-musk-says-hes-terrified-of-ai-taking-over-the-world-and-most-scared-of-googles-deepmind-ai-project.md",
-      "title": "Elon Musk says he's terrified of AI taking over the world and most scared of Google's DeepMind AI project",
-      "excerpt": "Tesla and SpaceX CEO Elon Musk, who has repeatedly warned of the dangers of artificial intelligence, said he was most worried about Google's AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5b840ccf1982d88b308b49fc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-maureen-dowd-ai-google-deepmind-wargames-2020-7?amp",
-      "publishedDateTime": "2020-07-27T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-demand-for-autonomous-delivery-robots-rises-as-pandemic-continues.md",
-      "title": "Demand For Autonomous Delivery Robots Rises As Pandemic Continues",
-      "excerpt": "Answering the need for deliveries that minimize human contact, companies are stepping up R&D efforts in autonomous robot development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1f969d138498e307bb28ad%2F0x0.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2020/07/27/demand-for-autonomous-delivery-robots-rises-as-pandemic-continues/amp/",
-      "publishedDateTime": "2020-07-27T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-end-to-end-analog-neural-networks-promise-better-ai-chips.md",
-      "title": "End-to-End Analog Neural Networks Promise Better AI Chips",
-      "excerpt": "Latest research on brain-inspired end-to-end analog neural networks promises fast, very low power AI chips, without on-chip ADCs and",
-      "sourceUrl": null,
-      "webUrl": "https://www.eetindia.co.in/end-to-end-analog-neural-networks-promise-better-ai-chips/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2020/07/Rain-Neuromorphics-Concept-1.jpg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eetindia.co.in",
-        "domain": "eetindia.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-creating-ai-that-understands-emotion.md",
-      "title": "Creating AI That Understands Emotion",
-      "excerpt": "Jay Turcot, Affectiva's Director of Applied AI, told an audience during a presentation at the 2017 GPU Technology Conference (GTC). “We believe interacting with technology being a cold experience is a side effect of machines not having empathy.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/creating-ai-understands-emotion",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Affectiva_GTC2017.jpg",
-          "width": 4160,
-          "height": 2340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-erc-proof-of-concept-artificial-intelligence-for-flexible-robots.md",
-      "title": "ERC Proof of Concept: Artificial intelligence for flexible robots",
-      "excerpt": "Programming a robot to solve just one complex motor task has remained a challenging, costly and time-consuming task - artificial intelligence is rarely employed. In fact, manual programming has ...",
-      "sourceUrl": null,
-      "webUrl": "https://eurekalert.org/pub_releases/2020-07/tud-epo072820.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-google-created-ais-that-can-teach-and-program-themselves.md",
-      "title": "Google Created AIs That Can Teach and Program Themselves",
-      "excerpt": "Machine Learning That Writes Itself Meanwhile, another research project at Google, AutoML, is showing that it is not only possible for AI to teach itselff but to program itself. AutoML (short for “automated machine learning”) allows for “controller ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/google-created-ais-can-teach-and-program-themselves",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Go%20Player%20hand.png",
-          "width": 902,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-research-reveals-how-to-optimize-neural-networks-on-a-brain-inspired-computer.md",
-      "title": "Research Reveals How to Optimize Neural Networks on a Brain-Inspired Computer",
-      "excerpt": "Neural networks in both biological settings and artificial intelligence distribute computation across their neurons to solve complex tasks. New research now shows how so-called “critical states” can be used to optimize artificial neural networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/research-reveals-how-to-optimize-neural-networks-on-a-brain-inspired-computer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/summit-image-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
-      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
-      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
-          "width": 1314,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications.md",
-      "title": "NVMe over Fabrics and GPU Direct Storage Boost HPC and AI Edge Applications",
-      "excerpt": "With the ever advancing capability of GPU subsystems, the bottleneck for many of these applications has moved to the storage subsystem requiring new innovations in data IO architectures.” There are a number of technologies and innovations which address t ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2020/07/nvme-over-fabrics-and-gpu-direct-storage-boost-hpc-and-ai-edge-applications/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/07/eos_with_bezel-with-SB2000-24.png",
-          "width": 600,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

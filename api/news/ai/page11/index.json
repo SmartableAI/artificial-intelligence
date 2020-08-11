@@ -2,6 +2,501 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-29-microsoft-azure-is-set-to-be-the-top-cloud-platform.md",
+      "title": "Microsoft Azure is set to be the top cloud platform",
+      "excerpt": "Microsoft signed new deals with PepsiCo and Mastercard to use Azure as their preferred cloud platform. Azure seems to be the top business choice right now.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/07/Microsoft-Azure-is-set-to-be-the-top-cloud-platform.jpg",
+          "width": 1856,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-top-cloud-platform/?amp",
+      "publishedDateTime": "2020-07-29T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-elon-musk-says-deepmind-is-his-top-concern-when-it-comes-to-ai.md",
+      "title": "Elon Musk says DeepMind is his 'top concern' when it comes to A.I.",
+      "excerpt": "Elon Musk believes that DeepMind is a \"top concern\" when it comes to artificial intelligence.  The Tesla and SpaceX boss made his comments in an interview with The New York Times.  Musk invested in DeepMind before it was acquired by Google in 2014.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/07/29/elon-musk-deepmind-ai.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105968995-1560512715227rtx6z8xd.jpg?v=1583511384",
+          "width": 3434,
+          "height": 2289,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/29/elon-musk-deepmind-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/29/elon-musk-deepmind-ai.html",
+      "publishedDateTime": "2020-07-29T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-microsoft-gijima-launch-ai-varsity-programme-for-graduates.md",
+      "title": "Microsoft, Gijima launch AI varsity programme for graduates",
+      "excerpt": "The Central University of Technology has set up an artificial intelligence programme to help graduates create the next generation of intelligent solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/06/Lillian-Barnard-2020.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/wbrpOqgY8YZ7DLZn",
+      "publishedDateTime": "2020-07-29T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-aws-launches-ai-tool-to-help-businesses-tackle-online-fraud.md",
+      "title": "AWS launches AI tool to help businesses tackle online fraud",
+      "excerpt": "Businesses with more advanced requirements can use their own models with the service using an integration with SageMaker, Amazon’s managed AI platform. AWS charges no up-front p",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356597/aws-launches-ai-tool-that-helps-businesses-tackle",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1585738240/itpro/AWSApyGlass.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-soa-engineering-students-shine-in-flipkart-grid-robotics-challenge.md",
+      "title": "SOA Engineering Students Shine In Flipkart Grid Robotics Challenge",
+      "excerpt": "Five engineering students of SOA came up with a remarkable performance to qualify for Level-2 in the Flipkart GRiD 2.0 Robotics Challenge as the only team from Odisha other than IIT and NIT.",
+      "sourceUrl": null,
+      "webUrl": "https://odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.odishatv.in/wp-content/uploads/2020/07/Untitled-1-4.jpg",
+          "width": 750,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512/amp",
+      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/odisha-news/soa-engineering-students-shine-in-flipkart-grid-robotics-challenge-465512/amp",
+      "publishedDateTime": "2020-07-29T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha TV",
+        "domain": "odishatv.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-global-artificial-intelligence-in-retail-markets-2020-2027.md",
+      "title": "Global Artificial Intelligence in Retail Markets, 2020-2027",
+      "excerpt": "The global artificial intelligence in retail market is expected to grow at a CAGR of 34.4% from 2020 to reach $19.9 billion by 2027. The growth in the artificial intelligence in retail market is driven by several factors such as the rising number of internet users,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16822677/global-artificial-intelligence-in-retail-markets-2020-2027",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16822677",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822677",
+      "publishedDateTime": "2020-07-29T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026.md",
+      "title": "Speech and Voice Recognition Market Strength, Major Type, Key Application And Leading Companies Forecast Till 2026",
+      "excerpt": "Jul 29, 2020 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
+      "title": "Japanese Robot to Clock In at a Convenience Store in Test of Retail Automation",
+      "excerpt": "Following that trial, store operator FamilyMart says it plans to use robot workers at 20 stores around Tokyo by 2022. At first, people will operate them remotely - until the machines' artificial intelligence (AI) can learn to mimic human movements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/reuters/2020/07/29/business/29reuters-japan-tech-robot.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-chinese-dissident-artist-ai-weiwei-on-masks-uighurs-and-democracy.md",
+      "title": "Chinese Dissident Artist Ai Weiwei On Masks, Uighurs and Democracy",
+      "excerpt": "China’s most famous artist and infamous government critic spills on human rights atrocities in Xinjiang and state attempts to cover up the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f20f138fcd71c009e8086ca/lede/1595994995279-0001ow9h9.jpeg?crop=1xw:0.8438xh;0xw,0.1562xh",
+          "width": 4241,
+          "height": 2382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
+      "publishedDateTime": "2020-07-28T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026.md",
+      "title": "Natural Language Processing Market Segmentation, Research Methodology And Revenue Growth Forecast Till 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 29, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work.md",
+      "title": "A new AI claims it can help remove racism on the web. So I put it to work",
+      "excerpt": "It was too tempting a challenge. Which site has more problematic pages? FoxNews.com or ESPN.com? You may be surprised.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/11/d4c29a7e-7cdc-4746-80a8-95898573899c/ai.png",
+          "width": 1938,
+          "height": 1258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
+      "publishedDateTime": "2020-07-28T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-aws-announces-general-availability-of-amazon-fraud-detector.md",
       "title": "AWS Announces General Availability of Amazon Fraud Detector",
       "excerpt": "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully",
@@ -871,526 +1366,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-inpowered-selected-by-ana-as-winner-of-best-use-of-aimachine-learning-category-at-2020-b2-awards.md",
-      "title": "inPowered Selected by ANA as Winner of 'Best Use of AI/Machine Learning' Category at 2020 B2 Awards",
-      "excerpt": "PRNewswire/ -- inPowered, the AI platform delivering business outcomes with content marketing, was awarded the top",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/inpowered-selected-by-ana-as-winner-of-best-use-of-ai-machine-learning-category-at-2020-b2-awards-1029440469",
-      "publishedDateTime": "2020-07-28T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-this-ai-will-turn-your-ugly-face-into-a-cute-cartoon.md",
-      "title": "This AI will turn your ugly face into a cute cartoon",
-      "excerpt": "thanks to new AI tool that turns images and videos into cartoons. Mahajan and Pandkar used their open-source implementation to create a publicly-available demo of the system, using GPU (Graphics ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T191306.193-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/this-ai-will-turn-your-ugly-face-into-a-cute-cartoon/amp/",
-      "publishedDateTime": "2020-07-28T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-facebook-passes-pytorch-for-windows-development-to-microsoft.md",
-      "title": "Facebook passes PyTorch for Windows development to Microsoft",
-      "excerpt": "Microsoft has pledged to expand its participation in PyTorch to take ownership of the Facebook-led machine learning framework's development on Windows.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/pytorch-e1576624094357.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-passes-pytorch-for-windows-development-to-microsoft/amp/",
-      "publishedDateTime": "2020-07-28T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker.md",
-      "title": "How SNCF Réseau and Olexya migrated a Caffe2 vision pipeline to Managed Spot Training in Amazon SageMaker",
-      "excerpt": "This blog post is co-written by guest authors from SNCF and Olexya. Transportation and logistics are fertile ground for machine learning (ML). In this post, we show how the French state-owned railway company Soci&eacute;t&eacute; Nationale des Chemins de fer Fran&ccedil;ais (SNCF) uses ML from AWS with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T09:54:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-podcast-editor-descript-adds-new-pro-tier-with-access-to-its-ai-voice-double-feature.md",
-      "title": "Podcast editor Descript adds new pro tier with access to its AI voice double feature",
-      "excerpt": "Descript, the maker of artificial intelligence-powered audio editing software, is launching a new tier of subscription today called Descript Pro that features access to its Overdub feature. Overdub, first released in beta last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/o_8is0wzt7RbChOC5Y9kp8mGoOs=/0x0:2196x1620/1400x933/filters:focal(923x635:1273x985):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67121420/descript_2.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
-      "publishedDateTime": "2020-07-28T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-cheryl-ingstad-director-of-the-ai-and-technology-office-us-department-of-energy-doe.md",
-      "title": "Cheryl Ingstad, Director of the AI and Technology Office, U.S. Department of Energy (DOE)",
-      "excerpt": "The US Department of Energy has been at the forefront of most of the groundbreaking and world-changing revolutions in science and technology including nuclear energy, genomics, and high-performance computing.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2020/07/Appen_State_of_AI_report.png",
-          "width": 462,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-elon-musk-wants-to-unite-the-human-brain-with-ai-using-a-tiny-implant.md",
-      "title": "Elon Musk wants to unite the human brain with AI using a tiny implant",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F28%252F0b%252Fd555b7c7b93142d59e1382b7504f8ac6.29b8b.jpg%252F1200x630.jpg?signature=0ul5lcJR6ywpbjzcZ9m-3rhAnWU=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
-      "publishedDateTime": "2020-07-28T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises.md",
-      "title": "TikTok owner ByteDance’s AI chief to leave as US pressure rises",
-      "excerpt": "ByteDance's head of AI research is leaving the Beijing-based firm amid mounting scrutiny of the company's video app TikTok.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T145238.994-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
-      "publishedDateTime": "2020-07-28T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision.md",
-      "title": "NVIDIA, BMW, Red Hat, and more on the promise of AI, edge computing, and computer vision",
-      "excerpt": "The limits of compute power on devices keep getting pushed and computer vision models are becoming faster and more accurate.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-28-at-8.51.01-AM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
-      "publishedDateTime": "2020-07-28T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors.md",
-      "title": "Density raises $51 million to promote social distancing with AI occupancy-tracking sensors",
-      "excerpt": "Density, a startup building AI-powered, people-counting infrared sensors, today closed a $51 million round to address pandemic-driven demand.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/density-webiste-preview.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors/amp/",
-      "publishedDateTime": "2020-07-28T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure.md",
-      "title": "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure",
-      "excerpt": "Insight Enterprises (NASDAQ:NSIT), the global integrator of Insight Intelligent Technology Solutions™ for organizations of all sizes,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insight-earns-advanced-specialization-in-four-areas-of-microsoft-azure-1029439088",
-      "publishedDateTime": "2020-07-28T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -130,7 +130,7 @@ related:
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Research with COVID-19 After Effects, Development Factors and Growth Analysis (2020-2026)"
     excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) in Healthcare Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
     publishedDateTime: 2020-08-11T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11"
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
@@ -140,6 +140,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Marketing Market Incredible Possibilities, Growth with Industry Study, Detailed Analysis and Forecast"
+    excerpt: "Global News Presents a large scale Artificial Intelligence in Marketing Market report structured with the thorough market analysis carried out by a team of industry experts dynamic analysts skilful forecasters and well informed researchers"
+    publishedDateTime: 2020-08-11T09:44:00Z
+    webUrl: "https://www.openpr.com/news/2109419/artificial-intelligence-in-marketing-market-incredible"
+    ampWebUrl: "https://www.openpr.com/amp/2109419/artificial-intelligence-in-marketing-market-incredible"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2109419/artificial-intelligence-in-marketing-market-incredible"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/T/8/T811138979_g.jpg"
+        width: 631
+        height: 400
         isCached: true
   - title: "Global Chips and Particles Market to 2025 - Analysis, Forecast, Size, Trends and Insights"
     excerpt: "Market Analysis, Forecast, Size, Trends and Insights\" report has been added to ResearchAndMarkets.com's offering. This report has been designed to provide a detailed survey of the global chip market."
@@ -175,20 +191,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
-  - title: "Global Artificial Intelligence for Drug Development and Discovery Market (2020 to 2027) - by Type, Indication, and End-user"
-    excerpt: "The \"Artificial Intelligence For Drug Development and Discovery Market by Type, Indication, and End User: Global Opportunity Analysis"
-    publishedDateTime: 2020-08-06T19:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-for-drug-development-and-discovery-market-2020-to-2027---by-type-indication-and-end-user-301107628.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Global Self-Driving Truck Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
     excerpt: "Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
     publishedDateTime: 2020-08-09T21:18:00Z

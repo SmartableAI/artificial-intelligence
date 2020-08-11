@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-30-buildots-raises-16m-to-bring-computer-vision-to-construction-management.md",
+      "title": "Buildots raises $16M to bring computer vision to construction management",
+      "excerpt": "Buildots, a Tel Aviv and London-based startup that is using computer vision to modernize the construction management industry, today announced that it has raised $16 million in total funding. This includes a $3 million seed round that was previously unreported and a $13 million Series A round,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/IMG_3411_s.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/amp/",
+      "publishedDateTime": "2020-07-30T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-us-agency-pandemic-masks-thwarting-face-recognition-tech.md",
+      "title": "U.S. agency: Pandemic masks thwarting face recognition tech",
+      "excerpt": "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uticaod.com/apps/pbcsi.dll/bilde?Site=NY&Date=20200729&Category=NEWS&ArtNo=200729574&Ref=AR",
+          "width": 726,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
+      "cdnAmpWebUrl": "https://www-uticaod-com.cdn.ampproject.org/c/s/www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
+      "publishedDateTime": "2020-07-29T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Uticaod",
+        "domain": "uticaod.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-rite-aid-has-been-using-facial-recognition-tech-across-hundreds-of-its-stores.md",
       "title": "Rite Aid has been using facial recognition tech across hundreds of its stores",
       "excerpt": "This information came to light through a recent investigation by Reuters. During the site's probe, investigative journalists found that a whopping 200 Rite Aid locations used facial recognition technology to detect potential criminals,",
@@ -1313,88 +1404,6 @@
         "name": "The Conversation",
         "domain": "theconversation.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation.md",
-      "title": "New Apple iPhone Patent Applications Surface: Object and Facial Recognition, Messaging, Voice Modulation",
-      "excerpt": "The patents cover object and facial recognition, messaging, and voice modulation. Object Recognition: One patent application, filed on June 17th, 2008, describes methods by which a mobile device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
-      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2009/07/09/new-apple-iphone-patent-applications-surface-object-and-facial-recognition-messaging-voice-modulation/amp/",
-      "publishedDateTime": "2020-07-20T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-clearview-ai-the-facial-recognition-company-that-scraped-billions-of-faces-off-the-internet-was-just-hit-with-a-data-privacy-complaint-in-europe.md",
-      "title": "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe",
-      "excerpt": "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153",
-          "width": 1747,
-          "height": 1311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "publishedDateTime": "2020-07-18T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
