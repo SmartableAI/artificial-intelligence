@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T02:25:00Z
 webUrl: "https://global.chinadaily.com.cn/a/202008/07/WS5f2cad7ea31083481725ecf5.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 683
     height: 455
     isCached: true
-
-related:
-  - title: "Amazon moves Boulder robotics development to garages during Covid-19"
-    excerpt: "As Covid-19 forced many companies out of the office and into their homes, Amazon got creative to enable its Boulder-based robotics team to continue working."
-    publishedDateTime: 2020-08-06T10:15:00Z
-    webUrl: "https://www.bizjournals.com/denver/inno/stories/news/2020/08/06/amazon-moves-boulder-robots-to-garages-during-coro.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "OVPKqUOkUxNbrs0EIy51HuxTjp+4tHcFVLKYs1ZPgVXlzCiBIG8M+fu8loF/24PKNGxIB13XsMzoiOnpdPKlCsW2jWkPvkiwuJ2SVGfiIK3WxHlIBJDb0ctkWdnLdovq0ZcB7bDDtOxZw37ciTYzAz3hRBXs4LMyP4fABjd7mW6FhrADIt3/rFYidWzVJJW277eHmTKLZ+MoVAU+ntyeO02oJaFJp20RdIphs0EW0s8BIwyks8JVsYtmz5413N9GlKaHr+Lfb4pnyRbr9XhH+qPj9VY2yMAQhx6xr/ON0djcFd7xNtAu0NSMEEpiXlRzG8/3PvkvZHiX5XpfC+VHdA==;+rC3xmO8/5ezAGjO8n3mLg=="
 ---

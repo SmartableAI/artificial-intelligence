@@ -5,8 +5,8 @@ excerpt: "Robots are shaking up different aspects of the modern business world. 
 publishedDateTime: 2020-08-10T23:15:00Z
 webUrl: "https://roboticsandautomationnews.com/2020/08/10/the-robots-are-here-to-stay-how-automation-is-affecting-global-business/34958/"
 type: article
-quality: 23
-heat: 23
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/08/fatjoe-article-rpa-1-copy.jpg"
