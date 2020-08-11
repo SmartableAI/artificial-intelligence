@@ -46,17 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM details research on AI to measure Parkinson’s disease progression"
-    excerpt: "IBM recently detailed its work to develop AI systems that can detect signs of disease progression in patients with Parkinson's."
-    publishedDateTime: 2020-08-06T16:54:00Z
-    webUrl: "https://venturebeat.com/2020/08/06/ibm-details-research-on-ai-to-measure-parkinsons-disease-progression/"
-    ampWebUrl: "https://venturebeat.com/2020/08/06/ibm-details-research-on-ai-to-measure-parkinsons-disease-progression/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/ibm-details-research-on-ai-to-measure-parkinsons-disease-progression/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
 
 secured: "oB63ny0j/jb2N2OR2jg7QYYC7y7KYkYj2/cUBDN5MBbLwCQEqW0+C4dGN5k0I1dDhNP+NzffDaTWeHJHiOzOLY6VXm3Pkz6NyjI4qTMfskoohMZsHns8GFAR9hzRNt/Pvqcqu5HsOlxhqc3n6PAajmY7ymvrgSpNNq4PAOUzkDvVtLY7TTb7+jMt/LfVjS8Hp+2iicdf/w+NjpUqvDtZjyrknyNqn56BP+7/KKXRQyKQjfu2XMUDM26m/vKJ/nEBrPe3ZqGgMECr5xBU0cgG6VIzpL5ZSWBDV0GxtFWYCyeG+XHBavMYk9O+XVi7+D6Wq7kFXM47CPe8fs2jaCLqWyIr4b84rgiJ+g7SRuzozgV3NvfoLC2XLeFT7g26qKELHt+hM24C+vtG6SzAI6VxFLNHUohN/txcH409n4KxsNoWuwAA4RVo1Rck5GsfPPAD6JpZnOywWIVBjVY/P5oyWruaqzEnnPPrGLcCQxFpRe6HeTtIDCNYwYUkbPjENncw;Lx3sf4OOVZZ3hvmppxvDYg=="
 ---

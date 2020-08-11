@@ -40,22 +40,6 @@ related:
         width: 360
         height: 240
         isCached: true
-  - title: "Macy's faces class action lawsuit for use of facial recognition software Clearview AI"
-    excerpt: "An Illinois woman filed a class action lawsuit Wednesday against Macy's, claiming the corporation's use of Clearview AI facial recognition software is an invasion of privacy. Clearview is a research tool used by law enforcement agencies to identify perpetrators and victims of crimes,"
-    publishedDateTime: 2020-08-07T15:05:00Z
-    webUrl: "https://www.cincinnati.com/story/news/2020/08/07/macys-faces-class-action-lawsuit-use-facial-recognition-software-clearview-ai/3315099001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3315099001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3315099001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/05/PCIN/4d576e5c-5bd1-4c28-bda1-6bd46d182c21-020520MacysHQ_09.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Macy’s sued for gathering facial data of customers at stores"
     excerpt: "The department store giant is accused of using facial recognition software to match faces with personal information on social media. More than 6,000 people could be affected. The class action lawsuit was filed in the Northern District of Illinois seeking ..."
     publishedDateTime: 2020-08-07T23:58:00Z

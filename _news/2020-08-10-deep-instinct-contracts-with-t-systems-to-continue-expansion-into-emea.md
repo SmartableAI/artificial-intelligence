@@ -38,7 +38,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Deep Instinct expands in Europe with T-Systems"
+    excerpt: "Deep Instinct, a cyber-security company, is continuing its strategic expansion into the EMEA region with a contract with T-Systems Poland, one of the region's largest IT services providers. T-Systems will use and distribute Deep Instinct's protection to its customers."
+    publishedDateTime: 2020-08-11T09:32:00Z
+    webUrl: "https://www.telecompaper.com/news/deep-instinct-expands-in-europe-with-t-systems--1349846"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
-secured: "/nIgm1t+/O4OTIeWcrVm4IHqBhxl9Oar58vL0FMKpcypt5L2AJuxS7DbqSux9aWeHJ0FLQAq+3pIUg4RL9KLRep+CTslrJRm16WaxZDztNmbMI4j++d6SRLOPMEvmy64kEX3psUiOTvTP9C2G0XzJCNvlWaba7H1reuAoAg20ejBijjdBA9n9wKEW82LJ7Hs46IsXD3M9rXCJ/iBCtCEQqs39JLWFVaNYOryKzvg/NICUkVpfY4tbbQvMM5Gx2SXmHXD6GeLPWNmUMPwJ/JtKa+rHWsHH8azoIDb/rpQ87wfgbzI2OMzsmKGoFiQcFIx/LGlT+G+/ErEYqA+7r3UrQ==;Fs0vgEyv4TiUzwL/r9VX0Q=="
+secured: "K4zDAShMxMpu3fWDNen6xnAcavgH73r97jO1gymSLVvyd5GuBd+zmU8QVYOLg9JR6NYCS3CDXsjfFWzPpWgYH7jT+PjdoEVTU1ZWlaDRff0lxNNb/ws98vZyYu5egrFFsJ1iimXuw8Vjhok74c9S4J0hF2GioSf5i4zue3ZqhGDkm1clQ2JG/YV+0yRPVyqVqirj/vFLZWusmyrgT0lBxvuWVXNwdANi2PlzcotOBZXVPQGKWb9k9mTySZYC+oszOqFIB+B0NvUyvbLp9U6vtrIsv6M2pDigMvvKVv+ebD1gv+ZuxlkvAEJ+G1ElfwPuOYKxq2UnOUxKvMakz0INvyvh5YbFmswHEm2Maeb7f8gNN1/stiDTQNy/U5/5EupQ5UihSt/JGRH+r3/skWhGfDqo8XnDU+DXWelC6LHyYBHiBjBfrw+JGE/i40ZefEWrg30qkW6Y1tjL0GtJGcNdVc4Ymw0R6icMvyAf2r4iWbEJOoSu15/9igbiUkyoFFgfRWF1zj6ORoow16OsLw8BIA==;fKblm+5xBiaAgip4/qMoDA=="
 ---
 

@@ -1,22 +1,41 @@
 ---
 category: news
 title: "Avanade named strategic go-to Microsoft Azure partner in new global alliance with Databricks"
-excerpt: "Avanade will become Databricks’ key global partner and benefit from its deep knowledge and experience in massive scale data engineering, and collaborative data science, complementing Avanade’s Azure data and AI capabilities."
+excerpt: "Avanade, the leading digital innovator on the Microsoft ecosystem, and Databricks, the leading provider of unified data analytics solutions, have fo"
 publishedDateTime: 2020-08-11T05:41:00Z
-webUrl: "https://www.arnnet.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/"
+webUrl: "https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Umvnf0cE65eb6h7M9pkRRIFYwgHv/0e7Ka7x+JzIbdUAeiL5xR/qGDhXtKY4wSfeOxmYuTZCkif/O4fFKjYYoWf1Ow+TeWkDBoo6BxHHLkkT77W9rtqzxGRi85upAGW2Rc9i41O4K3IyQGd6RrNNGh0dKHY/KhOPey6x3D/qeX8Rt69I9FBQhbXv4GVlASpb5r5OkoPKCr0CN8U3/Pf5SdkNzqJv0kxl9sLAQoZO3AsHOTXXP38YvFY1YBZXkuzVNJ+9XPywXiC8sR+WppZ45bn/+MXJBM2BDx860kzyQ4nGmjfoTweXAxcXRbjemnU2qZnVBgdegEa6PGl+xwzzOA==;qB8mjo7xVFMXGah0ld2y0g=="
+images:
+  - url: "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg"
+    width: 620
+    height: 254
+    isCached: true
+
+related:
+  - title: "TekLink International Inc. Is Now A Microsoft Gold Partner For Azure Cloud Analytics And Data Analytics"
+    excerpt: "TekLink International Inc., a respected leader in Cloud Platforms, Business and Financial Planning Solutions, and"
+    publishedDateTime: 2020-08-07T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/n16992431/teklink-international-inc-is-now-a-microsoft-gold-partner-for-azure-cloud-analytics-and-data-analy"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16992431"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16992431"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+
+secured: "9YwIwry8lRrdx/lGSN56pZ2XdhBufrB1td7dAp+Hf3RwfYbJwfL/uzxavXZ0YBAXwHfO+5xdyF5SBqqmXOUhWQg73684XqAAsm2mhmubjB+Yzlv+wRU41Y7uziVzXnl42GLisxTO2Vj5lnOea1ZGHHhiuAe5rkjrnmZvvFxjmr6Lu/Rh7Usmeu/vTt0SNO/zC1Yd1/0iY/qIdsYZ2MXMEw3aXxycvvg+aI9G/li1fHupLZyUguGPbQB0tP7ZFx8KyXfX4QOGAUWV8vsxIgnnziTi67RqyNEz77bLCQZy70YbmIwugEAEZtSYh+tIF+DUFP88vkVi0rjHi9NlGYkyuw==;hs1nDWXtRUrqOe09p23XNA=="
 ---
 

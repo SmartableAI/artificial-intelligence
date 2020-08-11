@@ -52,17 +52,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Yandex starts regular tests of self-driving cars in US"
-    excerpt: "Yandex has initiated tests of self-driving cars on a regular basis in Ann Arbor, Michigan, the company’s press service told TASS on Thursday. Read also Yandex to launch 100 new self-driving cars on roads in Russia and US in 2020 \"Yandex’ self-driving cars have started moving in Ann Arbor,"
-    publishedDateTime: 2020-08-06T16:45:00Z
-    webUrl: "https://tass.com/economy/1186615"
-    ampWebUrl: "https://tass.com/economy/1186615/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/economy/1186615/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 24
 
 secured: "msBNP70Imjzav5YH30Mg7vzgn41wQ22SJ/RE0cn4lfT7CEa6qcyMfv3/dIgwV/dexUwSmGZ0+4vhVzskWrq0jOceXfsiD1Q6n9nY7XpVMCtYu43dM1+7Febul+99l7j7NhIFeISOdOQCN32j8+WftYzulcUPBlRsLT1kruoo477fOAAvrJ+lpth0lD+jBhPnWLYyrcRC0LfvZvFYSrI0qqqYIRkWSzpoOc2/W7klvcX3ANO+IWjywdlxeAU9XtsQ/a9MnHfNcoUpE3E2N4EWgZEhqiKcDAwVn1/51xmcmwQnUfTmF4CRGCgM/ZRzzLOK7RGK+bfhsI8PVVrfnbPfNFR2TeTPS0AfvfMWGPqKgjVDSwfH1LD1EkqWTbz71L92vjRKdokpWd4psOwX3CqzOtT/9fVmvsfVJJSgG3fc+fxXUjwlas4rXU0LhtzlXsytURSaeBDHOV79jULt2By/2BpLYgPmyX5+VWf0C+f7MTJ91Q8IpwxkDspUUKpIKt3G;dYDO6CvLghDYJzsajuqu3g=="
 ---

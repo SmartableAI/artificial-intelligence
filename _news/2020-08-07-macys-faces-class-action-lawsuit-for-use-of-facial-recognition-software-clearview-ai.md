@@ -27,49 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Macy’s Sued Over Use of Clearview Facial-Recognition Software"
-    excerpt: "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI."
-    publishedDateTime: 2020-08-06T18:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
+  - title: "Facial recognition use by South Wales Police 'unlawful'"
+    excerpt: "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,"
+    publishedDateTime: 2020-08-11T09:31:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53734716"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjoIH.CSaXQ/v1/360x-1.jpg"
-        width: 360
-        height: 240
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Macy’s sued for gathering facial data of customers at stores"
-    excerpt: "The department store giant is accused of using facial recognition software to match faces with personal information on social media. More than 6,000 people could be affected. The class action lawsuit was filed in the Northern District of Illinois seeking ..."
-    publishedDateTime: 2020-08-07T23:58:00Z
-    webUrl: "https://www.fox19.com/2020/08/07/macys-sued-gathering-facial-data-customers-stores/"
+  - title: "Facial Recognition Could Help to Stamp Out Bitcoin Social Media Scams"
+    excerpt: "Facial recognition can help prevent future Bitcoin scams like those that hit Twitter and YouTube, said Rod Hsu, president and co-founder of virtual currency platform Coincurve. Du"
+    publishedDateTime: 2020-08-09T15:08:00Z
+    webUrl: "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams"
+    ampWebUrl: "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp"
     type: article
     provider:
-      name: WXIX-TV
-      domain: fox19.com
-    quality: 24
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
     images:
-      - url: "https://www.fox19.com/resizer/Wh97N447lX5k3cQr9vRhk9UNRaM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/CTYBKVMO7BDIRJNGSNEQ4HWBPU.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Macy’s sued over use of Clearview facial-recognition software"
-    excerpt: "Macy’s Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI. An Illinois woman filed a proposed class action against Macy’s Wednesday in federal court in Chicago,"
-    publishedDateTime: 2020-08-07T11:30:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/macys-sued-over-use-clearview-facial-recognition-software"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/362184947.jpg"
-        width: 800
-        height: 600
+      - url: "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmQxMjRlYjQ2NzYzNjFjNTQ4NmI0OTg4OTdjMTkxOC5qcGc=.jpg"
+        width: 370
+        height: 246
         isCached: true
 
 secured: "zWnla1YO7znVGnJcYlbRl1E2uW5i0MrOWz0hx2brE7lKq9apG17npA8BCQgvdW/oLMgkelvl0ILrVK766b3w6Y1KGwRNkMannbweOGooY4jtF7vnXzDNtgs2l+MpUO4elbohj4WXNIq3N7Vg0lKBNs4Eku8MrNT2Jm7NleFK1KZBAvhmRcugphaEljQpEObVuOpVT8A8VnYnpOqLtDgdsmQXchQ3LEf7SpSMSjFOrSKQy5wor+ytJ7XZMQe7RLWHVqYXHno6cZM4a/NnUH2KZ87EBVeH0SN/dy1SVeYoojO//yb6U/mDVhpszs604P7iozQaRcq1oOOJDZRLTrYVcBWqc6rDOLRhpXmVdC422Khndz4FaH3WxMCULMaM8GUB+gC6Z8htWWMDv+D5mEr3XZPPaEYRQ6lP0uIPeDvKZiCfupR1kJHocnNH6rB61paVIolbe1Q5ku0nKQmzHl6GFPchsYEdIgiGBWd8xzP/A8zTUfHcJ8DESoVJ73DNXg+kS1euEB4rSd6UyDy4gDr0Tw==;S9EUGNE+hUxVbitXrZE/vw=="

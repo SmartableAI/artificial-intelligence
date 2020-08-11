@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Self-Driving Car Market 2020-2024 / overview and scope, Industry Outlook, Size & Forecast"
-excerpt: "By components, the self-driving car market is segmented into hardware, software, Lidar, radar, optical cameras and others. The software component is largest segment at present and is likely to hold its position throughout the forecast period due technological enhancement in software segment such as advanced driver assistance systems to enhance safety and driving process."
-publishedDateTime: 2020-08-09T04:58:00Z
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09?mod=mw_quote_news"
+excerpt: "Self-driving cars have pre-installed control systems ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others."
+publishedDateTime: 2020-08-09T04:45:00Z
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09"
 type: article
 quality: 45
 heat: -1
@@ -198,6 +198,6 @@ related:
         height: 420
         isCached: true
 
-secured: "PGTeKpF16yXljSEDHLTfIeTj6/Ga+RxdKOhDcZD+XncoRjrPkliA9rZ8gq+v9JiAI6nWSQDoBJNIB9aiDiXn0vDTsWeAJ6rmKv12YhT6adX9X7LZhIeqY0AeqQOh+f2NqnETnStm0g/yOGYKUK24SHLq2SgQbqFdvH8s7Un3CXG/iGFE43VDw1XXR53pij0bliyjeiP4fToFrvmZ5bQT7wuKn9HBuVNTiy12tZEN5MyUQN5VFhHwrQ0nArW1rzeAnKZJuY/NX+uQpyLvOgQQ0GnZtgxJkaxVt3FS9ZFLRIQyZwfK0fNzlmakrhyp36JIKlY1/gqep8FA/v5SfLhm8A==;hMgHu3B0cfh9xwFpxBOBxQ=="
+secured: "bZwqnhsubIGG7W3OTFCM4Jp7QhVW5OqmN5TbJzDuogxivowHtaaMAJco2p6FHfManoxK/pihMzfbgZzYK5TgYeSZLSZ/OqyT9LrobUo5jzsgwrCsW93E/LR8iNfryjnDAonalzVezWV8ZMjSB2Ke3QQoGnVPc27y8jsm2eINWBAQ1sXNvVyt+n9XbY0eVPB3nF2UmgHMzF38vP7xL8aRvlQaqsmOjv88B6pkJVlt+tlCrU2AF0YV3Xyk5ZjCtQNgpFli1mpUQyflLIP1s5u+/fZy2EeEmw0uml7EyKwD4h7NmZwvg7dT4j8zPC2kWiDXgK/h3StYdHDqZyWeH1YiOg==;9D4mdgz00WlM1bvbNpu9AQ=="
 ---
 

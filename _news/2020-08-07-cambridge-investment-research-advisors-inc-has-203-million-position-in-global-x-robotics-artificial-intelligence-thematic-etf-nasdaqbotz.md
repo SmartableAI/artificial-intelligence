@@ -25,31 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Reps. Call for Research Investment in AI"
-    excerpt: "have partnered with the Bipartisan Policy Center (BPC) and the Center for ... that calls for Federal investments into AI R&D. The Cementing American Artificial Intelligence Leadership: AI Research & Development report is the third in a series on AI issues ..."
-    publishedDateTime: 2020-08-06T15:45:00Z
-    webUrl: "https://bipartisanpolicy.org/report/ai-research-development/"
+  - title: "Top Artificial Intelligence and Robotics Investments in July 2020"
+    excerpt: "Artificial Intelligence is growing at a faster pace. With this faster pace, it is also attracting a series of funding and financial investments. Here are some of the important investments in artificial intelligence and robotics companies in July 2020."
+    publishedDateTime: 2020-08-08T11:41:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-robotics-investments-july-2020/"
     type: article
     provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 137
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 69
     images:
-      - url: "https://bipartisanpolicy.org/wp-content/uploads/2020/08/shutterstock_690256660.png"
-        width: 700
-        height: 468
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/08/AI.png"
+        width: 1548
+        height: 872
         isCached: true
-  - title: "The Changing Venture Capital Investment Climate For AI"
-    excerpt: "When it became clear less than a decade ago that AI was the latest, hottest place to build companies that could grow from tiny startups to huge public market exits of acquisitions, the VC community got all in."
-    publishedDateTime: 2020-08-09T15:53:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/08/09/the-changing-venture-capital-investment-climate-for-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/08/09/the-changing-venture-capital-investment-climate-for-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/09/the-changing-venture-capital-investment-climate-for-ai/amp/"
+  - title: "The interest in automation is increasingly bolstering the demand of robotics professionals."
+    excerpt: "Today, more and more companies are looking to work with robots to drive innovation and gain a competitive edge. However, this interest is giving the rise in demand of skilled talent with distinct engineering and skills."
+    publishedDateTime: 2020-08-07T07:31:00Z
+    webUrl: "https://www.analyticsinsight.net/top-robotics-jobs-highest-salaries-india-august-2020/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 44
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/08/Robotics-1.jpg"
+        width: 960
+        height: 627
+        isCached: true
 
 secured: "L7qZ8L6XrOmh29oq9mQl5s82u09k1xuABKlgjAIQtEYCcGaOLhWF+jPvgkC+fWrlQMx/YN4iO8M81G5B3UK9usU6LrHloN1Vxe0eMwPEvAfJM+QKNv7krVP5s3YoUaYvAimBphuNTLV8JYjwY2IK9nnsWQN8VgvKIWvKKf1n74UA0pAfK0PCjDyAbwwRb29TULO+hVyyRS9VLFgAogQMeWXoQw5/3wj6H28jGQczuQ6l5+p/AaFInxkv5DWIeUWL9Ij92AtA05lMJs8JAD82Ie07Ni7qeAFQSc/4LvQV70esFFOG5XrHOPmm3befLsrE54ctnFfN9rhmEo1hr630vA==;l+PxVMUQ8ubL75n14fXWDA=="
 ---

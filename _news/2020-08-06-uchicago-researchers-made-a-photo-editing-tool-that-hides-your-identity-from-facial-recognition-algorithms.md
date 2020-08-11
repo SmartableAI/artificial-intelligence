@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "This tool could protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-09T22:01:00Z
+    webUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/"
+    ampWebUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "This ‘Cloaking’ Algorithm Breaks Facial Recognition by Making Tiny Edits"
     excerpt: "A team of researchers at the University of Chicago have developed an algorithm that makes tiny, imperceptible edits to your images in order to mask you"
     publishedDateTime: 2020-08-10T22:32:00Z

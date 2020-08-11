@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T22:32:00Z
 webUrl: "https://petapixel.com/2020/08/10/this-cloaking-algorithm-blocks-facial-recognition-by-making-tiny-edits/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "This tool could protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-09T22:01:00Z
+    webUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/"
+    ampWebUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "UChicago Researchers Made a Photo-Editing Tool That Hides Your Identity From Facial Recognition Algorithms"
     excerpt: "More than 100,000 people have downloaded the free tool, which \"cloaks\" faces in photos, protecting people's identities from illegal data mining."
     publishedDateTime: 2020-08-06T19:52:00Z

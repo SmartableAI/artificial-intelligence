@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-machine-learn
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 770
         height: 511
         isCached: true
-  - title: "IBM details research on AI to measure Parkinson’s disease progression"
-    excerpt: "IBM recently detailed its work to develop AI systems that can detect signs of disease progression in patients with Parkinson's."
-    publishedDateTime: 2020-08-06T16:54:00Z
-    webUrl: "https://venturebeat.com/2020/08/06/ibm-details-research-on-ai-to-measure-parkinsons-disease-progression/"
-    ampWebUrl: "https://venturebeat.com/2020/08/06/ibm-details-research-on-ai-to-measure-parkinsons-disease-progression/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/ibm-details-research-on-ai-to-measure-parkinsons-disease-progression/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
 
 secured: "Nx4UNSa63nCN5NrL7PnXX+sy3SMUZnMKaESEYrJT6/IkvvG3Gh0ohQwFct6M0jP6paXbgTV9o8gtSGZ/Mec0sqmMwnh3CbiQggkg/4/GJxedb84ePs6OKs+ryizPT7xV8oOdi7vGL/csXUj3CyKyu4p46E5fVj+SSINNRSaGvKdWViYUVaQE7H+YIxO96Zum2HH0DtgGGPWUcDTTlpQDHGG0renfQngM+4z0Bw83+kUmjymvS0xhr6pa0+mmEZ6/WRT9C+STzRSrV+x1VfhrUQw89qZdldxBrLhhhIhyg0neKrCe8cRr/LHGOpYjbvg0hCzUCasDgH6CBSk6pYcIDfVyn7i0j9I2R24T4qLZ0w/+bgzFU8S90bAKmCB7eKpVFy6SSOlKGT+1tJKISQm+/jVG7GOHtJVS1Vxz7YvXVPbiQw0Gu2iGj6YXZl7kWjF39stvt01NW+dpkcS124jEKjfTLgXxYiSbTTaCPxtd28CxGJG+gefMQGGB5HVkBvoM;EET0JXQx4Wa1Lypq1wj7cg=="
 ---

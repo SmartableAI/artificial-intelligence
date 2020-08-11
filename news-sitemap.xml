@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.mid-day.com/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234</loc>
+    <lastmod>2020-08-11T02:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/uk-wales-53734716</loc>
+    <lastmod>2020-08-11T02:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.itproportal.com/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/</loc>
+    <lastmod>2020-08-11T02:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too</loc>
+    <lastmod>2020-08-11T02:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.html</loc>
+    <lastmod>2020-08-11T02:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.entrepreneur.com/article/354565</loc>
+    <lastmod>2020-08-11T01:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.html</loc>
     <lastmod>2020-08-11T00:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +45,12 @@
   <url>
     <loc>https://www.openpr.com/news/2108907/artificial-intelligence-ai-in-agriculture-market-next-big</loc>
     <lastmod>2020-08-10T21:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/itranslate-launches-ai-powered-writing-assistant-app-grammatica-2020-08-06-14183125</loc>
+    <lastmod>2020-08-10T18:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -63,6 +105,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/10/researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers/</loc>
     <lastmod>2020-08-10T09:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10</loc>
+    <lastmod>2020-08-10T08:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -169,12 +217,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams</loc>
-    <lastmod>2020-08-09T08:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wired.com/story/a-british-ai-tool-to-predict-violent-crime-is-too-flawed-to-use/</loc>
     <lastmod>2020-08-09T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -255,12 +297,6 @@
   <url>
     <loc>https://techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/</loc>
     <lastmod>2020-08-07T12:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218</loc>
-    <lastmod>2020-08-07T12:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

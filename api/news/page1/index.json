@@ -2,6 +2,277 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-11-artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis.md",
+      "title": "Artificial Intelligence can improve CT screening for COVID-19 diagnosis",
+      "excerpt": "The research team is working to identify the visual features of coronavirus-related pneumonia through analysis of 3D data from CT scans",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/2020/aug/AI-Covid_d.jpg",
+          "width": 670,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.mid-day.com/amp/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234",
+      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234",
+      "publishedDateTime": "2020-08-11T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-facial-recognition-use-by-south-wales-police-unlawful.md",
+      "title": "Facial recognition use by South Wales Police 'unlawful'",
+      "excerpt": "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-wales-53734716",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716",
+      "publishedDateTime": "2020-08-11T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-why-covid-19-will-boost-the-use-of-robotics-in-the-wild.md",
+      "title": "Why Covid-19 will boost the use of robotics in the wild",
+      "excerpt": "What must businesses consider before deploying robotics to ensure the technology is used responsibly and the challenges they’ll need to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Que362nGceZon38bd28Ad6-1200-80.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
+      "publishedDateTime": "2020-08-11T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-ai-readiness-isnt-just-a-technology-issue-ethics-matter-too.md",
+      "title": "AI readiness isn’t just a technology issue – ethics matter too",
+      "excerpt": "For example, in AI Readiness, Alex Castrrounis explains readiness regarding Technological, Financial and Cultural Issues. Summarizing some of his points: Organizational — Need a Chief AI Officer (CAIO) or chief analytics officer (CAO),",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
+          "width": 1277,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp",
+      "publishedDateTime": "2020-08-11T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-facial-recognition-start-up-mounts-a-first-amendment-defense-in-privacy-suits.md",
+      "title": "Facial Recognition Start-Up Mounts a First Amendment Defense in Privacy Suits",
+      "excerpt": "Clearview AI has hired Floyd Abrams, a top lawyer, to help fight claims that selling its data to law enforcement agencies violates privacy laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/10/business/10Clearview-01/10Clearview-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.amp.html",
+      "publishedDateTime": "2020-08-11T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-heres-how-customer-experience-and-ai-are-driving-the-next-gen-of-e-commerce-industry.md",
+      "title": "Here's How Customer Experience And AI Are Driving The Next Gen Of E-commerce Industry",
+      "excerpt": "Brands are shifting their marketing strategies and resources from brick-and-mortar to e-commerce format, striving to create personalized shopping experiences for their customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354565",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597135156-ecommercebigdata.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354565",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354565",
+      "publishedDateTime": "2020-08-11T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-new-machine-learning-tool-predicts-devastating-intestinal-disease-in-premature-infants.md",
       "title": "New machine learning tool predicts devastating intestinal disease in premature infants",
       "excerpt": "The pilot study was presented virtually on July 23 at ACM CHIL 2020. \"It's amazing how we may be able to use machine learning to stop this from happening to babies,\" said the study's co-author ...",
@@ -80,6 +351,56 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-itranslate-launches-ai-powered-writing-assistant-app-grammatica.md",
+      "title": "iTranslate launches AI Powered Writing Assistant App, Grammatica",
+      "excerpt": "PRNewswire/ -- iTranslate, the language technology company behind the world's leading independent translation app with over 200 million global downloads, announced today the launch of its newest product: Grammatica,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/itranslate-launches-ai-powered-writing-assistant-app-grammatica-2020-08-06-14183125",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T18:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -524,6 +845,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-10-artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis.md",
+      "title": "Artificial Intelligence in Healthcare Market 2019 All Major Industrial Aspects and COVID-19 Impact Analysis",
+      "excerpt": "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-artificial-intelligence-and-data-privacy-turning-a-risk-into-a-benefit.md",
       "title": "Artificial Intelligence And Data Privacy – Turning A Risk Into A Benefit",
       "excerpt": "Artificial intelligence applications are not open, and can put privacy at risk. The addition of good tools to address privacy for data being used by AI systems is an important early step in adding trust into the AI equation.",
@@ -820,378 +1191,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-mumbai-to-conduct-study-on-artificial-intelligence-based-covid-19-test.md",
-      "title": "Mumbai To Conduct Study On Artificial Intelligence-Based COVID-19 Test",
-      "excerpt": "The Mumbai civic body has decided to conduct a study to assess the efficacy of an artificial intelligence (AI)-based technology which claims to detect coronavirus infection within half a minute, a senior official said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-corporation-to-conduct-study-to-assess-efficacy-of-artificial-intelligence-based-covid-19-test-2277214",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2020-07/17c5ka9g_coronavirus-india-generic-650_625x300_31_July_20.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-corporation-to-conduct-study-to-assess-efficacy-of-artificial-intelligence-based-covid-19-test-2277214?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-corporation-to-conduct-study-to-assess-efficacy-of-artificial-intelligence-based-covid-19-test-2277214?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-08-10T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-the-morning-after-watch-an-air-force-pilot-take-on-ai-controlled-fighters-online.md",
-      "title": "The Morning After: Watch an Air Force pilot take on AI-controlled fighters online",
-      "excerpt": "It’ll happen virtually, instead, with participants and viewers watching online as AI algorithms control simulated F-16 fighter planes in aerial combat. By the end of the three-day event, viewers will witness a matchup between the top AI and an experienced Air Force fighter pilot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/the-morning-after-ai-fighter-pilots-112824955.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fc2c818e0-db0e-11ea-b07f-4ac840ece8a9&client=amp-blogside-v2&signature=876001e9bddc25f4e4ed6fbacc3b80f107eff183",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112824955.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112824955.html",
-      "publishedDateTime": "2020-08-10T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-killer-robots-and-ai-could-wipe-out-humanity-report-warns.md",
-      "title": "'Killer robots' and AI could wipe out humanity, report warns",
-      "excerpt": "A report by Human Rights Watch says that urgent international action is needed to mitigate the threat An increasing number of countries want to introduce a ban on fully autonomous weapons in order to prevent the creation of \"killer robots\",",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-could-wipe-humanity-report-warns/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2019/01/05/TELEMMGLPICT000184757991_trans_NvBQzQNjv4BqYWNJspVvOUVBAuV2D2wK5qe5mKcvZOefBAac5hC1c74.jpeg",
-          "width": 2501,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-could-wipe-humanity-report-warns/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-could-wipe-humanity-report-warns/amp/",
-      "publishedDateTime": "2020-08-10T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-ai-needs-to-learn-multi-intent-for-computers-to-show-empathy.md",
-      "title": "AI Needs To Learn Multi-Intent For Computers To Show Empathy",
-      "excerpt": "Artificial Intelligence (AI) is smart, but it could do better. The software development industry is constantly working to push algorithmic logic beyond the scope of the current computer processing envelope and create new ways for computers to ‘think’ and emulate human beings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f311f1dc01c7ae12882d816%2F0x0.jpg",
-          "width": 640,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
-      "publishedDateTime": "2020-08-10T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-how-to-choose-a-cloud-machine-learning-platform.md",
-      "title": "How to choose a cloud machine learning platform",
-      "excerpt": "Even if you’re good at those tasks, they are time-consuming and can be automated to a large extent. AutoML systems often try many models to see which result in the best objective function values, for example the minimum squared error for regression problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/08/ifw_ts_ai_ml_by-just_super-getty-images_2400x1600-100853890-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.amp.html",
-      "publishedDateTime": "2020-08-10T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-coronavirus-pandemic-fuels-chinas-self-driving-cars.md",
-      "title": "Coronavirus Pandemic Fuels China’s Self-Driving Cars",
-      "excerpt": "Autonomous-vehicle road testing has skidded to a halt in the U.S. amid the Covid-19 pandemic. But China’s startups have pushed ahead by more than doubling the number of self-driving car projects, with a boost from the country’s 5G network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/coronavirus-pandemic-fuels-chinas-self-driving-cars/C88A4535-BAA5-4F8F-A9D5-17CEA7A86DA7.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20200810/081020selfdrivingcars/081020selfdrivingcars_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-ai-and-machine-learning-powering-the-next-gen-enterprise.md",
-      "title": "AI and machine learning: Powering the next-gen enterprise",
-      "excerpt": "IT leaders are already starting to reap the rewards promised by AI and machine learning -- and a recent survey reveals half are considering greater investment as we hit economic headwinds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/08/intro_ts_ai_ml_by-monsitj-getty-images_2400x1600-100853894-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.amp.html",
-      "publishedDateTime": "2020-08-10T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-ai-governance-market-seeking-excellent-growth-ibm-google-facebook.md",
-      "title": "AI Governance Market Seeking Excellent Growth | IBM, Google, Facebook",
-      "excerpt": "Latestreleased the research study on Global AI Governance Market, offers a detailed overview of the factors influencing the global business scope. AI Governance Market research report shows the latest market insights,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-09T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

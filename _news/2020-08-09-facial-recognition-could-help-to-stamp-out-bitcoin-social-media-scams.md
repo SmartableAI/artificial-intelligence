@@ -8,8 +8,8 @@ ampWebUrl: "https://cointelegraph.com/news/facial-recognition-could-help-to-stam
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: CoinTelegraph
@@ -26,30 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "This tool could protect your photos from facial recognition"
-    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-    publishedDateTime: 2020-08-09T22:01:00Z
-    webUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/"
-    ampWebUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+  - title: "Facial recognition use by South Wales Police 'unlawful'"
+    excerpt: "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,"
+    publishedDateTime: 2020-08-11T09:31:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53734716"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-  - title: "Facial recognition CCTVs at convenience stores helps curb crime - Mazlan"
-    excerpt: "Facial recognition technology today is increasingly being used by law enforcement agencies, banks, hotels, airport and now convenience stores to detect and arrest criminals quickly. Kuala Lumpur Police chief Datuk Seri Mazlan Lazim said by the installation of facial recognition closed-circuit television (CCTV) cameras in convenience stores the faces of criminals can be clearly recorded to trace their identities."
-    publishedDateTime: 2020-08-10T15:27:00Z
-    webUrl: "https://www.bernama.com/en/general/news.php?id=1869022"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 38
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://www.bernama.com/storage/photos/dd6c39200980f589d6504f8c5c7028595f315a6763d50-medium"
-        width: 350
-        height: 219
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Macy's faces class action lawsuit for use of facial recognition software Clearview AI"
+    excerpt: "An Illinois woman filed a class action lawsuit Wednesday against Macy's, claiming the corporation's use of Clearview AI facial recognition software is an invasion of privacy. Clearview is a research tool used by law enforcement agencies to identify perpetrators and victims of crimes,"
+    publishedDateTime: 2020-08-07T15:05:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2020/08/07/macys-faces-class-action-lawsuit-use-facial-recognition-software-clearview-ai/3315099001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3315099001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3315099001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/05/PCIN/4d576e5c-5bd1-4c28-bda1-6bd46d182c21-020520MacysHQ_09.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "sle3X41ydili4MUxJMwnKn7mbz8iGheHvgyD/sb0z6gwi3OwEVv+F3Egj7QxgBIQpaPxod/mTe/s/DD8Olv7KkMvqoFakqzPeIFii0f4C137X4wV4+ykoUnKm3KH2EhV2pyyVPVEq1/OkcfLzx0ITeeDaCfz9WxjUSpmaf8vyXZR7kmAFKMi34IES0PNVCDqtbDo9bzsuEThmcLgRVuKTeq4cO7brPcrjqSFTF2c/ZdZj21s0GwkqLlKeiq1kFG2SPnpD1YB9ig9BbyAEQIeaoofzHPTAr5GiaJc3IUtyKvDrQ5GI5tkKJN0+ztPtrp4jS4XqJLJ90C7nQmLNsoDrnQ5euTdKO/ffxm+UPVc7deVj0gxmm+wYtZEasbwUMaRmO7tMs9sHnu2CiB+pRmY9OTF15yOLup7HYi7dPg6UHakccahWltkrnetsxiVEv75e55noFR20psqAkxt5EUXD0NyD/V+rI0BgYJl9OAW/zV0+Jdv6ruj5jOfCCqPqWgMFJOdMZYD79IEBUfV7kN6hQ==;vtNxk6G4LlmbGe0JTMixFQ=="
