@@ -5,8 +5,8 @@ excerpt: "The global infrastructure-as-a-service (IaaS) market for public cloud 
 publishedDateTime: 2020-08-10T23:47:00Z
 webUrl: "https://www.crn.com/news/cloud/gartner-iaas-public-cloud-services-market-grew-37-3-in-2019"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.crn.com/resources/0260-1019da03a804-7846fc926bb6-1000/clouds.jpg"
@@ -23,6 +24,6 @@ images:
     height: 456
     isCached: true
 
-secured: "coyTMm0aigdvwoq2dE58UWeGxTEUfazgxbYEn5cVhFree4Vmx9RRIJ5uK8n9S5RcM8+bFfAZo7BaUouWmrjbA0RMSzjrbetzJJpYb2SQLzl6h12aCUXH3w9thKatMxd8lpd6Uv1JCYU60bEs5a4PErcebI8c1BcOEpg261YgUP+fsDULD7Zr+L3Wax6H9TB5zZAxCgQd4qcD3eRAaBKd5SXtNLs1R/yNa9De1ZWsuBPdA4bXKhwKMg5IiI0XIpvNpB66VBVcCNhUtBhKChxFIIVy7CQ1TzZRAU3IL9VNhb94ubRA+4DA8xkxXcXCYzcb0YAliZVz/eR9CLhPEn1c8g==;wLC2z9FcwYteRlrkKIXBAw=="
+secured: "aB/wN52pJurojRtl3aEQniTMNI5GLsNIXyGWNUdcIhUuBKL/NM/94ueUJn9BFc1/BI87NlRB4Tg62snv967fGK+z2fxfKgK5BGq0s+QghrHdcynR2t8d0MBuNYoh+AeJy2nKUOAZ5HgjgrPk+CdpswHsRI1eStu9fUjLDilGCwKRu6AYXMPTj97j4tD9RdJnwR/mvKWrRbrcib9VMJN6Yy0itMqqKnKpuyPSCUCveySDNbesfTdty1uWfS9Oun1z3OgrKIXPj0Vfp8dm4bZcambGbW1ihSPY/GZ4qWGzipotqED57Eh4/XpBKKnFsUjl+O1zKHsVzhLsgGuvnUJK1LxshlofiU61eUg95Fbj7SQ79t7uVTFiSi14CCqb39bPhnr+ASGPMc4EwJ+BwxpYVP+yrzO8NYZkVd93cBLtyyY/0yAd+JV59wOV7zAc4izu8D38IiQ7n4H9q1S7br9U4iyzBqHZ38qtSJ3dWLS0erVBl2XKplYiRSwOpNe+U+S/IMB/kFJvdUE4MNM3yqOctQ==;382qnFOZUEw1Yq6cHJ94jQ=="
 ---
 

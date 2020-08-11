@@ -18,33 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "FLIR Systems, Inc. (FLIR) CEO James Cannon on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "Q2 2020 Earnings Conference Call August 06, 2020, 09:00 ET Company Participants Lasse Glassen - ADDO Investor Relations James Cannon - President, CEO & Director Carol Lowe - CFO & EVP Conference Call Participants Peter Arment - Robert W."
-    publishedDateTime: 2020-08-07T03:33:00Z
-    webUrl: "https://seekingalpha.com/article/4365579-flir-systems-inc-flir-ceo-james-cannon-on-q2-2020-results-earnings-call-transcript"
+  - title: "Sogou Inc. (SOGO) Q2 2020 Earnings Call Transcript"
+    excerpt: "Sogou Inc. Q2 2020 Earnings Call Aug 10, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen"
+    publishedDateTime: 2020-08-11T00:00:00Z
+    webUrl: "https://www.fool.com/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx"
+    ampWebUrl: "https://www.fool.com/amp/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
-  - title: "Teradata Corporation (TDC) CEO Steve McMillan on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "Q2 2020 Earnings Conference Call August 6, 2020 5:00 P.M. ET Company Participants Nabil Elsheshai - Senior Vice President, Corporate Development and Investor Relations Steve McMillan - President and Chief Executive Officer Mark Culhane - Chief Financial Officer Conference Call Participants Katy Huberty - Morgan Stanley Presentation Operator Good afternoon."
-    publishedDateTime: 2020-08-07T03:29:00Z
-    webUrl: "https://seekingalpha.com/article/4365573-teradata-corporation-tdc-ceo-steve-mcmillan-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
-  - title: "Himax Technologies' (HIMX) CEO Jordan Wu on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "HIMX) Q2 2020 Earnings Conference Call August 6, 2020 7:45 AM ET Company Participants Mark Schwalenberg – Senior Vice President-MZ Group Eric Li – Chief Investor Relations and Public Relations Officer Jordan Wu – President and Chief Executive Officer Conference Call Participants Tristan Gerra – Baird Jerry Su – Credit Suisse Presentation Operator Hello,"
-    publishedDateTime: 2020-08-08T16:38:00Z
-    webUrl: "https://seekingalpha.com/article/4366380-himax-technologies-himx-ceo-jordan-wu-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png"
+        width: 400
+        height: 427
+        isCached: true
   - title: "Everest Re Group Ltd (RE) CEO Juan Andrade on Q2 2020 Results - Earnings Call Transcript"
     excerpt: "Q2 2020 Earnings Conference Call August 06, 2020, 10:30 ET Company Participants Jon Levenson - Head, IR Juan Andrade - President, CEO & Director Craig Howie - EVP, CFO & Treasurer John Doucette - EVP,"
     publishedDateTime: 2020-08-09T11:09:00Z

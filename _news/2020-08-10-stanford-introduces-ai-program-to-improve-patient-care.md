@@ -23,6 +23,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Stanford Center for Health Education Launches Online Program in Artificial Intelligence in Healthcare to Improve Patient Outcomes"
+    excerpt: "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery"
+    publishedDateTime: 2020-08-10T14:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+
 secured: "8xP3YGMGu0VAEaZZrfZ30UgcpulMKzuhENJhYncJbG1269vDkmF9Jv9srC0mwIFROiYDX1B+QH8l9v8AFHC22UJ0KSfehxdjrtdoAKObAX9HR3KF2w9wpxxO3TvHDP8mWy6K2WvNPH60wP9emHDRqg+HSukUo4NflY2VAw41KpHGAu29mjwpjG9yAA6M5WOrwXHuee8k5aZE4TlX63VTiASpJ70vjLnGAsy0sdgeHQkvQTcqvR9PIYi1sElYmjFPMItmyhSECMcsqpWEWO6gpxSpJG+GL86aGgdpEXaasDf7d2EwZhz2UDIm5wqBLb3HpfIVdOvU8DcIlswrQp+3mQ==;XewfS7JJY843sovu4cmgaQ=="
 ---
 

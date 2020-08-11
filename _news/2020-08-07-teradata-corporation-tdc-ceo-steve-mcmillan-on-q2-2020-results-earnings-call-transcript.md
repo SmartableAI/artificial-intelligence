@@ -36,24 +36,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 0
-  - title: "Everest Re Group Ltd (RE) CEO Juan Andrade on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "Q2 2020 Earnings Conference Call August 06, 2020, 10:30 ET Company Participants Jon Levenson - Head, IR Juan Andrade - President, CEO & Director Craig Howie - EVP, CFO & Treasurer John Doucette - EVP,"
-    publishedDateTime: 2020-08-09T11:09:00Z
-    webUrl: "https://seekingalpha.com/article/4366618-everest-re-group-ltd-re-ceo-juan-andrade-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
-  - title: "Sogou, Inc. (SOGO) CEO Xiaochuan Wang on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "SOGO) Q2 2020 Earnings Conference Call August 10, 2020 6:30 AM ET Company Participants Jessie Zheng – Investor Relations Xiaochuan Wang – Chief Executive Officer Fion Zhou – Chief Financial Officer Conference Call Participants Presentation Operator Ladies and gentlemen,"
-    publishedDateTime: 2020-08-10T16:52:00Z
-    webUrl: "https://seekingalpha.com/article/4367118-sogou-inc-sogo-ceo-xiaochuan-wang-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "iX/KnRcRA5p7zwQfwL5VkV+6So60EWLIjo4fIK9P/4Wkul/oHgkSHHE0hssVfaevwzXR58CPfWqokvFSwB5LyMyB3OwBwisy6mc9LaNc2aAqv+VwdiLwK8H6r0WyNl7ivB/YSNKTekSSxuyQ+0vSw6kT7fI9P6U5azaA83U4Xk92SYmitqPxbqB7iwJESs57fMYcBws8kPkUe+6YT7Z17ewckk5h1KYSHouDrCCHYouKzu+6HguJApqyZrM2kWuwr1DoMJrQmgmSNjygY3H/souvT/ygRfPFn9pp/QHkqLfAVv3c5UhT72/i7a15LJ8zfJEKSa1USoSAVXAmWYfAGg==;EKJ+2t6d2td31k5Vyv8TkA=="
 ---

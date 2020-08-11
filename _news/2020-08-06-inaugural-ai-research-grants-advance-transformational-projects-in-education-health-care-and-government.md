@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T11:27:00Z
 webUrl: "https://news.stanford.edu/2020/08/06/hoffman-yee-research-grants-focus-ai/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1500
     height: 1000
     isCached: true
-
-related:
-  - title: "Stanford Center for Health Education Launches Online Program in Artificial Intelligence in Healthcare to Improve Patient Outcomes"
-    excerpt: "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery of patient care and improve global health outcomes through artificial intelligence and machine learning."
-    publishedDateTime: 2020-08-10T14:08:00Z
-    webUrl: "https://apnews.com/PR Newswire/56e335acee9728a4dbb3c2cf163211ca"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Psa6XS/YKWDiS+WAjhPaerQO6B1ax30cNwGc9R1MylEaZe4yB4KyoVQDYQf2wXK0Ur7Ga+u+cCZ8UD8BzpZOgdpL3QRtMEYRNY9ey+5ztMIe+2MwCLjvHpf4YN8Wg867gxeXpDPoS/O9YFpBIhzExuzs7Dz0swHToEysix44t8YJnoIn9IDTpYQ2Sc8JnAxdwSw8q14g2bvlyl9YvQJvzksGfQGghN/EYFsS/JwV0VBGEh71tpxlN9I5chkhW9v0inQz/wKG47TJSn027AMyTtY/+SXBpk0jmCnASMhMEInP5y10cL7IaTsZWA0j6XUVUk1l50+5Wtq2+4TFrhL+Gm6jTZSIGj82VHHXIjOCVgfk8wZtKfst4SZmC0tz6/kFsldvZenDhRWks6gwtaeEAI2L6a6JfbnW/R2Wb+goIzuYugA5G1eT8qAjLYZ1xhbYXl3u0ZEIQ8ZrNkNxxT9OfwYeFld6beCm9zpwyRHv/VmipH9wxmciPLudiMdSPglvMaBPNOuhYSkJRzocDJaV4Q==;RG4unBKRYWZIYe4H+3lAhQ=="
 ---

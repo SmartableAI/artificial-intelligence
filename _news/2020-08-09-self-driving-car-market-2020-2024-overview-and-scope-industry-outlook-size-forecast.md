@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Self-Driving Car Market 2020-2024 / overview and scope, Industry Outlook, Size & Forecast"
-excerpt: "By components, the self-driving car market is segmented into hardware, software, Lidar, radar, optical cameras and others. The software component is largest segment at present and is likely to hold its position throughout the forecast period due technological enhancement in software segment such as advanced driver assistance systems to enhance safety and driving process."
-publishedDateTime: 2020-08-09T04:58:00Z
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09?mod=mw_quote_news"
+excerpt: "Self-driving cars have pre-installed control systems ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others."
+publishedDateTime: 2020-08-09T04:45:00Z
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09"
 type: article
 quality: 45
 heat: -1
@@ -149,6 +149,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 22
+  - title: "Robotics Advisory Service 2020 Global Market Size, Share, Market Growth, Opportunities Segmentation Market Outlook and Forecast to 2026"
+    excerpt: "Robotics Advisory Service Market” WiseGuyRerports.com Presents \"Global Robotics Advisory Service Market Size, Status and Forecast 2020-2026\" New Document to"
+    publishedDateTime: 2020-08-10T18:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17017225/robotics-advisory-service-2020-global-market-size-share-market-growth-opportunities-segmentation-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17017225"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17017225"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "Global Artificial Intelligence for Drug Development and Discovery Market (2020 to 2027) - by Type, Indication, and End-user"
     excerpt: "The \"Artificial Intelligence For Drug Development and Discovery Market by Type, Indication, and End User: Global Opportunity Analysis"
     publishedDateTime: 2020-08-06T19:45:00Z
@@ -187,6 +198,6 @@ related:
         height: 420
         isCached: true
 
-secured: "D3ACdcVnNn1wYb0igC9F+VpIFHNN0n1tL93tjdccE7FhtAIp4Onc0+awPLvADS+2KS1I+okLbmAnDj2tugcVjzcqsWjSCAWLWXlsl94EHDHDLpw2mj26t0vYv/GS34wvkogCKhKle0U0fS0so1jfREaTKkP4+u3x9eoCcAVlcsMRpy60d+fQK8/M40rdPf0OEXfNGSw9WDfYEnB4jfSIzIiOBwkYpWstUL7Y338FMwQl92KI5cEy7bc/L/3y+uCT4qzpMb0aHtGW0DizK/BcrxF/mqrORDboLEUAI8//9NJVdRA+yI/EBEB8nztfh6JX0MMw6KXWNObK7+jI/1VS3A==;6Icyms6bmNY0a1IrcnK51Q=="
+secured: "E3cRjDRm3AHwroZ3WzLEoSgJYDlNBWvOJsOBCOTUQwYGN1oUGaJ2CqDmOhB4Z2x21PH5HKmsML4EmQGEIDsscMkBeC8fnrSVKF7EFAjF33ZfXrmWUFE7Du6UUFZKP/qfQhkftzp3MeTKeG5av65F07K4N5TYFxvoOwYzoZRI0zi6mJcv82be65kr3xw+W9blaYjzk8ST2KrD37KwFel1tJqR8IzOvETOqKbs3aK1lfHKq+i7RpHSN62sE9aVeLzAtCKEstME0LsJM3kqDGmrhFcZR9HnU3/Jk8r0voRYp4oFVW67ckm1U+9ujMj+J+ZP1jN0nQisOAiUbzTyK3YNNw==;a1CZ9PdGOZRgFw9WH4ZYgg=="
 ---
 

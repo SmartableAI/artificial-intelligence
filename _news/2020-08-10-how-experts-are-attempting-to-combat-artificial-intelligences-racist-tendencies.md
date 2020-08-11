@@ -5,8 +5,8 @@ excerpt: "The key question is whether an AI that’s trained on real human data 
 publishedDateTime: 2020-08-10T22:14:00Z
 webUrl: "https://www.adweek.com/digital/how-experts-are-attempting-to-combat-artificial-intelligences-racist-tendencies/"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.adweek.com/wp-content/uploads/2020/08/trend-ai-racism-technology-content-2020-600x315.png"
@@ -22,6 +23,6 @@ images:
     height: 315
     isCached: true
 
-secured: "ctciSCm4pI1rIJPLsx+WYPPj7rXh2V6Lm7/Tf6Rxo6kzhzRizqq2Cg4BWj+R78q5uPm03YAizJ44me3YdmGZiL3uTeg2GZqFqWE+nTQgF7XTcSx0kX+WGZi+RC+ezrKUmC0MQiHLjutnX0qewrVkO286YalTJ0tTGKNEAENHzJep8vyDvMf5S0UWcchdE38w4TVFoibRhTcfBrG1CVvU54dRGmCwdS3FxfrpUMCCJijrjhx3C0EAPYYmzMB1tIv8oL9dRViNY/rXyb/IOYpPw5o2MyqtILP+xtohhoDh69YOlKFuuHyhqnfDc199yFa5q/qTV+Wlq2UiVejDso+lbA==;xG5muHsUwBw/BsXsLLFWig=="
+secured: "kvPoS0Wt/bKzye4iMtJrL8CoszhzcwB0V9u77u9gXkM0dStrrHANfFwAh+Qdl8GGNytHXpv4yg8THuUOLZRjwAN7tsylAoTo8HbMhTugBJj7UfN/ILHVtzLTzszNPlFQjz6pMd3/kOXeRMJXCddObqutarh6Qr7zMuvqd/ZZtXo9+1eKYgfUgkueCscAHrHFw9Ex+frhZdyrpWCB3cKhvMG/WdMMt7Ast1CB8SjC130QIjuexXv83Fw/0TUi86/19Ucl7JKt9edgK+KGdzDE1dFuNsMKIwAAypipIm5TdIhjOH6upgwWk3omH15bwF3Lmhd8h4wkJEAIUkrkgafZXQlCtTPjlmNZuAnlIZD7LmQiGBPYV7q08Dt+/rGxJSLkosR/o3DZrYgoSLDw+PWAQnumaEPkZsYlABGvQQ0NkT57Q2UYua+kQxg4VsDlIxFdCYdNemkEg/LzULH13lAGs+bB679hjmYuMkVMz85WD5N7V99PFmIrHOBAXCSswNE3ELsYj4Qm/i57otya99MNmw==;ziy+0hl0IOpaHNA/9/S0Gg=="
 ---
 

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.fool.com/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx</loc>
+    <lastmod>2020-08-10T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/</loc>
     <lastmod>2020-08-10T14:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -805,14 +811,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
-    <lastmod>2020-08-04T06:04:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cnvrg-io-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of/article_4c669605-d9da-51c5-a003-080a094d85d2.html</loc>
+    <lastmod>2020-08-04T06:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
-    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
+    <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
+    <lastmod>2020-08-04T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -903,6 +909,12 @@
   <url>
     <loc>https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing</loc>
     <lastmod>2020-08-03T16:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146</loc>
+    <lastmod>2020-08-03T15:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1029,12 +1041,6 @@
   <url>
     <loc>https://www.infoworld.com/article/3568497/when-hybrid-multicloud-has-technical-advantages.html</loc>
     <lastmod>2020-08-03T03:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/reuters/2020/08/03/business/03reuters-apple-china-patent-suit.html</loc>
-    <lastmod>2020-08-03T02:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

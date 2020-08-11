@@ -1,28 +1,31 @@
 ---
 category: news
-title: "Chinese Artificial Intelligence Company Files $1.4 Billion Lawsuit Against Apple"
-excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc, alleging it has infringed on its patents."
-publishedDateTime: 2020-08-03T09:45:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/08/03/business/03reuters-apple-china-patent-suit.html"
+title: "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple"
+excerpt: "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents."
+publishedDateTime: 2020-08-03T22:03:00Z
+webUrl: "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24Z146"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z146"
 type: article
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MC"
+    width: 817
+    height: 545
     isCached: true
 
-secured: "iLmUQ2x5gwIacTAqIZQsEbaCJH/34KsmQigQussXKYkT+k2NIwByeE8reiuaVu2I8rd62ZKNbmjhgs0dqMcKPSAOfHVp5k4P8ndJGm86He5SdhlGe1qMyMngO1m6xq92P5eID+h3pHPGyxvbyZOoMmLzXFs7c7OjbkTKeSpPGzfKyIQor3EG2Kpf4xioTSL6w5djT2zcEaRSJxzx6WH73LAoxH0/wa+kx+ULKzYBfWn2kLYPFKzmpk0mx5Aq4fRsfOa9KsdmSNYmCFVNQ9HEPlog5QobQrxSmfMttvQ5iDorMWBgirqN0+NoXJ1oFmxDsfrEJ/sPVXunq4Ptok2KNw==;BPqJODjwoBnxNR5Wfi1E8A=="
+secured: "AWpqR3pTej6EOYchpGPGxrzyuG83uxa3VERfCf0Umfz2X7awzVnxEoxokiKS3fGl0uey1LLV489BQqOSCYoFREtAVfJQ+heVNA0Nj4hIhHCjw+qzfrh2febis3H0dN7wq9Y74LxN7wcX7HoQJa553KOBFf9/tW6t6Wa5dNxboxRKjPAnSTRN7Zx6i+Y6ht/vSgEUmpQbYeM0XNYFccksNwJ+wHavD29vR+QfelJQ3sHFCrXIWFNEAPqLD4AHvHLVK3vFfKUlGV0suZa0SxDOTrKeL/WyOCYfizyZlhd4XFz/b7eh+W//TInqF+pht9HFDyEiXtAXBoib7EKAOiMskw==;E1BMMxoCBQUxHONOBOdUrA=="
 ---
 

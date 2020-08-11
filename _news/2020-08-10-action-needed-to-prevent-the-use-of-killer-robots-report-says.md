@@ -72,6 +72,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Killer Robots: Growing Support For Ban, But New Zealand’s Stance Remains Weak"
+    excerpt: "An increasing number of states have affirmed the need to take action to protect humanity from the escalating threat of fully autonomous weapons, but New Zealand is regrettably not among them. Fully autonomous weapons - known as killer robots - are weapon systems that select and engage targets without any meaningful human control."
+    publishedDateTime: 2020-08-11T01:54:00Z
+    webUrl: "https://www.scoop.co.nz/stories/PO2008/S00133/killer-robots-growing-support-for-ban-but-new-zealands-stance-remains-weak.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/PO2008/S00133/killer-robots-growing-support-for-ban-but-new-zealands-stance-remains-weak.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/PO2008/S00133/killer-robots-growing-support-for-ban-but-new-zealands-stance-remains-weak.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 51
   - title: "Killer Robots: Growing Support for a Ban"
     excerpt: "A growing number of countries recognize a duty to save humanity from fully autonomous weapons, Human Rights Watch said in a report released today. Weapons systems that select and engage targets without meaningful human control,"
     publishedDateTime: 2020-08-10T12:56:00Z

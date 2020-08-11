@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-06-25-if-done-right-ai-could-make-policing-fairer.md",
+      "title": "If Done Right, AI Could Make Policing Fairer",
+      "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef419aeaf3d0a069fd1d59d/master/pass/business_policing_1175954210.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "If Done Right, AI Could Make Policing Fairer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/done-right-ai-make-policing-fairer/amp",
+      "publishedDateTime": "2020-06-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr.md",
       "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
       "excerpt": "The global GPU Market size is expected to reach USD 103.60 billion by 2026, at a significant growth rate of 30 % during the forecasted period from 2020 to 2026. The market report provides an analysis of the global GPU Market for the period 2015-2026,",
@@ -1325,55 +1376,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report.md",
-      "title": "Two in three CEOs are in the driver’s seat for AI adoption, according to report",
-      "excerpt": "As technology advances, many TV organizations have begun to wonder if AI can spur innovations that streamline tasks to help the TV industry use AI to its advantage",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/24/011bd9ff-ccaf-447b-b78a-b6faf18cd326/veritone-ai-uses-eileen-brown-zdnet.png",
-          "width": 453,
-          "height": 690,
-          "title": "Two in three CEOs are in the driver’s seat for AI adoption, according to report",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
-      "publishedDateTime": "2020-06-24T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
