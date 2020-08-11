@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/aug/07/australia-need
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/aug/07/australia-needs-to-face-up-to-the-dangers-of-facial-recognition-technology"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "The Case for Banning Law Enforcement From Using Facial Recognition Technology"
-    excerpt: "Woodrow Hartzog and Evan Selinger published a report on Banning Law Enforcement From Using Facial Recognition Technology. The report was published by the Justice Collaborative Institute. “A federal law would be the most powerful step to regulate the use of this invasive and dangerous technology,"
-    publishedDateTime: 2020-08-06T13:47:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-08/case-banning-law-enforcement-using-facial-recognition-technology"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 16
 
 secured: "j+c4KePlQF2B3bOK2duHWeufL8oiA85sj5yFKoT7boCdULC7J56+HZZIkXBNhyv/YXOq5cmu7pilfkNpcaxMhbuieSZy5IlzHUMgnxwFhV0irWXNRmgfuVxu/oSgX6gkG4kWXN3Lgml2XU6ivcg77af0JSF2W7Ghqmfa8cmvxf2b2U4hEqViSQSWzkrnIAVE77vpokbdHzDGZh+QLtRXURLXpumYOF78fsdo1DM3XQLBIx6E7wi/nk32QcHSv2yG1EH7cqdGOs3Gt38R6sY/EE4tLYEEW9DNnwBY8j6wBcrxDbih61Gxlf5o6R8h7YiHntD+FAiTRcs7A9NnZGA3JFvd8ymErohVR82SwLMQhImooGqVI8WvVn/BiYUUQ1RD1xPPCJ9M/lxfehnKck9j1wlNLtKClsLXZ2E3TJYoBpxyBx2CSJp+R/YBuiLPDHY6o+KFVFP2YdpC1AQsHrZV8iThQeT++vnrKFA2e6+Jb1h5M2aeK5LYoRKf6kKVcJkhOogTbccyCH6c020McOxS1Q==;aKgN4IW1FGvc2z9kBU+EYQ=="
 ---

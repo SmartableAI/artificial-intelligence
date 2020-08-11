@@ -24,35 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers develop a deep learning-based algorithm for predicting sites of DNA methylation"
-    excerpt: "A team of researchers from New Jersey Institute of Technology and Children's Hospital of Philadelphia have developed an algorithm through machine learning that helps predict sites of DNA methylation - a process that can change the activity of DNA without changing its overall structure - and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods."
-    publishedDateTime: 2020-08-07T01:32:00Z
-    webUrl: "https://www.news-medical.net/news/20200806/Researchers-develop-a-deep-learning-based-algorithm-for-predicting-sites-of-DNA-methylation.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200806/Researchers-develop-a-deep-learning-based-algorithm-for-predicting-sites-of-DNA-methylation.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200806/Researchers-develop-a-deep-learning-based-algorithm-for-predicting-sites-of-DNA-methylation.aspx"
+  - title: "New machine learning tool predicts devastating intestinal disease in premature infants"
+    excerpt: "The pilot study was presented virtually on July 23 at ACM CHIL 2020. \"It's amazing how we may be able to use machine learning to stop this from happening to babies,\" said the study's co-author ..."
+    publishedDateTime: 2020-08-11T07:44:00Z
+    webUrl: "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-newmachinele.jpg"
+        width: 2879
+        height: 1919
+        isCached: true
+  - title: "Researchers develop machine learning tool to predict necrotizing enterocolitis in premature infants"
+    excerpt: "Necrotizing enterocolitis (NEC) is a life-threatening intestinal disease of prematurity. Characterized by sudden and progressive intestinal inflammation and tissue death, it affects up to 11,000 premature infants in the United States annually,"
+    publishedDateTime: 2020-08-11T06:07:00Z
+    webUrl: "https://www.news-medical.net/news/20200811/Researchers-develop-machine-learning-tool-to-predict-necrotizing-enterocolitis-in-premature-infants.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200811/Researchers-develop-machine-learning-tool-to-predict-necrotizing-enterocolitis-in-premature-infants.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200811/Researchers-develop-machine-learning-tool-to-predict-necrotizing-enterocolitis-in-premature-infants.aspx"
     type: article
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 49
+    quality: 45
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2018%2f8%2fBy_Juan_Gaertner_2e3ffe20f38f40049d48d5240ee9a735-620x480.jpg"
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "DNA Methylation Sites IDed by Machine Learning Algorithm"
-    excerpt: "In a new study, researchers identified sites of methylation that could not be found with existing sequencing methodlogies."
-    publishedDateTime: 2020-08-07T12:00:00Z
-    webUrl: "https://www.genengnews.com/news/dna-methylation-sites-ided-by-machine-learning-algorithm/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 39
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2018/08/Jun28_2017_MaxPlanckInst_DNAMethylation_5001594025115.jpg"
-        width: 500
-        height: 375
         isCached: true
 
 secured: "JJpZv20CZ88JbEv8z0WrrXC5EPz14dIWRHakCKyymKvrhQWModQLfiKbo3Wa/iHLu0gJ425TeZ6BjjF9oActGUQA0sB2qdfW46pUev0lNSHo84/7MxwHm/HsO0yTM90lab29aPpsu7YNZkS/C3hIX03TMs4yrI4RIoBmAFGSNKaySdnQm3btmZCYydJowlshix7RyGDdeALkSAqXYbTv2lyFOGhYulY+Df3YL56dk1DkoUSLINJ5RZ6ac1x3UQX6ce4pP82Y5Ce5yEgxXWiw30SQHAVfjCZPK1VN+13MUybdKu1LBi6b9cDUPwBdFzy0AnhYzXcfaE2snD3hCddgeOLw4tXfutiigUf8Y/3xJiDJRh/YJAq8oXGW2dES+IMnqfe1iXP8Y8RjenviJfEUp6OnWI2R3d76FfMoLZ4ySjG95La85vsKjlIlq/66gatEPRPVSlBDM5F5/kC+crj5AyuOuOOIIzbgYhjlqiqex+d1FnoSjyFYTpAm0mB0jIPUzXJBQAViwHy6JrGxUXNq/Q==;lFnX9jV62W4ThQXqhBEwGw=="

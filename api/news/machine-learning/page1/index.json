@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-11-new-machine-learning-tool-predicts-devastating-intestinal-disease-in-premature-infants.md",
+      "title": "New machine learning tool predicts devastating intestinal disease in premature infants",
+      "excerpt": "The pilot study was presented virtually on July 23 at ACM CHIL 2020. \"It's amazing how we may be able to use machine learning to stop this from happening to babies,\" said the study's co-author ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-newmachinele.jpg",
+          "width": 2879,
+          "height": 1919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp",
+      "publishedDateTime": "2020-08-11T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-how-to-choose-a-cloud-machine-learning-platform.md",
       "title": "How to choose a cloud machine learning platform",
       "excerpt": "Even if you’re good at those tasks, they are time-consuming and can be automated to a large extent. AutoML systems often try many models to see which result in the best objective function values, for example the minimum squared error for regression problems.",
@@ -286,47 +327,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-06-algorithm-created-by-deep-learning-finds-potential-therapeutic-targets-throughout-genome.md",
-      "title": "Algorithm created by deep learning finds potential therapeutic targets throughout genome",
-      "excerpt": "A team of researchers from New Jersey Institute of Technology (NJIT) and Children's Hospital of Philadelphia (CHOP) have developed an algorithm through machine learning that helps predict sites of DNA methylation—a process that can change the activity of DNA without changing its overall structure—and could identify disease-causing mechanisms that would otherwise be missed by conventional screening methods.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/1-genome.jpg",
-          "width": 960,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-algorithm-deep-potential-therapeutic-genome.amp",
-      "publishedDateTime": "2020-08-06T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-06-city-of-tucson-water-department-selects-vodaais-machine-learning-to-support-decision-making.md",
       "title": "City of Tucson Water Department Selects VODA.ai's Machine Learning to Support Decision-Making",
       "excerpt": "The City of Tucson Water Department has selected VODA.ai as their exclusive provider of artificial intelligence software service for pipe prioritization. VODA.ai is excited to expand the partnership with the City of Tucson and provide continuous virtual condition assessment for the entire water system of over 4,",
@@ -395,6 +395,38 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer.md",
+      "title": "Artificial Intelligence System Tops One Billion Neurons on a Desktop Computer",
+      "excerpt": "In a significant advance in the development of Artificial General Intelligence (AGI), the Brain Simulator II neural simulator",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n16964889/artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16964889",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16964889",
+      "publishedDateTime": "2020-08-06T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -815,47 +847,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast.md",
-      "title": "Arkieva Releases Their New Machine Learning Forecasting And ROI Tool, Swifcast",
-      "excerpt": "Arkieva, Inc., a leading designer, and provider of the Arkieva suite of Advanced Planning and Scheduling (APS) software tools for manufacturing companies today announced the launch of their new machine learning forecasting and ROI tool,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR Newswire/0738529a0736866753b74b04ad64224a",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

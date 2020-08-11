@@ -2,24 +2,24 @@
 category: news
 title: "Linode Cloud GPUs Outperform AWS and Others for Price-Performance"
 excerpt: "Alternative cloud provider Linode has published a report titled \"GPU Price-Performance Benchmarking,\" highlighting commissioned research by Cloud Spectator evaluating the price-performance of Linode GPU-based virtual machines against those of Amazon Web Services,"
-publishedDateTime: 2020-08-03T23:23:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997"
+publishedDateTime: 2020-08-03T11:00:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-9149653"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - AWS AI
   - AI
 
-secured: "jqJFD4xQcTVaVVBgY3Lt7+gnCgkfziEwDbw+by1XLfnuTiYz360Yqsta7Qln/RMWT/HzyatBzzoYnNIcCi7ugDvBieVLHBFZ7zJPQTXwrqJe9CCxUb9NU5hSpEHkZ0tAuFDb4IH+1Zd2/DbK02pB45fjTugbGy0DRtMkIkM9735Ut7fCP+x37DsvXyNZMNM1Duknu4C6ML2rH3+oYqkmKeUu114qcNXeFnfXl1YQcJ2D2nZjsWUkLZQcz+n7mTQDtQLAlTVNBZHVkhFFBFg5ULMMUm5ZjYBmT0CBnG5j6IcoGA/1+q8H0QsbdK/OoKQ/SxIk1k50ImBGoEm/yFMSWQ==;UbunmdLkVhfTLyAAPBiuxQ=="
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "gv9lWHiOV/SDFJDBWkA7sdXMhbrypCM6pEVl13BLYeR+5/6hlpj6/MVzqdolD8lvSgxsHwdz9R7v6kfaVVzxt/jOiYevRNlTlNp758MovLlWR96JU6Ek5toRdFhQPgVslEK9pESCCxQIBaxdag4hYBBu9+cdONLDGRQRrF8uyCjM7ljGvu0coAfbxH0JCHf/XGsqumeATAcnHcZ+2qaQCPmD0Dy9JnM6K8SmpfjDp6EquPVUlfzrFLQtMvZ+dUihtKMKkZd6FcIfdj0y9NSi4m4x3gdcUnvZB9foYuXoIHaQ4d5NF2z9YYZEDxxqKeT13Aescy/x0jWjfVjRYkiX4Q==;XJ0+1F6HoNfkmsKIDa3YfQ=="
 ---
 

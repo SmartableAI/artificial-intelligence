@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-06T21:29:52Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-more-effective-conversations-on-amazon-lex-with-confidence-scores-and-increased-accuracy/"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1260
     height: 630
     isCached: true
-
-related:
-  - title: "Ensighten Launches Client-Side Threat Intelligence Initiative and Invests in Machine Learning"
-    excerpt: "PRNewswire/ -- Ensighten, the leader in client-side website security and privacy compliance enforcement, today announced increased investment into threat intelligence powered by machine learning. The new threat intelligence will focus specifically on client-side website threats with a mandate of discovering new methods as well as actively monitoring ongoing attacks against organizations."
-    publishedDateTime: 2020-08-06T13:07:00Z
-    webUrl: "https://apnews.com/PR Newswire/9965d7b932293bf25cd119b585af274f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "+CUYe6Q8N8KyHT7cHdI9eKHRGZcteJmdDlaY5JnfRzzICtlF3Dnvev0CESRD4Sdee41VG+Jo8tnE7iZj6BcXtfliOVuGLz0eMmpvS1G2LnzvftMQzm4Fi9XYpXzPt5ypgzt/LHY6H+x2TgRnQRUDa6Eghmww1wXUBqWCmvjEmUmd/tRdywc1eVclxQywLC1kiSzxV2D1NuJgBdh0X7W+34relqGZq/gRN6mIR1/GcSzH55cNZCCyKIdsUybx4MILtBbhHxvCXrZCcj2Q11X6NOHIV+C88cPLKyN41LQMA2YybjbswYS8QNxhjCxSlfVkJlzdMZfQplvs8Wb5Ctnmzg==;ByjYKt4Rnwg5t7qbzrw1Ww=="
 ---

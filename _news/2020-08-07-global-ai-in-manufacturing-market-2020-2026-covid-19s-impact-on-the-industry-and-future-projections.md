@@ -8,8 +8,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/global-ai-in-manufactur
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Business Insider
@@ -23,15 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market 2019 All Major Industrial Aspects and COVID-19 Impact Analysis"
-    excerpt: "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,"
-    publishedDateTime: 2020-08-10T15:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10?tesla=y"
+  - title: "Global Deep Learning Market 2020 Regulatory Framework, Market Strategies and End-User Applicants by 2025"
+    excerpt: "The market research report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast"
+    publishedDateTime: 2020-08-10T22:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regulatory-framework-market-strategies-and-end-user-applicants-by-2025-2020-08-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ZMR Revises Artificial Intelligence (AI) in Manufacturing Market Forecast, as COVID-19 Continues to Expand Quickly Across the Globe"
+    excerpt: "The Zion Market Research added a new report \"ZMR Revises Artificial Intelligence (AI) in Manufacturing Market Forecast, as COVID-19 Continues to Expand Quickly Across the Globe\" in its database, which provides an expert and in-depth analysis of key business trends and future market development prospects,"
+    publishedDateTime: 2020-08-10T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/zmr-revises-artificial-intelligence-ai-in-manufacturing-market-forecast-as-covid-19-continues-to-expand-quickly-across-the-globe-2020-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market 2019 All Major Industrial Aspects and COVID-19 Impact Analysis"
+    excerpt: "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,"
+    publishedDateTime: 2020-08-10T15:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

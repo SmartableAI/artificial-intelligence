@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/10/michigan-university-study-advocat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Portland votes to ban facial recognition ahead of referendum"
-    excerpt: "A Maine city council has voted unanimously to ban the use of facial recognition technology. Portland City councilors voted Monday in favor of the proposal submitted by City Councilor Pious Ali in November,"
-    publishedDateTime: 2020-08-06T14:41:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/4/portland-votes-to-ban-facial-recognition-ahead-of-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 39
 
 secured: "unWD7KQgcp2WtamX4WrKUV07RoRbYSOPuZFK72lbLh+RwxU0WRwWw7PSBYoe3x862oD5GBMzLPFBSWs+JIc6M9H82Dzf/99xd/Bi28VRZCJTvNlVdQGfC2/D4+uDJskAgEM4c4vl2jLZiNoJMMBegcqhoys9HRJpmdpI0v9U8RP+YWT3e0g8z4WjwzLO6Ofux/kLLp83SslLBMxJ6Fonvp1OMfxoHwSHw0YIan1nQld74bORRCQ3SMfUUnaQse6rwMAJMyKB3vnj+goZB5UH5GEe1TPwQDxPQ5In+yTAdQEGXwnYju/dVoXw9Bg8jk+iGCvJUAI8DpMXye8I7YSbSvRnFyjJiZkQrE3cE3Ao/uSC6jomqcrbGLna1x2Gy31Qa+x1CLTRQh11TTA3IfOSw72JpGMqmpMokRd5OOZLDpnNA38vHBkVG4GZ6MhBKUQMtWIK9DX5DliRxFc+c30atiIc/19+jlMiXX72H3IWcZZ4sc9idVJJk3hNC7vOlOHUKONJ09bDDRS+5Y8ypV4hGg==;m6pZAzdV10H0aO8nVNQg4Q=="
 ---
