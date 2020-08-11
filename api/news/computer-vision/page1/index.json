@@ -9,7 +9,7 @@
       "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 109,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -59,7 +59,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -98,7 +98,8 @@
       ],
       "topics": [
         "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     },
     {

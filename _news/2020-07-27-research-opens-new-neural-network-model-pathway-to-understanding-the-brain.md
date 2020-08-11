@@ -1,24 +1,25 @@
 ---
 category: news
 title: "Research Opens New Neural Network Model Pathway to Understanding the Brain"
-excerpt: "NTT Research Embraces PHI Lab Scientist-led Paper and Academic Initiatives that Set Firmer Foundation for Neuroscientific Models NTT Research, Inc., a division of NTT"
-publishedDateTime: 2020-07-27T12:07:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/b16786280/research-opens-new-neural-network-model-pathway-to-understanding-the-brain"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16786280"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16786280"
+excerpt: "New research led by NTT Research Scientist Dr. Hidenori Tanaka advances framework for understanding the brain through artificial neural networks."
+publishedDateTime: 2020-07-27T14:52:00Z
+webUrl: "https://www.businesswire.com/news/home/20200727005159/en/Research-Opens-New-Neural-Network-Model-Pathway"
 type: article
-quality: 52
-heat: 52
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "qKYCVahtINbAoUqaAV9KIE6HAXcADu5+zD5KX6GdgU8/NNkOftaG9fm+gNjDYJGNaM+xrx+8Ic0QtEI6HDN9+TqGL5NF+3drm3WL/JD1yDPRjRumSqezhOARu10hlFGIJ3ww3X7mP7hbUGdvWRH+F6YQZxNm3lgVbgeGY7smJwTGUAiU+zoK2r2UGj3k7ciWfip5L7HUzhiWNPBkfpW/WDho07IcokADhyZV1LEKLB8ADdDQao1JYt2bCivZ0vwSZ4c68doomMOHLfSC1jwHvLb9bBw/ZWsV+GezPhQ6oYVbPxgmaFuprsTBPpDq5n4ypgBQlWtHQeejEM9p7QH1fe8jhYImMH/1cn98p/hFdm/anerbDoDW3Ebm4QMk21OHuFtEv0Q9UyGyhnJWwSrsVYV/ZHgA8rvj/DP8PQ/M3z46GnKr7SfIY0+lAMHZ1OZ+vIl61VcYwff1f0oDoWCjPin1n9xkhGPCfTwSzNN+jbMJRigJpsYAOkcut2pzB4bZ+oAGHoNH17P41/DUSpxtqw==;D8cAKNRBiX77d9n3xkvlPA=="
+images:
+  - url: "https://mms.businesswire.com/media/20200727005159/en/755976/23/NTTResearch_Symbol.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "BFW64m73KVsWn5A0P5tblbv15r1RnaE/EcUxw+ni2r3eL6zhPIn7JXnH2fi0czYtlWPeZcwyQySnN7bRT6k5U7I8UnalT9aD4HaXMLiB7tix1f5FeOJ+6l/l8PokNagZXO+lGzJbR8wcS7A6+Mt/b16ntUt+8i/HqviCBg8TxcvuR3qWDo3/4SlUYF6w0UECfZbZyE+SU4My6FNAoaOGXg3+I1OTxi5YlgdBYQemelbKMd17j8Dk17kSEzHyySdN+9QxOn5qcpkzDlpAdiqvtYokgjSGhBjWnRNUHN+hXAMdaRsW/TcK/adRjhOBE8++RrsMoX6Gazcv2WSMuAl7ZQ==;DnBr+CWGNJaha+cOhP4Ycg=="
 ---
 

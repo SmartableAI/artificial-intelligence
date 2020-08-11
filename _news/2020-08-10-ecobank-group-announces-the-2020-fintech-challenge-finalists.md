@@ -72,20 +72,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "2 Ghanaian companies reach Ecobank Group’s 2020 fintech challenge finals"
-    excerpt: "Ecobank Group has announced the finalists from its 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products."
-    publishedDateTime: 2020-08-06T17:56:00Z
-    webUrl: "https://www.myjoyonline.com/business/banking/2-ghanaian-companies-reach-ecobank-groups-2020-fintech-challenge-finals/"
-    type: article
-    provider:
-      name: MyJoyOnline
-      domain: myjoyonline.com
-    quality: 53
-    images:
-      - url: "https://www.myjoyonline.com/wp-content/uploads/2020/08/Ecobank-Fintech-Challenge-2020.png"
-        width: 810
-        height: 424
-        isCached: true
   - title: "The 2020 Ecobank Fintech Challenge Finalists Announced"
     excerpt: "Ecobank announces the top ten finalists for their third edition of the ‘Ecobank Fintech Challenge’ emerging from seven countries."
     publishedDateTime: 2020-08-07T09:11:00Z

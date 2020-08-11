@@ -23,6 +23,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "AWS Wavelength Available in Boston and San Francisco Bay Area"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS Wavelength on Verizon´s 5G network, allowing developers to build ultra-low latency applications for mobile devices and users in Boston and the San Francisco Bay Area,"
+    publishedDateTime: 2020-08-10T09:10:00Z
+    webUrl: "https://financial-news.co.uk/aws-wavelength-available-in-boston-and-san-francisco-ba/"
+    type: article
+    provider:
+      name: Financial News
+      domain: financial-news.co.uk
+    quality: 34
+
 secured: "jWx/t90myWgAR7slpzRM2LQ+TOF6NO8qR7a5VctQTF7I/8BHFq5wuqguM3VbY91brHlvx8u0knQ4q/YpMMRCtfki4IXIuSjhE7FHcA52vzmL1buyvYQCanJumjyf6xvxrvSzouFfkr/pNr+DWjYVWvHR/zl+zxrRri7fxbg9YL9aeX800PalJOLEWULSfWVqkRcCqrI/G6bPBDzBeTy1WnyqSbwUI6/e/T/lrQ2P+Eiu+bqbR/hBgcKkg22a/iNRwyTiReJFHekZTq6wgTz6SxZzdeQUXUoi7wAium6cfmHifJFWoZAufTt5PoQDJBon4lU5AfLj2IWRAWANBi3vuQ==;/DaOuFgzc9ym/7LudeWpRw=="
 ---
 

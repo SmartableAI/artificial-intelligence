@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T23:58:00Z
 webUrl: "https://www.fox19.com/2020/08/07/macys-sued-gathering-facial-data-customers-stores/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Macy’s Sued Over Use of Clearview Facial-Recognition Software"
-    excerpt: "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI."
-    publishedDateTime: 2020-08-06T18:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjoIH.CSaXQ/v1/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Macy’s sued over use of Clearview facial-recognition software"
     excerpt: "Macy’s Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI. An Illinois woman filed a proposed class action against Macy’s Wednesday in federal court in Chicago,"
     publishedDateTime: 2020-08-07T11:30:00Z

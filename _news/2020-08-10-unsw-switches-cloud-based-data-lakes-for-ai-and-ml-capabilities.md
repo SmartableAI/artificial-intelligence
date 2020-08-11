@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/unsw-switches-cloud-based-d
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "UNSW explores AI infused analytics for dual data lakes"
+    excerpt: "UNSW has begun exploring how AI might be able to help it extract additional value from its dual data lakes. The University built its first data lake in Microsoft Azure in mid-2019 and has since used Azure Databricks to create a second cloud-based curated ..."
+    publishedDateTime: 2020-08-11T08:38:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/unsw-explores-ai-infused-analytics-for-dual-data-lakes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/08/Key-Campus-Summer-Holidays-2019-Louise-Reily_hero-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "9SJaRi6XFvxz0SMvw+2DHhpJZ+BFOpnlIGV06FPho8/4uu2HdnXOE3MDPLy9pw5rvLi9ZD/ZPvH6t16TpPfbk87zw4bEVNu2k3LLv0BJ/U0n89zV3u1OI6F3n19E6VlpIG+N7f+lr1SvVgMjQyDJY1qph+O+bLjxjPBsgLBMz9BaFzphObXjvDc5lmkV7NoQ//d9woIN43J0kH8kdzaJ03PmK2z3Ksd70Z5DFU6nJH4+wfw4tDB81L7dzdGZtOxPeWkzk7ge4YpBA0wZtYhFJ0naiTwsiicriGi7clmjcEHKADCG32Z4WFGgfI4kR3PAPd+T2bFWw0znqB0LPOcHSEIFCfJOW2QmOQMWGdQ2ZKvk5tNhVW/VC5IIpXNgbUQFsLqq4H9t2ok+BZ3ZQRzICQ+ZOthDA6x0R8zUQbsaWccrgoXdYjpMJnI3u4iKgLMoz9YuD3areJfwIy/YIzHTalZErbgXAiOjlLeY7ebXJDa4L/aOpwi9EN/QuGzpeZeuvJiGQdVtQoDmvRphIi5I4w==;tC5kTtR+UU9BMqTWEDHoIw=="
 ---

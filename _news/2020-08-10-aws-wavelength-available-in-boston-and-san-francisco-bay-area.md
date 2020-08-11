@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "AWS Announces General Availability of AWS Wavelength in Boston and the San Francisco Bay Area"
-    excerpt: "First two AWS Wavelength Zones in Boston and the San Francisco Bay Area enable developers to build applications that deliver ultra-low latency to mobile devices and users by deplo"
-    publishedDateTime: 2020-08-06T18:42:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200806005890/en/AWS-Announces-General-Availability-AWS-Wavelength-Boston"
+  - title: "5 Things To Know About AWS Wavelength On Verizon 5G Edge"
+    excerpt: "Amazon Web Services brought its cloud computing and storage capabilities to the mobile edge this week for developers in Boston and the San Francisco Bay area with its new AWS Wavelength on Verizon’s 5"
+    publishedDateTime: 2020-08-07T21:27:00Z
+    webUrl: "https://www.crn.com/news/cloud/5-things-to-know-about-aws-wavelength-on-verizon-5g-edge"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 43
+      name: CRN
+      domain: crn.com
+    quality: 39
     images:
-      - url: "https://mms.businesswire.com/media/20200806005890/en/811157/23/AWS_logo.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.crn.com/img/CRN_stacked_1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "SZQRVIU0mC4EOg9Sy0a/RsakDUIGz+g8NsG0Mf4LxIcVv9q/PMX6U23Vmourh8oGz85tYGXhOlA9GdYKHUG6u1beXGm5nt3AGWyuTdsEJ3U1GlHs6/0dsBP8C051x1yD3p/2sl9ZczD9SwG/grw4QD5Az0O7Rk+72O5Udp3/B1JMDaw9c4LHCYhZ/+sE4xM8z6USGRSDfO+Obn6qdab/XRVg6BQ6u99LgVu6705kuXstPCYvT3zzn0UriO5PNQce1cE4fcTPtwYStLHbUt4IBiNCHgN6lWWcY9KQTW+msrBQNbRSs0socdkA5b5Rm2m1zjCFB98DP1pTFAIXIo58hw==;bLUfdEWSDAuvY4bULaxn7A=="

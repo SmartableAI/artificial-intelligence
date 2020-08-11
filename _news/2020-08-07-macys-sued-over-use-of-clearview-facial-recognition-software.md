@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Macy’s Sued Over Use of Clearview Facial-Recognition Software"
-    excerpt: "Macy’s Retail Holdings Inc. was targeted in one of the first lawsuits against users of the controversial facial-recognition software made by startup Clearview AI."
-    publishedDateTime: 2020-08-06T18:24:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-06/macy-s-sued-over-use-of-clearview-facial-recognition-software"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjoIH.CSaXQ/v1/360x-1.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Macy’s sued for gathering facial data of customers at stores"
     excerpt: "The department store giant is accused of using facial recognition software to match faces with personal information on social media. More than 6,000 people could be affected. The class action lawsuit was filed in the Northern District of Illinois seeking ..."
     publishedDateTime: 2020-08-07T23:58:00Z
