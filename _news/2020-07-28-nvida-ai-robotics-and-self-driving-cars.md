@@ -14,6 +14,7 @@ topics:
   - AI in Autos
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://cdn.moneyshow.com/mscache/keyword-img/technology_08_lrg.jpg"
@@ -21,6 +22,6 @@ images:
     height: 370
     isCached: true
 
-secured: "cNl4v+PKDCQEASAb+RVstLyCPiWMse5pxVyBxt/UF7QbMbwGAkNJPO346DfKwF532gCbEU/jZX3EckMvnlwU0j08iNR3t1Hm40u17qGkALJO1VqBxuI4mxK9ngVh0/16yaYJqP593mHLjmPgihwL8+vsSlDI/LF6ELbJprq+5rd8PRiBBtbJ3Bg66WDcBqgLuqi7XCGDyu2bqpFThgGD9Ow2JD8Okd8SrjT7cYnQk+hUx2JkC4OkdBhGZPxLWAfyantV+BJZDip9uLCHOacwA7yec1TSy4FMU+yYWd1qFlRbqbNi4FhnMpAcZH0yzJPhtBscXVYdSGZM7INVvFi5sQ==;/GXbcx8gBJ515pZRjfoe8A=="
+secured: "zVW1srElT331Izznhn9RANe4wX9rIZT5N7ub/NVdij0c6AjxtCLInlVNc+DfBAUNvtTmLLnFR+ftHRf1zhwvx9aMHNbcDJI2m9fkiqbuL9iItNVGYvjjpk6o+1d5T2jKeZiJNlPOCtkb+n8QB05k6cmeWdZb+ZA+n4tVvRd+xzsECyf8LnZGOWqLwmwyc7Qg5gBd4Qm4rz0cMmWoTR3Aafr7Sjdjn0G/fefOfbrUsbI/J6DJS9+LrwkUqRohc6jfFvI2Fb85oKGezbIZQq3g6N57LXKe/i0/m0eM9xaB8TTfhRV4gxDZASMriHo6KHaLsnYkK0Y/7szFc04Ui/ZfNE5skbSlJzqEWlmeux8RhqT/7GMhXC9cGm70WKC79RXKhCLHzkMsDEtqoxMXlaj9pyAbHNhVnp+pBltvRfLsbueuKpPtG4vvVSZlfcp5M2iqRwYzYuaIy90DQuEDqpPgXDPfsPjCkAKY/NQOcuhg1A1hYa7TSxMr369JnZJOyyPPfLuiYnszKC73hv/s9ewVyA==;gulgImap0Pa7FqGfjd3F3g=="
 ---
 

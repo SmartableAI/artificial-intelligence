@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Road test: Chinese 'robotaxis' take riders for a spin"
-excerpt: "It is expected to be years before cars that operate without human intervention are unleashed owing to lingering technological, regulatory, and safety hurdles."
-publishedDateTime: 2020-08-10T05:14:00Z
-webUrl: "https://www.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
-ampWebUrl: "https://amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
-cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
+excerpt: "Chinese entrants in the race to put autonomous vehicles on the road are bringing \"robotaxis\" online in hopes that a hired-car format can be the key to unlocking wide acceptance of the futuristic technology."
+publishedDateTime: 2020-08-10T21:00:00Z
+webUrl: "https://japantoday.com/category/tech/road-test-chinese-'robotaxis'-take-riders-for-a-spin"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: IBTimes UK
-  domain: ibtimes.co.uk
+  name: Japan Today
+  domain: japantoday.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://d.ibtimes.co.uk/en/full/1683802/chinese-robotaxis-take-riders-spin.jpg"
-    width: 1024
-    height: 681
-    isCached: true
 
 related:
   - title: "Chinese 'robotaxis' take riders for a spin"
@@ -57,6 +49,6 @@ related:
         height: 681
         isCached: true
 
-secured: "E2imIHmWJvt7WhR7S0WVQ4XTmGO/UbrT8NKMnhIH10XzsJlSd+aJ7fLpgw9mQC+BgMd6/jvzMR+F9pR0PPh94nAq2elScLfypdN/NC7McjjiBUYXASxLXe2/5VT7dIVnCzZA3xK7O+BR9Pu0pbG9wAhz6JCN14Us4rrMScdrY2vMnZQ9CJVW/l/v9pwOjYOy2AtX4GZr6Qx0n3pfV9arX2ifqNvzCTVbo7PpHB2mLTqEa5WxYXUPrTXqG3XFonBgBDP2r3+ztxNrj5WdqRSMQHIhvCbbmgua+BdAtCYWgkSj9v/MflVDDrHfyva6ZfYwCPPC7MP+PhsOYzmyyvFKyg==;i/Ue3Lqz4d/EpOmq5ZuNCA=="
+secured: "zlyI/R6JI2fjQbbFtOb/DiAnU+tEAwi3nk+J4zEq3FWuNWEyHMyWbM8r9AOGnGlAWoHJCPgIcohA96N4hXs1vyBKV/2vflQhkiXLwDONOmmOR4LTjc1Gvu5PnupHxFnrvnYemFkbZOZqQ7ZLkso/c+Je8xeoJBi6kDuZmXs0qHXRMYNaw/HdyM274oQMc56LVcoB7GhwQ4ypvXSUceVAYQlKbq4DszSiG24zEZpBxF4SZZU+aHmabH6q5Kk/v2p0POhNx/3OPBPCADt09bq4jYOBGVVe5YiaVVyax/kmJH7qKSu9NNxpKio/2EXJtb7KEMplBSMXLPTElaXjWA2NgKXbXjoAq2XnQRrQNY2/CehS/QozWflYA4Xa9n3PcYxz2gluiNUMFX//g050I5on4mLgqP/M2PElZju2P/XDlSSAqW7HdVQTqCDh04eVYsGanRDFaMf1W3coZ3rAE0rDXJ7lth8/MY2OovVT0IVj8ZazZom9Cn1OQJg2uAS0SV9XlPI0rF+ETJ94Rf5WPoL+cQ==;ZVNwo/WavCEGeu4YlbErdw=="
 ---
 

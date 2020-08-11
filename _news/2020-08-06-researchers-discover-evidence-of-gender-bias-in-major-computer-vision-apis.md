@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:
