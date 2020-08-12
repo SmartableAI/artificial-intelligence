@@ -85,12 +85,12 @@ related:
   - title: "Artificial Intelligence Market - COVID-19 Impact Analysis, Trends, Business Profiles and Forecast to 2025"
     excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
     publishedDateTime: 2020-08-12T10:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market---covid-19-impact-analysis-trends-business-profiles-and-forecast-to-2025-2020-08-12?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market---covid-19-impact-analysis-trends-business-profiles-and-forecast-to-2025-2020-08-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -198,6 +198,6 @@ related:
       domain: marketwatch.com
     quality: 6
 
-secured: "ytWfDG9IEiZB00IPByr/C1RL7engq/b3W0yhZu93ACrj973p56QsY4YeeWvHksCi9j5QWTSik417MKAVqIomzfeCv1UCDN1InikkzUJJe+KS6Yfjc8WFqX2tBGS2gdmHG0RcTSaMsD4nA4KKaMtk+o5YVEv5va79fd/7+hWnZmGwYH1AVFmDK0qejRtZuaC1MFHOVfw33Zmf0GpFNY8zxwFtOCs85NOv+b51pQR9sr6rYFThoydYSuX5LYNgRdwWc0d1CeLXNmX3nkU7/7IzeUXHzkADVJqe7UV8Q1lTwvHDgE40q45qdCfrEnYSPwDOR5/kKcRdYJz7zLjZV7QVXw==;Cccfw8O5FbQuCF5E9xnQDw=="
+secured: "x8/a9MKmQiMosUTvaMTfF8FI/yZbJ7764P58rq9oWKDHUkj+svF4+NE7ulKGXZogb2G8XE8IbFnDPoAgobziwQr1Xp7+PtdVcdQxrfFEXJOnDpmY9+JlA+x7XJJD9xcLwpMwBwxbCAMQHOjmBJV7ZARd1supd1RT7s+lQBLT8HvipuiADsheyQm9V9PcI2qVzBteZM//7WaGeS7KrPvYT6qnkUubn4aq50d45q8n6F7gF7KTsroxSBT3DnhZ2V38w0ZFl/Q/LP3M7CRrKChVTPWCzKI+v4+EUjp343Qd2wlFeydztHyKhgnPgLL/tjhRJyygH7Ttf6o3Ksv0xFe/1HiVteraEbV62bO7sQOjiWo8GNb8lmtvQw/9XPI2sR1A+dF/stiifIEesSvu5iv6Ln3RJZBBwyqF2xy/4arQG+L3p4bbfgBB66C2G0LrqSOQ1NCDYczC//29DxC3NrGE327mqmB2k2+u4ZBeab9FRmaIcH+lDdH53mBd+SYaawxJ7R8K0ZJNDNIWi3lySDtC3w==;TtLxydvT6Sr88RzgXKYizQ=="
 ---
 

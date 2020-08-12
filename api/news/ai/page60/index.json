@@ -2,6 +2,220 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-06-18-this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed.md",
+      "title": "This startup uses machine learning to change the way drugs are developed",
+      "excerpt": "Insitro, the startup founded by Daphne Koller, is taking a radical new approach to drug development. The company uses a team of biologists and machine learning experts to help develop new drugs that are more likely to succeed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/video/this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed/6CpgWp2J",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/6CpgWp2J/poster.jpg?width=720",
+          "width": 1280,
+          "height": 722,
+          "title": "This startup uses machine learning to change the way drugs are developed",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-ai-and-machine-learning-in-healthcare-garbage-in-garbage-out.md",
+      "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
+      "excerpt": "Much proselytizing has occurred regarding the value and future of artificial intelligence (AI) and machine learning in healthcare. The industry is burgeoning. As with blockchain technology, which continues to evolve in the healthcare marketplace ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffgorke/2020/06/18/ai-and-machine-learning-in-healthcare-garbage-in-garbage-out/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1197598173%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D556%26cropY2%3D3931",
+          "width": 1200,
+          "height": 675,
+          "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-gpu-accelerated-ml-training-now-available-for-35-million-windows-subsystem-for-linux-users.md",
+      "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
+      "excerpt": "Microsoft has announced the availability of GPU Compute on the WSL2, allowing users to run native Linux command-line tools directly on Windows 10",
+      "sourceUrl": null,
+      "webUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/06/GPU-Compute-WSL-2.jpg",
+          "width": 700,
+          "height": 365,
+          "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/",
+      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/",
+      "publishedDateTime": "2020-06-18T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-ai-model-uses-smartphone-location-data-to-predict-power-grid-usage.md",
+      "title": "AI model uses smartphone location data to predict power grid usage",
+      "excerpt": "Researchers propose an AI model that incorporates smartphone location data to predict power grid usage during the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/07/australia-powerpack-blog-e1592499666353.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI model uses smartphone location data to predict power grid usage",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/",
+      "publishedDateTime": "2020-06-18T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.md",
+      "title": "Medtronic’s MiniMed 780G with Artificial Pancreas Capabilities Cleared in EU",
+      "excerpt": "Medtronic won the EU CE Mark for its MiniMed 780G closed loop insulin pump that features both Medtronic’s own SmartGuard algorithm and MD-Logic, an algorithm developed by DreaMed Diabetes, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2020/06/medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure.md",
       "title": "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure",
       "excerpt": "With Azure set to become the John Hopkins inHealth precision medicine initiative's preferred cloud platform, JHM will be looking to advance its medical research with Microsoft's assistance.",
@@ -1132,220 +1346,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-sas-and-microsoft-partner-to-democratise-ai-and-analytics.md",
-      "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
-      "excerpt": "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2020/03/MICROSOFT-696x452.jpg",
-          "width": 696,
-          "height": 452,
-          "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
-      "publishedDateTime": "2020-06-18T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-deep-learning-sessions-impact-investing-and-covid-19-with-roopa-kudva-omidyar-network-india.md",
-      "title": "Deep Learning Sessions: Impact investing and COVID-19 with Roopa Kudva | Omidyar Network India",
-      "excerpt": "Want to make your startup journey smooth? YS Education brings a comprehensive Funding Course, where you also get a chance to pitch your business plan to top investors. Click here to know more.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/video/deep-learning-impact-investing-and-covid-19-opportunity",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-empowering-developers-to-achieve-more-at-the-microsoft-developer-conference.md",
-      "title": "Empowering developers to achieve more at the Microsoft Developer Conference",
-      "excerpt": "the sessions focused on Microsoft Azure, Kubernetes, DevOps, Open Source, Azure AI, Machine Learning, Cognitive Services, serverless computing, languages and tech community services. Developers form the backbone of digital progress and are providing ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-in/microsoft-developer-conference/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/06/18june-MS-2-768x512.jpg",
-          "width": 768,
-          "height": 512,
-          "title": "Empowering developers to achieve more at the Microsoft Developer Conference",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-physical-therapy-software-market-to-record-a-robust-growth-rate-for-the-covid-19-period-impact-covid-19.md",
-      "title": "Physical Therapy Software Market to Record a Robust Growth Rate for the COVID-19 Period (Impact COVID-19)",
-      "excerpt": "Be it artificial intelligence (AI), internet of things (IoT) or digital reality, the increased rate of technological advancements around the world is directly proportional to the growth of global Physical Therapy Software Market. In the next two years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/physical-therapy-software-market-to-record-a-robust-growth-rate-for-the-covid-19-period-impact-covid-19-2020-06-18",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Physical Therapy Software Market to Record a Robust Growth Rate for the COVID-19 Period (Impact COVID-19)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-worker-upskilling-and-innovation-a-key-to-working-with-robots-artificial-intelligence.md",
-      "title": "Worker upskilling and innovation a key to working with robots, artificial intelligence",
-      "excerpt": "Upskilling workers with vital innovation capabilities is key for the future employment landscape, according to a study by Flinders University Professor Giselle Rampersad which also found that for workers of the future to thrive with robots and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/27208dbd1d90ed77d7644abecd22dc82_M.jpg",
-          "width": 375,
-          "height": 346,
-          "title": "Worker upskilling and innovation a key to working with robots, artificial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

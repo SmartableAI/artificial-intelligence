@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Gong raises $200 million to surface sales insights with AI"
+    excerpt: "Gong.io, a startup applying AI to sales call analysis, has raised $200 million in venture capital at a $2.2 billion valuation."
+    publishedDateTime: 2020-08-12T13:33:00Z
+    webUrl: "https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/10/Gong.IO_-e1596830560832.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How RBC Built Its Own GPU Farm for an Artificial Intelligence-Powered Banking Platform"
     excerpt: "Its vendors, Nvidia and Red Hat, expect lessons from the collaborative project will benefit the broader fintech space, as well as other industries."
     publishedDateTime: 2020-08-10T19:04:00Z

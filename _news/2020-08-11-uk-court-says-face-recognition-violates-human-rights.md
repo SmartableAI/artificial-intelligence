@@ -2,27 +2,25 @@
 category: news
 title: "UK court says face recognition violates human rights"
 excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
-publishedDateTime: 2020-08-11T15:40:00Z
-webUrl: "https://www.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
+publishedDateTime: 2020-08-11T15:50:00Z
+webUrl: "https://www.startribune.com/uk-court-says-face-recognition-violates-human-rights/572075562/"
 type: article
-quality: 44
-heat: 44
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: StarTribune
+  domain: startribune.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://amp.spot.im/loader.png"
-    width: 375
-    height: 815
+  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1597078316"
+    width: 1680
+    height: 876
     isCached: true
 
 related:
@@ -41,6 +39,6 @@ related:
         height: 673
         isCached: true
 
-secured: "tBlzdwm0pjQBJ3MCDP4xB1djombFpcjuDNjniJl74B1wjLuo+PGKEQWVXm6quG8iozU1okpgY4XUxcxeouFdhf2+GykGTosnnXLQyHGuHOeRfbiJqlj257wOm8yzKnZTQ5lAepLrBncNPWdjE3nhKHRPyP7BFxeX+m7nGd3OEloCXsuakWNU2xLM/QgZvCmqx7E2QUKhWWBrcvFrlwS6Pdb+c8FPf1plR4kMytQBGyEntbKaoM3unYe2b4eGHRMd35k6FlDD32OPWYAJJmH08R95T4ukMoQi89NytgBVj4uZyC/gfcNysu+p9+/jh121C2pyMh18tdpvKeQxLasFYQ==;cl7zaKjj7hflnr2ZKGOGvQ=="
+secured: "rwXz4aVwGoRP4dgkiMJR8/NqeooiJmjcdNGQiU37wMRCQbiuCyTDYqjjgsb2wZRoPSMMdMcCMuT3TkWjJPedKKr4n8n7MzE6thfxQwRrcgElbo3nbTv+AryGeJ9Yu+ccsqsZaH9YpxqNBP9xo0cIB0Fo05MfwQRnuLSKiFr1xC4lrOPkhRVHPxvr/7Y09FT5g5990TMqJkFrJi+P4YMuF9FRRdKjlu6XrpanwAVJzj07jhJD2BcI12aGP+p5PMTxnWB1KWeR9LALVrogfBbIDiyuF3dMyfFbfyOjfMRWQ1lm4IpK+g3EbLNDsBaP6jFEdsCCoHKymSwH8FYcrZ99HQ==;t/ahjuc2SV/KfOvdgqsK7w=="
 ---
 

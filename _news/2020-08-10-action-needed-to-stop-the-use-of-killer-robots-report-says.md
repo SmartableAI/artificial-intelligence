@@ -8,8 +8,8 @@ ampWebUrl: "https://news.sky.com/story/amp/action-needed-to-stop-the-use-of-kill
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Sky
@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Killer robots' and AI could wipe out humanity, report warns"
-    excerpt: "A report by Human Rights Watch says that urgent international action is needed to mitigate the threat An increasing number of countries want to introduce a ban on fully autonomous weapons in order to prevent the creation of \"killer robots\","
-    publishedDateTime: 2020-08-10T11:34:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-could-wipe-humanity-report-warns/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-could-wipe-humanity-report-warns/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-could-wipe-humanity-report-warns/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 74
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/01/05/TELEMMGLPICT000184757991_trans_NvBQzQNjv4BqYWNJspVvOUVBAuV2D2wK5qe5mKcvZOefBAac5hC1c74.jpeg"
-        width: 2501
-        height: 1563
-        isCached: true
-  - title: "We need legislation against ‘killer robots,’ Human Rights Watch says"
-    excerpt: "Now, real-life researchers with the Human Rights Watch are sounding the alarm on potentially world-ending “killer robots,” according to a new report. The message comes as part of their Campaign to Stop Killer Robots,"
-    publishedDateTime: 2020-08-10T08:38:00Z
-    webUrl: "https://nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/"
-    ampWebUrl: "https://nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/killer-robot-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Killer Robots: Growing Support For Ban, But New Zealand’s Stance Remains Weak"
     excerpt: "An increasing number of states have affirmed the need to take action to protect humanity from the escalating threat of fully autonomous weapons, but New Zealand is regrettably not among them. Fully autonomous weapons - known as killer robots - are weapon systems that select and engage targets without any meaningful human control."
     publishedDateTime: 2020-08-11T01:54:00Z
@@ -69,22 +37,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 51
-  - title: "Killer robots are now ‘urgent threat to humanity’ and should be BANNED, shock report warns"
-    excerpt: "KILLER robots pose an “urgent threat” to humanity and the world must come together to stop their development, a grim report warns. Human rights experts say the deadly technology, which"
-    publishedDateTime: 2020-08-11T15:43:00Z
-    webUrl: "https://www.thesun.co.uk/tech/12374252/killer-robots-threat-humanity-ban-humans-rights-watch/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/12374252/killer-robots-threat-humanity-ban-humans-rights-watch/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/12374252/killer-robots-threat-humanity-ban-humans-rights-watch/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 49
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000477540307-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Action needed to prevent the use of killer robots, report says"
     excerpt: "An increasing number of countries want to introduce a ban on fully autonomous weapons in order to prevent the creation of “killer robots”, a new report says. It describes weapons systems which can select and engage targets without meaningful human control as “unacceptable”."
     publishedDateTime: 2020-08-10T11:55:00Z
@@ -99,19 +51,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Killer Robots: Growing Support for a Ban"
-    excerpt: "A growing number of countries recognize a duty to save humanity from fully autonomous weapons, Human Rights Watch said in a report released today. Weapons systems that select and engage targets without meaningful human control,"
-    publishedDateTime: 2020-08-10T12:56:00Z
-    webUrl: "https://www.hrw.org/news/2020/08/10/killer-robots-growing-support-ban"
+  - title: "World must come together to stop killer robots, experts urge"
+    excerpt: "Removing human control from the use of force is now widely regarded as a grave threat to humanity that, like climate change, deserves urgent multilateral action,' says campaigner"
+    publishedDateTime: 2020-08-11T08:55:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/killer-robots-international-treaty-human-rights-watch-a9664421.html"
     type: article
     provider:
-      name: Human Rights Watch
-      domain: hrw.org
+      name: The Independent
+      domain: independent.co.uk
     quality: 39
     images:
-      - url: "https://www.hrw.org/sites/default/files/media_2020/07/202008arms_killer_robots_main.jpg"
-        width: 1400
-        height: 1004
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/11/28/12/artificial-intelligence-terminator-movie-terminator-5.jpg"
+        width: 1183
+        height: 788
         isCached: true
 
 secured: "fB1RPeM8CqF90rPNswfZkD/D03etkg5904b2t4Cqnn/4PXEdDdddjfjKBknxx/OmN47HVva6aGMjszPjLbhEisDN8SleWMAzZPQbTXt5QIf2cIFyHIRTtQJXQ69GpKO5NdMVTVil564IoSKQFAhc8cjdFFpvLwPTJHQ/bbA0PPlEdnMK0Zft64ZmAAU+VpVsC5T5pk3K0LxraxMqhUwHlVmZ5+HNEC/LVkE8c7mnhtfw1j4ZF2rj5YOCOzMp8tcXP68Ly6HQ9NhU8IoTMci/aYhW2o0VSaY4gLBF7JOkeL+ClX/xQ08C7Q254YnS+PgcjfeqQ/LLts6iG5pIuN+nsw==;yGL/G3VFMRAZ9CTfMFpwRg=="

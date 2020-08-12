@@ -2,6 +2,97 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-24-dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics.md",
+      "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
+      "excerpt": "AI-driven fulfillment provider Blue Yonder and DHL have deployed a new platform for the integration of warehouse robots, built on Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/06/DHL_Blue_Yonder_1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
+      "publishedDateTime": "2020-06-24T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest.md",
+      "title": "Autonomous farm robot Burro assists human workers with grape harvest",
+      "excerpt": "Burro is an autonomous driving robot that assists farm workers harvesting grapes in California that can augment or replace humans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/burro-robot.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Autonomous farm robot Burro assists human workers with grape harvest",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/amp/",
+      "publishedDateTime": "2020-06-24T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-artificial-vs-augmented-intelligence-whats-the-difference.md",
       "title": "Artificial vs augmented intelligence: what’s the difference?",
       "excerpt": "Artificial intelligence has accrued some very bad reputation over the years. For some, the term AI has become synonymous with the mass unemployment, mass slavery, and mass extermination of humans by robots.",

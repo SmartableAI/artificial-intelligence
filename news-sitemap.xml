@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276</loc>
+    <lastmod>2020-08-12T06:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/ai-magic-makes-century-old-films-look-new/</loc>
+    <lastmod>2020-08-12T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thetradenews.com/simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud/</loc>
     <lastmod>2020-08-12T04:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.vice.com/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty</loc>
+    <lastmod>2020-08-12T04:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -27,6 +45,12 @@
   <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/</loc>
     <lastmod>2020-08-11T21:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/facebook-turns-to-artificial-intelligence-for-help-during-the-pandemic-11597187773</loc>
+    <lastmod>2020-08-11T21:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -313,6 +337,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://news.sky.com/story/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509</loc>
+    <lastmod>2020-08-10T06:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/</loc>
     <lastmod>2020-08-10T05:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -333,12 +363,6 @@
   <url>
     <loc>https://www.engadget.com/the-morning-after-ai-fighter-pilots-112824955.html</loc>
     <lastmod>2020-08-10T04:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.telegraph.co.uk/technology/2020/08/10/killer-robots-ai-could-wipe-humanity-report-warns/</loc>
-    <lastmod>2020-08-10T04:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1609,6 +1633,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.embedded-computing.com/home-page/dinoedge-ai-platform-for-health-safety-monitoring-solutions</loc>
+    <lastmod>2020-07-30T15:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/gear/article/3095308/chinese-ar-start-rokid-eyes-industrial-applications-after-success</loc>
     <lastmod>2020-07-30T15:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1819,7 +1849,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/</loc>
+    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588</loc>
     <lastmod>2020-07-29T19:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1827,12 +1857,6 @@
   <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-29T18:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.embedded-computing.com/news-releases/dinoedge-ai-platform-for-health-safety-monitoring-solutions</loc>
-    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2241,6 +2265,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/</loc>
     <lastmod>2020-07-28T07:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.electronicdesign.com/industrial-automation/article/21137620/digital-dev-boards-reach-the-zenith-of-sophistication-and-application</loc>
+    <lastmod>2020-07-28T07:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

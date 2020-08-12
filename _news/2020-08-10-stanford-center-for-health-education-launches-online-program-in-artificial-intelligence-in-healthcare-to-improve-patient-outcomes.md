@@ -5,7 +5,7 @@ excerpt: "The Stanford Center for Health Education launched an online program in
 publishedDateTime: 2020-08-10T14:08:00Z
 webUrl: "https://apnews.com/PR Newswire/56e335acee9728a4dbb3c2cf163211ca"
 type: article
-quality: 8
+quality: 10
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

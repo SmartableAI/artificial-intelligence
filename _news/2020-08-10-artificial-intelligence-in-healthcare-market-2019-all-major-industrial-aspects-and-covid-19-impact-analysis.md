@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T15:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 800
         height: 370
         isCached: true
-  - title: "Global AI in Manufacturing Market 2020-2026: COVID-19's Impact on the Industry and Future Projections"
-    excerpt: "The \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-08-07T19:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-ai-in-manufacturing-market-2020-2026-covid-19-s-impact-on-the-industry-and-future-projections-1029483218"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
 
 secured: "k7OsfIyT65/v5pVQmWNx4euG6VvW+GNN8qAQfBPKJHDpg6LM7s2w5/+osy2r5hOsoM1JuwMeogEq4L/rpuXf2bSti2ot/m6GkS0CcYfeHCaB3q1fn8KjBrWI3OgE08IdWwvgtBDkcjVlLaFPQCZVKwJBecZwWvyKNs7+D3AbdyJLNHgKwZzQNrDUZp4U9hX41oRWImYnfNvAn0vjU0PXoV592yCkMm6HZ968uOUVCbB3wq5VGlk+OfCW9o9wtyT3glPfIXEQRbC/P8wW26efQjl+q5L5snVt813TvcsaKkmiSPH0tRVZyqmgBWm7Lr5tb5roP7Vt70417Fv8QDq3DQ==;/QgokCMcPcwdPcMBoFMAxA=="
 ---

@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-12-how-a-30-ton-robot-could-help-crops-withstand-climate-change.md",
+      "title": "How a 30-Ton Robot Could Help Crops Withstand Climate Change",
+      "excerpt": "What makes a plant thrive in the heat? In the Arizona desert, the ‘Field Scanalyzer’ is collecting data to learn the answer—and hopefully improve farming for biofuels and food.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-218942/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276",
+      "publishedDateTime": "2020-08-12T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-ai-magic-makes-century-old-films-look-new.md",
+      "title": "AI Magic Makes Century-Old Films Look New",
+      "excerpt": "Denis Shiryaev uses algorithms to colorize and sharpen old movies, bumping them up to a smooth 60 frames per second. The result is a stunning glimpse at the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-magic-makes-century-old-films-look-new/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f32e8e634cbc2004e146e77/master/pass/Science_film_962963136.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-magic-makes-century-old-films-look-new/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-magic-makes-century-old-films-look-new/amp",
+      "publishedDateTime": "2020-08-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud.md",
       "title": "SimCorp launches Dimension platform as a service on Microsoft Azure cloud",
       "excerpt": "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development.",
@@ -43,6 +142,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-12-more-countries-are-demanding-an-international-treaty-to-ban-killer-robots.md",
+      "title": "More Countries are Demanding an International Treaty to Ban ‘Killer Robots’",
+      "excerpt": "Now, eight years into their push for new international legislation regarding LAWS, HRW has announced in a new report that 30 countries—including Argentina, Iraq, Pakistan, Palestine, Zimbabwe, Colombia—are now finally explicitly seeking a ban on the use of these weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f33d111f7a95c009efe2f15/lede/1597231383355-000arp3501469-1.jpeg?crop=1xw:0.844xh;0xw,0.1274xh",
+          "width": 3997,
+          "height": 2245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
+      "publishedDateTime": "2020-08-12T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras.md",
       "title": "Lantronix Open-Q 610 μSOM to Bring Advanced AI and Machine Learning Capabilities to Smart Cameras",
       "excerpt": "(NASDAQ: LTRX), a global provider of intelligent edge and secure data management solutions for the Industrial Internet of Things (IoT), today announced its new Lantronix Open-Q(TM) 610 μSOM. Scheduled for delivery later this year,",
@@ -50,7 +199,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras-2020-08-12-71841522",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -224,6 +373,55 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-facebook-turns-to-artificial-intelligence-for-help-during-the-pandemic.md",
+      "title": "Facebook Turns to Artificial Intelligence for Help During the Pandemic",
+      "excerpt": "Facebook is leaning more heavily on artificial intelligence to police its platforms while human reviewers work from home during the coronavirus pandemic, company officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-turns-to-artificial-intelligence-for-help-during-the-pandemic-11597187773",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-219714/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-11T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1084,7 +1282,7 @@
       "webUrl": "https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1183,7 +1381,7 @@
       "webUrl": "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1233,7 +1431,7 @@
       "webUrl": "https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1274,178 +1472,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis.md",
-      "title": "Artificial Intelligence can improve CT screening for COVID-19 diagnosis",
-      "excerpt": "The research team is working to identify the visual features of coronavirus-related pneumonia through analysis of 3D data from CT scans",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/2020/aug/AI-Covid_d.jpg",
-          "width": 670,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.mid-day.com/amp/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234",
-      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234",
-      "publishedDateTime": "2020-08-11T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-facial-recognition-use-by-south-wales-police-unlawful.md",
-      "title": "Facial recognition use by South Wales Police 'unlawful'",
-      "excerpt": "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-wales-53734716",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716",
-      "publishedDateTime": "2020-08-11T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-why-covid-19-will-boost-the-use-of-robotics-in-the-wild.md",
-      "title": "Why Covid-19 will boost the use of robotics in the wild",
-      "excerpt": "What must businesses consider before deploying robotics to ensure the technology is used responsibly and the challenges they’ll need to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Que362nGceZon38bd28Ad6-1200-80.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
-      "publishedDateTime": "2020-08-11T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-ai-readiness-isnt-just-a-technology-issue-ethics-matter-too.md",
-      "title": "AI readiness isn’t just a technology issue – ethics matter too",
-      "excerpt": "For example, in AI Readiness, Alex Castrrounis explains readiness regarding Technological, Financial and Cultural Issues. Summarizing some of his points: Organizational — Need a Chief AI Officer (CAIO) or chief analytics officer (CAO),",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
-          "width": 1277,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp",
-      "publishedDateTime": "2020-08-11T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

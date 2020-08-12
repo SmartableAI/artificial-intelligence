@@ -2,27 +2,25 @@
 category: news
 title: "Road test: Chinese 'robotaxis' take riders for a spin"
 excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-publishedDateTime: 2020-08-09T09:45:00Z
-webUrl: "https://www.thejakartapost.com/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
-ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
-cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
+publishedDateTime: 2020-08-09T05:34:00Z
+webUrl: "https://www.channelnewsasia.com/news/asia/chinese-robotaxis-road-test-13004728"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Jakarta Post
-  domain: thejakartapost.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img.jakpost.net/c/2020/08/09/2020_08_09_101962_1596964560._medium.jpg"
-    width: 747
-    height: 497
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13004722/16x9/991/557/4d1b1547f77e8eb8d948f986326e8e4/gZ/chinese-players-such-as-baidu-alibaba-backed-autox-and-ride-sharing-king-didi-chuxing-recently-launched-autonomous-taxi-pilot-projects-in-cities-around-the-country-1596949297574-4.jpg"
+    width: 991
+    height: 557
     isCached: true
 
 related:
@@ -52,6 +50,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "86PseSct3+aAwcsVijSILIIxi1+qZGoNsf2gcIHp8EqS6U6Af0jymzseC3dPz1+k+Eh9CTO01JAh8mF5S4ey4lWoX+ueR+1+5lHweye2FRXjSiefTRpRGSBEx6RtuzbXpbZs/R6nqYVKTC1W2oxGcteXpN1XGP9qjo0/pnd7abNbBASpHR2mzjZ30hOqAEyiOXrjZUVYLW/bXr9rhgnZebTWI/WdelYAbi8nDxycTRxKBfz+p572Pen8GxOmSrlkMunJaxGz90RYVteLS/PGl3kwToN6fPAZXPt/y1cctACWBioU01LY1QYrlRKRKVNRwKCagLV7EYBinV7GmUKaKg==;U9Xj/eLfmGuqwUGy0pPBQg=="
+secured: "ok/iNsutmqWKPXLkuRo5smXjm7LZYK4qqvXx2sxKf4cmQpVAwd9JAcRJf81zPWoX84C2znWOHV7TLXTz9tw1fqiVDg80RkF4ThesrBXJdWQidiAizzLB/Ze9kYzPKeNJb2oZhpMwSdGw23gqMdkXufjkIw8jXMiOPFlo2WnaF5O2kQIBJFstiCF5Kdnqa5KGSGw8O02g2UkD7ezcyWWOd+93xSUTSFDNQobO2WwB4gSjPZ/7SO4F4B+ma+5UNxQLjYxz+pQqEj362qP+UuLvk66UuQ74yz+aIJvOUdQ7FBEmIeFZAEMG/Io9WIDo1bNstFsKa7XcMSIbOsfYJJGYaQ==;g6JXXGSwP5G3NczT7MY8aA=="
 ---
 
