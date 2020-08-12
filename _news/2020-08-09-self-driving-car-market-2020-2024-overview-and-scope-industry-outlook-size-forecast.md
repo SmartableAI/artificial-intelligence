@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Self-Driving Car Market 2020-2024 / overview and scope, Industry Outlook, Size & Forecast"
-excerpt: "Self-driving cars have pre-installed control systems ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others."
-publishedDateTime: 2020-08-09T04:45:00Z
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09"
+excerpt: "By components, the self-driving car market is segmented into hardware, software, Lidar, radar, optical cameras and others. The software component is largest segment at present and is likely to hold its position throughout the forecast period due technological enhancement in software segment such as advanced driver assistance systems to enhance safety and driving process."
+publishedDateTime: 2020-08-09T04:58:00Z
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09?mod=mw_quote_news"
 type: article
 quality: 45
 heat: -1
@@ -45,7 +45,7 @@ related:
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Research with COVID-19 After Effects, Development Factors and Growth Analysis (2020-2026)"
     excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) in Healthcare Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
     publishedDateTime: 2020-08-11T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11"
     type: article
     provider:
       name: MarketWatch
@@ -142,6 +142,20 @@ related:
         width: 631
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Chipset Market COVID-19 Analysis, Industry Challenges, Market Forecast, Size, Share, Trends and Opportunities"
+    excerpt: "Artificial Intelligence Chipset Market Research Report- Forecast till 2025 Market Highlights The data experts at"
+    publishedDateTime: 2020-08-12T18:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-covid-19-analysis-industry-challenges-market-forecast-size-share-trends-and-opportunities-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth Analysis and Forecast to 2026"
     excerpt: "Summary A new market study titled Discover Global AI in Fintech Market Upcoming Trends Growth Drivers and Challenges has been featured on WiseGuyReports Introduction AI in Fintech Market The report provides a detailed analysis of the AI in Fintech market"
     publishedDateTime: 2020-08-12T10:07:00Z
@@ -202,6 +216,6 @@ related:
       domain: marketwatch.com
     quality: 6
 
-secured: "bZwqnhsubIGG7W3OTFCM4Jp7QhVW5OqmN5TbJzDuogxivowHtaaMAJco2p6FHfManoxK/pihMzfbgZzYK5TgYeSZLSZ/OqyT9LrobUo5jzsgwrCsW93E/LR8iNfryjnDAonalzVezWV8ZMjSB2Ke3QQoGnVPc27y8jsm2eINWBAQ1sXNvVyt+n9XbY0eVPB3nF2UmgHMzF38vP7xL8aRvlQaqsmOjv88B6pkJVlt+tlCrU2AF0YV3Xyk5ZjCtQNgpFli1mpUQyflLIP1s5u+/fZy2EeEmw0uml7EyKwD4h7NmZwvg7dT4j8zPC2kWiDXgK/h3StYdHDqZyWeH1YiOg==;9D4mdgz00WlM1bvbNpu9AQ=="
+secured: "I+87DAbXu0wfdZMPideRSkH83ROTYX9SK78kZMNLGpV1a+KK7UhEdFqKNaQepIVQkTyo9tnLXTkIHGo+lrlW/3Vf4Q3zi7xFt3IxzWVoUqLDheFGsCNAZnIJVNLqW4/01ty5Dc8+Czu0nVZ3pePcKknMwDliUruXyQQvcumjO2AsIZaKDyooVWZ+SW1SQ/RSHObQb78VySwltOfL5fqVQvqLi40IG95BUGBJ7/ZYXhb4tU/nMSQPPof4kZk8QdSV11Kt2Yy/S1ZLfOz1r3F5HUD63atwZUolF1d9JN92dqjmviWd1Rvn2zcs9APMTNAR02Y1E8A69GsG5rXpy7JcVA==;XLQPNpaKu3R4OcJ4Y8T1ig=="
 ---
 

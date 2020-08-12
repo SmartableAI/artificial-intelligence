@@ -27,6 +27,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 1
+  - title: "RigNet, Inc. (RNET) CEO Steve Pickett on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "Q2 2020 Results Conference Call August 07, 2020 11:00 AM ET Company Participants Lee Ahlstrom - CFO Steve Pickett - CEO Errol Olivier - COO Conference Call Participants Allen Klee - National Securities Presentation Operator Ladies and gentlemen,"
+    publishedDateTime: 2020-08-12T01:17:00Z
+    webUrl: "https://seekingalpha.com/article/4367784-rignet-inc-rnet-ceo-steve-pickett-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "Fnx1B+h0GOcT3958fgjqbrzKgpvIuw76DqVPpnCelmxLJyCHq3SUv8BNka/VKrlbkl5JauI9GCOgeFrKeTi29B0w1q6cpXq9jYLDsZUzluFo+hfJ+A7RkJJwrbNrwvmGpNaruix8jKEkloFaUJX4H4vJsps1nqkuF4BoCPSYOasi8uRVVujL+8+DUXoWE6axjPXvInuAZcSMwSWZAgjqP7BXbiTseEwWrI64E4CvlXb9qh1clRbdjjNMbKgzdv9iydp3c1O8y+TH0dDatB+D4tKHTRiGJ/5zMMkae1HIkBt7z4m/7OEEcnhBIpq+jIvVfyfI7qffseC2YMI2pvhLng==;2GZ7dTC/IaGwtqPHwUWm5Q=="
 ---

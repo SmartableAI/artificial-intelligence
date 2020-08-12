@@ -3,11 +3,11 @@ category: news
 title: "Hyundai, Aptiv name self-driving joint venture Motional"
 excerpt: "South Korean automaker Hyundai Motor Co <005380.KS> and auto supplier Aptiv PLC have named their self-driving joint venture Motional, the companies said Tuesday."
 publishedDateTime: 2020-08-11T12:30:00Z
-webUrl: "https://www.reuters.com/article/us-hyundai-motor-self-driving-aptiv/hyundai-aptiv-name-self-driving-joint-venture-motional-idUSKCN2571O6"
+webUrl: "https://www.reuters.com/article/uk-hyundai-motor-self-driving-aptiv-idUKKCN2571NA"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2571O6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2571O6"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200811&t=2&i=1529199533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7A0YZ"
+    width: 849
+    height: 545
+    isCached: true
 
 related:
   - title: "Hyundai, Aptiv form joint venture Motional to develop self-driving cars"
@@ -131,6 +137,6 @@ related:
         height: 557
         isCached: true
 
-secured: "94rbsDhSWmLE9+Gj5M3BEY4LtzvGCK5QVM/RUQibLoYqq4RS+2KebGq4WBY8N0kFhN+t1zaHtc3IL5X9C7aSkaWj4yjS6qZDBpM5r5xI6bWBTCbnW506TxZwm6C07LLlf+bl/9qByOJousg2b5B5yQLlMdDBlK8AdbxoT1BjJkCt9hH0DQuF0Q5s0p/ai6SR845bZKVhHBecoZPPhPvl5xjy2iiFDo9XxtxdVbFypvQUN4Iumocfqbi/nvjrZoC8YLdiBHGeKCw9PO3WivkWPYCqlAhvWfxPyLhluDd9zUGaOIhgM9YUEjzMUuHj+sGR5SRKBMtu4khfJSjQYYodnzvwgTyrjbx1knV8nd5IHC6RtaZqZF8zEvRF/onlPwLcPXMyp3QYhE0YYzPHHpq8r0FQW9JITwqFpAd1Cnx5N5qS04MYEh0y4M+kJZh/S3VZdSaIp1F2kDrJcWBvgr2y2kV5v1SpSVYrEOX9iuiuz/GmvP2e6QSsuCcCu84pcBu3HYciBFhPTw2LlETyveYLkA==;kpPEIXYBlssC/0TofdOYfg=="
+secured: "PPqYuu+7EiUNyuoIV5sKi/pBVLdpOy7H3HFeZNHr9VkGzvfHnQIj+1S3AiNcwlSjRp2YCmO9t9wgT4ekifyfcM6IaM0k3skK5GsM1sM88j7SUNHkJU49oAotzhObya5BCECJzYnABR/txeQwURCeHGBDwoxSRuIGS7S+sdur7w3Jwli+PjQwDY9+wk/ny0516dnY4qk6dRTj+M3b9vFZpTh1Nqca0CVKwEArJgDIHYIaccUEamRAHY11TIM8x0CTUVNtF8X0sivtt2cHirOBHWDHWi2G0ogQjmXS0fv3zxZA69/aHjoDNwK+Xsko3zpOfi8ftl6cVhdhf1M1zqHxYw==;mT7Xz1sBH1ZEjD/b2Rh75A=="
 ---
 

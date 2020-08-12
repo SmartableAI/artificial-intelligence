@@ -1,58 +1,24 @@
 ---
 category: news
 title: "Gong Named One of America's Most Promising AI Companies by Forbes"
-excerpt: "Gong, the revenue intelligence platform leveraging artificial intelligence to replace opinions with true customer reality, today announced that it has been named to"
-publishedDateTime: 2020-07-07T18:52:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gong-named-one-of-americas-most-promising-ai-companies-by-forbes/article_9f78a61a-e90d-537a-ba9b-1c86a8b5c6fd.html"
+excerpt: "SAN FRANCISCO, July 7, 2020 /PRNewswire/ -- Gong, the revenue intelligence platform leveraging artificial ... For more information, visit www.gong.io or follow us on LinkedIn."
+publishedDateTime: 2020-07-07T14:23:00Z
+webUrl: "https://www.gong.io/about/"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.gong.io/wp-content/uploads/2018/10/gong-facebook.jpg"
+    width: 1200
+    height: 630
     isCached: true
-    title: "Gong Named One of America's Most Promising AI Companies by Forbes"
 
-related:
-  - title: "7 of healthcare's most promising AI companies from Forbes' 2020 list"
-    excerpt: "Drug discovery startup Atomwise and stroke risk predictor Viz.ai are among a group of seven healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its second annual AI 50: America's Most Promising Artificial Intelligence Companies 2020 list,"
-    publishedDateTime: 2020-07-09T16:58:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/7-of-healthcare-s-most-promising-ai-companies-from-forbes-2020-list.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Viz.ai Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
-    excerpt: "Viz.ai, the leader in Applied Artificial Intelligence for Healthcare, has been named to the prestigious Forbes Top 50 AI list. The list"
-    publishedDateTime: 2020-07-08T20:18:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vizai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301090432.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://mma.prnewswire.com/media/1202174/Viz_ai_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
-
-secured: "XvTaODemJIkeWvNdOZlELEj13ao0Q8WHOpSArG6E6izZenUZ7x3GgrCpxluL6/TxQ1Mm9OsVMExlXWHsZ7MNXUHynnviDkAsEPKqZKH2dz90tB+YkLtNth8MxizwWcNzsxDZjMaZgxxgSBu7zYD4X1/c9uhWZv9IcoXYdXobwS0AcHaV6WtXp5gBkMBkHeTcVqOyrMojrRKbzG81nl3TMQyZ3RWe2glctkYgBwrWkTKG6FaE4o9dpIep9DXGDJC1LtiM50qgOisGVFG6I/l9HjYslpjbaQg4WwfQWlR4fmf2pt8dwmsI+M+RQ1kpgPukbjJC14fRgeWVwzVvxG1Bwg==;ZZy6YufoUIuZpipozLWg/Q=="
+secured: "/9tM5WbJsobpT9SG5Pg7TpmuxvOXXfO5BspqGKAdl4VOyxn00xqgqbgmVA1XdhhBCvthushXSuKQer0yTHvTOgdYWI0zcFIHCyjIo/zF0H+aTnKYWydZKjqR9Z2igRLDt19BQMn5Sj9NXdn3affkrA02Tgs4RBUC2e22JCf1hWl0P7atzeTGwaPrJnp8UQb1HmacfES0Ryn3VCtN1BObE7OCHA5i8we2rFFc73OqzZPlUK4oTs1hvzZ697lyaBdSORh50JlOR6+WJvCQsRkMhDDuMovqkEP05lgugDagbnU54xutzvo1N+Q4F66QMvwo7FcnN07i/SDFfXKnO97dbA==;KQ2AK55GdVWMjJ8d5Q3TNw=="
 ---
 

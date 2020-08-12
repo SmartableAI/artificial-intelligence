@@ -1,16 +1,18 @@
 ---
 category: news
-title: "Anthony Levandowski Gets 18 Months in Prison for Stealing Google Self-Driving Car Files"
+title: "Anthony Levandowski gets 18 months in prison for stealing Google self-driving car files"
 excerpt: "A U.S. judge on Tuesday sentenced former Google engineer Anthony Levandowski to 18 months in prison for stealing a trade secret from Google related to self-driving cars months before becoming the head of Uber Technologies Inc's rival unit."
-publishedDateTime: 2020-08-04T23:03:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/08/04/business/04reuters-autonomous-uber-levandowski.html"
+publishedDateTime: 2020-08-04T23:23:00Z
+webUrl: "https://www.reuters.com/article/us-autonomous-uber-levandowski/anthony-levandowski-gets-18-months-in-prison-for-stealing-google-self-driving-car-files-idUSKCN25030T"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN25030T"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25030T"
 type: article
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528367649&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG731S2"
+    width: 818
+    height: 545
     isCached: true
 
-secured: "9GheGLTh5YeJFCekaD5hP1lvG0cutwU1fv9sGQ/8K5W1UbSod21vCKCaq9XwohLkO0lBSXI5oS5cYV52iJMzaXJyM/8whZtzpctlu3xQbbyz+1vk0F0orls3h4nN+VS86HA4mZpk2iAhahO7NBxEtTw12/Vt2y4eVk0PCKjDsnBrbbaMUZd5X/ZJPBTWslqji6r1AYAFnSElJ5ZOMcVrS9LoQk0lXXmSnInsS8Jl3o7jBp226zTDFCOtf5YsSYFKqdipt9YIctpB7jmOIjw164q1shRQy/rBHHRooKvnMCBsAU2zmy2F9nhMN7cG6MGhchQigYVClDwgtflyLpe7Yg==;Raf1/7CgAosWE0MDh47Arg=="
+secured: "2n/FVWR1FO6+NuZCAeNm8KDywWXLWkam+Nr+AlxG82xCXpKucwAScarg5Oe64J5YRzhdMgVDJsMDcXDLwoJ6rFfNV4473Tg2RGWSbaNtvY9ARNK9UcOjsONL69iDKa/U2wetNtAsTlevZoRHMONT5fR2TdJ3iCxfjaS2mIImsPzMHbWv2skQwUcJF21GG7fcpNH7N2MFXld12L/RbBJV7Mj7TlFWruYfuGD6YRgz+HwhkGT82jFvIKSpbr9mUpKBfLzFBUnhAQKRhRzLgSbPPvqedbI/eqmE/VN5JmnY1jRI7p4FITyFZ2PwnHkXGZY0FeA+fKyPERXTWfjPfqCIYA==;Ysd2uWEQhrbJbcbIGh39Vw=="
 ---
 

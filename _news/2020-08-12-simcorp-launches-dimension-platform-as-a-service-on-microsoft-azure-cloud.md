@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-12T11:57:00Z
 webUrl: "https://www.thetradenews.com/simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud/"
 type: article
 quality: 53
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: The TRADE
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Displaying items by tag: Microsoft Azure Cognitive Services"
-    excerpt: "Sydney, August 6, 2020. PRODUCT ANNOUNCEMENT: Hyland, a leading content services provider for organisations across the globe, announces Brainware Foundation, the latest release of Hyland’s intelligent data extraction and text analytics software."
-    publishedDateTime: 2020-08-10T07:35:00Z
-    webUrl: "https://www.itwire.com/freelancer-sp-720/tag/Microsoft Azure Cognitive Services.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 49
   - title: "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure"
     excerpt: "In response, and as a global business and trusted partner to some of the largest institutional investors around the world, SimCorp is transforming its offerings, delivered as a service, to provide buy-side firms with the flexibility,"
     publishedDateTime: 2020-08-12T17:50:00Z
@@ -41,7 +32,7 @@ related:
     provider:
       name: Traders Magazine
       domain: tradersmagazine.com
-    quality: 24
+    quality: 56
     images:
       - url: "https://www.tradersmagazine.com/wp-content/uploads/2020/04/Depositphotos_10301431_s-2019.jpg"
         width: 1000

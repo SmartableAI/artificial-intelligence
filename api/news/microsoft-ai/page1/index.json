@@ -2,20 +2,20 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-12-simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud.md",
-      "title": "SimCorp launches Dimension platform as a service on Microsoft Azure cloud",
-      "excerpt": "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development.",
+      "path": "_news/2020-08-12-simcorp-offers-dimension-as-a-service-on-microsoft-azure.md",
+      "title": "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure",
+      "excerpt": "In response, and as a global business and trusted partner to some of the largest institutional investors around the world, SimCorp is transforming its offerings, delivered as a service, to provide buy-side firms with the flexibility,",
       "sourceUrl": null,
-      "webUrl": "https://www.thetradenews.com/simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud/",
+      "webUrl": "https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 83,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thetradenews.com/wp-content/uploads/2019/02/iStock-966932508-300x225.jpg",
-          "width": 300,
-          "height": 225,
+          "url": "https://www.tradersmagazine.com/wp-content/uploads/2020/04/Depositphotos_10301431_s-2019.jpg",
+          "width": 1000,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,11 +24,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T04:57:00-07:00",
+      "publishedDateTime": "2020-08-12T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The TRADE",
-        "domain": "thetradenews.com",
+        "name": "Traders Magazine",
+        "domain": "tradersmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -38,8 +38,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

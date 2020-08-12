@@ -2,22 +2,18 @@
 category: news
 title: "Facial recognition: What led Ed Bridges to take on South Wales Police?"
 excerpt: "\"I didn't wake up one morning and think, you know what I really want to take my local police force to court,\" he said. \"It wasn't the case that I had planned to get particularly involved in, but it developed organically."
-publishedDateTime: 2020-08-11T16:15:00Z
-webUrl: "https://www.bbc.com/news/uk-wales-53742099"
-ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53742099"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53742099"
+publishedDateTime: 2020-08-11T16:13:00Z
+webUrl: "https://www.bbc.co.uk/news/uk-wales-53742099"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53742099"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53742099"
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Computer Vision
@@ -419,6 +415,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 19
 
-secured: "KEwoElINwxRxeko8TRpzdjYtGmRtiVlzDHPdr676XwWg2Q23TebnJH8oWtk79BSc3eiL5gPl2DEy59LDFIL7tNfW7aYe0th+9WyrJHxFQZqD6hSl47Jeztav+rYZNdFs/7C3McFHy6YfWEgK6MMhwyJM/XbH4zh2VbMj3ti/D0q9Ca4cRxJxQvzOT5WXNF6UZVTUv+UENf/OHY8aenHz50um4HXKOUy5YzcK2EuMCxjVVK6QQvuXvVOc6v5egWrPSWvQDcJ8Z1j4xLyaLCsehZkIuFPfZtCkN4cjZVtzc1f90+ganGgodzF+0rPPLw8y0Nco1WVbiYFh2Xe+nZhjgR+sAXit3DQIjFcEhAswjd6U5z+ruKkhf55nywZsIHO0uvDdrsdJIr2tfGHVTCeT6msgeizrKlM/L3j5orRCa2p1aNoASbUZRdpw6cSwtAkJIKgfj4G/Ohb4rfdUlQ0TyX3nrtzS45ADKlVnICnVveQoVF+5D7lV91rsOnGRH0wU3YclevALzLapTqiGQSb/tQ==;Rbw66d88O8R5q5sWo085tQ=="
+secured: "KkNh2g4s41myP3kFqJANInx6ht3btvDAOvXz0SEnUcZkmYxk8aWKpraJmgQMrUkGbSk7nUV7AOOg/GUrfZhXJwu3cKnwvQWKM2LQJlg4Lpha8QnkXjYnODm4/mnizB1MvrrBkowNRowBVerQUULgs/RjKPPS47+77ti/Ix5P72wWLxdikfws3Iev8tVHGeMVv6wDW0Q1fHBi809Q09dQxI7skabITCn3PZd3ud/dMPrUUl6tmNHq+3DxpdNuRWcbE/8L2e1kwrF6VJUHsJvmhYrv2Iao9dD4ycGg8KcylG/tGOMdZg2ThxdXfc5cysMLYpETAjguRHakGhvkS77uJw==;AojeBEECkRlP5MVXeh5N3Q=="
 ---
 

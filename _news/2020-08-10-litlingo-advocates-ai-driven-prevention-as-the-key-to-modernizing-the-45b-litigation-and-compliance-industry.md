@@ -40,18 +40,18 @@ related:
         height: 3203
         isCached: true
   - title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
-    excerpt: "SEOUL, South Korea and SILICON VALLEY, Calif., Aug. 12, 2020 /PRNewswire/ -- MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it"
-    publishedDateTime: 2020-08-12T17:13:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a/article_eb9b9cd2-136c-5977-8a22-30cffb010ea4.html"
+    excerpt: "MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it has"
+    publishedDateTime: 2020-08-12T17:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-301108281.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "xHq7xhxNdUPHL+sYpBXjUgIHwlEm0zAU2+7HdUvzgZhqaAFuVjTeNtL4EyqbY8BfwT0LvdS4VxXHLJ3CcNbnpt7URZOOtWuvugeoqGCue/yUgrC1fjO/pydAzCUCjdHe8ma8BLXX41ZgP5wPBBTaNMGGxhMcEkZRZNMyqS0UHbM1pQcwu4gJkdeQsGdtwRF9NzIKTjcvDhMVB5/6Tc/Zjh4DvHrCcLBDnvFKOW91bLojIfLAbKFj2KMq7+h8GilrXC8oT0Ndi94QgeeiBXgtSFnkl6K6sU2tTljYOfCmvHXRlAZbzwAor6rmtCcA105TUtKLwwy7ckfHoXz/HDferQ==;tZzjPX1qyN2OTJ4DS584HA=="

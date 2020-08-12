@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
-excerpt: "SEOUL, South Korea and SILICON VALLEY, Calif., Aug. 12, 2020 /PRNewswire/ -- MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it"
-publishedDateTime: 2020-08-12T17:13:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a/article_eb9b9cd2-136c-5977-8a22-30cffb010ea4.html"
+excerpt: "MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it has"
+publishedDateTime: 2020-08-12T17:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-301108281.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
       domain: venturebeat.com
     quality: 48
 
-secured: "GJgaeGG2JdjeLeaBKn+NWSfZ6n6cjY1QAXBCXXZuwfyWYu2y1f4X9buIh7vVu5kLO5oX0Aq168UJSWLFzMcx/rFeCvjrjm8O7D7963HzFTiFcw+q2uQ8aESwV411LWbhL/gezIT8PEeV/aTY+Ougs1KRU3IPc54sKrftMeKf7N1PyJFwTCVYMJ90JOMScq91AHSp9ORKtlAuUhqzyUXiNDRgkS/Csurft7yaxWRbcgVnLlJoEh4nFDHtuZS5oV+gx88z3kGBRke9x7y0ptyQI7sL8YgWpA5qN3eZzR4DptWq840xiKe8WGq0E6A96oIfKm5abOjfM2Xgglf/YW/K0A==;NvKHJlJL1PpWLNlzFPnh/Q=="
+secured: "vay6XDGA/0hRC/fI4hcLEmTkErgGeOT+BiNN99dQr1vX0KJuln28CnUXW/oE8ycgw6qrjEszDhh6VIssybqEMlaQ9kVEQMCkXaKHdYvtbFAQKf4aSCqIk7ndwm1JYNPiPaoHXvz/Qw0a6V9iRldrwVvZ6VUQ0jTkNqcYWJrHKy/CWmj30+ijXnvRN9sW6czKlUoBdHvwYT5TNIf8FUmDzSQV0YQfT+BZt2d0pbdi8R+J4pZERJJsRWBnjfinKIFGx9x4adifwskJ64i1h1rhhhlHAvQErbbLmup3thaCoHE4yGvJ6tpt7lYpOStvgkgfJUGLMKTcatfqag7iAOhzGg==;E+E0yPrE7y7MSyVxNrp/Dg=="
 ---
 

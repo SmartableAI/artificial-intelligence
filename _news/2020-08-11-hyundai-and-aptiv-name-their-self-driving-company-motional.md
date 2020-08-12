@@ -45,14 +45,19 @@ related:
   - title: "Hyundai, Aptiv name self-driving joint venture Motional"
     excerpt: "South Korean automaker Hyundai Motor Co <005380.KS> and auto supplier Aptiv PLC have named their self-driving joint venture Motional, the companies said Tuesday."
     publishedDateTime: 2020-08-11T12:30:00Z
-    webUrl: "https://www.reuters.com/article/us-hyundai-motor-self-driving-aptiv/hyundai-aptiv-name-self-driving-joint-venture-motional-idUSKCN2571O6"
+    webUrl: "https://www.reuters.com/article/uk-hyundai-motor-self-driving-aptiv-idUKKCN2571NA"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2571O6"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2571O6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 69
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200811&t=2&i=1529199533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7A0YZ"
+        width: 849
+        height: 545
+        isCached: true
   - title: "Hyundai unveils its self-driving car company, Motional - Daily Mail"
     excerpt: "Hyundai's autonomous vehicle company, Motional, represents a $4 billion deal with self-driving tech company Aptiv. Its goal is to make driverless cars available to the general public by 2027."
     publishedDateTime: 2020-08-11T21:55:00Z
