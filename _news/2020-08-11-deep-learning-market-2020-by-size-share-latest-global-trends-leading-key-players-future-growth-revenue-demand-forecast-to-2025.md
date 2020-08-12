@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-11T13:39:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -28,35 +28,30 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in BFSI Market Share, Growth, Statistics, By Application, Production, Revenue & Forecast To 2026"
-    excerpt: "DataIntelo one of the world s prominent market research firms has announced a novel report on Global Artificial Intelligence AI in BFSI Market The report contains vital insights on the market which will support the clients to make the right"
-    publishedDateTime: 2020-08-09T12:49:00Z
-    webUrl: "https://www.openpr.com/news/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+  - title: "Supply Chain Analytics Market Growing at a CAGR 19.8% | Key Player IBM, Oracle, SAP, Infor, Microstrategy"
+    excerpt: "Demand Analysis and Forecasting segment constituted the largest market share during the forecast period. The demand analysis and forecasting software is one of the major software"
+    publishedDateTime: 2020-08-11T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17038012/supply-chain-analytics-market-growing-at-a-cagr-19-8-key-player-ibm-oracle-sap-infor-microstrateg"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17038012"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17038012"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/T/8/T809254303_g.jpg"
-        width: 560
-        height: 315
-        isCached: true
-  - title: "Gesture Recognition Solution Market 2020 Analysis, Size, Share, Growth, Trends, Application, Types, and Upcoming Opportunities 2023"
-    excerpt: "Global \"Gesture Recognition Solution Market\" report 2020 plans to give forefront advertise knowledge and help decision makers take sound investment evaluation. The report identifies and analyses the emerging trends along with major drivers,"
-    publishedDateTime: 2020-08-10T12:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-solution-market-2020-analysis-size-share-growth-trends-application-types-and-upcoming-opportunities-2023-2020-08-10"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+  - title: "Online Learning Market Size is Projected to Grow CAGR 10.85% by 2025 - Valuates Reports"
+    excerpt: "Online learning has seen exponential development as the Internet and education merge to allow new capabilities to be developed. Since"
+    publishedDateTime: 2020-08-10T13:36:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/online-learning-market-size-is-projected-to-grow-cagr-10-85-by-2025-valuates-reports-800472802.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
         isCached: true
 
 secured: "LoPSX25aGyYrkDq/+coQGc7doQsyzQo1xfrZ04V3w+BeQ8IdYbksfaOIDy0MBYwPqSXrdxdkgBG6mOueqa3583XCEcao+ZQZCrX2TMZvFuJIk4ck7NKfLLCvHyQ+ggaIBkkzidEWGjsfvH9rAcRojywCFGLKSEkIoCsWlVfezDmBe/1wOdHVzIN9YjbLG1vJ/wvNman5/IGZ1DR01w8kw/Tai1/X98MyapIST9EC5QymUBzj9f7P7UJJHqajvx4hJP0h+b8hyclnhVuPN9LtVZpymr5YYxUTdtoq9BJL2iaw/sPEAlrR5AZra5X8e53CPmu9PWRXi7fbFJ1tTJZjbw==;5DkabbpYSNu8NUoCusuCJA=="

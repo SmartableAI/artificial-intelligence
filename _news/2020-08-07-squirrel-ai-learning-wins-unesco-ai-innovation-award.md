@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T14:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/squirrel-ai-learning-wins-unesco-ai-innovation-award-301108312.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 800
     height: 419
     isCached: true
-
-related:
-  - title: "How machine learning and artificial intelligence can drive clinical innovation"
-    excerpt: "Everyone knows the terms “machine learning” and “artificial intelligence.” Few can define them, much less explain their inestimable value to clinical trials. So, it’s not surprising that, despite their ability to minimize risk,"
-    publishedDateTime: 2020-08-07T09:32:00Z
-    webUrl: "https://www.pharmalive.com/how-machine-learning-and-artificial-intelligence-can-drive-clinical-innovation/"
-    type: article
-    provider:
-      name: PharmaLive
-      domain: pharmalive.com
-    quality: 52
-    images:
-      - url: "https://www.pharmalive.com/wp-content/uploads/2019/08/Amanda-Coogan-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "8RF3T9hnuUjX78mTDPNsesLzUszylvxLZMzFBUbGjwzZ4agB9gI7LucgXwSSybfN2GXpLRCH5n/caW3GQNOCEemCQOSuv0kbY3I6PvZ7jwBYRjkuPlNpVO5Yx4Ok/ihdIuWiYGNvo28nt9xuwO2+SU6rE93mV3BtrR5KY6bK6mwfyAfehHCf7X39nR6Csk8FT8h65BtVif60GuAI7eRtZFhuVzImFLU7JTklUxaVXI6qiVHNr37+nHn8TkJLLt23/ljfD4m4M2efCc+wgUK1TSKYX6UHooAqjrkXkaF/U4VsNLcOLiUo7aivi1c6OGv8ZJmRhhtDwTpTGUsGflNUIeTcxaVbRMwUzTvfMh2xEuMR2Wcg/HUQo1RZ7Ku4Yy7bLADDizMkw+va0avTToYNLPVg+I8EOwZcVqUZTAry5Ord9fh5D1N8Tsae46dFho6Wf6RFzPV9gzaby6flJyizXSiyWcPgH16xWElWnMLJrFkCVx2MapVf+Jvu7D4FJkdquAkSANBkxrS3hJYDnWqPuw==;crPxtbV13xnrCRZc67qQ3g=="
 ---

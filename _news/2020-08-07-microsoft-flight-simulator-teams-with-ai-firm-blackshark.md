@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft partners with blackshark.ai on Flight Simulator, provides SDK update"
-    excerpt: "This week's development update brings news for a bunch of components including the Partnership Series, the SDK, Feedback Snapshots, and the development roadmap for August-November as well."
-    publishedDateTime: 2020-08-07T09:02:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 100
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/05/1589504421_microsoft_flight_simulator_21_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft Flight Simulator Devs Announce Blackshark.ai Partnership And SDK Updates"
     excerpt: "Blackshark.ai uses artificial intelligence to examine flat satellite imagery and extract a photorealistic \"digital twin\" of the planet. This is what allows Microsoft Flight Simulator to show truly 3D buildings and other structures,"
     publishedDateTime: 2020-08-07T16:05:00Z

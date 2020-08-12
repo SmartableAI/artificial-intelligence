@@ -2,6 +2,197 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-28-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores.md",
+      "title": "Rite Aid deployed facial recognition systems in hundreds of U.S. stores",
+      "excerpt": "Rite Aid quietly added facial recognition systems to 200 stores across the United States over about eight years, in one of the largest rollouts of such technology among retailers in the country ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106635454-15959354852020-07-28t010549z_506450208_rc212i92ohp1_rtrmadp_0_usa-riteaid-software.jpeg?v=1595935517",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
+      "publishedDateTime": "2020-07-28T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-elon-musk-wants-to-unite-the-human-brain-with-ai-using-a-tiny-implant.md",
+      "title": "Elon Musk wants to unite the human brain with AI using a tiny implant",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F28%252F0b%252Fd555b7c7b93142d59e1382b7504f8ac6.29b8b.jpg%252F1200x630.jpg?signature=0ul5lcJR6ywpbjzcZ9m-3rhAnWU=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/elon-musk-neuralink-ai-brain-implant.amp",
+      "publishedDateTime": "2020-07-28T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises.md",
+      "title": "TikTok owner ByteDance’s AI chief to leave as US pressure rises",
+      "excerpt": "ByteDance's head of AI research is leaving the Beijing-based firm amid mounting scrutiny of the company's video app TikTok.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-28T145238.994-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/28/tiktok-owner-bytedances-ai-chief-to-leave-as-us-pressure-rises/amp/",
+      "publishedDateTime": "2020-07-28T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision.md",
+      "title": "NVIDIA, BMW, Red Hat, and more on the promise of AI, edge computing, and computer vision",
+      "excerpt": "The limits of compute power on devices keep getting pushed and computer vision models are becoming faster and more accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-28-at-8.51.01-AM.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/nvidia-bmw-red-hat-and-more-on-the-promise-of-ai-edge-computing-and-computer-vision/amp/",
+      "publishedDateTime": "2020-07-28T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-density-raises-51-million-to-promote-social-distancing-with-ai-occupancy-tracking-sensors.md",
       "title": "Density raises $51 million to promote social distancing with AI occupancy-tracking sensors",
       "excerpt": "Density, a startup building AI-powered, people-counting infrared sensors, today closed a $51 million round to address pandemic-driven demand.",
@@ -1189,170 +1380,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-creating-ai-that-understands-emotion.md",
-      "title": "Creating AI That Understands Emotion",
-      "excerpt": "Jay Turcot, Affectiva's Director of Applied AI, told an audience during a presentation at the 2017 GPU Technology Conference (GTC). “We believe interacting with technology being a cold experience is a side effect of machines not having empathy.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/creating-ai-understands-emotion",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Affectiva_GTC2017.jpg",
-          "width": 4160,
-          "height": 2340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-erc-proof-of-concept-artificial-intelligence-for-flexible-robots.md",
-      "title": "ERC Proof of Concept: Artificial intelligence for flexible robots",
-      "excerpt": "Programming a robot to solve just one complex motor task has remained a challenging, costly and time-consuming task - artificial intelligence is rarely employed. In fact, manual programming has ...",
-      "sourceUrl": null,
-      "webUrl": "https://eurekalert.org/pub_releases/2020-07/tud-epo072820.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-google-created-ais-that-can-teach-and-program-themselves.md",
-      "title": "Google Created AIs That Can Teach and Program Themselves",
-      "excerpt": "Machine Learning That Writes Itself Meanwhile, another research project at Google, AutoML, is showing that it is not only possible for AI to teach itselff but to program itself. AutoML (short for “automated machine learning”) allows for “controller ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/google-created-ais-can-teach-and-program-themselves",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Go%20Player%20hand.png",
-          "width": 902,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-research-reveals-how-to-optimize-neural-networks-on-a-brain-inspired-computer.md",
-      "title": "Research Reveals How to Optimize Neural Networks on a Brain-Inspired Computer",
-      "excerpt": "Neural networks in both biological settings and artificial intelligence distribute computation across their neurons to solve complex tasks. New research now shows how so-called “critical states” can be used to optimize artificial neural networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/research-reveals-how-to-optimize-neural-networks-on-a-brain-inspired-computer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/summit-image-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

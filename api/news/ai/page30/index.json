@@ -2,6 +2,188 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-07-14-opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers.md",
+      "title": "OpenCV launches two 4K OAK spatial AI cameras for DIYers",
+      "excerpt": "The OpenCV Artificial Intelligence Kit (OAK) project that branched off from CommuteGuardian has introduced two 4K/60fps spatial AI cameras for use in a huge variety of products. The company",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/07/OAK_camera_main.jpg",
+          "width": 1422,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/amp/",
+      "publishedDateTime": "2020-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-concentric-extends-data-protection-coverage-across-widening-range-of-industries-and-functions-with-launch-of-mind-deep-learning-as-a-service.md",
+      "title": "Concentric Extends Data Protection Coverage Across Widening Range of Industries and Functions with Launch of MIND Deep Learning-as-a-Service Data Security Solution",
+      "excerpt": "Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced the availability of Concent",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200714005118/en/Concentric-Extends-Data-Protection-Coverage-Widening-Range",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200714005118/en/804988/23/CONCENTRIC_WHITE_JPG_%28002%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025.md",
+      "title": "Global Vehicle Speech Recognition System Market 2020 Industry Research, Business Growth, Future Investment and Emerging Trend to 2025",
+      "excerpt": "MarketsandResearch.biz has announced a new report entitled Global Vehicle Speech Recognition System Market 2020",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025-2020-07-14",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-bae-systems-mindful-technology-to-provide-transparency-and-build-user-trust-in-machine-learning-systems.md",
+      "title": "BAE Systems’ MindfuL Technology to Provide Transparency and Build User Trust in Machine Learning Systems",
+      "excerpt": "BAE Systems recently delivered software to the Defense Advanced Research Projects Agency (DARPA) as part of a contract under the agency’s Competency-Aware Machine Learning (CAML) program. The delivery of the MindfuL TM software is the first milestone in the program to improve the transparency of machine learning systems.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/9d9f2fd55aca4991af788bab7dbf9168",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-an-ex-googlers-new-robot-reimagines-the-future-of-home-automation.md",
       "title": "An ex-Googler’s new robot reimagines the future of home automation",
       "excerpt": "Stretch is not a consumer robot that’s ready to roll into your apartment and start doing the dishes, but rather a research platform that Edsinger and Kemp hope will lay the groundwork for home automation in the years to come.",
@@ -1191,170 +1373,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud.md",
-      "title": "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud",
-      "excerpt": "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-booyaaa-australian-federal-police-use-of-clearview-ai-detailed.md",
-      "title": "'Booyaaa': Australian Federal Police use of Clearview AI detailed",
-      "excerpt": "One staff member used the application on her personal phone, while another touted the success of the Clearview AI tool for matching a mug shot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/07/f9505b32-b5b7-444e-b118-26ef7aac0688/thumbnail/1200x675/464bc1c92770038b1e169494a5ca1b3d/istock-458668953.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
-      "publishedDateTime": "2020-07-13T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-australian-federal-police-emails-reveal-how-it-used-facial-recognition-app-clearview-ai.md",
-      "title": "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI",
-      "excerpt": "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
-      "publishedDateTime": "2020-07-13T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year.md",
-      "title": "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year",
-      "excerpt": "Azure's robust infrastructure and scale empower ... Global Partner of the Year 2020 in AI & Machine Learning Mr. Aharon Aharon, CEO, Israel Innovation Authority said: \"The computerization of ...",
-      "sourceUrl": null,
-      "webUrl": "https://br.advfn.com/noticias/PRNUS/2020/artigo/82853378",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ADVFN",
-        "domain": "advfn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

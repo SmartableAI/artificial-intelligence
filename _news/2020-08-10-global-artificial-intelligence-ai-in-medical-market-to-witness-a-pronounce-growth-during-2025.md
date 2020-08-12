@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2107997/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: openpr.com
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Military Artificial Intelligence (AI) Market Insights, Technology Advancements and Global Outlook | 2020-2025"
-    excerpt: "The Global Military Artificial Intelligence (AI) Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue ..."
-    publishedDateTime: 2020-08-07T09:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-insights-technology-advancements-and-global-outlook-2020-2025-2020-08-07"
+  - title: "Global Deep Learning Market 2020 Regulatory Framework, Market Strategies and End-User Applicants by 2025"
+    excerpt: "The market research report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast"
+    publishedDateTime: 2020-08-10T22:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regulatory-framework-market-strategies-and-end-user-applicants-by-2025-2020-08-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market Share, Growth, Statistics, By Application, Production, Revenue & Forecast To 2026"
+    excerpt: "DataIntelo one of the world s prominent market research firms has announced a novel report on Global Artificial Intelligence AI in BFSI Market The report contains vital insights on the market which will support the clients to make the right"
+    publishedDateTime: 2020-08-09T12:49:00Z
+    webUrl: "https://www.openpr.com/news/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/T/8/T809254303_g.jpg"
+        width: 560
+        height: 315
         isCached: true
   - title: "Global Artificial Intelligence in Military Market is Set for Lucrative Growth During 2020-2026 - Zion Market Research"
     excerpt: "Zion Market Research Reports added Latest Research Report titled \"Global Artificial Intelligence in Military Market is Set for Lucrative Growth During 2020-2026 - Zion Market Research\" to its Large Report database."
@@ -53,19 +69,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
-    excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
-    publishedDateTime: 2020-08-08T03:31:00Z
-    webUrl: "https://apnews.com/07cf0c568e784ed79333d3f3ce53bde2"
+  - title: "Global Cognitive Analytics Market 2020 Research Study Provides Projections of COVID-19 Pandemic in its New Revised Report"
+    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
+    publishedDateTime: 2020-08-11T14:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-research-study-provides-projections-of-covid-19-pandemic-in-its-new-revised-report-2020-08-10"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "lXiHt2T27Qd11QmfpqAJVxScATJde/i9qcm3vRFYZMMWLUPsrr/vb/iLVjq+GW+5RyyAdIrMIk50Zm9AftscS0Ml5aZB38L0/Z/9zjJuTd4+wLSHmCTacr1aF0/dnds3TB+4TB0snYNOAMY4q5zNkK0bJq7iCGhtX8+711RwNMB8D/RoyQbPciDPAAMb8sHb5w9wuygzCZr0fOUtS4PGLTzv5tRel3k8BdoTGeA5W0SL5uVQkD6wAiDzTBnv8JFEmjjsJNx207ZGVvArZLi+6u32/0Qxs/AKEvFaObQ3HQhbqQol95aig5mlcfcNpletQfKHQ6bLBt+EQOkIKa1xHw==;gFeinD4VK0JWCZKF/+cMGQ=="

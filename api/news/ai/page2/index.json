@@ -1015,6 +1015,46 @@
       ]
     },
     {
+      "path": "_news/2020-08-10-global-artificial-intelligence-ai-in-medical-market-to-witness-a-pronounce-growth-during-2025.md",
+      "title": "Global Artificial Intelligence (AI) in Medical Market to Witness a Pronounce Growth During 2025",
+      "excerpt": "LP INFORMATION recently released a research report on the Artificial Intelligence AI in Medical market analysis and elaborate the industry coverage current market competitive status and market outlook and forecast by 2025 Moreover it categorizes the global Artificial Intelligence AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2107997/global-artificial-intelligence-ai-in-medical-market",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T810604764_g.jpg",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market",
+      "publishedDateTime": "2020-08-10T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-ai-governance-market-seeking-excellent-growth-ibm-google-facebook.md",
       "title": "AI Governance Market Seeking Excellent Growth | IBM, Google, Facebook",
       "excerpt": "Latestreleased the research study on Global AI Governance Market, offers a detailed overview of the factors influencing the global business scope. AI Governance Market research report shows the latest market insights,",
@@ -1376,57 +1416,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-before-we-put-100-billion-into-ai.md",
-      "title": "Before we put $100 billion into AI",
-      "excerpt": "America is poised to invest billions of dollars in AI, but this funding could have bad effects if it's not tied to accountability for equal opportunity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
-      "publishedDateTime": "2020-08-08T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

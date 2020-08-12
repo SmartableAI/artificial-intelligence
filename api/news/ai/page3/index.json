@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-08-before-we-put-100-billion-into-ai.md",
+      "title": "Before we put $100 billion into AI",
+      "excerpt": "America is poised to invest billions of dollars in AI, but this funding could have bad effects if it's not tied to accountability for equal opportunity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
+      "publishedDateTime": "2020-08-08T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-08-08-julia-and-pycaret-latest-versions-arxiv-on-kaggle-uks-ai-supercomputer-and-more-in-this-weeks-top-ai-news.md",
       "title": "Julia and PyCaret Latest Versions, arXiv on Kaggle, UK’s AI Supercomputer And More In This Week’s Top AI News",
       "excerpt": "Every week, we at Analytics India Magazine aggregate the most important news stories that affect the AI/ML industry. Let’s take a look at all the top news stories that took place recently. The following paragraphs summarise the news,",
@@ -525,6 +576,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-07-microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates.md",
+      "title": "Microsoft Flight Simulator Devs Announce Blackshark.ai Partnership And SDK Updates",
+      "excerpt": "Blackshark.ai uses artificial intelligence to examine flat satellite imagery and extract a photorealistic \"digital twin\" of the planet. This is what allows Microsoft Flight Simulator to show truly 3D buildings and other structures,",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/52457/content/microsoft_flight_simulator_blacksharkai_3.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-flight-simulator-devs-announce-blacksharkai-partnership-and-sdk-updates",
+      "publishedDateTime": "2020-08-07T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce.md",
       "title": "Hypotenuse AI wants to take the strain out of copywriting for ecommerce",
       "excerpt": "Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same",
@@ -892,6 +984,38 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall.md",
+      "title": "TCS a leader in Advanced Digital Workplace Services - NelsonHall",
+      "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organisation, has been recognised as a Leader in the NelsonHall NEAT for Advanced Digital Workplace Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Equity Bulls",
+        "domain": "equitybulls.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1295,155 +1419,6 @@
         "AI",
         "Computer Vision",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing.md",
-      "title": "Verizon 5G Edge released in two new cities with AWS always-connected computing",
-      "excerpt": "This week the folks at Verizon revealed a pair of new cities in which their 5G Edge tech would launch. This system works with AWS, making it the “world’s first mobile edge computing platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/08/edgegaewa.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing-06632398/amp/",
-      "publishedDateTime": "2020-08-06T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons.md",
-      "title": "AI and machine learning facilitate pioneering research on Parkinson's",
-      "excerpt": "At Friday's 2020 Machine Learning for Healthcare Conference, IBM and Michael J. Fox Foundation reveal disease progression model that accurately pinpoints how far a patient's PD has advanced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-facilitate-pioneering-research-on-parkinsons/",
-      "publishedDateTime": "2020-08-06T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color.md",
-      "title": "Researchers say ‘The Whiteness of AI’ in pop culture erases people of color",
-      "excerpt": "Researchers argue predominately portraying artificial intelligence as white in science fiction, stock imagery, and popular culture has consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/robot-stock-imagery.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-say-the-whiteness-of-ai-in-pop-culture-erases-people-of-color/amp/",
-      "publishedDateTime": "2020-08-06T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

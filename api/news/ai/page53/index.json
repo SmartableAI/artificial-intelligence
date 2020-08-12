@@ -2,6 +2,170 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-06-24-ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-attacks.md",
+      "title": "IRONSCALES Deploys Natural Language Processing to Automatically Prevent Business Email Compromise Attacks",
+      "excerpt": "TEL AVIV, Israel and ATLANTA, June 24, 2020 /PRNewswire-PRWeb/ -- IRONSCALES, the pioneer of self-learning email security, today announced that it has deployed natural language processing (NLP), using advanced machine learning (ML) and neural networks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16368497/ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16368497",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16368497",
+      "publishedDateTime": "2020-06-24T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-wrongfully-arrested-because-face-recognition-cant-tell-black-people-apart.md",
+      "title": "Wrongfully Arrested Because Face Recognition Can’t Tell Black People Apart",
+      "excerpt": "Robert was hauled off and locked up for nearly 30 hours. His crime? Face recognition software owned by Michigan State Police told the cops that Robert Williams was the watch thief they were on the hunt for. There was just one problem: Face recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aclu.org/news/privacy-technology/wrongfully-arrested-because-face-recognition-cant-tell-black-people-apart/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aclu.org/news/images/share/default_fb_share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aclu.org",
+        "domain": "aclu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-librestream-raises-24-million-to-automate-field-technician-tasks-with-ai.md",
+      "title": "Librestream raises $24 million to automate field technician tasks with AI",
+      "excerpt": "The Canadian augmented worker platform maker is increasing its AI investments and employee count to address growing demand for quick analysis of field data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/24/librestream-raises-24-million-to-automate-field-technician-tasks-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Librestream-IoT-Remote-Expert-e1592599754192.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Librestream raises $24 million to automate field technician tasks with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/librestream-raises-24-million-to-automate-field-technician-tasks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/librestream-raises-24-million-to-automate-field-technician-tasks-with-ai/amp/",
+      "publishedDateTime": "2020-06-24T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise.md",
+      "title": "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise",
+      "excerpt": "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise-301082507.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/379251/Deloitte_Logo.jpg?p=facebook",
+          "width": 1612,
+          "height": 845,
+          "title": "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms.md",
       "title": "Artificial Intelligence Helps to Decode Mysterious Earthquake Swarms",
       "excerpt": "AI software has yielded one of the most detailed descriptions of so-called earthquake swarms—unpredictable strings of often low-intensity quakes. The analysis could help yield insights into how earthquakes originate.",
@@ -1183,198 +1347,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-mercedes-nvidia-to-team-up-on-powerful-computing-platform-for-avs.md",
-      "title": "Mercedes, Nvidia to team up on powerful computing platform for AVs",
-      "excerpt": "Benz and U.S. tech company Nvidia said they will jointly develop a powerful new computing platform for vehicles capable of supporting everything from over-the-air software updates to driverless car technology.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/mercedes-nvidia-team-powerful-computing-platform-avs",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Mercedes%20star%203%20web.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Mercedes, Nvidia to team up on powerful computing platform for AVs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-enhancing-enterprise-search-with-amazon-kendra.md",
-      "title": "Enhancing enterprise search with Amazon Kendra",
-      "excerpt": "Amazon Kendra is an easy-to-use enterprise search service that allows you to add search capabilities to your applications so end-users can easily find information stored in different data sources within your company. This could include invoices, business documents, technical manuals, sales reports, corporate",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-search-with-amazon-kendra/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/18/kendra-958-004.jpg",
-          "width": 800,
-          "height": 461,
-          "title": "Enhancing enterprise search with Amazon Kendra",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T13:13:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-what-a-machine-learning-tool-that-turns-obama-white-can-and-cant-tell-us-about-ai-bias.md",
-      "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
-      "excerpt": "This image speaks volumes about the dangers of bias in AI.” But what’s causing these outputs and what do they really tell us about AI bias? First, we need to know a little a bit about the technology being used here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/GLeIAWEwxhvIP7CfZ4nkm6zKe0o=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13762264/fake_ai_faces.png",
-          "width": 1400,
-          "height": 940,
-          "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
-      "publishedDateTime": "2020-06-23T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-azure-front-door-and-cdn-rules-engine-now-generally-available.md",
-      "title": "Azure Front Door and CDN Rules Engine now generally available",
-      "excerpt": "In recent cloud-related news, Microsoft unveiled new Azure Machine Learning courses and scholarships on Udacity. The tech giant also signed a five-year deal with John Hopkins Medicine last week, centered around the utilization of Azure. Today, Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/azure-front-door-and-cdn-rules-engine-now-generally-available",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329604_azure-1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Azure Front Door and CDN Rules Engine now generally available",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/azure-front-door-and-cdn-rules-engine-now-generally-available/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-front-door-and-cdn-rules-engine-now-generally-available/",
-      "publishedDateTime": "2020-06-23T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

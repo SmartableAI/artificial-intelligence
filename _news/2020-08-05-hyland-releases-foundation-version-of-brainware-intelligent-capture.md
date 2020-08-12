@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Hyland Releases Foundation Version of Brainware Intelligent Capture"
-excerpt: "Hyland, a leading content services provider for organizations across the globe, announces Brainware Foundation, the latest release of Hyland's intelligent data extraction and text"
-publishedDateTime: 2020-08-05T14:25:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html"
+excerpt: "an intelligent content analysis tool within the portfolio of Microsoft Azure Cognitive Services. The Microsoft engine includes advanced OCR capabilities for extracting difficult handwritten inputs, in addition to machine-printed text. Extraction can be ..."
+publishedDateTime: 2020-08-05T13:52:00Z
+webUrl: "https://www.prnewswire.com/news-releases/hyland-releases-foundation-version-of-brainware-intelligent-capture-301106713.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "CE5MUl6EKWFVNoSW3BW2uPfrnwTNfzLLFasoJQrbfd5EfTkUUN8cigW2AwHlErBWgIU400wNVmOTK1vpqNA/8MG7MT1D9gw6Q3gH2l9J9bZXKO/wK17lNjvR2PsU5Os9UbCNOAeKnDvKpxl6jpLerhP3Db3s97RIEQ2tts/8S/mpmlPpn2wlo+SrWNOTcRp+isaxmWb4LG+a6X5o7EfQH5ESsOClFNkj9/vorz2mHl9SWAZ3ad7DTbxtRO7pwr1AGh6S4ymSiV8xImhAygqZLI2z7dpGtTObBCO+QgTNOp7+p9FQm8+TvZeYsewJRPZFcwaREJVeRVpC/JqZ30Io9w==;Wr8ck45nKhtX0zhg/OkpYw=="
+images:
+  - url: "https://mma.prnewswire.com/media/456686/Hyland_Software_Logo.jpg?p=facebook"
+    width: 1166
+    height: 610
+    isCached: true
+
+secured: "qPsrRZQYg8aXLPGuvzZrdvSUMcfUNk3Qm+8/EfVvGaAVlaUwb5lwQfAm3EAJ1VMb+YbW0pY1L4SURDW/6XePYj9+gLiBq/GTwbDhf4EVDKAZ7jjdFveumAMuLepwp6w5MZUWEbMZANoOQ6O1fbzur0XwJh4B1T/Pu7wFsNgyQVQS0e4ptM7+U1AJiFzDVClxHcxw8XBEsazlOjb0R8PWBJfoA7Wa4MWqNCm0XD7CFovfBViKWWWp9fAtML88l95RTFUyveUTlG+XkOlh+DYBDDvDt6AYILaLyv3RHwaM67D7wYVKtcrs5xHnyulA2ERbHDcKiCJYzb6Tt3EaQN0NwA==;1r6kjDFRCi0ijmkizk9WUg=="
 ---
 

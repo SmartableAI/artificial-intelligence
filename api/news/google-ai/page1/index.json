@@ -539,6 +539,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-29-reminder-the-ultimate-artificial-intelligence-scientist-certification-bundle-save-95.md",
+      "title": "Reminder: The Ultimate Artificial Intelligence Scientist Certification Bundle, save 95%",
+      "excerpt": "Here is what is included in the bundle: Machine Learning A-Z Deep Learning A-Z Python A-Z Tensorflow 2.0: A Complete Guide on the Brand New Tensorflow You can find out more information on this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/reminder-the-ultimate-artificial-intelligence-scientist-certification-bundle-save-95-2-29-07-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2020/07/Ultimate-Artificial-Intelligence-1-1.jpg",
+          "width": 700,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-the-most-futuristic-predictions-that-came-true-in-2017.md",
       "title": "The Most Futuristic Predictions That Came True in 2017",
       "excerpt": "Just a year after DeepMind’s AlphaGo became the first artificial intelligence to defeat a grandmaster at the game of Go, a souped-up version of the program, dubbed AlphaGo Zero, taught itself ...",
@@ -1344,57 +1385,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.md",
-      "title": "Pick up 87 hours of training on AI, machine learning, and more for under $35",
-      "excerpt": "From self-driving cars to image recognition, machine learning is already transforming the world. The Ultimate Artificial Intelligence Scientist Certification Bundle helps you understand the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/3567088/pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/sale_29690_article_image-100851817-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

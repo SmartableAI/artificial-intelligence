@@ -2,38 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-07-07-intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board.md",
-      "title": "Intermountain Healthcare Implements DeepThink Health's Precision Intelligence Solutions to Manage its Molecular Tumor Board",
-      "excerpt": "July 7, 2020 /PRNewswire/ -- DeepThink Health, Inc., a technology innovator in advanced analytics and artificial intelligence for ... for molecular testing, therapy selection, and clinical trial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/health-press-release/intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board-476398-1.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
@@ -1289,6 +1257,38 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projected-to-hold-a-massive-impact-on-sales-in.md",
+      "title": "Artificial Intelligence In Healthcare Market Forecast Revised in a New FMI Report as COVID-19 Projected to Hold a Massive Impact on Sales in 2020",
+      "excerpt": "An ongoing study of the research analysts at Future Market Insights (FMI), offers a thorough quantitative and qualitative assessment of the Artificial Intelligence In Healthcare market along with easy to grasp tables, graphs, and figures. The Coronavirus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-06-18/artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projec",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

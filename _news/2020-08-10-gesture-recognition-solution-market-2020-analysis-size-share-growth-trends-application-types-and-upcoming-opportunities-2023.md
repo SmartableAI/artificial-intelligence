@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in BFSI Market Share, Growth, Statistics, By Application, Production, Revenue & Forecast To 2026"
-    excerpt: "DataIntelo one of the world s prominent market research firms has announced a novel report on Global Artificial Intelligence AI in BFSI Market The report contains vital insights on the market which will support the clients to make the right"
-    publishedDateTime: 2020-08-09T12:49:00Z
-    webUrl: "https://www.openpr.com/news/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107544/artificial-intelligence-ai-in-bfsi-market-share-growth"
+  - title: "How movie studio Laika and Intel are revolutionizing stop-motion animation with AI"
+    excerpt: "The acclaimed studio behind ‘Missing Link’ and ‘Coraline’ is collaborating with Intel to create an AI tool that could be a big leap in stop-motion animation."
+    publishedDateTime: 2020-08-10T10:00:00Z
+    webUrl: "https://www.fastcompany.com/90537494/how-movie-studio-laika-and-intel-are-revolutionizing-stop-motion-animation-with-ai?ref=hvper.com"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 31
     images:
-      - url: "https://cdn.openpr.com/T/8/T809254303_g.jpg"
-        width: 560
-        height: 315
-        isCached: true
-  - title: "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025"
-    excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
-    publishedDateTime: 2020-08-11T13:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-laika-using-ai-to-complete-filming.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "cjo4S8kBsL7aQj/PxPgyXozIZwcKiaqEvsR4xhjLHoCc32Yzs5lvfFhcaUNwHmFgkP5NUDnQi1r1sCEgHjJKxfyn958u4kMlDpU7FiS8ON2hPB3+ojM5pKAPxTXiDCWqc6OqELbYDEz9IXtsjRmpc1LMraiPsjEZutmEzVh0vT+OVtj/BKI38kHcRlCfU5IbkVbLDFqF6GdDgbjl0UpTb9KI1/0KbO1R97X+Hgq8xO+jL72+MYA2G3wEHqxbBXSAlBzvDdwqg9i5XohWo/42QZWnoWakY4Rbh4ELKKVMXjhKwP3kYIn4D8XXEZXvr8Sxax/mhczT+7bYajzeNoxaFA==;M7gGthl8ILGvHYyduGVv9g=="

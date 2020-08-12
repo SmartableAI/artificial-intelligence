@@ -1,25 +1,25 @@
 ---
 category: news
 title: "AI/Computer Vision Startup Led by Industry Veterans Revolutionized Sewer Inspection"
-excerpt: "SAN FRANCISCO, Aug. 4, 2020 /PRNewswire/ -- SewerAI, a startup that uses artificial intelligence and computer vision to inspect, identify and analyze sewer infrastructure defects before they reach catastrophic levels, announced that it has secured $2 ..."
-publishedDateTime: 2020-08-04T20:29:00Z
-webUrl: "https://www.prnewswire.com/news-releases/aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-301106068.html"
+excerpt: "SewerAI was established by sewer infrastructure inspection technology veterans to address the massive problem of aging pipe infrastructure—with over 6 billion feet of sewer pipe in just the U.S. alone,"
+publishedDateTime: 2020-08-04T20:42:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1223949/SewerAI_Corporation_Logo.jpg?p=facebook"
-    width: 1645
-    height: 864
-    isCached: true
-
-secured: "crLx7Qvimq1HPFHpAObn11apo6cVsX4QLC5wKUtPs61MzSsVmanHuxa8tetCOFg6WZUo5LeQJjo5Wi46xT4+ALvVrEnZO5JpAsXTipeM0AJwLAVoyC8KpWHzIgT3m68EuSOVScAo4wJbDTbWaAYnAljGbRIeVG55/oMlKpfm26ZCELxFCZ1DGeEdcAa209025l+wwPVlIkmCH0ZxcSufZGLR1UsWt+VUoIko7D1wNPDtEYp0z5C//3VsiuNqO+AUfGSZY0JLWKJqV4/8eTUfftwD2S3Ox2LwHsL2PQECoysn0hN842eJuYe86BORJJGyyBI16tAv1KmbfHSKG9Mq9g==;7G+dqAhMd4+9x7AFaAgujQ=="
+secured: "m2RgWKtBrTKBG8uzo0mn5LeoFx9wv8qE8elXDfaEoKaJtBV2sOFoyyAIAKjVoVSbTev7kCi00aOBbyzP+0VX5za6OB2Eu+LnYz9o6R9DkPbOGmjDKjLvyg3XFZQf1yAF4E3fQE885/RKzdidWLvjsepSMiII48crB6IGFWyRT3tmoN1DyASaC2iELGep4OEE1aryjHp4CjzgL3H5ZliKeaTT+KPAcL9yciv/8y4Foe/dPhTACkkuvgDkwgqtBN0R6f1sSfHvUlnUD+3AwvNGl+afaAonEKc1hgeLioamOJSRo75LqYDTbIp/Gv6QPIiI6HWWwL/cMvS0waxFD0JlIQ==;//utSB26GbefO37CnKLbrg=="
 ---
 
