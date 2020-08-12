@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "notablehealth"
   url: "https://twitter.com/notablehealth"
-  followers: 218
+  followers: 217
 
 size: 11-50 employees
 yearFounded: 2017
