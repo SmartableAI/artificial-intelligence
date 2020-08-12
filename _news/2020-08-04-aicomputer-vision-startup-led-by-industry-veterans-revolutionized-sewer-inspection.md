@@ -1,25 +1,25 @@
 ---
 category: news
 title: "AI/Computer Vision Startup Led by Industry Veterans Revolutionized Sewer Inspection"
-excerpt: "SewerAI was established by sewer infrastructure inspection technology veterans to address the massive problem of aging pipe infrastructure—with over 6 billion feet of sewer pipe in just the U.S. alone,"
-publishedDateTime: 2020-08-04T20:42:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033"
+excerpt: "SAN FRANCISCO, Aug. 4, 2020 /PRNewswire/ -- SewerAI, a startup that uses artificial intelligence and computer vision to inspect, identify and analyze sewer infrastructure defects before they reach catastrophic levels, announced that it has secured $2 ..."
+publishedDateTime: 2020-08-04T20:29:00Z
+webUrl: "https://www.prnewswire.com/news-releases/aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-301106068.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "m2RgWKtBrTKBG8uzo0mn5LeoFx9wv8qE8elXDfaEoKaJtBV2sOFoyyAIAKjVoVSbTev7kCi00aOBbyzP+0VX5za6OB2Eu+LnYz9o6R9DkPbOGmjDKjLvyg3XFZQf1yAF4E3fQE885/RKzdidWLvjsepSMiII48crB6IGFWyRT3tmoN1DyASaC2iELGep4OEE1aryjHp4CjzgL3H5ZliKeaTT+KPAcL9yciv/8y4Foe/dPhTACkkuvgDkwgqtBN0R6f1sSfHvUlnUD+3AwvNGl+afaAonEKc1hgeLioamOJSRo75LqYDTbIp/Gv6QPIiI6HWWwL/cMvS0waxFD0JlIQ==;//utSB26GbefO37CnKLbrg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1223949/SewerAI_Corporation_Logo.jpg?p=facebook"
+    width: 1645
+    height: 864
+    isCached: true
+
+secured: "JbqiQw7nf9HaYbIfYVUajpgiL3YJtcgOAZ85vuc0s68eao3TvCs8X8zm4s6x4aWR2YX0FSrut3q89+5YPEuGxf8M20EeVpi6dRiFPRQ3+7CFo78OCMPDvsz/8dRUtgyJf5dt6On3Rb5twp4TirzfJ/b1rpXlX4KQl7pF2sV05Cl+aSvyKkWU0SlRhk3q7JSEAJjwTjxOVbs3VO5JZaS4AQ9GjAceyMiHs7yKFVhaG7MqtXPQ4lFSutAdGEE8jp8f1djQJnwIWNlsHtqLVyFUmlkajkVobTy5lUZgEcZo1H1hrEMrUIFfBlCRmB4vARnw7Nmqwx4/+wrT8CRadJ9xMQ==;pinDDEBLU1UwX6bNmcgp2Q=="
 ---
 

@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Services Market Regional Trends, Growth, Scope, Size, Emerging Technologies, Regional Analysis and Forecasts to 2026 with COVID-19 Impact"
+    excerpt: "According to latest research report on \"Global Cognitive Services Market\" report provides information related to market size, production, CAGR, gross margin, growth rate, emerging trends, price, and other important factors."
+    publishedDateTime: 2020-08-12T07:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-regional-trends-growth-scope-size-emerging-technologies-regional-analysis-and-forecasts-to-2026-with-covid-19-impact-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qoJe47pwvsJ9gF05NHeE43AzLaPL5uDRTNXeFXoPBiq7aKjv9jTrkaa6p0dUhdYNc+tCEdcSgY/J28S11G12vbKB9xpmBoF7vC1x22Wq/Co3J2zdEls7RhUH0pu174wOD3hf8voElgpATkFYfbmDMXK7Z7EOJ3XIrwOZHuWb1XnM0TVLsSjdlydXE5iAXXeLkF9oIyLSjDyzRxTSt4fOd+uYSec8sgLPiue6hcfbg8jdTqeF5Lf0GsiFvFSx3UG2pFOenz4hqtzw9+OEDdQnK3dFZz4wZXQ161bcMrSS1zBMHZzQTPc36DQnl+HAR/aTKkU6jenyzkZiQRVmYRDxxw==;TFHcghuFRFP5pUR3Ibti+w=="
 ---

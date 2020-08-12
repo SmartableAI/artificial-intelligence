@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Research Opens New Neural Network Model Pathway to Understanding the Brain"
-excerpt: "NTT Research, Inc., a division of NTT, announced that a research scientist in its Physics & Informatics (PHI) Lab,"
-publishedDateTime: 2020-07-27T15:40:00Z
-webUrl: "https://www.hpcwire.com/off-the-wire/research-opens-new-neural-network-model-pathway-to-understanding-the-brain/"
+excerpt: "By combining ideas from theoretical physics and interpretable machine learning, the authors developed a new way to perform model reduction of artificial neural networks that are trained to mimic ..."
+publishedDateTime: 2020-07-27T12:51:00Z
+webUrl: "https://www.businesswire.com/news/home/20200727005159/en/Research-Opens-New-Neural-Network-Model-Pathway"
 type: article
 
 provider:
-  name: HPCwire
-  domain: hpcwire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/summit-image-405x228.jpg"
-    width: 405
-    height: 228
+  - url: "https://mms.businesswire.com/media/20200727005159/en/755976/23/NTTResearch_Symbol.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "ponlNtu7H9fKXcNsStL4YdXJ9x1gSAaq9yoVKnvn1wA3JPdVa5m2Ccn/wf6sH+El0r9nyNdUil/o/BmS+Gc37Mg18jJ+7ZxzvnNfgPOlHTSrKVMwUkMkmP72ngn1MV27K8qgQcyjD8AOm/8kSjJYFGPbaFf0ljk4MXE4+LqzSR5Kc9AgDCXF6lXYAptaesB1yRtH7iyG6W21HhhTp0LzSKuWib45nwx9bTKo8NQKI2jgHXjAHnibVf4m57+pHhylGXBe8ObjhAs+8CQjW5fy2RE8TREqJap2GKoansEGbo97MQ8PyIF63vpEMrAODs1VZc9B3A8vUyFy3MVektHTWw==;mB9VWfEhpk0tKb4XwdVpug=="
+secured: "cW3LRfBMyFIAvbBHQew/nyZ00c4rFZtpuU98EbYkZGLm1jEVHaLzfTHrW0Bz+qMyp5ulLL3Y/BfuPnMtILQNt0esvXkvtHA5KqoeHLQ2RdujkALa3wr9nBl/kda1Ch5kzrPyHWs12JKuFj5w5Eb+0MkIGrv2Ho7DV9R3WthZGCSx3IDHp6tijsBviVM0Dh0FYu99kc8NxmvVdg6hM//PXVjISya0+LXSJ9cgh9EcmPWYSVaeyx2pBUI2nkFd/1Np59ykVGfIZyQebnRnpK8d3b4jgUvJ+O02yfOxS4uRcMoP1kKlJaXbtLbtxndXD1d208LmfXDznaBomIrsmzrBeQ==;sMFBUXvsep6jceNZ2IDleQ=="
 ---
 

@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Using Machine Learning to Fight Money Laundering"
-    excerpt: "Machine learning can play a significant role in mitigating money laundering risks, says Andy Gandhi, managing director, data risk and compliance at the consultancy"
-    publishedDateTime: 2020-08-07T13:42:00Z
-    webUrl: "https://www.govinfosecurity.com/using-machine-learning-to-fight-money-laundering-a-14782"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 39
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/using-machine-learning-to-fight-money-laundering-showcase_image-4-a-14782.jpg"
-        width: 860
-        height: 520
-        isCached: true
 
 secured: "tyWhA6BPhtvzJkgQS6JcCvKEUSrH5t4Ztp6ceyyrL08JJZD5UO5QZ08awTNCDtTySmCaSOsU6Qii3k4o6Qk8T1aSE8XMA18iqTsfDuuU9TcroSHZQHPLh/Pn3vSW+/dbipdg2goum9QM3j6NC0PhW+sx8/XijRKZ+ZcLrlxsWZcsGWacCY0lYUrYLqQAR1wl09wQYrpEMJdoP01z4IrhH/zoIHf6tCMxgvK6FHcLLliMceE8H5ZBl4kEKgo5Mfcxdmrx0U6Aoc+1aZxzDMLff1psQjZQWiedqp9+SZ20HXHlRlQ3OIJ2dI9fd8r71ajpyTw/ZV/sjmIyGj0iHraEh5K2ym5Qtnz7fvzUzLZgKRfFprjx2MaBQqBixUnUPUoKpNKR1eyeVrDogBpkQ+kWwtSxsTZHQozSVnnmvAzxr1Lv7lTpu7X62qyy2PefRVXuEx/wDU4l16qvbXwR9h9bL9Fm80+6o1R+HhlhANdZnXrQG6B+ssYRjT4835QZXU2elA4uUoNHKE2C3KGHDkKrag==;osIAZ280LsqbumEgOZ7R4w=="
 ---

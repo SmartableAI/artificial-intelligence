@@ -405,7 +405,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": null,
       "type": "article",
@@ -435,7 +435,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -643,7 +644,7 @@
       "webUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1089,7 +1090,7 @@
       "webUrl": "https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {

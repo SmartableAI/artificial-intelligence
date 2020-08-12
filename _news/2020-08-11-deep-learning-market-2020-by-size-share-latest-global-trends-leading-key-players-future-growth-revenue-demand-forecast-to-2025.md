@@ -3,7 +3,7 @@ category: news
 title: "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025"
 excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
 publishedDateTime: 2020-08-11T13:39:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11?mod=mw_quote_news&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11"
 type: article
 quality: 38
 heat: 38
@@ -54,6 +54,6 @@ related:
         height: 482
         isCached: true
 
-secured: "wB2kKFAkSRsdB6s2Jr3fbfcSRpFO22YYA2R8flce6jIaovh4I99+Vv2wiWSsfDz7qhbojR234McqzGK0J50TAzd0xKHxND1mqK/TVBJaSEBdPu5Nn9Q6iAGXEBvAWWMsDr5FkOGiGUt9DyR5GZnOJBCuGhKJoFaDQwl8F6W4MLVvwA9M67XOWDU0Eex0RdZcINubquXGHfgGWQCEOuHgb8cVSH/X3ZpqrRoffHecmFF9SlU24NjQ0xVKKBF/NA317lF3d7FW5b8lb8xWUY+A+ojvnqLQn/EpKo01Cqoo/S+TOlc0FGLLWguo+CkI0Zwe3gpbV/280EuUCYpmVFVxQg==;4zwb84cN/DGdGeJNNdfyhw=="
+secured: "loBBhmIGzitdR2BDubGxqXivFKHQ/3eK/Jz+1BI7sRg2ZK0ypTSUDNsd5frtJNHxJzduCf/zMz4u+6kpzH9uhYhGTAppTfLl7dLAsqgxOUbCTYZehIi7iSDWJ9kxC/8a4cPbVDGyl4ChmfzLJhmw1BpUlOCP8pGbkQQguG7FbiugWmDDG+EL/aI8XvfsVWEBTcRZKMZS4dkasldlfxuoy2L0YAQLiCY5JUgd6EtCYBRglnOemCwexNF/F8YgN0d21hJqcsONdOUlyZvggedabHXio1bN/RqtOHIe66o5sO2fW3Cd84F9/bg3n9p0jraTlfkeJui+o5MbChuwda52nA==;JDFFz1APRycxy7LtjtxbEA=="
 ---
 

@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Near Field Communications in Healthcare Market"
+    excerpt: "A new research study has been presented by Dataintelo com offering a comprehensive analysis on the Global Near Field Communications in Healthcare Market where user can benefit from the complete market research report with all the required useful information about"
+    publishedDateTime: 2020-08-12T06:25:00Z
+    webUrl: "https://www.openpr.com/news/2110157/near-field-communications-in-healthcare-market-is-thriving"
+    ampWebUrl: "https://www.openpr.com/amp/2110157/near-field-communications-in-healthcare-market-is-thriving"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2110157/near-field-communications-in-healthcare-market-is-thriving"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/8/T812848925_g.jpg"
+        width: 800
+        height: 370
+        isCached: true
 
 secured: "KVOehlCk6NJ9ckLjdWeaTSNTvwQIsGmsa3GeyhD8slcpCp7T2IYbrKCRL+/iaR09HCvq6QntqOm3g1Ov9oFEefOAVr8V7b7vm44taQ29Efdp0VaiXNg0C3SAsDQfxeM1UGOIatfTk+zHw15nc6tMHTGghyZZwAYSGUTPPsc6NYbtr6jRRmtVfSx5yYZiel1rnpIZ/LLb6JRmAFTXUlkZgKyfYCy2hAoI5flpVO9fQ4zsEK6RWLgWANZ5rBbBuygSyMHYGTTT//Zo5tND2VZ2sJlMEdt4254Frr2HfxbW3SrHuu7eA2JwMYMrGQ3xXHoTZH5WA1E9Es8Qn8tWcuIbYA==;rNAYDP20NAbu1nsboWGeug=="
 ---

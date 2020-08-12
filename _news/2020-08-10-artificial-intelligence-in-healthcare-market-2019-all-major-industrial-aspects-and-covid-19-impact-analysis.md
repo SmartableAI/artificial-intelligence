@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T15:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Near Field Communications in Healthcare Market"
+    excerpt: "A new research study has been presented by Dataintelo com offering a comprehensive analysis on the Global Near Field Communications in Healthcare Market where user can benefit from the complete market research report with all the required useful information about"
+    publishedDateTime: 2020-08-12T06:25:00Z
+    webUrl: "https://www.openpr.com/news/2110157/near-field-communications-in-healthcare-market-is-thriving"
+    ampWebUrl: "https://www.openpr.com/amp/2110157/near-field-communications-in-healthcare-market-is-thriving"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2110157/near-field-communications-in-healthcare-market-is-thriving"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/8/T812848925_g.jpg"
+        width: 800
+        height: 370
+        isCached: true
   - title: "Global AI in Manufacturing Market 2020-2026: COVID-19's Impact on the Industry and Future Projections"
     excerpt: "The \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to 2026\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-08-07T19:32:00Z

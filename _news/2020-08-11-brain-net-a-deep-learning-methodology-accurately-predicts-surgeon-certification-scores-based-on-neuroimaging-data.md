@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data"
-excerpt: "Researchers demonstrated how a deep learning framework they call 'Brain-NET' can accurately predict a person's level of expertise in terms of their surgical motor skills, based solely on neuroimaging data."
-publishedDateTime: 2020-08-11T20:33:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/08/200811125049.htm"
+excerpt: "In a new article in IEEE Transactions on Biomedical Engineering, researchers demonstrated how a deep learning framework they call ''Brain-NET'' can accurately predict a person's level of expertise in terms of their surgical motor skills,"
+publishedDateTime: 2020-08-11T14:58:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php"
 type: article
-quality: 42
-heat: 42
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "gov1IHOcCiSnnkH4JI1op6I+XBCagS+pOdVRyZYDk4/Guzg/rZmyPAooyG9Anaa4R5Ey/gu0RzYsKj9nUgWvg8CWSpA3U2/h1liO44qhCxC6YM/5MOxnF+WcvJTjSx+MVoNlWKl4oyuKzED0K5izfpk6HZnWWzijrp14gi9npNWC2deMomo3nqqpkPprGHD30Oj4YWMUKCPBR45K0jHImSzwqN4Bu+nsbOI6ohQeaHRXGzLLzayMug433ldvHCgwegGu5c13RU91recTnwOI9F0IQJl+kutAdmKLucFS0iVK6wUM7KBXvjopRqX4ybmspcXgtem0E5LG+fDTA2rqcQ==;GiCltJgyh5XdlN7dvSC+Vg=="
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "7E2+lz29EMf0XvvVypCWB3rmItHb+uQf5QIBVLyfGsT72VjPVZThv2WMj37vKPbDDdqF4cO5vAErDvEiJK/8R0ukybn94hbl01LSqGW3cI4HoWy91Ols0XqNtcSTtvVAlsUWQv3Az3eCIp7+4PNfvGRVKOv4TRZCsIcL/QQIg0YsoryAIDdlKZQrgd3ngRQtv5llT0vAlNCj0EhV/5nwgMzYUBX9yt8vuSl8ygg48/ikUwAH409oCK8/cHuuiRLu6dSPzxI7VjmlO9Gwq41Q3edH8Q7aRRLprnNiDaHHATDKGgLVF3M4JQC34IiOw/G79b5lruHXPq5N4O2NP+mmEA==;EEwmkoeXBjhgAGqrQ/5hcw=="
 ---
 

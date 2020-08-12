@@ -52,6 +52,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "+DCdXzh5CjQdT/VVlZ2D9Ub+D80wwagyDIefK+dhnUy9Yicxeed6JtIRRd4fZ3dhmFcwkFsvMHH4rkcWvrv8NwRhF1VE1La+Bcnkk7jSn5kVm46DiSKGLRu95wXtCgwFqX5+R102dqQ1LkJ//SH6KCNrXB+EWxyYTfHvJbXrCcuoYUjJ3R5hw3TphmDe6HssfiZdP5IeetK5j35yUchv+eqwCgPKX9N933Vuk/ZrApbf7/v3cBtbdE2jD6dwQVgo6G+sh75xMZxfKrvHPjTRPe5CY5GfuuJl+vJeXnYMSvHSt8yKN987RqWp9uBF7VAO2U87YOT/of5mfteF6hxK1A==;/eJ6Bu/DekFxci7rUHEtVg=="
+secured: "RMOaDCBEt1RssSARYnwCpkqCun72H+QSXr23OQPUm5c0+33Ry57+2qayNtIdj7h/cbfWabwrJxZurA6gSCBOU5fZbgZKHEG1I3PeJnvFzY/Ux2sff1mEoHuzpfcGQhj5ztzhPCpw+XQ223wFeIVkp/VTXcQQjHp1FjgCkPG6LM+vsJPLEE4wLEUwMNjPWtXi5fImrUerIB7SltmeJFmhbKVmdDfIeoZoAEsTgeT0hp3Zx8D2d25NJVefRoTXrmxavGYFKORs38Si+PR98YNdwrovRXDAbn5OyJfW+cUVVfD1tL2/jMTMEjVfcigHqrrUe2CfnBg5me2/YJUUY2h7QQ==;6DZWFMinqODjnD1rQWTOiA=="
 ---
 

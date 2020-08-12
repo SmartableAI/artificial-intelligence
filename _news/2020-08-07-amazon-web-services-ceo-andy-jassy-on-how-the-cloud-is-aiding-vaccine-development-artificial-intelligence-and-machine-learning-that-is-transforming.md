@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The era of artificial intelligence (AI) and machine learning for Army tasks in the field has arrived"
+    excerpt: "AI techniques can help predict when vehicle parts need to be replaced before the vehicle breaks down. If this can be done well it will save money."
+    publishedDateTime: 2020-08-12T06:34:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14181417/artificial-intelligence-ai-machine-learning"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 19
 
 secured: "HwWuiCNrVBgg5OzrBTjN4s1Hze5qhNC+p9DxNUj620hcczzII5NKeayI8XVYuy7WK528AabSYrgjjZVDQm6Gc48ktFfKrw/7dzbuImykZ/EqSy8s25YWuBczzJwWbspnNXNjz6/wTvfBEfN0nCBUvy3h0NrCbWNSyi5GCGam1DfNh23e+Vc678fPDWayFmOytUbqRBIcTUZ+M3SHQv2WY8E3RLOn5xWOv7cy6WlyHqLVPc7Fd7aurOQw78hhAEbqinV3Kp0mtYarI/IxHbSzz8Q5rrfEK/JFKU2yv4IRt9wjDyEAIX6E5YsdlD4eKAFrpcg+wiVYYQBeAk1A4IBzlQ==;iv/12cHsG9YZ3MvCyDJGRg=="
 ---

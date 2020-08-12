@@ -8,7 +8,7 @@ ampWebUrl: "https://www.androidheadlines.com/2020/08/research-google-ai-women-ma
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/08/research-google-ai-women-masks.html/amp"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1006
     height: 651
     isCached: true
-
-related:
-  - title: "Google's AI thinks women wearing masks have mouths covered with duct tape"
-    excerpt: "According to a study, the visual AIs of Microsoft, Google and IBM have a lot to do to catch up with the real world. Some of the study's results are truly disturbing."
-    publishedDateTime: 2020-08-07T14:38:00Z
-    webUrl: "https://www.zdnet.com/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 70
 
 secured: "32yWtxISG8KUMWeRR5NESa4cAM7oGK0ez1qEd9ha7NBdmKJrbApFtRB5F9qqeAa05gse8XI6QNTeLbw8VVey/OfZgXWbuvzWRZ9OljIFpUZ9JTopnqErI4TGaC/fN7zccH99nox0zrj4SBcXNsv00GhlDIpq+v75jnc4CkdSS+O8pFSfQ3vj0Q0vEZbsklG3qlz80g8InBbzYkIAbnoopOQSY4Eq4IxgjIrWoxPRJ4N8WNqJIzApOcjqK+rhjfyxp6rq5xTd2/MRdJExLqHGg9PwjmwmctCPCxjaF4cLdHl3elnsy0VFVEtt9wNgNMngL8LRfg7+yJCAwLhhPoVlhTJ4ebjE8wEzH6eXN852AAJ5t65LoBs90C80ivhrIGRhlQjw8uBGvFL8xFOpQQkWXW00W+22syaj5KCTpQwmJcCxbGpLeYoPPYQewmeHW/pDwc7MhaVXj7bSFo7DsWnksptdNjpqEFNea0LnMLDO0CK8XgT+0cVidaeUwb7rWIFBuoFmrI1luZXAHvms0qmO5w==;CO916OxZvIqmjN340r9Mwg=="
 ---
