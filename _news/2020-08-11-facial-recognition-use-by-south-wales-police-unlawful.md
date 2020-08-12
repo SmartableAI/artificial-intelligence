@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
 type: article
 quality: 89
-heat: 339
+heat: 349
 published: true
 
 provider:
@@ -219,6 +219,22 @@ related:
       - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/AP20205626931949.jpg?fit=2500%2C1813&#038;ssl=1"
         width: 2500
         height: 1813
+        isCached: true
+  - title: "UK court says facial recognition tech violates human rights"
+    excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive"
+    publishedDateTime: 2020-08-12T13:57:00Z
+    webUrl: "https://nypost.com/2020/08/12/uk-court-says-face-recognition-violates-human-rights/"
+    ampWebUrl: "https://nypost.com/2020/08/12/uk-court-says-face-recognition-violates-human-rights/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/12/uk-court-says-face-recognition-violates-human-rights/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/uk-facial-recognition-5.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Police use of facial recognition breaches human rights law, London court rules"
     excerpt: "Campaigners challenging the use of facial recognition technology by police in England and Wales have won a landmark legal victory after the Court of Appeal ruled its deployment breached human rights and data protection laws."

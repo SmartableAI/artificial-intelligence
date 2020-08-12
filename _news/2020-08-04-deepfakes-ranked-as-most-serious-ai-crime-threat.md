@@ -1,25 +1,27 @@
 ---
 category: news
 title: "'Deepfakes' ranked as most serious AI crime threat"
-excerpt: "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report."
-publishedDateTime: 2020-08-04T02:44:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php"
+excerpt: "Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence ... These are using driverless vehicles as weapons, crafting more ..."
+publishedDateTime: 2020-08-04T12:31:00Z
+webUrl: "https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
+ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/ai-1596543975.jpg"
     width: 1200
-    height: 675
+    height: 676
     isCached: true
 
-secured: "rk0dwtk66KYUcA2TCKCTNVHa8HWf5d6A8ttlBhB2vTBBBeV3y56VWY3GeIlAtoviXY42k0cqiF8g0cbB2VO+FL9E6a+rRhPM06Ae9ZwhTJjRgGOF9PMZDPU/Gt2JBF/rbQfUHyVdILktWgA2DR6oi7q5d8vVrFJuvHwQf0h45vlUuCoEeGlZmpsFyYp5/+qA0oHZFBFfSP8KCzYBAaisXX5e9jZRJ5Nkx5ow7a9sxEu34xmr4yRaEP/1MCsl7rQrYzeh7LvhLIRyTT12ZV2hA3qgwCLlId2yKz3Zy7VnmOv/1FvgFyARyeh8TDS1fE/8PkfOUMKIcbvwruutADD5JQGoO1EDQWMdFm+Q/ty9mdvTz7LkcvTRyRtu5hBRRcpbgeSI0UQDPEhHdbS8Yfx7wGWWOU6d5+ZTU8E5BqDKDW5d1W1/UV5vgA0CXS8jqTmLc8SfFW/lZhMGbRNbzgt7b2xJUaLD68I8BUymePmBLLvsmTffzFQjzO1PlTAW/5DgbkH3DUsn/YGoNKqLnorRcQ==;3tYGUDOV4HC5Neb+A+LgAA=="
+secured: "y0I53fkyNLSmNazm/50mkLIBrHrQyu3Cch+ApEytTIMxIU3sxzQIyR9HYksWFz7eBKn7X+w1WViPWvl+dZuqSzEpJRdi6rwuQVKUr5U1J9U2EVcS74XFULsCJocCvQ2B6vlGi19WWEqwyaGZa6qrkefQdsNc+Vh8t6ToJtGbk5PHa0o1FcyvF9O8VUUHcDgB2iI+1/5v9D574yYpLvT2V4xlfGTT390jlx3fl16m4irXE+fwAxhDLRIxX1mWi0ND3WPfIE4DH0S0YpnXb9c7bsJhcbB7gcX+Iy41ugC5zNuFet596uuIU4Z+TjPMN1jFPtXqBevx0DZhjIwpecEt9Q==;5QmCOMdqRJvHq3Wo9rGxxg=="
 ---
 

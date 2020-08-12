@@ -45,22 +45,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Ironscales raises $8 million more for AI that thwarts email phishing attacks"
-    excerpt: "Ironscales, a startup leveraging AI to detect and remediate email phishing attacks, has raised an $8 million extension to its series B round."
-    publishedDateTime: 2020-08-10T13:03:00Z
-    webUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
+  - title: "Gong, AI for sales teams, raises $200 million at $2.2 billion valuation"
+    excerpt: "Gong I.O Ltd, a platform leveraging artificial intelligence for sales teams, on Wednesday said it raised $200 million at a $2.2 billion valuation, and said its revenues roughly tripled in the first half of 2020 as people shifted to working from home during the coronavirus pandemic."
+    publishedDateTime: 2020-08-12T14:05:00Z
+    webUrl: "https://www.reuters.com/article/us-gong-funding/gong-ai-for-sales-teams-raises-200-million-at-2-2-billion-valuation-idUSKCN2581T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2581T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2581T0"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/b4a2ebb3-b099-44eb-9cd7-d6c130920fcb-e1596737652461.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 601
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 69
   - title: "How RBC Built Its Own GPU Farm for an Artificial Intelligence-Powered Banking Platform"
     excerpt: "Its vendors, Nvidia and Red Hat, expect lessons from the collaborative project will benefit the broader fintech space, as well as other industries."
     publishedDateTime: 2020-08-10T19:04:00Z
@@ -85,6 +80,6 @@ related:
       domain: nasdaq.com
     quality: 30
 
-secured: "mBUBdR5bugmqE83GGUDxmqpysvDyHLkoHDXx5xjevH4Jsi2DoNvGNLIrLN2RnUEDegNBtixe/uRqfHzPb3r+nUZjuMt76/nSV5wlCy7/9HtyGXEVQAsGxG9lxJ9scHuA74jP0kTCh8lhLjOHbhS2vUVTzCuUgHT7cfl9PKr+r8Ab1KOPGTYv0og9L488GQ3zl97BusqJ69vlDlEoST99qUZLxBIxhmAwscO3Q8S7TJ3RP9w0HZKh1R1sHepANiufyNdlz9NhVlBO0YnVl8L1m1EoIDZnc40MACA+PwyCcAA3jFP2bRajq0nJh5SWku6Qsn5drAa77foTJrVXXdGm9w==;orh1dWB32PfeSsxKHEzp+Q=="
+secured: "r98D9VoAA62OHvLfXejfL5yfilC2xHGSNBmvdbba5HuFm5zqvtfFaE65hfg0lG39/PVKBzgejGa2lMzX1pecRRRCPpGUaPv5YSLoeP0GCTPWzSHXl48XgfBXxnp8wek121naHBFdANyT8Dzbfa8ND87Wd0dM0hIa+zM+N1rE93SHBXYa1FG33VJF1aVbAJJkj9h0ehY6haGuegE4JjOXQhHvMj3/T8egaBjymIONf8w5ddkDDt4F2Glw9pNIvcCzwMPobuLSHhj5FIrbh5mJckS1JzmMfBCbB9dHEhN4WlhGvjkT+TogBj49j8A3pBqtpY1ZzvUyulwNLW0aUSvJ6NeVXl9l9pjjnGGaYYakgv26LMu+SAIgGYAj/0FrBWwoSE8l+oCuyzjXPWtDaqXaHDNaOI8YnDO7wrcMmNsz75u3L1fKo4kc1TqD+pOVAXTylzT/72OGqEfQgtmr8cb6/Lo9ntsz1toHHjy17JZvMS7osuO3Itilk1dZJSDIPY8+eN/t89tOr0k/QQZ5TYSwtA==;U10DNaa5S2cheUM9h5f+MQ=="
 ---
 

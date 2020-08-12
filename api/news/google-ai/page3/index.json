@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-29-35-women-under-35-2020-britains-brightest-young-business-leaders.md",
+      "title": "35 Women Under 35 2020: Britain's brightest young business leaders",
+      "excerpt": "Bajela is also an advocate for female entrepreneurship and a Shaper for the World Economic Forum. Abbie Bates, director of people & culture, DeepMind – 31 Since joining DeepMind in 2017, Bates has risen up the ranks of the Google-owned AI research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/880/cached.offlinehbpl.hbpl.co.uk/news/OTM/35w35.png",
+          "width": 880,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Management Today",
+        "domain": "managementtoday.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-28-behringer-deepmind-12-polyphonic-analog-synth.md",
       "title": "Behringer DeepMind 12 Polyphonic Analog Synth",
       "excerpt": "We provide a safe community for finding the gear you want. As its name suggests, the Behringer DeepMind 12 is a 12-voice polyphonic analog synth, with a 49-note velocity- and and aftertouch-sensitive keyboard. Each voice comprises three digitally generated ...",

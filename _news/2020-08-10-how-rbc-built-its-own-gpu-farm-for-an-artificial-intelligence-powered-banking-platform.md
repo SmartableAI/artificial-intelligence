@@ -56,22 +56,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Ironscales raises $8 million more for AI that thwarts email phishing attacks"
-    excerpt: "Ironscales, a startup leveraging AI to detect and remediate email phishing attacks, has raised an $8 million extension to its series B round."
-    publishedDateTime: 2020-08-10T13:03:00Z
-    webUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
+  - title: "Gong, AI for sales teams, raises $200 million at $2.2 billion valuation"
+    excerpt: "Gong I.O Ltd, a platform leveraging artificial intelligence for sales teams, on Wednesday said it raised $200 million at a $2.2 billion valuation, and said its revenues roughly tripled in the first half of 2020 as people shifted to working from home during the coronavirus pandemic."
+    publishedDateTime: 2020-08-12T14:05:00Z
+    webUrl: "https://www.reuters.com/article/us-gong-funding/gong-ai-for-sales-teams-raises-200-million-at-2-2-billion-valuation-idUSKCN2581T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2581T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2581T0"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/b4a2ebb3-b099-44eb-9cd7-d6c130920fcb-e1596737652461.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 601
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 69
   - title: "WISeKey Invests USD 5.5 Million in German Artificial Intelligence Leader ARAGO for 5% Stake; Integrates AI Technology into its IoT Platform"
     excerpt: "WISeKey and ARAGO will create a JV with the name WISeData.CH and will license their respective technologies to the JV. WISeData.CH JV will integrate ARAGO and WISeKey technologies to develop solutions that help clients drastically accelerate digital transformation in any industrial process though immediately integrating IoT and AI to secure"
     publishedDateTime: 2020-08-11T16:10:00Z

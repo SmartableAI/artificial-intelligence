@@ -36,15 +36,6 @@ related:
         width: 770
         height: 560
         isCached: true
-  - title: "Milwaukee's Sift Healthcare raises $2.8M to expand AI-based payment platform"
-    excerpt: "In addition to the capital raise, Sift also announced it has entered a three-year enterprise-level contract with health care receivables company State Collection Service in Madison."
-    publishedDateTime: 2020-08-07T21:41:00Z
-    webUrl: "https://www.bizjournals.com/milwaukee/news/2020/08/07/milwaukee-sift-healthcare-raises-2-8-m-to-expand.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
 
 secured: "2FJV2mU2azV9+oQfIXx19tpSp/p10chFVrmjZnYM9kh8s1K5Ertdn2c2xlh7x0TfaWxpFbozvlo2vX70uysO1lLLXKnspxnC8LQBKHUkAr5ID6ip99cISqAi0KeCcdCM5Bp0/kY9mZLCCffUH5gwZ46Z3eTz260nbBOmnv9ulLR6ejoBYObIvKLHH/aWQszIsjjZwiNL9Y1OLrW3bbDmT8gwzm5U5a8x06gsanE+bbC47m6zQb2t6rsiw7glhXZEt2TfwBPdtOh0uvSRPzCYE5VKcHG/sMFxwHHGFa1qtcq6Z6Xwwppe3J4dOI9MahIHfnm69UfLX6nfpH6BATVPFe/NCggKww7kOzej9RxLndwA7/qemUPHQKrcpQGpQxo6lxc9CWzRWIOxgX2ietIeGZXTjHJKPbJ8YE8EnmaEAa8FJGct+cOABPBC3V6dmAbaKBowIUY0M8SdL95Dwne/8ie5OpliKS3HMKwVdgAHVNKZ2uaS1gBXtRQ0smjtU5AQpvzuSQaAGKgGG3HhwwAjoQ==;YMFxsCJrSxezFBGXvf+ZQw=="
 ---

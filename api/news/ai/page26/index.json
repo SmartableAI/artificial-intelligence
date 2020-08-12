@@ -2,6 +2,106 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-07-16-4-important-types-of-bias-to-tackle-when-building-ai-tools.md",
+      "title": "4 Important Types Of Bias To Tackle When Building AI Tools",
+      "excerpt": "With every passing day, it gets more challenging to mitigate the biases that are powering AI tools and systems. Now more than ever, awareness and consideration of these biases need to be brought to the forefront of all AI development and implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/07/16/4-important-types-of-bias-to-tackle-when-building-ai-tools/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1255304161%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D489%26cropY2%3D4269",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/07/16/4-important-types-of-bias-to-tackle-when-building-ai-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/07/16/4-important-types-of-bias-to-tackle-when-building-ai-tools/amp/",
+      "publishedDateTime": "2020-07-16T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-how-valuable-is-your-ai-trust-currency.md",
+      "title": "How valuable is your AI trust currency?",
+      "excerpt": "Trustworthy AI depends on building trust in your people, processes, data, tools, and models, including mechanisms for building trust into your AI itself.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1175710243.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
+      "publishedDateTime": "2020-07-16T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-googles-fabricius-uses-machine-learning-to-decode-hieroglyphs.md",
       "title": "Google's Fabricius uses machine learning to decode hieroglyphs",
       "excerpt": "Google’s Arts and Culture vertical has been known to release fun apps and tools to help people engage with art and history. Now, the company is launching a web-based AI tool to let users interact with ancient Egyptian hieroglyphs and also help researchers decode the symbols with machine learning.",
@@ -1273,88 +1373,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-a-robot-walks-into-white-castle.md",
-      "title": "A robot walks into White Castle ...",
-      "excerpt": "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-robot-walks-into-white-castle/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
-      "publishedDateTime": "2020-07-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-fda-approves-data-streaming-from-the-impella-console-setting-the-stage-for-artificial-intelligence-algorithms-to-further-improve-patient-outcomes.md",
-      "title": "FDA Approves Data Streaming from the Impella Console, Setting the Stage for Artificial Intelligence Algorithms to Further Improve Patient Outcomes",
-      "excerpt": "The United States Food and Drug Administration (FDA) has approved one-way digital data streaming during patient support from Abiomed's (NASDAQ: ABMD)",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200716005318/en/FDA-Approves-Data-Streaming-Impella-Console-Setting",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200716005318/en/805904/23/original-1.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -37,7 +37,7 @@ related:
     provider:
       name: NDTV
       domain: ndtv.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/8/12/iit-roorkee-re.jpg"
         width: 860

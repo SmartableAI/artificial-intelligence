@@ -38,20 +38,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Predictive modeling of estrogen receptor agonism, antagonism, and binding activities using machine- and deep-learning approaches"
-    excerpt: "The efficient identification of suitable chemical descriptors and machine-learning algorithms, including deep learning, is a considerable challenge for computational toxicology studies. Here, we sought to apply classic machine-learning algorithms and deep ..."
-    publishedDateTime: 2020-08-10T18:33:00Z
-    webUrl: "https://www.nature.com/articles/s41374-020-00477-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41374-020-00477-2/MediaObjects/41374_2020_477_Fig1_HTML.png"
-        width: 518
-        height: 685
-        isCached: true
 
 secured: "0Rcq8Unioc0DDyEN+HoxGvs48PnX5Ihmira8Ycg+G7PgGCI8vwNtHpZOrRwP47NMRCW3oS/VgAb5C+k0nR6AbP5HXmEUL5kXSNP/V+uv+GsCm9CNExJNa8gMNK/NabX9sazAQUzzHN8k4FGrkzDyipKZC+25jSIQEhLlxJahboIDALjq8hVb9A4uk5MiDVmJ+CZsqpj8Oxf/pTiGI3GjuaCu9DP8L4fOrgPeBeI7q/2veXZeD06zLD8LK0AIdIpbaHPg3cS+hl66NQ0K+1D/gkcll1IDnUyVZz5kgZw4GnidT73U85zDBwtjWExVS1tDRFgMwYdsF1bbQfMTxTZUkA==;B9ru2Ii0CUH7/I7Lup8R5w=="
 ---

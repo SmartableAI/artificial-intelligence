@@ -5,7 +5,7 @@ excerpt: "Indian Institute of Technology Roorkee, or IIT Roorkee, has announced 
 publishedDateTime: 2020-08-12T11:57:00Z
 webUrl: "https://www.ndtv.com/education/iit-roorkee-announces-online-programmes-in-ai-machine-learning-and-data-science"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/8/12/iit-roorkee-re.jpg"
