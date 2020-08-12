@@ -29,9 +29,9 @@ images:
 
 related:
   - title: "Smart Office Market 2020-2022 / Challenges, Growth Forecast and Segmentation"
-    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have ..."
+    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized ..."
     publishedDateTime: 2020-08-10T06:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10"
     type: article
     provider:
       name: MarketWatch

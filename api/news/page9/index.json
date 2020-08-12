@@ -2,56 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-08-03-singapores-universal-studios-deploys-facial-recognition-for-entry.md",
-      "title": "Singapore's Universal Studios deploys facial recognition for entry",
-      "excerpt": "Visitors to Universal Studios in Singapore will now have to pass through facial recognition scanners to enter the park, in the city-state's latest foray with a technology that has stoked privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-singapore-universal-studios-idUSKBN24Z15D",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138061&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MU",
-          "width": 792,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24Z15D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z15D",
-      "publishedDateTime": "2020-08-03T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-03-arkieva-releases-their-new-machine-learning-forecasting-and-roi-tool-swifcast.md",
       "title": "Arkieva Releases Their New Machine Learning Forecasting And ROI Tool, Swifcast",
       "excerpt": "Arkieva, Inc., a leading designer, and provider of the Arkieva suite of Advanced Planning and Scheduling (APS) software tools for manufacturing companies today announced the launch of their new machine learning forecasting and ROI tool,",
@@ -377,6 +327,47 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-03-linode-cloud-gpus-outperform-aws-and-others-for-price-performance.md",
+      "title": "Linode Cloud GPUs Outperform AWS and Others for Price-Performance",
+      "excerpt": "Alternative cloud provider Linode has published a report titled \"GPU Price-Performance Benchmarking,\" highlighting commissioned research by Cloud Spectator evaluating the price-performance of Linode GPU-based virtual machines against those of Amazon Web Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-9149653",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },

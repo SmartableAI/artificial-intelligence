@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-07T09:43:00Z
 webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-insights-technology-advancements-and-global-outlook-2020-2025-2020-08-07"
 type: article
 quality: 63
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Medical Market to Witness a Pronounce Growth During 2025"
+    excerpt: "LP INFORMATION recently released a research report on the Artificial Intelligence AI in Medical market analysis and elaborate the industry coverage current market competitive status and market outlook and forecast by 2025 Moreover it categorizes the global Artificial Intelligence AI"
+    publishedDateTime: 2020-08-10T07:50:00Z
+    webUrl: "https://www.openpr.com/news/2107997/global-artificial-intelligence-ai-in-medical-market"
+    ampWebUrl: "https://www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 60
+    images:
+      - url: "https://cdn.openpr.com/T/8/T810604764_g.jpg"
+        width: 696
+        height: 392
+        isCached: true
+  - title: "Global Artificial Intelligence in Military Market is Set for Lucrative Growth During 2020-2026 - Zion Market Research"
+    excerpt: "Zion Market Research Reports added Latest Research Report titled \"Global Artificial Intelligence in Military Market is Set for Lucrative Growth During 2020-2026 - Zion Market Research\" to its Large Report database."
+    publishedDateTime: 2020-08-11T10:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-military-market-is-set-for-lucrative-growth-during-2020-2026---zion-market-research-2020-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
     excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
     publishedDateTime: 2020-08-08T03:31:00Z

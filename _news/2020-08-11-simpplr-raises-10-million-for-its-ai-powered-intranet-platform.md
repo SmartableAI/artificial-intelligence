@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1024
         height: 690
         isCached: true
+  - title: "WISeKey Invests USD 5.5 Million in German Artificial Intelligence Leader ARAGO for 5% Stake; Integrates AI Technology into its IoT Platform"
+    excerpt: "WISeKey Invests USD 5.5 Million in German Artificial Intelligence Leader ARAGO for 5% Stake; Integrates AI Technology into its IoT PlatformAI"
+    publishedDateTime: 2020-08-11T16:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wisekey-invests-usd-5-5-million-in-german-artificial-intelligence-leader-arago-for-5-stake-integrates-ai-technology-into-its-iot-platform-1029492896"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
 secured: "IHrx5ECfRCphnI8sgLqlRu7wPViIYYP+TAaEnm0hJCCZSw5dIF1HmpfJ+oAGnYsZh52oFyAyNueN9chy5rGsOeb9/0wF2CdSpgdXeAYYgmw72NLq+W+1E82vymNKS7BspTDcASm06UvuPx0LYveT8PhuHpkaOvLgu1rALHlg+EHuXHtLiHxgxr0ZfJi3WEJ2n0N6ItzZ8Puq7LJpgaFgOpIRBdbgF/drxVG/DdgOW/gDb2ZCSTHkXS333ydzHge3axkMRKRrIMuhUk9W6ukfkPkUj0DWasUC9bkWxf438S4lARjP+UeIVmjo/k1uN/GCKzQmIiRJ+YoEUToObp1VN6/D/3Yzg08ALlI4R8/YLu8zGD2LUnnSzcRSvPYHArCbseo4b1sc1fho2eomM/WtxwCmymRkkI5J5mDyAm/UEd6NtDzrYJGjdM6UpUwS2Z0Wgd8fPLSv0zp5Ke2Bt6j3hV2oOf2gbEHPFJ6Z3ECa0bJDs7uvB8NlhMllgH7NumIm;04RWyh1wWcnNaRv/UxFBVA=="
 ---

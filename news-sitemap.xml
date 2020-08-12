@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/increasing-the-relevance-of-your-amazon-personalize-recommendations-by-leveraging-contextual-information/</loc>
+    <lastmod>2020-08-11T16:55:14-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy/</loc>
     <lastmod>2020-08-11T14:04:50-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,12 +33,6 @@
   <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918</loc>
-    <lastmod>2020-08-11T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -571,7 +571,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.kmworld.com/Articles/News/News/Hylands-latest-advancements-include-handwriting-recognition-142178.aspx</loc>
+    <loc>https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142178</loc>
     <lastmod>2020-08-06T07:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -727,12 +727,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html</loc>
-    <lastmod>2020-08-05T07:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/</loc>
     <lastmod>2020-08-05T07:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -741,6 +735,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/</loc>
     <lastmod>2020-08-05T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/hyland-releases-foundation-version-of-brainware-intelligent-capture-301106713.html</loc>
+    <lastmod>2020-08-05T06:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1039,7 +1039,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054</loc>
     <lastmod>2020-08-04T05:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1117,12 +1117,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997</loc>
-    <lastmod>2020-08-03T16:23:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing</loc>
     <lastmod>2020-08-03T16:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1135,7 +1129,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.law360.com/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
+    <loc>https://www.law360.com/bankruptcy/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
     <lastmod>2020-08-03T14:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1245,6 +1239,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/</loc>
     <lastmod>2020-08-03T04:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-9149653</loc>
+    <lastmod>2020-08-03T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2941,14 +2941,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html</loc>
-    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23</loc>
+    <lastmod>2020-07-23T10:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in</loc>
-    <lastmod>2020-07-23T10:15:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html</loc>
+    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -3,7 +3,7 @@ category: news
 title: "The Robot Scientists Are Coming. But That's Not a Bad Thing"
 excerpt: "A small but growing crop of machines is learning to design and carry out its own experiments. How will this change the future of research?"
 publishedDateTime: 2020-08-10T13:03:00Z
-webUrl: "https://www.discovermagazine.com/technology/the-robot-scientists-are-coming-but-thats-not-a-bad-thing?ref=hvper.com"
+webUrl: "https://www.discovermagazine.com/technology/the-robot-scientists-are-coming-but-thats-not-a-bad-thing"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 433
     isCached: true
 
-secured: "d5eUIGGdb73ZN+zfoY977mdA38z+B7z/VuV7+xv02xmTbcLcihsdJRnjE8N6CFodD5cv1GGA9peLURHoIhTj5X9FNuJLitbBrmWefR7LW4ygmjjepKhUoh8c09ALTdWy7PcTrRPFzh3yKQCDY4p/73D/bzuORQ5UYG9l4iZJqDxRjELxGnCZZvDZR6PwiTQbyua1D3J4wBNV28swjL2NjE3DYouvGph4gxECI6tcn7sR0sJRDoP5bGPxrhxYAXofubTJljqh0tBo0rf4x+Kk61Fi5sR6NUeX1c/6KxC4hU2hQJYAkQQcC4eTw/fVZxZkby+iVUt/sFIVoSAgsiYZQQ==;oNRi1CtPR6kq9EI9UWfKkw=="
+secured: "AAmiuQwcp2KQw2JowQux26Id3OArs0nejsCTZXxIBm74ve7UumBwb8O/JH0D8wMHHxamsSl8IL9N7rZxKFHg9K6M3xeDwGOTyMI0tFy79hbc8cYkUOU3bW5mxO0Q7qe05vbEQ0ZHg5gkL5IkIUm3AEPnyjtysh40bhx9JFoOyvc9AqO4ParJH4K0lZ8a62zk9+n7lnTl+ttvq6OIGH/G++WrT6fj0ZuTnvOCWy4GpdYeNEkblkrVR2JSBOJsVYDpPEtRU3ejz1cmzMEz2yQ9pynX3RBw7UdWt4PpqhvLK91RzSj95i3pxBdMeXgzgtkxYPb3OKM3ieKCrn4fGPtIYQ==;b52GcbzkLoRX4Xv5Xa4eXw=="
 ---
 

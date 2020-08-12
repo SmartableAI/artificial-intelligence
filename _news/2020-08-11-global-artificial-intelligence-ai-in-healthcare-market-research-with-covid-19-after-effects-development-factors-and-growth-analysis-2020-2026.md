@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size 2020 | Industry Report, COVID-19 Impact Analysis and Scope-2025"
-    excerpt: "According to the latest report by IMARC Group, titled \"Artificial Intelligence in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence in healthcare market size experienced healthy growth during 2014-2019."
-    publishedDateTime: 2020-08-07T06:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-2020-industry-report-covid-19-impact-analysis-and-scope-2025-2020-08-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Inclinations & Development Status Highlighted During Forecast Period 2019-2025"
     excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
     publishedDateTime: 2020-08-10T12:07:00Z

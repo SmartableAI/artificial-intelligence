@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence as a Service Market Size to Witness Huge Growth by 2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence as a Service Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence as a service market is poised to accumulate considerable revenues by the year 2025."
-    publishedDateTime: 2020-08-07T06:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025-2020-08-07"
+  - title: "Military Artificial Intelligence (AI) Market Insights, Technology Advancements and Global Outlook | 2020-2025"
+    excerpt: "The Global Military Artificial Intelligence (AI) Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue ..."
+    publishedDateTime: 2020-08-07T09:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-insights-technology-advancements-and-global-outlook-2020-2025-2020-08-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -56,6 +56,20 @@ related:
       - url: "https://cdn.openpr.com/T/8/T810604764_g.jpg"
         width: 696
         height: 392
+        isCached: true
+  - title: "Insights on the Facial Recognition Global Market to 2024 - Key Drivers, Challenges and Trends - ResearchAndMarkets.com"
+    excerpt: "Our reports on facial recognition market provides a holistic analysis, market size and forecast, trends, growth drivers, and challenges, as well as vendor analysis covering around"
+    publishedDateTime: 2020-08-08T03:31:00Z
+    webUrl: "https://apnews.com/07cf0c568e784ed79333d3f3ce53bde2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "b8p2D/hOOBOd5B/8KMTRJMwMzihPgMPBkuXeCs6W1YXIy+gEQ2Llc5w2dEpmYEokFFKwsvmv+Z7mhYdqxodlxyhB4/Ior98hNLA0eM8oE1WfFUA+4vpv0yYk4xPtZi+lsQYQnh5UHmQ8AJvxnyCCjzZYdB284SMbHfcPurHOVgEWIGG2bKYMvy1s7+kNpTL/xGocUhUWVL4dWlBt9F0VxrfZf0/wHEfjsThnPiZIxsjYn1tJJk+hw3/ePUfJB48d4ZS691yshqMcR/D8kntIcpzxPq7v2XGKYW6WYTry9NxOpAE5J0KBjnTdANbSR+Ve8DP8D9+oSsUe+b5pC/Hz0A==;qZLUUnA1gSAyXzQcaf8gQQ=="

@@ -148,7 +148,7 @@
       "title": "Hyland’s latest advancements include handwriting recognition",
       "excerpt": "Hyland’s latest advancements include handwriting recognition. Hyland, a content services provider for organizations across the globe, is releasing Brainware Foundation, the newe",
       "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/Hylands-latest-advancements-include-handwriting-recognition-142178.aspx",
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142178",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1323,25 +1323,43 @@
       ]
     },
     {
-      "path": "_news/2020-08-05-hyland-releases-foundation-version-of-brainware-intelligent-capture.md",
-      "title": "Hyland Releases Foundation Version of Brainware Intelligent Capture",
-      "excerpt": "Hyland, a leading content services provider for organizations across the globe, announces Brainware Foundation, the latest release of Hyland's intelligent data extraction and text",
+      "path": "_news/2020-08-05-expert-system-raises-294-million-for-ai-text-extraction-and-analysis.md",
+      "title": "Expert System raises $29.4 million for AI text extraction and analysis",
+      "excerpt": "Expert System has raised $29.4 million to bolster the development of its natural language processing technologies for enterprise customers.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html",
+      "webUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T07:25:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
+      "publishedDateTime": "2020-08-05T07:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1350,7 +1368,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
         "AI"
       ]
     }

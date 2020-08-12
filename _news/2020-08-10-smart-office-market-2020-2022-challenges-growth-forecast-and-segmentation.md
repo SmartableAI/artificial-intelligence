@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Smart Office Market 2020-2022 / Challenges, Growth Forecast and Segmentation"
-excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have ..."
+excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized ..."
 publishedDateTime: 2020-08-10T06:09:00Z
-webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10"
 type: article
 quality: 51
 heat: 61
@@ -43,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "YJkYk4yGULDqrQhOdZPWoESHof1uH6+U7MlNXUe5LQhPxu/vIzT0+BqvwUM4zxy/zO097VzPPo7ri6RU5pvVQ4uwi9MnR6lK6YGHbVXwNFGPmUmMmtOHaAnvNpZFUnQOHCHGaMN6zNBRnO4rQQRfTTgqJ0t5D9oplpM1RQlHlCS2sxQY3mxJurktx2feCxQCj/1Hnb8O6dz5fcci004ze5OKxzpgDfgGzHbu6A0OO6PboAHnQkvShMv3tBMi8guCsl0Y+okhp+23J/90vYCVeGrUNHInr/55LCbi2bAOJ1F1KVq4troZ/Eh3gblpQrch7/X/bIJ+EBR22hIU11/hYw==;/Pg6FNO9h2wvsPsRYQm7Bg=="
+secured: "i+eqnuj4zyg71Q/ubmatJHE9KgtT2tM56KHgG8A1HfSa21Pzk4WqTbxEA+1Q7lilcbEEDJ2PBhn/I69iwP/jkkGP4Jn55dH+kAbNepKIQ4ZcAky9ulpelu+NwoMS1tv7xrlr+0SQdny/jdAr6eirkhFYfwB9a4CgU79+uqAajrP9L6ymj/t5SQDJromrXVxRTfaipZEoOMg8532ZJa63v3CDjC2SKmCC+VtgDIHFor1LHoAxBvn71tDxDB8fuDa8CE9oS2JUN2YrcWZoarOS6wOxWgjm1C1bc8Jib85PG5F0AHjinBA/TdLoj29/sA6PtdQy7EjROLah0Zt88eBm4Q==;yuMGdbyzMwKh2si/OkICLA=="
 ---
 
