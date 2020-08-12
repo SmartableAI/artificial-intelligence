@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "fundbox"
   url: "https://twitter.com/fundbox"
-  followers: 7809
+  followers: 7807
 
 size: 51-200 employees
 yearFounded: 2013
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "kN677AGtPpwEPP+w7FHKjpsSAtU+eni95jiND3m3L0/D8DFCXTLsRBlKwv8bBB3V8sTWfuwWPaJqnNCycMqbaF+gRxiWzF5+EsxyVKhBm0G0nL6p+hhUOjVvDByM6CyVRbCRjxMB09mhiAzg2AxMaHjsgG++k1Jdw5VcTuEBskETO8iALK/KOYE1yvTrnv4ytmuSlajh107avCbglLoyPy+SIp03LmJUX9wXQav3HCp+CCDBVmJVaopA/66b63N0z8M5E2XVYr9Ryvsf6sLPeW0azpZQzFTzSiveIvr4KddIAW7BtEUtlI7DBvXjUn6IYpi+A6/W1yUUsW/jzw0N/5ERpcf+RMzF5tAXr57w0ynGdYXUOAOujcAr68WORLgx;SSBjGRSBPd/VyZD9Hsh2yQ=="
+secured: "Ta2bnyplqWqTJ9x3mHsczt1ctE8chxPKUMg8nX/bHIM3rxj5/eepzC+Eg8f7ZpjLyEp25qYrlD4FC8w1ztVgDzCtT4dTo2VmZDnrB3hfIRyYG4BFkVActBkYel6FL9TzeJdv+fcqUHkGRi14r/IQcN3RiORQgH3t5MnJTuKzs9FJh8mr2dAnlbBuW1OOePkuNGdjTYnXhyV5Sjjmc2bV/i20w719EeRjMGLl3nHxQh8UTa15g2sRtjiTlIlBGxAvvF0x3H6SBF6lOP9y8MZU9sPZeyvhvQ0IOUUJdz5fbjeKo2Y/CF+Ej6VugCutTS7eFcly8jb3hZNeOQn5GrXXa6B3NjJjuxSO1y1/I2A/bgsFvHjRet7Xhf4beIY4ra46;NQEY2pJDrX15obM+1oBZmQ=="
 ---
 

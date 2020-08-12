@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "trinthq"
   url: "https://twitter.com/trinthq"
-  followers: 1791
+  followers: 1790
 
 size: 11-50 employees
 yearFounded: 2014
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=CP-0vxaBKbo"
 
-secured: "FHvM71wA7R23ErLEjy18Uq7uRqS84km9UFWxtMGTc/ZFhd3zfpp6fdxD5yn+WRts46PFBBZGeZxnmQolrryPo/u3ne6Z9kr0Das9QtyhPTdXIGLUGTZ6R39G+EwuIEic9jvgY/IUaFZ1EbIT94dy8iFqUfAJJIAFoeTD/nG9x57RSVpALXQoJnnR/IUtGdXi156ktOVMQUrxyl2ves0jRaAzVBLFjffGqcpek0HItrWovyEapwU8lHvGOwPr/4LRSDm1qa53obvbwDjGFshzOJsSVffasR3lD8JtgaKzBp69EWH+89crmmq3RWA13G8sVc4orqfO16NgnIKI7zTwF3IUNbogt3+axStEz3Zm4xmZ/y1nTMoVp8McNtjofmzT;Mx8zMhUlxELBbuvWDMgI4Q=="
+secured: "Nc7VtJjWwYDdjr/7Oxnxsnd/McbDvghmkKd3VxcX2LqycQa0fcy4tleXq55y+jvguZWFfVX5G/zs7ISHRl00KZhxGRFOE2rwov63/iMLHWZc3+Emd1EYGDN2hMeODtraoXyde+Qqblhwi4EuYUi2zZ6AqV7/qZfMiBXeEWZOvk4AQq9Ul7dPEHbfLO3lmQoe7NXnDjwmWvDZpvmWFhQDQWy9hkRtMf35Ns7nKn/HdMmjrDXUP7TQpU+xgNB0VgE3Tm5/xpK2O3zYK32YTwuY6itkaSywRrVVCn6+AcPDQwEVuQkdOg7bGbhgE38bHnLjx+acdo81Qg/hdrVWrcaT/zwvfEDc7wC+Cze7KZFNf8LBoSY7fLdY1UMZdk4u51hz;VijRplxYqF35LqEevfef2w=="
 ---
 

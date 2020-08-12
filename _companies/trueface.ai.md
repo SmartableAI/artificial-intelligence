@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "trueface_ai"
   url: "https://twitter.com/trueface_ai"
-  followers: 1593
+  followers: 1592
 
 size: 11-50 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=j3cvmYhrgKU"
 
-secured: "mAxDvOJXAh+LzR4uoTB2E1Tr3/3nsNPswv3cDDQto2PkuD+UGgzskkR8jL6zJXgVJpPwnQT5yaRCUKpB78o+zCM9WhW8ln2SzOxLhl2/M5mBPOEquUew6lAORTwrfWq+LjI6mlUUoogE6iWt5PD9CDGiUsLsuFECSj0uJMEuHLDSQMqX4klarmyFF8uB09EslscG0gLqIBR30BPXm2vEKpvCKAulDMGRplAX4RPDOz6JIIovtv6bdGWclyyfWh75GRAjbLdTmeQEGVfyLqByU+890kIvSVUkfoBM5ExFV9Sa2YOftfP+tyvJyfMa7xaY+868/aJLWYmtv76esrJTagZ3Q6mKbB2h2QyjpQV2DuNiga933sayjjXW4k6JdATw;VfYDbfPs53MnoxtjVIIZmA=="
+secured: "4/7m44cc4t8np0pNxOpIV4H/h0MnjziKLYxhIyHT8yPS4JaU4qZfzGjDPFzKFrW/csqB0rZtSheb2ItW4AYHv9KseimKNUWVi+YvnfKAxVmsuOUD9rk7uBFjKfF1aNfaXHwVQZgGhM5m13q+IRZgATMM8yH2Xg5HLN8CaYQ3Bx4UG59L9GXafGt4H8GNO/MdXDjouxGv+sb4l7K0Yh74QIBrH2zRHkyRh1zz/PRB6r6Ody0eAjbAcwka1WSe+HCg2Kb3uGJL3e6vowPXmv2xWdHT6XeaZAt8VBw3Gpwbbf07VQHGMl26YFMI3S3oA0lZZhir7mPSlapZds5Gs1cx2Z9IK8JkAe1xwN85FukT6PKAYeI2Hro2Ppxamc8yGk/i;FINWWMtEUoB0UNzU9qjDrg=="
 ---
 
