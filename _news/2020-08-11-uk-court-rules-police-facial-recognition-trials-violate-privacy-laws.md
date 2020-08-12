@@ -126,22 +126,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Macy's faces class action lawsuit for use of facial recognition software Clearview AI"
-    excerpt: "An Illinois woman filed a class action lawsuit Wednesday against Macy's, claiming the corporation's use of Clearview AI facial recognition software is an invasion of privacy. Clearview is a research tool used by law enforcement agencies to identify perpetrators and victims of crimes,"
-    publishedDateTime: 2020-08-07T15:05:00Z
-    webUrl: "https://www.cincinnati.com/story/news/2020/08/07/macys-faces-class-action-lawsuit-use-facial-recognition-software-clearview-ai/3315099001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3315099001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3315099001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/05/PCIN/4d576e5c-5bd1-4c28-bda1-6bd46d182c21-020520MacysHQ_09.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Police use of facial recognition violates human rights, UK court rules"
     excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."
     publishedDateTime: 2020-08-11T21:08:00Z
@@ -310,6 +294,17 @@ related:
         width: 685
         height: 385
         isCached: true
+  - title: "Police use of facial recognition found ‘unlawful’ in court"
+    excerpt: "In a landmark decision the Court of Appeal has ruled that South Wales Police’s facial recognition deployments breached human rights and data protection laws"
+    publishedDateTime: 2020-08-12T09:36:00Z
+    webUrl: "https://www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court"
+    ampWebUrl: "https://www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "Landmark UK court ruling finds police use of facial recognition unlawful"
     excerpt: "Privacy campaigners hail major victory against surveillance technology in world's first legal challenge against police"
     publishedDateTime: 2020-08-11T15:21:00Z
@@ -382,6 +377,15 @@ related:
         width: 750
         height: 430
         isCached: true
+  - title: "Police Use of Facial Recognition Ruled Unlawful in World First Case"
+    excerpt: "Police Use of Facial Recognition Ruled Unlawful in World First Case. Liberty celebrates verdict but South Wales Police may continue trials"
+    publishedDateTime: 2020-08-12T09:15:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/police-facial-recognition/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "Kuae6klIFfiQW+9JBz6eDAOts07D+isv93Fcs/FaGaKfFz1n9HkmkgxYn+pDFtjc9NrFZze1kJTA9k6gkMWuAv9d/aORFd433FPv2FOCWA/DAU44uMpufr3aNYtcU0R3ElZDdtunavbFoBI9rWXpY7N8HwAu2d/0naXQMqHoX+2tBkfaEv92Z9WFezta2Y9ByiQyCqV1aY3DCdUccrc8NppPUtonSOu2r/Vk5+LXeueD6VdYhs2ubCZSghgq1w0dC8JXDZSy00Px/k5VSeT55+DYQRafTLll0ZBPHI/spXRFbZ8hgsF6+5Q61g3FHYarvZn0P2xM1FIa7u4hlzv18xlDOZQB4wHqopyEc7vGfrBjmKo1d/Hg1fvvrWTrjh0C7sHCROpGK8mRRCEpAUoutbQlUskCP0j5Yq2Bhtc7IMsRmwrXwZ9UvTosGzktNBnfIwpa9ZJ5pakDTSyVmcwPFUTOIfa0Z0ysd6rsxEmtA7itW0qPpmzggZZrG2M8Oo0+MQARbwjFTgnKnBzMQBMKvg==;AcgwyVU0grfuDipya/ZBIQ=="
 ---

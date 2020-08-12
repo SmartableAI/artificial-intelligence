@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-12-fintech-unicorn-lufax-backed-by-chinas-biggest-insurer-ping-an-said-to-be-secretly-applying-for-us-ipo.md",
+      "title": "Fintech unicorn Lufax, backed by China’s biggest insurer, Ping An, said to be secretly applying for US IPO",
+      "excerpt": "Lufax, which runs an online wealth management platform and retail lending technology platform, has hired Bank of America, Goldman Sachs, HSBC and UBS to bring in investors, the people familiar said. A spokesman for Lufax declined to comment on any IPO plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3097078/fintech-unicorn-lufax-backed-chinas-biggest-insurer-ping",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/08/12/19cde46c-dc6d-11ea-b1d3-42d340dc91a3_image_hires_163731.jpg?itok=aJCauXnP&v=1597221458",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3097078/fintech-unicorn-lufax-backed-chinas-biggest-insurer-ping",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3097078/fintech-unicorn-lufax-backed-chinas-biggest-insurer-ping",
+      "publishedDateTime": "2020-08-12T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-ai-based-approach-to-make-the-supply-chain-more-sustainable.md",
+      "title": "AI-Based Approach To Make the Supply Chain More Sustainable",
+      "excerpt": "It has become imperative to leverage the wonders of AI to make the supply-chains immersive, improved and hassle-free",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354613",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597218741-supplychain.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354613",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354613",
+      "publishedDateTime": "2020-08-12T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products.md",
       "title": "4 Hard-To-Ignore Reasons Why You Should Use AI To Make More Intelligent Products",
       "excerpt": "We are seeing more and more companies that use artificial intelligence (AI) to make their products smarter, from speakers to coffee machines, and from cars to yoga mats. Every company must consider how they could create more intelligent products using artificial intelligence (AI).",
@@ -595,7 +695,7 @@
       "webUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1132,7 +1232,7 @@
       "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 319,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -1338,96 +1438,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-new-machine-learning-tool-predicts-devastating-intestinal-disease-in-premature-infants.md",
-      "title": "New machine learning tool predicts devastating intestinal disease in premature infants",
-      "excerpt": "The pilot study was presented virtually on July 23 at ACM CHIL 2020. \"It's amazing how we may be able to use machine learning to stop this from happening to babies,\" said the study's co-author ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-newmachinele.jpg",
-          "width": 2879,
-          "height": 1919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp",
-      "publishedDateTime": "2020-08-11T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india.md",
-      "title": "Singapore’s trade finance startup Incomlend raises $20M led by Sequoia Capital India",
-      "excerpt": "Incomlend, a Singapore-headquartered startup that operates a trading platform to connect exporters and importers with investors, has raised $20 million in a new financing round, it said on Tuesday. Sequoia India,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1143842082.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/amp/",
-      "publishedDateTime": "2020-08-10T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

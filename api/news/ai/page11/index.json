@@ -2,6 +2,138 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-30-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-self-driving-startup-argo-ai-hits-75-billion-valuation.md",
+      "title": "Self-driving startup Argo AI hits $7.5 billion valuation",
+      "excerpt": "Since then, Argo has focused on developing the virtual driver system — all of the sensors, software and compute platform — as well as high-definition maps designed for Ford’s self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/argo-ai-ford-miami.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/30/self-driving-startup-argo-ai-hits-7-5-billion-valuation/amp/",
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-which-countries-will-win-the-global-ai-race.md",
+      "title": "Which Countries Will Win the Global AI Race?",
+      "excerpt": "\"It's not that China is trying to get into the AI space; they are in the AI space and they are probably a bigger player in artificial intelligence than most [of our] leaders in the national ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race?context=amp",
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-gaetz-hammers-google-for-support-of-chinese-military-despite-ethical-concerns-over-helping-us-forces.md",
       "title": "Gaetz hammers Google for support of Chinese military despite 'ethical concerns' over helping US forces",
       "excerpt": "In a virtual testimony before congress Wednesday, Google CEO Sundar Pichai was grilled by Rep. Matt Gaetz, R-Fla., over allegations of advancing China’s Artificial Intelligence (AI) capabilities after refusing to work with the U.",
@@ -1232,129 +1364,6 @@
         "name": "Odisha TV",
         "domain": "odishatv.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-global-artificial-intelligence-in-retail-markets-2020-2027.md",
-      "title": "Global Artificial Intelligence in Retail Markets, 2020-2027",
-      "excerpt": "The global artificial intelligence in retail market is expected to grow at a CAGR of 34.4% from 2020 to reach $19.9 billion by 2027. The growth in the artificial intelligence in retail market is driven by several factors such as the rising number of internet users,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16822677/global-artificial-intelligence-in-retail-markets-2020-2027",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16822677",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16822677",
-      "publishedDateTime": "2020-07-29T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026.md",
-      "title": "Speech and Voice Recognition Market Strength, Major Type, Key Application And Leading Companies Forecast Till 2026",
-      "excerpt": "Jul 29, 2020 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-strength-major-type-key-application-and-leading-companies-forecast-till-2026-2020-07-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
-      "title": "Japanese Robot to Clock In at a Convenience Store in Test of Retail Automation",
-      "excerpt": "Following that trial, store operator FamilyMart says it plans to use robot workers at 20 stores around Tokyo by 2022. At first, people will operate them remotely - until the machines' artificial intelligence (AI) can learn to mimic human movements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/reuters/2020/07/29/business/29reuters-japan-tech-robot.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

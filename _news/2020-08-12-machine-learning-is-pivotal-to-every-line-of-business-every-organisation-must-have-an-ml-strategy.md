@@ -7,8 +7,8 @@ webUrl: "https://www.thehindubusinessline.com/info-tech/machine-learning-is-pivo
 ampWebUrl: "https://www.thehindubusinessline.com/info-tech/machine-learning-is-pivotal-to-every-line-of-business-every-organisation-must-have-an-ml-strategy/article32332475.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/machine-learning-is-pivotal-to-every-line-of-business-every-organisation-must-have-an-ml-strategy/article32332475.ece/amp/"
 type: article
-quality: 31
-heat: 31
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -19,6 +19,8 @@ topics:
   - AWS AI
   - AI
   - AI in Finance
+  - Google AI
+  - Machine Learning
 
 images:
   - url: "https://www.thehindubusinessline.com/info-tech/vi6o9r/article32332474.ece/ALTERNATES/LANDSCAPE_615/Swami-headshot"
@@ -26,6 +28,6 @@ images:
     height: 384
     isCached: true
 
-secured: "6FzhuNyqlGWFOAi+ZF+/mmIvcvxKR83qib4hK2tkvaHRzppy2+L4gKpypDuSJG0Bp7cdJI+GxBA+sDkM/wgeCk4YhkLvnz5RBEMRHp1heyn8fILPfvV2+1eC4krybSRAUPbF0MIUd9+Lvri1BI9Mp+wD1FkdIsXRMck1+BrcoFdPlRI7KxuITrRu5bm3UV0yqsrmLo41r1nn8iFS81wkW/8nVBh7y3nLuCcfJ2B8+wOV6QW+s3Hd0JmzqoYbklJg6Ple6f1nuJw1GboSmZewxWWsbipmX+HUMWBwto00jX4AihNjn1RabuFZqtO52k9tQxPr4V0p7KYi47t18a9/rw==;BxE22A7jAgN7iQouvzFknQ=="
+secured: "ImZ150SBI2N9QLvLpc6CHBkb0hncoP5JJnlRTofidTB6q206n0FuzHYzAWafN7CYZnq/1U4Sbn6TOB2PjZBf3lSMSIYbASnpPdk6Zv14xCRjw7XrC2KhTzC9R8ctuLIvLLN0MF8C3yQtjdZOVk5zkO4TxMVdmeNI9MbQNHEfNri/lxHrVhN4EkCmHKMxaSu/URaGxqLclToiLNLrxLtTxdlm2F3qcbRDFUFnAnguDwkqlkOJ344YYs0pb2FJIPZ/8+hmIsmJNLAcPaPjE+KPAvEMq5bOkslNXDIo233omyfXlWPE8c7MywCUoqhyQ14gGE05Esoz+n19FHuPuCXuRN5k08ei20y7NNnSWh5WBKDkS0Rc1cyU+wJXonI/s1pfqxqTUE/FYCIlPcvxVmgWluuT7sUmFuWl954AuDmjLWFplo6GKC5STwHGG0vHgYR8+7JWe69eSH5uZGj/39Cn9vRQ1b6a5jayRPubsZI/n6ZrBUOtfQe3nmGc2EQQ+FCO+JpwefdhE6L1dirwfRp3wQ==;6fSLa87A3nw1vU5V1O9yEw=="
 ---
 

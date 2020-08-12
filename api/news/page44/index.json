@@ -2,6 +2,146 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-07-08-the-best-photo-editing-software-for-2020.md",
+      "title": "The Best Photo Editing Software for 2020",
+      "excerpt": "Cons: Interface can get cluttered. Ineffective chromatic aberration removal. No face or object recognition. No Mac version. Bottom Line: Corel continues to add new photo editing possibilities to ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/photo-editing/8546/the-best-photo-editing-software",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/guide/t/the-best-p/the-best-photo-editing-software-for-2020_whkq.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-ibm-to-buy-wdg-automation.md",
+      "title": "IBM to Buy WDG Automation",
+      "excerpt": "IBM has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
+      "publishedDateTime": "2020-07-08T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-googles-data-qna-is-an-ai-service-that-helps-business-users-get-answers-to-analytical-queries.md",
+      "title": "Google’s Data QnA is an AI service that helps business users get answers to analytical queries",
+      "excerpt": "Google today announced Data QnA, an AI service designed to help users get answers to analytical queries through natural language questions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/08/googles-data-qna-is-an-ai-service-that-helps-business-users-get-answers-to-analytical-queries/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/08/googles-data-qna-is-an-ai-service-that-helps-business-users-get-answers-to-analytical-queries/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/googles-data-qna-is-an-ai-service-that-helps-business-users-get-answers-to-analytical-queries/amp/",
+      "publishedDateTime": "2020-07-08T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices.md",
       "title": "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices",
       "excerpt": "Imec and GLOBALFOUNDRIES® (GF®) today announced a hardware demonstration of a new artificial intelligence chip - GLOBALFOUNDRIES.com / imec-int.com.",
@@ -1022,145 +1162,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-special-report-the-state-of-ai-and-machine-learning.md",
-      "title": "Special Report: The State of AI and Machine Learning",
-      "excerpt": "Appen Limited, a leading provider of high-quality training data for organizations that build effective AI systems at scale, released its annual State of AI Report for 2020. The report highlights increasing C-suite involvement and investment in enterprise AI projects as well as data being a key challenge as AI models get more frequent updates in production.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2020/07/Appen_State_of_AI_report.png",
-          "width": 462,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ibm-makes-its-rpa-move-acquires-wdg-automation.md",
-      "title": "IBM makes its RPA move, acquires WDG Automation",
-      "excerpt": "After all, Krishna predicts every company will revolve around AI. While Blue Prism ... Automation into its Cloud Pack for Automation. IBM also added that WDG Automation capabilities will be embedded into Watson AIOps and Cloud Pak for Multicloud Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/07/cdb821ee-ec47-4cc9-8473-cc2c21e0adf4/thumbnail/1200x675/ce9d2a4355f6a9b4cb982a96bcaa3b38/galaxy-unpacked-aug-5.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM makes its RPA move, acquires WDG Automation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
-      "publishedDateTime": "2020-07-08T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-facebook-civil-rights-audit-urges-mandatory-algorithmic-bias-detection.md",
-      "title": "Facebook civil rights audit urges ‘mandatory’ algorithmic bias detection",
-      "excerpt": "An independent civil rights review found the company's efforts to detect algorithmic bias are falling short and leave users vulnerable to manipulation.",
-      "sourceUrl": null,
-      "webUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2020/07/NRP-Civil_Rights_Audit_Report_banner_FINAL.jpg?fit=4000%2C2251",
-          "width": 4000,
-          "height": 2251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
-      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
-      "publishedDateTime": "2020-07-08T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

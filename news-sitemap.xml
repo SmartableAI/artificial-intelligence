@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.scmp.com/business/banking-finance/article/3097078/fintech-unicorn-lufax-backed-chinas-biggest-insurer-ping</loc>
+    <lastmod>2020-08-12T01:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.entrepreneur.com/article/354613</loc>
+    <lastmod>2020-08-12T00:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/</loc>
     <lastmod>2020-08-11T21:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -417,6 +429,12 @@
   <url>
     <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/</loc>
     <lastmod>2020-08-07T22:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/</loc>
+    <lastmod>2020-08-07T18:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1501,7 +1519,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com</loc>
+    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of</loc>
     <lastmod>2020-07-31T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2497,6 +2515,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.hpcwire.com/off-the-wire/research-opens-new-neural-network-model-pathway-to-understanding-the-brain/</loc>
+    <lastmod>2020-07-27T08:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/</loc>
     <lastmod>2020-07-27T08:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2529,12 +2553,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/</loc>
     <lastmod>2020-07-27T06:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businesswire.com/news/home/20200727005159/en/Research-Opens-New-Neural-Network-Model-Pathway</loc>
-    <lastmod>2020-07-27T05:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2983,14 +3001,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html</loc>
-    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23</loc>
+    <lastmod>2020-07-23T10:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in</loc>
-    <lastmod>2020-07-23T10:15:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html</loc>
+    <lastmod>2020-07-23T10:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

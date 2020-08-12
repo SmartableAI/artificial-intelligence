@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Research Opens New Neural Network Model Pathway to Understanding the Brain"
-excerpt: "By combining ideas from theoretical physics and interpretable machine learning, the authors developed a new way to perform model reduction of artificial neural networks that are trained to mimic ..."
-publishedDateTime: 2020-07-27T12:51:00Z
-webUrl: "https://www.businesswire.com/news/home/20200727005159/en/Research-Opens-New-Neural-Network-Model-Pathway"
+excerpt: "NTT Research, Inc., a division of NTT, announced that a research scientist in its Physics & Informatics (PHI) Lab,"
+publishedDateTime: 2020-07-27T15:40:00Z
+webUrl: "https://www.hpcwire.com/off-the-wire/research-opens-new-neural-network-model-pathway-to-understanding-the-brain/"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200727005159/en/755976/23/NTTResearch_Symbol.jpg"
-    width: 1200
-    height: 627
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Intel-Optane-persistent-memory-2020_505x-405x228.jpg"
+    width: 405
+    height: 228
     isCached: true
 
-secured: "cW3LRfBMyFIAvbBHQew/nyZ00c4rFZtpuU98EbYkZGLm1jEVHaLzfTHrW0Bz+qMyp5ulLL3Y/BfuPnMtILQNt0esvXkvtHA5KqoeHLQ2RdujkALa3wr9nBl/kda1Ch5kzrPyHWs12JKuFj5w5Eb+0MkIGrv2Ho7DV9R3WthZGCSx3IDHp6tijsBviVM0Dh0FYu99kc8NxmvVdg6hM//PXVjISya0+LXSJ9cgh9EcmPWYSVaeyx2pBUI2nkFd/1Np59ykVGfIZyQebnRnpK8d3b4jgUvJ+O02yfOxS4uRcMoP1kKlJaXbtLbtxndXD1d208LmfXDznaBomIrsmzrBeQ==;sMFBUXvsep6jceNZ2IDleQ=="
+secured: "5EdveGTueeSOMScPcmj6ugKsRWywCv4xVq0Xj/o7I5sX6qS8gKrWVFa770OH7Eoirz3zcn0MZzsbRggAHbCzjR+cSgD8XZU/FcIipWDMI7SoNKAulGxm6MC/911yjCc1JjhAUvHUteDHmcFwSxH37IBuPQbnujSVQt5TSzki7igZrcE4QZD5nqDjyCeM2QMGHhGapshbzJrndDdef35DhNgHtMxx94vjEyoE612fil9MIA8W6atSxIgDai3uO0we2GBU3kVyHJwshb3PM219Awn5P3VMe0SGVJh5T363b4r7eLngDynhydSKYt5cN0dqBaZumKk6MAEOW5+8hbHH0A==;biIW40AzYQyg9JZqnkkK3w=="
 ---
 

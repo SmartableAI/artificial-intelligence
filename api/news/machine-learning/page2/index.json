@@ -604,6 +604,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-27-research-opens-new-neural-network-model-pathway-to-understanding-the-brain.md",
+      "title": "Research Opens New Neural Network Model Pathway to Understanding the Brain",
+      "excerpt": "NTT Research, Inc., a division of NTT, announced that a research scientist in its Physics & Informatics (PHI) Lab,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/off-the-wire/research-opens-new-neural-network-model-pathway-to-understanding-the-brain/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Intel-Optane-persistent-memory-2020_505x-405x228.jpg",
+          "width": 405,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-mit-csail-employs-machine-learning-to-optimize-vaccine-designs.md",
       "title": "MIT CSAIL employs machine learning to optimize vaccine designs",
       "excerpt": "Researchers at MIT CSAIL designed a system that can identify optimal vaccine designs for a large swath of the population.",
@@ -693,47 +734,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-research-opens-new-neural-network-model-pathway-to-understanding-the-brain.md",
-      "title": "Research Opens New Neural Network Model Pathway to Understanding the Brain",
-      "excerpt": "By combining ideas from theoretical physics and interpretable machine learning, the authors developed a new way to perform model reduction of artificial neural networks that are trained to mimic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200727005159/en/Research-Opens-New-Neural-Network-Model-Pathway",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200727005159/en/755976/23/NTTResearch_Symbol.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1005,23 +1005,41 @@
     {
       "path": "_news/2020-07-23-artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel.md",
       "title": "Artificial Neural Network Market Growing at a CAGR 20.5% | Key Player Google, IBM, Microsoft, Oracle, Intel",
-      "excerpt": "Market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024, at a Compound Annual Growth Rate (CAGR) of 20.5% during the forecast period. The major driving factor in the ANN market is due to the growing demand to train a large volume of data sets with low supervision to drive the market For over a decade,",
+      "excerpt": "The global Artificial Neural Network (ANN) Market size is expected to grow from USD 117 million in 2019 to USD",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16755993",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16755993",
-      "publishedDateTime": "2020-07-23T10:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-23T10:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

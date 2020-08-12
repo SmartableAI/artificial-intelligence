@@ -60,13 +60,13 @@ related:
         height: 690
         isCached: true
   - title: "WISeKey Invests USD 5.5 Million in German Artificial Intelligence Leader ARAGO for 5% Stake; Integrates AI Technology into its IoT Platform"
-    excerpt: "WISeKey Invests USD 5.5 Million in German Artificial Intelligence Leader ARAGO for 5% Stake; Integrates AI Technology into its IoT PlatformAI"
-    publishedDateTime: 2020-08-11T16:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wisekey-invests-usd-5-5-million-in-german-artificial-intelligence-leader-arago-for-5-stake-integrates-ai-technology-into-its-iot-platform-1029492896"
+    excerpt: "WISeKey and ARAGO will create a JV with the name WISeData.CH and will license their respective technologies to the JV. WISeData.CH JV will integrate ARAGO and WISeKey technologies to develop solutions that help clients drastically accelerate digital transformation in any industrial process though immediately integrating IoT and AI to secure"
+    publishedDateTime: 2020-08-11T16:10:00Z
+    webUrl: "https://www.nasdaq.com/press-release/wisekey-invests-usd-5.5-million-in-german-artificial-intelligence-leader-arago-for-5"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 30
 
 secured: "AbrHLrXzMAjXo6iR9VBrk867w+wqaiYil2JGWEq0jDrLMdE3+zr+aT5PIy6CaxNdOwtrnGHYVLw2SfmflVHHgLy4kZiT9qNLvcHq287a3ZP0M1FT7bgk7Clu5rDZnZ5feG57/qTIf+qDI6INd7vbkHGhwGYzmiHXxTTVhrAh4ifv/pOYjvJeDge7LFLhVQi5kX/4u2d/Sp0lSduI3bYo+NPCo5dSMMKtAsP5xRkkzu6b6URRmAh/3CplgHH1KtBxar/XcxW/CVPk2bDdaWsF9hHm8MGeE9qheKO4Gq69flwvqYMCUoEjw/TP/ydKnZ+qbxd4+4A4me3baQ/sJ0jIjd/XlpH2jTNfeIOQUa9EQVrgeTvturemKXK4pr6jMF8t6o8x8xYq/FB5mwqyRSSXzNaWt39YAKDK2itGdoqrD2rqXBSgnpJMtcsfT3iYhBxekFViSq+pieae6TVSsgNOxtOeLYkEEgc4nli2H/f7cvO3afUDIxzfN3ErV7mOjg1w/KQors3/y1DWjbvie40kug==;yKehTWKlVXQHGExi321wUw=="
