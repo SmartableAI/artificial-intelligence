@@ -2,25 +2,27 @@
 category: news
 title: "UK court says face recognition violates human rights"
 excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
-publishedDateTime: 2020-08-11T14:53:00Z
-webUrl: "https://www.startribune.com/uk-court-says-face-recognition-violates-human-rights/572075562/"
+publishedDateTime: 2020-08-11T15:31:00Z
+webUrl: "https://abcnews.go.com/International/wireStory/uk-court-face-recognition-violates-human-rights-72305642"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/uk-court-face-recognition-violates-human-rights-72305642"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/uk-court-face-recognition-violates-human-rights-72305642"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: ABC
+  domain: go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1597078316"
-    width: 1680
-    height: 876
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -39,6 +41,6 @@ related:
         height: 673
         isCached: true
 
-secured: "BopFw1HxCrcF/ZXHqq4pPydEqa+y808WmPBecHuw+xu2C+JRTml12an95iYvy1e51zd38KsMZFUKQcr8CUkjS3jjCqoIyOPxzORNjaGqhPSuRsBovCua0ZTGqoHsS1pMkOrp7KrORs7LjACZmDc7A5XQ+llRueVbVwyc/RM/ApdA4Nb90N70h6SSsuV3bC6xh0OQKSGXXbOfx4xsUoWUWSNVH7WXLvP9hJ1joU2vtxhSxvqEmj8Hfgklpqug8e4tUv131xmSx/rUxCUrnlxHQmbQcG72F0GR8f2J8ezryv9R65As5oZzcTJtOZjuC+olqEnZ4jEaU8L4Ftza0gUESQ==;QacQgqqPeJk6lmjavT184A=="
+secured: "IZb1BoHOUkwr/6p4LExIVqkBBsEkwI2TxoUPqylsQk2q1K6QCVnpmBbb0jSYM8+BpJJvZNrbeNkMT0+0MiDeyfcEA8kLw088wZiGsXaHnNV7zYacZlXyU8jMi0aLOHSgHW/TtJ0+HwKLPrHJ+tj+ArGA4Yxr2Tv6ab5cWhHZwX0jDqgWvhy4UsopNU/0o1qPzgot0g3NhAymMjGE96rW1r1qnvOkfDWR7xIbNmVGg8IPtVj4gdLwD88RDfSvRY7pk8C5j7pkM2Ts7SQ8O4MmYZMQYhtwu6u8v3N2L+uEd4wWxHIIfDQCAxIOTUZeo63oOOn507r58AurOAfy8fAexw==;lS6ZLENrDQ8DfNs9y5h5UQ=="
 ---
 

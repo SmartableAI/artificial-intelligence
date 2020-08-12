@@ -2,47 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-07-17-flippy-the-burger-cooking-robot-has-a-cousin-with-a-white-castle-gig.md",
-      "title": "Flippy, the burger-cooking robot, has a cousin with a White Castle gig",
-      "excerpt": "Miso Robotics’ robots are designed to speed production and improve the allocation of labor at fast-food restaurants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pasadenastarnews.com/wp-content/uploads/2020/07/PAS-L-FLIPPY-0716-1.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/",
-      "cdnAmpWebUrl": "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/",
-      "publishedDateTime": "2020-07-16T18:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pasadena Star-News",
-        "domain": "pasadenastarnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-16-the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners.md",
       "title": "The Edge AI and Vision Alliance Announces the 2020 Vision Tank Start-Up Competition Winners",
       "excerpt": "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition,",
@@ -1342,6 +1301,48 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-artificial-intelligence-the-case-for-regulation.md",
+      "title": "Artificial Intelligence: The Case for Regulation",
+      "excerpt": "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society.",
+      "sourceUrl": null,
+      "webUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png",
+          "width": 850,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "cdnAmpWebUrl": "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "publishedDateTime": "2020-07-09T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cherwell Online",
+        "domain": "cherwell.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
         "AI in Robotics"
       ]
     }

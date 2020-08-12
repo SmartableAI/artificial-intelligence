@@ -5,8 +5,8 @@ excerpt: "The robots are no longer coming; they are here. The Covid-19 pandemic 
 publishedDateTime: 2020-08-12T03:31:00Z
 webUrl: "https://www.bangkokpost.com/opinion/opinion/1966839/remorseless-rise-of-robots-and-ai"
 type: article
-quality: 39
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/opinion/images_opinion_editorial_1.jpg?v=0.1"
@@ -39,6 +40,6 @@ related:
         height: 580
         isCached: true
 
-secured: "psbHjQRZGYrntBtMOGFjOydx0dVH0Giv5WcQuCPASW8tpPB64nG4RqvbecX+bagYHrhsduRwr+vz4flx2tFeP/hmaMmjlMA4x/y8AhhgSIvjUyCYRU+CBv/dIWtlOpScGZloBClnUCIlroowb2j4ioGlDNfMwYaf/91jX1jHeyW81P0Y4x3BvCQ7wiParV/092nA0x3flMe2RmmNyEIkb2hD1arEfZDcA4wQfSSa2yQJdzfSFHt5i7uVTl9UGxP1GLMJdKcLL9a2RwQYlHHb7TZspWmUGJw4B02eSB4h8ADkFhOQTy8cHNTRwS2EZd7CWpRoKkHXYNq10UoiMINiog==;PqfSse4BsUYH0groFKVHEQ=="
+secured: "p+NsMwpPQnuKeXICZzCYYNnWLVA6pIgcuzIqNfpycrVJo9m+i3jLj8I1H0rpBbpz4iyUxtReYfiSk9NC3vG05cM3MN3Dpw5EvamoFbrHlgieAyDNeneJ5T+sglwt9YInvolQtuZLxcCRwyiQXycCn3TpwvuNRM7s/ISXkevfYLHyPRXd/Bimqz3VoDIMoB1FrL8F3lvbtnAz2VF1Hyg6nMYLZgLhCHfzWE+7XwgwThr4XojhXgejUt6PL2ko3ItEFVSqDHIa+14cvCFug2PRMjIYPW5AQbP/mCkivtoDFvGZ43V7pRWjWSSL+TfusGCzz39cTNxNMe1SUHaHmW8xiUoQui7PC/+FeDRQpHtsUGQNyITnv+kQp0BCGPZRUSH5mPEpqh7IAcYUaXvBnw1YWzgUgxY2hXueB7DxRCl3zsYsY3aa+PmwRS7dIl7MfV/NRLcDs/EuRXZusOH3VKUVaGmI4tOsxOCtmZtZu67PdLaPwBVElwlZJ2ez6XWfLW+B;YARYgHVWyYj0Il+agDXI6Q=="
 ---
 

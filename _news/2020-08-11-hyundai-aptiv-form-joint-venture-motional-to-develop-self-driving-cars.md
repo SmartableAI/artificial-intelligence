@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-mot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Motional-MAIN_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Hyundai self-driving joint venture rebrands, to continue hiring in Singapore despite COVID-19 downturn"
+    excerpt: "A joint venture by Korean automaker Hyundai and self-driving technology firm Aptiv is continuing to hire despite the COVID-19 downturn,"
+    publishedDateTime: 2020-08-12T05:54:00Z
+    webUrl: "https://www.channelnewsasia.com/news/singapore/hyundai-aptiv-self-driving-cars-motional-hiring-13013458"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 23
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13013460/16x9/991/557/16f177045bc0eecbc9296fae46bb6281/oQ/motional-hyundai-joint-venture.jpg"
+        width: 991
+        height: 557
         isCached: true
 
 secured: "Xgy9cNSJK6e0rr02yqbkDng2HJRDWp5FW8Pk+1+cCFBi6a11V+gFnlmXCG84loTqwc6aUDWzT5nEh+ffQTo8qvi9af6ssHRjYn0tJlkzdKXDBUKK92YbZ/+T/Z8A83KNCsUFhwR7rjruv52EbqMv+ukziRpdj03Q0d3U/NpU0RmTQlmldKfpLwxWvff/Iuus4Vyceqc0N6lPWwqBVaMRCxzLRBMvjkcI/sU3mSCYNb6We69D1OzHX7d3d1uKRhbtxxbiW2ABQwbOaBNN1N2FGzgOeBysA53DgyBi1KhA706YwTW7yq2nUcPWNn1zKet0+zQ1LEOXh5e5igdJYxqMq7yWaW4wvIcxunGaTC7XCErthpp4XwIXcsFqGcgBX7AtykLBK/l2msYOlA2/7vOZgEKU8jVZ2jTxJpK+nlfQOIdkTZa8zlR0EEEUaSunLLZSyY+wYNu3zmIuTX/A6l46WtZzW47vFkRqW5HKnnIn3tvEI8Rt25UqwdcjqpqcedUS;5asIdcD0F1GSGS5jOi4vAg=="

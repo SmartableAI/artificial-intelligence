@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T09:14:00Z
 webUrl: "https://www.japantimes.co.jp/opinion/2020/08/10/commentary/world-commentary/economic-effect-artificial-intelligence/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Bangkok Post
       domain: bangkokpost.com
-    quality: 39
+    quality: 56
     images:
       - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/opinion/images_opinion_editorial_1.jpg?v=0.1"
         width: 620

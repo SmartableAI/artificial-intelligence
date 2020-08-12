@@ -116,6 +116,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Hyundai self-driving joint venture rebrands, to continue hiring in Singapore despite COVID-19 downturn"
+    excerpt: "A joint venture by Korean automaker Hyundai and self-driving technology firm Aptiv is continuing to hire despite the COVID-19 downturn,"
+    publishedDateTime: 2020-08-12T05:54:00Z
+    webUrl: "https://www.channelnewsasia.com/news/singapore/hyundai-aptiv-self-driving-cars-motional-hiring-13013458"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 23
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13013460/16x9/991/557/16f177045bc0eecbc9296fae46bb6281/oQ/motional-hyundai-joint-venture.jpg"
+        width: 991
+        height: 557
+        isCached: true
 
 secured: "94rbsDhSWmLE9+Gj5M3BEY4LtzvGCK5QVM/RUQibLoYqq4RS+2KebGq4WBY8N0kFhN+t1zaHtc3IL5X9C7aSkaWj4yjS6qZDBpM5r5xI6bWBTCbnW506TxZwm6C07LLlf+bl/9qByOJousg2b5B5yQLlMdDBlK8AdbxoT1BjJkCt9hH0DQuF0Q5s0p/ai6SR845bZKVhHBecoZPPhPvl5xjy2iiFDo9XxtxdVbFypvQUN4Iumocfqbi/nvjrZoC8YLdiBHGeKCw9PO3WivkWPYCqlAhvWfxPyLhluDd9zUGaOIhgM9YUEjzMUuHj+sGR5SRKBMtu4khfJSjQYYodnzvwgTyrjbx1knV8nd5IHC6RtaZqZF8zEvRF/onlPwLcPXMyp3QYhE0YYzPHHpq8r0FQW9JITwqFpAd1Cnx5N5qS04MYEh0y4M+kJZh/S3VZdSaIp1F2kDrJcWBvgr2y2kV5v1SpSVYrEOX9iuiuz/GmvP2e6QSsuCcCu84pcBu3HYciBFhPTw2LlETyveYLkA==;kpPEIXYBlssC/0TofdOYfg=="
 ---

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026"
-    excerpt: "The Zion Market Research added a new report \"Global Artificial Intelligence (AI) in Healthcare Market - How Future of Industry looks post Covid? Growth Analysis & Forecast 2020-2026″ in its database,"
-    publishedDateTime: 2020-08-07T12:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market---how-future-of-industry-looks-post-covid-growth-analysis-forecast-2020-2026-2020-08-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Research with COVID-19 After Effects, Development Factors and Growth Analysis (2020-2026)"
     excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) in Healthcare Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
     publishedDateTime: 2020-08-11T11:24:00Z
@@ -185,20 +171,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 6
-  - title: "Machine Vision Market 2020 Global Opportunities, Industry Size, Growth, Development Status, Segmentation and Regional Forecast to 2022"
-    excerpt: "Machine Vision Market 2020 Global Opportunities Industry Size Growth Development Status Segmentation and Regional Forecast to 2022"
-    publishedDateTime: 2020-08-07T11:30:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/265944313/machine-vision-market-2020-global-opportunities-industry-size-growth-development-status-segmentation-and-regional-forecast-to-2022"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1596800122.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "Mi1xl/088U65SMFTz9rBZ3wOyQDiSpv6GaVt3F2FeEMyqMOFS9B55RjhLChSVjsZR8Vk9CheMWElgC81uDnzm19oV3R82z2d9KqYxPkTLVt8xj1nDwJ98kR7H6whIsOF9ZNI9ATsje/Y+Z6qGsXx3FdcDjYLCzP6TqgFJx9xL8OHmVad61l6gNhJ67P/IfmheZe/tj+11MDlEHWZXfiTHGJeBv7LZIt3LZY+KeYIpvYfhvULfFazrXYd+cY0UbhlGG7Fw8nK360gVUSPcrHmZrDP64S7cBVaY0itvTrG8fWTijjhqJlS5qwRsvU06xYJbwuVNXGVJj1s7LcKuguufg==;oQL2Bo2c7VLMLUMXySC19g=="
 ---

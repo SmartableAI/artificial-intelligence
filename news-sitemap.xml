@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/</loc>
+    <lastmod>2020-08-11T21:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/11/what-kamala-harris-record-says-about-major-ai-policy-issues/</loc>
     <lastmod>2020-08-11T20:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,6 +45,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918</loc>
+    <lastmod>2020-08-11T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -177,6 +189,12 @@
   <url>
     <loc>https://www.openpr.com/news/2108907/artificial-intelligence-ai-in-agriculture-market-next-big</loc>
     <lastmod>2020-08-10T21:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/itranslate-launches-ai-powered-writing-assistant-app-grammatica-2020-08-06-14183125</loc>
+    <lastmod>2020-08-10T18:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -381,12 +399,6 @@
   <url>
     <loc>https://www.kaggle.com/Cornell-University/arxiv</loc>
     <lastmod>2020-08-08T05:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.analyticsinsight.net/top-ai-robotics-investments-july-2020/</loc>
-    <lastmod>2020-08-08T04:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1057,6 +1069,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.asiaone.com/business/ping-askbob-doctors-deep-learning-model-improves-diagnosis-kidney-disease</loc>
+    <lastmod>2020-08-04T06:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
     <lastmod>2020-08-04T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1095,12 +1113,6 @@
   <url>
     <loc>https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes</loc>
     <lastmod>2020-08-04T04:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ping-an-askbob-doctor-s-deep-learning-model-improves-diagnosis-of-kidney-disease-1029465865</loc>
-    <lastmod>2020-08-04T04:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1159,7 +1171,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.law360.com/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
+    <loc>https://www.law360.com/bankruptcy/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
     <lastmod>2020-08-03T14:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2491,6 +2503,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.hpcwire.com/off-the-wire/research-opens-new-neural-network-model-pathway-to-understanding-the-brain/</loc>
+    <lastmod>2020-07-27T08:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/</loc>
     <lastmod>2020-07-27T08:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2499,12 +2517,6 @@
   <url>
     <loc>https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=8&amp;itm_content=1x6&amp;itm_term=2361344</loc>
     <lastmod>2020-07-27T07:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businesswire.com/news/home/20200727005159/en/Research-Opens-New-Neural-Network-Model-Pathway</loc>
-    <lastmod>2020-07-27T07:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

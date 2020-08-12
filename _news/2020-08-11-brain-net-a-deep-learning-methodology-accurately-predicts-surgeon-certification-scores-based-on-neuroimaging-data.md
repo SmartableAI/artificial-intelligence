@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data"
-excerpt: "In a new article in IEEE Transactions on Biomedical Engineering, researchers demonstrated how a deep learning framework they call ''Brain-NET'' can accurately predict a person's level of expertise in terms of their surgical motor skills,"
-publishedDateTime: 2020-08-11T14:58:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php"
+excerpt: "Researchers demonstrated how a deep learning framework they call 'Brain-NET' can accurately predict a person's level of expertise in terms of their surgical motor skills, based solely on neuroimaging data."
+publishedDateTime: 2020-08-11T20:33:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/08/200811125049.htm"
 type: article
-quality: 32
-heat: 32
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "6oSXFuYr2LIWYX4x1YhACSNxzso4XpfDDuA342PbhmIQSinEbyz017+SWDodSFj2NFaPFV1TNVkPunXi2szr7TTHIFmU3aOs9+DYCxwWwu8qmXy9TEza8M2YrYZ2nAU4CapBqzmJ+4hcqVzJvkVx77EUoSCCDkM8u4+6TZvP2+PtQDGKhD22nc8wVhrxZCJzdft7H/zlHk2RPI6REW1jOAcUG2FxKaGQSvQdqRki37sHPsJWi1tXOW/Bw5/QL779r26JgkMIEdB8bWQpRJFb4+oaAsli1BBYkCBzT0Bm3wO9B6Tdu0mqJkT90gduskF+9ZdOCLq5ggNC+FctMSNavTJ4ErrYc8aRQmB3e76mU3fRavwyfD9cyZSEGH81wf2UzwRTZ/5ne6QRdMKDZnrAKUxQbo1GYqABbgn5b0AHUjTkZbXTD+o4unN1U77FOc72b9NeXpA1BDRoXdNqZF2aqjdLdIpoT/6fQoWcQQWDQQPG+kgRMk1Q5/3ADw3cdsBUje9QJn6euhzgwc/iiy68CA==;PpxrW9gveZBFcmsTMVFM+Q=="
+secured: "gov1IHOcCiSnnkH4JI1op6I+XBCagS+pOdVRyZYDk4/Guzg/rZmyPAooyG9Anaa4R5Ey/gu0RzYsKj9nUgWvg8CWSpA3U2/h1liO44qhCxC6YM/5MOxnF+WcvJTjSx+MVoNlWKl4oyuKzED0K5izfpk6HZnWWzijrp14gi9npNWC2deMomo3nqqpkPprGHD30Oj4YWMUKCPBR45K0jHImSzwqN4Bu+nsbOI6ohQeaHRXGzLLzayMug433ldvHCgwegGu5c13RU91recTnwOI9F0IQJl+kutAdmKLucFS0iVK6wUM7KBXvjopRqX4ybmspcXgtem0E5LG+fDTA2rqcQ==;GiCltJgyh5XdlN7dvSC+Vg=="
 ---
 
