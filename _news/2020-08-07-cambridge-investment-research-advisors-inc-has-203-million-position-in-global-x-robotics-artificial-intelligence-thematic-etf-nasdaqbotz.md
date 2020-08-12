@@ -39,20 +39,6 @@ related:
         width: 1548
         height: 872
         isCached: true
-  - title: "The interest in automation is increasingly bolstering the demand of robotics professionals."
-    excerpt: "Today, more and more companies are looking to work with robots to drive innovation and gain a competitive edge. However, this interest is giving the rise in demand of skilled talent with distinct engineering and skills."
-    publishedDateTime: 2020-08-07T07:31:00Z
-    webUrl: "https://www.analyticsinsight.net/top-robotics-jobs-highest-salaries-india-august-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 44
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/08/Robotics-1.jpg"
-        width: 960
-        height: 627
-        isCached: true
 
 secured: "L7qZ8L6XrOmh29oq9mQl5s82u09k1xuABKlgjAIQtEYCcGaOLhWF+jPvgkC+fWrlQMx/YN4iO8M81G5B3UK9usU6LrHloN1Vxe0eMwPEvAfJM+QKNv7krVP5s3YoUaYvAimBphuNTLV8JYjwY2IK9nnsWQN8VgvKIWvKKf1n74UA0pAfK0PCjDyAbwwRb29TULO+hVyyRS9VLFgAogQMeWXoQw5/3wj6H28jGQczuQ6l5+p/AaFInxkv5DWIeUWL9Ij92AtA05lMJs8JAD82Ie07Ni7qeAFQSc/4LvQV70esFFOG5XrHOPmm3befLsrE54ctnFfN9rhmEo1hr630vA==;l+PxVMUQ8ubL75n14fXWDA=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "Facebook Develops New ‘ReBeL’ Poker AI That Outperforms Libratus"
 excerpt: "The ReBeL poker AI developed by a team at Facebook uses new concepts in self-learning to help it excel at a variety of imperfect-information games."
 publishedDateTime: 2020-07-30T02:06:00Z
-webUrl: "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588"
+webUrl: "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/"
 ampWebUrl: "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/"
 cdnAmpWebUrl: "https://www-cardschat-com.cdn.ampproject.org/c/s/www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/"
 type: article
@@ -16,6 +16,6 @@ topics:
   - Facebook AI
   - AI
 
-secured: "n9jtn/Ae3RQUvcbcom4xYkNRhD2WCxqw+AopSZd0Qcdzl+3bDj+xHBqRwGhxO2fZ32dWRtFETcaThGlRUZbnC2FK2NgFE0Kjd7kLsVBHbyUiwll96zsGpIyuTjx0dEyMLw2ZH1u/cHl8nptnuW3yYq9/Zuc3Q6JuE8d8boSVFWxLGd3INYseWyVC9+hmrNHn5FK6a/bYcPlB/zdm6mHaZUX8Zyz0Esh24lIPYNXMlg8NPWalSwcg+9Fv459uNqOLEmtwYkNjyLFh4LxnezOjTHkRH2bjTfSqh3Bw8a7bDe+EkWifgYaxtLccujt7FNd3As8zDAREcaLqN3OPLKpw9Q==;E3kF2hZZ6i2PB8FlgHdP+g=="
+secured: "vXYz+4RMdvc8+eoDf6hUPbBz0r/wVc3CarLlNhEx9EEkxM+5+JtUnHs+9IbwJD5gGW+2txW7tplkBBDkM26Y+xlu/2cX+wWTUWbgEynGn6yjo17V71dPAtdn25KhVIImxLcix5LuvAbeDy6dPyKKORuRfwdmxrluUapWR+KFJ/PoBOpslEJR0kts3Ofk/sGXOqg5cGOONN3uqMzwy6QEm1MJnUousQhcrRcxBCiVpRI1zp6OkVwPVYBRVnex8I7f3MubgNicI/5X6QaPie3rQoZi1bndQeA5JDm8CxcTaFJTEQ2tLC7LEIkMnyWQPGujddkTUuc4sNi7vcPtj10E+v3CEfIQPdAJUa8qmzHY8eMgHdv3xsnuYlb+NuFQ1OeEtUIFwEbQanop49jsBLaXXV5thgpgSvfBKPlRRwEiexC/HH0BJ5K0vIS/MfsS+XxNStK7neFwid46Ww7JrCw5jtrcEbyHoFoMe5J3zR20nrhf66FwWxa7LZSWNpZiQees;L+TjaTHmIT0i21Mf2qycWw=="
 ---
 

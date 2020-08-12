@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-08T11:41:00Z
 webUrl: "https://www.analyticsinsight.net/top-ai-robotics-investments-july-2020/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The interest in automation is increasingly bolstering the demand of robotics professionals."
-    excerpt: "Today, more and more companies are looking to work with robots to drive innovation and gain a competitive edge. However, this interest is giving the rise in demand of skilled talent with distinct engineering and skills."
-    publishedDateTime: 2020-08-07T07:31:00Z
-    webUrl: "https://www.analyticsinsight.net/top-robotics-jobs-highest-salaries-india-august-2020/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 44
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/08/Robotics-1.jpg"
-        width: 960
-        height: 627
-        isCached: true
   - title: "Cambridge Investment Research Advisors Inc. Has $2.03 Million Position in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ)"
     excerpt: "Cambridge Investment Research Advisors Inc. increased its position in Global X Robotics & Artificial Intelligence Thematic ETF (NASDAQ:BOTZ) by 16.0% during the second quarter, according to its most recent Form 13F filing with the SEC."
     publishedDateTime: 2020-08-07T11:44:00Z
