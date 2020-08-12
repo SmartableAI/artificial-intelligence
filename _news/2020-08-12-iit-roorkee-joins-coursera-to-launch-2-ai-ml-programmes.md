@@ -1,19 +1,17 @@
 ---
 category: news
 title: "IIT Roorkee joins Coursera to launch 2 AI, ML programmes"
-excerpt: "Roorkee ((IIT-R) in partnership with leading online learning platform Coursera on Thursday launched two new online certificate programmes for professionals looking to build skills in data science, Artificial Intelligence (AI) and Machine Learning (ML)."
-publishedDateTime: 2020-08-12T13:06:00Z
-webUrl: "https://www.sify.com/finance/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes-news-topnews-uimmOAfibbfcg.html"
-ampWebUrl: "https://www.sify.com/finance/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes-news-topnews-uimmOAfibbfcg.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes-news-topnews-uimmOAfibbfcg.html"
+excerpt: "The Indian Institute of Technology-Roorkee ((IIT-R) in partnership with leading online learning platform Coursera on Thursday launched two new online certificate programmes for professionals looking to build skills in data science,"
+publishedDateTime: 2020-08-12T18:29:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200812/3608498.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Google AI
@@ -37,6 +35,6 @@ related:
         height: 900
         isCached: true
 
-secured: "iUCO7Qs9d+4gMElxeXIauSqDL9FNGsQRHk+9rOvaLEWrVpMF+YWgVqoPRcMGgK9dO4lLvGAKQwsUVR/bzMHkrxM6AtVNYxqkw9R83AI01S68NNJwtpQ1XUjdd5Rp/iOwxUdcDnXDnWBXFDEo3glWckYi1RjjOxXXtUVr5sKnoBnVB5lxBxMS/Cq0VE/n5UP+3Yu0q5SfWDWO+nZCkXQ17tiR1dE7d1Mmarm6XSqdcVhVjcMXE/Q3spCA+ZsFzRUY2h6htECcRufbxaXx1gemHx+b4axXrfyVLC0SZgN2VeMXWo3t0Dt9taHLFC4e8SFIM9Uv8xzgIIw32HR921Vgag==;qdh8v7LdWXup2Y7ktG4jzA=="
+secured: "rgdeZerhsY8enHaB84RvjNOAr0PqXFCFPoEAzohTOJ3/m7oiJmbVOtyfDAEx7flcG/0cgGG3P/JWQ9igC0ODEW8hWQUWNhuaAcwpwGJnF+pew7CO6DSK8rxJrjt0/wly6um5Xs+zmW+n1rVhnUFLjp/elYm+iItYjS8W+RoOiQypnWP6RqKLaMTbNXOVFAPZHBxzwLuEANbhsooE2c/4ZAwzlS2WEymFwPHp98YWNENleyMDSxXK83+3RG7FifGr5u20SRznUQQg7VtYtH5dNiF1LISVFJSixtm87XhKtnX2EXDDbwHRx9JP47aIEarrMRm3cu+Qgzy/H2Dk9oVyTg==;wFXlmbrDxcpQ0FB2wzyteg=="
 ---
 

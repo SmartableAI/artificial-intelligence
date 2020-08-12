@@ -2,20 +2,22 @@
 category: news
 title: "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer"
 excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have ..."
-publishedDateTime: 2020-07-27T12:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16786243"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16786243"
+publishedDateTime: 2020-07-27T12:21:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "50MJ2FLH7cpOaHm4c90yZJcIiZCA4wzx99AXfhDy5qAvUOLeYbAOd7lQTbqVJeE0weP90HzoR2aOCYY+KnWUhsAG/7jrkER1xy6MHoZnh9S1MjN2QtDUv+CaLdA3v9UnBgPavOjS8l+SN5DedKGrcs0YsFB3tY24fbe09RpF5i8IKN7Qb6zgzpogpCodvdMXQmZ/fAhwIx1zeFEPWv+eSnvWbzS1kgkB1Ng3ULLtUJ2G89XszF7UkO6cKOGFbx3mLn49C7/KRFM1TdLpNVb/rwHJ43lETghlXi3dZt3Uozv+1IH1KdVp4TnXY/sCBiB/wTimFohsJkladqdr5GG8zw==;shqNxDSZYjUtubOdr60C5g=="
+secured: "cwMEinwdpoHVGp+G9EFRdsP5ohhtCCwgDUO8fJE9IkD8qWONwVpcVHSj/JexTKUKmHCQSj/OcP5ptu5N7DmPBl2FPpe1w78F3O7MtJBLSvvoRFjDfhsFKrpVy1O1EnKEOz80Ruu+0yYZ59q6GNE7gvQleIRXoLhhGWghz3s/H9/R2Qsxkyimaz+NjuyKqbAfwAr12x6l1zHGuGx0pvj8xNI3pygrbtSwfULmuLrEMhvuqSXq7oYU90l1C3JYxtcaiQGloT1HDZenRwvQZmvN/Cf7GgUK8NxWl0u+q1nF4xXVHs8nRZlIJTkb0g6Mabt+Dl6p8mOjdY3dLVyeMft9zg==;BTVbL9/sCoTJ0AQRyHkhXA=="
 ---
 

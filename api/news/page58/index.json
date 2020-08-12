@@ -2,6 +2,47 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-06-29-big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof.md",
+      "title": "Big Tech rides out yet another global crisis and piles up big profits, but are they recession-proof?",
+      "excerpt": "Google is most widely known for its search engine and mobile OS, but it has also invested in driverless cars, robots, artificial intelligence, genetic testing, and biotechnology. Facebook is ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/07/24/190724-big-tech_16c24559b73_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
+      "publishedDateTime": "2020-06-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-eric-and-wendy-schmidt-back-cambridge-university-effort-to-equip-researchers-with-ai-skills.md",
       "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
       "excerpt": "Eric and Wendy Schmidt have donated to a Cambridge University program that is designed to equip young researchers with machine learning and artificial intelligence skills that have the potential to accelerate their research.",
@@ -1141,55 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-after-this-covid-winter-comes-an-ai-spring.md",
-      "title": "After this COVID winter comes an AI spring",
-      "excerpt": "The next economic recovery will both be driven by artificial intelligence and accelerate its adoption. This is the time to start an AI-first enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": "After this COVID winter comes an AI spring",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
-      "publishedDateTime": "2020-06-28T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

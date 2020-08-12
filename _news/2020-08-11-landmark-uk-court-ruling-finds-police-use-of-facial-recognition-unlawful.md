@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facial recognition: What led Ed Bridges to take on South Wales Police?"
+    excerpt: "\"I didn't wake up one morning and think, you know what I really want to take my local police force to court,\" he said. \"It wasn't the case that I had planned to get particularly involved in, but it developed organically."
+    publishedDateTime: 2020-08-11T16:15:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53742099"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53742099"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53742099"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "UK court rules police facial recognition trials violate privacy laws"
     excerpt: "Facial recognition is unreliable, dystopian and, according to a British court, incompatible with privacy and data protection legislation."
     publishedDateTime: 2020-08-11T11:39:00Z
@@ -172,22 +188,6 @@ related:
     webUrl: "https://www.bbc.co.uk/news/uk-wales-53734716"
     ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53734716"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53734716"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Facial recognition: What led Ed Bridges to take on South Wales Police?"
-    excerpt: "\"I didn't wake up one morning and think, you know what I really want to take my local police force to court,\" he said. \"It wasn't the case that I had planned to get particularly involved in, but it developed organically."
-    publishedDateTime: 2020-08-11T16:13:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-53742099"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53742099"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53742099"
     type: article
     provider:
       name: BBC

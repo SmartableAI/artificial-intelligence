@@ -28,16 +28,14 @@ images:
 
 related:
   - title: "IIT Roorkee joins Coursera to launch 2 AI, ML programmes"
-    excerpt: "Roorkee ((IIT-R) in partnership with leading online learning platform Coursera on Thursday launched two new online certificate programmes for professionals looking to build skills in data science, Artificial Intelligence (AI) and Machine Learning (ML)."
-    publishedDateTime: 2020-08-12T13:06:00Z
-    webUrl: "https://www.sify.com/finance/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes-news-topnews-uimmOAfibbfcg.html"
-    ampWebUrl: "https://www.sify.com/finance/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes-news-topnews-uimmOAfibbfcg.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes-news-topnews-uimmOAfibbfcg.html"
+    excerpt: "The Indian Institute of Technology-Roorkee ((IIT-R) in partnership with leading online learning platform Coursera on Thursday launched two new online certificate programmes for professionals looking to build skills in data science,"
+    publishedDateTime: 2020-08-12T18:29:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200812/3608498.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "PNlyrhH+0k2dt0Z0q92Hm/5dvhGJz2nkDJZIvbeuqHGezyI6ySOQmvEcCDZco1BDJLqpxhtqr13Ea2j3ACIq67xttnGncjeHgVz+aS5JFD0YdYl5tdf0DeuTGWk0Vg3DQchvyhnsHyWlW/zBlhpOzw8IhUuG7bmjPYbBkJUZSQxcW9vpFH78jhsHhYvbx/bWeiMMEHfvh/IzZr3Tl8CmJCOFfc87BHebhjQ4n3FLf5IhDuYmjvnuXkGictLtZe6HJoR6pMExhIUyJ2y5PaCmh0ZIONuny45qfYRscAA2/qhhGXyN2Xj5DZFMzR8hE/78paFCWojE7rgywO7lBx22vdYxHb7VvcThVZkxKbrLTBnjv4lfg9QFhhW7Lfy1DO4QI6izslkTdrlkUVVV1pKhuWqlpNKoba7SJZttvwFs6mjvvCI4yDIlPTYpbNiQNBtpEeA/ZY7QSCauowp08LkAKRb1A9S70jP77QmiIuoXNjlBmCbGJif2WzgHg7fdEy72X12qwDAaN9q2fDk+UCf1Tg==;n4CRnAf4QZL3+NRtAd+d/A=="
 ---

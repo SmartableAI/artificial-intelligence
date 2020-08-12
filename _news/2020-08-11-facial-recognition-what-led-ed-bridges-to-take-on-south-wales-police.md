@@ -2,18 +2,22 @@
 category: news
 title: "Facial recognition: What led Ed Bridges to take on South Wales Police?"
 excerpt: "\"I didn't wake up one morning and think, you know what I really want to take my local police force to court,\" he said. \"It wasn't the case that I had planned to get particularly involved in, but it developed organically."
-publishedDateTime: 2020-08-11T16:13:00Z
-webUrl: "https://www.bbc.co.uk/news/uk-wales-53742099"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53742099"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53742099"
+publishedDateTime: 2020-08-11T16:15:00Z
+webUrl: "https://www.bbc.com/news/uk-wales-53742099"
+ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53742099"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53742099"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -415,6 +419,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 19
 
-secured: "KkNh2g4s41myP3kFqJANInx6ht3btvDAOvXz0SEnUcZkmYxk8aWKpraJmgQMrUkGbSk7nUV7AOOg/GUrfZhXJwu3cKnwvQWKM2LQJlg4Lpha8QnkXjYnODm4/mnizB1MvrrBkowNRowBVerQUULgs/RjKPPS47+77ti/Ix5P72wWLxdikfws3Iev8tVHGeMVv6wDW0Q1fHBi809Q09dQxI7skabITCn3PZd3ud/dMPrUUl6tmNHq+3DxpdNuRWcbE/8L2e1kwrF6VJUHsJvmhYrv2Iao9dD4ycGg8KcylG/tGOMdZg2ThxdXfc5cysMLYpETAjguRHakGhvkS77uJw==;AojeBEECkRlP5MVXeh5N3Q=="
+secured: "F86JBKzGskQVsnHYzs/AF0CjcLwAKp2e8TIPDNmLf2nBdD+5hbwEnsM5QKKwq1n6vLBIOdUJo6WuPPUz/vARqOeSB4cQNEAFSbJu84b671BQnj6oNfT9/08Nf9GEvTf/Zg7uHOCjxIg9XyCaIaWJhpMrYGIzTiHlUDfxv015u6Py/yuWQqkzGEJzL5tEEv+EkCYUpOOfbUayGY4TQiXut2i2gb9rSS925HfR3b5lKtRB6/glJ16ru+K03ctwODtR0NjubIC5YmunF1+/WwOiG/pq5I1PJL+BOARLzWgM6R2qR+JwPzgT3szck2H3OjfyowVMi5Z11wzl6bEP0FEYCQ==;ryxMsp/R7x6lEbn2xH4URw=="
 ---
 

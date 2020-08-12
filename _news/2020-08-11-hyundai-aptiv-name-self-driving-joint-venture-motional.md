@@ -2,8 +2,8 @@
 category: news
 title: "Hyundai, Aptiv name self-driving joint venture Motional"
 excerpt: "South Korean automaker Hyundai Motor Co <005380.KS> and auto supplier Aptiv PLC have named their self-driving joint venture Motional, the companies said Tuesday."
-publishedDateTime: 2020-08-11T12:30:00Z
-webUrl: "https://www.reuters.com/article/uk-hyundai-motor-self-driving-aptiv-idUKKCN2571NA"
+publishedDateTime: 2020-08-11T17:11:00Z
+webUrl: "https://www.reuters.com/article/us-hyundai-motor-self-driving-aptiv/hyundai-aptiv-name-self-driving-joint-venture-motional-idUSKCN2571O6"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2571O6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2571O6"
 type: article
@@ -137,6 +137,6 @@ related:
         height: 557
         isCached: true
 
-secured: "PPqYuu+7EiUNyuoIV5sKi/pBVLdpOy7H3HFeZNHr9VkGzvfHnQIj+1S3AiNcwlSjRp2YCmO9t9wgT4ekifyfcM6IaM0k3skK5GsM1sM88j7SUNHkJU49oAotzhObya5BCECJzYnABR/txeQwURCeHGBDwoxSRuIGS7S+sdur7w3Jwli+PjQwDY9+wk/ny0516dnY4qk6dRTj+M3b9vFZpTh1Nqca0CVKwEArJgDIHYIaccUEamRAHY11TIM8x0CTUVNtF8X0sivtt2cHirOBHWDHWi2G0ogQjmXS0fv3zxZA69/aHjoDNwK+Xsko3zpOfi8ftl6cVhdhf1M1zqHxYw==;mT7Xz1sBH1ZEjD/b2Rh75A=="
+secured: "r22OlJr/OWs4997mFh4PXNKiniDzB/S7ffjo3xmKw7c5ind9yMYDfEktSQ3Rgi/F+CPfqx8XMJAGQx69F/W465QI593v+AALRE8Xb1kLtqoOWlA9+mAWT92o/JaxtIncpyybzq5ceWlBUXvKE6srK4xeAAcNpWSJonLoUWNSH3xUab/lPyLHK9sDFo4OHjnlgkbuJ5F2Fc1YWIOon7aapOJBcBAmkN+OYxA0MqKq7HRbDjVe2BdHrLt/jTn+nGynXDMk+3zxjwAR0lRJax6aJBAM1E4Gf8w5XAv/w0JBpetqVmx6rr7VdpGJHbNwCR59GoMk95fPRL4KI/vgV5Yvsw==;t+uCBTKKAzxxgNwZ/05l/g=="
 ---
 
