@@ -116,6 +116,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research"
+    excerpt: "Zion Market Research Reports added Latest Research Report titled “Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research″ to its Large Report database."
+    publishedDateTime: 2020-08-12T08:29:00Z
+    webUrl: "https://galusaustralis.com/2020/08/826525/global-artificial-intelligence-ai-in-healthcare-market-is-set-to-grow-at-double-digit-cagr-during-2020-2026-zion-market-research/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 18
 
 secured: "qoJe47pwvsJ9gF05NHeE43AzLaPL5uDRTNXeFXoPBiq7aKjv9jTrkaa6p0dUhdYNc+tCEdcSgY/J28S11G12vbKB9xpmBoF7vC1x22Wq/Co3J2zdEls7RhUH0pu174wOD3hf8voElgpATkFYfbmDMXK7Z7EOJ3XIrwOZHuWb1XnM0TVLsSjdlydXE5iAXXeLkF9oIyLSjDyzRxTSt4fOd+uYSec8sgLPiue6hcfbg8jdTqeF5Lf0GsiFvFSx3UG2pFOenz4hqtzw9+OEDdQnK3dFZz4wZXQ161bcMrSS1zBMHZzQTPc36DQnl+HAR/aTKkU6jenyzkZiQRVmYRDxxw==;TFHcghuFRFP5pUR3Ibti+w=="
 ---

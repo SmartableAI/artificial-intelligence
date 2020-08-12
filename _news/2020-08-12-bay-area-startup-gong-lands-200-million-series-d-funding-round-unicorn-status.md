@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AI startup Gong is now worth $2.2 billion following a new $200 million venture investment"
+    excerpt: "Gong's latest funding was led by Coatue, a technology hedge fund with big investments in Rippling and UiPath."
+    publishedDateTime: 2020-08-12T16:44:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-gong-is-now-worth-over-2-billion-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/50aa6b73eab8ea7b4b00001e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Sales Software Startup Gong Reaches $2.2 Billion Valuation After Seeing Revenue Triple During The Pandemic"
     excerpt: "The AI-powered sales startup raised $200 million even as it says its previous $65 million fundraise is still sitting in the bank."
     publishedDateTime: 2020-08-12T13:35:00Z

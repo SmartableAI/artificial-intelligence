@@ -75,6 +75,20 @@ related:
         width: 1024
         height: 690
         isCached: true
+  - title: "Gong now valued at $2.2B after raising $200M for its AI sales platform"
+    excerpt: "Gong now boasts more than 1,300 customers including PayPal Holdings Inc., Microsoft Corp.’s LinkedIn and other big names from the tech industry. Gong provides an AI-infused analytics service that is used by business-to-business companies to help their sales teams acquire more customers."
+    publishedDateTime: 2020-08-12T17:14:00Z
+    webUrl: "https://siliconangle.com/2020/08/12/gong-now-valued-2-2b-raising-200m-ai-sales-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/gong.png"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "1VBBpJ7T5M/S3dDUTij/nJPI7oj8WhCaBoJOa1Y75q9rya15aA9AgP3wfsOZiRoq7eMi42ZWu2Ev9rcsu0QAlEaDT8Xhj/Jxj5ZougiXBC6+4GsrzHkWbMluZDEDBBymsq5mMy+B4p+P/D5L9VIP6Qhy1k3K4bMvLdoj2k9UM7UysogcsmHiiZbdtoLfqJgUnrJJLZsoS/0alJ7q+fwn2llO06fVwaWjYHY8bf8PvU6OALzxSOpyi4R8oUo0yD/NUfmgaTelfwXsVOcWHCYOqfLujDe0h4mxC+Bsgf0AAOFeg3yVv0lmqjgMWexXdFl/hD8+QKDfU8PTXUgbz2UXPA==;DAlqhPL1OD35rTsQHNeqNw=="
 ---

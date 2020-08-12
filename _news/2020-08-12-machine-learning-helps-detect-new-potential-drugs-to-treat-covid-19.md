@@ -1,0 +1,30 @@
+---
+category: news
+title: "Machine learning helps detect new potential drugs to treat COVID-19"
+excerpt: "Scientists at the University of California, Riverside, have used machine learning to identify hundreds of new potential drugs that could help treat COVID-19, the disease caused by the novel coronavirus,"
+publishedDateTime: 2020-08-12T16:43:00Z
+webUrl: "https://www.news-medical.net/news/20200812/Machine-learning-helps-detect-new-potential-drugs-to-treat-COVID-19.aspx"
+ampWebUrl: "https://www.news-medical.net/amp/news/20200812/Machine-learning-helps-detect-new-potential-drugs-to-treat-COVID-19.aspx"
+cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200812/Machine-learning-helps-detect-new-potential-drugs-to-treat-COVID-19.aspx"
+type: article
+quality: 59
+heat: 59
+published: false
+
+provider:
+  name: News Medical
+  domain: news-medical.net
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+    width: 620
+    height: 480
+    isCached: true
+
+secured: "37nPOd9EgA/3LiJM1TObDgTlR7YCHNPI/lPeEeyONpQrI9xx21zNUyrSDj1R2uDrZ8uPcdh8QKDBOIEmf5+Es0glVvbgUvef31V2CSrXYhktYDgI6E0s7NRZ++hlAomYyjY9nX7V8STSC7VFCNTk5fdLV3mMgf4YhF88faBfe1GPc5Kjar/nbjDKcsigZ61n0pTLLkouz7AMT2iEHaPTCxi5zqsxaQMS2PdOLShItNZBDyZ6CgYWi512v7PnjPe/ah2Sx28ebrR8HSkby3M+uTWp1Rfm19Wwu617uRigY9eBmtcbTbw/8wLMnXf7lV1r1fyxRShyZ/R9XXmND1O5fQ==;gJkyEKzVBSEk4rGaZGETyQ=="
+---
+

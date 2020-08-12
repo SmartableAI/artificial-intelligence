@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2107997/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market"
 type: article
 quality: 60
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research"
+    excerpt: "Zion Market Research Reports added Latest Research Report titled “Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research″ to its Large Report database."
+    publishedDateTime: 2020-08-12T08:29:00Z
+    webUrl: "https://galusaustralis.com/2020/08/826525/global-artificial-intelligence-ai-in-healthcare-market-is-set-to-grow-at-double-digit-cagr-during-2020-2026-zion-market-research/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 18
 
 secured: "lXiHt2T27Qd11QmfpqAJVxScATJde/i9qcm3vRFYZMMWLUPsrr/vb/iLVjq+GW+5RyyAdIrMIk50Zm9AftscS0Ml5aZB38L0/Z/9zjJuTd4+wLSHmCTacr1aF0/dnds3TB+4TB0snYNOAMY4q5zNkK0bJq7iCGhtX8+711RwNMB8D/RoyQbPciDPAAMb8sHb5w9wuygzCZr0fOUtS4PGLTzv5tRel3k8BdoTGeA5W0SL5uVQkD6wAiDzTBnv8JFEmjjsJNx207ZGVvArZLi+6u32/0Qxs/AKEvFaObQ3HQhbqQol95aig5mlcfcNpletQfKHQ6bLBt+EQOkIKa1xHw==;gFeinD4VK0JWCZKF/+cMGQ=="
 ---

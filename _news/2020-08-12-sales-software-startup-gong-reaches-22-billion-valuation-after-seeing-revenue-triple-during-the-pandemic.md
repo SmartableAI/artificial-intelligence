@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2020/08/12/gong-sales-startu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/08/12/gong-sales-startup-series-d-funding-round-billion-valuation/amp/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI startup Gong is now worth $2.2 billion following a new $200 million venture investment"
+    excerpt: "Gong's latest funding was led by Coatue, a technology hedge fund with big investments in Rippling and UiPath."
+    publishedDateTime: 2020-08-12T16:44:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-gong-is-now-worth-over-2-billion-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/50aa6b73eab8ea7b4b00001e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Bay Area startup Gong lands $200 million Series D funding round, unicorn status"
     excerpt: "Gong hit a high note Wednesday, reeling in a massive $200 million Series D funding round that turned it into a unicorn with a valuation of $2.2 billion. Coatue led the funding round, with participation from Salesforce Ventures,"
     publishedDateTime: 2020-08-12T11:41:00Z
