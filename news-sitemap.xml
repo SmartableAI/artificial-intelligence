@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.thetradenews.com/simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud/</loc>
+    <lastmod>2020-08-12T04:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras-2020-08-12-71841522</loc>
+    <lastmod>2020-08-12T04:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/business/banking-finance/article/3097078/fintech-unicorn-lufax-backed-chinas-biggest-insurer-ping</loc>
     <lastmod>2020-08-12T01:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1105,6 +1117,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.qmul.ac.uk/scholarships/items/the-deepmind-scholarship-2020-21-.html</loc>
+    <lastmod>2020-08-04T05:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/04/how-machine-learning-and-automation-give-brands-a-boost-in-e-commerce-advertising/</loc>
     <lastmod>2020-08-04T04:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1801,7 +1819,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588</loc>
+    <loc>https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/</loc>
     <lastmod>2020-07-29T19:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2515,12 +2533,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.hpcwire.com/off-the-wire/research-opens-new-neural-network-model-pathway-to-understanding-the-brain/</loc>
-    <lastmod>2020-07-27T08:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/</loc>
     <lastmod>2020-07-27T08:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2553,6 +2565,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/</loc>
     <lastmod>2020-07-27T06:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200727005159/en/Research-Opens-New-Neural-Network-Model-Pathway</loc>
+    <lastmod>2020-07-27T05:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2671,7 +2689,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
     <lastmod>2020-07-26T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2107997/global-artificial-intelligence-ai
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market"
 type: article
 quality: 60
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence In Military Market – Growth, Trends, and Forecasts (2020 – 2026)"
+    excerpt: "Global Artificial Intelligence In Military Market Research Report 2020-2026 is a valuable source of insightful"
+    publishedDateTime: 2020-08-12T10:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-military-market-growth-trends-and-forecasts-2020-2026-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Market 2020 Regulatory Framework, Market Strategies and End-User Applicants by 2025"
     excerpt: "The market research report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast"
     publishedDateTime: 2020-08-10T22:32:00Z

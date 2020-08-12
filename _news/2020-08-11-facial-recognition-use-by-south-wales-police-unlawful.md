@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
 type: article
 quality: 89
-heat: 329
+heat: 339
 published: true
 
 provider:
@@ -125,6 +125,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Police Facial Recognition Use Unlawful—U.K. Court Of Appeal Makes Landmark Ruling"
+    excerpt: "Privacy rights and data protection breaches cited alongside an inability to verify no bias on the grounds of race or sex, as the U.K. Court of Appeal rules law enforcement facial recognition usage unlawful."
+    publishedDateTime: 2020-08-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/"
+    ampWebUrl: "https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33c790032d66b3ff669e61%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Police use of facial recognition violates human rights, UK court rules"
     excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."

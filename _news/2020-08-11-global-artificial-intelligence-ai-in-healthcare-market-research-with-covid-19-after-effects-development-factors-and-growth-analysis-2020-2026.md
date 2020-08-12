@@ -5,7 +5,7 @@ excerpt: "A recent report provides crucial insights along with application based
 publishedDateTime: 2020-08-11T11:24:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11"
 type: article
-quality: 44
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -64,6 +65,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market - COVID-19 Impact Analysis, Trends, Business Profiles and Forecast to 2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
+    publishedDateTime: 2020-08-12T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market---covid-19-impact-analysis-trends-business-profiles-and-forecast-to-2025-2020-08-12?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -126,6 +141,22 @@ related:
       - url: "https://cdn.openpr.com/T/8/T811138979_g.jpg"
         width: 631
         height: 400
+        isCached: true
+  - title: "AI in Fintech Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth Analysis and Forecast to 2026"
+    excerpt: "Summary A new market study titled Discover Global AI in Fintech Market Upcoming Trends Growth Drivers and Challenges has been featured on WiseGuyReports Introduction AI in Fintech Market The report provides a detailed analysis of the AI in Fintech market"
+    publishedDateTime: 2020-08-12T10:07:00Z
+    webUrl: "https://www.openpr.com/news/2110552/ai-in-fintech-market-2020-global-industry-key-players-size"
+    ampWebUrl: "https://www.openpr.com/amp/2110552/ai-in-fintech-market-2020-global-industry-key-players-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2110552/ai-in-fintech-market-2020-global-industry-key-players-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/T/8/T812929668_g.jpg"
+        width: 666
+        height: 800
         isCached: true
   - title: "Global Chips and Particles Market to 2025 - Analysis, Forecast, Size, Trends and Insights"
     excerpt: "Market Analysis, Forecast, Size, Trends and Insights\" report has been added to ResearchAndMarkets.com's offering. This report has been designed to provide a detailed survey of the global chip market."

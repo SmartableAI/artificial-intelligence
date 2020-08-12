@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/finland-prisons-technology-ai-online
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Roorkee Announces Online Programmes In AI, Machine Learning And Data Science"
+    excerpt: "Indian Institute of Technology Roorkee, or IIT Roorkee, has announced two online certificate programmes -- Artificial Intelligence (AI) and Machine Learning, and Data Science -- in partnership with Coursera."
+    publishedDateTime: 2020-08-12T11:57:00Z
+    webUrl: "https://www.ndtv.com/education/iit-roorkee-announces-online-programmes-in-ai-machine-learning-and-data-science"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 49
+    images:
+      - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/8/12/iit-roorkee-re.jpg"
+        width: 860
+        height: 430
+        isCached: true
   - title: "The era of artificial intelligence (AI) and machine learning for Army tasks in the field has arrived"
     excerpt: "AI techniques can help predict when vehicle parts need to be replaced before the vehicle breaks down. If this can be done well it will save money."
     publishedDateTime: 2020-08-12T06:34:00Z
