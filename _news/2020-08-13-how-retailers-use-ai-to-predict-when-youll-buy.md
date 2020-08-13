@@ -3,13 +3,11 @@ category: news
 title: "How Retailers Use AI To Predict When You’ll Buy"
 excerpt: "Can AI predict when you’re going to buy a product? Or if you’re just window shopping? “It absolutely can,” Adobe director Steve Hammond told me in a recent TechFirst podcast. “It needs certain points of data input to help with that,"
 publishedDateTime: 2020-08-13T15:43:00Z
-webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/13/how-retailers-use-ai-to-predict-when-youll-buy/?ss=consumertech"
-ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/13/how-retailers-use-ai-to-predict-when-youll-buy/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/13/how-retailers-use-ai-to-predict-when-youll-buy/amp/"
+webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/08/13/how-retailers-use-ai-to-predict-when-youll-buy/"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Forbes
@@ -28,6 +26,6 @@ images:
     height: 667
     isCached: true
 
-secured: "LKn1+SqoFF+9sd+xc2QP0XpUPO6JVcFmlFBo9NiYUMg1Ol8MHwBswZn+yGlLxBvSIaHn0n1db0wj07xvLqKIexhWp9WtI6VR8dxqWuAc2L92D1YxUDmIRu64bBSTJhppjIAG14Z1IHlZrCMNzbVSGVyqK3d1K1FAbEDHZ56NaN8Ysz07DSzEDCl/kdbQsGnlpylIpFK3nwOOkiIPluqq1mRJRvvvQ50XyLQvnL+EjvpaYRGD8q9I5ZMVC408HSkrR618qiCvd+jU0UbcPrYk+0TsGFbSbCGjJgAylfNeuDJnIseKmRhJ82u7pITZLqKBlYtWrWGPlkiL5uqWDV16DQ==;FZCIwojG4tTYOA2yYAmQMw=="
+secured: "8ZBFUB1fJEh37M6z0ky5zi9RLgD27u1fRu5sXLKm+oh1ZHd9TIw8+9JHuyradhh6Atq3I6rQ0Ei2nSaP49Gf8rgWWs/rqyrUUaqhl5KHPv1n7eCT24IvkslxLjG60T9ez9u9PXUHIDErU2TDvk5vzLaV5GI4JOR795jE6Lx5J7VVuE5WtAvUBLRnS8+/C9K9SWGX3oEQ0Qk1G6ThCw9rpvJPFFtRRtRQLwTREM7xzQGlLNdFUjJaoCStFEj0hIRaGkNGuhM8w5hP/HXSaVrL3UAhGGGQ9zLyF/l8CENtGYdAuC5ES+h5CZ+b/wDajiHkhWKYLa+BIT0m06UQ9n2ljw==;cgIpdptOVIUWCizqBvWh+Q=="
 ---
 

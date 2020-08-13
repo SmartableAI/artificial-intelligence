@@ -2,6 +2,96 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-12-training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels.md",
+      "title": "Training a custom single class object detection model with Amazon Rekognition Custom Labels",
+      "excerpt": "Customers often need to identify single objects in images; for example, to identify their company’s logo, find a specific industrial or agricultural defect, or locate a specific event, like hurricanes, in satellite scans. In this post, we showcase how to train a custom model to detect a single object",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T10:54:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes.md",
+      "title": "Artificial intelligence examines best ways to keep parolees from recommitting crimes",
+      "excerpt": "Starting a new life is difficult for criminals transitioning from prison back to regular society. To help those individuals, Purdue University Polytechnic",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/08/prison-aiLO.jpg",
+          "width": 800,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/",
+      "publishedDateTime": "2020-08-12T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-simcorp-offers-dimension-as-a-service-on-microsoft-azure.md",
       "title": "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure",
       "excerpt": "In response, and as a global business and trusted partner to some of the largest institutional investors around the world, SimCorp is transforming its offerings, delivered as a service, to provide buy-side firms with the flexibility,",
@@ -1112,105 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-at-prisons-in-finland-inmates-are-learning-ai-and-taking-online-tech-courses-as-a-bridge-to-life-on-the-outside.md",
-      "title": "At prisons in Finland, inmates are learning AI and taking online tech courses as a bridge to life on the outside",
-      "excerpt": "Finland transformed its criminal justice system 70 years ago. Now the country is investing in technology that offers inmates pathways back to society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f31c3faa6f0e106c119e315?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp",
-      "publishedDateTime": "2020-08-11T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents.md",
-      "title": "Google’s Lookout app for vision-impaired now scans food labels and long documents",
-      "excerpt": "Google has updated its Lookout app, an AI toolkit for people with impaired vision, with two helpful new capabilities: scanning long documents and reading out food labels. Paper forms and similarly-shaped products at the store present a challenge for blind folks and this ought to make things easier.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/google-lookout-shots.jpg?w=1024",
-          "width": 1024,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/amp/",
-      "publishedDateTime": "2020-08-11T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

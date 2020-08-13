@@ -55,20 +55,6 @@ related:
         width: 650
         height: 436
         isCached: true
-  - title: "How machine learning can improve COVID testing"
-    excerpt: "Combining machine learning methods with pooled testing will support high-frequency, low-cost identification of COVID-19, researchers say."
-    publishedDateTime: 2020-08-09T00:57:00Z
-    webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/07/22/machine-learning-covid-testing.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 39
-    images:
-      - url: "https://washingtontechnology.com/-/media/GIG/EDIT_SHARED/Public-Safety/covid19testkit.jpg"
-        width: 760
-        height: 368
-        isCached: true
 
 secured: "fG+RwZ2glQdbx3Vsvwgqm+3JIHyG9yhmATAKkAEs5D2lt6aqmLfeVtTbR+IAc1SDqjaMc9Ekf/ZQ6rsdinGpJQiynJfwt4B2f8WsfxOrygBcb7ML/wWyfUToeIN2N9H+p6v2G5xbFA0hhp+KF/vUIJGs7H9deB8Rk1PrBQtcdxg0zKSg9LHE0w3aNs7Lxor2lXIRNQ1YCWM6bAwZdq4bAAWCpg5Ylqt7i+41QKW3zlw65ITzCYK8p06iacGPpTrIHToz/SYAfAPzzl2TCTyaDfS2UaWZP8jIYqE9g4It8bN/1ghX0Uqm+tDBE6jzg/urr33XuuyGJ2rHEq4sKSGkMvDLqufLZm3eop8GZjRgsflu0UMAeuql35E+2aCcy6aBX1Go84iI9Y8e523+oiYfBHH1bFev+o1/4K5EhDV63DRaTIhNaqeAP5pxINFgebPV+lO8WkJe6IS5m1gJfBSFGhk/7a4/KRZuLYAfB7MIhbuDFDIUjHXA/6q32JdAmkasujRWlxr+Yq0pUKziiIrL3g==;f4QcyaDtHBdPE6xB6TKxLw=="
 ---

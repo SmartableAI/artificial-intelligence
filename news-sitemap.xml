@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/expanding-scientific-portfolios-and-adapting-to-a-changing-world-with-amazon-personalize/</loc>
-    <lastmod>2020-08-13T08:53:36-07:00</lastmod>
+    <loc>https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images</loc>
+    <lastmod>2020-08-13T10:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/johnkoetsier/2020/08/13/how-retailers-use-ai-to-predict-when-youll-buy/?ss=consumertech</loc>
-    <lastmod>2020-08-13T08:43:00-07:00</lastmod>
+    <loc>https://aws.amazon.com/blogs/machine-learning/expanding-scientific-portfolios-and-adapting-to-a-changing-world-with-amazon-personalize/</loc>
+    <lastmod>2020-08-13T08:53:36-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -25,6 +25,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/</loc>
+    <lastmod>2020-08-13T07:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/</loc>
     <lastmod>2020-08-13T07:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +39,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/13/how-the-pandemic-is-influencing-robotics-research/</loc>
     <lastmod>2020-08-13T06:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html</loc>
+    <lastmod>2020-08-13T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1165,12 +1177,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/il/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
-    <lastmod>2020-08-04T13:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html</loc>
     <lastmod>2020-08-04T12:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1287,6 +1293,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
     <lastmod>2020-08-04T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
+    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1521,6 +1533,12 @@
   <url>
     <loc>https://www.infoworld.com/article/3568497/when-hybrid-multicloud-has-technical-advantages.html</loc>
     <lastmod>2020-08-03T03:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nature.com/articles/s41598-020-65958-2</loc>
+    <lastmod>2020-08-03T02:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

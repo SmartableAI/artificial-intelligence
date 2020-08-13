@@ -2,6 +2,156 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-07-23-deep-learning-chipsets-market-may-set-new-growth-story-google-intel-qualcomm-ibm.md",
+      "title": "Deep Learning Chipsets Market May Set New Growth Story | Google, Intel, Qualcomm, IBM",
+      "excerpt": "A new business intelligence report released by HTF MI with title “Global Deep Learning Chipsets Market Size, Status and Forecast 2019-2025” is designed covering micro level of analysis by manufacturers and key business segments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-may-set-new-growth-story-google-intel-qualcomm-ibm-2020-07-23",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-23T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-how-ai-can-improve-financial-analytics.md",
+      "title": "How AI Can Improve Financial Analytics",
+      "excerpt": "In recent discussions with CIOs and senior management team members at Financial Services firms, a few of which are former students of mine, the topic of how AI and machine learning is revolutionizing the financial services landscape came up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1170740952%2F0x0.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/amp/",
+      "publishedDateTime": "2020-07-23T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-voice-tech-the-past-present-and-future.md",
+      "title": "Voice tech: The past, present, and future",
+      "excerpt": "A virtual panel made up of executives from NVIDIA Inception, Deepgram, and Sharpen discussed the state of conversational speech technology in the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/voice-tech-the-past-present-and-future/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/07/23/8e4cbdb3-b1ce-4ea8-88cd-f43b76ef0b54/resize/1200x/a0f12b85d37fe39fcc77f2cc7d900ec2/voice-tech.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-tech-the-past-present-and-future/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-tech-the-past-present-and-future/",
+      "publishedDateTime": "2020-07-23T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-using-ai-to-identify-the-aggressiveness-of-prostate-cancer.md",
       "title": "Using AI to identify the aggressiveness of prostate cancer",
       "excerpt": "Prostate cancer diagnoses are common, with 1 in 9 men developing prostate cancer in their lifetime. A cancer diagnosis relies on specialized doctors, called pathologists, looking at biological tissue samples under the microscope for signs of abnormality in the cells. The difficulty and subjectivity of",
@@ -1270,155 +1420,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-investors-like-amazon-and-softbank-are-betting-these-10-self-driving-car-startups-are-primed-to-take-on-tesla-and-waymo.md",
-      "title": "Investors like Amazon and SoftBank are betting these 10 self-driving-car startups are primed to take on Tesla and Waymo",
-      "excerpt": "The company's technology uses artificial intelligence, computer vision, sensor technology, and deep learning to operate autonomous vehicles, enabling truck and freight companies to increase truck ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f11b86a988ee342b5413602?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-elon-musk-said-people-who-dont-think-ai-could-be-smarter-than-them-are-way-dumber-than-they-think-they-are.md",
-      "title": "Elon Musk said people who don't think AI could be smarter than them are 'way dumber than they think they are'",
-      "excerpt": "\"The people I see being the most wrong about AI are the ones who are very smart,\" Tesla CEO Elon Musk said on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f18bd914dca685317008a54?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7?amp",
-      "publishedDateTime": "2020-07-22T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-microsofts-ai-powered-eye-contact-feature-is-finally-coming-to-the-surface-pro-x.md",
-      "title": "Microsoft’s AI-powered ‘Eye Contact’ feature is finally coming to the Surface Pro X",
-      "excerpt": "Microsoft’s AI-powered “eye contact” feature for the Surface Pro X is finally starting to roll out, months after it was originally announced for the ARM-powered Surface laptop last year. The new feature is rolling out now as part of Windows 10 Insider Preview Build 20175,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/xR8oAKV3jbaat6T1m-otd2NQpSQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67094197/vpavic_191101_3747_0024.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out",
-      "publishedDateTime": "2020-07-22T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

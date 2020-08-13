@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-13-robotics-start-up-cloudminds-returns-to-china-after-us-sanctions-hurt-its-business-in-silicon-valley.md",
+      "title": "Robotics start-up CloudMinds returns to China after US sanctions hurt its business in Silicon Valley",
+      "excerpt": "Cloud robotics and artificial intelligence start-up CloudMinds has abandoned plans to go public in the US, as it eyes a move to Shanghai and listing on China's new Nasdaq-style board, after its business was hit by rising tensions between the world’s two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3092969/robotics-start-cloudminds-returns-china-after-us-sanctions-hurt-its",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/13/fffc531c-c4b5-11ea-86df-6d561651b5f4_image_hires_170425.jpg?itok=Kpe-CtGF&v=1594631075",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3092969/robotics-start-cloudminds-returns-china-after-us-sanctions-hurt-its",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3092969/robotics-start-cloudminds-returns-china-after-us-sanctions-hurt-its",
+      "publishedDateTime": "2020-07-13T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-the-automoblow-is-a-dick-sucking-robot-for-your-tesla.md",
       "title": "The Automoblow Is a Dick Sucking Robot for Your Tesla",
       "excerpt": "But the makers of this dick-sucking robot are back in my inbox with their latest brainchild ... suggesting this could be used while actually trying to drive would be very dangerous! \"Artificial intelligence, as it is used in self driving cars and even ...",
@@ -1284,47 +1334,6 @@
       "provider": {
         "name": "Maritime Executive",
         "domain": "maritime-executive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-robots-at-dubai-expo-2020-to-enrich-visitor-experience.md",
-      "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
-      "excerpt": "UAE - Terminus Technologies, a China-based leader in smart technologies such as artificial intelligence and robotics, has been named the Expo 2020 Dubai's latest Premier Partner and has signed a long-term lease at District 2020 as part of the innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_at_Dubai_Expo_2020_to_enrich_visitor_experience-SNG_178632150/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_178632150/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_178632150/",
-      "publishedDateTime": "2020-07-02T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null

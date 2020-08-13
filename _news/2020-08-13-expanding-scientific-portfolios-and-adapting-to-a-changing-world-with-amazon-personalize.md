@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T15:53:36Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/expanding-scientific-portfolios-and-adapting-to-a-changing-world-with-amazon-personalize/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/11/leveraging-context-personalize-1.jpg"
         width: 1000
         height: 576
+        isCached: true
+  - title: "Mental Wayfinding Has Unexpected AI Importance, Including For Self-Driving Cars"
+    excerpt: "Imagine using something like a mental version of Google Earth and having your mind be able to zoom in and zoom outward, quickly imagining your position from a faraway location and at the same time being able to get close-in and know exactly where your feet are placed and your immediate and within reach surroundings."
+    publishedDateTime: 2020-08-13T17:40:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/13/mental-wayfinding-has-unexpected-ai-importance-including-for-self-driving-cars/?ss=ai"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eed521b31cecb00065c8574%2F0x0.jpg%3FcropX1%3D235%26cropX2%3D3761%26cropY1%3D10%26cropY2%3D1994"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "7AZc8fxzr9zyBZyPLxDzeu8inV+VioeXy7giEW6V8z3yMpppd/QSE2MwdfKQIn+DcUlrvb5/Ph6uWJ4ANQiu/UKwsxgr38GDLzXn+EWUmu29y1uMOjE3BbDIc07CKSJEr3af3E90MExMjyk0MAC69gWlwpBXBRZrUg1wHgPgOtFlHhjAvOq7NITnFK41ijopJvGG1mVYDTGpJO3KT0SadU+WtKjW4SiqcLU4W0TIDGeAhjWZ/W5hpPvu7JnfkNdR/kbPjLGdoFaNvaXPojALqTpC7YzqXloK8RmoRvPGqG+9WgNvJMHkBGwncRDYtjT0Tp+O8bDX4FeohDt3Lmnq9g==;RqkDkdm8WgXdypbZsuSB9Q=="

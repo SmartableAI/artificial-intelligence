@@ -8,7 +8,7 @@ ampWebUrl: "https://m.mid-day.com/amp/articles/artificial-intelligence-can-impro
 cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/40-artificialin.jpg"
         width: 650
         height: 436
-        isCached: true
-  - title: "How machine learning can improve COVID testing"
-    excerpt: "Combining machine learning methods with pooled testing will support high-frequency, low-cost identification of COVID-19, researchers say."
-    publishedDateTime: 2020-08-09T00:57:00Z
-    webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/07/22/machine-learning-covid-testing.aspx"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 39
-    images:
-      - url: "https://washingtontechnology.com/-/media/GIG/EDIT_SHARED/Public-Safety/covid19testkit.jpg"
-        width: 760
-        height: 368
         isCached: true
   - title: "Artificial intelligence could improve accuracy, efficiency of CT screening for COVID-19 diagnosis"
     excerpt: "Notre Dame News gathers and disseminates information that enhances understanding of the University’s academic and research mission and its accomplishments as a Catholic institute of higher learning."

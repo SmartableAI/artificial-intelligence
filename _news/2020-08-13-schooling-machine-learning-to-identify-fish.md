@@ -3,7 +3,7 @@ category: news
 title: "Schooling machine learning to identify fish"
 excerpt: "The National Oceanic and Atmospheric Administration wants to leverage machine learning improve its ability to verify marine species."
 publishedDateTime: 2020-08-13T00:26:00Z
-webUrl: "https://gcn.com/articles/2020/08/12/machine-learning-fish-id-noaa.aspx"
+webUrl: "https://gcn.com/articles/2020/08/12/machine-learning-fish-id-noaa.aspx?admgarea=TC_EmergingTech"
 type: article
 quality: 39
 heat: -1
@@ -57,6 +57,6 @@ related:
         height: 800
         isCached: true
 
-secured: "8D94dbNkYw4D75AO08sermvxAmtvcCOKabBLfk28GtFYnVTpV08Mq1h9s0XD0QZu7HpAahtu8St4vum02fq+BOsW+7rImOfjAp9VB/G3mqFAKVNUW6UFlPcD81dCZdF8JffUAdFY8dvOL6fpDC2AZC87C4dMC/VCwTugZgfT0Az+JoKgf7ncAZhdkKq+L2lEZ36YcawPd3e8NyIaUhgXOeyY124sogaDoh14sPXajoGt4ZEM39YPSlE8Kf4j9C6J6XnOT/Ek58aG95+pXN9ORiqv0jhlDrDzXxTK13dTRNx2GZfRvtXW2sQ+jNxd8+KEI1Iv1vYbmzsI/zMXhpM0tM/J8PoahHawq39f5qe+Z17qMqbbiM+j1/kpQ+HL+KA1Cmd9ylkqLIUdTddzEs6WxnXURXlqyTURLHxCh14pJN+eZBDHoSeF65HQJsDt/erMsh3ZlbqbJzeSeZvvVbsF+qNtgp0ZgHt0KfUAM0NzK+kPYOAiJGie42+zrEGTj7SJuy4wjwKsnCl/Mcq/PcsEAQ==;RsmbrOkVX0DgrvdwMvt5qQ=="
+secured: "cCGnyp6KPan0QT3nSJ1Gjm+naxia8WlSTOCqeAxpyjKfJlC9rCqz8tv9clTT7tFkI4jqxNKPUXoqSJsBXxVyokpRiCtRSwRZLoHaP2f7rUfrSi32tVif3Ed12ILP+4GulMDsI1FCCGsnoXdLN0zYbufW9NFv+4KdSpNTquv5N6jML0Gk5uwcdtrNWYe73KRK15tfgpJ9eIqjvwqB6T1ginEmkQ9QEVoTCpq6+mVuAu4u7QdXRHC8Fe4a9TdjWu2tdmSt1pyhVP2jFT2nus3Bu87YO3gKec48EV7rDO9GQWxKGntCWoKs+4eB6a+noXAbZbLLG3hYJR9wjcf/1reSVA==;ZWfiUGQ9zJT5TMzvqUobKA=="
 ---
 

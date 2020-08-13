@@ -7,8 +7,8 @@ webUrl: "https://www.natlawreview.com/article/artificial-intelligence-and-patent
 ampWebUrl: "https://www.natlawreview.com/article/artificial-intelligence-and-patent-law-what-happens-after-dabus?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-and-patent-law-what-happens-after-dabus?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.jpg"

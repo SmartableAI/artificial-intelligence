@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-12T01:17:00Z
 webUrl: "https://seekingalpha.com/article/4367784-rignet-inc-rnet-ceo-steve-pickett-on-q2-2020-results-earnings-call-transcript"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "SailPoint Technologies Holdings, Inc. (SAIL) CEO Mark McClain on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "SAIL) Q2 2020 Earnings Conference Call August 06, 2020 05:00 PM ET Company Participants Josh Harding - Investor Relations Mark McClain - Chief Executive Officer Jason Ream - Chief Financial Officer Conference Call Participants Matt Hedberg - RBC Capital Markets Hamza Fodderwala - Morgan Stanley Brian Essex - Goldman Sachs Andrew Nowinski - D."
-    publishedDateTime: 2020-08-08T23:21:00Z
-    webUrl: "https://seekingalpha.com/article/4366405-sailpoint-technologies-holdings-inc-sail-ceo-mark-mcclain-on-q2-2020-results-earnings-call"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 1
   - title: "JOYY Inc. (YY) CEO David Xueling Li on Q2 2020 Results - Earnings Call Transcript"
     excerpt: "Q2 2020 Earnings Conference Call August 12, 2020 9:00 PM ET. Company Participants. Matthew Zhao - General Manager of Investor Relations. David Xueling Li - C"
     publishedDateTime: 2020-08-13T07:52:00Z

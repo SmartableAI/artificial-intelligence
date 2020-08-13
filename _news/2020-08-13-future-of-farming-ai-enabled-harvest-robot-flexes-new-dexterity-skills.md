@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harve
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
@@ -28,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "3qYfTylbaelZfyZ40fVObaxS7ehxZCNOIRfBFFKly1jiuhu45RFCYzq9Iu4PiNOECMX1S+85l8dMPYU2BkfEkcOZjv01TRQxbWbVo8vRT0DYVBsD7I0YsZAfz8oO4cgTujZF8L3b15zOfRbWSFsBaPs/nkAbAmiJPkg+YJ1yt/OdSv5R8pYkFp8KugdXrHDXBrWxR2oVFcfWraFnvCt7WGNFTJmxPRyEvbqxgzKLuJLDIgHbdcWTGbzXQdXwgcSKg71Lz8S9KcacNtvGrSvgUUCajhOCZhJocgCS6py0eswQEUA9ER7X0RtmcxnrqrVfeLA93O0DDSugD13Xu59byg==;fuYekJWM4jsoqiDgbBxjcQ=="
+secured: "VoI/JsEyzDX6C473gIdgsVcmy0R3IPkjg+1HrD+BROr+0YUdm8XdKXS6r7GKksnvKgsFTRFH0SCcrie9P8LU5XMIIFk/sPWEWauIA8b5My43v2WHnQQ9n9qwMd4/+CpRQ/GethHMFaIiGH/Q69qivNk/bnUkn/SkcdwjPSpl9Ccl/KtkU2PHKvXO3BqWdDmPTP+5WaCDDBNrTftLH5KzlP51mjwcDTLtA1aYWSsLXnUCvvD0Oqo1T3LqZZdBjiZs/5mEfIPm/dGbDpQBcferEWUNigfqW4vRHHl0ETyZQPiSoECnOdNLFGTKHR61VykTj6apTYv7snFGagFit+DZG+/aw7glPpORFGnU2Sp+i/Tzw7bCov9G4X4yY1ArutqxRfRkVyh1kPtNpq05mknaFchXCiTFYma5NOvKuEVbtqX0VKeoyYiV5Hd5TkIsCq7PeibfQ0VVbTqDZxrO8REKAotfgc4Imp2cJFLzQYq/uP/Xat23Ukm+APcn23Fh6bmsQKRSJpOmPbt7XIEQA65wkw==;Y1B1Bwb37xmaRU+tdlnuFg=="
 ---
 

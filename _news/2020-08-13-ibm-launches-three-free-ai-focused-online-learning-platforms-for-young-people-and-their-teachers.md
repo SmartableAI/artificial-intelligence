@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Focb60nAkQrIXoamI8MDiLaeRaOhDRVbvkap1OarAFeyLSRwQLWrn8+58cVhGZD14X7kM1hVwx3pLHpRqlGEL2J1bdkh23J2//2jrwyscEzGxxLKbgBdLcDBGJWlF8cGwB4+KFyQhsTIHHssvxBdpyt2B1peg2kKT3jDrvfWvb1uweXu/W0ppwSVkSHRXcu7ToRCo52sBn88pNfqZKZ0okfh0G+dtMJ8vmBC0rflbYCbmL+uqLvzwkCDGqoVMwLgelPDa3u/G8FcznWb4GOUk8VJXywpFCSXbABxcoUrtFOKz5mjJNBbPZxJyBt7N0PdejsnQeyhu3QMPLoHNS4SCQ==;SALafiqDRtZbOa381Fl4Cw=="
+secured: "cEUDD/zhDlMS4B0hJFJeEsszHaaLBoi/+YAJKpNswP3GR9OLzK4Pe2hURYrw3fBrh+OMcGSNkkYvkPAJt32fDZXSNvukXKwPv0+FyUhb9J5H0wkEABzVSLIHHv8JvBfuGM5Pz59Sl0kJK6AuZO4qsnBcxNABa/hPAFFkkl15z0lSvsiM3G8+MFn3rlYpGM+0MpQ2G8T/n/LHsGLda1MByS418638WiBR66fyRQ3uqDZBBcb5gj+C6Y6Q+0XJ2N3IPxiJsy5kBh/LNP4dWdE6A2zzFuBewpHVyNVoGWrqyRM1zJzaBQwdH3nIPhXZV13WHzQZikiNadqN/FV9JdLbTx5WoV4BHuSRtOpy3hoDgewFqxNCl7ZKDHGnlhDWn+7jUjRkApdRuPQEcvXK3URedT3fYmiFg7wCPys6klIZfg4hDhMtYbzitmWWYpXVj9iYqRQZjefgKkSISTxJJ2vqqtlyGgDDoV/TVxI9wmQnAirgSLz8Zt8I4iMAnAajElCihl3uY3OiMXKUJlTQbdSpDQ==;xcqRccok2xJKt4NWPl7l8Q=="
 ---
 
