@@ -5,9 +5,9 @@ excerpt: "(NASDAQ: LTRX), a global provider of intelligent edge and secure data 
 publishedDateTime: 2020-08-12T11:53:00Z
 webUrl: "https://www.marketwatch.com/press-release/lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras-2020-08-12-71841522"
 type: article
-quality: 56
-heat: 66
-published: false
+quality: 73
+heat: 83
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

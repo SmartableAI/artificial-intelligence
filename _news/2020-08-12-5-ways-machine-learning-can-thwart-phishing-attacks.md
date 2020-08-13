@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/06/b4a2ebb3-b099-44eb-9cd7-d6c130920fcb-e1596737652461.png?w=1200&#038;strip=all"
         width: 1200
         height: 601
+        isCached: true
+  - title: "Improving Online Learning and More with Artificial Intelligence"
+    excerpt: "Artificial intelligence is gaining traction in classrooms, research labs and physical plants on campus. Tommy Peterson is a freelance journalist who specializes in business and technology and is a frequent contributor to the CDW family of technology magazines."
+    publishedDateTime: 2020-08-13T18:32:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence"
+    ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 57
+    images:
+      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
+        width: 1440
+        height: 500
         isCached: true
   - title: "Combating Phishing Attacks with Artificial Intelligence"
     excerpt: "Attackers have kept a close eye on this trend and get higher returns on investment by phishing mobile devices. It becomes more challenging for consumers and employees to identify a phishing attack in similar ways they would on a laptop or desktop computer."

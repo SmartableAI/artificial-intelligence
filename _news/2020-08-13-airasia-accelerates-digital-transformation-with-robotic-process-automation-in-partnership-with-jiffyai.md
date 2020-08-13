@@ -1,44 +1,24 @@
 ---
 category: news
 title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
-excerpt: "AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation (RPA) in collaboration with Silicon Valley and India-based enterprise automation platform JIFFY."
-publishedDateTime: 2020-08-13T06:48:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
+excerpt: "AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation"
+publishedDateTime: 2020-08-13T18:36:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17077288/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jif"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17077288"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17077288"
 type: article
-quality: 53
-heat: 63
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Artificial Intelligence Simplifies Maritime Digital Transformation"
-    excerpt: "Applications of Artificial Intelligence (AI) in both ship and yacht building is already being done with a number of maritime companies that are currently using it successfully. AI technology makes a completely new way of working possible."
-    publishedDateTime: 2020-08-13T17:07:00Z
-    webUrl: "https://www.maritime-executive.com/corporate/artificial-intelligence-simplifies-maritime-digital-transformation"
-    type: article
-    provider:
-      name: Maritime Executive
-      domain: maritime-executive.com
-    quality: 37
-    images:
-      - url: "https://www.maritime-executive.com/media/images/article/Photos/Miscellaneous/Original/SENSE-in-Action-2.a52be7.jpg"
-        width: 643
-        height: 361
-        isCached: true
-
-secured: "IVA5ZDSzJ0XyjiyY+fK6ah2/A4k88riKI9cydhHQvMVP2NUN2hOG3dOhMXdYw2C7rsGsFsp4eS6koytDGjus8nzIURWKYQRbYb9OHX6aO09dSdiUcEvVchYM9uD2xXoO+ruDNhZuSJTCCby+KiRSEdT9dyU/dKzJ6jUW9NsnSfZ4lw5kFyh0yojXzeGBADr/HQFZvIW25FSfXBOQivn/dSp8CErzy240YSsTTBHsjF4UkOO0svZWSMs++W8Ikpu7f8yYBNKPAzOuWHUcSVlXawUdJ9lg5twL1I5a/tZmKeIP9Od8nWWqHJUOLbLupoKJxCVTFg2A170k2saKEtJB5Q==;Ywwh5x5Lyfg94GDBVtjcDg=="
+secured: "0mQvcRsQgmsx7tPc4mObI8UylXM33AWl3pcuNaLA6+vkNP2JBV3bNfiipA22ckf1Aln6WrVWNvnlnxwPdUcm19uXeNWUiaM9CsLWXzpDZUxULPphIAk4fU3qRzrJOg4sbzfExjSu9i5Lju2o4A0F9gusqK4zOutZ6JAd8AFfLHUDLrj6qYsr6t6MzNvOyTQ29ADoWwW0sjVLKo9iec2SgByoVcP/fQRKEZtEb6gfiF2V2ILEqfU5sC5SXpYeAvkWkX5RYYr2Fi7G121aBgl86lt+atyc0n4+H7UF0e5H/2DTkOCU7dNrZxqCIcntM0CZnQAd1PUj3A85+mHsSV0THNUb7xN8ciPJSensBU1k+Uht5c/9TK4ar8+zRdJ+Q1wQp43u6kiIJoThuN6XXcB/vW6vaD9dLZcnBSC120N2DY9W58iyiLLZQHCAH+XCD4zw5spaZwi+dXC9JkEnkSpUCzEo5XBMJWV2qdPjWraE9szywdW82QZZQY1PpndMgAJqWt53jA3499CxDoQGIJUyuQ==;JzJphv2z4ji4wLx0Zh9Ycw=="
 ---
 

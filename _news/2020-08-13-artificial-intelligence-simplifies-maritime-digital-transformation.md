@@ -2,8 +2,8 @@
 category: news
 title: "Artificial Intelligence Simplifies Maritime Digital Transformation"
 excerpt: "Applications of Artificial Intelligence (AI) in both ship and yacht building is already being done with a number of maritime companies that are currently using it successfully. AI technology makes a completely new way of working possible."
-publishedDateTime: 2020-08-13T17:07:00Z
-webUrl: "https://www.maritime-executive.com/corporate/artificial-intelligence-simplifies-maritime-digital-transformation"
+publishedDateTime: 2020-08-13T18:06:00Z
+webUrl: "https://maritime-executive.com/corporate/artificial-intelligence-simplifies-maritime-digital-transformation"
 type: article
 quality: 37
 heat: -1
@@ -17,24 +17,29 @@ topics:
   - AI
 
 images:
-  - url: "https://www.maritime-executive.com/media/images/article/Photos/Miscellaneous/Original/SENSE-in-Action-2.a52be7.jpg"
+  - url: "https://maritime-executive.com/media/images/article/Photos/Miscellaneous/Original/SENSE-in-Action-2.a52be7.jpg"
     width: 643
     height: 361
     isCached: true
 
 related:
-  - title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
-    excerpt: "AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation (RPA) in collaboration with Silicon Valley and India-based enterprise automation platform JIFFY."
-    publishedDateTime: 2020-08-13T06:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
+  - title: "Digital Transformation Presents New Talent Shortages for Banks"
+    excerpt: "As financial firms make the shift to digital-first services, talent gaps have occurred. How do banks bridge the gap and deliver on transformative process potential?"
+    publishedDateTime: 2020-08-12T21:14:00Z
+    webUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks"
+    ampWebUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 44
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/bank%20talent%20hero.jpg?itok=hFWi6v9N"
+        width: 1440
+        height: 500
+        isCached: true
 
-secured: "rfJaWYWfXjPoqo3jzp1bvRIzcfNAqZFMYN3E+acz87qfeq3XM4bQT/XMFCr3tJ+F4y4JuUxB2JUrZBysXJX+AhH8BQo0F9kwVrQ/6tNwq7ti9hduKS133J4hpaR/uJBgqxoByuxj7vFRm/pOlhodaFwspM0vrCJ54ZlRsY2eiB0DndMtzXg0zdvz8mt6LC6KFa/NOSLCL/W86M4OaIeWwv/vEWlSMKJMWv/LrRRsvO28nJ8KPrJ73w+ots7dU6zQqmS92Dw+jCN/0gr/6C0hCo9w4nMzJTci6+/dFBNFMi9dTEvS2iyXJFD8jM1/J+tr1Gn1Q3o39vD0ZD1CSMtV/g==;k8OndlPgJO8rJoKAK1u18g=="
+secured: "VJn6bWCd0lTnJzfBKpMu7boQ63wZOATbRNIDjgmjE1grYQy4sZnAbJBi16F8fHrHq8SsEryPy7PqNGr6KfLz4v9Ur5g6rD7HFTG0rrYpAuxlCzTnrr4bfddPvowIS52iWQT0QnhmCvUsOAkctH5t35OdF99CzcRotGuX9/iTXFek5v2mL0EfLiWIqo0S5frogS1h30atapRIGSwjD6z7SpoN1wdqAhAE1ZoSrl//A5ds8FiXVvOzFjwCKLFliOOUfQ7TnCfQbAzKiOXQ0iyq3cbjdp1UNpDGc1NO270xdJWDFRNXv2hly4ujR4/jts4oy22OErwYR0vixZlbPYTP4g==;fTyysrHh3/XotrMfpV/ysA=="
 ---
 

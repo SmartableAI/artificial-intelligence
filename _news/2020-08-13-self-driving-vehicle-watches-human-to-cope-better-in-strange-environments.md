@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T10:57:00Z
 webUrl: "https://www.electronicsweekly.com/news/research-news/self-driving-vehicle-watches-human-cope-better-strange-environments-2020-08/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "Detroit-to-Ann Arbor self-driving vehicle corridor moving ahead"
-    excerpt: "Project would be another step in Southeast Michigan staking its claim as an epicenter of connected and autonomous vehicle technology in the U.S."
-    publishedDateTime: 2020-08-13T17:31:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/08/13/detroit-ann-arbor-self-driving-vehicle-corridor-moving-ahead/3364205001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3364205001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3364205001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/07/PDTN/39378bc7-3dbc-4d6a-8cd6-c15bd630c54e-Ford-Corktown.JPG?auto=webp&crop=5788,3256,x0,y117&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "B0LpO04msq4tFYYAa03kn2UMPUuaOc79RmBsNNZXpoHvOHeXNqU9/OGDg9ycM4/pHR5cO8NN/nrmViFCCjgGUm8asbYUlPVnXmsU4Zh5REkHCef8VZzuQdFN4m82l2NkPf591eN+M2yQia0V5sfFoeiRyg5J5xpuhFW5I3DKB0kAgAtjGvSu67UkL2hdPZTRD+b/ZUtG5GE6vXWEnFW6Ya7n4lb1VcdNZkSb8rLpBUrdgOxy4lWWPXKdLDDAGBgy+zITA5XBW7dbCapLpcOAE0enqbiI8BK04OanZvbmTtW8L6cTPYVCWB2ECY3UHCronRJ+CwQVcwyzEHNuKv/3qaMbD1TieZSHDDfAm7fKXnA2S8V8GbETNzUpm/ec9BMIY58NOyEaEhMRZ1pRwND7Sz2L1IEeYgQVT0m2EyPGPKjXwqz4REwQap+or2iegUU7O9cVFoTjCJHCy4KDwWdvRcCqjN7fO5F+FpCTog7OtLGwyOt1WJwqYSFP2KL7TBuPVGmTDrFks4fSrikjSkyu+A==;eARJm2d+VsrOQHl4RsZbOA=="
 ---

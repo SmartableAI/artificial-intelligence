@@ -2,13 +2,13 @@
 category: news
 title: "Pro-China Propaganda Act Used Fake Followers Made With AI-Generated Images"
 excerpt: "China propaganda campaign on social media has been creating fake followers with the help of AI-generated images of seemingly real, but fictitious people."
-publishedDateTime: 2020-08-13T17:53:00Z
-webUrl: "https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images"
-ampWebUrl: "https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images?amp=true"
-cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images?amp=true"
+publishedDateTime: 2020-08-13T17:47:00Z
+webUrl: "https://uk.pcmag.com/social-networking/128182/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images"
+ampWebUrl: "https://uk.pcmag.com/social-networking/128182/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images?amp=1"
+cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/social-networking/128182/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images?amp=1"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -20,14 +20,15 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/00UDuUnhr79dyJteBBPWt2c-4.fit_lim.size_1200x630.v_1597339528.jpg"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/pro-china-/pro-china-propaganda-act-used-fake-followers-made-with-ai-ge_6v88.620.jpg"
+    width: 620
+    height: 349
     isCached: true
 
-secured: "lS985VZIBOKgJRjR0iYM390BPQv5eL43lTLRkz/xV9QVHfNNxKGRYwY6u7yQJE97UxatMnQBXzncucZjorJ5ffBlfliykeHuC2gljbJuRm7URjC8ynvNJkdK0kvidNyQPp+nJJRSNzgLQG9qD3qj5l/tNZwz8TZjsk7rU8DDYZ4JC537k5HZU9ACV1kqbh7Eywc/xWntwNd+fO+g90YVX54vcUCU3Uvhn15UxIi+Phbc5ptEg6seKMdi+OXw5V2IvZaXtY6Vhx4n7qPJBF0UTldtRljNd1qYMweN1dHafBdsemS38w4adZeW/hqx9nvDjUou3jycDW1N6n1/femh5w==;sO7VWAAwYT9rvoFQC64vgQ=="
+secured: "OrS9CHIG207PTjDBtN3VuH9S1rsYbX9L2+HpoZ01xcQ6ieXQpNN5ltnzPpM+JbARAR6wthvVu1txp8wctirrvxlIveNZXrMi9jYUjdAyYNLlcTKqriDppeKwkD5np29pf17inj8o++nz4VVfGv4LPOnqta4nhkwmAN94ZVRB767bXXuIOO0zCYNkEjCikuvH7CsOqAgcto6aqHTZ665bY9/R1vV3qeMTzpjhIUiEi2+HEU0wz2itCT2X3PodpVWBEbxHuTXLPgjLN2RUv7i9Fk5E3CUZZ11r9M6kmldLuXub83h8fp77w+aNAspdBsWk8hy1RMQI/JkhhQD1qvK9YA==;4hdfC06xn/rNEXq8vDS41w=="
 ---
 
