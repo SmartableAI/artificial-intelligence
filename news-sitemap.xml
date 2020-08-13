@@ -7,6 +7,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13</loc>
+    <lastmod>2020-08-13T00:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13</loc>
     <lastmod>2020-08-12T22:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -109,7 +115,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos2</loc>
+    <loc>https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos1</loc>
     <lastmod>2020-08-12T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -547,7 +553,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
+    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
     <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1231,7 +1237,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04</loc>
     <lastmod>2020-08-04T05:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1311,6 +1317,12 @@
   <url>
     <loc>https://www.bignewsnetwork.com/news/265983784/artificial-intelligence-ai-in-healthcare-market-next-big-thing--major-giants-intel-nvidia-google</loc>
     <lastmod>2020-08-03T19:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-1029460997</loc>
+    <lastmod>2020-08-03T16:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1437,12 +1449,6 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/03/how-machine-learning-is-powering-a-new-generation-of-app-development/</loc>
     <lastmod>2020-08-03T04:43:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/linode-cloud-gpus-outperform-aws-and-others-for-price-performance-9149653</loc>
-    <lastmod>2020-08-03T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

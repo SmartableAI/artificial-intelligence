@@ -27,15 +27,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 1
-  - title: "Himax Technologies' (HIMX) CEO Jordan Wu on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "HIMX) Q2 2020 Earnings Conference Call August 6, 2020 7:45 AM ET Company Participants Mark Schwalenberg – Senior Vice President-MZ Group Eric Li – Chief Investor Relations and Public Relations Officer Jordan Wu – President and Chief Executive Officer Conference Call Participants Tristan Gerra – Baird Jerry Su – Credit Suisse Presentation Operator Hello,"
-    publishedDateTime: 2020-08-08T16:38:00Z
-    webUrl: "https://seekingalpha.com/article/4366380-himax-technologies-himx-ceo-jordan-wu-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
   - title: "RigNet, Inc. (RNET) CEO Steve Pickett on Q2 2020 Results - Earnings Call Transcript"
     excerpt: "Q2 2020 Results Conference Call August 07, 2020 11:00 AM ET Company Participants Lee Ahlstrom - CFO Steve Pickett - CEO Errol Olivier - COO Conference Call Participants Allen Klee - National Securities Presentation Operator Ladies and gentlemen,"
     publishedDateTime: 2020-08-12T01:17:00Z

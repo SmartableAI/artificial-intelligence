@@ -2,6 +2,55 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-06-25-googles-mixit-ai-isolates-speakers-in-audio-recordings.md",
+      "title": "Google’s MixIT AI isolates speakers in audio recordings",
+      "excerpt": "In a new paper, researchers at Google describe an AI system that isolates speakers' voices in audio recordings using an unsupervised approach.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s MixIT AI isolates speakers in audio recordings",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/amp/",
+      "publishedDateTime": "2020-06-25T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-variability-in-natural-speech-is-challenging-for-the-dyslexic-brain.md",
       "title": "Variability in natural speech is challenging for the dyslexic brain",
       "excerpt": "A new study brings neural-level evidence that the continuous variation in natural speech makes the discrimination of phonemes challenging for adults suffering from developmental reading-deficit dyslexia.",
@@ -1118,38 +1167,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,56 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-06-22-tecton-brings-devops-to-machine-learning.md",
+      "title": "Tecton brings DevOps to machine learning",
+      "excerpt": "A startup recently emerging from stealth is aiming to automate much of the process for feature development with the goal of making data scientists more self-reliant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tecton-brings-devops-to-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/18/bb324131-419c-4632-8d07-656ac812348e/thumbnail/1200x675/e60c1e4feed1efc2d474a1da9acedbf0/feature-engineering.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Tecton brings DevOps to machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tecton-brings-devops-to-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tecton-brings-devops-to-machine-learning/",
+      "publishedDateTime": "2020-06-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-theres-no-cure-for-covid-19-loneliness-but-robots-can-help.md",
       "title": "There’s No Cure for Covid-19 Loneliness, but Robots Can Help",
       "excerpt": "It's hard to replace human contact. But during a pandemic, robots can help patients fight off feelings of isolation and despair.",
@@ -1356,55 +1406,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-20-dangerous-ai-algorithms-and-how-to-recognize-them.md",
-      "title": "Dangerous AI algorithms and how to recognize them",
-      "excerpt": "When discussing the threats of artificial intelligence, the first thing that comes to mind are images of Skynet, The Matrix, and the robot apocalypse. The runner up is technological unemployment, the vision of a foreseeable future in which AI algorithms take over all jobs and push humans into a struggle for meaningless survival in a world where human labor is",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-9-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Dangerous AI algorithms and how to recognize them",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/amp/",
-      "publishedDateTime": "2020-06-20T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

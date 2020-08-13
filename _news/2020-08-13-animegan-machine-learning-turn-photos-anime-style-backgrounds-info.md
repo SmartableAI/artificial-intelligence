@@ -7,8 +7,8 @@ webUrl: "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anim
 ampWebUrl: "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info?amp=1"
 cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info?amp=1"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F08%2Fanimegan-machine-learning-turn-photos-anime-style-backgrounds-info-009.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
@@ -25,6 +26,6 @@ images:
     height: 780
     isCached: true
 
-secured: "9oFDZ1xYnZ8q7lGY+JHCgUro75QDlj8XHEe58B7zpffxXVfGDLkJRNW2N9d8LayMP5g10DZDO6EKWfHO6tKsHmeXB5T+Fi6GqUwIICp9im5gr1W/x5Tqnmz50eLxrGCsGa923333cVNbasaLczYQgsWyNtjd6bqnFcuZQZD80lGdfLCPO9F4boBdRoIf+HcDp+qwX0Iv6mrIBDKE3dx+tOnWEaQHO0bIq1jaC0teRBMUhderrnf6658JATJ2kjPMNiTiYo7xSiqSmQwC3tAfBbEPYfAWGda34sfdg0oYujQo8kVxoS1ygU9bFyObaW3UkM6g1R5qfJLXKOzS+KMdLg==;kcqg0xtPvu0ojYIYurM4BA=="
+secured: "rOXzvLZpKqNpjk5yHg8VZjZ0ALBJsppKvSjHUIwKART878NPlsM4s8kZ/qIGjXIMGBGsW/cVYU5wAr3FpOm4jI2vK7qJt1l2Pc+JRO4ExbFJyzKyphWjnIJntNvK/vOBYQt439JrK8pgDvdo0A/6996oUCe0YcfHxbh+CsD9NjCxZKwySdY3FSULmLgYcap4jwuYspusmd6F95qDgEoQ+JqBEvlUbjlEq4HXOeHaIsVry1KWjwnGfVnA3DSYkqUk5vUxCnbqoRbSmOjB3WPkUSSUSXeoK0XEA+0x6YZTRMglEtvBUI0IE6+EuaIAzk2VSkjaOzzD9tVF0zulKN+RdM45SqW57rkJD9UnVwvPtgn4DIl87P5rc5qdYFzGyj6FxXThdfcuLLEsCUC2SkfmH6AI9VTBIh5S5PaAxhPnH34XrhsuV6r5VH32KwUOqRDlnNrCVu0AlojarwD5IgoUJiV7omPb4yQS8whDGtlInGa2ACh2Ymh0MRI0APxFoVTXGCi/V50riP3WVH0sr6vcxQ==;0MAPEXCNdtWVGXN3fwDa/g=="
 ---
 

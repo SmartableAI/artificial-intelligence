@@ -2,6 +2,47 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-06-22-mubadala-to-double-down-on-tech-after-12-billion-jio-stake.md",
+      "title": "Mubadala to Double Down on Tech After $1.2 Billion Jio Stake",
+      "excerpt": "Mubadala Investment Co. is preparing to double down on its exposure to the technology sector, setting its sights on Asia, after the Abu Dhabi fund took a $1.2 billion stake in India’s Jio Platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
+      "publishedDateTime": "2020-06-22T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu.md",
       "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
       "excerpt": "Adobe has been putting in GPU-accelerated machine learning in applications like Photoshop and Lightroom, while Corel has added AI-powered brushes to its natural material Painter. By opening DirectX's GPU compute to cross-platform APIs like Mesa3D ...",
@@ -1116,55 +1157,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-google-will-shut-down-its-ai-guided-photos-printing-service-on-june-30th.md",
-      "title": "Google will shut down its AI-guided Photos printing service on June 30th",
-      "excerpt": "Google is ending its AI-guided Photos printing trial service on June 30th, but it might lead to a similar feature in the long run.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-photos-printing-trial-ends-023308003.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F0c6735a0-b344-11ea-bafe-160a0b0e31fc&client=amp-blogside-v2&signature=b58b18d9c10038d1386655a2cdb759e378701301",
-          "width": 600,
-          "height": 350,
-          "title": "Google will shut down its AI-guided Photos printing service on June 30th",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
-      "publishedDateTime": "2020-06-20T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

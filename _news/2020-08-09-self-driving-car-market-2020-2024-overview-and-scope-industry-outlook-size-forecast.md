@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market | 2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Forecast by Size, Share, Trends and Growth Forecast"
+    publishedDateTime: 2020-08-13T07:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Media Market Forecast, Manufacture Size, Developments and Future Scope To 2025"
     excerpt: "Market Research Engine has published a new report titled as \" Cognitive Media Market by Component (Solutions, Services), Deployment, Enterprise Size, Technology (Deep Learning & Machine Learning, NLP),"
     publishedDateTime: 2020-08-11T15:30:00Z
@@ -137,20 +151,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market | 2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Forecast by Size, Share, Trends and Growth Forecast"
-    publishedDateTime: 2020-08-13T07:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

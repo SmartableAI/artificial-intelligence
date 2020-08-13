@@ -2,6 +2,47 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-07-08-ucla-launches-an-ai-robot-to-support-the-emotional-needs-of-children.md",
+      "title": "UCLA launches an AI robot to support the emotional needs of children",
+      "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "UCLA launches an AI robot to support the emotional needs of children",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
+      "publishedDateTime": "2020-07-07T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia.md",
       "title": "Mobileye and WILLER Partner on Self-Driving Mobility Solutions for Japan, Southeast Asia",
       "excerpt": "Mobileye, an Intel Company, and WILLER, one of the largest transportation operators in Japan, Taiwan and the Southeast Asian region, today announced a strategic collaboration to launch an autonomous robotaxi service in Japan and markets across Southeast Asia,",
@@ -1082,56 +1123,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-this-saas-based-startup-is-disrupting-call-centre-market-with-ai-based-voice-bots.md",
-      "title": "This Saas-Based Startup Is Disrupting Call Centre Market With AI-Based Voice Bots",
-      "excerpt": "Bengaluru-based Vernacular.ai in May 2020 raised $5.1 million in Series A funding led by Exfinity Ventures and IAN Fund",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/352913",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594129822-AkshayDeshrajCTOandCo-founderVernacularaileftandSourabhGuptaCEOandCo-founderVernacularairight.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Saas-Based Startup Is Disrupting Call Centre Market With AI-Based Voice Bots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/352913",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/352913",
-      "publishedDateTime": "2020-07-07T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

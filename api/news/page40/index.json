@@ -2,6 +2,47 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-07-13-documents-reveal-afps-use-of-controversial-facial-recognition-technology-clearview-ai.md",
+      "title": "Documents reveal AFP's use of controversial facial recognition technology Clearview AI",
+      "excerpt": "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2",
+          "width": 750,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/12451554",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554",
+      "publishedDateTime": "2020-07-13T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-robotics-start-up-cloudminds-returns-to-china-after-us-sanctions-hurt-its-business-in-silicon-valley.md",
       "title": "Robotics start-up CloudMinds returns to China after US sanctions hurt its business in Silicon Valley",
       "excerpt": "Cloud robotics and artificial intelligence start-up CloudMinds has abandoned plans to go public in the US, as it eyes a move to Shanghai and listing on China's new Nasdaq-style board, after its business was hit by rising tensions between the world’s two ...",
@@ -1097,47 +1138,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-police-use-facial-recognition-tech-to-arrest-another-innocent-man.md",
-      "title": "Police use facial-recognition tech to arrest another innocent man",
-      "excerpt": "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/arrested-facial-recognition-technology/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/arrested-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-07-10T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

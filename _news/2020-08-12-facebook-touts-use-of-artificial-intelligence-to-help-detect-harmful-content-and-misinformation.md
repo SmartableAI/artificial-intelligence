@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-artificial-intelligence-ha
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-artificial-intelligence-harmful-content-misinformation/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Facebook ramps up artificial intelligence to detect hate speech"
+    excerpt: "The latest data from the social media company shows AI helped it detect 95% of the hate speech it removed between April and June."
+    publishedDateTime: 2020-08-13T08:53:00Z
+    webUrl: "https://www.itweb.co.za/content/Olx4zMknpRo756km"
+    ampWebUrl: "https://amp.itweb.co.za/content/Olx4zMknpRo756km"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Olx4zMknpRo756km"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 57
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/08/facebook-smartphone-2020.jpg"
+        width: 816
+        height: 459
+        isCached: true
 
 secured: "jXEa04v6jY2wCP3owQ+hU1s4BVlC+GqvsczOO7icjUjtqBiqjjGeBPbCJR5qARKI888zcye8mKlmSUrBOW5W1CtI6hJ1QDrdzcv3QGDrqjoHxVOAkghhXHdFkJvQHJAB/7qcuUaTN7Qee1xRKzE6rxHpx5HFEaqJcCIZFG1sPIZPC1+uuvtB9eHDeVAc1v+eu5xJfJ2dResa4UEdial/qtZavyLZG4gdudw6ek5QYuDZLtkIb1mqDsOetgb/5fnRBxmQsHXW3O+gBHEG0fT43f6Ga03Ndb0vxWyWL7LzyY4zN9IC97RNvSFAzrcQfTffXXH4LbYLwHTvbaoqACajag==;9OSZygnDQZGgkXVYaDGV9A=="
 ---

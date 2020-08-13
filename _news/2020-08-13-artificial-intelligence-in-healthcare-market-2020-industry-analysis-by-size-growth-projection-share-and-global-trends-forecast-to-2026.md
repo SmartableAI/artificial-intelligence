@@ -5,7 +5,7 @@ excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Fo
 publishedDateTime: 2020-08-13T07:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
 type: article
-quality: 35
+quality: 52
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

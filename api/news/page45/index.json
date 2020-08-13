@@ -2,6 +2,55 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-07-08-garry-kasparov-on-ai-people-always-called-me-an-optimist.md",
+      "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
+      "excerpt": "Garry Kasparov is a political activist who’s written books and articles on artificial intelligence, cybersecurity and online privacy, but he’s best known for being the former World Chess Champion who took on the IBM computer known as Big Blue in the mid-1990s.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/05/img_9735.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/amp/",
+      "publishedDateTime": "2020-07-08T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-get-your-ai-projects-done-with-11-meetings-at-transform.md",
       "title": "Get your AI projects done, with 1:1 meetings at Transform",
       "excerpt": "Transform VIP attendees will benefit from a best-of-breed experience to connect with peers in meaningful ways, including 1:1 meetings and B2B matchmaking.",
@@ -1119,47 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-petroai-and-aws-partner-to-operationalize-modern-analytics-reduce-costs.md",
-      "title": "Petro.ai and AWS Partner to Operationalize Modern Analytics, Reduce Costs",
-      "excerpt": "The automated integration of Petro.ai with Amazon S3, AWS Lambda, and AWS VPC minimizes time spent loading, normalizing, and managing data while providing the elastic compute power required for modern analytics at enterprise scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
-          "width": 605,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
-      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
-      "publishedDateTime": "2020-07-08T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hart Energy",
-        "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
