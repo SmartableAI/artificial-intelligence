@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
+    excerpt: "Hyundai Motors, LG, Applied Ventures participate in Series A SEOUL, South Korea and SILICON VALLEY, Calif., Aug. 12, 2020 /PRNewswire/ -- MakinaRocks, an industrial AI solutions"
+    publishedDateTime: 2020-08-12T17:00:00Z
+    webUrl: "https://www.asiaone.com/business/industrial-ai-solutions-startup-makinarocks-raises-10m-series"
+    ampWebUrl: "https://www.asiaone.com/business/industrial-ai-solutions-startup-makinarocks-raises-10m-series?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/industrial-ai-solutions-startup-makinarocks-raises-10m-series?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 57
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/pr-newswire_500_4_640.jpg?itok=jcxaFViy"
+        width: 763
+        height: 509
+        isCached: true
   - title: "LitLingo Advocates AI-driven Prevention as the Key to Modernizing the $45B Litigation and Compliance Industry"
     excerpt: "Press Release LitLingo Technologies, a startup utilizing AI/NLP to manage context-driven communication and prevent conduct risk, announces that it has closed a $2 million seed round led by LiveOak Venture Partners."
     publishedDateTime: 2020-08-10T10:43:00Z
@@ -37,20 +53,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
-  - title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
-    excerpt: "MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it has"
-    publishedDateTime: 2020-08-12T17:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-301108281.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "KtFvdgEJDvCnUcyMuSY0ea++33mgq2lFk4dvcH5s2Y48tWISkNdfeaRCB1E1D4ufJNhEtHXMdFfpkjacPT5Cqfn/s1YgD+GTgn9Q0olYE44sPNOUmaKjzRn9OK1q6LGZ12oKrFMUKJjNiCwQBJh5XzOf9S7Ke4AUCNPHIYG+DocjNq0gJdtRv4dM4xdM41tI7N+B5sKUfnk8oXPWi1EbhSW2GYxEFdng7G5cqhPc+VaajJSEvSFSdkuIKa8p0h86fkFLf68x/VY5/K9VEcXqZ2X39t5b+VP3KL6/0BtLYfg9X7LPzLN/0SIk/ivj7idVTZBzvaSM79UzD719WLZHC9LBTNDXgkCVsZTVnNgquca9itWE6oT6rb7rx1oZv+zeErXzt0IT2lTv0VEUNttbGXFr3ONJuo9/f367XtwI6r3y1Y0Pwl5+W3srGOddMifjhmgAa28UfxhLrYlEINoheqKSh2OHnS2mCgrQsobQWYAOcipxLSx34qSLIBEzAZWgFq0MFJXPmMXNRhno0Ms9XQ==;zM1POg+u5R7FkXAkM2hfyg=="
 ---

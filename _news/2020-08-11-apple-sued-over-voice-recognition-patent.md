@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-11T13:21:00Z
 webUrl: "https://www.manufacturing.net/technology/video/21159778/apple-sued-over-voice-recognition-patent"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Google is rolling out Improved voice recognition in Australia"
-    excerpt: "A few months ago we started to see reports internationally that Google was rolling out improved voice recognition for the Google Assistant. The new process involved training the Assistant with longer phrases."
-    publishedDateTime: 2020-08-08T06:45:00Z
-    webUrl: "https://ausdroid.net/2020/08/08/google-is-rolling-out-improved-voice-recognition-in-australia/"
-    ampWebUrl: "https://ausdroid.net/2020/08/08/google-is-rolling-out-improved-voice-recognition-in-australia/?amp"
-    cdnAmpWebUrl: "https://ausdroid-net.cdn.ampproject.org/c/s/ausdroid.net/2020/08/08/google-is-rolling-out-improved-voice-recognition-in-australia/?amp"
+  - title: "‘Alexa: List drivers' complaints about voice recognition systems'"
+    excerpt: "Built-in vehicle voice recognition systems are the No. 1 complaint from consumers year after year, she says. In a Zoom keynote presentation during the Center for Automotive Research Management Briefing Seminars last week,"
+    publishedDateTime: 2020-08-10T04:00:00Z
+    webUrl: "https://www.autonews.com/technology/alexa-list-drivers-complaints-about-voice-recognition-systems"
     type: article
     provider:
-      name: Ausdroid
-      domain: ausdroid.net
-    quality: 44
-    images:
-      - url: "https://i0.wp.com/ausdroid.net/wp-content/uploads/2020/08/Voice-Match-upgrade.png?fit=2002%2C1127&ssl=1"
-        width: 2002
-        height: 1127
-        isCached: true
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "/0OxldJqrN6blAPtKOroDfHEwNz5SjZX8OOu8oSQhM+kcL0a/J5+6XnkzMnOiG8snjq4M37jeINRSLP9PsRlH7Fls4Iah9/LBq0G+f+cKG8EAEi9Si9I5KI9ojTfxUgpHpv8tIghhEwkD/PxWC5TT9ah2+KkMvSDhLI2NUSxHQI2oSekCWEg2L5sZ+JLYcCIz/fyR7n0G2YrLe0SF3zN1Tu8RfIWyfvUX9v08MSrv+49JpKzzVlGvaRp7TNJNrDDfkcpfRXXFGQ2CK73NZ3NfJfvdofzjS/ggQoPOH0okpEG8FKKThM95KZH4Kz6AY7LD96Y160LuSYUDTDy19ce+268D32nLaAxWJdX/9tyGsCMeyihus8P9zJaS1TmdIT5QEQU9ogbDkbdFMY8r3jnmkip92wTbLUq0tuaqshOdNAaMWWTG/ebj6ByzE70smoKTU8Ot+1Li131Mu9StqU7WWbxcRUBnIvMaZvrnE+YNPUCfqLV8SEgPajKmzfvd5TvBRZvjJkG2RPgC/Hc7GamUQ==;wXHUYb0LfGeoTP8IuSJWtQ=="
 ---

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "China begins testing robotaxis for hire amid race against US tech dominance"
-excerpt: "Autonomous hired cars are considered ideal for accumulating driving time and the data cache needed for cars to learn and become safe enough."
-publishedDateTime: 2020-08-09T11:03:00Z
-webUrl: "https://www.asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
+excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. “What we are trying to solve is the last ..."
+publishedDateTime: 2020-08-09T16:33:00Z
+webUrl: "https://asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 448
         isCached: true
 
-secured: "FglLauzqP/J6aumTGFdWXpRZF8VbbEUuq+ng4i97Va5123M/3xpRbykrXN82OEh0L/qsAKXZgScEnEDIZDEpNK1/ddieucoJLEKzbIR8qFgdlqNJJdRzuDWujgEI0i8hfZlmmWR2Cs2Tg6FEG3t9xwQjv5oEqRVX+p0SbON8A8yny6s749YUNrQ+eCXMzFmghWM+jx0E28BWnifz7m+6SnPpVzSabIgX0bLjxQBag9yO+DGtsQD2RueTcHQXtOV3o87Heo0EKdOmnsh2KDbhB57q9f5Q9BvF3HVsnCkoYYvBcs7D3fvOXNyaounaaNuAZ7utg1+fTmcbGjZO3r/FdBIZWuGwAJ9uoDDEtVwjWs1uzJPuX3HQwwBVkDB8F2kJWqF3xdvowPOSf6sB+KTDybOkLJavkWAmYYQ0mHTfyEfZ8JtjuT6lB1ItYVIT8kK8KEwDy75DIjjaoNtRQ+WymGx6c7PAM6tzqYk9sHwViJk5psBh13+NhW0J+HYa8IF/tbjHjmBVY+k2Q43nHvtRfQ==;Grmdb2RthtQbYKNKwJYjfw=="
+secured: "LZVnYBKNFmJJbizqxWRz1yjhu9tzR03EyWXtPSHzyGwoq4hUKynF5YSwgT2H1MycntLdycCa1tt2bOl4ouIlBw/NjTH9uB6CCX4etyDZmWmdHCKLUCQrBiJQuo6suquO9z0eJCpxBqPzv0itCLj51rlX/Edb/yl+T4eqx7roFp3k7Rry4gSU2CszloYH0tppm1neh+1ltJwZcKXWo+15/dQ2JKN4kS3aBxNdlxDzx/oe0iE4TtHlUZU9aN3TO0VTx4tZxrDs64YUu9sUky0NPUCCevesqXHySUGm4UR9VOIPHQbkNmtAa7Z+5ptruvqqPtWI/gFomq7ueqwgyOt4AQ==;WNyls4Be87/7RrqFqeugxw=="
 ---
 
