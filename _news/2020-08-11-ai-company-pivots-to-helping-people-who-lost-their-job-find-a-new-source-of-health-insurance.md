@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-company-pivots-to
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "The Conversation: Lost your job due to coronavirus? Artificial intelligence could help you find a new one"
-    excerpt: "As scholars of human resources and management, we believe artificial intelligence could be a boon for job seekers who need an edge in a tight labor market like today's. What's more, our research suggests it can make the whole process of finding and changing jobs much less painful,"
-    publishedDateTime: 2020-08-09T03:30:00Z
-    webUrl: "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12354912"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 20
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/ucjk9568D4RO_KAMbheLerCasRE=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/54ORDWZ24REMJOB7SNEAGFE54A.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "y6cIeqFVnj0CLqo338Bf9fbrIzF8UXFSQzya2E4gbkl6MMjYIpMV7vIEX6vT6bRl0yROvcJhrrqHM/Typ1yuAqXq+SCEW/y74679WSueQIhDcZHJAYNtlIM1hR8byNFoIHsMc+wlo3YjQDXZtIcFwS2xo0dZE5gH3T6Fcw8SzDfZoKmKXHt/2i9m82eq5aqO1NdVnMprUVm6JpSB+TlnEkLnltIAUy4qPQibnon/i3SuKWtTctle931I2nOx9DRriQUG+0K8l5t075SrvNIn3YK2SYWWGhNMfVGB1PVAPVDUxtjRcNfDC4aCWlctnW1JV8jxicUhcgJUuMobFLH3BRzT6SY4eg0SBMArX37frxMQAyFEpoLTXDjKbbgKr2vzVWOFQhU1Z541xbQ7WDfVPTtuZBJ4ZMTlDmD6plGaH649Mx+H0YxWUkA7p8839C9wbp++VK3c3gjWAx13dXYYnBlsCxx9kyu3eXjDbjeBkw44L/hYTZBrZHZWQcByrjyMXOVWOXIiGBsfJwzr4ZTsTQ==;9IVxt87P1LAEP3s8qf9y3A=="
 ---

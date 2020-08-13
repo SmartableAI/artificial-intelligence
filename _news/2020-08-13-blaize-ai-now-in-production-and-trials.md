@@ -1,0 +1,33 @@
+---
+category: news
+title: "Blaize AI: Now In Production And Trials"
+excerpt: "What did Blaize announce? Blaize (formerly Thinci) previewed its Graph Streaming Processor (GSP) chip and Picasso software last fall when the company rebranded itself. The recent announcements disclosed availability (sampling now),"
+publishedDateTime: 2020-08-13T20:34:00Z
+webUrl: "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/"
+ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/"
+type: article
+quality: 87
+heat: 87
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f35a10dd692e5ab13c02295%2F0x0.jpg"
+    width: 1199
+    height: 530
+    isCached: true
+
+secured: "VATT2ueFywwkpD+Qh34T9zmJYEC9zAIyWTFasCrEKexaOviZy7OqoXGF3YfE6mRM/Id14UWTUhhof0X4b6MaOpHAlADMxlrPxGSGB8eve4ipJJIjayx5ujsRGlnrIn5rlx+vw1wkxU78ewNgpUfngJ3J04b3uNe/UsLiZyb8iOO+ObYts3pfMFcF8XJpBJehB/hNBEttVw632qTtx/HeUZE0hQPwhfqLMM22y0gN2KeFi48Xv9v7dl+AtuF1eMl2DfsJcwmQLJVPEg23LLnUE3QC84wKGk5c4p+IaIK0XKRAvzYz5LHFazRFRMnYAM35woJKQ8JBC8Vx5WJKSG2uKg==;alCKb1VyWP6Qs9eNR/W0Zg=="
+---
+

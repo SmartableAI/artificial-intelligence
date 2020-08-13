@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Michigan Plans 40-Mile Stretch of Highway for Self-Driving Cars"
+    excerpt: "The state of Michigan and some private partners are taking steps toward building or assigning dedicated lanes for automated vehicles on a 40-mile (65-kilometer) stretch of highway between Detroit and Ann Arbor."
+    publishedDateTime: 2020-08-13T21:34:00Z
+    webUrl: "https://altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/"
+    ampWebUrl: "https://altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 44
+    images:
+      - url: "https://placehold.it/300X250/fff/ccc?text=ADVERTISEMENT"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Plans for first self-driving corridor announced in Michigan from Detroit to Ann Arbor"
     excerpt: "Michigan officials are holding a news conference Thursday, August 13 at 1 p.m. to announce a major mobility-related project in southeast Michigan."
     publishedDateTime: 2020-08-13T19:42:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T10:56:00Z
 webUrl: "https://www.zawya.com/mena/en/life/story/Ghaya_Grand_Hotel_gets_top_recognition-SNG_181965505/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 878
     isCached: true
-
-related:
-  - title: "ArtsView honorees to receive virtual recognition"
-    excerpt: "ArtsView Children’s Theatre’s recognition of its board member, guild member and volunteer of the year will be a little different this year, thanks to COVID-19."
-    publishedDateTime: 2020-08-09T05:00:00Z
-    webUrl: "https://www.news-journal.com/features/lifestyle/artsview-honorees-to-receive-virtual-recognition/article_a971569a-d75d-11ea-ac8b-b7865533693d.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/94/d94b8c72-d768-11ea-a7ce-a7c6cfc15967/5f2b2f509afab.image.jpg?resize=504%2C630"
-        width: 504
-        height: 630
-        isCached: true
 
 secured: "4EcQv5mfpNnKQzMlfu8e4IyKy3LZ4FQQTGQwFex9TEIVov9Vp61Y1zSmHdOd/JXrkQrsDMNleacp94PWexAq0xGyoKzB6A8X+IVIfnrBKn2vXh5ZQnmJ4JPu+4o7o5JyXabGt4i9lF/lrsQpExzw9+cdTsJpBL2N6AziLLJv1qscfn5Lz+OuClz+o0AZPcpTBAQyfShnZg7Vh4c0vyJBUvtjgXDJayUKK93vaak7WlAbGtZrc4631GEZSTuaY3Bzrq+zlHbsBGJsOmoamBLFu6HAFVSISv5mfLxioDhADm1oAXz4eUb17k2ILPustkhhD3AUY43tkczldhEFLs0B9A==;DMr5HhilFTT6SRdTQ+ROTQ=="
 ---

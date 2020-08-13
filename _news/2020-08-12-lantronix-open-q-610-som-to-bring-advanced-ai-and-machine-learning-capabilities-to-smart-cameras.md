@@ -5,8 +5,8 @@ excerpt: "(NASDAQ: LTRX), a global provider of intelligent edge and secure data 
 publishedDateTime: 2020-08-12T11:53:00Z
 webUrl: "https://www.marketwatch.com/press-release/lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras-2020-08-12-71841522"
 type: article
-quality: 73
-heat: 83
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -18,9 +18,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -39,6 +38,6 @@ related:
       domain: seekingalpha.com
     quality: 13
 
-secured: "nxhB0j6ehbRQCNFAxx7dDWWDSoyP2UqTAoac74pSL+nOQ7BlKUlc5zfgcye9ycHeSvB72Kgdd0/cBs/4JnQD1XVo/CNJ5KreM6jTB0/BVLksrjfOKHVqWD4H7EcTxEqiowZGjY4HP/VGnVjE1WPauc8PsckU7ZfKR6P0DnhgTrwkEnxzlUPKyCEpuhZPD1Iy1j7h8Uvi0rS7QtTM2WctpyWiA1PP/F6EeSh9WkGKrnbys9934wbKPYk0oDgPfyXSipnvuANnV3IP+C8GXtg++Jl1XmYGujY+GQRl8mCNTy4th18rcV6m/LXsqCN32Z0p5xSB1VOlK97gjZcn0Ce0Hg==;5L5kzH3mRRdA5UUU9wrVfg=="
+secured: "fWYdchCRGi5HNJPxLDsjrKFzt5dNMIFlDvmHk29ym1lyx6kx4dddh77T4y5AWwnaLAqIN5UFB/P6HP9olkuyx2d7JJQr3k6L5mDV26ci1r7PQo+3qgp/yz8A/DdUrbCTGQdDQtuHcbC1pq7f2aUrXOeCe+C41Vc3bsJ1sGvPWwFYlhom3TDTjhXM/CTqwepZ2nC1jZNT/klk1k43IyRHvW9uVCkKfW0dRGu2q49Z9melqGzsLuQ3THwV+KM0MiZFV7bFm0cZbA18OuDjP+LW4c6uosVKcm9Mn6VCbhvJLYi+vnHZOQ3PZ3EA3+Vy00bAx+E3fUkspzitO/Av18U33g==;iuoALKCUZqmu3XPxC9EYmg=="
 ---
 

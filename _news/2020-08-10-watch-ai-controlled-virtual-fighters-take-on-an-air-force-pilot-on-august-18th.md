@@ -43,20 +43,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Watch AI-controlled virtual fighters take on an Air Force pilot August 18th"
-    excerpt: "Due to the coronavirus pandemic, DARPA will no longer hold an in-person event for its third and final AlphaDogfight Trial that’s scheduled to take place from August 18th to the 20th. It’ll be held virtually instead,"
-    publishedDateTime: 2020-08-09T04:45:00Z
-    webUrl: "https://www.engadget.com/darpa-alphadogfight-championship-043711508.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 65
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Ff8aa32e0-d956-11ea-befe-b046ce451f8e&client=amp-blogside-v2&signature=144e2336abe1f36fa5b474dc8cc761e98fb2b1a4"
-        width: 1105
-        height: 630
-        isCached: true
   - title: "A US Air Force Pilot is taking on AI in a virtual dogfight — here’s how to watch it"
     excerpt: "An AI-controlled fighter jet will battle a US Air Force pilot in a simulated dogfight that's the final trial of DARPA's AlphaDogfight competition."
     publishedDateTime: 2020-08-10T12:31:00Z

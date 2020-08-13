@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-testing-corrid
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Michigan Plans 40-Mile Stretch of Highway for Self-Driving Cars"
+    excerpt: "The state of Michigan and some private partners are taking steps toward building or assigning dedicated lanes for automated vehicles on a 40-mile (65-kilometer) stretch of highway between Detroit and Ann Arbor."
+    publishedDateTime: 2020-08-13T21:34:00Z
+    webUrl: "https://altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/"
+    ampWebUrl: "https://altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 44
+    images:
+      - url: "https://placehold.it/300X250/fff/ccc?text=ADVERTISEMENT"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Plans for first self-driving corridor announced in Michigan from Detroit to Ann Arbor"
     excerpt: "Michigan officials are holding a news conference Thursday, August 13 at 1 p.m. to announce a major mobility-related project in southeast Michigan."
     publishedDateTime: 2020-08-13T19:42:00Z
@@ -79,6 +95,6 @@ related:
         height: 2160
         isCached: true
 
-secured: "Dze1UltIdF9CSGgo/OO9S1D7f/HOmm1lQr/5pDmobrSSCF+c9p1cN/apS2rlxJ8qIZJISOMaUU8UMiR+vCT+v1Xw9bloao3vZZ9u2QfJE4rjohGS3G6frBzBjbrSB2HQdeOwXjZmYcHvyb7xxpl6ZF78+5rYN2F5WhY5iXXOpWLjBUBsssfQpX1i4FdF8xDnUIsmA+ytVA4vs/T9QXIR8bqhkY96FM/CgEhpOV8cPcxEc6zIZNXIZq8sU91RMq6mWKt2CHZF1Y0+ZuZEL+Qg3t9MOhOz07/SKSNr7K7TVdFm0e09DzFEIjnqzxkf06ZWNv7Adb6+eV+cRVLmRUkBIQ==;DtW8jibiNd5alW/WR2+vsw=="
+secured: "aqsw9dljW/7rrZdfPyVrL4lgG6Mk264JbS2pH3Q3/q6PNLfK2aBFz0dGasvzsScTdP0ttV7Wif5BkDUjSGoNF32ZKi3YVheFbSnrqu4Uu/a8oTfsAf0VpH+NdDKVuepBpgpCPFhfRAisyoRhBrn7CC2lVeuk0VAQa1YkPG+mt09TshgB8nJtbAW70dYGv8jWhvKpptD1oPZz/7ewWq3PS9xWF2OdmRPu0YxOw1JkNPU9YTEU9QF06NaGEIDE9FgcnulzXJa0SDiR4KCfp+v37bHjqd5Qr8x0f2FW0TRHiput1ENcb93FL8xW9uZRwhj2ZLRldQWH/lUZDzZohQo/cjN+6Ttfpt1g6jfAvqCAaCPjOdcz8uKqcJP8q1T1WvW8EIqlwoGCpTJIgKj2CgYQQIwp04IeGKNTzXvpXhtJoH/cOt6kP6DJVnZUAYGWhE7AQdRzrrigyaKV5oM2kzUGBmYguboV0PqqFHs5yzMxeuzPDY37hJRgLwp1zwgNOrizpCd2ttoZM4yrZjF6JLNNHw==;66eW6LD98w01BB4WYHZjIw=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Imagine using something like a mental version of Google Earth and havi
 publishedDateTime: 2020-08-13T17:40:00Z
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/13/mental-wayfinding-has-unexpected-ai-importance-including-for-self-driving-cars/"
 type: article
-quality: 63
+quality: 67
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eed521b31cecb00065c8574%2F0x0.jpg%3FcropX1%3D235%26cropX2%3D3761%26cropY1%3D10%26cropY2%3D1994"
@@ -56,6 +58,6 @@ related:
         height: 576
         isCached: true
 
-secured: "4Jb0GOqBgbaeeqvsvPveqqQwUL1MY+z2kjpmyyeQdMrsxNk8ZFOeEjLloFe9iXEMTD2aLJstWEuanDbAiyzcbHbH/hNxbh5eLPOAtv45mzAeCwMU1qYblqlMVaDRMhcDJTp96w6YyHiAAikbU+2ZO3HeCjKQOvOEr5fvOpNu0bgTkQApLMfdrIrxT8ZwCe1xAMCBlrFfHugpsidCT1SB7BdIJQY9imZ735t7uhyyIKrSikNpbsgAHC3aFGAPuft46KEhPed1JUWYAVqfrEVTAVWkOgIQjlQZO1gDuQPZbU7lmYyuHYSDEQVLeYoaWj4HS+xxS07Vg5sFeiAEK5jk6g==;lxKStw67P/3R7CquMQWDYg=="
+secured: "A8GR9j+8aEN/ScQp4uS9XdRaKx+/1NaZj4T5C6PijV011BzbmxbzIgAhadRYVma4iCDMCdj1Z7ysbDD1YS+dGowXdcqgnZhV1TaSTVRJzyCsfGh4DVXPPNMIgGmSj9SEdKXZvOlEgJqPXHokUoW89QUnLGvhX+ZAYD2cPBYn5hj6qEV/GQKkI1XOj0vmKycjmsA00k/DKdoI4K+HGcTJK8QOPmKHzVh3Yvse/YN2RrrqqO0YvpskotX0Y9oi0/c+TBdngeRJjINpJ9fFMC3iuaEGyW5LmqICJ0C2FwSP3v653Fbz1hpIjd40QPNWwMMFLYMOKay/vRG88s8jD5RzLMCEfndM7zZ/lja4QrlFWvyh/GeHiYehBKtN3U9X5dq5SWS5wjtbQgUkuE0IJJG8Tbg3FUIP4g18SB7zimaG5GWQQfRb7OEe7UZNhzGqeScCsK7O6Cphs7iON+RMShbTjP+bIeOaQrbA5Lfdw4KI60kG03Cete+Vhv9hRkUZ+WKy;MChDJk+ZCeZrT1R3sE1BxQ=="
 ---
 

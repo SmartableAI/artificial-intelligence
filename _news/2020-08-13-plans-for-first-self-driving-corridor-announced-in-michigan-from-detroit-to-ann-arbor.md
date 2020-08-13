@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Michigan Plans 40-Mile Stretch of Highway for Self-Driving Cars"
+    excerpt: "The state of Michigan and some private partners are taking steps toward building or assigning dedicated lanes for automated vehicles on a 40-mile (65-kilometer) stretch of highway between Detroit and Ann Arbor."
+    publishedDateTime: 2020-08-13T21:34:00Z
+    webUrl: "https://altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/"
+    ampWebUrl: "https://altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 44
+    images:
+      - url: "https://placehold.it/300X250/fff/ccc?text=ADVERTISEMENT"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Michigan unveils plan to design self-driving vehicle roadway between Detroit and Ann Arbor"
     excerpt: "Michigan’s first roadway designed for self-driving vehicles is in phase one of design, as industry officials are working with the state of Michigan to develop a 40-mile autonomous corridor between Detroit and Ann Arbor."
     publishedDateTime: 2020-08-13T19:03:00Z
@@ -75,6 +91,6 @@ related:
         height: 2160
         isCached: true
 
-secured: "qquAU2xDNZZt4X7df/ozC+j1Snqzl0qaDOas2J0HXxO6EP6vNDdqmRcFa8/Wx1lpNwuifN2p53CbA4MQo1RZCc/zhWYKLbs+kYNXpjSm22AwEu58NzyAY6DhBHLVxSg2jt+UMPJx0PZHmkAQgwvkQMdYW7ZVu8te5d1EKZjT0lLyO1RqR3CE0IUOP3zd6ElrBlWWirGN/KFerT0xqv0gjG1q/Orh//so4HPxvXZmhmM8YpPFmjpAOc/X5ED2ctGiU2Dd/46lqk4FSBxEIO99IMYM8iyd82OpU7AoYkh8ni21ZKv6yDU6CsrghM9Huru/wEXMn+mzqwgIVKqLo3soDw==;R4sRO46sRk34Lw51b+1cgg=="
+secured: "XkW032QfnpOCJVlrdQNQDAqWX/fiqGlTw7Eqnetnii2vYbWFxl3d7NGAb0giWlE3d3r3G6auLDz71hpQoEzsSmBVMiiUihY11P24zOAiFYimwz66itCun7zMSMh/KpmZ4cTj2lrXNXqEZ5F3mbV4OBlKFjLac6lUKMVbb/98yIgD2NfRZwDokIm/aj9XHuOY4QBsMKmgkPee08RDM0z699Q9JHT7MVoIxiTvJ1NMFhwdU2jXd/oFl2AGJqMvJymWDIzwQbFOT524HyeK1GPq/8+SvMCDHrO0bU/EZnlbTyX81rzCOdzCBG/nYZTHIUF7xjyKTmY3XPd6VFs+fH8nRfU0fExxB7UxXcsaCFUgM7IQYpGmLFmSJkx/vsXL49BTLYNAmcLuP+hCPyhx6T0tneDtbWuON2IWTWegYAG5FaNLdWJo6b28Lo+xIyyE0LDAv038ngsmyuwg2E28wxo3R2NchGbvds+bFy9l6iJTia+/nHyWPE30FtcNLvEAsQJcZbHRmQHKOmJoX5G/wPnJNA==;2ArsSZ/HkRswJGVcO8zDAw=="
 ---
 

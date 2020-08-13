@@ -7,7 +7,7 @@ webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-lear
 ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
@@ -25,67 +26,46 @@ images:
     isCached: true
 
 related:
-  - title: "5 Ways Machine Learning Can Thwart Phishing Attacks"
-    excerpt: "Machine learning algorithms can help strengthen the security on every mobile device, making them suitable as employees’ IDs, alleviating the need for easily-hackable passwords."
-    publishedDateTime: 2020-08-12T15:33:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/"
+  - title: "At prisons in Finland, inmates are learning AI and taking online tech courses as a bridge to life on the outside"
+    excerpt: "Finland transformed its criminal justice system 70 years ago. Now the country is investing in technology that offers inmates pathways back to society."
+    publishedDateTime: 2020-08-11T13:41:00Z
+    webUrl: "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f340796a56dba49b87f8d48%2F0x0.jpg"
+      - url: "https://i.insider.com/5f31c3faa6f0e106c119e315?width=1200&format=jpeg"
         width: 1200
-        height: 633
+        height: 600
         isCached: true
-  - title: "Ironscales raises $8 million more for AI that thwarts email phishing attacks"
-    excerpt: "Ironscales, a startup leveraging AI to detect and remediate email phishing attacks, has raised an $8 million extension to its series B round."
-    publishedDateTime: 2020-08-10T13:03:00Z
-    webUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
+  - title: "IIT Roorkee Announces Online Programmes In AI, Machine Learning And Data Science"
+    excerpt: "Indian Institute of Technology Roorkee, or IIT Roorkee, has announced two online certificate programmes -- Artificial Intelligence (AI) and Machine Learning, and Data Science -- in partnership with Coursera."
+    publishedDateTime: 2020-08-12T11:57:00Z
+    webUrl: "https://www.ndtv.com/education/iit-roorkee-announces-online-programmes-in-ai-machine-learning-and-data-science"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: NDTV
+      domain: ndtv.com
+    quality: 51
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/b4a2ebb3-b099-44eb-9cd7-d6c130920fcb-e1596737652461.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 601
+      - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/8/12/iit-roorkee-re.jpg"
+        width: 860
+        height: 430
         isCached: true
-  - title: "Combating Phishing Attacks with Artificial Intelligence"
-    excerpt: "Attackers have kept a close eye on this trend and get higher returns on investment by phishing mobile devices. It becomes more challenging for consumers and employees to identify a phishing attack in similar ways they would on a laptop or desktop computer."
-    publishedDateTime: 2020-08-11T19:36:00Z
-    webUrl: "https://customerthink.com/combating-phishing-attacks-with-artificial-intelligence/"
+  - title: "The era of artificial intelligence (AI) and machine learning for Army tasks in the field has arrived"
+    excerpt: "AI techniques can help predict when vehicle parts need to be replaced before the vehicle breaks down. If this can be done well it will save money."
+    publishedDateTime: 2020-08-12T06:34:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14181417/artificial-intelligence-ai-machine-learning"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/technology-2818664_1280-pixabay-technology-computer-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Predictive modeling of estrogen receptor agonism, antagonism, and binding activities using machine- and deep-learning approaches"
-    excerpt: "The efficient identification of suitable chemical descriptors and machine-learning algorithms, including deep learning, is a considerable challenge for computational toxicology studies. Here, we sought to apply classic machine-learning algorithms and deep ..."
-    publishedDateTime: 2020-08-10T18:33:00Z
-    webUrl: "https://www.nature.com/articles/s41374-020-00477-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41374-020-00477-2/MediaObjects/41374_2020_477_Fig1_HTML.png"
-        width: 518
-        height: 685
-        isCached: true
+      name: Military
+      domain: militaryaerospace.com
+    quality: 19
 
-secured: "5YuraM0kt+lLGDD2Rykio10mEcUM8x/ROsrf6VLHVKHgt+tYVWa/8RuULnMd8g7R/Z/UPl+eaIycTHOA0yASglrA6YFWMypa84gT1BYa8Fvo4Eoy1UtDXXIeDK97rJzqgU+xbXyQF7Mdt6fbc2/j0ZyAaglvl/tumwl4IxbF9RfaxPz+Wn+XITfsDskbq4ex/bVRorYsOqbasQj9NaVEelnbMNZwjPyGGdVBlXuGlF+RTQ4lNoU14jmxc67e3LtHpx2QLr4JI1pZ3xK/TXZjFAH7lj0rJA4AcbYN2axFW7r/hQiRWlYDAEBup+Bj9Df7BJHvwfepJJOYDa4MJ6JIIg==;hXOS/CoearY8pbNSmjjmhg=="
+secured: "GZ/G1d++c+SGJZ82ZofUt5QDrbeeS6chbemx7iaxuwLctc4xwtmISNQbFJ6CXWFZHgvQ1tINLrEF/DkM/EvDDMeAr3SG171lenTqs7eiNqh1dRu59I9GrsomLth3/wbghoBHLuyvoxF2vzsO4YMtw17b+9oYRdgzVP7mIF5WsVUtFMn7k/Hon6J1BfHyBIoibCF9Hl6Oh9VCGVyj7j/BPDHi+Lur1tYKRxHasQN/MTb3AOt8z98c8tWY6b6ZTNIsBnwRoioL6a9SXxWzR1dSm/m8S5oq9gvXIPr4GgIksuid5fdeOZhjjrEpjAfUhuTfx5lFxqFSE1rwkTXF7jeXLwCRwfTe7DYXAzT3Dkzkh8FovuMBxuoPDSt3mqdFk0OTSSkmR6NjfFHQcCP6pAwc2QhwACYQjUWgG6S8+HDtwdppI2WqwVNOyaO5mgpRJs1QWrR09k09c+iEaJUwTI/h0HdWk0HNGi1ewPjdPOPWwPSDy/4WLmtE0301WufTEOx8FHcdGSvLGuIrURBfzYOwfg==;2MUrvX7Hq8hxewbQPBOBBg=="
 ---
 

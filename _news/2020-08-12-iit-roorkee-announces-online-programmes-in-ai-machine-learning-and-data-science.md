@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Improving Online Learning and More with Artificial Intelligence"
+    excerpt: "Artificial intelligence is gaining traction in classrooms, research labs and physical plants on campus. Tommy Peterson is a freelance journalist who specializes in business and technology and is a frequent contributor to the CDW family of technology magazines."
+    publishedDateTime: 2020-08-13T18:32:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence"
+    ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 59
+    images:
+      - url: "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "The era of artificial intelligence (AI) and machine learning for Army tasks in the field has arrived"
     excerpt: "AI techniques can help predict when vehicle parts need to be replaced before the vehicle breaks down. If this can be done well it will save money."
     publishedDateTime: 2020-08-12T06:34:00Z
