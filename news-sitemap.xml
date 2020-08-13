@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13</loc>
+    <lastmod>2020-08-12T22:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions/</loc>
     <lastmod>2020-08-12T15:49:17-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -21,6 +27,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/accessing-data-sources-from-amazon-sagemaker-r-kernels/</loc>
     <lastmod>2020-08-12T12:10:20-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/</loc>
+    <lastmod>2020-08-12T12:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -253,6 +265,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.bbc.com/news/uk-wales-53734716?at_medium=custom7&amp;at_custom4=3D2C0040-DBB6-11EA-8C59-B1D74744363C&amp;at_custom2=twitter&amp;at_custom1=%255Bpost+type%255D&amp;at_campaign=64</loc>
+    <lastmod>2020-08-11T04:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/</loc>
     <lastmod>2020-08-11T03:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -261,12 +279,6 @@
   <url>
     <loc>https://www.mid-day.com/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234</loc>
     <lastmod>2020-08-11T02:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/uk-wales-53734716</loc>
-    <lastmod>2020-08-11T02:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -457,12 +469,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.openpr.com/news/2107997/global-artificial-intelligence-ai-in-medical-market</loc>
-    <lastmod>2020-08-10T00:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10</loc>
     <lastmod>2020-08-09T21:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -483,6 +489,12 @@
   <url>
     <loc>https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/</loc>
     <lastmod>2020-08-09T10:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams</loc>
+    <lastmod>2020-08-09T08:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -523,7 +535,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
+    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
     <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1171,6 +1183,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200804005429/en/Inspur-NF5488A5-Breaks-AI-Server-Performance-Record</loc>
+    <lastmod>2020-08-04T06:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/</loc>
     <lastmod>2020-08-04T06:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1393,7 +1411,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200803005187/en/Global-Payments-Joins-Forces-AWS-Deliver-Future</loc>
+    <loc>https://www.marketwatch.com/press-release/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments-2020-08-03?mod=mw_quote_news&amp;tesla=y</loc>
     <lastmod>2020-08-03T05:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1825,14 +1843,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/</loc>
-    <lastmod>2020-07-30T06:07:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers/article_2506dea5-6c45-554f-b7e5-9326efb69284.html</loc>
+    <lastmod>2020-07-30T06:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.morningstar.com/news/pr-newswire/20200730ny78395/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers</loc>
-    <lastmod>2020-07-30T06:00:00-07:00</lastmod>
+    <loc>https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/</loc>
+    <lastmod>2020-07-30T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2791,7 +2809,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <loc>https://www.reseller.co.nz/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
     <lastmod>2020-07-26T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

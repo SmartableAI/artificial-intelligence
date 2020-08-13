@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market 2020-2024 / Growth, Emerging Trends and Future Opportunities"
+    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
+    publishedDateTime: 2020-08-12T20:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Military Market is Set for Lucrative Growth During 2020-2026 - Zion Market Research"
     excerpt: "Zion Market Research Reports added Latest Research Report titled \"Global Artificial Intelligence in Military Market is Set for Lucrative Growth During 2020-2026 - Zion Market Research\" to its Large Report database."
     publishedDateTime: 2020-08-11T10:14:00Z

@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Global Payments Joins Forces with AWS to Deliver the Future of Payments"
-excerpt: "Global Payments Inc. (NYSE: GPN) and Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced a new, multi-year collaboration"
+excerpt: "Global Payments Inc. (NYSE: GPN) and Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced a new, multi-year"
 publishedDateTime: 2020-08-03T12:06:00Z
-webUrl: "https://www.businesswire.com/news/home/20200803005187/en/Global-Payments-Joins-Forces-AWS-Deliver-Future"
+webUrl: "https://www.marketwatch.com/press-release/global-payments-joins-forces-with-aws-to-deliver-the-future-of-payments-2020-08-03?mod=mw_quote_news&tesla=y"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200803005187/en/671397/23/GPN_Logo_for_BW.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     isCached: true
 
-secured: "KdQJVLGuaEv5/HPlMXyS4Qtp02itKiLW1FzAX1wQUMn+uyvhGE+QOWH0N7UhRkQD6cKmcw6mLkuyLkfGvj6fv7jFrPbaU0TmN/MeRKSwb+HR33fsGA8RfphUeikqYuBVuoJNGCJyhha4SFFHuEgO9jFkb9KKQhutGenjT/eCfw1MV9BNACq9ObLtjQCsvFkN41yFvnAajgYQLI0EG+lvE3hljG+w8IABkvw6xucZ+SNFqqGHSfjnusSzk/XWDsr9FfPJNGhbMyB8aA6x3wk3tuY1QG2Fv2WL8KD/pBIoaPyere04UPXpulLA0MX+yv6eeygIn6+rrOeIb9ZGBbtnwg==;kjCOjchDSY2q1j0JJTNkRw=="
+secured: "SdCsfxOFCx2ICyMPBLIwQvrtk97opxKakhMK3SudAbJGbJ44qGUalBKHCx6ogL57dRXly/5jUI1aRwyHg2d1oot7YHlEaWODhoWc7vwBrMYA6cmoqPvOlLSnxhdcGhBiE6Z2dAm6S2b3bNafQhPI9LYiqZ5jJD29wQ0/GCbCmoc6b4u7RdD5RHoLmhcUsMLdurAMlptgdYfFdBV1aXX8UVffRTeo1rDy2r6Md4/ADvdW498hGHDKoQSeNjgH9h38TfedY3tQx9fytPpajUpLehD5JderEY3EWcdora6Q3aVrKIxgC2j95uI2uMPtXMLZzgJgkPiHhwgh82weUBqYng==;9MudIjxoXp86LDZMRPmjQA=="
 ---
 

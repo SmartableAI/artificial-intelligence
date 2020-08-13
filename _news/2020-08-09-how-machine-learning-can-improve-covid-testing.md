@@ -56,22 +56,6 @@ related:
         width: 650
         height: 436
         isCached: true
-  - title: "NIH Harnesses Artificial Intelligence for COVID-19 Diagnosis, Treatment, and Monitoring"
-    excerpt: "Collaborative network to enlist medical imaging and clinical data sciences to reveal unique features of COVID-19. The National Institutes of Health has launched the Medical Imaging and Data Resource Center (MIDRC),"
-    publishedDateTime: 2020-08-08T11:33:00Z
-    webUrl: "https://scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/"
-    ampWebUrl: "https://scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 51
-    images:
-      - url: "https://scitechdaily.com/images/COVID-19-Patients-Lungs-CT-Scan-777x377.jpg"
-        width: 777
-        height: 377
-        isCached: true
   - title: "Artificial intelligence could improve accuracy, efficiency of CT screening for COVID-19 diagnosis"
     excerpt: "Notre Dame News gathers and disseminates information that enhances understanding of the University’s academic and research mission and its accomplishments as a Catholic institute of higher learning."
     publishedDateTime: 2020-08-10T16:00:00Z

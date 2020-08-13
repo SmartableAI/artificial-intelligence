@@ -2,6 +2,147 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-07-21-save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning.md",
+      "title": "Save half the cost off a 2-Yr subscription to Busuu language learning",
+      "excerpt": "Busuu is the world's largest community for language learning, providing courses in 12 different languages on web and mobile to more than 100 million learners worldwide. Save half off today!",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595320043_product_41710_product_shots1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
+      "publishedDateTime": "2020-07-21T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-seeq-expands-support-for-microsoft-cloud-services.md",
+      "title": "Seeq Expands Support for Microsoft Cloud services",
+      "excerpt": "and Azure Notebooks for machine learning integration, in addition to on premise support for Windows Server, Active Directory, and SQL Server. Seeq is now adding connectivity to Azure Data Explorer, the latest release of Time Series Insights, and Power ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/46608-seeq-expands-support-for-microsoft-cloud-services",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/b87fa579-6462-49de-9bc1-ddd365f6a7ee.jpg?crop=true&height=430&t=1596546244&width=640",
+          "width": 600,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-youcanbookme-optimizes-your-apps-thanks-to-amazon-codeguru.md",
+      "title": "YoucanBook.me optimizes your apps thanks to Amazon CodeGuru",
+      "excerpt": "This is a guest post co-written by Sergio Delgado from YoucanBook.me. In their own words, “YouCanBook.me is a small, independent and fully remote team, who love solving scheduling problems all over the world.” At YoucanBook.me, we like to say that we’re “a small company that does great things.” Many",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/youcanbookme-1.jpg",
+          "width": 800,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T09:22:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-microsoft-launches-ai-powered-dynamics-365-retail-and-anti-fraud-services.md",
       "title": "Microsoft launches AI-powered Dynamics 365 retail and anti-fraud services",
       "excerpt": "During its Inspire 2020 conference, Microsoft unveiled new retail- and fraud-focused services to address pandemic-related issues and other challenges.",
@@ -1005,146 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-how-automation-ai-and-analytics-are-driving-martech-amidst-market-challenges.md",
-      "title": "How Automation, AI And Analytics Are Driving Martech Amidst Market Challenges",
-      "excerpt": "I’ve written a lot about the importance of the marketing stack in providing personalization and automation that will improve and enhance customer experience. Here are some insights on how Martech is enabling enterprises to overcome market challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1073605244%2F0x0.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/",
-      "publishedDateTime": "2020-07-20T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-asmpt-collaborates-with-ibm-research-on-ai-chip-technology.md",
-      "title": "ASMPT Collaborates with IBM Research on AI Chip Technology",
-      "excerpt": "With the dawn of the Artificial Intelligence (AI)era upon the world, the usual playbook of continuous shrinking andpacking more and more transistors into chipsets will",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2020/ASM-logo-200720_0.jpg?itok=igskQ2yX",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology?amp",
-      "publishedDateTime": "2020-07-20T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-wyze-will-try-pay-what-you-want-model-for-its-ai-powered-person-detection.md",
-      "title": "Wyze will try pay-what-you-want model for its AI-powered person detection",
-      "excerpt": "Smart home company Wyze is experimenting with a rather unconventional method for providing customers with artificial intelligence-powered person detection for its smart security cameras: a pay-what-you-want business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/FOfBqFUxP-Z7IBLvzcnvwy2O0-8=/0x0:1599x1066/1400x933/filters:focal(1023x368:1277x622):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67083966/Wyze_Labs_Inc_WyzeCam.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment",
-      "publishedDateTime": "2020-07-20T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-p
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -20,19 +20,35 @@ topics:
   - AI
 
 related:
-  - title: "This ‘Cloaking’ Algorithm Breaks Facial Recognition by Making Tiny Edits"
-    excerpt: "A team of researchers at the University of Chicago have developed an algorithm that makes tiny, imperceptible edits to your images in order to mask you"
-    publishedDateTime: 2020-08-10T22:32:00Z
-    webUrl: "https://petapixel.com/2020/08/10/this-cloaking-algorithm-blocks-facial-recognition-by-making-tiny-edits/"
+  - title: "Fawkes photo tool lets anyone secretly ‘poison’ facial recognition systems"
+    excerpt: "Unknown to the public, some companies are quietly downloading this content en masse and using it to create secret facial recognition models of the subjects…but there’s a solution, and it is called Fawkes. Facial recognition models are, quite obviously ..."
+    publishedDateTime: 2020-08-12T19:02:00Z
+    webUrl: "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/"
+    ampWebUrl: "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/amp/"
     type: article
     provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 38
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
     images:
-      - url: "https://petapixel.com/assets/uploads/2020/08/fawkes_feat.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/08/fawkes_mask_main_uns.jpg"
+        width: 1440
+        height: 800
+        isCached: true
+  - title: "Researchers Trick Facial-Recognition Systems"
+    excerpt: "Goal was to see if computer-generated images that look like one person would get classified as another person."
+    publishedDateTime: 2020-08-11T23:01:00Z
+    webUrl: "https://www.darkreading.com/attacks-breaches/researchers-trick-facial-recognition-systems/d/d-id/1338643"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 24
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "xma5V51Q7C6kdwFaptDoO4QTUYY1eUHs7AT2lBwyM/pnPFQhSojQGEw6NrG1WtM8FYxifhsM93nz61HWbVt45UVPlpm3t32jMEPIYDAisAtli+6/QIeRCF8HEWazQpHd+O01K0Pm7SsQwsKZhgZ2idfFjpxpd7P0T04UsGCLwOerA0U3BXoMldWl+XpGAfkjKEpeZXpr5Qxal7T9KYkzSGqnlNnQJYWFagg07FTCkqB1MBFNo1BZLFTzc/QVP+16aPbmrH4s3haRNkzaf4z+uH+/Ez1SWdMPXqjW2Y73cSQsDw5p7B1WXK3/hhAzDohYwBFv4mWcq9Rp/8vw9e8VsfvgQtvqaKDFVrvubEU1bV+1VzCu3GbAu9Tv6OxcySYwiKx353kAmLlCCAKF1kb886pRfWKiapJK+PDX3VWBwwBKWdT0buziTtBbgMvDDTqfG2hEt2wqcjI4hD49Jh66e3peu+QwczttyKyJNbQM38S1EN80SGV+Xshq1fsh0V5Y9t5dHfbfZVJUng3MaeVA4A==;EKtUDZz5kj/KsIFtAK3gkg=="

@@ -2,6 +2,137 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-07-08-super-bowl-plays-to-tech.md",
+      "title": "Super Bowl Plays To Tech",
+      "excerpt": "The Amazon Cloud was used in conjunction with its advanced analytics tools and a machine learning package from SageMaker to provide valuable information to the NFL, broadcasters, in-stadium displays, coaches, players and, of course, the fans. Today ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/iot/super-bowl-plays-tech",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/thomas-serer-QUr0R1VZPNw-unsplash_700W.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-watch-google-deepminds-alphago-documentary-for-free.md",
+      "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
+      "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg",
+          "width": 1278,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-how-k-health-is-using-ai-to-become-a-leader-in-telehealth-amid-the-pandemic.md",
+      "title": "How K Health is using AI to become a leader in telehealth amid the pandemic",
+      "excerpt": "CNBC's Julia Boorstin reports on K Health, an AI-driven telehealth service that offers patients access to care through their iPhone or Android device. The company ranked No. 35 on the 2020 Disruptor 50 list.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2020/07/07/how-k-health-is-using-ai-to-become-telehealth-leader-amid-pandemic.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106606195-15941460253ED3-50-KHEALTH-070720.jpg?v=1594146024",
+          "width": 1920,
+          "height": 1080,
+          "title": "How K Health is using AI to become a leader in telehealth amid the pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-facial-recognition-market-to-surpass-12-billion-by-2026.md",
       "title": "Facial recognition market to surpass $12 billion by 2026",
       "excerpt": "To enhance tracking and security in public spaces, the facial recognition technologies market is expected to surge in the years ahead. In the era of digital transformation, more organizations are utilizing facial recognition technologies for a host of ...",
@@ -1285,139 +1416,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-aws-announces-general-availability-of-amazon-codeguru.md",
-      "title": "AWS Announces General Availability of Amazon CodeGuru",
-      "excerpt": "AWS announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning. It provides intelligent recommendations for improving code quality and identifying an application's most expensive lines of code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/07/aws-amazon-codeguru-ga/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/07/aws-amazon-codeguru-ga/en/headerimage/amazon-codeguru-development-cycle-1593945352149.jpeg",
-          "width": 1024,
-          "height": 469,
-          "title": "AWS Announces General Availability of Amazon CodeGuru",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-dont-ask-if-artificial-intelligence-is-good-or-fair-ask-how-it-shifts-power.md",
-      "title": "Don’t ask if artificial intelligence is good or fair, ask how it shifts power",
-      "excerpt": "Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as who is profiled as a criminal, who is likely to buy what product at what price, who gets medical treatment and who gets hired.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-020-02003-2",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-02003-2/d41586-020-02003-2_18169050.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-deepfakes-are-becoming-the-hot-new-corporate-training-tool.md",
-      "title": "Deepfakes Are Becoming the Hot New Corporate Training Tool",
-      "excerpt": "Coronavirus restrictions make it harder and more expensive to shoot videos. So some companies are turning to synthetic media instead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efe224130e7532f3baa1d0a/master/pass/deepfakes-commercial-1220400443.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-drives-real-businesses-deepfake-technology/amp",
-      "publishedDateTime": "2020-07-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

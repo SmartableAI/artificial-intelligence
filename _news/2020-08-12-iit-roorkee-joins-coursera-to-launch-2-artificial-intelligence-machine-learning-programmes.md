@@ -8,7 +8,7 @@ ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-roorkee-joins-cou
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/amp_articleshow/77506827.cms"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Roorkee Partners With Online Learning Platform Coursera To Launch Two New AI, Machine Learning Programmes"
+    excerpt: "The Indian Institute of Technology-Roorkee ( (IIT-R) in partnership with leading online learning platform Coursera on Thursday (13 August) launched two new online certificate programmes for professionals looking to build skills in data science,"
+    publishedDateTime: 2020-08-13T04:21:00Z
+    webUrl: "https://swarajyamag.com/insta/iit-roorkee-partners-with-online-learning-platform-coursera-to-launch-two-new-ai-machine-learning-programmes"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 35
+    images:
+      - url: "https://images.assettype.com/swarajya%2F2020-08%2Ff8087e53-2177-4090-b409-bb9bf46d5c48%2F1280px_Admin_Block_IIT_R.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IIT Roorkee joins Coursera to launch 2 AI, ML programmes"
     excerpt: "The Indian Institute of Technology-Roorkee ((IIT-R) in partnership with leading online learning platform Coursera on Thursday launched two new online certificate programmes for professionals looking to build skills in data science,"
     publishedDateTime: 2020-08-12T18:29:00Z

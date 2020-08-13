@@ -3,29 +3,19 @@ category: news
 title: "Google, IBM, Microsoft AI models fail to curb gender bias"
 excerpt: "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes."
 publishedDateTime: 2020-08-08T06:16:00Z
-webUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
-ampWebUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
+webUrl: "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html"
+ampWebUrl: "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html"
 type: article
-quality: 76
-heat: 76
-published: true
 
 provider:
   name: Sify.com
   domain: sify.com
 
 topics:
-  - IBM AI
-  - AI
   - Microsoft AI
+  - AI
 
-images:
-  - url: "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "QLKQE+s3MebDlGrzPaO/Xol7uEzAtCHNfIYK0I4wsOVd9+W5rqP8ChMN5cyVDmc4pJwokCHRVCsKIQ8OxJpEicW1liXb1hUAW7OUfNRSBonc5raGcOEZB3PuBn1ewiUa0XgB9WIHeeiHINA6pswJN2xuta3vgZLspGWVtaQ20rMJPLHm7z5VM4aJzXOs2H3SuWPtQskc3wpl8R8N6vCVUlq3gez4m1GY7tjkCQuX+Qrf9ja7SMaT5UmWcU9t/S9BSReVoFIkyf59Tybf/bGKXaxtksZYz6+wWUwhl5malFhfsS+HYL0u6W40Ac2ZKQwO9D4+cEyKj+PU6XeMsyhjawXK1ryAp5HOhZ4mmhFXZblNhtfsMronkVdHrb5eni0PbKlrgVpvrvPzXBRrS/VEytNpIODfyevptJtL0LJk0VKLxXrjNDfG4SX/k6IkCPsiqTHmrE3PrRhT1H6UVvWBuHWmdxGoUKWqQp0ja5JFUz98DHklOhXnHDaawCcRA7cG;R7/rRnp4fh5tGY9iG/3wfA=="
+secured: "apfKERvaU++9Uir81DvZwB7+d/ZmQvwkLCJ8bCN1unbJBdlEFhuRse97gpTUH7dWfhGGIL0O3KHTtqUtYXM3WuB0qeEhEZDgAQcuQbXGSZVSyZKYBfd3eyQ71m8fug90e1hM6zm1/ZnZcHsXD0fb2AF7IqltMet4J49WOA6dmoBEJFtlTKjK6E46yk312u16DKKArkq5QTFGY+NaOrV6xEIpfgDGatWimyVhZclkaIPFxZL0oItv+lz2xhNpO74cN2A1NaxROg/627L/CVvxA+knd35S8MQEHqr8erxlOuHySVUdpJiwB9zL1nuLr/NyilvtOpYkWUqsr7VlXdldoQ==;v9MiOvgFb9xw3voWieK6gg=="
 ---
 

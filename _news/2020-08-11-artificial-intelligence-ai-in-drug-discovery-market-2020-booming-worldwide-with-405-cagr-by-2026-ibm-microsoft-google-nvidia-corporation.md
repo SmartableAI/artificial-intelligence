@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Fintech Market Size, Share 2020, Growth Outlook – Microsoft, Google, IBM, Amazon Web Services, IPsoft"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 08, 2020 (Market Insight Reports) -- Global Artificial Intelligence (AI) In Fintech Market is a comprehensive report which provides a detailed overview of the major ..."
-    publishedDateTime: 2020-08-08T11:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-2020-growth-outlook-microsoft-google-ibm-amazon-web-services-ipsoft-2020-08-08"
+  - title: "Artificial Intelligence in Drug Discovery Market Share to Touch at a CAGR of 40.80% During 2020-2027"
+    excerpt: "Selbyville, Delaware Market Study Report newly added the Global Artificial Intelligence in Drug Discovery Market Report that gives meticulous investigation of current scenario of the market size, demand,"
+    publishedDateTime: 2020-08-09T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-to-touch-at-a-cagr-of-4080-during-2020-2027-2020-08-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

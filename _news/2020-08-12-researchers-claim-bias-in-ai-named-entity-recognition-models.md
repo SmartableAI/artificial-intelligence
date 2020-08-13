@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-name
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-named-entity-recognition-models/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1156
     height: 576
     isCached: true
-
-related:
-  - title: "Researchers Trick Facial-Recognition Systems"
-    excerpt: "Goal was to see if computer-generated images that look like one person would get classified as another person."
-    publishedDateTime: 2020-08-11T23:01:00Z
-    webUrl: "https://www.darkreading.com/attacks-breaches/researchers-trick-facial-recognition-systems/d/d-id/1338643"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 24
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "R36RyhPkZycZeT/SUJi/UDHIblioYuwgbKZcyMIb6WjRVMGwrq0mnHGVM3+J5Ze+c/1oPIgncUpeFPGro7tK8oq4Rf2HvrajxNVE2KjMx6pgf+yA1PipGddTYOkcRPRlnX8pWzCnKP/0J6hKQpgzroSzgm7WTfjfei7yDTo1jtCaZNydGibi+55TFDnZHmZkIx5carOoSlNYvcyRhto7qdIYJSyrUTstgeV5xISjr3uZsLyA/A5I+g8OXfsA2QpI6Msu4c+2IjTZ/h94hVoBS9+W42VqZ3cDdlkdAOTQ0p72SL0L1JiPFBE8J1aCFxx6M37eirrpGA0IfqDgvsJWab3n0RBnunA03gw5XsVv0EE3fJEtAI203qyJolPRqg4nuy4fRQGnXq1BbYr5XpxMrBV3iA+8W8Hm0QG9jCLeH9PMgRf3pCyroVXLDglqvhELgiDMpc/wzw6qTwy+26PVhBNZKrr3TL7Fg5tQfu7aGI8WVUgROrmG7/uglodFf7YpPujtdiVHIYVTO5WZdwjQ4A==;noJImkK38bopCj5cu/PcCw=="
 ---

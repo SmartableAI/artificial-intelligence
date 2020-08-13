@@ -2,6 +2,96 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-11-heres-how-customer-experience-and-ai-are-driving-the-next-gen-of-e-commerce-industry.md",
+      "title": "Here's How Customer Experience And AI Are Driving The Next Gen Of E-commerce Industry",
+      "excerpt": "Brands are shifting their marketing strategies and resources from brick-and-mortar to e-commerce format, striving to create personalized shopping experiences for their customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354565",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597135156-ecommercebigdata.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354565",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354565",
+      "publishedDateTime": "2020-08-11T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-new-machine-learning-tool-predicts-devastating-intestinal-disease-in-premature-infants.md",
+      "title": "New machine learning tool predicts devastating intestinal disease in premature infants",
+      "excerpt": "The pilot study was presented virtually on July 23 at ACM CHIL 2020. \"It's amazing how we may be able to use machine learning to stop this from happening to babies,\" said the study's co-author ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-newmachinele.jpg",
+          "width": 2879,
+          "height": 1919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp",
+      "publishedDateTime": "2020-08-11T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india.md",
       "title": "Singapore’s trade finance startup Incomlend raises $20M led by Sequoia Capital India",
       "excerpt": "Incomlend, a Singapore-headquartered startup that operates a trading platform to connect exporters and importers with investors, has raised $20 million in a new financing round, it said on Tuesday. Sequoia India,",
@@ -831,7 +921,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-industry-development-scenario-and-forecast-to-2025-2020-08-10",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 203,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1098,107 +1188,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-ai-needs-to-learn-multi-intent-for-computers-to-show-empathy.md",
-      "title": "AI Needs To Learn Multi-Intent For Computers To Show Empathy",
-      "excerpt": "Artificial Intelligence (AI) is smart, but it could do better. The software development industry is constantly working to push algorithmic logic beyond the scope of the current computer processing envelope and create new ways for computers to ‘think’ and emulate human beings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f311f1dc01c7ae12882d816%2F0x0.jpg",
-          "width": 640,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/08/10/ai-needs-to-learn-multi-intent-for-computers-to-show-empathy/amp/",
-      "publishedDateTime": "2020-08-10T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-how-to-choose-a-cloud-machine-learning-platform.md",
-      "title": "How to choose a cloud machine learning platform",
-      "excerpt": "Even if you’re good at those tasks, they are time-consuming and can be automated to a large extent. AutoML systems often try many models to see which result in the best objective function values, for example the minimum squared error for regression problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/08/ifw_ts_ai_ml_by-just_super-getty-images_2400x1600-100853890-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3568889/how-to-choose-a-cloud-machine-learning-platform.amp.html",
-      "publishedDateTime": "2020-08-10T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

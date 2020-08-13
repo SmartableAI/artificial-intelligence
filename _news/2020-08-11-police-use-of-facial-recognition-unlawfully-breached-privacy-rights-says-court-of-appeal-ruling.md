@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition use by South Wales Police ruled unlawful"
+    excerpt: "Image caption Ed Bridges has had his image captured twice by AFR technology, which he said breached his human rights The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful,"
+    publishedDateTime: 2020-08-11T11:16:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53734716?at_medium=custom7&at_custom4=3D2C0040-DBB6-11EA-8C59-B1D74744363C&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1E77/production/_113899770_mediaitem113899769.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facial recognition use by South Wales Police 'unlawful'"
     excerpt: "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,"
     publishedDateTime: 2020-08-11T09:31:00Z
@@ -168,38 +184,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Facial Recognition Could Help to Stamp Out Bitcoin Social Media Scams"
-    excerpt: "Facial recognition can help prevent future Bitcoin scams like those that hit Twitter and YouTube, said Rod Hsu, president and co-founder of virtual currency platform Coincurve. Du"
-    publishedDateTime: 2020-08-09T15:08:00Z
-    webUrl: "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams"
-    ampWebUrl: "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmQxMjRlYjQ2NzYzNjFjNTQ4NmI0OTg4OTdjMTkxOC5qcGc=.jpg"
-        width: 370
-        height: 246
-        isCached: true
-  - title: "Facial recognition use by South Wales Police ruled unlawful"
-    excerpt: "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-    publishedDateTime: 2020-08-11T11:40:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-53734716"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53734716"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53734716"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Police use of ‘sinister’ facial recognition ruled a breach of privacy"
     excerpt: "Ed Bridges crowdfunded a legal challenge against the use of Automatic Facial Recognition technology (Picture: PA) A police force’s use of facial recognition has been ruled unlawful in a landmark ..."
     publishedDateTime: 2020-08-11T13:26:00Z
@@ -215,6 +199,22 @@ related:
       - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/08/PRI_160846234.jpg?quality=90&strip=all&zoom=1&resize=600%2C399&ssl=1"
         width: 600
         height: 399
+        isCached: true
+  - title: "South Wales police lose landmark facial recognition case"
+    excerpt: "Court rules use of technology broke equalities law and breached privacy rights"
+    publishedDateTime: 2020-08-11T12:49:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case?CMP=twt_gu"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_89_6085_3651/master/6085.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2b27eccfd11bd2695aad1201de765a8"
+        width: 600
+        height: 360
         isCached: true
   - title: "UK Police Use of Facial Recognition Ruled Unlawful"
     excerpt: "The use of facial recognition technology by a British police force was ruled unlawful on Tuesday by the Court of Appeal in a case brought by a civil rights campaigner."
@@ -293,6 +293,36 @@ related:
       - url: "https://www.shropshirestar.com/resizer/vNMFGvSrd0Rt2mnczTqsvrhPzv4=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/MODQIB66OBEELCGGKC6RXOYVQU.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "UK court says face recognition violates human rights"
+    excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
+    publishedDateTime: 2020-08-11T15:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 44
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
+  - title: "Court Says Face Recognition Violates Human Rights"
+    excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
+    publishedDateTime: 2020-08-11T15:13:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21159906/court-says-face-recognition-violates-human-rights"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://p1-cms-assets.imgix.net/files/base/indm/multi/image/2020/08/16x9/AP20015517325497.5e2b14aa31328.5f32b39b78dec.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
         isCached: true
   - title: "Is police use of face recognition now illegal in the UK?"
     excerpt: "The UK Court of Appeal has determined that the use of a face-recognition system by South Wales Police was “unlawful”, which could have ramifications for the widespread use of such technology across th"
@@ -404,6 +434,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/17123440/south-wales-police-facial-recognition-vehicles.jpg"
         width: 750
         height: 430
+        isCached: true
+  - title: "UK appeals court: police facial recognition technology violates human rights, data protection laws"
+    excerpt: "Britain's Court of Appeals held Tuesday that the South Wales Police Force's use of facial recognition technology violates human rights and data protection laws. The South Wales Police Force (SWP)"
+    publishedDateTime: 2020-08-12T16:53:00Z
+    webUrl: "https://www.jurist.org/news/2020/08/uk-appeals-court-police-facial-recognition-technology-violates-human-rights-data-protection-laws/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 25
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2019/10/facial_recognition_1572545155.png"
+        width: 1280
+        height: 1066
         isCached: true
   - title: "Police Use of Facial Recognition Ruled Unlawful in World First Case"
     excerpt: "Police Use of Facial Recognition Ruled Unlawful in World First Case. Liberty celebrates verdict but South Wales Police may continue trials"

@@ -24,22 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers claim bias in AI named entity recognition models"
-    excerpt: "Researchers show evidence of demographic bias in named entity recognition models. They're more likely to accurately recognize white names, on average."
-    publishedDateTime: 2020-08-12T15:51:00Z
-    webUrl: "https://venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-named-entity-recognition-models/"
-    ampWebUrl: "https://venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-named-entity-recognition-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-named-entity-recognition-models/amp/"
+  - title: "Fawkes photo tool lets anyone secretly ‘poison’ facial recognition systems"
+    excerpt: "Unknown to the public, some companies are quietly downloading this content en masse and using it to create secret facial recognition models of the subjects…but there’s a solution, and it is called Fawkes. Facial recognition models are, quite obviously ..."
+    publishedDateTime: 2020-08-12T19:02:00Z
+    webUrl: "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/"
+    ampWebUrl: "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: SlashGear
+      domain: slashgear.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/12/b26c3140-0f9e-4124-833c-483684e13b39.png?w=1200&#038;strip=all"
-        width: 1156
-        height: 576
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/08/fawkes_mask_main_uns.jpg"
+        width: 1440
+        height: 800
         isCached: true
+  - title: "This tool could protect your photos from facial recognition"
+    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
+    publishedDateTime: 2020-08-09T22:01:00Z
+    webUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/"
+    ampWebUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
 
 secured: "OwkkVSS87u0ZjNpzbnLYGLrxVVFn+iW8GQZvUDWnUWtfQeQOBetOZkehJEk5XkU4LbtAL8wiqLWV6HlCCMW3RERAxY8Tnsk6iKALBS+r5+c0SToBoLGCfaGynq+h+PqOr1yDYrOj5qUnLMKY0XzonLSuV/6MDtkxlKl6ScDwUEj5WOOOcO+jl7eS2CKW+CArWOPU6kvJeh9liFDd6L98C0G9WP7B1lcFUAg1AAppY/gEOGOnNsEu4bT40nvMt7wTat11jzgbWiT7MwlcQye/95B/Yxngyk6wfyZeLcDAAkTdAE8Tk+vLRYY3Ytex+KR1ciz4hu7kXU/m2abTfen0sg==;Cxkv6mK8hud88n+EhwD/fw=="
 ---

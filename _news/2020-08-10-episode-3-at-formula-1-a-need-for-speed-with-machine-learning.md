@@ -5,8 +5,8 @@ excerpt: "How the auto racing brand is using data and machine learning to change
 publishedDateTime: 2020-08-10T16:14:00Z
 webUrl: "https://www.cio.com/article/3569174/episode-3-formula-1-s-need-for-speed-with-machine-learning.html"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/07/22769-aws-podcast-series-megaphone-2-1-100853289-large.jpg"

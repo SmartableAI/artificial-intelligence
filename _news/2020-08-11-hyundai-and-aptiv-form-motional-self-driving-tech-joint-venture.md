@@ -88,22 +88,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "James Wan To Develop Knight Rider Movie, The Original Self-Driving Car"
-    excerpt: "Comic Years is the go-to source on news, discussion, and community for comics, movies, gaming, anime, pop culture and TV!"
-    publishedDateTime: 2020-08-08T12:16:00Z
-    webUrl: "https://comicyears.com/movies/james-wan-to-develop-knight-rider-movie-the-original-self-driving-car/"
-    ampWebUrl: "https://comicyears.com/movies/james-wan-to-develop-knight-rider-movie-the-original-self-driving-car/amp/"
-    cdnAmpWebUrl: "https://comicyears-com.cdn.ampproject.org/c/s/comicyears.com/movies/james-wan-to-develop-knight-rider-movie-the-original-self-driving-car/amp/"
-    type: article
-    provider:
-      name: Comic Years
-      domain: comicyears.com
-    quality: 44
-    images:
-      - url: "https://comicyears.com/wp-content/uploads/2020/08/Knight-Rider-James-Wan-Movie.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Hyundai-Aptiv self-driving JV now named Motional"
     excerpt: "The Hyundai-Aptiv autonomous driving joint venture will go by the name Motional. The $4 billion self-driving joint venture announced Tuesday that its brand name is a combination of the words \"motion\" and \"emotional."
     publishedDateTime: 2020-08-11T12:00:00Z

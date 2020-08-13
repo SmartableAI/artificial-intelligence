@@ -8,7 +8,7 @@ ampWebUrl: "https://m.mid-day.com/amp/articles/artificial-intelligence-can-impro
 cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/40-artificialin.jpg"
         width: 650
         height: 436
-        isCached: true
-  - title: "NIH Harnesses Artificial Intelligence for COVID-19 Diagnosis, Treatment, and Monitoring"
-    excerpt: "Collaborative network to enlist medical imaging and clinical data sciences to reveal unique features of COVID-19. The National Institutes of Health has launched the Medical Imaging and Data Resource Center (MIDRC),"
-    publishedDateTime: 2020-08-08T11:33:00Z
-    webUrl: "https://scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/"
-    ampWebUrl: "https://scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/nih-harnesses-artificial-intelligence-for-covid-19-diagnosis-treatment-and-monitoring/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 51
-    images:
-      - url: "https://scitechdaily.com/images/COVID-19-Patients-Lungs-CT-Scan-777x377.jpg"
-        width: 777
-        height: 377
         isCached: true
   - title: "How machine learning can improve COVID testing"
     excerpt: "Combining machine learning methods with pooled testing will support high-frequency, low-cost identification of COVID-19, researchers say."
