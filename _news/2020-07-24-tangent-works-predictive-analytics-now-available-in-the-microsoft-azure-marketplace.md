@@ -2,24 +2,24 @@
 category: news
 title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
 excerpt: "and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from predictive analytics to create real business value, with better ..."
-publishedDateTime: 2020-07-24T13:19:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
+publishedDateTime: 2020-07-24T13:05:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "L1vB0gq2kEWIU8J3/XmljNzRqVegXKrskiu+YQxla67p0h+uXsaVrKgBtj+3fGA852MxeqHHiYnhCWs2Nv2bXwiSkJ9ppih/WyEqXSHGPrKnqLrl7AAN7F8jHGsjhzERx4Yd0pIp7W+3lNDfnX7XEq9qUZoWAFVKP5qfcHmpbUZ2ygrmeRJ9vBr/3245OZPTzX9OwHXh0voAkqf83BFQyTnzp4xiyghnIgVuc4fFUGAap4Fgm3OCHWD73l+Qse+B62QZvfq+lHWQqbhHIGOJVRz3XVoOksszxStLsv8kYepAPRyellPwdGPZ2+HbuKFZbUBeHT28SpXQ/UV5YgyWQA==;R+495x6fmWjbR4kKbZkZSA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "UsILQLJsWkCsmsh+t5YJcz7/fn/IHTBDp4hs/U72Th4fr3F2PJ+6meN10GTT8JlXbK90TmMflqkIgnvwnZjjLa7WiB2Sam1YzEAWLz8WS/CCzhu7XwKazqsAhMQnKK5Xl85mf62nAtc19PV/khAz7+HWBvIxN/T2yCZq/TJyvfnxtN7spoaExrRxgM6b6oeqPZb5QWRn9oKcX5KelPOvoA21ca4AeGfl8i+VjjUWixrpWIawsM2ZjRDRgYPlaqNQXs6TmbATwEFbpI1LJT8GAYJHE1DYYtF8e2s5rZdSHwU4QerhxsNFjOki0t02UiQA3jBQdIVP4AOpGY/jS8EtSw==;FT/bhA+PbLpFMob4bxy+8Q=="
 ---
 

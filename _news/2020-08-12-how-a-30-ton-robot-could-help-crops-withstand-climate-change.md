@@ -3,7 +3,7 @@ category: news
 title: "How a 30-Ton Robot Could Help Crops Withstand Climate Change"
 excerpt: "What makes a plant thrive in the heat? In the Arizona desert, the ‘Field Scanalyzer’ is collecting data to learn the answer—and hopefully improve farming for biofuels and food."
 publishedDateTime: 2020-08-12T13:07:00Z
-webUrl: "https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276"
+webUrl: "https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos2"
 ampWebUrl: "https://www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "Wr9nT2AhlZTQo5MHuyBSSc2knu8yxiDkbqM+CG/vs6gt8nJ93FGzVO8aDKFHGKVhFUjquGPY7p0VqZKC9AxLs/oDLsaTJJXn73rLfX/J+j6RnrG3Q+AVa/0xLw+KlzRO539CA8jBaLFs9deHKioZTboDDobaulNeRQbagNTGmb/rimkH8VPuy3YUWo32jMiVe3Y+cAfT6Ne+ITklTyKqD9Kze3yMriK0XoBkvqfAtG4DjYM/wxpPfKGjMh9dTnrETmzx/Q9XtTMmVDxF3R6awuPCFTjafM7qIB22Ce5SyOefFrmfIfhx+cP2HULOSieO9Natq6wTTv9D0Cy+lQTfsHr3PgEq1Jm3GLsOm++X/N+AzWHEv6kDfvSBZqVmI6fXLW/oB/3imEkFbmV8btAMVRiyxE7B+q4xxM4IITu3D0l4GJ644yfEKaHmIlLXDrMl+34Noy3zCPwtiztd+rTe8Ea8vuKhG5aItlUKtHdhDNhlSL3dTZjBvzAEQLsyZX6ylesDOpdDoFH2DAXoqfcgAQ==;XEf5LbsySteOwtrfjB1YFQ=="
+secured: "rn0GhA1JN3n665LQzRfPwfJyZw+hW14f03fz3df/IQfsHA295zPXLfhnp4n2tWev8224jWzHx9tYsmPxZbQUJcPDE/MyQdxSPPqROLRdrXlKTXN+m7EqfNPERtb2eGAjrKr/i8OJYBfETWOStO9LjUJtAXKECpCf84jBnw2XWB8lP6v8LuSper31NX9FaY5kGz2vGQHu09kiuPEe+vR7AAgZQ7jAv2GCC16y5tElnZ8qCYzz4xZ8Hfr8Rl/qbdAvn8uoanRosH38NJYJPtFgfZ2wMT2wD+cmxRaoK7WueSyZEM/28KOPG2neCWQwnFQi/CTc348uo5FFVxvSSNz6vw==;FrRQUPs2DUOLXyIlrwqJZg=="
 ---
 

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Self-Driving Car Market 2020-2024 / overview and scope, Industry Outlook, Size & Forecast"
-excerpt: "By components, the self-driving car market is segmented into hardware, software, Lidar, radar, optical cameras and others. The software component is largest segment at present and is likely to hold its position throughout the forecast period due technological enhancement in software segment such as advanced driver assistance systems to enhance safety and driving process."
-publishedDateTime: 2020-08-09T04:58:00Z
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09?mod=mw_quote_news"
+excerpt: "Self-driving cars have pre-installed control systems ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others."
+publishedDateTime: 2020-08-09T04:45:00Z
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-2024-overview-and-scope-industry-outlook-size-forecast-2020-08-09"
 type: article
 quality: 45
 heat: -1
@@ -65,20 +65,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Marketing Market Expected to Grow at CAGR 26.98% and Forecast to 2025"
-    excerpt: "In its latest report on Artificial Intelligence in Marketing Market provides a concise analysis of the recent market trends. The report further includes statistics, market forecasts and revenue estimations,"
-    publishedDateTime: 2020-08-08T09:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-expected-to-grow-at-cagr-2698-and-forecast-to-2025-2020-08-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -216,6 +202,6 @@ related:
       domain: marketwatch.com
     quality: 6
 
-secured: "YCcVmk+cblPBbKyK7n6OwvP7SoioWYGtrPx1l2Lyiyfa+zMGJjVyDJY1zHquJw55vFvpXbm5vn7uQOSlUV2B1Pv9tn4YhyHvMgouQ0RagDPh5QBnIxZbSyTUMYWI7imcyoe2X20qRLGuGbS8Z2hXhHhc72n060h0eL6BDiDO/F93mGDswIy7uMJzxkLYLuMhx46wuRo1daPuWD++6ou18cQcwjjxdbwBc8sWrqMBtvBT2K5qi67m52JSwIKqXAZYWmAKRRsGXnIqYEUMkhXo45sGFp0zGaPXkNTi2xY6bSuV6wCSeJMoBM4X0Cp0fAQUahnWQnnVxe9IFKdRWG4cgw==;4NzUXw1UfxQqFjlAztcjoA=="
+secured: "V7VKji2sCNongzW5YbWoNfJlkJkEtpUgvUxT6pPJekQM4jRkE9fDgtVq9zeQu6P2Isg4t4xozqHqm62Vrc1HAoqnoiejlp+fK8fr/zQ2Gig4C95zfsx75yxaNapNh5ugZ3+5rgoA4SImMOeQD7/hPdCarCwAbIyLmRzCDc4xwq4OiIVczr/Tg+tjS+uLV+Czs/cQWpRyYJ+8OEj2YyY/0P5E6pIuwqv8QL7loB28BxvXuLU+WtdmMNthR9kG+7X5bo8eaCnCwIW6UgSyKFScZ3NPY5ErzmaQksXNBG9rKwkf48aN9VhO/4rQ0cXaDSVLXNum5seHVHyvZ6AAuOyk3Q==;wljGE8brjuyZV9lYkWd+cA=="
 ---
 

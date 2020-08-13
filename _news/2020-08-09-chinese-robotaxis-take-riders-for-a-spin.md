@@ -1,44 +1,44 @@
 ---
 category: news
 title: "Chinese 'robotaxis' take riders for a spin"
-excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-publishedDateTime: 2020-08-09T10:49:00Z
-webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
+publishedDateTime: 2020-08-09T19:58:00Z
+webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
-    width: 750
+  - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
+    width: 1000
     height: 563
     isCached: true
 
 related:
   - title: "Road test: Chinese 'robotaxis' take riders for a spin"
     excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-    publishedDateTime: 2020-08-09T05:34:00Z
-    webUrl: "https://www.channelnewsasia.com/news/asia/chinese-robotaxis-road-test-13004728"
+    publishedDateTime: 2020-08-09T09:45:00Z
+    webUrl: "https://www.thejakartapost.com/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 44
     images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13004722/16x9/991/557/4d1b1547f77e8eb8d948f986326e8e4/gZ/chinese-players-such-as-baidu-alibaba-backed-autox-and-ride-sharing-king-didi-chuxing-recently-launched-autonomous-taxi-pilot-projects-in-cities-around-the-country-1596949297574-4.jpg"
-        width: 991
-        height: 557
+      - url: "https://img.jakpost.net/c/2020/08/09/2020_08_09_101962_1596964560._medium.jpg"
+        width: 747
+        height: 497
         isCached: true
   - title: "Road test: Chinese 'robotaxis' take riders for a spin"
     excerpt: "Chinese entrants in the race to put autonomous vehicles on the road are bringing \"robotaxis\" online in hopes that a hired-car format can be the key to unlocking wide acceptance of the futuristic technology."
@@ -50,6 +50,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "4TY15fvukURSHXha05vy0b9HJQyvrQ5yMBKnnYR/FJmoqnhcym2uiYeo8E4Q25wWf2B1hM69tHCKN/7V+Onz7Mja+VBqqYLI1TFsXYdqhjlzokzjpaf2HL+VpojtrCWvHwy17ipILSQUL65M8/3UhF9BM62vFOBvDbVAVM2XjA01yCisN+Bd0bDF01hhc3Tf1S/skD8L/2gaxFoqozggzbV2ehbZkDfa/y/EaUCdnEOFhOiZgzuD0RQq7e3wMqURpHNBt7+PaBU1gUqQ+FjUyrZzIIUzrBKYwpwttwWcjXaLE0A14vEs+GznGy/e97RAlEiAKVzwwU4dvqOBvJ4TqQ==;OclZhsjQI8O22fhIiecZiw=="
+secured: "fM2/I+DdD/fNjRplAX4Y6aSxe5FJ60yxnhjef4lb3K9GZmJMF6NWnEW0EsaRcfxhjC4J3cJm/yf7pHgIFwsjayszRnZ2aijpc1zg+sjPABU9iyYaP64BXJFd50zvdWUz+We3FzTviWdnaNGsfoZH4eBAaV55Y225rlGsCxbr83qa30VC2MuI4PmfbcMY5vfJzApZC7csbSSBON9szt6b9Ri+cJZMoTWoh+kzslbK21wP5q7o3cJoFnwWrpDcNIKbtjbugqdoP3Y89VQre8r5IjHO3ZynGxlgLElHRaLJxNNsPa5FXPUosC3B8dVFcmx7/0YPVkQnIT5WTU4qFV/ngg==;OJes5Hi/fDmgoD23kCmNZQ=="
 ---
 

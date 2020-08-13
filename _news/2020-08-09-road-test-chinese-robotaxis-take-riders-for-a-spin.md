@@ -2,42 +2,42 @@
 category: news
 title: "Road test: Chinese 'robotaxis' take riders for a spin"
 excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-publishedDateTime: 2020-08-09T05:34:00Z
-webUrl: "https://www.channelnewsasia.com/news/asia/chinese-robotaxis-road-test-13004728"
+publishedDateTime: 2020-08-09T09:45:00Z
+webUrl: "https://www.thejakartapost.com/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
+ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
+cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/08/09/road-test-chinese-robotaxis-take-riders-for-a-spin.html"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: The Jakarta Post
+  domain: thejakartapost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13004722/16x9/991/557/4d1b1547f77e8eb8d948f986326e8e4/gZ/chinese-players-such-as-baidu-alibaba-backed-autox-and-ride-sharing-king-didi-chuxing-recently-launched-autonomous-taxi-pilot-projects-in-cities-around-the-country-1596949297574-4.jpg"
-    width: 991
-    height: 557
+  - url: "https://img.jakpost.net/c/2020/08/09/2020_08_09_101962_1596964560._medium.jpg"
+    width: 747
+    height: 497
     isCached: true
 
 related:
   - title: "Chinese 'robotaxis' take riders for a spin"
-    excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-    publishedDateTime: 2020-08-09T10:49:00Z
-    webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-    ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+    excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
+    publishedDateTime: 2020-08-09T19:58:00Z
+    webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
+      name: Euronews
+      domain: euronews.com
+    quality: 24
     images:
-      - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
-        width: 750
+      - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
+        width: 1000
         height: 563
         isCached: true
   - title: "Road test: Chinese 'robotaxis' take riders for a spin"
@@ -50,6 +50,6 @@ related:
       domain: japantoday.com
     quality: 4
 
-secured: "FowDafMZvJrwnbnW/rYTTkfmjtMzmX7M4ATybUxV20Zp89yTAEE2SGJaGzF2N5ICUKSAegJoxe4NdvD0eKkjyizm00H2lotIVX0f3D/ErEP05RhyFtE0FIkQQPC85eNY0rSXd3GIFC/twC/kYNm9aOPzbDiU1yYEP6/f4T2HJmLtgcIElV60SeWs4GVkiML0Har5CXbvWX6z5a2HJRFD8X1S7p7Ed+AvOretA5PzvhGHiyCKtJqq/PO0WQEuaVZO2aZNCst7n0X7hHxN1lA5+/S2N2c1tOTPCGzuNUp7rZkSBWxlxj58cpAcVlOu3HsNeicgClLpLmBbzorEVpA1Rw==;9UdM+DFRlFNjVmOOmv/Sgg=="
+secured: "lWKdG31MYKNaS+l4O4KrLn/9Gb5VgQzZbIHY88dCo96i+DgMStXXeGsn63dlsLi9MEBQv5y0kLqkWt0hIQ3lq40RI9cbULvtiJHjt4tpPeI4PBd4A5hpls1iqOxVTGRL3m1aKNQDbmNefHsrimabNyONCs90mSUZn+uKCwknOiaN4kgpzG38TO/sOfZsJddNdyIr1Zj4XPXhl+pGbQ6OhI/OxCOwJg61BXoaXOmH5MPz7ZHQ5GaejVY6mZQwZx61z0Vt1hIsSKToiq1tHq5t0Nr7L2FoZMf4TCuM3dGTt3LQDwYVs8lvl+3dECkNu3hIrBWZ/wNs/TIN2z5p/8NjqA==;g/d66fxy0fANloc0MrRlqA=="
 ---
 

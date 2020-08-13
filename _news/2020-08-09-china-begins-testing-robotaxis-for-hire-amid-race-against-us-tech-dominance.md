@@ -1,9 +1,9 @@
 ---
 category: news
 title: "China begins testing robotaxis for hire amid race against US tech dominance"
-excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. “What we are trying to solve is the last ..."
-publishedDateTime: 2020-08-09T16:33:00Z
-webUrl: "https://asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
+excerpt: "Autonomous hired cars are considered ideal for accumulating driving time and the data cache needed for cars to learn and become safe enough."
+publishedDateTime: 2020-08-09T11:03:00Z
+webUrl: "https://www.asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 448
         isCached: true
 
-secured: "LZVnYBKNFmJJbizqxWRz1yjhu9tzR03EyWXtPSHzyGwoq4hUKynF5YSwgT2H1MycntLdycCa1tt2bOl4ouIlBw/NjTH9uB6CCX4etyDZmWmdHCKLUCQrBiJQuo6suquO9z0eJCpxBqPzv0itCLj51rlX/Edb/yl+T4eqx7roFp3k7Rry4gSU2CszloYH0tppm1neh+1ltJwZcKXWo+15/dQ2JKN4kS3aBxNdlxDzx/oe0iE4TtHlUZU9aN3TO0VTx4tZxrDs64YUu9sUky0NPUCCevesqXHySUGm4UR9VOIPHQbkNmtAa7Z+5ptruvqqPtWI/gFomq7ueqwgyOt4AQ==;WNyls4Be87/7RrqFqeugxw=="
+secured: "vMzAs0C4oEcvULeK/o/Y7QYoo5pdFs1YOGjz/QfmgzJmXN+ZBdQODnrdXL5d2HVIIQyqwdUzp9jgFaAV6QvHgx5b6IJ7Wzk7E0fyvyKq/LEO8RxEtkCi7RUT1Xfgmt1eRpmLSlVBnEOFG51Hubqgx9JT8elelAJFYNG8XqvvB5cmdniBuZJlATf+Zwx8AXaJ02af6DiJ6c+zk4yZmU5SP7mP/01uh++zRX38yzbB7NrHVjnLeBoxL7NX6mKSzypHahdpY/5Ea3v6D0bSAn7t7h669+1ySsk/2tp1idb/6AZDy/eadJfBDpLgimbO42XfoJfi1dg/0/Fn4XXCJgMoGA==;/1bq433qzR55keYCvbujTQ=="
 ---
 

@@ -3,7 +3,7 @@ category: news
 title: "The Times view on artificial intelligence: March of the Machines"
 excerpt: "They are perhaps the most chilling words in cinematic history: “I’m sorry, Dave. I’m afraid I can’t do that.” With this courteous formulation, the computer HAL, in Stanley Kubrick’s film 2001: A Space"
 publishedDateTime: 2020-08-12T23:19:00Z
-webUrl: "https://www.thetimes.co.uk/article/the-times-view-on-artificial-intelligence-march-of-the-machines-7bx8xs7xw"
+webUrl: "https://www.thetimes.co.uk/edition/comment/the-times-view-on-artificial-intelligence-march-of-the-machines-7bx8xs7xw"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 385
     isCached: true
 
-secured: "VrADtcPwiCtFSnO996y1q7d/AD73pW5Y65xJDvHJG1UzzVjF1Z7/udPsgai+q9KUQ3WybwYB2K/TD8GGsKkQxG5yPNTX5EPsggv9NE1AGskLtfsDLVENni1ukRJi4Yne6KHObRi53jh5lCeZNDXvNCXmd11a5MXtBb7EseJsBkQG0/53DiHQDM0Yjq4X4UvpGJaK8pL+lR1FNfcEyrGuzAFpYnzC0Gun2eLLpdIOgQFqW5dPC3YIT8kVHjidBhrqDjGKRotObcqVUFSlLRWAqPc4cXOIOS4BxyJwnVFMo/+7b/n0CNZIwG6clJ9NZBTrzcJdIPU4PZsTbQNxgOutPLVfYjwizgHSGnj+Vsj5EwU04CS4uQ+ssoTIroNtLXHpvNqX18wp1KbagAWPGp6KjOGgMSqaxStNa6iTISY6qZvphksKMKweymxN1DnLgJF9dalxt7KCMWwnptjWjWZi4GcIJSSaMtleu/TmLiMxaze2rIe7XdYVylO7dKBIBYgl3/9y9C1eIMnhcgV5vpm8hw==;Rigo4Sw01DffN1y/rldIKA=="
+secured: "3l2cdETnkC7g5ooyTSmXvYTK1ee3a6GB+DganPAO57suj3qAAMt4iIVaWIlIIXTl5lG6Uz8Pbaj6yw/1K31Yg32a12L/PBTd6zkENyORuTwcfa272tNyT0ggFlerLy4oniI2ZRl/B36i48GexKpfMLUraeib7S48cDF6bFK3r3CQdi5VjOiJGzPtXOUS6LNoXcHoExk1Ij6ZggTZGn4SC3F/va6RF83XEfAqvZl0k6e8T2S8+PR5fyTlaf70QXBiO2s+7rkmS0WC4uZx9R1FgumiFdcHJlszgGRwL6UqgXvn33+dhJve2npm7EXMA6QDF769VgiwmC5AmCVwExiW+Q==;rP5j0p1ieZZ0KOOJv1nDww=="
 ---
 
