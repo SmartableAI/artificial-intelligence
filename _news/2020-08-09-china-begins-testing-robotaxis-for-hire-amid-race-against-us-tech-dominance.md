@@ -1,9 +1,9 @@
 ---
 category: news
 title: "China begins testing robotaxis for hire amid race against US tech dominance"
-excerpt: "Tech giant Baidu has plans for autonomous car testing bases in more ... A Didi executive said in June that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. “What we are trying to solve is the last 0.5 percent of ..."
-publishedDateTime: 2020-08-09T16:33:00Z
-webUrl: "https://asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
+excerpt: "Autonomous hired cars are considered ideal for accumulating driving time and the data cache needed for cars to learn and become safe enough."
+publishedDateTime: 2020-08-09T11:03:00Z
+webUrl: "https://www.asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 448
         isCached: true
 
-secured: "Uc4IDf6eofxTdGIjnVyfiWgjdlh2qP/KbxGe1CWo1kf2iVGBeJ09uI339CYrIpRg5SokrLwTnc4OnQHCtIt3nNgxfPyV9/rTsRVzb5PwihVpbCReY9Rii8yhVgA+e0VavqnOFuBVx4kTDEeWkS6xpO7g4I5PWwT7TohDA/zrLYrDlnwhUbFrYGJeAKzbZeuOu2Shtz5Kn5KqmuPLzbNdiA+Sp327oXFSDPwme3DxMWHDluGjiQ5c2/QtFD7gc1ApxPO9mKKZ8gX8btrZtnTY7+0GOmpThG+hFL8XXqaDPDs9vpMl8eqe82QXq/EVhzjQ44cagV5Jk96RgYJkq8C1Ow==;m4SD8R3fWX/Nxzf/N1900g=="
+secured: "WaVvRm96BStPPAyzxyRvfXfNcFGOLbOMYoyzX+kHGGaFDwyv8Ze8wT1ACE6wF+gfQIePba57zUPUj9LZamJahd/rahZl4sR6/Pny5uJfEfzpaHM5mLFq1/9sk1bvLBTyfE4at6dr5O1gB7jOqVqZgYETBEseMdggYxLFXHC22QtiB993TvrXWk93eMrALDY1xVR4en19goxELkQ+mibN33/gAlo1PgNQTf9MDWwSzpzQvqwFYOyMiKrk5yUkFMldNsAv5BqhL/ksrrKElV8tv4m6uXM9T1NRxQV7hgguaO1tFr0GRqYbhPst3NX6WBZwSORKw2+CbhQTzWJ7YG4zAw==;wT4tv0w4nlDq9p7q7m/jVA=="
 ---
 
