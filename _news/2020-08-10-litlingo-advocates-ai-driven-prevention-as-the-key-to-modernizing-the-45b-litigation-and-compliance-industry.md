@@ -40,20 +40,18 @@ related:
         height: 3203
         isCached: true
   - title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
-    excerpt: "Hyundai Motors, LG, Applied Ventures participate in Series A SEOUL, South Korea and SILICON VALLEY, Calif., Aug. 12, 2020 /PRNewswire/ -- MakinaRocks, an industrial AI solutions"
+    excerpt: "MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it has successfully raised $10 million in Series A funding from prestigious global investors."
     publishedDateTime: 2020-08-12T17:00:00Z
-    webUrl: "https://www.asiaone.com/business/industrial-ai-solutions-startup-makinarocks-raises-10m-series"
-    ampWebUrl: "https://www.asiaone.com/business/industrial-ai-solutions-startup-makinarocks-raises-10m-series?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/industrial-ai-solutions-startup-makinarocks-raises-10m-series?amp"
+    webUrl: "https://apnews.com/PR Newswire/255ee2302c213ba96fb3353c0515b813"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 57
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/pr-newswire_500_4_640.jpg?itok=jcxaFViy"
-        width: 763
-        height: 509
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "xHq7xhxNdUPHL+sYpBXjUgIHwlEm0zAU2+7HdUvzgZhqaAFuVjTeNtL4EyqbY8BfwT0LvdS4VxXHLJ3CcNbnpt7URZOOtWuvugeoqGCue/yUgrC1fjO/pydAzCUCjdHe8ma8BLXX41ZgP5wPBBTaNMGGxhMcEkZRZNMyqS0UHbM1pQcwu4gJkdeQsGdtwRF9NzIKTjcvDhMVB5/6Tc/Zjh4DvHrCcLBDnvFKOW91bLojIfLAbKFj2KMq7+h8GilrXC8oT0Ndi94QgeeiBXgtSFnkl6K6sU2tTljYOfCmvHXRlAZbzwAor6rmtCcA105TUtKLwwy7ckfHoXz/HDferQ==;tZzjPX1qyN2OTJ4DS584HA=="

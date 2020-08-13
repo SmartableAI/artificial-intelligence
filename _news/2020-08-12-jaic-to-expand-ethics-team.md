@@ -3,7 +3,7 @@ category: news
 title: "JAIC to expand ethics team"
 excerpt: "Jane Pinelis, the JAIC's chief of testing, evaluation, and assessment, said the center is working to expand its ethics team, which is charged with ensuring the Defense Department's AI projects meet ethical standards."
 publishedDateTime: 2020-08-12T22:01:00Z
-webUrl: "https://fcw.com/articles/2020/08/12/williams-jaic-ethics-tts.aspx"
+webUrl: "https://fcw.com/articles/2020/08/12/williams-jaic-ethics-tts.aspx?admgarea=TC_Acquisition"
 type: article
 quality: 54
 heat: 54
@@ -23,6 +23,6 @@ images:
     height: 368
     isCached: true
 
-secured: "0hsyrPkqe9thIHEkY+OzVt0KhSZuJ5TPQxtTYfSg0EaTQm6lLwUm+iPWhNwg/7rUyaxCuYc+WC5ZWWw5YwvwpblEqihFEG5bMP9gIy8Ah2JrJdIRlLWddtpMuUFFHZ9ns6aZq8lxtkxZTj2GR4IBTXO8ftXkPZjLuEGCbGoZrsCv3x0mns29DpRl4NcmiXOxa51FHwec5FdHlQLSeURJHypPK2RLNtsEm/C4xZt5rxdS4tBlYD93Wr5xZRJBPDJKKc6eM4kGUp/YEdbep3ScXMPNgxtSkBdBzNaI3iswwDVh5602FvztL31iKbPZBGSp5HGbfLvBcjRFcpQVR4a9bg==;ToYUtofeatW9TxNGdcdxEw=="
+secured: "3BHyWCdYdZQotFul1jLJR6y42FjTice4n/VdnSSvjlgfP78hIDdLtz56C62+4nNUg8ijgeYV0o/BIyYpFow2G1YXia3disA1imFliappbMdxC8WUV5mbNbHEKxqffta5rt22eCTJTTZu5+9XBCRDzVtekPRS0D+CdRy+h/ya2eEMkHwcrOLKqnhpZ9WrX1m36OlI+bRzO4+NViGQ2quoO2aEwomCwDbhHOwfs/DXGvOqfsdn4C7I/aIDPiudBt1GtVl6Pa50W5qzSKooZSc3Md3DNoaceutXVunJyHDTUFo9E8S1ACZmYqXbxI0wmDh0SeR07Ih3UcnpvCdtfdIp5Q==;Kkqt7M608ef3zo93sZ0KEg=="
 ---
 

@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
-excerpt: "Hyundai Motors, LG, Applied Ventures participate in Series A SEOUL, South Korea and SILICON VALLEY, Calif., Aug. 12, 2020 /PRNewswire/ -- MakinaRocks, an industrial AI solutions"
+excerpt: "MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it has successfully raised $10 million in Series A funding from prestigious global investors."
 publishedDateTime: 2020-08-12T17:00:00Z
-webUrl: "https://www.asiaone.com/business/industrial-ai-solutions-startup-makinarocks-raises-10m-series"
-ampWebUrl: "https://www.asiaone.com/business/industrial-ai-solutions-startup-makinarocks-raises-10m-series?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/industrial-ai-solutions-startup-makinarocks-raises-10m-series?amp"
+webUrl: "https://apnews.com/PR Newswire/255ee2302c213ba96fb3353c0515b813"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Aug2020/pr-newswire_500_4_640.jpg?itok=jcxaFViy"
-    width: 763
-    height: 509
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -53,6 +51,6 @@ related:
       domain: venturebeat.com
     quality: 48
 
-secured: "C7alVV4fIXAHqztXgcPspv+fzuWGZBT3yiMNx1aheAi11S9cZwPIT8jk4JPEJf352umPqlQX1hlbQTCxvX4RbUOn17hnY0fCxKjRVZ6977yIHoGCWQd0jalE3YNMjGuC99kkkGUjndHRSuARm06P2OcKA4/oitXhmU12UzXgpjgLuTY8hGSYhhpbkqUs9C165/Rw/6UitAHhJsHySqO+X5Hoq24d0WYzDVXweae5GDevBqVerHZ+9l6K7mAgJ2C4xkUMQI57EI+AMph67zF2PMkLxhLR+eUFXFmHNo3Mggpq7wXDwW+OcC48lw7yTmS4NPhD+aQnxtI9alnCDT+k8A==;WNgsDw0vTGkIu4ifheUqmA=="
+secured: "jqvPThanbUcIxE64Ckd4lOIaW7faaKqcgo+i3fzwnoInsvQAyloiKCPf4Evg9I58+5gjTIcITSz7QT/Vpz2brxeRPaeUkEZnqjjJGEDtVsk9/dVKkxYuNvsW+or3pz4uD0zkJkNjc197EfoXLA8Lw2dkR9RmyEXdrknaM9Hd4LDlTNdv4qfA0fu2Y4hwHpI2qKiTcS8mfr1v8Q5PySM4/6XSJKHpyFuLAgLyadR8+1CS+LxCbXT1BwxY9Hw31dO2r0P9hxgA9xh7xmRCxs7MMe4RI9XEfBae2T+UBACGzwPei0fsr/5OW1yxv850m85+sN3Qup9o+V6Rky+H9vMO7A==;9XScCJqBTwgPpqLIIXxw3Q=="
 ---
 

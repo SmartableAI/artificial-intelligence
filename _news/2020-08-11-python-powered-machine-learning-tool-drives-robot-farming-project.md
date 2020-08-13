@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/python-powered-machine-lear
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-powered-machine-learning-tool-drives-robot-farming-project/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/08/intro_ts_ai_ml_by-monsitj-getty-images_2400x1600-100853894-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Schooling machine learning to identify fish"
+    excerpt: "The National Oceanic and Atmospheric Administration wants to leverage machine learning improve its ability to verify marine species."
+    publishedDateTime: 2020-08-13T00:26:00Z
+    webUrl: "https://gcn.com/articles/2020/08/12/machine-learning-fish-id-noaa.aspx?admgarea=TC_EmergingTech"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2020/August/shark.jpg"
+        width: 760
+        height: 368
         isCached: true
 
 secured: "bpPFCdJv3PIpmrt8ktmCgqN+i+k26tPG7FlArTJYibVhqHKtr6XPDtFfTUgzdeTt9g6fCtrNzrQ2j+m9SA2qGj/CKlckTYlTCU7+4ePZft+vTpHtu2+Zt3Utcq3/7x7MgFqhubZQFuFiFjzeYjIM2Pwr/1woBo7wZxLNywW2h8mz5wCI1N2C1pAcQR8HmJiPPBSL1phMK8fyoaryynlP7yTIz9cwNRD8JTaA3ebynfVOZcB5avUE59F92XBqDRha6gSkiA4OkKzqLo8ORsDIH6Ql5kLgH0nms1Wyjokf14fTyOun+UrmohSq+b+ScwMvE2DPgfQss12iUCHMQNmTZa2scs2Zjw6xZm4MficC72Z58r1OCeyxZD9HilNPt0CCm6IjixIr5fradcKkS/ccqSE2T+3mKtKho1ys8EN/TkOfn2kwdxCfFjC/yXJFg3IXvwLOqI+8HjZIi12T/L/dO41CBFb5y1Zp9fm8WGz94rBx2hHa+O+SSQorjp5ROnoQkkXJBXw6AMt3pDUDNl96Sw==;EIRUVutVLZDBdl04qJdOnQ=="

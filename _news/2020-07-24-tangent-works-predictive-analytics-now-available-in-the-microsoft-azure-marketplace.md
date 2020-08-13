@@ -2,25 +2,24 @@
 category: news
 title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
 excerpt: "and Azure Machine Learning in forecasting and anomaly detection use cases in many industries. With TIM, customers can benefit from predictive analytics to create real business value, with better ..."
-publishedDateTime: 2020-07-24T13:02:00Z
-webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
+publishedDateTime: 2020-07-24T13:19:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-  - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
-    width: 2699
-    height: 1414
-    isCached: true
-
-secured: "Uom0ChP1jQ7029Syc83Xg7Z9SVp0hJ1EeddWwFDF3U/uwpHVvV4rvFl3ZDLjtg66j++iitr4ODAxwJQ37B/68ABRdf2Cc89L9j4CD1i2nN2ciqmWItfGweOGNkfieAxlW1tyYJD/jdJsAG1H5Ex4fgh+ycLd4qhrJ0HD326JUHtWollN55iwil4rK9PpRxbdeNa6JeX1Rb8mAUBvKc+ZPK9k6xHEWNJ8cjNcam2TITEfQknz6fyGlHgUemBOrJhdkRMGvhG21EM5/CGMbETnF2x459v7dvOiwIFmF3gIR3gM7JZUk3O//Eyzp5/rb84Wnm/Z/DtzFCfmOYkBB0WYBQ==;HORGuI3tZWSIzuc0V118wQ=="
+secured: "L1vB0gq2kEWIU8J3/XmljNzRqVegXKrskiu+YQxla67p0h+uXsaVrKgBtj+3fGA852MxeqHHiYnhCWs2Nv2bXwiSkJ9ppih/WyEqXSHGPrKnqLrl7AAN7F8jHGsjhzERx4Yd0pIp7W+3lNDfnX7XEq9qUZoWAFVKP5qfcHmpbUZ2ygrmeRJ9vBr/3245OZPTzX9OwHXh0voAkqf83BFQyTnzp4xiyghnIgVuc4fFUGAap4Fgm3OCHWD73l+Qse+B62QZvfq+lHWQqbhHIGOJVRz3XVoOksszxStLsv8kYepAPRyellPwdGPZ2+HbuKFZbUBeHT28SpXQ/UV5YgyWQA==;R+495x6fmWjbR4kKbZkZSA=="
 ---
 

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025"
+    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,"
+    publishedDateTime: 2020-08-13T01:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Market 2020 Regulatory Framework, Market Strategies and End-User Applicants by 2025"
     excerpt: "The market research report entitled Global Deep Learning Market 2020 by Company, Type and Application, Forecast"
     publishedDateTime: 2020-08-10T22:32:00Z

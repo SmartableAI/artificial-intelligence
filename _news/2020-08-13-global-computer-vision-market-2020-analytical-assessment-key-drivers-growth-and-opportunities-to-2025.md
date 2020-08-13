@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Global Cognitive Analytics Market 2020 Research Study Provides Projections of COVID-19 Pandemic in its New Revised Report"
-excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
-publishedDateTime: 2020-08-11T14:27:00Z
-webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-research-study-provides-projections-of-covid-19-pandemic-in-its-new-revised-report-2020-08-10"
+title: "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025"
+excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,"
+publishedDateTime: 2020-08-13T01:25:00Z
+webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12"
 type: article
-quality: 29
+quality: 53
 heat: -1
 published: false
 
@@ -18,7 +18,7 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
+  - Computer Vision
   - AI
 
 images:
@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025"
-    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,"
-    publishedDateTime: 2020-08-13T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -130,6 +116,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Cognitive Analytics Market 2020 Research Study Provides Projections of COVID-19 Pandemic in its New Revised Report"
+    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
+    publishedDateTime: 2020-08-11T14:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-research-study-provides-projections-of-covid-19-pandemic-in-its-new-revised-report-2020-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research"
     excerpt: "Zion Market Research Reports added Latest Research Report titled “Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research″ to its Large Report database."
     publishedDateTime: 2020-08-12T08:29:00Z
@@ -140,6 +140,6 @@ related:
       domain: galusaustralis.com
     quality: 18
 
-secured: "qoJe47pwvsJ9gF05NHeE43AzLaPL5uDRTNXeFXoPBiq7aKjv9jTrkaa6p0dUhdYNc+tCEdcSgY/J28S11G12vbKB9xpmBoF7vC1x22Wq/Co3J2zdEls7RhUH0pu174wOD3hf8voElgpATkFYfbmDMXK7Z7EOJ3XIrwOZHuWb1XnM0TVLsSjdlydXE5iAXXeLkF9oIyLSjDyzRxTSt4fOd+uYSec8sgLPiue6hcfbg8jdTqeF5Lf0GsiFvFSx3UG2pFOenz4hqtzw9+OEDdQnK3dFZz4wZXQ161bcMrSS1zBMHZzQTPc36DQnl+HAR/aTKkU6jenyzkZiQRVmYRDxxw==;TFHcghuFRFP5pUR3Ibti+w=="
+secured: "v6TgdUu7nGaM35fuwK/j+K2DC58CtHDpQ4jzwOWP2R7MDXiPdGe22k5+KIk4+y6BD3ib4rr0973vnG+1fZHpONFZu4SpG1MuhH3ipJIW/+qeUn81NUed7AcOnlSx3rMIcRTB39QSrYw3pNfx0mTVcybhluOYyVzxN64hyZ4NY2zU8Nth5zqJ2S3lrYv85GVjulEZv30+5hXEqxcH/z0P8ck6CePKH5LwGBCjKy+upqSee3dzqIIzVXS/tenDSh8n1C0ylIxaijLbx9GI4ebAZDMiLQu1TEp7Qf/qkn/OafVaXKsl12Cv6G5caEk/7xU1OR1Trj2FNjIi+fxzv5L9xQ==;WJvkkQip1ELOYlGUwiMkFw=="
 ---
 
