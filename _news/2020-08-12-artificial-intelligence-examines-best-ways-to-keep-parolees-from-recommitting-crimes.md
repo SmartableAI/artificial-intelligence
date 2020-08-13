@@ -8,8 +8,8 @@ ampWebUrl: "https://scienceblog.com/517900/artificial-intelligence-examines-best
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: ScienceBlog
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence examines best ways to keep parolees from recommitting crimes"
+    excerpt: "Starting a new life is difficult for criminals transitioning from prison back to regular society. To help those individuals, Purdue University Polytechnic Institute researchers are using artificial intelligence to uncover risky behaviors which could then help identify when early intervention opportunities could be beneficial."
+    publishedDateTime: 2020-08-13T13:43:00Z
+    webUrl: "https://phys.org/news/2020-08-artificial-intelligence-ways-parolees-recommitting.html"
+    ampWebUrl: "https://phys.org/news/2020-08-artificial-intelligence-ways-parolees-recommitting.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-artificial-intelligence-ways-parolees-recommitting.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/42-artificialin.jpg"
+        width: 2400
+        height: 1537
+        isCached: true
   - title: "Artificial intelligence examines best ways to keep parolees from recommitting crimes"
     excerpt: "To help those individuals, Purdue University Polytechnic Institute researchers are using artificial intelligence to uncover risky behaviors which could then help identify when early intervention opportunities could be beneficial."
     publishedDateTime: 2020-08-11T16:05:00Z

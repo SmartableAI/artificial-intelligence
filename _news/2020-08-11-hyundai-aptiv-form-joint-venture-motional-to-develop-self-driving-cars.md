@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-mot
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Video: Hyundai and Aptiv names self-driving car joint venture Motional"
+    excerpt: "\"As Motional works to transform mobility with its production-ready autonomous driving system, Aptiv will help pave the way for self-driving vehicles with our advanced ADAS platform that saves lives today and builds trust in highly-automated vehicles."
+    publishedDateTime: 2020-08-13T13:16:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15556/video-hyundai-and-aptiv-names-self-driving-car-joint-venture-motional"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "Xgy9cNSJK6e0rr02yqbkDng2HJRDWp5FW8Pk+1+cCFBi6a11V+gFnlmXCG84loTqwc6aUDWzT5nEh+ffQTo8qvi9af6ssHRjYn0tJlkzdKXDBUKK92YbZ/+T/Z8A83KNCsUFhwR7rjruv52EbqMv+ukziRpdj03Q0d3U/NpU0RmTQlmldKfpLwxWvff/Iuus4Vyceqc0N6lPWwqBVaMRCxzLRBMvjkcI/sU3mSCYNb6We69D1OzHX7d3d1uKRhbtxxbiW2ABQwbOaBNN1N2FGzgOeBysA53DgyBi1KhA706YwTW7yq2nUcPWNn1zKet0+zQ1LEOXh5e5igdJYxqMq7yWaW4wvIcxunGaTC7XCErthpp4XwIXcsFqGcgBX7AtykLBK/l2msYOlA2/7vOZgEKU8jVZ2jTxJpK+nlfQOIdkTZa8zlR0EEEUaSunLLZSyY+wYNu3zmIuTX/A6l46WtZzW47vFkRqW5HKnnIn3tvEI8Rt25UqwdcjqpqcedUS;5asIdcD0F1GSGS5jOi4vAg=="
 ---

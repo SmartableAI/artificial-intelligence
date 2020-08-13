@@ -23,17 +23,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Self-driving amphibious vehicle to go on trial in eastern Japan"
-    excerpt: "A town in Gunma Prefecture will start a trial of an autonomous amphibious tour bus in winter as it seeks to facilitate tourism and realize the smooth transportation of goods in the future. It will be the first such trial in the world,"
-    publishedDateTime: 2020-08-08T21:00:00Z
-    webUrl: "https://japantoday.com/category/national/self-driving-amphibious-vehicle-to-go-on-trial-in-eastern-japan"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 4
-
-secured: "MMCZ5wWkm9dlp6Wao2E2UU0OL7/vAdOlRCaA90Xd7Gfwp8p+RUsrqdph01SBVs1tzn6hW5h5Cd4Xa6TCzj4e9Nc76sQjbaU/0u0tOoKZBMvKu8RTqQEhi5nba1cUmL/1Kgzr86eOrSukaQvb7kj3TbMdWRXzo5sR8gjJtgoUjMDLsCI8i8FX76HerM27OHJNjuyf1YmwO2mJJZ7HHCCZPPLXieYhuJF+J5RtEHAM15wHYbINMQYhmRt2ZHWWHV9QlAYKM/zI7x4TazimrW5JZNZrW8V7oeWs6ju9DHgCj62KIjnVocQKbPCMVpw+tlNZfmKfDXKF9Y3a2YbzP8rDRw==;w7RR9KXJEBlaZ3qfLQ2Lsg=="
+secured: "B0LpO04msq4tFYYAa03kn2UMPUuaOc79RmBsNNZXpoHvOHeXNqU9/OGDg9ycM4/pHR5cO8NN/nrmViFCCjgGUm8asbYUlPVnXmsU4Zh5REkHCef8VZzuQdFN4m82l2NkPf591eN+M2yQia0V5sfFoeiRyg5J5xpuhFW5I3DKB0kAgAtjGvSu67UkL2hdPZTRD+b/ZUtG5GE6vXWEnFW6Ya7n4lb1VcdNZkSb8rLpBUrdgOxy4lWWPXKdLDDAGBgy+zITA5XBW7dbCapLpcOAE0enqbiI8BK04OanZvbmTtW8L6cTPYVCWB2ECY3UHCronRJ+CwQVcwyzEHNuKv/3qaMbD1TieZSHDDfAm7fKXnA2S8V8GbETNzUpm/ec9BMIY58NOyEaEhMRZ1pRwND7Sz2L1IEeYgQVT0m2EyPGPKjXwqz4REwQap+or2iegUU7O9cVFoTjCJHCy4KDwWdvRcCqjN7fO5F+FpCTog7OtLGwyOt1WJwqYSFP2KL7TBuPVGmTDrFks4fSrikjSkyu+A==;eARJm2d+VsrOQHl4RsZbOA=="
 ---
 

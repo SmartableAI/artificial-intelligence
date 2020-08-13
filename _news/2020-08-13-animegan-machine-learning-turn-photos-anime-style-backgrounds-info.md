@@ -3,7 +3,7 @@ category: news
 title: "AnimeGan Machine Learning Turn Photos Anime-Style Backgrounds info"
 excerpt: "For fans of Hayao Miyazaki, Makoto Shinkai and Satoshi Kon, a Chinese research team from Wuhan University and Hubei University of Technology has created a way to turn photographs into anime-style background art."
 publishedDateTime: 2020-08-13T07:16:00Z
-webUrl: "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info"
+webUrl: "https://hypebeast.com/?post=5112806"
 ampWebUrl: "https://hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info?amp=1"
 cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2020/8/animegan-machine-learning-turn-photos-anime-style-backgrounds-info?amp=1"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 780
     isCached: true
 
-secured: "rOXzvLZpKqNpjk5yHg8VZjZ0ALBJsppKvSjHUIwKART878NPlsM4s8kZ/qIGjXIMGBGsW/cVYU5wAr3FpOm4jI2vK7qJt1l2Pc+JRO4ExbFJyzKyphWjnIJntNvK/vOBYQt439JrK8pgDvdo0A/6996oUCe0YcfHxbh+CsD9NjCxZKwySdY3FSULmLgYcap4jwuYspusmd6F95qDgEoQ+JqBEvlUbjlEq4HXOeHaIsVry1KWjwnGfVnA3DSYkqUk5vUxCnbqoRbSmOjB3WPkUSSUSXeoK0XEA+0x6YZTRMglEtvBUI0IE6+EuaIAzk2VSkjaOzzD9tVF0zulKN+RdM45SqW57rkJD9UnVwvPtgn4DIl87P5rc5qdYFzGyj6FxXThdfcuLLEsCUC2SkfmH6AI9VTBIh5S5PaAxhPnH34XrhsuV6r5VH32KwUOqRDlnNrCVu0AlojarwD5IgoUJiV7omPb4yQS8whDGtlInGa2ACh2Ymh0MRI0APxFoVTXGCi/V50riP3WVH0sr6vcxQ==;0MAPEXCNdtWVGXN3fwDa/g=="
+secured: "hgByyHKXU7cSFnSEpWaoRXZJfMn5CKCPMzdau2FX8Ne33E2mB9TMmqGMQKoWR0j2P3hBw4oQhbZ1DDqIKxEEDYZzrSfH0Qe9Rxdbhy92KoHP1N3jmw7Xv6cIn2+/9CR5mpJshBVfHNCsUr+8EcLEIIRV+/gG6Ok4ylgW2NEcRG54FYvstkvY3pt0r9hugscTPo6DjwY4e9oOnZO5x/L/LMMR+6Nf7SA/S0NpTGIRy25rtnk2MiRRXgAU3bM6nQ8yM8eBvRYbm9HDYs0zHukcGuD5WLS7MHCywyCdz7GSTCckIaSmqdp3H3uvOHKVfixt6WBznbuZPo91z6nSTENpHw==;s/nhTr0/bZLwUBezNKIq0Q=="
 ---
 

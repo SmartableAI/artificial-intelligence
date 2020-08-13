@@ -116,6 +116,15 @@ related:
         width: 991
         height: 557
         isCached: true
+  - title: "Video: Hyundai and Aptiv names self-driving car joint venture Motional"
+    excerpt: "\"As Motional works to transform mobility with its production-ready autonomous driving system, Aptiv will help pave the way for self-driving vehicles with our advanced ADAS platform that saves lives today and builds trust in highly-automated vehicles."
+    publishedDateTime: 2020-08-13T13:16:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15556/video-hyundai-and-aptiv-names-self-driving-car-joint-venture-motional"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "fjz/+vNeakDtagGQW5bqpT5zLKVkOIpymVscZE34HUsxqjkWRj+NWBfyrO0qU8JRLJM/IeQBXnkH3Gl2R43FCCWYCqWqBYdjOzusWcwZNIJFdK9/Gx2TPqx1AWx1RRDSfV6a1h8kriyQlh6YmK4BqgcyHeTGPOTdXbNg6oflUDwmjdfFGnIH6EjJZMpBUqbOGPnwtv7yUfxK/mu4GOHPf9mH18rHKo85x527Sj9/pH8m0qP3lwi9IvdIVMEoFM6d8Uqp3MTSsAeP0Rx8P5XurRehmbagzHTuoaoatu5dHqDX2fTBm1xLHZHhBWLElLib0ZQWSh9WQ3gFZ9e4CCfP3ugJvTCR3kdE/KnG4FUnD6L+ePSeFfYJtXkPotwaShBsz+OQqX4SGz04FYph8IHPPrIBed0j+IwjyYVsAYe3b/s9ajpv+vbLHCly2zNxTAbIuz5fn6YiXJye5YMlLYHJdwgLEXia4gqFcYa7poQ8Yk62KM4t3jGsl9bRhr8BhtiONKG04WW8pWV+Zh75SxvI3A==;cKXJirIZ8Q0U5sdklBi81w=="
 ---

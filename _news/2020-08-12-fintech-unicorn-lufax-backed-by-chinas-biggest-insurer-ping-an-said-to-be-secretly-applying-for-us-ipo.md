@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3097078/fintec
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3097078/fintech-unicorn-lufax-backed-chinas-biggest-insurer-ping"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: South China Morning Post
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The newest fintech unicorn is a credit card, and it's betting against big banks"
+    excerpt: "Musician John Legend and former AOL CEO Tim Armstrong are among the big money backers behind credit.ai, a new fintech banking and credit platform, including its Unicorn Card, designed for millennials distrustful of big banks."
+    publishedDateTime: 2020-08-13T12:57:00Z
+    webUrl: "https://www.cnbc.com/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 100
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106660564-1597250463719-unicorncard.jpg?v=1597250781"
+        width: 1080
+        height: 800
+        isCached: true
 
 secured: "Y5e9mh5idAC+hiOD0jAN9IT62ZFf6bZS8bdFyLphxL5ErmDszRiKgrR74/OC4K/P0l4LYihJz9dgZYLHoxyp/zGoS5o86O5wBsm12lcbZmnYt6huDd+dIV4K/MAQILMe1Ql/222VB82cPeQ5ePx5/LmB1emkC9CQnQ/qhSs1B/Cbf8d7tdJ+IAl/SEgbEwMV1qpu7uuC+WJ0GD5ZL2pfdKhX2rAXr+ufcrhuEcMt86/2aVt5tnVbUONkf97MRs1B/9MTtwz6t6/YYzR4TcpUrYnN86pSLsOOoZiEcCvEs4q2hAptzeMNbAStq2RxzPxnLyZChntfhR9E+RFVP4tG2pHtdJVrCdEzQQ6ugENNX8VSTswz+5or8NvSm+Q7NSDwXDuAJMjzNMnkyGU8QNB0A62LVWhYQdhPdBVWjtAnKcyxCHqXGAB1A7JNLHROOi7MnHgxVA72GIiY716NEOSoMm7gybkDSn0skXhDXOzBsHRsioWTd52malZglkBtvCou;FpfmHL8D3x2WEbuRsAXZ4g=="
 ---

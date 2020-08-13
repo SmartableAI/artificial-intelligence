@@ -7,8 +7,8 @@ webUrl: "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-lea
 ampWebUrl: "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html"
 type: article
-quality: 74
-heat: 74
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/07/teams_teamwork_collaboration_discussion_planning_meeting_communication_by_brauns_gettyimages-497812268_2400x1600-100853242-large.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "KDG+DmJnjnq/9ZgfOv30XClRaqZ6NgrDBQfpVhW+B7E2wWvDjFT3yi3/dEe8RVMPRYswX/Ka+N06rWeHGWg/wDWORDhSeQa/+v8Zbce1E1+AzGZ3fcebilGyGgyOwprOTG6/is8CQuYmHlInM4Ik3Hu9fqNrajya3ORhsfGyTFGl2W8CWS8TrAk0p7VjSf7TNSlm/vCs5yuRLrfAE/3Sh1ofRjsnUwa1DzEzd3isdCkSYbDPrd+LuXKcdNZqaQhU0rFuVG4MdOzTxHrRhx5W1ffJmb+17MfAL4gy9U300uILBiOyNh+lChnKRQsPXCKvVXD4IvtiIjDJ4lswGcDVPA==;aV+ps3DwRtL4PfMy81cevw=="
+secured: "iyWFpaGzj3rzdOc+THN3DX8wCPr2cDPyS+ueUOtD2Cv3yO6KDDZm69phGdF4Tr7+a8WFg8nrzE8NcsOMzDjkteoAWZWrvMFfOxepHmm/J/N3IZL2ZEuWzod0dPUdihdfCU/d/ONvG3TRd7DAG1Cr8+Jg1JeRv1aA2MnN2Eig+Q9+poFGwnJNiKPEl0NlSsMJsX4sbRSYVcqPYoluSvN4UU1x7VcLI2WrX4ZKkvUF2cAw4YU/fCBjdQ03cDDh/jSKM4dOZpMXseL6b6HLdnULBxnpXKSTlYXZAVlYD6pl+tMFLzfipzmh55UNS5JCHlQnhYRch+QzQf9nQcf+fCM4WglzW+qFbU7npRCoNnYGGJt3kFnCNLb0YzEMswvBmjJbUtpuh9m3DbcH+huldaUFw/YDPFC1K2yQSmnNL0mM/Qgk3zQK5evS93cMlGu1SMIf2lesbfgD6ulpWW1HFqJhcSwhjb7ECH31C0HhTHE5YcFchKJDKkFK9pnhRtkmGWx9uRmbOblrf9MDbIyf9WpQ6Q==;tDCDeGhQMkTQzpPn17NnKA=="
 ---
 

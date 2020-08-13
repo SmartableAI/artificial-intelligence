@@ -8,7 +8,7 @@ ampWebUrl: "https://m.timesofindia.com/home/education/news/iit-roorkee-joins-cou
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/amp_articleshow/77506827.cms"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Roorkee launches 2 new online certificate programmes"
+    excerpt: "IIT Roorkee has recently announced two online certificate programmes AI and Machine Learning, and Data Science."
+    publishedDateTime: 2020-08-13T12:48:00Z
+    webUrl: "https://www.indiatoday.in/education-today/story/iit-roorkee-launches-2-new-online-certificate-programmes-1710744-2020-08-13"
+    ampWebUrl: "https://www.indiatoday.in/amp/education-today/story/iit-roorkee-launches-2-new-online-certificate-programmes-1710744-2020-08-13"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/story/iit-roorkee-launches-2-new-online-certificate-programmes-1710744-2020-08-13"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 44
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202008/computer-3368242_960_720_3-647x363.jpeg?ZgB0lih94ARp5a6D5wxm5jjQldzqQIMH"
+        width: 647
+        height: 363
+        isCached: true
   - title: "IIT Roorkee Partners With Online Learning Platform Coursera To Launch Two New AI, Machine Learning Programmes"
     excerpt: "The Indian Institute of Technology-Roorkee ( (IIT-R) in partnership with leading online learning platform Coursera on Thursday (13 August) launched two new online certificate programmes for professionals looking to build skills in data science,"
     publishedDateTime: 2020-08-13T04:21:00Z

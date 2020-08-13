@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Terminus Group will headquarter in Dubai in ME to deliver its AI City vision"
-excerpt: "On July 2, Expo 2020 Dubai announced its 12th official premier partner: Terminus Group. Simultaneously, Terminus Group made a decision to establish its first overseas headquarter and R&D centre in District 2020,"
-publishedDateTime: 2020-08-13T09:23:00Z
-webUrl: "https://www.prnewswire.com/ae/news-releases/terminus-group-will-headquarter-in-dubai-in-me-to-deliver-its-ai-city-vision-301111523.html"
+excerpt: "On July 2, Expo 2020 Dubai announced its 12th official premier partner: Terminus Group. Simultaneously, Terminus Group made a decision"
+publishedDateTime: 2020-08-13T04:23:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17065023/terminus-group-will-headquarter-in-dubai-in-me-to-deliver-its-ai-city-vision"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17065023"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17065023"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "iU+RW0dZY4Am/Vai/juAvk8KDVC4ikb3nFwSIHUBTFdPLGW8PD3KtQTOys6Da7UwZAvgFbNNo7DfmgLlXj2LxKdWrsS+mPCzWNvA2KqHdDymEiPqJyw32W9W8Y099/js3cYtHjSw0zYWxR2PbGGOp9pJrrwkMis5f/hOCi7Wkj6b5j6bR4PdoEJCRNhRPphhar/+YjChggPqMT8BTe9iTxSeUu3M+2N9jWDBKzvjmojMW5sXImWYUuNmKRk0buLk6DoIKrK59LZIcN7HLyt9EmY/yBQh5dJDhwB37N4v1DPDYltYBajS4/N1/8+zDNqDWzxMMGxv8JJ+vmWNzPuMbg==;AYAJXK3DKqBALH9CXYNCkg=="
+secured: "SoI/7/jggpa//kDO3pJSArh1+zHbT7CrOCV+/mNMuEo5ZBnMifKJHy+LBT5DiMeLZ8WJP7ta3s2Al0YTyo5roFABXD2Nl+RLkIXQMb7engMEg/sWkhGhSWU86FhZQGVHguM7T142ZGLihwSVeAYZ0rAAifsr/yMmhg4H8RjuGmDcKEhXfvNCByyz26z4nw6iiEjMtMn7fToFtpiQVOgN3ZwkVhiH19dg5fxVJ94kkUUByinRmjxsKduT5onxuhCG+ZoXalEWWmKmRw7iH8a0ncZ34Zx6G1cZk0Um4JfSSK5HASypLefsRkRFpT19EPk8abqeCyPS3Kw0qUIMSsicqGRgAyn952lPWBmKLgqcCdSPqZWzG7ApHRAR1sJ6iOp9P/3GMKWgVNfiGJ8Z4nr2bCbnRN/oYh4ncrRVBj4wNbEux7kFt/sna839TDAgAmiNN0dTdxSthTq9x0uFXnFJhrPgEqHXEYfiBSnpQKNDBW0dT8F1icGz0LftubC7iN9saBXojc6zlO2+d3oWW0LimA==;tbgz6NHTFV5/2gHSdfLwHg=="
 ---
 

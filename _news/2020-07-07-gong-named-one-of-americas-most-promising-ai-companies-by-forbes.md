@@ -9,6 +9,10 @@ type: article
 provider:
   name: Benzinga.com
   domain: benzinga.com
+  images:
+    - url: "/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI

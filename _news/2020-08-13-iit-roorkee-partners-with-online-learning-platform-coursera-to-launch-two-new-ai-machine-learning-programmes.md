@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "IIT Roorkee launches 2 new online certificate programmes"
+    excerpt: "IIT Roorkee has recently announced two online certificate programmes AI and Machine Learning, and Data Science."
+    publishedDateTime: 2020-08-13T12:48:00Z
+    webUrl: "https://www.indiatoday.in/education-today/story/iit-roorkee-launches-2-new-online-certificate-programmes-1710744-2020-08-13"
+    ampWebUrl: "https://www.indiatoday.in/amp/education-today/story/iit-roorkee-launches-2-new-online-certificate-programmes-1710744-2020-08-13"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/story/iit-roorkee-launches-2-new-online-certificate-programmes-1710744-2020-08-13"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 44
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202008/computer-3368242_960_720_3-647x363.jpeg?ZgB0lih94ARp5a6D5wxm5jjQldzqQIMH"
+        width: 647
+        height: 363
+        isCached: true
   - title: "IIT Roorkee joins Coursera to launch 2 AI, ML programmes"
     excerpt: "The Indian Institute of Technology-Roorkee ((IIT-R) in partnership with leading online learning platform Coursera on Thursday launched two new online certificate programmes for professionals looking to build skills in data science,"
     publishedDateTime: 2020-08-12T18:29:00Z

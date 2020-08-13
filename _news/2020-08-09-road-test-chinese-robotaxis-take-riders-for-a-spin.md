@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Road test: Chinese 'robotaxis' take riders for a spin"
-excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-publishedDateTime: 2020-08-09T05:34:00Z
-webUrl: "https://www.channelnewsasia.com/news/asia/chinese-robotaxis-road-test-13004728"
+title: "Road Test: Chinese 'Robotaxis' Take Riders For A Spin"
+excerpt: "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country."
+publishedDateTime: 2020-08-09T05:53:00Z
+webUrl: "https://www.ibtimes.com/road-test-chinese-robotaxis-take-riders-spin-3025222"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13004722/16x9/991/557/4d1b1547f77e8eb8d948f986326e8e4/gZ/chinese-players-such-as-baidu-alibaba-backed-autox-and-ride-sharing-king-didi-chuxing-recently-launched-autonomous-taxi-pilot-projects-in-cities-around-the-country-1596949297574-4.jpg"
-    width: 991
-    height: 557
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/09/chinese-players-such-as-baidu-alibaba-backed-autox.jpg"
+    width: 1024
+    height: 681
     isCached: true
 
 related:
@@ -41,15 +41,22 @@ related:
         height: 563
         isCached: true
   - title: "Road test: Chinese 'robotaxis' take riders for a spin"
-    excerpt: "Chinese entrants in the race to put autonomous vehicles on the road are bringing \"robotaxis\" online in hopes that a hired-car format can be the key to unlocking wide acceptance of the futuristic technology."
-    publishedDateTime: 2020-08-10T21:00:00Z
-    webUrl: "https://japantoday.com/category/tech/road-test-chinese-'robotaxis'-take-riders-for-a-spin"
+    excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
+    publishedDateTime: 2020-08-10T05:12:00Z
+    webUrl: "https://www.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
+    ampWebUrl: "https://amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 4
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 44
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1683802/chinese-robotaxis-take-riders-spin.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
-secured: "SHI3ce2XxmLFEJJ/daw5moNiX7eYbB3Y2/4EBKdgxtqNgUN6VSP+yMncNcDEeZR3anQWR0p2/QkMHVd2f/Gv9x7XwcjPRrTF//av50mDyYarZKvQmnIkKIxLfQ7wxtrNYUAuJObvk9kHL9lSgZuEsjcU6UAiBkfIhUfZIXXKbjll54lS/Kim7QSCReaFycKLcaNl4Ar/OFSyOpMjto44DMt8DhgDWZ2YIOz8YbWzLNkvRc2O6bilOl9H6qdp4h0btqiYAPPbg8xwMG4K3ieM09O0KrB1Ly3lfP0fr0b6UtYS3lsLWFuvb3/CRGh6NlPZDlpmy3ZtTeLioBXKmF84lQ==;y/QNOnp8UEULLahOpTdzZw=="
+secured: "huLSQBDdg8ldoU2RNEtTMy+xB/08an+H5iej+0aWxKRXEMet2Qnr0wxsu6rBEFfev78IAoM+xeTio+ZhOy3mReRpis4hLdNEWzl5Lf+If+l+NlBMlTB5JeDP6Iybu+JIlZTy1MvbeWztkaQbGuGvjGfQXSvVddH7NNp8vT90XJR2xfrOJLDNL3Rcfd1ETNWGOIhrx/5gAp76tOnp0NxQq8YbVjtNjvxbic07Tlntmk2DU2lUNH+IxZ6RfFagSJYdO03EkdDkCGGj5NVwl6RGO9ac6Skv8C56DYZeCgkAfpTUvC8CKbt4tVqDCiDY1MUcUqXcbG7E7Ae6Q/O23xE5Vg==;KJitEWUo14HXS8Vk3jh7zQ=="
 ---
 
