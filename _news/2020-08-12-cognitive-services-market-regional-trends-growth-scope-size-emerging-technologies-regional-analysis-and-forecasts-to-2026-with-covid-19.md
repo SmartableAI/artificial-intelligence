@@ -36,7 +36,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 81
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,6 +57,22 @@ related:
       - url: "https://cdn.openpr.com/T/8/T810604764_g.jpg"
         width: 696
         height: 392
+        isCached: true
+  - title: "Machine Learning as a Service"
+    excerpt: "Get Reasonable Discount on This Premium Report @ https://www.advancemarketanalytics.com/request-discount/44899-global-machine-learning-as-a-service-market The report concludes with in-depth details on the business operations and financial structure of ..."
+    publishedDateTime: 2020-08-11T00:40:00Z
+    webUrl: "https://www.openpr.com/news/2108830/machine-learning-as-a-service-market-status-most-fragile"
+    ampWebUrl: "https://www.openpr.com/amp/2108830/machine-learning-as-a-service-market-status-most-fragile"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2108830/machine-learning-as-a-service-market-status-most-fragile"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/T/8/T811899730_g.jpg"
+        width: 800
+        height: 385
         isCached: true
   - title: "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025"
     excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"

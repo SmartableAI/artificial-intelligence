@@ -2,6 +2,147 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-11-vornado-will-install-facial-recognition-tech-in-all-its-buildings.md",
+      "title": "Vornado will install facial recognition tech in all its buildings",
+      "excerpt": "Vornado Realty Trust, which has operated face-reading systems at a handful of properties for the past five years, now plans to expand the technology across its entire portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://therealdeal.com/2020/08/11/vornado-will-install-facial-recognition-tech-in-all-its-buildings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://therealdeal.com/wp-content/uploads/2020/08/493-Vornado-to-install-facial-recognition-technology-in-all-of-its-buildings.jpg",
+          "width": 691,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://therealdeal.com/2020/08/11/vornado-will-install-facial-recognition-tech-in-all-its-buildings/amp/",
+      "cdnAmpWebUrl": "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2020/08/11/vornado-will-install-facial-recognition-tech-in-all-its-buildings/amp/",
+      "publishedDateTime": "2020-08-11T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Real Deal",
+        "domain": "therealdeal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020.md",
+      "title": "Argo AI co-founder and CEO Bryan Salesky joins us at TC Sessions: Mobility 2020",
+      "excerpt": "Mobility on October 6 & 7 will be a fantastic opportunity to find out all the latest on advancements in autonomy, micro-mobility, transportation AI and much more. Argo AI co-founder and CEO Bryan Salesky is among the best-positioned people in the world to speak",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Bryan-Salesky_portrait.jpg?w=1024",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/amp/",
+      "publishedDateTime": "2020-08-11T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams.md",
+      "title": "NeuralCam Live uses ML to turn iPhones into ‘smart’ computer webcams",
+      "excerpt": "After bringing Google Night Sight-like functionality to iOS, NeuralCam now has an app that lets Macs stream live, deep learning-filtered video from iPhones.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/neuralcamlive.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
+      "publishedDateTime": "2020-08-11T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop.md",
       "title": "Researchers use AI classifiers to expose potential vulnerabilities in Microsoft remote desktop",
       "excerpt": "In a new study, researchers use machine learning models to identify vulnerabilities in Microsoft's Remote Desktop Protocol.",
@@ -1149,47 +1290,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-10-austin-ai-startup-litlingo-raises-2m-for-growth.md",
-      "title": "Austin AI startup LitLingo raises $2M for growth",
-      "excerpt": "Austin-based LitLingo Technologies, which makes a communication platform focused artificial intelligence technology, has raised $2 million.The round was",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200810&Category=BUSINESS&ArtNo=200819912&Ref=AR",
-          "width": 5000,
-          "height": 3203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
-      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
-      "publishedDateTime": "2020-08-10T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-10-why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter.md",
       "title": "Why IBM Built An AI Avatar To Answer Questions About Marine Litter",
       "excerpt": "IBM is working with the United Nations Environment Programme to demonstrate how information technology can be used to address marine litter. It could be as simple as asking \"Sam\" a question.",
@@ -1337,97 +1437,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19.md",
-      "title": "Researchers use AI to determine which face masks work best for COVID-19",
-      "excerpt": "A technique developed at Duke University measures which face masks best protect against COVID-19 by counting the droplets they emit during speech.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-10T180435.460-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/amp/",
-      "publishedDateTime": "2020-08-10T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-sift-healthcare-raises-28-million.md",
-      "title": "Sift Healthcare raises $2.8 million",
-      "excerpt": "Milwaukee-based Sift Healthcare raised $2.8 million in a funding round that included investments from two Badger Fund of Funds, the company recently announced.",
-      "sourceUrl": null,
-      "webUrl": "https://biztimes.com/sift-healthcare-raises-2-8-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.biztimes.com/uploads/2019/05/Medical-Research-shutterstock_348289340-e1460130849457.jpg",
-          "width": 770,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://biztimes.com/sift-healthcare-raises-2-8-million/?amp",
-      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/sift-healthcare-raises-2-8-million/?amp",
-      "publishedDateTime": "2020-08-10T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTimes",
-        "domain": "biztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

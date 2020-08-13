@@ -2,6 +2,240 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-25-artificial-intelligence-in-accounting-market-research-report.md",
+      "title": "Artificial Intelligence in Accounting Market Research Report",
+      "excerpt": "An informative data report titled Artificial Intelligence in Accounting Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2096670/artificial-intelligence-in-accounting-market-research-report",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T725964590_g.jpg",
+          "width": 800,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report",
+      "publishedDateTime": "2020-07-24T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry.md",
+      "title": "The cloud becomes a delivery mechanism for the media and entertainment industry",
+      "excerpt": "The pandemic has accelerated digital transformation efforts in M&E businesses to help create innovation, efficiencies, and new revenue streams, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/13441199-0033-4e37-a942-b9bc2deaac89/resize/1200x/9a229ce009266f1a6bbd4fa8123f6cb7/istock-1167582999.jpg",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-cloud-becomes-a-delivery-mechanism-for-the-media-and-entertainment-industry/",
+      "publishedDateTime": "2020-07-24T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-ucla-childrens-hfchildrospital-implements-new-ai-robot-to-improve-mental-health-during-treatment.md",
+      "title": "UCLA Children's Hfchildrospital implements new AI robot to improve mental health during treatment",
+      "excerpt": "Children may undergo challenging experiences when admitted for in-patient care at pediatric hospitals. Now, a new AI robot, Robin, helps to improve their experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/24/5ec231cd-4134-4488-bd49-546e6f9a34ae/robin-ai-robot-expper-eileen-brown-zdnet.png",
+          "width": 1191,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/",
+      "publishedDateTime": "2020-07-24T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-machine-learning-reveals-recipe-for-building-artificial-proteins.md",
+      "title": "Machine learning reveals recipe for building artificial proteins",
+      "excerpt": "Proteins are essential to the life of cells, carrying out complex tasks and catalyzing chemical reactions. Scientists and engineers have long sought to harness this power by designing artificial proteins that can perform new tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-protein.jpg",
+          "width": 2880,
+          "height": 2365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp",
+      "publishedDateTime": "2020-07-24T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3.md",
+      "title": "AI Weekly: The promise and shortcomings of OpenAI’s GPT-3",
+      "excerpt": "Even OpenAI says \"The GPT-3 hype is way too much.\" A look at the promise and shortcomings of GPT-3, a language model that's attracting a lot of attention.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/",
+      "publishedDateTime": "2020-07-24T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-apple-has-acquired-more-ai-startups-than-google-facebook-or-any-other-big-tech-company-is-apple-bulking-up-in-ai-or-just-catching-up.md",
       "title": "Apple has acquired more AI startups than Google, Facebook or any other Big Tech company. Is Apple bulking up in AI or just catching up?",
       "excerpt": "Apple bought more AI startups either Google or Microsoft over most of the last decade, a report found. Some purchases may power future services.",
@@ -1133,245 +1367,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature.md",
-      "title": "Railways to revamp the IRCTC website with Artificial Intelligence feature",
-      "excerpt": "Mr. Yadav said the portal will have Artificial Intelligence capabilities integrated into it. “When passengers book the ticket, based on the analysis of the past data, the AI feature will be able to forecast the chances of reservation confirmation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature/article32176868.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature/article32176868.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature/article32176868.ece/amp/",
-      "publishedDateTime": "2020-07-23T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-new-report-artificial-intelligence-chip-market-size-growth-and-share-to-amass-us-832527-mn-by-2027.md",
-      "title": "New Report: Artificial Intelligence Chip Market Size, Growth and Share to amass US $ 83,252.7 Mn by 2027",
-      "excerpt": "Selbyville, Delaware According to Market Study Report, Provides A Detailed Overview Of Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/new-report-artificial-intelligence-chip-market-size-growth-and-share-to-amass-us-832527-mn-by-2027-2020-07-21",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-built-a-powerful-ai-model-to-simulate-entire-social-media-networks-in-action.md",
-      "title": "Facebook built a powerful AI model to simulate entire social media networks in action",
-      "excerpt": "When it comes to live-fire high-wire acts in the tech industry, there can be few endeavors more daunting than executing a security update to a software platform hosting more than 2.6 billion users. But that’s exactly what Facebook does every time it rolls out an update.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/23/facebook-built-a-powerful-ai-model-to-simulate-entire-social-media-networks-in-action/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/blockchain-facebook-cryptocurrency-bitcoin-jobs-796x431.jpg",
-          "width": 796,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/23/facebook-built-a-powerful-ai-model-to-simulate-entire-social-media-networks-in-action/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/23/facebook-built-a-powerful-ai-model-to-simulate-entire-social-media-networks-in-action/amp/",
-      "publishedDateTime": "2020-07-23T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-new-york-legislature-votes-to-halt-facial-recognition-tech-in-schools-for-two-years.md",
-      "title": "New York legislature votes to halt facial recognition tech in schools for two years",
-      "excerpt": "The state of New York voted this week to pause any implementation of facial recognition technology in schools for two years. The moratorium, approved by the New York Assembly and Senate Wednesday, comes after an upstate school district adopted the technology earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1157932923.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/",
-      "publishedDateTime": "2020-07-23T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-will-pay-650-million-to-settle-facial-recognition-privacy-lawsuit.md",
-      "title": "Facebook will pay $650 million to settle facial recognition privacy lawsuit",
-      "excerpt": "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
-      "publishedDateTime": "2020-07-23T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

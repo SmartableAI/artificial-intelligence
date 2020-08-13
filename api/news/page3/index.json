@@ -2,6 +2,139 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-11-why-covid-19-will-boost-the-use-of-robotics-in-the-wild.md",
+      "title": "Why Covid-19 will boost the use of robotics in the wild",
+      "excerpt": "What must businesses consider before deploying robotics to ensure the technology is used responsibly and the challenges they’ll need to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Que362nGceZon38bd28Ad6-1200-80.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/why-covid-19-will-boost-the-use-of-robotics-in-the-wild/",
+      "publishedDateTime": "2020-08-11T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-ai-readiness-isnt-just-a-technology-issue-ethics-matter-too.md",
+      "title": "AI readiness isn’t just a technology issue – ethics matter too",
+      "excerpt": "For example, in AI Readiness, Alex Castrrounis explains readiness regarding Technological, Financial and Cultural Issues. Summarizing some of his points: Organizational — Need a Chief AI Officer (CAIO) or chief analytics officer (CAO),",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
+          "width": 1277,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp",
+      "publishedDateTime": "2020-08-11T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-facial-recognition-start-up-mounts-a-first-amendment-defense-in-privacy-suits.md",
+      "title": "Facial Recognition Start-Up Mounts a First Amendment Defense in Privacy Suits",
+      "excerpt": "Clearview AI has hired Floyd Abrams, a top lawyer, to help fight claims that selling its data to law enforcement agencies violates privacy laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/10/business/10Clearview-01/10Clearview-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.amp.html",
+      "publishedDateTime": "2020-08-11T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-heres-how-customer-experience-and-ai-are-driving-the-next-gen-of-e-commerce-industry.md",
       "title": "Here's How Customer Experience And AI Are Driving The Next Gen Of E-commerce Industry",
       "excerpt": "Brands are shifting their marketing strategies and resources from brick-and-mortar to e-commerce format, striving to create personalized shopping experiences for their customers",
@@ -269,47 +402,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-austin-ai-startup-litlingo-raises-2m-for-growth.md",
-      "title": "Austin AI startup LitLingo raises $2M for growth",
-      "excerpt": "Austin-based LitLingo Technologies, which makes a communication platform focused artificial intelligence technology, has raised $2 million.The round was",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200810&Category=BUSINESS&ArtNo=200819912&Ref=AR",
-          "width": 5000,
-          "height": 3203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
-      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
-      "publishedDateTime": "2020-08-10T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -921,7 +1013,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-industry-development-scenario-and-forecast-to-2025-2020-08-10",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 193,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1082,104 +1174,6 @@
         "name": "NDTV",
         "domain": "ndtv.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher.md",
-      "title": "Why Do Solar Farms Kill Birds? Call in the AI Bird Watcher",
-      "excerpt": "Solar facilities kill tens of thousands of birds every year, and no one is quite sure why. An artificial-intelligence-powered birder is on the case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f2d8dadc693e7df1016520f/master/pass/Science_solarfarms_841997834.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/amp",
-      "publishedDateTime": "2020-08-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-the-morning-after-watch-an-air-force-pilot-take-on-ai-controlled-fighters-online.md",
-      "title": "The Morning After: Watch an Air Force pilot take on AI-controlled fighters online",
-      "excerpt": "It’ll happen virtually, instead, with participants and viewers watching online as AI algorithms control simulated F-16 fighter planes in aerial combat. By the end of the three-day event, viewers will witness a matchup between the top AI and an experienced Air Force fighter pilot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/the-morning-after-ai-fighter-pilots-112824955.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2Fc2c818e0-db0e-11ea-b07f-4ac840ece8a9&client=amp-blogside-v2&signature=876001e9bddc25f4e4ed6fbacc3b80f107eff183",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112824955.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112824955.html",
-      "publishedDateTime": "2020-08-10T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

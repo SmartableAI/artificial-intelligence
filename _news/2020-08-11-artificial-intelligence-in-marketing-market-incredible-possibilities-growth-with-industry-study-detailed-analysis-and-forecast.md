@@ -137,6 +137,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market | 2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Forecast by Size, Share, Trends and Growth Forecast"
+    publishedDateTime: 2020-08-13T07:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth Analysis and Forecast to 2026"
     excerpt: "Summary A new market study titled Discover Global AI in Fintech Market Upcoming Trends Growth Drivers and Challenges has been featured on WiseGuyReports Introduction AI in Fintech Market The report provides a detailed analysis of the AI in Fintech market"
     publishedDateTime: 2020-08-12T10:07:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T01:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence Market Size 2020: Notable Growth, Trends, Key Players, Reginal, Product Review and Forecasts Report To 2025"
-    excerpt: "Component (Software, Hardware), Process (Image Recognition, Data Mining, Signal Recognition), Application (Semi-autonomous Driving, Autonomous Driving, Human-Machine Interface), and Regional Market Size,"
-    publishedDateTime: 2020-08-13T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2020-08-13"
+  - title: "2025 Healthcare Artificial Intelligence Market |Top Companies, Trends and Future Prospects Details for Business Development"
+    excerpt: "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,"
+    publishedDateTime: 2020-08-12T18:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-08-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,6 +2,149 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-30-artificial-intelligence-and-machine-learning-in-the-time-of-covid-19.md",
+      "title": "Artificial intelligence and machine learning in the time of Covid-19",
+      "excerpt": "The Covid-19 pandemic has caused us major setbacks, but artificial intelligence and machine learning can help fill some of these gaps. By learning from artificial intelligence’s successes and consequences,",
+      "sourceUrl": null,
+      "webUrl": "https://vietreader.com/news/8497-artificial-intelligence-and-machine-learning-in-the-time-of-covid-19.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vietreader.com/uploads/posts/2020-07/artificial-intelligence-and-machine-learning-in-the-time-of-covid-19-1.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vietreader.com",
+        "domain": "vietreader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-googles-tf-coder-tool-automates-machine-learning-model-design.md",
+      "title": "Google’s TF-Coder tool automates machine learning model design",
+      "excerpt": "Researchers at Google Brain, one of Google’s AI research divisions, developed an automated tool for programming in machine learning frameworks like TensorFlow. They say it achieves better-than ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "publishedDateTime": "2020-07-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-technologists-and-business-leaders-dont-see-eye-to-eye-on-artificial-intelligence.md",
+      "title": "Technologists and business leaders don't see eye to eye on artificial intelligence",
+      "excerpt": "Business leaders and technologists see artificial intelligence differently -- which is not a surprise. However, they have different perspectives on the progress on AI projects, and what it takes to scale AI to meet enterprise challenges. For example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/30/1ba9fe6c-0378-41b8-a981-1e8ecf7e03df/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
+          "width": 480,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai/",
+      "publishedDateTime": "2020-07-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-twelve-fintech-startups-selected-for-village-capitals-finance-forward-latin-america-2020-accelerator.md",
       "title": "Twelve Fintech Startups Selected for Village Capital's Finance Forward Latin America 2020 Accelerator",
       "excerpt": "Over 80% of companies selected have one or more female founders, while over 40% are working from outside major fintech hubs in four different financial ... CIGE Mexico (Mexico) offers an AI solution that guarantees entrepreneurs advisory to manage their ...",
@@ -315,47 +458,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-30-ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers.md",
-      "title": "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers",
-      "excerpt": "IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers/article_2506dea5-6c45-554f-b7e5-9326efb69284.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-30-the-panopticon-is-already-here.md",
       "title": "The Panopticon Is Already Here",
       "excerpt": "Xi Jinping is using artificial intelligence to enhance his government’s totalitarian control—and he’s exporting this technology to regimes around the globe.",
@@ -404,6 +506,47 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers.md",
+      "title": "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers",
+      "excerpt": "IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20200730ny78395/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -770,6 +913,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-30-cloudswyft-and-futurelearn-launch-new-microsoft-ai-microcredential.md",
+      "title": "CloudSwyft and FutureLearn launch new Microsoft AI microcredential",
+      "excerpt": "The first course, entitled Artificial Intelligence on Microsoft Azure: Machine Learning and Python Basics, has launched and is now open for enrolment. The user experience for each course is ...",
+      "sourceUrl": null,
+      "webUrl": "https://londonlovesbusiness.com/cloudswyft-and-futurelearn-launch-new-microsoft-ai-microcredential/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://londonlovesbusiness.com/wp-content/uploads/2020/07/FutureLearn-Microsoft.png",
+          "width": 599,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-29T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "londonlovesbusiness.com",
+        "domain": "londonlovesbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-responsible-data-and-ai-in-the-time-of-pandemic-and-crisis.md",
       "title": "Responsible Data And AI In The Time Of Pandemic And Crisis",
       "excerpt": "With artificial intelligence (AI) being used in tracking COVID-19’s spread, there is a dire need for governments and organizations to put together new policies that enable responsible use of AI and data.",
@@ -965,151 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-pluralsight-inc-ps-ceo-aaron-skonnard-on-q2-2020-results-earnings-call-transcript.md",
-      "title": "Pluralsight, Inc. (PS) CEO Aaron Skonnard on Q2 2020 Results - Earnings Call Transcript",
-      "excerpt": "The AWS DeepRacer partnership is really focused on providing machine learning specific Skills development to those participants that are engaging in their DeepRacer learning campaign. This is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4362108-pluralsight-inc-ps-ceo-aaron-skonnard-on-q2-2020-results-earnings-call-transcript",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-facebook-develops-new-rebel-poker-ai-that-outperforms-libratus.md",
-      "title": "Facebook Develops New ‘ReBeL’ Poker AI That Outperforms Libratus",
-      "excerpt": "The ReBeL poker AI developed by a team at Facebook uses new concepts in self-learning to help it excel at a variety of imperfect-information games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
-      "cdnAmpWebUrl": "https://www-cardschat-com.cdn.ampproject.org/c/s/www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
-      "publishedDateTime": "2020-07-29T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Poker Sites",
-        "domain": "cardschat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-apple-tried-to-lure-amazons-video-app-by-offering-a-lower-15-fee-email-shows.md",
-      "title": "Apple tried to lure Amazon's video app by offering a lower 15% fee, email shows",
-      "excerpt": "In an email sent from Apple executive Eddy Cue to Amazon CEO Jeff Bezos in 2016, Apple said it would offer a 15% revenue share to Amazon for customers that sign up for Prime Video through Apple's payments system.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T18:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-greenway-health-works-with-aws-to-further-meet-needs-of-ambulatory-care-providers-in-a-post-covid-healthcare-environment.md",
-      "title": "Greenway Health Works with AWS to Further Meet Needs of Ambulatory Care Providers in a Post-COVID Healthcare Environment",
-      "excerpt": "Greenway Insights will leverage AWS cloud services, giving Greenway engineering teams direct access to a robust set of data analytics and machine learning capabilities, such as Amazon SageMaker ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/health-press-release/Greenway-Health-Works-with-AWS-to-Further-Meet-Needs-of-Ambulatory-Care-Providers-in-a-Post-COVID-Healthcare-Environment--479970-1.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

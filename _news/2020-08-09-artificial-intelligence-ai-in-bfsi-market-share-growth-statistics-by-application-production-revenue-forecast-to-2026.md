@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automotive Artificial Intelligence Market Size 2020: Notable Growth, Trends, Key Players, Reginal, Product Review and Forecasts Report To 2025"
+    excerpt: "Component (Software, Hardware), Process (Image Recognition, Data Mining, Signal Recognition), Application (Semi-autonomous Driving, Autonomous Driving, Human-Machine Interface), and Regional Market Size,"
+    publishedDateTime: 2020-08-13T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gesture Recognition Solution Market 2020 Analysis, Size, Share, Growth, Trends, Application, Types, and Upcoming Opportunities 2023"
     excerpt: "Global \"Gesture Recognition Solution Market\" report 2020 plans to give forefront advertise knowledge and help decision makers take sound investment evaluation. The report identifies and analyses the emerging trends along with major drivers,"
     publishedDateTime: 2020-08-10T12:43:00Z

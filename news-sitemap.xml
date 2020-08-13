@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://windowsreport.com/microsoft-artificial-intelligence-gaming/</loc>
+    <lastmod>2020-08-13T00:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13</loc>
     <lastmod>2020-08-12T22:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -45,6 +51,18 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity-2020-08-12</loc>
     <lastmod>2020-08-12T11:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-08-12</loc>
+    <lastmod>2020-08-12T11:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922</loc>
+    <lastmod>2020-08-12T11:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -337,12 +355,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth</loc>
-    <lastmod>2020-08-10T14:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/</loc>
     <lastmod>2020-08-10T14:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -535,7 +547,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
+    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
     <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -613,12 +625,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html</loc>
-    <lastmod>2020-08-07T04:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/</loc>
     <lastmod>2020-08-07T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -639,6 +645,12 @@
   <url>
     <loc>https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update</loc>
     <lastmod>2020-08-07T02:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716</loc>
+    <lastmod>2020-08-07T00:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -739,7 +751,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.kmworld.com/Articles/News/News/Hylands-latest-advancements-include-handwriting-recognition-142178.aspx</loc>
+    <loc>https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142178</loc>
     <lastmod>2020-08-06T07:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -807,6 +819,12 @@
   <url>
     <loc>https://www.nature.com/articles/s41598-020-70149-0</loc>
     <lastmod>2020-08-06T02:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200806005063/en/AI-Health-Tech-Start-up-Infermedica-Raises-10</loc>
+    <lastmod>2020-08-06T02:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1843,14 +1861,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers/article_2506dea5-6c45-554f-b7e5-9326efb69284.html</loc>
-    <lastmod>2020-07-30T06:16:00-07:00</lastmod>
+    <loc>https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/</loc>
+    <lastmod>2020-07-30T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/</loc>
-    <lastmod>2020-07-30T06:07:00-07:00</lastmod>
+    <loc>https://www.morningstar.com/news/pr-newswire/20200730ny78395/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers</loc>
+    <lastmod>2020-07-30T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1899,6 +1917,12 @@
   <url>
     <loc>https://www.indiatvnews.com/technology/news-google-supercomputer-nvidia-gpus-break-ai-performance-records-638280</loc>
     <lastmod>2020-07-30T02:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://londonlovesbusiness.com/cloudswyft-and-futurelearn-launch-new-microsoft-ai-microcredential/</loc>
+    <lastmod>2020-07-29T23:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2097,6 +2121,12 @@
   <url>
     <loc>https://www.theatlantic.com/magazine/archive/2020/09/china-ai-surveillance/614197/</loc>
     <lastmod>2020-07-29T04:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/image-recognition-marketin-depth-analysis-by-total-revenue-and-industry-growth-rate-forecast-till-2026-2020-08-13</loc>
+    <lastmod>2020-07-29T04:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

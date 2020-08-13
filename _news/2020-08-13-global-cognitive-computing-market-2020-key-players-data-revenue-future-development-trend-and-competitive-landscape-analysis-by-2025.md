@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cognitive Analytics Market latest Trends and New Technologies Research Forecast to 2026"
+    excerpt: "A Research study on Cognitive Analytics Market analyzes and offers ideas of exhaustive research on ancient and recent Cognitive Analytics market size. Along with the estimated future possibilities of the market and emerging trends in the Cognitive Analytics market."
+    publishedDateTime: 2020-08-13T07:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Cognitive Analytics Market 2020 Research Study Provides Projections of COVID-19 Pandemic in its New Revised Report"
     excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
     publishedDateTime: 2020-08-11T14:27:00Z

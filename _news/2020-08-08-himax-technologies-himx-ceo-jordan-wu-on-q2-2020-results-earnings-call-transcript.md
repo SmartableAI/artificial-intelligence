@@ -36,6 +36,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 0
+  - title: "JOYY Inc. (YY) CEO David Xueling Li on Q2 2020 Results - Earnings Call Transcript"
+    excerpt: "Q2 2020 Earnings Conference Call August 12, 2020 9:00 PM ET. Company Participants. Matthew Zhao - General Manager of Investor Relations. David Xueling Li - C"
+    publishedDateTime: 2020-08-13T07:52:00Z
+    webUrl: "https://seekingalpha.com/article/4368243-joyy-inc-yy-ceo-david-xueling-li-on-q2-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "Fnx1B+h0GOcT3958fgjqbrzKgpvIuw76DqVPpnCelmxLJyCHq3SUv8BNka/VKrlbkl5JauI9GCOgeFrKeTi29B0w1q6cpXq9jYLDsZUzluFo+hfJ+A7RkJJwrbNrwvmGpNaruix8jKEkloFaUJX4H4vJsps1nqkuF4BoCPSYOasi8uRVVujL+8+DUXoWE6axjPXvInuAZcSMwSWZAgjqP7BXbiTseEwWrI64E4CvlXb9qh1clRbdjjNMbKgzdv9iydp3c1O8y+TH0dDatB+D4tKHTRiGJ/5zMMkae1HIkBt7z4m/7OEEcnhBIpq+jIvVfyfI7qffseC2YMI2pvhLng==;2GZ7dTC/IaGwtqPHwUWm5Q=="
 ---
