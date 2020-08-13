@@ -2,6 +2,146 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-13-does-ai-make-more-reliable-financial-recommendations-than-humans.md",
+      "title": "Does AI Make More Reliable Financial Recommendations Than Humans?",
+      "excerpt": "As beneficial as AI can be, companies in financial services need to keep one very important reality in mind: Consumers don’t trust it (yet).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33f49bdfe8e086727f8d48%2F0x0.jpg",
+          "width": 1200,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/amp/",
+      "publishedDateTime": "2020-08-13T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-mlops-the-rise-of-machine-learning-operations.md",
+      "title": "MLops: The rise of machine learning operations",
+      "excerpt": "Once machine learning models make it to production, they still need updates and monitoring for drift. A team to manage ML operations makes good business sense",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/teams_teamwork_collaboration_discussion_planning_meeting_communication_by_brauns_gettyimages-497812268_2400x1600-100853242-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html",
+      "publishedDateTime": "2020-08-13T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai.md",
+      "title": "Singapore parks $182M for fintech innovation, with special focus on AI",
+      "excerpt": "Country rolls out new three-year plan with SG$250 million ($182.1 million) investment to drive technology innovation in the financial services industry, which saw 40 innovation labs and 1,000 fintech companies set up in the last five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/",
+      "publishedDateTime": "2020-08-13T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-microsoft-trains-ai-agents-for-more-realistic-gaming.md",
       "title": "Microsoft trains AI agents for more realistic gaming",
       "excerpt": "Microsoft's Project Padia is all about teaching AI agents to enhance your gaming experience. This time, they ar teaching NPC to cooperate with humans.",
@@ -481,46 +621,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a.md",
-      "title": "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A",
-      "excerpt": "SEOUL, South Korea and SILICON VALLEY, Calif., Aug. 12, 2020 /PRNewswire/ -- MakinaRocks, an industrial AI solutions startup aiming to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922",
-      "publishedDateTime": "2020-08-12T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1006,57 +1106,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-12-lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras.md",
-      "title": "Lantronix Open-Q 610 μSOM to Bring Advanced AI and Machine Learning Capabilities to Smart Cameras",
-      "excerpt": "(NASDAQ: LTRX), a global provider of intelligent edge and secure data management solutions for the Industrial Internet of Things (IoT), today announced its new Lantronix Open-Q(TM) 610 μSOM. Scheduled for delivery later this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras-2020-08-12-71841522",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-08-12-fintech-unicorn-lufax-backed-by-chinas-biggest-insurer-ping-an-said-to-be-secretly-applying-for-us-ipo.md",
       "title": "Fintech unicorn Lufax, backed by China’s biggest insurer, Ping An, said to be secretly applying for US IPO",
       "excerpt": "Lufax, which runs an online wealth management platform and retail lending technology platform, has hired Bank of America, Goldman Sachs, HSBC and UBS to bring in investors, the people familiar said. A spokesman for Lufax declined to comment on any IPO plans.",
@@ -1377,56 +1426,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-11T14:04:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-securing-amazon-comprehend-api-calls-with-aws-privatelink.md",
-      "title": "Securing Amazon Comprehend API calls with AWS PrivateLink",
-      "excerpt": "Amazon Comprehend now supports Amazon Virtual Private Cloud (Amazon VPC) endpoints via AWS PrivateLink so you can securely initiate API calls to Amazon Comprehend from within your VPC and avoid using the public internet. Amazon Comprehend is a fully managed natural language processing (NLP) service that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-comprehend-api-calls-with-aws-privatelink/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T12:31:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-22-last-minute-deal-save-95-on-the-ultimate-artificial-intelligence-scientist-certification-bundle.md",
+      "title": "Last Minute Deal: Save 95% on the Ultimate Artificial Intelligence Scientist Certification Bundle",
+      "excerpt": "Here is what is included in the bundle: Machine Learning A-Z Deep Learning A-Z Python A-Z Tensorflow 2.0: A Complete Guide on the Brand New Tensorflow You can find out more details about this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/last-minute-deal-save-95-on-the-ultimate-artificial-intelligence-scientist-certification-bundle-22-07-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-kunstmatige-intelligentie-deepmind-creeert-zelf-algoritmes.md",
       "title": "Kunstmatige intelligentie DeepMind creëert zelf algoritmes",
       "excerpt": "Onderzoekers van DeepMind hebben een techniek ontdekt waarbij kunstmatige intelligentie (AI) zelf algoritmes kan genereren. Het bijzondere daarbij is dat het zelflerende algoritmes zijn ...",
@@ -1317,39 +1349,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
-      "publishedDateTime": "2020-06-30T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

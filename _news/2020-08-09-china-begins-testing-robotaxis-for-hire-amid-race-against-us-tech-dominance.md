@@ -1,9 +1,9 @@
 ---
 category: news
 title: "China begins testing robotaxis for hire amid race against US tech dominance"
-excerpt: "Autonomous hired cars are considered ideal for accumulating driving time and the data cache needed for cars to learn and become safe enough."
-publishedDateTime: 2020-08-09T11:03:00Z
-webUrl: "https://www.asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
+excerpt: "Tech giant Baidu has plans for autonomous car testing bases in more ... A Didi executive said in June that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. “What we are trying to solve is the last 0.5 percent of ..."
+publishedDateTime: 2020-08-09T16:33:00Z
+webUrl: "https://asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 448
         isCached: true
 
-secured: "IQSb87i8H/3YMwuUA9axahloD6Wzi1uB4anK4+IAimo89CJmHCuNKMZHEsw+nL5FsWRnDOnow7nTJow2Y4CbPbJT9u1EJIx7qzL8rik0b7EiPJeKRThVeX6upmX/bzr5HsTZXb41hNeNh02IsyC9Rq0oDX0h5UTPdOHXwxms6NdEkLZixDcIP1pFB+5mHDvTaKZ9gLjksTTYfjVMxcWkg5+BOOM3KuGHDaWrE1Xk4E6Y+30ydtxPocMLWQ8dHUB0BWPYQ5gNNDYVtx60U7EF3TZqE+rPsXJE7uSAjZLixPUfRP2YaNK9qYsCXSkj3XyF1AruOeS7RGtbvRYfX5aBMflfqboDHaLqrzBDOl1ZxbtX2EVVnkwqmcXBRQFKxheLIuP4SZd8NU7mr6Fna1jU56GXVdRzK2ss1aArEtgizXe8nq72a7Z0NlDCAC3Cw0PHwoEPpdEXQtjdqQtPoVywVaGaqFv+ZZXzeGFgjUFJ2uXvdMYQ/eChxjcaTbOUuPwGryqJpFHUwMElqETDcC71HA==;5EBXNTdTsa7SdrxyHrI3ZQ=="
+secured: "Uc4IDf6eofxTdGIjnVyfiWgjdlh2qP/KbxGe1CWo1kf2iVGBeJ09uI339CYrIpRg5SokrLwTnc4OnQHCtIt3nNgxfPyV9/rTsRVzb5PwihVpbCReY9Rii8yhVgA+e0VavqnOFuBVx4kTDEeWkS6xpO7g4I5PWwT7TohDA/zrLYrDlnwhUbFrYGJeAKzbZeuOu2Shtz5Kn5KqmuPLzbNdiA+Sp327oXFSDPwme3DxMWHDluGjiQ5c2/QtFD7gc1ApxPO9mKKZ8gX8btrZtnTY7+0GOmpThG+hFL8XXqaDPDs9vpMl8eqe82QXq/EVhzjQ44cagV5Jk96RgYJkq8C1Ow==;m4SD8R3fWX/Nxzf/N1900g=="
 ---
 

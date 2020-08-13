@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
 type: article
 quality: 89
-heat: 379
+heat: 389
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/dD_b_3LnM8xnDw8b1chQVYmkwRY=/756x567/2020/08/10/7160792a-58c7-4445-817b-fb35532e24ec/gettyimages-1063617532.jpg"
         width: 756
         height: 567
+        isCached: true
+  - title: "Facial Recognition Violates Human Rights, Court Rules"
+    excerpt: "Facial discrimination has been called discriminatory. People fear it will strip our privacy. The latest court ruling from the UK goes as far to say it violates human rights."
+    publishedDateTime: 2020-08-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/"
+    ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f343b6407c9564efe7f8d48%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "UK court finds facial recognition technology used by police was unlawful"
     excerpt: "The use of automatic facial recognition technology by South Wales Police was unlawful, according to the Court of Appeal."

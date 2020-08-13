@@ -2,6 +2,97 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-10-action-needed-to-stop-the-use-of-killer-robots-report-says.md",
+      "title": "Action needed to stop the use of killer robots, report says",
+      "excerpt": "The US and Russia are said to be in a group of military powers who have rejected proposals for regulation on autonomous weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/20/08/1600x900/skynews-killer-robots-weapons_5063928.jpg?20200810134641",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509",
+      "publishedDateTime": "2020-08-10T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-artificial-intelligence-with-great-power-comes-great-responsibility.md",
+      "title": "Artificial Intelligence: With Great Power Comes Great Responsibility",
+      "excerpt": "Those who are driving change with innovations and investments in AI must also be sure that they're steering it in the right direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2db3778c8318fd9f4e74dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/08/10/artificial-intelligence-with-great-power-comes-great-responsibility/amp/",
+      "publishedDateTime": "2020-08-10T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-mumbai-to-conduct-study-on-artificial-intelligence-based-covid-19-test.md",
       "title": "Mumbai To Conduct Study On Artificial Intelligence-Based COVID-19 Test",
       "excerpt": "The Mumbai civic body has decided to conduct a study to assess the efficacy of an artificial intelligence (AI)-based technology which claims to detect coronavirus infection within half a minute, a senior official said on Monday.",
@@ -807,7 +898,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1059,105 +1151,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai.md",
-      "title": "R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI",
-      "excerpt": "I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/BeetleCameraWEB012.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/amp/",
-      "publishedDateTime": "2020-08-07T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai.md",
-      "title": "Researchers quantify bias in Reddit content sometimes used to train AI",
-      "excerpt": "Researchers developed a technique that helps to quantfy bias on communities like Reddit, data from which is often used to train AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/07/researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai/amp/",
-      "publishedDateTime": "2020-08-07T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

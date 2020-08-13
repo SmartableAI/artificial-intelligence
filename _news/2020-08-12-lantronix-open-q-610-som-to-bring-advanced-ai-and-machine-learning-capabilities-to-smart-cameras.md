@@ -1,32 +1,21 @@
 ---
 category: news
 title: "Lantronix Open-Q 610 μSOM to Bring Advanced AI and Machine Learning Capabilities to Smart Cameras"
-excerpt: "(NASDAQ: LTRX), a global provider of intelligent edge and secure data management solutions for the Industrial Internet of Things (IoT), today announced its new Lantronix Open-Q(TM) 610 μSOM. Scheduled for delivery later this year,"
-publishedDateTime: 2020-08-12T11:53:00Z
-webUrl: "https://www.marketwatch.com/press-release/lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras-2020-08-12-71841522"
+excerpt: "Lantronix, Inc., a global provider of intelligent edge and secure data management solutions for the Industrial Internet of Things, today announced its new Lantronix Open-Q™ 610 μSOM. “Lantronix micro SOMs and solutions enable IoT device makers to jumpstart new product development and accelerate time-to-market by shortening the design cycle,"
+publishedDateTime: 2020-08-12T12:15:00Z
+webUrl: "https://www.nasdaq.com/press-release/lantronix-open-q-610-msom-to-bring-advanced-ai-and-machine-learning-capabilities-to"
 type: article
-quality: 73
-heat: 83
-published: true
+quality: 51
+heat: 61
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
+  - AI
 
 related:
   - title: "Lantronix Open-Q 610 μSOM to bring advanced AI and ML capabilities to smart cameras"
@@ -39,6 +28,6 @@ related:
       domain: seekingalpha.com
     quality: 13
 
-secured: "EI6LegTCSa/XzgHJbbWEptWtNbE/RXHAw/gQuxkroVxHqaA9cRR1o8i39ROVUv7biVnzmTsnHBUyMiNAB6MgPlsG4S4eb2nXZvdQWEKNS8fBTmvesbhKuLssRYHh+tn7BjWP7h3eH3wpx/zYrSvFBNJGDv+6mpLSJYnsS7CCnnQypLBUA9JDeml1KGyAk2VhGzFKRHX9QypFZ4bnGR1aFPPl/xo3ziHV6WujP6K2FjERq0t3wETN7efE74OeMk5VQl8agIDR1D8+Id7QXEOjHAiEIM1qPNL5MmEjl+LDeKKLjgPg9FEbBVyQxbdhTvEKyky5bnXWAUbReJNaAhLMAQ==;0djc057seL0e/sQN4bVjCg=="
+secured: "zXfS7Fd+tmXe1fvY9+KcGQRtPceoO2YrUR4HhzKMFOEr6aYUDdxSNKeNdXNCVXrlSE2hHvsCXztDsy6rQMtyit7wJSgo9i6H0BDIIP65r9QPh2OvCFKeBOJjIBIg67IW2UkTHNw1Zw6qR7xXeai6H6v3Tgi0gX4o3RuCv/6y/F1W2GKybu0SMBJWXK6im5P1Xx4PjTEWk+FWyqOHu82WxJ9pixm9SNGhipg3B2ZMP9R+f22J/o30QJhz6IQJ2R57NWgGyWOAnbZXKI5FOaqaDb8E6K6uCCI30Xz5Y+qdVh9aHL5EpoK9berPX7/Qiq0AAglG2BANIohSQxu1JIC7Ng==;8IPliAZgYWz4/BFbchJ/pw=="
 ---
 

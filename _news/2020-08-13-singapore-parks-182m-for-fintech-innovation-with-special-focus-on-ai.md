@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-parks-182m-for-fi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +22,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "MAS doubles down on fintech innovation support"
+    excerpt: "The Monetary Authority of Singapore (MAS) today announced that it will commit S$250 million over the next three years under the enhanced Financial Sector Technology and Innovation Scheme (FSTI 2.0) to accelerate technology and innovation-driven growth in the financial sector."
+    publishedDateTime: 2020-08-13T10:23:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83686/mas-doubles-down-on-fintech-innovation-support"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "lIQKrWaO87qKVMmlJa0JWIY1n29QqB9imDMsiolO+gHoyJr6l6nxF6SrpC5YX5R0MEUITNG1377hnTPjmDgRh93r7s1BiaUgWP5y3o1zuj60gP2muVuSu/M8Mejcz8+f9RmLt0Z8YlX1P7fPaPE8ULBzctha5oZc95oIA9g1rftiK41kFeHIWf5NvNfq06xX1nEWaKxuCN9EZ7PoGTEbZhDoFem5Dg4lfcuI6nTUoEB7saCzINhdx7L5Jxz+XAe8lNyCfD1rDpr/iFZRn3YLgwgH2svIJA6JcZWxwTMk2u5McokIXdKhctTC7xRc7/ug1ft6gQ/YL2Z+XIRIH3WItmyQV48STZwl6YvcThBt7Glsau1yu8bALbNSNhfkQG9cYwxSN1iCJF9MdFwPDMYLLBIhacFmOElgCVUqwIZIY7KXk3/8NAnRdDZfpsogV5M0sZaGyd8aMhgyGFkaWFdiL4mZxLbTG7Ks9wW3GTuB80jMwi+ZXD9uejlyKW0BC3Ywk/7Ees3o9KZTstthHsmnWQ==;RZZ1PTcIcTm1FzjFiIubxg=="
 ---

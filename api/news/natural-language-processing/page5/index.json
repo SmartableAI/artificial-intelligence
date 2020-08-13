@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-30-research-outcome-lessons-learned-from-1600ico-funding-rounds.md",
+      "title": "Research Outcome: Lessons Learned From 1600+ICO Funding Rounds",
+      "excerpt": "While reviewing more than 1600 English speaking Whitepapers on Initial Coin Offering (ICO) campaigns, that took place between January 2017 and December 2018 researchers from two US-based universities investigated various signals that might have impacted the outcome of the fundraising process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michalgromek/2020/06/30/research-outcome-lessons-learned-from-1600ico-funding-rounds/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efbb38d01b1680007305132%2F0x0.jpg%3FcropX1%3D426%26cropX2%3D3839%26cropY1%3D0%26cropY2%3D2562",
+          "width": 1200,
+          "height": 901,
+          "title": "Research Outcome: Lessons Learned From 1600+ICO Funding Rounds",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michalgromek/2020/06/30/research-outcome-lessons-learned-from-1600ico-funding-rounds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michalgromek/2020/06/30/research-outcome-lessons-learned-from-1600ico-funding-rounds/amp/",
+      "publishedDateTime": "2020-06-30T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning.md",
       "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
       "excerpt": "The researchers claim MARGE learns to paraphrase, translate, and summarize text without any fine-tuning, a potential step toward systems that can perform any text task from pre-training alone. In machine learning,",
@@ -1317,38 +1367,6 @@
       "provider": {
         "name": "The Drum",
         "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-sdl-launches-slate-the-intuitive-self-service-on-demand-translation-service-built-for-business.md",
-      "title": "SDL Launches SLATE, the Intuitive Self-service, On-demand Translation Service Built for Business",
-      "excerpt": "announces the launch of SLATE – Smart Language Translation for the Enterprise – its new self-service platform that delivers a truly transformed experience in online translation. Professionals ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200622005059/en/SDL-Launches-SLATE-Intuitive-Self-service-On-demand-Translation",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

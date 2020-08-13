@@ -1,0 +1,45 @@
+---
+category: news
+title: "Artificial intelligence examines best ways to keep parolees from recommitting crimes"
+excerpt: "Starting a new life is difficult for criminals transitioning from prison back to regular society. To help those individuals, Purdue University Polytechnic"
+publishedDateTime: 2020-08-12T17:54:00Z
+webUrl: "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/"
+ampWebUrl: "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/"
+cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/"
+type: article
+quality: 50
+heat: 60
+published: false
+
+provider:
+  name: ScienceBlog
+  domain: scienceblog.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://scienceblog.com/wp-content/uploads/2020/08/prison-aiLO.jpg"
+    width: 800
+    height: 512
+    isCached: true
+
+related:
+  - title: "Artificial intelligence examines best ways to keep parolees from recommitting crimes"
+    excerpt: "To help those individuals, Purdue University Polytechnic Institute researchers are using artificial intelligence to uncover risky behaviors which could then help identify when early intervention opportunities could be beneficial."
+    publishedDateTime: 2020-08-11T16:05:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q3/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 30
+    images:
+      - url: "https://www.purdue.edu/uns/images/2020/prison-aiOG.jpg"
+        width: 800
+        height: 400
+        isCached: true
+
+secured: "28ezq1/n5VX5oEcIUjrlirEoJs/hPBDMoxnnIk6p7NRJa87gBKJfgrHpaRPMacK366f6goxpPM0Nj85LXSQRB+TWJXuD13jA/9bi761K0M78z/LiJEffCjpnU1BN9y0lOhcrOe55A9USwqOMTtmvFGyJIaG/jGmVmbuMoGFKdjxAq/CzmXXDIMLO1VfRxPVVEd7qgrf8t53JNepTZ3AmC6vgvQvyg8SJCVNmhVmyVpO7l0jPzZyvSIHyFEjwF4p2mdtCME/GPyrl28JazwKDL1Pmb4tlJn8fTnZGV3HOhr4eHYHRzueBJ/nYyjDHMVdYTXxxYT1m+ZzeShinTKyOlw==;W+zpa/G0w3SZy66IZx0SrA=="
+---
+

@@ -15,6 +15,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 secured: "H1U0Uozj8ufghH3NlVQfXqTQfx/egJrYN+rq1mJNHX5l+UhSKU/YjYeAVlBvg1BZM1AHMUPLBpVii8r7S/804XyZ0V39JkK3a7DIvQK7XI7uus3cgtLqfwI+nL2efwLF7V62I8Nifml8STc8qVEqfwkgGuak7nPJtSjzvirWHhGWlt7J478AuUNwiIHXYiwz9og3vWBAQc1PAH5iTuA1cBW8OKqydDGIPtxVah8Dvz3ApAUUhtbt/m8LjjoTPsZSZ6ii36fVLpuQSx98KNFBYY6GQPJgL2gGnEF1jiBPEuXXJuqE+5taoO58Bc04buM1FFDsAo+XT3Y1z25vb+Q/Jg==;6VrULP+6BQexiO8mmbvi2g=="
 ---

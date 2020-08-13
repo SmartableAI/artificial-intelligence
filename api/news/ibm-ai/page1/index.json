@@ -228,7 +228,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -476,18 +477,18 @@
     {
       "path": "_news/2020-07-31-ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers.md",
       "title": "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers",
-      "excerpt": "NEW YORK, July 30, 2020 /PRNewswire/ -- IBM (NYSE: IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best align with ...",
+      "excerpt": "IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/07/30/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers-301103083.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -496,11 +497,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T15:29:00-07:00",
+      "publishedDateTime": "2020-07-31T15:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
