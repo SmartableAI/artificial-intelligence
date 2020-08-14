@@ -5,8 +5,8 @@ excerpt: "To learn more, read our Privacy Policy Scientists from Nanyang Technol
 publishedDateTime: 2020-08-14T13:21:00Z
 webUrl: "https://electronics360.globalspec.com/article/15560/developing-artificial-intelligence-for-gesture-recognition"
 type: article
-quality: 19
-heat: -1
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 related:
   - title: "NTU Singapore scientists develop Artificial Intelligence system for high precision recognition of hand gestures"

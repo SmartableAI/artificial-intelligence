@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2025"
+    excerpt: "Artificial intelligence technology has been implemented across varied industries such as healthcare and consumer electronics. Global organizations have started exploring and implementing the benefits of AI technologies for effective positioning of their ..."
+    publishedDateTime: 2020-08-14T14:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2025-2020-08-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Computer Vision Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
     excerpt: "According to the latest report titled Global Computer Vision Market 2020 by Company, Type and Application, Forecast to 2025 by MarketsandResearch.biz, the global market will accumulate steady income in the forecast period from 2020 to 2025."
     publishedDateTime: 2020-08-10T21:51:00Z
@@ -179,6 +193,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Deep Learning Chipset Market 2020 by Sales, Price, Revenue, Gross Margin, Industry Share and Forecast to 2024 | Absolute Reports"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chipset Market” report provides a comprehensive analysis about all of the important aspects related to the market."
+    publishedDateTime: 2020-08-13T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-by-sales-price-revenue-gross-margin-industry-share-and-forecast-to-2024-absolute-reports-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -239,15 +267,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
-  - title: "Global Self-Driving Truck Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
-    excerpt: "Driving Truck Technology Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
-    publishedDateTime: 2020-08-09T21:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2020-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 6
 
 secured: "kplHa+3TqzwJw+93M6O5xSDMzwSAYlwpL0htPgwcCqBLyCeXJCFIz/OVRdxWg3y/xwdWBTDiVEjC8V6/JXLZ1Dis4iK92nIft3fGjOI5WfLk6pSIIl5IUMnGnMXz/Sjym3dIWMlzjP9YmKoehDhg9eRpDr342ibA8JIeWPvuxiUny3Tww3XOFESYwkOWr7ZDmY7K8ndt1OQaGme+YjV+JdUrJMq5EqR4m7INZgXx2HwGBVv+qE/LlcypIZNbBLSjNPjF1zcC3B06xcbziTiM83DX+RE7gTK67O8gli82hVk5XrTRaD0Fixwj9Hg59G/H0zkyGznGpsp2MEVWQMXK6g==;eJo13NEXrQZF4ZPB88FmPA=="
 ---

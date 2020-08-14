@@ -2,27 +2,27 @@
 category: news
 title: "UK court says face recognition violates human rights"
 excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
-publishedDateTime: 2020-08-11T15:31:00Z
-webUrl: "https://abcnews.go.com/International/wireStory/uk-court-face-recognition-violates-human-rights-72305642"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/uk-court-face-recognition-violates-human-rights-72305642"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/uk-court-face-recognition-violates-human-rights-72305642"
+publishedDateTime: 2020-08-11T15:40:00Z
+webUrl: "https://www.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
 type: article
-quality: 59
-heat: 69
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://amp.spot.im/loader.png"
+    width: 375
+    height: 815
     isCached: true
 
 related:
@@ -40,7 +40,21 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Cops' facial recognition was ‘unlawful,’ court rules"
+    excerpt: "In a Court of Appeal ruling today, judges found that South Wales Police had breached privacy rights, data protection laws and equality laws through its use of the surveillance tools. The force has been at the forefront of using automated facial recognition (AFR) technology,"
+    publishedDateTime: 2020-08-14T06:35:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/cops-facial-recognition-was-illegal-court-rules"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 24
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/face%20police.jpg"
+        width: 1185
+        height: 585
+        isCached: true
 
-secured: "25dC63FP8JRYGIDtX+rWh04m5+y9JslkS0eXdtV7/8is3bPhL8rkdbpgexT4T1HBID1IpzYsKzQZaxBK/iqhA88CL5NrnXE9Wth+rtPyodM81c1opPHGti2dAWhfxDQ4kPiFNn3XLTaBZolE5hEB4Avf9IWN0L9lCJ/7EZ3xkhem7o9y401Gp8FjINYda8xfa0nUTstBZJ05nOwzARcsxj3u2RUqI3pNXitZrNzNz1HjLTq7mrcw/Cl/+xIpxcj488zojeNBsEvbS9xho5AyT6hGa8Sl+aFdjDdtIk9GL2dXhU4gpKyDJtQ2vKrGdDvzWBPBTQ1jhJkhKImpR9RV2w==;jKxYSWZkHwaSwzM7Su7x2g=="
+secured: "mObkQY2DSA7yf/6vycxMXGVLSm7j9IyXELOLDtElGsU1uNyTiTejglVoB8X4zV7sXPqVowNS3FaSKV9lRkOl8siOmSrtadhHkffSVy1D4WPPaZZlk1iQaEvYGwpB0vQI442iAGu7LBrxt8RzwQKwG7hyKGluAI3iUSLmx1l+WFN4S1yv4xSepEYEcCKncw5GUGzyQTILIHSIyOoeWlyjZmD4JZ8w51DfbWu/ijeJ+RUJYXgbe5MPPjzukU3rzk9f4Y2QN+Jci9a2pzxbknua1Z8m8pL3XMYboKQprfIh0ROjQvKQIWLbO3PnbpifqTGZ4PSS8Ok5g8WKYuWclxNJuQ==;kaurz3pRi5ikO0eoVuFaOw=="
 ---
 

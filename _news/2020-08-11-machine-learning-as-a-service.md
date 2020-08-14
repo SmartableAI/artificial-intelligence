@@ -59,7 +59,7 @@ related:
   - title: "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025"
     excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
     publishedDateTime: 2020-08-11T13:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11"
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11?mod=mw_quote_news&tesla=y"
     type: article
     provider:
       name: MarketWatch
@@ -84,15 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning as a Service Market 2020 Potential Growth, Competitive Landscape and Development of Industry by 2025"
-    excerpt: "According to the latest report titled Global Machine Learning as a Service Market 2020 by Company, Type and Application, Forecast to 2025 by MarketsandResearch.biz, the global market will accumulate steady income in the forecast period from 2020 to 2025."
-    publishedDateTime: 2020-08-09T21:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-potential-growth-competitive-landscape-and-development-of-industry-by-2025-2020-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
   - title: "Online Learning Market Size is Projected to Grow CAGR 10.85% by 2025 - Valuates Reports"
     excerpt: "Online learning has seen exponential development as the Internet and education merge to allow new capabilities to be developed. Since"
     publishedDateTime: 2020-08-10T13:36:00Z

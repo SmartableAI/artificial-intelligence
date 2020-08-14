@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-testing-corrid
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation"
+    excerpt: "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future."
+    publishedDateTime: 2020-08-14T15:34:00Z
+    webUrl: "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_614402420.jpg"
+        width: 840
+        height: 630
+        isCached: true
   - title: "Detroit-to-Ann Arbor self-driving vehicle corridor moving ahead"
     excerpt: "Project would be another step in Southeast Michigan staking its claim as an epicenter of connected and autonomous vehicle technology in the U.S."
     publishedDateTime: 2020-08-13T17:31:00Z

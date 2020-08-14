@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-13-does-ai-make-more-reliable-financial-recommendations-than-humans.md",
+      "title": "Does AI Make More Reliable Financial Recommendations Than Humans?",
+      "excerpt": "As beneficial as AI can be, companies in financial services need to keep one very important reality in mind: Consumers don’t trust it (yet).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33f49bdfe8e086727f8d48%2F0x0.jpg",
+          "width": 1200,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/08/13/does-ai-make-more-reliable-financial-recommendations-than-humans/amp/",
+      "publishedDateTime": "2020-08-13T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-mlops-the-rise-of-machine-learning-operations.md",
+      "title": "MLops: The rise of machine learning operations",
+      "excerpt": "Once machine learning models make it to production, they still need updates and monitoring for drift. A team to manage ML operations makes good business sense",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/teams_teamwork_collaboration_discussion_planning_meeting_communication_by_brauns_gettyimages-497812268_2400x1600-100853242-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html",
+      "publishedDateTime": "2020-08-13T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-facebook-ramps-up-artificial-intelligence-to-detect-hate-speech.md",
       "title": "Facebook ramps up artificial intelligence to detect hate speech",
       "excerpt": "The latest data from the social media company shows AI helped it detect 95% of the hate speech it removed between April and June.",
@@ -181,7 +281,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -463,7 +563,7 @@
       "webUrl": "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1064,7 +1164,7 @@
       "title": "How a 30-Ton Robot Could Help Crops Withstand Climate Change",
       "excerpt": "What makes a plant thrive in the heat? In the Arizona desert, the ‘Field Scanalyzer’ is collecting data to learn the answer—and hopefully improve farming for biofuels and food.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos1",
+      "webUrl": "https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos2",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 89,
@@ -1306,104 +1406,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products.md",
-      "title": "4 Hard-To-Ignore Reasons Why You Should Use AI To Make More Intelligent Products",
-      "excerpt": "We are seeing more and more companies that use artificial intelligence (AI) to make their products smarter, from speakers to coffee machines, and from cars to yoga mats. Every company must consider how they could create more intelligent products using artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f336f7bc11a3ec78f029652%2F0x0.jpg",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/12/4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products/amp/",
-      "publishedDateTime": "2020-08-11T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-facebook-turns-to-artificial-intelligence-for-help-during-the-pandemic.md",
-      "title": "Facebook Turns to Artificial Intelligence for Help During the Pandemic",
-      "excerpt": "Facebook is leaning more heavily on artificial intelligence to police its platforms while human reviewers work from home during the coronavirus pandemic, company officials said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facebook-turns-to-artificial-intelligence-for-help-during-the-pandemic-11597187773",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-219714/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

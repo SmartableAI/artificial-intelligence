@@ -40,6 +40,15 @@ related:
         width: 960
         height: 720
         isCached: true
+  - title: "Five Core Drivers for the Next Fintech Evolution"
+    excerpt: "Over the past decade, fintech has greatly disrupted the way people and businesses interact with financial services. In the future, fintech trends will continue to improve the livelihood of people with meaningful and valuable technology-based financial services ."
+    publishedDateTime: 2020-08-14T12:07:00Z
+    webUrl: "https://www.finextra.com/blogposting/19203/five-core-drivers-for-the-next-fintech-evolution"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "RENCH+FHWTSXx61jM3fVomLrS1t7G2xfiJSsetcG5mlTtMqtdCjuPsvHANIySdxz6UZzaTFp99TyCpK8Hf3X/MnRbivxjPh1vMdXTqUlDPSaiXMuSMMmCS6or8rsEae82F152JCydrEcjOnSUkkBqIibs+bOq90WmSiYtpHBLz1+flyeG5zknRgDHtR5tb/4UfVsFOSK/UuQM7O4jeKHddryCjEnkdEK6pb0HRzjvSxjc7i/8Taeazt5G+gdewCJCPECkZcwwOSRqzY0W1PYTUX3uSqPWyQ2c/wqArE678qC+D1Pxwi31P6jNeRAkv+u+YvkrFR4qHf7egKKXbcU4rJRhwAjXTxoWXld2Ua5EjTpDUhsbJEFW3vWNfMrztd0kmcQcYEwsuy++L12SYzPwbwTpH/fkw4n+uBO3Hw0p8CwNnWmO84OAPu9RBcBikF8QIRBcZVE9NzxAOjmVGJmdJrfC2AMeMNCWhex+izBTZ91d+7RinpVw3AH2rUATEiA5wNSHo4Ei12TNiOknn4SGQ==;vxlLjRfd5W8s1xMWptYAmQ=="
 ---

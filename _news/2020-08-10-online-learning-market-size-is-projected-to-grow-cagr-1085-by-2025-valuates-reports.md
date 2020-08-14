@@ -73,7 +73,7 @@ related:
   - title: "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025"
     excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
     publishedDateTime: 2020-08-11T13:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11"
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11?mod=mw_quote_news&tesla=y"
     type: article
     provider:
       name: MarketWatch
@@ -98,15 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning as a Service Market 2020 Potential Growth, Competitive Landscape and Development of Industry by 2025"
-    excerpt: "According to the latest report titled Global Machine Learning as a Service Market 2020 by Company, Type and Application, Forecast to 2025 by MarketsandResearch.biz, the global market will accumulate steady income in the forecast period from 2020 to 2025."
-    publishedDateTime: 2020-08-09T21:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2020-potential-growth-competitive-landscape-and-development-of-industry-by-2025-2020-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
 
 secured: "4qM772M7DV+hhOfg1EWrUwSMkUWuDaEMO4EHMwE8omH0uN20hdVzhxqpW2UUAvSDgno6nOqkbbOeFBpQS/vtxnarVBv0F47lDCuvVXYdispnVFU4t2JMqkTIe2ncFDyOWC5Fe9PTqChAJgVFGmfwhgavM6K3xhfP0n/Z0ZtJxDulyug7064GuVvms9LEyQ8e2XUZ3q/OoZ47+68V05N8JvqvzTqBTW9Zodk+8D0u3OpP+J9R+khcYm2qOuU/XUdr01I69cMBilYPCeslOkmKaAWUIToRsAMkqo+BdF0qoxlCzxsnMnMPotiVf6sfhdCUAtVI5qRSrYAMVlTAwuLDbm0EO656dl6mb9nvfeV8TQ01vzA9pXF87dtaBAJW0qr56Ga7suSe1Kh6jsRamVw/N0V07d1kGFRKTzLa2MdODNHUs9Jcp1qxV8gRggqDpzX9fnqw18eW91KTT4en+Sd4yFizXTgyTU3/x99b3UFT2kSCLR4VkCQRpFn6TRV/xYZuZcOToE0Krl/UDOA5c4TgiQ==;GtUtWqMZp8WoCSv3SXIqBg=="
 ---

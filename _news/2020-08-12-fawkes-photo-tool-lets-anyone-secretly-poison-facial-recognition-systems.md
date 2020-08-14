@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poi
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "This tool could protect your photos from facial recognition"
-    excerpt: "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems."
-    publishedDateTime: 2020-08-09T22:01:00Z
-    webUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/"
-    ampWebUrl: "https://www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/this-tool-could-protect-your-photos-from-facial-recognition/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Researchers Trick Facial-Recognition Systems"
     excerpt: "Goal was to see if computer-generated images that look like one person would get classified as another person."
     publishedDateTime: 2020-08-11T23:01:00Z
@@ -56,6 +45,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UaMqLFzLOwH6IN9M+7cqzideOwUskyFv2f1xorcDJVGf5HUG2gY3E6XGbnqDiwW4/oOKvNKeKLOPDLMtppmyLiNpVoaoDBTKjj98TI3Q1MHVqogzYJrYsQgCrlaDcxFA9+yVG8Qe0IWXQoF5Hk8zI+GXAz474oRXVUk+JEawT9Vg4o8xLMipBVIeYrBk5xyYUyhzu/3rYrxWtKtFGafQKhnaBXXT8+CGkC/wUJmiiAg6wWXibK2bNT/Ku6WACVrtuFdrCB0XXAV0blGo52UDdBai2ajqvtmsRfmCMA+f+5TQpShKpfmYN2jpX3xXNB2wM20HcTdD7GnV6yPvIs53tg==;LsmtKNDpd47eZ2Jq8mf/ww=="
+secured: "mJySAse8h17bk5E68bc0DHoFYytcrNN3fzu5eCGq1iyll+fAKehRayFRans1H+WkdZppJC2b41+3Z9FADklaZzOjbsuCFzJaRQlFIasANzo496VK6++JmaxfAomCDJC08VcapBBKCELMy27ZQSpmvoP886o34U74ZHAApFRVIX+hRCREWWnlxqY/KIhzv5Pdg+nRn8sHJrrgd64HEti8kx+4OG7xXfXUhJkTxYS3O0m7P9XgCGUbl+HiujClXUW7Sld053CxZSOG4acPOEY2tsHFW4jbWnsJmNeER+KAiBgts7PgOhT2RwLXVOxRCCN8tOzATjdiAlyXuOfks4VUO1zX/wQE0u1JwG2x4eyLsWXzxTG9SoyTfegPXi3jvwvOSkyeOUm1AsP2UlL4CxMQ52JXtK+u0TCtDs5OoyTzvUx5yO7SURCQZel1BNG80PbhpydDk7lylYlFwjdo1eZAAp1Nh0pwqpIJ2niJ2FfHw9+UD6OC+/NZr/z/eBDHq7tA3LW17m2PbrPcmAMqavzG5Q==;8maCjGxwsAtM782WTdv7ZQ=="
 ---
 

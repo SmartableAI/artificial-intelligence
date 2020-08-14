@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation"
+    excerpt: "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future."
+    publishedDateTime: 2020-08-14T15:34:00Z
+    webUrl: "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html"
+    ampWebUrl: "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_614402420.jpg"
+        width: 840
+        height: 630
+        isCached: true
   - title: "Michigan Plans 40-Mile Stretch of Highway for Self-Driving Cars"
     excerpt: "The state of Michigan and some private partners are taking steps toward building or assigning dedicated lanes for automated vehicles on a 40-mile (65-kilometer) stretch of highway between Detroit and Ann Arbor."
     publishedDateTime: 2020-08-13T21:34:00Z
