@@ -74,6 +74,22 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Michigan plans to redesign road for self-driving cars"
+    excerpt: "Michigan announced Thursday that it’s teaming with tech and auto companies to attempt to retrofit a roughly 40-mile stretch of two roads outside Detroit exclusively for self-driving vehicles. Both Interstate 94 and Michigan Avenue between Detroit and Ann Arbor,"
+    publishedDateTime: 2020-08-13T21:15:00Z
+    webUrl: "https://fox2now.com/news/michigan-plans-to-redesign-road-for-self-driving-cars/"
+    ampWebUrl: "https://fox2now.com/news/michigan-plans-to-redesign-road-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/michigan-plans-to-redesign-road-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Fox2Now St. Louis
+      domain: fox2now.com
+    quality: 44
+    images:
+      - url: "https://fox2now.com/wp-content/uploads/sites/14/2018/06/s095066321.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Michigan unveils plan to design self-driving vehicle roadway between Detroit and Ann Arbor"
     excerpt: "Michigan’s first roadway designed for self-driving vehicles is in phase one of design, as industry officials are working with the state of Michigan to develop a 40-mile autonomous corridor between Detroit and Ann Arbor."
     publishedDateTime: 2020-08-13T19:03:00Z

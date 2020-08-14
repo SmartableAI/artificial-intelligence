@@ -7,9 +7,9 @@ webUrl: "https://www.express.co.uk/news/science/1322607/artificial-intelligence-
 ampWebUrl: "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Daily Express
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-1322607.jpg?r=1597350957986"
@@ -24,6 +25,6 @@ images:
     height: 350
     isCached: true
 
-secured: "m0OzRQ83tEw6ZO7YmU1RLlYZNABOIpyGWxXoeA9JXp9WcKC/Jed9iZgmamFrKy17egjhIi2PivikZiZQFT7UDp3mk90FsPc+9jvIDzFLV95jvS3axwy86ze3tF1MJiJDtSJtZ34anzT27/2DSdbTSwMckGg+XsmmSAvoRsIFsoY0PNT7rflD/BGV+jxqz5loB60Ni3Q7QX3c4iSiiJlGUWM7AmFPvfh6HFFqL2q9qP2khkChbYPqX3JEGIgU9rmMVLakF9z9jE22hfhxMU001gVa4PvoIUedW0Gp1hXbohUXnjUiC+FIRcyfg7Tq/jQf0ptO2BW1lTKwTQ7rgX96jg==;qHFTK9djSGUionvN+VrJvA=="
+secured: "kng7KW4h7rqTGbkYdl0xbhTktr3IDxaaY9lYY83Od1ul+URr95lqNbKcXmPChNA46p8cu2bvYEnZHKPhrg2LGHz0aztB2KTG8hcFSGkKpW5vy++XWydci59/urfLqj+Q0O+u/IW3aN4S3divtZ+4vHDhWr87z2Myzi5M1ysXsPBfPn8YXcIsA4OejethvTCEziU7lJARsxYh3OevF0/qZuuyxs8RoY4Y3JM865kif0usOvMy+GZtlHj2LXcJNE+SqccrKhLpNqjwM/jhCb6/FD19GvJFZphP8LsawvsBAzyzyAw9xtSJT4Z2pFlSGMfehi0ZC8kqeY3yraB4WTg9JcuJfaADNV7IlkL7j95MxmQQEbKOPcP7TviJd9QOGvqD97CzyBLRhvYAp6PlDw6AinK7qhdVDUjPkK6WH5KUeDyQEb0rXguGPjuF5WNEiLCkuRO4J4xZrL+eHAjMqI7WWXkE/I1LgDWDaPpCOblb2dzmJkE+QaJsyN9c2ENgdEfq6iaQotR3OpwK104EG1MnPw==;IPpj7pSK2XyGtOaqG9iPVQ=="
 ---
 

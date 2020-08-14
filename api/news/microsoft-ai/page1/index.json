@@ -230,7 +230,7 @@
     {
       "path": "_news/2020-08-08-google-ibm-microsoft-ai-models-fail-to-curb-gender-bias.md",
       "title": "Google, IBM, Microsoft AI models fail to curb gender bias",
-      "excerpt": "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes.",
+      "excerpt": "Not just Google. When put to work, artificial intelligence-powered IBM Watson virtual assistant was not far behind on gender bias. In 23 per cent of cases, Watson saw a woman wearing a gag while ...",
       "sourceUrl": null,
       "webUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
       "originalUrl": null,
@@ -250,7 +250,7 @@
       "type": "article",
       "ampWebUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
       "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "publishedDateTime": "2020-08-07T23:16:00-07:00",
+      "publishedDateTime": "2020-08-08T01:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Sify.com",
@@ -264,8 +264,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

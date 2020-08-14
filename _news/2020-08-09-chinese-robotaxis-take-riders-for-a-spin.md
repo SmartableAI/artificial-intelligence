@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Chinese 'robotaxis' take riders for a spin"
-excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
-publishedDateTime: 2020-08-09T19:58:00Z
-webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
+excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
+publishedDateTime: 2020-08-09T10:49:00Z
+webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
 type: article
-quality: 24
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Euronews
-  domain: euronews.com
+  name: Gulf News
+  domain: gulfnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
-    width: 1000
+  - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
+    width: 750
     height: 563
     isCached: true
 
@@ -40,21 +42,7 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Road Test: Chinese 'Robotaxis' Take Riders For A Spin"
-    excerpt: "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country."
-    publishedDateTime: 2020-08-09T05:53:00Z
-    webUrl: "https://www.ibtimes.com/road-test-chinese-robotaxis-take-riders-spin-3025222"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/09/chinese-players-such-as-baidu-alibaba-backed-autox.jpg"
-        width: 1024
-        height: 681
-        isCached: true
 
-secured: "MPjuR+6RWQSMuUXp4pW1StK0HskAWKlXKm21DqftXoAUfd+6Qol3dzBm9iMU+2KMtkoQHgpGJa7ko0FQ+mfxkX5eZs724nlkn90UGhoPkVS4A5utLbPstjXv8MurcT2hGfT14sj1xbd5++kfzPI7B6RNnUER+TVhibIlGnW7dR97OFMjbULfwq6GBuQwCZMu+XNMcf+R/dkdEOpak0Q5sJMEtiNDmNPpOdna3Bkj2APt7NIoR/lhop95OnH0kM+qnrgQV6aLuGc/nSRYKSAKZ+bKMJ+Fb/XR0wzVnFdN5Vus4XGOsZQjhC0wo+udfmFZEd3xRrVXj8XTZUfVvuLhMg==;Z7Glb2STu34Asc0LCJtb8w=="
+secured: "OXwslA9O5HHqPW/DB9cS/K4Y4K4H+JSoAWUikMAXxn4mGHwPm1WAG0XmhajGfGfU0cbeByMRzUc+0NmBrs7fRDYmRattyaBGBEA0Lamovwb0bmeZa7GiZ7Ax6+jEP9HcvwCgLlKDCyx0kwpXtq3ziu/0Dmf55KlpVB2IiqFtziZ27eQIA1Vh9pYbANiw87UNu+MkmfhrRuGzXR1uPuYCpL8wnfMn9jGKFwSt0ZjpPTQxZXnFkbcmHGhHQ/E8noykeMu6Uy5uwpZXXRVv+FL++AH0y9ARoolQr4C1x+dKmUEuhu4XBk3QGxg/QtLiKccUcuLprDclB7PDNpGWR+HeTg==;mH5ML1DNr5FF0NWhHQgfUQ=="
 ---
 

@@ -2,8 +2,8 @@
 category: news
 title: "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform"
 excerpt: "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data"
-publishedDateTime: 2020-08-04T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html"
+publishedDateTime: 2020-08-04T20:00:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 419
     isCached: true
 
-secured: "T6UTz18nqh0LN+CW8KTXiD4e1kmjiH1rhJ0kb33W8i4izZJfO/QC9y2Ez7feP2rfqeFYgWgrjgauTQeAMNkm5ENFa2hsgXRWUV8oiRZ2gee/1TN9/wWpLLTFnskzBFbsp135SXppZqCEQ+/EtouGfXIYkGUYTG+Wm8yYg/KWx7I1htkUr0wj62olIEHKVJVl++XZvV1EA1rXg3qzuByA8Vgz4SeyVE6yOxtrs/GTeMME0uixzhredQTRCzt+qGV0J3V8pEi5ls0NJzUbLntLG+yosi0WMgJgYYLW9nJIG04EU4DJq3awyFvhrVN05OhLAZsHqQsyj4XBZsVcUBUHJ9my52kgoxijphGiv/KVGDYXaMu1czeDWiaJVGBLlE5jRZBg5G3OldmsRjrVF3WzMH7bUimMQRSoA4YupVg9wavnxii8uIHFOuDuyMOSIbDqQuGFxnGDKpGs1k6kXIX68XSivf/swUAIzb0+M9ibte3QZytD6P4LYKX+nqnPrPFY77EVGbuwwu+Am4FLK277hg==;ZO32SOeuF3rSQF3JCB/bsw=="
+secured: "rh+8T2P/j9jQ5ECWaPT667XnhEm49B7Ei2gcMKsMD5KFg8CPEYTcWlzqetA4G3N13sHCOzymeqlEaiKyUvGp0EslBxIAXmqYVTNuahcz/3GZpuAGmopvWYIq+rjREesdiQU71t/G1V4+jiGiF0j7UI/4cpqHFLWI2F1ybG6r4TdMM4ZsWp+DyefnzIkrSBf4cEczWEhtEdzpAPDgJAWvOwLIyaHXkpXeddmoTVULwmfR1uSG9JErt4zbwJUl/63/wcFVYnC5oNXxF7E9fm7nvP96kKqmtkQYIJIM1TrI/90kjcK05qqncFqi1OsGepJnCBlDDnAMwGHcL7ZL0352Ew==;tE1xW4cLIDDtMqw7njntRg=="
 ---
 

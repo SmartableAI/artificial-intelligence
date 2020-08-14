@@ -2,6 +2,38 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-18-medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.md",
+      "title": "Medtronic’s MiniMed 780G with Artificial Pancreas Capabilities Cleared in EU",
+      "excerpt": "Medtronic won the EU CE Mark for its MiniMed 780G closed loop insulin pump that features both Medtronic’s own SmartGuard algorithm and MD-Logic, an algorithm developed by DreaMed Diabetes, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2020/06/medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
       "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
       "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",

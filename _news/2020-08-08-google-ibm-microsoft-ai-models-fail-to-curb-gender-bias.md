@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Google, IBM, Microsoft AI models fail to curb gender bias"
-excerpt: "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes."
-publishedDateTime: 2020-08-08T06:16:00Z
+excerpt: "Not just Google. When put to work, artificial intelligence-powered IBM Watson virtual assistant was not far behind on gender bias. In 23 per cent of cases, Watson saw a woman wearing a gag while ..."
+publishedDateTime: 2020-08-08T08:19:00Z
 webUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
 ampWebUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
@@ -13,8 +13,9 @@ provider:
   domain: sify.com
 
 topics:
-  - Microsoft AI
+  - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg"
@@ -22,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "i46S/KbB7r7yk5k/gUJI8F4cxHePR4G6gV2a4lzcMKAMFoqhFxbbvli/nwDwiMcjUM6yxUJj2yXqzPOsOXVuitz5P7nXSPYmvoGrn/w0Sz/lPqblNRooCRrWPU7w46CxSNZWSP4d04xM++3HDYV7oWw9jBzz0XJZqpF8UzEE0YXftRHQnQx+Z7WO7yHg1u2MNcljFYE0iRyIjb3QXUzP6sEVMPpx4stRin2I4CZLwdpIOJe0uMdMTQqVmd+NtJFYBBHAcGkpBhl8Gp3bAoIPSq9EqtD1ZfeHGVfsGqpSiYuCwkFyM6wFjezJ1zw6vRgEIsQx0/gbXSlomZeQqiZKtQ==;T5UJiCpmyqLHnDV17kPo3w=="
+secured: "OPNdX9c7t2kwcbyhJqNffS8dHdwU28gyBlspZ3dtK30A7eXCd57645ZSm8WjnxBFRMIlD84cE27DfVRkwrkF9z3FyaXJEMu22Gn5GdoeqFefGnyzYLJ4xMZlQ/CaNkJMm/NRVZShLvrUJoUdVwWP1M218NRpfCMi022aFpTxT1W6dGJZYcEcZDIg+sPfM53J9FItrpq1g/5qs6SNbR6uw5XBmONcItSvfmEKY/xUtl1iFqJE5ZlV4V1ZamFFSge7U7uYI2fkfPuYo7VDADRfe/QK8ovVXA68KScM6FHoK25i2pP2VPKJZ7+W4QWrtIEcDdFUClztTdF6xxCIpomJ7Q==;DPuwETlAvU/KlywhCGdDMg=="
 ---
 

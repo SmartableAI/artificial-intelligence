@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-p
 ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f35a10dd692e5ab13c02295%2F0x0.jpg"
@@ -28,6 +29,6 @@ images:
     height: 530
     isCached: true
 
-secured: "VATT2ueFywwkpD+Qh34T9zmJYEC9zAIyWTFasCrEKexaOviZy7OqoXGF3YfE6mRM/Id14UWTUhhof0X4b6MaOpHAlADMxlrPxGSGB8eve4ipJJIjayx5ujsRGlnrIn5rlx+vw1wkxU78ewNgpUfngJ3J04b3uNe/UsLiZyb8iOO+ObYts3pfMFcF8XJpBJehB/hNBEttVw632qTtx/HeUZE0hQPwhfqLMM22y0gN2KeFi48Xv9v7dl+AtuF1eMl2DfsJcwmQLJVPEg23LLnUE3QC84wKGk5c4p+IaIK0XKRAvzYz5LHFazRFRMnYAM35woJKQ8JBC8Vx5WJKSG2uKg==;alCKb1VyWP6Qs9eNR/W0Zg=="
+secured: "u7DSGlcSBGmROhCd/lVPYUG41LuW92ZrDTAeY1bXLTsQhYfuMooiI2alldXaxJ/xqohqmKu4tG98EKPleI7Ax076pE3uy+fU0c9TiD3Z2QIkPhvhsdn4MneURidivINLPQ3zgVGuGFfOdV/E3IqD7quQkKZB4+EGaZq3TvkRU/9ClPgZ1sDohncoZSjec9jZFaJSfX41goF7fCEvH3KSruAcQGwlYCzLbWSwYensWy+cT+xupIC79Ey/LemE+hyOkNwJBL1di8sAwAlX9vXq5mIhLseeNjR8FcIAGSf8AnWfyoOPrLGyCDdSOG8urMYVZNgEqLgg0tOBdR3d0jyGmsLZxJWpzWAgxTMk42afgJAEz/NJufi+Y9ZD64k6rPDmJHb+HmrtP6VylpG5tTawTU3dmn6vgWzVqc6ENnp4dTbvSb5wNWqocF3gP1DAEshczZ6kURB338QMU1Z/F0vjVTvzVGvGwI/faRE3bTWuNKzXL9PTzVOIJ9Hyc5+AvPoce7gMLM0V90jqmBdCqRYuwA==;94Nluc1io1fMx2WtkeX2gw=="
 ---
 
