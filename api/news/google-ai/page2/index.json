@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-23-closing-data-gaps-with-lacuna-fund.md",
+      "title": "Closing data gaps with Lacuna Fund",
+      "excerpt": "Machine learning has shown enormous promise for social good, whether in helping respond to global health pandemics or reach citizens before natural disasters hit. But even as machine learning technology becomes increasingly accessible, social innovators still face significant barriers in their efforts",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Wadhwani_2.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
+      "publishedDateTime": "2020-07-23T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-using-ai-to-identify-the-aggressiveness-of-prostate-cancer.md",
       "title": "Using AI to identify the aggressiveness of prostate cancer",
       "excerpt": "Prostate cancer diagnoses are common, with 1 in 9 men developing prostate cancer in their lifetime. A cancer diagnosis relies on specialized doctors, called pathologists, looking at biological tissue samples under the microscope for signs of abnormality in the cells. The difficulty and subjectivity of",
@@ -1305,57 +1355,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing.md",
-      "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
-      "excerpt": "Mozilla updated Common Voice, its open source collection of transcribed voice data. It now contains over 7,000 hours of speech across 54 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Common-Voice-e1593640326605.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
-      "publishedDateTime": "2020-07-01T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
       ]
     }
   ],

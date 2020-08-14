@@ -3,7 +3,7 @@ category: news
 title: "Intel's dedicated gaming GPU releases in 2021, plus 10nm SuperFin is coming"
 excerpt: "During Intel Architecture Day 2020, they made a number of announcements. While a fair amount was marketing talk and plenty for servers, they did give a few details on their upcoming dedicated GPUs."
 publishedDateTime: 2020-08-13T14:30:00Z
-webUrl: "https://www.gamingonlinux.com/2020/08/intels-dedicated-gaming-gpu-releases-in-2021-plus-10nm-superfin-is-coming/comment_id=187676"
+webUrl: "https://www.gamingonlinux.com/2020/08/intels-dedicated-gaming-gpu-releases-in-2021-plus-10nm-superfin-is-coming/comment_id=187677"
 type: article
 quality: 37
 heat: -1
@@ -55,6 +55,6 @@ related:
         height: 581
         isCached: true
 
-secured: "VE9c1+DbR1+LwF0OmcxwkQffjfzFRr+jLVljAdZq4f+VkjVEHhq82vkvttpozOYEcS3/XilcBF0EAxS5nJvJ8MPn9s1rP3Qe+B4x+Drwkacggko5hi6D9xAhhbFNmA71+8FcTt584nmCM+VOpB4ruY4t1lzl9V6IJYdc3xfEYrpSD97/vzSv55k2NsADVCalBsxyaDPPBVGTNZgtMRvoi151hawxG1VhMm55VBJOXSDMFpsCmS+H9MmX8tU2Ipjqqy+OYiydPZvz7ZoFc5dtOciqKAV0+grR+tOn50sJdBu844gXYC4HxqobngFCdMQe/2gOcFMa1QBMMIhxe+0RsA==;o3lFD6fS1kdWv7vi9ZNBoQ=="
+secured: "JOeQinDXFHJc/abli86e14+vo1K1XVPLS6HNW6vDCWs5NJVXb9cg8PCQEgj3cLtu7d1YCjdkKpR9IKNfohVJBJJ0Tg4yIAT24wxShbpxaqIJFRPuanqzz9GBre9SdabIZ7hLVOsdj9iqBpCV8Zzt0uOpVsURhKcS2UAcSp0IpodxI4X6AGnPd9uO10eKYR/nyEo8JsO3WmavIW3ghXzJSQ2skQ/6/hqvKsRaszriSLSGOYidolM9enKEi1kIsZNwm1vQqdU1HX5GC22+9h5BGiuq4i4drCoNSSTGnv5wlcWPWAJPfqt/vwf9LFKLauyW03M1HJl3PK7IjCrIsIgf3Q==;M/lWiHEHqZF1m92G85FsgA=="
 ---
 

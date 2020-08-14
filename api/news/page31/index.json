@@ -2,6 +2,197 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-07-20-corporate-execs-are-starting-to-get-skittish-about-ai.md",
+      "title": "Corporate execs are starting to get skittish about AI",
+      "excerpt": "Corporate boards have begun to worry about the ethical ramifications of turning so much power over to the machines.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2010-08-10T120000Z_532442558_GM1E68A17IK01_RTRMADP_3_JAPAN-ECONOMY-SHIRAKAWA-e1595019940905.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
+      "publishedDateTime": "2020-07-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-after-smics-stellar-debut-chinese-ai-chip-maker-cambricon-technologies-soars-350-per-cent-in-shanghai.md",
+      "title": "After SMIC’s stellar debut, Chinese AI chip maker Cambricon Technologies soars 350 per cent in Shanghai",
+      "excerpt": "Cambricon’s gains make it the seventh-largest company on the Star Market, but it is unlikely to post profit until 2022 amid rapidly increasing R&D expenses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/20/e102abda-ca52-11ea-9c1b-809cdd34beb3_image_hires_151603.jpg?itok=GR-pTyWE&v=1595229370",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "publishedDateTime": "2020-07-20T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs.md",
+      "title": "Google Launches AI Tool that Translates Ancient Egyptian Hieroglyphs",
+      "excerpt": "The new AI-powered tool from Google decodes ancient Egyptian hieroglyphics, and even lets you translate modern words and emojis into the 5,000-year-old symbols. The tool works by analysing historical records and definitions of the language. It explores the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/07/75c5eeba-ancient-egyptian-gods-and-heiroglyphs.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/",
+      "publishedDateTime": "2020-07-20T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024.md",
+      "title": "Self-Driving Car Market – COVID-19 Impact Analysis, Business Profiles and Forecast 2020 to 2024",
+      "excerpt": "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-19T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-chinese-autonomous-driving-start-up-autox-wins-driverless-car-permit-for-tests-in-california.md",
       "title": "Chinese autonomous driving start-up AutoX wins driverless car permit for tests in California",
       "excerpt": "AutoX is the third company to win such a driverless permit from the California DMV, after Google-backed Waymo and California-based Nuro.",
@@ -979,197 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-the-daily-dash-fundraising-robots-and-who-rules-the-freight-world.md",
-      "title": "The Daily Dash: Fundraising, robots and who rules the freight world?",
-      "excerpt": "In today’s edition of The Daily Dash, an autonomous trucking startup is in search of funding, robots are taking over warehouses, and trucking still rules the freight world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/the-daily-dash-fundraising-robots-and-who-rules-the-freight-world",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/07/Plus.ai-at-Monument-Rocks-Kansas.jpg",
-          "width": 1792,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/the-daily-dash-fundraising-robots-and-who-rules-the-freight-world/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/the-daily-dash-fundraising-robots-and-who-rules-the-freight-world/amp",
-      "publishedDateTime": "2020-07-18T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-profound-aitm-risk-receives-ce-mark-in-europe.md",
-      "title": "ProFound AI(TM) Risk Receives CE Mark in Europe",
-      "excerpt": "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced ProFound AI(TM) Risk received a CE Mark",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/profound-aitm-risk-receives-ce-mark-in-europe-2020-07-15",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-18T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025.md",
-      "title": "Cognitive Data Management Market Size Rising at more than 11.3% CAGR During 2020-2025",
-      "excerpt": "The global Cognitive Data Management market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 11.3% in the forecast period of 2020 to 2025 and will expected to reach USD 855.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025-2020-07-17",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-18T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction.md",
-      "title": "Work-at-home AI surveillance is a move in the wrong direction",
-      "excerpt": "We are already justifiably worried about being watched while out in public. Now we're increasingly being observed in our homes, too.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/surveillance.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/amp/",
-      "publishedDateTime": "2020-07-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

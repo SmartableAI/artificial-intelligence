@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/</loc>
+    <lastmod>2020-08-14T12:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/14/google-researchers-use-quantum-computing-to-help-improve-image-classification/</loc>
+    <lastmod>2020-08-14T11:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/</loc>
+    <lastmod>2020-08-14T11:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/</loc>
     <lastmod>2020-08-14T10:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/</loc>
+    <lastmod>2020-08-14T10:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://siliconangle.com/2020/08/14/chip-startup-blaize-debuts-ai-modules-machine-learning-edge/</loc>
+    <lastmod>2020-08-14T10:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -505,12 +535,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.law.com/legaltechnews/2020/08/11/speech-recognition-makes-a-comeback-into-law-with-the-power-of-ai/</loc>
-    <lastmod>2020-08-11T04:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/</loc>
     <lastmod>2020-08-11T03:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -793,7 +817,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
+    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
     <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1351,6 +1375,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/il/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
+    <lastmod>2020-08-04T13:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html</loc>
     <lastmod>2020-08-04T12:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1471,12 +1501,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
-    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/</loc>
     <lastmod>2020-08-04T05:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1579,7 +1603,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.law360.com/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
+    <loc>https://www.law360.com/environmental/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
     <lastmod>2020-08-03T14:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

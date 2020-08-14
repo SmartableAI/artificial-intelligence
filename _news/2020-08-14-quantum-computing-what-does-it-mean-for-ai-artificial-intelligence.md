@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Quantum Computing: What Does It Mean For AI (Artificial Intelligence)?"
-excerpt: "The technology could be transformative"
-publishedDateTime: 2020-08-14T17:29:00Z
-webUrl: "https://www.newsoneplace.com/27093301911/ai-quantum-computing"
+excerpt: "So then what is quantum computing? Well, it is similar to traditional computing, which relies on bits—that is, the 0’s and 1’s to encode information. But quantum computing as its own version of this: the quantum bit or qubit."
+publishedDateTime: 2020-08-14T18:20:00Z
+webUrl: "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/"
+ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/amp/"
 type: article
-quality: 52
-heat: 62
-published: false
+quality: 102
+heat: 112
+published: true
 
 provider:
-  name: newsoneplace.com
-  domain: newsoneplace.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f36c53ef397e078c7bc9073/0x0.jpg?cropX1=0&cropX2=3000&cropY1=113&cropY2=1801"
-    width: 3000
-    height: 2015
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f36c53ef397e078c7bc9073%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D113%26cropY2%3D1801"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -38,6 +44,6 @@ related:
         height: 540
         isCached: true
 
-secured: "wF2etiKy0dT+tDNdliyESuxEYb6HVT8cG/mu92boUby0XkQcka6X2P9LlXAmknBWSU44yjpPV4dzrd+T/1Kf/vJW3fa9yEfb50c87LyIgSgrmRnUBYubsSkaUe1OV26y2Fb+QwUO3g1YdQln8WWFZKrriw2Tg79IbuvfXUJcB9GBy/05I0st+s/aHiGNzxisDaqsZrKa9U4Jgp791CkDm8fPg8iTfNIRWqzrAfrSAGj0QbdBVIXKLkwdAFk1NJoLyD2iAxll0wVoOhLtPo0t6id5Yh455dz+JYTHAygC9YDLY+wbe4/GmYU6WWAgE5Pj6kJS4KUkZqLDq3Us6e6jLw==;P/JJax7HW1tOkwcHSQ/PJA=="
+secured: "V5HklysvYx49jylN4xte6I9bMpo/QFMKvLfuPrfJbyjVyCkN2/81kk47IpPjQXQPhHlKBZwu/EvBx1zFaWyGiXGBvNS4Wzw5YDcMVhxRdl/vIrIfHh8HFudLHzuRif1wwyAC9Dv4Ib50DcB6ox/iyZrD54Bz/FKSSnV+likC98tlJzrC160w6ZvdHA3kNlMWMqDh/C4e/FOdfNmpF6PVkSkGX1wZqhqxZZOl2azGQoIvpdhJSH/likkEQbwrOg1VOPB/df+RrAFxJBfsYnxtXJ3aAunl5niOB0hUjDs0cgUnHOfxPrIh38WZRO0j0uGgOCEPMffBTJGvqdrvsSzpPg==;6pL4FAfYLkOGi4YIZZTOyA=="
 ---
 

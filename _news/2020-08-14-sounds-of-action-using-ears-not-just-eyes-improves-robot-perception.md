@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Sounds of action: Using ears, not just eyes, improves robot perception"
-excerpt: "People rarely use just one sense to understand the world, but robots usually only rely on vision and, increasingly, touch. Carnegie Mellon University"
-publishedDateTime: 2020-08-14T14:08:00Z
-webUrl: "https://scienceblog.com/517928/sounds-of-action-using-ears-not-just-eyes-improves-robot-perception/"
-ampWebUrl: "https://scienceblog.com/517928/sounds-of-action-using-ears-not-just-eyes-improves-robot-perception/amp/"
-cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517928/sounds-of-action-using-ears-not-just-eyes-improves-robot-perception/amp/"
+excerpt: "People rarely use just one sense to understand the world, but robots usually only rely on vision and, increasingly, touch. Carnegie Mellon University researchers find that robot perception could improve markedly by adding another sense: hearing."
+publishedDateTime: 2020-08-14T04:04:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-08/cmu-soa081320.php"
 type: article
-quality: 59
-heat: 69
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: ScienceBlog
-  domain: scienceblog.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://scienceblog.com/wp-content/uploads/2020/08/Sounds-of-action-Using-ears-not-just-eyes-improves-robot-perception-.jpg"
-    width: 720
-    height: 786
+  - url: "https://www.eurekalert.org/multimedia/pub/web/240227_web.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -41,6 +39,6 @@ related:
         height: 568
         isCached: true
 
-secured: "tXbjgzFDtfdY8pFJ8zqyaGg2XMhtP8MK6cJJP/1Ry9j0MKDS9lVZW1/OE41JSbP/qavsY+h8+yVjHxAB6sf3/Ma3N4LRs35Hbn4yvyoLa0PonOdUmDI57zBQLv95r9Kby+oM5IYyoUF6raO/xhx1wEI2pWp6dr0thPTvNiZHQZRlxPq30mlIUANalG/8qqa5qfgg5WK8C+PUwjXbCjbOtNxoXTfhFqas5hKaJp0+rJapctq8nlrXqEs3dO6Zqc1ftuw0/bOTZbGc+BXWB389S9dOgPC9MtJRhOwudldP8hMJMmxj1cRhqXLJk7IXDjMUAxlLFncvsjxPjMVlVJyGyw==;GL5LZWYP3NHdblqESDQ+nQ=="
+secured: "FSMC6jY5rBpp8qeUTcNbxrj1jKyhsxV2d018V8xLncSQPGU4aVHzqrc0s0FcQD63Iss9NnR9rEIZHxsrRs/VkdVEVFRvdlaOftV6lm8fi1iJk9rrVTpaxJYsoY1tvYCUT57JRETmLauomSjY/XweQ89BiSOnRLli9BkmV6nT4C58Myz/ZPYa83KHlhy5tVA67IkRSCN7lt/yFdJEOAvWuSG72UWGIZXMzfCJAuq0sIno6b4kOVAT4kHLQFoQ3xLkgxuukTpQC6KAB9v/CKuTKsXR227U6JRNgjHmJA/Z8EUFWuFOx0BfqHAdrljFrXosk4q2UCLPx0UoJhc26BJIOw==;MDcyCDNlayspIHI9hILbYg=="
 ---
 

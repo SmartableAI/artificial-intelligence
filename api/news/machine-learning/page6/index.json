@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-27-a-closer-look-at-sagemaker-studio-aws-machine-learning-ide.md",
+      "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
+      "excerpt": "When AWS launched SageMaker Studio back in December, we weren't super impressed. But we promised to take a closer look. Here it is.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?w=1200&#038;strip=all",
+          "width": 1080,
+          "height": 530,
+          "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/",
+      "publishedDateTime": "2020-06-27T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-27-comparing-13-different-crispr-cas9-dna-scissors.md",
       "title": "Comparing 13 different CRISPR-Cas9 DNA scissors",
       "excerpt": "The team developed deep-learning-based computational models that predict the activities of SpCas9 variants for different DNA sequences. This study represents a useful guide for selecting the most ...",
@@ -1290,38 +1342,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-intel-introduces-cooper-lake-processors.md",
-      "title": "Intel introduces Cooper Lake processors",
-      "excerpt": "Intel's (NASDAQ:INTC) new 3rd Gen Intel Xeon Scalable processors, dubbed Cooper Lake, are \"designed for deep learning, virtual machine density, in-memory database, mission-critical applications ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3584303-intel-introduces-cooper-lake-processors",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/news/3584303-intel-introduces-cooper-lake-processors",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/news/3584303-intel-introduces-cooper-lake-processors",
-      "publishedDateTime": "2020-06-18T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

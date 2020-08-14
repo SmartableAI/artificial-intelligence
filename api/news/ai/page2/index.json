@@ -2,6 +2,247 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-13-root-ai-raises-72m-seed-round-to-deploy-its-harvesting-robot-amid-covid-19-fueled-demand.md",
+      "title": "Root AI raises $7.2M seed round to deploy its harvesting robot amid COVID-19-fueled demand",
+      "excerpt": "By all accounts, the COVID-19 pandemic has accelerated the adoption of robotics and automation by months, if not years. The reasons are fairly clear — robotics don’t call in sick, nor are they disease vectors in the same manner as their human counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/unnamed-1.jpg?w=1024",
+          "width": 1024,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/13/root-ai-raises-7-2mm-seed-round-to-deploy-its-harvesting-robot-amid-covid-10-fueled-demand/amp/",
+      "publishedDateTime": "2020-08-13T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-book-review-turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence.md",
+      "title": "Book Review – “Turning Point”, An Excellent Introduction To Policy Issues Involving Artificial Intelligence",
+      "excerpt": "Turning Point” is an excellent book that decision makers can use as a tutorial to understand the growing importance of policy related to AI, policy in both the public and private sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-08-13T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills.md",
+      "title": "Future of farming: AI-enabled harvest robot flexes new dexterity skills",
+      "excerpt": "Now that Root AI's robot has mastered the art of picking oblong vegetables as well as oblate shaped berries, could this technology help enhance global food security?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
+      "publishedDateTime": "2020-08-13T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-how-the-pandemic-is-influencing-robotics-research.md",
+      "title": "How the pandemic is influencing robotics research",
+      "excerpt": "The pandemic makes physical experimentation with robots practically impossible. Here's how some roboticists have adjusted to the new normal.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/13/how-the-pandemic-is-influencing-robotics-research/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/deepmind_robotics-e1578341793570.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/13/how-the-pandemic-is-influencing-robotics-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/how-the-pandemic-is-influencing-robotics-research/amp/",
+      "publishedDateTime": "2020-08-13T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.md",
+      "title": "Intel Xe-HPG: gaming GPU with ray tracing tech and GDDR6 ships in 2021",
+      "excerpt": "Intel announces new Xe microarchitecture variant: Xe-HPG -- a gaming-optimized GPU with ray tracing and GDDR6 memory ships in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/7/4/74476_03_intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021.png",
+          "width": 620,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/amp.html",
+      "publishedDateTime": "2020-08-13T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-the-newest-fintech-unicorn-is-a-credit-card-and-its-betting-against-big-banks.md",
       "title": "The newest fintech unicorn is a credit card, and it's betting against big banks",
       "excerpt": "Musician John Legend and former AOL CEO Tim Armstrong are among the big money backers behind credit.ai, a new fintech banking and credit platform, including its Unicorn Card, designed for millennials distrustful of big banks.",
@@ -1163,247 +1404,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning.md",
-      "title": "AI startup steps in to unlock the puzzle of infertility with machine learning",
-      "excerpt": "Computer vision technology helps physicians identify the most viable embyos for implantation, reducing the time to pregnancy for patients on average by 15%.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-539667929.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/amp/",
-      "publishedDateTime": "2020-08-12T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-iit-roorkee-joins-coursera-to-launch-2-artificial-intelligence-machine-learning-programmes.md",
-      "title": "IIT Roorkee joins Coursera to launch 2 Artificial Intelligence, Machine Learning programmes",
-      "excerpt": "Education News: ​The six-month certificate programme in AI and ML will consist of video lectures, hands-on learning opportunities, team projects, tutorials and worksh",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/articleshow/77506827.cms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-77506899/77506899.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/amp_articleshow/77506827.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/amp_articleshow/77506827.cms",
-      "publishedDateTime": "2020-08-12T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-how-a-30-ton-robot-could-help-crops-withstand-climate-change.md",
-      "title": "How a 30-Ton Robot Could Help Crops Withstand Climate Change",
-      "excerpt": "What makes a plant thrive in the heat? In the Arizona desert, the ‘Field Scanalyzer’ is collecting data to learn the answer—and hopefully improve farming for biofuels and food.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos2",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-218942/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276",
-      "publishedDateTime": "2020-08-12T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-ai-magic-makes-century-old-films-look-new.md",
-      "title": "AI Magic Makes Century-Old Films Look New",
-      "excerpt": "Denis Shiryaev uses algorithms to colorize and sharpen old movies, bumping them up to a smooth 60 frames per second. The result is a stunning glimpse at the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-magic-makes-century-old-films-look-new/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f32e8e634cbc2004e146e77/master/pass/Science_film_962963136.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-magic-makes-century-old-films-look-new/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-magic-makes-century-old-films-look-new/amp",
-      "publishedDateTime": "2020-08-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-more-countries-are-demanding-an-international-treaty-to-ban-killer-robots.md",
-      "title": "More Countries are Demanding an International Treaty to Ban ‘Killer Robots’",
-      "excerpt": "Now, eight years into their push for new international legislation regarding LAWS, HRW has announced in a new report that 30 countries—including Argentina, Iraq, Pakistan, Palestine, Zimbabwe, Colombia—are now finally explicitly seeking a ban on the use of these weapons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5f33d111f7a95c009efe2f15/lede/1597231383355-000arp3501469-1.jpeg?crop=1xw:0.844xh;0xw,0.1274xh",
-          "width": 3997,
-          "height": 2245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty",
-      "publishedDateTime": "2020-08-12T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

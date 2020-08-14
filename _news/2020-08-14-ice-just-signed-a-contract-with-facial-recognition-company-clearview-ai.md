@@ -45,6 +45,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "ICE just signed a contract with Clearview AI, the controversial facial recognition company that scrapes photos from social media"
+    excerpt: "ICE is known to use facial recognition technology to identify people and subsequently carry out raids that lead to deportations."
+    publishedDateTime: 2020-08-14T19:09:00Z
+    webUrl: "https://www.businessinsider.com/ice-clearview-ai-sign-contract-facial-recognition-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/ice-clearview-ai-sign-contract-facial-recognition-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-clearview-ai-sign-contract-facial-recognition-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/5f36db44e89ebf001f044c6c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Portland considers nation’s strongest facial-recognition ban"
     excerpt: "Portland is poised to pass the strongest ban on facial-recognition technology in the country next month. Nearly a year in the making, the Portland City Council is considering two ordinances. The first"
     publishedDateTime: 2020-08-14T06:13:00Z

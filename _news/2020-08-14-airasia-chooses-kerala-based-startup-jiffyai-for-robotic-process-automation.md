@@ -26,16 +26,19 @@ images:
 
 related:
   - title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
-    excerpt: "AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation"
-    publishedDateTime: 2020-08-13T18:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17077288/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jif"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17077288"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17077288"
+    excerpt: "All these benefits will ultimately translate into sizeable cost ... intelligent document processing and natural language processing to robotic process automation and low Code/no Code development. JIFFY.ai are pioneers in web-based automation solutions ..."
+    publishedDateTime: 2020-08-13T20:14:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai/article_90af8ede-cd71-564d-80cd-8b4eeb7d99a5.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 23
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ipPBRWWLfi4bDNJZKPzT5ZaXsE2R9ty5SaOlx/yCn5XxfZVufK62mkuCz1kp3WheL1nErAZhfHc0O2LH28tgGm3yd9IwItJKa9zkjWMYVqvKiVnE8RG6RPyxCl2ewIe3KrMINTSlt224zQiBQoB1qGLoUJVyZSKJA4AEu8B/XaFA/zBQKUZtuUZpgUdYq22/YxMoGxFOfDTSJbPtyJLLoDR4TrneBTAlO0WuP1LtYNaFHRhDQRBtpPsHRKe6eWQp8UKbYkB+BX+8EpDlCdHsVHQs/PCJb1/w2JXKs57BpIWrKKt9HZi1DRypI5SGZgjolK+XoD3QwCFZARM1+LZ9vbWdiuEttDNX0Fi9h15PPg8HHlNoRntE1zNslSYhp1DlGxs/XbbZZCpYVOgmX62g6zKi2XJXcy0G62yOdVDDEMKDxyhNrR0WRsH3h5oLha8KPhjY/VYjwm1gAAFg223p8LLMa35mVC6Kv/0YU4do7749LElvx4zLUgd7cOgW/fWKI5OMz7FVZR/ib3q9opaWSA==;JFlgpv6PE4yguqHQXiR0nA=="
 ---

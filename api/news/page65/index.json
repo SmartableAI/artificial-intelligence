@@ -2,6 +2,169 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-06-25-renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships.md",
+      "title": "Renewed IBM and AELTC partnership set to take on the future, launching with a digital recreation of The Championships",
+      "excerpt": "The partnership renewal means IBM and Wimbledon will be able to seize new opportunities, with the next phase of their long term partnership",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
+      "publishedDateTime": "2020-06-25T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-dres-doc-analyticstm-generates-first-ever-automated-network-meta-analysis-with-natural-language-question-ai-powered-search-results.md",
+      "title": "DRE's DOC Analytics(TM) Generates First-Ever Automated Network Meta-Analysis with Natural Language Question AI-Powered Search Results",
+      "excerpt": "DOC Analytics™ provides immediate quantitative insights into the universe of medical information using artificial intelligence/machine learning (AI/ML) and natural language processing (NLP). With the addition of indirect treatment comparison and ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/06/10/dre-s-doc-analytics-tm-generates-first-ever-automated-network-meta-analysis",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-googles-mixit-ai-isolates-speakers-in-audio-recordings.md",
+      "title": "Google’s MixIT AI isolates speakers in audio recordings",
+      "excerpt": "In a new paper, researchers at Google describe an AI system that isolates speakers' voices in audio recordings using an unsupervised approach.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s MixIT AI isolates speakers in audio recordings",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/amp/",
+      "publishedDateTime": "2020-06-25T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-variability-in-natural-speech-is-challenging-for-the-dyslexic-brain.md",
+      "title": "Variability in natural speech is challenging for the dyslexic brain",
+      "excerpt": "A new study brings neural-level evidence that the continuous variation in natural speech makes the discrimination of phonemes challenging for adults suffering from developmental reading-deficit dyslexia.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-06-variability-natural-speech-dyslexic-brain.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/variabilityi.jpg",
+          "width": 720,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-06-variability-natural-speech-dyslexic-brain.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-variability-natural-speech-dyslexic-brain.amp",
+      "publishedDateTime": "2020-06-25T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-ibase-intros-ai-computing-platform.md",
       "title": "IBASE intros AI computing platform",
       "excerpt": "\"Current edge and cloud-based AI products require better computational and video analytics capability to perform demanding real-time data processing and overcome latency issues,\" Wilson Lin, director of product planning department,",
@@ -993,172 +1156,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-artificial-intelligence-positioned-to-be-a-game-changer.md",
-      "title": "Artificial intelligence positioned to be a game-changer",
-      "excerpt": "As we first reported last fall, the technology is so promising that IBM has staked its 106-year-old reputation on its version of artificial intelligence called Watson -- one of the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2016/10/07/4c200094-7e27-4334-8024-4d671b1d0625/thumbnail/1200x630/920095fe5576a423e4eb2cfdd3e5124e/ai-main.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial intelligence positioned to be a game-changer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "publishedDateTime": "2020-06-24T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-building-gpu-accelerated-workflows-with-tensorflow-and-kubernetes.md",
-      "title": "Building GPU Accelerated Workflows with TensorFlow and Kubernetes",
-      "excerpt": "Daniel Whitenack spoke at the recent KubeCon + CloudNativeCon North America 2017 Conference about GPU based deep learning workflows using TensorFlow and Kubernetes technologies. He started off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2018/01/gpu-workflows-kubernetes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.infoq.com/statics_s1_20200707-0302/styles/static/images/logo/logo-big.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-a-flawed-facial-recognition-system-sent-this-man-to-jail.md",
-      "title": "A Flawed Facial Recognition System Sent This Man to Jail",
-      "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef3e17c6cd63b0e8be2ce66/master/pass/business_facial-recognition_FXJBF0.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "A Flawed Facial Recognition System Sent This Man to Jail",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
-      "publishedDateTime": "2020-06-24T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

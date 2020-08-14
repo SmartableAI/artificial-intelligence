@@ -3,7 +3,7 @@ category: news
 title: "Algorithm created by deep learning finds potential therapeutic targets throughout the human genome"
 excerpt: "Researchers at the New Jersey Institute of Technology and the Children's Hospital of Philadelphia have developed an algorithm through machine learning that helps predict sites of DNA methylation -- a process that can change the activity of DNA without changing its overall structure."
 publishedDateTime: 2020-08-13T20:19:00Z
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061&org=NSF&from=news"
+webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=301061"
 type: article
 quality: 25
 heat: 25
@@ -23,6 +23,6 @@ images:
     height: 220
     isCached: true
 
-secured: "Dc5/EZfv8KFv7UsnRHUOldK+hwFj65XENjXxkMZdBC18YbUBYzxIg+Iygm3z05F1CaPX0DVGclQTPnUB3Os3wzRiWMMAtVsBzRfUhr+8TNuq1TSdG1qnEueRr0Ysnuz9eAyek08Sq6awLKDnIp1v248knj6az7SSBMY9nyz3a3pKEcPg9xhUQYS+a4pL4AYR/sTHxW6axEC8lgCYnV0fYcxEk5qYCbVhVHucDr4qkw80cQuSIVTSTT1qf2PNM+rpbP74ufJQ98f9Z2j73uCvtqCFZhGvk7IF6shx4T9Rf6EV/dZA0l2YF+BlKoD7+6+ZDD0i6E1GAz9sj0Em0ef0PQ==;/xh5GseRRyXJoUAlGi/Ftw=="
+secured: "9z0vNR2j0YDxJx+Ju/svLn5Wm/ujE4ttBq/1Q7P49HNLj0T0ejvlvj9WsY9xL7EiPdz9azZSC3ORoWDh16mXs/VIfi2R2wHNLZFNmOWuTvpIz18iE3ptSaY/Xgd9hIPr0px/J+UFaPVjcpKlNxByAkTkAmZYhGy9av5FndXTg4fnHw/j2sSomUWvDDvoVlJqVokXc+p+OpSICJ6HJrZx6Vj4p592FAPwLO3bLT4RUdOyWxJFUYaNv0QJXA+zOxIlbPczJijr3xf84yBw3JqSIUBWd/7hMwGEI5tXj525hNoEZgPRolRq50837rXyuWvb10oSYFI3ZPVi1lBM21W1XQ==;JZmRGcBFAlyAhV+sudRTeg=="
 ---
 

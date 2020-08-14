@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Gesture Recognition Solution Market 2020 Analysis, Size, Share, Growth, Trends, Application, Types, and Upcoming Opportunities 2023"
-    excerpt: "Global \"Gesture Recognition Solution Market\" report 2020 plans to give forefront advertise knowledge and help decision makers take sound investment evaluation. The report identifies and analyses the emerging trends along with major drivers,"
-    publishedDateTime: 2020-08-10T12:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-solution-market-2020-analysis-size-share-growth-trends-application-types-and-upcoming-opportunities-2023-2020-08-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "+pUV/ZIlXfpt8gWo2UaPEoMV7SqbhoLLgh8XRdgIfT/wtTaF5iAK4JmEKXOvMLOPBobdyZnSTZAtnaGNXYFuAdnKEwXsABcG1W2kUySPGBYlFSUs0Sn09h/etTtENMEo1Hc7NKWYHsn/Je8KIU0UOGgMgQxN71QkuIgTY0Q4lW/o3POEeovCsMj7qtOssMyFdIeziJEjZfPogrVn15g4mVWbiMhm4/P2vsNv/AhjZ0BTNenTJRnlVkvJt3M/EMVshRghwc/A1wpfZHdcCGC9WSbhMrAkYJQhCfaOK0aebIWJh2F0RP9IhXbVG9ZNLJdZfQF7IHcYygrA9CZw4A88rA==;eGnDz9CgVdpEiZ5qbN/TMg=="
 ---
 

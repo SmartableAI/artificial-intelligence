@@ -2,6 +2,253 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-11-argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020.md",
+      "title": "Argo AI co-founder and CEO Bryan Salesky joins us at TC Sessions: Mobility 2020",
+      "excerpt": "Mobility on October 6 & 7 will be a fantastic opportunity to find out all the latest on advancements in autonomy, micro-mobility, transportation AI and much more. Argo AI co-founder and CEO Bryan Salesky is among the best-positioned people in the world to speak",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Bryan-Salesky_portrait.jpg?w=1024",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/amp/",
+      "publishedDateTime": "2020-08-11T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams.md",
+      "title": "NeuralCam Live uses ML to turn iPhones into ‘smart’ computer webcams",
+      "excerpt": "After bringing Google Night Sight-like functionality to iOS, NeuralCam now has an app that lets Macs stream live, deep learning-filtered video from iPhones.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/neuralcamlive.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
+      "publishedDateTime": "2020-08-11T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop.md",
+      "title": "Researchers use AI classifiers to expose potential vulnerabilities in Microsoft remote desktop",
+      "excerpt": "In a new study, researchers use machine learning models to identify vulnerabilities in Microsoft's Remote Desktop Protocol.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/amp/",
+      "publishedDateTime": "2020-08-11T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-why-you-should-care-about-ai-even-if-you-dont-want-to.md",
+      "title": "Why You Should Care About AI (Even If You Don’t Want To)",
+      "excerpt": "Given this morass of conflicting and confusing information, why should you bother to care about AI? Because AI will quickly integrate itself into your life. Here are three ways AI will impact you: 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephanieglass/2020/08/11/why-you-should-care-about-ai-even-if-you-dont-want-to/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f305fbd508ec3b8dd03ba67%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D166%26cropY2%3D3372",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephanieglass/2020/08/11/why-you-should-care-about-ai-even-if-you-dont-want-to/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephanieglass/2020/08/11/why-you-should-care-about-ai-even-if-you-dont-want-to/amp/",
+      "publishedDateTime": "2020-08-11T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance.md",
+      "title": "AI company pivots to helping people who lost their job find a new source of health insurance",
+      "excerpt": "An artificial intelligence company has pivoted from finding the right treatment plan for patients to helping them find health insurance to pay for that care. At the start of the pandemic, Jvion used its Eigen Sphere engine to build a map that shows which residents in a community are at highest risk for contracting the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/05/15d504c8-dca2-4061-9296-4066837828eb/resize/1200x/aa4ff49733da77691f51a066b0a65746/istock-1219306859.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/",
+      "publishedDateTime": "2020-08-11T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-at-prisons-in-finland-inmates-are-learning-ai-and-taking-online-tech-courses-as-a-bridge-to-life-on-the-outside.md",
       "title": "At prisons in Finland, inmates are learning AI and taking online tech courses as a bridge to life on the outside",
       "excerpt": "Finland transformed its criminal justice system 70 years ago. Now the country is investing in technology that offers inmates pathways back to society.",
@@ -405,7 +652,7 @@
       "webUrl": "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -444,47 +691,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-speech-recognition-makes-a-comeback-into-law-with-the-power-of-ai.md",
-      "title": "Speech Recognition Makes a Comeback into Law with the Power of AI",
-      "excerpt": "When weaved into speech recognition tools, conversational AI can help with productivity and collaboration, while also reducing costs and making lawyers’ lives easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2020/08/11/speech-recognition-makes-a-comeback-into-law-with-the-power-of-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2019/09/speech-recognition-transcription-Article-201909051508.jpg",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -989,196 +1195,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-sogou-inc-sogo-q2-2020-earnings-call-transcript.md",
-      "title": "Sogou Inc. (SOGO) Q2 2020 Earnings Call Transcript",
-      "excerpt": "Sogou Inc. Q2 2020 Earnings Call Aug 10, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-          "width": 400,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx",
-      "publishedDateTime": "2020-08-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-austin-ai-startup-litlingo-raises-2m-for-growth.md",
-      "title": "Austin AI startup LitLingo raises $2M for growth",
-      "excerpt": "Austin-based LitLingo Technologies, which makes a communication platform focused artificial intelligence technology, has raised $2 million.The round was",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200810&Category=BUSINESS&ArtNo=200819912&Ref=AR",
-          "width": 5000,
-          "height": 3203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
-      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
-      "publishedDateTime": "2020-08-10T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter.md",
-      "title": "Why IBM Built An AI Avatar To Answer Questions About Marine Litter",
-      "excerpt": "IBM is working with the United Nations Environment Programme to demonstrate how information technology can be used to address marine litter. It could be as simple as asking \"Sam\" a question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3198434dd89001586075bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/amp/",
-      "publishedDateTime": "2020-08-10T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-michigan-university-study-advocates-ban-of-facial-recognition-in-schools.md",
-      "title": "Michigan University study advocates ban of facial recognition in schools",
-      "excerpt": "A newly published study by University of Michigan researchers shows facial recognition technology in schools presents multiple problems and has limited efficacy. Led by Shobita Parthasarathy, director of the university’s Science,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/amp/",
-      "publishedDateTime": "2020-08-10T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

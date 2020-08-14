@@ -5,8 +5,8 @@ excerpt: "The broadcast, titled ‘Can We Cure Cancer With Artificial Intelligen
 publishedDateTime: 2020-08-14T12:30:00Z
 webUrl: "https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286"
 type: article
-quality: 6
-heat: 6
+quality: 8
+heat: 8
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

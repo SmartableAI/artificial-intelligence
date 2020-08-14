@@ -56,6 +56,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "ICE just signed a contract with Clearview AI, the controversial facial recognition company that scrapes photos from social media"
+    excerpt: "ICE is known to use facial recognition technology to identify people and subsequently carry out raids that lead to deportations."
+    publishedDateTime: 2020-08-14T19:09:00Z
+    webUrl: "https://www.businessinsider.com/ice-clearview-ai-sign-contract-facial-recognition-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/ice-clearview-ai-sign-contract-facial-recognition-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-clearview-ai-sign-contract-facial-recognition-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/5f36db44e89ebf001f044c6c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "vsaCuQY2CYs44+JuKwZ4Nl5fKGWnCviab0IxTU8Y3gGu4Q1uk1TVN1kP/pQ2do59vN2mqZxzBQh8Wn9bqefKvTY2SmtJgVi3OYoXWmQCkU8XW784ZlSEQEGzuZGPCcM48vW2LnD46ksvIzRFC3KAtHztOePLUGxp8Nf5IamvIubC0EDN2TCNu3rOk6ThiMMpfbJgn6FXOv4B5a2bnoWlsGnNQzu2MCKUtuVPbLdjJTIezz2qm68DoJhcUUn9/tX8CGmYE6ln1UfhG9XygDAHLLOHTQZmW79eF241oZoJK2gKRu1j2cGVI0uu8kb1ZiEsDTPOkW9KyvUdDdhqnpTt8Q==;Wua6GHEhpMZQfO5c7P/nZw=="
 ---

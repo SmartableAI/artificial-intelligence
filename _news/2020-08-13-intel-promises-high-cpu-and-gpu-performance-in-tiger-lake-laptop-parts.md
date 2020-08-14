@@ -3,7 +3,7 @@ category: news
 title: "Intel promises high CPU and GPU performance in Tiger Lake laptop parts"
 excerpt: "Intel Even for a conference called \"Architecture Day,\" Intel took us unusually deep into its manufacturing and packaging processes. The day's presentations leaned as heavily on improvements in the individual transistors and capacitors on-die as they did on improvements in the processor designs themselves."
 publishedDateTime: 2020-08-13T13:00:00Z
-webUrl: "https://arstechnica.com/gadgets/2020/08/intel-promises-high-cpu-and-gpu-performance-in-tiger-lake-laptop-parts/"
+webUrl: "https://arstechnica.com/gadgets/2020/08/intel-promises-high-cpu-and-gpu-performance-in-tiger-lake-laptop-parts/?comments=1"
 type: article
 quality: 69
 heat: 69
@@ -27,6 +27,6 @@ images:
     height: 380
     isCached: true
 
-secured: "d1cngJ2kqETcA7TvZmMxBFkm5sx9Ntz9XT14Ja/oSWRqOWvBtR9CzVtabU3PO/Spea87uXhNUZKV6Yax2lIUlDbpQXeOjZTEms4zeDMSq31ine2kRNVcjvz8y7pG/R+/5lh0hkVZLd4jnCZLvVFNgJo4f9ws8bStyXXACgYleaeT7UznYC++8OdDNEsEWkPzKaIRhI4d7YPEq5LXd4xeaSAhEym2f2DIObO6EZVTGSlFoG1hiFzt8Q3Tfjla43k593lL07yJJ+Ddtk2K8x7+RBEBRbbrwWChymPFd0I1FB3sqdSBiDKkpYPT7x6zcYFezSQQy4S+jLI0s6kv+RMD3AjxvtIs+JC+z1SoNi7tlgM3slg6mPlUyYNjrucQrXImVlNw6rGBhayXJ7iOF2ZgxnVQpMsPWk177HAmO6vokrLhu/baMVrztdZIaKRUo7Lz+9d0HiQ5XRux6RhbBNVaxRMbgrJ2MLaUjAovmm5FdrWu0xbxMKSwZA5sQyZKkJ8x;H6yu/WSEfyH2tiSwJfdsJA=="
+secured: "OHTw5kaUnD4gawX1DXdIfUUKUNVKHNe9Iy+KNpRlTYdS0A5ZACyo5XbHFJEFqaxdVbNOhjZKkuYgW+gOuX77L+IYsWSViqYC++2gltSAtvN0TfEfZmkOT1SuCptSiEqfbpysosgqWULx+TsX46h/jGxeWjczOO/M88XR6EZHYt4FQC+sk7OopucUYrn79hr6/POOEEfizO8PJgngb7MQgPbZGC+xZPWmLE9gdwHd29RVfhhKAceSTVNeLypLUtye3C5P6UFTGoSpMSR3Ms4h9LaUryC+OnEXKh39bLO3wrdCBBjC17rJkdreYIvuZU6a91y3EOqJcvB46YWY3tMFkA==;16/cUzAwOq7UsM+J5td3QQ=="
 ---
 

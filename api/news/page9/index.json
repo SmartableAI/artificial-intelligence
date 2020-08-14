@@ -2,6 +2,188 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-05-hyland-releases-foundation-version-of-brainware-intelligent-capture.md",
+      "title": "Hyland Releases Foundation Version of Brainware Intelligent Capture",
+      "excerpt": "an intelligent content analysis tool within the portfolio of Microsoft Azure Cognitive Services. The Microsoft engine includes advanced OCR capabilities for extracting difficult handwritten inputs, in addition to machine-printed text. Extraction can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/hyland-releases-foundation-version-of-brainware-intelligent-capture-301106713.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/456686/Hyland_Software_Logo.jpg?p=facebook",
+          "width": 1166,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-how-blockchain-benefits-from-artificial-intelligence.md",
+      "title": "How Blockchain Benefits From Artificial Intelligence",
+      "excerpt": "Despite being around for many decades, the replication of human intelligence in machines — artificial intelligence — has now become popularized. With many tech companies rushing to adopt the ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81MjU3MmFkODM2NDhkNmIwMmMxNmY1MjJlYzdlNmRiZC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
+      "publishedDateTime": "2020-08-05T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025.md",
+      "title": "Artificial Intelligence Robotics Market: A Straight Overview of Growing Market & Future Trend by 2025",
+      "excerpt": "Growing adoption of automated machinery, as well as Artificial Intelligence (AI), enabled robots in personal use such as commercial applications has propelled the demand for artificial intelligence in robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre.md",
+      "title": "Artificial Intelligence Robots Market By Size, Growth, Opportunity and Forecast to 2025 – MRE",
+      "excerpt": "Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-zencity-raises-135-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data.md",
       "title": "Zencity raises $13.5 million to help cities aggregate community feedback with AI and big data",
       "excerpt": "Zencity, a platform that meshes AI with big data to give municipalities insights and aggregated feedback into the thoughts and opinions of local citizens, has raised $13.5 million in a round of ...",
@@ -920,177 +1102,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-behind-the-code-meet-young-suk-lee.md",
-      "title": "Behind the Code: Meet Young-Suk Lee",
-      "excerpt": "\nYoung-Suk Lee first learned about machine translation while studying English linguistics and literature. Now as a machine translation developer, she works on the multilingual systems that power Watson Language Translator. We talked to her about her first exposure to machine learning tech, the themes",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/08/behind-the-code-meet-young-suk-lee/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/08/2020_07_28_Blog_BehindTheCode_YoungSukLee_Leadspace.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T14:17:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-ai-helps-doctors-fight-covid-19-in-brazil.md",
-      "title": "AI Helps Doctors Fight Covid-19 in Brazil",
-      "excerpt": "Under-testing remains a huge problem in the sprawling South American country, but AI is helping fill the gap, thanks to a system called RadVid-19 developed using algorithms from German company Siemens and Chinese firm Huawei. Brazil has been hit harder by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/04/Virus.Favela-scaled.jpg?fit=2560%2C1707&#038;ssl=1",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/",
-      "publishedDateTime": "2020-08-04T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection.md",
-      "title": "AI/Computer Vision Startup Led by Industry Veterans Revolutionized Sewer Inspection",
-      "excerpt": "SAN FRANCISCO, Aug. 4, 2020 /PRNewswire/ -- SewerAI, a startup that uses artificial intelligence and computer vision to inspect, identify and analyze sewer infrastructure defects before they reach catastrophic levels, announced that it has secured $2 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-301106068.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1223949/SewerAI_Corporation_Logo.jpg?p=facebook",
-          "width": 1645,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-key-brain-region-was-recycled-as-humans-developed-the-ability-to-read.md",
-      "title": "Key brain region was 'recycled' as humans developed the ability to read",
-      "excerpt": "Humans began to develop systems of reading and writing only within the past few thousand years. Our reading abilities set us apart from other animal species, but a few thousand years is much too short a timeframe for our brains to have evolved new areas specifically devoted to reading.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-reading.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.amp",
-      "publishedDateTime": "2020-08-04T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,245 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-12-gm-financial-uses-ibm-watson-assistant-to-develop-a-secure-and-powerful-ai-assistant.md",
+      "title": "GM Financial uses IBM Watson Assistant to develop a secure and powerful AI assistant",
+      "excerpt": "\nAt GM Financial, it’s my job to drive remarkable customer experiences. Answering customers’ questions quickly and accurately is a big part of that. These days, much of our customer care comes in the form of live messages on our customer service app. People text us about things like the status of their",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/08/gm-financial-uses-ibm-watson-assistant-to-develop-a-secure-and-powerful-ai-assistant/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/08/1159_Watson_Blog_GM_Financials_Leadspace_v1-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T12:00:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity.md",
+      "title": "Artificial Intelligence Market 2020-2024 / Trends, Market Share, Growth, Opportunity",
+      "excerpt": "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity-2020-08-12",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development.md",
+      "title": "2025 Healthcare Artificial Intelligence Market |Top Companies, Trends and Future Prospects Details for Business Development",
+      "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-08-12",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels.md",
+      "title": "Training a custom single class object detection model with Amazon Rekognition Custom Labels",
+      "excerpt": "Customers often need to identify single objects in images; for example, to identify their company’s logo, find a specific industrial or agricultural defect, or locate a specific event, like hurricanes, in satellite scans. In this post, we showcase how to train a custom model to detect a single object",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T10:54:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes.md",
+      "title": "Artificial intelligence examines best ways to keep parolees from recommitting crimes",
+      "excerpt": "Starting a new life is difficult for criminals transitioning from prison back to regular society. To help those individuals, Purdue University Polytechnic",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/08/prison-aiLO.jpg",
+          "width": 800,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/",
+      "publishedDateTime": "2020-08-12T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-simcorp-offers-dimension-as-a-service-on-microsoft-azure.md",
       "title": "SimCorp Offers ‘Dimension as a Service’ on Microsoft Azure",
       "excerpt": "In response, and as a global business and trusted partner to some of the largest institutional investors around the world, SimCorp is transforming its offerings, delivered as a service, to provide buy-side firms with the flexibility,",
@@ -942,253 +1181,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020.md",
-      "title": "Argo AI co-founder and CEO Bryan Salesky joins us at TC Sessions: Mobility 2020",
-      "excerpt": "Mobility on October 6 & 7 will be a fantastic opportunity to find out all the latest on advancements in autonomy, micro-mobility, transportation AI and much more. Argo AI co-founder and CEO Bryan Salesky is among the best-positioned people in the world to speak",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Bryan-Salesky_portrait.jpg?w=1024",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/amp/",
-      "publishedDateTime": "2020-08-11T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams.md",
-      "title": "NeuralCam Live uses ML to turn iPhones into ‘smart’ computer webcams",
-      "excerpt": "After bringing Google Night Sight-like functionality to iOS, NeuralCam now has an app that lets Macs stream live, deep learning-filtered video from iPhones.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/neuralcamlive.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
-      "publishedDateTime": "2020-08-11T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop.md",
-      "title": "Researchers use AI classifiers to expose potential vulnerabilities in Microsoft remote desktop",
-      "excerpt": "In a new study, researchers use machine learning models to identify vulnerabilities in Microsoft's Remote Desktop Protocol.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/amp/",
-      "publishedDateTime": "2020-08-11T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-why-you-should-care-about-ai-even-if-you-dont-want-to.md",
-      "title": "Why You Should Care About AI (Even If You Don’t Want To)",
-      "excerpt": "Given this morass of conflicting and confusing information, why should you bother to care about AI? Because AI will quickly integrate itself into your life. Here are three ways AI will impact you: 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephanieglass/2020/08/11/why-you-should-care-about-ai-even-if-you-dont-want-to/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f305fbd508ec3b8dd03ba67%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D166%26cropY2%3D3372",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephanieglass/2020/08/11/why-you-should-care-about-ai-even-if-you-dont-want-to/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephanieglass/2020/08/11/why-you-should-care-about-ai-even-if-you-dont-want-to/amp/",
-      "publishedDateTime": "2020-08-11T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance.md",
-      "title": "AI company pivots to helping people who lost their job find a new source of health insurance",
-      "excerpt": "An artificial intelligence company has pivoted from finding the right treatment plan for patients to helping them find health insurance to pay for that care. At the start of the pandemic, Jvion used its Eigen Sphere engine to build a map that shows which residents in a community are at highest risk for contracting the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/05/15d504c8-dca2-4061-9296-4066837828eb/resize/1200x/aa4ff49733da77691f51a066b0a65746/istock-1219306859.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/",
-      "publishedDateTime": "2020-08-11T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

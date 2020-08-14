@@ -2,6 +2,195 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-07-31-how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of-dreams.md",
+      "title": "How Artificial Neural Networks Paved the Way For A Dramatic New Theory of Dreams",
+      "excerpt": "Machine learning experts struggle to deal with \"overfitting\" in neural networks. Evolution solved it with dreams, says new theory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/69s4baeiws1AUtljCB0OVF/ee3650537550ae64aaef7cc3d00bff98/shutterstock_498959041.jpg?w=650&h=433&fit=fill",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-create-a-multi-region-amazon-lex-bot-with-amazon-connect-for-high-availability.md",
+      "title": "Create a multi-region Amazon Lex bot with Amazon Connect for high availability",
+      "excerpt": "AWS customers rely on&nbsp;Amazon Lex&nbsp;bots to power their&nbsp;Amazon Connect&nbsp;self service conversational experiences on telephone and other channels.&nbsp;With Lex, callers (or&nbsp;customers, in Amazon Connect terminology) can get their questions conveniently answered regardless of agent",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-multi-region-amazon-lex-bot-with-amazon-connect-for-high-availability/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/29/LEX_DR-41-773x630.png",
+          "width": 773,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-31T08:06:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-10-ways-ai-is-accelerating-devops.md",
+      "title": "10 Ways AI Is Accelerating DevOps",
+      "excerpt": "Looking to reduce the delays DevOps teams are challenged with, software development tool providers are accelerating the pace of integrating AI- and Machine Learning technologies into their apps and platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2429e63d796e6d0fcb189a%2F0x0.jpg",
+          "width": 1200,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/31/10-ways-ai-is-accelerating-devops/amp/",
+      "publishedDateTime": "2020-07-31T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-31-this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic.md",
+      "title": "This CTO Says AI Technology Is Transforming The Pharmacy Industry In Time To Battle The Pandemic",
+      "excerpt": "AI technology can help pharmacists improve the speed and efficiency of manually intensive tasks – verifying medication, counting pills and maintaining adequate staff and inventory – while ensuring patient safety and adherence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f22d7618bde96bcd21f8127%2F0x0.jpg",
+          "width": 960,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
+      "publishedDateTime": "2020-07-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-three-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange.md",
       "title": "Three AI companies join a business development group built by the London Stock Exchange",
       "excerpt": "The cohort will get help refining their investment pitches as well as access to the group's network of institutional investors.",
@@ -959,187 +1148,6 @@
         "AI",
         "Natural Language Processing",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-technologists-and-business-leaders-dont-see-eye-to-eye-on-artificial-intelligence.md",
-      "title": "Technologists and business leaders don't see eye to eye on artificial intelligence",
-      "excerpt": "Business leaders and technologists see artificial intelligence differently -- which is not a surprise. However, they have different perspectives on the progress on AI projects, and what it takes to scale AI to meet enterprise challenges. For example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-state-of-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/30/1ba9fe6c-0378-41b8-a981-1e8ecf7e03df/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
-          "width": 480,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai/",
-      "publishedDateTime": "2020-07-30T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-twelve-fintech-startups-selected-for-village-capitals-finance-forward-latin-america-2020-accelerator.md",
-      "title": "Twelve Fintech Startups Selected for Village Capital's Finance Forward Latin America 2020 Accelerator",
-      "excerpt": "Over 80% of companies selected have one or more female founders, while over 40% are working from outside major fintech hubs in four different financial ... CIGE Mexico (Mexico) offers an AI solution that guarantees entrepreneurs advisory to manage their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.csrwire.com/press_releases/45507-Twelve-Fintech-Startups-Selected-for-Village-Capital-s-Finance-Forward-Latin-America-2020-Accelerator?tracking_source=rss",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSR Wire",
-        "domain": "csrwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-microsoft-hackathon-leads-to-ai-and-sustainability-collaboration-to-rid-plastic-from-rivers-and-the-ocean.md",
-      "title": "Microsoft Hackathon leads to AI and sustainability collaboration to rid plastic from rivers and the ocean",
-      "excerpt": "The post Microsoft Hackathon leads to AI and sustainability collaboration to rid plastic from rivers and the ocean appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/features/microsoft-hackathon-leads-to-ai-and-sustainability-collaboration-to-rid-plastic-from-rivers-and-the-ocean/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/07/cr-191026-THEOCEANCLEANUP_MALAYSIA-1099041-1024x651.jpg",
-          "width": 1024,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T09:14:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-linkedin-details-ai-tool-that-better-matches-jobs-to-candidates.md",
-      "title": "LinkedIn details AI tool that better matches jobs to candidates",
-      "excerpt": "LinkedIn today pulled back the curtains on Qualified Applicant (QA), an AI system that learns from job candidate interactions the kinds of skills and experience a hirer prefers. It’s the model ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/linkedin-details-ai-tool-that-better-matches-jobs-to-candidates/amp/",
-      "publishedDateTime": "2020-07-30T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

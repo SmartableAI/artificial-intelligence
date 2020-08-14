@@ -2,6 +2,38 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-18-intel-introduces-cooper-lake-processors.md",
+      "title": "Intel introduces Cooper Lake processors",
+      "excerpt": "Intel's (NASDAQ:INTC) new 3rd Gen Intel Xeon Scalable processors, dubbed Cooper Lake, are \"designed for deep learning, virtual machine density, in-memory database, mission-critical applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3584303-intel-introduces-cooper-lake-processors",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/news/3584303-intel-introduces-cooper-lake-processors",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/news/3584303-intel-introduces-cooper-lake-processors",
+      "publishedDateTime": "2020-06-18T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed.md",
       "title": "This startup uses machine learning to change the way drugs are developed",
       "excerpt": "Insitro, the startup founded by Daphne Koller, is taking a radical new approach to drug development. The company uses a team of biologists and machine learning experts to help develop new drugs that are more likely to succeed.",

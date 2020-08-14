@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T09:38:00Z
 webUrl: "https://www.theengineer.co.uk/robot-perception-hearing-carnegie-mellon-university/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,18 @@ images:
 
 related:
   - title: "Sounds of action: Using ears, not just eyes, improves robot perception"
-    excerpt: "People rarely use just one sense to understand the world, but robots usually only rely on vision and, increasingly, touch. Carnegie Mellon University"
-    publishedDateTime: 2020-08-14T14:08:00Z
-    webUrl: "https://scienceblog.com/517928/sounds-of-action-using-ears-not-just-eyes-improves-robot-perception/"
-    ampWebUrl: "https://scienceblog.com/517928/sounds-of-action-using-ears-not-just-eyes-improves-robot-perception/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517928/sounds-of-action-using-ears-not-just-eyes-improves-robot-perception/amp/"
+    excerpt: "People rarely use just one sense to understand the world, but robots usually only rely on vision and, increasingly, touch. Carnegie Mellon University researchers find that robot perception could improve markedly by adding another sense: hearing."
+    publishedDateTime: 2020-08-14T04:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/cmu-soa081320.php"
     type: article
     provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 59
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/08/Sounds-of-action-Using-ears-not-just-eyes-improves-robot-perception-.jpg"
-        width: 720
-        height: 786
+      - url: "https://www.eurekalert.org/multimedia/pub/web/240227_web.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "kyfT+pgvQlquAxDedIuPssRzAYhdlgk58wWZeb7m4HqMEyjkOtb/nYdESUD1gEO/AUUJdiODDaH4yEXsAnUvmd2/JhotSKfYp3tmqrGwHTlfU0hTB+jq/yjzEbS6wudULtGUr0GG8CyRFs4jCueRMJqUEpyl8gWZsTzBFCZPC+BPqtwLFNmvlghpWdmuiQbLgcfjaJ6YJw1JOYOMJtMW+U6ZOljEL0vAVBuPxMiMOspvJMq72exTGyVs/mFL32wl97ATlRutIbanDvfWzME++1D49W+rrFpCziOBy1Tfxi2egV3pU9Z9gchzAjOfU3UY7AEzICGKUxmi0Z6lgYxT7Q==;lEYrWoQGqqBC1GRD1EFvdg=="
