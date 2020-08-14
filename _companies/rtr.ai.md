@@ -2,7 +2,7 @@
 name: "RealTime Robotics"
 overview: "Realtime has invented a specialized processor for generating safe robot motion plans in micro-seconds, enabling robots to function in unstructured, collaborative work-spaces, reacting to other motions as soon as they are perceived"
 type: "profile"
-heat: 58
+heat: 50
 
 website: http://rtr.ai/
 
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=hVK2Lbb2IQ0"
 
-secured: "la/lHzyPzNxDhcvXBy/LJcuf1h7LqILw0FWfQX611B0iQH4vN949DTZFFFaZ/HfXQn3byK4IeVXHCB0o//swQ35p0qDabCMrao6f3HCSN2CqyPB7m1kXC1UfK8pAoLykXcmEGvLtlk+Ewz89XBWjiswmiRUA5MTzhuOirAwJBz1ePIiMw/dl6kxZGXxZJqF/qkRFXM7IL9tPa8Mj9w//GjhKZBScGxc/l8QKYfrE0PDatOMgzNPpZREbvXpQL6VUCmZYeanQ9tHV3Im0bt8sxWjQw3mqIIxYLy4BQqq/pnSM9BfOURmAuexn8ALufR9qFMFv5k/2eTk9ePl1oolbRx/hgk+65zgaeS07MrUfljLCcHRZ9WV7ZZrF2/Oucz+X;4/tPRDbZqfxCxWJPy/fQDA=="
+secured: "25zAAjAyJUwnJ38wP375Wg006+zAZGyX601W58ZaqkxL06FCzPzBtkHguzxBTczYlew9H28v4+Q2Sz4pfdn1fOKlAUFqwUlZqhQVEsGr24pU1XuSuU2Li+CaRsKRYPya3KbWpb+7qG8hBiQQnudEJOeCwYWLEsLOwodwc6g+XrDHovwXJE/MJSVnoyxG+4l3Woh62YT7c9iRoMhJtA3A3skAwBI+O7C00d0XNNV+UfvDiABluv3+24MCofMtY4EKBnfZ90rmGSFzPaWu2eo+GqVYemkAmwxkEZNzTlaQGoOO4Uj4QT/EnmUBmNkhbTWLV1vPKFCKsJQvkNb4fu+Piog6mzSJ4hWwtGmSz3T0eXtky8lHA9kJpuc2mecNVGkZ;wMbVzbiYW75PsiR9fgzDWA=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Babylon Health"
 overview: "babylon is the U.K’s leading digital healthcare service. Our purpose is to democratise healthcare by putting an accessible and affordable health service into the hands of every person on earth. In order to achieve this babylon has brought together one of the largest teams of scientists, clinicians, mathematicians and engineers to focus on combining the ever growing computing power of machines with the best medical expertise of humans to create a comprehensive, immediate and personalised health service and make it universally available."
 type: "profile"
-heat: 127
+heat: 83
 
 website: https://www.babylonhealth.com/
 
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Babylon Health"
 
-secured: "p6mu3gPWBaycZqkWdeuIrUprddWSFDfwo6LTfyJZJEVJRfO+t74io1Iecjk1UP93VO7z5IXRA6geerf47seeFm23xcq3wmzG907E/Vzxk1b7kqu4njo2spyVakv3k3m4Jx3cq0xy7IlA2RilFvQOoBbWWoEs94ku4dgeBZWt+RfBWw/jd/goyc3APH+MUumRI7SGy/znzHNX4zyEccblNrV+oaIxCHpJhFnxQPi12RYFScnchBUqdeLm6gMvX4F/RRfJox3edp45xI1ELPmaFZ2xpHHfAt/Y1+t24eE1jAVwnnKHn7mHHQpJPi3elT/1oCjFyPaGhkN2fuXNe06pz4Vns8c6SsiHHLHEbPhRpJWch6Phe5gTEn1VZ9Jq+fxrePkwpHcqGIUGp452SiWXAg==;BEJtg0G/KArheBhICa1koA=="
+secured: "02cD/GpI+lKRwzmKgx753mGehDUwNmxP5AZxOsmqkl6JZnL/CTEKKfUSuRrGKldxt9LNTWGf7XSeg65m2wtKtHqfB8fyYNACVuBUgGkEj5Z0UwTFnm0s+ryFEfBtwFy64m1ReCYQCbNW9m/AgBIJiFcRYmqk4rOb39PvJmViff+caPpMvwq8ShZMaT5o8P6FRjaJRQpwjq0k3JButwEa5SgxdZQZam5rXjeIgHcM0VXlqM8PjaYEMMzgpYq9LpEgeHPoRiWzyNgFNzFlwHmYdQsV9FdH9VPDhzG6Kssm5EILE0Jq7U1xcuFuxPpNpoZ45OhQxrj/uyfuaWaKtgS0RHt0WsbyM/IZjtvQ8G+vCzI/foqL3lZl8WjY+w/wI+Cc6/j9ZZNEZHln/BLpsXz09w==;6Jtblzf669+q2EAZP0UOXw=="
 ---
 
