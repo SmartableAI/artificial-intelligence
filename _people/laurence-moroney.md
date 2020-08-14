@@ -10,7 +10,7 @@ website: https://research.google/people/RajatMonga/
 twitter:
   username: lmoroney
   url: https://twitter.com/lmoroney
-  followers: 19035
+  followers: 19038
 
 linkedin:
   url: https://www.linkedin.com/in/laurence-moroney/
