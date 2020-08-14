@@ -109,7 +109,7 @@
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 112,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -147,7 +147,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
       ]
     },
     {

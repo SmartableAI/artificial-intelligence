@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2020 Market Report: User and Entity Behaviour Analytics Based on Machine Learning - ResearchAndMarkets.com"
+    excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. As intrusions employ a wide variety of attack vectors and methods,"
+    publishedDateTime: 2020-08-14T16:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200814005395/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 21
+    images:
+      - url: "https://mms.businesswire.com/media/20200814005395/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "eQoaS7PGk23ZDdSemlzlUYGnQUmNVg8P++aSF8+W98zflW6YIsdaQCWDiG9iz2EjFRuBcdBXKSsTaxszg16dmmz59veXQFjsbIpjMKq+uLUwIxXAANOClvR29TENh/wxOz4xXj4ptX9weRmAGz7hgm8/GQ0E/nuGK/vbiBci4LjyY8aW7CaXi0+rw//4DoTghPY8tw4et3E4PMmrs+Xu9hltKqGgpL4syp4hJw0UTW0bQL1PNiy5LVZzA5YthEtFzj/Fa+Ndqov8LbMWdw+I2EhoWwMeIGVGVqd21emf6B7HFD44SGWlq+i1aXYB9wNv3UBrOpxQUP2DVeY8sFo7hs1z8xdWvZZDa/MaAyP9O/4uG34ghHz/OUQbhM4/IQj7ho9H2YOx1yaGtbM27yGC7oT7u5CpfdR5r/KvZbYjWXZfpgK+silFV6DQk0eaN6ezfcWrBhso2WelFifRb02sUiJmUVv5u74uizHhvZ0IEvKwoCh1KSET9p0qiw/gKYxa;SKu1tVtd0KJ973Q5fNWzXg=="
 ---

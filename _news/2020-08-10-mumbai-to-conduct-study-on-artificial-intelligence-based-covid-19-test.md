@@ -8,7 +8,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-c
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-corporation-to-conduct-study-to-assess-efficacy-of-artificial-intelligence-based-covid-19-test-2277214?amp=1&akamai-rum=off"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 650
     height: 400
     isCached: true
-
-related:
-  - title: "ETRI won CLIC contest on AI-based video compression technology"
-    excerpt: "Two teams from Electronics and Telecommunications Research Institute (ETRI ... CLIC is the only contest on AI-based video compression technology supported by global powerhouses such as Google, Facebook, and Netflix. Media files featuring topnotch ..."
-    publishedDateTime: 2020-08-10T04:16:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/nrco-ewc072920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/238790_web.jpg"
-        width: 1440
-        height: 958
-        isCached: true
 
 secured: "XT1hLNPkNtY94NlFGw38bl9EZwUFysrwFBNAmGYBB4G0idzB5SJuz3Oi5QeLJC8ngAB+YJyoHFaxRoH4GxfZvtfujRhw02zgYiqDwfYFwWstJIVFwL+zgVEbZyCkhhp80czBzkE7mlukhpe/CP1nN8qRWyenTsTFj+dTgK2mdpQXlkZbdmEybiMlEHSPCwSLYHaM/1bWHAqtTTv9hjUfA3ZVM6QnQsx+lI55sDdsF07dpFG0dfXLXKHggSlCC1Q9ep1z+bSmuVPpvq1l8ios3DMYvgLQGp6LnEcRkODlB5Cb0j/O4P8wcw5n/RZsHA221g5YAibmUP+HYWFBA7z3eA==;RyzJLBBKO7hrYgby6AczNQ=="
 ---

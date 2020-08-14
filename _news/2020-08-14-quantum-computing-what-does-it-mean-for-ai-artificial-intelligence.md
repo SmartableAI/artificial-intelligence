@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-wha
 ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/amp/"
 type: article
-quality: 102
-heat: 112
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f36c53ef397e078c7bc9073%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D113%26cropY2%3D1801"
@@ -44,6 +46,6 @@ related:
         height: 540
         isCached: true
 
-secured: "b9N6ihHUtP5oMoYBoJOuiggyHUVKrlT+lnfCk7XTPJuBRMU/U35WTExbkSKgSevJm2Z3Eg20pyu/B4mPTk34IkOkXOrcbXtA1LvvvIZbfZ7KzSoYRVkv6HXPpMCIyOVO7Hub8Fx+QVMi3FfuyaxoodBthXwpRxiFDVovJkjU+faBRu9wYenehjEFcyYjCJTa8epXIjenOK6J4LBj3OGH6GJPbELSlPEHBtH7WzM0ZoftqxhirFJ1HGNEyqDVXygREK7KsO1YAtuYaoU5Ut8wrxm61TIgM6eUlJtMjJHqSS8D7iDlrHHpjpzRfri7XY+b3OLoCHGryufkgfzLyHmt8A==;QeqLfKG+Jy+tuzQJ2QnOAQ=="
+secured: "aB9q7/c9MeuKMoE8zt/HsrW5j/4nNNeA5vip2T54FpYqBo7GXDZuOujaayH7QHXvInfM/MqTom5ESp1hoCWOLIfnr5no+M3DxAAT07kP+qVHDylKT+b05y/QkX7KrC4IiHv4L5tvNCU3BrV3nnz3dMqDAOVmlyAWxh4K3YVHDhbs4kFrbOwMaH//MjS7YTycwT378hUU3BIAmdHS/MRvcn2fbGG7vEhWYdIHUKthPFBBIg0KWmG3wBQvc3SQS6BnLgwEMn+qOjvjNKW9oVREFSCNLZiv0QsCTa2WEl9CgnAE2iAiljdbl6kWLdAQNnAnkwOSkN0wAqE2pT/DAO9TwnVAocEo9Zhno1MsWFwpguCbO7bcvQhliP7Gq9M0ztsB9mGCAaDB1jsD8neGWpups/nxrcBJC021pXi7EEVpLpTjDAmbMqAU97SdubBFJbk21SiRlirkXrLjqR4azkE3nijOV1zwSbClJ8GLDXODrUzWPQSyQzqdF8zR0MhHrkzW;IODfxXMIj5p1pR6cjbN0pg=="
 ---
 
