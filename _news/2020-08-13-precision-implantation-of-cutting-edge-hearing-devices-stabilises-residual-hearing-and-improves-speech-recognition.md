@@ -19,6 +19,19 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Hearing is Believing: Precision Implantation of Cutting-Edge Hybrid Hearing Devices Stabilises Residual Hearing and Improves Speech Recognition"
+    excerpt: "August 2020 – Precision surgical implantation of electrodes for the electric-acoustic stimulation of the inner ear can stabilise the long-term residual hearing of severely hearing-impaired people and significantly improve their speech recognition."
+    publishedDateTime: 2020-08-13T14:43:00Z
+    webUrl: "https://www.openpr.com/news/2111974/hearing-is-believing-precision-implantation-of-cutting-edge"
+    ampWebUrl: "https://www.openpr.com/amp/2111974/hearing-is-believing-precision-implantation-of-cutting-edge"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2111974/hearing-is-believing-precision-implantation-of-cutting-edge"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 3
+
 secured: "MvwZtCRJkA5/ec1Rq/BHa+PDDPqWOE8s+1Qa3M+h2BbrgzCJnb6Q1q6jyRZ9A0pRnrOcQG42CF1/6zzOf30WKiwr2iY5w/Sb2PaBo2yG2a54MJmj9y/vKlpeb2GQo8ckd3vePUDUIyC37jNUXvTxhct649nGJoIinOhsq/sT7nkDG31yYrR3aT3K9+B9Lrzw37sa8n6a9ydGJ+XFuCRlmxbcBFAq7aQIianM7I7NFABMwnClzhFsc9fC5Kap+mcUH9rbDrNK1oUEyOGZO0gZwv1C/CQmaE+9WWfxqxmbGZO7MyIGujejTzP6Ccg2uROQudTZly3oj9+MyEfFj3h0Wg==;U1bNhcxg9ToU+ss9FEQqTg=="
 ---
 

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.entrepreneur.com/article/354749</loc>
+    <lastmod>2020-08-14T00:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thejakartapost.com/news/2020/08/13/indonesia-sets-sights-on-artificial-intelligence-in-new-national-strategy.html</loc>
     <lastmod>2020-08-13T20:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1459,6 +1465,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
+    <lastmod>2020-08-03T19:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html</loc>
     <lastmod>2020-08-03T19:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1467,12 +1479,6 @@
   <url>
     <loc>https://www.bignewsnetwork.com/news/265983784/artificial-intelligence-ai-in-healthcare-market-next-big-thing--major-giants-intel-nvidia-google</loc>
     <lastmod>2020-08-03T19:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
-    <lastmod>2020-08-03T17:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1489,7 +1495,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.law360.com/environmental/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
+    <loc>https://www.law360.com/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
     <lastmod>2020-08-03T14:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2379,6 +2385,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-fraud-detector-2020-07-28</loc>
     <lastmod>2020-07-28T18:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology</loc>
+    <lastmod>2020-07-28T17:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

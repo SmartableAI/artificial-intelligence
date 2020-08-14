@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-testing-corrid
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ITBW2M2XONCQBDUP6BKA4PMJGI.png"
         width: 3840
         height: 2160
+        isCached: true
+  - title: "Plans for special lanes for autonomous cars raises questions on evolution of self-driving tech"
+    excerpt: "Jonathan Winer, co-CEO of an Alphabet-funded company called Sidewalk Infrastructure Partners, which owns Cavnue, said at first self-driving buses would use the lanes, which would be similar to dedicated rapid transit lanes in other cities. Eventually ..."
+    publishedDateTime: 2020-08-14T06:59:00Z
+    webUrl: "https://www.asianage.com/technology/in-other-news/140820/plans-for-special-lanes-for-autonomous-cars-raises-questions-on-evolution-of-self-driving-tech.html"
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 27
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200814121236.jpeg"
+        width: 400
+        height: 224
         isCached: true
 
 secured: "fvmbBM3B38cAx09Tcg7sh1L7PQ892LrtU5uTkKGlIyU+E8nhhVsz0Vxmnlcly9G/iW18h0FhM0ESQWEsKxkub1T3jTIo7tPcW7EoedUBmUdZVklMDF4TV8KlvgBCBp3jntEJ0j6NEd9TkXKnVa7n56Ahi96IKdDpsVtPwRdaocfg940zZHBlEqnl9YKIvGZQgazlwS72RyI6hnSYOHWsrDPEd6wxwS70SO5wpqUsLUyQqVVHOMEqBpCxKosOdpu46IOjUxzfpTzDku4nm2say9O2EMbwv9T6soKra1vnrEeEhyaJd0ZsXcYEc8zyKUcUL7uLmL+4dpEGBaQGboRh/Lih3PLEZ+/JmhnrmFcg5MRbpl0H/qYVk06JlYAzXrrcCa1TQ6w0dWHFuTOaOIn/VFdx5lWJASQvnzTLMvQ9QYoDEYw5HDlw+qvhRfKMmdO/chNcWc/zmTqFEuVXROXnL19pT7ayDoMvyN+5GzFJaUQQOf0J3l79ir6c9YKuClpV;YVyHYDB4M5FD9X+AjUka2g=="

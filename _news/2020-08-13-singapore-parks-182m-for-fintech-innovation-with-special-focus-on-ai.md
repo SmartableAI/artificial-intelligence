@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-parks-182m-for-fi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "Becoming A Smart Financial Centre: MAS Invests S$250M For Workforce, Innovation In Fintech"
+    excerpt: "There is little doubt that the city state is rising in competitiveness in the financial technology (fintech) sphere, and government support for the sector has been increasing. Yesterday (August 13), the Monetary Authority of Singapore (MAS) announced that it will be committing S$250 million to enhance the Financial Sector Technology and Innovation Scheme (FSTI 2."
+    publishedDateTime: 2020-08-14T06:49:00Z
+    webUrl: "https://vulcanpost.com/709661/mas-invests-250m-workforce-innovation-fintech/"
+    ampWebUrl: "https://vulcanpost.com/709661/mas-invests-250m-workforce-innovation-fintech/amp/"
+    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/709661/mas-invests-250m-workforce-innovation-fintech/amp/"
+    type: article
+    provider:
+      name: Vulcan Post
+      domain: vulcanpost.com
+    quality: 34
+    images:
+      - url: "https://cdn01.vulcanpost.com/wp-uploads/2020/08/mas-cyber-hygiene-rules-fi-1024x538-1.png"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "MAS doubles down on fintech innovation support"
     excerpt: "The Monetary Authority of Singapore (MAS) today announced that it will commit S$250 million over the next three years under the enhanced Financial Sector Technology and Innovation Scheme (FSTI 2.0) to accelerate technology and innovation-driven growth in the financial sector."
     publishedDateTime: 2020-08-13T10:23:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-11T17:45:00Z
 webUrl: "https://www.embedded-computing.com/articles/building-training-ai-models-needn-t-be-confusing-and-time-consuming"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 500
     height: 272
     isCached: true
-
-related:
-  - title: "Shifting Consumer Shopping Trends Fueling Contactless Payment, AI-Driven Stores"
-    excerpt: "Retail automation company Prexevia has secured $1.18 million in venture capital to expand its AI-driven smart store concept throughout Europe With the fear of contracting the coronavirus pervading most aspects of daily life,"
-    publishedDateTime: 2020-08-09T14:23:00Z
-    webUrl: "https://www.ibtimes.com/shifting-consumer-shopping-trends-fueling-contactless-payment-ai-driven-stores-3024774"
-    ampWebUrl: "https://www.ibtimes.com/shifting-consumer-shopping-trends-fueling-contactless-payment-ai-driven-stores-3024774?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/shifting-consumer-shopping-trends-fueling-contactless-payment-ai-driven-stores-3024774?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/09/a-shopper-exits-amazon-go-grocery-on-february.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "WKvoYLO6DIJoiLrrLlAQ5/EjNd6gLANVr5Xr/nr1mc18av1NgChLTFRJGriKth9GKTQqoiIzw3H1vp/HQkmD8o0Q1IWj0rHZO8ztq1Iiw9aIb2HIq1LEsZL+r6B9p1tMbFCYA98TludkNY/9agnDle5QSKRutoe0ZIOTmPdy9LFr+jOoon4ylOOhT9PlkqBV76wPMNJGT8oUeFezU/RtBuB6TyrL3DNI1+F9l1uJ6Rlzgat9y5M/xuH02hmENtyekYPlPdHDkwqGL0pzoDk/0wOhPxRI3R9z29oOeKxIH0xCoZM2TXEF48mhsI+HdslTVbZItlReCiDzEQRWe327Fw==;RT/IkPRpf6MXeXDoakvU2g=="
 ---

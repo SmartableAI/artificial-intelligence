@@ -35,6 +35,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Becoming A Smart Financial Centre: MAS Invests S$250M For Workforce, Innovation In Fintech"
+    excerpt: "There is little doubt that the city state is rising in competitiveness in the financial technology (fintech) sphere, and government support for the sector has been increasing. Yesterday (August 13), the Monetary Authority of Singapore (MAS) announced that it will be committing S$250 million to enhance the Financial Sector Technology and Innovation Scheme (FSTI 2."
+    publishedDateTime: 2020-08-14T06:49:00Z
+    webUrl: "https://vulcanpost.com/709661/mas-invests-250m-workforce-innovation-fintech/"
+    ampWebUrl: "https://vulcanpost.com/709661/mas-invests-250m-workforce-innovation-fintech/amp/"
+    cdnAmpWebUrl: "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/709661/mas-invests-250m-workforce-innovation-fintech/amp/"
+    type: article
+    provider:
+      name: Vulcan Post
+      domain: vulcanpost.com
+    quality: 34
+    images:
+      - url: "https://cdn01.vulcanpost.com/wp-uploads/2020/08/mas-cyber-hygiene-rules-fi-1024x538-1.png"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Singapore commits SGD250 to drive technology and innovation in fintech sector"
     excerpt: "Monetary Authority of Singapore (MAS) will commit SGD250 million over the next three years to accelerate technology and innovation-driven growth in the financial sector."
     publishedDateTime: 2020-08-14T02:35:00Z

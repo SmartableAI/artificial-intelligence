@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Artificial intelligence ethics a 'primary concern' for IBM"
-excerpt: "Narelle Telford says while “obviously at lot of things went wrong”, no one was to blame for the death of her elderly mother to COVID-19."
-publishedDateTime: 2020-08-12T23:54:00Z
-webUrl: "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162"
+excerpt: "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data."
+publishedDateTime: 2020-08-12T13:48:00Z
+webUrl: "https://www.heraldsun.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Adelaide Now
-  domain: adelaidenow.com.au
+  name: heraldsun.com.au
+  domain: heraldsun.com.au
 
 topics:
   - AI Ethics
   - AI
 
-secured: "VRB3UtxrW9cgxzR2USG69nlftdgEh4wGrmQM6STDswOTpp6EgwhsaCLfmP4CmSo8VFpuo7VzIWUgbosLT1qrnLB1mn0vXDYl/8N2XketyQ9KF2SdfrNWPqqBFe1mZ4k83izeIKJQCMFn073NIqZeHpbmOer8b0vn6XIetOMhbOnF3wbkWELk46nHP35SvDaxeWLpGR9Enp036262HQ2cyUkEEo0Vs1RgsInWLW4rnxGiUDYfZQrrxE3ey3Q/LVwca2G6U70bu1Mkqc3KSVFS+ubUULVXD10NrKB7JQL4cAYa2OggEAPStFmotxlmVisjjGVh3RuM3wdt1RMHT/pG8VbauM+AXmLEPG+0wgEDSAsE1pufnOHC8EEBx3fMBREjO5KXVPTozqof9ztx2PxfdLcY0Y+yrpV9KZxjiEF7bKTxBKcOS+kb/G08Urz91rQeZG+jjUJ5kXlxN/M8DB6ctN831JcYCjrdPut48Aw9XnQKjmDurNDKPeEaTb7Jat8w;Thlb3Nt6SOmAi8Vo5aVWRA=="
+secured: "FTfbx6Or+M8WRYdNcOFhk9Qg/r0+XBiuk3oMqZASDH83rR1dYoRrphIX7G18mpWv+OjilnxPvVFoDNaOS4PQ+TJtAmWKFQ2wRJS8QyrTjHPIXztfhTj/DnCOhvwKpDh1GQ8Taw2lPhIY/EQsVwlq8wuogfWVI1ZUM1hNBExvtk4GFYY4PVIVLRp2a2R6ObcHLF23FV4IzpVl0u+W12pwmnoDAv6FT0kACbWaNiUBJKcyhxGoE/feLW1TYf8vvqZbF5mXc20AiQP0nUJhtqMczsY3uFlFZ4RCquEDs/TXJqcQQjnGjMX3yN5wWKfuTFuFq3Cg8wDqonxUNBdR4HEdX+m29Bbzw0wU8WuXO16VB6E7zvbcRuL7CsOAlZGp6brMY7+E8QkgFMze5tWMbJR3tvGTGycCQE+sDcWiuL2yWYJFlFMTEK7i/OgMLSZpt1XmLlARzAfOoTNrqQFx3zraIQrTMs6fIV1Y0rIiEX7NWgRkonK86A4UB1MzYjfP1gROrt2DLSQVsjfW6mIxmhizyg==;ry8JjIsIiF9tcFwf1dqzGQ=="
 ---
 

@@ -122,6 +122,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Plans for special lanes for autonomous cars raises questions on evolution of self-driving tech"
+    excerpt: "Jonathan Winer, co-CEO of an Alphabet-funded company called Sidewalk Infrastructure Partners, which owns Cavnue, said at first self-driving buses would use the lanes, which would be similar to dedicated rapid transit lanes in other cities. Eventually ..."
+    publishedDateTime: 2020-08-14T06:59:00Z
+    webUrl: "https://www.asianage.com/technology/in-other-news/140820/plans-for-special-lanes-for-autonomous-cars-raises-questions-on-evolution-of-self-driving-tech.html"
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 27
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200814121236.jpeg"
+        width: 400
+        height: 224
+        isCached: true
 
 secured: "S1BvYEVplsliqJsMJXvsRukMlPjLToPmpyiF28WwQHJHf+WTqsLjsV9My1cxEsHT2iowkm2DEzqg65opJWAEsbDzgROz+E6Vlg31oWzRUTH41uRD0GZ4O4hu1ytZlZzolK9OUdSy4ooT2ey+VhZzhw800bVojndw99hlRww94ZZZUnFoAM+vYjEuUefau0a6CD5hEdVHr/MnUgug8QwN5IuB2sytlQpYM9YrDWZVcibNSuqbqNlNfCAnKzTCEq1dEmDZnl9nAXjVruy7zaTGrKKbiL5lWexsbc5b3ly0/HC4GoZDvSG/S9Rv6i47awhXwC97gsShrW3oGwmLlexGyw==;v+BB19CyG71lNV9vMqHI1A=="
 ---
