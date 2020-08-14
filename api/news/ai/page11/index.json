@@ -2,6 +2,196 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-01-us-armys-latest-ai-system-lets-humans-and-robots-have-conversations.md",
+      "title": "US Army’s latest AI system lets humans and robots have conversations",
+      "excerpt": "The United States Army has detailed the development of a new dialogue system that enables humans and robots to hold conversations. The new systems enable ‘fluid communication’ between",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/08/us_army_AI_robots_main.jpg",
+          "width": 1440,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/us-armys-latest-ai-system-lets-humans-and-robots-have-conversations-01631639/amp/",
+      "publishedDateTime": "2020-08-01T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-focusing-on-profitability-turned-around-the-ai-powered-travel-start-up-snaptravel.md",
+      "title": "Focusing On Profitability Turned Around the AI-Powered Travel Start-Up Snaptravel",
+      "excerpt": "Snaptravel's bookings had dropped by 80 per cent and they were scrambling to keep up with customers’ questions and requests to cancel bookings. But only two and a half months later, they reached their highest-ever rate of completed bookings per week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlmoore/2020/08/01/focusing-on-profitability-turned-around-the-ai-powered-travel-start-up-snaptravel/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1c900df8bfe1ec386785e2%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-whats-this-a-bipartisan-plan-for-ai-and-national-security.md",
+      "title": "What’s this? A bipartisan plan for AI and national security",
+      "excerpt": "Hurd (R-Tex.) and Kelly (D-Ill.) offered suggestions to prevent the US from falling behind China, especially, on applications of AI to defense and national security. They want to cut off China’s access to AI-specific silicon chips and push Congress and federal agencies to devote more resources to advancing and safely deploying AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2020/08/whats-this-a-bipartisan-plan-for-ai-and-national-security/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/07/business_military_535764174-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid.md",
+      "title": "Railways go hi-tech; use Artificial Intelligence, robotics to fight COVID",
+      "excerpt": "Robots deployed at railway stations to scan passengers and for surveillance; hospitals also use them to talk to COVID-19 patients",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/2020/aug/Rakshak_d.jpg",
+          "width": 670,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.mid-day.com/amp/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
+      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid/22910331",
+      "publishedDateTime": "2020-07-31T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-how-smart-are-ai-chips-really.md",
       "title": "How Smart Are AI Chips, Really?",
       "excerpt": "It’s like a GPU without the graphics hardware. Or conversely, a GPU is like an AI accelerator. Even a low-end graphics card or built-in GPU in an older laptop is also an ‘AI engine’ that is ...",
@@ -559,7 +749,7 @@
       "title": "How Artificial Neural Networks Paved the Way For A Dramatic New Theory of Dreams",
       "excerpt": "Machine learning experts struggle to deal with \"overfitting\" in neural networks. Evolution solved it with dreams, says new theory.",
       "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of",
+      "webUrl": "https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1202,190 +1392,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found.md",
-      "title": "Nvidia Trounces Google And Huawei In AI Benchmarks, Startups Nowhere To Be Found",
-      "excerpt": "For the latest training version 0.7, new workloads were added for Natural Language Processing (NLP) using Bidirectional Encoder Representations from Transformers (BERT), recommendation systems using Deep Learning Recommendation Machines (DRLM), and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f231b3bb1c1e3f2bfbbd0e2%2F0x0.jpg",
-          "width": 1200,
-          "height": 874,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/30/nvidia-trounces-google-and-huawei-in-ai-benchmarks-startups-nowhere-to-be-found/amp/",
-      "publishedDateTime": "2020-07-30T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-covid-19-impacts-deep-learning-market-will-accelerate-at-a-cagr-of-almost-45-through-2020-2024-growing-application-of-deep-learning-to-boost.md",
-      "title": "COVID-19 Impacts: Deep Learning Market Will Accelerate at a CAGR of almost 45% through 2020-2024 | Growing Application of Deep Learning to Boost Growth | Technavio",
-      "excerpt": "Technavio has been monitoring the deep learning market and it is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200730005779/en/COVID-19-Impacts-Deep-Learning-Market-Accelerate-CAGR",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200730005779/en/809410/23/IRTNTR41147.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-30T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-why-companies-need-their-own-ai-code-of-conduct.md",
-      "title": "Why Companies Need Their Own AI Code Of Conduct",
-      "excerpt": "If companies are smart, they will craft their AI Principles and Ethics position soon and be ready for the demands the market and their customers will expect from them in the age of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2306d76e417b23d437a002%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/07/30/why-companies-need-their-own-ai-code-of-conduct/amp/",
-      "publishedDateTime": "2020-07-30T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-hillels-tech-corner-kaiai-flips-the-script-on-therapy.md",
-      "title": "Hillel's Tech Corner: Kai.ai flips the script on therapy",
-      "excerpt": "There is, however, some good news. When it comes to artificial intelligence and natural language processing (NLP), we may just have the technological capabilities to offer therapy to those in need using their regular messaging service like WhatsApp and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/461466",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/hillels-tech-corner-kaiai-flips-the-script-on-therapy-636985/amp",
-      "publishedDateTime": "2020-07-30T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

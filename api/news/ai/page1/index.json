@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-14-horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs.md",
+      "title": "Horrific AI surveillance experiment uses convicted felons as human guinea pigs",
+      "excerpt": "When a convicted felon in the US completes their court-mandated sentence(s) they’re considered a free citizen with limited rights. Felons can only vote in two states, they cannot legally own a firearm,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/surveillance-hed-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/amp/",
+      "publishedDateTime": "2020-08-14T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-google-open-sources-lit-a-toolset-for-evaluating-natural-language-models.md",
       "title": "Google open-sources LIT, a toolset for evaluating natural language models",
       "excerpt": "Google-affiliated researchers developed an open source framework -- Language Interpretability Tool (LIT) designed to explore and audit language models.",
@@ -438,6 +488,47 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-melting-frozen-memories-ai-helps-japanese-recall-war-days.md",
+      "title": "Melting ‘frozen memories,’ AI helps Japanese recall war days",
+      "excerpt": "The 75th anniversary of the end of World War II is Saturday, and Niwata, now 18, said she hopes it will bring attention to her project with a Tokyo University professor to painstakingly colorize photos using artificial intelligence and their own research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2020/08/2685d0a5f54944e7ae7f907aa39e473e.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/amp/",
+      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/amp/",
+      "publishedDateTime": "2020-08-13T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLFY",
+        "domain": "klfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1344,105 +1435,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-the-newest-fintech-unicorn-is-a-credit-card-and-its-betting-against-big-banks.md",
-      "title": "The newest fintech unicorn is a credit card, and it's betting against big banks",
-      "excerpt": "Musician John Legend and former AOL CEO Tim Armstrong are among the big money backers behind credit.ai, a new fintech banking and credit platform, including its Unicorn Card, designed for millennials distrustful of big banks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106660564-1597250463719-unicorncard.jpg?v=1597250781",
-          "width": 1080,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html",
-      "publishedDateTime": "2020-08-13T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-how-to-protect-ai-systems-against-image-scaling-attacks.md",
-      "title": "How to protect AI systems against image-scaling attacks",
-      "excerpt": "We usually don’t expect the image of a teacup to turn into a cat when we zoom out. But in the world of artificial intelligence research, strange things can happen. Researchers at Germany’s Technische Universität Braunschweig have shown that carefully modifying the pixel values of digital photos can turn them into a completely different image",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/13/image-scaling-attacks-highlight-dangers-of-adversarial-machine-learning-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-21-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/13/image-scaling-attacks-highlight-dangers-of-adversarial-machine-learning-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/13/image-scaling-attacks-highlight-dangers-of-adversarial-machine-learning-syndication/amp/",
-      "publishedDateTime": "2020-08-13T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

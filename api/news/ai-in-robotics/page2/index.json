@@ -184,6 +184,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-01-agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence.md",
+      "title": "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence",
+      "excerpt": "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades.",
+      "sourceUrl": null,
+      "webUrl": "https://roboticstomorrow.com/story/2020/07/agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence/15483/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.roboticstomorrow.com/images/upload/images/Agilox.jpg",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-railways-go-hi-tech-use-artificial-intelligence-robotics-to-fight-covid.md",
       "title": "Railways go hi-tech; use Artificial Intelligence, robotics to fight COVID",
       "excerpt": "Robots deployed at railway stations to scan passengers and for surveillance; hospitals also use them to talk to COVID-19 patients",
@@ -1264,47 +1305,6 @@
       "provider": {
         "name": "Daily Trust",
         "domain": "dailytrust.com.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-technological-advancement-and-growth-analysis-to-2026.md",
-      "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Technological Advancement and Growth Analysis to 2026",
-      "excerpt": "The Global Artificial Intelligence And Robotics In Aerospace And Defense Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T723421293_g.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
-      "publishedDateTime": "2020-07-23T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

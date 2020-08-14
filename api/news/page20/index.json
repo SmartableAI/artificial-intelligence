@@ -2,6 +2,170 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-28-creating-ai-that-understands-emotion.md",
+      "title": "Creating AI That Understands Emotion",
+      "excerpt": "Jay Turcot, Affectiva's Director of Applied AI, told an audience during a presentation at the 2017 GPU Technology Conference (GTC). “We believe interacting with technology being a cold experience is a side effect of machines not having empathy.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/creating-ai-understands-emotion",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Affectiva_GTC2017.jpg",
+          "width": 4160,
+          "height": 2340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-erc-proof-of-concept-artificial-intelligence-for-flexible-robots.md",
+      "title": "ERC Proof of Concept: Artificial intelligence for flexible robots",
+      "excerpt": "Programming a robot to solve just one complex motor task has remained a challenging, costly and time-consuming task - artificial intelligence is rarely employed. In fact, manual programming has ...",
+      "sourceUrl": null,
+      "webUrl": "https://eurekalert.org/pub_releases/2020-07/tud-epo072820.php",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-google-created-ais-that-can-teach-and-program-themselves.md",
+      "title": "Google Created AIs That Can Teach and Program Themselves",
+      "excerpt": "Machine Learning That Writes Itself Meanwhile, another research project at Google, AutoML, is showing that it is not only possible for AI to teach itselff but to program itself. AutoML (short for “automated machine learning”) allows for “controller ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/google-created-ais-can-teach-and-program-themselves",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Go%20Player%20hand.png",
+          "width": 902,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-research-reveals-how-to-optimize-neural-networks-on-a-brain-inspired-computer.md",
+      "title": "Research Reveals How to Optimize Neural Networks on a Brain-Inspired Computer",
+      "excerpt": "Neural networks in both biological settings and artificial intelligence distribute computation across their neurons to solve complex tasks. New research now shows how so-called “critical states” can be used to optimize artificial neural networks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/off-the-wire/research-reveals-how-to-optimize-neural-networks-on-a-brain-inspired-computer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/summit-image-405x228.jpg",
+          "width": 405,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
       "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
       "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
@@ -930,179 +1094,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy.md",
-      "title": "A New Brain-Inspired Learning Method for AI Saves Memory and Energy",
-      "excerpt": "Rather than processing big batches of data at once, the approach simply learns from data as it becomes available, cutting the required memory and energy.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/02/brain-2676370_1280.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/amp/",
-      "publishedDateTime": "2020-07-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-this-ai-tool-can-identify-individual-birds-with-90-accuracy.md",
-      "title": "This AI tool can identify individual birds with 90% accuracy",
-      "excerpt": "Luckily for them, a new AI tool can do the tricky task for them — and potentially offer new insights into bird behaviors. Scientists first trained the AI on labeled images of wild great tits and ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-27T135305.160-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/",
-      "publishedDateTime": "2020-07-27T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-research-opens-new-neural-network-model-pathway-to-understanding-the-brain.md",
-      "title": "Research Opens New Neural Network Model Pathway to Understanding the Brain",
-      "excerpt": "By combining ideas from theoretical physics and interpretable machine learning, the authors developed a new way to perform model reduction of artificial neural networks that are trained to mimic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200727005159/en/Research-Opens-New-Neural-Network-Model-Pathway",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200727005159/en/755976/23/NTTResearch_Symbol.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
-      "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
-      "excerpt": "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -1,24 +1,32 @@
 ---
 category: news
 title: "BioXcel Therapeutics Reports Second Quarter 2020 Financial Results and Provides Business Update"
-excerpt: "(GLOBE NEWSWIRE) -- BioXcel Therapeutics, Inc. (“BTI” or “Company”) (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence to  identify improved therapies in neuroscience and immuno-oncology,"
-publishedDateTime: 2020-08-14T11:00:00Z
-webUrl: "https://www.wallstreet-online.de/nachricht/12835810-bioxcel-therapeutics-reports-second-quarter-2020-financial-results-and-provides-business-update"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/12835810-bioxcel-therapeutics-reports-second-quarter-2020-financial-results-and-provides-business-update"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/12835810-bioxcel-therapeutics-reports-second-quarter-2020-financial-results-and-provides-business-update"
+excerpt: "SERENITY I & II Phase 3 trials of BXCL501 achieved all primary and secondary endpoints; New Drug Application (\"NDA\") submission to U.S. Food and Drug Administration (\"FDA\") planned for Q1 2021 Initiating the third dose cohort,"
+publishedDateTime: 2020-08-14T11:15:00Z
+webUrl: "https://www.marketwatch.com/press-release/bioxcel-therapeutics-reports-second-quarter-2020-financial-results-and-provides-business-update-2020-08-14"
 type: article
-quality: 12
-heat: 12
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "RthlwDi0Av3FKHDZ2zR6WFy72vqhgIL6BUHEm5iUTK6NWnwmt27mOVgwn410arkmNn8kxaMaeQ5rkquWIbDnxSIvf3NBXOnNvcKghcEt1T6fI3Wf+kGoaQ5E7wLfrnngqTIkQxb//cD0qDfyvRpYVxaKvIMzkDd9/tYEOlnaCpU2PGKIWVWE5wPdPRJ9p31+8TU1LhX5z/K8zxt9IrCyF4Fbn7ltOVHapdsyLPY3b4zC9yC7keAYq9d6wjiwFUa1pl6Ok/xwCyRv8wxSqIaWBdfpIgnc75AjhsJ+L84t6z0OW1Yvw5lN+IoRseDNqmqyeUB1qa1lY+33ufX08r472g==;5CXC/Y0P8qMIug4KVgvcLQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "KBArhxB8+EFz1m4yTCEMynyUC4lZi0z5y53b/OVp0+cOdgokNDGHd8Fb/xT/CAg9kWAwKNOQO5EKCVOWMY5vxvXM2bgekAoZcrz3vvXcZuNWRJDpbX/0u0GvEvrAcDzwj2TZ8O+meIIq45xx2+6C0j3spJvb/ttBOHhRLljBned6n1dEmMk475wAG+8VeDihkzMEmhunarrncqBpChg+IRUuID6FnFYWoN3QvO+Ou/wh4qRleK/KVkrKSyK3WARolmxHByN2ITnveETT3s/w7zH38+U212oevZIezq1C1Urr5/Hi5Nbd6hHlw3ztiatKvL7GJ+nCQYN7UjWlGX9EFA==;6vdXt0C4ujcj4f7O3X+m1A=="
 ---
 

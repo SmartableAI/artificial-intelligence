@@ -8,7 +8,7 @@ ampWebUrl: "https://technode.com/2020/08/14/baidu-q2-revenue-shrinks-warns-of-fu
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/08/14/baidu-q2-revenue-shrinks-warns-of-further-decline/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1620
     height: 1080
     isCached: true
+
+related:
+  - title: "Baidu revenue shrinks amid ad competition"
+    excerpt: "Baidu Inc’s (百度) quarterly revenue shrank 1 percent and its projections suggest sales could slide again, as rivals, such as ByteDance Ltd, continue to chip away at its core advertising business. China’s leading search engine forecast sales of 26."
+    publishedDateTime: 2020-08-14T16:21:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2020/08/15/2003741691"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2020/08/15/P10-200815-307.jpg"
+        width: 866
+        height: 604
+        isCached: true
 
 secured: "sF2YcPDRmMjQgLDabGItqCJ/R5YHGYHT2iUKive2APL8kmk93dgWBChOO/0sTmq5/pmtbQaeBZElRPsiDs2u8wt1cqMXUA65nPE5J0NNFGXEhbtt1EMZD9YZaxcCWtqU7rWfOCDe/ZDcrkm/solcnog/R6kF4gFBBZ+hn1qn8b4AMM6NlNTSL762do7EExAAmKmEZygxIHc0tuzlUB9W4sA2GrGPXAW1YVBVuQdnikrb9zk02lVNzbug2Eoqn2e155dYVHzZNs+7eajxsCi2q+Xbb1XbgiKwxxyy4v6/Qw/FN7nCTsg8RXReeel16a9oPOXFTUNBA02/+p/01l484linRl4zZvud7jvKohCPupT/K0VxjUGi8AIm4ydZBFYmVPpp4klsGULZ0ZmqZjDofqzouW1C+nx+47QiVKJ9UYUWsemebcx0Hv1Kq91agZfnwgudwDTVczLXy6IUiaT5czRn4oXy+F2/Z454cjl23uaeVfz4cDJjG7tfqxJTxPOYASew9RtSE5t+825fIw7RiQ==;YQ3fK8CqBnxLZia6hCQPvQ=="
 ---

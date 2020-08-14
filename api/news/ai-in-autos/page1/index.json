@@ -159,7 +159,7 @@
       "webUrl": "https://www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -196,17 +196,17 @@
     {
       "path": "_news/2020-08-09-chinese-robotaxis-take-riders-for-a-spin.md",
       "title": "Chinese 'robotaxis' take riders for a spin",
-      "excerpt": "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country.",
+      "excerpt": "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June.",
       "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
+      "webUrl": "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg",
-          "width": 750,
+          "url": "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg",
+          "width": 1000,
           "height": 563,
           "title": null,
           "attribution": null,
@@ -214,13 +214,13 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
-      "publishedDateTime": "2020-08-09T00:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-09T12:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
+        "name": "Euronews",
+        "domain": "euronews.com",
         "images": null,
         "publishers": null,
         "authors": null

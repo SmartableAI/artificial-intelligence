@@ -40,6 +40,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "How This Fintech Startup Is Using AI To Provide Expense Management Solutions"
+    excerpt: "One significant factor that is leading to higher demand for the fintech firms is the willingness to revamp the traditional systems."
+    publishedDateTime: 2020-08-14T09:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-fintech-startup-is-using-ai-to-provide-expense-management-solutions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/08/IMG-20181117-WA0049.jpg"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "2CNbcMSFgGM9mPQCfHju4Kvm78xJKzb0m3rlfiefHd5xPuNi9xdmX1ntUXVIcSsDPWqE7PZd2j/TMFnElJK0MEveWnPvISTS4hA9g/u2NbcLsN7KTZ9zEfee8xZJnRk7EOUdtVaRP832BvFHcl8ovdWg8PnqaA/ZuUqwH6gwXuF5ZRLEhgFdoBNEliy43md2y4oqsxMm5Kps8sBmdALy1PYl75HGEYXjosxEKbnQWuNLf2efAPXcix17DbwtfijdNz5NobQAebdAwUkVdY5LJKwDLHRYQ61bn7ydn+YCd5TbrWbdqUNhGaA8bC8Qy4JggmTgi5d+DfGWAhC/+PaOcA==;Cikiu0GcfdvezaF2u11IHA=="
 ---

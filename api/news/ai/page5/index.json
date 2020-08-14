@@ -2,6 +2,147 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-09-its-world-mask-week-here-are-10-misconceptions-about-face-coverings.md",
+      "title": "It’s World Mask Week, Here Are 10 Misconceptions About Face Coverings",
+      "excerpt": "From beliefs that face masks will affect your immune system to child-trafficking conspiracy theories, there are a lot of myths floating around out there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f302195863f284a7dcb68d0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/amp/",
+      "publishedDateTime": "2020-08-09T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-09-facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams.md",
+      "title": "Facial Recognition Could Help to Stamp Out Bitcoin Social Media Scams",
+      "excerpt": "Facial recognition can help prevent future Bitcoin scams like those that hit Twitter and YouTube, said Rod Hsu, president and co-founder of virtual currency platform Coincurve. Du",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmQxMjRlYjQ2NzYzNjFjNTQ4NmI0OTg4OTdjMTkxOC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams/amp",
+      "publishedDateTime": "2020-08-09T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-09-webinar-invite-how-virtual-reality-is-reimagining-healthcare.md",
+      "title": "Webinar Invite: How Virtual Reality Is Reimagining Healthcare",
+      "excerpt": "presents for the healthcare industry. (Register to be a part of the session by clicking here!) As the Chief Technology Officer at FundamentalVR, Vicky Smalley has extensive experience working with artificial intelligence (AI) and has a passion for big data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354461",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1596960869-shutterstock-790270129.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354461",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354461",
+      "publishedDateTime": "2020-08-09T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-08-column-the-reason-were-afraid-of-robots.md",
       "title": "Column: The reason we're afraid of robots",
       "excerpt": "When we focus so much of our attention on improbable scenarios, we run the risk of ignoring other problems posed by AI that are pressing and preventable.",
@@ -270,24 +411,15 @@
       "title": "Google, IBM, Microsoft AI models fail to curb gender bias",
       "excerpt": "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes.",
       "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "webUrl": "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "ampWebUrl": "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html",
       "publishedDateTime": "2020-08-07T23:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -302,7 +434,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1256,147 +1388,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-csiro-using-artificial-intelligence-to-map-17m-australian-grain-paddocks.md",
-      "title": "CSIRO using artificial intelligence to map 1.7m Australian grain paddocks",
-      "excerpt": "It developed ePaddocks for the agriculture sector to better understand the boundaries of grain paddocks across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/07/ce1a2d41-b2cf-4532-b208-75d0b6ba0c14/0000102-epaddocks-australian-paddock-boundaries-550.jpg",
-          "width": 550,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
-      "publishedDateTime": "2020-08-06T17:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-microsoft-azure-a-cheat-sheet.md",
-      "title": "Microsoft Azure: A cheat sheet",
-      "excerpt": "Cray supercomputing comes to Microsoft Azure to boost AI workloads in the cloud (TechRepublic) Microsoft is working on an Azure-powered Cloud PC service (ZDNet) One of the core strengths of Microsoft Azure is the ease of transition for organizations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
-      "publishedDateTime": "2020-08-06T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-ecobank-group-announces-the-2020-fintech-challenge-finalists.md",
-      "title": "Ecobank Group announces the 2020 Fintech Challenge Finalists",
-      "excerpt": "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA",
-          "width": 425,
-          "height": 223,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
-      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
-      "publishedDateTime": "2020-08-06T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Naija Gist - Latest",
-        "domain": "pulse.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

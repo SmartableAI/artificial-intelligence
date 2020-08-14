@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How This Fintech Startup Is Using AI To Provide Expense Management Solutions"
+    excerpt: "One significant factor that is leading to higher demand for the fintech firms is the willingness to revamp the traditional systems."
+    publishedDateTime: 2020-08-14T09:32:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-fintech-startup-is-using-ai-to-provide-expense-management-solutions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/08/IMG-20181117-WA0049.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Singaporean FinTech company GoBear partners with Netcore"
     excerpt: "FinTech company GoBear has selected Netcore Solutions to power its multi-channel marketing automation and engagement campaigns."
     publishedDateTime: 2020-08-11T09:03:00Z

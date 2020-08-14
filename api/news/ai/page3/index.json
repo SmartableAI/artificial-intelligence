@@ -2,6 +2,107 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-12-lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras.md",
+      "title": "Lantronix Open-Q 610 μSOM to Bring Advanced AI and Machine Learning Capabilities to Smart Cameras",
+      "excerpt": "(NASDAQ: LTRX), a global provider of intelligent edge and secure data management solutions for the Industrial Internet of Things (IoT), today announced its new Lantronix Open-Q(TM) 610 μSOM. Scheduled for delivery later this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras-2020-08-12-71841522",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-ai-based-approach-to-make-the-supply-chain-more-sustainable.md",
+      "title": "AI-Based Approach To Make the Supply Chain More Sustainable",
+      "excerpt": "It has become imperative to leverage the wonders of AI to make the supply-chains immersive, improved and hassle-free",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354613",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597218741-supplychain.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354613",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354613",
+      "publishedDateTime": "2020-08-12T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-4-hard-to-ignore-reasons-why-you-should-use-ai-to-make-more-intelligent-products.md",
       "title": "4 Hard-To-Ignore Reasons Why You Should Use AI To Make More Intelligent Products",
       "excerpt": "We are seeing more and more companies that use artificial intelligence (AI) to make their products smarter, from speakers to coffee machines, and from cars to yoga mats. Every company must consider how they could create more intelligent products using artificial intelligence (AI).",
@@ -948,7 +1049,7 @@
       "webUrl": "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -987,6 +1088,47 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-speech-recognition-makes-a-comeback-into-law-with-the-power-of-ai.md",
+      "title": "Speech Recognition Makes a Comeback into Law with the Power of AI",
+      "excerpt": "When weaved into speech recognition tools, conversational AI can help with productivity and collaboration, while also reducing costs and making lawyers’ lives easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legaltechnews/2020/08/11/speech-recognition-makes-a-comeback-into-law-with-the-power-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/397/2019/09/speech-recognition-transcription-Article-201909051508.jpg",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-11T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1310,137 +1452,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-new-machine-learning-tool-predicts-devastating-intestinal-disease-in-premature-infants.md",
-      "title": "New machine learning tool predicts devastating intestinal disease in premature infants",
-      "excerpt": "The pilot study was presented virtually on July 23 at ACM CHIL 2020. \"It's amazing how we may be able to use machine learning to stop this from happening to babies,\" said the study's co-author ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-newmachinele.jpg",
-          "width": 2879,
-          "height": 1919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-machine-tool-devastating-intestinal-disease.amp",
-      "publishedDateTime": "2020-08-11T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india.md",
-      "title": "Singapore’s trade finance startup Incomlend raises $20M led by Sequoia Capital India",
-      "excerpt": "Incomlend, a Singapore-headquartered startup that operates a trading platform to connect exporters and importers with investors, has raised $20 million in a new financing round, it said on Tuesday. Sequoia India,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1143842082.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/10/singapores-trade-finance-startup-incomlend-raises-20m-led-by-sequoia-capital-india/amp/",
-      "publishedDateTime": "2020-08-10T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-artificial-intelligence-ai-in-agriculture-market.md",
-      "title": "Artificial Intelligence (AI) in Agriculture Market",
-      "excerpt": "Artificial Intelligence AI in Agriculture Market Research Study The exploration report comprised with market data derived from primary as well as secondary research techniques The solicitation of proposals by the governments and public private companies across the world to mitigate",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2108907/artificial-intelligence-ai-in-agriculture-market-next-big",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T811357951_g.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2108907/artificial-intelligence-ai-in-agriculture-market-next-big",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2108907/artificial-intelligence-ai-in-agriculture-market-next-big",
-      "publishedDateTime": "2020-08-10T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

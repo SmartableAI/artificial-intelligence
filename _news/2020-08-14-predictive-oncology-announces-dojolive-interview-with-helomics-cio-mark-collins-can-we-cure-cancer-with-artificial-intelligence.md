@@ -5,8 +5,8 @@ excerpt: "The broadcast, titled ‘Can We Cure Cancer With Artificial Intelligen
 publishedDateTime: 2020-08-14T12:30:00Z
 webUrl: "https://apnews.com/1f1f18b10965da73be73fd2d6ffb1286"
 type: article
-quality: 8
-heat: 8
+quality: 6
+heat: 6
 published: false
 
 provider:
@@ -14,7 +14,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "7MGt5sPjsi0layRciZtcGRuJ1z6cjG4W1ekLHrC5ujHITypDwwRlIV5BUL3+djjEWGQLhrXVuWMhraS2sPd4U0MSKCHTaGBdYZBCR8sjTNu6n+j+AnNVlD1IF8z9Tf+A7otHkQutKWJINlaGiCKFNKNp0HVyu3SKlJIoA8J1+gHy/4tN0DR0X6LIa93BEMWDdduGKwmFSrABzwZB2xuJvD9YVvXA0r2cU+u4FMeLqdVWb6U2YfZJEQ6O1IbxX5ASuOgC4NMaiQKkoQW3BOPY2OW+ocHV40/XNZuOQRq/p5HJAMH+xSQ1G86l+TWCD7Wc0lLV7GhobZELoTJ6JbULDg==;nXbqYg1DCvkeXwdjWFUCBQ=="
+secured: "ItocCKCpnlnMOny2O5yhEOlrQ1t7Nv9BVOWU1tQDlLHJFxgN2giR3U+jR2HNX5epuI50/9FkoWFjz2ogAMmD05H3+Jlp0B800P0wLrGpsXl8lwvICEQpRfQtlWcfEXQ7qLdGAraTH7vmvP4nCxQ2bHiZm8yDzFo8lE3TzJpXiGcYAYHM3sM5PTmR2dNLSBeP0YnGBjqyl8NvlCSC3JLvS9Qi6C9/4X21pEuqQjpoCEk4us0qgdN6TNld8vkn3dnFAni1azaZTW3CHBI3+KgObJK2xIPXkvudcMYRtPUVHVZX4VKlqF9RKda67X3OdZzuLgjHHD0sKqDG9EprQlva4w==;i1f4DiwXC+T6JfHxedEvDQ=="
 ---
 

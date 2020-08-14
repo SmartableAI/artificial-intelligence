@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Melting 'frozen memories,' artificial intelligence helps Japanese recall days of World War II"
+    excerpt: "The 75th anniversary of the end of World War II is Saturday, giving attention to a Tokyo University project to painstakingly colorize photos using artificial intelligence."
+    publishedDateTime: 2020-08-14T16:30:00Z
+    webUrl: "https://www.stltoday.com/news/national/melting-frozen-memories-artificial-intelligence-helps-japanese-recall-days-of-world-war-ii/article_58ba087e-e272-57d3-829c-a27b7149fdad.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/melting-frozen-memories-artificial-intelligence-helps-japanese-recall-days-of-world-war-ii/article_58ba087e-e272-57d3-829c-a27b7149fdad.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/melting-frozen-memories-artificial-intelligence-helps-japanese-recall-days-of-world-war-ii/article_58ba087e-e272-57d3-829c-a27b7149fdad.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 46
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/eb/1eb3760f-a405-5efe-b27f-9103f974cf8e/5f3609592fbec.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "YNMnEnxVfnAiq0eCnxNV3Yi4JRvJFOkSMUAZmx0tq4HejIdCiikKoNdK2KOLkQhXrkdgoxIV9hzoZsc/6QWEWCCsKktnT71f4NMuxJ0lh4XrCgEUGioKwWWuLl9wnleRrx/QuYNPVID2DKr31mTCIQza/ARUjSvru46tx11DzqCI/tl/UhUSfWmjkbUviYz9rXn0Y59LVaELfsQ/frAQlig6ip60/37sY+HUZ+u16Qb+U45oXodOY1BrgIT/SsvUWaTb98mgZk8Ohk90ycRycZu23tgePp79yTLhYq/F4Iu5dqJ2vDAFwcmdbo3JcZaZ+ctDv0Hw5+L/Mv9ZKtNeKQ==;BlAu8N1zyYSMK/LtncyJVA=="
 ---

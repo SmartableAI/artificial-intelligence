@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Berkeley SkyDeck startup creates ‘digital seatbelt’ for self-driving cars"
+    excerpt: "Pedestrian fatalities are a significant problem,” says founder. “Our technology could save one million people over the next decade, if adopted.”"
+    publishedDateTime: 2020-08-14T16:11:00Z
+    webUrl: "https://news.berkeley.edu/2020/08/14/berkeley-skydeck-startup-creates-digital-seatbelt-for-self-driving-cars/"
+    type: article
+    provider:
+      name: Berkeley University of California
+      domain: berkeley.edu
+    quality: 23
+    images:
+      - url: "https://news.berkeley.edu/wp-content/uploads/2020/08/Bastien-Beauchamp_FINAL-e1597249339690.jpg"
+        width: 500
+        height: 598
+        isCached: true
 
 secured: "mXCHd5TqmmngKZVg5ne13JZFQt/XSywmos0MxdiKITYgCwZPoaabpYdMq3vqDT3LkfQEBmJLTAtRJTU6wWgAzwYW7Ig3N8a8OFUzQscSx2KBTx004IOA4PET/kykdzQsYEpdBvjMMv4mwJjnwuwU2BDLSBRw36lxQ8rQorqI9fO29LsFHZdGItGJi+THIXK4809B7Lpe12EwH/ADC8I3baexUgni83/B8BZ7oQPJymMdFfnaubautsjmK7drBbM8MpY+0owGW+OuMXLQ5yp3fYkqoxfUIngSgN5/nCuOaqesQoKQWTBto4a6oN7mnXxOzvQMgVr8DCCcOtSo+7CxNA==;OwDaSvXHfV6xQpwDoGVcGg=="
 ---

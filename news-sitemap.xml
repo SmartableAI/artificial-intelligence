@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/</loc>
+    <lastmod>2020-08-14T10:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/14/google-open-sources-lit-a-toolset-for-evaluating-natural-language-models/</loc>
     <lastmod>2020-08-14T08:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -51,6 +57,12 @@
   <url>
     <loc>https://www.thejakartapost.com/news/2020/08/13/indonesia-sets-sights-on-artificial-intelligence-in-new-national-strategy.html</loc>
     <lastmod>2020-08-13T20:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/</loc>
+    <lastmod>2020-08-13T19:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -493,6 +505,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.law.com/legaltechnews/2020/08/11/speech-recognition-makes-a-comeback-into-law-with-the-power-of-ai/</loc>
+    <lastmod>2020-08-11T04:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/</loc>
     <lastmod>2020-08-11T03:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -715,6 +733,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin</loc>
+    <lastmod>2020-08-09T12:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/</loc>
     <lastmod>2020-08-09T10:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -729,12 +753,6 @@
   <url>
     <loc>https://www.entrepreneur.com/article/354461</loc>
     <lastmod>2020-08-09T01:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381</loc>
-    <lastmod>2020-08-09T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -775,7 +793,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
+    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
     <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1171,7 +1189,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05?dist=bigcharts&amp;tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05</loc>
     <lastmod>2020-08-05T06:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1795,6 +1813,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://roboticstomorrow.com/story/2020/07/agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence/15483/</loc>
+    <lastmod>2020-08-01T09:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/investing/2020/08/01/3-top-artificial-intelligence-stocks-buy-august.aspx</loc>
     <lastmod>2020-08-01T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1903,7 +1927,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of</loc>
+    <loc>https://www.discovermagazine.com/mind/how-artificial-neural-networks-paved-the-way-for-a-dramatic-new-theory-of?ref=hvper.com</loc>
     <lastmod>2020-07-31T08:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

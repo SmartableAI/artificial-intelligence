@@ -2,25 +2,25 @@
 category: news
 title: "Plans for first self-driving corridor announced in Michigan from Detroit to Ann Arbor"
 excerpt: "Michigan officials are holding a news conference Thursday, August 13 at 1 p.m. to announce a major mobility-related project in southeast Michigan."
-publishedDateTime: 2020-08-13T18:25:00Z
-webUrl: "https://www.q13fox.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor"
-ampWebUrl: "https://www.q13fox.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
-cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
+publishedDateTime: 2020-08-13T19:42:00Z
+webUrl: "https://www.fox32chicago.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor"
+ampWebUrl: "https://www.fox32chicago.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
+cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Q13 FOX News
-  domain: q13fox.com
+  name: FOX 32
+  domain: fox32chicago.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2020/08/932/470/wjbk-self-driving-cavnue-081320.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2020/08/932/470/wjbk-self-driving-cavnue-081320.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -153,6 +153,6 @@ related:
         height: 224
         isCached: true
 
-secured: "6n/8TYCz+oDK0YvyyxleMbacG327l7M3QJRl80RjsQ7kjS2Wx1kQsPwKgk4yYljV+qBLHJXPgYiX70z4wEEcTjZnRywzBAd5vp9dAuZFUNu97GEdWDzdFZf3UlwvYvebkmP+l1F0C2R9WoGxF0ZTq/pltErsWH3X6piEi6v2tRwu2lMCuOvyVGaMfkx5jCqDpVNHZqfT+HvghWNXE6HFPwIAEEVERPUu22u/9nwHMXzzV8VKExa4KiweQ9sYliXV48JL57C7xs12Gwq2fq//THQowgnzE4WNH0sP7QHZzmwfLeamN5Y8KNhKQgMLymt24Uab19tDWHVCGn0IEKO0fxB9aZc0q/8YX3hoLlk+bNTmeCZ49hz9bH7Gkaeu485CXL37AD1UlRafBQFCbdDV5wfSoE1V7tk0oLNMLtuCVom6I6q5KNYZHhnbO5Ch9MafDYYLuqfo9wnpasRfcqPhOVh4QFPHqLX6Z2QuO2IGH1QOeRFVAXHxKX0MCCE747KeObiqOOf9cUKeykqWVCZ0HQ==;OL+5dLinKjsRB1hwyNyQBg=="
+secured: "Ua1wAiNZ7LVVz0Y5WOvPDA0KqjHyDn6w9ZcZzlcl1kJD7tN+ijIuOfP0KK0GoooqJ683pe9hvsLfJvtG6u0PanIg+jr6QK2puUF1fAPcsunkH0IR0DVBl7MPtyvIdC7RnV/51gEra80Y7J7tgT6r0Be8MzsAYSuhPymRKOkXCGfNQlTFOqspmP2Y4S0/FPUSmFrFen6cXRxdBMErdL8t92NpWN1oixUiimc7syMb4DlAVar7Hj6W/0lcD+iLDsZLVcol2N8Z7lZEkoRYSJ/jkzR4Ld8KjPgTc1mh3mMlGqc3HYUzRLzdG/Uie9PCNlQytpGmg/mabNK4u/9eVCaPwg==;UZn+MYK2HnnitUt+34ybug=="
 ---
 
