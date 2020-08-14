@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Artificial intelligence ethics a 'primary concern' for IBM"
-excerpt: "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data."
-publishedDateTime: 2020-08-12T13:48:00Z
-webUrl: "https://www.heraldsun.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162"
+excerpt: "Narelle Telford says while “obviously at lot of things went wrong”, no one was to blame for the death of her elderly mother to COVID-19."
+publishedDateTime: 2020-08-12T23:54:00Z
+webUrl: "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: heraldsun.com.au
-  domain: heraldsun.com.au
+  name: Adelaide Now
+  domain: adelaidenow.com.au
 
 topics:
   - AI Ethics
   - AI
 
-secured: "2rLGkgmHVOMIyLNeBGSDkR6cy5c+QYnzD0gVdXmcyHtAELC0YpVGyd9lOFI2HJPyBujzuehBWQjXOdoFPWMgLWVuBZk6kfW8GsP5Ca6ha6DHW/Hv9cH596kowJOZnwbr9X+jTLJ5yJj1j0B9pjztSfpbAR8foenGn/RKbCF6IPyWkFFSiKoerqGVBHBadRmlDCI+u080k1Sv69GBtDmD17qRlQ7yy2lSZlf4466bqDR9P1pWD8OewNy4bdeiqNk9CZxIbeP6QDjrb2LD2mOkP7bD1UlS91mNKAk9r5jJZXHZCHY8EgILuiIDhpVzHsgRaM8BrDTeLcAw+LJyg5DWUwcACg0e1GHtso3CbOJC705Drl4cx6n/EuKcR6bSh7/vsr95IkFZqZ5uhJM2RUepSpTuTUMPZXTC/7DL4j5XFfurZWNZAuVj1Sr7XjbvX28ToPwzcUkNBw9UimuL6DeIms5QXkigGA/wgR8FzdAaMKbTVCGnqFxRKff0ITtCBwJFvz7FPHKboGBS9It9o2Z4mA==;/ufUboNmH3Rv7HHttNGgBQ=="
+secured: "VRB3UtxrW9cgxzR2USG69nlftdgEh4wGrmQM6STDswOTpp6EgwhsaCLfmP4CmSo8VFpuo7VzIWUgbosLT1qrnLB1mn0vXDYl/8N2XketyQ9KF2SdfrNWPqqBFe1mZ4k83izeIKJQCMFn073NIqZeHpbmOer8b0vn6XIetOMhbOnF3wbkWELk46nHP35SvDaxeWLpGR9Enp036262HQ2cyUkEEo0Vs1RgsInWLW4rnxGiUDYfZQrrxE3ey3Q/LVwca2G6U70bu1Mkqc3KSVFS+ubUULVXD10NrKB7JQL4cAYa2OggEAPStFmotxlmVisjjGVh3RuM3wdt1RMHT/pG8VbauM+AXmLEPG+0wgEDSAsE1pufnOHC8EEBx3fMBREjO5KXVPTozqof9ztx2PxfdLcY0Y+yrpV9KZxjiEF7bKTxBKcOS+kb/G08Urz91rQeZG+jjUJ5kXlxN/M8DB6ctN831JcYCjrdPut48Aw9XnQKjmDurNDKPeEaTb7Jat8w;Thlb3Nt6SOmAi8Vo5aVWRA=="
 ---
 

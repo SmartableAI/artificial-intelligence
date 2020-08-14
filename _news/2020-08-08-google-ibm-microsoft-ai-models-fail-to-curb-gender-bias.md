@@ -15,6 +15,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg"

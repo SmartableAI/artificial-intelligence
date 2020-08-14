@@ -1,22 +1,28 @@
 ---
 category: news
 title: "The Top Ways Artificial Intelligence is Disrupting Life as We Know It"
-excerpt: "The artificial intelligence boom is already here, and it&CloseCurlyQuote;s changing life as we know it. JP Morgan analysts believe the market will grow to $58 billion by 2021. The auto industry is using AI to create driverless cars. The financial industry ..."
-publishedDateTime: 2020-08-13T14:52:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/08/13/the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it"
+excerpt: "The artificial intelligence boom is already here, and it’s changing life as we know it. JP Morgan analysts believe the market will grow to $58 billion by 2021. The auto industry is using AI to create driverless cars."
+publishedDateTime: 2020-08-13T14:11:00Z
+webUrl: "https://www.baystreet.ca/stockstowatch/8528/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: BayStreet
+  domain: baystreet.ca
 
 topics:
   - AI in Autos
   - AI
 
-secured: "qABHGKA59/c700cCSQGujwADrCHdinp7NY09K1kxRVcvqsqeqszs49m+jFgvsnYDUxsTQNa/36p8ZiHr45SoZLPgU7rlKo3VdcqdPUIZcBuOxN/gNrnOOkTteipZLyOthzKe8pea94kK+e6riAsLjPrtkmezkPGkl3eR0Qnnnp/PHHJ6NRvmYRXRzWpvK/9oN49xqLPNMcvA4MHyz24ToRb2kElyBxwti45ak2MDUPW2yYZKDfip6HUVVzWubP0AW7uhM6eHhP+t4JHG5OUBgYoK5afjMDrUu87nDwU+RQAMBQL+C6Jar+ZoIbKKeACxmm4wC75ugy0h3AB9y4MKPA==;hlKwN6WBROIkwMdu8Yf4nA=="
+images:
+  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1.jpg"
+    width: 1024
+    height: 400
+    isCached: true
+
+secured: "2HVD+Ph/atc0/MpQBL2lvHohggPRsWlxvbdJ/1YM88mRCAAJSVzFoEycdRn0HMBj1UwcmCkpaK11qcj8vSY5sx8xv1v2BG0NbXwiT8SB/yzoK5JXxKrHOx3h3Sxgu6I55XxSqHuGny4IWixzq0BRVLLVwf6ZVCCl3jQ+u/fL10cKQxJlH2bQZ6VQTOQYkYUDWmheXtCb5g+fcdTV/vLCAS9OLpvQTw67vY7yWB4+iIuqGpXnLkRrqVp22e0qUURi/PYAI3Ak4o2lxB8YzHGDzBUPF5jRhiPEKLrB2v9EsIEy2Cv9xcFrY17a+iUQFIHqdXmX2pHZPEfDhNYZtd/yqA==;zlQ3ZYxNRDPGB80dB+32rQ=="
 ---
 
