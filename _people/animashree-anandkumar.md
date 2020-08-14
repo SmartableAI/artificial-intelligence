@@ -14,7 +14,7 @@ website: https://t.co/cr0ijXcp1F
 twitter:
   username: animaanandkumar
   url: https://twitter.com/animaanandkumar
-  followers: 35181
+  followers: 35189
 
 linkedin:
   url: https://www.linkedin.com/in/anima-anandkumar/
