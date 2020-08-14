@@ -1,0 +1,55 @@
+---
+category: news
+title: "Miso Robotics, Makers of Burger Flipping Robot, Gets New CEO"
+excerpt: "Pasadena-based Miso Robotics, which specializes in intelligent automation technology for commercial kitchens, such as Flippy the burger-flipping robot, announced the selection of a new CEO on Thursday."
+publishedDateTime: 2020-08-14T01:03:00Z
+webUrl: "https://www.pasadenanow.com/main/miso-robotics-makers-of-burger-flipping-robot-gets-new-ceo/"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Pasadena Now
+  domain: pasadenanow.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/08/33984633_10156379948463252_4260405393521377280_n-740x400-1.jpg"
+    width: 740
+    height: 400
+    isCached: true
+
+related:
+  - title: "Miso Robotics brings in new CEO to automate restaurant kitchens"
+    excerpt: "Flippy the kitchen robot has a new boss. Miso Robotics Inc., the Pasadena, California-based startup that's automating restaurant kitchens, has tapped Mike Bell to serve as CEO. Company co-founder and former CEO Buck Jordan will focus on raising money as president and chairman of the board."
+    publishedDateTime: 2020-08-13T18:44:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
+  - title: "Miso Robotics Names Mike Bell New CEO to Accelerate Operational Growth"
+    excerpt: "Miso Robotics – the startup leading intelligent automation for commercial kitchens – proudly introduces its newly appointed CEO,"
+    publishedDateTime: 2020-08-13T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+
+secured: "3tEDFUfcjOsWXjoRqKF7gSquFiUEXf1NRiSuH4aUvEkzQzaV+k6DVQkfr+pVndZiJQYLvemg0FWHwA9Vnafn+J+G1e5ELc4fD8ksAlUzf4GA6AU8zV0rNTWuqlzxOJ76Ududjzd+H4twryTTxcj70y+nk+DPkNR2CKIvUxCi+4VaPbIee3QwDKTvXbCpq1oB6I9w5XRawhoBER1c10c1+tH8rAv75lU5LR/AYu6/a25qBygR5pzyy4a3Vp+DnkX3YveS98S7Mor7kj0DQXgLvAiwdWDY0smVnEvBaPDs0K+msIuq950bN8DG6uvUqAIKzS9GDxrVmMORG5l6KS0KIg==;mF2Hv/o6Ikn7vOUoWjK0Iw=="
+---
+

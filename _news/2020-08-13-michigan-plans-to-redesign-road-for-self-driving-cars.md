@@ -74,19 +74,35 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Plans for first self-driving corridor announced in Michigan from Detroit to Ann Arbor"
-    excerpt: "Michigan officials are holding a news conference Thursday, August 13 at 1 p.m. to announce a major mobility-related project in southeast Michigan."
-    publishedDateTime: 2020-08-13T19:42:00Z
-    webUrl: "https://www.fox32chicago.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor"
-    ampWebUrl: "https://www.fox32chicago.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
-    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
+  - title: "Jaguar Land Rover Cuts That Carsick Feeling in Self-Driving Cars"
+    excerpt: "The automaker believes it has figured out how to cut that nauseated feeling by 60 percent, mainly by making a few changes to ride and lane centering."
+    publishedDateTime: 2020-08-14T00:47:00Z
+    webUrl: "https://www.caranddriver.com/news/a33599429/jaguar-land-rover-reduce-motion-sickness-autonomous-cars/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp33599429/jaguar-land-rover-reduce-motion-sickness-autonomous-cars/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp33599429/jaguar-land-rover-reduce-motion-sickness-autonomous-cars/"
     type: article
     provider:
-      name: FOX 32
-      domain: fox32chicago.com
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jlr-motion-sickness-cornering-1597356533.jpg?crop=1xw:0.8888888888888888xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Plans for first self-driving corridor announced in Michigan from Detroit to Ann Arbor"
+    excerpt: "Michigan officials are holding a news conference Thursday, August 13 at 1 p.m. to announce a major mobility-related project in southeast Michigan."
+    publishedDateTime: 2020-08-13T18:25:00Z
+    webUrl: "https://www.q13fox.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor"
+    ampWebUrl: "https://www.q13fox.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
+    cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
+    type: article
+    provider:
+      name: Q13 FOX News
+      domain: q13fox.com
     quality: 37
     images:
-      - url: "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2020/08/932/470/wjbk-self-driving-cavnue-081320.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2020/08/932/470/wjbk-self-driving-cavnue-081320.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true
@@ -107,6 +123,6 @@ related:
         height: 2160
         isCached: true
 
-secured: "ICIXAePiuM+TxYXDEckt1h6n4NwZFgo3aWUMupe94cLUVDzFft2mW3fxLrrRB3MHfGtx3ipJkn63zktPwkeYWy2+ArIK/zfZFtHqqYgdKZS87YeQqseqd1Y3QUt8GMKrT/24CCzoIRPU1qxCWrBKDzz6h5gVW8gROxUvWHZ4gJJuEf9qI7JEGXOaAnlgrednHQb+u/LS5gsB5uAFdLfl48E9keM6nj/zYHi7QvIfOV4nO0l3awdD3xy8MTlT5lCCJ8hBzSQFReWkazQwPY3IuvDWuI4Kz6RIIxyEVOJCj1dZ/s1xlbTXtqESoDcokuEBHHehoTjt6+ugkQDESFM+5Q==;SLu3VyrI30xqLq9WQI26YA=="
+secured: "/n2Ia0jLrjXGhEJdfn799/+Lo2v74QjPOn9ZeyTRfoVpt+D2UWy9fnVC4bbmRe+guk83rvLAfyvuNBVjw7ApaU3qzbIqevAFzLRkMmTeum1kRiD/VghpJuVZ4OH6x+nHDA36rZmXlwNeWYuGftDXUHK6tKhjij5YeQyy7Aj7fD7Gu5eGl/w+Pa5MBYlHIlYvNAt/qvt73sVoL4+mb7DWRGH3NweJfkyYfxrZM1GazqQIZ84ZBaxPBvfylhLikBQPoGEPPnBVOBVjRBm4sR7gwGTTTCbvjcHPQX3IjOaWTeYocIc1Gxel1PhuAnLFv+KhMeGBCM2RIuuDSnos9lsTW/Tfhq0yeWNnJquXj4pCwZ3k93Zz7V7CkD+UvD4K4rzD0Vu373haUaQrNd2gGOS8zFr3iFAWr+7N7fVDYGzqStFV68hpymjwuk+wrNBXrqGIkQcDwoe3O/S8Hh1MZW7SsW5z45aWIP95Neovw3W8zjHWmjfSMHxys72OLbVAjpct65hlZ0laIvHZCqtErSyL8Q==;ONINcbfI2kRdu4RoTiVMkQ=="
 ---
 

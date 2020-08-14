@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-testing-corrid
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -78,19 +78,35 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Plans for first self-driving corridor announced in Michigan from Detroit to Ann Arbor"
-    excerpt: "Michigan officials are holding a news conference Thursday, August 13 at 1 p.m. to announce a major mobility-related project in southeast Michigan."
-    publishedDateTime: 2020-08-13T19:42:00Z
-    webUrl: "https://www.fox32chicago.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor"
-    ampWebUrl: "https://www.fox32chicago.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
-    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
+  - title: "Jaguar Land Rover Cuts That Carsick Feeling in Self-Driving Cars"
+    excerpt: "The automaker believes it has figured out how to cut that nauseated feeling by 60 percent, mainly by making a few changes to ride and lane centering."
+    publishedDateTime: 2020-08-14T00:47:00Z
+    webUrl: "https://www.caranddriver.com/news/a33599429/jaguar-land-rover-reduce-motion-sickness-autonomous-cars/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp33599429/jaguar-land-rover-reduce-motion-sickness-autonomous-cars/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp33599429/jaguar-land-rover-reduce-motion-sickness-autonomous-cars/"
     type: article
     provider:
-      name: FOX 32
-      domain: fox32chicago.com
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jlr-motion-sickness-cornering-1597356533.jpg?crop=1xw:0.8888888888888888xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Plans for first self-driving corridor announced in Michigan from Detroit to Ann Arbor"
+    excerpt: "Michigan officials are holding a news conference Thursday, August 13 at 1 p.m. to announce a major mobility-related project in southeast Michigan."
+    publishedDateTime: 2020-08-13T18:25:00Z
+    webUrl: "https://www.q13fox.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor"
+    ampWebUrl: "https://www.q13fox.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
+    cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
+    type: article
+    provider:
+      name: Q13 FOX News
+      domain: q13fox.com
     quality: 37
     images:
-      - url: "https://images.foxtv.com/static.fox32chicago.com/www.fox32chicago.com/content/uploads/2020/08/932/470/wjbk-self-driving-cavnue-081320.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2020/08/932/470/wjbk-self-driving-cavnue-081320.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true

@@ -2,6 +2,55 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-12-what-kamala-harris-record-says-about-major-ai-policy-issues.md",
+      "title": "What Kamala Harris’ record says about major AI policy issues",
+      "excerpt": "Sen. Kamala Harris is joining Joe Biden on the Democratic Party's presidential ticket; in the past she's taken positions on issues like algorithmic bias.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/what-kamala-harris-record-says-about-major-ai-policy-issues/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/kamala-harris.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/what-kamala-harris-record-says-about-major-ai-policy-issues/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/what-kamala-harris-record-says-about-major-ai-policy-issues/amp/",
+      "publishedDateTime": "2020-08-11T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy.md",
       "title": "Amazon Forecast can now use Convolutional Neural Networks (CNNs) to train forecasting models up to 2X faster with up to 30% higher accuracy",
       "excerpt": "We’re excited to announce that Amazon Forecast can now use Convolutional Neural Networks (CNNs) to train forecasting models up to 2X faster with up to 30% higher accuracy. CNN algorithms are a class of neural network-based machine learning (ML) algorithms that play a vital role in Amazon.com’s demand",
@@ -1154,57 +1203,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-facial-recognition-start-up-mounts-a-first-amendment-defense-in-privacy-suits.md",
-      "title": "Facial Recognition Start-Up Mounts a First Amendment Defense in Privacy Suits",
-      "excerpt": "Clearview AI has hired Floyd Abrams, a top lawyer, to help fight claims that selling its data to law enforcement agencies violates privacy laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/08/10/business/10Clearview-01/10Clearview-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/11/technology/clearview-floyd-abrams.amp.html",
-      "publishedDateTime": "2020-08-11T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-14-misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year.md",
+      "title": "Miso’s kitchen robots will slide into White Castle restaurants this year",
+      "excerpt": "Startup Miso Robotics is teaming up with White Castle to deploy its food prep robots in fast-food kitchens later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/IMG_4228.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/amp/",
+      "publishedDateTime": "2020-07-14T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-how-artificial-intelligence-and-robotic-industry-is-going-to-upsurge-post-covid-19.md",
       "title": "How Artificial Intelligence and Robotic industry is going to upsurge post-Covid-19",
       "excerpt": "In a world that is constantly changing and improving, artificial intelligence and robotics is immensely valuable in adapting to new trends",
@@ -1295,47 +1345,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-09.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 0.9%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT)’s stock price was up 0.9% on Friday . The company traded as high as $36.35 and last traded at $36.25, approximately 8,200 shares changed hands during trading.",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 0.9%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html/amp",
-      "publishedDateTime": "2020-07-05T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

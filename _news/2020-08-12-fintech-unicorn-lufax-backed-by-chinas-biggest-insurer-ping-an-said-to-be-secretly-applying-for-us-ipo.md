@@ -46,6 +46,17 @@ related:
         width: 1080
         height: 800
         isCached: true
+  - title: "U.S. Fintech Cred.ai Launches AI-Powered Credit Card"
+    excerpt: "Cred.ai, a U.S.-based startup, has launched its new banking platform specifically for millennials, along with its solid metal credit card. The company reported that it has been operating in “stealth” for more than three years to build its platform,"
+    publishedDateTime: 2020-08-14T01:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/08/165275-u-s-fintech-cred-ai-launches-ai-powered-credit-card/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165275-u-s-fintech-cred-ai-launches-ai-powered-credit-card/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165275-u-s-fintech-cred-ai-launches-ai-powered-credit-card/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
 
 secured: "Y5e9mh5idAC+hiOD0jAN9IT62ZFf6bZS8bdFyLphxL5ErmDszRiKgrR74/OC4K/P0l4LYihJz9dgZYLHoxyp/zGoS5o86O5wBsm12lcbZmnYt6huDd+dIV4K/MAQILMe1Ql/222VB82cPeQ5ePx5/LmB1emkC9CQnQ/qhSs1B/Cbf8d7tdJ+IAl/SEgbEwMV1qpu7uuC+WJ0GD5ZL2pfdKhX2rAXr+ufcrhuEcMt86/2aVt5tnVbUONkf97MRs1B/9MTtwz6t6/YYzR4TcpUrYnN86pSLsOOoZiEcCvEs4q2hAptzeMNbAStq2RxzPxnLyZChntfhR9E+RFVP4tG2pHtdJVrCdEzQQ6ugENNX8VSTswz+5or8NvSm+Q7NSDwXDuAJMjzNMnkyGU8QNB0A62LVWhYQdhPdBVWjtAnKcyxCHqXGAB1A7JNLHROOi7MnHgxVA72GIiY716NEOSoMm7gybkDSn0skXhDXOzBsHRsioWTd52malZglkBtvCou;FpfmHL8D3x2WEbuRsAXZ4g=="
 ---

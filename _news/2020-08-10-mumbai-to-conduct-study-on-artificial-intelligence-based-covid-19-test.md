@@ -8,7 +8,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-c
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-corporation-to-conduct-study-to-assess-efficacy-of-artificial-intelligence-based-covid-19-test-2277214?amp=1&akamai-rum=off"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mumbai: BMC to start AI-based voice tests within a week to detect Covid-19"
-    excerpt: "The BMC will next week onwards start using a voice sampling method to diagnose Covid-19 at one of its jumbo facilities. Voice analysis was used in some European nations, including France and Italy, to detect Covid-19."
-    publishedDateTime: 2020-08-09T07:22:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/city/mumbai/mumbai-bmc-to-start-ai-based-voice-tests-within-a-week-to-detect-covid-19/videoshow/77443500.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/city/mumbai/mumbai-bmc-to-start-ai-based-voice-tests-within-a-week-to-detect-covid-19/amp_videoshow/77443500.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/city/mumbai/mumbai-bmc-to-start-ai-based-voice-tests-within-a-week-to-detect-covid-19/amp_videoshow/77443500.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://static.toiimg.com/photo/msid-77443500/videos/city/mumbai/mumbai-bmc-to-start-ai-based-voice-tests-within-a-week-to-detect-covid-19.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "ETRI won CLIC contest on AI-based video compression technology"
     excerpt: "Two teams from Electronics and Telecommunications Research Institute (ETRI ... CLIC is the only contest on AI-based video compression technology supported by global powerhouses such as Google, Facebook, and Netflix. Media files featuring topnotch ..."
     publishedDateTime: 2020-08-10T04:16:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-sp
 cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,19 +27,17 @@ images:
 
 related:
   - title: "Chinese 'robotaxis' take riders for a spin"
-    excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-    publishedDateTime: 2020-08-09T10:49:00Z
-    webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-    ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+    excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
+    publishedDateTime: 2020-08-09T19:58:00Z
+    webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
+      name: Euronews
+      domain: euronews.com
+    quality: 24
     images:
-      - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
-        width: 750
+      - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
+        width: 1000
         height: 563
         isCached: true
 

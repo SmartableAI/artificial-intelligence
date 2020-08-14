@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Chinese 'robotaxis' take riders for a spin"
-excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-publishedDateTime: 2020-08-09T10:49:00Z
-webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
+publishedDateTime: 2020-08-09T19:58:00Z
+webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
-    width: 750
+  - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
+    width: 1000
     height: 563
     isCached: true
 
@@ -43,6 +41,6 @@ related:
         height: 681
         isCached: true
 
-secured: "OXwslA9O5HHqPW/DB9cS/K4Y4K4H+JSoAWUikMAXxn4mGHwPm1WAG0XmhajGfGfU0cbeByMRzUc+0NmBrs7fRDYmRattyaBGBEA0Lamovwb0bmeZa7GiZ7Ax6+jEP9HcvwCgLlKDCyx0kwpXtq3ziu/0Dmf55KlpVB2IiqFtziZ27eQIA1Vh9pYbANiw87UNu+MkmfhrRuGzXR1uPuYCpL8wnfMn9jGKFwSt0ZjpPTQxZXnFkbcmHGhHQ/E8noykeMu6Uy5uwpZXXRVv+FL++AH0y9ARoolQr4C1x+dKmUEuhu4XBk3QGxg/QtLiKccUcuLprDclB7PDNpGWR+HeTg==;mH5ML1DNr5FF0NWhHQgfUQ=="
+secured: "D9dLfTasVgwWvvgP6+/s0uBS8wu89lBWE+fTE02VZNdMMn7Kv/FL67ubbki9CIQv1WL7K1i/6f2ElMFfYWXaqLzer1sWGlDqiybRqhaajwGapY1hm8O/B62KArcjo/meFYN4mSCa1Hwf7MYXupVv7+HuQC8uIJpSRL2YuYOpTPzE7jHT9yuVsW1Y86HF7nl2BHRMPpUtOnYLEy88TkGHWcmHvrqULdtUUIqSFttvbsedv3YlQvwIA6JC51wHdYhyOh11qq9YqsTTC01n81s31nA+4yoYD57qAbwc7hDOdOpoBianryNJ27sbImAv+tn8UX/aIt64LpRBycs3Eb9A6w==;jrPgWeUws8uGB0uIjUJ0xQ=="
 ---
 

@@ -40,22 +40,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Mumbai: BMC to start AI-based voice tests within a week to detect Covid-19"
-    excerpt: "The BMC will next week onwards start using a voice sampling method to diagnose Covid-19 at one of its jumbo facilities. Voice analysis was used in some European nations, including France and Italy, to detect Covid-19."
-    publishedDateTime: 2020-08-09T07:22:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/city/mumbai/mumbai-bmc-to-start-ai-based-voice-tests-within-a-week-to-detect-covid-19/videoshow/77443500.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/city/mumbai/mumbai-bmc-to-start-ai-based-voice-tests-within-a-week-to-detect-covid-19/amp_videoshow/77443500.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/city/mumbai/mumbai-bmc-to-start-ai-based-voice-tests-within-a-week-to-detect-covid-19/amp_videoshow/77443500.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://static.toiimg.com/photo/msid-77443500/videos/city/mumbai/mumbai-bmc-to-start-ai-based-voice-tests-within-a-week-to-detect-covid-19.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Kx0U1ecK5oXHDnb4rIaVtjKlM/+0UQn2ZF1Nx6jPr+eUDdtBBHwCzcoeYAoAp4m9rGgVPGfyZCFXnS5v3biFRKv8ZGSF67xDwOO/Vph1a6U0W+Rbp60OB8S6xQEnRgdLwkBMzqgczvPc5bQRvqkvWusX/byU5wxLDygRxKYVdzPNxVBcW53Ty/7PvNWLdcJsxNCcGzL+9+uxauU2SaMxmOxiHAEAvitmB9aUl8vY9rK1wi+eRosReYHakb48fqvmdZkdBOcszvPl/NDZOEahroYX613FsM6N8uhKFRSmfLUL2PiwEtXa2xYj8RmG4AyPxa2GBs2Q2L9CpqfcLH2pIH2GnZR5N4+9PnCAmiKgPgw6MloDD4jkTAx4yHDxOu93HlL/nl7XqZZ+M7lHWKk9yLGdD+bvYwCxYWVobdcoVu4It5joZhBSNRVF0Zi4hSztpXyIKCJZhzjHLmtkbnscl7Su/0GTOcxgLiJ6Afhwmji6rdLmvWZqJWhEL1ZlUIGB;BsmrlYznYtKsJkkvGr+oOg=="
 ---
