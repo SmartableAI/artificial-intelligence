@@ -2,6 +2,47 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-07-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-technological-advancement-and-growth-analysis-to-2026.md",
+      "title": "Artificial Intelligence And Robotics In Aerospace And Defense Market Technological Advancement and Growth Analysis to 2026",
+      "excerpt": "The Global Artificial Intelligence And Robotics In Aerospace And Defense Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T723421293_g.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense",
+      "publishedDateTime": "2020-07-23T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-robotics-artificial-intelligence-etf-botz-hits-new-52-week-high.md",
       "title": "Robotics & Artificial Intelligence ETF (BOTZ) Hits New 52-Week High",
       "excerpt": "Investors seeking momentum may have Global X Robotics & Artificial Intelligence Thematic ETF (BOTZ) on radar now. The fund recently hit a new 52-week high. Shares of BOTZ are up approximately 74.3% from their 52-week low of $14.77/share. But could there ...",
@@ -1132,56 +1173,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend.md",
-      "title": "Extracting custom entities from documents with Amazon Textract and Amazon Comprehend",
-      "excerpt": "Amazon Textract is a machine learning (ML) service that makes it easy to extract text and data from scanned documents. Textract goes beyond simple optical character recognition (OCR) to identify the contents of fields in forms and information stored in tables. This allows you to use Amazon Textract to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T13:24:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

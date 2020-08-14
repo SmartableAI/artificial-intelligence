@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-04-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
+      "title": "Nokia to set up robotics lab at Indian Institute of Science",
+      "excerpt": "Nokia Center of Excellence (CoE) for networked robotics will promote interdisciplinary research involving robotics, advanced communication technologies and artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/08/04/600x338/2020-06-30T092400Z_457483931_RC2LJH910Z5H_RTRMADP_3_NOKIA-FRANCE-LAYOFFS_1596543432399_1596543467201.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
+      "publishedDateTime": "2020-08-04T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-03-chinese-artificial-intelligence-company-files-14-billion-lawsuit-against-apple.md",
       "title": "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple",
       "excerpt": "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents.",
@@ -1258,47 +1299,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-amazon-rolls-out-little-delivery-robot-to-more-cities.md",
-      "title": "Amazon rolls out little delivery robot to more cities",
-      "excerpt": "Amazon is rolling out its robot delivery trial to more cities. The e-commerce giant launched its delivery system, Amazon Scout, in January 2019 using electric, autonomous vehicles that can navigate sidewalks to deliver packages.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/amazon-scout-robot-delivery-vehicles/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F21%252F9e%252F80a5cb3f5147470c908093fcde12c89d.14d05.png%252F1200x630.png?signature=3T_47K3vZ_lw_tB42cUmXroaWOw=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/amazon-scout-robot-delivery-vehicles.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/amazon-scout-robot-delivery-vehicles.amp",
-      "publishedDateTime": "2020-07-21T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,56 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-07-driverless-cars-gain-speed-despite-global-slowdown.md",
+      "title": "Driverless Cars Gain Speed, Despite Global Slowdown",
+      "excerpt": "The solution, according to today’s most influential automakers, is to accelerate the development of electric, driverless cars programmed by artificial intelligence. For real. Our Meet George Jetson! destiny is not only inevitable, it will arrive sooner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2020/08/07/driverless-cars-gain-speed-despite-global-slowdown/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2d8f331d23de6d2c78380f%2F0x0.jpg",
+          "width": 1200,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-buildots-raises-16-million-as-it-brings-ai-computer-vision-to-construction-management.md",
       "title": "Buildots raises $16 million as it brings AI computer vision to construction management",
       "excerpt": "Buildots, the company bringing AI to construction, today announced that it had secured $16 million in… | Construction | London | Funding | Property | Finance | Technology | Investment |",
@@ -1145,46 +1195,6 @@
         "AI",
         "Google AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-reps-call-for-research-investment-in-ai.md",
-      "title": "Reps. Call for Research Investment in AI",
-      "excerpt": "have partnered with the Bipartisan Policy Center (BPC) and the Center for ... that calls for Federal investments into AI R&D. The Cementing American Artificial Intelligence Leadership: AI Research & Development report is the third in a series on AI issues ...",
-      "sourceUrl": null,
-      "webUrl": "https://bipartisanpolicy.org/report/ai-research-development/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bipartisanpolicy.org/wp-content/uploads/2020/08/shutterstock_690256660.png",
-          "width": 700,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MeriTalk",
-        "domain": "meritalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

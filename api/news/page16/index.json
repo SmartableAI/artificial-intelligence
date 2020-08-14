@@ -2,6 +2,47 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-07-29-us-agency-pandemic-masks-thwarting-face-recognition-tech.md",
+      "title": "U.S. agency: Pandemic masks thwarting face recognition tech",
+      "excerpt": "Computers are finding it more difficult, too. A preliminary study published by a U.S. agency on Monday found that even the best commercial facial recognition systems have error rates as high as 50% when trying to identify masked faces. The mask problem is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uticaod.com/apps/pbcsi.dll/bilde?Site=NY&Date=20200729&Category=NEWS&ArtNo=200729574&Ref=AR",
+          "width": 726,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
+      "cdnAmpWebUrl": "https://www-uticaod-com.cdn.ampproject.org/c/s/www.uticaod.com/news/20200729/us-agency-pandemic-masks-thwarting-face-recognition-tech?template=ampart",
+      "publishedDateTime": "2020-07-29T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Uticaod",
+        "domain": "uticaod.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-ai-machine-learning-dependency-limitations-and-bias.md",
       "title": "AI & machine learning: dependency, limitations and bias",
       "excerpt": "A conversation on AI and machine learning ... our products and services. © 2020 CNBC LLC. All Rights Reserved. A Division of NBCUniversal Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock ...",
@@ -1093,38 +1134,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-facebook-develops-new-rebel-poker-ai-that-outperforms-libratus.md",
-      "title": "Facebook Develops New ‘ReBeL’ Poker AI That Outperforms Libratus",
-      "excerpt": "Facebook developers have created a general artificial intelligence framework known ... implementation for Liar’s Dice to aid in future research. The developers believe that ReBeL could help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
-      "cdnAmpWebUrl": "https://www-cardschat-com.cdn.ampproject.org/c/s/www.cardschat.com/news/rebel-poker-ai-from-facebook-outperforms-libratus-92588/amp/",
-      "publishedDateTime": "2020-07-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Poker Sites",
-        "domain": "cardschat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

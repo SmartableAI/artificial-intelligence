@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-07-17-uber-tooling-is-a-critical-part-of-ai-development-and-deployment.md",
-      "title": "Uber: Tooling is a critical part of AI development and deployment",
-      "excerpt": "He revealed this tidbit during a session at VentureBeat’s Transform 2020 summit, during which he spoke about Uber’s use of AI and internet of things (IoT) technologies at the edge and in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/",
-      "publishedDateTime": "2020-07-17T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-16-why-diversity-in-ai-is-so-important.md",
       "title": "Why Diversity In AI Is So Important",
       "excerpt": "The rapid expansion of artificial intelligence from facial recognition to self-driving cars is having a major impact on business and society, which is why we need more diversity among the people developing AI tools.",
@@ -1446,6 +1395,56 @@
         "Google AI",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-ai-researchers-condemn-predictive-crime-software-citing-racial-bias-and-flawed-methods.md",
+      "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
+      "excerpt": "At the time of writing, more than 50 employees working on AI at companies like Facebook, Google and Microsoft had signed on to an open letter opposing the research and imploring its publisher to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1236590500.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
+      "publishedDateTime": "2020-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,56 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-27-12-ways-machine-learning-can-revamp-your-sales-process.md",
+      "title": "12 Ways Machine Learning Can Revamp Your Sales Process",
+      "excerpt": "Many technologies, including artificial intelligence (AI), can seriously help a business’s bottom line. Adoption of AI and machine learning allows companies to make needed improvements in the way they do business, but these technologies must be properly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f159806e6c5b300070db3f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 1015,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/amp/",
+      "publishedDateTime": "2020-07-27T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-expert-system-releases-expertai-natural-language-api.md",
       "title": "Expert System Releases expert.ai Natural Language API",
       "excerpt": "The global Artificial Intelligence company Expert System today announced the release of the expert.ai NL API, the cloud-based Natural",
@@ -739,9 +789,9 @@
     {
       "path": "_news/2020-07-26-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-industry-analysis-2019-2025.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Industry Analysis 2019 – 2025",
-      "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market report provides in-depth statistics and analysis available on the market status of the Natural Language Processing (NLP) in Healthcare and Life Sciences Manufacturers and is a ...",
+      "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market report provides in-depth statistics and analysis available on the market status of the Natural Language Processing (NLP ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -753,8 +803,8 @@
       "publishedDateTime": "2020-07-26T10:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "ARN",
+        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1312,46 +1362,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-artificial-intelligence-in-accounting-market-research-report.md",
-      "title": "Artificial Intelligence in Accounting Market Research Report",
-      "excerpt": "An informative data report titled Artificial Intelligence in Accounting Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2096670/artificial-intelligence-in-accounting-market-research-report",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T725964590_g.jpg",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report",
-      "publishedDateTime": "2020-07-24T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

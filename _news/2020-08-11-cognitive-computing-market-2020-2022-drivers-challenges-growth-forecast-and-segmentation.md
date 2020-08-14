@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include NVIDIA Corporation,"
-    publishedDateTime: 2020-08-13T19:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "P79UuBOi6cO1wPAGAdi8ixeaiut9f+yShqgj4TvOQv087JcSQoRX9Pnz/lAkSvij9JEV3c2rT229vUXAsYMjxzmb3uQwgB9/ylZcX6Wz+RvaXiFtoa5FXAq1s+hH41vUKf3YccKUhgPki+Z5OvXvQ8W0TYQJY6hx6g34eZjAVVrKAcneRNLoUy/fzb9lO6BCLKzMhpEQnPjScDiH/A7SENRfocrttkePUr0C/OAVw8cWl7vRT73GkFCCLOtkNWsP4mRIiLPloXHyl1CcnI+bj0naWQLxS75Wi4erUZ48Xuc+z4Vh6uE8+II1hHrHtxQ+95CllsaEXxzLzVIG9v7Q3Q==;OYw3SRYCy7lBMIWVSS10+A=="
 ---

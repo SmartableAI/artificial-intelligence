@@ -2,6 +2,56 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-07-28-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores.md",
+      "title": "Rite Aid deployed facial recognition systems in hundreds of U.S. stores",
+      "excerpt": "Rite Aid quietly added facial recognition systems to 200 stores across the United States over about eight years, in one of the largest rollouts of such technology among retailers in the country ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106635454-15959354852020-07-28t010549z_506450208_rc212i92ohp1_rtrmadp_0_usa-riteaid-software.jpeg?v=1595935517",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
+      "publishedDateTime": "2020-07-28T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-elon-musk-wants-to-unite-the-human-brain-with-ai-using-a-tiny-implant.md",
       "title": "Elon Musk wants to unite the human brain with AI using a tiny implant",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
@@ -1088,55 +1138,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors.md",
-      "title": "Advertima raises $17 million for AI that tracks in-store shopping behaviors",
-      "excerpt": "Advertima, a startup leveraging AI to customize in-store experiences, today closed a €15 million ($17.3 million) funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/83b26f72-63b0-4172-beec-932f134a5f86-e1595362730251.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/advertima-raises-17-million-for-ai-that-tracks-in-store-shopping-behaviors/amp/",
-      "publishedDateTime": "2020-07-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

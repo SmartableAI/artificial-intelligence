@@ -2,6 +2,56 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-07-16-deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment.md",
+      "title": "Deep Learning AI Needs Tools To Adapt To Changes In The Data Environment",
+      "excerpt": "No market is stagnant while remaining relevant. How and when to update DL systems, as they are used in more and more places, is important. The ability to analyze the data sets is critical, both for initial feature engineering and as an ongoing process to keep the systems relevant and accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "publishedDateTime": "2020-07-16T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-big-backing-to-pair-doctors-with-ai-assist-technology.md",
       "title": "Big backing to pair doctors with AI-assist technology",
       "excerpt": "\"We believe Activ Surgical's platform and technology are poised to transform the surgical space by enabling existing surgical systems and robots to visualize what surgeons can't and guide them, thus making surgeries safer,",
@@ -1032,47 +1082,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-human-quirks-health-medicine.md",
-      "title": "Human Quirks: Health & Medicine",
-      "excerpt": "July 15, 2020 — In a groundbreaking new study, researchers have 3D printed a functioning centimeter-scale human heart pump in the lab. The discovery could have major implications for studying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/news/strange_offbeat/health_medicine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

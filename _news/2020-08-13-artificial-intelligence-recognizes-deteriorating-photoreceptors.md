@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence recognizes deteriorating photoreceptors"
-excerpt: "A software based on artificial intelligence (AI), which was developed by researchers at the Eye Clinic of the University Hospital Bonn, Stanford University and University of Utah, enables the precise assessment of the progression of geographic atrophy (GA),"
-publishedDateTime: 2020-08-13T16:05:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/uob-air081320.php"
+excerpt: "Software based on artificial intelligence (AI), which was developed by researchers at the Eye Clinic of the University Hospital Bonn, Stanford University and University of Utah, enables the precise assessment of the progression of geographic atrophy (GA),"
+publishedDateTime: 2020-08-13T17:41:00Z
+webUrl: "https://medicalxpress.com/news/2020-08-artificial-intelligence-deteriorating-photoreceptors.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-08-artificial-intelligence-deteriorating-photoreceptors.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-artificial-intelligence-deteriorating-photoreceptors.amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
-    width: 585
-    height: 363
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/43-artificialin.jpg"
+    width: 1440
+    height: 1079
     isCached: true
 
-secured: "OVlrlqH5Z0Z9tVS0HLZFFoTJn4d7iuj1PytLvKxfTCww0y3+UE9IYncnXvJTlCPiM9pljtSqVHX46iofZHCEEGeWgrNVVYV+aHamagtXRaMwkqfFopZ7nG8q2wL1WUPml1Ez7XqV/VqOsuV882/zCSuj4GSeuBDCUK5Pfw4lQY/R4neCJowoYhqnf3mPesssi9/meenwCIxCA16eu17oJUfjB7GoqaBKfNyv5a1pQswiXqXiL8gvgFtmBeYGnlzVBOdSKVjA0bZZLNwiw8N7BP64pQaLZLQEosTFFbvEax4+uYrPx8yqnlrKoWUejRzL8B7S2HWNY0Z/k3tFXXlEyz/LJJN7/D90Hyci5Oryl3iCoHbe9Nw5qD6OZrPEJXfaGIOIO7mwTw619S7vupMHIJm4GZBB5XF+A9hUhDywxw9V89Ikgngw9MQXr2rQHqom/8e6OP9YzzpU2RtfJUpAc0JIS4Oa1E7j0hEQdh1Cj9UWvD8OuIAslTVpD/LjqIzpKL55znIVDC2bOKfGA/DZSA==;CA6+YI7WAeEEbivgv5QyQQ=="
+secured: "dWNFNCS1oEpIY4COp6lyJuJzx3dExu4g3nfdZ0S0IGb3eL60WhdZFdRjwWfSS/RG0jHV8Xq+3ZU58I8lUuggN9vK0fYa/e1fpA2qw+wCH0NEd7Kg4tWEm4F/wF7khDmNibZOx1x44Hcsv2t1M2mKBmdrwGMvcRvu8Gb3AWMekwMD+E/1TPYVr3UC8j2KkcCvtf6kaUwfuyx+f4UJ+mR/z3j0XTZHzZDYxw6aOZKlcoI7/aFkjN5PExx9mCBwdYypYWaNhkjcX5ynsEMuicbp7nrnFxaLm/JyEql7w35zMN92Fm32JglZe/atP/RSaJfxz2WxFdpbpSVeiw/lRTQM5w==;94OIgOQ+RqQ90XUxlPsUMg=="
 ---
 

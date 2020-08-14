@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.thejakartapost.com/news/2020/08/13/indonesia-sets-sights-on-artificial-intelligence-in-new-national-strategy.html</loc>
+    <lastmod>2020-08-13T20:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.neowin.net/news/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns</loc>
     <lastmod>2020-08-13T17:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,6 +49,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13</loc>
+    <lastmod>2020-08-13T12:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/roadshow/news/self-driving-car-testing-corridor-michigan/</loc>
     <lastmod>2020-08-13T12:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -61,8 +73,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://uk.pcmag.com/social-networking/128182/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images</loc>
-    <lastmod>2020-08-13T10:47:00-07:00</lastmod>
+    <loc>https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images</loc>
+    <lastmod>2020-08-13T10:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -625,12 +637,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/smart-office-market-2020-2022-challenges-growth-forecast-and-segmentation-2020-08-10</loc>
-    <lastmod>2020-08-09T23:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10</loc>
     <lastmod>2020-08-09T21:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -698,7 +704,7 @@
   </url>
   <url>
     <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
-    <lastmod>2020-08-07T23:16:00-07:00</lastmod>
+    <lastmod>2020-08-08T01:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1093,7 +1099,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05?dist=bigcharts&amp;tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05</loc>
     <lastmod>2020-08-05T06:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1483,7 +1489,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.law360.com/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
+    <loc>https://www.law360.com/environmental/articles/1296973/the-ethics-of-using-chatbots-for-legal-services</loc>
     <lastmod>2020-08-03T14:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3013,7 +3019,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
     <lastmod>2020-07-26T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

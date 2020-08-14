@@ -2,6 +2,38 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-06-26-into-the-woods-ai-startup-lets-foresters-see-the-wood-for-the-trees.md",
+      "title": "Into the Woods: AI Startup Lets Foresters See the Wood for the Trees",
+      "excerpt": "AI startup Trefos is helping foresters see the wood for the trees ... So when he joined the University of Pennsylvania as a Ph.D. student in robotics, he began working on ways robotics and machine learning can help get a better picture of the layout ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/woods-ai-startup-lets-foresters-see-wood-trees-76149",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cadalyst",
+        "domain": "cadalyst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-do-mental-health-chatbots-work.md",
       "title": "Do Mental Health Chatbots Work?",
       "excerpt": "It could, however, work as a great tool to use in conjunction with other forms of therapy. DB: Next, I moved on to the options that are centered on real-life (versus artificial intelligence ...",
@@ -1087,56 +1119,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-intel-aims-to-bring-ai-education-to-community-colleges.md",
-      "title": "Intel aims to bring AI education to community colleges",
-      "excerpt": "The AI and ML deployments are well underway, but for CXOs the biggest issue will be managing these initiatives, and figuring out where the data science team fits in and what algorithms to buy versus build.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-aims-to-bring-ai-education-to-community-colleges/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/27/66c8d2e8-3035-4daf-a4e3-3b431a06b896/thumbnail/1200x675/0efcb8eb5e94c87496e10ea27a7c6c4f/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Intel aims to bring AI education to community colleges",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-aims-to-bring-ai-education-to-community-colleges/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-aims-to-bring-ai-education-to-community-colleges/",
-      "publishedDateTime": "2020-06-25T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

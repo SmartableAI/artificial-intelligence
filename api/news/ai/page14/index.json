@@ -2,6 +2,56 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-07-29-a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work.md",
+      "title": "A new AI claims it can help remove racism on the web. So I put it to work",
+      "excerpt": "It was too tempting a challenge. Which site has more problematic pages? FoxNews.com or ESPN.com? You may be surprised.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/11/d4c29a7e-7cdc-4746-80a8-95898573899c/ai.png",
+          "width": 1938,
+          "height": 1258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
+      "publishedDateTime": "2020-07-28T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-aws-announces-general-availability-of-amazon-fraud-detector.md",
       "title": "AWS Announces General Availability of Amazon Fraud Detector",
       "excerpt": "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully",
@@ -1324,56 +1374,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores.md",
-      "title": "Rite Aid deployed facial recognition systems in hundreds of U.S. stores",
-      "excerpt": "Rite Aid quietly added facial recognition systems to 200 stores across the United States over about eight years, in one of the largest rollouts of such technology among retailers in the country ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106635454-15959354852020-07-28t010549z_506450208_rc212i92ohp1_rtrmadp_0_usa-riteaid-software.jpeg?v=1595935517",
-          "width": 3500,
-          "height": 2333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "publishedDateTime": "2020-07-28T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

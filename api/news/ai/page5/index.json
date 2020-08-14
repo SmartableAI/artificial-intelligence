@@ -2,6 +2,55 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-07-rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai.md",
+      "title": "R&D Roundup: Supercomputer COVID-19 insights, ionic spiderwebs, the whiteness of AI",
+      "excerpt": "I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/BeetleCameraWEB012.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/rd-roundup-supercomputer-covid-19-insights-ionic-spiderwebs-the-whiteness-of-ai/amp/",
+      "publishedDateTime": "2020-08-07T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-researchers-quantify-bias-in-reddit-content-sometimes-used-to-train-ai.md",
       "title": "Researchers quantify bias in Reddit content sometimes used to train AI",
       "excerpt": "Researchers developed a technique that helps to quantfy bias on communities like Reddit, data from which is often used to train AI models.",
@@ -1365,38 +1414,6 @@
       "provider": {
         "name": "KMWorld Magazine",
         "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels.md",
-      "title": "You'll finally be able to run a Windows virtual machine on your Chromebook with Parallels",
-      "excerpt": "Chromebooks were initially designed to be lightweight web-browsing laptops but gradually started gaining more features, especially when it came to offline",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/?amp",
-      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/?amp",
-      "publishedDateTime": "2020-08-06T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
         "images": null,
         "publishers": null,
         "authors": null

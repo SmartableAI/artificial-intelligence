@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Stanford Center for Health Education Launches Online Program in Artificial Intelligence in Healthcare to Improve Patient Outcomes"
-excerpt: "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery"
+excerpt: "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery of patient care and improve global health outcomes through artificial intelligence and machine learning."
 publishedDateTime: 2020-08-10T14:08:00Z
-webUrl: "https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html"
+webUrl: "https://apnews.com/PR Newswire/56e335acee9728a4dbb3c2cf163211ca"
 type: article
-quality: 25
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xRBwqvFfGmXVNdObnOsrCP7CUpDa25AAbEVDyjb3Lcfs4ccgHHM6tA6wx+oUD4URg9gI+TnBnHuHCGT8E9IZAKHevD7+uykjmBgX1tjmev78NdQySoMTe4eNCvy3I9MxOe0ih+QAnUN/X231mLuQ9kUJCfUBJuxBWe0VW5iEyiLGsw7niPDFV5o5RC0TrlI/upbfPQ8YUoaY6ERbP5Fql19OxJb1x70JNy566+aQHlV4bDu8N5xOqXmBKzFhX7+9ha3Q5Qk24Kuloq+J43hI0qKHFLAksfEGGqeFRvjGZ2MOtXa+v5bOZM7QXiSVscycnmOdR9nNKaO+fmtFUp14GQ==;mht7jFj9qH1N1tqi8z7ZkA=="
+secured: "9dfpQ3ifd2i1r8qqBsdpgQb9i9dXDRVH34pkZWHVVlE2jfNtz2KOEAXUWZ6PZyrx8sJoUhFcnZ7K9MbqBH5r5Lit0MnlpAyn4w2gYy7ykdEDVFBjaVGUen3wPpxdYBj/lGjA/A5Yxn4F/QZdMSeE9TR35uW1gbWzXDaxwQx9k+2yZ8XNrSGbaqRahfbIlrVppGpJcWa2z5MVkiEjASxutjT0tNZgiW/hI67XosLBaoqmSb2IC1/l9zd4M7Gv50L4Pno7TgZWDH6n8dagrtuVmtWeithSts5soYCSNcZRmtuBTGjphf3aumQnpukOl/xvcVoa6LPcvN/85WhizKTEKw==;cjKhU/bCdMaasTPveQKa9w=="
 ---
 

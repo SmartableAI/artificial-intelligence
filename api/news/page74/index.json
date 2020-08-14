@@ -2,6 +2,55 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-06-18-tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news.md",
+      "title": "Tech in Latin America: An entrepreneur’s guide to May’s startup news",
+      "excerpt": "The Venture City, a startup accelerator with presences in Brazil ... Elsewhere, the United Nations AI for Good Summit geared up for a webinar about indigenous knowledge and AI which featured ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/marcus-dantus-1.jpeg",
+          "width": 592,
+          "height": 370,
+          "title": "Tech in Latin America: An entrepreneur’s guide to May’s startup news",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/amp/",
+      "publishedDateTime": "2020-06-18T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-edge-analytics-complementing-cloud-computing.md",
       "title": "Edge Analytics Complementing Cloud Computing",
       "excerpt": "Model developed on popular frameworks like TensorFlow, keras, and Caffe can be deployed after optimization to run on inference devices like Andriod and micro-controllers. Inference engines designed considering capabilities of MCUs, like TensorFlow-Lite ...",
@@ -1104,55 +1153,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai.md",
-      "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
-      "excerpt": "Kaia Health, a startup developing an AI-powered app to help manage -- and reduce -- chronic pain, has raised $26 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/771b40a0-8596-4e45-ac82-8cdd7015a2b2-e1592189066236.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
-      "publishedDateTime": "2020-06-18T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

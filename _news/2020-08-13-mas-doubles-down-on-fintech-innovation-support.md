@@ -35,6 +35,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Singapore commits SGD250 to drive technology and innovation in fintech sector"
+    excerpt: "Monetary Authority of Singapore (MAS) will commit SGD250 million over the next three years to accelerate technology and innovation-driven growth in the financial sector."
+    publishedDateTime: 2020-08-14T02:35:00Z
+    webUrl: "https://www.connectedtoindia.com/singapore-commits-sgd250-to-drive-technology-and-innovation-in-fintech-sector-8078.html"
+    type: article
+    provider:
+      name: Connected To India
+      domain: connectedtoindia.com
+    quality: 21
+    images:
+      - url: "https://prod-c2i.s3.amazonaws.com/articles/promo_large/xxhdpi/15973713505f35f3d6b197b.jpeg"
+        width: 1024
+        height: 575
+        isCached: true
 
 secured: "YthV9DRbx85rKgTtRA1hsfPI3k58vZN5GI2BZiEGUigToSM8Ah8dXnTw3dGW6CCGkwXCZINsde+o+TBcfVjHioLQlIZf8IHtU4wZMPd/o55ZF6pCyUk77O7n4ZLZ9mbpv/w0plSRuoFfIDnJg8Z06dXVCwV3Jp36CDCEVRjJHH5Cz+sK2bo5XEBtf2+6KyFrE2DARDtlh2lWRnUTaMR9zfo2p0ZfX0ETCXFlHCC61O/1iTBlkUTnVvmGGttJj3IDa6R72k0Ob0JPjufd5/hQZ09HUihfh+3iFqYg+e7ySmecktZ9QxJWKkQ1R+nUJqr8GexGkH8mjWiFRNV1k93j0g==;iPiMxN6XKwfWO9Dz/JgTTw=="
 ---
