@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-14-problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai.md",
+      "title": "Problematic study on Indiana parolees seeks to predict recidivism with AI",
+      "excerpt": "A four-year effort to monitor parolees in Indiana with bracelets and use AI algorithms to predict their behavior raises red flags.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/d7b050fc-6639-41e3-b2d3-3a13a7ee0bc2-e1597361985605.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/problematic-study-on-indiana-parolees-seeks-to-predict-recidivism-with-ai/amp/",
+      "publishedDateTime": "2020-08-14T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-urban-autonomy-the-next-stage-of-self-driving.md",
+      "title": "Urban Autonomy: The Next Stage Of Self-Driving",
+      "excerpt": "Driving on city streets versus the highway presents an exponentially more complicated situation stemming from the visual perception problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb6bb684bc020007705132%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/amp/",
+      "publishedDateTime": "2020-08-14T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-taking-a-stand-in-uncertain-times-with-ai.md",
       "title": "Taking A Stand In Uncertain Times With AI",
       "excerpt": "This moment in time has uncovered just how crucial AI solutions can be for the future of healthcare. Rapid changes have made it difficult to manage the pandemic’s spread and determine what the industry will look like after coming through the other side.",
@@ -345,7 +444,7 @@
       "title": "Microsoft will now let you choose a preferred GPU for every Windows 10 app",
       "excerpt": "Windows 10 allows users to choose a GPU for performance-demanding workloads and a GPU for light workloads to save power, which is good enough for notebooks that have an integrated GPU and a standalone graphics processor.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
+      "webUrl": "https://www.techradar.com/in/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 87,
@@ -361,8 +460,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
       "publishedDateTime": "2020-08-13T14:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1344,87 +1443,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-facebook-ramps-up-artificial-intelligence-to-detect-hate-speech.md",
-      "title": "Facebook ramps up artificial intelligence to detect hate speech",
-      "excerpt": "The latest data from the social media company shows AI helped it detect 95% of the hate speech it removed between April and June.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/Olx4zMknpRo756km",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/08/facebook-smartphone-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/Olx4zMknpRo756km",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Olx4zMknpRo756km",
-      "publishedDateTime": "2020-08-13T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai.md",
-      "title": "Singapore parks $182M for fintech innovation, with special focus on AI",
-      "excerpt": "Country rolls out new three-year plan with SG$250 million ($182.1 million) investment to drive technology innovation in the financial services industry, which saw 40 innovation labs and 1,000 fintech companies set up in the last five years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/",
-      "publishedDateTime": "2020-08-13T00:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

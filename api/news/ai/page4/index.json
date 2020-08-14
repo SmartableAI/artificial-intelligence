@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-10-austin-ai-startup-litlingo-raises-2m-for-growth.md",
+      "title": "Austin AI startup LitLingo raises $2M for growth",
+      "excerpt": "Austin-based LitLingo Technologies, which makes a communication platform focused artificial intelligence technology, has raised $2 million.The round was",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200810&Category=BUSINESS&ArtNo=200819912&Ref=AR",
+          "width": 5000,
+          "height": 3203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
+      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
+      "publishedDateTime": "2020-08-10T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter.md",
+      "title": "Why IBM Built An AI Avatar To Answer Questions About Marine Litter",
+      "excerpt": "IBM is working with the United Nations Environment Programme to demonstrate how information technology can be used to address marine litter. It could be as simple as asking \"Sam\" a question.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3198434dd89001586075bd%2F0x0.jpg",
+          "width": 1200,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/08/10/why-ibm-built-an-ai-avatar-to-answer-questions-about-marine-litter/amp/",
+      "publishedDateTime": "2020-08-10T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-michigan-university-study-advocates-ban-of-facial-recognition-in-schools.md",
+      "title": "Michigan University study advocates ban of facial recognition in schools",
+      "excerpt": "A newly published study by University of Michigan researchers shows facial recognition technology in schools presents multiple problems and has limited efficacy. Led by Shobita Parthasarathy, director of the university’s Science,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/block_image-e1597092687237.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/amp/",
+      "publishedDateTime": "2020-08-10T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities.md",
       "title": "UNSW switches cloud-based data lakes for AI and ML capabilities",
       "excerpt": "It was clear to the University of New South Wales (UNSW) that at the end of 2018, when it was developing its data strategy, it needed to improve the turnaround time it took to get information into the hands of decision makers.",
@@ -1258,138 +1398,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-before-we-put-100-billion-into-ai.md",
-      "title": "Before we put $100 billion into AI",
-      "excerpt": "America is poised to invest billions of dollars in AI, but this funding could have bad effects if it's not tied to accountability for equal opportunity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/billions_of_dollars.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/amp/",
-      "publishedDateTime": "2020-08-08T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-google-says-starcraft-likely-next-target-for-deepmind-ai.md",
-      "title": "Google says Starcraft likely next target for DeepMind AI",
-      "excerpt": "Google's DeepMind AI first set its sights on European Go champion Fan Hui, defeating it soundly before taking the crown from world champion Lee Sedol (while there's still one game to go in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/index.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tweaktown.com/images/news/5/1/51057_1_google-starcraft-next-target-deepmind-ai_full.jpg",
-          "width": 1300,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/amp.html",
-      "publishedDateTime": "2020-08-08T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-julia-and-pycaret-latest-versions-arxiv-on-kaggle-uks-ai-supercomputer-and-more-in-this-weeks-top-ai-news.md",
-      "title": "Julia and PyCaret Latest Versions, arXiv on Kaggle, UK’s AI Supercomputer And More In This Week’s Top AI News",
-      "excerpt": "Every week, we at Analytics India Magazine aggregate the most important news stories that affect the AI/ML industry. Let’s take a look at all the top news stories that took place recently. The following paragraphs summarise the news,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kaggle.com/Cornell-University/arxiv",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/kaggle-datasets-images/612177/1095394/42fbd0d6e73b69abfc8b578adca8a72e/dataset-card.png?t=2020-04-20-05-29-08",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-08T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

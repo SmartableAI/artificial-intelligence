@@ -26,33 +26,19 @@ images:
 related:
   - title: "UK court says face recognition violates human rights"
     excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
-    publishedDateTime: 2020-08-11T15:40:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
+    publishedDateTime: 2020-08-11T15:31:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/uk-court-face-recognition-violates-human-rights-72305642"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/uk-court-face-recognition-violates-human-rights-72305642"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/uk-court-face-recognition-violates-human-rights-72305642"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 44
+      name: ABC
+      domain: go.com
+    quality: 59
     images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
-        isCached: true
-  - title: "Cops' facial recognition was ‘unlawful,’ court rules"
-    excerpt: "In a Court of Appeal ruling today, judges found that South Wales Police had breached privacy rights, data protection laws and equality laws through its use of the surveillance tools. The force has been at the forefront of using automated facial recognition (AFR) technology,"
-    publishedDateTime: 2020-08-14T06:35:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/cops-facial-recognition-was-illegal-court-rules"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 24
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/face%20police.jpg"
-        width: 1185
-        height: 585
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
 
 secured: "6S8Z+Du64VloD9jQ2qQdt8lZD9bMdFgNOhiA4hBIUEhebR7YgMnE4T9ttfDTVlxPSHthkS9HQPESvaPwfaQeB0U75Y71S3sa08WasBAT9dK/vZAe19xP/SwU7SY7Mh2frvTzu3425a7hdyL1RNdvCiZda3OZc0RGqdog76enPnRVSotXOGREeb+3Fk16e/1Zei06yK05weSTYqMxWtXGLQuGMzQW5+kr2xeXtAykU2XTu62tcQVFn4/+0qvVm8d1ybsoEQ3A5NyztwmgkKaaQkR5zd+nSIttlLsm2DpSRCfZJ7VS6cTeqlMB9iHutkcCP3RK7I1xDtEN03PQzTI0Jw==;zISZID9PjrirDOz8blkP0Q=="

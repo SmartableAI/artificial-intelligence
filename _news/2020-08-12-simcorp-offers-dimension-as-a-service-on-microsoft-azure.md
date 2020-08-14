@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-12T17:50:00Z
 webUrl: "https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SimCorp announces new integration with Microsoft Azure"
+    excerpt: "The company stated that the development is expected to benefit SimCorp's clients with a cost-efficient public cloud solution and facilitate the delivery of buy-side on-demand functionality."
+    publishedDateTime: 2020-08-14T10:55:00Z
+    webUrl: "https://ibsintelligence.com/ibs-journal/ibs-news/simcorp-announces-new-integration-with-microsoft-azure/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 54
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/02/simcorp-logo.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "SimCorp launches Dimension platform as a service on Microsoft Azure cloud"
     excerpt: "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development."
     publishedDateTime: 2020-08-12T11:57:00Z

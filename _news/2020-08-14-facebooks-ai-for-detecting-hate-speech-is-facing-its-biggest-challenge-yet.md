@@ -5,7 +5,7 @@ excerpt: "Advancements in AI have dramatically improved the company’s ability 
 publishedDateTime: 2020-08-14T11:00:00Z
 webUrl: "https://www.fastcompany.com/90539275/facebooks-ai-for-detecting-hate-speech-is-facing-its-biggest-challenge-yet?partner=feedburner"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-deepfakes.jpg"
@@ -71,6 +72,6 @@ related:
         height: 720
         isCached: true
 
-secured: "dNZ6+f57By2EZqAb1xAFCh9BdC/0O3ZuOn34spsZhQisfTE3wXxZgQtPhgrwRG5YMzca+QfeLk0tM6X4PCiTIfsKWnWeMJAbOqkKjqnCb/cJ+B3U8swuzO7kvigO3YGuboJVpMnIh6LbusPp2HLVi+iAChnTPymMd3zM7PRSWJJe8Ml07308akFr/+sda3ZUEBkxJm1RPEc37wnaK34eFTRLZu607tzDqnPLmVfYJYTPGRX1cr0hGEKLOnM9Gm6g6Ijl061uQtrOcMZG9VjKhI4e4ly9ywQzej5DXsPGUcRQ2KCLPUDp0esEysIZIUY1px21FAbwPVmNS/Y0pODIrA==;/bsmve+IYBwTn1a1Sa63vA=="
+secured: "bB2fc+RRhlyrUmnHYdb7xXo3xr8h7u0nf5vl4HXb4BMAbOxS+1JbHVhYN3LKYjJvcK5ChiGpAajLdHE5q2VUOjLyB//5cyfCr2UUDfTmXzM1EtOiH42N6y8vGUhFUlwqpZBed5ZaR7EsX6vN0fVyAl8EcHSvgOtOunYxdME5QnEmV1ivG9nctokHwTE1U1PuDF8JlHsY6UtfNQX+fVFs9qcw6uvY8bo5abjEqSOmxLdNC+qAqlHNlsV959W6Pk8zswbAE9YWnSOf2aWXZ+oMfSh7ICrQBE+aTJXRoRy2OoheJz7bcAJEtK8de0OIpL75yAwrHmqTM3cVPijEIbYMLux7U2rgOO3wuw9ZG3o6ohvK+9wUxvpM3FaVEQhoH0K7NuW4ztC1H7+30b+BoZhTdCA6Y3SczVMmiU/KhgHVvcd/i/IO2F8/vq5v8yp0IBho+9t5lUMQ1SKqhyLSfXUKfGGfsnCUoZdqqOhIxnprvTSMK5OdwZ2+lDhP/cI0xvuVFgXRnH0UzBSLYa6xbYh+Hg==;wGt6HxsqW2zxK/Ylpw0ccA=="
 ---
 

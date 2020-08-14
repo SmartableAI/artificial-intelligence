@@ -37,6 +37,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Singapore unveils a $180 million investment to accelerate fintech development"
+    excerpt: "Singaporean financial regulator MAS unveils S$250M ($180M) investment over three years to accelerate financial services innovation and tech adoption."
+    publishedDateTime: 2020-08-14T13:19:00Z
+    webUrl: "https://www.businessinsider.com/singapore-announces-180-million-fintech-investment-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/5f368d92e89ebf001f04484c?width=1200&format=jpeg"
+        width: 665
+        height: 333
+        isCached: true
   - title: "MAS doubles down on fintech innovation support"
     excerpt: "The Monetary Authority of Singapore (MAS) today announced that it will commit S$250 million over the next three years under the enhanced Financial Sector Technology and Innovation Scheme (FSTI 2.0) to accelerate technology and innovation-driven growth in the financial sector."
     publishedDateTime: 2020-08-13T10:23:00Z

@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-shakes-up-the-race-for-self-drivingand-ride-hailing.md",
+      "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
+      "excerpt": "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef60bd7be64fa7887c43297/master/pass/Biz_Zoox_1215628120.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp",
+      "publishedDateTime": "2020-06-26T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public.md",
       "title": "Maker of Self-Driving Vehicle Sensors Said to Be in Talks to Go Public",
       "excerpt": "Velodyne creates radar-like systems for self-driving vehicles that use lasers ... Backers include Ford and Baidu Inc., the Chinese technology firm, which together invested $150 million in Velodyne ...",
@@ -1355,56 +1405,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-the-advantages-of-self-explainable-ai-over-interpretable-ai.md",
-      "title": "The advantages of self-explainable AI over interpretable AI",
-      "excerpt": "Would you trust an artificial intelligence algorithm that works eerily well, making accurate decisions 99.9% of the time, but is a mysterious black box? Every system fails every now and then, and when it does,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-7-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "The advantages of self-explainable AI over interpretable AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/amp/",
-      "publishedDateTime": "2020-06-19T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

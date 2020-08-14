@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-parks-182m-for-fi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-parks-182m-for-fintech-innovation-with-special-focus-on-ai/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Singapore unveils a $180 million investment to accelerate fintech development"
+    excerpt: "Singaporean financial regulator MAS unveils S$250M ($180M) investment over three years to accelerate financial services innovation and tech adoption."
+    publishedDateTime: 2020-08-14T13:19:00Z
+    webUrl: "https://www.businessinsider.com/singapore-announces-180-million-fintech-investment-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/5f368d92e89ebf001f04484c?width=1200&format=jpeg"
+        width: 665
+        height: 333
+        isCached: true
   - title: "Becoming A Smart Financial Centre: MAS Invests S$250M For Workforce, Innovation In Fintech"
     excerpt: "There is little doubt that the city state is rising in competitiveness in the financial technology (fintech) sphere, and government support for the sector has been increasing. Yesterday (August 13), the Monetary Authority of Singapore (MAS) announced that it will be committing S$250 million to enhance the Financial Sector Technology and Innovation Scheme (FSTI 2."
     publishedDateTime: 2020-08-14T06:49:00Z

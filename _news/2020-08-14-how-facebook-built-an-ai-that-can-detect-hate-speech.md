@@ -64,13 +64,13 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-deepfakes.jpg"
         width: 1280
         height: 720
         isCached: true
 
-secured: "fMaztEmiPHSCizWPOpUNxa32g6f8XdT7WrMt76svF/1Gx3ptZmMrM2s0I0oylsRqMpbPyqi1S6nPa+RJ233fMdjO1DItMzju0E6+LF82lLvUe6BZL3YlxJWpCuij4rF3Q+ICPpVIgFy+Ee0Rkwa0skQ0MhiT8L2JWTKy29lWINrtnu31g9JqinoLesrWvnyWlRvE0MzT7iz5FxjiYEzaW/9PmJriFZIdIlem9QeGODnJjXAIJ49JRPaRIyGbfktJiWXtJlodnKBi+Lc3RH8QFsFdMWRcwxbwhQglNp0raRfV/g+KHclPXRIT8uQui4TFGLsdFXErpFcjvPw7Snv8cg==;HW6pDKNedYww0MnQWAxhWQ=="
+secured: "Iyfs0cBGAvRQgmiwTxGydPYEhAOYe52m27X4dGlcKvGKIjnc4Mw5pfvMv7RVlI5Qnfrigsq5WUXJ3GgNwtFBFyBHPuKL9MAenyvgBHSYCoJZLweD7ywC4H4SEnNeYewuB5YgTrx98ypqiyyZ+6uyDYs5DEv4eaJPPna1YXjLgp8wlLPLwokGJ2RWRkKfolV9HlRZ1i1huWgfZkmz55mUjRGgmF1cDDos4RbFqqaaAf4M0VUEYLavqvEPn7mYbGrB5o5WGR9DSZrRUhXk7Lev92gGtzPyNN4vCByys2IbNQ7R+YWs5vxL1riFkJfYEu/aP6ps2gRdH8m/1En5MtNCVKiEWyPdnYzqYEL+ZjxuXnTOZ5CIFc2cgf7UYO3MO7beKMgD3fprn/sFOMsnr47feQyZ+W6uqR2OaYlJaFlkYH+NWAehdIMGnmFc19FRmuww2OMCM/Tk1gWPrbLUuv6hbGXK7svRgb8J9gEeDje372QO1zCfx0Ogrikc4i2eXbYdAj9DQK+JySh7fFidSNmjhw==;gxlWDd9KXESVlzT0Xs/65Q=="
 ---
 

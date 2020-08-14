@@ -2,6 +2,138 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-07-03-israeli-uae-technology-firms-pen-deal-on-virus-research.md",
+      "title": "Israeli, UAE technology firms pen deal on virus research",
+      "excerpt": "JERUSALEM (AP) — A state-linked technology company in the United Arab Emirates has signed a partnership with two major Israeli defense firms to research ways of combating the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgnradio.com/wp-content/uploads/sites/6/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "cdnAmpWebUrl": "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "publishedDateTime": "2020-07-03T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN Radio",
+        "domain": "wgnradio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-sea-trials-begin-for-artificial-intelligence-captain.md",
+      "title": "Sea Trials Begin for Artificial Intelligence \"Captain\"",
+      "excerpt": "IBM and marine research organization Promare have announced that a new artificial intelligence captain (AI Captain ... many of today's autonomous ships are really just automated - robots which do not dynamically adapt to new situations and rely heavily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.maritime-executive.com/article/sea-trials-begin-for-artificial-intelligence-captain",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.maritime-executive.com/media/images/article/Photos/Technology/mayflower-autonomous-ship.de1406.jpg",
+          "width": 643,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-03T00:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maritime Executive",
+        "domain": "maritime-executive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-driverless-car-market-study-2019-with-top-companies-technological-growth-future-demand-analysis-with-impact-of-covid-19-till-2027.md",
+      "title": "Driverless Car Market Study 2019 With Top Companies, Technological Growth, Future Demand Analysis With Impact of COVID-19 Till 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 03, 2020 (AmericaNewsHour) -- The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added a new market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-study-2019-with-top-companies-technological-growth-future-demand-analysis-with-impact-of-covid-19-till-2027-2020-07-03",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-robots-at-dubai-expo-2020-to-enrich-visitor-experience.md",
       "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
       "excerpt": "UAE - Terminus Technologies, a China-based leader in smart technologies such as artificial intelligence and robotics, has been named the Expo 2020 Dubai's latest Premier Partner and has signed a long-term lease at District 2020 as part of the innovation ...",
@@ -981,148 +1113,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work.md",
-      "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
-      "excerpt": "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/07/02/e10d0e71-25ac-478a-860a-296fb2b1a2e0/resize/1200x/fa952c92b39946fdcbc676d984647dc5/istock-1150345648.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
-      "publishedDateTime": "2020-07-02T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api.md",
-      "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
-      "excerpt": "The Raspberry Pi Foundation has announced it's bringing the OpenVX 1.3 API to Raspberry Pi devices to improve computer vision on the popular single-board computers. The new open and royalty-free API comes from the Khronos Group,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/02/6401a79a-c8f7-459b-a88d-9de3e85cfb53/openvx1.gif",
-          "width": 600,
-          "height": 371,
-          "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
-      "publishedDateTime": "2020-07-02T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-connecting-the-industrial-internet-of-things-with-smart-ai-objects.md",
-      "title": "Connecting The Industrial Internet Of Things With Smart AI Objects",
-      "excerpt": "John Clemons is a Consultant for Rockwell Automation and Maverick Technologies, a leading platform-independent automation solutions provider Smart manufacturing, Industry 4.0 and the industrial internet of things (IIoT) are discussed constantly in the manufacturing world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/",
-      "publishedDateTime": "2020-07-02T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
