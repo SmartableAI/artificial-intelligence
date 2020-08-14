@@ -1,19 +1,27 @@
 ---
 category: news
-title: "TCS a leader in Advanced Digital Workplace Services - NelsonHall"
-excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organisation, has been recognised as a Leader in the NelsonHall NEAT for Advanced Digital Workplace Services,"
-publishedDateTime: 2020-08-07T07:38:00Z
-webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716"
+title: "TCS a leader in advanced digital workplace services: NelsonHall"
+excerpt: "Tata Consultancy Services intellectual property, defined modern workplace offerings, and investments in TCS Pace Port and digital reimagination studios were cited as key strengths."
+publishedDateTime: 2020-08-07T12:01:00Z
+webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html"
 type: article
 
 provider:
-  name: Equity Bulls
-  domain: equitybulls.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Zh8nhEzIHwILubMjnntfUI4RaN4mr3XZFj1ReDg/0yzPnCOvigoZqewoAQs2/nK23DVRMDdLhQcI4LsRqZYm+mqbE8JdBJ4Czj1Q4ln/M1LjwrnrTzVZ+OJtznUc0UZcLSLUnbWnotSgkJa/AJ70R74Xr6Syd5NLNu0vQUB3vk5dA6asKx3IgX47QGWtNfxK6rHqygyqbR1i8kjGmqSXq7tmMmn26c1tEfBuMEpJfaA3czObYItmEqjCWJfecepl+LIgwJICEPupfq1mNnSN4E754oVESZU2GHW8BbMzJXjeJefIlVQidl/zIGu3YCp+5l0R+apO/VtJ3qeWhQemkw==;GEAP/imY6KNINv9miOhRmg=="
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg"
+    width: 350
+    height: 233
+    isCached: true
+
+secured: "FHuEQY/V55qjmsHYw/KbCvUkxAapAF/Yiqin22JWlvU7tIXxTfrr9cfvOcBrMOj3606ON2xlWyLzY7Y8ABPF7F3RLzZEWvvS4Mh6CydlbSnSJBp8vRAwjZWIdB4UG0Z5xfefXIHPJLbqaszIDQDMGqs8uPBUjdmOPmHkO+XQiPrdTzoCwY1fPJOyz12KovpiMcEIgbivmHXfIIMFv0+ZBwQ62gOTMAnFUmd2BjIVMwsDtJKCGh3fVy56wrtBOBPtEiWq5RvfHqlEz9JyJMc1M/U3cO8a4PgCAk1oqohliYag0IRV/fXmGdTC5/iW+6vx9vYkLQv3uylMWcur05aiFw==;NWuAwjNmJyxiF1l4QPnE+Q=="
 ---
 

@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-14-how-reuters-analysed-rite-aids-use-of-facial-recognition-technology.md",
+      "title": "How Reuters analysed Rite Aid's use of facial recognition technology",
+      "excerpt": "Reuters analysed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-riteaid-software-methodology-idUKKCN24T1GH",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527389975&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0QQ",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKCN24T1GH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN24T1GH",
+      "publishedDateTime": "2020-08-14T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems.md",
       "title": "Fawkes photo tool lets anyone secretly ‘poison’ facial recognition systems",
       "excerpt": "Unknown to the public, some companies are quietly downloading this content en masse and using it to create secret facial recognition models of the subjects…but there’s a solution, and it is called Fawkes. Facial recognition models are, quite obviously ...",
@@ -39,47 +89,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-vornado-will-install-facial-recognition-tech-in-all-its-buildings.md",
-      "title": "Vornado will install facial recognition tech in all its buildings",
-      "excerpt": "Vornado Realty Trust, which has operated face-reading systems at a handful of properties for the past five years, now plans to expand the technology across its entire portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://therealdeal.com/2020/08/11/vornado-will-install-facial-recognition-tech-in-all-its-buildings/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://therealdeal.com/wp-content/uploads/2020/08/493-Vornado-to-install-facial-recognition-technology-in-all-of-its-buildings.jpg",
-          "width": 691,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://therealdeal.com/2020/08/11/vornado-will-install-facial-recognition-tech-in-all-its-buildings/amp/",
-      "cdnAmpWebUrl": "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2020/08/11/vornado-will-install-facial-recognition-tech-in-all-its-buildings/amp/",
-      "publishedDateTime": "2020-08-11T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Real Deal",
-        "domain": "therealdeal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -200,7 +209,7 @@
       "webUrl": "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -243,18 +252,18 @@
       ]
     },
     {
-      "path": "_news/2020-08-11-facial-recognition-use-by-south-wales-police-ruled-unlawful.md",
-      "title": "Facial recognition use by South Wales Police ruled unlawful",
-      "excerpt": "Image caption Ed Bridges has had his image captured twice by AFR technology, which he said breached his human rights The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful,",
+      "path": "_news/2020-08-11-facial-recognition-use-by-south-wales-police-unlawful.md",
+      "title": "Facial recognition use by South Wales Police 'unlawful'",
+      "excerpt": "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-53734716?at_medium=custom7&at_custom4=3D2C0040-DBB6-11EA-8C59-B1D74744363C&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64",
+      "webUrl": "https://www.bbc.com/news/uk-wales-53734716",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 389,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1E77/production/_113899770_mediaitem113899769.jpg",
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg",
           "width": 1024,
           "height": 576,
           "title": null,
@@ -265,7 +274,7 @@
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/amp/uk-wales-53734716",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716",
-      "publishedDateTime": "2020-08-11T04:16:00-07:00",
+      "publishedDateTime": "2020-08-11T02:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -351,7 +360,7 @@
       "webUrl": "https://venturebeat.com/2020/08/10/michigan-university-study-advocates-ban-of-facial-recognition-in-schools/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {

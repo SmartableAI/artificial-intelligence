@@ -7,9 +7,9 @@ webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID
 ampWebUrl: "https://mobile.engineering.com/amp/20591.html"
 cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20591.html"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: Engineering
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.engineering.com/portals/0/BlogFiles/drones.png"
@@ -25,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "tEWGZ/iLBouBqFRaRl8bQSIs75qel38UbXtS2zYG8Mwdd78v37vtlq32VJv7go0pM8J1KQ47aE5vI9C8NBDc141YxU1vRNHFsndtr08fNq2PlZscrBzhwZRJmLhYo+MLUAFbtiqKNRDLzuWHY1mbMWF1Opm/Fp4Jt/vD1mXWVoQk28z40bg54zng6bzGNa/FAgh9mJlOPw3kuyw82aINGMOxeJLOthoVv/bspiz/crmF3A2RgKiAwk2Uq7q0V1gSrNjV7l4g2yo8fl6pvHtJw2XWr1BSwonDkjLJfwuWUuMo/HbSMA1PyPX4Pbei23FzdampZpPcyB+MlBlnVoDfCw==;vga1sNO4bgmJsTpF+yNndw=="
+secured: "Epu9EsaNH6wtOw3DhItBU6ROb2ASypmiyw049Z9XtKsPYDvwerlUHfEtVF9xj+gMp0u4UccgDF+wBjEY6PYhTvyvsogVL5pwhwK9PWezvj8asjUTJBMEM7y0Wkz24MzfCUHd7KqDOcSpOOSJP4Zvsc85Jc0Fz6HLY3k/yJkUiYjBptkCbpkDdNowMo7DSk5705e5teckZUJ0zCpPRD54Ef2dT5JcFHLB9Vp4Y2XOw4wM4l3YhD165HMZ0uZRXmPjm0smugcBrScdRUpTmObBtR3HIIIhpC+FRMJoOY7cKY6V4erIOiPvTacyYrqoooEfNKeip5JmXFp1/4MPKIWf56x/ciTlO3ASOx2R3QP7b3LCoA8sxPsH1AFq/8hEP5DQrABE0xcbunfackM4dOJ6ujUhpUueWqWUELMmx7sKRUFAc+178vpeRdWtYGFp4OVMtAAAJcDN/revc80X5ZW09r56dIHZvbAF9pwS9VefOV83VmAQ3OrBcqMA+assz72y;cYCeRRNOzdYsBBtA4twArw=="
 ---
 

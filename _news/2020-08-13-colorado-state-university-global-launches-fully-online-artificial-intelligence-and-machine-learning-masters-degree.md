@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Colorado State University Global Launches Fully Online Artificial Intelligence and Machine Learning Master's Degree"
-excerpt: "This new degree program will allow students to gain a detailed understanding of software development, artificial intelligence, and machine learning principles, and how they can be used to create a deeper critical analysis."
-publishedDateTime: 2020-08-13T21:30:00Z
-webUrl: "https://www.finanzen.ch/nachrichten/aktien/colorado-state-university-global-launches-fully-online-artificial-intelligence-and-machine-learning-masters-degree-1029503135"
+excerpt: "Colorado State University Global (CSU Global) -- a premier provider of innovative higher-learning opportunities through high-quality, career-relevant, and affordable online education -- is proud to announce its new Artificial Intelligence (AI) and Machine Learning (ML) master's degree."
+publishedDateTime: 2020-08-13T21:43:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/colorado-state-university-global-launches-fully-online-artificial-intelligence-and-machine-learning-master-s-degree-1029503135"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/colorado-state-university-global-launches-fully-online-artificial-intelligence-and-machine-learning-master-s-degree-1029503135"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/colorado-state-university-global-launches-fully-online-artificial-intelligence-and-machine-learning-master-s-degree-1029503135"
 type: article
-quality: 12
-heat: 12
+quality: 62
+heat: 62
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.ch
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "jdWdvzgIJSuCglsZWl3SKfUc5/abb7WSDzy647xG8X+sJWnL3hStllUp100B0Y2LXkA10aeIE9fteKcsS+7zVZdNlwzMz0O7Lphw6IaB3TuNIaULNgBvogV43G+/qmVvxO7CeUJsT/daGIlweynjzSz6MYJuuWDvkVwiBHpoiNUagDbSyS00si7koCR714lBxpFNsDJO8Hl8Mfzw2BIfqXCFxo060bWP+4ycGNYq4bGD9SC2DHdBW9jahl8VOIGOT/8Jfc6YvbLHOtTtB0kkwXFYLTgdrBoEex2KNByK+7QV3Ou4/QG7dTnHk/5A9bBHmg9WQ8Z9473/eDoD/JrgBw==;EpyTuzKptvGoi3K09+708A=="
+secured: "RKVaof5sT7RLcnyYxq/ff0isU1+JxWFwzfWR6azCZsWxGgjZ+FRManR9B1F8s4WnGaTqRT4anPbVTWOtAOvirQL7xd+TpxgVybimGtL2kmZj55Ft+koJOO1sraJETSftB9bsvEmDnGMdtiVMyX1Bl1qq3cmyJmfk0bOk0SAWZSp8HWRXvpQ1DITHAac8VpiWixEfV8x3DVY5Z33RxANKDBCjIEJMhbm4PWNoJqOWhdIUp544CDec6I9jYyfRsLwRDoFSpSJnc2oiDZqOK6bk+8E64ZeeOtjPKi7UHbEMJs7kYCPbSaK3YST5pzUY7Wkag4ssVYVl/vFHiV18rSX/cQ==;Ntdn+qiTh2BAf4l/ClFZxg=="
 ---
 

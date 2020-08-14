@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Military Market 2020-2024 / Global Industry Trends, Share, Size and Forecast Report"
+    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
+    publishedDateTime: 2020-08-14T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2020-2024-global-industry-trends-share-size-and-forecast-report-2020-08-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Computer Vision Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
     excerpt: "According to the latest report titled Global Computer Vision Market 2020 by Company, Type and Application, Forecast to 2025 by MarketsandResearch.biz, the global market will accumulate steady income in the forecast period from 2020 to 2025."
     publishedDateTime: 2020-08-10T21:51:00Z

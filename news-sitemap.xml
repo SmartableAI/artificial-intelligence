@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence-2020-08-13</loc>
+    <lastmod>2020-08-14T02:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.entrepreneur.com/article/354749</loc>
     <lastmod>2020-08-14T00:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/uk-usa-riteaid-software-methodology-idUKKCN24T1GH</loc>
+    <lastmod>2020-08-14T00:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -265,6 +277,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20591/Caltech-Engineers-Use-Machine-Learning-to-Help-Robots-Get-Along.aspx</loc>
+    <lastmod>2020-08-12T07:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/12/ai-startup-steps-in-to-unlock-the-puzzle-of-infertility-with-machine-learning/</loc>
     <lastmod>2020-08-12T07:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -345,12 +363,6 @@
   <url>
     <loc>https://www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/</loc>
     <lastmod>2020-08-11T10:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://therealdeal.com/2020/08/11/vornado-will-install-facial-recognition-tech-in-all-its-buildings/</loc>
-    <lastmod>2020-08-11T09:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -439,12 +451,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/uk-wales-53734716?at_medium=custom7&amp;at_custom4=3D2C0040-DBB6-11EA-8C59-B1D74744363C&amp;at_custom2=twitter&amp;at_custom1=%255Bpost+type%255D&amp;at_campaign=64</loc>
-    <lastmod>2020-08-11T04:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/</loc>
     <lastmod>2020-08-11T03:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -453,6 +459,12 @@
   <url>
     <loc>https://www.mid-day.com/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234</loc>
     <lastmod>2020-08-11T02:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/uk-wales-53734716</loc>
+    <lastmod>2020-08-11T02:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -793,6 +805,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html</loc>
+    <lastmod>2020-08-07T05:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/</loc>
     <lastmod>2020-08-07T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -813,12 +831,6 @@
   <url>
     <loc>https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update</loc>
     <lastmod>2020-08-07T02:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716</loc>
-    <lastmod>2020-08-07T00:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2155,6 +2167,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200730005924/en/</loc>
+    <lastmod>2020-07-29T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.medindia.net/health-press-release/Greenway-Health-Works-with-AWS-to-Further-Meet-Needs-of-Ambulatory-Care-Providers-in-a-Post-COVID-Healthcare-Environment--479970-1.htm</loc>
     <lastmod>2020-07-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2583,6 +2601,12 @@
   <url>
     <loc>https://www.electronicdesign.com/industrial-automation/article/21137620/digital-dev-boards-reach-the-zenith-of-sophistication-and-application</loc>
     <lastmod>2020-07-28T07:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesswire.com/news/home/20200728005637/en/Global-Autonomous-Data-Platform-Markets-2020-2025--</loc>
+    <lastmod>2020-07-28T07:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3031,7 +3055,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
     <lastmod>2020-07-26T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

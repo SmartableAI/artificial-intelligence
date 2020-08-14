@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
 type: article
 quality: 89
-heat: 389
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -30,37 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition use by South Wales Police 'unlawful'"
-    excerpt: "The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful, the Court of Appeal has ruled. It follows a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-    publishedDateTime: 2020-08-11T09:31:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53734716"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
+  - title: "How Reuters analysed Rite Aid's use of facial recognition technology"
+    excerpt: "Reuters analysed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020."
+    publishedDateTime: 2020-08-14T07:13:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-riteaid-software-methodology-idUKKCN24T1GH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN24T1GH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN24T1GH"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 104
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Facial recognition: What led Ed Bridges to take on South Wales Police?"
-    excerpt: "\"I didn't wake up one morning and think, you know what I really want to take my local police force to court,\" he said. \"It wasn't the case that I had planned to get particularly involved in, but it developed organically."
-    publishedDateTime: 2020-08-11T16:15:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53742099"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53742099"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53742099"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
-        width: 1024
-        height: 576
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527389975&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0QQ"
+        width: 816
+        height: 545
         isCached: true
   - title: "UK court rules police facial recognition trials violate privacy laws"
     excerpt: "Facial recognition is unreliable, dystopian and, according to a British court, incompatible with privacy and data protection legislation."
@@ -158,22 +142,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Police Facial Recognition Use Unlawful—U.K. Court Of Appeal Makes Landmark Ruling"
-    excerpt: "Privacy rights and data protection breaches cited alongside an inability to verify no bias on the grounds of race or sex, as the U.K. Court of Appeal rules law enforcement facial recognition usage unlawful."
-    publishedDateTime: 2020-08-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/"
-    ampWebUrl: "https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33c790032d66b3ff669e61%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Police use of facial recognition violates human rights, UK court rules"
     excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."
     publishedDateTime: 2020-08-11T21:08:00Z
@@ -204,22 +172,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "South Wales police lose landmark facial recognition case"
-    excerpt: "Court rules use of technology broke equalities law and breached privacy rights"
-    publishedDateTime: 2020-08-11T12:49:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case?CMP=twt_gu"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_89_6085_3651/master/6085.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2b27eccfd11bd2695aad1201de765a8"
-        width: 600
-        height: 360
-        isCached: true
   - title: "UK Police Use of Facial Recognition Ruled Unlawful"
     excerpt: "The use of facial recognition technology by a British police force was ruled unlawful on Tuesday by the Court of Appeal in a case brought by a civil rights campaigner."
     publishedDateTime: 2020-08-11T15:19:00Z
@@ -249,6 +201,20 @@ related:
     quality: 59
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/uk-facial-recognition-5.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Dodgers Stadium Future Includes Contactless Tech, More Analytics And Eventual Facial Recognition"
+    excerpt: "The technological infrastructure now backing Dodgers Stadium in Los Angeles sets up one of the most followed Major League Baseball franchises to deliver a new in-venue experience for fans when they return to the building."
+    publishedDateTime: 2020-08-13T02:21:00Z
+    webUrl: "https://www.forbes.com/sites/timnewcomb/2020/08/12/dodgers-focusing-on-stadium-future-with-contactless-tech-analytics-for-all-and-eventual-facial-recognition/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 56
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32f14e0edd2210efb965fc%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -284,6 +250,20 @@ related:
         width: 1024
         height: 718
         isCached: true
+  - title: "Dodgers Focusing On Stadium Future With Contactless Tech, Analytics For All And Eventual Facial Recognition"
+    excerpt: "The technological infrastructure now backing Dodgers Stadium in Los Angeles sets up one of the most followed Major League Baseball franchises to deliver a new in-venue experience for fans when they return to the building."
+    publishedDateTime: 2020-08-12T15:23:00Z
+    webUrl: "https://www.forbes.com/sites/timnewcomb/2020/08/12/dodgers-focusing-on-stadium-future-with-contactless-tech-analytics-for-all-and-eventual-facial-recognition/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 51
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32f14e0edd2210efb965fc%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Campaigner ‘delighted’ at Court of Appeal facial recognition technology ruling"
     excerpt: "A civil rights campaigner has expressed his delight after the Court of Appeal ruled police use of facial recognition technology interfered with privacy rights and data protection"
     publishedDateTime: 2020-08-11T13:15:00Z
@@ -314,36 +294,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "UK court says face recognition violates human rights"
-    excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
-    publishedDateTime: 2020-08-11T15:40:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 44
-    images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
-        isCached: true
-  - title: "Court Says Face Recognition Violates Human Rights"
-    excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
-    publishedDateTime: 2020-08-11T15:13:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21159906/court-says-face-recognition-violates-human-rights"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://p1-cms-assets.imgix.net/files/base/indm/multi/image/2020/08/16x9/AP20015517325497.5e2b14aa31328.5f32b39b78dec.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "Is police use of face recognition now illegal in the UK?"
     excerpt: "The UK Court of Appeal has determined that the use of a face-recognition system by South Wales Police was “unlawful”, which could have ramifications for the widespread use of such technology across th"
     publishedDateTime: 2020-08-11T13:24:00Z
@@ -358,19 +308,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Police force violated human rights with face recognition cameras"
-    excerpt: "A police force’s use of facial recognition technology was a violation of human rights, according to a landmark legal ruling.The Court of Appeal ruled that South Wales Police violated rights and failed"
-    publishedDateTime: 2020-08-11T11:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/police-force-violated-human-rights-with-face-recognition-cameras-dms6mg3mc"
+  - title: "GAO: Some Facial Recognition Technology Could Lead to Misidentification"
+    excerpt: "Market research and other data suggest that the market for facial recognition technology has increased in the number and types of businesses that use it since a Government Accountability Office (GAO) report on the topic in 2015."
+    publishedDateTime: 2020-08-12T13:35:00Z
+    webUrl: "https://www.hstoday.us/industry/gao-some-facial-recognition-technology-could-lead-to-misidentification/"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
+      name: Homeland Security Today
+      domain: hstoday.us
     quality: 39
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F20e91628-dbbd-11ea-9bd5-8c0b68caf23e.jpg?crop=3499%2C1968%2C0%2C182&resize=685"
-        width: 685
-        height: 385
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/03/face-detection-4760361_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Police use of facial recognition found ‘unlawful’ in court"
     excerpt: "In a landmark decision the Court of Appeal has ruled that South Wales Police’s facial recognition deployments breached human rights and data protection laws"
@@ -425,36 +375,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "South Wales Police's use of facial recognition cameras in Cardiff was unlawful - live updates as Court of Appeal delivers verdict"
-    excerpt: "Ed Bridges brought legal action at the High Court after claiming his face was scanned while doing shopping in the city centre"
-    publishedDateTime: 2020-08-11T10:30:00Z
-    webUrl: "https://www.walesonline.co.uk/news/wales-news/police-facial-recognition-cameras-cardiff-18749390"
-    ampWebUrl: "https://www.walesonline.co.uk/news/wales-news/police-facial-recognition-cameras-cardiff-18749390.amp"
-    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/wales-news/police-facial-recognition-cameras-cardiff-18749390.amp"
-    type: article
-    provider:
-      name: Wales Online
-      domain: walesonline.co.uk
-    quality: 30
-    images:
-      - url: "https://i2-prod.walesonline.co.uk/incoming/article17202824.ece/ALTERNATES/s615/0_WNS_210519_Facial_Recognition_Court_Case_07JPG.jpg"
-        width: 615
-        height: 409
-        isCached: true
-  - title: "Live biometric facial recognition use by South Wales Police ruled unlawful by appeals court"
-    excerpt: "The use of facial biometrics for automatic public identification by South Wales Police has been declared unlawful by the UK Court of Appeal, which agreed with the plaintiff on three of five points"
-    publishedDateTime: 2020-08-11T18:34:00Z
-    webUrl: "https://www.biometricupdate.com/202008/live-biometric-facial-recognition-use-by-south-wales-police-ruled-unlawful-by-appeals-court"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/17123440/south-wales-police-facial-recognition-vehicles.jpg"
-        width: 750
-        height: 430
-        isCached: true
   - title: "UK appeals court: police facial recognition technology violates human rights, data protection laws"
     excerpt: "Britain's Court of Appeals held Tuesday that the South Wales Police Force's use of facial recognition technology violates human rights and data protection laws. The South Wales Police Force (SWP)"
     publishedDateTime: 2020-08-12T16:53:00Z
@@ -479,6 +399,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 19
 
-secured: "RyWSSCuLi3Xk95k3K/uWPnoy/zWxoeW7hS3OhqU2X3KAKPpJBSHcKsie2FVjD4PD3AkA9ALjnryrxDgyYUc6OCgLnctKb1aKGqf0NinIw715TVefUbCUJAIqrbwRb6osVUOZc1PbmpakNF1hHn3DKuhRoPtMtx+3jFDIndNqcOauK1kc/OSMQR1IMkWFNt87ccmwTYF9gL+4WRQAh9SvUnHqmeNeFHrFxpISQJJLtLx9rXgXj5kIzPdi1WHJZMxBp1Cp6HUWgBuBWzN2wQhIkxAvcewT9jFQwmFG6esKSvcXEy1HmlHyMj9iNuWaxxZGRcIlppZJrh60Qa/7fh28Kw==;I1gSrG8O/pxga9vQJ47SQA=="
+secured: "s87OMWIvy/XJgMhXdsGhMORi1EHxitVgdQRLpakzxlXJAi6zMlR/f//VCY9R+nXw+0CyIAU7eaBMSHOzGcRo80yod5wCxflLrlhozsLi0FBV/2pF9lKJmHPTQl4IxMtTROQRjcOoJYtOXFSw0vyESYdmB5t7nJrdXDWdGLQWHm/MrFwzaWE5PpbWug0bwBF5BmmM4l1wws18Tn3pNG89lXaj3XklpHdQwNEeAmiiJEu4qnZRDZRu52rwjzz3t8SJCRe5/sUZMysyAaGPMKNR5mPiNjikLZ0W1uZx2Mv9ZG1DT3+geR1sUapWRExLtBbjuyoPcdSdOvwp/99iyD0S/vM4A5EckBnSFyJ8yI/mwLVzs4roJN+r19Pky7tOFgmfeyeD3KtUN0mqr6G3EEGfMc5Zx7twjeIdDRflcAyJzrQac/2JkwKvxrGagCmQZ+Hsi+jehT5sRKoOUIUaNTyMhv3yorHHL3LglweiolTHmG202xZw8KnSTwRUpWCLLh1k;1L3VMSQJ3wumQRwwurGDCQ=="
 ---
 

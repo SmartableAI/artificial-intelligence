@@ -2,6 +2,198 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2020-06-23-mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024.md",
+      "title": "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024",
+      "excerpt": "Mercedes will use a full NVIDIA software and hardware system for their vehicles to power self-driving, with the first cars hitting the road in 2024. The system will be based on NVIDIA’s Orin chip, which they claim outperforms Tesla’s FSD computer by ~38%.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 350,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/sm_20C0302_04.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/amp/",
+      "publishedDateTime": "2020-06-23T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures.md",
+      "title": "Letter decrying predictive criminality AI research paper passes 1,000 signatures",
+      "excerpt": "In response to a research paper that claims to predict criminality from people's faces, hundreds demand its withdrawal from publication.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_135205.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 688,
+          "title": "Letter decrying predictive criminality AI research paper passes 1,000 signatures",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/amp/",
+      "publishedDateTime": "2020-06-23T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services.md",
+      "title": "HPE moves closer to everything-as-a-service with Ezmeral and expanded GreenLake cloud services",
+      "excerpt": "HPE's new products take into account the current tight financial times with an emphasis on using existing infrastructure and limiting additional costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/23/41556b91-92f7-4142-8488-1d39ecd6cc09/resize/1200x/0567b58d92c7016516f9b60f8ff693bf/hpe-exmeral.jpg",
+          "width": 1200,
+          "height": 603,
+          "title": "HPE moves closer to everything-as-a-service with Ezmeral and expanded GreenLake cloud services",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
+      "publishedDateTime": "2020-06-23T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-qualcomm-puts-ai-and-5g-in-the-hands-of-robotics-designers.md",
+      "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
+      "excerpt": "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.allaboutcircuits.com/news/qualcomm-puts-ai-5g-in-hands-robotics-designers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/RB5_Platform.jpg",
+          "width": 700,
+          "height": 301,
+          "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-chinas-didi-aims-for-1-million-robotaxis-on-its-platform-by-2030.md",
       "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
       "excerpt": "China's ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030, an executive said on Tuesday.",
@@ -990,170 +1182,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-hewlett-packard-enterprise-helps-customers-accelerate-transformation-with-breakthrough-hpe-greenlake-cloud-services.md",
-      "title": "Hewlett Packard Enterprise Helps Customers Accelerate Transformation with Breakthrough HPE GreenLake Cloud Services",
-      "excerpt": "Cloud services for Machine Learning Operations – Through HPE GreenLake ... HPE Ezmeral software portfolio, and backing from HPE Financial Services and HPE Pointnext Technology Services provide a differentiated solution that competitors cannot match.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/hewlett-packard-enterprise-helps-customers-accelerate-transformation-with",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-lyft-details-how-its-going-to-make-self-driving-cars-safer.md",
-      "title": "Lyft details how it's going to make self-driving cars safer",
-      "excerpt": "Lyft’s self-driving team called Level 5 has published its first ever Voluntary Safety Self-Assessment (VSSA) report (PDF), giving us a glimpse of how it plans to make sure that its autonomous vehicles are safe to use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F71f7b8b0-b52c-11ea-bfde-95534e1b930b&client=amp-blogside-v2&signature=7aea62f88da4d147a2e9b5531fd0e4915575118a",
-          "width": 600,
-          "height": 350,
-          "title": "Lyft details how it's going to make self-driving cars safer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "publishedDateTime": "2020-06-23T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-microsoft-to-acquire-cyberx-to-bolster-azure-iot-security.md",
-      "title": "Microsoft to acquire CyberX to bolster Azure IoT security",
-      "excerpt": "Microsoft has announced it will purchase the industrially focused network security vendor CyberX for an undisclosed sum in an effort to bolster the security capabilities of its Azure IoT platform. The acquisition strikes at the heart of two key IIoT security pain points.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techcentral.ie/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2016/03/IOT_2016.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft to acquire CyberX to bolster Azure IoT security",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-formula-1-and-aws-use-70-years-of-historical-race-data-for-new-performance-stats.md",
-      "title": "Formula 1 and AWS Use 70 years of Historical Race Data For New Performance Stats",
-      "excerpt": "Formula One Group (F1) is introducing six new, real-time racing statistics that will roll out through the 2020 season, beginning with the launch of “Car Performance Scores” at the season-opening Grand Prix in Spielberg,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/formula-1-and-aws-use-70-years-of-historical-race-data-for-new-driver-performance-stats/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/F1.jpg",
-          "width": 2048,
-          "height": 1152,
-          "title": "Formula 1 and AWS Use 70 years of Historical Race Data For New Performance Stats",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T03:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
