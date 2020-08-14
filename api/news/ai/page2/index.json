@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-13-microsoft-trains-ai-agents-for-more-realistic-gaming.md",
+      "title": "Microsoft trains AI agents for more realistic gaming",
+      "excerpt": "Microsoft's Project Padia is all about teaching AI agents to enhance your gaming experience. This time, they ar teaching NPC to cooperate with humans.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/microsoft-artificial-intelligence-gaming/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/08/Microsoft-trains-AI-agents-for-more-realistic-gaming.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/microsoft-artificial-intelligence-gaming/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-artificial-intelligence-gaming/?amp",
+      "publishedDateTime": "2020-08-13T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel.md",
+      "title": "Artificial Intelligence (AI) Market in BFSI Sector Market to Watch: Spotlight on IBM, AWS, Microsoft, Intel",
+      "excerpt": "An extensive elaboration of the COVID-19 Outbreak-Global Artificial Intelligence (AI) market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel-2020-08-13",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025.md",
       "title": "Machine Learning as a Service (MLaaS) Market Size to Witness Huge Growth by 2025",
       "excerpt": "Growth forecast report \" Machine Learning as a Service (MLaaS) Market size by Product Type (Special Service and Management Services), By Application (Banking, Financial Services, Insurance, Automobile,",
@@ -1342,105 +1433,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-seattle-based-threat-response-startup-stabilitas-acquired-by-onsolve.md",
-      "title": "Seattle-based threat response startup Stabilitas acquired by OnSolve",
-      "excerpt": "Critical event management company OnSolve today announced the acquisition of Stabilitas, a 7-year-old Seattle startup that sells threat response software. Stabilitas combines crowdsourced",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/11/5ada3a2ffcceb96958cf2d96_Screen20Shot202017-09-2120at2017.41.18-p-500-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/amp/",
-      "publishedDateTime": "2020-08-11T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020.md",
-      "title": "Argo AI co-founder and CEO Bryan Salesky joins us at TC Sessions: Mobility 2020",
-      "excerpt": "Mobility on October 6 & 7 will be a fantastic opportunity to find out all the latest on advancements in autonomy, micro-mobility, transportation AI and much more. Argo AI co-founder and CEO Bryan Salesky is among the best-positioned people in the world to speak",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Bryan-Salesky_portrait.jpg?w=1024",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/amp/",
-      "publishedDateTime": "2020-08-11T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

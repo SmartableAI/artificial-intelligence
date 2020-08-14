@@ -1,46 +1,27 @@
 ---
 category: news
 title: "Chinese 'robotaxis' take riders for a spin"
-excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
-publishedDateTime: 2020-08-09T19:58:00Z
-webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
+excerpt: "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country."
+publishedDateTime: 2020-08-09T07:00:00Z
+webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
 type: article
-quality: 24
-heat: -1
-published: false
 
 provider:
-  name: Euronews
-  domain: euronews.com
+  name: Gulf News
+  domain: gulfnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
-    width: 1000
+  - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
+    width: 750
     height: 563
     isCached: true
 
-related:
-  - title: "Road test: Chinese 'robotaxis' take riders for a spin"
-    excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. \"What we are trying to solve is the last ..."
-    publishedDateTime: 2020-08-10T05:12:00Z
-    webUrl: "https://www.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
-    ampWebUrl: "https://amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/road-test-chinese-robotaxis-take-riders-spin-1681770"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 44
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1683802/chinese-robotaxis-take-riders-spin.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-
-secured: "Efl50Pu63kT9KzD0oP3e1ulUJBM0Kg8P3dnJyfLMTdXRtP1tJ3ty48m973x6gKn0c02KjC1xKDDCEctqlIbnJDCLffeWAIjzZpFBwhUeHTgoOjLmhDSoxyEXiwH3wcsb0ln+1jOINbGhxhyeF52pA6kpoyH78SskYhWpXRiBmXLZ59oHgH1NRUbb9qv35RU+ozboKWhcxa5hOD+SM69IKdjYXzJ+RH9Ajy7Eu9RZnF4MwavB/zXrTIAwcewiXT0ZrFA8xvjvCM/HMb44FbsTSEbIEIqnW9vqePEI0BcOz2QpDlbdRmpKl+Sw8lV0+e6yRk6FSISN6Iw4JtwdBARD+A==;kc712EfjktkQihGWxQ4uDw=="
+secured: "JJ9TX87qq0L0vaZnfht8WXcV2RZLcjoQSnbPK49HF1cpiYGTaexyCG4PdFL+3PnOummR2/snDtBppPCzxIFBb8gpTmQYFb/9Tp1ZaJdYJwY2VCHcvfI3myktRVm440Eg19BFNFYqD/WME2JEJFoqwZK2mwWhn3Ns5FHlai/ocbzxCjAzch4Ig/jxy40qRRSXUZWIncaFPwtuIUMsbuBCkaUv42Zg+BtJGNg/Elur09CSLvpFUvvpCBaO7XchGtVZZVFeuAwDSFPPsOd+1QAM7Rx3522+0NZQ4dk6C5KE1bNMMibWxrt+qF5mHhk1QLoSnnUkj/W1BtqYcv5zeQ7yEA==;YxYSpeecZYxpJVfQR9FOww=="
 ---
 

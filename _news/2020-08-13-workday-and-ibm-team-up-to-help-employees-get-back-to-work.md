@@ -25,16 +25,16 @@ images:
 
 related:
   - title: "Workday and IBM Expand Partnership to Help Customers Plan Return to the Workplace"
-    excerpt: "PLEASANTON, Calif. and ARMONK, N.Y., Aug. 12, 2020 /PRNewswire/ -- Workday (NASDAQ: WDAY) and IBM (NYSE: IBM) today announced an expanded partnership and the availability of a joint solution to"
-    publishedDateTime: 2020-08-12T13:49:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace/article_22a426eb-bdaa-5e06-913e-20b4ebdbf287.html"
+    excerpt: "AI Applications, IBM Cloud and Cognitive Software. \"By partnering with Workday on a joint solution, we're extending the capabilities delivered by Watson Works to help customers gain greater ..."
+    publishedDateTime: 2020-08-12T23:15:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200812ny89611/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 19
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/da/dda7e99f-e470-54a0-afec-a29238bbefca/5f33ef74152fa.image.jpg?resize=400%2C209"
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
         width: 400
         height: 209
         isCached: true

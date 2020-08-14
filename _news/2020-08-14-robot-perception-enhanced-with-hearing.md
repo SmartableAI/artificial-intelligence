@@ -23,6 +23,22 @@ images:
     height: 568
     isCached: true
 
+related:
+  - title: "Sounds of action: Using ears, not just eyes, improves robot perception"
+    excerpt: "People rarely use just one sense to understand the world, but robots usually only rely on vision and, increasingly, touch. Carnegie Mellon University researchers find that robot perception could improve markedly by adding another sense: hearing."
+    publishedDateTime: 2020-08-14T04:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/cmu-soa081320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/240227_web.jpg"
+        width: 640
+        height: 360
+        isCached: true
+
 secured: "kyfT+pgvQlquAxDedIuPssRzAYhdlgk58wWZeb7m4HqMEyjkOtb/nYdESUD1gEO/AUUJdiODDaH4yEXsAnUvmd2/JhotSKfYp3tmqrGwHTlfU0hTB+jq/yjzEbS6wudULtGUr0GG8CyRFs4jCueRMJqUEpyl8gWZsTzBFCZPC+BPqtwLFNmvlghpWdmuiQbLgcfjaJ6YJw1JOYOMJtMW+U6ZOljEL0vAVBuPxMiMOspvJMq72exTGyVs/mFL32wl97ATlRutIbanDvfWzME++1D49W+rrFpCziOBy1Tfxi2egV3pU9Z9gchzAjOfU3UY7AEzICGKUxmi0Z6lgYxT7Q==;lEYrWoQGqqBC1GRD1EFvdg=="
 ---
 

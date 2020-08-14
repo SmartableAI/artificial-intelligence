@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/</loc>
+    <lastmod>2020-08-14T04:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence-2020-08-13</loc>
     <lastmod>2020-08-14T02:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -159,6 +165,12 @@
   <url>
     <loc>https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.html</loc>
     <lastmod>2020-08-13T03:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.itweb.co.za/content/Olx4zMknpRo756km</loc>
+    <lastmod>2020-08-13T01:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -691,6 +703,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381</loc>
+    <lastmod>2020-08-09T00:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.milforddailynews.com/news/20200808/column-reason-were-afraid-of-robots</loc>
     <lastmod>2020-08-08T16:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -705,6 +723,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/08/before-we-put-100-billion-into-ai/</loc>
     <lastmod>2020-08-08T10:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/index.html</loc>
+    <lastmod>2020-08-08T08:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -805,12 +829,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html</loc>
-    <lastmod>2020-08-07T05:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/</loc>
     <lastmod>2020-08-07T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -831,6 +849,12 @@
   <url>
     <loc>https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update</loc>
     <lastmod>2020-08-07T02:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716</loc>
+    <lastmod>2020-08-07T00:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1117,7 +1141,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05?dist=bigcharts&amp;tesla=y</loc>
     <lastmod>2020-08-05T06:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1477,12 +1501,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
-    <lastmod>2020-08-03T19:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html</loc>
     <lastmod>2020-08-03T19:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1491,6 +1509,12 @@
   <url>
     <loc>https://www.bignewsnetwork.com/news/265983784/artificial-intelligence-ai-in-healthcare-market-next-big-thing--major-giants-intel-nvidia-google</loc>
     <lastmod>2020-08-03T19:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
+    <lastmod>2020-08-03T17:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2941,8 +2965,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
-    <lastmod>2020-07-27T05:30:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-1029433275</loc>
+    <lastmod>2020-07-27T05:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3265,8 +3289,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html</loc>
-    <lastmod>2020-07-24T06:05:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765</loc>
+    <lastmod>2020-07-24T06:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

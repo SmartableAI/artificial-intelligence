@@ -41,6 +41,34 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "How Facebook built an AI that can detect hate speech"
+    excerpt: "Advancements in AI have dramatically improved the company’s ability to identify written hate speech. But when it comes to rooting out hateful images, videos, and memes, Facebook’s AI has a long way to go."
+    publishedDateTime: 2020-08-14T11:00:00Z
+    webUrl: "https://www.fastcompany.com/90539275/facebooks-ai-for-detecting-hate-speech-is-facing-its-biggest-challenge-yet"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-deepfakes.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Facebook’s AI for detecting hate speech is facing its biggest challenge yet"
+    excerpt: "Advancements in AI have dramatically improved the company’s ability to identify written hate speech. But when it comes to rooting out hateful images, videos, and memes, Facebook’s AI has a long way to go."
+    publishedDateTime: 2020-08-14T11:00:00Z
+    webUrl: "https://www.fastcompany.com/90539275/facebooks-ai-for-detecting-hate-speech-is-facing-its-biggest-challenge-yet?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-deepfakes.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jXEa04v6jY2wCP3owQ+hU1s4BVlC+GqvsczOO7icjUjtqBiqjjGeBPbCJR5qARKI888zcye8mKlmSUrBOW5W1CtI6hJ1QDrdzcv3QGDrqjoHxVOAkghhXHdFkJvQHJAB/7qcuUaTN7Qee1xRKzE6rxHpx5HFEaqJcCIZFG1sPIZPC1+uuvtB9eHDeVAc1v+eu5xJfJ2dResa4UEdial/qtZavyLZG4gdudw6ek5QYuDZLtkIb1mqDsOetgb/5fnRBxmQsHXW3O+gBHEG0fT43f6Ga03Ndb0vxWyWL7LzyY4zN9IC97RNvSFAzrcQfTffXXH4LbYLwHTvbaoqACajag==;9OSZygnDQZGgkXVYaDGV9A=="
 ---

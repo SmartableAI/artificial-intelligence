@@ -2,6 +2,107 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-10-unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities.md",
+      "title": "UNSW switches cloud-based data lakes for AI and ML capabilities",
+      "excerpt": "It was clear to the University of New South Wales (UNSW) that at the end of 2018, when it was developing its data strategy, it needed to improve the turnaround time it took to get information into the hands of decision makers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/10/83c3e898-f187-4a2a-9aa3-64d02fd75f9e/key-campus-summer-holidays-2019-louise-reily-hero.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/",
+      "publishedDateTime": "2020-08-10T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19.md",
+      "title": "Researchers use AI to determine which face masks work best for COVID-19",
+      "excerpt": "A technique developed at Duke University measures which face masks best protect against COVID-19 by counting the droplets they emit during speech.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-10T180435.460-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/10/researchers-use-ai-to-determine-which-face-masks-work-best-for-covid-19/amp/",
+      "publishedDateTime": "2020-08-10T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-sift-healthcare-raises-28-million.md",
       "title": "Sift Healthcare raises $2.8 million",
       "excerpt": "Milwaukee-based Sift Healthcare raised $2.8 million in a funding round that included investments from two Badger Fund of Funds, the company recently announced.",
@@ -1038,6 +1139,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-09-chinese-robotaxis-take-riders-for-a-spin.md",
+      "title": "Chinese 'robotaxis' take riders for a spin",
+      "excerpt": "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
+      "publishedDateTime": "2020-08-09T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-08-column-the-reason-were-afraid-of-robots.md",
       "title": "Column: The reason we're afraid of robots",
       "excerpt": "When we focus so much of our attention on improbable scenarios, we run the risk of ignoring other problems posed by AI that are pressing and preventable.",
@@ -1171,6 +1313,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-08-google-says-starcraft-likely-next-target-for-deepmind-ai.md",
+      "title": "Google says Starcraft likely next target for DeepMind AI",
+      "excerpt": "Google's DeepMind AI first set its sights on European Go champion Fan Hui, defeating it soundly before taking the crown from world champion Lee Sedol (while there's still one game to go in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/index.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/5/1/51057_1_google-starcraft-next-target-deepmind-ai_full.jpg",
+          "width": 1300,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/51057/google-starcraft-next-target-deepmind-ai/amp.html",
+      "publishedDateTime": "2020-08-08T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-08-julia-and-pycaret-latest-versions-arxiv-on-kaggle-uks-ai-supercomputer-and-more-in-this-weeks-top-ai-news.md",
       "title": "Julia and PyCaret Latest Versions, arXiv on Kaggle, UK’s AI Supercomputer And More In This Week’s Top AI News",
       "excerpt": "Every week, we at Analytics India Magazine aggregate the most important news stories that affect the AI/ML industry. Let’s take a look at all the top news stories that took place recently. The following paragraphs summarise the news,",
@@ -1208,199 +1391,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-5-free-resources-every-data-scientist-should-start-using-today.md",
-      "title": "5 free resources every data scientist should start using today",
-      "excerpt": "I was a recent college grad, starting out my career at a four-person IoT startup. One of my first assignments was to research and propose a solution for an AI-based digital assistant for military settings.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/5-free-resources-every-data-scientist-should-start-using-today-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/08/08/5-free-resources-every-data-scientist-should-start-using-today-syndication/amp/",
-      "publishedDateTime": "2020-08-08T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-google-ibm-microsoft-ai-models-fail-to-curb-gender-bias.md",
-      "title": "Google, IBM, Microsoft AI models fail to curb gender bias",
-      "excerpt": "Not just Google. When put to work, artificial intelligence-powered IBM Watson virtual assistant was not far behind on gender bias. In 23 per cent of cases, Watson saw a woman wearing a gag while ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "publishedDateTime": "2020-08-08T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai.md",
-      "title": "How The Federal Government’s AI Center Of Excellence Is Impacting Government-Wide Adoption Of AI",
-      "excerpt": "The GSA's AI Center of Excellence aims to improve and enhance AI implementations in the government and help agencies on their journey with AI adoption. The relatively small team at the GSA AI CoE is helping to bring about some very impressive changes within the federal government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f26034d053c2d98f415d82c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/08/08/how-the-federal-governments-ai-center-of-excellence-is-impacting-government-wide-adoption-of-ai/amp/",
-      "publishedDateTime": "2020-08-07T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-08-hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-e-commerce.md",
-      "title": "Hypotenuse AI wants to take the strain out of copywriting for e-commerce",
-      "excerpt": "Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1158990325.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "publishedDateTime": "2020-08-07T18:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

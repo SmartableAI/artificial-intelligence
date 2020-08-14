@@ -2,6 +2,98 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-12-iit-roorkee-joins-coursera-to-launch-2-artificial-intelligence-machine-learning-programmes.md",
+      "title": "IIT Roorkee joins Coursera to launch 2 Artificial Intelligence, Machine Learning programmes",
+      "excerpt": "Education News: ​The six-month certificate programme in AI and ML will consist of video lectures, hands-on learning opportunities, team projects, tutorials and worksh",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/articleshow/77506827.cms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-77506899/77506899.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/amp_articleshow/77506827.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/amp_articleshow/77506827.cms",
+      "publishedDateTime": "2020-08-12T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-how-a-30-ton-robot-could-help-crops-withstand-climate-change.md",
+      "title": "How a 30-Ton Robot Could Help Crops Withstand Climate Change",
+      "excerpt": "What makes a plant thrive in the heat? In the Arizona desert, the ‘Field Scanalyzer’ is collecting data to learn the answer—and hopefully improve farming for biofuels and food.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos1",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-218942/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276",
+      "publishedDateTime": "2020-08-12T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-ai-magic-makes-century-old-films-look-new.md",
       "title": "AI Magic Makes Century-Old Films Look New",
       "excerpt": "Denis Shiryaev uses algorithms to colorize and sharpen old movies, bumping them up to a smooth 60 frames per second. The result is a stunning glimpse at the past.",
@@ -1136,106 +1228,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-hyundai-aptiv-form-joint-venture-motional-to-develop-self-driving-cars.md",
-      "title": "Hyundai, Aptiv form joint venture Motional to develop self-driving cars",
-      "excerpt": "Motional . Hey, remember Aptiv? You know, that company that's been operating self-driving BMWs around Las Vegas for the last few years? Well, it looks like it's ditching the Germa",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/S1TKR0C7Qut8V-Xko7wNqDoG0Rg=/2020/08/10/6f96ca45-9e37-4a6d-8397-f12c288f7523/motional-announcement-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/",
-      "publishedDateTime": "2020-08-11T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand.md",
-      "title": "In China, facial recognition, public shaming and control go hand in hand",
-      "excerpt": "Facial recognition supporters in the US often argue that the surveillance technology is reserved for the greatest risks -- to help deal with violent crimes, terrorist threats and",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/dD_b_3LnM8xnDw8b1chQVYmkwRY=/756x567/2020/08/10/7160792a-58c7-4445-817b-fb35532e24ec/gettyimages-1063617532.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/",
-      "publishedDateTime": "2020-08-11T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

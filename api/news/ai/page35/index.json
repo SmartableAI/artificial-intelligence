@@ -2,6 +2,197 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-07-12-teslas-approach-to-self-driving-technology-is-completely-different-from-its-rivals-see-how-it-works.md",
+      "title": "Tesla's approach to self-driving technology is completely different from its rivals. See how it works.",
+      "excerpt": "Tesla CEO Elon Musk is confident; last week, he said Tesla could achieve \"level five\" autonomy this year — meaning no human intervention required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f09d58c988ee30da759c364?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp",
+      "publishedDateTime": "2020-07-12T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-12-google-machine-translation-helping-disseminate-covid-19-info.md",
+      "title": "Google machine translation helping disseminate Covid-19 info",
+      "excerpt": "Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 languages in the US alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/articleshow/76918627.cms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/76918627.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms",
+      "publishedDateTime": "2020-07-11T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-12-ai-iot-1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow.md",
+      "title": "AI + IoT = 1000X More Dense Networking Environments: How Intel, NSF Are Planning For Tomorrow",
+      "excerpt": "How will we connect everything at such scale? Intel and the National Science Foundation say we’ll need help from artificial intelligence. And mesh networks. Including, potentially, even SpaceX Starlink satellites in low earth orbit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/11/ai--iot--1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0a488c147a4f0006e5bd44%2F0x0.jpg",
+          "width": 1000,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/11/ai--iot--1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/07/11/ai--iot--1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow/amp/",
+      "publishedDateTime": "2020-07-11T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-zapata-ceo-christopher-savoie-the-qc-and-ml-business-use-case-is-a-when-not-an-if.md",
+      "title": "Zapata CEO Christopher Savoie: The QC and ML business use case is ‘a when, not an if’",
+      "excerpt": "Zapata CEO Christopher Savoie explains the quantum computing and machine learning business use case: \"It's just a matter of timing that nobody knows.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/christopher-savoie.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/11/zapata-quantum-computing-machine-learning-business-use-case/amp/",
+      "publishedDateTime": "2020-07-11T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-11-the-enormous-opportunity-in-fintech.md",
       "title": "The enormous opportunity in fintech",
       "excerpt": "Several areas of the fintech ecosystem are often overlooked but present massive opportunities for disruptors over the next 5 years.",
@@ -1211,195 +1402,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-how-to-stop-sharing-sensitive-content-with-aws-ai-services.md",
-      "title": "How to Stop Sharing Sensitive Content with AWS AI Services",
-      "excerpt": "It read: “AWS artificial intelligence (AI) services collect and store data as part of operating and supporting the continuous improvement life cycle of each service. “As an AWS customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbronline.com/news/aws-ai-services",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cbronline.com/wp-content/uploads/2020/07/bogomil-1.jpg",
-          "width": 1371,
-          "height": 916,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-10T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Business Review",
-        "domain": "cbronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-this-company-utilizes-ai-to-maximize-customer-acquisition.md",
-      "title": "This Company Utilizes AI to Maximize Customer Acquisition",
-      "excerpt": "To truly scale your business, you need to gather your own customer data and discover how to personalize it to acquire new customers and turn existing customers into lifetime ones. That's easier said than done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/353006",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594236091-Ent-Spectrm.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/353006",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353006",
-      "publishedDateTime": "2020-07-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-defending-black-lives-means-banning-facial-recognition.md",
-      "title": "Defending Black Lives Means Banning Facial Recognition",
-      "excerpt": "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
-      "publishedDateTime": "2020-07-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-how-ai-could-revolutionize-the-future-of-mobile.md",
-      "title": "How AI Could Revolutionize The Future Of Mobile",
-      "excerpt": "There are a variety of ways in which AI will influence the way we design, program and use mobile apps. In the coming years, AI could lead to improved security, more personalization and overall a better user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda5daa543d4d0006ab099e%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/",
-      "publishedDateTime": "2020-07-10T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

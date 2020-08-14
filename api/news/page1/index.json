@@ -2,6 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-14-taking-a-stand-in-uncertain-times-with-ai.md",
+      "title": "Taking A Stand In Uncertain Times With AI",
+      "excerpt": "This moment in time has uncovered just how crucial AI solutions can be for the future of healthcare. Rapid changes have made it difficult to manage the pandemic’s spread and determine what the industry will look like after coming through the other side.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/amp/",
+      "publishedDateTime": "2020-08-14T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence.md",
       "title": "EqualAI Challenges Companies and Leaders to Pledge to Reduce Bias in Artificial Intelligence",
       "excerpt": "There are immediate actions that organizations can take to identify and reduce bias within their existing systems. EqualAI has been seeking out ways that companies can go beyond m",
@@ -107,7 +156,7 @@
       "webUrl": "https://www.reuters.com/article/uk-usa-riteaid-software-methodology-idUKKCN24T1GH",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 354,
+      "heat": 364,
       "tags": null,
       "images": [
         {
@@ -965,7 +1014,7 @@
       "webUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1145,55 +1194,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-how-to-protect-ai-systems-against-image-scaling-attacks.md",
-      "title": "How to protect AI systems against image-scaling attacks",
-      "excerpt": "We usually don’t expect the image of a teacup to turn into a cat when we zoom out. But in the world of artificial intelligence research, strange things can happen. Researchers at Germany’s Technische Universität Braunschweig have shown that carefully modifying the pixel values of digital photos can turn them into a completely different image",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/13/image-scaling-attacks-highlight-dangers-of-adversarial-machine-learning-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-21-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/13/image-scaling-attacks-highlight-dangers-of-adversarial-machine-learning-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/13/image-scaling-attacks-highlight-dangers-of-adversarial-machine-learning-syndication/amp/",
-      "publishedDateTime": "2020-08-13T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

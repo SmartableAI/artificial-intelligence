@@ -25,22 +25,6 @@ images:
     height: 681
     isCached: true
 
-related:
-  - title: "Chinese 'robotaxis' take riders for a spin"
-    excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
-    publishedDateTime: 2020-08-09T19:58:00Z
-    webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 24
-    images:
-      - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-
 secured: "3xXybgO4dtRQIwno93RSvs2SoOpbV8H33pq/4qzzFIr6WX6C5fpQKGbsAHdvYQqt0Y0LEDcDcDFbOZi1QKEy+GTIuTSuOg2CVHeX8VRBNcy92wZta0017bxDo1HjP/eG1D1/THXZ9Fz5EG75EerBVmNgG8gz/zbawn2YcqywSTXPsjwCtAqVPdx1gxq+VUw5n/ZxIDkwryVy78kcQ7C3Mez8FKM3cX9j4ja8JnvuOiefRaYXOKqN5VSwFI6uwia1UIm3XKlbrCX23FSVc0WdpVMxbReOTUbmvAhW34C/8nD8OZG55c7jxpfuONG/olzVyMPyL2VC3FprZtFGyYAuzg==;/iE5F3VcgrlI5ha0mU4JIg=="
 ---
 
