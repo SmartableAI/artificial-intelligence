@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/python-powered-machine-lear
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/python-powered-machine-learning-tool-drives-robot-farming-project/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and machine learning: Powering the next-gen enterprise"
-    excerpt: "IT leaders are already starting to reap the rewards promised by AI and machine learning -- and a recent survey reveals half are considering greater investment as we hit economic headwinds."
-    publishedDateTime: 2020-08-10T10:01:00Z
-    webUrl: "https://www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.html"
-    ampWebUrl: "https://www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.amp.html"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.amp.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/08/intro_ts_ai_ml_by-monsitj-getty-images_2400x1600-100853894-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Schooling machine learning to identify fish"
     excerpt: "The National Oceanic and Atmospheric Administration wants to leverage machine learning improve its ability to verify marine species."
     publishedDateTime: 2020-08-13T00:26:00Z

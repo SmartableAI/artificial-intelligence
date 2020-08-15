@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Solidus making waves in the AI sector"
-excerpt: "Established 2017 Solidus Technologies have been raising funds and working on building a data centre built for the purpose of High Power Computing and processing Blockchain networks along with Artificial Intelligence applications."
-publishedDateTime: 2020-08-03T07:11:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/solidus-making-waves-in-the-ai-sector-1029460371"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/solidus-making-waves-in-the-ai-sector-1029460371"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/solidus-making-waves-in-the-ai-sector-1029460371"
+excerpt: "In order to get the required level of performance the use of GPU (graphic processor Units ... priceless for the artificial intelligence (AI) and machine learning space. We have seen the demand ..."
+publishedDateTime: 2020-08-03T09:00:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/solidus-making-waves-in-the-ai-sector-9148957"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - AI Hardware
   - AI
 
-secured: "dTsX9SZBfg3YM6YArKHrdF9GXPQahgygJqn3L7ZNoqsAH9p7/MLybPO0UU1pSTcNeFMtHY2QBslsceFhdXrt1NT6ZNmCVSAqqHwByBG5YJnd9Z03k0NkHyvHXEWeDOwv/dZePQM2DdO/rhA+MLrBqxLaF5D9nE9u/xCE1ZrUlOoLusnuWbBOGoL/kpx+pA8qKl6R6K8IeyjaV+vtoGIsQP/gkdv1EYYArOgG4M3ooNEJAUqTnTfVGMytTGZci6Wn1Q4CW4Z5dDz7xKCE34FsKCeV+g6nRJl8RmtHFP+x1v7ZOGSqJxXhYum5sha2jXF4e4I4VoJ5lXR3rOd1Y34YgA==;5Uf2Kvg/5sH5b+UOVNDIMA=="
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "qtdMvctUlvnfg0yIJaE7o0B201e0nC8n1vUZ/Eiy+6Dm8BHW7zoxYaZ1/Enp3Yyb2QylCVb0D6hFvRrMPfjPPNz2H5dXOLIB8bMR6Mo5F3nlhE79N9VgKZQjN1O9BWgFxCx7Med9fNOIIRVG60pH1gguAJDXp2eJq3FgMKkOrfd3gEMOc7SotQk1ZQx1Ur3l8/COV8TJlxj8Ueb7Q8zVF5tyny7bmWJozlAWK6vtlDrZ14xCJJjit2C7XooxByCqi1BArD1CeXALIQpFkeMbusVv2aydttB23lUy67ghQWaLrCPlXQRwIbFxnVN38r46lyM4jgvhWGHYHwUSARHhug==;ZGxtf3C8WTea/xEqCQT9dA=="
 ---
 

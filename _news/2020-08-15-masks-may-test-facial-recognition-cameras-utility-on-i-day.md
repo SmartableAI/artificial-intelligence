@@ -5,7 +5,7 @@ excerpt: "The Delhi police is using cameras equipped with facial recognition sof
 publishedDateTime: 2020-08-15T00:57:00Z
 webUrl: "https://news.webindia123.com/news/articles/India/20200815/3609760.html"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Clearview AI landed a new facial recognition contract with ICE"

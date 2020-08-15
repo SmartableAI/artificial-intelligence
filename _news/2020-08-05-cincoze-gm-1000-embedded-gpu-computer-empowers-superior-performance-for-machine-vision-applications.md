@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Cincoze GM-1000 Embedded GPU Computer Empowers Superior Performance for Machine Vision Applications"
-excerpt: "Given the explosive growth of machine vision, Cincoze, as a professional manufacturer of embedded systems, has expanded its embedded GPU computing pro"
-publishedDateTime: 2020-08-05T08:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior"
+excerpt: "Incorporating with AI, the GM-1000 empowers AIoT edge computing ... Taking advantage of the heterogeneous platform of CPU and GPU, GM-1000 tackles AIoT and machine learning tasks for intelligent ..."
+publishedDateTime: 2020-08-05T08:56:00Z
+webUrl: "https://www.bakersfield.com/ap/news/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications/article_98d3d10e-e384-52b5-aae3-d6782202b7f0.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200805005052/en/809710/23/05.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/e/00/e006227d-d57a-5e7d-8a5b-87a3c1459d84/5f2a6e29e6def.image.jpg?resize=960%2C630"
+    width: 960
+    height: 630
     isCached: true
 
-secured: "TPKjnDE75r06L+tbTXz6iFLnfnJWVC4Yf+qf6U04LErqZnXsNrsywsh7kaLcc1W7dsiQnsDKWv4FdCEqgWvg8u4Vuzxkmb6gsASU63/YvKPXnhTcLYO0tZ+gvzrYnArEIuBQ2rX6FIQrO11F7VssHtJQYQYKNt6iZhPoXeHYnqehcrMEybyxo+30laVbWuDDTB2CZ2hdztJL+rO2vT5uSed/afwKEVSubPKLeN6f6xk6ncDc2UTAz11wDpI8C/5oCOcABHxzW+vpJj8ZzbRMEQEapAJ808tq5mk/X/fIHqPBWF6/U020iYXDeTakHIvydeWqHruQFIIz3JfPZQBPxefT0Qnwt2pVmBksZjj/rZJ7dJkLfShxl+oLFeyoW3Kgk8cv1yoXR3gomMSfaV3DhlceWx+VTJh3nwIH7XqdY03hi7MTKG9Hl/e/uPTgav6Kh4+XTszSJs63+WxsLyTwoZb0X62IMtVpN6FJuEao3WM3pTgtTnS++yZKMzdB2FHcNOszM591IevTwJh3dYqTYw==;Vq0P2X5weN81zD3e2qwprg=="
+secured: "eD/8EvRldc1PD1kUS4EPj5JepB9WpGzyXkzbdtC1ZNvflwNCwJiv8606FQudB2/ft5Qk2eXOjDKskZ/V+f/oyn9teEMJf/bWaCoYOUD3a1PD6udzGmL06zyI3Ee8FRFVOeAGbFOlrHYfU0Wj57eQRTVLMe+dTi+1iR77DFftgmU0M8jLT1RjtgTnjPNdY5vsu+k45oTT/v7vnDiyDNljSL1x6xw+RvHxJEfbaHO3G9lpihL4m3FOKp29gt1uHhX/8kjKMW0G9sAOpN67Ah2v5O8YFcUESmjMjcuLbkEeLvDcxDooZA8sSsHXfr/wgQx+njbeF8e9Og2T1p5b6GByaA==;LH93EPxa/lLnzTOuAGQdCg=="
 ---
 

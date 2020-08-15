@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive biometrics market forecast for $329B in 2027 as computer vision technology advances"
-    excerpt: "The automotive biometric identification market will reach a market value of $329 billion by 2027 on a 10.1 percent compound annual growth rate, according to a report from Acumen Research and"
-    publishedDateTime: 2020-08-11T21:10:00Z
-    webUrl: "https://www.biometricupdate.com/202008/automotive-biometrics-market-forecast-for-329b-in-2027-as-computer-vision-technology-advances"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 27
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/03/24100905/Busy-biometric-startup-Cerence-books-3-big-car-deals-launches-services-in-March.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Artificial Intelligence in Retail Market Is Expected To Grow At CAGR Of 34.4% From 2020 To Reach $19.9 million By 2027: Meticulous Research"
     excerpt: "Meticulous Research leading global market research company published a research report titled Artificial Intelligence in Retail Market by Product Application Predictive Merchandizing Programmatic Advertising Technology Machine Learning Natural Language Processing Deployment Cloud On Premises and Geography Global Forecast to 2027"
     publishedDateTime: 2020-08-14T06:00:00Z

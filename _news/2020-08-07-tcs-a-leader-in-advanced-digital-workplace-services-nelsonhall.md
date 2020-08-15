@@ -1,27 +1,19 @@
 ---
 category: news
-title: "TCS a leader in advanced digital workplace services: NelsonHall"
-excerpt: "Tata Consultancy Services intellectual property, defined modern workplace offerings, and investments in TCS Pace Port and digital reimagination studios were cited as key strengths."
-publishedDateTime: 2020-08-07T12:01:00Z
-webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html"
-ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html"
-cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html"
+title: "TCS a leader in Advanced Digital Workplace Services - NelsonHall"
+excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organisation, has been recognised as a Leader in the NelsonHall NEAT for Advanced Digital Workplace Services,"
+publishedDateTime: 2020-08-07T07:38:00Z
+webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716"
 type: article
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: Equity Bulls
+  domain: equitybulls.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg"
-    width: 350
-    height: 233
-    isCached: true
-
-secured: "sdas4YoPTHmlZ6/Ia4ttTKfNN4wcZi0pS/jfjqXU5Y0g8Gl5yaqkRTft+vfRRGd5MVXFewP2nwiltiIPkReoUpA1HvpmlCp/iClqfcC260xQI/IExAs4C0Thvg4yBhP6FGnXy5xHGUQU3BOwoeKXQhbtf9XAs61vHM0HrQE4y34eUHFrrR70qc9812OAG/1OohC0I5pYRaFyxQcf58fkJMyanNtOk0ujp9S6OkEBzdQoy6UjAL/P7ksM6MRZg5/sFLfOZvqGoe3d8MdZYiXko+g17DDmHfXKRZdPGbQHoMzmWi0Kzox+UF65jsa4K8mEcngBFePORZv4Zd95WLHbcA==;/qxZ3rHA7ym4R7/xcDwb6Q=="
+secured: "g2gGvto/uFl9UECbwaEJcoULJ98X7LXn52DizZ2pKDq3oyrf/TK0R7CqE8MEmw/eN3bRTxK6JW+w84RvmSru1MRgEES5DHJvpHbKZ3Jb67LenMAgc0IFq/cIN0W+x27nKNVWR1IYR5rgt3bjj4aWblDk3Clsv/IbOKm1wJ7h8ER2wrpBMXGw3YtzZ9+hNyvXEiQNnbaTKMtpPN8Qesx0aSQdvhOqnxxv/3FJc5VNkSDF5O6aVdoZmnuwyVJMvmgZJKjKVZmCtXVlchGNo7fhOwzH/Vz4ziKSJCHBMpuRqMMKi2Tt6Fvv99wd2ahY2n/dzQh6BFOMW97WT7HRX2aIUQ==;d2FeLQk6q721/J1Su/Wm0w=="
 ---
 

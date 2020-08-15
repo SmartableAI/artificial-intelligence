@@ -40,22 +40,6 @@ related:
         width: 512
         height: 357
         isCached: true
-  - title: "AI and machine learning: Powering the next-gen enterprise"
-    excerpt: "IT leaders are already starting to reap the rewards promised by AI and machine learning -- and a recent survey reveals half are considering greater investment as we hit economic headwinds."
-    publishedDateTime: 2020-08-10T10:01:00Z
-    webUrl: "https://www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.html"
-    ampWebUrl: "https://www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.amp.html"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3570613/ai-and-machine-learning-powering-the-next-gen-enterprise.amp.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/08/intro_ts_ai_ml_by-monsitj-getty-images_2400x1600-100853894-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "kwQcw2w1JTPdgeOlTmIIC374ZyD6WT/T1PU1KvgNvVOlaY5zYCX/MFCSOvxyrn6DsmhkCon30ZKBXD2FA1lnh9cp+ze6NXWKq04uFPmeXIv5AIi7BSE/19UcSL2rGfohGe/r9QcLtN4p326eMjbz4nR8KRl/R9Z0R05i0fSDqpy9ez7USonx15CYugmvLe76OjsONf4vzJxI1UQ0q15kLnUtNFu+6DXC+YJLuO891cXn4fOyZTUUhPDt/CV02DwEXmbjPdqCqeHcOC44MBB8NK7+eKEz7b5iz1qIM2eTs+eMU+A5y/uPbjc+yVYAg5voVPCi9YvVD4qT1vfPBE6wY7N/fwvBGbA0fMfirmSYUY1np+BwGO1UaZM+YoJ0fVJtZayXlZx1eSJUzdoRQJ2t8Z7X8PXFbJqedGzrAYlIRQIsvHdXO1Nnb4ynWYk2fd/TJLtivEl/78jMo4LwjAW6X3OskpMKukny71NgV0C3zCf2TdaY1Xm2VMnN6gXKdP0JXbPHKVqmlKRdpwSQcC0tmQ==;ShCHnTlXqpYTaJ4PaE6nXA=="
 ---

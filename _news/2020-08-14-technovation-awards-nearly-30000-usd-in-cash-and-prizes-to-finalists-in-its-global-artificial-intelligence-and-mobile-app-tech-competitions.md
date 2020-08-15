@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Technovation Awards Nearly $30,000 USD in Cash and Prizes to Finalists in its Global Artificial Intelligence and Mobile App Tech Competitions"
-excerpt: "Technovation, a global technology education nonprofit, announced that two teams of girls and two family teams - representing Kazakhstan, Kuwait, India and Ireland - were named winners at its annual Technovation World Summit held virtually August 13-14."
+excerpt: "Technovation, a global technology education nonprofit, announced that two teams of girls and two family teams - representing"
 publishedDateTime: 2020-08-14T19:05:00Z
-webUrl: "https://apnews.com/PR Newswire/13a274e91881f3024d0a39e14ba844cb"
+webUrl: "https://www.prnewswire.com/news-releases/technovation-awards-nearly-30-000-usd-in-cash-and-prizes-to-finalists-in-its-global-artificial-intelligence-and-mobile-app-tech-competitions-301112649.html"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1228724/Technovation_Logo.jpg?p=facebook"
+    width: 1557
+    height: 820
     isCached: true
 
-secured: "vVtH9Hn4haOZ1U821dYzrNoww+gnobrFNxI5n2QIlTNbykm2gvPg5YRbYTtomZg4iTByGrysi+oABq5o+EcgU8bAi2c9kljiOiLDY3spGVOEm9ZqKzL6wV5p9g6Hq60pASTgBIY5nI1DPC1kBLbL4w46C5QB+BO1WhIe7vwNoWa2xU7Dt1ViRewHx3H2tFxEM/Nb9LcwkTWto8YY7s1S8BDu1n+WabPxn0UxqIwBU1SBtKZCygatLBvSA0S/IHCCA5oDmpjbTMoRbrdvHE4d4RyL6/8trptV+GlN0QPVYHKfhjwKLVOJBVh/HJq0hUumB6QKmMYPRJ3eifAQ/M71EA==;xdINZ3GroCrBoIq5axDcQA=="
+secured: "b4vXmYsdK/KMXAM/b8OcPBGWY0KQSnqPJ9r4gQr6kLk9tW54iohvZlh4CGr7Z12/Zu5BavKmhAETqtxQx0HyRu8O5uls5xfCvZbUv0fucAfWRAfQvYRL5Pz3/WRmyxit5dOgoaEFD61AX88JF9LBeDiPp2omwez7MA70URPoLVQnx5Zv3WSZgpCjSQeWZCNxt08ermUAAbL8TBotzaaFOS1MZDueERZjdOSn21OVvpv5VdCsJQ6KzYXPB4Hmd2Rhu8/RuPGIZarnoHNNdUuWM+Po3i7XP6aUmM8WrFmtYL4enqc1sj+fL1EE593jUOai37CV9++O5CiUH9wijnrNDg==;AsBkTG/z2hv19A4+KaTFhQ=="
 ---
 

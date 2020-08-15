@@ -223,8 +223,8 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
-    quality: 19
+    quality: 21
 
-secured: "VLlX3fSBVQkobzu5B0rRG1V9swkvpItWGteBdWYiJXG4R5AfRtyVmggshHrIAR1dqPdtrs9HuR8IhEUj1T72Pwh7sNgknTGzUWz7NqQ+Mzl9gcBF/Og5FQ3lu/sdIfLJ+GsRa/jS7CyiynhfF+p8PN8jTQVgLlUXhJ66T0SydSdycKscyN6XAYRTJFi+JqGk8LO+mW06F2zqLdCSJEeJTNSbrR6IT0KOeBvDZjTKHcFChgxHfT5UrKAHfLiU8L3t0PM104q2dXdwqL5GlqRab13qbt7EUE2tJZL97dhFTCBz+qoca+mi3JQWthGe3q+SBzZMcCDKTnO3jh3Rd/8slQ==;Jl1Lvl9bb+/C+Jgrd5WZYw=="
+secured: "PWulqZENDvVe1rn0kupC87mHOwd+63wlCPGNXwPTdbMMx2Ws1TD0DK3l/JRr52T/FYUo5GRK89jCgpylu7i9hO9SkhvV6rO2amoQ5jFTdLbO/sean/dkDnXgzC1a44qFuiLquNYeZ9aK94VC2lDM67tbK3c+1Umn8B66wP11dcQ4kpT4S7mRwgLfPfKUNHJ5ihmPK6//A/+RXUn07lNLA7cX3uWlTpjV2599PKB4Ytt7davgFuzclizFMjym/B1e0ui2wBkNkqzdfYKQ20bqznSTTzo2J+sUwHyP9CUbGkgsm43MTYo2mJ/AztQmUWhapG+nsTZg4e1vORLCbWhn5LlzL+29vBR4WBUa+wunFNUQ2RctiNHfvSDxPXvflJ/yA6LH3/zeeO2x6OiqctFQmLpW5zAE/5tH+1dMv0mh4FvWUWAMM7tQh1Wm2kpp9+kmy3EOjlk4vTrgPUGVswtvqVrBZDNlJWvqj4LourLGx+GCQ+RlAU9U/kikw6Yc8oSF;cxZQE4Nu0PxLBSubyeHlCg=="
 ---
 
