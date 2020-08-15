@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "AI Is All the Rage. So Why Aren’t More Businesses Using It?"

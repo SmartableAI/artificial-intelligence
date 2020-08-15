@@ -118,17 +118,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotics Advisory Service 2020 Global Market Size, Share, Market Growth, Opportunities Segmentation Market Outlook and Forecast to 2026"
-    excerpt: "Robotics Advisory Service Market” WiseGuyRerports.com Presents \"Global Robotics Advisory Service Market Size, Status and Forecast 2020-2026\" New Document to"
-    publishedDateTime: 2020-08-10T18:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17017225/robotics-advisory-service-2020-global-market-size-share-market-growth-opportunities-segmentation-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17017225"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17017225"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
   - title: "Artificial Intelligence in Drug Discovery Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
     excerpt: "The Global Artificial Intelligence in Drug Discovery Market is estimated to value over USD 2.08 billion by 2027 end with a CAGR of over 40.5% during the forecast period 2020 to 2027. The research report titled Artificial Intelligence in Drug Discovery offers comprehensive information on key driving factors,"
     publishedDateTime: 2020-08-14T18:21:00Z

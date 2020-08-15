@@ -127,6 +127,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment</loc>
+    <lastmod>2020-08-13T14:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.beckershospitalreview.com/artificial-intelligence/healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.html</loc>
     <lastmod>2020-08-13T14:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -327,12 +333,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-08-12</loc>
     <lastmod>2020-08-12T11:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922</loc>
-    <lastmod>2020-08-12T11:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -549,6 +549,12 @@
   <url>
     <loc>https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/</loc>
     <lastmod>2020-08-11T03:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.mid-day.com/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234</loc>
+    <lastmod>2020-08-11T02:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1027,7 +1033,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit</loc>
+    <loc>https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit?partner=rss</loc>
     <lastmod>2020-08-06T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1285,8 +1291,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bakersfield.com/ap/news/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications/article_98d3d10e-e384-52b5-aae3-d6782202b7f0.html</loc>
-    <lastmod>2020-08-05T01:56:00-07:00</lastmod>
+    <loc>https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior</loc>
+    <lastmod>2020-08-05T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1893,6 +1899,12 @@
   <url>
     <loc>https://www.forbes.com/sites/karlmoore/2020/08/01/focusing-on-profitability-turned-around-the-ai-powered-travel-start-up-snaptravel/</loc>
     <lastmod>2020-08-01T04:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cio.com/article/3566378/nlp-poised-to-revolutionize-the-enterprise.html</loc>
+    <lastmod>2020-08-01T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2793,6 +2805,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/28/cb-insights-ai-venture-deals-in-q2-2020-slump-to-lowest-since-2017/</loc>
     <lastmod>2020-07-28T05:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoq.com/articles/get-hired-machine-learning-engineer/</loc>
+    <lastmod>2020-07-28T05:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

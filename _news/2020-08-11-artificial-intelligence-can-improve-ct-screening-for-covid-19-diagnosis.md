@@ -8,8 +8,8 @@ ampWebUrl: "https://m.mid-day.com/amp/articles/artificial-intelligence-can-impro
 cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Mid Day
@@ -40,6 +40,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/40-artificialin.jpg"
         width: 650
         height: 436
+        isCached: true
+  - title: "Artificial intelligence could improve CT screening for COVID-19 diagnosis"
+    excerpt: "Researchers at the University of Notre Dame are developing a new technique using artificial intelligence (AI) that would improve CT screening to more quickly identify patients with the coronavirus. The new technique will reduce the burden on the radiologists tasked with screening each image."
+    publishedDateTime: 2020-08-10T20:00:00Z
+    webUrl: "https://medicalxpress.com/news/2020-08-artificial-intelligence-ct-screening-covid-.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 36
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/47-covid19.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "zrfjITjkr4appKcOT6nwBeqtPO6swKnAVKeWLiM8hnEEk7Pz78feaRl3Wjo4f29mbIi3z2jc83J+mBpLVkyTGNOtiW9FRld+i86faMKKPunsALzBXig2208JaOVa1u/a+Y2NQ9LRmNNdNzssK0IuoKN0aH+iLnPDXY84ElgxVCSkEX7QcZFF+Byzip9/7mDxiA61xngy1yVC30woHQJATvvWYzA4zeQVynMc6j3c8o0nZxtcOExHhNzLBySN+iykJF1Q5C5rnn4W9OMjSgbbkLCFd1cZaCp8pkF2PKihNrksLMSIsuYJp5yTQ86WoeSIfJQDDDpF9jVs03THhOKeNsVd5+bQ/MSIMXwI8yiijblR/vyl/Uh9N5gavbCOmz5eXXWoFXxdO6CJygV1WBC/WX9lBWRE4Ica8UfMFgUiKhROwEEPSBC5JIXxFWYWwimvoKUAHTc1oMc8ZgRcKLWePSoEErQpU5MkdssaY6odA2XVoPhIG6xiKKBQBgUalr/nY8Ezo1lC5buTBsHInwoEBw==;OIsh63jnoHu78HhT3ro6fw=="

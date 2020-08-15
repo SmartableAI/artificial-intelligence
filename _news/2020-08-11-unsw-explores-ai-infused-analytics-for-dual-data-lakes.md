@@ -45,16 +45,16 @@ related:
         height: 533
         isCached: true
   - title: "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability"
-    excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services"
-    publishedDateTime: 2020-08-14T17:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17086830"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17086830"
+    excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services (AWS) to establish a cloud-based artificial intelligence (AI) and machine learning (ML) platform."
+    publishedDateTime: 2020-08-14T17:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-1029505843"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-1029505843"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-1029505843"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "BPT Analytics Ltd. launches cloud-based analytics dashboard “A Landscape of Artificial Intelligence (AI) In Pharma R&D”"
     excerpt: "BPT Analytics Ltd. (BiopharmaTrend) a provider of web-based business intelligence dashboards for the pharmaceutical industry, launched cloud-based ana"
     publishedDateTime: 2020-08-11T18:02:00Z

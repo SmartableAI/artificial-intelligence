@@ -41,6 +41,20 @@ related:
         width: 670
         height: 440
         isCached: true
+  - title: "Artificial intelligence could improve CT screening for COVID-19 diagnosis"
+    excerpt: "Researchers at the University of Notre Dame are developing a new technique using artificial intelligence (AI) that would improve CT screening to more quickly identify patients with the coronavirus. The new technique will reduce the burden on the radiologists tasked with screening each image."
+    publishedDateTime: 2020-08-10T20:00:00Z
+    webUrl: "https://medicalxpress.com/news/2020-08-artificial-intelligence-ct-screening-covid-.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 36
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/47-covid19.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "DMEXpLxcM66F/dGA5rELFvC4biDo5cP2XuSX9GFC/KKl/akJbps7mrDAm59jTnaCnqbagaBXoGEsoooWvvlL3JXRF1hrd+MgpBTe6T+IRlGfNfemS3COJXKlcU1UpkrlkKalNRY2a8FJLOJi8ZNSA1DC3nM0lfLMXaJYo80vS5DkZC99hFMUc+5Bz0e8yVgoKQxG7Tc2ByrQMFxFdbiv0OBz+XkKCh8aaNLowrrrPf7h2FlSmt/YXTbL+LbDSQqdgCNL0u1Hzye0jrs2msDE1h7KRx5YaeJgosH63AWegX3s4SX9zisaFhJUdgbZa+mJsh7jhGcf5uyrCY/8HJ8VtaJCSndmABgvNmtKC5ssIL2uBow7EixOjHCaZvubMQkTk3bYknhPI0IAmgTzkKOTIcC9+jN1IXD8SSEIT67qe0cFZAA/USK/bykBE49IVFHa3j3w6X6N/u2yA+p2s/t6lmJNmimd15xRtDtgEl+JaUgPfAv95nx+qgGyOvHDKTIs70rr+yo0YipWwrF0/pnFBg==;5AbW30srnaXCwbO7vBrgqQ=="
 ---

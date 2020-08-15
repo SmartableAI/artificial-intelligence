@@ -3,7 +3,7 @@ category: news
 title: "This John Legend-backed startup uses AI to improve your credit—for free"
 excerpt: "Photo: Cred] Cred.ai is a startup three years in the making—with funding from investors including former AOL CEO Tim Armstrong and Fanatics executive chairman Michael Rubin, along with celebrities like John Legend—that promises to make the whole world of credit cards more equitable."
 publishedDateTime: 2020-08-06T16:00:00Z
-webUrl: "https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit"
+webUrl: "https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit?partner=rss"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ images:
     height: 720
     isCached: true
 
-secured: "taD3wj5XXkFjGEL6VKaGHpPrQOYE+P+gg2UBu8nBeUX/mJIzR6XvZYL58UCaFB91zoXDaG838Z00HIZBEHM6OvrTw4DSfrR+fPlsabATT1sfvd7XTFwesozkTTymrm8pWYtLm4JhSDT0NzvY35w+rlZTn0EsJNhr3n4UYDZ23oKSp+y4lVqpX4bmGwrHq8Bh2Smvyt+bOJiWZwDMrLOy2v3UFWbw9Wr2m0eSPubWMNH1ospGjTsDHG8eE81Ge5GRG/pPllzqbnspZD5kISb6yL3Co5AXbZdSoJcqkdvT9Iay89g01MDWo272rl9Ca+hb7v5S4SOze/25GDly9PB2WA==;JWAzAi64+8zZzsVDjdF60g=="
+secured: "2E5+FmoU4wwf5HM2G9QinTzmsgYxaXHgiakn4qi/E9ICMfO9FyKXnCHxWz02ap8qC6Ck9zUUvP7QbFRZMLlWuvY1h7+jzAlu7WhXT0AeAawP2dxuVU0yhQB1UzgogMZFbtJ4DJXrTFK4MiKpn+aoOIcD1+Gau3+okdnoqObeVwfbqNHIDtsFXmzLuKyCKPSoSWrPFMIakPJ93Rk4XhuNgwBywILvVgZU0oJLnINyPK/tmiYs2eFZ14cy7o5AtczmgqtZ+OyllbkRSYkavbzjbw+Ceop9kO353MhK6XzS0Swk4Q2l4Gi373WC+RJnvt9Q1AAIsEuHJCrcGxK7m+chGA==;ypCakyolRCP3K2AHD03XKg=="
 ---
 

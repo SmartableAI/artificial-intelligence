@@ -123,17 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotics Advisory Service 2020 Global Market Size, Share, Market Growth, Opportunities Segmentation Market Outlook and Forecast to 2026"
-    excerpt: "Robotics Advisory Service Market” WiseGuyRerports.com Presents \"Global Robotics Advisory Service Market Size, Status and Forecast 2020-2026\" New Document to"
-    publishedDateTime: 2020-08-10T18:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17017225/robotics-advisory-service-2020-global-market-size-share-market-growth-opportunities-segmentation-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17017225"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17017225"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
   - title: "Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research"
     excerpt: "Zion Market Research Reports added Latest Research Report titled “Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research″ to its Large Report database."
     publishedDateTime: 2020-08-12T08:29:00Z
