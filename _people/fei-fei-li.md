@@ -21,7 +21,7 @@ website: https://profiles.stanford.edu/fei-fei-li
 twitter:
   username: drfeifei
   url: https://twitter.com/drfeifei
-  followers: 363460
+  followers: 363454
 
 googleScholar:
   url: https://scholar.google.com/citations?user=rDfyQnIAAAAJ
@@ -43,6 +43,6 @@ images:
     isCached: true
     title: "Fei-Fei Li"
 
-secured: "7ZMMZ/0ZGZbvqEERsde23kQayGuWwbAPMkPACtOzWVh3hgGLW7Jd+s3xi+k36LSfAka/qobxheG+6nXv3E4w40pmKsQbyXRQkm3mrfuIXl77X7cOLCgxc8IrbUYnP2vCVqJIep/fzAXD5feBM6SQamdHdDz3BgTv9nTmLDcePaSY7F0p+xW6jF9wsc2bx2dn39k7tnFVW1ZAf+yu9QVYBRRANWmo50ddJPwgyZz8uVFe+c0CDRTLK/oX1sSTTLDsKFEcjmxdmfC4AAhVNJWrCHMWpZes/nvwWNm36wsG9/tbWLya+n2jlkEIHZfzuQ57yDofvSjYQJUQ0xahMCC/Lpmu9t1+HvzudVAVz40g+2N5MrH/Kz9ycg/jQLznXSuXjqPpyUcJWJJscjdPbpo0XQ==;FA2z2prEj3wlLfkoTjoLsA=="
+secured: "1hye4ww/lzkYKuizcCChdev4Czp1gplOFdtNUZol81Cdw6LRR8WPuhsD6Bip7j+WYP4HwKXCn1glrDXdfE/h11b9OGCr2JWbcJSvumIn3UQldhYYNkdgDzC8FPN0Mr+0722pX1VH8h5fEtsZrBd7k9y/KzHwpNF8Odx5iGq+EIQ5RZxalNQewL8nYORHDlxd1gmKw9aSjVaB5sYs4ZosYYRr20G8FYMYJBNbq0ubo8vCOWvb6fu6p2IMNivyDKq0Zs46dl5aMuU9fLPy6jizubQpGN4axeqwBzDCIMk/1Vb0fn1YlCz1DU7+ciVV60wsacsxx1eu046QNIMhx/nIEK8lWnm5Ga64Y/VNJ7rORfpJcXBmDrhaYgSCBEjtb7GSQ4+Y/YYGY4OyjD9uqyRYHw==;TRlDomOdQNoJ4Glm4cyIJg=="
 ---
 

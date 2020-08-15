@@ -18,7 +18,7 @@ website: https://lexfridman.com/
 twitter:
   username: LexFridman
   url: https://twitter.com/LexFridman
-  followers: 287950
+  followers: 288019
 
 googleScholar:
   url: https://scholar.google.com/citations?user=wZH_N7cAAAAJ
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Lex Fridman"
 
-secured: "tTOTM9HiP80JH6i06WYiOrFMGCiWynkhioPUTnIc8mVVUI+rJr6J0JUzZH08VWaAPf67V9oZdxF5Bo/Tv/ahLsmFiIHqAmr07KQxPDGFAe0z75djJ7TbyrQk1U7dMaGtk2/umJSeZYSZPoDMC77hAb4h0k00UXxCGGTjG23ivECnQyKlxbSXQbX6KTu3PBjXBbjmqFQ32uVlF6xfF6ntfcpESsSfVN043bhhftjBVGiCaKASLkHSru36EmRHaIaiqT8SWzNIbUEYKQx/dtOB+Npt9FYDQbmL9NHnTO77oBpeQyNHuvgRdKkePPfMywJrs1IdIuPaaiX/Q1CBRR7kDtD2jqO6qcWC6c9U/aq7OpxU71AcOb3raWceGs/bQbUYlv9ZqqayRvNvZuZTyqu7pQ==;N4/3zIoodOownF4LdJhHAg=="
+secured: "GIXzML4+qtZLgm8w13l9kBXbexuUd/0ryfULIj+i0VeKaMO9RiPICc+pdKnqFrWbFFmxeBCGONcsTGYG/McZ5xItoNqJoca8Z+MyRymrcPgHTRuuwHhvH19QmJS2bx7QDk/r4YBGcqaRVtRLLyWMDZH9T/GSrlnrS9s9GSV50hXvhMKc26iDmXuRUStDso30+Xyp1XkTdg3IlcxiPlQuYmaVvVXHFstPBRyqcty0Cmz2fbzv41Ib11aTlTBcltj8yfXWOLMqsjM7lN606AASiMnKO3PtuhOuy8OI/cDdru9Ikk8zAWqiwVRTvilZr41h/Jxe5gZuiK0T8z5eTfRbWyU96KcacOZsKyqtS2wUXd5R+p1X/DKY2raRZWRLvdNU1GBKPftvOmUL5asYiQmRiA==;k8aHgb6UbcmJLEOIrsU3kQ=="
 ---
 
