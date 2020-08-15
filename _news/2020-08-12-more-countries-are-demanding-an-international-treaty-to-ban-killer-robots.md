@@ -8,7 +8,7 @@ ampWebUrl: "https://www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-cam
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2019/01/05/TELEMMGLPICT000184757991_trans_NvBQzQNjv4BqYWNJspVvOUVBAuV2D2wK5qe5mKcvZOefBAac5hC1c74.jpeg"
         width: 2501
         height: 1563
-        isCached: true
-  - title: "We need legislation against ‘killer robots,’ Human Rights Watch says"
-    excerpt: "Now, real-life researchers with the Human Rights Watch are sounding the alarm on potentially world-ending “killer robots,” according to a new report. The message comes as part of their Campaign to Stop Killer Robots,"
-    publishedDateTime: 2020-08-10T08:38:00Z
-    webUrl: "https://nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/"
-    ampWebUrl: "https://nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/killer-robot-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "b8qGOELdl1wOp1Rhcwxet706CRLg+oU0cIEd/VPZcCGzQU4KWQMRe19Lh2zRYQjJzYRT6j/4bhootH7SvNUGWpNQc4VxwlzfDJu9Q1u8UaRCiEBMgYaLqUerAAmp4PjhwA4sQ5/J/vwgSiD9IYQ4qR362iyCzhsxXpjH7B24ROWWoOrfxgdTFk88kGfM9Ewb90kU1csUUDLWMSBl8DiaNtNJy/pNHBNS3ZJxCB97DwoNQ7HjaXOktIGgVnjfMOOhNuEqEK1C9+D4Ut1jHti65VfgBX40FQEs4msmXbCY2+qyrP5loST13HqT8OjxE0I0HQHu1jK62xTZi0dXmi1FCQ==;vGtf0+UPhoYBZtMUN69vkg=="

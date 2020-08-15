@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-ai-fighter-pilots-112824955.html"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "A US Air Force F-16 pilot is going to take on an AI adversary in a simulated dogfight, and you can watch it live"
+    excerpt: "AI will battle AI in the early days of the competition to determine which program should dogfight a human pilot in a final showdown."
+    publishedDateTime: 2020-08-14T20:58:00Z
+    webUrl: "https://www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "raMVf+kWE92re87HKKMuVbhXYSPZUFmk2VLKSlyh+POklF8ir5vR5iP+N/wiQ9UZ2aXyzV5dmRFWv/9nTTqI/lWl1S4N6MKwYJc+87Yv0HZPVTX3/tAgM8Vd/tJYNf7D9XfC71R6xc8JfPzhkTocqTmEmfujNnl+Yo23mmgX09+q+uAabth4/1frPwLujyota/ecer9m788jU+nUHRhp+Yv01Y1famKFdG4vHAxK3iXH24SdWpodHsCmOjeZfk/TJ07LnwE0p/z0oGO27+V0g7vbRy2f0M1QgExGcPHBfGBt77muQLcVZj68eJRWkRFi56y9M3Ba6LPzXVa36F2EJfu6qtMzv1y9t+tQHzlXKXYsCCih3ep1laLz4SdL7rzDXeK/jiTHMKuWmOX8G36qgaOUUD2Iyc9HlUT+w7oFxukP4WsZSh2Uzt6kTZ/Rqy75095ESz4DjI0frgYAelhTPzAaAFZcZmB78uY3tRJbPohAZal49w+Cf0FucAiya81P;Ep9NfPy9XeUxPkAL8c0pBA=="
 ---

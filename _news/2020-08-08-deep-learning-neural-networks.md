@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cdn.openpr.com/T/8/T808238625_g.jpg"

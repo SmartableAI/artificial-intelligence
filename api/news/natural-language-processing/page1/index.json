@@ -347,47 +347,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-10-austin-ai-startup-litlingo-raises-2m-for-growth.md",
-      "title": "Austin AI startup LitLingo raises $2M for growth",
-      "excerpt": "Austin-based LitLingo Technologies, which makes a communication platform focused artificial intelligence technology, has raised $2 million.The round was",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200810&Category=BUSINESS&ArtNo=200819912&Ref=AR",
-          "width": 5000,
-          "height": 3203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
-      "cdnAmpWebUrl": "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth?template=ampart",
-      "publishedDateTime": "2020-08-10T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-10-researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers.md",
       "title": "Researchers find ‘inconsistent’ benchmarking across 3,867 AI research papers",
       "excerpt": "A survey of over 3,000 machine learning and AI research papers found little in the way of consistency with respect to benchmark metrics.",
@@ -1472,6 +1431,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-googles-tf-coder-tool-automates-machine-learning-model-design.md",
+      "title": "Google’s TF-Coder tool automates machine learning model design",
+      "excerpt": "Researchers at Google Brain, one of Google’s AI research divisions, developed an automated tool for programming in machine learning frameworks like TensorFlow. They say it achieves better-than ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/30/googles-tf-coder-tool-automates-machine-learning-model-design/amp/",
+      "publishedDateTime": "2020-07-30T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "Google AI"
       ]
     }
   ],

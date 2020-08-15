@@ -44,6 +44,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability"
+    excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services"
+    publishedDateTime: 2020-08-14T17:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17086830"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17086830"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
   - title: "BPT Analytics Ltd. launches cloud-based analytics dashboard “A Landscape of Artificial Intelligence (AI) In Pharma R&D”"
     excerpt: "BPT Analytics Ltd. (BiopharmaTrend) a provider of web-based business intelligence dashboards for the pharmaceutical industry, launched cloud-based ana"
     publishedDateTime: 2020-08-11T18:02:00Z

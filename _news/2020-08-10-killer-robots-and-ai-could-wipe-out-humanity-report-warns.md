@@ -42,22 +42,6 @@ related:
         width: 3997
         height: 2245
         isCached: true
-  - title: "We need legislation against ‘killer robots,’ Human Rights Watch says"
-    excerpt: "Now, real-life researchers with the Human Rights Watch are sounding the alarm on potentially world-ending “killer robots,” according to a new report. The message comes as part of their Campaign to Stop Killer Robots,"
-    publishedDateTime: 2020-08-10T08:38:00Z
-    webUrl: "https://nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/"
-    ampWebUrl: "https://nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/10/we-need-legislation-against-killer-robots-human-rights-watch/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/killer-robot-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "9dQrvsbeH1oVgDN/BTm8CeYui4BkKB7ylgKIFKjAygX8I8gR/jq7iMqszHVucpdp5A9LEBtBNQ1Thdqa6PJJe8D1drYMjrnlXP0MhPUU1i8QJ0i6V4dcY+4k+E7G08Ho1MlKKNFFwHh/qQY6G00WAaPqrwmc74sz8KesJN7nOKSdDJ6ql8Wq/KgsGgeTCZYBunaDVS4aViGMLyju9DkKhMlHc7w/X1OtEyozR59/U0bfe7FYYuURojc9divUMYsTZtH5vzHUwYYclcNI3bLHzBMTNlJAdq0qztfzpVx3iGJH2f66ngxawo/5dquz93YsMtjYDzUmtlLcQE6tX2++HQ==;Z2aNCrHp9covC/Ql2561kg=="
 ---

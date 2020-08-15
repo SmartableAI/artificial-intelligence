@@ -5,9 +5,6 @@ excerpt: "Photo: Cred] Cred.ai is a startup three years in the making—with fun
 publishedDateTime: 2020-08-06T16:00:00Z
 webUrl: "https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit?partner=rss"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: Fast Company
@@ -22,6 +19,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IgE1IEOtZ9MxYVdvDi2Hrr3xoRPUAP55NWBuS31PUlNSq5dxEYwzb74ZC8J5rauvjnOrELJmRu4uz8J1YfsiwfGZDpA72q+Ry2cMvaFP0w28qv+EF+z2ulaIbrlWNpqcwgqJ24PLNpGOX8htMcyfePZbamPm9G9sty1Rk4oKlo1o0RieS0xtgRzJ05mPSUWe9LljfO5UPviG4ZDP6rHoWX1vne2r93eo43q6Cx10l5n0MUR/bMOfYjVUI83LL1hl/lMt6diyeDqX02p9E/UDIEgiTrBqKOFMcCi+2uuD7wlEr2bLdIjXpXBvKdjh+KEtzVbpkcX9teS45rD7VN+8ZNOrC9ut3dtVkmoj18Md4JiampMLVOmY05qshY86ICVxlQExs1k0+LvfAff9kqycIZZyHv7cLAzOGB8/FkBPs0pG9UDDrQzm7kvS2bJTfknBlglMAmYp1ojBcBLpc1gH0IDMtiQDFVS9RRvIrYslga5+5p2H1/lWZxwSeU01eo9IDd1i1Yu8JXvgsdgHYaHlpA==;RmIkcph6lW3pm7OTnDPfYg=="
+secured: "dK2J+4Wtsfku1x1dJPw+8Lsnss7uIa9i582DwREQewBbYp0YnO/2u+fZFMQFIKLC+aEjM6G+Jsu7cgqJCkFS38y8HLJ3zhg2sFgoZ2G7JZM34hCVECylrk/tUGOKjcMQNETybx3Sb+eybYZl837XjAJv2pQLYybrv7I5HzXkANZt/Of2Ufb/1ak4GOHknaoeLBhuTpYbwsSusLoihyEu4v/9V7TIOuggyWwM0I76vFuPAh5GEs8Au/3tSc0j/73ocpmNrPbhBrB8AYSsry4/bUNkjfQUyJ0a5yg1ddvu8O6fMDZUf4y6GQOohYVCcO7Vvqgqbi7nKQLEKgtBK0Tdrw==;V0RIsGdbUl4rzhxZmmei4g=="
 ---
 

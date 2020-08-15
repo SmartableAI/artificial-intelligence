@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33c790032d66b3ff669e61%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "South Wales police lose landmark facial recognition case"
-    excerpt: "Court rules use of technology broke equalities law and breached privacy rights"
-    publishedDateTime: 2020-08-11T12:49:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case?CMP=twt_gu"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_89_6085_3651/master/6085.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2b27eccfd11bd2695aad1201de765a8"
-        width: 600
-        height: 360
         isCached: true
   - title: "Police force violated human rights with face recognition cameras"
     excerpt: "A police force’s use of facial recognition technology was a violation of human rights, according to a landmark legal ruling.The Court of Appeal ruled that South Wales Police violated rights and failed"

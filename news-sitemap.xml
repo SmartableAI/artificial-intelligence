@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/</loc>
+    <lastmod>2020-08-14T15:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/14/how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence/</loc>
     <lastmod>2020-08-14T12:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -319,6 +325,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922</loc>
+    <lastmod>2020-08-12T11:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels/</loc>
     <lastmod>2020-08-12T10:54:55-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -529,12 +541,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/</loc>
-    <lastmod>2020-08-11T05:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.zdnet.com/article/python-powered-machine-learning-tool-drives-robot-farming-project/</loc>
     <lastmod>2020-08-11T03:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -609,12 +615,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regulatory-framework-market-strategies-and-end-user-applicants-by-2025-2020-08-10</loc>
     <lastmod>2020-08-10T15:32:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.statesman.com/business/20200810/austin-ai-startup-litlingo-raises-2m-for-growth</loc>
-    <lastmod>2020-08-10T14:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -763,14 +763,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin</loc>
-    <lastmod>2020-08-09T12:58:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/</loc>
+    <lastmod>2020-08-09T10:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/</loc>
-    <lastmod>2020-08-09T10:10:00-07:00</lastmod>
+    <loc>https://asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html</loc>
+    <lastmod>2020-08-09T09:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -783,6 +783,12 @@
   <url>
     <loc>https://www.entrepreneur.com/article/354461</loc>
     <lastmod>2020-08-09T01:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381</loc>
+    <lastmod>2020-08-09T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -823,7 +829,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
+    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
     <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -907,6 +913,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html</loc>
+    <lastmod>2020-08-07T05:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/</loc>
     <lastmod>2020-08-07T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -927,12 +939,6 @@
   <url>
     <loc>https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update</loc>
     <lastmod>2020-08-07T02:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716</loc>
-    <lastmod>2020-08-07T00:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1017,6 +1023,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/06/google-adds-digital-ink-recognition-api-for-touch-and-stylus-input-to-ml-kit/</loc>
     <lastmod>2020-08-06T10:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit?partner=rss</loc>
+    <lastmod>2020-08-06T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1381,12 +1393,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/il/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
-    <lastmod>2020-08-04T13:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techspot.com/news/86233-university-chicago-researchers-building-tool-protect-pictures-facial.html</loc>
     <lastmod>2020-08-04T12:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1507,6 +1513,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
+    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/</loc>
     <lastmod>2020-08-04T05:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1567,6 +1579,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.morningstar.com/news/business-wire/20200804005501/digital-assistants-in-healthcare-2020-2025-artificial-intelligence-ai-has-emerged-as-a-major-boon-amid-covid-19-researchandmarketscom</loc>
+    <lastmod>2020-08-04T02:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://economictimes.indiatimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/articleshow/77346713.cms</loc>
     <lastmod>2020-08-04T01:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1579,6 +1597,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
+    <lastmod>2020-08-03T19:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html</loc>
     <lastmod>2020-08-03T19:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1587,12 +1611,6 @@
   <url>
     <loc>https://www.bignewsnetwork.com/news/265983784/artificial-intelligence-ai-in-healthcare-market-next-big-thing--major-giants-intel-nvidia-google</loc>
     <lastmod>2020-08-03T19:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
-    <lastmod>2020-08-03T17:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

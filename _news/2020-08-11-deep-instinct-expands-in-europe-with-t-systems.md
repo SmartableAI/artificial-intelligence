@@ -32,20 +32,6 @@ related:
         width: 304
         height: 430
         isCached: true
-  - title: "Deep Instinct Contracts with T-Systems Poland, Furthering Strategic Expansion into EMEA"
-    excerpt: "Deep Instinct, the first and only cybersecurity company to apply end-to-end deep learning to predict, identify, and prevent cyberattacks, is continuing its strategic expansion into EMEA, contracting with T-Systems (Poland),"
-    publishedDateTime: 2020-08-10T08:00:00Z
-    webUrl: "https://apnews.com/caed81da797d43988bd8cfa693354701"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "JhiJJBPA9O1icWPOwWWYd85V3+y6JflF7HuzqotWbOX5VcTHA18x4mpOnkxMBDvqBDoFvr5cvCwYBw6w7/BWBYK0wXUCsYII3SBW6NuSCPKejtUKGJDQ9+TEa1W8BD/zhbLwkJtRUyBWS5nM5Bfj5BFN4yLxReyCsVi+2X/27+I4Lgh8J2CkStX6aMLUqmcAXSw9vl56ljAdtugAlpvf6O19urpTbx+KIZ7kopU/CT0DbtHCfLlEoRxJZZ60JmGyA0SXoy7XUfvKb0+VkpC+xI9ZIWorAl25YhDLUj+g++gpmjgBDZVju+MBMOudaTUQ1/uzwLxnEKDdvBkOyX78fw==;6hKprMjPAIQ3L3/qe1TrsA=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
-excerpt: "MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it has successfully raised $10 million in Series A funding from prestigious global investors."
-publishedDateTime: 2020-08-12T17:00:00Z
-webUrl: "https://apnews.com/PR Newswire/255ee2302c213ba96fb3353c0515b813"
+excerpt: "SEOUL, South Korea and SILICON VALLEY, Calif., Aug. 12, 2020 /PRNewswire/ -- MakinaRocks, an industrial AI solutions startup aiming to"
+publishedDateTime: 2020-08-12T18:44:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Austin AI startup LitLingo raises $2M for growth"
@@ -39,18 +39,7 @@ related:
         width: 5000
         height: 3203
         isCached: true
-  - title: "LitLingo Advocates AI-driven Prevention as the Key to Modernizing the $45B Litigation and Compliance Industry"
-    excerpt: "Press Release LitLingo Technologies, a startup utilizing AI/NLP to manage context-driven communication and prevent conduct risk, announces that it has closed a $2 million seed round led by LiveOak Venture Partners."
-    publishedDateTime: 2020-08-10T10:43:00Z
-    webUrl: "https://venturebeat.com/2020/08/10/litlingo-advocates-ai-driven-prevention-as-the-key-to-modernizing-the-45b-litigation-and-compliance-industry/"
-    ampWebUrl: "https://venturebeat.com/2020/08/10/litlingo-advocates-ai-driven-prevention-as-the-key-to-modernizing-the-45b-litigation-and-compliance-industry/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/litlingo-advocates-ai-driven-prevention-as-the-key-to-modernizing-the-45b-litigation-and-compliance-industry/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
 
-secured: "lCSTKS90N2Zj/S39pPUxGw3fp30aT8z1sDRKKKpLYPWhVTpLy4HiFRrFLQVo31TGeo62Qn/plHi2ZBNaabACDY2mGzCLb6t/3wxkhoVr/Hj2fvzO+7WzSTbF99LuXLg4XiXjmEeJpaM0jMcdrf3ZWC3V/CTQ7D/CF81aRrNXdwn5pgSamnUFfGll+vMrnF+8r4paWsWj0rusVcNjhfTymn2B0+f26Ew4T4k7f8h1BvO0X+JgGn1QSPhY2x1kLTb+CuWdidEikLPw6nkTvUh1TcCmptMjhT6Wb9ZDx/5Dv3kIXvtDa32mqC6FytGv7nTljtEujdReAcwsRZxJFgl6Jw==;BrMj0Ydvbn6a6ZwXy2dtfw=="
+secured: "xbAvJrHZn15WAmghyrbmUdGgIvpGusgoQW5wet0GtX5n3q41s0LQrfbqsiPuYibriQBrwMc22+BbL2oFvrltJAPxu4GCCj6zRTCQ7jOE5eQC52x0N+dF1PTDFyh+hR7drjOzixeMsjujyCQfZd6CzzbgUsrz161AJuVIVwoVicRayzD/E5SI/m8DW/xsM47bXTPdqT1ZK2+ezN39hp6l3x9jFmZ838mYIQ+5k7Jy5vPZ9nAz0404oPrr1jusIBcxIB4FMqD46poEmh31B+LSizz8x3QydVoyn9dYZrL1ReArOa29cOi3VkIVGbprZ37dLZiQOSag6QdQqu3U7LJ7FQ==;YTsF0uAecpdpT2TvibELlA=="
 ---
 

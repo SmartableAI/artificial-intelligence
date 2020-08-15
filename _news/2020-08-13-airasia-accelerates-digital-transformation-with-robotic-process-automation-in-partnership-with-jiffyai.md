@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
-excerpt: "All these benefits will ultimately translate into sizeable cost ... intelligent document processing and natural language processing to robotic process automation and low Code/no Code development. JIFFY.ai are pioneers in web-based automation solutions ..."
-publishedDateTime: 2020-08-13T20:14:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai/article_90af8ede-cd71-564d-80cd-8b4eeb7d99a5.html"
+excerpt: "AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation (RPA) in collaboration with Silicon Valley and India-based enterprise automation platform JIFFY."
+publishedDateTime: 2020-08-13T06:48:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffy-ai-1029499616"
 type: article
-quality: 23
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "AirAsia chooses kerala-based startup Jiffy.ai for robotic process automation"
@@ -41,6 +41,6 @@ related:
         height: 390
         isCached: true
 
-secured: "ZetMfHDShUNiLg8q0dxW6YEm3+GOJ8f3xJDdhkmN5vx1U5e76rveaPzlcgEozVztXux+cJiykXb1JXccyC2zWJz1U7+juqqZm26Q1vObPgGPEam7jFmRoLfkcISppoRcZnBCAIzYbMjul73mw++8GDbJ3h53VTxBdLiPRdDYCg5pUYNUygr0mNYtOxnMl1lvmwp98U//5k3Nd2qeQU+u7W7JDM4j+H0wC8Oc3hDgrSeAyli9l2djFaLI3kt5Nlo5Bnab8Gz5rIwZgkviWDo7jM3YhYyRdbiR/y8T06P8pxnfH00mmADrMz+flvbAEFJlw3T+e0PJgPL4W29rNjC7og==;RHxPH/JdTmkEFI6OdbmQEg=="
+secured: "xMyWjtlfXPoU5DZRBXjmOeDUTqiKhIZ0jxTJqUZElXrvx3I77HeATsLgLRiIF4+KaVjo+CiHWQzkjd9fMu2sAOJ1II0GSPcX9JTnW1AGFOYOag/N0eb4YqKFsHv88R3RKe9EYK2UR9RF2aE2NnKV6FAL0/oFAFhrV7lV0n0PgY/jBT3RF7BOszi9BofHa2pBLgr+5WWIPlINa6zO4Dr1H+xTgIfKgT2nQGP5gC3R7OHkYaUIXvRJhA79gONhEnNDJJ5AX27XQ+fRMCfAO20xlBs50JdAeQW0SdEo16pbh9S+e5DAvhGB3oAIMTo4nuOs40fJz1NB4mJ9elUrhxBHww==;jziW7ETGZfT9qaZQq6z61w=="
 ---
 

@@ -3,12 +3,12 @@ category: news
 title: "Technology Incubators Fuel Startup Success on University Campuses"
 excerpt: "Wylie Wong is a freelance journalist who specializes in business, technology and sports. He is a regular contributor to the CDW family of technology magazines. Visitors flock to Las Vegas for its glitzy resorts and casinos,"
 publishedDateTime: 2020-08-13T19:31:00Z
-webUrl: "https://edtechmagazine.com/higher/k12/article/2020/08/technology-incubators-fuel-startup-success-university-campuses"
-ampWebUrl: "https://edtechmagazine.com/higher/k12/article/2020/08/technology-incubators-fuel-startup-success-university-campuses?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2020/08/technology-incubators-fuel-startup-success-university-campuses?amp"
+webUrl: "https://edtechmagazine.com/higher/article/2020/08/technology-incubators-fuel-startup-success-university-campuses"
+ampWebUrl: "https://edtechmagazine.com/higher/article/2020/08/technology-incubators-fuel-startup-success-university-campuses?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2020/08/technology-incubators-fuel-startup-success-university-campuses?amp"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Wong_Hero.jpg?itok=CIxJFuPS"
-    width: 1440
-    height: 500
-    isCached: true
-
-secured: "gFy7yEv6lrBOnE47D3gMzevGzC1a6XZc4/eXPkNJTFvakTh6zS1wWTUzODIsvM7Ue0bbrd+efQDiyEV8c/MA536IrP+TbhyOCdMBmhw15Z5bDnw863ENIMF22OsTrg8TvY1i4SxPgem2aSiz1zUcyLzBSV6k2/fw/uQEGAylK4hBkYlqvTcmgvWtfaRfU93jPWiYgOlXgAb1X7x2MWYro8JksYqu81o9ZaVZYPsx8rzQwMUx3Su9K4i+yoZTzlZRiPjC/mCJ+R7+oARMNK620rCfxExNVEUPiNa2jfq7gW3jbtii6uFxElX3qugxflWFizKw9prhVFOtM2V6tKBMuw==;oxUkUcqfJ2cMO3USpo0qPw=="
+secured: "wy/OvXM2sckAaUWtECwiA2OBbQHhoiauO0SX7UDbcLmpTK6mpIxMljZgQVESRThibG1rVN7RW6BpbXimCHMPIi/wAOjgPIqPrs1pz9lFX8gRfWc1i0lOBf7b3fAsQCj+WFqdI7IdYCEoBwCG7DwddJRuWCdhCFo4kxMXub2vl7j87vIDWHO6QddgRqSteaH/vrP+gfY41IwzuD9bR0TOnq87+BX3AWh8VkDF6T8d0WpgpXp86jALOLCYm8oqUNQ8D4GFxNNVXISxsfTg1tMZSgf32I7gJO0OKR1pRBsxv8Hp/vfDhMxuWARCr/FusynxERuOgIEx1yBZTfwA2G5JCGRFIhB7rQCxRKygpFH4ocJKRI1y4WU2KMNhCA2DD0h7BSYdf/hmhSZJfg1KLfNU1ZtKZ5BObHufSk+LRTqAgEIe86Kw/aEzNSw9bO4f0NqI1P5GTQmCG3kMBJKQJgj105V13sMsnFVol4i/xBHuenR2HaaNmqxnxHEpwgluu0mw0ZZQoeoEiof1i81oX/F9Hg==;RcR41IlH8B+Xodjd4aEXig=="
 ---
 

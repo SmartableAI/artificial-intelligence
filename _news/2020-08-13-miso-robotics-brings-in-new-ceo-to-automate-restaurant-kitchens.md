@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 740
         height: 400
         isCached: true
+  - title: "Miso Robotics Names Bell as CEO"
+    excerpt: "Miso Robotics Inc., the Pasadena-based robotics and artificial intelligence company, has appointed tech veteran Michael Bell as its new chief executive. Bell will succeed Buck Jordan, Miso Robotics' co-founder,"
+    publishedDateTime: 2020-08-14T21:13:00Z
+    webUrl: "https://labusinessjournal.com/news/2020/aug/14/miso-robotics-names-michael-bell-ceo/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 34
 
 secured: "9a0lqvsMibKa8YLh5VIj26XIzfoZu1LGg0uv8hfRgkRR0MhRWwTWihK53tB0wz8HPnmODYPlLTjYhwYGGCXM3BrEA2+FTWSmnsIiFzUPpCW8POjFb2eSMjpFTasGmc2AzX8twb5QYeZQJLmnvbrsDQkHzElZN1qkp35TcIIxoMJYyvXVzRHtt0g09eLFOClqylHIqtEk1aYNpK95X55jWf4VcWGe5SgmH7OBjfgpAJP0mvOLZnvWU13fqFQzpLXrwdtz+UrKmIUb7SqkF1R8Q3htLV8dYg+rnZE5rGsJA8LyYgU/G7jSAXL6R0BACvIhmz7Ifw2hUPSPnwFDtNPZkDHR4OTSfEL7K1fmp7N27YNF7J86gm4LIt2Ly/QaF+ULj2ZwHBIjMW1/+BRgOvszl/mIrBd0lpBApciMimArp8r/oSnBgMm4sGWFslAN98fuXZUIKFZbP/iz6AvpZEgVOqyE22r9Ey+MOChxAG9CxxcACCAWHcVwjnorX8nNA4QQHQQTo8Smm7P/bCxfSPrBBw==;W+wEaqnXAckwTNbmb064Fw=="
 ---

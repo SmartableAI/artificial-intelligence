@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Cognitive Analytics Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
+    excerpt: "Global Cognitive Analytics Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is generated"
+    publishedDateTime: 2020-08-15T00:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Cognitive Computing Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
     excerpt: "Global Cognitive Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides exclusive vital statistics on the market covering data, information, trends, and competitive landscape details."
     publishedDateTime: 2020-08-13T01:55:00Z

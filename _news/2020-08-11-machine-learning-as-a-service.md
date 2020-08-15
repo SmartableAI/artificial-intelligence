@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Medical Market to Witness a Pronounce Growth During 2025"
-    excerpt: "LP INFORMATION recently released a research report on the Artificial Intelligence AI in Medical market analysis and elaborate the industry coverage current market competitive status and market outlook and forecast by 2025 Moreover it categorizes the global Artificial Intelligence AI"
-    publishedDateTime: 2020-08-10T07:50:00Z
-    webUrl: "https://www.openpr.com/news/2107997/global-artificial-intelligence-ai-in-medical-market"
-    ampWebUrl: "https://www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2107997/global-artificial-intelligence-ai-in-medical-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 60
-    images:
-      - url: "https://cdn.openpr.com/T/8/T810604764_g.jpg"
-        width: 696
-        height: 392
-        isCached: true
   - title: "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025"
     excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
     publishedDateTime: 2020-08-11T13:39:00Z

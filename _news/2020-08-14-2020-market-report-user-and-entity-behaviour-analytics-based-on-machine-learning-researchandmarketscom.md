@@ -3,9 +3,9 @@ category: news
 title: "2020 Market Report: User and Entity Behaviour Analytics Based on Machine Learning - ResearchAndMarkets.com"
 excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. As intrusions employ a wide variety of attack vectors and methods,"
 publishedDateTime: 2020-08-14T16:56:00Z
-webUrl: "https://www.businesswire.com/news/home/20200814005395/en/"
+webUrl: "https://www.businesswire.com/news/home/20200814005395/en/2020-Market-Report-User-Entity-Behaviour-Analytics"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200814005395/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "Global Deep Learning Market 2020 Regulatory Framework, Market Strategies and End-User Applicants by 2025"
@@ -50,6 +44,6 @@ related:
       domain: benzinga.com
     quality: 21
 
-secured: "McNWRZzHXC9D3I+vc2rw/3ribPKYPKLWCKdwCswyaLfUOO8CFU8lVl2cofLvX1s1yeFxP7zHgebvaevfAo3nUXnLnXBlaR+2Hfd3EyitGAyoMvCq9On3F8F5uZarJM7ZBVkiA24Cicm8pHRiiIfIfkDB0tiezuC6nWB6NixyIcsRXJu/iu9eMBdsNHmKvkPZpso1PGtowOU8wtoO2Bxo0b7oAICFb8Bns3J+JvDXMGirTcX4N/9jl86MjmnALBcq/Nab5OHgmlIyVY2zXZbaESVb8MTF1ccGiIjbiyQWNfs0zZ6yhUcTEHtM4OyfLvwTdVdnODsZ8F3LLUBM8PmdrA==;M8xF26Ne+Fr01tcPKy3wHA=="
+secured: "GPMGFCYn+5Vc3E/cDA14acYMAX1X9F00pGwH1Y1yHWCJcxKrlUwWpCSrmxlGxiNwRfwIrvg6D5MlG15cex5Bnd4SMN+xgqAYBVJUYD31qWWS95nPMQeeYwkdrkale+Rlnt5zC8Fl4ulYyZm+X0QPjUVEF+KW8YSgEYesQ6eeULbWBumWlCjs/7g4OzPMBbMxp3DEbzVYfVxVO/XUS+hfnP3RCgQ9IY8POJMcrxdeuq+x0NjCKkBFvqqSOpHdEBrMQEf7CLxHN31lx93SZbSFEZFd4VgU7y4QFgVqI18tsV+YdL5Ay092TKhkDJJEYtFxjsNxHqcl7Jv3ZyZpi5Jf6mB+zoCVfmgE8cBuWz925aFnEmAqjOkM7SfhvkN6V2aXiv6T7hnRso3RnSj+7zHjP0RgkdE2mawpnuuxsvBN100meRIpPhweO4nKEw5/2i/tCLc5Y+MWy5y3wVGlMO1PWwni162swRNZV1+yCRolXrS9K3qaHZfb0sMnxwdlI/FwCeI3xfPtrso9YpyHfwew0w==;e75V8ueUXVkvMrfeHLyNLA=="
 ---
 

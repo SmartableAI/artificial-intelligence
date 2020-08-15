@@ -58,54 +58,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "UK court rules police facial recognition trials violate privacy laws"
-    excerpt: "Facial recognition is unreliable, dystopian and, according to a British court, incompatible with privacy and data protection legislation."
-    publishedDateTime: 2020-08-11T11:39:00Z
-    webUrl: "https://www.engadget.com/liberty-south-wales-police-facial-recognition-113557000.html"
-    ampWebUrl: "https://www.engadget.com/amp/liberty-south-wales-police-facial-recognition-113557000.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/liberty-south-wales-police-facial-recognition-113557000.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F652c5010-dbc3-11ea-bfb7-583085d588b4&client=amp-blogside-v2&signature=f7c95e26fde5363774a4b6f31c17c53fde145b4b"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "UK court rules police use of facial recognition was ‘unlawful’"
-    excerpt: "In a landmark decision, judges said South Wales Police's uses of facial recognition breached human rights and data protection laws."
-    publishedDateTime: 2020-08-11T11:13:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/11/uk-court-rules-police-use-of-facial-recognition-was-unlawful/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/08/11/uk-court-rules-police-use-of-facial-recognition-was-unlawful/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/11/uk-court-rules-police-use-of-facial-recognition-was-unlawful/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-11T104457.003-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "How China uses facial recognition to control human behavior"
-    excerpt: "When facial recognition is everywhere, anything you do is fair game for public shaming and punishment. Facial recognition supporters in the US often argue that the surveillance technology is reserved for the greatest risks -- to help deal with violent crimes,"
-    publishedDateTime: 2020-08-12T00:11:00Z
-    webUrl: "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/dD_b_3LnM8xnDw8b1chQVYmkwRY=/756x567/2020/08/10/7160792a-58c7-4445-817b-fb35532e24ec/gettyimages-1063617532.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Facial Recognition Violates Human Rights, Court Rules"
     excerpt: "Facial discrimination has been called discriminatory. People fear it will strip our privacy. The latest court ruling from the UK goes as far to say it violates human rights."
     publishedDateTime: 2020-08-13T11:15:00Z
@@ -138,22 +90,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Court finds some fault with UK police force’s use of facial recognition tech"
-    excerpt: "Civil rights campaigners in the UK have won a legal challenge to South Wales Police’s (SWP) use of facial recognition technology. The win on appeal is being hailed as a “world-first” victory in the fight against the use of an “oppressive surveillance tool”,"
-    publishedDateTime: 2020-08-11T11:45:00Z
-    webUrl: "https://techcrunch.com/2020/08/11/court-finds-some-fault-with-uk-police-forces-use-of-facial-recognition-tech/"
-    ampWebUrl: "https://techcrunch.com/2020/08/11/court-finds-some-fault-with-uk-police-forces-use-of-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/court-finds-some-fault-with-uk-police-forces-use-of-facial-recognition-tech/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Police use of facial recognition violates human rights, UK court rules"
     excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."
     publishedDateTime: 2020-08-11T21:08:00Z
@@ -184,22 +120,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "UK Police Use of Facial Recognition Ruled Unlawful"
-    excerpt: "The use of facial recognition technology by a British police force was ruled unlawful on Tuesday by the Court of Appeal in a case brought by a civil rights campaigner."
-    publishedDateTime: 2020-08-11T15:19:00Z
-    webUrl: "https://www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
-    ampWebUrl: "https://www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/AP20205626931949.jpg?fit=2500%2C1813&#038;ssl=1"
-        width: 2500
-        height: 1813
-        isCached: true
   - title: "UK court says facial recognition tech violates human rights"
     excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive"
     publishedDateTime: 2020-08-12T13:57:00Z
@@ -229,22 +149,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32f14e0edd2210efb965fc%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Police use of facial recognition breaches human rights law, London court rules"
-    excerpt: "Campaigners challenging the use of facial recognition technology by police in England and Wales have won a landmark legal victory after the Court of Appeal ruled its deployment breached human rights and data protection laws."
-    publishedDateTime: 2020-08-11T13:08:00Z
-    webUrl: "https://www.ft.com/content/b79e0bee-d32a-4d8e-b9b4-c8ffd3ac23f4"
-    ampWebUrl: "https://amp.ft.com/content/b79e0bee-d32a-4d8e-b9b4-c8ffd3ac23f4"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b79e0bee-d32a-4d8e-b9b4-c8ffd3ac23f4"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 55
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcbf8f682-d285-4ab0-8088-9df51ac17ad4.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "Dodgers Focusing On Stadium Future With Contactless Tech, Analytics For All And Eventual Facial Recognition"
     excerpt: "The technological infrastructure now backing Dodgers Stadium in Los Angeles sets up one of the most followed Major League Baseball franchises to deliver a new in-venue experience for fans when they return to the building."
@@ -334,17 +238,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Police use of facial recognition found ‘unlawful’ in court"
-    excerpt: "In a landmark decision the Court of Appeal has ruled that South Wales Police’s facial recognition deployments breached human rights and data protection laws"
-    publishedDateTime: 2020-08-12T09:36:00Z
-    webUrl: "https://www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court"
-    ampWebUrl: "https://www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
   - title: "Landmark UK court ruling finds police use of facial recognition unlawful"
     excerpt: "Privacy campaigners hail major victory against surveillance technology in world's first legal challenge against police"
     publishedDateTime: 2020-08-11T15:21:00Z
@@ -373,6 +266,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NYPD Used Facial Recognition Unit In Siege Of Black Lives Matter Activist’s Apartment"
+    excerpt: "The NYPD has previously stated that the technology is used to gather leads on suspects for crimes, such as robberies and shootings, not to identify people in crowds or at rallies"
+    publishedDateTime: 2020-08-14T23:08:00Z
+    webUrl: "https://gothamist.com/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
+    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
+    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 32
   - title: "Police use of facial recognition ruled 'unlawful' by judges after challenge by shopper"
     excerpt: "Ed Bridges had his face scanned while he was Christmas shopping in Cardiff in 2017 and at a peaceful anti-arms protest the following year"
     publishedDateTime: 2020-08-11T12:35:00Z
@@ -409,6 +313,15 @@ related:
     provider:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
+    quality: 19
+  - title: "Police facial recognition robot identifies anger and distress"
+    excerpt: "A police force hopes to deploy facial recognition and behavioural technology that can spot anger and distress, in a widening use of artificial intelligence.Retrospective facial recognition is under"
+    publishedDateTime: 2020-08-14T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/police-facial-recognition-robot-identifies-anger-and-distress-65h0xfrkg"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
     quality: 19
 
 secured: "2/K00gOThJS1+FVnZuQxVuStXZYZgPqt/rxf5CsoRw0iqCmxt/ajiKr3eYuNYu9eRpWoJ4cmagN5zGSHIs0gsW47hlEYlNsgSMzislUorwPC6RbX9XOerFHgaPWhir7aKfdfgzWnUPFh3ciHpd4sOtZ+LoM4wmW7Eit35v48xz8aTWQz9FurvcDFS0ZON9AtRRCpGgCcutbYp1IQshRVFcVO3vVMHJNJMWn6RPDQoy7FIfnAMbgBhmD48qkuoc3km+oQrsFjiKiWsAjfjIUu781tv6vu9iE7EhioJZQgtgJbaPt+5cRNNXljadM7ElLBIfbKdn+8qAtQv02UD8xqpw4xT3ueNecaS3Dha4skcptYhQxqEcX1WxZle1RGJwE9zWrXhTmjdopwCpWw//OpdovQjq/tfn4IL1c2nnAUkgUxLDB+DAi2bOF5JafW1EmYeRyZ0Oj2E1oXhV6iqMJUEIgDIe7kk/5sWuC33KsBTu7OShneAUzbcWfj05WOzhreafArE6Kbtli43WtjLau9Gg==;vBFB5mwmsLqTDeFVJhemlA=="

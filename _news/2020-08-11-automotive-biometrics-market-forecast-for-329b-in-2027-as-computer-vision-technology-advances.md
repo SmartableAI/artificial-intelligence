@@ -40,6 +40,17 @@ related:
         width: 650
         height: 405
         isCached: true
+  - title: "Artificial Intelligence in Retail Market Is Expected To Grow At CAGR Of 34.4% From 2020 To Reach $19.9 million By 2027: Meticulous Research"
+    excerpt: "Meticulous Research leading global market research company published a research report titled Artificial Intelligence in Retail Market by Product Application Predictive Merchandizing Programmatic Advertising Technology Machine Learning Natural Language Processing Deployment Cloud On Premises and Geography Global Forecast to 2027"
+    publishedDateTime: 2020-08-14T06:00:00Z
+    webUrl: "https://www.openpr.com/news/2112437/artificial-intelligence-in-retail-market-is-expected-to-grow"
+    ampWebUrl: "https://www.openpr.com/amp/2112437/artificial-intelligence-in-retail-market-is-expected-to-grow"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112437/artificial-intelligence-in-retail-market-is-expected-to-grow"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "BPGXhw2YaGG8A2gtNHzgYcEGbr8qUU9GE0ZjbND6nIHBeKCJ/tWfFA+t2xd0vQpRRHPDcXf393Pv9K3o0zUcD8+UmCg2PcuTP98yDR8THqXJL+lCEm22RpsWAMg7Ckj8ep4mEtvsmyDQgovGojutfrhoCog8XDPMCilepi99UzoXbknlASOgi4zyp0hSrxDJipJZkwRuLf8PKgT7lZHHm8b6wzdmbTqAY8uFy2OoMi1XFnlqYtFi35U4v3JJK9Wltk6Y//F4DxoINBZIFdYKsaCOqdx+G0j+Gmuw8odWjGeY8kREB4ODezMXmf50oJfct9xaO7BpyXc4+SWjlTKJsq21m5huaySvqudf76Dhlq2ikq0JuD0NAQ/ffBxm7k+qyzmmnYcxYcBhS1AA9i1vvz8gKKRWYIO9fvrloVkt/oUUjJtkPt6y+3mA8ORY/C6oHf1OEBCk9F85qXNtgYC1T63nlmmdfhPRQUyfJqvoEUqsXbKsI2Yz10Ah8qrgrCsv2Rb7pH+OyLEZT4pD+dZRCw==;UwKETL2N3y3dhrcYQ9JB2w=="
 ---

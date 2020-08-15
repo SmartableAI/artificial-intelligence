@@ -58,6 +58,22 @@ related:
         width: 840
         height: 630
         isCached: true
+  - title: "Detroit-to-Ann Arbor self-driving vehicle corridor aims for national leadership"
+    excerpt: "Project would be another step in Southeast Michigan staking its claim as an epicenter of connected and autonomous vehicle technology in the U.S."
+    publishedDateTime: 2020-08-14T03:14:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/08/13/detroit-ann-arbor-self-driving-vehicle-corridor-moving-ahead/3364205001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3364205001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3364205001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDTN/c747aa57-ba4f-4af1-9c8b-cc1f530304b0-Upscaled_stills_Highway.jpg?auto=webp&crop=3823,2151,x16,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Detroit-to-Ann Arbor self-driving vehicle corridor moving ahead"
     excerpt: "Project would be another step in Southeast Michigan staking its claim as an epicenter of connected and autonomous vehicle technology in the U.S."
     publishedDateTime: 2020-08-13T17:31:00Z
@@ -152,6 +168,28 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Plans For First Roadway For Self-Driving Cars Heads To Metro Detroit"
+    excerpt: "Governor Whitmer announced plans to rebuild a 40-mile roadway for self-driving cars. The corridor will stretch from Downtown Detroit to Ann Arbor. Ford Motor Company and project developer Cavnue confirmed the plans on Thursday."
+    publishedDateTime: 2020-08-14T20:42:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/08/14/plans-for-first-roadway-for-self-driving-cars-heads-to-metro-detroit/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/08/14/plans-for-first-roadway-for-self-driving-cars-heads-to-metro-detroit/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/08/14/plans-for-first-roadway-for-self-driving-cars-heads-to-metro-detroit/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 24
+  - title: "Michigan announces plans for Detroit to Ann Arbor self-driving vehicle corridor"
+    excerpt: "The state of Michigan Thursday announced a plan to explore the viability of developing a 40-mile corridor for connected and autonomous vehicles between Downtown Detroit and Ann Arbor."
+    publishedDateTime: 2020-08-14T23:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/politics/michigan-announces-plans-for-detroit-to-ann-arbor-self-driving-vehicle-corridor"
+    ampWebUrl: "https://www.washingtonexaminer.com/politics/michigan-announces-plans-for-detroit-to-ann-arbor-self-driving-vehicle-corridor?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/michigan-announces-plans-for-detroit-to-ann-arbor-self-driving-vehicle-corridor?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 20
 
 secured: "/n2Ia0jLrjXGhEJdfn799/+Lo2v74QjPOn9ZeyTRfoVpt+D2UWy9fnVC4bbmRe+guk83rvLAfyvuNBVjw7ApaU3qzbIqevAFzLRkMmTeum1kRiD/VghpJuVZ4OH6x+nHDA36rZmXlwNeWYuGftDXUHK6tKhjij5YeQyy7Aj7fD7Gu5eGl/w+Pa5MBYlHIlYvNAt/qvt73sVoL4+mb7DWRGH3NweJfkyYfxrZM1GazqQIZ84ZBaxPBvfylhLikBQPoGEPPnBVOBVjRBm4sR7gwGTTTCbvjcHPQX3IjOaWTeYocIc1Gxel1PhuAnLFv+KhMeGBCM2RIuuDSnos9lsTW/Tfhq0yeWNnJquXj4pCwZ3k93Zz7V7CkD+UvD4K4rzD0Vu373haUaQrNd2gGOS8zFr3iFAWr+7N7fVDYGzqStFV68hpymjwuk+wrNBXrqGIkQcDwoe3O/S8Hh1MZW7SsW5z45aWIP95Neovw3W8zjHWmjfSMHxys72OLbVAjpct65hlZ0laIvHZCqtErSyL8Q==;ONINcbfI2kRdu4RoTiVMkQ=="
 ---

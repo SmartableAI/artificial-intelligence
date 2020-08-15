@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "South Wales police lose landmark facial recognition case"
-    excerpt: "Court rules use of technology broke equalities law and breached privacy rights"
-    publishedDateTime: 2020-08-11T12:49:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case?CMP=twt_gu"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_89_6085_3651/master/6085.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2b27eccfd11bd2695aad1201de765a8"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Police force violated human rights with face recognition cameras"
     excerpt: "A police force’s use of facial recognition technology was a violation of human rights, according to a landmark legal ruling.The Court of Appeal ruled that South Wales Police violated rights and failed"
     publishedDateTime: 2020-08-11T11:00:00Z
