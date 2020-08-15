@@ -1,25 +1,28 @@
 ---
 category: news
 title: "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability"
-excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services"
-publishedDateTime: 2020-08-14T17:39:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17086830"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17086830"
+excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services (AWS) to establish a cloud-based artificial intelligence (AI) and machine learning (ML) platform."
+publishedDateTime: 2020-08-14T17:57:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-1029505843"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-1029505843"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-1029505843"
 type: article
-quality: 47
-heat: 47
+quality: 60
+heat: 60
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
-  - Machine Learning
 
-secured: "2s4GraOVZnlXz4ns6O/lYeN/WRFVPa3wUDhROhyjvgQSvzd88Xv8g0duwPlSO/c27FfctwFKRzoHoP2f2YXvwl9ZT+sk4jVTY7nkcfDd108u6eF7NNi3TJKbAlHOPYx3CA+JjcMQwfB+Ki8p+bFHH0/lYkbh3Z8nFwNVkbLUsqZ5WCH3hFX42fqwwhP+NHqpqN0T085T7e7Ov8Dl2Qwd7vDFn2tDVqnn1kl4lcxGAA0t6dX/2ivzA0sT9CjA/2vYUlVq6VP3dHJWG7EOHqI/Z1vuteuaBMZ+M1QGG6hdE5yv03DQz+LzwgEuRoTdXQd+NRYG8i57wcAmMbdaD2fBF6U58GmUUTPlDsRD3GWtbOuBK9o91JebNB2HoIkdRXH45EY4bwrRLmfNm61OzRReaiCEmzHzOk+69v9/ouH4/LXq1kiY2wmYFLPz4Tdw40l5YnzWjLbHoAH+xQKMAtLwx6yI+XpDAaFkCIbf2nZJyp1QfEoS6peNH6nqoqNf/0b/2+IaSD2QnHVFVgCjFVRxbg==;MuoS/jFCJZTjvh9CXeDwjw=="
+secured: "EKSWpL4ajQHq2456ri1hxTRVrLBSHMakHciiRD/JuaLV6TdEC7v6cPa6rpWEWTzPG6spmZLgFlhaw7PyYaD+DBlK60zkII16I0asvIjbOBpyLfLZEFZ2tcIYboQP5moRDWhRxiHAqhyS2SwsEhvcZfB9XctkdxBjKE3ZX4EX19ct4vWC2EKpNoO0QiyZtVeP2RDEqUNVIZ+BumcseZ1YrurcIzcJ3AMo9GcCzKm8DICxRFK/C9/kHMkdnXLMhPbfcpP07vJ8qoM1Ucu07QgO2GrSk2ofjKMX1oaz1n37ZiLswSV9VCaD+6I0HmebdqugI0kGAoJoE+kCYwgx39Kipg==;1FelE+LXYdOBTzQrNGHIUQ=="
 ---
 

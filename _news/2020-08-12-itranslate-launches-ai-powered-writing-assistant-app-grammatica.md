@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16972468"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16972468"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "iTranslate launches AI Powered Writing Assistant App, Grammatica"
-    excerpt: "PRNewswire/ -- iTranslate, the language technology company behind the world's leading independent translation app with over 200 million global downloads, announced today the launch of its newest product: Grammatica,"
-    publishedDateTime: 2020-08-11T01:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/itranslate-launches-ai-powered-writing-assistant-app-grammatica-2020-08-06-14183125"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1VriDbkbkM7VFGoQ39z0Sq1MF2o+f1F2/HkiVlTWC5yyzmahHJPlOWDMdqmzdTiov6TTJvj0peGGAQdGP0jjT22VikdD/t+czvTbdEfRcRYwpgHkzBt4yViN8ikQGM7QKmX1Fn3dRR5TcNSO7gFbTAIHH8cnt7SmACVcZLLzTw9yyOGYE0sMkQHadT7ALFX40F7gTa/RsMacxdZgr9CcRO6C/zbNVZo/OjQO+LkgXwu3y4Vo8ZhTmzFhCtm6VNQqUjItIkBFt7/MqeiNAyQ7mNSc16s+Ri9WN3pqrCYyITsbe/9BAfp34vhx79nnkMpDF3u+1pvw9FnDTLWKGaS+Tg==;2LaAczdspKPYB6FhOWaGZA=="
 ---

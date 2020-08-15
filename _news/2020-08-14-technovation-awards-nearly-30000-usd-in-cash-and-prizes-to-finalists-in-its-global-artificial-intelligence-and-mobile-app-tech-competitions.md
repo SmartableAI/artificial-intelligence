@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Technovation Awards Nearly $30,000 USD in Cash and Prizes to Finalists in its Global Artificial Intelligence and Mobile App Tech Competitions"
-excerpt: "Technovation, a global technology education nonprofit, announced that two teams of girls and two family teams - representing"
+excerpt: "Technovation, a global technology education nonprofit, announced that two teams of girls and two family teams - representing Kazakhstan, Kuwait, India and Ireland - were named winners at its annual Technovation World Summit held virtually August 13-14."
 publishedDateTime: 2020-08-14T19:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/technovation-awards-nearly-30-000-usd-in-cash-and-prizes-to-finalists-in-its-global-artificial-intelligence-and-mobile-app-tech-competitions-301112649.html"
+webUrl: "https://apnews.com/PR Newswire/13a274e91881f3024d0a39e14ba844cb"
 type: article
-quality: 4
-heat: 4
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1228724/Technovation_Logo.jpg?p=facebook"
-    width: 1557
-    height: 820
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "hhUX8vS4Loe3sJTkliIhYG+kMQAW0q5HsEey1ZjERvdv1LOgoTDqSyDIuzrjBnkxy1JgobG96FSG8YOc+ZOhVuQl8yKvKs3tOHHdJw6UgvimhTe/OlbTziT/Nz7C0353BPf9OPVzNjlTrDqB75q+stUFx731SCm1PzVTa88tnKSesqw2txuS3tVslr9KnDv5U7+IoBsfSAF/lLLchxvnRpledMOe4R9OR8t6n4HGDH6GjGbDVl5qtXJBnsxdJvjNAVC5eS0SlRxYA5XgyEFqT8RlnjpK5c9IhagUfvZBGL2TY7+orNBfsjWQ++fnWTh9/2dwIKWdB0Bcq9GGklEOTU8/UP3WW9zbQ3NzLO8Am2et7QkCJK9FnE7SK+d1YN4BJn1Lu/ZXvOPPE02YZDPsZ+OfYB4giBbjeRdSu0jCdD7T86Woed0VpSw8MalOxCn3QtBdqkLMHl905QbmVse3nDrAjjEdQIronkNZQMm/eWoha3OH3yFTrnbWAL8dImMDyPjECA75wXkgaJ47MZR+ZA==;sYwo2AsooGY9YRSyH3eH0A=="
+secured: "ikT4bFbHkpllQYmdDiL1TienYa9WCs4/DNm08sssz7cqyjvjv0/QMrB9TZKbmpaSZnFlEtzq+a+jAsgNDw/Q1341Hz5tfPCaKC7z8SBa6vGHOhrhntjlw7TGaT2uQKFSSgTXr0ec7Q9KB0LoDBx9lU7IZFwvMB6RLXdrHYvVcXkCC7xK0l98LQBbNL7ms3VT/ETy4PLLj/du/E3zSYHCrx4HgWHhqsIAc1dOQlKcxz/Bsxdql/fWCbS+7qxiqDdpkOLvFjhEU5vC2HKzu4PaWrgO5FcT7UVKQ1l4SHu9dP4NftDBiy45F2VnfTM69fxsDWe1F1SJ7NhQGd+67m+DFg==;zMd/sW8oddOyTwMWjRtG7w=="
 ---
 

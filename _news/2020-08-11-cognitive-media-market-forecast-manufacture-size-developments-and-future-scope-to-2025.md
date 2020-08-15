@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Analytics Market 2020 Research Study Provides Projections of COVID-19 Pandemic in its New Revised Report"
-    excerpt: "Global Cognitive Analytics Market 2020 by Company, Type and Application, Forecast to 2025 published by MarketsandResearch.biz is an in-depth analysis of the global market size, segmentation market growth,"
-    publishedDateTime: 2020-08-11T14:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-research-study-provides-projections-of-covid-19-pandemic-in-its-new-revised-report-2020-08-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Cognitive Computing Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
     excerpt: "Global Cognitive Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides exclusive vital statistics on the market covering data, information, trends, and competitive landscape details."
     publishedDateTime: 2020-08-13T01:55:00Z

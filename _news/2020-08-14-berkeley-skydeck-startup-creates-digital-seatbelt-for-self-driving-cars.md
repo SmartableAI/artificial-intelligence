@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T16:11:00Z
 webUrl: "https://news.berkeley.edu/2020/08/14/berkeley-skydeck-startup-creates-digital-seatbelt-for-self-driving-cars/"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 500
     height: 598
     isCached: true
-
-related:
-  - title: "How AI can create self-driving data centres"
-    excerpt: "Early adopters are driving the use of AI to optimise power and cooling systems, automate predictive maintenance, and improve workload distribution."
-    publishedDateTime: 2020-08-11T02:00:00Z
-    webUrl: "https://www.reseller.co.nz/article/682051/how-ai-can-create-self-driving-data-centres/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_104995220_4.jpg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "tlHPgZGmwEyM2I+TwgjNJjG27B+hrlnOsCGTIHWngT0zo+VU0K9JBSgMlqslNt6RjbCeL5lCTSi46/WCV/UjLzujFrVt8/hqzr8Ml7f1EXCbDKg2Q0CyVYrl7lfnhbLIKIs0JNq3+3N+l1N+0gE8dRa4ezU2+AO/FZwav2aSTcOQtauJMS1gIW7rkMFwk2qQZwx+7IeEtSiegHrttG99BwG+YYRQ1OXFYB9DoxmH9xfVemvgT8o1RxGu9Si2y4U75XZRsFUCc8efHwcXKeEY9F0638IuJRnqmor45bVl0a396yByJRUMM3y9wmvECzJaL1Ry8Dif34+01DWDhKP000PFywsK97u5kFKOI1vPTABWRFT+1lztfOHzN4I8M3sYrzplQodKmbr/GgBpSijzTLucBsje+lUpM6qrWMeXvF5it7tmc+RtVzaIjc1kBpez25zhJJ6Yr6lmUn15LwHcrwVODn11IYYrOsWq3Z6FUHEp+T9T3r9tQFp5EB+XJvTgoRAxkqPyAXu0quf0t4ZroA==;VdUqIiJvQGu9jPqSaCaCXA=="
 ---

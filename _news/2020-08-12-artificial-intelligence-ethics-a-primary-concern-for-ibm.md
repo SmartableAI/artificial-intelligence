@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Artificial intelligence ethics a 'primary concern' for IBM"
-excerpt: "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data."
+excerpt: "Narelle Telford says while “obviously at lot of things went wrong”, no one was to blame for the death of her elderly mother to COVID-19."
 publishedDateTime: 2020-08-12T13:48:00Z
-webUrl: "https://www.heraldsun.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162"
+webUrl: "https://www.dailytelegraph.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: heraldsun.com.au
-  domain: heraldsun.com.au
+  name: The Daily Telegraph
+  domain: dailytelegraph.com.au
 
 topics:
   - AI Ethics
   - AI
 
-secured: "uNl/MoGdZb8WgUa/jwbIvDXBqHcY1mus8PgGv9aODy+BajtSP4r8kEFH1V5kBaNQrsPZKMVBkJQcRneXXJ5O+poGAshMulMlLFS9SNc8OiqbITqWwJ3wPxy9oFYtrXQAoSUGNLjlC040kRSkFrjIZZzMv1pyBwm7jjFHgjI1wNBjf2EQRXH8Jdt+VKAf9QJl7QLsZ7yCupJkNZDXCqtRf0VZu6SRAZrBN/XvlTGar2Rmesxqbp7t6DBvVY8ggjCZeFZhJLv46KZ2YjkNp7U/28VEvBjfrRfLW4CsnUuhCcf1t6y6HimS9E7LrXFmk5GOMq2Xrp0l8SE07SZP3szRnYj9/kwndZoNya1JV1+HBQ/aZDFdYirltvQuSXOJ67e/7lSeBZMu//6eC+Zqcxra6IwdBup2P+pigxYPihUjgaYF30kJzhTWB9h15FRAUst1IDFboTQ1BnDsaE9QkMbJgrF60Jt2tE6TsE5QaZ6E5bB46E/C3qYxSHJPiORIfvbwBcG0sYWvrEreqXfjgIo6mw==;ha/Re1ZG3wmhxZDdKxfSMg=="
+secured: "viZjTCWlo/lVCBPGa/aTOcCLrhqIwei1PC9S5mYHAQOpvefXK1LQShL8wqxoQMLvaW+QJ1CuDJqlD6q2a7tBF7WgJb9awhoam7mtvVeYmM0TpCH+j4Kgd6OQHR27FuzV+n6wgRiw4LDlHW/sl83HimxCrYRcaPJKQH+jrlzXvb8PkHRkmRTtDUhxfny24yhNhjCStIewv1hux27P6slsMbJpnEiiLccgH8ajQFtGyvCLgv6q3uoOUM08Gn9y6/Dx89I1xaUuLLcF6Y4Nr+WdPaEXYVKCr/Hzwu+13oh+KLSzBtdC6G6Q6O7B934AoW2V6DH0kOCxCwJrg6sQ55Iwgm853Uaob/8r/FLL9GOdBQU286ukz5YLzlJLl3I/pd3nTd9ks4uNj7YdENFYoOCZECTigEIoC+hKJpfzqRKHSxMvKxM6+oE3h+IWZMEFg72Jl/co4YONXXBNu0Wg4+aFp/yyfbSZNAxVp2vPDren4wcVk/98R3fXidPfjOmfqvuqJzGKmZXNb3qjBc6NxxBqIg==;06GuJIxJ+SvwOeR2GKK60A=="
 ---
 

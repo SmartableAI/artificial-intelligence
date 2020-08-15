@@ -28,61 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Analytics Market latest Trends and New Technologies Research Forecast to 2026"
-    excerpt: "A Research study on Cognitive Analytics Market analyzes and offers ideas of exhaustive research on ancient and recent Cognitive Analytics market size. Along with the estimated future possibilities of the market and emerging trends in the Cognitive Analytics market."
-    publishedDateTime: 2020-08-13T07:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-13"
+  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Amidst Covid-19 Outbreak to Diminish Prospects of Sales"
+    excerpt: "ReportsnReports recently added its expanding repository with a new research study The research report entitled Cognitive System Artificial Intelligence AI Systems Market mainly includes a detailed segmentation of this sector that is expected to generate massive returns by the end"
+    publishedDateTime: 2020-08-13T18:29:00Z
+    webUrl: "https://www.openpr.com/news/2112201/cognitive-system-artificial-intelligence-ai-systems-market"
+    ampWebUrl: "https://www.openpr.com/amp/2112201/cognitive-system-artificial-intelligence-ai-systems-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112201/cognitive-system-artificial-intelligence-ai-systems-market"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Media Market Forecast, Manufacture Size, Developments and Future Scope To 2025"
-    excerpt: "Market Research Engine has published a new report titled as \" Cognitive Media Market by Component (Solutions, Services), Deployment, Enterprise Size, Technology (Deep Learning & Machine Learning, NLP),"
-    publishedDateTime: 2020-08-11T15:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-forecast-manufacture-size-developments-and-future-scope-to-2025-2020-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cognitive Analytics Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
-    excerpt: "Global Cognitive Analytics Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is generated"
-    publishedDateTime: 2020-08-15T00:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cognitive Computing Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
-    excerpt: "Global Cognitive Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides exclusive vital statistics on the market covering data, information, trends, and competitive landscape details."
-    publishedDateTime: 2020-08-13T01:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/8/T813252617_g.jpg"
+        width: 530
+        height: 401
         isCached: true
 
 secured: "qoJe47pwvsJ9gF05NHeE43AzLaPL5uDRTNXeFXoPBiq7aKjv9jTrkaa6p0dUhdYNc+tCEdcSgY/J28S11G12vbKB9xpmBoF7vC1x22Wq/Co3J2zdEls7RhUH0pu174wOD3hf8voElgpATkFYfbmDMXK7Z7EOJ3XIrwOZHuWb1XnM0TVLsSjdlydXE5iAXXeLkF9oIyLSjDyzRxTSt4fOd+uYSec8sgLPiue6hcfbg8jdTqeF5Lf0GsiFvFSx3UG2pFOenz4hqtzw9+OEDdQnK3dFZz4wZXQ161bcMrSS1zBMHZzQTPc36DQnl+HAR/aTKkU6jenyzkZiQRVmYRDxxw==;TFHcghuFRFP5pUR3Ibti+w=="
