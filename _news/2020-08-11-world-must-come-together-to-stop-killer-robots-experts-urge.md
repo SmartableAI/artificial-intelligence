@@ -51,20 +51,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 51
-  - title: "Action needed to prevent the use of killer robots, report says"
-    excerpt: "An increasing number of countries want to introduce a ban on fully autonomous weapons in order to prevent the creation of “killer robots”, a new report says. It describes weapons systems which can select and engage targets without meaningful human control as “unacceptable”."
-    publishedDateTime: 2020-08-10T11:55:00Z
-    webUrl: "https://www.shropshirestar.com/news/science-and-technology/2020/08/10/action-needed-to-prevent-the-use-of-killer-robots-report-says/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 39
-    images:
-      - url: "https://www.shropshirestar.com/resizer/aTWrkV5cWHHy6IHiOXjZVgCIUmY=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/6OWHCYM4ZRG3XKIA7LEXPFTJXI.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "Y3hGC3rSJZrL9lWdbA0VxgxGaOU14YqYXp1hZZVRZ5vJsWTT/yIKv/n2KDf+TIEK5uRSOkgL6ZoJx2g+7PTNnDEUCV0985Yw12lgASlZPnoHGrChwyQiap1r8Yxv0iGuMWUmoLM4uAnDtiYyHvxGI+n5W4+boUlBZJ7Ag2whZTtwzyWhi4bHXXYovQBGqTE0iLm9BA9aRWDCh4VoVHiv+8kSYtBD8jviXqu9TyHE9QjXOdf33LqpIhF0YDziKUVSgkg1DAibyDepfesbjFL41lCySbcY8er6D99uH68N2h1dMs7Nx3IL/Synmr9+EvWSEQxMulHAaga1mGVhLpxIrQ==;97z9Y1YmOEKUzlAXkT/UoA=="
 ---

@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Cincoze GM-1000 Embedded GPU Computer Empowers Superior Performance for Machine Vision Applications"
-excerpt: "Incorporating with AI, the GM-1000 empowers AIoT edge computing ... Taking advantage of the heterogeneous platform of CPU and GPU, GM-1000 tackles AIoT and machine learning tasks for intelligent ..."
-publishedDateTime: 2020-08-05T08:56:00Z
-webUrl: "https://www.bakersfield.com/ap/news/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications/article_98d3d10e-e384-52b5-aae3-d6782202b7f0.html"
+excerpt: "Given the explosive growth of machine vision, Cincoze, as a professional manufacturer of embedded systems, has expanded its embedded GPU computing pro"
+publishedDateTime: 2020-08-05T08:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior"
 type: article
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/e/00/e006227d-d57a-5e7d-8a5b-87a3c1459d84/5f2a6e29e6def.image.jpg?resize=960%2C630"
-    width: 960
-    height: 630
+  - url: "https://mms.businesswire.com/media/20200805005052/en/809710/23/05.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "eD/8EvRldc1PD1kUS4EPj5JepB9WpGzyXkzbdtC1ZNvflwNCwJiv8606FQudB2/ft5Qk2eXOjDKskZ/V+f/oyn9teEMJf/bWaCoYOUD3a1PD6udzGmL06zyI3Ee8FRFVOeAGbFOlrHYfU0Wj57eQRTVLMe+dTi+1iR77DFftgmU0M8jLT1RjtgTnjPNdY5vsu+k45oTT/v7vnDiyDNljSL1x6xw+RvHxJEfbaHO3G9lpihL4m3FOKp29gt1uHhX/8kjKMW0G9sAOpN67Ah2v5O8YFcUESmjMjcuLbkEeLvDcxDooZA8sSsHXfr/wgQx+njbeF8e9Og2T1p5b6GByaA==;LH93EPxa/lLnzTOuAGQdCg=="
+secured: "ZwjEPFnxo6yGF7B8WnKcaVaKKBUuGxG11WFqF4tPGd15Bb9V34JUwrBbik9vLnxK+QsG6V5lFeA0m+L1+hcrO50A2/nSyA2Kx1c49mLZfPKyjE/1eI6z3FF0X4BlIMw0OCBVaNcX6qwc1sz+Kot+IKU4B5loVgQN8MVEuOP54YoLa257EVt3xDde7f5EhXUcxE61gwXQickv8PiNtXgVEN0xbtdWukeqxsQLTkYYkGuRgxqRs2RuJXFnotLiq95C6X2piKT/hQ9kgFJqdtjCH6QP6UFaBjddAYI4bZrT+OLIuhTvvUH9U2gMyf4M9WTHDyhd1J3DTRk6FuAXqlbhcg==;EFn3fgi1Yz/vnB3JpZSReA=="
 ---
 

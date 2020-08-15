@@ -126,6 +126,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Clearview AI wins an ICE contract as it prepares to defend itself in court"
+    excerpt: "The American Civil Liberties Union sued Clearview in May for allegedly violating Illinois’ Biometric Information Privacy Act. Lawsuits accusing the company of breaking privacy and safety laws have been filed in several other states."
+    publishedDateTime: 2020-08-14T18:04:00Z
+    webUrl: "https://www.engadget.com/ice-clearview-ai-facial-recognition-180144627.html"
+    ampWebUrl: "https://www.engadget.com/amp/ice-clearview-ai-facial-recognition-180144627.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ice-clearview-ai-facial-recognition-180144627.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 85
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F37b76ea0-b7ea-11ea-ae6e-0754f7707483&client=amp-blogside-v2&signature=780183f0f0569b4c83b66a9741836ca5bd9c9d11"
+        width: 600
+        height: 350
+        isCached: true
   - title: "ICE just signed a contract with Clearview AI, the controversial facial recognition company that scrapes photos from social media"
     excerpt: "ICE is known to use facial recognition technology to identify people and subsequently carry out raids that lead to deportations."
     publishedDateTime: 2020-08-14T19:09:00Z

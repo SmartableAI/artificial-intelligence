@@ -1,28 +1,41 @@
 ---
 category: news
 title: "Colorado State University Global Launches Fully Online Artificial Intelligence and Machine Learning Master's Degree"
-excerpt: "Colorado State University Global (CSU Global) -- a premier provider of innovative higher-learning opportunities through high-quality, career-relevant, and affordable online education -- is proud to announce its new Artificial Intelligence (AI) and Machine Learning (ML) master's degree."
-publishedDateTime: 2020-08-13T21:43:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/colorado-state-university-global-launches-fully-online-artificial-intelligence-and-machine-learning-master-s-degree-1029503135"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/colorado-state-university-global-launches-fully-online-artificial-intelligence-and-machine-learning-master-s-degree-1029503135"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/colorado-state-university-global-launches-fully-online-artificial-intelligence-and-machine-learning-master-s-degree-1029503135"
+excerpt: "PRNewswire-PRWeb/ -- Colorado State University Global (CSU Global) -- a premier provider of innovative higher-learning opportunities through"
+publishedDateTime: 2020-08-13T21:30:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17081259/colorado-state-university-global-launches-fully-online-artificial-intelligence-and-machine-learnin"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17081259"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17081259"
 type: article
-quality: 62
-heat: 62
+quality: 15
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "RKVaof5sT7RLcnyYxq/ff0isU1+JxWFwzfWR6azCZsWxGgjZ+FRManR9B1F8s4WnGaTqRT4anPbVTWOtAOvirQL7xd+TpxgVybimGtL2kmZj55Ft+koJOO1sraJETSftB9bsvEmDnGMdtiVMyX1Bl1qq3cmyJmfk0bOk0SAWZSp8HWRXvpQ1DITHAac8VpiWixEfV8x3DVY5Z33RxANKDBCjIEJMhbm4PWNoJqOWhdIUp544CDec6I9jYyfRsLwRDoFSpSJnc2oiDZqOK6bk+8E64ZeeOtjPKi7UHbEMJs7kYCPbSaK3YST5pzUY7Wkag4ssVYVl/vFHiV18rSX/cQ==;Ntdn+qiTh2BAf4l/ClFZxg=="
+related:
+  - title: "IBM launches three free AI-focused online learning platforms for young people and their teachers"
+    excerpt: "Teachers working with younger students in the K-8 range can use IBM's Teacher Advisor with Watson to better plan lessons that meet the individual needs of their students. Rather than teaching particular AI-based skills and information about emerging ..."
+    publishedDateTime: 2020-08-13T14:42:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "0LWnhpDidgWkNcX6afHiIWu5BBSiuSrG/ey45b3aTVxWDwfeWUigtaLs/ch+p/QDw2CSzcnhgJLJee5hTCzyGo2/Sigv3OdnHS/soqRcQGbsUJ+SqCo7pNy7y78SQL4y7GZV7hh4WNSbbF9OCJyqeo7hFjaA+QyeGlomkCL6X8uBn4TXdPlnaXwfWv+glB2gGsUin+a1qThX2aPcDyitkMKV/OO/Aa8szcO3T3OXO32VTLnC/Z1K048Px6m3k4XCSFlfhVR7QwgUSeWObmy+Enle+004+olbwlBeuqlX+/rrPDnRxOLTJihLIeyWl/Fik9/eBuSlhBBljx1+hedfeQ==;pjLz4vczWVOtZYgMuQ4aTw=="
 ---
 

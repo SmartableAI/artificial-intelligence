@@ -42,76 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Research with COVID-19 After Effects, Development Factors and Growth Analysis (2020-2026)"
-    excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) in Healthcare Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
-    publishedDateTime: 2020-08-11T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Inclinations & Development Status Highlighted During Forecast Period 2019-2025"
-    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
-    publishedDateTime: 2020-08-10T12:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-inclinations-development-status-highlighted-during-forecast-period-2019-2025-2020-08-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market - COVID-19 Impact Analysis, Trends, Business Profiles and Forecast to 2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
-    publishedDateTime: 2020-08-12T10:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market---covid-19-impact-analysis-trends-business-profiles-and-forecast-to-2025-2020-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market | 2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Forecast by Size, Share, Trends and Growth Forecast"
-    publishedDateTime: 2020-08-13T07:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Research, Development, Top Companies, Trends And Growth 2020 To 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
-    publishedDateTime: 2020-08-13T19:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-development-top-companies-trends-and-growth-2020-to-2025-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Military Artificial Intelligence (AI) And Cybernetics Industry 2020 by Market Analysis, Growth Opportunity, Future and Forecast to 2026"
     excerpt: "A comprehensive analysis of the different factors and parameters is carried out in the report that has been published on the global Military Artificial Intelligence (AI) And Cybernetics Market. The market concentration of the products sold in the different market segments is identified and is presented in the report."
     publishedDateTime: 2020-08-13T12:48:00Z
@@ -267,6 +197,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Artificial Intelligence in Drug Discovery Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
+    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is estimated to value over USD 2.08 billion by 2027 end with a CAGR of over 40.5% during the forecast period 2020 to 2027. The research report titled Artificial Intelligence in Drug Discovery offers comprehensive information on key driving factors,"
+    publishedDateTime: 2020-08-14T18:21:00Z
+    webUrl: "https://ipsnews.net/business/2020/08/14/artificial-intelligence-in-drug-discovery-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2027/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2020/08/4375-1597392623.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "0FL4NY8je9k6D3Xcbd+JizwA6gpWmqRjir+SCXWZMH0kh0RlaLCqwdUO1HSY4mArQracAzdZXeofxETuHYr7+AuMspdXSkclCNFNMdlURd7i7H+HDEHZqLfbiKNGhk6uTFbjio5BzoMa+PKoghuHYxONBn4SQJla4Pt9zAWkT6Meu6+C+KGHLHeC8QXvrBbQAq4WES0UtK2rd2c1lKWWBd3SZ/yVC8uV30jVJs5EaHmO47qcmvTh7lqfh2EG0KxUjyfTr1+iP/ozyyqwFcReTrCuaGF9loCkExU17OAyI0t1FpJR4w78egRfwrJpZpscw2Jh6tWa2H/cCfn6Twhaxg==;pkFD8uNSHD+z1KgD/oEmLg=="
 ---

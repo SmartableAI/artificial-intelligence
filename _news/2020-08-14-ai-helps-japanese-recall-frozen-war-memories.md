@@ -42,6 +42,22 @@ related:
         isCached: true
   - title: "Melting 'frozen memories,' artificial intelligence helps Japanese recall days of World War II"
     excerpt: "The 75th anniversary of the end of World War II is Saturday, giving attention to a Tokyo University project to painstakingly colorize photos using artificial intelligence."
+    publishedDateTime: 2020-08-15T00:30:00Z
+    webUrl: "https://journalstar.com/news/national/melting-frozen-memories-artificial-intelligence-helps-japanese-recall-days-of-world-war-ii/article_a0538e94-6411-556e-bb09-1fa3b0d0d68b.html"
+    ampWebUrl: "https://journalstar.com/news/national/melting-frozen-memories-artificial-intelligence-helps-japanese-recall-days-of-world-war-ii/article_a0538e94-6411-556e-bb09-1fa3b0d0d68b.amp.html"
+    cdnAmpWebUrl: "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/news/national/melting-frozen-memories-artificial-intelligence-helps-japanese-recall-days-of-world-war-ii/article_a0538e94-6411-556e-bb09-1fa3b0d0d68b.amp.html"
+    type: article
+    provider:
+      name: Lincoln Journal Star
+      domain: journalstar.com
+    quality: 46
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/d/19/d198aac9-21ef-529e-87e4-e5247b871e42/5f3605d431b43.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Melting 'frozen memories,' artificial intelligence helps Japanese recall days of World War II"
+    excerpt: "The 75th anniversary of the end of World War II is Saturday, giving attention to a Tokyo University project to painstakingly colorize photos using artificial intelligence."
     publishedDateTime: 2020-08-14T16:30:00Z
     webUrl: "https://buffalonews.com/news/national/melting-frozen-memories-artificial-intelligence-helps-japanese-recall-days-of-world-war-ii/article_7ba9c7f6-5af7-52fb-b730-273b7a2a7e70.html"
     type: article

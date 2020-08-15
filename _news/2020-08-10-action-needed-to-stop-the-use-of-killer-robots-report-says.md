@@ -8,7 +8,7 @@ ampWebUrl: "https://news.sky.com/story/amp/action-needed-to-stop-the-use-of-kill
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 51
-  - title: "Action needed to prevent the use of killer robots, report says"
-    excerpt: "An increasing number of countries want to introduce a ban on fully autonomous weapons in order to prevent the creation of “killer robots”, a new report says. It describes weapons systems which can select and engage targets without meaningful human control as “unacceptable”."
-    publishedDateTime: 2020-08-10T11:55:00Z
-    webUrl: "https://www.shropshirestar.com/news/science-and-technology/2020/08/10/action-needed-to-prevent-the-use-of-killer-robots-report-says/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 39
-    images:
-      - url: "https://www.shropshirestar.com/resizer/aTWrkV5cWHHy6IHiOXjZVgCIUmY=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/6OWHCYM4ZRG3XKIA7LEXPFTJXI.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "World must come together to stop killer robots, experts urge"
     excerpt: "Removing human control from the use of force is now widely regarded as a grave threat to humanity that, like climate change, deserves urgent multilateral action,' says campaigner"
     publishedDateTime: 2020-08-11T08:55:00Z

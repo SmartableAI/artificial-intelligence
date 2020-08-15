@@ -2,6 +2,79 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-07-07-google-cloud-gets-new-ai-smarts-with-nvidia-a100-instance.md",
+      "title": "Google Cloud Gets New AI Smarts With Nvidia A100 Instance",
+      "excerpt": "Google Cloud becomes the first cloud provider to launch an instance running Nvidia's A100 GPUs with its new A2 VM instance on the Google Compute Engine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/google-cloud-gets-new-ai-smarts-with-nvidia-a100-instance",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/025f-0fd4d7399370-201d85f07f1c-1000/google-cloud-next-intro_002_.jpg",
+          "width": 609,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board.md",
+      "title": "Intermountain Healthcare Implements DeepThink Health's Precision Intelligence Solutions to Manage its Molecular Tumor Board",
+      "excerpt": "July 7, 2020 /PRNewswire/ -- DeepThink Health, Inc., a technology innovator in advanced analytics and artificial intelligence for ... for molecular testing, therapy selection, and clinical trial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/health-press-release/intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board-476398-1.htm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-leverage-ai-innovation-with-gpu-optimized-solutions.md",
       "title": "Leverage AI Innovation with GPU-Optimized Solutions",
       "excerpt": "The ability to break computationally-intensive assignments into pieces and begin solving them simultaneously is the main reason why GPU computing is the ideal fit for AI, deep learning, and other highly analytical workloads. NVIDIA’s industry-leading ...",
@@ -1016,96 +1089,6 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-new-ai-project-captures-jane-austens-thoughts-on-social-media.md",
-      "title": "New AI project captures Jane Austen’s thoughts on social media",
-      "excerpt": "A new AI project from magician and novelist Andrew Mayne creates simulated conversations with historical figures including Isaac Newton and Edgar Allen Poe.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-95-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "New AI project captures Jane Austen’s thoughts on social media",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
-      "publishedDateTime": "2020-07-06T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture.md",
-      "title": "AI and robotics to redefine businesses - Accenture",
-      "excerpt": "The 20th edition of Accenture's annual report predicts that artificial intelligence and robotics will be among the key technology trends that will redefine businesses over the next three years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/business/2020/0706/1151662-ai-and-robotics-to-redefine-businesses-accenture/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/000d9006-642.jpg",
-          "width": 642,
-          "height": 361,
-          "title": "AI and robotics to redefine businesses - Accenture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rte.ie/amp/1151662/ ",
-      "cdnAmpWebUrl": "https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1151662/ ",
-      "publishedDateTime": "2020-07-06T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
         "images": null,
         "publishers": null,
         "authors": null

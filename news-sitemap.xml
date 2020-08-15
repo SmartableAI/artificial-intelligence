@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/</loc>
+    <lastmod>2020-08-14T22:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/</loc>
     <lastmod>2020-08-14T15:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -824,7 +830,7 @@
   </url>
   <url>
     <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
-    <lastmod>2020-08-07T23:16:00-07:00</lastmod>
+    <lastmod>2020-08-08T01:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1165,6 +1171,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://edtechmagazine.com/higher/k12/article/2020/08/improving-online-learning-and-more-artificial-intelligence</loc>
+    <lastmod>2020-08-05T12:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/</loc>
     <lastmod>2020-08-05T10:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1273,8 +1285,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bakersfield.com/ap/news/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications/article_98d3d10e-e384-52b5-aae3-d6782202b7f0.html</loc>
-    <lastmod>2020-08-05T01:56:00-07:00</lastmod>
+    <loc>https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior</loc>
+    <lastmod>2020-08-05T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3181,7 +3193,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.arnnet.com.au/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
+    <loc>https://www.reseller.co.nz/mediareleases/134604/natural-language-processing-nlp-in-healthcare-and/</loc>
     <lastmod>2020-07-26T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3391,8 +3403,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-1029428765</loc>
-    <lastmod>2020-07-24T06:19:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html</loc>
+    <lastmod>2020-07-24T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
