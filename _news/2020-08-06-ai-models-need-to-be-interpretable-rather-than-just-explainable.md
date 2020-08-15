@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-2-796x417.jpg"

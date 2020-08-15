@@ -2,6 +2,137 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-06-24-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years.md",
+      "title": "Digital Transformation Report: AI, Cloud based SaaS, and the Latest Fintech will Transform Banking in Next 5 Years",
+      "excerpt": "Max Chuard, CEO at Temenos , a Switzerland-based banking software company, notes that the COVID-19 outbreak has accelerated the demand for the latest banking technologies and othe",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/Bank-Banking-Teller-Wait-Queue-Delay-600x800.jpg",
+          "width": 600,
+          "height": 800,
+          "title": "Digital Transformation Report: AI, Cloud based SaaS, and the Latest Fintech will Transform Banking in Next 5 Years",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/amp/",
+      "publishedDateTime": "2020-06-23T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization.md",
+      "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
+      "excerpt": "Artificial intelligence has been put to amazing use. However, AI systems can’t do anything at all without access to data to train the machine learning models. And much of that data is locked in documents in paper or electronic form or in human-controlled processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef270f1c708900006e39c79%2F0x0.jpg",
+          "width": 749,
+          "height": 407,
+          "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
+      "publishedDateTime": "2020-06-23T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-4-reasons-to-use-artificial-intelligence-in-your-next-embedded-design.md",
+      "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
+      "excerpt": "For many, just mentioning artificial intelligence brings up mental images of sentient robots at war with mankind and man’s struggle to avoid the endangered species list. While this may one day be a real scenario for when (perhaps a big if?) mankind ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/4-reasons-use-artificial-intelligence-your-next-embedded-design",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/difference_between_ai__machine_learning_and_deep_learning.png",
+          "width": 2526,
+          "height": 1442,
+          "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
       "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
       "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
@@ -1270,138 +1401,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace.md",
-      "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World’s Largest API Marketplace",
-      "excerpt": "RapidAPI,the world’s largest API Marketplace that helps developers find and connect to thousands of APIs, announced today that it has added a dozen",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace-2020-05-27?mod=mw_quote_news&tesla=y",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World’s Largest API Marketplace",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-didi-chuxing-targets-1-million-autonomous-taxis-by-2030.md",
-      "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
-      "excerpt": "China’s ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Didi.png?w=1200&#038;strip=all",
-          "width": 1199,
-          "height": 603,
-          "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
-      "publishedDateTime": "2020-06-23T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-painter-2021-harnesses-the-power-of-ai-for-professional-artists.md",
-      "title": "Painter 2021 Harnesses the Power of AI for Professional Artists",
-      "excerpt": "AI-Based Art Styles Make the most of Painter's innovative AI ... Painter 2021 now also offers twice as many GPU-accelerated stamp brushes, up to four times faster drip and liquid brush technologies, and quicker brush and tool switching.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16351260/painter-2021-harnesses-the-power-of-ai-for-professional-artists",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16351260",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16351260",
-      "publishedDateTime": "2020-06-23T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

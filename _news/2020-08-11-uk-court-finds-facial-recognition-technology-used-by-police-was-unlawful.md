@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
+    excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
+    publishedDateTime: 2020-08-15T14:57:00Z
+    webUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335"
+    ampWebUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 88
+    images:
+      - url: "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Police use of facial recognition violates human rights, UK court rules"
     excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."
     publishedDateTime: 2020-08-11T21:08:00Z

@@ -7,8 +7,8 @@ webUrl: "https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-
 ampWebUrl: "https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/amp/"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/08/SA-GettyImages-176838456_web.jpg?w=3000"

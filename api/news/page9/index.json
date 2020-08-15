@@ -2,6 +2,146 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-05-researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants.md",
+      "title": "Researchers say we need better benchmarks to build more useful AI assistants",
+      "excerpt": "AI researchers from Element AI, Stanford University, and CIFAR recommend more useful forms of AI that speak with people to get things done.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/echo-dot-home-mini-e1578632867450.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/researchers-say-we-need-better-benchmarks-to-build-more-useful-ai-assistants/amp/",
+      "publishedDateTime": "2020-08-05T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-improving-online-learning-and-more-with-artificial-intelligence.md",
+      "title": "Improving Online Learning and More with Artificial Intelligence",
+      "excerpt": "In 2015, Ashok Goel and his colleagues at the Georgia Institute of Technology informed a class of students that a new teaching assistant named Jill Watson would be joining their course on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/higher/k12/article/2020/08/improving-online-learning-and-more-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202008/HET_Q320_Feat_Peterson_Hero.jpg?itok=KDPv5w8m",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/higher/k12/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2020/08/improving-online-learning-and-more-artificial-intelligence?amp",
+      "publishedDateTime": "2020-08-05T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-worlds-first-ai-generated-arts-festival-program-opens-this-friday.md",
+      "title": "‘World’s first’ AI-generated arts festival program opens this Friday",
+      "excerpt": "The Edinburgh Fringe is the world’s largest performing arts festival, but this year’s event has sadly been canceled due to COVID-19. Fortunately, art junkies can still get the",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-05T171319.315-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/amp/",
+      "publishedDateTime": "2020-08-05T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-nih-harnesses-artificial-intelligence-and-medical-imaging-to-fight-covid-19.md",
       "title": "NIH harnesses artificial intelligence and medical imaging to fight COVID-19",
       "excerpt": "The National Institutes of Health has launched the Medical Imaging and Data Resource Center, an ambitious effort that will harness the powers of artificial intelligence, and medical imaging to fight COVID-19.",
@@ -791,31 +931,31 @@
     {
       "path": "_news/2020-08-05-cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications.md",
       "title": "Cincoze GM-1000 Embedded GPU Computer Empowers Superior Performance for Machine Vision Applications",
-      "excerpt": "Given the explosive growth of machine vision, Cincoze, as a professional manufacturer of embedded systems, has expanded its embedded GPU computing pro",
+      "excerpt": "Incorporating with AI, the GM-1000 empowers AIoT edge computing ... Taking advantage of the heterogeneous platform of CPU and GPU, GM-1000 tackles AIoT and machine learning tasks for intelligent ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/b16937587/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-application",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200805005052/en/809710/23/05.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://mms.businesswire.com/media/20200805005052/en/809710/4/05.jpg",
+          "width": 480,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T01:00:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16937587",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16937587",
+      "publishedDateTime": "2020-08-05T02:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -998,120 +1138,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-egypt-refutes-elon-musks-claim-that-aliens-built-the-pyramids.md",
-      "title": "Egypt Refutes Elon Musk's Claim That Aliens Built the Pyramids",
-      "excerpt": "Elon Musk may think aliens built the Great Pyramids; usually, here's the point where we might say something about 2020 being the most bizarre year on record, but since you already know that — let's just hop right into it.",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/elonmusk?ref_src=twsrc^google|twcamp^serp|twgr^author",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison.md",
-      "title": "Former Uber self-driving car exec sentenced to 18 months in prison",
-      "excerpt": "Anthony Levandowski, a former Uber executive who oversaw its self-driving vehicle efforts, pleaded guilty and was sentenced to 18 months in prison",
-      "sourceUrl": null,
-      "webUrl": "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sunbeamwsvn.files.wordpress.com/2020/08/hypatia-h_8d034b172cf90c1ce3d300b22606aa84-h_6cee06fbf6c0077cb7fa53a4f7c8ae18.jpg?quality=60&strip=color&w=1200",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/",
-      "cdnAmpWebUrl": "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/former-uber-self-driving-car-exec-sentenced-to-18-months-in-prison/amp/",
-      "publishedDateTime": "2020-08-04T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News Miami",
-        "domain": "wsvn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-microsoft-backs-35m-round-into-miniature-ai-chip-startup-syntiant.md",
-      "title": "Microsoft backs $35M round into miniature AI chip startup Syntiant",
-      "excerpt": "Microsoft Corp.’s M12 arm has placed a bet on Syntiant Inc., the startup behind tiny artificial intelligence chips for connected devices that it says is 100 times more power-efficient than rivals. M12 co-led a $35 million funding round into Syntiant that was announced this morning.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/08/04/microsoft-backs-35m-round-miniature-ai-chip-startup-syntiant/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/syntiant.png",
-          "width": 718,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Hardware"
       ]
     }
   ],

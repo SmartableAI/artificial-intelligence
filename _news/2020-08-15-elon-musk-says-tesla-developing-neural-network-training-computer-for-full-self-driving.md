@@ -7,8 +7,8 @@ webUrl: "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-t
 ampWebUrl: "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"
 type: article
-quality: 66
-heat: 86
+quality: 83
+heat: 103
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://data.ibtimes.sg/en/full/40282/elon-musk.jpg"
@@ -54,6 +55,6 @@ related:
         height: 554
         isCached: true
 
-secured: "WMfG3+mUoWXGGsnYpQI9d8KTYu86aDA4BM90eCEgHcCEChtHh33S7qHYYEcM4R9Gbd3FltqLtes+gOcRHlngVIUKh+YiC5eG9hshiULXc64Kts+qO1oKQNim0dv5nE4jIrT6xa+G6eumrEpmQHIPxKuU30jlWx1uPzi2U/vtzHitC5Txm7KveU97T0DVOUKy0bCDVTJaU/jckdniv7hCAfz+K95GUnryWs3RGKydyIiI6S6mE9s46MLUIA6+iA1bGvZgdgoYigVstqZwGZleRY6d47NV3l8rc8TTHWOuBIEYg2fcl7Rfi1sl9W7/idfsYEZcY4ad0ThrLep8lz5fyw==;DlVYfFfO/XI/EJ3XRi1oEQ=="
+secured: "k/EYaRfKe8b1dlo1riRwPCJrSmj/x9Rv6y6Va6xRZrLpudJaxt3otjR3cvAjdYWLlZPu8kHBZeUqYHpKliUdhI5KYkIjZhZagEs7/8PN39SfYTJ18W+3/ddrmF6sbDxZw/GAWNGgzpG/PjekGpNt28UREhzX5PBcJh+y8tpK+pAiUuA2FPGwIJqtRJff2rIZdnSWRujRigWVtktjq1JlQ9EPI9L01PuYV/kaxVUhXk41F86m6mDoib7I3xRnrztRSsVvXxbpFkaZxkSQwqCqprpHEdXMkxz0djnidpfor5GNtkEd26WXYT1CVTm5vKJ8DWMvd5y6ONCOWvLQLtV6VSAA9X6CBWoKfXURVfG1JWWTXAnmtWQwm3C7gUN3QcKR8AxVpL2XHx7bRQS+aDv2jg4MViRxvqfmVOMtG71f+xWNHtRv3rSm5JTVsWamLICtV8eiKpurIN/8RZZpcBtQBF4Pi3vDBGZNTu7jOQg5AGbLXERjGObMUtmQf2H/Sg3cQ1bbkmeBoz9aRl2vQ8mZCA==;bcmR3iu41c1XIZb5e9iS+A=="
 ---
 

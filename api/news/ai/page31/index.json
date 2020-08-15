@@ -2,6 +2,147 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-07-15-microsoft-partners-with-land-olakes-to-build-agriculture-tech-on-azure.md",
+      "title": "Microsoft partners with Land O’Lakes to build agriculture tech on Azure",
+      "excerpt": "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg",
+          "width": 950,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
+      "publishedDateTime": "2020-07-15T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-heathrow-airport-deploys-anti-virus-robots-and-testing-to-skip-uk-quarantine.md",
+      "title": "Heathrow Airport Deploys Anti-Virus Robots And Testing To Skip U.K. Quarantine",
+      "excerpt": "London's Heathrow Airport is doing everything in its power to encourage travelers back to the skies. The airport has faced a bleak few months with the number of passengers in June down 95% from the previous year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f43d5ba9bb1000708a5c5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5905%26cropY1%3D299%26cropY2%3D3621",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
+      "publishedDateTime": "2020-07-15T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-core-scientific-acquires-atrio-strengthening-its-ai-capabilities-as-the-cloud-for-data-scientists.md",
+      "title": "Core Scientific Acquires Atrio, Strengthening Its AI Capabilities as the Cloud for Data Scientists™",
+      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for Artificial Intelligence (AI) and blockchain led by CEO Kevin Turner, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200715005690/en/Core-Scientific-Acquires-Atrio-Strengthening-AI-Capabilities",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200715005690/en/805707/23/Core_Scientific_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-how-chase-is-using-ai-to-update-banking.md",
       "title": "How Chase is using AI to update banking",
       "excerpt": "Last Chance: Register for Transform, VB's AI event of the year, hosted online July 15-17. As one of the so-called “big four” U.S. banks, Chase needs little in the way of introduction.",
@@ -1263,156 +1404,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars.md",
-      "title": "'Hands free': Automakers race to next level of not quite self-driving cars",
-      "excerpt": "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0ed4b4f0f4194e5c33bb62?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp",
-      "publishedDateTime": "2020-07-15T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-coping-with-inconsistent-facial-recognition-in-apple-photos.md",
-      "title": "Coping with inconsistent facial recognition in Apple Photos",
-      "excerpt": "It is extremely handy to tag people you know in photos you take. You can then easily find images of those people across time and at specific events. This feature appears in Photos in iOS, iPadOS, and macOS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/apple-photos-100851579-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html",
-      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html",
-      "publishedDateTime": "2020-07-15T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
-      "title": "Japanese robot to clock in at a convenience store in test of retail automation",
-      "excerpt": "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525982928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM",
-          "width": 782,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24G138",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138",
-      "publishedDateTime": "2020-07-15T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.futurity.org/wp/wp-content/uploads/2020/08/artificial-intelligence-language-learning_1600.jpg"

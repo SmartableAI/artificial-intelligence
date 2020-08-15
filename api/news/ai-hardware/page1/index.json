@@ -326,6 +326,38 @@
       ]
     },
     {
+      "path": "_news/2020-08-07-weride-chooses-wekaio-to-manage-its-ai-data-pipeline.md",
+      "title": "WeRide Chooses WekaIO to Manage Its AI Data Pipeline",
+      "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance and scalable file storage, announced today that WeRide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/weride-chooses-wekaio-to-manage-its-ai-data-pipeline/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-ai-chip-market-set-for-rapid-growth-to-reach-cagr-of-over-449-by-2030-nvidia-xilinx-ibm.md",
       "title": "AI Chip Market Set for Rapid Growth to Reach CAGR of Over 44.9% by 2030 - NVIDIA, Xilinx, IBM",
       "excerpt": "AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 to 2030. Artificial intelligence (AI) chips refer to a new gener",
@@ -360,31 +392,31 @@
     {
       "path": "_news/2020-08-05-cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications.md",
       "title": "Cincoze GM-1000 Embedded GPU Computer Empowers Superior Performance for Machine Vision Applications",
-      "excerpt": "Given the explosive growth of machine vision, Cincoze, as a professional manufacturer of embedded systems, has expanded its embedded GPU computing pro",
+      "excerpt": "Incorporating with AI, the GM-1000 empowers AIoT edge computing ... Taking advantage of the heterogeneous platform of CPU and GPU, GM-1000 tackles AIoT and machine learning tasks for intelligent ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/b16937587/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-application",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200805005052/en/809710/23/05.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://mms.businesswire.com/media/20200805005052/en/809710/4/05.jpg",
+          "width": 480,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T01:00:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16937587",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16937587",
+      "publishedDateTime": "2020-08-05T02:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -495,7 +527,7 @@
       "title": "cnvrg.io AI OS Delivers Accelerated ML Workloads of All Sizes with Native Support of NVIDIA A100 Multi-Instance GPU to its ML Platform",
       "excerpt": "PRNewswire/ -- cnvrg.io AI OS for machine learning today announces native integration of NVIDIA multi-instance GPU (MIG) technology to its data",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html",
+      "webUrl": "https://www.prnewswire.com/il/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -513,7 +545,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T06:00:00-07:00",
+      "publishedDateTime": "2020-08-04T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -686,23 +718,32 @@
     {
       "path": "_news/2020-08-03-solidus-making-waves-in-the-ai-sector.md",
       "title": "Solidus making waves in the AI sector",
-      "excerpt": "Established 2017 Solidus Technologies have been raising funds and working on building a data centre built for the purpose of High",
+      "excerpt": "Established 2017 Solidus Technologies have been raising funds and working on building a data centre built for the purpose of High Power Computing and processing Blockchain networks along with Artificial Intelligence applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n16891775/solidus-making-waves-in-the-ai-sector",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/solidus-making-waves-in-the-ai-sector-1029460371",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16891775",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16891775",
-      "publishedDateTime": "2020-08-03T00:00:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/solidus-making-waves-in-the-ai-sector-1029460371",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/solidus-making-waves-in-the-ai-sector-1029460371",
+      "publishedDateTime": "2020-08-03T00:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1327,57 +1368,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
-      "title": "Facebook develops AI algorithm that learns to play poker on the fly",
-      "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly/amp/",
-      "publishedDateTime": "2020-07-28T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
       ]
     }
   ],

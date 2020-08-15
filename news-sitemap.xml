@@ -223,7 +223,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://root-ai.com/</loc>
+    <loc>https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/</loc>
     <lastmod>2020-08-13T07:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -403,6 +403,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.scmp.com/comment/opinion/article/3097020/ai-medical-research-why-innovation-must-not-be-left-innovators</loc>
+    <lastmod>2020-08-12T06:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://timesofindia.indiatimes.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/articleshow/77506827.cms</loc>
     <lastmod>2020-08-12T06:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -465,6 +471,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/securing-amazon-comprehend-api-calls-with-aws-privatelink/</loc>
     <lastmod>2020-08-11T12:31:10-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/facebook-bans-implicit-hate-speech-like-blackface-2020-8</loc>
+    <lastmod>2020-08-11T11:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -847,8 +859,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
-    <lastmod>2020-08-08T01:19:00-07:00</lastmod>
+    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
+    <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -931,12 +943,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html</loc>
-    <lastmod>2020-08-07T05:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/</loc>
     <lastmod>2020-08-07T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -961,8 +967,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716</loc>
+    <lastmod>2020-08-07T00:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025-2020-08-07</loc>
     <lastmod>2020-08-06T23:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.financialbuzz.com/weride-chooses-wekaio-to-manage-its-ai-data-pipeline/</loc>
+    <lastmod>2020-08-06T21:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1303,8 +1321,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior</loc>
-    <lastmod>2020-08-05T01:00:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/b16937587/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-application</loc>
+    <lastmod>2020-08-05T02:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1413,6 +1431,12 @@
   <url>
     <loc>https://medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.html</loc>
     <lastmod>2020-08-04T13:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/il/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
+    <lastmod>2020-08-04T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1533,12 +1557,6 @@
   <url>
     <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
     <lastmod>2020-08-04T06:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
-    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1795,8 +1813,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/n16891775/solidus-making-waves-in-the-ai-sector</loc>
-    <lastmod>2020-08-03T00:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/solidus-making-waves-in-the-ai-sector-1029460371</loc>
+    <lastmod>2020-08-03T00:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

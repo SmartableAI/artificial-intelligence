@@ -2,6 +2,98 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-08-07-hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce.md",
+      "title": "Hypotenuse AI wants to take the strain out of copywriting for ecommerce",
+      "excerpt": "Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1158990325.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
+      "publishedDateTime": "2020-08-07T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape.md",
+      "title": "Google's AI thinks women wearing masks have mouths covered with duct tape",
+      "excerpt": "According to a study, the visual AIs of Microsoft, Google and IBM have a lot to do to catch up with the real world. Some of the study's results are truly disturbing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
+      "publishedDateTime": "2020-08-07T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons.md",
       "title": "IBM and Michael J. Fox Foundation develop machine learning model for Parkinson’s",
       "excerpt": "The research arm of Big Blue and The Michael J. Fox Foundation (MJFF) have developed a machine learning disease progression model as part of further research into Parkinson's disease (PD). PD is a chronic,",
@@ -98,47 +190,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall.md",
-      "title": "TCS a leader in advanced digital workplace services: NelsonHall",
-      "excerpt": "Tata Consultancy Services intellectual property, defined modern workplace offerings, and investments in TCS Pace Port and digital reimagination studios were cited as key strengths.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html",
-      "publishedDateTime": "2020-08-07T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -331,6 +382,38 @@
       ]
     },
     {
+      "path": "_news/2020-08-07-tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall.md",
+      "title": "TCS a leader in Advanced Digital Workplace Services - NelsonHall",
+      "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organisation, has been recognised as a Leader in the NelsonHall NEAT for Advanced Digital Workplace Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Equity Bulls",
+        "domain": "equitybulls.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025.md",
       "title": "Artificial Intelligence as a Service Market Size to Witness Huge Growth by 2025",
       "excerpt": "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence as a Service Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence as a service market is poised to accumulate considerable revenues by the year 2025.",
@@ -378,6 +461,38 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-weride-chooses-wekaio-to-manage-its-ai-data-pipeline.md",
+      "title": "WeRide Chooses WekaIO to Manage Its AI Data Pipeline",
+      "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance and scalable file storage, announced today that WeRide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/weride-chooses-wekaio-to-manage-its-ai-data-pipeline/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1255,128 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies.md",
-      "title": "Salesforce open-sources the AI Economist, a research environment for exploring tax policies",
-      "excerpt": "Salesforce today open sourced the AI Economist, a research environment that leverages AI to arrive at optimal tax policies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot66_photo_x4-e1596572153473.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
-      "publishedDateTime": "2020-08-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-deep-learning-market-size.md",
-      "title": "DEEP LEARNING MARKET SIZE",
-      "excerpt": "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T806326785_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
-      "publishedDateTime": "2020-08-06T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer.md",
-      "title": "Artificial Intelligence System Tops One Billion Neurons on a Desktop Computer",
-      "excerpt": "In a significant advance in the development of Artificial General Intelligence (AGI), the Brain Simulator II neural simulator",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n16964889/artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16964889",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16964889",
-      "publishedDateTime": "2020-08-06T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

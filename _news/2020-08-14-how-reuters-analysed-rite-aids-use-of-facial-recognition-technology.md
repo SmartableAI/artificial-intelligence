@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN24T1GH"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN24T1GH"
 type: article
 quality: 104
-heat: 314
+heat: 324
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
+    excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
+    publishedDateTime: 2020-08-15T14:57:00Z
+    webUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335"
+    ampWebUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 88
+    images:
+      - url: "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Police use of facial recognition violates human rights, UK court rules"
     excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."

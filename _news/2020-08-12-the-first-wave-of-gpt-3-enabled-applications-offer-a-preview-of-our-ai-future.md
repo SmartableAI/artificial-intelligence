@@ -5,8 +5,8 @@ excerpt: "The first wave of GPT-3 powered applications are emerging. After primi
 publishedDateTime: 2020-08-12T13:06:00Z
 webUrl: "https://www.infoq.com/articles/gpt3-enabled-applications/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://res.infoq.com/articles/gpt3-enabled-applications/en/headerimage/first-wave-GPT-3-enabled-applications-logo-big-1597055495006.jpg"

@@ -2,6 +2,47 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-08-dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications.md",
+      "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
+      "excerpt": "Dubai Electricity and Water Authority (DEWA) was awarded a certificate of acknowledgement from US-based NVIDIA Corporation for being the first UAE government organisation to adopt NVIDIA GPU Computing",
+      "sourceUrl": null,
+      "webUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.emirates247.com/polopoly_fs/1.695296.1594189204!/image/image.jpg",
+          "width": 749,
+          "height": 446,
+          "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
+      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
+      "publishedDateTime": "2020-07-07T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Emirates247",
+        "domain": "emirates247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-how-ai-at-the-edge-is-defining-next-generation-hardware-platforms.md",
       "title": "How AI at the Edge Is Defining Next-Generation Hardware Platforms",
       "excerpt": "In preparation for DesignCon 2020, here&#039;s a look at some of the latest research being done on AI inference at the edge.",
@@ -1320,47 +1361,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
-      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
-      "excerpt": "GPUs and CPUs are reaching their limits as far as AI is concerned. That’s why Tenstorrent is creating something different.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Tenstorrent%20Grayskull.png",
-          "width": 278,
-          "height": 278,
-          "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

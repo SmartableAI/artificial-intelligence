@@ -2,6 +2,95 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-10-mumbai-to-conduct-study-on-artificial-intelligence-based-covid-19-test.md",
+      "title": "Mumbai To Conduct Study On Artificial Intelligence-Based COVID-19 Test",
+      "excerpt": "The Mumbai civic body has decided to conduct a study to assess the efficacy of an artificial intelligence (AI)-based technology which claims to detect coronavirus infection within half a minute, a senior official said on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-corporation-to-conduct-study-to-assess-efficacy-of-artificial-intelligence-based-covid-19-test-2277214",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-07/17c5ka9g_coronavirus-india-generic-650_625x300_31_July_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-corporation-to-conduct-study-to-assess-efficacy-of-artificial-intelligence-based-covid-19-test-2277214?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/coronavirus-brihanmumbai-municipal-corporation-to-conduct-study-to-assess-efficacy-of-artificial-intelligence-based-covid-19-test-2277214?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-08-10T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher.md",
+      "title": "Why Do Solar Farms Kill Birds? Call in the AI Bird Watcher",
+      "excerpt": "Solar facilities kill tens of thousands of birds every year, and no one is quite sure why. An artificial-intelligence-powered birder is on the case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f2d8dadc693e7df1016520f/master/pass/Science_solarfarms_841997834.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-do-solar-farms-kill-birds-call-in-the-ai-bird-watcher/amp",
+      "publishedDateTime": "2020-08-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-the-morning-after-watch-an-air-force-pilot-take-on-ai-controlled-fighters-online.md",
       "title": "The Morning After: Watch an Air Force pilot take on AI-controlled fighters online",
       "excerpt": "It’ll happen virtually, instead, with participants and viewers watching online as AI algorithms control simulated F-16 fighter planes in aerial combat. By the end of the three-day event, viewers will witness a matchup between the top AI and an experienced Air Force fighter pilot,",
@@ -816,27 +905,18 @@
     {
       "path": "_news/2020-08-08-google-ibm-microsoft-ai-models-fail-to-curb-gender-bias.md",
       "title": "Google, IBM, Microsoft AI models fail to curb gender bias",
-      "excerpt": "Not just Google. When put to work, artificial intelligence-powered IBM Watson virtual assistant was not far behind on gender bias. In 23 per cent of cases, Watson saw a woman wearing a gag while ...",
+      "excerpt": "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes.",
       "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "webUrl": "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "publishedDateTime": "2020-08-08T01:19:00-07:00",
+      "ampWebUrl": "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html",
+      "publishedDateTime": "2020-08-07T23:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Sify.com",
@@ -850,7 +930,7 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1293,98 +1373,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce.md",
-      "title": "Hypotenuse AI wants to take the strain out of copywriting for ecommerce",
-      "excerpt": "Imagine buying a dress online because a piece of code sold you on its ‘flattering, feminine flair’ — or convinced you ‘romantic floral details’ would outline your figure with ‘timeless style’. The very same day your friend buy the same dress from the same",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1158990325.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/07/hypotenuse-ai-wants-to-take-the-strain-out-of-copywriting-for-ecommerce/amp/",
-      "publishedDateTime": "2020-08-07T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape.md",
-      "title": "Google's AI thinks women wearing masks have mouths covered with duct tape",
-      "excerpt": "According to a study, the visual AIs of Microsoft, Google and IBM have a lot to do to catch up with the real world. Some of the study's results are truly disturbing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
-      "publishedDateTime": "2020-08-07T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

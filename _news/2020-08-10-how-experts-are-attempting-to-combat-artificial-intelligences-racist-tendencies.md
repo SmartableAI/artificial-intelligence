@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://www.adweek.com/wp-content/uploads/2020/08/trend-ai-racism-technology-content-2020-600x315.png"

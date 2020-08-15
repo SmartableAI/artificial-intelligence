@@ -302,47 +302,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-08-google-ibm-microsoft-ai-models-fail-to-curb-gender-bias.md",
-      "title": "Google, IBM, Microsoft AI models fail to curb gender bias",
-      "excerpt": "Not just Google. When put to work, artificial intelligence-powered IBM Watson virtual assistant was not far behind on gender bias. In 23 per cent of cases, Watson saw a woman wearing a gag while ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
-      "publishedDateTime": "2020-08-08T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-07-googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape.md",
       "title": "Google's AI thinks women wearing masks have mouths covered with duct tape",
       "excerpt": "According to a study, the visual AIs of Microsoft, Google and IBM have a lot to do to catch up with the real world. Some of the study's results are truly disturbing.",
@@ -1366,6 +1325,57 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans.md",
+      "title": "Eighth grader builds IBM Watson-powered AI chatbot for students making college plans",
+      "excerpt": "Harita Suresh, 13, developer of the AI chatbot Rita. Harita ... TensorFlow (up 62%), ChatBots (up 45%), Microsoft Azure (up 38%) are all on the upswing. Udemy's surprise? Bitcoin and cryptocurrency classes gained popularity by fourfold.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/10/f18246a0-d75c-41fd-a7f4-5514fcb4db8a/resize/1200x/545cbe8ab7e80de2653ef37cf6138ed3/harita.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
+      "publishedDateTime": "2020-07-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
       ]
     }
   ],

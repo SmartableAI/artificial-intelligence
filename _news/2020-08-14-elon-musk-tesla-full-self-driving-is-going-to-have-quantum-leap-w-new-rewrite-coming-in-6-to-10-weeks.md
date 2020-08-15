@@ -34,7 +34,7 @@ related:
     provider:
       name: Ellen
       domain: ibtimes.sg
-    quality: 66
+    quality: 83
     images:
       - url: "https://data.ibtimes.sg/en/full/40282/elon-musk.jpg"
         width: 923

@@ -2,6 +2,155 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-06-29-medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup.md",
+      "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
+      "excerpt": "Medical technology company Brainlab has acquired video game surgery training company Level Ex. Terms of the deal were not disclosed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/level-ex-3.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
+      "publishedDateTime": "2020-06-29T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-advancing-azure-service-quality-with-artificial-intelligence-aiops.md",
+      "title": "Advancing Azure service quality with artificial intelligence: AIOps",
+      "excerpt": "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/23aa03d8-6047-40dd-9a74-f9785e4ca016.png",
+          "width": 1024,
+          "height": 449,
+          "title": "Advancing Azure service quality with artificial intelligence: AIOps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T02:00:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-service-robotics-market-by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026.md",
+      "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
+      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-06-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-35-women-under-35-2020-britains-brightest-young-business-leaders.md",
       "title": "35 Women Under 35 2020: Britain's brightest young business leaders",
       "excerpt": "Bajela is also an advocate for female entrepreneurship and a Shaper for the World Economic Forum. Abbie Bates, director of people & culture, DeepMind – 31 Since joining DeepMind in 2017, Bates has risen up the ranks of the Google-owned AI research ...",
@@ -1241,156 +1390,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-amazon-gets-into-self-driving-game-with-zoox-deal.md",
-      "title": "Amazon gets into self-driving game with Zoox deal",
-      "excerpt": "CNBC's Deirdre Bosa on Amazon's move into self-driving. With CNBC's Melissa Lee and the Fast Money traders, Guy Adami, Tim Seymour, Brian Kelly and Jeff Mills. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2020/06/26/amazon-gets-into-self-driving-game-with-zoox-deal.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106594301-15932078136ED3-FM-B-BLOCK-062620.jpg?v=1593207811",
-          "width": 1920,
-          "height": 1080,
-          "title": "Amazon gets into self-driving game with Zoox deal",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-amazon-shakes-up-the-race-for-self-drivingand-ride-hailing.md",
-      "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
-      "excerpt": "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef60bd7be64fa7887c43297/master/pass/Biz_Zoox_1215628120.jpg",
-          "width": 2400,
-          "height": 1602,
-          "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp",
-      "publishedDateTime": "2020-06-26T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-what-you-should-know-about-investing-in-ai-during-economic-downturn.md",
-      "title": "What you should know about investing in AI during economic downturn",
-      "excerpt": "Over the past few months, the COVID-19 virus has had a huge impact on the globe. As of April 28, according to the World Health Organization, there have been more than 2.8 million confirmed cases worldwide and nearly 198,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/shutterstock_144055459_stocks_stock-market-1200x600.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": "What you should know about investing in AI during economic downturn",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
-      "publishedDateTime": "2020-06-26T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
