@@ -63,6 +63,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE"
+    excerpt: "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week."
+    publishedDateTime: 2020-08-15T08:19:00Z
+    webUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876"
+    ampWebUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 104
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "UK court rules police facial recognition trials violate privacy laws"
     excerpt: "Facial recognition is unreliable, dystopian and, according to a British court, incompatible with privacy and data protection legislation."
     publishedDateTime: 2020-08-11T11:39:00Z

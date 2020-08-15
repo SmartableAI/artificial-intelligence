@@ -1,9 +1,9 @@
 ---
 category: news
 title: "China begins testing robotaxis for hire amid race against US tech dominance"
-excerpt: "Tech giant Baidu has plans for autonomous car testing ... that the ride-hailing giant aims to operate more than a million self-driving cars by 2030. “What we are trying to solve is the last ..."
-publishedDateTime: 2020-08-09T16:33:00Z
-webUrl: "https://asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
+excerpt: "Autonomous hired cars are considered ideal for accumulating driving time and the data cache needed for cars to learn and become safe enough."
+publishedDateTime: 2020-08-09T11:03:00Z
+webUrl: "https://www.asianage.com/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 ampWebUrl: "https://www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 cdnAmpWebUrl: "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/090820/china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.html"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 448
     isCached: true
 
-secured: "6MDFqWGS7FcZTRNc+QfCCdJ2Htxnvo0SEkp3qCjWww5mzRAgb25xYcXFGLpJ2GYPmHZKWUh7sybKvc1zKGTF18ydH0YTYurBHqfUqI1/OnnCFaKD0qjV/zWkQpq9PIJxv0BmHQxOKtHMEzu87FQRnG3qZ6pEVQyPs4YxAx9Ldti8uXVrlpHL6LxA7v0V8x0f0OHVWUO7mrB4dVwKtIaglaHk9yaVgCE9W+rn0bwzmAuBAGQSiQazMfx1HNXfD/IHqlsvGs5VDu1dSjsfZ+oYNq2yQWLNaIxAKl2HGLyAiS9EcitHhkonZ33Qt6LsLcjlB8mVG0ClVs3+i8hxJnj3uA==;9DSpDIjDY9ue2W/KmwN5OQ=="
+secured: "5ONyIf8zus012Rm1E4ucXtAvtOYz9kbO7fIuBCIeYP93Qa6/ywjN08ts61Q65hlFgf7vngCzpKcLdOliuGYbUQ3dCUYyTnDk31NUxIiYI4kj+/0IG5v/bssI97d9nasRx6BN7QnGN23gszLmPKqLQusglryOSja2mYejZDDMV+nsjvgcg3SbrsO0EpaPo0MRBepKBZ5HC+eTbS5yFZ5dfBZ7di0NFUZipyBy1a48EAO7ZoUSqVTJwwj6LX4KmsWhskuRoB2Iadu8NSRNHzSzFTv5leGdvumtntQx4CNrUALa+d6QDfk1SGsdpR5kQk3T3qSpFhW6ypIhAuX55Q3xxA==;UNs//Cshqc3ScwGusZ64ig=="
 ---
 

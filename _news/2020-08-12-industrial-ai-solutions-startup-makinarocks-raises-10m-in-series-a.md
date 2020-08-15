@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
-excerpt: "MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it has successfully raised $10 million in Series A funding from prestigious global investors."
-publishedDateTime: 2020-08-12T17:00:00Z
-webUrl: "https://apnews.com/PR Newswire/255ee2302c213ba96fb3353c0515b813"
+excerpt: "SEOUL, South Korea and SILICON VALLEY, Calif., Aug. 12, 2020 /PRNewswire/ -- MakinaRocks, an industrial AI solutions startup aiming to"
+publishedDateTime: 2020-08-12T18:44:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Austin AI startup LitLingo raises $2M for growth"
@@ -40,6 +40,6 @@ related:
         height: 3203
         isCached: true
 
-secured: "JKJuxgrSrdCTtQ6ebRlYg2seNKBHGU7XMobKEJG1E/Hw/sywWWunuxEouvB1IPoJG5dyMfOAKGUCVLbGZz8lqY8xZ7DzNbD5Em1ExfAnjTOJ85NcasLHW/kSqH2NzuQ7qUnfEPtpiNc6MDHGSE3aQtqwX3X3e3J207Bn0Gxowx0lSEHO1o3caZ6mUTFgEEj8MW+/eTEsv4Bfde2lrAtlSEPGRWl8v8Md1EIove8piXia841ktLPAc9K2d9fvHEda94l1Ol9BrJQJV/f/gF4Rd9i3ZhyCHOidgYGBwTLd6Nef5PsGf9r4HLAoEYunugooXLrWCgd4pfgzUcvNF/i19w==;InHGQeDAku2h2bLU2aC23Q=="
+secured: "hcXs2pjHFHvcG4J3NPy+9k1rBqBqPHsT43Q3quHh3nVFKzRzE8dnUd6ow2I2/DdiIUHwzFyoMdCB8Z3kQUtjIAPhf+KNEBsKuhKkyQiSUwfe64c46X+niJDcR50KnozbyDOejkXBtHKgIZtuxsf38hxBDZnRww0LH0c+64SWPm1vDcDr19prBTZkOcRFJIZbdIKBe6RcE1hihkIpd0L98yeAQKx+HiRc1A8rGD59Td7+c+b3aAoOp7UQ+JbePyMGBAlDGoQfEHciWeQ+qXVgrZJUlng12WZuZHICx6RJ6SMIdyBTtAfpUQqxHErLCNmN21wKLZpoUSlb6h50aLZ7fA==;Fe2OFgS6LRmE/FxTKTKfRg=="
 ---
 

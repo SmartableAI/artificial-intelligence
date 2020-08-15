@@ -41,20 +41,6 @@ related:
         width: 670
         height: 440
         isCached: true
-  - title: "Artificial intelligence could improve accuracy, efficiency of CT screening for COVID-19 diagnosis"
-    excerpt: "Notre Dame News gathers and disseminates information that enhances understanding of the University’s academic and research mission and its accomplishments as a Catholic institute of higher learning."
-    publishedDateTime: 2020-08-10T16:00:00Z
-    webUrl: "https://news.nd.edu/news/artificial-intelligence-could-improve-accuracy-efficiency-of-ct-screening-for-covid-19-diagnosis/"
-    type: article
-    provider:
-      name: Notre Dame News
-      domain: nd.edu
-    quality: 24
-    images:
-      - url: "https://news.nd.edu/assets/389073/1200x630/covid_antibody_feature.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DMEXpLxcM66F/dGA5rELFvC4biDo5cP2XuSX9GFC/KKl/akJbps7mrDAm59jTnaCnqbagaBXoGEsoooWvvlL3JXRF1hrd+MgpBTe6T+IRlGfNfemS3COJXKlcU1UpkrlkKalNRY2a8FJLOJi8ZNSA1DC3nM0lfLMXaJYo80vS5DkZC99hFMUc+5Bz0e8yVgoKQxG7Tc2ByrQMFxFdbiv0OBz+XkKCh8aaNLowrrrPf7h2FlSmt/YXTbL+LbDSQqdgCNL0u1Hzye0jrs2msDE1h7KRx5YaeJgosH63AWegX3s4SX9zisaFhJUdgbZa+mJsh7jhGcf5uyrCY/8HJ8VtaJCSndmABgvNmtKC5ssIL2uBow7EixOjHCaZvubMQkTk3bYknhPI0IAmgTzkKOTIcC9+jN1IXD8SSEIT67qe0cFZAA/USK/bykBE49IVFHa3j3w6X6N/u2yA+p2s/t6lmJNmimd15xRtDtgEl+JaUgPfAv95nx+qgGyOvHDKTIs70rr+yo0YipWwrF0/pnFBg==;5AbW30srnaXCwbO7vBrgqQ=="
 ---

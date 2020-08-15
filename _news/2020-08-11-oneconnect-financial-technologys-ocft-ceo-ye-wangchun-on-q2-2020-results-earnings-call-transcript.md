@@ -34,15 +34,6 @@ related:
         width: 400
         height: 427
         isCached: true
-  - title: "Sogou, Inc. (SOGO) CEO Xiaochuan Wang on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "SOGO) Q2 2020 Earnings Conference Call August 10, 2020 6:30 AM ET Company Participants Jessie Zheng – Investor Relations Xiaochuan Wang – Chief Executive Officer Fion Zhou – Chief Financial Officer Conference Call Participants Presentation Operator Ladies and gentlemen,"
-    publishedDateTime: 2020-08-10T16:52:00Z
-    webUrl: "https://seekingalpha.com/article/4367118-sogou-inc-sogo-ceo-xiaochuan-wang-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "67mKk1MQ/XuoGlNKp5NNBq/c6cjvB05vjsUl3bp1nWz/cxXDS/8qNQ3+l54AYTpPwSS+3dFGk6nQPXq3zXpgdCh3u12s6gg0g41oUtuIKzuv4REwh4qJ+So+rNOBX6S47H0J7Cd7W2U6h4JGRQz8q24+hG+RbY2uAYkXZLb0/Lwky7lSk+h6goC1l8HqHRp8QZ9qHUpsyx3ALU7XyRW2hi5S08MZPL09kx1DrQSpDR6ud//UMl9iVW/SQeF1ttmCqoyDD2AgDJYR0DSD8FOlpyhQVHixGP1D/aaUTQVD0b/Nv9xBT/KJZ8AtJTQThk3JNhu/eT/Q1JfZCH4h36ZoTQ==;PHx0Y9ieU6SURdH6ZUazPw=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipset Market COVID-19 Analysis, Industry Challenges, Market Forecast, Size, Share, Trends and Opportunities"
+    excerpt: "Artificial Intelligence Chipset Market Research Report- Forecast till 2025 Market Highlights The data experts at"
+    publishedDateTime: 2020-08-12T18:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-covid-19-analysis-industry-challenges-market-forecast-size-share-trends-and-opportunities-2020-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth Analysis and Forecast to 2026"
     excerpt: "Summary A new market study titled Discover Global AI in Fintech Market Upcoming Trends Growth Drivers and Challenges has been featured on WiseGuyReports Introduction AI in Fintech Market The report provides a detailed analysis of the AI in Fintech market"
     publishedDateTime: 2020-08-12T10:07:00Z

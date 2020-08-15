@@ -1,19 +1,19 @@
 ---
 category: news
-title: "With self-driving tech was new, a road trip paved the way"
+title: "With self-driving tech was new, a road trip paved the way | Raleigh News & Observer"
 excerpt: "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan."
 publishedDateTime: 2020-08-15T06:01:00Z
-webUrl: "https://www.kansascity.com/entertainment/article244877067.html"
-ampWebUrl: "https://amp.kansascity.com/entertainment/article244877067.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/entertainment/article244877067.html"
+webUrl: "https://www.newsobserver.com/entertainment/celebrities/article244877067.html"
+ampWebUrl: "https://amp.newsobserver.com/entertainment/celebrities/article244877067.html"
+cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/celebrities/article244877067.html"
 type: article
-quality: 24
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - AI in Autos
@@ -34,6 +34,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "With self-driving tech was new, a road trip paved the way"
+    excerpt: "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan."
+    publishedDateTime: 2020-08-15T06:01:00Z
+    webUrl: "https://www.kansascity.com/entertainment/article244877067.html"
+    ampWebUrl: "https://amp.kansascity.com/entertainment/article244877067.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/entertainment/article244877067.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 24
   - title: "With self-driving tech was new, a road trip paved the way | Charlotte Observer"
     excerpt: "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan."
     publishedDateTime: 2020-08-15T07:01:00Z
@@ -45,18 +56,7 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 20
-  - title: "With self-driving tech was new, a road trip paved the way | Raleigh News & Observer"
-    excerpt: "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan."
-    publishedDateTime: 2020-08-15T06:01:00Z
-    webUrl: "https://www.newsobserver.com/entertainment/celebrities/article244877067.html"
-    ampWebUrl: "https://amp.newsobserver.com/entertainment/celebrities/article244877067.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/celebrities/article244877067.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 18
 
-secured: "uBvXi82ansrMgB4B1NQs5NyaLAzR+pOri4bViLC/qkqTbXBaM0RHqo+3sc9jHLy01v5NFCaUWjfCfxxWNr6rh0ALezK8NZ3JU1tr+ouV1MRLCF2Y70RVdeMSGwwPuvBb3ncXM1xaR55OKg4k7+QRIA2rtGeXHj80Wk+ygADsTczy9Rlh9ylCVp/BObdQsV3PhZggDqT2cmm4ALbTs5JYMt8lEQxE8kYOQXZi93rHVgV15FVCpvNXW4UOHWrnIm797vO90IkjIGgjZqDIqQVS8Nnwr2fI/qsjPeRWHGnyeckOIu4dNbKvqEX0Qpx/VAmZCZynfqnvuWqDn0cJB1qZPw==;aPoowzN4GV+D0GxkVt3jOw=="
+secured: "BnrmpZ4wFMZAwPSazIDL373MFmtEndF/tJxCxpNDfVzaViaer53I7yUxfr4I6zTIjJJnaHO5wAZiKDLW1OPnoQSNqx9hKqg6M23oH/XNYebhpwLTbgzcXmXMhqBBIM+LImloFTyCC0PKfWi44iTzdiFyQsoItfqS317br41HeXKaL1AjYex/1BLcVL377gRvZGrLWQG6/tGphYtdy5K+sn64Yl++IKzyPQAC+WJGzABFk1ud0xH395PMi1mFA9tYK/Spgy6gwHfVysthK3WR5q1Xg0qiPUPoksqSB5HHAgDlOwZJlim4GOkq3Za+MsBYAZa0EkNv2RhRY33tfKbK1Q==;hyKJyNH20p4xqoIGSbF5aw=="
 ---
 

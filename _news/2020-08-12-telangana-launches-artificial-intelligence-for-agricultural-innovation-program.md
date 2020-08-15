@@ -8,7 +8,7 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/telangana-launche
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/telangana-launches-artificial-intelligence-for-agricultural-innovation-program/amp_articleshow/77510942.cms"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Stanford Center for Health Education Launches Online Program in Artificial Intelligence in Healthcare to Improve Patient Outcomes"
-    excerpt: "The Stanford Center for Health Education launched an online program in AI and Healthcare this week. The program aims to advance the delivery"
-    publishedDateTime: 2020-08-10T15:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/stanford-center-for-health-education-launches-online-program-in-artificial-intelligence-in-healthcare-to-improve-patient-outcomes-301108618.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "NLsUDxPtgfMcQ4lLVH9u27mI6ACH+LqcyN176IdL6BLonjxDIZ9Fh+dixYZbQ3oof1FqK+/hoTyiZv6ag4uRMu3RWHVnZzxTz4yFEfYvw8r0tLBUAXN+HdYwuOAJBPXjDHaJTWa7RIbZoCesUoOArDA9EMfwIVpgCXeSX/pHQfp/dNeMPsIwuL38I3QnoUtJlxldkjWyIW/cDrchb6oFJc6lPk+wY6uhvREqQWoWf381vBNQIHMTGYWOjRH0ZhEPDUtSLyA3WacfDog9OBLvgvsJQIBAcgyUMP77JgHfCOtNI8jf1bc1U50tkor1s5Fc0sPOLaNw0jqFHjOiUwRZGw==;ZgB9I7eKTxyK4IWFnFQjVA=="
 ---

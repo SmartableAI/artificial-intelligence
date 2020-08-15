@@ -8,8 +8,8 @@ ampWebUrl: "https://m.mid-day.com/amp/articles/artificial-intelligence-can-impro
 cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/artificial-intelligence-can-improve-ct-screening-for-covid-19-diagnosis/22930234"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Mid Day
@@ -40,20 +40,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/40-artificialin.jpg"
         width: 650
         height: 436
-        isCached: true
-  - title: "Artificial intelligence could improve accuracy, efficiency of CT screening for COVID-19 diagnosis"
-    excerpt: "Notre Dame News gathers and disseminates information that enhances understanding of the University’s academic and research mission and its accomplishments as a Catholic institute of higher learning."
-    publishedDateTime: 2020-08-10T16:00:00Z
-    webUrl: "https://news.nd.edu/news/artificial-intelligence-could-improve-accuracy-efficiency-of-ct-screening-for-covid-19-diagnosis/"
-    type: article
-    provider:
-      name: Notre Dame News
-      domain: nd.edu
-    quality: 24
-    images:
-      - url: "https://news.nd.edu/assets/389073/1200x630/covid_antibody_feature.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "zrfjITjkr4appKcOT6nwBeqtPO6swKnAVKeWLiM8hnEEk7Pz78feaRl3Wjo4f29mbIi3z2jc83J+mBpLVkyTGNOtiW9FRld+i86faMKKPunsALzBXig2208JaOVa1u/a+Y2NQ9LRmNNdNzssK0IuoKN0aH+iLnPDXY84ElgxVCSkEX7QcZFF+Byzip9/7mDxiA61xngy1yVC30woHQJATvvWYzA4zeQVynMc6j3c8o0nZxtcOExHhNzLBySN+iykJF1Q5C5rnn4W9OMjSgbbkLCFd1cZaCp8pkF2PKihNrksLMSIsuYJp5yTQ86WoeSIfJQDDDpF9jVs03THhOKeNsVd5+bQ/MSIMXwI8yiijblR/vyl/Uh9N5gavbCOmz5eXXWoFXxdO6CJygV1WBC/WX9lBWRE4Ica8UfMFgUiKhROwEEPSBC5JIXxFWYWwimvoKUAHTc1oMc8ZgRcKLWePSoEErQpU5MkdssaY6odA2XVoPhIG6xiKKBQBgUalr/nY8Ezo1lC5buTBsHInwoEBw==;OIsh63jnoHu78HhT3ro6fw=="

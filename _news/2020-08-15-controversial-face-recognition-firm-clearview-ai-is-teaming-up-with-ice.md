@@ -1,21 +1,21 @@
 ---
 category: news
-title: "South Wales police lose landmark facial recognition case"
-excerpt: "Court rules use of technology broke equalities law and breached privacy rights"
-publishedDateTime: 2020-08-11T12:49:00Z
-webUrl: "https://www.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case?CMP=twt_gu"
-ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
+title: "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE"
+excerpt: "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week."
+publishedDateTime: 2020-08-15T08:19:00Z
+webUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876"
+ampWebUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
 type: article
-quality: 59
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Gizmodo
+  domain: gizmodo.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_89_6085_3651/master/6085.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2b27eccfd11bd2695aad1201de765a8"
-    width: 600
-    height: 360
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -61,22 +61,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/ZQDJ2XFA8IruU3HoubVqjsV2FFQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67205073/acastro_190204_1777_privacy_0002.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE"
-    excerpt: "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week."
-    publishedDateTime: 2020-08-15T08:19:00Z
-    webUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876"
-    ampWebUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 104
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "UK court rules police facial recognition trials violate privacy laws"
     excerpt: "Facial recognition is unreliable, dystopian and, according to a British court, incompatible with privacy and data protection legislation."
@@ -190,6 +174,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "South Wales police lose landmark facial recognition case"
+    excerpt: "Court rules use of technology broke equalities law and breached privacy rights"
+    publishedDateTime: 2020-08-11T12:49:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case?CMP=twt_gu"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_89_6085_3651/master/6085.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2b27eccfd11bd2695aad1201de765a8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "UK Police Use of Facial Recognition Ruled Unlawful"
     excerpt: "The use of facial recognition technology by a British police force was ruled unlawful on Tuesday by the Court of Appeal in a case brought by a civil rights campaigner."
     publishedDateTime: 2020-08-11T15:19:00Z
@@ -257,6 +257,6 @@ related:
       domain: webindia123.com
     quality: 21
 
-secured: "hUiNHsj09CH2FjX+4GjxX7TgEjAu4NXaAXc4wpTHcH8a/Cdi1KbzEY2J+RL7zWHZUxami6PUm8e5hvjX2dbdvfy3V0/t/OgUOBbz/yvtsksNtdRgMc21x6wBq+LEC9Ws6LqubZfh7laBiL2L1fgZ06d56QI9nA2S0jiJdSqxscAh97SaRQGlPCG6riFBeomEemzaWEQSCpjK4fBa/voho2UQ9ygvvptlxztiowIJCWcM2GZTBGQ6eZHkeSh4ODLfxRTrDmsL4qa3pG1i+5FsRlud/G+yvOKgEXk6as2Zcdbg/ihMQ20QnOcJIwK6sUW1lIVk1olHDjY4uq7mES5LIbey6zg+voKV6pZoDMFygRTnlaybQCcBZiFuGgMOi6JuAm5YdZCEcSmpmYUwqGoTwzdwM869mHqhpHJN9cKfDIxaDIZ/JvmKesyTSLrvKV5r7YJNJsnvsP7jUDAQ/b1/GqYgS7dLCcc8h4RfRlRZX3l+N5KSM4o9ErBw57tjcrza;viMG0LnM3HIwiNZRwH/dtA=="
+secured: "YtAS4KBzeXhSMWEeYrGi3AzE8FdrPcqYwXUCmFFXHBrTci0G9+r7ttRNUmcIGBlrLNLvmfzjCP9aFQAkNbZW+H6aqvhNnaNvI5cu8TLnVUfvrMpuNlxwCfrvsMGUA59HwRVepLtoDOsRAxwcyUqmiUkkRMa2E364finN1psqopzjPD6vWxtEouUq4BvUXfHVbqgqvdG84mql9gFi7n9iJ4tq1c5Q3LIctwMYMDJ8VC4nZkpFFMRSdaaYJGjbr+2nriX2jgyh0TgYw4oVHDAMvjIavsmxJJp2dgAB/2OVk9mq26WYqVBtg1HgqpLyNbEoDIiTJjZosMoxgXocsALx/Q==;fbpGP2TpjxAAG0spesOL5w=="
 ---
 
