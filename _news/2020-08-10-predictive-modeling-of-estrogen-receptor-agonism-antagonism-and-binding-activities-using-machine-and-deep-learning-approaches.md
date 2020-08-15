@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "Ironscales raises $8 million more for AI that thwarts email phishing attacks"
-    excerpt: "Ironscales, a startup leveraging AI to detect and remediate email phishing attacks, has raised an $8 million extension to its series B round."
-    publishedDateTime: 2020-08-10T13:03:00Z
-    webUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/b4a2ebb3-b099-44eb-9cd7-d6c130920fcb-e1596737652461.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "Combating Phishing Attacks with Artificial Intelligence"
     excerpt: "Attackers have kept a close eye on this trend and get higher returns on investment by phishing mobile devices. It becomes more challenging for consumers and employees to identify a phishing attack in similar ways they would on a laptop or desktop computer."
     publishedDateTime: 2020-08-11T19:36:00Z

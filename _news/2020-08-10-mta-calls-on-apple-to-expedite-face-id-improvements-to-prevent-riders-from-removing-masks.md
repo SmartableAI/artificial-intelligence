@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "New York’s transit agency asks Apple for help to solve iPhone face-recognition issue"
-    excerpt: "Metropolitan Transportation Authority Chairman Patrick Foye said riders have been seen removing their masks to unlock their phones using face-recognition technology, despite a recent update by Apple that simplifies the unlock process for people wearing masks."
-    publishedDateTime: 2020-08-10T13:26:00Z
-    webUrl: "https://www.theglobeandmail.com/business/international-business/us-business/article-new-yorks-transit-agency-asks-apple-for-help-to-solve-iphone-face/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/international-business/us-business/article-new-yorks-transit-agency-asks-apple-for-help-to-solve-iphone-face/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/international-business/us-business/article-new-yorks-transit-agency-asks-apple-for-help-to-solve-iphone-face/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 17
 
 secured: "dDJ7hJJEuOU/k/ZLJ1/EP9wnDY+/+qMuQZCTdXj6ppEF26kGymUW9YYSvIzdQz2w/RQn7JBQcdhFU3Ic79quExpsAHoetYHhvkyB+u4r5sKcZntUP3FGe1iChrBTJmOtYUZ2h8iXwUNu435ek57EWcWZ8TVO0KOHPwAhWYr3aEBpxjJDHqhqZwHrZQMDqkGWCM7PulfkaB6fza99MGngxB4X5R3/yP+H4R/4AhNMWo4gIT7Cz5H/N7fnJ2fy3mHV9TufDOfOygkxPTxtbDzS5mBQ4E8SCVmGGljt6t0af3TTlK/zUayVqbJeHxd802tOF3cv829TsAg9rBVr7bggfg==;NeD8iQWmQqhGWEoLhMHOZg=="
 ---

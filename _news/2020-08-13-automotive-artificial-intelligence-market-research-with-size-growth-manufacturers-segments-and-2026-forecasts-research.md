@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Marketing Market Incredible Possibilities, Growth with Industry Study, Detailed Analysis and Forecast"
+    excerpt: "Global News Presents a large scale Artificial Intelligence in Marketing Market report structured with the thorough market analysis carried out by a team of industry experts dynamic analysts skilful forecasters and well informed researchers"
+    publishedDateTime: 2020-08-11T09:44:00Z
+    webUrl: "https://www.openpr.com/news/2109419/artificial-intelligence-in-marketing-market-incredible"
+    ampWebUrl: "https://www.openpr.com/amp/2109419/artificial-intelligence-in-marketing-market-incredible"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2109419/artificial-intelligence-in-marketing-market-incredible"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 43
+    images:
+      - url: "https://cdn.openpr.com/T/8/T811138979_g.jpg"
+        width: 631
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence Market Research Insights 2020, Size, Share, Trends, Competitive Landscape, and COVID-19 Impact Forecast till 2025"
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
     publishedDateTime: 2020-08-13T19:30:00Z

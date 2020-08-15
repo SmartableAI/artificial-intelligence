@@ -24,33 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Action needed to stop the use of killer robots, report says"
-    excerpt: "The US and Russia are said to be in a group of military powers who have rejected proposals for regulation on autonomous weapons."
-    publishedDateTime: 2020-08-10T13:49:00Z
-    webUrl: "https://news.sky.com/story/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509"
-    ampWebUrl: "https://news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/action-needed-to-stop-the-use-of-killer-robots-report-says-12046509"
+  - title: "Killer robots are now ‘urgent threat to humanity’ and should be BANNED, shock report warns"
+    excerpt: "KILLER robots pose an “urgent threat” to humanity and the world must come together to stop their development, a grim report warns. Human rights experts say the deadly technology, which"
+    publishedDateTime: 2020-08-11T15:43:00Z
+    webUrl: "https://www.thesun.co.uk/tech/12374252/killer-robots-threat-humanity-ban-humans-rights-watch/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/12374252/killer-robots-threat-humanity-ban-humans-rights-watch/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/12374252/killer-robots-threat-humanity-ban-humans-rights-watch/amp/"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 49
     images:
-      - url: "https://e3.365dm.com/20/08/1600x900/skynews-killer-robots-weapons_5063928.jpg?20200810134641"
-        width: 1600
-        height: 900
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000477540307-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Killer Robots: Growing Support For Ban, But New Zealand’s Stance Remains Weak"
-    excerpt: "An increasing number of states have affirmed the need to take action to protect humanity from the escalating threat of fully autonomous weapons, but New Zealand is regrettably not among them. Fully autonomous weapons - known as killer robots - are weapon systems that select and engage targets without any meaningful human control."
-    publishedDateTime: 2020-08-11T01:54:00Z
-    webUrl: "https://www.scoop.co.nz/stories/PO2008/S00133/killer-robots-growing-support-for-ban-but-new-zealands-stance-remains-weak.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/PO2008/S00133/killer-robots-growing-support-for-ban-but-new-zealands-stance-remains-weak.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/PO2008/S00133/killer-robots-growing-support-for-ban-but-new-zealands-stance-remains-weak.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 51
 
 secured: "Y3hGC3rSJZrL9lWdbA0VxgxGaOU14YqYXp1hZZVRZ5vJsWTT/yIKv/n2KDf+TIEK5uRSOkgL6ZoJx2g+7PTNnDEUCV0985Yw12lgASlZPnoHGrChwyQiap1r8Yxv0iGuMWUmoLM4uAnDtiYyHvxGI+n5W4+boUlBZJ7Ag2whZTtwzyWhi4bHXXYovQBGqTE0iLm9BA9aRWDCh4VoVHiv+8kSYtBD8jviXqu9TyHE9QjXOdf33LqpIhF0YDziKUVSgkg1DAibyDepfesbjFL41lCySbcY8er6D99uH68N2h1dMs7Nx3IL/Synmr9+EvWSEQxMulHAaga1mGVhLpxIrQ==;97z9Y1YmOEKUzlAXkT/UoA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T05:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Online Learning Market Size is Projected to Grow CAGR 10.85% by 2025 - Valuates Reports"
-    excerpt: "Online learning has seen exponential development as the Internet and education merge to allow new capabilities to be developed. Since"
-    publishedDateTime: 2020-08-10T13:36:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/online-learning-market-size-is-projected-to-grow-cagr-10-85-by-2025-valuates-reports-800472802.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
         isCached: true
 
 secured: "8mUROlha4BwHCZo5WfY09C7WrXEDVSXK5BGoyo1fKEX8ah64GMDbbuVDHElQ4eibVWlRZ/jjaP9meLUVOWN2B1f0/uUm0WRlId7onLgZfGdrNUDXdCYJXpTCql+PRVRNByWki4JWkdorroWkFY2Gr6L+aG/q/9AcFUmOVaso9/xxWRRrGnIt5DjnyK2GcRS1witUG7jYErnYJ4vOJ/jSrvpD8Z1dybbNZUJzwMGhE/oSujkshpvyvWZEdCORXmWtNMFQ2mOFTuSNHwALJt0BKaTuMw2ZVVdKS7YFFjRdu9slngPNRV017GZbejKcKAGzokdeniMXYPNMQ+YXMpS+kw==;CX9bPZITa6lg+0VUQrlIyA=="

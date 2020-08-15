@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T22:32:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-regulatory-framework-market-strategies-and-end-user-applicants-by-2025-2020-08-10"
 type: article
 quality: 52
-heat: 72
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "Global Computer Vision Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
+    excerpt: "According to the latest report titled Global Computer Vision Market 2020 by Company, Type and Application, Forecast to 2025 by MarketsandResearch.biz, the global market will accumulate steady income in the forecast period from 2020 to 2025."
+    publishedDateTime: 2020-08-10T21:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2020-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Deep Learning Chipset Market 2020 by Sales, Price, Revenue, Gross Margin, Industry Share and Forecast to 2024 | Absolute Reports"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chipset Market” report provides a comprehensive analysis about all of the important aspects related to the market."
+    publishedDateTime: 2020-08-13T12:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-by-sales-price-revenue-gross-margin-industry-share-and-forecast-to-2024-absolute-reports-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Courses 2020 Global Trends, Market Size, Share, Status, SWOT Analysis and Forecast to 2026"
     excerpt: "Machine Learning Courses Market” WiseGuyRerports.com Presents \"Global Machine Learning Courses Market Size, Status and Forecast 2020-2026\" New Document to"
     publishedDateTime: 2020-08-11T17:00:00Z

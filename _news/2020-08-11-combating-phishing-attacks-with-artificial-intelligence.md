@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "Ironscales raises $8 million more for AI that thwarts email phishing attacks"
-    excerpt: "Ironscales, a startup leveraging AI to detect and remediate email phishing attacks, has raised an $8 million extension to its series B round."
-    publishedDateTime: 2020-08-10T13:03:00Z
-    webUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/ironscales-raises-8-million-more-to-prevent-email-phishing-attacks-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/b4a2ebb3-b099-44eb-9cd7-d6c130920fcb-e1596737652461.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "Predictive modeling of estrogen receptor agonism, antagonism, and binding activities using machine- and deep-learning approaches"
     excerpt: "The efficient identification of suitable chemical descriptors and machine-learning algorithms, including deep learning, is a considerable challenge for computational toxicology studies. Here, we sought to apply classic machine-learning algorithms and deep ..."
     publishedDateTime: 2020-08-10T18:33:00Z
