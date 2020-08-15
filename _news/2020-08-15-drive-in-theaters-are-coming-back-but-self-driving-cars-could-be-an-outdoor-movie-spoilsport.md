@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Michigan unveils plan to design self-driving vehicle roadway between Detroit and Ann Arbor"
-excerpt: "Michigan’s first roadway designed for self-driving vehicles is in phase one of design, as industry officials are working with the state of Michigan to develop a 40-mile autonomous corridor between Detroit and Ann Arbor."
-publishedDateTime: 2020-08-13T19:03:00Z
-webUrl: "https://www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html"
-ampWebUrl: "https://www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html?outputType=amp"
+title: "Drive-In Theaters Are Coming Back, But Self-Driving Cars Could Be An Outdoor Movie Spoilsport"
+excerpt: "For those old enough to remember, the drive-in was once a dominant force in the movie-going foray and enjoyed tremendous success and growth. According to industry stats, in the tail end of the 1950s there were an astounding 4,"
+publishedDateTime: 2020-08-15T16:06:00Z
+webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
 type: article
-quality: 34
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: MLive
-  domain: mlive.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ITBW2M2XONCQBDUP6BKA4PMJGI.png"
-    width: 3840
-    height: 2160
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F471923631%2F0x0.jpg%3FcropX1%3D453%26cropX2%3D5600%26cropY1%3D1191%26cropY2%3D3604"
+    width: 1200
+    height: 563
     isCached: true
 
 related:
@@ -41,22 +45,6 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/pyA2_TM6Fs4pmxfGmoqdJ8VB4CQ=/2020/08/13/a6bcbd61-7c5f-4689-a52e-368b207be16d/ogi-car.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Drive-In Theaters Are Coming Back, But Self-Driving Cars Could Be An Outdoor Movie Spoilsport"
-    excerpt: "For those old enough to remember, the drive-in was once a dominant force in the movie-going foray and enjoyed tremendous success and growth. According to industry stats, in the tail end of the 1950s there were an astounding 4,"
-    publishedDateTime: 2020-08-15T16:06:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F471923631%2F0x0.jpg%3FcropX1%3D453%26cropX2%3D5600%26cropY1%3D1191%26cropY2%3D3604"
-        width: 1200
-        height: 563
         isCached: true
   - title: "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation"
     excerpt: "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future."
@@ -186,6 +174,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Michigan unveils plan to design self-driving vehicle roadway between Detroit and Ann Arbor"
+    excerpt: "Michigan’s first roadway designed for self-driving vehicles is in phase one of design, as industry officials are working with the state of Michigan to develop a 40-mile autonomous corridor between Detroit and Ann Arbor."
+    publishedDateTime: 2020-08-13T19:03:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/08/michigan-unveils-plan-to-design-self-driving-vehicle-roadway-between-detroit-and-ann-arbor.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 34
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ITBW2M2XONCQBDUP6BKA4PMJGI.png"
+        width: 3840
+        height: 2160
+        isCached: true
   - title: "Plans for special lanes for autonomous cars raises questions on evolution of self-driving tech"
     excerpt: "Jonathan Winer, co-CEO of an Alphabet-funded company called Sidewalk Infrastructure Partners, which owns Cavnue, said at first self-driving buses would use the lanes, which would be similar to dedicated rapid transit lanes in other cities. Eventually ..."
     publishedDateTime: 2020-08-14T06:59:00Z
@@ -223,6 +227,6 @@ related:
       domain: washingtonexaminer.com
     quality: 20
 
-secured: "S1BvYEVplsliqJsMJXvsRukMlPjLToPmpyiF28WwQHJHf+WTqsLjsV9My1cxEsHT2iowkm2DEzqg65opJWAEsbDzgROz+E6Vlg31oWzRUTH41uRD0GZ4O4hu1ytZlZzolK9OUdSy4ooT2ey+VhZzhw800bVojndw99hlRww94ZZZUnFoAM+vYjEuUefau0a6CD5hEdVHr/MnUgug8QwN5IuB2sytlQpYM9YrDWZVcibNSuqbqNlNfCAnKzTCEq1dEmDZnl9nAXjVruy7zaTGrKKbiL5lWexsbc5b3ly0/HC4GoZDvSG/S9Rv6i47awhXwC97gsShrW3oGwmLlexGyw==;v+BB19CyG71lNV9vMqHI1A=="
+secured: "7QnRg6czpu6yUp6mSRSUGybSDPOazKMUy4O60aicsdb2yCoMfPTTMF8opTFU56UjxOXX0EO8fy7i/mZ8ZHehR8jGGTHlISMERRk3zLsIkgyJvUHwbDBpQaalKK2nmtNj+LKyb2Qt197UUjsKn0GE0l4lWDPxfEcLzCuNLYavpVo9jOiOitDD4f93siSRg+AmFatFxWovhXCKZHM5IFKLkNavQS1RWDufFxJRe5P8qu/3vZK/Rs9vxLTB6tQDn9LbwgoJJgpDCpkh18jwHghQn6LiwmFPVhhLhPgEJThUYzxZgeoSuIFWuH6espndKSxKGP2BTesQf8nf3jDLTEKDyQ==;K2fFXdJjOIaooxZuFGxuPQ=="
 ---
 

@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Weyland Tech Enters Agreement to Acquire Fixel AI, Leading Innovator in AI-Powered Digital Marketing Technology"
-excerpt: "Weyland Tech, Inc. (OTCQX:WEYL), a leading global provider of eCommerce, mCommerce, and fintech business enablement solutions,"
-publishedDateTime: 2020-08-13T16:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/g17074356/weyland-tech-enters-agreement-to-acquire-fixel-ai-leading-innovator-in-ai-powered-digital-marketin"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17074356"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17074356"
+excerpt: "Weyland Tech, Inc., a leading global provider of eCommerce, mCommerce, and fintech business enablement solutions, has reached an agreement to acquire Fixel AI, an award-winning innovator of digital marketing technology."
+publishedDateTime: 2020-08-13T17:00:00Z
+webUrl: "https://www.nasdaq.com/press-release/weyland-tech-enters-agreement-to-acquire-fixel-ai-leading-innovator-in-ai-powered"
 type: article
-quality: 19
-heat: 19
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "YxKv7W0S2j6wDSvUD7gH/lTCctHjFg2DQsHxLgsd0BmwNQAzY5FxWvmzBgPQjp4Gy9aDvuSAm3zANA/6OxAraw94EfH6gaAH9MPHEu7QCWlNnLAvObq2B/8BO/gVCh38F/pEJ4aUXiAz/rZx3mSsL9HPb1Qmuvf07Js6z3IpdUDlzzEZeb6zfYfvt+ZDHqpxBuKawgizBtmc7iVR5AYsCOGYpYN78Vydj5DM2w2Qo8yD8FUwCWkHIRo7GghKuGgSeV5A9fW2LplOLSHPaMxE1fwAlhYDo9vDDvFYldPClUcPkkRQ++EKE3EIXpThVoaA2oT6d/gvZX6kPcpsWqMvDrjFIiA/wMvFjjpT0bFMl+5IQYsdBVJ96rnsFBlIGzFGAiIXFzyBrxtDL9ezJTHQpq4EyZVoGdLQ+UOvUa/1bliZwDPQOFS+iljitaKlFp4w25WR5/B3gmZTNEZnEo3jf+UEM/25MXX+s2Go8aPR8EwdRA3L3LkHZxaENMJBuSe9+vhE0924SPUHXQvd8mH4vg==;prmgdcGv/qs5TCtEh/zyAQ=="
+secured: "zghb9xyv81BPyM7dmKW4OGTI/v5hMNgpB67GyFy9RgC+M8EdIRcTCxWwy0so+6gweevOuRZKySXAtXkOQam3YhkYkTcU0vTjYk0NsQkjgVL0FbG3tJPC4PCH2oNc6UwjudVEu39tQ+OpcPSq+8MSwusOhHpWG/K7+GGJw5Y7pGLbJDICadX3YpexntOjYTX4sgEsvsZBSCzJDy2DlRukDhZ8RPEX9UktgH/IM/WnM4BNKYTkJ8xRBKSqp/90mp05Pjk9uPYOC67IMSxyhslMuTEBTaiMSPl/QXGiPO6Zny4e27L3SpvyVAhifrJcmExATyANCQoP4LZ8xr4Va6360g==;baTuvt5+GqLTw3jEaxqyeg=="
 ---
 

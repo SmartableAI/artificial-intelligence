@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service"
-    excerpt: "Get Reasonable Discount on This Premium Report @ https://www.advancemarketanalytics.com/request-discount/44899-global-machine-learning-as-a-service-market The report concludes with in-depth details on the business operations and financial structure of ..."
-    publishedDateTime: 2020-08-11T00:40:00Z
-    webUrl: "https://www.openpr.com/news/2108830/machine-learning-as-a-service-market-status-most-fragile"
-    ampWebUrl: "https://www.openpr.com/amp/2108830/machine-learning-as-a-service-market-status-most-fragile"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2108830/machine-learning-as-a-service-market-status-most-fragile"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/T/8/T811899730_g.jpg"
-        width: 800
-        height: 385
-        isCached: true
   - title: "Cognitive Services Market Regional Trends, Growth, Scope, Size, Emerging Technologies, Regional Analysis and Forecasts to 2026 with COVID-19 Impact"
     excerpt: "According to latest research report on \"Global Cognitive Services Market\" report provides information related to market size, production, CAGR, gross margin, growth rate, emerging trends, price, and other important factors."
     publishedDateTime: 2020-08-12T07:51:00Z

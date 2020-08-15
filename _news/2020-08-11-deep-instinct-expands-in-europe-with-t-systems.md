@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-11T09:32:00Z
 webUrl: "https://www.telecompaper.com/news/deep-instinct-expands-in-europe-with-t-systems--1349846"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Deep Instinct contracts with T-Systems to continue expansion into EMEA"
-    excerpt: "Deep Instinct continues expansion into EMEA, contracting with T-Systems (Poland) to utilize and distribute Deep Instinct’s protection to its customers."
-    publishedDateTime: 2020-08-10T23:22:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/08/11/deep-instinct-t-systems/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 24
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
 
 secured: "JhiJJBPA9O1icWPOwWWYd85V3+y6JflF7HuzqotWbOX5VcTHA18x4mpOnkxMBDvqBDoFvr5cvCwYBw6w7/BWBYK0wXUCsYII3SBW6NuSCPKejtUKGJDQ9+TEa1W8BD/zhbLwkJtRUyBWS5nM5Bfj5BFN4yLxReyCsVi+2X/27+I4Lgh8J2CkStX6aMLUqmcAXSw9vl56ljAdtugAlpvf6O19urpTbx+KIZ7kopU/CT0DbtHCfLlEoRxJZZ60JmGyA0SXoy7XUfvKb0+VkpC+xI9ZIWorAl25YhDLUj+g++gpmjgBDZVju+MBMOudaTUQ1/uzwLxnEKDdvBkOyX78fw==;6hKprMjPAIQ3L3/qe1TrsA=="
 ---

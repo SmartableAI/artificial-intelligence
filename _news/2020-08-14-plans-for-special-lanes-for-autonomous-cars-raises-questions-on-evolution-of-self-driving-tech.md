@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Drive-In Theaters Are Coming Back, But Self-Driving Cars Could Be An Outdoor Movie Spoilsport"
+    excerpt: "For those old enough to remember, the drive-in was once a dominant force in the movie-going foray and enjoyed tremendous success and growth. According to industry stats, in the tail end of the 1950s there were an astounding 4,"
+    publishedDateTime: 2020-08-15T16:06:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F471923631%2F0x0.jpg%3FcropX1%3D453%26cropX2%3D5600%26cropY1%3D1191%26cropY2%3D3604"
+        width: 1200
+        height: 563
+        isCached: true
   - title: "Michigan Self-Driving Vehicle Corridor Aims to Lead Nation"
     excerpt: "Michigan is working to build a first-in-the-nation autonomous vehicle corridor in its southeast corner, a new bid to ensure the region remains the epicenter of an auto industry moving rapidly to a tech-driven future."
     publishedDateTime: 2020-08-14T15:34:00Z

@@ -1,26 +1,22 @@
 ---
 category: news
 title: "The China Artificial Intelligence (AI) Report 2020: Mounting Privacy Concerns and a Look at US-China Tensions"
-excerpt: "The \"China AI Report 2020\" report has been added to ResearchAndMarkets.com's offering. The China Artificial Intelligence (AI) Report 2020"
+excerpt: "The \"China AI Report 2020\" report has been added to ResearchAndMarkets.com's offering. The China Artificial Intelligence"
 publishedDateTime: 2020-08-13T16:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17075029/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17075029"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17075029"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
 
 related:
   - title: "2020 Market Report: User and Entity Behaviour Analytics Based on Machine Learning - ResearchAndMarkets.com"
@@ -33,6 +29,6 @@ related:
       domain: businesswire.com
     quality: 1
 
-secured: "D8onOGIst/HjEZah4evMuevFfW+ITIzu374atgJjqlUEWTZDeJ4OzJOLPbxWcf+E8NIfNFt7+hUR4O9mUXPAShuZnFBuMJMrHXo0r5rND2FvvGfA8PqrxlcIrYsh2gDXqraU3kQirFtFDe2U2Lc4TwUokw6iLyavziiUIMuu44daU8905B4DbAFGr45uL2BOvqoInmCtLWcMl9GkKs4GwblrsI4skr9szhG6ns7bZkU12YCzYReM4EPePdK4g+hvO568ntM9hGjgTrTl/yxjgD6wxkOKU2K2pQ7isz/LJOv/6pvZHGfUKUxTWLrhMT3oVvACp16GXpvs+pf614h1dIVsFmnMak7FD0hpZ2eheqKBkotuiW/xgv+jj01dLef28X4JgN3zySZqnpp9uR8m+Sa4zbu4WHYlewqC1UpIeBshYoGjS2/yA/m22qnwVjbPPA8aHu+KxvmpzLhr2RR8WrDi4/zox19xZb7UtXz+pfqhtF1OBQ9yEqK9E2Beajibr6nInH99tVJWY3TS4Hv5kg==;0XI5tr/GvuTX0uP9/k9d9w=="
+secured: "+K5MyTuOQhnq9HWk8WVjSbC/pAaY9jhST8wZgcTBwB2/I//lk6YTB4rXsqUOCQf1KF3mCi+4xq2feCe/0zQauerQ2x9PbFMFvph9vn+DlVTte18GuhX1KlZnPJDf9/YJ8kdX6+quayjQ29ebc601yyn1GCQJNO5ucrzqoDI54y29DMX6i0NsGvw10uU0T+yhTRyBeBvbStUKJt3+i6CW93QqSUM3hc5bM4qeOTzg8BjdZnVdMAClxglUiVfmR+YNOPJh/AdwfyVv1cQzR6pWWJzW4ORAHkUq/Q5WXwKIWfMa51Bhg6t7o/fumzCINJ4fgKORl20yCkptgGnqOUhR8Q==;8D3O08Zuu30mN6aF3GutPg=="
 ---
 

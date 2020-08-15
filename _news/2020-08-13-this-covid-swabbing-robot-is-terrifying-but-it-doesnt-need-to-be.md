@@ -3,7 +3,7 @@ category: news
 title: "This COVID-swabbing robot is terrifying. But it doesn’t need to be"
 excerpt: "I’ve just watched the Nasal Swab Robot at work, swabbing a patient for COVID-19. Developed by the robotics company Brain Navi, the robot has completed 15 successful human tests in Taiwan as Brain Navi applies for emergency approval to be deployed in the U."
 publishedDateTime: 2020-08-13T12:00:00Z
-webUrl: "https://www.fastcompany.com/90539438/this-covid-swabbing-robot-is-terrifying-but-it-doesnt-need-to-be"
+webUrl: "https://www.fastcompany.com/90539438/this-covid-swabbing-robot-is-terrifying-but-it-doesnt-need-to-be?partner=feedburner"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JY6uWMlQs2bR2xc+JN4VOi/nhxLwAU1OkomtmGaaLHdcJh3gXx2vp4aP82nGf2BuK10UYXJQ5tUHsFmOCfbT21sXR8g95q3mD3WvTHWFzOoWkmUysskEsTQevvGt6pP9+WHwDeIbXz26CuYcnRzd2NdJr0V9122gnaaPUEbiknqOM3bHu1+3yFxYL2Aw3Vvy3KReXKAo3YfcK/7ns3lUmd6WNYP9I7UDEGOHiSlFsU/LaBcRXcjEkAUrUza9G4i73mcCMHL9gQS0RscaPuqMsKi+Ig7IlOXVsYz2dQCvNW56lBcR1r5FFKAtiVycVIpxS3ECJgFDsicC39JQzIuDYA==;p79dVOjbiGrPtxMVNrDJoA=="
+secured: "kAgGH52jmaP2PdVyMJvxv4oXZeNowru4c1gziCDvEeL/ha88Bz2YHdn0ZA6NSDilyWkWNjq8Hw3sP5mwTiAIPIZxzJTzYKy6k4dZL00hdCES1oaTCJvDRyKhFcIBU5JBtnG/cmq3Wlgg7pE3cNBl3KCC+sCki+ACXK3YBaO3qcB8qm+7bPg7M8xiZMaXrHvzeOTJkWmpy1ITv9ERNlrrDPyVDBx8wCZbUnUjXcN6cuhANi5XrxQ397phcaShpw9V4BauPzANMbawjvdaGpj7kEXjMlO4Zi7vdEakGP5mjmw/82ro0pHzJsA+OwixlU8xvfue32G4GkIUPfOpufftRg==;U+iL7lR//Ix5cGSWFg7H0A=="
 ---
 

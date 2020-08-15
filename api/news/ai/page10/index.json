@@ -1238,32 +1238,23 @@
     {
       "path": "_news/2020-08-03-solidus-making-waves-in-the-ai-sector.md",
       "title": "Solidus making waves in the AI sector",
-      "excerpt": "Established 2017 Solidus Technologies have been raising funds and working on building a data centre built for the purpose of High Power Computing and processing Blockchain networks along with Artificial Intelligence applications.",
+      "excerpt": "Established 2017 Solidus Technologies have been raising funds and working on building a data centre built for the purpose of High",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/solidus-making-waves-in-the-ai-sector-1029460371",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n16891775/solidus-making-waves-in-the-ai-sector",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/solidus-making-waves-in-the-ai-sector-1029460371",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/solidus-making-waves-in-the-ai-sector-1029460371",
-      "publishedDateTime": "2020-08-03T00:11:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16891775",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16891775",
+      "publishedDateTime": "2020-08-03T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

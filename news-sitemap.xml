@@ -859,7 +859,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
+    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
     <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1321,8 +1321,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/b16937587/cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-application</loc>
-    <lastmod>2020-08-05T02:04:00-07:00</lastmod>
+    <loc>https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior</loc>
+    <lastmod>2020-08-05T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1431,12 +1431,6 @@
   <url>
     <loc>https://medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.html</loc>
     <lastmod>2020-08-04T13:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/il/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
-    <lastmod>2020-08-04T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1557,6 +1551,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
     <lastmod>2020-08-04T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
+    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1813,8 +1813,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/solidus-making-waves-in-the-ai-sector-1029460371</loc>
-    <lastmod>2020-08-03T00:11:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/08/n16891775/solidus-making-waves-in-the-ai-sector</loc>
+    <lastmod>2020-08-03T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
