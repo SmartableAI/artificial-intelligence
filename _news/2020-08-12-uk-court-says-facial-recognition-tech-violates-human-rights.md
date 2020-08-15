@@ -194,6 +194,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
+    excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
+    publishedDateTime: 2020-08-14T23:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2020-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling"
     excerpt: "The Court of Appeal has upheld a complaint against South Wales Police for automatically scanning the faces of pedestrians."
     publishedDateTime: 2020-08-11T11:33:00Z

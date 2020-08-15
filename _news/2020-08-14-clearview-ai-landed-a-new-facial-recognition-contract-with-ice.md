@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -157,6 +157,20 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F37b76ea0-b7ea-11ea-ae6e-0754f7707483&client=amp-blogside-v2&signature=780183f0f0569b4c83b66a9741836ca5bd9c9d11"
         width: 600
         height: 350
+        isCached: true
+  - title: "ICE Signs Contract With Facial Recognition Company Clearview AI"
+    excerpt: "U.S. Immigration and Customs Enforcement signed a contract with Clearview AI, a facial-recognition company that has sparked controversy over its use by law enforcement."
+    publishedDateTime: 2020-08-15T05:52:00Z
+    webUrl: "https://www.wsj.com/articles/ice-signs-contract-with-facial-recognition-company-clearview-ai-11597452727"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-221304/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "ICE just signed a contract with Clearview AI, the controversial facial recognition company that scrapes photos from social media"
     excerpt: "ICE is known to use facial recognition technology to identify people and subsequently carry out raids that lead to deportations."

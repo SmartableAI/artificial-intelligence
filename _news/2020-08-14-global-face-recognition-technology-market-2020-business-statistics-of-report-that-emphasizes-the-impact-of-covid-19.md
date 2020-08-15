@@ -1,23 +1,31 @@
 ---
 category: news
-title: "NYPD Used Facial Recognition Unit In Siege Of Black Lives Matter Activist’s Apartment"
-excerpt: "The NYPD has previously stated that the technology is used to gather leads on suspects for crimes, such as robberies and shootings, not to identify people in crowds or at rallies"
-publishedDateTime: 2020-08-14T23:08:00Z
-webUrl: "https://gothamist.com/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
-ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
-cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
+title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
+excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
+publishedDateTime: 2020-08-14T23:19:00Z
+webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2020-08-09"
 type: article
-quality: 32
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Gothamist
-  domain: gothamist.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How Reuters analysed Rite Aid's use of facial recognition technology"
@@ -204,20 +212,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
-    publishedDateTime: 2020-08-14T23:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2020-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling"
     excerpt: "The Court of Appeal has upheld a complaint against South Wales Police for automatically scanning the faces of pedestrians."
     publishedDateTime: 2020-08-11T11:33:00Z
@@ -306,6 +300,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NYPD Used Facial Recognition Unit In Siege Of Black Lives Matter Activist’s Apartment"
+    excerpt: "The NYPD has previously stated that the technology is used to gather leads on suspects for crimes, such as robberies and shootings, not to identify people in crowds or at rallies"
+    publishedDateTime: 2020-08-14T23:08:00Z
+    webUrl: "https://gothamist.com/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
+    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
+    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 32
   - title: "Police use of facial recognition ruled 'unlawful' by judges after challenge by shopper"
     excerpt: "Ed Bridges had his face scanned while he was Christmas shopping in Cardiff in 2017 and at a peaceful anti-arms protest the following year"
     publishedDateTime: 2020-08-11T12:35:00Z
@@ -353,6 +358,6 @@ related:
       domain: thetimes.co.uk
     quality: 19
 
-secured: "K7/t/ddLlvRQYG2tO4gijLeQe14faRuxPDOedEB8kZxPrN7YyACwJa/QuJyGEOEuN6M8ZVIUX4945ZWVzVmzusOuVBtFQSt9sYs74LtVSJ2hqe3/pdtBoHAv30ikOw07lrcGze0or0UTxJeGuNtniVJYW+K3N4x/aZxH4LmEYMs2sT5hj84KONZ4QX1ON0fVPGsbjdpj4LqEfMUKEiNTDtNxmexu3UtVfTwjMnKSUvunNyFJ8vx+R9RA8VMft52zn606rWUE7+uWfIKIZzeqLR77kc1jbp4yAZA8WD1qss+eeLF2D8FTuicuqbXsYI6KxQKZxxO44/Xm7w38Wc+nLPddMwFys9qsIhBNY8j0jI0AeLv1PWc+cXvrI/yzkMQOpBlfr0CryFfmt1fDzfJoe+f15ziX+tt8iBSPCl0ZRngFlAXWhHWHgxpTP+ia1R7EuMpQNWpPC8jsnxnEdtfsxoMHSg+zkUZC+xSeISeKdNWuSw9PA2IOAzPgS/ZC7SpP9JekkBFAa2LdfsleZrXomw==;qgm7ZQq8pRJcEAgdxg7FFQ=="
+secured: "rDbrXzH62QLnp+Ge7sWYyQKoZT6YD5a4JMCOjKaKVk2TBToHR0uRcyAUTstmUl7/7CkVwgu3XDDkNSY7PVJaRTNC1KdrrOaMnm7od1wUqHeNHoQmLSLfiqSpVgXF6HQmGj9wuWSb/F36DPRg3I2JR5bKuus2ziaF3rVKsxRcHjQBOiBzhrf1bfPay5LNxHmcD5w0/ZNxNFeP/b587yr72siDdORDsgTjv9mpIx7C6BuhOvxWM/LjnOuPHNuf5WAH7ojeXEB2NPlZrCm1MyVjffkU7gtRyAMB/k1SKfbzd8QSOeAlKD2gz+tK4dyjAKWeznwXLOxb0RwdOrdxSmlhAw==;BX0Gz3/I08dccptDtoqiQg=="
 ---
 

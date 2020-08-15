@@ -1,21 +1,19 @@
 ---
 category: news
-title: "UK court rules police facial recognition trials violate privacy laws"
-excerpt: "Facial recognition is unreliable, dystopian and, according to a British court, incompatible with privacy and data protection legislation."
-publishedDateTime: 2020-08-11T11:39:00Z
-webUrl: "https://www.engadget.com/liberty-south-wales-police-facial-recognition-113557000.html"
-ampWebUrl: "https://www.engadget.com/amp/liberty-south-wales-police-facial-recognition-113557000.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/liberty-south-wales-police-facial-recognition-113557000.html"
+title: "ICE Signs Contract With Facial Recognition Company Clearview AI"
+excerpt: "U.S. Immigration and Customs Enforcement signed a contract with Clearview AI, a facial-recognition company that has sparked controversy over its use by law enforcement."
+publishedDateTime: 2020-08-15T05:52:00Z
+webUrl: "https://www.wsj.com/articles/ice-signs-contract-with-facial-recognition-company-clearview-ai-11597452727"
 type: article
-quality: 89
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F652c5010-dbc3-11ea-bfb7-583085d588b4&client=amp-blogside-v2&signature=f7c95e26fde5363774a4b6f31c17c53fde145b4b"
-    width: 600
-    height: 350
+  - url: "https://images.wsj.net/im-221304/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -77,6 +75,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "UK court rules police facial recognition trials violate privacy laws"
+    excerpt: "Facial recognition is unreliable, dystopian and, according to a British court, incompatible with privacy and data protection legislation."
+    publishedDateTime: 2020-08-11T11:39:00Z
+    webUrl: "https://www.engadget.com/liberty-south-wales-police-facial-recognition-113557000.html"
+    ampWebUrl: "https://www.engadget.com/amp/liberty-south-wales-police-facial-recognition-113557000.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/liberty-south-wales-police-facial-recognition-113557000.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F652c5010-dbc3-11ea-bfb7-583085d588b4&client=amp-blogside-v2&signature=f7c95e26fde5363774a4b6f31c17c53fde145b4b"
+        width: 600
+        height: 350
         isCached: true
   - title: "UK court rules police use of facial recognition was ‘unlawful’"
     excerpt: "In a landmark decision, judges said South Wales Police's uses of facial recognition breached human rights and data protection laws."
@@ -157,20 +171,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F37b76ea0-b7ea-11ea-ae6e-0754f7707483&client=amp-blogside-v2&signature=780183f0f0569b4c83b66a9741836ca5bd9c9d11"
         width: 600
         height: 350
-        isCached: true
-  - title: "ICE Signs Contract With Facial Recognition Company Clearview AI"
-    excerpt: "U.S. Immigration and Customs Enforcement signed a contract with Clearview AI, a facial-recognition company that has sparked controversy over its use by law enforcement."
-    publishedDateTime: 2020-08-15T05:52:00Z
-    webUrl: "https://www.wsj.com/articles/ice-signs-contract-with-facial-recognition-company-clearview-ai-11597452727"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-221304/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "ICE just signed a contract with Clearview AI, the controversial facial recognition company that scrapes photos from social media"
     excerpt: "ICE is known to use facial recognition technology to identify people and subsequently carry out raids that lead to deportations."
@@ -271,6 +271,6 @@ related:
       domain: webindia123.com
     quality: 21
 
-secured: "Kuae6klIFfiQW+9JBz6eDAOts07D+isv93Fcs/FaGaKfFz1n9HkmkgxYn+pDFtjc9NrFZze1kJTA9k6gkMWuAv9d/aORFd433FPv2FOCWA/DAU44uMpufr3aNYtcU0R3ElZDdtunavbFoBI9rWXpY7N8HwAu2d/0naXQMqHoX+2tBkfaEv92Z9WFezta2Y9ByiQyCqV1aY3DCdUccrc8NppPUtonSOu2r/Vk5+LXeueD6VdYhs2ubCZSghgq1w0dC8JXDZSy00Px/k5VSeT55+DYQRafTLll0ZBPHI/spXRFbZ8hgsF6+5Q61g3FHYarvZn0P2xM1FIa7u4hlzv18xlDOZQB4wHqopyEc7vGfrBjmKo1d/Hg1fvvrWTrjh0C7sHCROpGK8mRRCEpAUoutbQlUskCP0j5Yq2Bhtc7IMsRmwrXwZ9UvTosGzktNBnfIwpa9ZJ5pakDTSyVmcwPFUTOIfa0Z0ysd6rsxEmtA7itW0qPpmzggZZrG2M8Oo0+MQARbwjFTgnKnBzMQBMKvg==;AcgwyVU0grfuDipya/ZBIQ=="
+secured: "l6pmIivUf4aGX9/VZTgB3qIGHsdIVc+vQxz2w4DVyZ3Hdb73kyQWNe5aZESRJIpWfMsmH1KkM9o4fs1Kfm0/SommqpnW56yRwbeTdou7tn82yP1qLVAeQc++LrlmhYh25Oyp9qg/Ai1c0Npb4JYNIwsCfoBn/h7yAYOvbjhZ2GuQ3AsIfnhtBYqAL/+1V26trTkOEYykXfKbSQBk5HDgTBYFOmfqonqmZFr3UZP+v+QmZMzzzxTJHpVihktMpN/5Zdj/9de+7apuo2r1pZtWj/BcZZnMONJzjOI+IDk4wYbVQaNxOOgLa84DyWx0WgSek71EKF2i4gWNX4xS4sRR8Q==;97BT6SJB2VQzkDqr7OKLkQ=="
 ---
 

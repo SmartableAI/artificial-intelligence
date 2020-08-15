@@ -210,6 +210,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
+    excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
+    publishedDateTime: 2020-08-14T23:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2020-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook accused of illegally harvesting facial recognition scans of MILLIONS of Instagram users"
     excerpt: "INSTAGRAM has been accused of hoarding facial recognition scans of 100millions users without their consent. In a class-action lawsuit filed in Illinois this week, lawyers allege that the"
     publishedDateTime: 2020-08-14T11:32:00Z

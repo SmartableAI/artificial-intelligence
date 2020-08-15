@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN24T1GH"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN24T1GH"
 type: article
 quality: 104
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
+    excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
+    publishedDateTime: 2020-08-14T23:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2020-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling"
     excerpt: "The Court of Appeal has upheld a complaint against South Wales Police for automatically scanning the faces of pedestrians."
     publishedDateTime: 2020-08-11T11:33:00Z
@@ -344,6 +358,6 @@ related:
       domain: thetimes.co.uk
     quality: 19
 
-secured: "hu9SkhsusQpPBfjF5QN1ZWoaCIvsK9eDs4b/pFa4g/WvSPP1X2iCZ8dZNvAp9V3avkZOHTT3jCuLea3CEv+2NVyeDNOEa7Z8xZsZJULxcKIEbXlHETq7uoQ8eNgDZ5OvZ9WjKQJd2RepmQAtlRDvFHrF3MXD12drIvnYsOunwsMOmCahKFWRc8HXegp2Bj8BPcjycI8LyibisHpBk/avG3KcoK53OAK5KyazYy89BxZRkK6ycF1GJM1HgpDl29IkK5o2u8klIW5Z3if/0rxaedxp1ODexMJqPph2wjgPnqR0dWYPaHaZ9sM8ojTA6kkgg+fss0yV54wHqQblA6TvPA==;aHexQo11S35ZkSnwgw/1qA=="
+secured: "yj6gGW2PgYmLntH+LDtO+VTAIPRluLM7bWU0K17kkVJMq2rOgvLgGBdxQygVYhwjZQS3J8YISRE31YPeOc3kPwWwqGVbA785F1Td2sMBU6y4KshJEGiYxEPKimgywzqqrjdj0IRFnwtzziR5s7CAGwjqAWXb4Q0YftSTKNbTcX/1hKiONzVAASpvyToth7Dns1bfkyR4HapGKoVVCRKWb0aFyeNbICrpk0R9FPkTIdUz4XJKz/fkDkj/ETHA/eEGrWKqDEw6KKzsbSIXjx6S76k0BwShTqPpMrSZB6k1F3M/eklCR2mW0l1TB+k9X0xL1waQytvQ0o1YINmg+d702HmTA00yIcKWadqSZXncTNDFCLkYiyVhzSEs+AeRfFIc4Zd+3CKh9NFzMI6/TRYOiBtvTfRqDQoSObLKWIc1KjLQkM8PGdiWjnN+FlPrM/HFYTU31UPaIEJltVR3ogpFfX2SbYQ/Uhxhxfw4TY+NJ5/SYYlYT1wovMmaWdRvpzR9;L+0NxH6kQZzpgIYMAsNxTw=="
 ---
 
