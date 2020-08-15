@@ -1,74 +1,25 @@
 ---
 category: news
 title: "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability"
-excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services (AWS) to establish a cloud-based artificial intelligence (AI) and machine learning (ML) platform."
-publishedDateTime: 2020-08-14T17:57:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-1029505843"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-1029505843"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-1029505843"
+excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services"
+publishedDateTime: 2020-08-14T17:39:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17086830"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17086830"
 type: article
-quality: 60
-heat: -1
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
-related:
-  - title: "UNSW switches cloud-based data lakes for AI and ML capabilities"
-    excerpt: "It was clear to the University of New South Wales (UNSW) that at the end of 2018, when it was developing its data strategy, it needed to improve the turnaround time it took to get information into the hands of decision makers."
-    publishedDateTime: 2020-08-10T21:00:00Z
-    webUrl: "https://www.zdnet.com/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/unsw-switches-cloud-based-data-lakes-for-ai-and-ml-capabilities/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/08/10/83c3e898-f187-4a2a-9aa3-64d02fd75f9e/key-campus-summer-holidays-2019-louise-reily-hero.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "UNSW explores AI infused analytics for dual data lakes"
-    excerpt: "UNSW has begun exploring how AI might be able to help it extract additional value from its dual data lakes. The University built its first data lake in Microsoft Azure in mid-2019 and has since used Azure Databricks to create a second cloud-based curated ..."
-    publishedDateTime: 2020-08-11T08:38:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/unsw-explores-ai-infused-analytics-for-dual-data-lakes/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/08/Key-Campus-Summer-Holidays-2019-Louise-Reily_hero-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "BPT Analytics Ltd. launches cloud-based analytics dashboard “A Landscape of Artificial Intelligence (AI) In Pharma R&D”"
-    excerpt: "BPT Analytics Ltd. (BiopharmaTrend) a provider of web-based business intelligence dashboards for the pharmaceutical industry, launched cloud-based ana"
-    publishedDateTime: 2020-08-11T18:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200811005513/en/BPT-Analytics-Ltd.-launches-cloud-based-analytics-dashboard"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20200811005513/en/811962/23/bpt_press_image_mon1.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
-secured: "GdrWsFzzgMl7sctmTRHZaP60Tq9FhhGRwklG9fG009Bnkn+w3Wt5wRRztlAM+gmAqfMZEPnCqEs/+3iOZ2shy77xlwSQqdHFQl+NyNDOBp9dblWHyWo8KPIaHcjhBLttVMARe63Vm7riuOu4B7wokOGdCowu9KmnO7l1xNMzo9vgrnh7/gpImRs/6ImF9tLQLAxuGfvlYrJpn/+xr39shempEYvGY1j6nMrh6/urFTK4QYb1RLwfbNwtnIDoZYZan97CoRo/kPEYLaIfoC4tiZCgWfMsXycyeGCHdsqx9e2z4E8AqwtYhZ+/yZy36afabLJ8p5tktXSLKxK0oCbNsA==;KtjjQjnTm6OFYDydVr4k4g=="
+secured: "2s4GraOVZnlXz4ns6O/lYeN/WRFVPa3wUDhROhyjvgQSvzd88Xv8g0duwPlSO/c27FfctwFKRzoHoP2f2YXvwl9ZT+sk4jVTY7nkcfDd108u6eF7NNi3TJKbAlHOPYx3CA+JjcMQwfB+Ki8p+bFHH0/lYkbh3Z8nFwNVkbLUsqZ5WCH3hFX42fqwwhP+NHqpqN0T085T7e7Ov8Dl2Qwd7vDFn2tDVqnn1kl4lcxGAA0t6dX/2ivzA0sT9CjA/2vYUlVq6VP3dHJWG7EOHqI/Z1vuteuaBMZ+M1QGG6hdE5yv03DQz+LzwgEuRoTdXQd+NRYG8i57wcAmMbdaD2fBF6U58GmUUTPlDsRD3GWtbOuBK9o91JebNB2HoIkdRXH45EY4bwrRLmfNm61OzRReaiCEmzHzOk+69v9/ouH4/LXq1kiY2wmYFLPz4Tdw40l5YnzWjLbHoAH+xQKMAtLwx6yI+XpDAaFkCIbf2nZJyp1QfEoS6peNH6nqoqNf/0b/2+IaSD2QnHVFVgCjFVRxbg==;MuoS/jFCJZTjvh9CXeDwjw=="
 ---
 

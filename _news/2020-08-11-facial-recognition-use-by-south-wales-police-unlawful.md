@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33c790032d66b3ff669e61%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Gujarat Police Tests Facial Recognition System To Track Missing Offenders"
+    excerpt: "Gujarat Police has successfully tested a facial recognition system (FRS) based on artificial intelligence in Vadodara city to strengthen its law enforcement system and curb crime."
+    publishedDateTime: 2020-08-15T13:17:00Z
+    webUrl: "https://www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011"
+    ampWebUrl: "https://www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Police force violated human rights with face recognition cameras"
     excerpt: "A police force’s use of facial recognition technology was a violation of human rights, according to a landmark legal ruling.The Court of Appeal ruled that South Wales Police violated rights and failed"

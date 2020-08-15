@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-testing-corrid
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-testing-corridor-michigan/"
 type: article
 quality: 69
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDTN/c747aa57-ba4f-4af1-9c8b-cc1f530304b0-Upscaled_stills_Highway.jpg?auto=webp&crop=3823,2151,x16,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Michigan is devoting a 40-mile stretch of highway to testing self-driving cars and improving public transportation"
+    excerpt: "The route from Detroit to Ann Arbor will soon have lanes set aside for autonomous buses and cars in the hopes of advancing self-driving tech."
+    publishedDateTime: 2020-08-15T13:25:00Z
+    webUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5f36e5a9e89ebf001f044d08?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Detroit-to-Ann Arbor self-driving vehicle corridor moving ahead"
     excerpt: "Project would be another step in Southeast Michigan staking its claim as an epicenter of connected and autonomous vehicle technology in the U.S."

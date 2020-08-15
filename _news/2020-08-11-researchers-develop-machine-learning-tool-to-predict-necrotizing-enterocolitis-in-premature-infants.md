@@ -42,19 +42,19 @@ related:
         width: 2879
         height: 1919
         isCached: true
-  - title: "New machine learning tool predicts devastating intestinal disease in premature infants"
-    excerpt: "Researchers from Columbia Engineering and the University of Pittsburgh have developed a sensitive and specific early warning system for predicting necrotizing enterocolitis (NEC) in premature infants before the life-threatening intestinal disease occurs."
-    publishedDateTime: 2020-08-10T20:56:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/cuso-nml081020.php"
+  - title: "Machine Learning Predicts Life-Threatening Disease in Infants"
+    excerpt: "A new machine learning approach could predict a life-threatening intestinal disease that impacts premature infants, leading to improved decision-making."
+    publishedDateTime: 2020-08-12T13:31:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-predicts-life-threatening-disease-in-infants"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/239894_web.jpg"
-        width: 1440
-        height: 960
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "Qw1srjJb/8/oT9696LBQKznII/+d3eWgyeCQCCERCEGoIjPIieN3Mp0fzY8kfskc2iftMeInUx7mHehzig1RhnNSJpyxTskVdAPUCL21LS6CxrDg4rpHy8nmJKu4OS9qAXY634SFwUxj+dSvUyqD8+mUYrkuUxV49i2Aoj/mIB+Ab3/70q8AMSTCJuxR/IYQERBdZ4eH929RCrKm8xDpXmKwvT/avGuXl+CbPTMEr3nrKALxxEL5VV1KpdfqYeMiOYlpQ+NFgBgCk+IzViXU4/CT5CPFk36hTN5SPKfg/+/cw5Ex8SpCHE0eChFqAoVVSypcWfonO/aBo8JJ7hattw==;m6TJphhCwdCkqy/MAHY2TQ=="

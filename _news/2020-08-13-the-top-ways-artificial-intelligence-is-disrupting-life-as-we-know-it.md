@@ -1,22 +1,28 @@
 ---
 category: news
 title: "The Top Ways Artificial Intelligence is Disrupting Life as We Know It"
-excerpt: "The artificial intelligence boom is already here, and it&CloseCurlyQuote;s changing life as we know it. JP Morgan analysts believe the market will grow to $58 billion by 2021. The auto industry is using AI to create driverless cars. The financial industry ..."
-publishedDateTime: 2020-08-13T14:52:00Z
-webUrl: "https://stockhouse.com/news/press-releases/2020/08/13/the-top-ways-artificial-intelligence-is-disrupting-life-as-we-know-it"
+excerpt: "The artificial intelligence boom is already here, and it’s changing life as we know it. JP Morgan analysts believe the market will grow to $58 billion by 2021. The auto industry is using AI to create driverless cars."
+publishedDateTime: 2020-08-13T14:11:00Z
+webUrl: "https://www.baystreet.ca/articles/stockstowatch/59411/The-Top-Ways-Artificial-Intelligence-is-Disrupting-Life-as-We-Know-It"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: BayStreet
+  domain: baystreet.ca
 
 topics:
   - AI in Autos
   - AI
 
-secured: "8c95LGh04+JoVywcRSfvlM3r/AjYz+T9P33+o8fT1rnBOXDsuopAuVQZN8u0tGM7QP2utcy8mH5cBFQCYven1XGCk5Yc4rbKJnPpT7gJkAFvTIszM+DLQbsijUC62IWk3eOEOVez2XyKuWtWgL9L2kfaZkDXIjKrh3brAM9uEg0I14LHGLN79zvH4tg1Z4jjDYMd/E7udnnBIEb2KWwABtXPMBMuRRESH7iPM/rjt9JvENGJK6ZE9MoqEg4dV3igEzdYjCcvpW2pIa7wdR4SewmUKsb+f+hui1JTzNR7QbS40hvO1qP396urJ4WRET/GMb4E3HGiQ0d5vuVJc3C3eQ==;WhbWQEuioX8pxNoBvV6rzA=="
+images:
+  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1.jpg"
+    width: 1024
+    height: 400
+    isCached: true
+
+secured: "iPGXZ5L0t6agd7E1qG80TNx9CHRAfhK4thKewuYi0jsuJvWENtBaC6dT5lLDFTFqWDSGgn3kt07Tc6L7McK/Aw7+Z535luFMUGV7h+cU1S7n7MN5GFZSSHTIi/lP/pQ3EpsryrpYHg+PsgfboaN2rwwLiJ+MJ/EKpUPOi7iGCJ9dnMF0cS/aBSKVQw7V6129rhUDsBiTv1G0fhl++272JlFlZQH4sQKcZ8hmcgkaZ3hln7Ctmxk4I5dTmp7hjnzgftTysFjVln7FCtGqdrDPiOhNWTk59SmBwGigrc3Ck/xfjni+egiwnn5Ykol2tTkC0YbIvAoS3M+lbvshza68zw==;DsbS+dBry9kbtaxc3ODEww=="
 ---
 

@@ -56,20 +56,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "How RBC Built Its Own GPU Farm for an Artificial Intelligence-Powered Banking Platform"
-    excerpt: "Its vendors, Nvidia and Red Hat, expect lessons from the collaborative project will benefit the broader fintech space, as well as other industries."
-    publishedDateTime: 2020-08-10T19:04:00Z
-    webUrl: "https://www.datacenterknowledge.com/machine-learning/how-rbc-built-its-own-gpu-farm-artificial-intelligence-powered-banking-platform"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 46
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/rbc%20royal%20bank%20canada%20building%20toronto%202019%20getty.jpg"
-        width: 1024
-        height: 690
-        isCached: true
   - title: "Gong now valued at $2.2B after raising $200M for its AI sales platform"
     excerpt: "Gong now boasts more than 1,300 customers including PayPal Holdings Inc., Microsoft Corp.’s LinkedIn and other big names from the tech industry. Gong provides an AI-infused analytics service that is used by business-to-business companies to help their sales teams acquire more customers."
     publishedDateTime: 2020-08-12T17:14:00Z

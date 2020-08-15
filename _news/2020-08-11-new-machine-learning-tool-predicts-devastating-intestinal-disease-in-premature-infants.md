@@ -42,19 +42,19 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "New machine learning tool predicts devastating intestinal disease in premature infants"
-    excerpt: "Researchers from Columbia Engineering and the University of Pittsburgh have developed a sensitive and specific early warning system for predicting necrotizing enterocolitis (NEC) in premature infants before the life-threatening intestinal disease occurs."
-    publishedDateTime: 2020-08-10T20:56:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/cuso-nml081020.php"
+  - title: "Machine Learning Predicts Life-Threatening Disease in Infants"
+    excerpt: "A new machine learning approach could predict a life-threatening intestinal disease that impacts premature infants, leading to improved decision-making."
+    publishedDateTime: 2020-08-12T13:31:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-predicts-life-threatening-disease-in-infants"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/239894_web.jpg"
-        width: 1440
-        height: 960
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-917184638.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "z4Wu8/UaxfSy3G2CmqWH0+aV10BKq4JuEPGF6zQOOYJQ1cXp1SK+rJRbBCWEzkx9uNFqlCnwD8E4vLdqei2suCC7Nr+oBX2/n15kJTR3w2bhr+hH4SDuxPrtAvFIqRVlSh5GbWPR+y6hnYuMUNY4qf8ZnKLOM8z7HmhRMkjQDQe84b2NxL5H3HldaIHYKFJcbWAVS5CKQ0PagRpQqHK5jA3CAj6hjgqy3PijJhcacTXr98LJqI9LkwF5ilHfUBZ/YBCMEYZK+aw/rYNt9gNZ8DDBv5imhkXF4AIC42ZzTRyqFF2Vhk1fiX1tr1Qbojda/eLSY/uofZRakYD+R0p97WD2qOdKgTyCLOtND4ByF0bC3F7Kt5ZOMCTASIavs1P339Hv0cb8Th7Y3+CddulTQSxm4ouQiMkrLgCmpTbo78Vg/3LHHlcer0Xvb7wZiTkjVLsZTu2QE8oWbi5U4I7NA/bB7cI3A/ogrQy4XjCJ3uyIWcqIn2KKUSb6rsX01C8Q0adA9IKdhfkMPCO9ZqNQgA==;MhzsZ6XyboeAE8Ub+AWGsg=="

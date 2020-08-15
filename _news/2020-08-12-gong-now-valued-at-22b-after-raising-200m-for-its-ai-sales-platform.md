@@ -67,20 +67,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "How RBC Built Its Own GPU Farm for an Artificial Intelligence-Powered Banking Platform"
-    excerpt: "Its vendors, Nvidia and Red Hat, expect lessons from the collaborative project will benefit the broader fintech space, as well as other industries."
-    publishedDateTime: 2020-08-10T19:04:00Z
-    webUrl: "https://www.datacenterknowledge.com/machine-learning/how-rbc-built-its-own-gpu-farm-artificial-intelligence-powered-banking-platform"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 46
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/rbc%20royal%20bank%20canada%20building%20toronto%202019%20getty.jpg"
-        width: 1024
-        height: 690
-        isCached: true
   - title: "WISeKey Invests USD 5.5 Million in German Artificial Intelligence Leader ARAGO for 5% Stake; Integrates AI Technology into its IoT Platform"
     excerpt: "WISeKey and ARAGO will create a JV with the name WISeData.CH and will license their respective technologies to the JV. WISeData.CH JV will integrate ARAGO and WISeKey technologies to develop solutions that help clients drastically accelerate digital transformation in any industrial process though immediately integrating IoT and AI to secure"
     publishedDateTime: 2020-08-11T16:10:00Z
