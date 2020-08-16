@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Sounds of action: Using ears, not just eyes, improves robot perception"
+    excerpt: "Other team members included Abhinav Gupta, associate professor of robotics, and Dhiraj Gandhi, a former master's student who is now a research scientist at Facebook Artificial Intelligence Research's Pittsburgh lab. To perform their study, the researchers ..."
+    publishedDateTime: 2020-08-15T22:20:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/08/200814101657.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Robot perception enhanced with hearing"
     excerpt: "Carnegie Mellon University researchers have found that robot perception could improve markedly by adding hearing to the machine’s sensing skills."
     publishedDateTime: 2020-08-14T09:38:00Z

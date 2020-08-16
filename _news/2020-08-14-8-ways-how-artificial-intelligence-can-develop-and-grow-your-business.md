@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/354749"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354749"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "3 Important Ways Artificial Intelligence Will Transform Your Business And Turbocharge Success"
-    excerpt: "From the smallest local business to the largest global players, I believe every organization must embrace the AI revolution, and identify how AI (artificial intelligence) will make the biggest difference to their business."
-    publishedDateTime: 2020-08-11T05:06:00Z
-    webUrl: "https://www.linkedin.com/pulse/3-important-ways-artificial-intelligence-transform-your-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 26
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQENaioZjUYCWg/article-cover_image-shrink_600_2000/0?e=1602720000&v=beta&t=kFUgCcKp8M9wEOvHPIUHTLum3DPoJwDovz01tytDg9A"
-        width: 1433
-        height: 600
-        isCached: true
 
 secured: "hyesk0+XXu4FnBJWQxGQKwpMKU15SA+KqPH8OZGJyH4XcmIdM+e0AQWF/fvneiRmO49pTaOcy1kYPzEwmGeZeVUNy/40lCGZTbCwODcUM+vhJIxyTqRMAG02p7vnvWimMRyZ44ZRCHj63PUqcqYAv4aOXEKhQm62Qp3/xodXS5z4+p3g0qBx5BfBY05Q5abHNhkuPpnIV1G36AiYxoCRNibJexY7G/8KhAljyn2DyUQeak4NOIBckP+VsRg/MDmHYe6gKgeP593Amm3Vpj7j2udtdMJnYmFALdfibd0DwhhEsaKmYxeTOD58QjgrdULdKd+84pcuZPUoCfnnH/O1ubrWKXFX9YWFTCRkeLJpl5nAwDZ7puMLUopZt/fzMz+DMo1vDIM3lEbvrDioQkCSFjhPaYrafPbrGPRC8gGCjt77hKr1/yRUQXS2dqnjmNz4gFnYhTpxtP2Sn8Ng0Uwx7n67UPfWnMANyFiJPr7W2ytxN4LG27OxEFFVZ1lcYtpR+4gLL0UE2eU2f9fGApYDMA==;jCgX3ilZUNfIfHEZZZOpqQ=="
 ---

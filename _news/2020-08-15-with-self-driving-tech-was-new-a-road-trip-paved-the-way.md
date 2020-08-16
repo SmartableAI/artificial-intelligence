@@ -2,18 +2,18 @@
 category: news
 title: "With self-driving tech was new, a road trip paved the way"
 excerpt: "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan."
-publishedDateTime: 2020-08-15T06:01:00Z
-webUrl: "https://www.idahostatesman.com/entertainment/article244877067.html"
-ampWebUrl: "https://amp.idahostatesman.com/entertainment/article244877067.html"
-cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/entertainment/article244877067.html"
+publishedDateTime: 2020-08-15T07:01:00Z
+webUrl: "https://www.miamiherald.com/entertainment/celebrities/article244877067.html"
+ampWebUrl: "https://amp.miamiherald.com/entertainment/celebrities/article244877067.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article244877067.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Idaho Statesman
-  domain: idahostatesman.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI in Autos
@@ -57,6 +57,6 @@ related:
       domain: newsobserver.com
     quality: 18
 
-secured: "MJbVtk4os1Ej6e6C29BxeZWc/ApDBfo9HQ1qvMzpzlHFczzzj2dnM92I/FvH/YnGxmkLKM8sNJI2shmsygZfY7NsN+98qMCtKOkTvc09DLeJ8yKbbukN4vEJRh0qtABRDCdMo3iPLoFFRFpBzRKXsWeQNcLLFOrAONkOhC6+uyFV5waPyDuEcuZkhuuy2gUMVDI6/3QidFQrAEExFGHepS4cF3YYN0H5cOI6D0UGyUMsPqDLEc/XQtQ1M+KABIqyMe17LaKckoSc9orxEYz6kx6zweR6sYsFIpNapTAiqRELDyG7ZPZuUHYJN4qg6VKd2uJA8Gb0OrLX1a5vMhdaXA==;lS8JlYq6zCjp7W8atS5alg=="
+secured: "sXnYyxL/DtZEcrm1Gty+cackK0x3knA8DrtZGWAX7sj+hdUvyUTiu3xvrjhNmFyLJozulMZCr4YDTHjOgrmhcOF7NRyswtJmf/+GPm+R5zKQlsL9W6+wsujHeD6mNZ9lO8BR/GCiYsDfjVEM+/FVzrCAqbN64b4n82DPEEfWqXTmRjykLobTAsFmETNW+Skgg4Imxs+inBXbkQSZqSEIt51kpQM3HXIdxFAHSJUynhuq/StQ325ZOq1jZPwr/PwTXwsWhegtgl+taRcLmmhEa+HUxYzwoxHCk1lnlKFQI2OpRNie8Q4Okk4fQlutnb6i1oqXfLTfMrJhE8dlZf1bjg==;jbdnN0pSqjbQQiOcHoGqxw=="
 ---
 

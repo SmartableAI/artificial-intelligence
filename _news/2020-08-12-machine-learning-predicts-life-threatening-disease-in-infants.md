@@ -40,22 +40,6 @@ related:
         width: 2879
         height: 1919
         isCached: true
-  - title: "Researchers develop machine learning tool to predict necrotizing enterocolitis in premature infants"
-    excerpt: "Necrotizing enterocolitis (NEC) is a life-threatening intestinal disease of prematurity. Characterized by sudden and progressive intestinal inflammation and tissue death, it affects up to 11,000 premature infants in the United States annually,"
-    publishedDateTime: 2020-08-11T06:07:00Z
-    webUrl: "https://www.news-medical.net/news/20200811/Researchers-develop-machine-learning-tool-to-predict-necrotizing-enterocolitis-in-premature-infants.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200811/Researchers-develop-machine-learning-tool-to-predict-necrotizing-enterocolitis-in-premature-infants.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200811/Researchers-develop-machine-learning-tool-to-predict-necrotizing-enterocolitis-in-premature-infants.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 45
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "FJJs3pavr4LGQc/Tz5NXzCnCO6USuCznP1OPd1zCufCnb6Sbu62bUHIPLXO6lMaxD4XXPzwSG/DxlQ7VShyEGS+Fj80pXIIFYkGNKyUXSzzWcsIK40XxRpf+Zg1QmVbQg7HUDHv3StoM2A5ICeQBjM3yme1Rv0nMdLZIcaZoiWAOeNMmS3Ho5eOpXSYZ/QEzyLuI4RgD3CrRunkG2/0zF+G7bEln6SxRav5pCjmCca1brsYlkpv11yj6yqOiAFoU/GHOTuaDqhaDU2hBW7Ifa7u34eeoPyLa8BK1gOqHK5RJRBT7/vQbyAv0+J4S4W9z91W3Nyj4xtyQpdlwDfcIiQ==;uvzN+6dqFTsXtG3ANJmiCg=="
 ---

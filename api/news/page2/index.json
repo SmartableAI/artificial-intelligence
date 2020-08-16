@@ -625,7 +625,7 @@
       "webUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -663,7 +663,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

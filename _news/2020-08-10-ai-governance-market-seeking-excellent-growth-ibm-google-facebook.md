@@ -3,11 +3,8 @@ category: news
 title: "AI Governance Market Seeking Excellent Growth | IBM, Google, Facebook"
 excerpt: "Latestreleased the research study on Global AI Governance Market, offers a detailed overview of the factors influencing the global business scope. AI Governance Market research report shows the latest market insights,"
 publishedDateTime: 2020-08-10T04:28:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10"
+webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10?mod=mw_quote_news"
 type: article
-quality: 69
-heat: 79
-published: true
 
 provider:
   name: MarketWatch
@@ -27,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Chips Market May Set New Growth Story | Google, Intel, NVIDIA"
-    excerpt: "A new business intelligence report released by HTF MI with title “Global Artificial Intelligence Chips Market Insights, Forecast to 2025” is designed covering micro level of analysis by manufacturers and key business segments."
-    publishedDateTime: 2020-08-10T06:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-may-set-new-growth-story-google-intel-nvidia-2020-08-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "J2XDB/fgBMbBccgSu6p3cjPrLzDRHoHpNpxZxAPI4Mhix4XPv934jfnw/5MCfqZgkJ0pGzLBE6Yz2e+Kua6917Qd2soUC9cC8RZ7Wt3qAdTBHfnfGSoFDhefvQEWwklmlwMtqmeghrK/TarizQ1BCqrpnFHl9PhmS/BgssXzXydRNjL9RAyiyWP+wJzEykwxd8rEQtDcOhs5at+GPf7izSb3VIkPJ5z0ZkLE7SQCTuDTf9h6nxrK0lFcBJgcLq77TUAnvT5mGQAwwhZ6edbQQZFw2e2aNAyRRyEPTfeOpP+n7o40pdilx1Wx9OcvQJ98EbFFhBM4BlXqXseq1mE8Qg==;kdeG/3pfqLwy8qdzaPcH8w=="
+secured: "m2cO1TYiMx1NxVod3nR2rW3EbSPXF64A4OqqoXSySsXzbxVYHIxvVeqiCOpmhRM61hxDEgzOAddUYSTnrj62i8R5wwhP4PtjIzN3ZnqZ57SWvnBdcsv8gnHMKQ0uJMw+39X9XdqeDyPN0ARfdO+6sS8Pxql9Opx5Z5TCeqliqy+XWRrqyCyXXYqhnQ+W5IxVL/Qh/9sFMa5FAX7W5w7CGeN0pkd7/2dHUyhiPsHR7m5bsd6lr0krGowG0d7+vWRrtb5ievQ8Ps8SWLhBuFYr/cR08PdiJVRpb2tyxNexH4TpwWkrUSc0/v2dbOgd7t+eEN66fFS01w8KxPxo+yTYHQ==;TZ3GcYsHTu8Xji2uywsS6g=="
 ---
 

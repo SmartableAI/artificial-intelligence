@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T09:38:00Z
 webUrl: "https://www.theengineer.co.uk/robot-perception-hearing-carnegie-mellon-university/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Sounds of action: Using ears, not just eyes, improves robot perception"
+    excerpt: "Other team members included Abhinav Gupta, associate professor of robotics, and Dhiraj Gandhi, a former master's student who is now a research scientist at Facebook Artificial Intelligence Research's Pittsburgh lab. To perform their study, the researchers ..."
+    publishedDateTime: 2020-08-15T22:20:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/08/200814101657.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Sounds of action: Using ears, not just eyes, improves robot perception"
     excerpt: "People rarely use just one sense to understand the world, but robots usually only rely on vision and, increasingly, touch. Carnegie Mellon University researchers find that robot perception could improve markedly by adding another sense: hearing."
     publishedDateTime: 2020-08-14T04:04:00Z
