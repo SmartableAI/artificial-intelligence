@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Buddy.ai Announces its Launch in Latin America, Where the Company Will Help Spanish-Speaking Kids Start Talking in English"
-excerpt: "PRNewswire/ -- Buddy.ai ( — the creator of Buddy, a virtual English tutor with voice-based AI for kids — announces the start of its"
+excerpt: "PRNewswire/ -- Buddy.ai ( -- the creator of Buddy, a virtual English tutor with voice-based AI for kids -- announces the start of its business"
 publishedDateTime: 2020-08-12T12:28:00Z
-webUrl: "https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html"
 type: article
 quality: 13
 heat: 13
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1227453/Buddy_ai.jpg?p=facebook"
-    width: 1367
-    height: 716
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/f6/2f6d9c8e-71c5-502e-b4cf-93ebaacb2983/5f33e58016ea9.image.jpg?resize=400%2C300"
+    width: 400
+    height: 300
     isCached: true
 
-secured: "qA7WdgM6obINdyL8EKn5eTAHpJUB6DJqyac5TQ5Cx1Mm9C7GP1Q5uqgHUzBb6eOwF+YRDVeUTHk0TVOM4I7DyKwFEcWcI84OIYa0H8Vf5L1GDZunFGOSa/B0cLNGNkzIe9M2QqbZzP6AM0aDo01+CIQ67AyMEnkeYzNQ9wErne6fowzA2kXbxsaCi9yBBi2f6fEiQFYHUlQmeZ0MUZZUX+MNniLvNIABcS6UHxKaXq9uA5UrTgv/SzG86bwIK+4Dia5lFPQF9QuzRsDfI6V7REqdbPysr45zBJ4b2hfIyqn9Toa/VxiFpXqu+wfzgbAVzwxg/H0r3zOt0ZG2ZLmb08yMfqEspxMcnUAR7WvmhQPOoUXSJhM0yikXBJDQA+rcV4l/z3lMFT+v8ulpPezCeQ3WxPCmoAlMxiLVEP6dJR5S2NFaZzbCGnFtYlGNbc/532JEIUX5A9UdrrrSrI06LdgttYkH+nfcqbUBc/aG3yO15z+6S7hQlQhZN1SuY1w/xnGkgVTypgomkV1wz1M+Ww==;njsycrXmB8LTQRfQwytXOg=="
+secured: "2UHL6Hul6NHT/ymg83/PE403yjnr18QiyLd5W76HxV4SfE/PZszBN/6KuqudPVHMNNHUbudS4vu+YJFYjDW69yw+X4AiYewTregBHv8k2qbVIHUdjznwPZRylybZqcJSgADPzXBokPPhv2WknHVsQM9IjNxbI9E2LAvl2RzPdytjGU2HhF2bIQ6aiWCAOIiff89CwlpWbS7yJ90R6JgXWllcsBqVGSb3eH/mwQjVxo2FZYnfCMnGQFGD64hVQDWXIEY5WH5OGbhbGO9YjRtYZCEPWrjUg2YBfX8cy0DGCwPNrAGgsMoMes99AfsmmpydO+HaNIfx4XDGCxjYaL2EbA==;wWNv48fznofh6aF2JtwkNw=="
 ---
 

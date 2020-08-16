@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -123,22 +123,6 @@ related:
       - url: "https://i.insider.com/5f36db44e89ebf001f044c6c?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "UK Police Use of Facial Recognition Ruled Unlawful"
-    excerpt: "The use of facial recognition technology by a British police force was ruled unlawful on Tuesday by the Court of Appeal in a case brought by a civil rights campaigner."
-    publishedDateTime: 2020-08-11T15:19:00Z
-    webUrl: "https://www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
-    ampWebUrl: "https://www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/AP20205626931949.jpg?fit=2500%2C1813&#038;ssl=1"
-        width: 2500
-        height: 1813
         isCached: true
   - title: "Police use of facial recognition found ‘unlawful’ in court"
     excerpt: "In a landmark decision the Court of Appeal has ruled that South Wales Police’s facial recognition deployments breached human rights and data protection laws"

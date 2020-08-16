@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-13-microsoft-trains-ai-agents-for-more-realistic-gaming.md",
+      "title": "Microsoft trains AI agents for more realistic gaming",
+      "excerpt": "Microsoft's Project Padia is all about teaching AI agents to enhance your gaming experience. This time, they ar teaching NPC to cooperate with humans.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/microsoft-artificial-intelligence-gaming/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/08/Microsoft-trains-AI-agents-for-more-realistic-gaming.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/microsoft-artificial-intelligence-gaming/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-artificial-intelligence-gaming/?amp",
+      "publishedDateTime": "2020-08-13T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-artificial-intelligence-ai-market-in-bfsi-sector-market-to-watch-spotlight-on-ibm-aws-microsoft-intel.md",
       "title": "Artificial Intelligence (AI) Market in BFSI Sector Market to Watch: Spotlight on IBM, AWS, Microsoft, Intel",
       "excerpt": "An extensive elaboration of the COVID-19 Outbreak-Global Artificial Intelligence (AI) market strategy of the industry players in the precision of import/export consumption, supply and demand. The study starts with an introduction about the company/manufacturers profiling stating strategic concept behind business using methods to assess and analyze market.",
@@ -341,7 +382,7 @@
       "webUrl": "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -581,46 +622,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes.md",
-      "title": "Artificial intelligence examines best ways to keep parolees from recommitting crimes",
-      "excerpt": "Starting a new life is difficult for criminals transitioning from prison back to regular society. To help those individuals, Purdue University Polytechnic",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/08/prison-aiLO.jpg",
-          "width": 800,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/",
-      "publishedDateTime": "2020-08-12T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

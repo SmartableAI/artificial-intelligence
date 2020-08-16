@@ -26,49 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition: What led Ed Bridges to take on South Wales Police?"
-    excerpt: "\"I didn't wake up one morning and think, you know what I really want to take my local police force to court,\" he said. \"It wasn't the case that I had planned to get particularly involved in, but it developed organically."
-    publishedDateTime: 2020-08-11T16:15:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53742099"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53742099"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53742099"
+  - title: "Fawkes photo tool lets anyone secretly ‘poison’ facial recognition systems"
+    excerpt: "Unknown to the public, some companies are quietly downloading this content en masse and using it to create secret facial recognition models of the subjects…but there’s a solution, and it is called Fawkes. Facial recognition models are, quite obviously ..."
+    publishedDateTime: 2020-08-12T19:02:00Z
+    webUrl: "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/"
+    ampWebUrl: "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2B60/production/_107040111_facialedbridges.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/08/fawkes_mask_main_uns.jpg"
+        width: 1440
+        height: 800
         isCached: true
-  - title: "Nano needles. Facial recognition. Air travel adapts to make travel safer"
-    excerpt: "But the medical and material demands of COVID-19 have brought urgency and velocity to the race to make passenger air travel safer. On the ground and in the air, robot cleaners, new PPE uniforms for flight attendants,"
-    publishedDateTime: 2020-08-13T10:04:00Z
-    webUrl: "https://www.nationalgeographic.com/travel/2020/08/the-future-of-flying-is-going-high-tech-due-to-coronavirus-cvd/"
+  - title: "Researchers Trick Facial-Recognition Systems"
+    excerpt: "Goal was to see if computer-generated images that look like one person would get classified as another person."
+    publishedDateTime: 2020-08-11T23:01:00Z
+    webUrl: "https://www.darkreading.com/attacks-breaches/researchers-trick-facial-recognition-systems/d/d-id/1338643"
     type: article
     provider:
-      name: National Geographic news
-      domain: nationalgeographic.com
-    quality: 53
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 24
     images:
-      - url: "https://www.nationalgeographic.com/content/dam/travel/2020-digital/air-travel-corona/gettyimages-1222886746.ngsversion.1597105872724.adapt.1900.1.jpg"
-        width: 1900
-        height: 1266
-        isCached: true
-  - title: "Live biometric facial recognition use by South Wales Police ruled unlawful by appeals court"
-    excerpt: "The use of facial biometrics for automatic public identification by South Wales Police has been declared unlawful by the UK Court of Appeal, which agreed with the plaintiff on three of five points"
-    publishedDateTime: 2020-08-11T18:34:00Z
-    webUrl: "https://www.biometricupdate.com/202008/live-biometric-facial-recognition-use-by-south-wales-police-ruled-unlawful-by-appeals-court"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/17123440/south-wales-police-facial-recognition-vehicles.jpg"
-        width: 750
-        height: 430
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "ZX+8PmXOUb7LAAUh8zLh2zidKbXAKFueOcewitPF8bFAhZYS9h6+EGEip0swOiStXjbX5FtbFcZ6eCsS3j6S/Qrol9f1PRkBdmKplIzQ++/HYhKcc+rOkM3+eypJjR0Gr1FvnL4f8uIGpy2StV5lXJx74QKq6IRN5WoGnf+PJLpFCQ9JAptvTqspGhJvaPjBbFetvdks6RIDfQH+oPfKU+r36frFniuFCrYiDIO1MDb7r0A5cWAT2KqbeAg2GGuEgWN39/Py3/mOVJTJdNbu1vxsutHRJJ0ar25lDgVsS1oMIBttdbrCXipCI44AzxAq5kNkORiv/bsXDaOqeUIZWw==;QHnpHr2gpdSy2EgDYNen4A=="

@@ -130,22 +130,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "UK Police Use of Facial Recognition Ruled Unlawful"
-    excerpt: "The use of facial recognition technology by a British police force was ruled unlawful on Tuesday by the Court of Appeal in a case brought by a civil rights campaigner."
-    publishedDateTime: 2020-08-11T15:19:00Z
-    webUrl: "https://www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
-    ampWebUrl: "https://www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/uk-police-use-of-facial-recognition-ruled-unlawful/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/AP20205626931949.jpg?fit=2500%2C1813&#038;ssl=1"
-        width: 2500
-        height: 1813
-        isCached: true
   - title: "Covid 19 coronavirus: New World store with facial recognition cameras reverses mask policy"
     excerpt: "An Auckland supermarket is reversing policy that asked customers to remove their face masks so they could be better scanned by the store's facial recognition software. The Papakura branch of New World had been enforcing the policy,"
     publishedDateTime: 2020-08-14T03:37:00Z

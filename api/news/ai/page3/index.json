@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-12-2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development.md",
+      "title": "2025 Healthcare Artificial Intelligence Market |Top Companies, Trends and Future Prospects Details for Business Development",
+      "excerpt": "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-08-12",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels.md",
       "title": "Training a custom single class object detection model with Amazon Rekognition Custom Labels",
       "excerpt": "Customers often need to identify single objects in images; for example, to identify their company’s logo, find a specific industrial or agricultural defect, or locate a specific event, like hurricanes, in satellite scans. In this post, we showcase how to train a custom model to detect a single object",
@@ -49,46 +100,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes.md",
-      "title": "Artificial intelligence examines best ways to keep parolees from recommitting crimes",
-      "excerpt": "Starting a new life is difficult for criminals transitioning from prison back to regular society. To help those individuals, Purdue University Polytechnic",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/08/prison-aiLO.jpg",
-          "width": 800,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/",
-      "publishedDateTime": "2020-08-12T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

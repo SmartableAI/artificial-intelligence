@@ -67,6 +67,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/</loc>
+    <lastmod>2020-08-14T10:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://siliconangle.com/2020/08/14/chip-startup-blaize-debuts-ai-modules-machine-learning-edge/</loc>
     <lastmod>2020-08-14T10:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -369,12 +375,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels/</loc>
     <lastmod>2020-08-12T10:54:55-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/</loc>
-    <lastmod>2020-08-12T10:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -847,12 +847,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin</loc>
-    <lastmod>2020-08-09T12:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/</loc>
     <lastmod>2020-08-09T10:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -873,6 +867,12 @@
   <url>
     <loc>https://www.entrepreneur.com/article/354461</loc>
     <lastmod>2020-08-09T01:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381</loc>
+    <lastmod>2020-08-09T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -919,7 +919,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
+    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
     <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1705,6 +1705,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
+    <lastmod>2020-08-03T19:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html</loc>
     <lastmod>2020-08-03T19:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1713,12 +1719,6 @@
   <url>
     <loc>https://www.bignewsnetwork.com/news/265983784/artificial-intelligence-ai-in-healthcare-market-next-big-thing--major-giants-intel-nvidia-google</loc>
     <lastmod>2020-08-03T19:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
-    <lastmod>2020-08-03T17:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

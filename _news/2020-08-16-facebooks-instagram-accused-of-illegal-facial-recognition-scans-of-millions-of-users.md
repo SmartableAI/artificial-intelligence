@@ -118,22 +118,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK Court Rules Police Use Of Facial Recognition Unlawful, Could Set Major Precedent"
-    excerpt: "We should all be able to use our public spaces without being subjected to oppressive surveillance.” The ruling comes at a time when facial recognition is becoming increasingly common in law enforcement and could help set an important precedent,"
-    publishedDateTime: 2020-08-11T16:19:00Z
-    webUrl: "https://www.ibtimes.com/uk-court-rules-police-use-facial-recognition-unlawful-could-set-major-precedent-3026497"
-    ampWebUrl: "https://www.ibtimes.com/uk-court-rules-police-use-facial-recognition-unlawful-could-set-major-precedent-3026497?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/uk-court-rules-police-use-facial-recognition-unlawful-could-set-major-precedent-3026497?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/04/san-francisco-and-several-other-cities-have-banned.jpg"
-        width: 1024
-        height: 718
-        isCached: true
   - title: "Dodgers Focusing On Stadium Future With Contactless Tech, Analytics For All And Eventual Facial Recognition"
     excerpt: "The technological infrastructure now backing Dodgers Stadium in Los Angeles sets up one of the most followed Major League Baseball franchises to deliver a new in-venue experience for fans when they return to the building."
     publishedDateTime: 2020-08-12T15:23:00Z
@@ -191,20 +175,6 @@ related:
       - url: "https://www.hstoday.us/wp-content/uploads/2020/03/face-detection-4760361_1280.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Landmark UK court ruling finds police use of facial recognition unlawful"
-    excerpt: "Privacy campaigners hail major victory against surveillance technology in world's first legal challenge against police"
-    publishedDateTime: 2020-08-11T15:21:00Z
-    webUrl: "https://news.trust.org/item/20200811143409-qxket/"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 38
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/47572cf0-7712-4263-b7a8-97c612523d24/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 708
         isCached: true
   - title: "NYPD Used Facial Recognition Unit In Siege Of Black Lives Matter Activist’s Apartment"
     excerpt: "The NYPD has previously stated that the technology is used to gather leads on suspects for crimes, such as robberies and shootings, not to identify people in crowds or at rallies"

@@ -9,7 +9,7 @@
       "webUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -52,6 +52,48 @@
       ]
     },
     {
+      "path": "_news/2020-08-14-there-is-a-crisis-of-face-recognition-and-policing-in-the-us.md",
+      "title": "There is a crisis of face recognition and policing in the US",
+      "excerpt": "When news broke that a mistaken match from a face recognition system had led Detroit police to arrest Robert Williams for a crime he didn’t commit, it was late June, and the country was already in upheaval over the death of George Floyd a month earlier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/08/ai-policing_web.jpg?w=2896",
+          "width": 2896,
+          "height": 1629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/amp/",
+      "publishedDateTime": "2020-08-14T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-how-reuters-analysed-rite-aids-use-of-facial-recognition-technology.md",
       "title": "How Reuters analysed Rite Aid's use of facial recognition technology",
       "excerpt": "Reuters analysed Rite Aid stores in America's two biggest cities to determine which received facial recognition technology and which did not. The news agency gathered this data through one or more visits by Reuters journalists to all 75 Rite Aid locations in Manhattan and the central Los Angeles metro area from October 2019 through July 2020.",
@@ -59,7 +101,7 @@
       "webUrl": "https://www.reuters.com/article/uk-usa-riteaid-software-methodology-idUKKCN24T1GH",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 264,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -109,7 +151,7 @@
       "webUrl": "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1401,38 +1443,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-university-of-chicago-engineers-develop-tool-to-protect-your-photos-from-facial-recognition.md",
-      "title": "University of Chicago engineers develop tool to protect your photos from facial recognition",
-      "excerpt": "A team of computer engineers at the University of Chicago has developed a tool that disguises photos with pixel-level changes that confuse facial recognition systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-fawkes-tool-protects-photos-from-facial-recognition-20200803-in54zj2fdzg2dk7bdy3o3fiqaq-story.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

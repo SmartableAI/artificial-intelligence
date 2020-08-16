@@ -8,8 +8,8 @@ ampWebUrl: "https://scienceblog.com/517900/artificial-intelligence-examines-best
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: ScienceBlog
@@ -40,20 +40,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/42-artificialin.jpg"
         width: 2400
         height: 1537
-        isCached: true
-  - title: "Artificial intelligence examines best ways to keep parolees from recommitting crimes"
-    excerpt: "To help those individuals, Purdue University Polytechnic Institute researchers are using artificial intelligence to uncover risky behaviors which could then help identify when early intervention opportunities could be beneficial."
-    publishedDateTime: 2020-08-11T16:05:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q3/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 30
-    images:
-      - url: "https://www.purdue.edu/uns/images/2020/prison-aiOG.jpg"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "28ezq1/n5VX5oEcIUjrlirEoJs/hPBDMoxnnIk6p7NRJa87gBKJfgrHpaRPMacK366f6goxpPM0Nj85LXSQRB+TWJXuD13jA/9bi761K0M78z/LiJEffCjpnU1BN9y0lOhcrOe55A9USwqOMTtmvFGyJIaG/jGmVmbuMoGFKdjxAq/CzmXXDIMLO1VfRxPVVEd7qgrf8t53JNepTZ3AmC6vgvQvyg8SJCVNmhVmyVpO7l0jPzZyvSIHyFEjwF4p2mdtCME/GPyrl28JazwKDL1Pmb4tlJn8fTnZGV3HOhr4eHYHRzueBJ/nYyjDHMVdYTXxxYT1m+ZzeShinTKyOlw==;W+zpa/G0w3SZy66IZx0SrA=="

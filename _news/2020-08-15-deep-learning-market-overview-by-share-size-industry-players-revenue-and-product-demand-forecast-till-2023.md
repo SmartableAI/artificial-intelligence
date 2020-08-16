@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-15T18:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2023-2020-08-15"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Courses 2020 Global Trends, Market Size, Share, Status, SWOT Analysis and Forecast to 2026"
-    excerpt: "Machine Learning Courses Market” WiseGuyRerports.com Presents \"Global Machine Learning Courses Market Size, Status and Forecast 2020-2026\" New Document to"
-    publishedDateTime: 2020-08-11T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17038594/machine-learning-courses-2020-global-trends-market-size-share-status-swot-analysis-and-forecast-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17038594"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17038594"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
 
 secured: "aThL+DEcZ3Jk4EqVT88bDVFALtuxlAfZl8BX6kgUWfTEK6CC8BbqaACrAXmYDxWxO0RVt5udAjcLgor3epltbFfxg19llkogNxgus919/8H64ntUVozNg6xSE+p8X7OvpgIivEFG4THvjRjJ5x58dL4DnXf7LKrK/NFMDgCiXUKqr1+YcK8BX5rQnCLlhxO8W/I7CNE/W8Wxm4i+WF9PHrhtQOrSpNNkDm3sGt2UpZpB/5LvxM9NBSByVhsYxVNvuCq8NekLmXY0x/gDT/hPWfjvWCUijA/UOfzBy5RG9P2pNzjcqfhHsT2quDd3VHvYWkrmQKKIw7GlIj7BaK2VIw==;BQf/bU96f88U/6NZ7p1dOw=="
 ---

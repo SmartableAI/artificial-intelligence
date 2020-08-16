@@ -9,7 +9,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2023-2020-08-15",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -248,7 +248,7 @@
       "webUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -539,6 +539,48 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-there-is-a-crisis-of-face-recognition-and-policing-in-the-us.md",
+      "title": "There is a crisis of face recognition and policing in the US",
+      "excerpt": "When news broke that a mistaken match from a face recognition system had led Detroit police to arrest Robert Williams for a crime he didn’t commit, it was late June, and the country was already in upheaval over the death of George Floyd a month earlier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/08/ai-policing_web.jpg?w=2896",
+          "width": 2896,
+          "height": 1629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/amp/",
+      "publishedDateTime": "2020-08-14T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -938,7 +980,7 @@
       "webUrl": "https://www.reuters.com/article/uk-usa-riteaid-software-methodology-idUKKCN24T1GH",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 264,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -1385,56 +1427,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-amazon-launches-braket-quantum-computing-service-in-general-availability.md",
-      "title": "Amazon launches Braket quantum computing service in general availability",
-      "excerpt": "Amazon today launched its fully managed quantum computing service -- Braket -- in general availability following a preview.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
-      "publishedDateTime": "2020-08-13T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
