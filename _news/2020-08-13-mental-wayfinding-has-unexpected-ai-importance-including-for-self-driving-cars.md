@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 385
         isCached: true
-  - title: "Increasing the relevance of your Amazon Personalize recommendations by leveraging contextual information"
-    excerpt: "Getting relevant recommendations in front of your users at the right time is a crucial step for the success of your personalization strategy. However, your customer’s decision-making process shifts depending on the context at the time when they’re interacting with your recommendations. In this post,"
-    publishedDateTime: 2020-08-11T23:55:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/increasing-the-relevance-of-your-amazon-personalize-recommendations-by-leveraging-contextual-information/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/11/leveraging-context-personalize-1.jpg"
-        width: 1000
-        height: 576
-        isCached: true
 
 secured: "A8GR9j+8aEN/ScQp4uS9XdRaKx+/1NaZj4T5C6PijV011BzbmxbzIgAhadRYVma4iCDMCdj1Z7ysbDD1YS+dGowXdcqgnZhV1TaSTVRJzyCsfGh4DVXPPNMIgGmSj9SEdKXZvOlEgJqPXHokUoW89QUnLGvhX+ZAYD2cPBYn5hj6qEV/GQKkI1XOj0vmKycjmsA00k/DKdoI4K+HGcTJK8QOPmKHzVh3Yvse/YN2RrrqqO0YvpskotX0Y9oi0/c+TBdngeRJjINpJ9fFMC3iuaEGyW5LmqICJ0C2FwSP3v653Fbz1hpIjd40QPNWwMMFLYMOKay/vRG88s8jD5RzLMCEfndM7zZ/lja4QrlFWvyh/GeHiYehBKtN3U9X5dq5SWS5wjtbQgUkuE0IJJG8Tbg3FUIP4g18SB7zimaG5GWQQfRb7OEe7UZNhzGqeScCsK7O6Cphs7iON+RMShbTjP+bIeOaQrbA5Lfdw4KI60kG03Cete+Vhv9hRkUZ+WKy;MChDJk+ZCeZrT1R3sE1BxQ=="
 ---

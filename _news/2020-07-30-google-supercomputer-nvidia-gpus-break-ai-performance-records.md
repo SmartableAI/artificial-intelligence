@@ -1,46 +1,27 @@
 ---
 category: news
 title: "Google supercomputer, Nvidia GPUs break AI performance records"
-excerpt: "Google said it has built the worlds fastest machine learning (ML) training supercomputer that broke AI performance records in six out of eight industry-leading"
-publishedDateTime: 2020-07-30T05:45:00Z
-webUrl: "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255329.cms"
-ampWebUrl: "https://mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms"
-cdnAmpWebUrl: "https://mumbaimirror-indiatimes-com.cdn.ampproject.org/c/s/mumbaimirror.indiatimes.com/others/sci-tech/google-supercomputer-nvidia-gpus-break-ai-performance-records/amp_articleshow/77255329.cms"
+excerpt: "\"We achieved these results with ML model implementations in TensorFlow, JAX and Lingvo. Four of the eight models were trained from scratch in under 30 seconds,\" Naveen Kumar from Google AI said."
+publishedDateTime: 2020-07-30T15:46:00Z
+webUrl: "https://www.tribuneindia.com/news/schools/google-supercomputer-nvidia-gpus-break-ai-performance-records-119939"
+ampWebUrl: "https://www.tribuneindia.com/news/schools/google-supercomputer-nvidia-gpus-break-ai-performance-records-119939"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/google-supercomputer-nvidia-gpus-break-ai-performance-records-119939"
 type: article
-quality: 59
-heat: 69
-published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
-  - Microsoft AI
+  - Google AI
   - AI
 
 images:
-  - url: "https://mumbaimirror.indiatimes.com/thumb/77255488.cms?resizemode=4&width=400"
-    width: 400
-    height: 300
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/7/2020_7$largeimg_552160458.jpg"
+    width: 800
+    height: 532
     isCached: true
 
-related:
-  - title: "Google supercomputer, Nvidia GPUs break AI performance records"
-    excerpt: "Google said it has built the worlds fastest machine learning (ML) training supercomputer that broke AI performance records in six out of eight industry-leading"
-    publishedDateTime: 2020-08-03T06:14:00Z
-    webUrl: "https://ahmedabadmirror.indiatimes.com/others/scitech/google-supercomputer-nvidia-gpus-break-ai-performance-records/articleshow/77255496.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://static.toiimg.com/photo/imgsize-440440,msid-77255488/77255488.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-
-secured: "gUjqaLtC/8GHBYQkM5jFdbvCv7G75+IgacaORVIQ/wSVDhbI2UkxngjqfDvC5Vx3zGehS6T2HoA3PIbcfCeO92u0FN/3Qr6g+FHeQYhkdHkqFv3dbc51X6tZDBzkZdOzbYeHTX+RIj6ay2+bOnDG2Zzz2X506NekTlRJmoYrBJlFUVhP2kkAnU+pr1K3IDqs5v1ngYXSWV9SzF1vLmzw5ToRrM/Q7Ngwu7PETl8qe18mP7CF5IHmiOCuquFFg7dEvt9xp+jNyV7cX578fkHfgWzRKuXLYPiDVgp/1gP/FqHv3R5mJFDQNKVEGWVLNSSqgnzm4DnLRNNdLY0Avz6lBw==;/SJ2CZJ8rfXDC0HRGMFmIQ=="
+secured: "3Ljo933qi+zcewFHucWnB9QEsBE9Va4W1n/O2VleZZ5dGAHV6gZ4No5zLvTA8/7FlNl+rfm36JArknFXMb1P4g/+qFU35X8tiYgaIgiS90swCq0agxce74HFfAnlBBt5ijOirR01DAw/2F2neOuEJwc1RCfUOpj5XqwtPSrIWO2CdqpqvRlk1QVoRh7IULSrDaYd7/21FZC9nd2CYTG/WmfPQPqrVSpJNU94cGc0JSjde0tXZDmAH9QG+As73FcQL5kYvdLiXuos9U0vYZF1DxUf/UZO8qlP1mvpd1XDtGDH5lpz+dSYAXGum5lepizCa8IwrPDSykg7Vg2ERgvqdA==;eftzyZXDFPKyFJ8fdvbiGQ=="
 ---
 

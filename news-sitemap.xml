@@ -823,7 +823,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.research-live.com/article/news/new-funding-for-racial-justice-ai-and-data-projects/id/5072562</loc>
+    <loc>https://www.research-live.com/article/news/new_funding_for_racial_justice_ai_and_data_projects/id/5072562</loc>
     <lastmod>2020-08-10T02:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2167,6 +2167,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.electronicdesign.com/industrial-automation/article/21137976/medical-vampire-robot-seeks-human-vein-inserts-needle-sucks-blood</loc>
+    <lastmod>2020-07-30T16:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.embedded-computing.com/home-page/dinoedge-ai-platform-for-health-safety-monitoring-solutions</loc>
     <lastmod>2020-07-30T15:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2277,6 +2283,12 @@
   <url>
     <loc>https://www.wired.com/story/bipartisan-plan-ai-national-security/</loc>
     <lastmod>2020-07-30T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tribuneindia.com/news/schools/google-supercomputer-nvidia-gpus-break-ai-performance-records-119939</loc>
+    <lastmod>2020-07-30T08:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

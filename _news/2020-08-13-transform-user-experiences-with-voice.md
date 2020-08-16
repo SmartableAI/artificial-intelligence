@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Transform User Experiences with Voice"
-excerpt: "People are comfortable with talking to dedicated appliances and devices, and now business and technology leaders want to"
-publishedDateTime: 2020-08-13T14:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/n17072761/transform-user-experiences-with-voice"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17072761"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17072761"
+excerpt: "People are comfortable with talking to dedicated appliances and devices, and now business and technology leaders want to invite voice-based conversations with"
+publishedDateTime: 2020-08-13T15:09:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/transform-user-experiences-with-voice/article_1755998b-6f9d-5be4-a495-047e471dee5f.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/64/76486940-e17f-59c4-b234-17a8d47847cd/5f355635b5551.image.jpg?resize=400%2C239"
+    width: 400
+    height: 239
+    isCached: true
 
 related:
   - title: "Why AI Is The Future Of Delivering Customer Experiences With A Human Touch"
@@ -35,6 +39,6 @@ related:
         height: 836
         isCached: true
 
-secured: "CJRZuWp7tUDhmfnmeg4qVKAZGdKeAMhhgzTSdT8Ry68jQbgjNxI6WMcChdWnNdJPRgE1GPHyAurkvGhTwP23DZxQIcpxSbc95/JDjn48Mv/L5ZxODyz5X2nDXyU4FQ64EEFfQB93fgbhg+SQAsqfIVROvhppFYzWcIJkpdVPbreip493BBEbz7+oladK1w0wurVfcHStu6q9s4dJwlAWKrQR08Nd751WXhNDQ9Ar1gqqCo3BESgm5jJ+Gjn300sHrLNXNFkvl7iqOdfUDIewS7DOXlY6NiajhVgCQPCa43N4VihgUEmozI1EJqGUySvsC5e5/kZOJNTyxcoyZxJzpKmHsH5pD6dz2r28W5Dv9bxp7osFuNv6MBo6rI6xp45KXi/Mw7SU5aWK2jR4zF21iYWf73DifPa/VlOWGqNS46QY+7P2bDAyOM0tWkz7eXMcfY7MySdvdefLmoW2ro+oHjZaGpkIKZnlmHEtA8TURofhvQ3MUwBg0Ktjq9z6WjC/jdfJmyrt9d/uB1d8EaWfyg==;FxS2FZMtLRkDQGspzavp8Q=="
+secured: "OUcRGH9n84RQP4EpC4tFRCPI5Vpbp9m4zxzplbXe5WIXAoZqrPeautfeC7xs/peOYaNB2/V1EagmxsUctaArBjDjo/vvGIsv4Q5eMFBgL4bB7/S1V+MuvEqu9V6RkXFtT/qo2yp7iakBflU8RBRpAf6OVQR49O4sTInMZhOwoGvzL19uF2dygrFSKoID1KV8+C/NxGrmGU1LR9MK+gXNtjWuxlRHCkadrSJE6M1jQtjLgd0jccmleNG9W8b4qFCBYqSXhSpd2vfZvA4PU6gOEsm0RF7C5GJpcLVi4wiVRUjAUS0v/6SDbZeqhnIVgKq/zrugsMDIpicnzwj1HqGXpQ==;w0Z95Ai2COj0wu2l3YhT/A=="
 ---
 

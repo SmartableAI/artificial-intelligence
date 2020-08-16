@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T15:53:36Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/expanding-scientific-portfolios-and-adapting-to-a-changing-world-with-amazon-personalize/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Increasing the relevance of your Amazon Personalize recommendations by leveraging contextual information"
-    excerpt: "Getting relevant recommendations in front of your users at the right time is a crucial step for the success of your personalization strategy. However, your customer’s decision-making process shifts depending on the context at the time when they’re interacting with your recommendations. In this post,"
-    publishedDateTime: 2020-08-11T23:55:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/increasing-the-relevance-of-your-amazon-personalize-recommendations-by-leveraging-contextual-information/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/11/leveraging-context-personalize-1.jpg"
-        width: 1000
-        height: 576
-        isCached: true
   - title: "Mental Wayfinding Has Unexpected AI Importance, Including For Self-Driving Cars"
     excerpt: "Imagine using something like a mental version of Google Earth and having your mind be able to zoom in and zoom outward, quickly imagining your position from a faraway location and at the same time being able to get close-in and know exactly where your feet are placed and your immediate and within reach surroundings."
     publishedDateTime: 2020-08-13T17:40:00Z

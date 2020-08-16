@@ -68,22 +68,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How China uses facial recognition to control human behavior"
-    excerpt: "When facial recognition is everywhere, anything you do is fair game for public shaming and punishment. Facial recognition supporters in the US often argue that the surveillance technology is reserved for the greatest risks -- to help deal with violent crimes,"
-    publishedDateTime: 2020-08-12T00:11:00Z
-    webUrl: "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/dD_b_3LnM8xnDw8b1chQVYmkwRY=/756x567/2020/08/10/7160792a-58c7-4445-817b-fb35532e24ec/gettyimages-1063617532.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Clearview AI wins an ICE contract as it prepares to defend itself in court"
     excerpt: "The American Civil Liberties Union sued Clearview in May for allegedly violating Illinois’ Biometric Information Privacy Act. Lawsuits accusing the company of breaking privacy and safety laws have been filed in several other states."
     publishedDateTime: 2020-08-14T18:04:00Z

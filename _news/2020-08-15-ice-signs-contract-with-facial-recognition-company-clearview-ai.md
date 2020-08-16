@@ -76,22 +76,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How China uses facial recognition to control human behavior"
-    excerpt: "When facial recognition is everywhere, anything you do is fair game for public shaming and punishment. Facial recognition supporters in the US often argue that the surveillance technology is reserved for the greatest risks -- to help deal with violent crimes,"
-    publishedDateTime: 2020-08-12T00:11:00Z
-    webUrl: "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/dD_b_3LnM8xnDw8b1chQVYmkwRY=/756x567/2020/08/10/7160792a-58c7-4445-817b-fb35532e24ec/gettyimages-1063617532.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Clearview AI wins an ICE contract as it prepares to defend itself in court"
     excerpt: "The American Civil Liberties Union sued Clearview in May for allegedly violating Illinois’ Biometric Information Privacy Act. Lawsuits accusing the company of breaking privacy and safety laws have been filed in several other states."
     publishedDateTime: 2020-08-14T18:04:00Z
@@ -159,6 +143,6 @@ related:
       domain: webindia123.com
     quality: 21
 
-secured: "l6pmIivUf4aGX9/VZTgB3qIGHsdIVc+vQxz2w4DVyZ3Hdb73kyQWNe5aZESRJIpWfMsmH1KkM9o4fs1Kfm0/SommqpnW56yRwbeTdou7tn82yP1qLVAeQc++LrlmhYh25Oyp9qg/Ai1c0Npb4JYNIwsCfoBn/h7yAYOvbjhZ2GuQ3AsIfnhtBYqAL/+1V26trTkOEYykXfKbSQBk5HDgTBYFOmfqonqmZFr3UZP+v+QmZMzzzxTJHpVihktMpN/5Zdj/9de+7apuo2r1pZtWj/BcZZnMONJzjOI+IDk4wYbVQaNxOOgLa84DyWx0WgSek71EKF2i4gWNX4xS4sRR8Q==;97BT6SJB2VQzkDqr7OKLkQ=="
+secured: "7mNbJ3ED0iYS51lSxha+J05VnBDQCQFmdxmr3s6RQNWEO3MIeqP+cHo3LAJQnyygpwPNEDfghlpEfvHqcx1v27LXwbx1Zq7+Ol+rq0dywMF1NzKe0YNrr2uH6HaYMfuQkXQEriU2t01VVDvI346YezkjusRDSUPkRokOrE2aKYvutJN7Fi8q7UWHOK6S+7VneDmqm5cvDhg92jfCtaH0tnFBkjYKCSjMvjl479S4nOJi7C6uqGxu5kcRW0juPt2iE6uq+hP9eo8Q944EGNXE5Lfg3MDJ2TSr5xo8yJMcSuM47wxo1xGndRTUwtXi2oqBH/VtI3q7UHJUDxzHNNC3cdUaQKK+TpxeE2SLY/xLuJ4eTuHFO1bK4tP2BIM1NpHLfbwMICFV8JzNfTxe6nnL3jviNz8kqPgAMHTfu7vVrxpljAvthqCgv6oF1Gnsi2nEVCJWPoYLZe2hI9eJkGxXsxpQDeUr/TcYImrl0Whjzs9K1vz5PW4huBbFtBkdEZCIxMpnFrbgrw5jDFcRmRZKSw==;Pzd38RuJGpJAJsQw4pLoPg=="
 ---
 
