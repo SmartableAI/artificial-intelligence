@@ -553,14 +553,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
-    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
+    <loc>https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php</loc>
+    <lastmod>2020-08-11T07:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.html</loc>
-    <lastmod>2020-08-11T07:37:00-07:00</lastmod>
+    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
+    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -571,7 +571,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11?mod=mw_quote_news&amp;tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11</loc>
     <lastmod>2020-08-11T06:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1021,12 +1021,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html</loc>
-    <lastmod>2020-08-07T05:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/</loc>
     <lastmod>2020-08-07T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1047,6 +1041,12 @@
   <url>
     <loc>https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update</loc>
     <lastmod>2020-08-07T02:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716</loc>
+    <lastmod>2020-08-07T00:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1159,7 +1159,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.kmworld.com/Articles/News/News/Hylands-latest-advancements-include-handwriting-recognition-142178.aspx</loc>
+    <loc>https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142178</loc>
     <lastmod>2020-08-06T07:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1393,8 +1393,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/</loc>
-    <lastmod>2020-08-05T03:21:00-07:00</lastmod>
+    <loc>https://www.arnnet.com.au/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/</loc>
+    <lastmod>2020-08-05T03:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1651,7 +1651,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054</loc>
     <lastmod>2020-08-04T05:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

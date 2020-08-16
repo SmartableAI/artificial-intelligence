@@ -846,6 +846,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-11-brain-net-a-deep-learning-methodology-accurately-predicts-surgeon-certification-scores-based-on-neuroimaging-data.md",
+      "title": "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data",
+      "excerpt": "In a new article in IEEE Transactions on Biomedical Engineering, researchers demonstrated how a deep learning framework they call ''Brain-NET'' can accurately predict a person's level of expertise in terms of their surgical motor skills,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-11T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance.md",
       "title": "AI company pivots to helping people who lost their job find a new source of health insurance",
       "excerpt": "An artificial intelligence company has pivoted from finding the right treatment plan for patients to helping them find health insurance to pay for that care. At the start of the pandemic, Jvion used its Eigen Sphere engine to build a map that shows which residents in a community are at highest risk for contracting the coronavirus.",
@@ -891,47 +932,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-brain-net-a-deep-learning-methodology-accurately-predicts-surgeon-certification-scores-based-on-neuroimaging-data.md",
-      "title": "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data",
-      "excerpt": "In order to earn certification in general surgery, residents in the United States need to demonstrate proficiency in the Fundamentals of Laparoscopic program (FLS), a test that requires manipulation of laparoscopic tools within a physical training unit.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/4-surgery.jpg",
-          "width": 1920,
-          "height": 1371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.amp",
-      "publishedDateTime": "2020-08-11T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -989,7 +989,7 @@
       "title": "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025",
       "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11?mod=mw_quote_news&tesla=y",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,

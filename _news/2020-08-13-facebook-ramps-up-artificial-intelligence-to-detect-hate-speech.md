@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.itweb.co.za/content/Olx4zMknpRo756km"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Olx4zMknpRo756km"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
     quality: 39
     images:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-deepfakes.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Facebook’s AI for identifying hate speech seems to be working"
+    excerpt: "Facebook says its automated detection systems contributed to a 134% increase in hate speech removals during the second quarter. But the numbers imply that the company has been oblivious to a significant amount of hate on its platform in the past."
+    publishedDateTime: 2020-08-12T12:00:00Z
+    webUrl: "https://www.fastcompany.com/90538941/facebook-ai-for-identifying-hate-speech-seems-to-be-working?partner=rss"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-fb-hatespeech-down.jpg"
         width: 1280
         height: 720
         isCached: true

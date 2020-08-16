@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data"
-excerpt: "In order to earn certification in general surgery, residents in the United States need to demonstrate proficiency in the Fundamentals of Laparoscopic program (FLS), a test that requires manipulation of laparoscopic tools within a physical training unit."
-publishedDateTime: 2020-08-11T14:37:00Z
-webUrl: "https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.amp"
+excerpt: "In a new article in IEEE Transactions on Biomedical Engineering, researchers demonstrated how a deep learning framework they call ''Brain-NET'' can accurately predict a person's level of expertise in terms of their surgical motor skills,"
+publishedDateTime: 2020-08-11T14:58:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/4-surgery.jpg"
-    width: 1920
-    height: 1371
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "kLrjAVzkIKnO39Z7cV7UK7Yo/mI0uiQwSJ6QckabDY6xcyHIQuZACFqRp7FedLcj5k0J532jFrtqgm06JNFT2mo8XD3rnYVpJm7f/tMrZ+PiejdvQ0EZvn3/Lcs79eIrZS4nD8n7hrnxM6nsrhiHHZSvVrYDjF0xVeKqh+Cto3kfEL4Hi9x+ZwuHFXpoFmW5canx5o7lOIJkS6x1+POgjbmBK074HUfGr2d5Eryd+18o7xiXRymJb3+7iV3+av9XKzDSQKd/F57XAA2KqfMFwi4AEgPR4SGVYAIc5jFy9gq7z7ckIU3adtWn07l0An9eO7evl1NAywOwJQ6Qy5T4KA==;BeXrY8EvjKjV6qH5eYwwdw=="
+secured: "OVAw1kQakhMsVwfX9IqMHJujwUgY6VxNxwC0LSF7/vAsYkfJ6rX+eM2KdKGdK24Y11PmSZRo27n4goz6sqi++JIQwexXnVw9SsGRI0d75NQmhOAYJ9w1ZrLElHV/NlJXt9DsaSYNqzbOenoLIY1J8xqi9XCoWhF7Vh+iCVrXaJ6a/+Rc6Yv4SYnsxuC51Zv7j7Owad8m/kf5ox6gKEGYHfNmsB3H/gphDU7VGSPH9N8IkCuxcJepKLIYByX6k90DK+X4dXucaDTWlTgl/WM9B7X3SC6zWqefOukOeDYNOJ+Rz+FgeuUbW149hK2KHY9HMVQkL1TrPtscrtlTKI6qRQ==;+nu6L1o+HcGeKNACdAnWgg=="
 ---
 

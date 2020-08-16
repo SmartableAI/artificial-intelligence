@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-launches-three-f
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-launches-three-free-ai-focused-online-learning-platforms-for-young-people-and-their-teachers/"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Colorado State University Global Launches Fully Online Artificial Intelligence and Machine Learning Master's Degree"
+    excerpt: "The new future-facing program from the nation's first 100% online state university aligns with latest knowledge and skills in this high-demand technology career field."
+    publishedDateTime: 2020-08-13T21:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/p17081336/colorado-state-university-global-launches-fully-online-artificial-intelligence-and-machine-learnin"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17081336"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17081336"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "cEUDD/zhDlMS4B0hJFJeEsszHaaLBoi/+YAJKpNswP3GR9OLzK4Pe2hURYrw3fBrh+OMcGSNkkYvkPAJt32fDZXSNvukXKwPv0+FyUhb9J5H0wkEABzVSLIHHv8JvBfuGM5Pz59Sl0kJK6AuZO4qsnBcxNABa/hPAFFkkl15z0lSvsiM3G8+MFn3rlYpGM+0MpQ2G8T/n/LHsGLda1MByS418638WiBR66fyRQ3uqDZBBcb5gj+C6Y6Q+0XJ2N3IPxiJsy5kBh/LNP4dWdE6A2zzFuBewpHVyNVoGWrqyRM1zJzaBQwdH3nIPhXZV13WHzQZikiNadqN/FV9JdLbTx5WoV4BHuSRtOpy3hoDgewFqxNCl7ZKDHGnlhDWn+7jUjRkApdRuPQEcvXK3URedT3fYmiFg7wCPys6klIZfg4hDhMtYbzitmWWYpXVj9iYqRQZjefgKkSISTxJJ2vqqtlyGgDDoV/TVxI9wmQnAirgSLz8Zt8I4iMAnAajElCihl3uY3OiMXKUJlTQbdSpDQ==;xcqRccok2xJKt4NWPl7l8Q=="
 ---

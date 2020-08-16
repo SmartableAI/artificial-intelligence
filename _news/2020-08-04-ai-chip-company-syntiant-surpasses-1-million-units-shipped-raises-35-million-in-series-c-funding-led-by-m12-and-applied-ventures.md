@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI Chip Company Syntiant Surpasses 1 Million Units Shipped; Raises $35 Million in Series C Funding Led by M12 and Applied Ventures"
-excerpt: "Syntiant, a deep learning tech company providing AI voice and sensor solutions at the edge, today announced that the company has shipped more than 1 million units of its Syntiant NDP100(TM) and Syntiant NDP101(TM) microwatt-power Neural Decision Processors(TM) (NDPs) to customers worldwide."
+excerpt: "Syntiant, a deep learning tech company providing AI voice and sensor solutions at the edge, today announced that the company has shipped more than 1 million units of its Syntiant (R) NDP100(TM) and Syntiant (R) NDP101(TM) microwatt-power Neural Decision Processors(TM) (NDPs) to customers worldwide."
 publishedDateTime: 2020-08-04T12:37:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04"
+webUrl: "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "WyZzYrUY/AZ4IUCVaTzRylzDFDofD5vY3QbLG4qNHxxOJBH/M7Jv2iOxjXN1EjAzNzyiK598BS8wz1JK/jsOj3+XyhmpTuZwNcHoooBwq2X6xG4Ume/OgEhk3UlnZ8DOWuKk/b+1e+u61H1Hv+RHZqqL2FVpAPt7dmng4N5HeXqyBCvD1EEXPOqirSAglRqxiuJ93FfgKeneAcQR+AevIl+PbhH6E9VbOvy6qld9Yxxp7KN/lo7tmL4zlxXFwZ+rsDxrI8+WK6584CdcFX+nFhYdUTJm1cLalvgN+hsjei6evG15DL6zgFRiykk7FPdchfzcp8nF/no1BgaH/84+rw==;Dz92LLLK9ndKgZq2NiS2AQ=="
+secured: "a/Y1uPJhC29m7zEWNbAdJNVNCcpHR0nbKbEEBOd3fjcQLolnWlZbNX8EinREQ4sxOB/CgSudt4VlFGd13oFeNi8GZEY+PS/F0BPntUdPiaGMVAjSfrm2uUPpk9nxaCUj4nJQgnQbTsFFIcNnD+YdbOIh6AmuvD8i1I4rTEPXvSmxl5LwoYh9AZW++ePbpg4GX3u4TARA61ykxW8iKDWqmWSIeAI+HbRG2M90qLKRxSkr0BKbut2wM1r4AY6oiueGZbVIYJK+7ueq5m6fYFq7BfKYidg/rFjFuBWNv90HYFN1jyqR8l0NFMp/kx/aHx1RAY9LszeNGkplBFENgx9LZQ==;tR16WnZ/Y/fn+XD1wahNeA=="
 ---
 

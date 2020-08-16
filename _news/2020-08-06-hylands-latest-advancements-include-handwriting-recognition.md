@@ -3,7 +3,7 @@ category: news
 title: "Hyland’s latest advancements include handwriting recognition"
 excerpt: "Hyland’s latest advancements include handwriting recognition. Hyland, a content services provider for organizations across the globe, is releasing Brainware Foundation, the newe"
 publishedDateTime: 2020-08-06T14:12:00Z
-webUrl: "https://www.kmworld.com/Articles/News/News/Hylands-latest-advancements-include-handwriting-recognition-142178.aspx"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142178"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 594
     isCached: true
 
-secured: "Iqqy06Ixko6smn5oSKrgXRavXYYuiivqOTJ6oGcYTm6cxERZnH+cfdTnmAR8ha2UxCS2RU4F62jKHhcbMpOYfzmzBQ8vNkyDa/0saBU42BVeYnU8avXnwGlbX6jg+U1eEAVb3/dGWOeETGlzlyxQPzeB173TMac094i5oHoEDJ90EgrLOimH2kTffnyAQciQY9Vfd04J14OmPx07CBfMam1RH7poj786m09yBA1/3PHF3PRtrEnTyp/PGMJhYDiQhDfOX3QJLjAhlJB1UBo6xia+wklYlr801vJThxQOF66itftHuIwimzvtUVxFNa1W5nZZsQZCCuWSGQc+SfXs/A==;AfYn1Bl0wHyNDabqJXBPdQ=="
+secured: "MPsdb9yaM2SlKFxmbUhD0QnzmMj9M6/UR1jYcfuoPSn9NQiLJLVRVhNdFjgd31Ju7GxK3F0KgCS8LFJvqIutMWeeJq4AfKnJNIae4kX4t87j6M0Nyylpn6wIYKy15CaueIsaH5MLXpZK3oTC5ebH9nWLBgOaW4wS57UUFSbbPKTpIbFiXiCPYgQXL5LnPlGS3LFN/7D9RWOnMZv2nJt6ovPzYkBygeYsCJ6NRfb69AW6GIFmkk8pTn5I/kUPlOZ4lKqg4YFcEy6IXrIq3s/RNVLV2RUBfcBhvj6TVbVvCgxRxCgv2N1LX8pm1KOQ9yu5etPrTs+4vVaw8o+62tdmaA==;IuBVsPBpvJn7v1diUAzZ0w=="
 ---
 

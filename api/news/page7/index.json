@@ -941,47 +941,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-07-tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall.md",
-      "title": "TCS a leader in advanced digital workplace services: NelsonHall",
-      "excerpt": "Tata Consultancy Services intellectual property, defined modern workplace offerings, and investments in TCS Pace Port and digital reimagination studios were cited as key strengths.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html",
-      "publishedDateTime": "2020-08-07T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-07-ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping.md",
       "title": "AI on the high seas: Digital transformation is revolutionizing global shipping",
       "excerpt": "From unmanned vessels to artificial intelligence applications, digital transformation is giving shipping a 21st-century reboot.",
@@ -1158,6 +1117,38 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall.md",
+      "title": "TCS a leader in Advanced Digital Workplace Services - NelsonHall",
+      "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organisation, has been recognised as a Leader in the NelsonHall NEAT for Advanced Digital Workplace Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-07T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Equity Bulls",
+        "domain": "equitybulls.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
