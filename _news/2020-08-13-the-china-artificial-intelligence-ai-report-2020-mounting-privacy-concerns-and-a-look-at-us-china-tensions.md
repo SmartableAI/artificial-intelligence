@@ -5,8 +5,8 @@ excerpt: "The \"China AI Report 2020\" report has been added to ResearchAndMarke
 publishedDateTime: 2020-08-13T16:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/the-china-artificial-intelligence-ai-report-2020-mounting-privacy-concerns-and-a-look-at-us-china-tensions-301112004.html"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
@@ -22,17 +23,6 @@ images:
     height: 419
     isCached: true
 
-related:
-  - title: "2020 Market Report: User and Entity Behaviour Analytics Based on Machine Learning - ResearchAndMarkets.com"
-    excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. As intrusions employ a wide variety of attack vectors and methods,"
-    publishedDateTime: 2020-08-14T16:56:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200814005395/en/2020-Market-Report-User-Entity-Behaviour-Analytics"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-
-secured: "laB4kdZgxFKjLOnp0/ngHMzDanmQaaXAaciZDrWJKNzuSl/GdbTtKrvV0OXIIA9ssz2Ecr13O/qhbFecUQRAe5slQELuYQ5S0P5/NVKPEm5/qfl+rM3jW7q8+6MDfWaji5mWNY+esWUyl3NTLSFYMmMLwnDUhSqS63BL1QpurDLAX3y+acU6XIzCuFixdA8aU3LqY82znDNGrbTz3DCADluuT0Xyv2m8QjmHyoXkLIg2QvW2wSRnbBwtXJqq1lg1NnHwsI6UZX9lCUS9kGzQPpp/yzNHd4bqLCOoEcsait/lezOqa5vGx/F7ug89P/YKRFmSjMPeJ1OFbjHpJOGYWA==;uOBSYPQsXBrK+3i1YyUn4A=="
+secured: "xGRQ2oAiFTYtdvgRRNX0776P1X9OVnkghlqvAXgvVA7vhE2xthyYtIjmlnhexM15tKsp5eQrwpRr5+rxu57biPgqvcS8aLg+i3qq3Rl2MRHij35qExTasUoYiUCOo58zastncaEYAJdhblgbywpVA22t+dcqyym3HRS8EOxMkmG0Lz3+95R6SnAjq5j7jXFXwgl0LaHwpYpPcsIJxGoDhvqyfmEpD9txZknZBNx+MTYZYbM7pvjCqV92j+96inYMz+sqqMBXxyMigemLHo0nxjoQwhH6hsXHX24czWvvH8tgL8r7oqTfcUsD1dpoaUvUDPsD9HS2E4CrJSmCa6ksdecIq6VV+EheO2JvDFYme7eR56ObWW4nFYD7ijHjHM03+WEIYAG6Bz2FJCdsUNOuIv1iFukX+mcvsZ1VfbyI9SBej3LCDZ8XpPJgCrWXPNZ4Pss1UsUie9RM2gRS/0Ej1QXYZGIxMJWI8c99dpmOwuXI7djsvPgwRF99OyBGdZ+jkC6NTwxjosxzx6Fj5Nzmig==;klcq4pIyS0CWtZA/Twn98A=="
 ---
 

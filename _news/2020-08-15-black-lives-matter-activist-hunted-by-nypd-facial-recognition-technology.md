@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Police use of facial recognition violates human rights, UK court rules"
-    excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."
-    publishedDateTime: 2020-08-11T21:08:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/08/police-use-of-facial-recognition-violates-human-rights-uk-court-rules/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1199025045-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "UK court says facial recognition tech violates human rights"
     excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive"
     publishedDateTime: 2020-08-12T13:57:00Z

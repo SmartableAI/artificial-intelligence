@@ -1368,33 +1368,33 @@
       ]
     },
     {
-      "path": "_news/2020-08-04-deepfakes-ranked-as-most-serious-ai-crime-threat.md",
-      "title": "'Deepfakes' ranked as most serious AI crime threat",
-      "excerpt": "Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence ... These are using driverless vehicles as weapons, crafting more ...",
+      "path": "_news/2020-08-04-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
+      "title": "Nokia to set up robotics lab at Indian Institute of Science",
+      "excerpt": "Nokia Center of Excellence (CoE) for networked robotics will promote interdisciplinary research involving robotics, advanced communication technologies and artificial intelligence",
       "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
+      "webUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": null,
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/ai-1596543975.jpg",
-          "width": 1200,
-          "height": 676,
+          "url": "https://images.livemint.com/img/2020/08/04/600x338/2020-06-30T092400Z_457483931_RC2LJH910Z5H_RTRMADP_3_NOKIA-FRANCE-LAYOFFS_1596543432399_1596543467201.JPG",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
-      "publishedDateTime": "2020-08-04T05:31:00-07:00",
+      "ampWebUrl": "https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science/amp-11596543382756.html",
+      "publishedDateTime": "2020-08-04T05:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1404,7 +1404,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     }

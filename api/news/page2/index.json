@@ -663,24 +663,24 @@
       "title": "Future of farming: AI-enabled harvest robot flexes new dexterity skills",
       "excerpt": "Now that Root AI's robot has mastered the art of picking oblong vegetables as well as oblate shaped berries, could this technology help enhance global food security?",
       "sourceUrl": null,
-      "webUrl": "https://root-ai.com/",
+      "webUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 177,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://root-ai.com/wp-content/uploads/2018/07/greenhouse-1.jpg",
-          "width": 610,
-          "height": 410,
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/08/13/b32f202b-030d-4c1e-b925-8dd89d6d62a1/resize/1200x/471d26b1f629b28ae27534b1581ade2e/root-ai-1.jpg",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
       "publishedDateTime": "2020-08-13T07:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -688,7 +688,7 @@
         "domain": "techrepublic.com",
         "images": [
           {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -704,6 +704,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },

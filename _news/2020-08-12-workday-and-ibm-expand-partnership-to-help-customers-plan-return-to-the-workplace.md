@@ -2,25 +2,25 @@
 category: news
 title: "Workday and IBM Expand Partnership to Help Customers Plan Return to the Workplace"
 excerpt: "AI Applications, IBM Cloud and Cognitive Software. \"By partnering with Workday on a joint solution, we're extending the capabilities delivered by Watson Works to help customers gain greater ..."
-publishedDateTime: 2020-08-12T23:15:00Z
-webUrl: "https://www.morningstar.com/news/pr-newswire/20200812ny89611/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace"
+publishedDateTime: 2020-08-12T20:36:00Z
+webUrl: "https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 589
         isCached: true
 
-secured: "11TH5LEw8/4HczA50imS4pbCg1xRBoTzbYC1WqcOI4qfkpz3DCx0w9hXMzYmQu5/XnNEyAOJj7TpVN32SNXDLyc3rev2PCppdFOPI4vIw0h8O2iBeOdss/NWPJH3HZ/0bsWW9VVx26grh7Gp2pqHNV9YrcR5//nOUkaGMuix4yr+DZpe/udUB4tGtGaM6gGqCy11v3xZLRkVEC6jvRuHej1tVFW2+T9HCgqCoPvbUhGt3q8z5Rg+bYCGtUCPJSEH2P4ozYCneSZJop17VjHMbPXXhmpuXCIx/dW4HK/ppZ+vf+cCk3NN0EHS+HvwgkewGLyqx67aLfCeu3GzF0PXjA==;MWFZ7tyYuxbn5WoBRQb3lA=="
+secured: "khoL3cJc/jTum/wIkcuW+tlvhl9oD2sQfSvJYzLsbaudv3J7pLw+tSuQQ17QTR7+PZK694U53F8fjRzSQY6IvbtEXpZOYS/24Iyt+ZMFksFt1Ma1dpoot8pB4HeQXNEx6mG2nfk2Z2ng4CMvqcN4eUS5E/YQFZ6dpaJVDJ8qanRS+A3LkDL2Y0mqfFMvmPjr1Eist8bsb6uAApKhiyr6aTNgWbzOunpKRWC70rKEGbSJH+nCScpkffnFkAn/xL325BJ1ACa4nbJbQhFMwKNF8fdhW69ABoJ2HdLxAOqmgrshotU3Boyhcappur9bWh5YGne/sPN9jJtJSbfcIdPXsQ==;k4852NEFxy9415f4obFTyA=="
 ---
 

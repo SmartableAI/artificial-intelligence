@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN24T1GH"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN24T1GH"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Police use of facial recognition violates human rights, UK court rules"
-    excerpt: "Privacy advocates in the UK are claiming victory as an appeals court ruled today that police use of facial recognition technology in that country has \"fundamental deficiencies\" and violates several laws."
-    publishedDateTime: 2020-08-11T21:08:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/08/police-use-of-facial-recognition-violates-human-rights-uk-court-rules/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1199025045-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "UK court says facial recognition tech violates human rights"
     excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive"

@@ -3,27 +3,30 @@ category: news
 title: "Future of farming: AI-enabled harvest robot flexes new dexterity skills"
 excerpt: "Now that Root AI's robot has mastered the art of picking oblong vegetables as well as oblate shaped berries, could this technology help enhance global food security?"
 publishedDateTime: 2020-08-13T14:03:00Z
-webUrl: "https://root-ai.com/"
+webUrl: "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/"
 type: article
-quality: 167
-heat: 177
+quality: 104
+heat: 114
 published: true
 
 provider:
   name: TechRepublic
   domain: techrepublic.com
   images:
-    - url: "/assets/images/organizations/techrepublic.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://root-ai.com/wp-content/uploads/2018/07/greenhouse-1.jpg"
-    width: 610
-    height: 410
+  - url: "https://tr4.cbsistatic.com/hub/i/r/2020/08/13/b32f202b-030d-4c1e-b925-8dd89d6d62a1/resize/1200x/471d26b1f629b28ae27534b1581ade2e/root-ai-1.jpg"
+    width: 1200
+    height: 900
     isCached: true
 
 related:
@@ -42,6 +45,6 @@ related:
         height: 630
         isCached: true
 
-secured: "k4RD7pw+MKbzkKzdGaO6VeuTv4VQrhgjZF7G7yYetVJcU0QSPlITW5sNV1mHf/FDfossFmKHLmMLSCCSukNZzUl1nZWk1fdkOoRCA5UeZNcQK2FZ6ec7mF9B1fly6s4/DFGh9LOPddJL0Fq5/T9evR4/pfEzXY8dZfcWQqniHBxJhfUSPikdpbbpYalZyy6BeO9dzhszmNrAlUiahuRouU87hghRV5/pbdVXoaUnu6FNuMl10ysZGnHyhxTF/mLV80NsGmyAnEHW7b04boBh8dIpzA+47OrTdzOsdtQ4U685BlOThb1MoAyABvQ0PYYVpbVR0fPbB6Y6vdh1IIr0Bw==;rb0Q2eBCn3f78yyveuWrTQ=="
+secured: "+wRZqVdt6yGAPljWdJDJScs8MtnYN5KdUJ91PG/U9XSoZgMKoSkAN1qOiBQ/AtZu3w+isVcC7ADkhTjsRTzlzutlPmlhHp+tw9eIhQLNbvMvoQ0Sca1L/Z/BL/56Jx1sKgJ/YR4BEoDKqDi9lZKBcz0B9/EDP7ijmfAle3ET2Bj+F9llGMiRNlHc+t7XNkA1cYMjT4/3GXHpd71ltkcBGRv8o1H22a3cZl/98eWAtucXSEbc68qMBOP7yB0H+wRTw+ceA87B62BEAXOSKOmYpJOLzWEnRLs0L20RBAAnbPcjaWWdGxunq8YoQsEzLx8CTp1jlqQ1nXGT5T9zptLcVA==;k/FFSC90/fmcezCLaBXQwA=="
 ---
 

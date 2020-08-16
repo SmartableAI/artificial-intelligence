@@ -139,8 +139,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app</loc>
-    <lastmod>2020-08-13T14:53:00-07:00</lastmod>
+    <loc>https://www.techradar.com/nz/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app</loc>
+    <lastmod>2020-08-13T14:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -235,7 +235,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://root-ai.com/</loc>
+    <loc>https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/</loc>
     <lastmod>2020-08-13T07:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -823,7 +823,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.research-live.com/article/news/new_funding_for_racial_justice_ai_and_data_projects/id/5072562</loc>
+    <loc>https://www.research-live.com/article/news/new-funding-for-racial-justice-ai-and-data-projects/id/5072562</loc>
     <lastmod>2020-08-10T02:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1123,7 +1123,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit</loc>
+    <loc>https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit?partner=rss</loc>
     <lastmod>2020-08-06T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1639,12 +1639,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528</loc>
-    <lastmod>2020-08-04T05:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html</loc>
     <lastmod>2020-08-04T05:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1707,6 +1701,12 @@
   <url>
     <loc>https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/</loc>
     <lastmod>2020-08-03T22:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
+    <lastmod>2020-08-03T19:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

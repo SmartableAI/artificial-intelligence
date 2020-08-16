@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
-excerpt: "SEOUL, South Korea and SILICON VALLEY, Calif., Aug. 12, 2020 /PRNewswire/ -- MakinaRocks, an industrial AI solutions startup aiming to"
-publishedDateTime: 2020-08-12T18:44:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922"
+excerpt: "MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it has successfully raised $10 million in Series A funding from prestigious global investors."
+publishedDateTime: 2020-08-12T17:00:00Z
+webUrl: "https://apnews.com/PR Newswire/255ee2302c213ba96fb3353c0515b813"
 type: article
-quality: 67
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "KOdqhQNtDd7zWDsyAHKSCMgeeHjHAIRDXV7Le0O5OIjS3u9Dnh9tTEyRQC/42lLS8lOEYDoy1N7t2RoEV8rjW8/9+lytKiA9MbFN5jJ40R7yIBgxhAe8q8/b6MnTEOcQkEfENVxLVA71HwiqqOjkCarrcr/FxJStUVIVCrxZ5MzysRseEwRCwcpKklnUcS+oIl6yraWEDGBWkQtTenoinVQyvPyYSjttp9nxKWM14hb0DcsI5tFbp0JESWVbgZLs56En0V0JM25urzXZjFgW789zcxF4cr8rNLCZ4+Idr4HjM8mEI2A/JFDc2zKwvRYTPdud6MTW/gmHq7PpG8cRBQ==;QWNWNDJUdc1ix0IbGHaKgQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "A6zC+HoYbpgUvqbmdY0uQpd8vLoynKPMaJ4b1J9t7fxG1ovSKal6z1ZZux5gFWpa374F5iAGSnTpe97oFqmY8LlOOXXg4Juell+EFQJCOLo3ITYan5ngTLiwqpkHA98Lug/FFBt/kiT+eaKu2Q4rSnT2zylTF0/DzxvS93oHqnaObsMlPlAV4nXoB2WoGprqSrZF6eIOfKsjFksX921sGMxD1XE6SAfA+c1NuclhTJW40tA1dbYgjb7X/ijvfS7I4r+BLTRB3aTwFpJiPuhsnlV9t8nNG201xIFwT327fmeDg8W8uILZQbi5zX8bwN6hPBYxxA0gS9nRZlZu3D4vIg==;GXfSbYmDJM+26wF3gxxXlw=="
 ---
 

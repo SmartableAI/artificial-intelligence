@@ -42,20 +42,6 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "Researchers Trick Facial-Recognition Systems"
-    excerpt: "Goal was to see if computer-generated images that look like one person would get classified as another person."
-    publishedDateTime: 2020-08-11T23:01:00Z
-    webUrl: "https://www.darkreading.com/attacks-breaches/researchers-trick-facial-recognition-systems/d/d-id/1338643"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 24
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "ZX+8PmXOUb7LAAUh8zLh2zidKbXAKFueOcewitPF8bFAhZYS9h6+EGEip0swOiStXjbX5FtbFcZ6eCsS3j6S/Qrol9f1PRkBdmKplIzQ++/HYhKcc+rOkM3+eypJjR0Gr1FvnL4f8uIGpy2StV5lXJx74QKq6IRN5WoGnf+PJLpFCQ9JAptvTqspGhJvaPjBbFetvdks6RIDfQH+oPfKU+r36frFniuFCrYiDIO1MDb7r0A5cWAT2KqbeAg2GGuEgWN39/Py3/mOVJTJdNbu1vxsutHRJJ0ar25lDgVsS1oMIBttdbrCXipCI44AzxAq5kNkORiv/bsXDaOqeUIZWw==;QHnpHr2gpdSy2EgDYNen4A=="
 ---
