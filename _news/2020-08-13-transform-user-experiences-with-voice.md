@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Transform User Experiences with Voice"
-excerpt: "People are comfortable with talking to dedicated appliances and devices, and now business and technology leaders want to invite voice-based conversations with"
-publishedDateTime: 2020-08-13T15:09:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/transform-user-experiences-with-voice/article_1755998b-6f9d-5be4-a495-047e471dee5f.html"
+excerpt: "People are comfortable with talking to dedicated appliances and devices, and now business and technology leaders want to"
+publishedDateTime: 2020-08-13T14:30:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17072761/transform-user-experiences-with-voice"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17072761"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17072761"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/64/76486940-e17f-59c4-b234-17a8d47847cd/5f355635b5551.image.jpg?resize=400%2C239"
-    width: 400
-    height: 239
-    isCached: true
 
 related:
   - title: "Why AI Is The Future Of Delivering Customer Experiences With A Human Touch"
@@ -39,6 +35,6 @@ related:
         height: 836
         isCached: true
 
-secured: "OUcRGH9n84RQP4EpC4tFRCPI5Vpbp9m4zxzplbXe5WIXAoZqrPeautfeC7xs/peOYaNB2/V1EagmxsUctaArBjDjo/vvGIsv4Q5eMFBgL4bB7/S1V+MuvEqu9V6RkXFtT/qo2yp7iakBflU8RBRpAf6OVQR49O4sTInMZhOwoGvzL19uF2dygrFSKoID1KV8+C/NxGrmGU1LR9MK+gXNtjWuxlRHCkadrSJE6M1jQtjLgd0jccmleNG9W8b4qFCBYqSXhSpd2vfZvA4PU6gOEsm0RF7C5GJpcLVi4wiVRUjAUS0v/6SDbZeqhnIVgKq/zrugsMDIpicnzwj1HqGXpQ==;w0Z95Ai2COj0wu2l3YhT/A=="
+secured: "89wN4WOFFA4LDEAgcBk/0uPPlMaRfKxUvBDpRHDimqvaA3iX+N+9FqjVX3Ewbwk/j+ylYvDqAAmM2AkWMPTf0I91bkgHJeYye5X+VMilaPMpaR/JVyVfwQHRq/OIXtTwS9NJk3Jf+lK7ZOCVmjaIW5D1XjtCVZb8jI0ZwiyOeYOFj0fGBNN3U8jklpL01xMRzY9KXqpWNZp0S5KinZhG1RiK8fNvD0yVTnyvN/ITDL1T088qI4HmP1pz9Wf8SzoFbf9448URQELLFQh//JaQhBBy75n0jWFgTekR/0zlPVD7g7YIB8fQPwWEpYqE4BfND4gZ0sdFsgGOnFMM7xK6Tu/fliJLn0yoYm5LwgvnIm2HuyvMBYxePAQC0aABO1vkNSZfhOfc+ac7ugtiTudULIdX0dS88dmcuHgACWNur/LKbZbwjEEUTOVMDATHpYpm7gn+z4SG4vrNvJmwGNOwcFl+NSXQQKLP1i+S36LggdfnUgGdGQBtInzNRDl57wV7BDSrUdyTX4HikXojuIoW2w==;/yBSmFXI4x/Yw/ZPaBTOew=="
 ---
 

@@ -2,10 +2,10 @@
 category: news
 title: "Microsoft will now let you choose a preferred GPU for every Windows 10 app"
 excerpt: "Right now, Windows 10 allows users to choose a GPU for performance-demanding workloads ... case could be using one card for time-consuming AI tasks (video enhancements, perhaps) and another ..."
-publishedDateTime: 2020-08-13T21:38:00Z
-webUrl: "https://www.techradar.com/nz/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
+publishedDateTime: 2020-08-13T21:53:00Z
+webUrl: "https://www.techradar.com/au/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
+ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 545
     isCached: true
 
-secured: "McjvM16L/5j9LMDWi6Ck4DFsxcXsdtd8MDeK4DB8YBkJLGonJXPCGKhmnSA/HL7wpNL8eXx0kHzZYAcBVXEf1Wii2QZcBmz44S/E0ZmcF7tzr3YP5je7N3/RZrFTiVeMAImfDCm07JinowR39BS5HejIiLKz/qBGRoXKKIMW5hQJrw58V/8tNS0AH1FlJZJGAMrxOX/7lAPjSWRLcqm9mRtqEvklr9xVvng1m/vqOlbaHulLTjmwsQ+I1PAZTBK6FWbBqBZns8fJAOKVAeDkgDHwyMOt1tyvFBp5R4ePSk70lNmsoJOvKrlvUwXwS0ZwQAkbv9XhP8xiUq+ojmcA3A==;tVub6YTJeV0W2qx+T1KdEg=="
+secured: "wRrbyxmSTPm2r+a4HidxhslAhw5Q+qtNfkez0VvJo3gUBYFSVtQCkI3au5PuvvhXzztlLl1vXsvU7naZ92/W8Xy9l6rr+Sqzvi/yXjoSjTJ+Vs7tve4kMyGqMpDd4q+noA1wkCujJkL4Bv/JOZbtqNimRrwIL03ypwbXkkNAkB9penP8EJXvJ6p74g/4/zHK3ZORTLOM07JdDsMQ5tXOd9PUjbLZiX9Y4/Z4+5iVq08AixsFDjfk5P01VhSt830kdQOanFanCCx5v6ijWYQ3eFu8OelMBLTz3LdCwoz7J7YfRdch1KcLMa7WDl4PYMor/LyZFGEcWFrVDBkPjty9TQ==;zpUdr4+CWnEs2HIyq/AXuw=="
 ---
 

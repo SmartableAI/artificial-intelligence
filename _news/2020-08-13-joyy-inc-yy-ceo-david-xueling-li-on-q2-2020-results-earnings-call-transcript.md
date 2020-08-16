@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T07:52:00Z
 webUrl: "https://seekingalpha.com/article/4368243-joyy-inc-yy-ceo-david-xueling-li-on-q2-2020-results-earnings-call-transcript"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "RigNet, Inc. (RNET) CEO Steve Pickett on Q2 2020 Results - Earnings Call Transcript"
-    excerpt: "Q2 2020 Results Conference Call August 07, 2020 11:00 AM ET Company Participants Lee Ahlstrom - CFO Steve Pickett - CEO Errol Olivier - COO Conference Call Participants Allen Klee - National Securities Presentation Operator Ladies and gentlemen,"
-    publishedDateTime: 2020-08-12T01:17:00Z
-    webUrl: "https://seekingalpha.com/article/4367784-rignet-inc-rnet-ceo-steve-pickett-on-q2-2020-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 0
 
 secured: "yjyRCuPHjzxp4IkNYM0js36R0LPVF+Fu8dhpcV+fHnrNg/QySeKbAzCVV4A/dquQ4F/mJDK+ubePsk0rpAr61l/u5V2zI1hZ/Nw3KXQ3IpvQAJio26IZ5PHTQlonpe8nwrlqM5/jBNe9xW5aj6C76+YuII37Ah2s1B7J55CfBSPjb4TwN2NdAZXepCJ68t7ZegjYCMCIN8hqJ4EJes92F8xqV6J+xy7vt7nIk5fXDppijRWUIL69zbafcaP4puSBhy5AIW0W90vfIxmu8/6tGoYC8CJVxtMURmrb2K8i4WdlaCv4/SCdioc6dhkpsq1hdn/GduEWbNM1/xHUA/klPw==;2LaafID3NFx/6HAS5sQ3Tg=="
 ---
