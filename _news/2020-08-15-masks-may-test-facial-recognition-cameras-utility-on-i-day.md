@@ -67,38 +67,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "UK court rules police facial recognition trials violate privacy laws"
-    excerpt: "Facial recognition is unreliable, dystopian and, according to a British court, incompatible with privacy and data protection legislation."
-    publishedDateTime: 2020-08-11T11:39:00Z
-    webUrl: "https://www.engadget.com/liberty-south-wales-police-facial-recognition-113557000.html"
-    ampWebUrl: "https://www.engadget.com/amp/liberty-south-wales-police-facial-recognition-113557000.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/liberty-south-wales-police-facial-recognition-113557000.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-08%2F652c5010-dbc3-11ea-bfb7-583085d588b4&client=amp-blogside-v2&signature=f7c95e26fde5363774a4b6f31c17c53fde145b4b"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "UK court rules police use of facial recognition was ‘unlawful’"
-    excerpt: "In a landmark decision, judges said South Wales Police's uses of facial recognition breached human rights and data protection laws."
-    publishedDateTime: 2020-08-11T11:13:00Z
-    webUrl: "https://thenextweb.com/neural/2020/08/11/uk-court-rules-police-use-of-facial-recognition-was-unlawful/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/08/11/uk-court-rules-police-use-of-facial-recognition-was-unlawful/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/11/uk-court-rules-police-use-of-facial-recognition-was-unlawful/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-11T104457.003-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "How China uses facial recognition to control human behavior"
     excerpt: "When facial recognition is everywhere, anything you do is fair game for public shaming and punishment. Facial recognition supporters in the US often argue that the surveillance technology is reserved for the greatest risks -- to help deal with violent crimes,"
     publishedDateTime: 2020-08-12T00:11:00Z
@@ -114,38 +82,6 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/dD_b_3LnM8xnDw8b1chQVYmkwRY=/756x567/2020/08/10/7160792a-58c7-4445-817b-fb35532e24ec/gettyimages-1063617532.jpg"
         width: 756
         height: 567
-        isCached: true
-  - title: "In China, facial recognition, public shaming and control go hand in hand"
-    excerpt: "Facial recognition supporters in the US often argue that the surveillance technology is reserved for the greatest risks -- to help deal with violent crimes, terrorist threats and"
-    publishedDateTime: 2020-08-11T12:02:00Z
-    webUrl: "https://www.cnet.com/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-china-facial-recognition-public-shaming-and-control-go-hand-in-hand/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/dD_b_3LnM8xnDw8b1chQVYmkwRY=/756x567/2020/08/10/7160792a-58c7-4445-817b-fb35532e24ec/gettyimages-1063617532.jpg"
-        width: 756
-        height: 567
-        isCached: true
-  - title: "Court finds some fault with UK police force’s use of facial recognition tech"
-    excerpt: "Civil rights campaigners in the UK have won a legal challenge to South Wales Police’s (SWP) use of facial recognition technology. The win on appeal is being hailed as a “world-first” victory in the fight against the use of an “oppressive surveillance tool”,"
-    publishedDateTime: 2020-08-11T11:45:00Z
-    webUrl: "https://techcrunch.com/2020/08/11/court-finds-some-fault-with-uk-police-forces-use-of-facial-recognition-tech/"
-    ampWebUrl: "https://techcrunch.com/2020/08/11/court-finds-some-fault-with-uk-police-forces-use-of-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/court-finds-some-fault-with-uk-police-forces-use-of-facial-recognition-tech/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Clearview AI wins an ICE contract as it prepares to defend itself in court"
     excerpt: "The American Civil Liberties Union sued Clearview in May for allegedly violating Illinois’ Biometric Information Privacy Act. Lawsuits accusing the company of breaking privacy and safety laws have been filed in several other states."
@@ -193,22 +129,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "South Wales police lose landmark facial recognition case"
-    excerpt: "Court rules use of technology broke equalities law and breached privacy rights"
-    publishedDateTime: 2020-08-11T12:49:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case?CMP=twt_gu"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/11/south-wales-police-lose-landmark-facial-recognition-case"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/b13037cc01ce14221d85853f02edf109cd977a0f/0_89_6085_3651/master/6085.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2b27eccfd11bd2695aad1201de765a8"
-        width: 600
-        height: 360
-        isCached: true
   - title: "UK Police Use of Facial Recognition Ruled Unlawful"
     excerpt: "The use of facial recognition technology by a British police force was ruled unlawful on Tuesday by the Court of Appeal in a case brought by a civil rights campaigner."
     publishedDateTime: 2020-08-11T15:19:00Z
@@ -224,22 +144,6 @@ related:
       - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/07/AP20205626931949.jpg?fit=2500%2C1813&#038;ssl=1"
         width: 2500
         height: 1813
-        isCached: true
-  - title: "Police use of facial recognition breaches human rights law, London court rules"
-    excerpt: "Campaigners challenging the use of facial recognition technology by police in England and Wales have won a landmark legal victory after the Court of Appeal ruled its deployment breached human rights and data protection laws."
-    publishedDateTime: 2020-08-11T13:08:00Z
-    webUrl: "https://www.ft.com/content/b79e0bee-d32a-4d8e-b9b4-c8ffd3ac23f4"
-    ampWebUrl: "https://amp.ft.com/content/b79e0bee-d32a-4d8e-b9b4-c8ffd3ac23f4"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/b79e0bee-d32a-4d8e-b9b4-c8ffd3ac23f4"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 55
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcbf8f682-d285-4ab0-8088-9df51ac17ad4.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "Police use of facial recognition found ‘unlawful’ in court"
     excerpt: "In a landmark decision the Court of Appeal has ruled that South Wales Police’s facial recognition deployments breached human rights and data protection laws"

@@ -42,20 +42,6 @@ related:
         width: 849
         height: 545
         isCached: true
-  - title: "Hyundai and Aptiv form Motional self-driving tech joint venture"
-    excerpt: "Hyundai and automotive supplier Aptiv (formerly Delphi) on Tuesday announced a new self-driving technology joint venture by the name of Motional. The 50:50 joint venture is valued at $4 billion and was first announced last fall."
-    publishedDateTime: 2020-08-11T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1125165_hyundai-and-aptiv-form-motional-self-driving-tech-joint-venture"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/motional-self-driving-car-prototype_100755795_h.jpg"
-        width: 1920
-        height: 1192
-        isCached: true
   - title: "Hyundai self-driving joint venture rebrands, to continue hiring in Singapore despite COVID-19 downturn"
     excerpt: "A joint venture by Korean automaker Hyundai and self-driving technology firm Aptiv is continuing to hire despite the COVID-19 downturn,"
     publishedDateTime: 2020-08-12T05:54:00Z

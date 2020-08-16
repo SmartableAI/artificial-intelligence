@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK court finds facial recognition technology used by police was unlawful"
-    excerpt: "The use of automatic facial recognition technology by South Wales Police was unlawful, according to the Court of Appeal."
-    publishedDateTime: 2020-08-11T14:04:00Z
-    webUrl: "https://www.cnbc.com/2020/08/11/swp-facial-recognition-unlawful.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/08/11/swp-facial-recognition-unlawful.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/11/swp-facial-recognition-unlawful.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 88
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
     excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
     publishedDateTime: 2020-08-15T14:57:00Z
@@ -103,22 +87,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-1199025045-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Police use of ‘sinister’ facial recognition ruled a breach of privacy"
-    excerpt: "Ed Bridges crowdfunded a legal challenge against the use of Automatic Facial Recognition technology (Picture: PA) A police force’s use of facial recognition has been ruled unlawful in a landmark ..."
-    publishedDateTime: 2020-08-11T13:26:00Z
-    webUrl: "https://metro.co.uk/2020/08/11/police-use-sinister-facial-recognition-ruled-breach-privacy-13114310/"
-    ampWebUrl: "https://metro.co.uk/2020/08/11/police-use-sinister-facial-recognition-ruled-breach-privacy-13114310/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/08/11/police-use-sinister-facial-recognition-ruled-breach-privacy-13114310/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/08/PRI_160846234.jpg?quality=90&strip=all&zoom=1&resize=600%2C399&ssl=1"
-        width: 600
-        height: 399
         isCached: true
   - title: "UK court says facial recognition tech violates human rights"
     excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive"
@@ -180,20 +148,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Campaigner ‘delighted’ at Court of Appeal facial recognition technology ruling"
-    excerpt: "A civil rights campaigner has expressed his delight after the Court of Appeal ruled police use of facial recognition technology interfered with privacy rights and data protection"
-    publishedDateTime: 2020-08-11T13:15:00Z
-    webUrl: "https://www.shropshirestar.com/news/uk-news/2020/08/11/campaigner-delighted-at-court-of-appeal-facial-recognition-technology-ruling/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 50
-    images:
-      - url: "https://www.shropshirestar.com/resizer/vNMFGvSrd0Rt2mnczTqsvrhPzv4=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/shropshirestar.mna/MODQIB66OBEELCGGKC6RXOYVQU.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
     excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
     publishedDateTime: 2020-08-14T23:19:00Z
@@ -224,20 +178,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Is police use of face recognition now illegal in the UK?"
-    excerpt: "The UK Court of Appeal has determined that the use of a face-recognition system by South Wales Police was “unlawful”, which could have ramifications for the widespread use of such technology across th"
-    publishedDateTime: 2020-08-11T13:24:00Z
-    webUrl: "https://www.newscientist.com/article/2251508-is-police-use-of-face-recognition-now-illegal-in-the-uk/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2020/08/11132306/gettyimages-1199025045_web.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "GAO: Some Facial Recognition Technology Could Lead to Misidentification"
     excerpt: "Market research and other data suggest that the market for facial recognition technology has increased in the number and types of businesses that use it since a Government Accountability Office (GAO) report on the topic in 2015."
     publishedDateTime: 2020-08-12T13:35:00Z
@@ -265,20 +205,6 @@ related:
       - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/47572cf0-7712-4263-b7a8-97c612523d24/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
         width: 1100
         height: 708
-        isCached: true
-  - title: "Facial recognition tech used by South Wales Police ruled unlawful in Court of Appeal"
-    excerpt: "Mr Bridges' case, which was supported by civil rights group Liberty, is believed to be the world's first legal challenge against police use"
-    publishedDateTime: 2020-08-11T13:20:00Z
-    webUrl: "https://inews.co.uk/news/technology/facial-recognition-tech-south-wales-police-liberty-ed-bridges-court-of-appeal-576250"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 32
-    images:
-      - url: "https://inews-prd-a-images.s3.eu-west-2.amazonaws.com/content/uploads/2019/05/COURTS-Facial-100854.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "NYPD Used Facial Recognition Unit In Siege Of Black Lives Matter Activist’s Apartment"
     excerpt: "The NYPD has previously stated that the technology is used to gather leads on suspects for crimes, such as robberies and shootings, not to identify people in crowds or at rallies"

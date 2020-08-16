@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-15T22:20:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/08/200814101657.htm"
 type: article
 quality: 49
-heat: 69
+heat: 49
 published: false
 
 provider:

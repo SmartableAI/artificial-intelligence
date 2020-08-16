@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Military Market 2020-2025 / Trends, Development, Revenue, Demand and Forecast"
+    excerpt: "Aug 16, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated ... target recognition, battlefield healthcare, simulation & training, planning & allocation, threat monitoring & situational awareness, information processing ..."
+    publishedDateTime: 2020-08-16T07:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2020-2025-trends-development-revenue-demand-and-forecast-2020-08-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Research, Development, Top Companies, Trends And Growth 2020 To 2025"
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
     publishedDateTime: 2020-08-13T19:30:00Z

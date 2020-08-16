@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "IIT Roorkee Announces Online Programmes In AI, Machine Learning And Data Science"
+    excerpt: "Indian Institute of Technology Roorkee, or IIT Roorkee, has announced two online certificate programmes -- Artificial Intelligence (AI) and Machine Learning, and Data Science -- in partnership with Coursera."
+    publishedDateTime: 2020-08-12T11:57:00Z
+    webUrl: "https://www.ndtv.com/education/iit-roorkee-announces-online-programmes-in-ai-machine-learning-and-data-science"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 51
+    images:
+      - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2020/8/12/iit-roorkee-re.jpg"
+        width: 860
+        height: 430
+        isCached: true
   - title: "IIT Roorkee Partners With Online Learning Platform Coursera To Launch Two New AI, Machine Learning Programmes"
     excerpt: "The Indian Institute of Technology-Roorkee ( (IIT-R) in partnership with leading online learning platform Coursera on Thursday (13 August) launched two new online certificate programmes for professionals looking to build skills in data science,"
     publishedDateTime: 2020-08-13T04:21:00Z

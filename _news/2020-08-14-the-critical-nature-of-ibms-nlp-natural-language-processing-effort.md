@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: Datamation

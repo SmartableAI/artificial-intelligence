@@ -55,6 +55,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Exxe Group Announces Formation of Multi-Million Dollar FinTech Trading Services Operation"
+    excerpt: "Exxe Group, Inc. a diversified company focused on acquisitions in real estate, financial services, digital platforms, and agribusiness, announced today that it is combining certain FinTech assets into its AXXAInvest financial services trading and investments group that can immediately generate millions of dollars of revenue annually."
+    publishedDateTime: 2020-08-15T22:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/exxe-group-announces-formation-of-multi-million-dollar-fintech-trading-services"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 25
   - title: "MAS doubles down on fintech innovation support"
     excerpt: "The Monetary Authority of Singapore (MAS) today announced that it will commit S$250 million over the next three years under the enhanced Financial Sector Technology and Innovation Scheme (FSTI 2.0) to accelerate technology and innovation-driven growth in the financial sector."
     publishedDateTime: 2020-08-13T10:23:00Z

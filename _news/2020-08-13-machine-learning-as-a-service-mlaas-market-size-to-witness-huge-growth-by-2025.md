@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T05:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025"
-    excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
-    publishedDateTime: 2020-08-11T13:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Services Market Regional Trends, Growth, Scope, Size, Emerging Technologies, Regional Analysis and Forecasts to 2026 with COVID-19 Impact"
     excerpt: "According to latest research report on \"Global Cognitive Services Market\" report provides information related to market size, production, CAGR, gross margin, growth rate, emerging trends, price, and other important factors."
     publishedDateTime: 2020-08-12T07:51:00Z

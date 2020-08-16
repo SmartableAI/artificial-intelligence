@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T10:10:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-70660-4"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 685
     height: 390
     isCached: true
-
-related:
-  - title: "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data"
-    excerpt: "In a new article in IEEE Transactions on Biomedical Engineering, researchers demonstrated how a deep learning framework they call ''Brain-NET'' can accurately predict a person's level of expertise in terms of their surgical motor skills,"
-    publishedDateTime: 2020-08-11T14:58:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "s6+Y3pNzsjZof4O/ftyB3LF+7Xlm/Pupz/u2Bw0zTbBYl4SichlVdnObmHpwNUKCAEFh2FANfKUh+nRIxT72NgJ5SsY/WMSgTTaQ+1oujgnVbxaSXKV3cIE/2wA4CBF7s5q785CIL46mXJsnyhgcJgrt9m1y3AoaSJIlfraKXVFZfTMkpNwXqaj8t2itxvhBC5mDER+JxvlC5RkZ095/T07ijbRTFAwFj3B4H5Yt4otg+7HEvXyPe7c7E2ONPG4BYXtO9clOwcr7ZCCUhJVwv8YX3ONkYaiwHkSBkLcZ8O8IMvvqnrWUhU3/d5tF4fFsNHBaNfH6QEe9pUW1b4N6KhMoH6DUKQVuA5DAgZtL45QO4jIX6FiOH+8rC3kLp27o5Iq3VIn8nxEsx5qLLzYdaIDKPpSp8eCNkKOOTURclQX7WlG1PTLXN+XS2TtbHZ2kiohwB2wXk8kGri3jN53E56zpKmhQmQANiRO44Xd9Y8GSoNNrxUM8SRlwNqBdgXcX;SEovFejNwx23CkPjVSa6iA=="
 ---

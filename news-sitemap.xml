@@ -25,6 +25,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/</loc>
+    <lastmod>2020-08-14T17:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/</loc>
     <lastmod>2020-08-14T15:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -57,12 +63,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/</loc>
     <lastmod>2020-08-14T10:43:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/</loc>
-    <lastmod>2020-08-14T10:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -385,12 +385,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/ai-startup-gong-is-now-worth-over-2-billion-2020-8</loc>
-    <lastmod>2020-08-12T09:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/08/12/researchers-claim-bias-in-ai-named-entity-recognition-models/</loc>
     <lastmod>2020-08-12T08:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -427,6 +421,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/</loc>
+    <lastmod>2020-08-12T06:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://timesofindia.indiatimes.com/home/education/news/iit-roorkee-joins-coursera-to-launch-2-ai-ml-programmes/articleshow/77506827.cms</loc>
     <lastmod>2020-08-12T06:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -447,12 +447,6 @@
   <url>
     <loc>https://www.vice.com/en_in/article/5dzqdd/stop-killer-robots-campaign-treaty</loc>
     <lastmod>2020-08-12T04:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/lantronix-open-q-610-som-to-bring-advanced-ai-and-machine-learning-capabilities-to-smart-cameras-2020-08-12-71841522</loc>
-    <lastmod>2020-08-12T04:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -517,6 +511,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.reuters.com/article/us-hyundai-motor-self-driving-aptiv/hyundai-aptiv-name-self-driving-joint-venture-motional-idUSKCN2571O6</loc>
+    <lastmod>2020-08-11T10:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -559,6 +559,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/</loc>
+    <lastmod>2020-08-11T06:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/</loc>
     <lastmod>2020-08-11T06:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -578,6 +584,12 @@
   </url>
   <url>
     <loc>https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/</loc>
+    <lastmod>2020-08-11T05:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.oaoa.com/news/business/peer-reviewed-research-shows-babylons-latest-artificial-intelligence-could-help-doctors-improve-diagnosis-particularly-for/article_5f8fa2d3-727e-575b-bfbe-93ab1b4a2428.html</loc>
     <lastmod>2020-08-11T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -807,6 +819,12 @@
   <url>
     <loc>https://www.networkworld.com/article/3568354/how-ai-can-create-self-driving-data-centers.html</loc>
     <lastmod>2020-08-10T03:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.research-live.com/article/news/new-funding-for-racial-justice-ai-and-data-projects/id/5072562</loc>
+    <lastmod>2020-08-10T02:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1615,7 +1633,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054</loc>
     <lastmod>2020-08-04T05:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
