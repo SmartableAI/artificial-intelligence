@@ -52,15 +52,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service, on Microsoft Azure"
-    excerpt: "SimCorp, a leading provider of integrated, front-to-back, multi-asset investment management solutions and services to the world’s largest buy-side institutions, today announces a new integration of its front-to-back investment management platform,"
-    publishedDateTime: 2020-08-12T11:41:00Z
-    webUrl: "https://www.bobsguide.com/guide/news/2020/Aug/12/simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 15
 
 secured: "KNi5wycgVV5Q5RRkEomd9MQ02tgVKQLj6eZtDsPesDkxy8Lkr6xN7sZEuKHfy1qlFHnYgmY07Mdpq3MF3Ai824w6dzwu+jBBNQNWzw8MwupaWY4T+qfnNpC2sg6ntyTX4vylh9PbgFHQCem/pLXc6VdRKD6D6jPgWxFeAAmU2f1s1KjhzSV/gXTFDWwrBk2NHsHbFcBrVZmZ0krd1VSSh2Y4txFCf1Okl+nZdTEfsX6zZk3u7A9BoH73jBSgAbBDKNeawU7eLWzZMU3q+AogpZWQLGzxg/YtHiPd550J3LM6VBfT4RA3PkjnrWBnmWo3FY5xyEqEWnR+CfsS1KxGaqetfYKH7RC5jX6zBjclnv8mo0F57cSBnhEXkNeoOMQBT2HBBUDZOIvG84+MGbul3hV6WGpUIQtAUF970M5PABOh1h1Uon5XRuHlnKsFo9MMoBVqSMinEc2tqdidApuw7jmudiH8px4niuqw2hbxakWbzQEb7oB9V6tr1XlwEcO8L0XFXTrtSjH+QBLWIdyycw==;eWuHm2IzzIqRUi7j4qx5bg=="
 ---

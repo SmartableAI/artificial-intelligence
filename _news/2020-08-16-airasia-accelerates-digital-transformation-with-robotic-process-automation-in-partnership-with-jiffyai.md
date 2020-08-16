@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Digital Transformation Presents New Talent Shortages for Banks"
-excerpt: "As financial firms make the shift to digital-first services, talent gaps have occurred. How do banks bridge the gap and deliver on transformative process potential?"
-publishedDateTime: 2020-08-12T21:14:00Z
-webUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks"
-ampWebUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
-cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
+title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
+excerpt: "PALO ALTO, Calif., /PRNewswire/ -- AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation (RPA) in collaboration with Silicon Valley and India-based enterprise automation platform JIFFY."
+publishedDateTime: 2020-08-16T01:18:00Z
+webUrl: "https://www.marketwatch.com/press-release/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffyai-2020-08-13"
 type: article
-quality: 44
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: BizTech
-  domain: biztechmagazine.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/bank%20talent%20hero.jpg?itok=hFWi6v9N"
-    width: 1440
-    height: 500
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -40,19 +42,21 @@ related:
         width: 599
         height: 400
         isCached: true
-  - title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
-    excerpt: "PALO ALTO, Calif., /PRNewswire/ -- AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation (RPA) in collaboration with Silicon Valley and India-based enterprise automation platform JIFFY."
-    publishedDateTime: 2020-08-16T01:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jiffyai-2020-08-13"
+  - title: "Digital Transformation Presents New Talent Shortages for Banks"
+    excerpt: "As financial firms make the shift to digital-first services, talent gaps have occurred. How do banks bridge the gap and deliver on transformative process potential?"
+    publishedDateTime: 2020-08-12T21:14:00Z
+    webUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks"
+    ampWebUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/bank%20talent%20hero.jpg?itok=hFWi6v9N"
+        width: 1440
+        height: 500
         isCached: true
   - title: "Artificial Intelligence Simplifies Maritime Digital Transformation"
     excerpt: "Applications of Artificial Intelligence (AI) in both ship and yacht building is already being done with a number of maritime companies that are currently using it successfully. AI technology makes a completely new way of working possible."
@@ -100,6 +104,6 @@ related:
       domain: bobsguide.com
     quality: 15
 
-secured: "hmV9EV6UO4JsTMHUbXuAp/ngSpMBhDUtzkx0cpcQIIWllzKn7By8fPxdsy6Z2zIMprssRB+FJDdifdi0ZnwXLd9BXNPDKO6IJBucogUkFJq7s4YIFzruIcwUi6BpwbEQTKlx2ZmrnV/4x1TWwDMlOQEABj7bDeZn59LUfR0xXozJwgZGljPNV0tM7q41z0VT5yVsKQx2wOOVS4IcWTQsfDDrSYVBhjmU4z1in/L4m9QB+X40klUer7bDDW1VBQoKHYn2LcPoeC5tx2I3vLcAhEPUmafW+Ruv6vURe+Q1qd3PXZoVjcksqu9uOagvQlJrj2VzxErdQ4J+9oEg08JM29WzStDehXKhZIgmphLbUFEyUBX7l7oOPgLQCDPEGSplql3Nb9beSnNO/ajxPbmQ3i07l6Y22B0K7IdQgI5ANeil3RtGt/9eHbLmXlA0rphHiGLylOfQaTgoCvn6jnJA3P75OJ478cwPC56l4Qt0j6tVdReoBx6nFFEc/vZ7iUMMLP3LBFcqk9JTn5UxpJbwhQ==;KPGw8S1PuATLk4tbygkqOg=="
+secured: "SKZU0dsbf6l139bvPeN3vDkTxs5t/sEqt/K5W13DG8sFmPzzOyNBb8lh8voZ0in8TcYAqyA9XWVZcmsocQ6++2mTMxRn3DLtfHatiCwHX5TjCU1cL+vK26A0Rbl8MKgW7MaJxl42SyfYvc8Eam3So7Wa2uDYlYsd8F9lEcrI81V21OSN5pJp2krNDMS1bo2BcYBJ374H/+ZUbAY5mcwU+IG2BD5GucdRp/MlPbKJWayMl5zaQ5s69sPJvcDx/6CK84QmxUPEJq7uxf2e7S0YdAtHfAlWWJ2+VyqMxjsDI/tPv9bG2p0s4Bt+4dE9Z938hIfTC8M+/zlPIatdmshlTA==;19O5sBzboMWR7RMQLnzQpg=="
 ---
 

@@ -1,45 +1,32 @@
 ---
 category: news
-title: "Digital Transformation Presents New Talent Shortages for Banks"
-excerpt: "As financial firms make the shift to digital-first services, talent gaps have occurred. How do banks bridge the gap and deliver on transformative process potential?"
-publishedDateTime: 2020-08-12T21:14:00Z
-webUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks"
-ampWebUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
-cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
+title: "Driving digital transformation with continuous automation and AI-assistance"
+excerpt: "Even before the pandemic swept the globe, organizations were already deeply invested in digital transformation to improve operational efficiencies and enhance user and customer experiences. Now, as businesses and governments increasingly rely on digital services to create new revenue streams,"
+publishedDateTime: 2020-08-14T18:28:00Z
+webUrl: "https://techcrunch.com/sponsor/dynatrace/driving-digital-transformation-with-continuous-automation-and-ai-assistance/"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 65
+heat: 125
+published: true
 
 provider:
-  name: BizTech
-  domain: biztechmagazine.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/bank%20talent%20hero.jpg?itok=hFWi6v9N"
-    width: 1440
-    height: 500
+  - url: "https://techcrunch.com/wp-content/uploads/2020/08/IMAGE-10078_EBNR_TechCrunch_PaidSocial_Asset1_TechCrunch_1025x683_FINAL.png?w=599"
+    width: 599
+    height: 400
     isCached: true
 
 related:
-  - title: "Driving digital transformation with continuous automation and AI-assistance"
-    excerpt: "Even before the pandemic swept the globe, organizations were already deeply invested in digital transformation to improve operational efficiencies and enhance user and customer experiences. Now, as businesses and governments increasingly rely on digital services to create new revenue streams,"
-    publishedDateTime: 2020-08-14T18:28:00Z
-    webUrl: "https://techcrunch.com/sponsor/dynatrace/driving-digital-transformation-with-continuous-automation-and-ai-assistance/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 65
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/IMAGE-10078_EBNR_TechCrunch_PaidSocial_Asset1_TechCrunch_1025x683_FINAL.png?w=599"
-        width: 599
-        height: 400
-        isCached: true
   - title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
     excerpt: "PALO ALTO, Calif., /PRNewswire/ -- AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation (RPA) in collaboration with Silicon Valley and India-based enterprise automation platform JIFFY."
     publishedDateTime: 2020-08-16T01:18:00Z
@@ -53,6 +40,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Digital Transformation Presents New Talent Shortages for Banks"
+    excerpt: "As financial firms make the shift to digital-first services, talent gaps have occurred. How do banks bridge the gap and deliver on transformative process potential?"
+    publishedDateTime: 2020-08-12T21:14:00Z
+    webUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks"
+    ampWebUrl: "https://biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/08/digital-transformation-presents-new-talent-shortages-banks?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 44
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202008/bank%20talent%20hero.jpg?itok=hFWi6v9N"
+        width: 1440
+        height: 500
         isCached: true
   - title: "Artificial Intelligence Simplifies Maritime Digital Transformation"
     excerpt: "Applications of Artificial Intelligence (AI) in both ship and yacht building is already being done with a number of maritime companies that are currently using it successfully. AI technology makes a completely new way of working possible."
@@ -100,6 +103,6 @@ related:
       domain: bobsguide.com
     quality: 15
 
-secured: "hmV9EV6UO4JsTMHUbXuAp/ngSpMBhDUtzkx0cpcQIIWllzKn7By8fPxdsy6Z2zIMprssRB+FJDdifdi0ZnwXLd9BXNPDKO6IJBucogUkFJq7s4YIFzruIcwUi6BpwbEQTKlx2ZmrnV/4x1TWwDMlOQEABj7bDeZn59LUfR0xXozJwgZGljPNV0tM7q41z0VT5yVsKQx2wOOVS4IcWTQsfDDrSYVBhjmU4z1in/L4m9QB+X40klUer7bDDW1VBQoKHYn2LcPoeC5tx2I3vLcAhEPUmafW+Ruv6vURe+Q1qd3PXZoVjcksqu9uOagvQlJrj2VzxErdQ4J+9oEg08JM29WzStDehXKhZIgmphLbUFEyUBX7l7oOPgLQCDPEGSplql3Nb9beSnNO/ajxPbmQ3i07l6Y22B0K7IdQgI5ANeil3RtGt/9eHbLmXlA0rphHiGLylOfQaTgoCvn6jnJA3P75OJ478cwPC56l4Qt0j6tVdReoBx6nFFEc/vZ7iUMMLP3LBFcqk9JTn5UxpJbwhQ==;KPGw8S1PuATLk4tbygkqOg=="
+secured: "ItfEWuF55KAdebjQkMbdQhM1dMHFFtbXTJr6B0OQREef1pBs5nGLDoGtLoz2rZ+j16JMcd6uuti603nbxL0IvTXcntbJ2f4DGfFSBZHg1NiBldW/W5gyIE5SCO1jqRrwSpNye849vSAX71FgZp0B85GzljkhY9vjSMRptwUFPFMD0z2q0VWN+GYNY8pHzLYTF7/YwryHATPSnpywvCdk/9FRQOayXcKde5v1Gur25Dz6clb9ZRuhn3gQZGGB2BfQnSULc7zsSzh73cOeHRAAYHvx9zKWvcEl6yFRuoGubc3dKUz6zrHmUVv0ZjSYW4GhPrq+l7qlg5UaD3YkdG/2Vg==;wpaV72MQcelPhJLOvkWfIg=="
 ---
 

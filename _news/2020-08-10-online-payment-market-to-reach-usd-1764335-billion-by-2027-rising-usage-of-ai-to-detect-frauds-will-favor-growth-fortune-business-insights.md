@@ -1,23 +1,21 @@
 ---
 category: news
 title: "Online Payment Market to Reach USD 17,643.35 Billion by 2027; Rising Usage of AI to Detect Frauds will Favor Growth: Fortune Business Insights™"
-excerpt: "The global online payment market is set to gain traction from the increasing deployment of artificial intelligence (AI) for improving payment processing, surging transactional volume, and detecting payment fraud."
-publishedDateTime: 2020-08-10T15:40:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/online-payment-market-to-reach-usd-17-643-35-billion-by-2027-rising-usage-of-ai-to-detect-frauds-will-favor-growth-fortune-business-insights-1029488173"
+excerpt: "The global online payment market is set to gain traction from the increasing deployment of artificial intelligence (AI) for"
+publishedDateTime: 2020-08-10T15:20:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g17013736/online-payment-market-to-reach-usd-17-643-35-billion-by-2027-rising-usage-of-ai-to-detect-frauds-w"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17013736"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17013736"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Facebook AI
   - AI
 
-secured: "d7oBzht2z7knpa/zM8Mj9mrfsrZE+bj2f2ILPyfaWhngzNpv9OZkGEwreBx6ukn5blsd8ADGIOVd5ZnRTk1grCjvgr/j5pJfH4grBuxDX6qe98JaMvhMOgFuTDneK4fn9cEf3noBZNG5AbXZMkN1yATkdDpSiKVdrsd7yHQCa4gLGQKZs8rjJN4vnqdcFTz6RA2DXLQ5TuAyKKs28wSOI6v2Qhwyaz8i40IvTK5J01T5cDW6S0Sp04ChmVFJ8UHs9EPOHWIHep94mIqUxHE/o0p+OZmxH07SmYoYjkurY8Kk23NvrPUPOCYaL+jIHxp+85axl4ALG5TodopJR1Q7Ng==;Jz/pbVWve5J+s1XMEE127w=="
+secured: "RP5b2I5Z3H7IeCLipDk4xwvma/YwG9XtoE316bEkcp9xPfgMzX/Eh8qbjHSj9SQJYc9wGbs/t4pKLZ+L7izYwwuziadXvT2oISPEdq6GggdZpqULSEV5jWkyZ8FmT+sHwLXZavYq/HV6Q13o0nvwOlx2VJgTtGdVWr9xE4cuz0ooNq2bEnKBd9uqPb9RL8bwbQ4sBA3f7BARe4KY5HRuGbkVlk1PKun7nizHKsdxICnBSccMGvfbfnF4ri2z4NG6lmcJSxgOMh91++3inSGTRxP9pz1wuKVh++/Fo0EuDE6G5O35oURoicoJBZFpdcuAkbKKgzXQ1esNirqGPeYnFTOfEo3RmJapUTjJvXfNlCxVr4JYtTCvRcuMxK4KybGP6Sa4G0ovLWKDt/O2Vojp3MJFRwv0Ct62+zF7ocbT/7xV3xCU5Qp9XR3CjodgXBXoqyqOx/ImtdqJtrthMK72vuNjFUbeggeV0kgEkZdlUj/AMOep3VU9azLL2z5hYIplnWeTijKLSALzti/Ckp6BTA==;O+bGKIAyPsIxQ0fOONiVdg=="
 ---
 
