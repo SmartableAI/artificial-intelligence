@@ -2,29 +2,25 @@
 category: news
 title: "Workday and IBM Expand Partnership to Help Customers Plan Return to the Workplace"
 excerpt: "AI Applications, IBM Cloud and Cognitive Software. \"By partnering with Workday on a joint solution, we're extending the capabilities delivered by Watson Works to help customers gain greater ..."
-publishedDateTime: 2020-08-12T00:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040"
+publishedDateTime: 2020-08-12T23:15:00Z
+webUrl: "https://www.morningstar.com/news/pr-newswire/20200812ny89611/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -42,21 +38,7 @@ related:
         width: 878
         height: 589
         isCached: true
-  - title: "AI Eye Episode 410: Workday (NasdaqGS: $WDAY) and IBM (NYSE:$IBM) Expand Partnership for Return to Work Solution"
-    excerpt: "(NasdaqGS:WDAY) and IBM (NYSE:IBM) announced \"an expanded partnership and the availability of a joint solution to help business and community leaders plan, schedule, and monitor a safe return to the workplace for employees."
-    publishedDateTime: 2020-08-13T17:29:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/08131AIEye-WDAY-IBM.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 18
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
-        isCached: true
 
-secured: "0XpOTlQg8Dh+OTGIGc/PnYvgTqOUciMDFvjwkA+Wk6LBGoEJhKJGtZqMrLntjaMT8m/LuodulJkUFgJtzbTIares2PyW8RhIwkadUatPGolJhkSFLSK9XqCHRbGSiRJgWcQtNnnoyq7vHibmo7wz1UVX1bEwMjUZiFQmyPOIg9YxpNTFoYPd0Jf5Aic9SUqjYfmFVVOU+sgcjV+YETqPF4mEiYLfPxtZtI3TTm35rWEaZy/IsmU0wJHsi2n/rEb65TuqTW0ZuzBgLmMSynyPf/zGpgwSk9UuSQGQrOMDy/hHKVzXszhgzF8M0YdcbwOj4gpvAj7jG/Xoa1F78/RUqg==;5lfECsBqdEe4sHvxO7mt4A=="
+secured: "11TH5LEw8/4HczA50imS4pbCg1xRBoTzbYC1WqcOI4qfkpz3DCx0w9hXMzYmQu5/XnNEyAOJj7TpVN32SNXDLyc3rev2PCppdFOPI4vIw0h8O2iBeOdss/NWPJH3HZ/0bsWW9VVx26grh7Gp2pqHNV9YrcR5//nOUkaGMuix4yr+DZpe/udUB4tGtGaM6gGqCy11v3xZLRkVEC6jvRuHej1tVFW2+T9HCgqCoPvbUhGt3q8z5Rg+bYCGtUCPJSEH2P4ozYCneSZJop17VjHMbPXXhmpuXCIx/dW4HK/ppZ+vf+cCk3NN0EHS+HvwgkewGLyqx67aLfCeu3GzF0PXjA==;MWFZ7tyYuxbn5WoBRQb3lA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T01:40:00Z
 webUrl: "https://siliconangle.com/2020/08/12/workday-ibm-team-help-employees-get-back-work/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,31 +26,17 @@ images:
 related:
   - title: "Workday and IBM Expand Partnership to Help Customers Plan Return to the Workplace"
     excerpt: "AI Applications, IBM Cloud and Cognitive Software. \"By partnering with Workday on a joint solution, we're extending the capabilities delivered by Watson Works to help customers gain greater ..."
-    publishedDateTime: 2020-08-12T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040"
+    publishedDateTime: 2020-08-12T23:15:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200812ny89611/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 19
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Eye Episode 410: Workday (NasdaqGS: $WDAY) and IBM (NYSE:$IBM) Expand Partnership for Return to Work Solution"
-    excerpt: "(NasdaqGS:WDAY) and IBM (NYSE:IBM) announced \"an expanded partnership and the availability of a joint solution to help business and community leaders plan, schedule, and monitor a safe return to the workplace for employees."
-    publishedDateTime: 2020-08-13T17:29:00Z
-    webUrl: "https://www.investorideas.com/news/2020/artificial-intelligence/08131AIEye-WDAY-IBM.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 18
-    images:
-      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
-        width: 1280
-        height: 1206
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "RWBG9PhM3YGQylsf7vnkjxhVNS3ahtcu0OTGzEDq7nO308+7MfQE9K/vfv9mmsn7D6ymNua6mAPIzJyGsDfUKZ2E17nwoKRBin/pIl8KTJ2EieLFCQBRF8tvkpUuVN7DzXxuG8CDKxZVCqXvgtABgjxb4uZj1AZeQm5WNiA56eCGFxeyIvfWjrPSnkdxpmcP5iGsfNMbZtRib8ySFpE+mQOP5vSumDibSmy8mbdj8baWS1aG5nGf4Nzk+b8+iCBLgHmY35DonM5hsSVvWMbnmXoLMlmjUwdC8Hz7Xn6sYZij49heT3YnthZBB1i2lF2XvzcDA+IZouVJvUtdtcYtR2BcVQeiRkKJ0qzys022Pn5kbTcEmJulfyd2ycR96PGqeLllwYZlhiKwYTLzJmyMOU6Paawjs0/ofeT40cXtZU3DCO3eLzXkrvXKrNhdDX50YoYMam+e/XW5mJSESjNQ7BKPPt/arxpZ5BAeVFIYHzlTiEMvCdf4XSzJ6iMaRZLJnJ32kdW7/GeyUbYEkmdRkg==;KsOYCBvYfbI0AE28NLoZHg=="

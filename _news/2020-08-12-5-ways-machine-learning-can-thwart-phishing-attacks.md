@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/08/12/5-ways-machine-learning-can-thwart-phishing-attacks/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 633
     isCached: true
-
-related:
-  - title: "Combating Phishing Attacks with Artificial Intelligence"
-    excerpt: "Attackers have kept a close eye on this trend and get higher returns on investment by phishing mobile devices. It becomes more challenging for consumers and employees to identify a phishing attack in similar ways they would on a laptop or desktop computer."
-    publishedDateTime: 2020-08-11T19:36:00Z
-    webUrl: "https://customerthink.com/combating-phishing-attacks-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/technology-2818664_1280-pixabay-technology-computer-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "dYhqZPdYPR9e835RiYHWnVNmDAxH1zKhnAo90uzojpMnPu7UBF8/Np3m2MKCPP/r4sdBs0ZmgdE+QZ3tDK00F9wtDqS4pGPIdTArASAbRHlrP43ATlKigqdpi/kNHav6Mhula+kby+QbbtoykJYxyr/LXT976mso8YVmZVIai2QsYcFTdprsfoPPOErAsY7FGDHKvKEDKgrlHgvElCHdq5gms+zJikijrdSf6AWB3KHA7R3VIFrGL+VUrHuO4prUmi6sEmYm+gBNP18SDDzafze/AsTwKkEHiX2J7plDzj0gGqhzyBgf2hUAKgoVttY+2HgR2xad/lOiuGfS8EGKdodMAcVYngkI7+udvYepbYBbHmE5SlMDlgZO2bI+PfYekyKcHZwfDq5cqOyaXkVWnVA45BQla+5Ddu0vtLwIdDcNebXORz6rrCmLScXK0FfSzlPq8vApVmJTubmuMyXjN2tvznmv1+MQHdYHh7Erb2ev/CAlZ97FEWatteJFFVRA;aeD0vS4Ozc87sGl1SAkAXQ=="
 ---
