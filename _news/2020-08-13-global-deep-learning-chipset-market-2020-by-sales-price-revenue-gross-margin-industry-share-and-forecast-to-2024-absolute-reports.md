@@ -28,33 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2023"
-    excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
-    publishedDateTime: 2020-08-15T18:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2023-2020-08-15"
+  - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
+    excerpt: "Global Artificial Intelligence and Machine Learning Market Size, Status and Forecast 2020-2024 is latest research study released, highlighting, opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The ..."
+    publishedDateTime: 2020-08-15T19:40:00Z
+    webUrl: "https://www.openpr.com/news/2113476/artificial-intelligence-and-machine-learning-market-evolving"
+    ampWebUrl: "https://www.openpr.com/amp/2113476/artificial-intelligence-and-machine-learning-market-evolving"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113476/artificial-intelligence-and-machine-learning-market-evolving"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2025"
-    excerpt: "Artificial intelligence technology has been implemented across varied industries such as healthcare and consumer electronics. Global organizations have started exploring and implementing the benefits of AI technologies for effective positioning of their ..."
-    publishedDateTime: 2020-08-14T14:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2025-2020-08-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/8/T815418051_g.jpg"
+        width: 562
+        height: 313
         isCached: true
 
 secured: "JoMd1o5X3cuS8tQQPqIUCKPoq3hGJJJQc+dzmiJGiDrvBpW8UWlLCtIofkBEBk8YrdoBwkubXFxdgTFNeYjDoPW9wJYsuVMUPTm/LcSQP6CPAMFzDJ79HCwkog6OvjeHR3YeweGddGZ0LZhyePGV/+Y8Yj5bUz7X5lo+xMOD9KAIac+wp7b7OFWUmFvJGZOhxpJt/x+71XuOhke0fbSwIOJMAdbvrCjaAOv7l/BNdwyPPEopuNUXnJl+Mjni31YR4WSxD33l8qWz/fg+X2up2KGuMBIfN3qxdMGUX4OK3HcP60spf7OQv+LmiqCQc2u4EaZPtDXpFUTjOR+0he5d5A==;uLCku6Cn0CpVKNK9QLtQMw=="

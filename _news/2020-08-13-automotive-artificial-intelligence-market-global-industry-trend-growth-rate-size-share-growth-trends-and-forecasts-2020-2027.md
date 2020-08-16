@@ -99,22 +99,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
-    excerpt: "Global Artificial Intelligence and Machine Learning Market Size, Status and Forecast 2020-2024 is latest research study released, highlighting, opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The ..."
-    publishedDateTime: 2020-08-15T19:40:00Z
-    webUrl: "https://www.openpr.com/news/2113476/artificial-intelligence-and-machine-learning-market-evolving"
-    ampWebUrl: "https://www.openpr.com/amp/2113476/artificial-intelligence-and-machine-learning-market-evolving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113476/artificial-intelligence-and-machine-learning-market-evolving"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
-    images:
-      - url: "https://cdn.openpr.com/T/8/T815418051_g.jpg"
-        width: 562
-        height: 313
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research"
     excerpt: "Zion Market Research Reports added Latest Research Report titled “Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research″ to its Large Report database."
     publishedDateTime: 2020-08-12T08:29:00Z

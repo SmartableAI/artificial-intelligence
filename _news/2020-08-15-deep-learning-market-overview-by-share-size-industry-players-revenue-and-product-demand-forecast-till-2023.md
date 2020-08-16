@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-15T18:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2023-2020-08-15"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: MarketWatch
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning Chipset Market 2020 by Sales, Price, Revenue, Gross Margin, Industry Share and Forecast to 2024 | Absolute Reports"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chipset Market” report provides a comprehensive analysis about all of the important aspects related to the market."
-    publishedDateTime: 2020-08-13T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-by-sales-price-revenue-gross-margin-industry-share-and-forecast-to-2024-absolute-reports-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
