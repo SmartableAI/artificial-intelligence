@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Court Says Face Recognition Violates Human Rights"
-    excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
-    publishedDateTime: 2020-08-11T15:13:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21159906/court-says-face-recognition-violates-human-rights"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://p1-cms-assets.imgix.net/files/base/indm/multi/image/2020/08/16x9/AP20015517325497.5e2b14aa31328.5f32b39b78dec.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "Cops' facial recognition was ‘unlawful,’ court rules"
     excerpt: "In a Court of Appeal ruling today, judges found that South Wales Police had breached privacy rights, data protection laws and equality laws through its use of the surveillance tools. The force has been at the forefront of using automated facial recognition (AFR) technology,"
     publishedDateTime: 2020-08-14T06:35:00Z

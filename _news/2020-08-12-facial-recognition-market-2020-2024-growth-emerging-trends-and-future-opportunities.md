@@ -86,20 +86,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Global Artificial Intelligence in Military Market is Set for Lucrative Growth During 2020-2026 - Zion Market Research"
-    excerpt: "Zion Market Research Reports added Latest Research Report titled \"Global Artificial Intelligence in Military Market is Set for Lucrative Growth During 2020-2026 - Zion Market Research\" to its Large Report database."
-    publishedDateTime: 2020-08-11T10:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-military-market-is-set-for-lucrative-growth-during-2020-2026---zion-market-research-2020-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024"
     excerpt: "Global Artificial Intelligence and Machine Learning Market Size, Status and Forecast 2020-2024 is latest research study released, highlighting, opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The ..."
     publishedDateTime: 2020-08-15T19:40:00Z

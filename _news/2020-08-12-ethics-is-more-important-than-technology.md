@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-12T06:41:00Z
 webUrl: "https://www.scu.edu/ethics/all-about-ethics/ethics-is-more-important-than-technology/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 360
     height: 225
     isCached: true
-
-related:
-  - title: "AI readiness isn’t just a technology issue – ethics matter too"
-    excerpt: "For example, in AI Readiness, Alex Castrrounis explains readiness regarding Technological, Financial and Cultural Issues. Summarizing some of his points: Organizational — Need a Chief AI Officer (CAIO) or chief analytics officer (CAO),"
-    publishedDateTime: 2020-08-11T09:20:00Z
-    webUrl: "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too"
-    ampWebUrl: "https://diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-readiness-isnt-just-technology-issue-ethics-matter-too?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg"
-        width: 1277
-        height: 852
-        isCached: true
 
 secured: "AdJ3ynvkv0zjMvX/s11reYUT8lDetVBNGi/256Du+ljFcIGomRj9nO/Jf8dlWeVvIRoAiAkSmScmouzVlgmWGyhfv7/5MkRHluK0+GUA+WT1XyI4LtiuVzvYgMYgVwVu5Uu9+ZDDiuWLVXbzWOn4N14RIu296cdAGif67iQP7GU1tkL4AuDSdesMgKEaDFFuuI584+AIy0wTAPaWjas1SbZTjNWFjB0XDnPP+KkxsInTbBNYYlqHxQzdMgHyZjoVYF1+T2eQfggZF5pqbZCIIGUIRSmfekEWww8hBg3khQ4DAFcWPEUn1gPR22jLYny+mP+HzrufqUljiHGskSLRgQ==;iMAH24GsWwCkgWz+1x0p6A=="
 ---

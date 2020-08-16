@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "UK court says face recognition violates human rights"
-    excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive practices by the authorities."
-    publishedDateTime: 2020-08-11T15:40:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/aug/11/uk-court-says-face-recognition-violates-human-righ/"
+  - title: "Police Facial Recognition Use Unlawful—U.K. Court Of Appeal Makes Landmark Ruling"
+    excerpt: "Privacy rights and data protection breaches cited alongside an inability to verify no bias on the grounds of race or sex, as the U.K. Court of Appeal rules law enforcement facial recognition usage unlawful."
+    publishedDateTime: 2020-08-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/"
+    ampWebUrl: "https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/amp/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
-        isCached: true
-  - title: "Cops' facial recognition was ‘unlawful,’ court rules"
-    excerpt: "In a Court of Appeal ruling today, judges found that South Wales Police had breached privacy rights, data protection laws and equality laws through its use of the surveillance tools. The force has been at the forefront of using automated facial recognition (AFR) technology,"
-    publishedDateTime: 2020-08-14T06:35:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/cops-facial-recognition-was-illegal-court-rules"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 24
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/face%20police.jpg"
-        width: 1185
-        height: 585
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33c790032d66b3ff669e61%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "6S8Z+Du64VloD9jQ2qQdt8lZD9bMdFgNOhiA4hBIUEhebR7YgMnE4T9ttfDTVlxPSHthkS9HQPESvaPwfaQeB0U75Y71S3sa08WasBAT9dK/vZAe19xP/SwU7SY7Mh2frvTzu3425a7hdyL1RNdvCiZda3OZc0RGqdog76enPnRVSotXOGREeb+3Fk16e/1Zei06yK05weSTYqMxWtXGLQuGMzQW5+kr2xeXtAykU2XTu62tcQVFn4/+0qvVm8d1ybsoEQ3A5NyztwmgkKaaQkR5zd+nSIttlLsm2DpSRCfZJ7VS6cTeqlMB9iHutkcCP3RK7I1xDtEN03PQzTI0Jw==;zISZID9PjrirDOz8blkP0Q=="

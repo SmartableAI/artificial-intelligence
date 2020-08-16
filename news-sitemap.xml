@@ -139,14 +139,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/amazon-ec2-inf1-instances-featuring-aws-inferentia-chips-now-available-in-five-new-regions-and-with-improved-performance/</loc>
-    <lastmod>2020-08-13T14:32:23-07:00</lastmod>
+    <loc>https://www.techradar.com/au/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app</loc>
+    <lastmod>2020-08-13T14:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app</loc>
-    <lastmod>2020-08-13T14:30:00-07:00</lastmod>
+    <loc>https://aws.amazon.com/blogs/machine-learning/amazon-ec2-inf1-instances-featuring-aws-inferentia-chips-now-available-in-five-new-regions-and-with-improved-performance/</loc>
+    <lastmod>2020-08-13T14:32:23-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -457,6 +457,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/daveywinder/2020/08/12/police-facial-recognition-use-unlawful-uk-court-of-appeal-makes-landmark-ruling/</loc>
+    <lastmod>2020-08-12T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.entrepreneur.com/article/354613</loc>
     <lastmod>2020-08-12T00:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -513,6 +519,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/uk-wales-53742099</loc>
+    <lastmod>2020-08-11T09:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -709,6 +721,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/n17014425/checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-paymen</loc>
+    <lastmod>2020-08-10T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10</loc>
     <lastmod>2020-08-10T08:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -883,8 +901,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html</loc>
-    <lastmod>2020-08-08T01:19:00-07:00</lastmod>
+    <loc>https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html</loc>
+    <lastmod>2020-08-07T23:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1237,6 +1255,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://edtechmagazine.com/higher/higher/article/2020/08/improving-online-learning-artificial-intelligence</loc>
+    <lastmod>2020-08-05T12:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/05/worlds-first-ai-generated-arts-festival-program-opens-this-friday/</loc>
     <lastmod>2020-08-05T10:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1297,7 +1321,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05?dist=bigcharts&amp;tesla=y</loc>
     <lastmod>2020-08-05T06:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

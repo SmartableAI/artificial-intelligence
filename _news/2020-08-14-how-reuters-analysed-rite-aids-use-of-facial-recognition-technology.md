@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN24T1GH"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN24T1GH"
 type: article
 quality: 104
-heat: 334
+heat: 344
 published: true
 
 provider:
@@ -169,6 +169,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/04/san-francisco-and-several-other-cities-have-banned.jpg"
         width: 1024
         height: 718
+        isCached: true
+  - title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
+    excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
+    publishedDateTime: 2020-08-16T03:15:00Z
+    webUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/"
+    ampWebUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 52
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Dodgers Focusing On Stadium Future With Contactless Tech, Analytics For All And Eventual Facial Recognition"
     excerpt: "The technological infrastructure now backing Dodgers Stadium in Los Angeles sets up one of the most followed Major League Baseball franchises to deliver a new in-venue experience for fans when they return to the building."

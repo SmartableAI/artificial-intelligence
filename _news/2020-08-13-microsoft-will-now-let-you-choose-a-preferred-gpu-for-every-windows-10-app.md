@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Microsoft will now let you choose a preferred GPU for every Windows 10 app"
-excerpt: "Windows 10 allows users to choose a GPU for performance-demanding workloads and a GPU for light workloads to save power, which is good enough for notebooks that have an integrated GPU and a standalone graphics processor."
-publishedDateTime: 2020-08-13T21:30:00Z
-webUrl: "https://www.techradar.com/in/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
-ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
+excerpt: "Right now, Windows 10 allows users to choose a GPU for performance-demanding workloads ... case could be using one card for time-consuming AI tasks (video enhancements, perhaps) and another ..."
+publishedDateTime: 2020-08-13T21:53:00Z
+webUrl: "https://www.techradar.com/au/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
+ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 545
     isCached: true
 
-secured: "VXeK4wLiEkbbqmm439E/ZTqdtGP2isAl5tRFjjslmltfCL7CaDsjrB4nkg5xSvRudYOATQv+7ac/WZjNYreLRUi5RTAi/T8ou6mZZte56jGV+4WJBBTSEKDzooAq4T8KgAwYnZWKxguUXcYy9jz4YUUEVrffX+CIZekGcEKjIocs8BOhgdpqw05Jn4nZRAAWOL3D36UbxrKmyxeHCy4TghSWFbkrBrPyIs1dgE0CQIqKoSyTi/MThScjBckrBhZr5pxwB+AzchJ6a+sRjQ4nmvC6pupXFSiRi3rJwmTc7LTkukkdRhWgH44jRYaqTmxcWUM09Hr4JpBgSeSsVASnRQ==;TZxbAcboZ8NfsLw9R0pI4w=="
+secured: "UaH9de3eXOThuTS5qyTXPJBQLgoI1a1PusvnO3RVuD+2FUbCK7wqMKeInaWFdTz3zC47xThOPUa9tat+zg4o8G9y3biWBWrW//eEBVw/Orn3rH+YuOofA6jBCbRzVYwUYoWPYm+rnrs9nmo9qUUebvi/K/0K8XD8Gu3tzjN1KoNtrmZJAeipvs/6BuFp+Oi4MCdIhTvKcZIw/9rJQmoyl49ldsctSuJqsJ8M5F3ysuC3X21foQK+OLEIG/rkq6o5SG8QTpeyXTDDLSQ8M0CtB+/EvDkVyq4k5CSo2p9ISCC1ToonQjAHNSCsPQuYXpolYFZn1oZteCyujIio11bK5g==;wT6HqKSG+fm26XkNWrrnDg=="
 ---
 

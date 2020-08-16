@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Police Use of Facial Recognition Ruled Unlawful in World First Case"
-excerpt: "Police Use of Facial Recognition Ruled Unlawful in World First Case. Liberty celebrates verdict but South Wales Police may continue trials"
-publishedDateTime: 2020-08-12T09:15:00Z
-webUrl: "https://www.infosecurity-magazine.com/news/police-facial-recognition/"
+title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
+excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
+publishedDateTime: 2020-08-16T03:15:00Z
+webUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/"
+ampWebUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
+cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
 type: article
-quality: 19
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Infosecurity-magazine.com
-  domain: infosecurity-magazine.com
+  name: Kim Komando
+  domain: komando.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "How Reuters analysed Rite Aid's use of facial recognition technology"
@@ -173,22 +181,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/04/san-francisco-and-several-other-cities-have-banned.jpg"
         width: 1024
         height: 718
-        isCached: true
-  - title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
-    excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
-    publishedDateTime: 2020-08-16T03:15:00Z
-    webUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/"
-    ampWebUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 52
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Dodgers Focusing On Stadium Future With Contactless Tech, Analytics For All And Eventual Facial Recognition"
     excerpt: "The technological infrastructure now backing Dodgers Stadium in Los Angeles sets up one of the most followed Major League Baseball franchises to deliver a new in-venue experience for fans when they return to the building."
@@ -359,6 +351,15 @@ related:
         width: 1280
         height: 1066
         isCached: true
+  - title: "Police Use of Facial Recognition Ruled Unlawful in World First Case"
+    excerpt: "Police Use of Facial Recognition Ruled Unlawful in World First Case. Liberty celebrates verdict but South Wales Police may continue trials"
+    publishedDateTime: 2020-08-12T09:15:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/police-facial-recognition/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
   - title: "Police facial recognition robot identifies anger and distress"
     excerpt: "A police force hopes to deploy facial recognition and behavioural technology that can spot anger and distress, in a widening use of artificial intelligence.Retrospective facial recognition is under"
     publishedDateTime: 2020-08-14T23:01:00Z
@@ -369,6 +370,6 @@ related:
       domain: thetimes.co.uk
     quality: 19
 
-secured: "79ZyjgIMneP0OsDXKCubvIkwA/OqpaVenCAIAEASp8RkhhHaPyqJ9jXDUUtCSNbs9nq2nE/UKuUaMR+9AlMstUHGe0BsNvnCGlfHcNmYeo6FdZOatA3J09eKSCNbFONSroh61A+8o3tXAEDnh8ae/SMsuCJLfmC6Rfcne/Pborfx3cHzUJZkHXamduVnZDkeJWGd+5IPUsH5J1zuWl0fXwC0SDEauuVbWHUMFoTBt3ybEPoW/Ci+dUswvfsOqrtpDnboFhnwxW6PNLXwkIQjIuk1Jrsgd6hf2bJ7w7B2C5Q5MJo1cGOBah+7xo6kbE5x3EODEvRztyZWaTz5okQS+//Q3z+yCZmKx5xPRo+IJI12luIZfgui1Zga6Dq9SNe9OWbjE7ndebV5thX8D9EP6W3Y+3YqGSZqnzEk7MuNWSUIC7lkg7ZcRyvsVyNwFd3ihjQ3FNVam2OyxK69cROAw8x65C2J9Ldu1zDNRV3klRnAbj3i7HtO21BGEFDJ6Oma37qHvz34qiewColj4XMshA==;fIfNJAFAqkFVDU8X6qvqrw=="
+secured: "QVJH42DEd/RvIqX1VmuCvTpVnMzQ9Hk7XGQyVhIoxo51HUWyJn23EA+FI7VvWHHkMO8w38n/7OQTA9YUM5dLPbXDFeJRrk0lianoJs08qnyTQ2gVIH2lgfEKdO2RLKrnJPkkMlTz/cJuNRgKqswd93JLyWp2NvGb/0HkhXfJHHET2bQhJJlaKB8ZCjBwyTvQ7aok7SFlb0NytNZjxmuBzv5t8L1NKviZyrGpVB4A+tn78fvUkGDb6emxcgetsEFcdGxBd4X2nKxZ0CW8f/a9ot0MxSmPGvfRmfHksEpgdoi+dbDRpbqOQuM39hwiz2rgNhCTZCCmq46VSZr+Qe4fwg==;tb9PgeNYDNCRv5FkuwXPfA=="
 ---
 

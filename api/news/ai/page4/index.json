@@ -2,6 +2,105 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-11-at-prisons-in-finland-inmates-are-learning-ai-and-taking-online-tech-courses-as-a-bridge-to-life-on-the-outside.md",
+      "title": "At prisons in Finland, inmates are learning AI and taking online tech courses as a bridge to life on the outside",
+      "excerpt": "Finland transformed its criminal justice system 70 years ago. Now the country is investing in technology that offers inmates pathways back to society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f31c3faa6f0e106c119e315?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp",
+      "publishedDateTime": "2020-08-11T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents.md",
+      "title": "Google’s Lookout app for vision-impaired now scans food labels and long documents",
+      "excerpt": "Google has updated its Lookout app, an AI toolkit for people with impaired vision, with two helpful new capabilities: scanning long documents and reading out food labels. Paper forms and similarly-shaped products at the store present a challenge for blind folks and this ought to make things easier.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/google-lookout-shots.jpg?w=1024",
+          "width": 1024,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/googles-lookout-app-for-vision-impaired-now-scans-food-labels-and-long-documents/amp/",
+      "publishedDateTime": "2020-08-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-ai-cybersecurity-startup-elisity-raises-75-million-to-protect-networks-from-attack-with-ai.md",
       "title": "AI cybersecurity startup Elisity raises $7.5 million to protect networks from attack with AI",
       "excerpt": "Cybersecurity startup Elisity emerged from stealth with $7.5 million to further develop its tools that protect networks from AI-driven attacks.",
@@ -1213,6 +1312,38 @@
       ]
     },
     {
+      "path": "_news/2020-08-10-checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-payments.md",
+      "title": "CheckAlt and Composable Analytics Launch Scrypt, AI Data Capture for Document Processing and Payments",
+      "excerpt": "Recognizing the broad impact of artificial intelligence and machine learning in document processing, CheckAlt has launched",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17014425/checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-paymen",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17014425",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17014425",
+      "publishedDateTime": "2020-08-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-10-artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis.md",
       "title": "Artificial Intelligence in Healthcare Market 2019 All Major Industrial Aspects and COVID-19 Impact Analysis",
       "excerpt": "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,",
@@ -1313,136 +1444,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-online-payment-market-to-reach-usd-1764335-billion-by-2027-rising-usage-of-ai-to-detect-frauds-will-favor-growth-fortune-business-insights.md",
-      "title": "Online Payment Market to Reach USD 17,643.35 Billion by 2027; Rising Usage of AI to Detect Frauds will Favor Growth: Fortune Business Insights™",
-      "excerpt": "The global online payment market is set to gain traction from the increasing deployment of artificial intelligence (AI) for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17013736/online-payment-market-to-reach-usd-17-643-35-billion-by-2027-rising-usage-of-ai-to-detect-frauds-w",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17013736",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17013736",
-      "publishedDateTime": "2020-08-10T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-the-changes-ai-will-bring.md",
-      "title": "The Changes AI Will Bring",
-      "excerpt": "More efficient criminal justice, ‘fancy’ digital assistants and a potential catastrophe in the stock market: Six experts weigh in on the biggest challenges—and opportunities—of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-changes-ai-will-bring-11597072070",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-217825/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-changes-ai-will-bring-11597072070",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-changes-ai-will-bring-11597072070",
-      "publishedDateTime": "2020-08-10T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-convegenius-acquires-gray-matters-to-boosts-ai-based-assessment-products.md",
-      "title": "ConveGenius Acquires Gray Matters To Boosts AI-Based Assessment Products",
-      "excerpt": "EdTech for Naya Bharat campaign that aims to empower 100 million students at the bottom of the education funnel",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/354504",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597068275-DSC-02271.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354504",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354504",
-      "publishedDateTime": "2020-08-10T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

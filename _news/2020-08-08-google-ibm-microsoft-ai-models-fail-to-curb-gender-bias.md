@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Google, IBM, Microsoft AI models fail to curb gender bias"
-excerpt: "Not just Google. When put to work, artificial intelligence-powered IBM Watson virtual assistant was not far behind on gender bias. In 23 per cent of cases, Watson saw a woman wearing a gag while ..."
-publishedDateTime: 2020-08-08T08:19:00Z
-webUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
-ampWebUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
+excerpt: "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes."
+publishedDateTime: 2020-08-08T06:16:00Z
+webUrl: "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html"
+ampWebUrl: "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html"
 type: article
 
 provider:
@@ -16,12 +16,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "3CUeeNJusfi31o63wWNpjUjA9oSrZnF9jJ+1EWyANAGuWtY/DdBdU1V+3CdjW7qhgw+wKhQquYXh4iMrYrWzQcndrTv/spelkBSwYF54Rp6iEo7uKh/KNBPyLj9whyhMPSAHBeAigzwWFlO45ZnI/oeBtC7JDnXBO3+qk69tnyK8lrhJlipxFaGXvDEehGJWYc25jS/SGllkHRBi6RcVl+FZEYDH4q2D4IS99BC7fRxtrOAWf0qtDrkwpOgyO3pNOFzHE0O/dwYFzDJpZuio6V8x6dz8+RUVMEC7hb4UHhvWBww+owVAreGFy9J3JAXjRCCAsqGb8OFgrHstQfRYuA==;w/1x9IKUi5TtVeDlte/xcg=="
+secured: "t1OSRLBJNqvWu5WomXr+GAYbna6Y86kd2pjKvSefmCqCBD/5LeGU+iG72wN+uw0O9lKIN4Ls5QE2Bdl3Aa7ZcTymUeHRGrUibBI8JF0R4MarwRgTO2HCrComBPGr7LcHNGwUAph7ZUupOypR/vrHK3Tb0gdsfAaOGLUqjblbb6+j95pta2UNQJ4UqjvOKJGbagiBXe8aZy+vWa6M0T2+xoJ7sihOGr1tMWKb4tiik7xEpp7Dat/kJW0h3JHYc1LYS+lJzwGtQkpfrjDCiRB86L+Bk2OpfZZr7pqEAOvGUZtMFCDsMP8Ll3rMatEMpr5e/BZeVK3YfUQIHsvzCToQ0A==;KEynMCjMZZx8gQH+YDfUVg=="
 ---
 
