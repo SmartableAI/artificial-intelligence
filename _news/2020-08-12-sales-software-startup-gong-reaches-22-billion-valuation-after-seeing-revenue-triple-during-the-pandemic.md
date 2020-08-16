@@ -29,6 +29,33 @@ images:
     isCached: true
 
 related:
+  - title: "Gong raises $200 million to surface sales insights with AI"
+    excerpt: "Gong.io, a startup applying AI to sales call analysis, has raised $200 million in venture capital at a $2.2 billion valuation."
+    publishedDateTime: 2020-08-12T13:33:00Z
+    webUrl: "https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/10/Gong.IO_-e1596830560832.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Gong, AI for sales teams, raises $200 million at $2.2 billion valuation"
+    excerpt: "Gong I.O Ltd, a platform leveraging artificial intelligence for sales teams, on Wednesday said it raised $200 million at a $2.2 billion valuation, and said its revenues roughly tripled in the first half of 2020 as people shifted to working from home during the coronavirus pandemic."
+    publishedDateTime: 2020-08-12T14:05:00Z
+    webUrl: "https://www.reuters.com/article/us-gong-funding/gong-ai-for-sales-teams-raises-200-million-at-2-2-billion-valuation-idUSKCN2581T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2581T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2581T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
   - title: "AI startup Gong is now worth $2.2 billion following a new $200 million venture investment"
     excerpt: "Gong's latest funding was led by Coatue, a technology hedge fund with big investments in Rippling and UiPath."
     publishedDateTime: 2020-08-12T16:44:00Z

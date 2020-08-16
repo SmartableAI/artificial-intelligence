@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Simpplr raises $10 million for its AI-powered intranet platform"
-    excerpt: "Simpplr, a startup developing an AI-powered intranet platform, has raised $10 million in funding to streamline communications."
-    publishedDateTime: 2020-08-11T12:03:00Z
-    webUrl: "https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/"
-    ampWebUrl: "https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/intranet-simpplr-tiles-e1596649630868.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Gong raises $200 million to surface sales insights with AI"
     excerpt: "Gong.io, a startup applying AI to sales call analysis, has raised $200 million in venture capital at a $2.2 billion valuation."
     publishedDateTime: 2020-08-12T13:33:00Z
@@ -56,29 +40,47 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Gong now valued at $2.2B after raising $200M for its AI sales platform"
-    excerpt: "Gong now boasts more than 1,300 customers including PayPal Holdings Inc., Microsoft Corp.’s LinkedIn and other big names from the tech industry. Gong provides an AI-infused analytics service that is used by business-to-business companies to help their sales teams acquire more customers."
-    publishedDateTime: 2020-08-12T17:14:00Z
-    webUrl: "https://siliconangle.com/2020/08/12/gong-now-valued-2-2b-raising-200m-ai-sales-platform/"
+  - title: "AI startup Gong is now worth $2.2 billion following a new $200 million venture investment"
+    excerpt: "Gong's latest funding was led by Coatue, a technology hedge fund with big investments in Rippling and UiPath."
+    publishedDateTime: 2020-08-12T16:44:00Z
+    webUrl: "https://www.businessinsider.com/ai-startup-gong-is-now-worth-over-2-billion-2020-8"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/gong.png"
-        width: 700
-        height: 400
+      - url: "https://i.insider.com/50aa6b73eab8ea7b4b00001e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "WISeKey Invests USD 5.5 Million in German Artificial Intelligence Leader ARAGO for 5% Stake; Integrates AI Technology into its IoT Platform"
-    excerpt: "WISeKey and ARAGO will create a JV with the name WISeData.CH and will license their respective technologies to the JV. WISeData.CH JV will integrate ARAGO and WISeKey technologies to develop solutions that help clients drastically accelerate digital transformation in any industrial process though immediately integrating IoT and AI to secure"
-    publishedDateTime: 2020-08-11T16:10:00Z
-    webUrl: "https://www.nasdaq.com/press-release/wisekey-invests-usd-5.5-million-in-german-artificial-intelligence-leader-arago-for-5"
+  - title: "Sales Software Startup Gong Reaches $2.2 Billion Valuation After Seeing Revenue Triple During The Pandemic"
+    excerpt: "The AI-powered sales startup raised $200 million even as it says its previous $65 million fundraise is still sitting in the bank."
+    publishedDateTime: 2020-08-12T13:35:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2020/08/12/gong-sales-startup-series-d-funding-round-billion-valuation/"
+    ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2020/08/12/gong-sales-startup-series-d-funding-round-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/08/12/gong-sales-startup-series-d-funding-round-billion-valuation/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 30
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f332b9ba8c22fbb8c5125f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1076%26cropY1%3D438%26cropY2%3D1155"
+        width: 1076
+        height: 717
+        isCached: true
+  - title: "Bay Area startup Gong lands $200 million Series D funding round, unicorn status"
+    excerpt: "Gong hit a high note Wednesday, reeling in a massive $200 million Series D funding round that turned it into a unicorn with a valuation of $2.2 billion. Coatue led the funding round, with participation from Salesforce Ventures,"
+    publishedDateTime: 2020-08-12T11:41:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/08/12/bay-area-startup-lands-200-million-funding-round.html"
+    ampWebUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/08/12/bay-area-startup-lands-200-million-funding-round.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/08/12/bay-area-startup-lands-200-million-funding-round.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
 secured: "Rm45jmVDvSfg6vxIED6hcwzpkPaaZRfaAM5RU3lTT9UiraoJVUjSGn2a7XO+0Q9CUmsrRSdpo2XPtnUfIMkENWWptG0SolxSNG9Jkx/5hQaoC2WRTIFx1XchGKZgWoRxn86sz3jNX6d4i5XObgIfWRl6D1V5lICLFSXWe3PbC8HFQXiYDmwKwnoHlLC3lmq6FGzqsCFWyyvDFRSZzblqXAUFYvIp6a/vQtqnmxhTw+idsjzxqmZK3WDu8fjAm8XLy0NZkNAGH6hzpkwrfFwkdyYYb7pBskPss0+gbVsS8jkTcpWQW4QzszbKa7pjtIHoe4gonPlfZJkCqpIg+0TZeQ==;MpA+h8TQY2EyJVKOVChKkw=="
 ---

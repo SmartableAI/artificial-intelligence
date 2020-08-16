@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-11T13:26:00Z
 webUrl: "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: SiliconANGLE
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Atomwise’s machine learning-based drug discovery service raises $123 million"
-    excerpt: "With a slew of partnerships with large pharmaceutical companies under its belt and the successful spin out of at least one new company, Atomwise has already proved the value of its machine learning platform for discovering and commercializing potential small molecule therapies for a host of"
-    publishedDateTime: 2020-08-11T12:30:00Z
-    webUrl: "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/"
-    ampWebUrl: "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-20-at-7.58.55-PM.png?w=1024"
-        width: 1024
-        height: 519
-        isCached: true
-  - title: "Atomwise raises $123 million to accelerate drug discovery with AI"
-    excerpt: "Atomwise, a company leveraging AI and machine learning to accelerate drug discovery, has raised $123 million in venture capital."
-    publishedDateTime: 2020-08-11T13:05:00Z
-    webUrl: "https://venturebeat.com/2020/08/11/atomwise-raises-123-million-to-accelerate-drug-discovery-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/08/11/atomwise-raises-123-million-to-accelerate-drug-discovery-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/atomwise-raises-123-million-to-accelerate-drug-discovery-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/0-2-e1596135667638.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Here's the pitch deck that AI-backed drug discovery startup Atomwise used to raise $123 million in Series B funding"
     excerpt: "The startup now has over 750 ongoing projects with partner organizations, including several coronavirus-related initiatives."
     publishedDateTime: 2020-08-11T13:09:00Z
@@ -71,17 +39,20 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI drug discovery company Atomwise snags $123M round"
-    excerpt: "A godfather, a coffee pot and a $123 million funding round are helping a San Francisco company shape the future of deep learning in drug discovery and development. Atomwise Inc. said Tuesday it raised the Series B round led by Sanabil Investments and B Capital Group."
-    publishedDateTime: 2020-08-11T11:18:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/08/11/atomwise-funding-ai-drug-discovery-cancer-x-37.html"
-    ampWebUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/08/11/atomwise-funding-ai-drug-discovery-cancer-x-37.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/08/11/atomwise-funding-ai-drug-discovery-cancer-x-37.amp.html"
+  - title: "Industrial AI Solutions Startup MakinaRocks raises $10M in Series A"
+    excerpt: "MakinaRocks, an industrial AI solutions startup aiming to revolutionize the world of manufacturing, announced today that it has successfully raised $10 million in Series A funding from prestigious global investors."
+    publishedDateTime: 2020-08-12T17:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/255ee2302c213ba96fb3353c0515b813"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Q9/lcjWwZy603iRqeKibdVIMu2lvaqY8ekAnsisXK3vsS18ghC1qwPCGZXTKcZ2LBteAO30BplLD1qSdzvhVQRopjwGDIY+7avDUQqZ1LGjzWwZ41vtZqYwV5iaQVGJs+HquMEeoWxGFFN0U1lu3nCywJCrm/xTPpve6slPmo+guofW7IZhwHXlUkPgw8ZqFTOHWPzqw0p1BvTOfJfgTbggxCiOSwOjI/tfBzDRHmGI2IZXM3HAkWImI1dimlzisGLGJ7zx+6z00mijxDbouKHACaWFllFpqi4zRYfENA/bYXlfYiOq5LJ7xKScA0ZcE2786A5/PJCOfu8Zd4HQZikxCCYFCtLTKKD6z08wqGb1Flt6y6Wu265HuuU7Tj4wwD0snCKboXJCZtDwsX2t8UqIXe/XtByqEFrud/sMGcLaHbUhO3LaDHrnXk/n5b1wzwR/QGvMux+GtJtP4Yc+wDUqtyHtIQhl5Bxpfe7PUXBjAsnbWxk9iH3k/XSstpVK0;b88LfMS4MXK7Pv8NUomp7Q=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T06:13:00Z
 webUrl: "https://ktvz.com/news/oregon-northwest/2020/08/13/portland-considers-nations-strongest-facial-recognition-ban/"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:

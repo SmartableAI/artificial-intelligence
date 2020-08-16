@@ -8,7 +8,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/israels-voice-recognition-technology-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/israels-voice-recognition-technology-provides-endless-possibilities-638638/amp"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:

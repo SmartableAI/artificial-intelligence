@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Research with COVID-19 After Effects, Development Factors and Growth Analysis (2020-2026)"
-    excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) in Healthcare Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
-    publishedDateTime: 2020-08-11T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market - COVID-19 Impact Analysis, Trends, Business Profiles and Forecast to 2025"
     excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
     publishedDateTime: 2020-08-12T10:21:00Z

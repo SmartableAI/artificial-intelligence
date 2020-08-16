@@ -8,7 +8,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/140820/
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/140820/questions-arise-on-self-driving-tech-as-us-state-plans-separate-lanes.html"
 type: article
 quality: 38
-heat: 38
+heat: 48
 published: false
 
 provider:

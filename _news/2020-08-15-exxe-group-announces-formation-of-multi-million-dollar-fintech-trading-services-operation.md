@@ -1,0 +1,21 @@
+---
+category: news
+title: "Exxe Group Announces Formation of Multi-Million Dollar FinTech Trading Services Operation"
+excerpt: "Exxe Group, Inc. a diversified company focused on acquisitions in real estate, financial services, digital platforms, and agribusiness, announced today that it is combining certain FinTech assets into its AXXAInvest financial services trading and investments group that can immediately generate millions of dollars of revenue annually."
+publishedDateTime: 2020-08-15T22:00:00Z
+webUrl: "https://www.nasdaq.com/press-release/exxe-group-announces-formation-of-multi-million-dollar-fintech-trading-services"
+type: article
+quality: 25
+heat: 25
+
+provider:
+  name: Nasdaq
+  domain: nasdaq.com
+
+topics:
+  - AI in Finance
+  - AI
+
+secured: "oTOC9jZD7IAm4EE6VjEMGyAB0eUQnKv4ar6nlYEf0WA+cXLyWxFxC2Jjjr3CBhcTUz+fH+HzT/BY13TDTPrlBP0foGPbrYdcMegHx4Wyt2TKMfE4qresq7akX0NNR59zb/LyRlxcnPVmplsNgmBXHYuJem1kzxDpUsK+dsHvf/sF4R5zrcQzGxY1ZZ9qO6/r0HCZU0+9IYjifeO88q0b0xpbet2HJS2HiYSwti3b12Ti5klr7K27iCyVvHu6OBipQstXbby5lBbwvDJna7qzVCFWs9TpzXDsQGD2420wBmgl/nbNfDgpA2VKfhscHFX9NoXyX87EIlCmExwCX1I5ig==;bqQlzwqyshp7QHalmFUGaQ=="
+---
+

@@ -40,22 +40,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Facial recognition use by South Wales Police ruled unlawful"
-    excerpt: "Image caption Ed Bridges has had his image captured twice by AFR technology, which he said breached his human rights The use of automatic facial recognition (AFR) technology by South Wales Police is unlawful,"
-    publishedDateTime: 2020-08-11T11:16:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53734716?at_medium=custom7&at_custom4=3D2C0040-DBB6-11EA-8C59-B1D74744363C&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53734716"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53734716"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1E77/production/_113899770_mediaitem113899769.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Facial Recognition Violates Human Rights, Court Rules"
     excerpt: "Facial discrimination has been called discriminatory. People fear it will strip our privacy. The latest court ruling from the UK goes as far to say it violates human rights."
     publishedDateTime: 2020-08-13T11:15:00Z
@@ -238,22 +222,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Police use of facial recognition unlawfully breached privacy rights, says Court of Appeal ruling"
-    excerpt: "The Court of Appeal has upheld a complaint against South Wales Police for automatically scanning the faces of pedestrians."
-    publishedDateTime: 2020-08-11T11:33:00Z
-    webUrl: "https://news.sky.com/story/police-use-of-facial-recognition-unlawfully-breached-privacy-rights-says-court-of-appeal-ruling-12047012"
-    ampWebUrl: "https://news.sky.com/story/amp/police-use-of-facial-recognition-unlawfully-breached-privacy-rights-says-court-of-appeal-ruling-12047012"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/police-use-of-facial-recognition-unlawfully-breached-privacy-rights-says-court-of-appeal-ruling-12047012"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 46
-    images:
-      - url: "https://e3.365dm.com/20/08/1600x900/skynews-police-facial-recognition_5064626.jpg?20200811105752"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Facebook accused of illegally harvesting facial recognition scans of MILLIONS of Instagram users"
     excerpt: "INSTAGRAM has been accused of hoarding facial recognition scans of 100millions users without their consent. In a class-action lawsuit filed in Illinois this week, lawyers allege that the"
     publishedDateTime: 2020-08-14T11:32:00Z
@@ -337,20 +305,6 @@ related:
       name: Gothamist
       domain: gothamist.com
     quality: 32
-  - title: "Police use of facial recognition ruled 'unlawful' by judges after challenge by shopper"
-    excerpt: "Ed Bridges had his face scanned while he was Christmas shopping in Cardiff in 2017 and at a peaceful anti-arms protest the following year"
-    publishedDateTime: 2020-08-11T12:35:00Z
-    webUrl: "https://www.nottinghampost.com/news/uk-world-news/police-use-facial-recognition-ruled-4414423"
-    type: article
-    provider:
-      name: Nottingham Post
-      domain: nottinghampost.com
-    quality: 31
-    images:
-      - url: "https://i2-prod.bristolpost.co.uk/incoming/article2765411.ece/ALTERNATES/s1200/4_camjpeg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Police Use of Facial Recognition Ruled Unlawful in World First Case"
     excerpt: "Police Use of Facial Recognition Ruled Unlawful in World First Case. Liberty celebrates verdict but South Wales Police may continue trials"
     publishedDateTime: 2020-08-12T09:15:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-12T18:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-08-12"
 type: article
 quality: 75
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Research with COVID-19 After Effects, Development Factors and Growth Analysis (2020-2026)"
-    excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) in Healthcare Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
-    publishedDateTime: 2020-08-11T11:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-research-with-covid-19-after-effects-development-factors-and-growth-analysis-2020-2026-2020-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
