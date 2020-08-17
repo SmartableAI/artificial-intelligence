@@ -5,8 +5,8 @@ excerpt: "In a bid to ingrain digital learning behaviour at the workplace, DBS B
 publishedDateTime: 2020-08-16T22:00:00Z
 webUrl: "https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/08/17/st_20200817_mmdbs17_5889484.jpg?itok=-vwDM0yf"
@@ -23,6 +24,22 @@ images:
     height: 509
     isCached: true
 
-secured: "AkUqS3OvSsb3JylAuMTxRr70MNGtk5mnWPnhuULZRB94SvEMOyDiVLUvzgV+gMoK0V6uHXvLVVqaSFNL1PkH3aNHoaQsQNchzBOF/nadYgDCBoYLhnnqKQoMac8xeTsFZl0bkhnQBJdPz/007PynhrLGw+W4jvFl/o6xTeheUArchumU1y0DW3IpNhLCLsmpcxpyMmuWhQKrr/L66x4t7rdyxD/MGIh/EtrNnKjCmAOiPFJnoPnUrgoKX0T6SW0wglxBZO5WsrWzrMUh5pMSLm8HczoPG1eVGR+ufPZGM2s6qXbiGkxhEYdKJImKxuFn9+0PRcuCm06ehZ6/L254cA==;MCzQNgA2w6uror7KCS3rXg=="
+related:
+  - title: "DBS to upskill at least 3,000 employees in AI and ML skills this year"
+    excerpt: "To enable this, DBS has collaborated with AWS to launch the DBS x AWS DeepRacer League which will see employees learning the basics of AI and ML in a series of online tutorials before putting their ne"
+    publishedDateTime: 2020-08-17T01:40:00Z
+    webUrl: "https://www.humanresourcesonline.net/dbs-to-upskill-at-least-3-000-employees-in-ai-and-ml-skills-this-year"
+    type: article
+    provider:
+      name: Human Resources Online
+      domain: humanresourcesonline.net
+    quality: 39
+    images:
+      - url: "https://www.humanresourcesonline.net/images/hr-sg/content-images/jerene-aug-2020-machine-learning-123rf.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "fMR5O8li6if1cyG1PDZgP8qwoCVDwQL/3MMq3vrm3CHomTvt26909DkOeiHTBv2Anr82RSFnQMYQOKXLh50sVy2Gu820y2yfBJuV7nRwFBp6CV4DhXWz5BIjv0W3m9Ar/UMbrEiKGcpfOEW0nzQU3Pkp6zczfApMBNaoGXNiEFLm8nDLSkl4jAQS3TdFzQauA41I+N26S9pdjpqiUiWJCgOhJh/ctO7Lr/VNpR91d6nrLp2XY4Hcu3ZzgBDgolnpskoMpxbzV6T4aFsilZtPznU1add1RvnOzxFnyxlrThDH2nZvtl7KeX9sGyjiXn51ceHJby/CWptdYISJ4X/V3RWJPg9JWpQulxfk9fta1nUSk+Be1eaXsODjEmS/AQJ8meyWoXekLTTeS6fq+WyhIHudsLTplz8X4iBLkfOf5UFx36J4eC9ioIJ+ssEMUhd4tdfjnNfYfwja3+5484thYfjF48+lOXTNMxdHnT4RBjykIM2oh8HPPyJxu7Ol1uV4dxp4xwGW/Gfxeu6hmxp67A==;3GO2+RtVxwA5kRQI3/Iikw=="
 ---
 

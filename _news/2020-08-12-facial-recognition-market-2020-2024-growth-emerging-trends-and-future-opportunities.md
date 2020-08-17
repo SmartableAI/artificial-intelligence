@@ -100,15 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research"
-    excerpt: "Zion Market Research Reports added Latest Research Report titled “Global Artificial Intelligence (AI) in Healthcare Market is set to grow at Double Digit CAGR During 2020–2026 – Zion Market Research″ to its Large Report database."
-    publishedDateTime: 2020-08-12T08:29:00Z
-    webUrl: "https://galusaustralis.com/2020/08/826525/global-artificial-intelligence-ai-in-healthcare-market-is-set-to-grow-at-double-digit-cagr-during-2020-2026-zion-market-research/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 18
   - title: "Artificial Intelligence in Drug Discovery Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
     excerpt: "The Global Artificial Intelligence in Drug Discovery Market is estimated to value over USD 2.08 billion by 2027 end with a CAGR of over 40.5% during the forecast period 2020 to 2027. The research report titled Artificial Intelligence in Drug Discovery offers comprehensive information on key driving factors,"
     publishedDateTime: 2020-08-14T18:21:00Z

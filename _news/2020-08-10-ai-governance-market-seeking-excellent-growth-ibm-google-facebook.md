@@ -3,7 +3,7 @@ category: news
 title: "AI Governance Market Seeking Excellent Growth | IBM, Google, Facebook"
 excerpt: "Latestreleased the research study on Global AI Governance Market, offers a detailed overview of the factors influencing the global business scope. AI Governance Market research report shows the latest market insights,"
 publishedDateTime: 2020-08-10T04:28:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "o+ToEBPEpPoL2Q1EFpETHVlnwRQ4an7qITkTG6fJUsY4h1vtrkFt5D1qVwXYTW6M40tWLMnY/EaqTJJFyBXhtJ0CXVlEvoLRYN+veFF23XyP2O2sxXq49z5/lr8KVRkHbdUYh1+CAQZsQWm8e+/AYK3dfBEy4mT6xx7wmy4lMvOqMZfdy1ARVLptXRE0LGfQUVfTxeh9B3x8l8MBC7YfZVNeo/Wga0TLvmzGa8hOLxI1EsI6pUBIJOz+G0yXdgA0jWzlwTeme1qdrw2Mv9l4VPA/LSiBhh8SPRr0EEYtmeroncCT1EI9ZXFziYa/Vv/YtVQguDEuPA+22DmeX+/aCw==;oHxw7aIBkEDKTUCFNcu6/g=="
+secured: "PH0nR4WzYwCZafxwppAbD6hLk0sL4C6JXP6vdJIrkfuveiQl0x7mS/YhC4iHWsw6n6tVivJNzAJWLNyZqFYzbJRSoFqzWRr16iFX5SXoXnZ2UCPZ7tC5aa5Ss+iPpxLlTooxjjeGprej5zXp73PUrVV8XtFf/utmLcaSLl7X6GIyoRC1LE5o/J0YLKM/JncDqK0fl5+ev6s3wLotX4yH2hZ25dL5vul2m6eAkMO6Lyl1doqjJ7DUC2xi/Z1VFz52GOHzAu27PWihmX0+qsvkFFIZX2OHkdoaBiNIagavH0PBYNv7rjPe1kuSFmvsJEjSx1db7XDXqMYokMl0DeF5Pw==;guqr+rlcvftdoC/4px8tdg=="
 ---
 

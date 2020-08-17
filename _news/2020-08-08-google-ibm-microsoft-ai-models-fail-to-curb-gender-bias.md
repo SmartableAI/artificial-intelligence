@@ -3,9 +3,9 @@ category: news
 title: "Google, IBM, Microsoft AI models fail to curb gender bias"
 excerpt: "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes."
 publishedDateTime: 2020-08-08T06:16:00Z
-webUrl: "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html"
-ampWebUrl: "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html"
+webUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
+ampWebUrl: "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html"
 type: article
 
 provider:
@@ -15,7 +15,14 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
-secured: "C/k4WZvfcTRukdO63N/Pyuvpmi3iQMLf3sPbE4P6mw66r8keGL/3iJ73vAOIAgs0A4no3b9lm+azZgww7QIlp2QaD0OlZCepJEAgZ0YU3w/tcpUXUZuT5g1T4uQMMrflwMr3SjoGFi/s6HT7TIjACchdWyetsQfeC1UmLWwUdaq7s2z3EJ/f6TsaM17+moqBhXtcPWD7ETvrPRRykWl5/+tWqqocddn/+EvEtvLDZ/ELztBn/I1VJC0pcGmnqYJI2XAcyqieDORXfrbThbQ5+sCGwNIbSAQUAHi7irpaaQOyJR9pS6nQwmiwAwq9/miOYmCZCEBClCJPgWGQftbmKA==;UfNdLuTQfrwptYqbw1ogdg=="
+images:
+  - url: "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "bD5qpjTGfLr6/lR/8RkBvwFVW8mntVpwPz5QxEu3945aLmxBvoPpzNkpRGRSEzERhQxAzA23ShCrQJXgVfqcfrjfwP9YPwrFJMJZlnH4R66+y/Hx2rHVtMdYPrGL67GPUxPQ4mcU2ImFl9Yb4bAXqeL3qWff5PnfBf2w6/CWE8XnL1CwbJA6bAssAE+etY0+aZgHz1f6qDHQCbj2ZBt4/kQIle/9yJJ4wcNBgh7CiB68cbl/FfH9/OAxDYQ0ab3vFc+8/OwugbPIU6IM0ZBSTZP4LPIJgZHx8w/vNRViaz60jPqCDhAQhy5AcztFYpbwnwDzifrRrKUKmEe5GQw/RQ==;gQ4Mn2sxVPu+jCEpLIIqMQ=="
 ---
 

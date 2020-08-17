@@ -103,48 +103,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-14-indonesia-sets-sights-on-artificial-intelligence-in-new-national-strategy.md",
-      "title": "Indonesia sets sights on artificial intelligence in new national strategy",
-      "excerpt": "The government has introduced a national strategy for developing artificial intelligence, but experts are calling for assurances that progress in this high-tech field is safe and beneficial for all.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejakartapost.com/news/2020/08/13/indonesia-sets-sights-on-artificial-intelligence-in-new-national-strategy.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jakpost.net/c/2018/12/13/2018_12_13_60766_1544675746._medium.jpg",
-          "width": 747,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thejakartapost.com/amp/news/2020/08/13/indonesia-sets-sights-on-artificial-intelligence-in-new-national-strategy.html",
-      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/news/2020/08/13/indonesia-sets-sights-on-artificial-intelligence-in-new-national-strategy.html",
-      "publishedDateTime": "2020-08-13T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jakarta Post",
-        "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-08-13-healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.md",
       "title": "Healthcare provider and payer execs point to AI, robotics as next industry disruptors: report",
       "excerpt": "Nearly half of healthcare provider and payer executives (45 percent) believe that rapid advancements in new tech and innovations will disrupt the healthcare industry, according to an Aug. 11 Accenture report.",
@@ -1371,6 +1329,48 @@
         "Facebook AI",
         "AI in Healthcare",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-machine-learning-reveals-recipe-for-building-artificial-proteins.md",
+      "title": "Machine learning reveals recipe for building artificial proteins",
+      "excerpt": "Proteins are essential to the life of cells, carrying out complex tasks and catalyzing chemical reactions. Scientists and engineers have long sought to harness this power by designing artificial proteins that can perform new tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/2-protein.jpg",
+          "width": 2880,
+          "height": 2365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp",
+      "publishedDateTime": "2020-07-24T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
       ]
     }
   ],

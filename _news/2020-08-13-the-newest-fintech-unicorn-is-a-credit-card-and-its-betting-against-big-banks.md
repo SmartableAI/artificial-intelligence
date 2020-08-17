@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-cred
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
 type: article
 quality: 100
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech unicorn Lufax, backed by China’s biggest insurer, Ping An, said to be secretly applying for US IPO"
-    excerpt: "Lufax, which runs an online wealth management platform and retail lending technology platform, has hired Bank of America, Goldman Sachs, HSBC and UBS to bring in investors, the people familiar said. A spokesman for Lufax declined to comment on any IPO plans."
-    publishedDateTime: 2020-08-12T08:37:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3097078/fintech-unicorn-lufax-backed-chinas-biggest-insurer-ping"
-    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3097078/fintech-unicorn-lufax-backed-chinas-biggest-insurer-ping"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3097078/fintech-unicorn-lufax-backed-chinas-biggest-insurer-ping"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 71
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/08/12/19cde46c-dc6d-11ea-b1d3-42d340dc91a3_image_hires_163731.jpg?itok=aJCauXnP&v=1597221458"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "U.S. Fintech Cred.ai Launches AI-Powered Credit Card"
     excerpt: "Cred.ai, a U.S.-based startup, has launched its new banking platform specifically for millennials, along with its solid metal credit card. The company reported that it has been operating in “stealth” for more than three years to build its platform,"
     publishedDateTime: 2020-08-14T01:46:00Z

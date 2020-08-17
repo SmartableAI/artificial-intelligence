@@ -34,20 +34,6 @@ related:
         width: 820
         height: 500
         isCached: true
-  - title: "Fintech: Here Are The Essential Features Of A Fintech Solution In Today’s World"
-    excerpt: "The fintech industry is growing rapidly. Analysing data is a vital part of Fintech apps. Facial recognition to protect the data of the users."
-    publishedDateTime: 2020-08-12T07:12:00Z
-    webUrl: "https://www.techbooky.com/fintech-essential-features-in-real-world/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 20
-    images:
-      - url: "https://www.techbooky.com/wp-content/uploads/2019/10/fintech-solution.png"
-        width: 960
-        height: 720
-        isCached: true
 
 secured: "TomqYoE5+4EmzgQNApOE4TylML34vt0tq92Zf0qU3vFcrTs8p6XbExKqh1sCbElLyR4oiv4CPCf1OlYc2oZYHUszlJu9WiHlc4CMeXXPiON4ev1+9VHpj4GvlyeRvDZpIuk+IcxvC+b63E0D8kRBasbUW0FyJaqbizQgL9aMyCwje3/tmx3dUnSrDdz8XM5dZB8Ki9Ehrmg6WCPeveQ+73ETElAqrZvlddnNEmk9AlKicDIAXdRD8/CXEHCVLmcXXVSA0hebpHIYzTyPC2bDZeOHbW2uPTdS26USrkx25pD2JneoGwuf0AIXMq7CsnNcOHrvR+xdAdoWOxCdUd1V3Q==;C8Vr4ZPafqwyhrJPB5Wzyw=="
 ---

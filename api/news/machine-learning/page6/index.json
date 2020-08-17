@@ -2,47 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-06-30-learn-big-data-and-machine-learning-skills-right-at-home-with-this-training.md",
-      "title": "Learn Big Data and Machine Learning Skills Right at Home With This Training",
-      "excerpt": "Machine learning wouldn’t exist if Stanislaw Ulam hadn’t gotten annoyed at his game of solitaire. In 1946, Ulam was trying to figure out the probability of winning a game of solitaire.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnp1.stackassets.com/f95e7d4a0796d3ec661936019b8898b8651a27c3/store/3d766cb1638bbf79127d583b9c5d3fd145e79c22f7c5540e70b76d6325bc/product_38950_product_shots1.jpg",
-          "width": 630,
-          "height": 473,
-          "title": "Learn Big Data and Machine Learning Skills Right at Home With This Training",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training/amp",
-      "publishedDateTime": "2020-06-29T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-30-dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company.md",
       "title": "dotData Partners with Teradata, a Leading Cloud Data & Analytics Company",
       "excerpt": "The integration leverages the robust enterprise data management and analytic capabilities of Teradata's Vantage platform and dotData's autoML 2.0 platform to create a powerful end-to-end data ...",
@@ -1359,6 +1318,38 @@
       "provider": {
         "name": "Azorobotics",
         "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-objex-inc-joins-google-cloud-partner-program.md",
+      "title": "Objex, Inc. Joins Google Cloud Partner Program",
+      "excerpt": "AutoML, Google Cloud Vision, Natural Language and Speech APIs Digital transformation is rethinking old operating models and to become more agile in your ability to experiment and respond to ever changing customer needs. Objex is a call away to help you in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16336534/objex-inc-joins-google-cloud-partner-program",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16336534",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16336534",
+      "publishedDateTime": "2020-06-22T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
