@@ -5,8 +5,8 @@ excerpt: "Al Zahra Hospital Dubai adopts Artificially Intelligence powered platf
 publishedDateTime: 2020-08-17T06:44:00Z
 webUrl: "https://www.zawya.com/mena/en/press-releases/story/Artificial_Intelligence_elevating_patient_communication_and_access_to_care-ZAWYA20200817062112/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.zawya.com/pr/images/2020/ww_2020_08_17.jpg"
@@ -22,6 +23,6 @@ images:
     height: 416
     isCached: true
 
-secured: "dim3boJutcTd8GE8BOLcwYqo4krgmWGjc1ssgLxoDE9yfwOUQTnOhl/nfJCh+XRE+N7U4IEjhj6yYuy9Fft3oe2HJ5T9uDY3e93puPW49HFVDiX4y8rgCY5/G5lxAn/ZH7euEahPcOStsphH2LhyQ4rOyivNp6nUb2iOJbHKSPjAq6/P0l4bKDNQ0SBWDtAc3fYjcLarL9lN6PMBkdcLjJNhXcWdDtAhhfVX+ELGKdx1j2C6xxNmAeV5z4nCUPD8uEw1SaW5iaCwLb3j26I/DWusm3mApG1IxDTvqVt17zWfstmvUAyV0eFOCR+izf4Zhw8VTAQEFSohHJAGDTR6zQ==;c8rjQpNkgLYUNCf1c3C9Qw=="
+secured: "Ns2aiNN1zC9TOrYssEpWCNVqXVkvLLroEZKvXWnYu5JtEP92iKMcn8NsU2UXI6bx5NAmh8QFFj86CyZ8aAmvR3/1RftxRWVBrprivbnxwLPsOq6Ggm2EEHTfuAwG2HZWDrLVtQK0+RnpQnVAmO8gpWfUj0W1eRMBYRFPXJXgCfL3tgmFvgvo5VnfF6iOkHQNeRBP/fS9onTiUuSp9XatMQNn2j1w4VD/P5DNe3a/2J0IzhdYyWLjawM0x7BTfBplEZuX5W+97uF7QAdURslmES8OkTmeLvV8d7OigP0yp2XQl/uK2T04Z/C25pLOf/5YsS4gaRcEat4S7Uk588X2R6ZOoS3N0Cna+kmG8Dnp0MyWGQ4DIIkkCZZIS9GQXDeuLTaKVEzDKrzfpRxRy2FA8edIUTetSRSLCDuO3XklQOp+ax+ooy5wsjngzuo60jd4QCN1g6W/Oui2doVVTsuqxbKM/6sz19zd5ehmhLvpePpJyjY6o+CXR9SgKguk4owPzKK8Q0Y6EU7zCIZZmMUqFA==;4As9xjn1Y25yCNO9+m89Gw=="
 ---
 

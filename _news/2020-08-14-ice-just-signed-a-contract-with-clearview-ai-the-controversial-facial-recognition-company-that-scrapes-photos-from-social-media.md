@@ -109,6 +109,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Controversial facial recognition tech firm Clearview AI inks deal with ICE"
+    excerpt: "The US Department of Homeland Security (DHS) has signed a contract with Clearview AI to give Immigration and Customs Enforcement (ICE) access to the controversial facial recognition firm's technology."
+    publishedDateTime: 2020-08-17T09:21:00Z
+    webUrl: "https://www.zdnet.com/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
   - title: "Covid 19 coronavirus: New World store with facial recognition cameras reverses mask policy"
     excerpt: "An Auckland supermarket is reversing policy that asked customers to remove their face masks so they could be better scanned by the store's facial recognition software. The Papakura branch of New World had been enforcing the policy,"
     publishedDateTime: 2020-08-14T03:37:00Z

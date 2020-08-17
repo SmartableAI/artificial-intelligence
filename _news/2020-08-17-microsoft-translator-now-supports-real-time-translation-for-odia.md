@@ -42,7 +42,34 @@ related:
         width: 750
         height: 430
         isCached: true
+  - title: "Microsoft Translator Now Supports Odia Text Translation"
+    excerpt: "Microsoft Translator will now offer real-time translation and transliteration for Odia, taking the total number of Indian languages in which one can access the service to 11, the company said on Monday."
+    publishedDateTime: 2020-08-17T07:55:00Z
+    webUrl: "https://odishatv.in/science/microsoft-translator-now-supports-odia-text-translation-469966"
+    ampWebUrl: "https://odishatv.in/science/microsoft-translator-now-supports-odia-text-translation-469966/amp"
+    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/science/microsoft-translator-now-supports-odia-text-translation-469966/amp"
+    type: article
+    provider:
+      name: Odisha TV
+      domain: odishatv.in
+    quality: 59
+    images:
+      - url: "https://img.odishatv.in/wp-content/uploads/2020/08/Microsoft-Translator.jpg"
+        width: 750
+        height: 430
+        isCached: true
+  - title: "Microsoft Translator now supports Odia, total 11 languages in India"
+    excerpt: "Microsoft Translator will now offer real-time translation and transliteration for Odia, taking the total number of Indian languages in which one can access the service to 11, the company said on Monday."
+    publishedDateTime: 2020-08-17T07:55:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-translator-now-supports-odia-total-11-languages-in-india-news-topnews-uirhOCadgfbhe.html"
+    ampWebUrl: "https://www.sify.com/finance/microsoft-translator-now-supports-odia-total-11-languages-in-india-news-topnews-uirhOCadgfbhe.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/microsoft-translator-now-supports-odia-total-11-languages-in-india-news-topnews-uirhOCadgfbhe.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
 
-secured: "DAHG12V2ScyA9QSZJ3+LGtNbtm08iEI9gDxYSSOo58PXd5kVzOxfBieYJgPnHpwtXUqIxLUI2F+r0Oot63+vz+Z12ezaHPfpaT1na3xAaVZC3oBYnmuWnYooa7P8LkJfr1gj8Lb/7emXQdes8L5dYnYqQv313XJcjkRXh8RGoH8uumFBmzdaxeCrwZixRsE3r4FESlt+mOALvT5qLKi2GSDawGkmthvNuZWVWx5jl5IhCW2oqT+Shndo7L4ajpPexIoWesAIHrToF52Rx+108gNZQwJpfBxxlb8IqrdRpKqxIThDqUOmxCCluZDLSDDwhNnY9mpv79R1LPUs95AZmA==;5nSIAZvQAu3nFVsmMnhVog=="
+secured: "PXrk/rAltbfIipZhPWtsQSUp0zMf7yS+KgtJ4/sDC2tYyjq9yePTNC0XYbvqew56nt3IR2N2iZ6JT992Pxc/lT6X8mZyqpWGDqwCDjBBwxn3qFzMXdo35P/Ii8UeDo6+1+YF5L+tZFFs/c1lYkLtsN6ZlNumNAI92fe9/TgTDK+NwgvVxVda8zt/s0css1Jh4voIpsAPUp4O9QyVhfgB8udpC5pe93ph48fhvz0U+LcTxO9W5+2R9B/okBPOcycDqL4icf0IgfYIu5XUH3goViPEEJWmfulDbINsoIpa826yE1StWOqPGHvW+PKplOs+9oLncWKS0Y3FoKZaC0eiMwqi9qaWXw1zgn4xFFc9HHJEk4KTR6Svo7jBjmUbHz8EdvNTPJhX81ZPPG9dF6mA954O7d2Ewt/9FsdX4Ketp1Po2qxYyld4PGkIHAYkbUY25XKQqaVDnKsb2owwSL4PiQTpdYBPXPomHYQD3ZJSvt0Uoh0cKcUGHZekhTXtBpm8cbwT3/XVPggrD1n0hmvLqQ==;ubBClqFVvjgRTn63h2g5Mg=="
 ---
 

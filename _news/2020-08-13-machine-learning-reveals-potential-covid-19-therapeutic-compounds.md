@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning helps detect new potential drugs to treat COVID-19"
-    excerpt: "Scientists at the University of California, Riverside, have used machine learning to identify hundreds of new potential drugs that could help treat COVID-19, the disease caused by the novel coronavirus,"
-    publishedDateTime: 2020-08-12T16:43:00Z
-    webUrl: "https://www.news-medical.net/news/20200812/Machine-learning-helps-detect-new-potential-drugs-to-treat-COVID-19.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200812/Machine-learning-helps-detect-new-potential-drugs-to-treat-COVID-19.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200812/Machine-learning-helps-detect-new-potential-drugs-to-treat-COVID-19.aspx"
+  - title: "Scientists use Artificial Intelligence to identify hundreds of COVID-19 drug candidates"
+    excerpt: "A team led by an Indian-origin scientist has used artificial intelligence (AI) to identify hundreds of new potential drugs that could help treat COVID-19, the disease caused by the novel coronavirus,"
+    publishedDateTime: 2020-08-13T08:54:00Z
+    webUrl: "https://www.indiatvnews.com/news/india/scientists-use-artificial-intelligence-to-identify-hundreds-of-covid-19-drug-candidates-641785"
+    ampWebUrl: "https://www.indiatvnews.com/amp/news/india/scientists-use-artificial-intelligence-to-identify-hundreds-of-covid-19-drug-candidates-641785"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/news/india/scientists-use-artificial-intelligence-to-identify-hundreds-of-covid-19-drug-candidates-641785"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
+      name: India TV
+      domain: indiatvnews.com
+    quality: 51
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/remdesivirjpg-1597302574.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "mSJzwnQn4VTkHF8RgC2BCGXsXARtUmL7qC2hoMgdHlDDno1Zt3cDVd5Fa3SiBQcfEv/y6xtVXXZ62Y9DcD0C2sHN4Nf/T6qgChGdhRV3osaO9R2dpYbngXLBy7eQNqjoAXAky6w2Lmkh0N6jWyvQcilAzKamhAxu9LCBo/IZeKJZxcCQNLUU/jOqZXFvGg1mu0s7jZ37/+MoaEWH+AyzEqZ0IHJqcgKrNoAILIdiCl/lVq+h7NWOu4DCtKQr9djAg442XUR3+2m91aSScxXBuVfhCGeltHQdGCO5n0r6t2V5DQz51+Kyj28x9AhvKXXfM86GeqGm+BvlUHI2i/P2rXuude4ipIw7Y6iYtASX+n1+NcQDq2r3SQoKv/lddfMVufqCZAUhbSmFmfV6TS+cHEjJgvVaiD3EuGVpRkO9wfWKSlfYAASNqfl4EXf9lXLHKyAjVtJhfQjc12RY207O2UbMJa7RhA0Hr0F/QD+fMpt3kO1wMZa+WazDyozaMpyTBjj4oAXkEhaJM0155h5ZeA==;m2+ACjJUArK8rVtmXhDtsg=="

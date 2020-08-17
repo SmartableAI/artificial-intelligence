@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Dodgers Focusing On Stadium Future With Contactless Tech, Analytics For All And Eventual Facial Recognition"
-    excerpt: "The technological infrastructure now backing Dodgers Stadium in Los Angeles sets up one of the most followed Major League Baseball franchises to deliver a new in-venue experience for fans when they return to the building."
-    publishedDateTime: 2020-08-12T15:23:00Z
-    webUrl: "https://www.forbes.com/sites/timnewcomb/2020/08/12/dodgers-focusing-on-stadium-future-with-contactless-tech-analytics-for-all-and-eventual-facial-recognition/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 51
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f32f14e0edd2210efb965fc%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
     excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
     publishedDateTime: 2020-08-14T23:19:00Z
@@ -143,20 +129,6 @@ related:
       name: Gothamist
       domain: gothamist.com
     quality: 32
-  - title: "UK appeals court: police facial recognition technology violates human rights, data protection laws"
-    excerpt: "Britain's Court of Appeals held Tuesday that the South Wales Police Force's use of facial recognition technology violates human rights and data protection laws. The South Wales Police Force (SWP)"
-    publishedDateTime: 2020-08-12T16:53:00Z
-    webUrl: "https://www.jurist.org/news/2020/08/uk-appeals-court-police-facial-recognition-technology-violates-human-rights-data-protection-laws/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 25
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2019/10/facial_recognition_1572545155.png"
-        width: 1280
-        height: 1066
-        isCached: true
   - title: "Police facial recognition robot identifies anger and distress"
     excerpt: "A police force hopes to deploy facial recognition and behavioural technology that can spot anger and distress, in a widening use of artificial intelligence.Retrospective facial recognition is under"
     publishedDateTime: 2020-08-14T23:01:00Z

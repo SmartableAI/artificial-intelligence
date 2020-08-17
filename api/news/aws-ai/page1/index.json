@@ -2,34 +2,34 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-17-dbs-ties-up-with-aws-to-train-3000-employees-in-ai-and-machine-learning.md",
-      "title": "DBS ties up with AWS to train 3,000 employees in AI and machine learning",
-      "excerpt": "DBS is working with Amazon Web Services (AWS) to equip more than 3,000 of its employees with basic skills in artificial intelligence (AI) and machine learning (ML), so that the bank can better tap these new technologies to grow its business.",
+      "path": "_news/2020-08-17-dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership.md",
+      "title": "DBS Bank looks to train 3,000 employees in AI with AWS partnership",
+      "excerpt": "Singapore bank will run online tutorials for DBS employee to pick up fundamentals of artificial intelligence and machine learning, so they can eventually programme their own autonomous race car for the AWS DeepRacer league.",
       "sourceUrl": null,
-      "webUrl": "https://www.theedgemarkets.com/article/dbs-ties-aws-train-3000-employees-ai-and-machine-learning",
+      "webUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 110,
+      "heat": 114,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.theedgemarkets.com/DBS_20200817093202_reuters.jpg?null",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-16T20:46:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
+      "publishedDateTime": "2020-08-16T23:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Edge",
-        "domain": "theedgemarkets.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -38,7 +38,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI",
         "AWS AI"
       ]

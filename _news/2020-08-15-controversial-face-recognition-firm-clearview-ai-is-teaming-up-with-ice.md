@@ -92,6 +92,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Controversial facial recognition tech firm Clearview AI inks deal with ICE"
+    excerpt: "The US Department of Homeland Security (DHS) has signed a contract with Clearview AI to give Immigration and Customs Enforcement (ICE) access to the controversial facial recognition firm's technology."
+    publishedDateTime: 2020-08-17T09:21:00Z
+    webUrl: "https://www.zdnet.com/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
   - title: "ICE just signed a contract with Clearview AI, the controversial facial recognition company that scrapes photos from social media"
     excerpt: "ICE is known to use facial recognition technology to identify people and subsequently carry out raids that lead to deportations."
     publishedDateTime: 2020-08-14T19:09:00Z

@@ -2,18 +2,18 @@
 category: news
 title: "With self-driving tech was new, a road trip paved the way"
 excerpt: "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan."
-publishedDateTime: 2020-08-15T06:01:00Z
-webUrl: "https://www.kansascity.com/entertainment/article244877067.html"
-ampWebUrl: "https://amp.kansascity.com/entertainment/article244877067.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/entertainment/article244877067.html"
+publishedDateTime: 2020-08-15T07:01:00Z
+webUrl: "https://www.miamiherald.com/entertainment/celebrities/article244877067.html"
+ampWebUrl: "https://amp.miamiherald.com/entertainment/celebrities/article244877067.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/entertainment/celebrities/article244877067.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI in Autos
@@ -43,6 +43,6 @@ related:
       domain: newsobserver.com
     quality: 18
 
-secured: "06O7aK78RN20zZIieQ2ZbKLeKObTqhais0YpQS7aFbToLdw1P7pjrHRzdXGIWYTAhPaggBRJJ7hu7zoAaz1oGBb1n6ldk0RxrgJsifbqOQVeLxDnrDz8atoQI88hiesM7S6Fay8JdJ2OlWht6CtWl9OsXAg+SeYMA1SPyw0jf/1r5xcJci8kwmm0NAe34RPVT+TD0ySa7ek2N9dX/0FFo2AcarmbZwGw1C8MEjC9Ro/8nErHVRcMmbGC39XG7xd5aO+QjbAUMbVB5MPrcTRrPOUfaCum6/b/hRBWiQruBdZ2iClHFisPUdHJVYB3uXfy3IoFQAQDcKg/ms7CVQbQBA==;SNtiuV9n6Q56UwZPWOdudw=="
+secured: "JZuZDIoxidlhrW75TQ7c1xoR3hTIWIJtIYLJLFWjfNX4CZ5NYEDYxQQu+XkRKVHR3ZCrM6qiBl/MsYLo/M5sqP/kpspd2uHShZPZs/V6SuQNuXhjku5r7qumsusrG01nw0x9Knlt6NmyHV8F4eGTIiRcyJFiRhUr688a1vP5RjdGd1QwPwJ1Z38irTPiBAPBfgSBF7sRfjwTECizLOTpwSUivueXHCC7N6UI+wUCekK0Rj5ySHD+5pNXZ/R0aLe+BP44xz+nlVZ82/q6Od1PuyLnEYN7OB6tIrYkV4LarZwuvt+JIH7NMh567DexMCNolH+IEt0FA0gQIwgIijqhUw==;FVvBdojjIJNxnOF25NXeqA=="
 ---
 
