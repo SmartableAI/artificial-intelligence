@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-cred
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "cred.ai debuted a banking platform and credit card to help newcomers grow their credit"
+    excerpt: "Cred.ai launched a mobile platform and credit card aimed at banking newcomers and younger consumers who may be distrustful of the financial system."
+    publishedDateTime: 2020-08-17T14:15:00Z
+    webUrl: "https://www.businessinsider.com/credai-launches-banking-platform-for-credit-building-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/5f3410720ef188682a0649f7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. Fintech Cred.ai Launches AI-Powered Credit Card"
     excerpt: "Cred.ai, a U.S.-based startup, has launched its new banking platform specifically for millennials, along with its solid metal credit card. The company reported that it has been operating in “stealth” for more than three years to build its platform,"
     publishedDateTime: 2020-08-14T01:46:00Z

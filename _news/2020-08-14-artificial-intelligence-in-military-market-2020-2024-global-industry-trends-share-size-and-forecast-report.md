@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
-    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is estimated to value over USD 2.08 billion by 2027 end with a CAGR of over 40.5% during the forecast period 2020 to 2027. The research report titled Artificial Intelligence in Drug Discovery offers comprehensive information on key driving factors,"
-    publishedDateTime: 2020-08-14T18:21:00Z
-    webUrl: "https://ipsnews.net/business/2020/08/14/artificial-intelligence-in-drug-discovery-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2027/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2020/08/4375-1597392623.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "s0+gil699gnCZ7W1EToo42B34Bqd8sWVCPaureTB+hb20SmTfOflfw1Z37buGZJcaQ7kSQHGrG2RseNVmc1lZX/jtph3AtdcXEiPv4m4JVAxFwOqJhX/exs3HXgIHrVFg1jSUIJH9HDyBPnZd9EDxPMQSvJ4Dt+Fh2l/U4w8cERgmIhuUDAQwuyTrkstc4K5vyNz+Y2DqjWiKEMOdCM4jytwsEJ2y5u1pznG4hnio8rLnh1wKPjuYRtMwLTofWwAn9SnyKYpXTNCSEDmYd8BqIZBdz3XmZNTRm03kk50FyVO5AX7eiavpdMU7GDwS1bU9WcFqIzrJenPn20vSY0Ybw==;f0aS/MNwq2NQHH844plaxA=="
 ---

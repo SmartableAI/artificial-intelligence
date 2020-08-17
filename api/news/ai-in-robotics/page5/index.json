@@ -2,6 +2,88 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-06-elementary-robotics-raises-13-million.md",
+      "title": "Elementary Robotics Raises $13 Million",
+      "excerpt": "Elementary Robotics Inc., a downtown-based robotics startup, has raised $12.7 million in Series A funding. The raise announcement coincided with the launch of Elementary’s inspection and traceability robot for sale on the open market as of June 30.",
+      "sourceUrl": null,
+      "webUrl": "https://labusinessjournal.com/news/2020/jul/06/elementary-robotics-raises-13-million/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2020/07/02/PG10_ELEMENTARY_0706_IR1-2_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d",
+          "width": 670,
+          "height": 401,
+          "title": "Elementary Robotics Raises $13 Million",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Business Journal",
+        "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores.md",
+      "title": "Ximpatico Launches Kickstarter Campaign for Nabot, the Robot That Does Chores",
+      "excerpt": "Introduction of Nabot Nabot is a programmable robot that can autonomously perform tasks such as sanitizing packages, mopping the",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-301088489.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-11-startups-in-india-using-ai-and-robotics-to-fight-covid-19.md",
       "title": "11 Startups In India Using AI And Robotics To Fight Covid-19",
       "excerpt": "Startups are leveraging tools and solutions to help fight the pandemic, as the number of cases in the country cross 5 lakh mark.",
@@ -1291,106 +1373,6 @@
         "name": "The Jakarta Post",
         "domain": "thejakartapost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-this-robot-quickly-disinfects-spaces-using-uv-c-light.md",
-      "title": "This robot quickly disinfects spaces using UV-C light",
-      "excerpt": "Disinfecting spaces such as warehouses is especially critical during the COVID-19 pandemic, but doing so while keeping workers safe can be challenging. So MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) came up with a solution: use a robot that employs UV-C light to keep spaces clean.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/this-robot-quickly-disinfects-spaces-using-uv-c-light/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/bSxLtrfsuE6xC0HOAMf5gkXO7S8=/756x567/2020/06/29/c2b6b83e-0dc5-45bc-aee1-954551068d75/2disinfecting-robot-credit-alyssa-pierson-mit-csail-2.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "This robot quickly disinfects spaces using UV-C light",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-robot-quickly-disinfects-spaces-using-uv-c-light/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-robot-quickly-disinfects-spaces-using-uv-c-light/",
-      "publishedDateTime": "2020-06-29T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital.md",
-      "title": "Emotional support robot Robin headed to UCLA Mattel Children's hospital",
-      "excerpt": "In a nine-week study of interactions with hospitalized children, ages 4 to 12, joy increased 26% and stress was reduced by 34%, according to Expper Technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/29/46430198-22a8-4dc1-b381-ccaaa655508b/resize/1200x/776296c2c60d2ff855525c73e1bfb2ba/robin-robot.jpg",
-          "width": 1200,
-          "height": 1801,
-          "title": "Emotional support robot Robin headed to UCLA Mattel Children's hospital",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital/",
-      "publishedDateTime": "2020-06-29T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

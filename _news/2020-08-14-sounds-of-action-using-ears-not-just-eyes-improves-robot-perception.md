@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hearing Sensation can Markedly Improve the Perception of Robots"
+    excerpt: "In the so-called first large-scale study of the communications between robotic action and sound, scientists from the Robotics Institute at Carnegie Mellon University discovered that sounds can possibl"
+    publishedDateTime: 2020-08-17T15:08:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11551"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11551"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11551"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://www.azorobotics.com/images/news/ImageForNews_11551_15976662335848595.png"
+        width: 632
+        height: 700
+        isCached: true
   - title: "Sounds of action: Using ears, not just eyes, improves robot perception"
     excerpt: "Other team members included Abhinav Gupta, associate professor of robotics, and Dhiraj Gandhi, a former master's student who is now a research scientist at Facebook Artificial Intelligence Research's Pittsburgh lab. To perform their study, the researchers ..."
     publishedDateTime: 2020-08-15T22:20:00Z

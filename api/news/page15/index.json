@@ -2,6 +2,128 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-08-03-aws-announces-general-availability-of-aws-iot-sitewise.md",
+      "title": "AWS Announces General Availability of AWS IoT SiteWise",
+      "excerpt": "SiteWise makes it easy to collect, organize, and monitor data from industrial equipment at scale Volkswagen, Bayer Crop Science, Pentair, and Genie among customers using SiteWise SEATTLE--(BUSINESS WI",
+      "sourceUrl": null,
+      "webUrl": "https://digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/amp/",
+      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-aws-iot-sitewise/amp/",
+      "publishedDateTime": "2020-08-02T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalproducer.com",
+        "domain": "digitalproducer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-02-how-ai-can-help-small-and-medium-businesses-compete-against-big-companies.md",
+      "title": "How AI Can Help Small And Medium Businesses Compete Against Big Companies",
+      "excerpt": "Right now, larger companies are investing in AI because they recognize the opportunity to dominate a market using this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f260beb82340ead1915d82c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D639%26cropY1%3D0%26cropY2%3D359",
+          "width": 639,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/08/02/how-ai-can-help-small-and-medium-businesses-compete-against-big-companies/amp/",
+      "publishedDateTime": "2020-08-02T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-02-aws-announces-general-availability-of-amazon-fraud-detector.md",
+      "title": "AWS Announces General Availability of Amazon Fraud Detector",
+      "excerpt": "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully managed service that makes it easy to quickly identify potentially fraudulent online activities like online payment and identity fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyamerican.com/ap/business/aws-announces-general-availability-of-amazon-fraud-detector/article_8a629921-d75b-5561-b507-dbb54ffecd6b.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-02T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily American",
+        "domain": "dailyamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-02-ai-is-struggling-to-adjust-to-2020.md",
       "title": "AI is struggling to adjust to 2020",
       "excerpt": "Identifying the new context we’re asking the system to understand is the first step towards moving visual AI forward. Then we need more content.",
@@ -1019,147 +1141,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-this-month-in-aws-machine-learning-july-2020-edition.md",
-      "title": "This month in AWS Machine Learning: July 2020 edition",
-      "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new use cases like posture detection to interactive trainings like the AWS Power Hour: Machine Learning on Twitch. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-july-2020-edition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/13/hunch-fs-preds.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T15:45:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry.md",
-      "title": "AI Weekly: Big Tech’s antitrust reckoning is a cautionary tale for the AI industry",
-      "excerpt": "Being smart and ruthless was the way of old big tech, but the growing field of AI requires people to be smart, wise, and empathetic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/apple-amazon-facebook-google-1.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/31/ai-weekly-big-techs-antitrust-reckoning-is-a-cautionary-tale-for-the-ai-industry/amp/",
-      "publishedDateTime": "2020-07-31T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers.md",
-      "title": "IBM and Influential Launch AI-enabled Social Targeting Solution To Help Brands Identify Suitable Influencers",
-      "excerpt": "IBM) today announced the launch of Watson Advertising Social Targeting with Influential, a new solution that harnesses artificial intelligence (AI) to help brands identify influencers that best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-and-influential-launch-ai-enabled-social-targeting-solution-to-help-brands-identify-suitable-influencers-301103083.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-31T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

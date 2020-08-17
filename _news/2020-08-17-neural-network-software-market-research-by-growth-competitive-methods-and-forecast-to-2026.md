@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-17T10:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MarketWatch
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI for Drug Discovery Market 2020-2025 / Trends Adopted by the Competitors, Regions with Forecast"
-    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The"
-    publishedDateTime: 2020-08-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2020-2025-trends-adopted-by-the-competitors-regions-with-forecast-2020-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Conversational AI Market Worth $13.9 Billion by 2025 - Revenues/Shares by Component, Type, Technology, Application, Deployment Mode, Vertical and Region ..."
     excerpt: "The \"Conversational AI Market by Component (Platform and Services), Type (IVA and Chatbots), Technology (ML and Deep Learning, NLP, and ASR), Application, Deployment Mode (Cloud and On-premises), Vertical,"
     publishedDateTime: 2020-08-17T10:45:00Z

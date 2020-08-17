@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Frost Radar™: User and Entity Behaviour Analytics Based on Machine Learning, 2020"
-excerpt: "Different types of user access should be monitored, examined, and reported to prevent unauthorized use of user credentials, malicious access attempts, simultaneous logins, and activity from multiple geographic locations."
-publishedDateTime: 2020-08-17T13:51:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/frost-radar-user-and-entity-behaviour-analytics-based-on-machine-learning-2020-1029509249"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/frost-radar-user-and-entity-behaviour-analytics-based-on-machine-learning-2020-1029509249"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/frost-radar-user-and-entity-behaviour-analytics-based-on-machine-learning-2020-1029509249"
+excerpt: "As intrusions employ a wide variety of attack vectors and methods, companies have to seriously consider continuous security monitoring,"
+publishedDateTime: 2020-08-17T13:30:00Z
+webUrl: "https://www.prnewswire.com/news-releases/frost-radar-user-and-entity-behaviour-analytics-based-on-machine-learning-2020-301113081.html"
 type: article
-quality: 64
-heat: 74
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "2020 Market Report: User and Entity Behaviour Analytics Based on Machine Learning - ResearchAndMarkets.com"
@@ -34,6 +34,6 @@ related:
       domain: businesswire.com
     quality: 1
 
-secured: "ze0SiSq6XC90HxQ3rQNCFNllD/DXUZrHtLYP6i/dDRtPAjUWekihgOUWUbShHvpkktFKr1jcf7lUoRO/mBbHWc7Om3VH8FJ+kNyr40WKAIBP1/wx4tmn9lkOjyLzNzwC4ySooy72wWRLvewV0kwzeUoFSiZIzJ3SdS1BnsrNK1Os2IGQmHvMdnqQCVOaF5df/+fVTdy/cLhUMlOHaT3AL9XWFFhOt71MuX0UZbMbX4cFp4KgpW8/3nWiXM2k8SyNZ5P+llK+7DZtk2ZOAOd4+HE7syjIwcon6HPyM3aAAse4ANvnM7vVqkZZM5efeDiIRFSMAObulxGaLVnNyVgRog==;yJA+oSX3+63BGVe1XxTMeQ=="
+secured: "sMlq2SqwtNgvlU0vQdbHPsLk0gfDCXAxlQr5S7joAUbrZiNX3Gbz19ZLzp1xHxS2JTBIFYqzO3PEfxWje1jIvVwWu3/H385pY4EEnn7fqCEt1hbSJupIDo/+MHry80slFFuVJxH3hzoNLXbqTSpyqiyMn+K8oazSIpT++Dw1AlctWM5qH35/oClQw3qQaP7bkGiEXHHuTHExT6lQqYELyiiUQrT2w1TrvglivPdo33AM+mF5calDTvORzjV+XDoKjO6q51l+Ajh/4q3Q8WJwhX+i6E8UPQiv4vu3YwUweBi7utC+JA/+FsdynTgK4tIFqFL3nMNgXKqWgcB+GVBscg==;+GFDs8I7ywkaDt8IU5H9vQ=="
 ---
 

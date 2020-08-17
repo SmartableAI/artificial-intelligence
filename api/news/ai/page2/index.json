@@ -2,6 +2,98 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-14-horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs.md",
+      "title": "Horrific AI surveillance experiment uses convicted felons as human guinea pigs",
+      "excerpt": "When a convicted felon in the US completes their court-mandated sentence(s) they’re considered a free citizen with limited rights. Felons can only vote in two states, they cannot legally own a firearm,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/11/surveillance-hed-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/14/horrific-ai-surveillance-experiment-uses-convicted-felons-as-human-guinea-pigs/amp/",
+      "publishedDateTime": "2020-08-14T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-there-is-a-crisis-of-face-recognition-and-policing-in-the-us.md",
+      "title": "There is a crisis of face recognition and policing in the US",
+      "excerpt": "When news broke that a mistaken match from a face recognition system had led Detroit police to arrest Robert Williams for a crime he didn’t commit, it was late June, and the country was already in upheaval over the death of George Floyd a month earlier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/08/ai-policing_web.jpg?w=2896",
+          "width": 2896,
+          "height": 1629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/amp/",
+      "publishedDateTime": "2020-08-14T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-chip-startup-blaize-debuts-ai-modules-for-machine-learning-at-the-edge.md",
       "title": "Chip startup Blaize debuts AI modules for machine learning at the edge",
       "excerpt": "Venture-backed chip startup Blaize Inc. has introduced three new hardware modules for running artificial intelligence models at so-called edge locations such as factories. The modules, announced on Thursday,",
@@ -333,6 +425,46 @@
       ]
     },
     {
+      "path": "_news/2020-08-14-airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation.md",
+      "title": "AirAsia chooses kerala-based startup Jiffy.ai for robotic process automation",
+      "excerpt": "Jiffy.ai’s Thiruvananthapuram centre is a Centre of Excellence in cutting edge technologies like Artificial Intelligence/ Machine Learning and Natural Language Processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2020/aug/14/airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation-2183387.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/8/14/w600X390/AirAsia_Reuters.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2020/aug/14/airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation-2183387.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/aug/14/airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation-2183387.amp",
+      "publishedDateTime": "2020-08-14T02:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence.md",
       "title": "EqualAI Challenges Companies and Leaders to Pledge to Reduce Bias in Artificial Intelligence",
       "excerpt": "There are immediate actions that organizations can take to identify and reduce bias within their existing systems. EqualAI has been seeking out ways that companies can go beyond m",
@@ -576,7 +708,7 @@
       "title": "Microsoft will now let you choose a preferred GPU for every Windows 10 app",
       "excerpt": "Right now, Windows 10 allows users to choose a GPU for performance-demanding workloads ... case could be using one card for time-consuming AI tasks (video enhancements, perhaps) and another ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
+      "webUrl": "https://www.techradar.com/nz/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 87,
@@ -592,9 +724,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
-      "publishedDateTime": "2020-08-13T14:53:00-07:00",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app",
+      "publishedDateTime": "2020-08-13T14:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -944,7 +1076,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 121,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -994,7 +1126,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-testing-corridor-michigan/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1085,38 +1217,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-miso-robotics-brings-in-new-ceo-to-automate-restaurant-kitchens.md",
-      "title": "Miso Robotics brings in new CEO to automate restaurant kitchens",
-      "excerpt": "Flippy the kitchen robot has a new boss. Miso Robotics Inc., the Pasadena, California-based startup that's automating restaurant kitchens, has tapped Mike Bell to serve as CEO. Company co-founder and former CEO Buck Jordan will focus on raising money as president and chairman of the board.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html",
-      "publishedDateTime": "2020-08-13T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1300,106 +1400,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-book-review-turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence.md",
-      "title": "Book Review – “Turning Point”, An Excellent Introduction To Policy Issues Involving Artificial Intelligence",
-      "excerpt": "Turning Point” is an excellent book that decision makers can use as a tutorial to understand the growing importance of policy related to AI, policy in both the public and private sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/08/13/book-review--turning-point-an-excellent-introduction-to-policy-issues-involving-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-08-13T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills.md",
-      "title": "Future of farming: AI-enabled harvest robot flexes new dexterity skills",
-      "excerpt": "Now that Root AI's robot has mastered the art of picking oblong vegetables as well as oblate shaped berries, could this technology help enhance global food security?",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/08/13/b32f202b-030d-4c1e-b925-8dd89d6d62a1/resize/1200x/471d26b1f629b28ae27534b1581ade2e/root-ai-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/future-of-farming-ai-enabled-harvest-robot-flexes-new-dexterity-skills/",
-      "publishedDateTime": "2020-08-13T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

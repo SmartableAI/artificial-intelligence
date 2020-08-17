@@ -23,61 +23,88 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market 2020-2023, Size, Share, Latest Global Trends, Leading Key Players, Future Growth"
-    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
-    publishedDateTime: 2020-08-15T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-2023-size-share-latest-global-trends-leading-key-players-future-growth-2020-08-15"
+  - title: "Artificial Intelligence Chip Market Forecast Report 2020 - 2027 - Top Key Players Analysis"
+    excerpt: "This report researches and evaluates the impact of COVID-19 outbreak on the market, including potential opportunities and challenges, drivers, and risks associated with the market. We present a detailed assessment of market growth based on numerous scenarios."
+    publishedDateTime: 2020-08-17T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 74
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market | 2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Forecast by Size, Share, Trends and Growth Forecast"
-    publishedDateTime: 2020-08-13T07:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
+  - title: "AI for Drug Discovery Market 2020-2025 / Trends Adopted by the Competitors, Regions with Forecast"
+    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The"
+    publishedDateTime: 2020-08-17T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2020-2025-trends-adopted-by-the-competitors-regions-with-forecast-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Military Market 2020-2024 / Global Industry Trends, Share, Size and Forecast Report"
-    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
-    publishedDateTime: 2020-08-14T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2020-2024-global-industry-trends-share-size-and-forecast-report-2020-08-14"
+  - title: "Military Artificial Intelligence (AI) And Cybernetics Industry 2020 by Market Analysis, Growth Opportunity, Future and Forecast to 2026"
+    excerpt: "A comprehensive analysis of the different factors and parameters is carried out in the report that has been published on the global Military Artificial Intelligence (AI) And Cybernetics Market. The market concentration of the products sold in the different market segments is identified and is presented in the report."
+    publishedDateTime: 2020-08-13T12:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-industry-2020-by-market-analysis-growth-opportunity-future-and-forecast-to-2026-2020-08-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market | Global Industry Trend, Growth Rate, Size, Share, Growth, Trends, and Forecasts 2020-2027"
-    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
-    publishedDateTime: 2020-08-13T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-global-industry-trend-growth-rate-size-share-growth-trends-and-forecasts-2020-2027-2020-08-13"
+  - title: "Automotive Artificial Intelligence Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include NVIDIA Corporation,"
+    publishedDateTime: 2020-08-13T19:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Conversational AI Market Analysis 2020-2025"
+    excerpt: "The \"Conversational AI Market by Component (Platform and Services), Type (IVA and Chatbots), Technology (ML and Deep Learning,"
+    publishedDateTime: 2020-08-17T12:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/g17118514/global-conversational-ai-market-analysis-2020-2025"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17118514"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17118514"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+  - title: "Artificial Intelligence in Transportation Market 2020 Global Technology, Development, Trends, Growth and forecasts 2024"
+    excerpt: "Updated Research Report of Artificial Intelligence in Transportation Market 2020 2024 Summary Wiseguyreports Com Adds Artificial Intelligence in Transportation Market Demand Growth Opportunities Manufacturers and Analysis of Top Key Players to 2024 To Its Research Database Artificial Intelligence in Transportation"
+    publishedDateTime: 2020-08-14T04:00:00Z
+    webUrl: "https://www.openpr.com/news/2112349/artificial-intelligence-in-transportation-market-2020-global"
+    ampWebUrl: "https://www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/T/8/T814904483_g.jpg"
+        width: 500
+        height: 598
         isCached: true
 
 secured: "b8dR0vhfz7sDZOwVdlv0V/KW+uNLnu4nZDSwxQsKqPk30ht+cNWAVdbFgo0q2N3hMck7pgDEjXD4/jdMuIcNya5Guo3TpA3EU1E2UgcYaakPkPoGRRNWoU/0w03zHSBYjrc1SMPuiCPIcgtXYFGsfXBRYfozb1SVlHeYNqlWNb8lJqGXDiuZYDLMvmdrvYdkc3MgUzIz9t3GNqIGEZ06QOzGTjGIi06MsYM/3A6J4TXSqM3JVFFV4puC1dKbGrC+ZrPFJDeckQ8cIBEuK2AaP5uV3Dhx5iG343bYrJcwBbjx1XYY6dy/USMR6s5KXu63fK1CZ+qSIT+covrwByZHZvn4vnY4452zrp/ddXOq/+QFNSiGJ3PFpKeHTgJBiTdqCJ4v+VkBD2LP8V16TRxS9Rb0QUMU1kK4u4CGhsKzssyUuBqWAv6QJfiuP4OvKmy2G5Vzxxqty51f5BCEA0I19sde6XTjEXpf5YxZcEGekonruj5Nf9Rtq4nucQovYnoP;NGJwXWdjGSH0Ks3W9tKt4A=="

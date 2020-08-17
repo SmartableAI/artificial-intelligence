@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-13T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: PR Newswire
@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Miso Robotics brings in new CEO to automate restaurant kitchens"
-    excerpt: "Flippy the kitchen robot has a new boss. Miso Robotics Inc., the Pasadena, California-based startup that's automating restaurant kitchens, has tapped Mike Bell to serve as CEO. Company co-founder and former CEO Buck Jordan will focus on raising money as president and chairman of the board."
-    publishedDateTime: 2020-08-13T18:44:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 54
   - title: "Miso Robotics, Makers of Burger Flipping Robot, Gets New CEO"
     excerpt: "Pasadena-based Miso Robotics, which specializes in intelligent automation technology for commercial kitchens, such as Flippy the burger-flipping robot, announced the selection of a new CEO on Thursday."
     publishedDateTime: 2020-08-14T01:03:00Z

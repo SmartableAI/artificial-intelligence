@@ -2,6 +2,47 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-25-ai-is-vital-to-cybersecurity-during-covid-19-dont-underestimate-risks.md",
+      "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+      "excerpt": "The importance of cybersecurity during COVID-19 is not to be underestimated. AI, or artificial intelligence, plays a key role in this issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/06/shutterstock_619615334.jpg",
+          "width": 1000,
+          "height": 714,
+          "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "publishedDateTime": "2020-06-25T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace.md",
       "title": "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace",
       "excerpt": "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",

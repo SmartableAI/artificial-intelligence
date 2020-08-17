@@ -170,6 +170,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "40 Miles Of Highway Turned Into Testing Ground For Self-Driving Cars In Michigan"
+    excerpt: "The future is here, and it’s Google-funded. The state of Michigan in the United States has unveiled its plans to begin testing self-driving cars as part of its long-term initiative to improve public transport over the coming years."
+    publishedDateTime: 2020-08-17T14:28:00Z
+    webUrl: "https://www.unilad.co.uk/technology/40-miles-of-highway-turned-into-testing-ground-for-self-driving-cars-in-michigan/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/40-miles-of-highway-turned-into-testing-ground-for-self-driving-cars-in-michigan/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/40-miles-of-highway-turned-into-testing-ground-for-self-driving-cars-in-michigan/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 39
+    images:
+      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/08/selfdrivingCAVNUE.jpg&quality=70&width=808"
+        width: 808
+        height: 424
+        isCached: true
   - title: "Plans for first self-driving corridor announced in Michigan from Detroit to Ann Arbor"
     excerpt: "Michigan officials are holding a news conference Thursday, August 13 at 1 p.m. to announce a major mobility-related project in southeast Michigan."
     publishedDateTime: 2020-08-13T18:17:00Z

@@ -1,26 +1,25 @@
 ---
 category: news
-title: "Vantagepoint AI Makes The Inc. 5000 List!"
-excerpt: "Inc. magazine has announced its 5000 list which analyzes company data to recognize the fastest-growing privately held businesses in the United States; family-owned and operated Vantagepoint AI has made the list!"
-publishedDateTime: 2020-08-17T12:00:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/vantagepoint-ai-makes-the-inc-5000-list-9203559"
+title: "Vantagepoint AI Makes The Inc. 5000 List"
+excerpt: "Inc. magazine has announced it 5000 list which analyzes company data to recognize the fastest-growing privately held businesses in the United States; family-owned and operated, Vantagepoint AI has made the list!"
+publishedDateTime: 2020-08-17T13:30:00Z
+webUrl: "https://apnews.com/3daf4a8c2fc7001204c4e0fe918ae353"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
   - AI
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -39,6 +38,6 @@ related:
         height: 315
         isCached: true
 
-secured: "/cc+TLGAiidZRhODW56D3dw4zZRaO6fIDCfFW5A3zwFlSxUqnCm8ht5GLaId0Il8lK9V+VSbjSBQ/Id6d8xRAkp8/0v6kGTF4wZ64iWIwdZmBpCFfN/A5S2iz5TOSWMWS3gwGmE0jmZwt/Y/ofFen9m/RJYAofC8vuMXfkkzqOeguF/JlsvzAFbAJZgmPpfMhlDEnrBAYKOjbovrhgnB/iweYwloFNEzNDyC5Xu4De0FBKES7IaOXPmch3abjs7thsgsjl0TTuRTqPWQP0zjqNh/IceOQcZRxZQ8GMVPbT2NYGi2qKPWgHSc1ReBfYwyLXfbYjFNP991v5LbBKrDTg==;aQAF80z6rQWa1XfbN84wOA=="
+secured: "gotxoI98D8Tvh/bVxKkHUcecfvWHVnKAMEWB7GrwKy0OxkjBSKVih8a/UISC+XAN6iQYYl3zkJysmuq1NVuE9Ki16f2AxDu+BLooUez9CGdirbFB613SAikd62ylbRYd+X6dtsNhTwXS6H9qmH/HnChUNpxVF/DpvHn+jSX3XG8C8MxG565Iakfdqw7T0LhMT4DqAcbkwEHKGruh+aDlre2vW29a1YXbDloS/o/usWRCnG0+zxpkPYwrSjR9GBy5Io7uqhWJbHLbp3yus+iKPLowT0HXZLfIWInboa7KLL4CzvWl+jyn9Mbc3BGZPjB8MZveSZyiO7/Pu5qPmhLCLg==;koqNxU0Edp4BDmZgvFgIzQ=="
 ---
 

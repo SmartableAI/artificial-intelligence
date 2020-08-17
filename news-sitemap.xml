@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/frost-radar-user-and-entity-behaviour-analytics-based-on-machine-learning-2020-1029509249</loc>
-    <lastmod>2020-08-17T06:51:00-07:00</lastmod>
+    <loc>https://www.azorobotics.com/News.aspx?newsID=11551</loc>
+    <lastmod>2020-08-17T08:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/</loc>
+    <lastmod>2020-08-17T07:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/</loc>
+    <lastmod>2020-08-17T07:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/17/photonics-startup-lightmatter-details-p1-its-ai-optical-accelerator-chip/</loc>
+    <lastmod>2020-08-17T07:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17</loc>
+    <lastmod>2020-08-17T06:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/</loc>
+    <lastmod>2020-08-17T06:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -19,20 +49,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/17/why-we-should-care-about-the-environmental-impact-of-ai/</loc>
-    <lastmod>2020-08-17T06:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/17/how-can-data-quality-enhance-trust-in-artificial-intelligence/</loc>
     <lastmod>2020-08-17T04:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17</loc>
-    <lastmod>2020-08-17T03:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -51,6 +69,12 @@
   <url>
     <loc>https://phys.org/news/2020-08-cyborg-technology-enable-diagnostics-merger.html</loc>
     <lastmod>2020-08-17T02:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.asiaone.com/business/x0pa-ai-integrates-its-new-ai-enabled-assessment-interview-platform-microsoft-teams</loc>
+    <lastmod>2020-08-17T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -127,12 +151,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14</loc>
-    <lastmod>2020-08-14T20:35:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/</loc>
     <lastmod>2020-08-14T17:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -153,12 +171,6 @@
   <url>
     <loc>https://venturebeat.com/2020/08/14/google-researchers-use-quantum-computing-to-help-improve-image-classification/</loc>
     <lastmod>2020-08-14T11:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://techcrunch.com/sponsor/dynatrace/driving-digital-transformation-with-continuous-automation-and-ai-assistance/</loc>
-    <lastmod>2020-08-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -223,6 +235,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.newindianexpress.com/business/2020/aug/14/airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation-2183387.html</loc>
+    <lastmod>2020-08-14T02:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence-2020-08-13</loc>
     <lastmod>2020-08-14T02:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -253,8 +271,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app</loc>
-    <lastmod>2020-08-13T14:53:00-07:00</lastmod>
+    <loc>https://www.techradar.com/nz/news/microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-app</loc>
+    <lastmod>2020-08-13T14:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -319,12 +337,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.html</loc>
-    <lastmod>2020-08-13T11:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images</loc>
     <lastmod>2020-08-13T10:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -375,6 +387,12 @@
   <url>
     <loc>https://www.tweaktown.com/news/74476/intel-xe-hpg-gaming-gpu-with-ray-tracing-tech-and-gddr6-ships-in-2021/index.html</loc>
     <lastmod>2020-08-13T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html</loc>
+    <lastmod>2020-08-13T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1663,26 +1681,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033</loc>
+    <lastmod>2020-08-04T13:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/</loc>
     <lastmod>2020-08-04T13:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-301106068.html</loc>
-    <lastmod>2020-08-04T13:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://medicalxpress.com/news/2020-08-key-brain-region-recycled-humans.html</loc>
     <lastmod>2020-08-04T13:22:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/il/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
-    <lastmod>2020-08-04T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1803,6 +1815,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/08/04/business/robot-cleaning-coronavirus.html</loc>
     <lastmod>2020-08-04T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/cnvrgio-ai-os-delivers-accelerated-ml-workloads-of-all-sizes-with-native-support-of-nvidia-a100-multi-instance-gpu-to-its-ml-platform-301105576.html</loc>
+    <lastmod>2020-08-04T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Business Journals
@@ -20,43 +20,33 @@ topics:
   - AI
 
 related:
-  - title: "Miso Robotics Names Mike Bell New CEO to Accelerate Operational Growth"
-    excerpt: "Miso Robotics – the startup leading intelligent automation for commercial kitchens – proudly introduces its newly appointed CEO,"
-    publishedDateTime: 2020-08-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html"
+  - title: "How robotics and automation could create new jobs in the new normal"
+    excerpt: "The COVID-19 crisis could accelerate a robotics revolution and impact jobs -- but it's not necessarily all bad news for workers."
+    publishedDateTime: 2020-08-17T14:13:00Z
+    webUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/"
+    ampWebUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/robotics-automation-new-jobs.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 599
         isCached: true
-  - title: "Miso Robotics, Makers of Burger Flipping Robot, Gets New CEO"
-    excerpt: "Pasadena-based Miso Robotics, which specializes in intelligent automation technology for commercial kitchens, such as Flippy the burger-flipping robot, announced the selection of a new CEO on Thursday."
-    publishedDateTime: 2020-08-14T01:03:00Z
-    webUrl: "https://www.pasadenanow.com/main/miso-robotics-makers-of-burger-flipping-robot-gets-new-ceo/"
+  - title: "AI Weekly: Announcing our ‘Automation and jobs in the new normal’ special issue"
+    excerpt: "The global pandemic is changing the nature of work, as companies seek efficiency through automation -- and people seek jobs."
+    publishedDateTime: 2020-08-14T20:56:00Z
+    webUrl: "https://venturebeat.com/2020/08/14/ai-weekly-announcing-our-automation-and-jobs-in-the-new-normal-special-issue/"
+    ampWebUrl: "https://venturebeat.com/2020/08/14/ai-weekly-announcing-our-automation-and-jobs-in-the-new-normal-special-issue/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/ai-weekly-announcing-our-automation-and-jobs-in-the-new-normal-special-issue/amp/"
     type: article
     provider:
-      name: Pasadena Now
-      domain: pasadenanow.com
-    quality: 54
-    images:
-      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/08/33984633_10156379948463252_4260405393521377280_n-740x400-1.jpg"
-        width: 740
-        height: 400
-        isCached: true
-  - title: "Miso Robotics Names Bell as CEO"
-    excerpt: "Miso Robotics Inc., the Pasadena-based robotics and artificial intelligence company, has appointed tech veteran Michael Bell as its new chief executive. Bell will succeed Buck Jordan, Miso Robotics' co-founder,"
-    publishedDateTime: 2020-08-14T21:13:00Z
-    webUrl: "https://labusinessjournal.com/news/2020/aug/14/miso-robotics-names-michael-bell-ceo/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
 
 secured: "9a0lqvsMibKa8YLh5VIj26XIzfoZu1LGg0uv8hfRgkRR0MhRWwTWihK53tB0wz8HPnmODYPlLTjYhwYGGCXM3BrEA2+FTWSmnsIiFzUPpCW8POjFb2eSMjpFTasGmc2AzX8twb5QYeZQJLmnvbrsDQkHzElZN1qkp35TcIIxoMJYyvXVzRHtt0g09eLFOClqylHIqtEk1aYNpK95X55jWf4VcWGe5SgmH7OBjfgpAJP0mvOLZnvWU13fqFQzpLXrwdtz+UrKmIUb7SqkF1R8Q3htLV8dYg+rnZE5rGsJA8LyYgU/G7jSAXL6R0BACvIhmz7Ifw2hUPSPnwFDtNPZkDHR4OTSfEL7K1fmp7N27YNF7J86gm4LIt2Ly/QaF+ULj2ZwHBIjMW1/+BRgOvszl/mIrBd0lpBApciMimArp8r/oSnBgMm4sGWFslAN98fuXZUIKFZbP/iz6AvpZEgVOqyE22r9Ey+MOChxAG9CxxcACCAWHcVwjnorX8nNA4QQHQQTo8Smm7P/bCxfSPrBBw==;W+wEaqnXAckwTNbmb064Fw=="
 ---

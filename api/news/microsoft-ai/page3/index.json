@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-20-ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing.md",
+      "title": "AI News Index: Worried About Government Data Collection For Covid-19 Contact Tracing?",
+      "excerpt": "Recent AI stats highlight the current state of adoption of AI by enterprises worldwide, the future of deep learning, and consumers’ attitudes regarding Covid-19 contact tracing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/07/20/ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1220705417%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/07/20/ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/07/20/ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing/amp/",
+      "publishedDateTime": "2020-07-20T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-oracle-fields-a-unique-private-cloud-called-dedicated-region-cloudcustomer.md",
       "title": "Oracle Fields A Unique Private Cloud Called ‘Dedicated Region Cloud@Customer’",
       "excerpt": "After AWS I see Azure then Google offer this over time ... and will it be developing more homegrown infrastructure to reduce the cost of machine learning, training and inference as well? I think those are important considerations to think about as ...",
@@ -1312,56 +1362,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-3-top-cloud-computing-stocks-to-buy-right-now.md",
-      "title": "3 Top Cloud Computing Stocks to Buy Right Now",
-      "excerpt": "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png",
-          "width": 720,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "publishedDateTime": "2020-07-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
