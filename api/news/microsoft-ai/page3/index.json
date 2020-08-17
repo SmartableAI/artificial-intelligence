@@ -2,56 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-07-20-oracle-fields-a-unique-private-cloud-called-dedicated-region-cloudcustomer.md",
-      "title": "Oracle Fields A Unique Private Cloud Called ‘Dedicated Region Cloud@Customer’",
-      "excerpt": "After AWS I see Azure then Google offer this over time ... and will it be developing more homegrown infrastructure to reduce the cost of machine learning, training and inference as well? I think those are important considerations to think about as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/07/20/oracle-fields-a-unique-private-cloud-called-dedicated-region-cloudcustomer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F18d656c1d7904d2bb043ef99ece74ebb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D62%26cropY2%3D1187",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/07/20/oracle-fields-a-unique-private-cloud-called-dedicated-region-cloudcustomer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/07/20/oracle-fields-a-unique-private-cloud-called-dedicated-region-cloudcustomer/amp/",
-      "publishedDateTime": "2020-07-20T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-20-microsoft-to-trial-azure-iot-platform-with-samsung-smart-home-tech.md",
       "title": "Microsoft to trial Azure IoT platform with Samsung smart home tech",
       "excerpt": "Tech giants combine Samsung smart appliances, Azure IoT, and digital cloud tech to ‘create better experiences’ for smart building managers and residents",
@@ -1345,6 +1295,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-microsoft-releases-preview-of-text-analytics-for-health-battle-tested-in-covid-19-partnership.md",
+      "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
+      "excerpt": "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
+      "publishedDateTime": "2020-07-08T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

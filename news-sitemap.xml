@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://newatlas.com/computers/parolees-tracked-artificial-intelligence-prevent-recidivism/</loc>
-    <lastmod>2020-08-16T18:50:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/</loc>
+    <lastmod>2020-08-16T21:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai</loc>
-    <lastmod>2020-08-16T15:00:00-07:00</lastmod>
+    <loc>https://www.theedgemarkets.com/article/dbs-ties-aws-train-3000-employees-ai-and-machine-learning</loc>
+    <lastmod>2020-08-16T20:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://newatlas.com/computers/parolees-tracked-artificial-intelligence-prevent-recidivism/</loc>
+    <lastmod>2020-08-16T18:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -387,12 +393,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels/</loc>
     <lastmod>2020-08-12T10:54:55-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.tradersmagazine.com/xtra/simcorp-offers-dimension-as-a-service-on-microsoft-azure/</loc>
-    <lastmod>2020-08-12T10:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -865,7 +865,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.research-live.com/article/news/new-funding-for-racial-justice-ai-and-data-projects/id/5072562</loc>
+    <loc>https://www.research-live.com/article/news/new_funding_for_racial_justice_ai_and_data_projects/id/5072562</loc>
     <lastmod>2020-08-10T02:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -885,6 +885,12 @@
   <url>
     <loc>https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen</loc>
     <lastmod>2020-08-09T17:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin</loc>
+    <lastmod>2020-08-09T12:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -909,12 +915,6 @@
   <url>
     <loc>https://www.entrepreneur.com/article/354461</loc>
     <lastmod>2020-08-09T01:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381</loc>
-    <lastmod>2020-08-09T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1393,6 +1393,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai</loc>
+    <lastmod>2020-08-05T06:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/05/zencity-raises-13-5-million-to-help-cities-aggregate-community-feedback-with-ai-and-big-data/</loc>
     <lastmod>2020-08-05T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1675,7 +1681,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04-81843054</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-chip-company-syntiant-surpasses-1-million-units-shipped-raises-35-million-in-series-c-funding-led-by-m12-and-applied-ventures-2020-08-04</loc>
     <lastmod>2020-08-04T05:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1929,6 +1935,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27-81841645</loc>
     <lastmod>2020-08-02T22:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.financialexpress.com/industry/technology/explained-what-is-natural-language-processing-gpt-3-and-how-it-works/2043078/</loc>
+    <lastmod>2020-08-02T21:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3247,12 +3259,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wallstreet-online.de/nachricht/12764688-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
-    <lastmod>2020-07-27T07:03:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://singularityhub.com/2020/07/27/a-new-brain-inspired-learning-method-for-ai-saves-memory-and-energy/</loc>
     <lastmod>2020-07-27T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3362,6 +3368,12 @@
   </url>
   <url>
     <loc>https://www.news-medical.net/news/20200727/New-approach-reduces-power-requirements-of-neural-interfaces-while-improving-accuracy.aspx</loc>
+    <lastmod>2020-07-26T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theglobeandmail.com/investing/markets/stocks/PS-Q/pressreleases/154031/</loc>
     <lastmod>2020-07-26T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

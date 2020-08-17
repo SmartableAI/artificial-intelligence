@@ -70,17 +70,6 @@ related:
         width: 1076
         height: 717
         isCached: true
-  - title: "Bay Area startup Gong lands $200 million Series D funding round, unicorn status"
-    excerpt: "Gong hit a high note Wednesday, reeling in a massive $200 million Series D funding round that turned it into a unicorn with a valuation of $2.2 billion. Coatue led the funding round, with participation from Salesforce Ventures,"
-    publishedDateTime: 2020-08-12T11:41:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/08/12/bay-area-startup-lands-200-million-funding-round.html"
-    ampWebUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/08/12/bay-area-startup-lands-200-million-funding-round.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/08/12/bay-area-startup-lands-200-million-funding-round.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
 secured: "Rm45jmVDvSfg6vxIED6hcwzpkPaaZRfaAM5RU3lTT9UiraoJVUjSGn2a7XO+0Q9CUmsrRSdpo2XPtnUfIMkENWWptG0SolxSNG9Jkx/5hQaoC2WRTIFx1XchGKZgWoRxn86sz3jNX6d4i5XObgIfWRl6D1V5lICLFSXWe3PbC8HFQXiYDmwKwnoHlLC3lmq6FGzqsCFWyyvDFRSZzblqXAUFYvIp6a/vQtqnmxhTw+idsjzxqmZK3WDu8fjAm8XLy0NZkNAGH6hzpkwrfFwkdyYYb7pBskPss0+gbVsS8jkTcpWQW4QzszbKa7pjtIHoe4gonPlfZJkCqpIg+0TZeQ==;MpA+h8TQY2EyJVKOVChKkw=="
 ---

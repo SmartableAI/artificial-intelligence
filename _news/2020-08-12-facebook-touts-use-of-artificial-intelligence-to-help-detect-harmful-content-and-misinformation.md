@@ -69,20 +69,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facebook’s AI for identifying hate speech seems to be working"
-    excerpt: "Facebook says its automated detection systems contributed to a 134% increase in hate speech removals during the second quarter. But the numbers imply that the company has been oblivious to a significant amount of hate on its platform in the past."
-    publishedDateTime: 2020-08-12T12:00:00Z
-    webUrl: "https://www.fastcompany.com/90538941/facebook-ai-for-identifying-hate-speech-seems-to-be-working?partner=rss"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/p-1-fb-hatespeech-down.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "jXEa04v6jY2wCP3owQ+hU1s4BVlC+GqvsczOO7icjUjtqBiqjjGeBPbCJR5qARKI888zcye8mKlmSUrBOW5W1CtI6hJ1QDrdzcv3QGDrqjoHxVOAkghhXHdFkJvQHJAB/7qcuUaTN7Qee1xRKzE6rxHpx5HFEaqJcCIZFG1sPIZPC1+uuvtB9eHDeVAc1v+eu5xJfJ2dResa4UEdial/qtZavyLZG4gdudw6ek5QYuDZLtkIb1mqDsOetgb/5fnRBxmQsHXW3O+gBHEG0fT43f6Ga03Ndb0vxWyWL7LzyY4zN9IC97RNvSFAzrcQfTffXXH4LbYLwHTvbaoqACajag==;9OSZygnDQZGgkXVYaDGV9A=="
 ---

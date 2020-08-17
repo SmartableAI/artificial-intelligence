@@ -2,6 +2,96 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-07-19-ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache.md",
+      "title": "AI Fueling The Oil And Gas Industry: Interview With Tim Custer At Apache",
+      "excerpt": "In industries where data is key to gaining competitive advantage, artificial intelligence and machine learning have become necessities. This is most definitely the case in the oil and gas industries as market demand waxes and wanes for critical resources we’ve come to depend on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f14c82126d6430006147990%2F0x0.jpg",
+          "width": 360,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/",
+      "publishedDateTime": "2020-07-19T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-19-global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva.md",
+      "title": "Global AI Chip for Data Centers Market 2020- Impact of COVID-19, Future Growth Analysis and Challenges | NVIDIA, Intel, IBM, Qualcomm, CEVA",
+      "excerpt": "The report on the AI Chip for Data Centers Market gives a foot perspective on the present continuing inside the AI Chip for Data Centers market. Further, the report likewise considers the effect of the novel COVID-19 pandemic on the AI Chip for Data Centers market and offers an away from of the anticipated market variances during the estimate time frame.",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galusaustralis.com/wp-content/uploads/2020/05/Automomobile.jpg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/amp/",
+      "publishedDateTime": "2020-07-19T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-19-how-ai-can-help-in-a-recession.md",
       "title": "How AI Can Help In A Recession",
       "excerpt": "In this recession, some companies will emerge as winners, and many companies will fail. AI can be the key factor between them.",
@@ -1088,106 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-2500-nvidia-gpu.md",
-      "title": "Death Stranding on PC almost hits 60fps at 8K – all it takes is a $2,500 Nvidia GPU",
-      "excerpt": "Essentially, DLSS uses the Tensor Cores of an RTX card to boost the performance of high resolutions thanks to AI and machine learning ... by people without an RTX GPU. This intelligently sharpens ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4jz7DHRm7XADmwG6gGgrKm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu",
-      "publishedDateTime": "2020-07-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-announcing-the-women-in-ai-awards-winners.md",
-      "title": "Announcing the Women in AI Awards winners",
-      "excerpt": "They have all made outstanding contributions in the AI field, from advancing the work in ethics and fairness in AI, to trailblazing research critical to AI innovation, to ensuring young women ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Women-in-AI-Awards-Transform-2020.png?w=1200&#038;strip=all",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/amp/",
-      "publishedDateTime": "2020-07-17T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T18:28:00Z
 webUrl: "https://techcrunch.com/sponsor/dynatrace/driving-digital-transformation-with-continuous-automation-and-ai-assistance/"
 type: article
 quality: 65
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
-  - title: "SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service, on Microsoft Azure"
-    excerpt: "SimCorp, a leading provider of integrated, front-to-back, multi-asset investment management solutions and services to the world’s largest buy-side institutions, today announces a new integration of its front-to-back investment management platform,"
-    publishedDateTime: 2020-08-12T11:41:00Z
-    webUrl: "https://www.bobsguide.com/guide/news/2020/Aug/12/simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 15
 
 secured: "o9iGawVCwe5rUbxD41VQR8V89BZc6g52N+1ed/RP9QdHlV3zUmlVg29XzvgI+KVHKJHsXYIJQQWdluZpDo3738AmX4ySvuvMgwSZ226CaV6XtLotERV1VlEtvSVEzhsSYryyt4VZ2ooXiK/CVvgfDVH8iyUSdO46OlQEq2wZBYq5FkFBc0EdaFf6pWwVGPqE8wWevpx9qyFmKhlBuDfkuwfmvNaUBwySdQ9WFHvP9lNn/HZRTgFqkLz1nLLrD2MOA06g1KCSRcbEwftmEOr1FQ130cvh/hR9IVai7XMt7Uv4uPV3Ctep9mehqlGSdTOkLRnqUERJg6n6WeOEhyj0fsFyW78xXetGucuJe4gnyV2kCWZ1unKfuyBb7H/0XI3P6f9XBhpAqV7U5BOCnb8pVKeeKqVNjqSh39P3SYRcN6f+z9PqqI01/HZ73UGDDogglBXqf5IVS8AOMJflMgnt7sPnztLn51ICJxvutC0HanjyEVd8WOUHAWXkkrlzghSy;JIdss1CB6hizzvTwtR5Mpg=="
 ---

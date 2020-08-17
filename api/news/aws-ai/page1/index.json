@@ -2,20 +2,20 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-16-dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai.md",
-      "title": "DBS set to rev up staff’s skills in machine learning, AI",
-      "excerpt": "In a bid to ingrain digital learning behaviour at the workplace, DBS Bank is teaming up with Amazon Web Services (AWS) to equip about 3,000 employees with basic skills in artificial intelligence (AI) and machine learning by the end of this year.",
+      "path": "_news/2020-08-17-dbs-ties-up-with-aws-to-train-3000-employees-in-ai-and-machine-learning.md",
+      "title": "DBS ties up with AWS to train 3,000 employees in AI and machine learning",
+      "excerpt": "DBS is working with Amazon Web Services (AWS) to equip more than 3,000 of its employees with basic skills in artificial intelligence (AI) and machine learning (ML), so that the bank can better tap these new technologies to grow its business.",
       "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai",
+      "webUrl": "https://www.theedgemarkets.com/article/dbs-ties-aws-train-3000-employees-ai-and-machine-learning",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 76,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/08/17/st_20200817_mmdbs17_5889484.jpg?itok=-vwDM0yf",
-          "width": 763,
-          "height": 509,
+          "url": "https://assets.theedgemarkets.com/DBS_20200817093202_reuters.jpg?null",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,11 +24,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-16T15:00:00-07:00",
+      "publishedDateTime": "2020-08-16T20:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
+        "name": "The Edge",
+        "domain": "theedgemarkets.com",
         "images": null,
         "publishers": null,
         "authors": null

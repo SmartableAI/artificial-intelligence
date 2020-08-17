@@ -90,15 +90,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
-  - title: "SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service, on Microsoft Azure"
-    excerpt: "SimCorp, a leading provider of integrated, front-to-back, multi-asset investment management solutions and services to the world’s largest buy-side institutions, today announces a new integration of its front-to-back investment management platform,"
-    publishedDateTime: 2020-08-12T11:41:00Z
-    webUrl: "https://www.bobsguide.com/guide/news/2020/Aug/12/simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 15
 
 secured: "hmV9EV6UO4JsTMHUbXuAp/ngSpMBhDUtzkx0cpcQIIWllzKn7By8fPxdsy6Z2zIMprssRB+FJDdifdi0ZnwXLd9BXNPDKO6IJBucogUkFJq7s4YIFzruIcwUi6BpwbEQTKlx2ZmrnV/4x1TWwDMlOQEABj7bDeZn59LUfR0xXozJwgZGljPNV0tM7q41z0VT5yVsKQx2wOOVS4IcWTQsfDDrSYVBhjmU4z1in/L4m9QB+X40klUer7bDDW1VBQoKHYn2LcPoeC5tx2I3vLcAhEPUmafW+Ruv6vURe+Q1qd3PXZoVjcksqu9uOagvQlJrj2VzxErdQ4J+9oEg08JM29WzStDehXKhZIgmphLbUFEyUBX7l7oOPgLQCDPEGSplql3Nb9beSnNO/ajxPbmQ3i07l6Y22B0K7IdQgI5ANeil3RtGt/9eHbLmXlA0rphHiGLylOfQaTgoCvn6jnJA3P75OJ478cwPC56l4Qt0j6tVdReoBx6nFFEc/vZ7iUMMLP3LBFcqk9JTn5UxpJbwhQ==;KPGw8S1PuATLk4tbygkqOg=="
 ---

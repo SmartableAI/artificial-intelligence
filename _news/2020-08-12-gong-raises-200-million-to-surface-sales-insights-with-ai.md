@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surfac
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -70,17 +70,6 @@ related:
         width: 1076
         height: 717
         isCached: true
-  - title: "Bay Area startup Gong lands $200 million Series D funding round, unicorn status"
-    excerpt: "Gong hit a high note Wednesday, reeling in a massive $200 million Series D funding round that turned it into a unicorn with a valuation of $2.2 billion. Coatue led the funding round, with participation from Salesforce Ventures,"
-    publishedDateTime: 2020-08-12T11:41:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/08/12/bay-area-startup-lands-200-million-funding-round.html"
-    ampWebUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/08/12/bay-area-startup-lands-200-million-funding-round.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/08/12/bay-area-startup-lands-200-million-funding-round.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
 secured: "r98D9VoAA62OHvLfXejfL5yfilC2xHGSNBmvdbba5HuFm5zqvtfFaE65hfg0lG39/PVKBzgejGa2lMzX1pecRRRCPpGUaPv5YSLoeP0GCTPWzSHXl48XgfBXxnp8wek121naHBFdANyT8Dzbfa8ND87Wd0dM0hIa+zM+N1rE93SHBXYa1FG33VJF1aVbAJJkj9h0ehY6haGuegE4JjOXQhHvMj3/T8egaBjymIONf8w5ddkDDt4F2Glw9pNIvcCzwMPobuLSHhj5FIrbh5mJckS1JzmMfBCbB9dHEhN4WlhGvjkT+TogBj49j8A3pBqtpY1ZzvUyulwNLW0aUSvJ6NeVXl9l9pjjnGGaYYakgv26LMu+SAIgGYAj/0FrBWwoSE8l+oCuyzjXPWtDaqXaHDNaOI8YnDO7wrcMmNsz75u3L1fKo4kc1TqD+pOVAXTylzT/72OGqEfQgtmr8cb6/Lo9ntsz1toHHjy17JZvMS7osuO3Itilk1dZJSDIPY8+eN/t89tOr0k/QQZ5TYSwtA==;U10DNaa5S2cheUM9h5f+MQ=="
 ---

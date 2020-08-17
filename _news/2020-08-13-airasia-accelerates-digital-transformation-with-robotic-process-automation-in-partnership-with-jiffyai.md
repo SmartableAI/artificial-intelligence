@@ -89,15 +89,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 31
-  - title: "SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service, on Microsoft Azure"
-    excerpt: "SimCorp, a leading provider of integrated, front-to-back, multi-asset investment management solutions and services to the world’s largest buy-side institutions, today announces a new integration of its front-to-back investment management platform,"
-    publishedDateTime: 2020-08-12T11:41:00Z
-    webUrl: "https://www.bobsguide.com/guide/news/2020/Aug/12/simcorp-completes-next-phase-in-cloud-transformation-offering-simcorp-dimension-as-a-service-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 15
 
 secured: "mKSE9sWLYns0s/k9bhWARJWAex8yGoxs0b4a8ozO3ACKuxSTNfPloZRQr3moF1eXTxhyCuuccLjUsS7uWPKK2tlO8YxKCAZBQwib3DnjzXpK5psw7RVjVH/NgqNAQ8Olp4rwaAuyznn2FhYuvZuWJtmtg8+sMEEq6Blx9PnBsb13v9vLUHYU9BpijaPb59r8VFEsIz/Hx9GZTwuX2YfR51HS76/ozNLXFtCfwpYa5r80phnPO9977+wKhFyKBkOTmaGtothSzDR1kvzjGy0Wh/frOrxKDMf+nVwxV4TmIsz3ozaJ57LylizqNVVSt1kbCEVA51D/tjunSEOcIDQIgPK1j4a1PK3FiX7xeT1DZ3Pqr5gTubrRTSu+89P75OCHZtnmfEs6qqOaSDeQxiujJoRNeuHMtCSCGWi8xUOzYu2UtwPRE5WtbSXClC8MMYy4m0G880Xf2oZJ2vqDBsQjsHSDZ370CuMgMO5iol0SR9IRWZvgNDW1SUdAdS8LNJ44lCPeSTY7JkE9+XUnCnnZQQ==;fkoz8WpuDwSTodFLcNZnbQ=="
 ---

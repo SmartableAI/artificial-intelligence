@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "SimCorp launches Dimension platform as a service on Microsoft Azure cloud"
-    excerpt: "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development."
-    publishedDateTime: 2020-08-12T11:57:00Z
-    webUrl: "https://www.thetradenews.com/simcorp-launches-dimension-platform-as-a-service-on-microsoft-azure-cloud/"
-    type: article
-    provider:
-      name: The TRADE
-      domain: thetradenews.com
-    quality: 53
-    images:
-      - url: "https://www.thetradenews.com/wp-content/uploads/2019/02/iStock-966932508-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "KNi5wycgVV5Q5RRkEomd9MQ02tgVKQLj6eZtDsPesDkxy8Lkr6xN7sZEuKHfy1qlFHnYgmY07Mdpq3MF3Ai824w6dzwu+jBBNQNWzw8MwupaWY4T+qfnNpC2sg6ntyTX4vylh9PbgFHQCem/pLXc6VdRKD6D6jPgWxFeAAmU2f1s1KjhzSV/gXTFDWwrBk2NHsHbFcBrVZmZ0krd1VSSh2Y4txFCf1Okl+nZdTEfsX6zZk3u7A9BoH73jBSgAbBDKNeawU7eLWzZMU3q+AogpZWQLGzxg/YtHiPd550J3LM6VBfT4RA3PkjnrWBnmWo3FY5xyEqEWnR+CfsS1KxGaqetfYKH7RC5jX6zBjclnv8mo0F57cSBnhEXkNeoOMQBT2HBBUDZOIvG84+MGbul3hV6WGpUIQtAUF970M5PABOh1h1Uon5XRuHlnKsFo9MMoBVqSMinEc2tqdidApuw7jmudiH8px4niuqw2hbxakWbzQEb7oB9V6tr1XlwEcO8L0XFXTrtSjH+QBLWIdyycw==;eWuHm2IzzIqRUi7j4qx5bg=="
 ---

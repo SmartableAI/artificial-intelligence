@@ -369,6 +369,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-09-chinese-robotaxis-take-riders-for-a-spin.md",
+      "title": "Chinese 'robotaxis' take riders for a spin",
+      "excerpt": "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-09T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-09-china-begins-testing-robotaxis-for-hire-amid-race-against-us-tech-dominance.md",
       "title": "China begins testing robotaxis for hire amid race against US tech dominance",
       "excerpt": "Autonomous hired cars are considered ideal for accumulating driving time and the data cache needed for cars to learn and become safe enough.",
@@ -396,47 +437,6 @@
       "provider": {
         "name": "The Asian Age",
         "domain": "asianage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-09-chinese-robotaxis-take-riders-for-a-spin.md",
-      "title": "Chinese 'robotaxis' take riders for a spin",
-      "excerpt": "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
-      "publishedDateTime": "2020-08-09T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -688,6 +688,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-why-organizations-might-want-to-design-and-train-less-than-perfect-ai.md",
+      "title": "Why organizations might want to design and train less-than-perfect AI",
+      "excerpt": "These days, artificial intelligence systems make our steering wheels vibrate when we drive unsafely, suggest how to invest our money, and recommend workplace hiring decisions. In these situations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90535790/why-organizations-might-want-to-design-and-train-less-than-perfect-ai",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/imperfect-AI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1307,38 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-designcon-2019-announces-keynote-speakers-from-uber-university-of-texas-and-uc-berkeley.md",
-      "title": "DesignCon 2019 Announces Keynote Speakers from Uber, University of Texas, and UC Berkeley",
-      "excerpt": "To give DesignCon attendees insight into some of the most cutting-edge technologies, the event will feature keynotes on quantum computing, AI and driverless cars ... datacenters that power the artificial intelligence (AI) to enable Uber’s futuristic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/designcon-2019-announces-keynote-speakers-uber-university-texas-and-uc-berkeley",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

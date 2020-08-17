@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-14-microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns.md",
+      "title": "Microsoft Flight Simulator developer Q&A addresses top community questions and concerns",
+      "excerpt": "With five days to go until Microsoft Flight Simulator's official PC release, the last development update before the event has now been made available, bringing news on even more deliverables.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1594379575_flubberzwans_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns/",
+      "publishedDateTime": "2020-08-13T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-microsoft-will-now-let-you-choose-a-preferred-gpu-for-every-windows-10-app.md",
       "title": "Microsoft will now let you choose a preferred GPU for every Windows 10 app",
       "excerpt": "Right now, Windows 10 allows users to choose a GPU for performance-demanding workloads ... case could be using one card for time-consuming AI tasks (video enhancements, perhaps) and another ...",
@@ -1135,57 +1185,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-mlops-the-rise-of-machine-learning-operations.md",
-      "title": "MLops: The rise of machine learning operations",
-      "excerpt": "Once machine learning models make it to production, they still need updates and monitoring for drift. A team to manage ML operations makes good business sense",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/teams_teamwork_collaboration_discussion_planning_meeting_communication_by_brauns_gettyimages-497812268_2400x1600-100853242-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3570716/mlops-the-rise-of-machine-learning-operations.amp.html",
-      "publishedDateTime": "2020-08-13T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

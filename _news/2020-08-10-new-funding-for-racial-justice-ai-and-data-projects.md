@@ -3,7 +3,7 @@ category: news
 title: "New funding for racial justice AI and data projects"
 excerpt: "The Ada Lovelace Institute’s JUST AI programme has launched a £40,000 fund, supported by the Arts and Humanities Research Council (AHRC), for work addressing racial justice and AI ethics."
 publishedDateTime: 2020-08-10T09:42:00Z
-webUrl: "https://www.research-live.com/article/news/new-funding-for-racial-justice-ai-and-data-projects/id/5072562"
+webUrl: "https://www.research-live.com/article/news/new_funding_for_racial_justice_ai_and_data_projects/id/5072562"
 ampWebUrl: "https://www.research-live.com/amp-page.html?id=5072562&name=new-funding-for-racial-justice-ai-and-data-projects"
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5072562&name=new-funding-for-racial-justice-ai-and-data-projects"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 581
     isCached: true
 
-secured: "CRVdLgguRCpL1G2lmwEciCkpw+w1Zpuv+/CgjRBMBfpQrIXPzfXqoLiR+tZTKM1s6dkB/IkZTib/CCigTpYSCQE0VJq8+MbBTrF4ACyW+Le0+kfRkO240zLSAPsU2Vnkiz8DWp37dHMUcYWAiBXUcf9xA9N5ME0PcP/jfeIF8DklrIEEu3Ba7YCvYdIWf7wHfcSosDVuTitpBsTgXO5goAYs8o4u/03qqVYLhNkk3etbOr3VDoJ5Hs2MYGy7NDFlJ/vH0USzzn68npglDncv1OmfkhTPqIaw1jiYzPUfuSTRjlPsDUPv4oCMG+xK0TWIoNa8VsFld7l8c8r+v8Cu/U6SqCTxkCA4CKBtXvL1XQN33kmzCa4dCYok5RwzSCO+pGucgpmZUm9o6kSkj6A+eO5AF4QiW769v91nwxpUeluayrUtKGtBelDHGSkrsH5VBXicOQ+zmtNHKCEkdB7sidDKGdw9/pLnLfMCcs9rInJjUkc7xw7Is1dBq4HeFKzvKPOf3DK/dOGAwV+fgyYcsg==;/DSRrDDOFMuEDaw2yRoKeQ=="
+secured: "uV6ALPkaUBUiS2ok8mQX0bIPYCdrwQwFNTO6LgMok3wCSsUvEe08CFVrtJP/YFX0n2QYHjaRQgT6TeISByfdBhfzHJEeMd9V6YSEPRizvFaXbghvhnB/HYEu9Imj+MkO8R4SJmEdoqzm65fXzZBEBsJa+qpVuyzvcWJHH2eDCffTXlm+ByvosBV3uHBU4Mbxv1wx1QTvuDCx68zF5hTJvE4sCyhAwY0L2IdGfSv2nhhzHtZCZwYmelPJhV8oS+JndfqfnucvXDy6jTPKNS86NjlysEtFTO4yscQ2UuZUc50IAe6Do8LR63vlNeB4oDE1kqc3lwQVbXW9LulDaY04KQ==;w53BlJTaEo9FD2ivJjZ3cQ=="
 ---
 

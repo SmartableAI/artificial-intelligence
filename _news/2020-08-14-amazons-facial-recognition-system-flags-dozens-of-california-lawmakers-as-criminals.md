@@ -25,6 +25,22 @@ images:
     height: 1640
     isCached: true
 
+related:
+  - title: "Amazon curbs police use of facial recognition software for one year"
+    excerpt: "Amazon will halt police use of its facial recognition technology, Amazon Rekognition, for one year, it announced in a blog post Wednesday. Continue Reading Below \"We’ve advocated that ..."
+    publishedDateTime: 2020-08-16T03:17:00Z
+    webUrl: "https://www.foxbusiness.com/technology/amazon-halts-police-use-of-facial-recognition-software-for-one-year"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 24
+    images:
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/05/0/0/Amazon-Rekognition-technology.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "sF/1a45p/+Ea1tlIeeJvu/s7mDfljvPbbrfO0UekNtlgl7FbOWQ7hRamNLwJNIyDI4g+X92HdWnTdCN9qiG94GRUWUeJNa1YKNV9EizWrXIfJfPDFBmqeTMWXIUpechG1/rQhYMa6iqNz9Jwqxqv0VuBCtQYhXudIEKnEb7jCO273S6fiFUilZ69hOpuXRkEPyFDOVNSTAAd3EmqzU/2y+uH2O0bdd8U+S4fW/qrBllQMQGtNk/itLjBlOfs+eKfx2o8HmWMcqR28hMovTgMfLWlYWRHmdPSRnd5lFclINjSwoypjmPctlmXBOKGWZCy7F7AwFxRcT00ho2FsmMapg==;YJnoy5YM7EFQHYnhSiqF0w=="
 ---
 

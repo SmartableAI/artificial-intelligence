@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-16T22:00:00Z
 webUrl: "https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Straits Times
@@ -33,12 +33,23 @@ related:
     provider:
       name: The Edge
       domain: theedgemarkets.com
-    quality: 53
+    quality: 70
     images:
       - url: "https://assets.theedgemarkets.com/DBS_20200817093202_reuters.jpg?null"
         width: 1200
         height: 800
         isCached: true
+  - title: "DBS Bank teams up with AWS on AI skills"
+    excerpt: "Singapore’s DBS Bank is organising an AWS DeepRacer League to equip thousands of employees with skills in artificial intelligence and machine learning"
+    publishedDateTime: 2020-08-17T04:59:00Z
+    webUrl: "https://www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills"
+    ampWebUrl: "https://www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
   - title: "DBS to upskill at least 3,000 employees in AI and ML skills this year"
     excerpt: "To enable this, DBS has collaborated with AWS to launch the DBS x AWS DeepRacer League which will see employees learning the basics of AI and ML in a series of online tutorials before putting their ne"
     publishedDateTime: 2020-08-17T01:40:00Z

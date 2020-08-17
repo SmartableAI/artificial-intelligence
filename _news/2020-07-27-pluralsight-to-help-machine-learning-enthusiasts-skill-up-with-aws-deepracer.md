@@ -2,20 +2,24 @@
 category: news
 title: "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer"
 excerpt: "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have ..."
-publishedDateTime: 2020-07-27T14:03:00Z
-webUrl: "https://www.wallstreet-online.de/nachricht/12764688-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
-ampWebUrl: "https://www.wallstreet-online.de/_amp/nachricht/12764688-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
-cdnAmpWebUrl: "https://www-wallstreet--online-de.cdn.ampproject.org/c/s/www.wallstreet-online.de/_amp/nachricht/12764688-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer"
+publishedDateTime: 2020-07-27T00:00:00Z
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PS-Q/pressreleases/154031/"
 type: article
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "52VPfSl9g/rI0iTGsPfjvMBUdYalZGNqzXEZ3jwJwL2eUpEYTFwQ0bFAZm+m9Su3oiiYS9qaMbO22lJhBGwlGROsP7+i6/8ItzepH05ZnBAkbvX1cXn/vefpHPiEaGxem+JQxDwE/Wtflh0m15LyPP5N/UJnlXArcUgNccHs2GF5QwkGXKPXiUkKbrpF3bfVZgCTB6NgEsQbgRmMWcZ5ypIDOgW8qzhFHfltbeXQwen1Fx2yBmxujn7OPKvOHUmMMjXLirREoBxc+HhFmYadYULobHrrQlpcOYS8aKttdrp8Lzx7J277k3+34qZXtmGC+eiEpq07sSO2/X0HPKTo9A==;1du1stRjkGgTgUMAgV1uZQ=="
+images:
+  - url: "https://www.theglobeandmail.com/resources/assets/meta/facebook-1200x630.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "re+RwZyObsIyeaBc6sYrakQEO92tbmszl4/WkhOi9wGccHk9PbLXjvRkBhbg8Uv9iOCPVMBZPhHcQxK2NHosEPaM+N9hA3HA7JO7OOWyqYpkbnsVRGDxo081IoI/veujTjSS0Xt4CUrByMz3oquOoI1TYjrp+62DpRaKQkEI1KvSTZQhC6HM1QlVZJzJhbdq6/7CoDj0MXT8kraJPpLg/d3maOKn4xnyErXmKq1G/u2Oq4P0vZ2jCs8QDG9OVr4yIojpntTtYE9unq8D/q+auQLMDI97fmYiLjfWwHtomprU2nQh+KzpyThy/b0R+EY5Fmfg+ctj2/fHSl2WrA2HYg==;zHwP6DXhpDt8ncnJ7wKHsQ=="
 ---
 
