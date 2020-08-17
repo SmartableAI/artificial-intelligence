@@ -2,33 +2,33 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-08-17-microsoft-translator-adds-supports-odia-text-transtlation.md",
-      "title": "Microsoft Translator Adds Supports Odia Text Transtlation",
-      "excerpt": "Microsoft Translator will now offer real-time translation and transliteration for Odia, taking the total number of Indian languages in which one can access the service to 11, the company said on Monday.",
+      "path": "_news/2020-08-17-microsoft-translator-now-supports-odia-total-11-languages-in-india-know-details.md",
+      "title": "Microsoft Translator now supports Odia, total 11 languages in India: Know details",
+      "excerpt": "Microsoft Translator enables professionals to enhance their business and customer interactions with text and speech translation powered by Translator and Microsoft Speech service, and Azure Cognitive Services.",
       "sourceUrl": null,
-      "webUrl": "https://odishatv.in/science/microsoft-translator-adds-supports-odia-text-transtlation-469966",
+      "webUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://img.odishatv.in/wp-content/uploads/2020/08/Microsoft-Translator.jpg",
-          "width": 750,
-          "height": 430,
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/microsoft-translator-indian-languages-1597657674.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://odishatv.in/science/microsoft-translator-adds-supports-odia-text-transtlation-469966/amp",
-      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/science/microsoft-translator-adds-supports-odia-text-transtlation-469966/amp",
-      "publishedDateTime": "2020-08-17T00:55:00-07:00",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
+      "publishedDateTime": "2020-08-17T02:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odisha TV",
-        "domain": "odishatv.in",
+        "name": "India TV",
+        "domain": "indiatvnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,22 +136,31 @@
     {
       "path": "_news/2020-08-11-avanade-named-strategic-go-to-microsoft-azure-partner-in-new-global-alliance-with-databricks.md",
       "title": "Avanade named strategic go-to Microsoft Azure partner in new global alliance with Databricks",
-      "excerpt": "Avanade will become Databricks’ key global partner and benefit from its deep knowledge and experience in massive scale data engineering, and collaborative data science, complementing Avanade’s Azure data and AI capabilities.",
+      "excerpt": "Avanade, the leading digital innovator on the Microsoft ecosystem, and Databricks, the leading provider of unified data analytics solutions, have fo",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/",
+      "webUrl": "https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg",
+          "width": 620,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-10T22:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
         "images": null,
         "publishers": null,
         "authors": null

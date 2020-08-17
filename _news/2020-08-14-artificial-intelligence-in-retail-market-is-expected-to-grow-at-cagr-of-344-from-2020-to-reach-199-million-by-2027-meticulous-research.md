@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2112437/artificial-intelligence-in-retail
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112437/artificial-intelligence-in-retail-market-is-expected-to-grow"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence Chipsets Market Research, Development, Top Companies, Trends And Growth 2020 To 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
+    publishedDateTime: 2020-08-13T19:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-development-top-companies-trends-and-growth-2020-to-2025-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "T2EHZUMcjYrt+zfM0E6jyGM3jRZo1kriGg1TT2v4sP4HuQNkUx1GurfP28mJHddEJxCUMY0uz4CIyaWT/YBnIXuWucW9ksgGG0xRHtr3SMSt9AHFP6IVMKbvN71l/CWinUFGpeYfngMzgy6bHsLm+rd+HV7A/MbqyURXhVGHa69fMEsSWHpTUVVxidO8VDjaHm+5DQFTrmxnZAvh+u2fIixMZ6WuJsLGf1+n+dVCE6DolRHYrXOYD9+aX2YrmrwVPSCxdlaMfxNwtKAdlTnZtfiOR52JcT175H22j805MXE04oyuAV42US6VcpktpzCGMi+jbQrAw22exkWwH29hPvpqvgddLxhFosCq+DJMHmpyz2k7b4QTUEK/RRVFf2sFtymkcvV64muT4rWHVNTqoR5VHOUxVpRH71xqLbVFpd0zeXp85+ALlSZrWEVLqjKBg39mzvWb2NGSQxztJCsZLpjN2R1VHlT/bKyR07skjSdREwuO22W2SJULI0vQMsSuyxCo3WtKAzbDscBTwku/lw==;Ng0tzED8flW0FR1jy/ftxA=="
 ---

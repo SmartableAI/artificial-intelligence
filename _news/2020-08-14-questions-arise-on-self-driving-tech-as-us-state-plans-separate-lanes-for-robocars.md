@@ -25,17 +25,6 @@ images:
     height: 448
     isCached: true
 
-related:
-  - title: "As Valuations for Self-Driving Technology Craters, Amazon Buys Zoox"
-    excerpt: "Amazon recently announced its acquisition of Zoox, a developer of Autonomous Passenger Vehicle (APV) technology and an aspiring developer of driverless taxis, for a reported US$1.2 billion. This was markedly less than the company’s 2018 valuation of US$3."
-    publishedDateTime: 2020-08-12T18:40:00Z
-    webUrl: "https://www.abiresearch.com/market-research/product/7778480-as-valuations-for-self-driving-technology-/"
-    type: article
-    provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 4
-
 secured: "3Pgpj+mMdbrQoNUAzKusMl+vm+PWGM3W2+UHsIP9VA2OCIqUNnADLqkaF8iaQ3rkPLvPJ/Oa0SOGIYggEY3Y+ZFsyZC7OYZ306LiaxfB20PXqtyK6Xr9ztIwSnLkXYoPgdXtgNMjdck3xikuAOYd3nqfG6f6HD9HIL0uchZlmkC3pBCTxFhflHZcnEzO182zHdfXq4bXaQ+Ix/WIQhZCRGGEwp8ikav2FlFhUsdjpjhvg7ZuncWrfhR9Ym6WWEvZlIxoWSxaG5SSPI2rvkIfzG+2LQyosPr4LfwbGd4LC2DISl2Cf6ru8/XQLSn9XCff0n+zi5eOF8wma+EV6llPNg==;yqSWTOpXXG2zerBnG/jQdw=="
 ---
 

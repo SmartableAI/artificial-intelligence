@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market 2020-2024 / Trends, Market Share, Growth, Opportunity"
-    excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
-    publishedDateTime: 2020-08-12T18:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity-2020-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market 2020-2024 / Growth, Emerging Trends and Future Opportunities"
     excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
     publishedDateTime: 2020-08-12T20:20:00Z
@@ -53,15 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI for Drug Discovery Market 2020-2025 / Trends Adopted by the Competitors, Regions with Forecast"
-    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The"
-    publishedDateTime: 2020-08-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2020-2025-trends-adopted-by-the-competitors-regions-with-forecast-2020-08-17"
+  - title: "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025"
+    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,"
+    publishedDateTime: 2020-08-13T01:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -81,33 +67,49 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market | Global Industry Trend, Growth Rate, Size, Share, Growth, Trends, and Forecasts 2020-2027"
-    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
-    publishedDateTime: 2020-08-13T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-global-industry-trend-growth-rate-size-share-growth-trends-and-forecasts-2020-2027-2020-08-13"
+  - title: "Video Analytics Market 2020: Drivers, Restraints, Opportunities, Threats, Trends, Applications, Growth Analysis and Forecast To 2025"
+    excerpt: "The Global Video Analytics Market was valued at USD 2.06 billion in 2016 and is projected to reach USD 28.6 billion"
+    publishedDateTime: 2020-08-17T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-market-2020-drivers-restraints-opportunities-threats-trends-applications-growth-analysis-and-forecast-to-2025-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
-    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is estimated to value over USD 2.08 billion by 2027 end with a CAGR of over 40.5% during the forecast period 2020 to 2027. The research report titled Artificial Intelligence in Drug Discovery offers comprehensive information on key driving factors,"
-    publishedDateTime: 2020-08-14T18:21:00Z
-    webUrl: "https://ipsnews.net/business/2020/08/14/artificial-intelligence-in-drug-discovery-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2027/"
+  - title: "Artificial Intelligence in Transportation Market 2020 Global Technology, Development, Trends, Growth and forecasts 2024"
+    excerpt: "Updated Research Report of Artificial Intelligence in Transportation Market 2020 2024 Summary Wiseguyreports Com Adds Artificial Intelligence in Transportation Market Demand Growth Opportunities Manufacturers and Analysis of Top Key Players to 2024 To Its Research Database Artificial Intelligence in Transportation"
+    publishedDateTime: 2020-08-14T04:00:00Z
+    webUrl: "https://www.openpr.com/news/2112349/artificial-intelligence-in-transportation-market-2020-global"
+    ampWebUrl: "https://www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2020/08/4375-1597392623.png"
-        width: 300
-        height: 300
+      - url: "https://cdn.openpr.com/T/8/T814904483_g.jpg"
+        width: 500
+        height: 598
+        isCached: true
+  - title: "Global Automotive Recognition System Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025"
+    excerpt: "A new offering by MarketsandResearch.biz entitled Global Automotive Recognition System Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 offers a meticulous analysis of the market that carefully examines the market segments,"
+    publishedDateTime: 2020-08-16T23:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2020-08-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "d+d46ts3yKILXWW0PpupCHpzhFK9jFhTv+F5w2xH6/31oTB2DhQqqjElA8ZWQzkppN/Qf8HFeiuxcTJb1QEZNHqzOwQ85UXWueAWdCk/zBxUfXvr7y4feQo0KZBPv8zzXe3RNgfHESdenBmzkIvqSBvFsfb8g3QS5G+TMCOjWtWQr4EhXOYDocCD+tG4so/Ava4uI4Hx4pbNFMbga6cC/vT8c0+qxWiq+a2YeEjzzV/gATr/huPFu7DJlChnWxYu4d+U4ziJ7gWeZBH/0ePRO9B3Im01QbIZf4D3t9H6iI2TZX9ikLCm1mykG8iuIYrGf1L3O8reHNFL4R8JFUWXxBFqp7XjLYRYH9eBkDnlPqzSavRPnnhFo6xlLoOb46ZIFKmAI2JSvEMjcJ50Qa7mwFuySCdjkY29txvtXoU7MrRi8k8imgkhtQCfKw7TtwyDHEQ73xxsMARgkWwAPjXC0V9T+yP2Cozlq44Vf9t87tjNZueCrLPjc6zOBgwn7xSboUPYCFi7a8T35gRKiQweWQ==;B7WA1u9UVDmN9UkhHJKq6w=="

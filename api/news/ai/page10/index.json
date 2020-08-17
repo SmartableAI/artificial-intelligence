@@ -2,6 +2,395 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-04-bernie-sanders-and-jeff-merkley-have-a-plan-to-protect-you-from-facial-recognition.md",
+      "title": "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition",
+      "excerpt": "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/C2_oi-qdv4rsUQVXp7WfmDZD_zA=/0x0:3000x2000/1400x1050/filters:focal(1488x550:1968x1030):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67155167/GettyImages_857192090.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
+      "publishedDateTime": "2020-08-04T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-the-survivor-last-korean-war-criminal-in-japan-wants-recognition.md",
+      "title": "The survivor: last Korean war criminal in Japan wants recognition",
+      "excerpt": "To the casual observer, 95-year-old Lee Hak-rae could be just another elderly person in Japan. Surrounded by pictures of his family and paintings by his great-grandchildren, Lee potters about his cluttered living room on the outskirts of Tokyo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-ww2-anniversary-warcriminal-idUSKCN25002W",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200804&t=2&i=1528231197&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7301C",
+          "width": 799,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN25002W",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN25002W",
+      "publishedDateTime": "2020-08-04T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps.md",
+      "title": "Microsoft, Amazon back a SoCal company making microchips specifically for voice-based apps",
+      "excerpt": "Microsoft’s venture capital fund, M12 Ventures, has led a slew of strategic corporate investors backing a new chip developer out of Southern California called Syntiant, which makes semiconductors for voice recognition and speech-based applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/04/microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1024463070.jpg?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/04/microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/04/microsoft-amazon-back-a-socal-company-making-microchips-specifically-for-voice-based-apps/amp/",
+      "publishedDateTime": "2020-08-04T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model.md",
+      "title": "Microsoft researchers claim ‘state-of-the-art’ biomedical NLP model",
+      "excerpt": "Microsoft researchers propose a new training technique that achieves state-of-the-art performance in natural language processing biomedical tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/04/microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/04/microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/microsoft-researchers-claim-state-of-the-art-biomedical-nlp-model/amp/",
+      "publishedDateTime": "2020-08-04T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ai-driven-fitness-making-gyms-obsolete.md",
+      "title": "AI-Driven Fitness: Making Gyms Obsolete?",
+      "excerpt": "And a staggering 80% of men are exercising more now without access to their gyms than before Covid-19, according to data from Freeletics, an AI-based fitness app with 47 million users in over 160 countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f298efbe2252631e7028543%2F0x0.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/04/ai-driven-fitness-making-gyms-obsolete/amp/",
+      "publishedDateTime": "2020-08-04T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-ford-ceo-jim-hackett-is-retiring.md",
+      "title": "Ford CEO Jim Hackett is retiring",
+      "excerpt": "Ford and other legacy automakers have spent the last few years grappling with potentially existential threats like Tesla, self-driving cars, ride-hailing services, and micromobility. Hackett ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/TJlhuNA0ndUDjHAg7UdM2sQvA-Q=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67153374/sokane_191117_3793_5957.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring",
+      "publishedDateTime": "2020-08-04T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks.md",
+      "title": "Kite brings its AI-powered code completions to Jupyter notebooks",
+      "excerpt": "Using AI to help developers is not an original idea. Nowadays you have startups like DeepCode offering AI-powered code reviews and tech giants like Microsoft working on applying AI to the entire ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/kite-jupyterlab-code-completions.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/kite-brings-its-ai-powered-code-completions-to-jupyter-notebooks/amp/",
+      "publishedDateTime": "2020-08-04T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-deep-learning-on-cell-signaling-networks-establishes-ai-for-single-cell-biology.md",
+      "title": "Deep learning on cell signaling networks establishes AI for single-cell biology",
+      "excerpt": "Computer systems that emulate key aspects of human problem solving are commonly referred to as artificial intelligence (AI). This field has seen massive progress over the last years. Most notably, deep learning enabled groundbreaking progress in areas such as self-driving cars,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-08-deep-cell-networks-ai-single-cell.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/20-deeplearning.jpg",
+          "width": 1440,
+          "height": 869,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-08-deep-cell-networks-ai-single-cell.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-deep-cell-networks-ai-single-cell.amp",
+      "publishedDateTime": "2020-08-04T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars.md",
       "title": "AI Needs To Gain Famed MacGyver Shrewdness, Including For AI Self-Driving Cars",
       "excerpt": "MacGyver solved it again! Who or what is a MacGyver, you might wonder? Well, most people have heard of MacGyver, the TV series and main character that manages to always find a clever means to extricate himself from some puzzling predicament,",
@@ -567,6 +956,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-04-deepfakes-ranked-as-most-serious-ai-crime-threat.md",
+      "title": "'Deepfakes' ranked as most serious AI crime threat",
+      "excerpt": "Fake audio or video content, also known as 'Deepfakes', has been ranked as the most worrying use of artificial intelligence ... These are using driverless vehicles as weapons, crafting more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/ai-1596543975.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528",
+      "publishedDateTime": "2020-08-04T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
       "title": "Nokia to set up robotics lab at Indian Institute of Science",
       "excerpt": "Nokia Center of Excellence (CoE) for networked robotics will promote interdisciplinary research involving robotics, advanced communication technologies and artificial intelligence",
@@ -958,393 +1388,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions.md",
-      "title": "LTTS expands collaboration with Microsoft to offer workplace transformation solutions",
-      "excerpt": "The cloud-based smart buildings/campus/spaces solution helps monitor and manage building operations and optimise business metrics leveraging advanced IoT based Edge Analytics and machine learning algorithms,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/articleshow/77346713.cms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-410760,msid-77327714/dodo-drop-the-indian-shareit-developed-by-kashmiri-teenager.jpg",
-          "width": 412,
-          "height": 255,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/software/ltts-expands-collaboration-with-microsoft-to-offer-workplace-transformation-solutions/amp_articleshow/77346713.cms",
-      "publishedDateTime": "2020-08-04T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-get-over-50-hours-of-training-in-machine-learning-for-under-30.md",
-      "title": "Get over 50 hours of training in machine learning for under £30",
-      "excerpt": "TL;DR: The Machine Learning Master Class bundle is on sale for £29.85 as of August 4, saving you 91% on list price. Thanks to developing artificial intelligence technologies, computer are smarter ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F08%252F04%252Fa2%252F9d02595b494441d2bb4dc704f8ce4b85.1f5fc.jpg%252F1200x630.jpg?signature=Sptw61vujsHeWR7oaA4xnp6uvgw=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/aug-4-machine-learning-online-sale.amp",
-      "publishedDateTime": "2020-08-03T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-deepfakes-ranked-as-most-serious-ai-crime-threat.md",
-      "title": "'Deepfakes' ranked as most serious AI crime threat",
-      "excerpt": "Fake audio or video content has been ranked by experts as the most worrying use of artificial intelligence in terms of its potential applications for crime or terrorism, according to a new UCL report.",
-      "sourceUrl": null,
-      "webUrl": "https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-ai-firm-sues-apple-for-14-billion-alleges-siri-infringes-on-its-patents.md",
-      "title": "AI firm sues Apple for $1.4 billion, alleges Siri infringes on its patents",
-      "excerpt": "What just happened? Apple's Siri is not the most successful digital assistant, but that didn't stop a Chinese AI company from use it as a means to block sales of Apple devices in the region and potentially score some settlement cash. All of this is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-03-image-21.jpg",
-          "width": 2880,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86228-ai-firm-sues-apple-14-billion-alleges-siri.html",
-      "publishedDateTime": "2020-08-03T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-artificial-intelligence-ai-in-healthcare-market-next-big-thing-major-giants-intel-nvidia-google.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Next Big Thing | Major Giants Intel, Nvidia, Google",
-      "excerpt": "A new business intelligence report released by HTF MI with title \"Global Artificial Intelligence (AI) in Healthcare Market Insights, Forecast to 2025\" is designed covering micro level of analysis by manufacturers and key business segments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/265983784/artificial-intelligence-ai-in-healthcare-market-next-big-thing--major-giants-intel-nvidia-google",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/frc1597088231.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing.md",
-      "title": "COVID-19 Impact: Artificial Intelligence (AI) Chips Market Will Accelerate at a CAGR of Over 42% Through 2020-2024 | Increasing",
-      "excerpt": "Increasing Adoption of AI Chips in Data Centers to Boost Growt",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-08-03/covid-19-impact-artificial-intelligence-ai-chips-market-will-accelerate-at-a-cagr-of-over-42-through-2020-2024-increasing",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-chinese-artificial-intelligence-company-files-14-billion-lawsuit-against-apple.md",
-      "title": "Chinese artificial intelligence company files $1.4 billion lawsuit against Apple",
-      "excerpt": "Chinese artificial intelligence company Shanghai Zhizhen Intelligent Network Technology Co., Ltd., also known as Xiao-i, has filed a lawsuit against Apple Inc , alleging it has infringed on its patents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-apple-china-patent-suit-idUSKBN24Z146",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200803&t=2&i=1528138014&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG720MC",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24Z146",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24Z146",
-      "publishedDateTime": "2020-08-03T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-the-ethics-of-using-chatbots-for-legal-services.md",
-      "title": "The Ethics Of Using Chatbots For Legal Services",
-      "excerpt": "Delegating legal work to robots involves several risks, including running afoul of statutes dictating unauthorized practice of law, but with the right precautions, law firms can lawfully employ artificially intelligent chatbots that can imitate human conversations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law360.com/articles/1296973/the-ethics-of-using-chatbots-for-legal-services",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1296973",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1296973",
-      "publishedDateTime": "2020-08-03T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-artificial-intelligence-researchers-release-theaitre-play-written-entirely-by-machines.md",
-      "title": "Artificial intelligence: Researchers release 'theAItre' play written entirely by machines",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts are working on a cutting-edge research project merging machine learning with theatre.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/AI-1318237.jpg?r=1596490343190",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1318237/artificial-intelligence-theatre-play-written-entirely-by-machines/amp",
-      "publishedDateTime": "2020-08-03T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -28,91 +28,75 @@ images:
     isCached: true
 
 related:
-  - title: "2025 Healthcare Artificial Intelligence Market |Top Companies, Trends and Future Prospects Details for Business Development"
-    excerpt: "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,"
-    publishedDateTime: 2020-08-12T18:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-08-12"
+  - title: "AI for Drug Discovery Market 2020-2025 / Trends Adopted by the Competitors, Regions with Forecast"
+    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The"
+    publishedDateTime: 2020-08-17T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2020-2025-trends-adopted-by-the-competitors-regions-with-forecast-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market 2020-2023, Size, Share, Latest Global Trends, Leading Key Players, Future Growth"
-    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
-    publishedDateTime: 2020-08-15T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-2023-size-share-latest-global-trends-leading-key-players-future-growth-2020-08-15"
+  - title: "Automotive Artificial Intelligence Market Size 2020: Notable Growth, Trends, Key Players, Reginal, Product Review and Forecasts Report To 2025"
+    excerpt: "Component (Software, Hardware), Process (Image Recognition, Data Mining, Signal Recognition), Application (Semi-autonomous Driving, Autonomous Driving, Human-Machine Interface), and Regional Market Size,"
+    publishedDateTime: 2020-08-13T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2020-08-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025"
-    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,"
-    publishedDateTime: 2020-08-13T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12"
+  - title: "Global Cognitive Analytics Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
+    excerpt: "Global Cognitive Analytics Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is generated"
+    publishedDateTime: 2020-08-15T00:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-08-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market | 2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Forecast by Size, Share, Trends and Growth Forecast"
-    publishedDateTime: 2020-08-13T07:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
+  - title: "Global Cognitive Computing Market 2020 Report Explores Key Regions, Company Profile, Opportunity and Challenge to 2025"
+    excerpt: "Global Cognitive Computing Market by Manufacturers, Countries, Type and Application, Forecast to 2025 offers a much-awaited study on the global market as an honest review of the industry. The report sheds light on insights related to the present scenario of the global Cognitive Computing market and the industry scenario over the forecast timespan from 2020 to 2025."
+    publishedDateTime: 2020-08-16T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-2020-report-explores-key-regions-company-profile-opportunity-and-challenge-to-2025-2020-08-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market Research, Development, Top Companies, Trends And Growth 2020 To 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
-    publishedDateTime: 2020-08-13T19:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-development-top-companies-trends-and-growth-2020-to-2025-2020-08-13"
+  - title: "Global Cognitive Computing Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
+    excerpt: "Global Cognitive Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides exclusive vital statistics on the market covering data, information, trends, and competitive landscape details."
+    publishedDateTime: 2020-08-13T01:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-08-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market 2020 Global Technology, Development, Trends, Growth and forecasts 2024"
-    excerpt: "Updated Research Report of Artificial Intelligence in Transportation Market 2020 2024 Summary Wiseguyreports Com Adds Artificial Intelligence in Transportation Market Demand Growth Opportunities Manufacturers and Analysis of Top Key Players to 2024 To Its Research Database Artificial Intelligence in Transportation"
-    publishedDateTime: 2020-08-14T04:00:00Z
-    webUrl: "https://www.openpr.com/news/2112349/artificial-intelligence-in-transportation-market-2020-global"
-    ampWebUrl: "https://www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/T/8/T814904483_g.jpg"
-        width: 500
-        height: 598
         isCached: true
 
 secured: "tMEGjd7SgoFwMC8r0Iu/wMb/vDdtpku8iOakACjjj1SkrOAuU6AJQ+Wt03l5HhD8ARChCgINcR/hShnsRye9sxNVLMv30qiDBtsGchQfSxR3teiQhiM2CgtarYfvpMm/gD0/6LvJBKoNUypkY56eLIUgp1JaDL1bc5dwrkt1ztPl0EX+IIYKglwlZ4DmBMyq9Dz44DWxLXyB864idc+Ttom5uMa3PQJ1hgTuZZQkyQfmLTeOEG+yJ2M95XEXkeb4aApDv8pmTaQuwUxURK+p2rZsYA8Y1Yr6ZBdCxzkwGW1PwNbmPCzZklrYL1khi16zymgacYXyC3GN0NP1TNrmwA==;akMgwKZrEMuMSXVyijpx3A=="

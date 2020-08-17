@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-08-artificial-intelligence-ways-parolees-
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-artificial-intelligence-ways-parolees-recommitting.amp"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 2400
     height: 1537
     isCached: true
-
-related:
-  - title: "Artificial intelligence examines best ways to keep parolees from recommitting crimes"
-    excerpt: "Starting a new life is difficult for criminals transitioning from prison back to regular society. To help those individuals, Purdue University Polytechnic"
-    publishedDateTime: 2020-08-12T17:54:00Z
-    webUrl: "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/"
-    ampWebUrl: "https://scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/517900/artificial-intelligence-examines-best-ways-to-keep-parolees-from-recommitting-crimes/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 50
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2020/08/prison-aiLO.jpg"
-        width: 800
-        height: 512
-        isCached: true
 
 secured: "bccu2VrcDereRfZDOnAhVIKQlTzVzL7y67oE5mPLAEq8Ds2AeJKdUr1aqyfn2XQPBqtF4aU+FfZiv/smbz6DcAQreAN1CYtxKrM8u0MEbR61PuLv0F0Nd5leNfVn2zS9AbbsOEax7WF5SXQZaYf3W9UGqyyAeAzhPkaWlww0UdyYNd5tHurN4BjZmufqi4mvxruCMc7IUJiHSIxCClmjriGx1dDCE73RuTr83ihS2gPhULRkJkKoiBQNaJcsnC1hRXEhJ3IegIg/vun0dXwyxO8HR1mxK+JwNtFS63LhufUTDf7+/gFxE/rk51XNht/ObGwWqlAFG5W+Xdy1VQ9acYFmrvi9BHMXGN9gq9Nob9Ibr6R35DmOWw7g+n4PgOxMsuj0eD8una9dysmKHDjrDVOdqDMVsTd0WnrC3vqJESzlQzdp2lZxqPFpf4sxoRRxmuiOp+ajgqJk5hsfGbOf/zVpxWnko3JvCKn0ACVFDMcbJi3cZdSzKDJ5fcuLfmAOUuOp+Zib+wEPAIMzb4uOBg==;hyrt4pXHE3FET7TTP4nWaw=="
 ---

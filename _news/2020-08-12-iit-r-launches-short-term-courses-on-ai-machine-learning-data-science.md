@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-12T23:17:00Z
 webUrl: "https://timesofindia.indiatimes.com/city/dehradun/iit-r-launches-short-term-courses-on-ai-machine-learning-data-science/articleshow/77511018.cms"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: India Times
@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IIT Roorkee joins Coursera to launch 2 AI, ML programmes"
-    excerpt: "The Indian Institute of Technology-Roorkee ((IIT-R) in partnership with leading online learning platform Coursera on Thursday launched two new online certificate programmes for professionals looking to build skills in data science,"
-    publishedDateTime: 2020-08-12T18:29:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200812/3608498.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "RDplAufI4LiRs09NR7BWLA1sVs5LNz7NxwpsYd0jAcz/Gt45Ig7jYt9bihhART804kJipeGS+V679XGYtk3robTy0Cq9z7tX17zE+mVo0/9SB/BnRIjI9hBShwPq7/IlMaUmqiWzoFTMyNFjNngqdfxxg49Vhk/hng6U0ZoAZLmcRMmIn2bXHCCWzn+EOjg38tqs86hkn4sIUb5zVcePB8CYGSV5CMicjrgPCccB614Nwb48Rg43jmNAtrjhEQW2GiBYZhy344/NNGa8Ind0NP3y86HxgTyQm9dULQVlmAVS0nIraioUMdshrIcsBbeq2TsbV7XfqUrZp5IHmOMXUQ==;NRKUseXlUyaV3rAdMr0/MQ=="
 ---

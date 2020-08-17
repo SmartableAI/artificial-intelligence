@@ -38,15 +38,6 @@ related:
         width: 1070
         height: 579
         isCached: true
-  - title: "IIT Roorkee joins Coursera to launch 2 AI, ML programmes"
-    excerpt: "The Indian Institute of Technology-Roorkee ((IIT-R) in partnership with leading online learning platform Coursera on Thursday launched two new online certificate programmes for professionals looking to build skills in data science,"
-    publishedDateTime: 2020-08-12T18:29:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200812/3608498.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "7T54xhwK/PUAWuoqLy1sP516CFvEXeX27CIdHp0QRc1nH+VTseXuGL45E/B5giNqjXqI5gcbMj3KYYgCGJ8FN5Ix7Y8kEDEf8YnGIG010nsqZL+uRa8sp1ECegmThr5uXQRHihmYlXdvR8vMKnEikC8LnS7zUeJmTtjHu0BuXOVSgMJvn5QndCYz+kopnaas6l/SQ735Bb4muMA/OteGy3Qi9o3B2I2RK4Vp5MEMIznWScN3UWU0WSgmlrc5cVqxBMwCXLRtdvzM6BY7HU7DSBXtt0RI6yR3rfniOnxW2yMuJ8shr6XVcLZ618YX5WONalBqPRwVkDKRprejKqFq/A==;Mb6+Kz7TncOROD0J37QFVA=="
 ---

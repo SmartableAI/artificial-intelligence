@@ -8,8 +8,8 @@ ampWebUrl: "https://phys.org/news/2020-08-cyborg-technology-enable-diagnostics-m
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-cyborg-technology-enable-diagnostics-merger.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Phys.org
@@ -39,7 +39,21 @@ related:
         width: 2349
         height: 1762
         isCached: true
+  - title: "New ‘Cyborg technology’ could see human brains merged with AI to diagnose disease from inside the human body in future"
+    excerpt: "A coating for sensors and other bioelectronic devices could usher in a new era of AI technology integrating man with machine, researchers have claimed"
+    publishedDateTime: 2020-08-17T10:45:00Z
+    webUrl: "https://inews.co.uk/news/technology/cyborg-technology-merge-human-brains-ai-diagnose-disease-inside-human-body-581112"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 15
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161453473.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
 
-secured: "URCE9DbYjKRBwRqHJAejFug4EYcVVYXHCzJKOaF0ZXWTLEMWGcDexajLm9G4N1KYpYEHGYEObgRALyaU7cJs8uSGsNNPtdTi6zTEfL909CahiJ8uk+CgEIoy+dEfrd/ne24FiO5F0NBQKdPEuD1wFlD4WrVhCQ5ATBiHCD7uIHSQN71bkIlyvsgJEZQaISUD/fKxu4kjnGJisNwd7Kxo4mbUaDNpGmHRwLKUQkqOcql+YdgxmiFvdJ6JapB85H53JGEEWC1Lwi2RmSY6dgmK4jt9ATSFk707TKqYnfHKxt/xTQMDFgCM669a72CnBNyuTzjGUTcCP/BlMKANTKVDyA==;/LRb1YCEdZeG4HA39c6MJQ=="
+secured: "ia5n5ll28xUHb4pOlwPehlEd1FdCgzZ6yzQTycpAblVzMILa6K9Rk+QisEI4KuOoszR5I7+64RXDZRXzbG28QcrPPOQw4GGxqkIztZjjyVcu1gAbIJ8UU0rk7xjd096Eh6a6eTE0qiZjBRJIF8jaWf2VVY/cCpKWV9fbKWeQ+B0ovDnPxozaw0AtT7OaU9isCnfAGgMwidoFedvXCaQVuzBJtTFWEIfCeCRi7oXrojHCFjfCXaE0eJxUCKsQsumsXeZdxSS1nZ3hFjtcaVoEJ+3gb86rQvwnrxlbNwKpn4/OHHd7Ei9c8s9eXIEYF0mRZQd8Ewmb/nEVhzwzqSCk973ZNTTP8/nArklUHjmT6prPbFSe0ecjA0LPBkgpdTVzqYlhP+HZJeKQyKZUCTAGL3MvgyQRYtVdzRn3hy03CY18G8xCIJMJmIM6Tp7zNaGFdK3535w9bKoBJNkmvuoHaIKtEN51OxHj9Qxyz2bkA8QuC23iUHPpqBOvc7qzOMOzsWYgbD3JQkeTRHGaxnLP0A==;uI8h79b84iQRsNRIKnqn4w=="
 ---
 

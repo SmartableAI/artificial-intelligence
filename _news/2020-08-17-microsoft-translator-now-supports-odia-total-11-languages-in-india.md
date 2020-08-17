@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft Translator now supports Odia, total 11 languages in India: Know details"
+    excerpt: "Microsoft Translator enables professionals to enhance their business and customer interactions with text and speech translation powered by Translator and Microsoft Speech service, and Azure Cognitive Services."
+    publishedDateTime: 2020-08-17T09:48:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 69
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/08/microsoft-translator-indian-languages-1597657674.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Translator Adds Supports Odia Text Transtlation"
     excerpt: "Microsoft Translator will now offer real-time translation and transliteration for Odia, taking the total number of Indian languages in which one can access the service to 11, the company said on Monday."
     publishedDateTime: 2020-08-17T07:55:00Z

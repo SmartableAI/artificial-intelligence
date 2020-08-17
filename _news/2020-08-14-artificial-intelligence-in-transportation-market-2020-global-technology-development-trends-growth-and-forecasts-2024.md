@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "2025 Healthcare Artificial Intelligence Market |Top Companies, Trends and Future Prospects Details for Business Development"
-    excerpt: "Request a sample Report of Healthcare Artificial Intelligence Market Analysis Report at:  Growing applications of AI for healthcare and research purposes, including detection of disease, management of chronic condition,"
-    publishedDateTime: 2020-08-12T18:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2025-healthcare-artificial-intelligence-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-08-12"
+  - title: "Facial Recognition Market 2020-2024 / Growth, Emerging Trends and Future Opportunities"
+    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
+    publishedDateTime: 2020-08-12T20:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market 2020-2023, Size, Share, Latest Global Trends, Leading Key Players, Future Growth"
-    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
-    publishedDateTime: 2020-08-15T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-2023-size-share-latest-global-trends-leading-key-players-future-growth-2020-08-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -67,43 +53,59 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market | 2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Forecast by Size, Share, Trends and Growth Forecast"
-    publishedDateTime: 2020-08-13T07:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Military Market 2020-2025 / Trends, Development, Revenue, Demand and Forecast"
-    excerpt: "Aug 16, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated ... target recognition, battlefield healthcare, simulation & training, planning & allocation, threat monitoring & situational awareness, information processing ..."
-    publishedDateTime: 2020-08-16T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2020-2025-trends-development-revenue-demand-and-forecast-2020-08-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Research, Development, Top Companies, Trends And Growth 2020 To 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
-    publishedDateTime: 2020-08-13T19:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-development-top-companies-trends-and-growth-2020-to-2025-2020-08-13"
+  - title: "Military Artificial Intelligence (AI) And Cybernetics Industry 2020 by Market Analysis, Growth Opportunity, Future and Forecast to 2026"
+    excerpt: "A comprehensive analysis of the different factors and parameters is carried out in the report that has been published on the global Military Artificial Intelligence (AI) And Cybernetics Market. The market concentration of the products sold in the different market segments is identified and is presented in the report."
+    publishedDateTime: 2020-08-13T12:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-industry-2020-by-market-analysis-growth-opportunity-future-and-forecast-to-2026-2020-08-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Military Market Global Outlook and Growth Opportunities 2020"
+    excerpt: "The Global Artificial Intelligence In Military Market Research Report 2020 2026 is a valuable source of insightful data for business strategists It provides the industry overview with growth analysis and historical futuristic cost revenue demand and supply data as applicable"
+    publishedDateTime: 2020-08-14T13:00:00Z
+    webUrl: "https://www.openpr.com/news/2113084/artificial-intelligence-in-military-market-global-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2113084/artificial-intelligence-in-military-market-global-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113084/artificial-intelligence-in-military-market-global-outlook"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/T/8/T814435144_g.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Video Analytics Market 2020: Drivers, Restraints, Opportunities, Threats, Trends, Applications, Growth Analysis and Forecast To 2025"
+    excerpt: "The Global Video Analytics Market was valued at USD 2.06 billion in 2016 and is projected to reach USD 28.6 billion"
+    publishedDateTime: 2020-08-17T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-market-2020-drivers-restraints-opportunities-threats-trends-applications-growth-analysis-and-forecast-to-2025-2020-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Automotive Recognition System Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025"
+    excerpt: "A new offering by MarketsandResearch.biz entitled Global Automotive Recognition System Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 offers a meticulous analysis of the market that carefully examines the market segments,"
+    publishedDateTime: 2020-08-16T23:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2020-08-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

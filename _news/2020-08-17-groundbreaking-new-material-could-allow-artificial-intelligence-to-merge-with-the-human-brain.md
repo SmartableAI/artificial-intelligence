@@ -39,6 +39,20 @@ related:
         width: 926
         height: 992
         isCached: true
+  - title: "New ‘Cyborg technology’ could see human brains merged with AI to diagnose disease from inside the human body in future"
+    excerpt: "A coating for sensors and other bioelectronic devices could usher in a new era of AI technology integrating man with machine, researchers have claimed"
+    publishedDateTime: 2020-08-17T10:45:00Z
+    webUrl: "https://inews.co.uk/news/technology/cyborg-technology-merge-human-brains-ai-diagnose-disease-inside-human-body-581112"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 15
+    images:
+      - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161453473.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
 
 secured: "rVhJ8HDNiyOei6HUaohATZmbEi6zcTKSta+c/Xg2qvmu2CWDKq4Z3bSSSQRmt+oOPuBKT/6czX4PXwIdaSSlhhyD/i0Sl6Vq1+1dMRx9lB8i8CAKnKW3vI0EnLeUsZxxvhncp27x+yQsuKEfIBbU0Dvr1h2pjOaP+hZnQaj5avWj5wBrQyEcoSmifFX92d1GzQBkVK1SJbj14z/1WHnnXB3KIKBjSLQbUXHxNjLhonS6l3PeeHPyNpnweUSlWQoDx4s5Ae53ICeHXHonWruvi+9A9ZCGB3RwVoHdkTYnkrI/B90EVAU1kEqphCFEeryWFx2rWbO+M752hvJefkQEPQ==;MKSQIzvM3892/9TnA7M/Yw=="
 ---

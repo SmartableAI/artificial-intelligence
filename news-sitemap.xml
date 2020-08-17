@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://odishatv.in/science/microsoft-translator-adds-supports-odia-text-transtlation-469966</loc>
-    <lastmod>2020-08-17T00:55:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/17/how-can-data-quality-enhance-trust-in-artificial-intelligence/</loc>
+    <lastmod>2020-08-17T04:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/</loc>
+    <lastmod>2020-08-17T03:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774</loc>
+    <lastmod>2020-08-17T02:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://phys.org/news/2020-08-cyborg-technology-enable-diagnostics-merger.html</loc>
+    <lastmod>2020-08-17T02:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2020-2025-trends-adopted-by-the-competitors-regions-with-forecast-2020-08-17</loc>
+    <lastmod>2020-08-17T00:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -43,6 +67,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011</loc>
+    <lastmod>2020-08-15T06:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/vid2play-morning-after-130536768.html</loc>
     <lastmod>2020-08-15T06:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -57,6 +87,12 @@
   <url>
     <loc>https://www.forbes.com/sites/cognitiveworld/2020/08/15/how-the-us-department-of-health--human-services-hhs-is-innovating-with-ai-an-interview-with-oki-mek/</loc>
     <lastmod>2020-08-14T22:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-2023-size-share-latest-global-trends-leading-key-players-future-growth-2020-08-15</loc>
+    <lastmod>2020-08-14T21:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -355,12 +391,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://timesofindia.indiatimes.com/city/dehradun/iit-r-launches-short-term-courses-on-ai-machine-learning-data-science/articleshow/77511018.cms</loc>
-    <lastmod>2020-08-12T16:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-08-12T16:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -369,6 +399,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions/</loc>
     <lastmod>2020-08-12T15:49:17-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12</loc>
+    <lastmod>2020-08-12T13:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -475,7 +511,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html</loc>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/buddy-ai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking/article_2e58ca27-737c-5121-91c8-d73309d7043c.html</loc>
     <lastmod>2020-08-12T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -525,6 +561,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/11/what-kamala-harris-record-says-about-major-ai-policy-issues/</loc>
     <lastmod>2020-08-11T20:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.liputan6.com/tekno/read/4328298/perdana-liga-perempuan-aws-deepracer-resmi-digelar</loc>
+    <lastmod>2020-08-11T19:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -721,7 +763,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
+    <loc>https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/</loc>
     <lastmod>2020-08-10T22:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -741,6 +783,12 @@
   <url>
     <loc>https://www.fool.com/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx</loc>
     <lastmod>2020-08-10T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoq.com/vendorcontent/show.action?vcr=5426&amp;itm_source=infoq&amp;itm_medium=VCR&amp;itm_campaign=vcr_news_click&amp;itm_content=bottom</loc>
+    <lastmod>2020-08-10T16:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1717,6 +1765,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.indiatvnews.com/technology/news-deepfakes-ranked-as-most-serious-ai-crime-threat-639528</loc>
+    <lastmod>2020-08-04T05:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.livemint.com/companies/news/nokia-to-set-up-robotics-lab-at-indian-institute-of-science-11596543382756.html</loc>
     <lastmod>2020-08-04T05:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1779,12 +1833,6 @@
   <url>
     <loc>https://mashable.com/uk/shopping/aug-4-machine-learning-online-sale/</loc>
     <lastmod>2020-08-03T22:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://eurekalert.org/pub_releases/2020-08/ucl-ra080320.php</loc>
-    <lastmod>2020-08-03T19:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

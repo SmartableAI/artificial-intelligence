@@ -1,0 +1,28 @@
+---
+category: news
+title: "IBM hires Samsung to manufacture new data centre processor chip"
+excerpt: "IBM has unveiled its latest processor chip for data centres that it claims can handle three times the workload of its predecessor."
+publishedDateTime: 2020-08-17T10:43:00Z
+webUrl: "https://www.siliconrepublic.com/companies/ibm-power-10-chip-data-centres-samsung"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: SiliconRepublic
+  domain: siliconrepublic.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/08/Power10.jpg"
+    width: 800
+    height: 600
+    isCached: true
+
+secured: "NwDqDnjhrKgWD+tPkAhIIFsdPt0mrx/Uo2RgDii7oYIRGBwQNkBnKyj5gSlIqHl9cuDhpibzzU3RnPg0IMWfiUts2Iq9thJCkFe/XM5UCvz4Ve/AW28dxCBEvYiW4JzuWcAQIai6L2BDiEDCYVYlzSShVoBhMP4GOXZR4/L5ph9ciVrLqYgf4etW1rL/g0/Tv4QU7Yu4sErEX677MLWjHcoSYD5iOpw15/O/9If9K+s3novi7Ql+3SbJLD/V0bdJpDvz8SjuoydFtkw/Dfm0Uv359k1aAc3JPlM5WxDbqb1dVjBlAfl9p46wdBVZhfOEJ+jO/q2K2s1hRKlhv2BZrw==;Cnw/hwRlysHbFprFHxs2qw=="
+---
+

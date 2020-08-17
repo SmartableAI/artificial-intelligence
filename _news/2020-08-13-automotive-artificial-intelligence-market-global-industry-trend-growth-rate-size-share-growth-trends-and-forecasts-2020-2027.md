@@ -27,77 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market 2020-2024 / Trends, Market Share, Growth, Opportunity"
-    excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
-    publishedDateTime: 2020-08-12T18:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity-2020-08-12"
+  - title: "Artificial Intelligence (AI) in Healthcare Market 2020-2023, Size, Share, Latest Global Trends, Leading Key Players, Future Growth"
+    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
+    publishedDateTime: 2020-08-15T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-2023-size-share-latest-global-trends-leading-key-players-future-growth-2020-08-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2020-2024 / Growth, Emerging Trends and Future Opportunities"
-    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
-    publishedDateTime: 2020-08-12T20:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12"
+  - title: "Artificial Intelligence in Healthcare Market | 2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Forecast by Size, Share, Trends and Growth Forecast"
+    publishedDateTime: 2020-08-13T07:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI for Drug Discovery Market 2020-2025 / Trends Adopted by the Competitors, Regions with Forecast"
-    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The"
-    publishedDateTime: 2020-08-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2020-2025-trends-adopted-by-the-competitors-regions-with-forecast-2020-08-17"
+  - title: "Artificial Intelligence In Military Market 2020-2024 / Global Industry Trends, Share, Size and Forecast Report"
+    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
+    publishedDateTime: 2020-08-14T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2020-2024-global-industry-trends-share-size-and-forecast-report-2020-08-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Military Artificial Intelligence (AI) And Cybernetics Industry 2020 by Market Analysis, Growth Opportunity, Future and Forecast to 2026"
-    excerpt: "A comprehensive analysis of the different factors and parameters is carried out in the report that has been published on the global Military Artificial Intelligence (AI) And Cybernetics Market. The market concentration of the products sold in the different market segments is identified and is presented in the report."
-    publishedDateTime: 2020-08-13T12:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-industry-2020-by-market-analysis-growth-opportunity-future-and-forecast-to-2026-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Military Market Global Outlook and Growth Opportunities 2020"
-    excerpt: "The Global Artificial Intelligence In Military Market Research Report 2020 2026 is a valuable source of insightful data for business strategists It provides the industry overview with growth analysis and historical futuristic cost revenue demand and supply data as applicable"
-    publishedDateTime: 2020-08-14T13:00:00Z
-    webUrl: "https://www.openpr.com/news/2113084/artificial-intelligence-in-military-market-global-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2113084/artificial-intelligence-in-military-market-global-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113084/artificial-intelligence-in-military-market-global-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
     quality: 49
     images:
-      - url: "https://cdn.openpr.com/T/8/T814435144_g.jpg"
-        width: 640
-        height: 360
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
     excerpt: "The Global Artificial Intelligence in Drug Discovery Market is estimated to value over USD 2.08 billion by 2027 end with a CAGR of over 40.5% during the forecast period 2020 to 2027. The research report titled Artificial Intelligence in Drug Discovery offers comprehensive information on key driving factors,"
