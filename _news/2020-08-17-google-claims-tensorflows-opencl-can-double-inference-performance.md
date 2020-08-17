@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl
 ampWebUrl: "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 121
+heat: 121
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "+RBCiwV4qVNYdmYmZ8IKyVCtNB/HF9eu4gtQjq+gq8ETgSxydtCW5wQ22u7pe9E8tIhu3SoC5n/6LaemcsVB3x/BsqpwPpxTmZfEdSrh6/TuWo9suu38MOotKrd8HF7vpFRdoYsRFV0c60HiiixoejGesVumB8SKOOPAq0sEkTXBSOW3gABbq1Sc2x0ym6iq6ibvJU5QhFKXtds1csZOMYjE+4j20MUfhVRRYEQSu8JJ8LA//MwHISrTeh81S+Br0h3cM2QCO3A6KS6aRKNSK2NRsv69zSqsKn7gbW9YMrj7pfW/S3pMuiawKGK4EO4BHf8EKeNVgce64torkmgN5g==;cJtlErN6JlhBmhyfmSVvMg=="
+secured: "5hsQUr8fx0HfG1DkuxjEClmKutTXIoURTA8cU3MvYw1cszqZUX/x43F2cyHs/qwVy49F9664hoowaesHeM9AheInqiVqT6wof7QlDXd62QM0Fv+ju4ySg7NTUWUkqRBZzCrvz1G1x9mBFh/ukh85n27DolHtIW52G0S4PLCk8VRCzNTlCXVci68ZDcUpuOyErMWryve4FdGoZQESOTp2IKuGvTmHY2fAObor6w95mtXeZXUTAhfXYdxieFrZNBlR4q497R58Or5pHHCurkr5tlNGvcOjws3UeMESPnJ2dTBqINOkpqFwCy1OFH1EEM8aUjzSdbBlzod+GeQWskA5EtiFe/j83t2+nmFfZiBIOexWuXvkrsPqL/N98BUAp8qNytp+Or2Kd/bN4kiB87kcztBXMwt+PStHJlgK0PHW/HPMWIxvMKVoe3vR70ZWarkKGzCqNG+9Q3DD2MkIcoXLyXKpSlYfY+Ja62WkuhrJv4t7KP3ULC0mpoxgp4Y59ltj;aJ59RkVQTw/esATri4kqPQ=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-a
 ampWebUrl: "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/08/character_sheet3.jpg?w=512"
@@ -28,6 +29,6 @@ images:
     height: 512
     isCached: true
 
-secured: "mRM9SwQAoqhp0lN3SDJp9anaagb7iciV5k77K4mA0w5nQ268tdy2y1Iqafx0qaKjwY+Zgu8GzDfPIhgXbXizG+eV3PGtWbmes0/fHBdXL62U0iFNODhDk28T+/tPb4GVlwSl2SKOANmNDBHPbD0aE5Z2hxiJ0QhOgeZR6xGo8BkguHow7PtiJQMEqkDyaniEmDiojHcl+9p+0j63PEigy68fiqid9in+SnhmDVoShq55Fq69Cyjn0IsvFzZ9vPfNpuRFU8872rIg88BLdGaeV9pduyXHE4i/m+WWRXImHdCbMqNIX4oAo8O+JXkuVbvGQrw+ugC2etwZiw3UiSZewg==;LOfLDio5/HOdVNKcz3m9RQ=="
+secured: "WtpVwaMVpXb7X3g9STHn44uB5H+4RNvAXCOoWaN5K3WIKckQMxmF/86t/jLqk1QMfoWo9bjgjILxJEr98/Ki4JnoNYYabpJcCYbZhUqyrAmLbNlLXc4SGhHrc6fnZEY48y8e5GJal6URDhLOsKgCYPWkDQA7NmSCEelOSoDRzUVgzpCTSjjmypG0sScxkGmRdBD6NrMOiYwH0Fo5/QX2oKhsFRW1ZXe1Qi/b586YkNyeyRzLsWwg5u5ReJUbKqaM9muL+xFHbdQAjW+CZiqwv8+Yt5siMXtM1n80ZTzuLLS4slswIBXZlYnBqQtDuEzhyN4mDFpTKBAr4e6nQKXz0fyhU47gSt59YolPwCb+fHUDeLC8lrsJ/DLW029Y9BrphdglSfEHE6nZUFoW+WZfGofNafnlqfTZw8gqif50FY3e/DPKrVRIBJCyLaAD3TIC3Qa2rOr3VbD+dVnu32nCERt1uHa4p4d5rSUYyuCDCLhrAnGVsCkSc7h9Q0F+yI4lgviN7anw5Pqwgu7gQZ59xw==;a5mQEa9lIdDcl0azsoMz9w=="
 ---
 

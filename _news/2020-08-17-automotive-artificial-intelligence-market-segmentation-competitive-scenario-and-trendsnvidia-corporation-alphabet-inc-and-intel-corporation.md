@@ -41,15 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Computing Market 2020 Key Players Data, Revenue, Future Development, Trend and Competitive Landscape Analysis by 2025"
-    excerpt: "Global Cognitive Computing Market 2020 by Company, Regions, Type and Application, Forecast to 2025 provides exclusive vital statistics on the market covering data, information, trends, and competitive landscape details."
-    publishedDateTime: 2020-08-13T01:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-2020-key-players-data-revenue-future-development-trend-and-competitive-landscape-analysis-by-2025-2020-08-12"
+  - title: "Automotive Artificial Intelligence Market Size 2020: Notable Growth, Trends, Key Players, Reginal, Product Review and Forecasts Report To 2025"
+    excerpt: "Component (Software, Hardware), Process (Image Recognition, Data Mining, Signal Recognition), Application (Semi-autonomous Driving, Autonomous Driving, Human-Machine Interface), and Regional Market Size,"
+    publishedDateTime: 2020-08-13T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2020-08-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

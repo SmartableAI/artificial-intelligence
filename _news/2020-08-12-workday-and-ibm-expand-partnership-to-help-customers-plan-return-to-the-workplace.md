@@ -2,28 +2,24 @@
 category: news
 title: "Workday and IBM Expand Partnership to Help Customers Plan Return to the Workplace"
 excerpt: "AI Applications, IBM Cloud and Cognitive Software. \"By partnering with Workday on a joint solution, we're extending the capabilities delivered by Watson Works to help customers gain greater ..."
-publishedDateTime: 2020-08-12T00:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040"
+publishedDateTime: 2020-08-12T20:36:00Z
+webUrl: "https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
     isCached: true
 
-secured: "umxhi83RDYVqRRITkIGpoK/POIZNYPKU6pgsKyFelB1jKdrvRn1fNJ1EhT9iMvWbTlhk+iBLUIpDHsq0a2IpEyo0aLOPvb9OP9uUIojTMn9Mv9koItLmbvQRLABB0JMDp8Z0P/9Sp+bF4q6kUt0IyCMEa+/O0aiaQN7X2HKq5QEQ7XQAsC+RFw3nJyw6T1obdkdBkoSzYJ5jHH7Ta5aFAGiz6j19C0vCC+bVlTMTniMDOXuWvSAUCBSrd91mfBm02SLd4vkh6gem+0Xn0J97m+TrM6JaG7C84q04M8zLCyHYTfHstqFq7RDpWOuxR7BaoxYjtpSdd3JJlAXPGUenVQ==;g3YwEdOsDJTDvSLIt8cAug=="
+secured: "VbeXkOf8bmc8Fmjpsj2egqt27/ap055DWWUbLM0/ZZsoCzqCIT7PLr+rL693Bd/ea/M18kUmfheHkBfmnk9JRIbeQ4i0HpvoonOvWFM5sGt5QasZ2kz1ep5bKgyMC8EycAXuhFdn92a4I14eXTiiPm7mtCVLQhgQSfyifeknt1KcqjCfvuFCOnM8Fh58xmyACH5nYyOtTkTxqTeQt42xLghxnnUMubTqOv14OJjqmnR3/KJKJJLuEeF3JOUYT6jTx42WuAGmRyewr/cE3cW4RXqk+P2Uq0/TUOQ/XprXLWFU3R3PRsKgCpLLRNzsFsq+HnIXBM0IDOBSECFeclDMfA==;m7BEbsJcf796QA0f7uGmTw=="
 ---
 

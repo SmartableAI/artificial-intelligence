@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Video Analytics Market 2020: Drivers, Restraints, Opportunities, Threats, Trends, Applications, Growth Analysis and Forecast To 2025"
+    excerpt: "The Global Video Analytics Market was valued at USD 2.06 billion in 2016 and is projected to reach USD 28.6 billion"
+    publishedDateTime: 2020-08-17T07:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-market-2020-drivers-restraints-opportunities-threats-trends-applications-growth-analysis-and-forecast-to-2025-2020-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Next Big Thing | Major Giants Alphabet, Apple, Harman, Inago, Lumenvox"
     excerpt: "Global Voice Recognition Market Size Status and Forecast 2019 2025 is latest research study released by HTF MI evaluating the market highlighting opportunities risk side analysis and leveraged with strategic and tactical decision making support The study provides information on"
     publishedDateTime: 2020-08-15T03:55:00Z

@@ -29,29 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025"
-    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,"
-    publishedDateTime: 2020-08-13T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12"
+  - title: "Global Automotive Speech Recognition System Market 2020 Current and Future Market Landscape Analysis 2026"
+    excerpt: "Aug 17, 2020 (Profound via COMTEX) -- The report provides rational insights along with historical and forecast data to aid in better understanding of the Global Automotive Speech Recognition System Market. The report provides a comprehensive analysis of ..."
+    publishedDateTime: 2020-08-17T13:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-speech-recognition-system-market-2020-current-and-future-market-landscape-analysis-2026-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Video Analytics Market 2020: Drivers, Restraints, Opportunities, Threats, Trends, Applications, Growth Analysis and Forecast To 2025"
-    excerpt: "The Global Video Analytics Market was valued at USD 2.06 billion in 2016 and is projected to reach USD 28.6 billion"
-    publishedDateTime: 2020-08-17T07:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-market-2020-drivers-restraints-opportunities-threats-trends-applications-growth-analysis-and-forecast-to-2025-2020-08-17"
+  - title: "Automotive Artificial Intelligence Market Segmentation, Competitive Scenario and Trends|NVIDIA Corporation, Alphabet Inc and Intel Corporation"
+    excerpt: "Automotive Artificial Intelligence Market Overview: The report provides each quantitative and qualitative information of the global Automotive Artificial Intelligence market for the period of 2020 to 2029."
+    publishedDateTime: 2020-08-17T09:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-segmentation-competitive-scenario-and-trendsnvidia-corporation-alphabet-inc-and-intel-corporation-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

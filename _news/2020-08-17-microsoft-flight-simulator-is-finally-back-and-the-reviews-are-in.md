@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/microsoft-flight-simulator-2020-review-
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the startup that helped Microsoft build the world of Flight Simulator"
+    excerpt: "Microsoft’s new Flight Simulator is a technological marvel that sets a new standard for the genre. But to recreate a world that feels real and alive and contains billions of buildings all in the right spots,"
+    publishedDateTime: 2020-08-17T19:46:00Z
+    webUrl: "https://techcrunch.com/2020/08/17/meet-the-startup-that-helped-microsoft-build-the-world-of-flight-simulator/"
+    ampWebUrl: "https://techcrunch.com/2020/08/17/meet-the-startup-that-helped-microsoft-build-the-world-of-flight-simulator/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/17/meet-the-startup-that-helped-microsoft-build-the-world-of-flight-simulator/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/ezgif-4-6790f152bc53.gif"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft Flight Simulator developer Q&A addresses top community questions and concerns"
     excerpt: "With five days to go until Microsoft Flight Simulator's official PC release, the last development update before the event has now been made available, bringing news on even more deliverables."
     publishedDateTime: 2020-08-14T00:54:00Z

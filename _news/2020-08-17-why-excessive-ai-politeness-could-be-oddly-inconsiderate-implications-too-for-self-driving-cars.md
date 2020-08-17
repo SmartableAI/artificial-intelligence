@@ -5,8 +5,8 @@ excerpt: "Does it seem to you that civility and politeness are on the wane? Many
 publishedDateTime: 2020-08-17T15:40:00Z
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/17/why-excessive-ai-politeness-could-be-oddly-inconsiderate-implications-too-for-self-driving-cars/"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F691666654%2F0x0.jpg"

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simu
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8?amp"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI fighter pilot vs. Air Force pilot: Dogfight showdown scheduled for this week"
+    excerpt: "DARPA is conducting its third AlphaDogfight Trials. The winning AI will be pitted against a human pilot in a human vs. algorithm aerial showdown."
+    publishedDateTime: 2020-08-17T19:34:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 83
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/08/17/cd1f7430-be29-406a-aae8-89be51fffecd/resize/1200x/eb87a4489df268a654643e7145b88d8e/darpa.jpg"
+        width: 1200
+        height: 613
+        isCached: true
 
 secured: "GV+v521b0x7VFNUGrcMtc7SWSgD7ZHO5U5vr3LLDz77bT83a0CzuXEwqS3N24nhQF32xnq2r00epV8tizNNZTcdqdbaskBjRKeWDqFYTTdD4VdWd1S32ySdFHEoFkN9mTy45DffwV+K75zZPA8v9dRgNVTd/ZYxgQGYW2IFoOuNxshXI0yVJNa9z5JiJyDLWAjASOWTjR3siwrXYDkxJ7U1ZOe/zadbsAy05ERjEw1koRDdmw/cIGO3Kc1klBKtJhIieV1jxF8KlrmuSem/6PrKoqxi0wkYeHOWDRGhDuBt1UfpH0BPxz5qQZ1QxLQ+VjRHNpG3P+oc3DIDZ0robuzm95WpAKibsxmIGDGbcitO1iz8WVw/RdoQn+P14RVYKXTmdUsTrJ+B/ErPPt2/e6NlOdc3T5KL1g0qA9nFo/4IcF5VwUE6dItOiHOvWjpjByoAAUgWDDwrth/TFfA869Kl37bE5+tFsb3ACLIDtIHwhgZGxV+z0D0FKE+pDH3JlVrJ6SSvQKpRzuPBTLHgV/A==;WrF8Te3ExBYPSyckULchYQ=="
 ---

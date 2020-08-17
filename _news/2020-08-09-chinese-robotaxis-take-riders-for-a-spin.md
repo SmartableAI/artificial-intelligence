@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Chinese 'robotaxis' take riders for a spin"
-excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
-publishedDateTime: 2020-08-09T19:58:00Z
-webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
+excerpt: "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country."
+publishedDateTime: 2020-08-09T07:00:00Z
+webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
 type: article
 
 provider:
-  name: Euronews
-  domain: euronews.com
+  name: Gulf News
+  domain: gulfnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
-    width: 1000
+  - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
+    width: 750
     height: 563
     isCached: true
 
-secured: "zkQWONY66uhbLqN1R3nR0O/l84nDqVCiz5tjC8oBFZyG7LOwQgOGo4cft3Y/DH8xvK/gKBeIds0bWIWEjzdluyuGqISOA9XazLsH0PBlC3vUYXzGOqMWKuGK9HmLqcNHoqwJG8wfthAGeTaaxXcfCEJZG5s7zUJ7b/DXBvkxTir86imjFqOif5YG73Xl1d/0k4V+Y8YL8OkcrTbwC5xU/gdR3mc8SoqF+ib0EfsbPhidq9Opbh1/VoTvwrxPW+JY8TOahO3HIWf+Q9yE2ikfEkmfFq/8jSl+NVqMQXhjg5Dw9EdlQYYZUHf+/RSKszk5k9+U3wpTcMFYC2xC0bWpvQ==;CQ10mpL8w7K36QZ4duHoug=="
+secured: "Jyv7wRTBbsVs+dX5iOyKaSdguYQauDxcVzIxTH9rh525mni6ggudr7JZbXE7zgJ8wPBuFYk1BZA9CqhT8bNIts1hAZ9GpL8TsFHQfeGaEGgcOnXVEn4ziG7PrMsJT43R7pR6lWBbx1sN8XjOqbl1Z0NUWS8nZy8KXlgqGSaOwrCwUi/udHDwqr3S+abYzk7dyq4TxS9x3rLWVuQdsL2/To9BR9VsmRiIUe/lbkzCIvAPPnRNtH9JqT86cwN1xjnrSVXpT5+YZymgoNsuqixxYFgjMVuG5lqvoM0yPtMUuirSaX2bJkTv3j1Dg+quHFfAzKRFj3dFbEVSJVtqTLAtDA==;7Ak8GW9wXNKXIiiXi+G79w=="
 ---
 
