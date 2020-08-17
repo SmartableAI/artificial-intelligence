@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-deli
 ampWebUrl: "https://amp.benzinga.com/amp/content/17086830"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17086830"
 type: article
-quality: 47
-heat: 47
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -16,10 +16,9 @@ provider:
   domain: benzinga.com
 
 topics:
-  - Machine Learning
   - AI
-  - AWS AI
+  - Machine Learning
 
-secured: "eL5z4nn3VjevN7StbuA000CUc/tkQUBig+NUnFGJIwOKH+OewqpFGfDSqW8SP2HVHHnPdezA2emNQy/6wVWGk2KxaYMH/4UlCpEt6aQbK9SrkKsSfiK3nsLTGL76jwGjUYBdxLlEwAgbwTSyP30BJhb/sn47uyslQwpuW2wl2FtQHQJd+h4Co67o8hZxDhST54oQjRFJ1swXDR6raw1DZicGWWY6rmUkgfSWzNM7POCvd3H2x9+gzLqcxFDA5LG1qUvO/tVvXjc5Qz50AKXLZQR2psJbS8xFaXswJ9E4mfZFFCL3K5PoeMZPz08xEs0v7fi5y7RNV9v14TIoDvlMCKReGi9GdZWDya3IthTJb9Gf7HcEYap7kddxMUjYdMlnTC9s7ZVSpmwOs1Av55bFinRVLl4ANRpDa76Vj0cKvMNs4Icz0a+4d/nIXk6qstJUvqChOHyAhrjCUX3JhhKXk990cTEsNp6EE5eDfugZvO2kKMGTc76mne1OnY4/XxHpoODj+hWrXsVm970g1qG3WA==;n6RLFonpLn98ZMei0dNdXw=="
+secured: "xa0+s0P8f13frcEsWCAK73USHZxUZ3SCOYwbi8pGCerEaVB+OsJmAwaVEn5PfWLuZ23Jzt6i/zQV/g7F2K4rJzqMBDR+nkHp6bXmbYPtG5ynk26X//pn3CZ+0h0ZgmiYxDYmBKCO1y32Th+9vYZ2kCq66GfXPIXOwLKR9XNBNf89ub5DnYP58ZdaXneZ+jB9DVtTdZfywy3a8OrSenYwjWnNIcIjBjLm3ICMecPPx7wCeISFkEiksao+LxhDjxrWsQAwG59ciCvEr/U2apHdcht9IXSZMp4OmnaY/MfU4O1J9TGiUrYJcQAylRbMTiUOhcU1JlEuIh4YhuF2IqPoFE9zMyXhVeWR5IDbI8iTQkOWQZi9WnYA6607VKcQubxFU6T9r9w2dXglHHDDVJ+4vd9MEeSYzCZon8qThCon9TXi4PRc8iWcPltaOArE0cyFaQ+xEzOq8v3qYFp89CD6861oNsIG0CZeHlEfHBHASJN9MJeEWSgZ+G4h8FMLyADmDdMQpNgguHKQJNdiZK7l8g==;h4Bebfus6JMPHdILbnItUA=="
 ---
 

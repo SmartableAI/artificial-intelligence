@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM Unveils New Processor Chip To Ease Up AI And Analytics Workloads"
+    excerpt: "It is IBM’s first commercialised 7nm processor that claims to show up to three times better efficiency and workload capacity than the previous models."
+    publishedDateTime: 2020-08-17T12:15:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-unveils-processor-chip-to-ease-ai-analytics-workloads/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/08/IBM-power10.jpeg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "IBM Releases Power10 To Ease AI Workloads"
     excerpt: "It is IBM’s first commercialised 7nm processor that claims to show up to three times better efficiency and workload capacity than the previous models."
     publishedDateTime: 2020-08-17T11:50:00Z
@@ -55,6 +69,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "u5HblHI6hStmlfPfFYcDWeeA5izEuL9R13XzHKJkkMTnZeo9SD0Hk5UdnzSPBh8LvXxGOoi4Ih5AuiCTl0YzYZ/d86NtRwxMQWONTj0Zyu0G7U/6mj2ADryyILBa3VQ6cQOYfGJwcLQUPipKz+BfP6iGc81Cm5qKBt0RCBUMLM7At3gNKTgoNI9T+9r6WD9mSjXTtj6RajKyKyg31xQGDVOmlR+bpnXwCQQZKHoFHslbGq3nx/cJUFsCR7CUXWIoxqxv9qqCtbXLpnXpXwWqB5kg9/Fdy+A9XE4GeIXuqwiWGkuFMpKK4SvCwqvProrUjBYae2P67rHlrvOyMm994A==;4VekCeEtSq7lB5NGavL52g=="
+secured: "9rRuvE/LcraGgJkRmqmOKfITAj2i2PXHOIk5B7piyNLlUHlbcW+kSjGm2NsXlVO80h9ACQMDBRP+0RQmUHz7ScBSOR4PRP2vIVQ52yUvo1+7XEQMgi5FSgkfMkL1P4bsSTrPlYihBRCqEacTwfTilbjSN3gxkUGYvhFxN5ORDqBofvsFUE6bQ7KUJbArKxSqc/2oB4UWUi0QSGpTKaNedAkVQu1lw7Gt/DU/Li5no/GooE3md8/XSorqI52j2DOSFJ8H09OjMaFalGU7xo2cWKMWYa8IN61IHkp+mdsv+w+wDuUNbntNpJOVWCKoXN+sRzTst429wobIHFEGKhdddlKT/336GsGr8YlyfJIGwqhueXPBjIIwNeiZO7UJQKi0rTIft0GKeCIJRJl3HhcUSAyHMgn157ic5jw26AZgXZtUD/lm11ivGtbeBLTV7yBz9zlI9gH+WP+DSqHdA+jIg9C3C50/v7w8FEeYDXk3uQAC4V7Hefw0rADrnFBfore4aSQUQAutEyFDMi7YVc9nlg==;S48o288nrdi/dVxnKsLaog=="
 ---
 

@@ -23,15 +23,29 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligent Process Automation Market 2020-2024, North America, Europe, Asia-Pacific and Rest of the World"
-    excerpt: "Global Intelligent Process Automation Market Research Report: by Data Type (Structured and Unstructured), by Component (Solutions and Services), by Deployment (On-Premise and Cloud), by Technology (Machine Learning,"
-    publishedDateTime: 2020-08-15T03:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-process-automation-market-2020-2024-north-america-europe-asia-pacific-and-rest-of-the-world-2020-08-14"
+  - title: "Neural Network Software Market Research By Growth, Competitive Methods And Forecast To 2026"
+    excerpt: "Aug 17, 2020 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software, services, platform and ..."
+    publishedDateTime: 2020-08-17T10:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI for Drug Discovery Market 2020-2025 / Trends Adopted by the Competitors, Regions with Forecast"
+    excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The"
+    publishedDateTime: 2020-08-17T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2020-2025-trends-adopted-by-the-competitors-regions-with-forecast-2020-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

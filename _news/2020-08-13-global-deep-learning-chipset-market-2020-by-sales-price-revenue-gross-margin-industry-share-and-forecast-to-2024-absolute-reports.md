@@ -44,6 +44,22 @@ related:
         width: 562
         height: 313
         isCached: true
+  - title: "Artificial Intelligence In Military Market Global Outlook and Growth Opportunities 2020"
+    excerpt: "The Global Artificial Intelligence In Military Market Research Report 2020 2026 is a valuable source of insightful data for business strategists It provides the industry overview with growth analysis and historical futuristic cost revenue demand and supply data as applicable"
+    publishedDateTime: 2020-08-14T13:00:00Z
+    webUrl: "https://www.openpr.com/news/2113084/artificial-intelligence-in-military-market-global-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2113084/artificial-intelligence-in-military-market-global-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113084/artificial-intelligence-in-military-market-global-outlook"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/T/8/T814435144_g.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "JoMd1o5X3cuS8tQQPqIUCKPoq3hGJJJQc+dzmiJGiDrvBpW8UWlLCtIofkBEBk8YrdoBwkubXFxdgTFNeYjDoPW9wJYsuVMUPTm/LcSQP6CPAMFzDJ79HCwkog6OvjeHR3YeweGddGZ0LZhyePGV/+Y8Yj5bUz7X5lo+xMOD9KAIac+wp7b7OFWUmFvJGZOhxpJt/x+71XuOhke0fbSwIOJMAdbvrCjaAOv7l/BNdwyPPEopuNUXnJl+Mjni31YR4WSxD33l8qWz/fg+X2up2KGuMBIfN3qxdMGUX4OK3HcP60spf7OQv+LmiqCQc2u4EaZPtDXpFUTjOR+0he5d5A==;uLCku6Cn0CpVKNK9QLtQMw=="
 ---

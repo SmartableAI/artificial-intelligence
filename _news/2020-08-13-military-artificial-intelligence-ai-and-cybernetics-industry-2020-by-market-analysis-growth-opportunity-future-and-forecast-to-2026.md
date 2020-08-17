@@ -27,10 +27,10 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market 2020-2024 / Growth, Emerging Trends and Future Opportunities"
-    excerpt: "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach"
-    publishedDateTime: 2020-08-12T20:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12"
+  - title: "Artificial Intelligence Robots Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
+    publishedDateTime: 2020-08-13T19:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13"
     type: article
     provider:
       name: MarketWatch
@@ -41,45 +41,59 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025"
-    excerpt: "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,"
-    publishedDateTime: 2020-08-13T01:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12"
+  - title: "Artificial Intelligence in Indian Manufacturing Market"
+    excerpt: "A new research document is added in HTF MI database of 56 pages titled as Artificial Intelligence in Indian Manufacturing Industry 2020 with detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions and important"
+    publishedDateTime: 2020-08-17T07:35:00Z
+    webUrl: "https://www.openpr.com/news/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
+    ampWebUrl: "https://www.openpr.com/amp/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/8/T817462239_g.jpg"
+        width: 600
+        height: 399
+        isCached: true
+  - title: "Artificial Intelligence Chip Market Forecast Report 2020 - 2027 - Top Key Players Analysis"
+    excerpt: "This report researches and evaluates the impact of COVID-19 outbreak on the market, including potential opportunities and challenges, drivers, and risks associated with the market. We present a detailed assessment of market growth based on numerous scenarios."
+    publishedDateTime: 2020-08-17T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Military Market Global Outlook and Growth Opportunities 2020"
-    excerpt: "The Global Artificial Intelligence In Military Market Research Report 2020 2026 is a valuable source of insightful data for business strategists It provides the industry overview with growth analysis and historical futuristic cost revenue demand and supply data as applicable"
-    publishedDateTime: 2020-08-14T13:00:00Z
-    webUrl: "https://www.openpr.com/news/2113084/artificial-intelligence-in-military-market-global-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2113084/artificial-intelligence-in-military-market-global-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113084/artificial-intelligence-in-military-market-global-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/T/8/T814435144_g.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Video Analytics Market 2020: Drivers, Restraints, Opportunities, Threats, Trends, Applications, Growth Analysis and Forecast To 2025"
-    excerpt: "The Global Video Analytics Market was valued at USD 2.06 billion in 2016 and is projected to reach USD 28.6 billion"
-    publishedDateTime: 2020-08-17T07:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-market-2020-drivers-restraints-opportunities-threats-trends-applications-growth-analysis-and-forecast-to-2025-2020-08-17"
+  - title: "Automotive Artificial Intelligence Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include NVIDIA Corporation,"
+    publishedDateTime: 2020-08-13T19:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Research Insights 2020, Size, Share, Trends, Competitive Landscape, and COVID-19 Impact Forecast till 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
+    publishedDateTime: 2020-08-13T19:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-insights-2020-size-share-trends-competitive-landscape-and-covid-19-impact-forecast-till-2025-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -100,20 +114,6 @@ related:
       - url: "https://cdn.openpr.com/T/8/T814904483_g.jpg"
         width: 500
         height: 598
-        isCached: true
-  - title: "Global Automotive Recognition System Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025"
-    excerpt: "A new offering by MarketsandResearch.biz entitled Global Automotive Recognition System Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 offers a meticulous analysis of the market that carefully examines the market segments,"
-    publishedDateTime: 2020-08-16T23:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2020-08-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "TPm7oDYe0tllT9ZlksIsAcUxQScB2XGhPtUKIIhbfM6x4GgkUYwrj7O9YYzCj4db0o3tT0KrqHtGohMIP0NkASdT5KNCdRn2c3wWW1SgUixRoh5lJRXx/jueThel6VOeEXCF8QKPOu7mkjc8AiFsFAO9jhJhxwTSE1N2aIWbZe3ENL//NMHQlKjNBAm4lz2PpIGZ4Cqu4dJlkCibv+CWGFrqoITxVRX8OzR99JqrkW3CeHeXHCw+kiGX6M9ir15wFDmf9TE0iIX+/6f/5XmfdowgD7du2Pi5mA+X68TmBCovo9GGcaKhDjuXWtwrsiW8pT/zjr6t3namLTIzXudbeQ==;C1sns5YKaMcn9/QwclqdkQ=="

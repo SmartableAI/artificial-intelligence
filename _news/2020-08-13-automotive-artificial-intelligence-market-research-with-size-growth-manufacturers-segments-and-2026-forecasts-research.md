@@ -57,6 +57,34 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Artificial Intelligence Chip Market Forecast Report 2020 - 2027 - Top Key Players Analysis"
+    excerpt: "This report researches and evaluates the impact of COVID-19 outbreak on the market, including potential opportunities and challenges, drivers, and risks associated with the market. We present a detailed assessment of market growth based on numerous scenarios."
+    publishedDateTime: 2020-08-17T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Military Artificial Intelligence (AI) And Cybernetics Industry 2020 by Market Analysis, Growth Opportunity, Future and Forecast to 2026"
+    excerpt: "A comprehensive analysis of the different factors and parameters is carried out in the report that has been published on the global Military Artificial Intelligence (AI) And Cybernetics Market. The market concentration of the products sold in the different market segments is identified and is presented in the report."
+    publishedDateTime: 2020-08-13T12:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-industry-2020-by-market-analysis-growth-opportunity-future-and-forecast-to-2026-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Research Insights 2020, Size, Share, Trends, Competitive Landscape, and COVID-19 Impact Forecast till 2025"
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
     publishedDateTime: 2020-08-13T19:30:00Z
@@ -70,6 +98,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Transportation Market 2020 Global Technology, Development, Trends, Growth and forecasts 2024"
+    excerpt: "Updated Research Report of Artificial Intelligence in Transportation Market 2020 2024 Summary Wiseguyreports Com Adds Artificial Intelligence in Transportation Market Demand Growth Opportunities Manufacturers and Analysis of Top Key Players to 2024 To Its Research Database Artificial Intelligence in Transportation"
+    publishedDateTime: 2020-08-14T04:00:00Z
+    webUrl: "https://www.openpr.com/news/2112349/artificial-intelligence-in-transportation-market-2020-global"
+    ampWebUrl: "https://www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
+    images:
+      - url: "https://cdn.openpr.com/T/8/T814904483_g.jpg"
+        width: 500
+        height: 598
         isCached: true
 
 secured: "JSuXgryJnN3DCiKWUQf/rKMjfhAs1CNLCHHT4o7CjdM4EQipVKdxfmd9g1ZpKznUOyosgtzgAR2VymW2Ffn7cr7cl/JFLo4TRA4zYxJa1gNgG5szSROdosobIOVI8u+2Uy0NvRg3NwHIw6jBtivR4I97rjFHeB7fbmSCUScl/PixPdVSyoqfkUrW+1XtoS1JjfbMzrSwpmASM7wUS4T6u1khzCOrK8nWJfhUsr7NiLHh7IGxlRsdWzpI0oghrDMJzaJhniMxyAkKXK1De/xS0fC0hkw6NdMCcwviZ/344GH/eAVl6A/j8qqhVo7n1gVABKXO5SK/HAzUEyNIFNhfkQ==;NMX8TIgFlF0FhqXW4Yleew=="

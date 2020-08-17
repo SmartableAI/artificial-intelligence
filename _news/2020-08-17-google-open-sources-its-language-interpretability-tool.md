@@ -2,21 +2,20 @@
 category: news
 title: "Google open sources its language interpretability tool"
 excerpt: "Google AI researchers have made the Language Interpretability Tool (LIT) an open source platform for visualising, understanding and auditing natural language processing (NLP) models for the third-party developers."
-publishedDateTime: 2020-08-17T03:54:00Z
-webUrl: "https://www.sify.com/finance/google-open-sources-its-language-interpretability-tool-news-topnews-uirdOCfjgcgbc.html"
+publishedDateTime: 2020-08-17T10:06:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200817/3610867.html"
 type: article
-quality: 6
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Google AI
+  - AI
 
 related:
   - title: "Google open-sources LIT, a toolset for evaluating natural language models"
@@ -36,6 +35,6 @@ related:
         height: 641
         isCached: true
 
-secured: "dgQ138LjNSEg7H22GejNz6S0M2kL8wALOKdu0AsYIvqZqah0hmKvZyUGxc1h5p+GobJ54R9T0dyD7SIscIpG7d/0hyqqfV/iEyBgW9o4Wfd8cfZiIYgC/+uXmox3VS1O28NHZO74EOJwUoFvniziCmvn6w1BRSGhQv9oLDjW2eBn3GbmW0/BJFEPo6Wl/58Le2gOMqPbWCYzzc7HhlLDDsEZXszQ+Dn98Lt2Tzq0CGBTBjTIg+HAsRfnsCkbaKz61a52qSaE0QYVyyWYLY73xzEjVRVjm+H6wNj4S7Gu5LIny2fLwjcT29s/C+irA+qGRhMsAWgwb+2j+zmTkQ5oZg==;YYuXVJR201ZmN/GtxAmlKQ=="
+secured: "R+645/dEWEDw+45X9SFLSIwRNx+9N+YnS/2IxgRZVQ0VjqvBeEHEJUQAa5nk8g8h6TSH4ru52ew8ePlGNJx9LsvTi0rxnJgafzqx7Og/NodioAvJVROuMOuMAMYIYZW31ewYYrBpYqKLqkZ3FlL8SQI+9Wn+uYbC+QJMiPP1JH1cvlBZAN4/2emu5zP2XfjyMd3vcvdy3yJQZjWoDYFlCWVrGR45H+fp1WlmyLrtjyTzGr2aI4KePIhSHcD8SPWq4aNbGuwMEwR5XGaIhhNoLQOxdGngsalHgU5Yh2HT0kMljhLrk8yLOrJVWBZYgZ9iTjb5RR5bxoA2msYh8gr36g==;JdpooSzm2DVJAaZmDZuGlA=="
 ---
 

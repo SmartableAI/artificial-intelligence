@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.irishtimes.com/image-creator/?id=1.4332023&origw=1440"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IBM Unveils New Processor Chip To Ease Up AI And Analytics Workloads"
+    excerpt: "It is IBM’s first commercialised 7nm processor that claims to show up to three times better efficiency and workload capacity than the previous models."
+    publishedDateTime: 2020-08-17T12:15:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-unveils-processor-chip-to-ease-ai-analytics-workloads/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/08/IBM-power10.jpeg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "IBM Releases Power10 To Ease AI Workloads"
     excerpt: "It is IBM’s first commercialised 7nm processor that claims to show up to three times better efficiency and workload capacity than the previous models."
