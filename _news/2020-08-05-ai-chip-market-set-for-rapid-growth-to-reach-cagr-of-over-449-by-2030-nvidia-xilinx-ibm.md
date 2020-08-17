@@ -1,19 +1,19 @@
 ---
 category: news
 title: "AI Chip Market Set for Rapid Growth to Reach CAGR of Over 44.9% by 2030 - NVIDIA, Xilinx, IBM"
-excerpt: "AI Chip Market Provides an in-Depth Insight of Sales Analysis, Growth Forecast and Upcoming Trends Opportunities by Types and Applications. AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 ..."
-publishedDateTime: 2020-08-05T10:21:00Z
-webUrl: "https://www.reseller.co.nz/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/"
+excerpt: "AI Chip Market accounted for over ~US$ 9.7 billion in 2019. It is anticipated to grow at a CAGR of 44.9% from 2020 to 2030. Artificial intelligence (AI) chips refer to a new gener"
+publishedDateTime: 2020-08-05T10:04:00Z
+webUrl: "https://www.arnnet.com.au/mediareleases/134811/ai-chip-market-set-for-rapid-growth-to-reach-cagr/"
 type: article
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI Hardware
   - AI
 
-secured: "gF1Pf/8Ttr60WHfnQC9dmt/ZsTU4FJbKQOJLRv0XiD5orrCLg4k5L0iJEv4DYkrAOthTVbnQsQ7BDow4nl8dUpnRlivdrjBhvL62lFprjN1U31a1Ftj1f9IKJMe/UpQcefTO5qAM5SClBUJ0+kwSSezMRX4pGze3mzdWLUcAepd7Xj7uDCOVLgClIOOpnJHwbZBUD44QAAjEI5TCy5MCxM/oZ7NFwwtwnHKgh9jltxrlhQWTxVMe2znMmZRQXhRQS0eM3CJx+8Aqu5R+jtECr0/cRtsZCElgCrVP45zKpwHHhy284igR3LrA+hQ7lBBQ7sG6ZhINhh9F13TpkorldA==;PJ4Bd+shcpsmRgJ7TRfPbg=="
+secured: "YyjWKHl+vwVTVpS2+c1TNGa2IZl+eZwEJ3MZlUu1DtLn0QR3fG4bTOD7x+n/tu6jDtRVwTD/3jLPvd9mtnakaWC+u1Xa/mrROEupyCBejj9qG5lEv4uHeJur81sN0k85Iuyl97BD9z2L7gTFbmgjA7WkHpRi4EDGgjemZecNgVVP6A8fS9Vp/nlXfTBqR3y0qr8xL74lQUEYvyoJA8fdEG59sLNtR7tOFO86pmxJ9mQbGkMzjBECIqWN4fMnT1Sek0L7rikhSJp2astXoULQ1e4vzfcH0hGdYSQL/Ydimvh96nBODBehmg42tVq5UwfM2+VWbJB9V74FqgYiYq7TQw==;9lTwIwnqUFH37WbKxkEMrQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-12T18:59:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity-2020-08-12"
 type: article
 quality: 62
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence In Military Market – Growth, Trends, and Forecasts (2020 – 2026)"
-    excerpt: "Global Artificial Intelligence In Military Market Research Report 2020-2026 is a valuable source of insightful"
-    publishedDateTime: 2020-08-12T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-military-market-growth-trends-and-forecasts-2020-2026-2020-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

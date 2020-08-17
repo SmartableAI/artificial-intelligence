@@ -187,15 +187,6 @@ related:
         width: 1280
         height: 1066
         isCached: true
-  - title: "Police Use of Facial Recognition Ruled Unlawful in World First Case"
-    excerpt: "Police Use of Facial Recognition Ruled Unlawful in World First Case. Liberty celebrates verdict but South Wales Police may continue trials"
-    publishedDateTime: 2020-08-12T09:15:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/police-facial-recognition/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
   - title: "Police facial recognition robot identifies anger and distress"
     excerpt: "A police force hopes to deploy facial recognition and behavioural technology that can spot anger and distress, in a widening use of artificial intelligence.Retrospective facial recognition is under"
     publishedDateTime: 2020-08-14T23:01:00Z

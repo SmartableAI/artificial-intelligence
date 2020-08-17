@@ -118,17 +118,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Police use of facial recognition found ‘unlawful’ in court"
-    excerpt: "In a landmark decision the Court of Appeal has ruled that South Wales Police’s facial recognition deployments breached human rights and data protection laws"
-    publishedDateTime: 2020-08-12T09:36:00Z
-    webUrl: "https://www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court"
-    ampWebUrl: "https://www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
   - title: "'Masks' may test facial recognition cameras utility on I-Day!"
     excerpt: "The Delhi police is using cameras equipped with facial recognition software to secure the Red Fort, where Prime Minister Narendra Modi will hoist the national flag on the 74th Independence Day. This is being done to screen suspects around the celebration area matching their faces with the available database of terrorists and criminals with the security agencies."
     publishedDateTime: 2020-08-15T00:57:00Z

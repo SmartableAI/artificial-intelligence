@@ -113,17 +113,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Police use of facial recognition found ‘unlawful’ in court"
-    excerpt: "In a landmark decision the Court of Appeal has ruled that South Wales Police’s facial recognition deployments breached human rights and data protection laws"
-    publishedDateTime: 2020-08-12T09:36:00Z
-    webUrl: "https://www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court"
-    ampWebUrl: "https://www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487490/Police-use-of-facial-recognition-found-unlawful-in-court?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
   - title: "Covid 19 coronavirus: New World store with facial recognition cameras reverses mask policy"
     excerpt: "An Auckland supermarket is reversing policy that asked customers to remove their face masks so they could be better scanned by the store's facial recognition software. The Papakura branch of New World had been enforcing the policy,"
     publishedDateTime: 2020-08-14T03:37:00Z

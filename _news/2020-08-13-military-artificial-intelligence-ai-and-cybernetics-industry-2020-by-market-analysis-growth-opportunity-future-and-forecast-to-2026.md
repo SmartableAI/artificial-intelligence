@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence In Military Market – Growth, Trends, and Forecasts (2020 – 2026)"
-    excerpt: "Global Artificial Intelligence In Military Market Research Report 2020-2026 is a valuable source of insightful"
-    publishedDateTime: 2020-08-12T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-military-market-growth-trends-and-forecasts-2020-2026-2020-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Military Market Global Outlook and Growth Opportunities 2020"
     excerpt: "The Global Artificial Intelligence In Military Market Research Report 2020 2026 is a valuable source of insightful data for business strategists It provides the industry overview with growth analysis and historical futuristic cost revenue demand and supply data as applicable"
     publishedDateTime: 2020-08-14T13:00:00Z

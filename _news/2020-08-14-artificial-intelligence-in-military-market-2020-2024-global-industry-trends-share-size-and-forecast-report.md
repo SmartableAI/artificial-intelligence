@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market 2020 Global Industry – Key Players, Size, Trends, Opportunities, Growth Analysis and Forecast to 2026"
-    excerpt: "Summary A new market study titled Discover Global AI in Fintech Market Upcoming Trends Growth Drivers and Challenges has been featured on WiseGuyReports Introduction AI in Fintech Market The report provides a detailed analysis of the AI in Fintech market"
-    publishedDateTime: 2020-08-12T10:07:00Z
-    webUrl: "https://www.openpr.com/news/2110552/ai-in-fintech-market-2020-global-industry-key-players-size"
-    ampWebUrl: "https://www.openpr.com/amp/2110552/ai-in-fintech-market-2020-global-industry-key-players-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2110552/ai-in-fintech-market-2020-global-industry-key-players-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/T/8/T812929668_g.jpg"
-        width: 666
-        height: 800
-        isCached: true
 
 secured: "s0+gil699gnCZ7W1EToo42B34Bqd8sWVCPaureTB+hb20SmTfOflfw1Z37buGZJcaQ7kSQHGrG2RseNVmc1lZX/jtph3AtdcXEiPv4m4JVAxFwOqJhX/exs3HXgIHrVFg1jSUIJH9HDyBPnZd9EDxPMQSvJ4Dt+Fh2l/U4w8cERgmIhuUDAQwuyTrkstc4K5vyNz+Y2DqjWiKEMOdCM4jytwsEJ2y5u1pznG4hnio8rLnh1wKPjuYRtMwLTofWwAn9SnyKYpXTNCSEDmYd8BqIZBdz3XmZNTRm03kk50FyVO5AX7eiavpdMU7GDwS1bU9WcFqIzrJenPn20vSY0Ybw==;f0aS/MNwq2NQHH844plaxA=="
 ---

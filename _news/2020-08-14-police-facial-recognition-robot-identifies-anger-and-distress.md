@@ -195,15 +195,6 @@ related:
         width: 1280
         height: 1066
         isCached: true
-  - title: "Police Use of Facial Recognition Ruled Unlawful in World First Case"
-    excerpt: "Police Use of Facial Recognition Ruled Unlawful in World First Case. Liberty celebrates verdict but South Wales Police may continue trials"
-    publishedDateTime: 2020-08-12T09:15:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/police-facial-recognition/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
 
 secured: "ZYh3FR94000bM9lKQS2axjG2LFX7lX20eMtWUVxoQJ/dLUBYeaZa4LxmwnfCKlF6f2o9oixTIsuzLOdkLePAk+CsfQHoHcSWTM2PZnpt1rx+opTGN1PEJDNkheGT009wGP8p4Cgud3Yu/mFxZHUkhckbsXAbEWabb7Yrfzjip1bmf6EeGH/MZO9H4FqxLpv00vIBMJy8GnEOuI/Mr/S2wrZ9e00XEKKoFgb9utln8qAVdvg6wDUFGZfCoFe9bNctexyf04Cp8z5QDcKzu0e6KkWlt8UZfKTdlBsmWemtp16/QIPYZKKOtl8V+QrtsjjWSgHO+gzuJmB9t7CQMfLxfQ0Gq3ULHMal7sLhNx3FMHWM6B1Wk8OVJuZ3DmVQuJlb9ZqDB0MAYqnNTEB7cCEPUffGkYamDX0TYK7aYGsvoSwwOyFVQ8sdqxRjKqku53fv1jtIgiseOiE8uOgiVM3Y2unRw/3CgKDtP1EtjxvugTXOKbUQPo5y0x1BLG3XnSn9//RO1QQ4GdtRUr/+HX+icw==;6tuwmrq3aEcxTTmj6X65wg=="
 ---

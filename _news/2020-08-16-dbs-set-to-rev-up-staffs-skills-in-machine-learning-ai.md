@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-16T22:00:00Z
 webUrl: "https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Straits Times
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DBS ties up with AWS to train 3,000 employees in AI and machine learning"
+    excerpt: "DBS is working with Amazon Web Services (AWS) to equip more than 3,000 of its employees with basic skills in artificial intelligence (AI) and machine learning (ML), so that the bank can better tap these new technologies to grow its business."
+    publishedDateTime: 2020-08-17T03:46:00Z
+    webUrl: "https://www.theedgemarkets.com/article/dbs-ties-aws-train-3000-employees-ai-and-machine-learning"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 53
+    images:
+      - url: "https://assets.theedgemarkets.com/DBS_20200817093202_reuters.jpg?null"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DBS to upskill at least 3,000 employees in AI and ML skills this year"
     excerpt: "To enable this, DBS has collaborated with AWS to launch the DBS x AWS DeepRacer League which will see employees learning the basics of AI and ML in a series of online tutorials before putting their ne"
     publishedDateTime: 2020-08-17T01:40:00Z
