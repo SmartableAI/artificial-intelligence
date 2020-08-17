@@ -1,28 +1,27 @@
 ---
 category: news
 title: "7 AI Stocks to Buy for the Increasing Digitization of Healthcare"
-excerpt: "Stock Market News, Stock Advice & Trading Tips The increased move to digitization is only one of several trends the"
-publishedDateTime: 2020-08-11T16:18:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918"
+excerpt: "Healthcare digitization accelerated dramatically in response to the coronavirus pandemic, raising prospects for these AI stocks to buy."
+publishedDateTime: 2020-08-11T16:53:00Z
+webUrl: "https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/"
+ampWebUrl: "https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/amp/"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: investorplace.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "IUTnZtbaSohnw7WVIgNykq7llTukXrEuSqvW0YgmINL7FNRTiamyr6cYi7Sv/c1T5jTBAaq/1agNI562DxY41JPmk04ukRV1d0LFc8EeDIRFTHtphZ5g9kLNHvLp6Ve02Chn/o1NDKFm8TB43sgYTeCiuUlCG1T7YhL8OfFs5deal/+v8FXTTwGGLNHwoK5+EHkR6cYBB1SvyzR9cFb29fKc5S3781siUfSdkewXZkYfxv8HS5pbUDvU7BI3e8thTurGK/P7g364+h5qdBwqRUYe6SouUkSjLXuBNK5xXxEeLhGewrAnSTAT5oOPUkfqHyZfQBE/bDQLcyxnASRg7oYyBdNr1bHl86BoDK6N6cD4FVkJP6sQBDiWxrdCF0rZ3Fnwu74V7MkX7UY1I0s/BMSQR7SOVJKmVDILS4hQyyQrnm0W2vtSPsafB+qxwMxSGg5v8jOGfk3yB/aaxhUAyeYFz7Obl/0YUooXUneehtLQRfBtvRX1CxN6yhGzRoJMdNMA2JlsiRxD9bzLOqdoGA==;1Npro1AhZp1FUeYjFdPX4g=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "vM9uSm6zmWgW8sHDvqXPsTeVn+IJ0gcEGNqLFjZdUxbq8h/OL/mou7m4J2tPEqRxg6PsiJN8TEzxlQDp93QazORoYkBaYgXVgXn3AEwK/nzukVkvqB4v239hZuZDY3tdd7SeXpZlRfldJN0cnMEAxvN5kJyv91HWWbDIQ6wm6LeDTqulyMVpRAEGpZD9bEW+Bji5juiprLGyXTweDgfcwt3GGwMbuGCl9mj7XyDCFZyq8RxROilJahh/91KwXL7HCh4R/+pAybjUVuYJ+YBr17MPVqLbw7a8b8y33d9Pba/NabrnsCAip/atwVUHyeSsAGUdpq+EM/j00SpzkFoAsw==;AwYkTRh0j82NXQVwdNmvFA=="
 ---
 

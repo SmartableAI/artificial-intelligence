@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T06:43:00Z
 webUrl: "https://www.businessinsider.com/ai-university-technology-books-abu-dhabi-2020-8"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Inside the world's first AI-focused university in Abu Dhabi, which opens in January 2021 and will offer all students full scholarships"
-    excerpt: "Fu Lee, of Google China, and Sir Michael Brady, a former director at MIT's AI Lab."
-    publishedDateTime: 2020-08-12T06:39:00Z
-    webUrl: "https://www.businessinsider.com/ai-university-set-to-open-uae-abu-dhabi-2020-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-    images:
-      - url: "https://i.insider.com/5f32b706f0f4193369480ee3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "vi06dcQzWYS3X+YnKKK6yh7aN6MUIRYlJBGN8JAigHYw6gRpEMvmtIweAGeCXV55qpYbuC8Q4tn9p0s5lN5KiK6ll3qIF17afKVnI+/IjVM5aZpqtAp034l4iSsLWx3ONp9U9KRre9lKkT/A7MOQPYcZn2vzSzVXITyAzXvAs638LK4LV3WNAcv/pL5i47Cn0tHm2sc4tpJbaO8CVrP/E2+JBTakLssLFLWVkkBH+PSTyQuN1TdbWFg5T5a63Bbt2rDRXiuIOOF9kY8iJ4uiPylehXxvEnStCR7TMnqfH1+8/pWGEttbau92t8y2MCPXunraEmYmHLk0P5bfj/f2S0Q2t1MMlSfgzhAJfRSqHNQi/sx1jUi0ti1z3I0jVojA7he5teSKDO0YHMbsMIXrmmVqIn784Jf7CD5fb5FQef9gmV2J3urMuC8jxugQ27Zxn6qMt269BDHelQQKlZ5wbfpUlsWN5Giunx0w9iYQX3C3lf4i4eXYnxCTFPWEI6PUpDU5TN0EndCIJB80LLbTpQ==;i4IBKj5USk1EIqaG8EpjOw=="
 ---
