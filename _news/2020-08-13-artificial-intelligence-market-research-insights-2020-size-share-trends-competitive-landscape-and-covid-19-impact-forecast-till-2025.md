@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Indian Manufacturing Market"
+    excerpt: "A new research document is added in HTF MI database of 56 pages titled as Artificial Intelligence in Indian Manufacturing Industry 2020 with detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions and important"
+    publishedDateTime: 2020-08-17T07:35:00Z
+    webUrl: "https://www.openpr.com/news/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
+    ampWebUrl: "https://www.openpr.com/amp/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/8/T817462239_g.jpg"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Automotive Artificial Intelligence Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
     excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include NVIDIA Corporation,"
     publishedDateTime: 2020-08-13T19:42:00Z

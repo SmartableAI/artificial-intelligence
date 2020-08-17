@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DBS Bank looks to train 3,000 employees in AI with AWS partnership"
+    excerpt: "Singapore bank will run online tutorials for DBS employee to pick up fundamentals of artificial intelligence and machine learning, so they can eventually programme their own autonomous race car for the AWS DeepRacer league."
+    publishedDateTime: 2020-08-17T06:29:00Z
+    webUrl: "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "DBS Bank teams up with AWS on AI skills"
     excerpt: "Singapore’s DBS Bank is organising an AWS DeepRacer League to equip thousands of employees with skills in artificial intelligence and machine learning"
     publishedDateTime: 2020-08-17T04:59:00Z

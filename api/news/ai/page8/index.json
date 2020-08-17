@@ -2,6 +2,195 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-06-ai-health-tech-start-up-infermedica-raises-10-million-series-a-for-rd-and-international-expansion-customers-include-microsoft.md",
+      "title": "AI Health Tech Start-up Infermedica Raises $10 Million Series A for R&D and International Expansion – Customers Include Microsoft",
+      "excerpt": "Infermedica, the AI-based platform for preliminary diagnosis and triage, announced it has raised $10.25 million in Series A funding. The round was led",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200806005063/en/AI-Health-Tech-Start-up-Infermedica-Raises-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200806005063/en/810433/23/infermedica-logo-color.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-infermedica-scores-10m-series-a-for-its-ai-driven-diagnosis-and-triage-platform.md",
+      "title": "Infermedica scores $10M Series A for its ‘AI-driven’ diagnosis and triage platform",
+      "excerpt": "Infermedica, the Poland-founded health tech startup that offers an AI-driven platform for preliminary diagnosis and triage, has raised just over $10 million in Series A funding. The round is led by the European Bank for Reconstruction and Development (EBRD) and digital health fund Heal Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/06/infermedica/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Visuals_Screenshots_03-Symptom-Checker-Chatbots.png?w=680",
+          "width": 680,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/06/infermedica/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/06/infermedica/amp/",
+      "publishedDateTime": "2020-08-06T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-ai-models-need-to-be-interpretable-rather-than-just-explainable.md",
+      "title": "AI models need to be ‘interpretable’ rather than just ‘explainable’",
+      "excerpt": "Apple ran into trouble after customers pointed out on Twitter that its credit card service was discriminating against women. David Heinemeir Hansson, the creator of Ruby on Rails, called Apple Card a sexist program.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
+      "publishedDateTime": "2020-08-06T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models.md",
+      "title": "McAfee finds security flaws in internal mechanics of facial recognition models",
+      "excerpt": "Adversarial machine learning needs to become an integral part when rolling out applications, chief scientist says",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/eqqPdJ74HL7KwryaKJ9DS4-1200-80.jpg",
+          "width": 1200,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T21:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-black-hat-hackers-can-remotely-hijack-enterprise-healthcare-temi-robots.md",
       "title": "Black Hat: Hackers can remotely hijack enterprise, healthcare Temi robots",
       "excerpt": "Robots used in hospitals and care homes to assist patients and the vulnerable can be fully hijacked by cyberattackers.  On Thursday at Black Hat USA, McAfee's Advanced Threat Research (ATR) team disclosed new research into the robots,",
@@ -1172,177 +1361,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-cincoze-gm-1000-embedded-gpu-computer-empowers-superior-performance-for-machine-vision-applications.md",
-      "title": "Cincoze GM-1000 Embedded GPU Computer Empowers Superior Performance for Machine Vision Applications",
-      "excerpt": "Given the explosive growth of machine vision, Cincoze, as a professional manufacturer of embedded systems, has expanded its embedded GPU computing pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200805005052/en/Cincoze-GM-1000-Embedded-GPU-Computer-Empowers-Superior",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200805005052/en/809710/23/05.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-nokia-to-set-up-robotics-lab-at-indian-institute-of-science.md",
-      "title": "Nokia to set up robotics lab at Indian Institute of Science",
-      "excerpt": "Nokia Centre of Excellence will promote engagement and cooperation between academia, startups and industry ecosystem partners in research and development.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/730b50702d6c11e9aa979329348d4c3e/Image95d9-1581162506015.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/nokia-set-up-robotics-lab-indian-institute-science/amp",
-      "publishedDateTime": "2020-08-05T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-make-ai-enhance-your-productivitynot-a-surveillance-state.md",
-      "title": "Make AI Enhance Your Productivity—Not A ‘Surveillance State’",
-      "excerpt": "Artificial intelligence is a powerful tool that can augment employees' experience in the workplace. But, like any tool, it needs to be stewarded properly. Make AI work for you by using it to amplify your productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christosmakridis/2020/08/05/make-ai-enhance-your-productivity-not-a-surveillance-state/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2a47138f73fb534f393965%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/christosmakridis/2020/08/05/make-ai-enhance-your-productivity-not-a-surveillance-state/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christosmakridis/2020/08/05/make-ai-enhance-your-productivity-not-a-surveillance-state/amp/",
-      "publishedDateTime": "2020-08-05T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-your-amazon-echo-speaker-just-got-blocked-from-using-a-vital-new-feature.md",
-      "title": "Your Amazon Echo speaker just got blocked from using a vital new feature",
-      "excerpt": "AMAZON confirms that it has blocked Echo owners in the UK from using a useful feature that went live late last month. Those who signed up to the Alexa Guard service before it was pulled are now being offered compensation as a gesture of goodwill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.amazon.com/b?ie=UTF8&node=18021383011",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images-na.ssl-images-amazon.com/images/G/01/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized_layout1._CB468670774_.png",
-          "width": 350,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-04T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

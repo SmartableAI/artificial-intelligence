@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-13T13:14:00Z
 webUrl: "https://www.cio.com/article/3571174/cloud-services-provide-a-digital-lifeline-for-critical-government-healthcare-sectors.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Cloud Services Provide a Digital Lifeline for Critical Government, Healthcare Sectors"
-    excerpt: "Post-surgery recovery times have also improved by 15%. The Axial3D technology was built using Amazon SageMaker and runs on AWS Cloud, which supplies the compute and intelligence needed to recognize and label every bone, ligament, and blood vessel with a ..."
-    publishedDateTime: 2020-08-12T13:48:00Z
-    webUrl: "https://www.computerworld.com/article/3569388/cloud-services-provide-a-digital-lifeline-for-critical-government-healthcare-sectors.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/07/istock-1212511474-100853331-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "4bhO1m4sHWX9HLTH1FhsfJGTcU0ULngX5AFtQ++ZKd0tDexmcpAHFjdssjp23Fb+FWLcTcNeHjo7UeM08j5UCSn4x/wI9dv990+sARu6HSHMhWY5U1qHhyKxsFclyYaTf0bZ5xLcrpi5FucTiwSSQW8sLyzkwE69ktueIWO8Jy3GkazrGSKLe/XOYkY89Px/O3OjDe4V2XqpAQdc6jStMyGd1L3n15MIpzu2BY3t1XS2zqFHfaFJEuldDsAXK3sAf9VyXhIOzSl/JGLN+qi+QGWZm3hEoNAOhdzegrNu1i1wj45FNjVx2ewIOf/0J6ag5/LrWN9J5B9bOB4evU3QaFXqjLplZig0j4hE0KetHJRY9MgfPNLJlfxhWWQzzF26BzQFrc7o8baObxDVxCLNKnojkVHy7ZPcgFto33egSt0wn1e+D4DjBQyyFttx+4e+qpVnyKjCRlzWnvPfAVOs0k2uUtZztiV6Paqks5a2eNUlSr67Jwdl+arYGM3GF8zA;5qgSI0jEX8QUVmP3W399qg=="
 ---

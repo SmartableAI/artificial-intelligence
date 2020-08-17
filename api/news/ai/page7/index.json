@@ -2,6 +2,188 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-07-artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025.md",
+      "title": "Artificial Intelligence as a Service Market Size to Witness Huge Growth by 2025",
+      "excerpt": "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence as a Service Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence as a service market is poised to accumulate considerable revenues by the year 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-to-witness-huge-growth-by-2025-2020-08-07",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-weride-chooses-wekaio-to-manage-its-ai-data-pipeline.md",
+      "title": "WeRide Chooses WekaIO to Manage Its AI Data Pipeline",
+      "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance and scalable file storage, announced today that WeRide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/weride-chooses-wekaio-to-manage-its-ai-data-pipeline/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-3-daunting-ways-ai-will-transform-the-world-of-work.md",
+      "title": "3 Daunting Ways AI Will Transform The World Of Work",
+      "excerpt": "It shouldn’t be a surprise to anyone that artificial intelligence is going to change the jobs we will do in the future and redefine the role of humans in the workplace. Here we look at the three ways AI will change the world of work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f2cd5b7552557925d573987%2F0x0.jpg",
+          "width": 1199,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/08/07/3-daunting-ways-ai-will-transform-the-world-of-work/amp/",
+      "publishedDateTime": "2020-08-06T21:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-csiro-using-artificial-intelligence-to-map-17m-australian-grain-paddocks.md",
+      "title": "CSIRO using artificial intelligence to map 1.7m Australian grain paddocks",
+      "excerpt": "It developed ePaddocks for the agriculture sector to better understand the boundaries of grain paddocks across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/08/07/ce1a2d41-b2cf-4532-b208-75d0b6ba0c14/0000102-epaddocks-australian-paddock-boundaries-550.jpg",
+          "width": 550,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-using-artificial-intelligence-to-map-1-7m-australian-grain-paddocks/",
+      "publishedDateTime": "2020-08-06T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-08-07-microsoft-azure-a-cheat-sheet.md",
       "title": "Microsoft Azure: A cheat sheet",
       "excerpt": "Cray supercomputing comes to Microsoft Azure to boost AI workloads in the cloud (TechRepublic) Microsoft is working on an Azure-powered Cloud PC service (ZDNet) One of the core strengths of Microsoft Azure is the ease of transition for organizations ...",
@@ -1198,195 +1380,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-ai-health-tech-start-up-infermedica-raises-10-million-series-a-for-rd-and-international-expansion-customers-include-microsoft.md",
-      "title": "AI Health Tech Start-up Infermedica Raises $10 Million Series A for R&D and International Expansion – Customers Include Microsoft",
-      "excerpt": "Infermedica, the AI-based platform for preliminary diagnosis and triage, announced it has raised $10.25 million in Series A funding. The round was led",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200806005063/en/AI-Health-Tech-Start-up-Infermedica-Raises-10",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200806005063/en/810433/23/infermedica-logo-color.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-infermedica-scores-10m-series-a-for-its-ai-driven-diagnosis-and-triage-platform.md",
-      "title": "Infermedica scores $10M Series A for its ‘AI-driven’ diagnosis and triage platform",
-      "excerpt": "Infermedica, the Poland-founded health tech startup that offers an AI-driven platform for preliminary diagnosis and triage, has raised just over $10 million in Series A funding. The round is led by the European Bank for Reconstruction and Development (EBRD) and digital health fund Heal Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/06/infermedica/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Visuals_Screenshots_03-Symptom-Checker-Chatbots.png?w=680",
-          "width": 680,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/06/infermedica/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/06/infermedica/amp/",
-      "publishedDateTime": "2020-08-06T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-ai-models-need-to-be-interpretable-rather-than-just-explainable.md",
-      "title": "AI models need to be ‘interpretable’ rather than just ‘explainable’",
-      "excerpt": "Apple ran into trouble after customers pointed out on Twitter that its credit card service was discriminating against women. David Heinemeir Hansson, the creator of Ruby on Rails, called Apple Card a sexist program.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
-      "publishedDateTime": "2020-08-06T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models.md",
-      "title": "McAfee finds security flaws in internal mechanics of facial recognition models",
-      "excerpt": "Adversarial machine learning needs to become an integral part when rolling out applications, chief scientist says",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/mcafee-finds-security-flaws-in-internal-mechanics-of-facial-recognition-models",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/eqqPdJ74HL7KwryaKJ9DS4-1200-80.jpg",
-          "width": 1200,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T21:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

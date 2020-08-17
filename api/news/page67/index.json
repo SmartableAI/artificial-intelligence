@@ -2,6 +2,237 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge.md",
+      "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
+      "excerpt": "Lyft released a data set containing logs recorded by its self-driving vehicles' sensors to kick off a new AI research challenge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/234b6a00-a635-4d40-b917-77416e1da96f-e1593067960296.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 571,
+          "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
+      "publishedDateTime": "2020-06-25T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research.md",
+      "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
+      "excerpt": "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-2020-06-25",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine.md",
+      "title": "Dayzz Sleep App Announces Publication of the Findings From Clinical Trial to Validate Its Sleep Assessment Machine Learning Engine",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... of its first clinical trial. dayzz' machine learning engine enables assessment of common ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "publishedDateTime": "2020-06-25T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity.md",
+      "title": "AI-Fueled Startup Turns Disrupted Supply Chains Into Last Mile Opportunity",
+      "excerpt": "When Shamir Rahim, founder and CEO of VersaFleet, transformed his bio-medical startup into an AI-powered transportation management system, he never imagined being at the epicenter (in a good way) of a supply chain revolution during a worldwide pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee27d91bf1c58000769fdc3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI-Fueled Startup Turns Disrupted Supply Chains Into Last Mile Opportunity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/amp/",
+      "publishedDateTime": "2020-06-25T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories.md",
+      "title": "Pure Storage Recognized as a Leader in Enterprise Flash Array Storage and Object Storage Categories",
+      "excerpt": "Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service in a multicloud world, today announced that TrustRadius has recognized both FlashArrayTM and FlashBladeTM as 2020 Top Rated Award winners.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/PR Newswire/ce4dcd5499280c67e7fc78684a93d651",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace.md",
       "title": "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace",
       "excerpt": "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
@@ -937,211 +1168,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-biased-ai-perpetuates-racial-injustice.md",
-      "title": "Biased AI perpetuates racial injustice",
-      "excerpt": "As we increasingly rely on AI, we must be vigilant to ensure these programs are helping to solve problems of racial injustice, rather than perpetuate and magnify them.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-508482219.jpg?w=1024",
-          "width": 1024,
-          "height": 751,
-          "title": "Biased AI perpetuates racial injustice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/amp/",
-      "publishedDateTime": "2020-06-24T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-eurotech-announces-software-qualification-of-everyware-software-framework-with-aws-iot-core.md",
-      "title": "Eurotech Announces Software Qualification of Everyware Software Framework with AWS IoT Core",
-      "excerpt": "Eurotech a company that designs, develops, and deploys hardware, software, services and solutions for the Internet of Things (IoT) is extending its commitment as a Select Technology Partner in the Amazon Web Services (AWS) Partner Network and today announced the software qualification of the Eurotech Everyware Software Framework (ESF) with AWS IoT Core.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/173150/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly.md",
-      "title": "Apple’s Core ML now lets app developers update AI models on the fly",
-      "excerpt": "Apple's Core ML can now update AI models without the need to ship an App Store update, while Create ML now has an action classification template.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/apple-core-ml.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 574,
-          "title": "Apple’s Core ML now lets app developers update AI models on the fly",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
-      "publishedDateTime": "2020-06-24T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-sas-and-microsoft-partner-on-future-of-analytics-and-ai.md",
-      "title": "SAS and Microsoft Partner on Future of Analytics And AI",
-      "excerpt": "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” said Scott Guthrie, EVP, Cloud and AI, Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "http://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
-      "cdnAmpWebUrl": "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
-      "publishedDateTime": "2020-06-24T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iotevolutionworld.com",
-        "domain": "iotevolutionworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-video-using-deep-learning-to-combat-cheating-in-counter-strike.md",
-      "title": "Video: Using deep learning to combat cheating in Counter-Strike",
-      "excerpt": "In this GDC 2018 talk Valve's John McDonald discusses how the company has utilized deep learning machine learning techniques to combat cheating in Counter-Strike: Global Offensive .",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1034977.png",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

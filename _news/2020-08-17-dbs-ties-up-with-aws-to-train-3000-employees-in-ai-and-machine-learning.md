@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T03:46:00Z
 webUrl: "https://www.theedgemarkets.com/article/dbs-ties-aws-train-3000-employees-ai-and-machine-learning"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "DBS Bank looks to train 3,000 employees in AI with AWS partnership"
+    excerpt: "Singapore bank will run online tutorials for DBS employee to pick up fundamentals of artificial intelligence and machine learning, so they can eventually programme their own autonomous race car for the AWS DeepRacer league."
+    publishedDateTime: 2020-08-17T06:29:00Z
+    webUrl: "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "DBS set to rev up staff’s skills in machine learning, AI"
     excerpt: "In a bid to ingrain digital learning behaviour at the workplace, DBS Bank is teaming up with Amazon Web Services (AWS) to equip about 3,000 employees with basic skills in artificial intelligence (AI) and machine learning by the end of this year."
     publishedDateTime: 2020-08-16T22:00:00Z

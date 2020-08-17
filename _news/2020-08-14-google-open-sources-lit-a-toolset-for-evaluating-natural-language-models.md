@@ -39,7 +39,7 @@ related:
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 4
+    quality: 6
 
 secured: "LZXW3EonyZJrQfH1TjrAWfZ/NhVXyVETpM/nKU/9dsUTfoGGf+TWSnj+/oygg7qyy6mrT1QdPHT9Fl7++f5pEqRxD9Shg0raskrWhcGYDFDRH/1MKx8IRqUNtEOTPNkfWDrqUKRN40lrAST95oPVP6an8kfpFQ+b+uIS6cEeMs6GCYTWgghug2DKpzTOg7beLNExnw1VN5SZodrQ9UW/BxQ6r41XAgsb38+lbm+aSRimoza4AWwSVifm5Qy/wqu6iwlNdV/roih62U9yGAfIc9oMi56UFeXNrHGbtcVFb7E74u3Futhz9fBqJ++dIvMBdSRoIEPcQBesQU8eVYAywLutj+//DVgBs0L6aKzTKTMTPj6ZbMRCukWdn3LPf8gETSamvwELTmSzSS8iLAes6gP6Tw6aY28LEW7AVnXNsaGrjYgIkpVlS2+0JsH6AXnh5TYtbG+edYl8XFYuwGDEZ+9A+f/qIRQPttd7ZcJF9I8nkQBr3Ik1hj1hHmPHk+UaxTTphYQ/LmQtDd79iSIT1A==;Q3UntcF8eICtef7PpdYZMg=="
 ---

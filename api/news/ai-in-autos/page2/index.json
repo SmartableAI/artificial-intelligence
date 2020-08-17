@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-30-which-countries-will-win-the-global-ai-race.md",
+      "title": "Which Countries Will Win the Global AI Race?",
+      "excerpt": "\"It's not that China is trying to get into the AI space; they are in the AI space and they are probably a bigger player in artificial intelligence than most [of our] leaders in the national ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2018-05-23/the-potential-winners-of-the-global-artificial-intelligence-race?context=amp",
+      "publishedDateTime": "2020-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-designcon-2019-announces-keynote-speakers-from-uber-university-of-texas-and-uc-berkeley.md",
       "title": "DesignCon 2019 Announces Keynote Speakers from Uber, University of Texas, and UC Berkeley",
       "excerpt": "To give DesignCon attendees insight into some of the most cutting-edge technologies, the event will feature keynotes on quantum computing, AI and driverless cars ... datacenters that power the artificial intelligence (AI) to enable Uber’s futuristic ...",
@@ -1288,47 +1329,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-german-courts-rule-against-teslas-self-driving-claims.md",
-      "title": "German courts rule against Tesla's \"self driving\" claims",
-      "excerpt": "Electric car brand Tesla has been banned from making claims that its cars have “self-driving” technology, by a court in Munich.",
-      "sourceUrl": null,
-      "webUrl": "https://www.am-online.com/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.am-online.com/media/1/root/model-3-rhdjpeg_w1200.jpg",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims",
-      "cdnAmpWebUrl": "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims",
-      "publishedDateTime": "2020-07-16T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AM-online",
-        "domain": "am-online.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

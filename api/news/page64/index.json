@@ -2,6 +2,227 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-06-26-maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public.md",
+      "title": "Maker of Self-Driving Vehicle Sensors Said to Be in Talks to Go Public",
+      "excerpt": "Velodyne creates radar-like systems for self-driving vehicles that use lasers ... Backers include Ford and Baidu Inc., the Chinese technology firm, which together invested $150 million in Velodyne ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-26/ford-backed-velodyne-is-said-to-be-in-talks-to-merge-with-graf",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-26/ford-backed-velodyne-is-said-to-be-in-talks-to-merge-with-graf",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-26/ford-backed-velodyne-is-said-to-be-in-talks-to-merge-with-graf",
+      "publishedDateTime": "2020-06-26T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture.md",
+      "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
+      "excerpt": "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/190410-musk-bezos-630x366.jpg",
+          "width": 630,
+          "height": 366,
+          "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
+      "publishedDateTime": "2020-06-26T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai.md",
+      "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
+      "excerpt": "IT failures are more common than we think. Admitting that you have a problem means there is a risk in doing business with you, and that leads to customer churn. Most companies try to conceal their failures and pretend there is nothing wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/future-artificial-intelligence.jpg",
+          "width": 650,
+          "height": 400,
+          "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
+      "publishedDateTime": "2020-06-26T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-ironscales-adds-natural-language-processing-to-its-email-security-kit.md",
+      "title": "Ironscales Adds Natural-Language Processing To Its Email Security Kit",
+      "excerpt": "Email security firm Ironscales has deployed natural-language processing (NLP) to detect common business email compromise (BEC) attacks. The firm uses machine learning and neural networks to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/353068/ironscales-adds-natural-language-processing-to-its.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-26T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020.md",
+      "title": "Only 12 hours left to apply for Startup Battlefield at Disrupt 2020",
+      "excerpt": "It’s now o’clock, founders. A mere 12 hours stands between you and a chance to compete in Startup Battlefield and launch your pre-Series A startup during Disrupt 2020 — in front of the world’s influential technorati.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/30671212518_aabcb476d7_k.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Only 12 hours left to apply for Startup Battlefield at Disrupt 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/amp/",
+      "publishedDateTime": "2020-06-26T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-borsuk-the-adjustments-schools-face-in-the-coming-school-year-raise-deep-concerns-about-quality-of-learning.md",
       "title": "Borsuk: The adjustments schools face in the coming school year raise deep concerns about quality of learning",
       "excerpt": "In short, what is the learning experience going to be like for students? Consider a few of the challenges that lie ahead: Teacher-student relationships. Good relationships between teachers and students are crucial.",
@@ -935,256 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition.md",
-      "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-      "excerpt": "\"My workplace doesn’t work for quiet people.\" Peter describes himself as quietly confident. He's used to being recognized for his achievements by his bosses. However, when the new director (less appreciative and more of an alpha type) appeared in his company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F117460704%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "publishedDateTime": "2020-06-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-smart-artificial-intelligence-needs-an-open-source-classroom.md",
-      "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
-      "excerpt": "Could the same 'human classroom' type need for interconnected cross-fertilization also help computers to ‘learn’ as they build their data-powered Artificial Intelligence (AI) knowledge bases and software-driven analytics engines?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1222798689%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/amp/",
-      "publishedDateTime": "2020-06-26T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-amazon-has-reportedly-bought-self-driving-car-startup-zoox-for-more-than-1-billion.md",
-      "title": "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion",
-      "excerpt": "Sources told the Financial Times that Zoox's management team will report to Jeff Wilke, head of Amazon's worldwide consumer division",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ece37e6aee6a8643064e963?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp",
-      "publishedDateTime": "2020-06-26T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-lets-kill-facial-recognition-for-good.md",
-      "title": "Let's Kill Facial Recognition For Good",
-      "excerpt": "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ...",
-      "sourceUrl": null,
-      "webUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nvw4abg7rvdyxyeklgsr.jpg",
-          "width": 800,
-          "height": 449,
-          "title": "Let's Kill Facial Recognition For Good",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
-      "cdnAmpWebUrl": "https://paleofuture-gizmodo-com.cdn.ampproject.org/c/s/paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
-      "publishedDateTime": "2020-06-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "paleofuture.gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-ibm-cloud-suffers-second-global-outage-this-month.md",
-      "title": "IBM Cloud suffers second global outage this month",
-      "excerpt": "It's worth noting that IBM did not immediately address the earlier outage but did release a statement on its Twitter account that services were being \"restored to full services as",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1593164937/itpro/IBM_Cloud_Shutterstock.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "IBM Cloud suffers second global outage this month",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
-      "publishedDateTime": "2020-06-26T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

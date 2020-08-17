@@ -2,6 +2,246 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-07-17-nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai.md",
+      "title": "Nvidia: Edge AI solves specific business problems, won’t kill cloud AI",
+      "excerpt": "While \"edge AI\" has become a buzzword in recent years, the actual value of nearby, cloud-like servers has been somewhat amorphous. Nvidia has answers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/nvidiatransform2020-e1594212068141.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/amp/",
+      "publishedDateTime": "2020-07-17T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot.md",
+      "title": "Intel VP: AI-aided defect detection is a killer app for industrial IoT",
+      "excerpt": "Computer vision has become one of AI’s most promising applications, combining ever-improving cameras with faster and smarter automated object recognition. During today’s Transform 2020 ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/inteltransform2020-e1594304433845.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/amp/",
+      "publishedDateTime": "2020-07-17T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-nvidia-faces-a-tough-new-rival-in-artificial-intelligence-chips.md",
+      "title": "NVIDIA Faces a Tough New Rival in Artificial Intelligence Chips",
+      "excerpt": "The chip offers eight times the performance of its predecessor, the Colossus MK1, and is powered by 59.4 billion transistors -- which surpasses the 54 billion transistors in NVIDIA 's ( NASDAQ:NVDA) newest top-tier A100 data center GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582503%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
+      "publishedDateTime": "2020-07-17T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-commentary-combine-optimization-machine-learning-and-simulation-to-move-freight.md",
+      "title": "Commentary: Combine optimization, machine learning and simulation to move freight",
+      "excerpt": "On July 7, FreightWaves ran Commentary: Optimal Dynamics – the decision layer of logistics?, which kicked off a series that will focus on “AI in Supply Chain.” I believe that the incorporation of decision-making technologies in the supply chain is potentially the most transformative development in global industrial supply chains that we will see for the next two or three decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/commentary%3A-combine-optimization,-machine-learning-and-simulation-to-move-freight",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/07/Aoaeh_commentary_071520_2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/commentary%3A-combine-optimization,-machine-learning-and-simulation-to-move-freight/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary%3A-combine-optimization,-machine-learning-and-simulation-to-move-freight/amp",
+      "publishedDateTime": "2020-07-17T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap.md",
+      "title": "AI in Fashion Market Growing at a CAGR 40.8% | Key Player Microsoft, IBM, Google, AWS, SAP",
+      "excerpt": "The global AI in Fashion Market is expected to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-17T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can.md",
       "title": "AI researchers say we’ve squeezed nearly as much out of modern computers as we can",
       "excerpt": "Deep learning‘s reached the end of its rope. At least according to a group of MIT researchers who recently conducted an audit of more than 1,000 pre-print papers on arXiv. We’ve run out of compute, basically.",
@@ -1194,246 +1434,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-richard-socher-natural-language-processing-creates-value-in-the-enterprise.md",
-      "title": "Richard Socher: Natural language processing creates value in the enterprise",
-      "excerpt": "During a session at VentureBeat's Transform summit, former Salesforce chief scientist Richard Socher spoke about how AI can create value in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/da53d202-38f4-41a3-bc3a-051c83cbc1f9-e1594699876370.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/amp/",
-      "publishedDateTime": "2020-07-16T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-dows-machine-learning-journey-in-international-trade.md",
-      "title": "Dow’s Machine Learning Journey In International Trade",
-      "excerpt": "Dr. John Wassick, Integrated Supply Chain Technology Fellow, Dow Inc., was on a supply chain panel at the ARC Industry Forum in Orlando.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1227496813%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
-      "publishedDateTime": "2020-07-16T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms.md",
-      "title": "How Google addresses ML fairness and eliminates bias in conversational AI algorithms",
-      "excerpt": "When it comes to algorithmic bias, how Google teaches Translate to recognize gender serves as an example of just how complex such a basic problem remains.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1130913708-e1594908132407.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/amp/",
-      "publishedDateTime": "2020-07-16T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-darpa-pays-1-million-for-an-ai-app-that-can-predict-an-enemys-emotions.md",
-      "title": "DARPA Pays $1 Million For An AI App That Can Predict An Enemy’s Emotions",
-      "excerpt": "The science of using AI to detect and predict emotions is shaky but the U.S. military and a handful of well-funded startups are hoping to prove the doubters wrong, whatever the risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959878254%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
-      "publishedDateTime": "2020-07-16T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool.md",
-      "title": "Translate ancient hieroglyphs with Google's new AI-powered tool",
-      "excerpt": "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/google-ai-ancient-translations-fabricius/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F16%252Ff6%252F66a780e167964d65ab19a4d99ea58b2b.1facd.png%252F1200x630.png?signature=deLEc7xGcwqwndP88ulKUH8V6sQ=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,245 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-07-29-chinese-dissident-artist-ai-weiwei-on-masks-uighurs-and-democracy.md",
+      "title": "Chinese Dissident Artist Ai Weiwei On Masks, Uighurs and Democracy",
+      "excerpt": "China’s most famous artist and infamous government critic spills on human rights atrocities in Xinjiang and state attempts to cover up the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5f20f138fcd71c009e8086ca/lede/1595994995279-0001ow9h9.jpeg?crop=1xw:0.8438xh;0xw,0.1562xh",
+          "width": 4241,
+          "height": 2382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_asia/article/3az7vw/chinese-artist-ai-weiwei-masks-uighurs-democracy",
+      "publishedDateTime": "2020-07-28T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026.md",
+      "title": "Natural Language Processing Market Segmentation, Research Methodology And Revenue Growth Forecast Till 2026",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 29, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work.md",
+      "title": "A new AI claims it can help remove racism on the web. So I put it to work",
+      "excerpt": "It was too tempting a challenge. Which site has more problematic pages? FoxNews.com or ESPN.com? You may be surprised.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/11/d4c29a7e-7cdc-4746-80a8-95898573899c/ai.png",
+          "width": 1938,
+          "height": 1258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
+      "publishedDateTime": "2020-07-28T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-aws-announces-general-availability-of-amazon-fraud-detector.md",
+      "title": "AWS Announces General Availability of Amazon Fraud Detector",
+      "excerpt": "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-fraud-detector-2020-07-28",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-ai-chatbot-apps-how-are-the-two-transforming-the-mobile-technology.md",
+      "title": "AI & Chatbot Apps: How Are the Two Transforming The Mobile Technology?",
+      "excerpt": "From small enterprises to some of the giants in the market today, AI and chatbots are being integrated on a large scale and these enhancements are making lives easier in many ways. Speaking of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/1/c85c2f4073de11ea851b2f4e75c7f473/inner1-1595914509259.png?fm=png&auto=format",
+          "width": 700,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology/amp",
+      "publishedDateTime": "2020-07-28T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-softbank-enters-korean-market-with-ai-powered-robot-vacuum.md",
       "title": "SoftBank enters Korean market with AI-powered robot vacuum",
       "excerpt": "SoftBank Robotics, an affiliate of Japanese tech giant SoftBank, has announced its bid to enter the Korean market with its artificial intelligence (AI)-powered robot vacuums, its Korean unit said Tuesday.",
@@ -1126,254 +1365,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker.md",
-      "title": "How SNCF Réseau and Olexya migrated a Caffe2 vision pipeline to Managed Spot Training in Amazon SageMaker",
-      "excerpt": "This blog post is co-written by guest authors from SNCF and Olexya. Transportation and logistics are fertile ground for machine learning (ML). In this post, we show how the French state-owned railway company Soci&eacute;t&eacute; Nationale des Chemins de fer Fran&ccedil;ais (SNCF) uses ML from AWS with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-sncf-reseau-and-olexya-migrated-a-caffe2-vision-pipeline-to-managed-spot-training-in-amazon-sagemaker/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T09:54:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-podcast-editor-descript-adds-new-pro-tier-with-access-to-its-ai-voice-double-feature.md",
-      "title": "Podcast editor Descript adds new pro tier with access to its AI voice double feature",
-      "excerpt": "Descript, the maker of artificial intelligence-powered audio editing software, is launching a new tier of subscription today called Descript Pro that features access to its Overdub feature. Overdub, first released in beta last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/o_8is0wzt7RbChOC5Y9kp8mGoOs=/0x0:2196x1620/1400x933/filters:focal(923x635:1273x985):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67121420/descript_2.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing",
-      "publishedDateTime": "2020-07-28T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks.md",
-      "title": "LinkedIn open-sources DeText, a framework for natural language processing tasks",
-      "excerpt": "“Deep learning-based natural language processing has the potential to deepen how search and recommender systems understand human intent. Yet the ability to leverage models … in commercial ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/28/linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/28/linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/28/linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks/amp/",
-      "publishedDateTime": "2020-07-28T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-cheryl-ingstad-director-of-the-ai-and-technology-office-us-department-of-energy-doe.md",
-      "title": "Cheryl Ingstad, Director of the AI and Technology Office, U.S. Department of Energy (DOE)",
-      "excerpt": "The US Department of Energy has been at the forefront of most of the groundbreaking and world-changing revolutions in science and technology including nuclear energy, genomics, and high-performance computing.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2020/07/Appen_State_of_AI_report.png",
-          "width": 462,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores.md",
-      "title": "Rite Aid deployed facial recognition systems in hundreds of U.S. stores",
-      "excerpt": "Rite Aid quietly added facial recognition systems to 200 stores across the United States over about eight years, in one of the largest rollouts of such technology among retailers in the country ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106635454-15959354852020-07-28t010549z_506450208_rc212i92ohp1_rtrmadp_0_usa-riteaid-software.jpeg?v=1595935517",
-          "width": 3500,
-          "height": 2333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "publishedDateTime": "2020-07-28T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

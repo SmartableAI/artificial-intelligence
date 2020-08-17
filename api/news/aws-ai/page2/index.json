@@ -551,16 +551,16 @@
     {
       "path": "_news/2020-07-27-pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer.md",
       "title": "Pluralsight to Help Machine Learning Enthusiasts Skill Up with AWS DeepRacer",
-      "excerpt": "The collaboration features an AWS DeepRacer hub on the Pluralsight platform that includes a customized channel, curated by Pluralsight and AWS experts, for AWS DeepRacer content. Users will have ...",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. SILICON SLOPES, Utah, Jul 27, 2020 (GLOBE NEWSWIRE via COMTEX) -- Pluralsight, Inc. (NASDAQ: PS), the technology ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/PS-Q/pressreleases/154031/",
+      "webUrl": "https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.theglobeandmail.com/resources/assets/meta/facebook-1200x630.png",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -571,12 +571,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-26T17:00:00-07:00",
+      "publishedDateTime": "2020-07-27T01:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-28-facebook-rebel-general-ai-algorithm-can-probably-beat-you-at-poker.md",
+      "title": "Facebook ReBel General AI Algorithm Can Probably Beat You At Poker",
+      "excerpt": "A group of researchers from Facebook AI Research has now created a more general AI algorithm dubbed ReBel that can play poker better than at least some",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/11/Facebook-Logo-Nov-15-2018-AH.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/facebook-rebel-general-ai-algorithm-poker.html/amp",
+      "publishedDateTime": "2020-07-28T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-facebook-develops-ai-algorithm-that-learns-to-play-poker-on-the-fly.md",
       "title": "Facebook develops AI algorithm that learns to play poker on the fly",
       "excerpt": "Combining reinforcement learning with search at AI model training and test time has led to a number of advances. Reinforcement learning is where agents learn to achieve goals by maximizing rewards, while search is the process of navigating from a start to a goal state.",
@@ -1303,56 +1345,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-nvidia-faces-a-tough-new-rival-in-artificial-intelligence-chips.md",
-      "title": "NVIDIA Faces a Tough New Rival in Artificial Intelligence Chips",
-      "excerpt": "The chip offers eight times the performance of its predecessor, the Colossus MK1, and is powered by 59.4 billion transistors -- which surpasses the 54 billion transistors in NVIDIA 's ( NASDAQ:NVDA) newest top-tier A100 data center GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582503%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
-      "publishedDateTime": "2020-07-17T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

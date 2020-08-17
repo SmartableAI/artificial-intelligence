@@ -2,6 +2,138 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-10-union-bank-partners-awarri-to-launch-next-robotics-legend.md",
+      "title": "Union Bank, partners Awarri to launch ‘Next Robotics Legend’",
+      "excerpt": "Union Bank of Nigeria Plc, through its education platform,  Edu360, has announced its partnership with Awarri,  a pan-African technology company",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2017/04/Union-Bank.png?fit=412%2C275&ssl=1",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/08/union-bank-partners-awarri-to-launch-next-robotics-legend-2/amp/",
+      "publishedDateTime": "2020-08-09T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-10-bits-pilani-students-robotics-startup-is-working-towards-mind-controlled-wheelchairs-and-prostheses.md",
+      "title": "BITS Pilani students' robotics startup is working towards mind-controlled wheelchairs and prostheses",
+      "excerpt": "Founded by two BITS Pilani students, robotics startup Nexstem uses EEG signals to predict users’ thoughts and bridge the gap between man and machine. It can be used to create mind-controlled wheelchairs,",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/nextstemP-1596869064769.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen/amp",
+      "publishedDateTime": "2020-08-09T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-09-its-world-mask-week-here-are-10-misconceptions-about-face-coverings.md",
+      "title": "It’s World Mask Week, Here Are 10 Misconceptions About Face Coverings",
+      "excerpt": "From beliefs that face masks will affect your immune system to child-trafficking conspiracy theories, there are a lot of myths floating around out there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f302195863f284a7dcb68d0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/08/09/its-world-mask-week-here-are-10-misconceptions-about-face-coverings/amp/",
+      "publishedDateTime": "2020-08-09T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-09-facial-recognition-could-help-to-stamp-out-bitcoin-social-media-scams.md",
       "title": "Facial Recognition Could Help to Stamp Out Bitcoin Social Media Scams",
       "excerpt": "Facial recognition can help prevent future Bitcoin scams like those that hit Twitter and YouTube, said Rod Hsu, president and co-founder of virtual currency platform Coincurve. Du",
@@ -130,6 +262,47 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-09-chinese-robotaxis-take-riders-for-a-spin.md",
+      "title": "Chinese 'robotaxis' take riders for a spin",
+      "excerpt": "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381",
+      "publishedDateTime": "2020-08-09T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -979,196 +1152,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape.md",
-      "title": "Google's AI thinks women wearing masks have mouths covered with duct tape",
-      "excerpt": "According to a study, the visual AIs of Microsoft, Google and IBM have a lot to do to catch up with the real world. Some of the study's results are truly disturbing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-thinks-women-wearing-masks-have-mouths-covered-with-duct-tape/",
-      "publishedDateTime": "2020-08-07T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-ibm-and-michael-j-fox-foundation-develop-machine-learning-model-for-parkinsons.md",
-      "title": "IBM and Michael J. Fox Foundation develop machine learning model for Parkinson’s",
-      "excerpt": "The research arm of Big Blue and The Michael J. Fox Foundation (MJFF) have developed a machine learning disease progression model as part of further research into Parkinson's disease (PD). PD is a chronic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.michaeljfox.org/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.michaeljfox.org/themes/custom/fox/assets/images/png/og-image-logo.png",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-ai-is-a-new-weapon-in-the-battle-against-counterfeits.md",
-      "title": "AI Is a New Weapon in the Battle Against Counterfeits",
-      "excerpt": "Algorithms that can spot features invisible to the human eye are helping to protect retailers and shoppers from a glut of fake goods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-217414/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200",
-      "publishedDateTime": "2020-08-07T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-07-ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping.md",
-      "title": "AI on the high seas: Digital transformation is revolutionizing global shipping",
-      "excerpt": "From unmanned vessels to artificial intelligence applications, digital transformation is giving shipping a 21st-century reboot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/",
-      "publishedDateTime": "2020-08-07T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

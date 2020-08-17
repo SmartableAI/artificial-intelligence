@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN24T1GH"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN24T1GH"
 type: article
 quality: 104
-heat: 224
+heat: 204
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1622897/derrick-ingram.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "UK court says facial recognition tech violates human rights"
-    excerpt: "The use of facial recognition technology by British police has violated human rights and data protection laws, a court said Tuesday, in a decision praised as a victory against invasive"
-    publishedDateTime: 2020-08-12T13:57:00Z
-    webUrl: "https://nypost.com/2020/08/12/uk-court-says-face-recognition-violates-human-rights/"
-    ampWebUrl: "https://nypost.com/2020/08/12/uk-court-says-face-recognition-violates-human-rights/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/08/12/uk-court-says-face-recognition-violates-human-rights/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/08/uk-facial-recognition-5.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Dodgers Stadium Future Includes Contactless Tech, More Analytics And Eventual Facial Recognition"
     excerpt: "The technological infrastructure now backing Dodgers Stadium in Los Angeles sets up one of the most followed Major League Baseball franchises to deliver a new in-venue experience for fans when they return to the building."
@@ -151,20 +135,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/08/NINTCHDBPICT000601924167.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
-        isCached: true
-  - title: "GAO: Some Facial Recognition Technology Could Lead to Misidentification"
-    excerpt: "Market research and other data suggest that the market for facial recognition technology has increased in the number and types of businesses that use it since a Government Accountability Office (GAO) report on the topic in 2015."
-    publishedDateTime: 2020-08-12T13:35:00Z
-    webUrl: "https://www.hstoday.us/industry/gao-some-facial-recognition-technology-could-lead-to-misidentification/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/03/face-detection-4760361_1280.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "NYPD Used Facial Recognition Unit In Siege Of Black Lives Matter Activist’s Apartment"
     excerpt: "The NYPD has previously stated that the technology is used to gather leads on suspects for crimes, such as robberies and shootings, not to identify people in crowds or at rallies"

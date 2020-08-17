@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/2020/08/16/autox-launches-its-robotaxi-service-in-shanghai-competing-with-didis-pilot-program/</loc>
+    <lastmod>2020-08-16T23:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/</loc>
     <lastmod>2020-08-16T21:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2113686/artificial-intelligence-ai-robots-market-next-big-thing</loc>
+    <lastmod>2020-08-16T20:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -337,6 +349,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://timesofindia.indiatimes.com/city/dehradun/iit-r-launches-short-term-courses-on-ai-machine-learning-data-science/articleshow/77511018.cms</loc>
+    <lastmod>2020-08-12T16:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-08-12T16:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -447,6 +465,12 @@
   <url>
     <loc>https://www.wsj.com/articles/how-a-30-ton-robot-could-help-crops-withstand-climate-change-11597237276?mod=hp_listc_pos2</loc>
     <lastmod>2020-08-12T06:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/buddyai-announces-its-launch-in-latin-america-where-the-company-will-help-spanish-speaking-kids-start-talking-in-english-301110900.html</loc>
+    <lastmod>2020-08-12T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -865,7 +889,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.research-live.com/article/news/new_funding_for_racial_justice_ai_and_data_projects/id/5072562</loc>
+    <loc>https://www.research-live.com/article/news/new-funding-for-racial-justice-ai-and-data-projects/id/5072562</loc>
     <lastmod>2020-08-10T02:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -885,12 +909,6 @@
   <url>
     <loc>https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen</loc>
     <lastmod>2020-08-09T17:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin</loc>
-    <lastmod>2020-08-09T12:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -915,6 +933,12 @@
   <url>
     <loc>https://www.entrepreneur.com/article/354461</loc>
     <lastmod>2020-08-09T01:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381</loc>
+    <lastmod>2020-08-09T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1815,6 +1839,12 @@
   <url>
     <loc>https://www.paymentsjournal.com/rite-aid-facial-recognition-security-was-uncovered-are-you-prepared/</loc>
     <lastmod>2020-08-03T12:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.insidermonkey.com/blog/top-5-robotics-and-artificial-intelligence-stocks-to-buy-according-to-hedge-funds-868578/</loc>
+    <lastmod>2020-08-03T11:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3331,6 +3361,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer-2020-07-27</loc>
+    <lastmod>2020-07-27T01:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/</loc>
     <lastmod>2020-07-27T01:00:01-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3368,12 +3404,6 @@
   </url>
   <url>
     <loc>https://www.news-medical.net/news/20200727/New-approach-reduces-power-requirements-of-neural-interfaces-while-improving-accuracy.aspx</loc>
-    <lastmod>2020-07-26T17:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.theglobeandmail.com/investing/markets/stocks/PS-Q/pressreleases/154031/</loc>
     <lastmod>2020-07-26T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

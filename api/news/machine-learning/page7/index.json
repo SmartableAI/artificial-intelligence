@@ -2,6 +2,47 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-22-new-study-on-neural-networks-has-implications-for-improved-ai-applications.md",
+      "title": "New Study on Neural Networks has Implications for Improved AI Applications",
+      "excerpt": "At North Carolina State University, researchers have found when neural networks are taught physics, they can better adapt to chaos within their environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11379",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/news/ImageForNews_11379_15928251179826128.png",
+          "width": 950,
+          "height": 535,
+          "title": "New Study on Neural Networks has Implications for Improved AI Applications",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11379",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11379",
+      "publishedDateTime": "2020-06-22T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-objex-inc-joins-google-cloud-partner-program.md",
       "title": "Objex, Inc. Joins Google Cloud Partner Program",
       "excerpt": "AutoML, Google Cloud Vision, Natural Language and Speech APIs Digital transformation is rethinking old operating models and to become more agile in your ability to experiment and respond to ever changing customer needs. Objex is a call away to help you in ...",

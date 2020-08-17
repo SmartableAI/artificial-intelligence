@@ -5,7 +5,7 @@ excerpt: "Google AI researchers have made the Language Interpretability Tool (LI
 publishedDateTime: 2020-08-17T03:54:00Z
 webUrl: "https://www.sify.com/finance/google-open-sources-its-language-interpretability-tool-news-topnews-uirdOCfjgcgbc.html"
 type: article
-quality: 4
+quality: 6
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 related:
   - title: "Google open-sources LIT, a toolset for evaluating natural language models"

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-bi
 ampWebUrl: "https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/POWER-10_06-e1597548323219.jpg?w=1200&#038;strip=all"
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "Tha8JX94/tGZemDyWY0NeZTwbHWgMrwRX+pm/nXEqDExOZZZlX1UaFSaPaoYVg+//OhokcNvJ6fejaM66uUiZnTrxfbiGAZZt6Y5iuaZR5fU+K7pHTl0YRwgud5H0ObKT44qkL/o4vYlvwnt+q9EUpO6bfiPqusNoeLqx5Mb3c+KPxoeC/L4gKMXvEDVrjOtOwomsbQs61Gv8onAwZmPs0MpKT+LFqlrN2AS0wxu0Gk0KKsxc4CaO1KPVyJxmCDdd6QlmbfIAZr+EfiK6xacoxuXeSBXhI8JbgaNxASUYTh8+cA5qOLBiqVuoitjWbpIWWbZAzmuoy6+ye39dqO75A==;pg03cdWdAG+MknwWNxaFXw=="
+secured: "fuMQe4kJwkCYncyfVZpPCvvjfUAhYn031DO3W2lNMEqAQ7jlo50qxokjD4KT3Bdr9Tew/aCHsKg4vgPjq7JPHRSCEQ3tF/Eit/ZlsoOPU7f94009CEJP3BdohSExENY8oUOL4VhDjjQfpZ/T/pn1X8eQLAyfdd8vURGW0Ra4tKjLp/bZs7KCNzfxzvSgvNOq+vRPHVdmko8yuLcL2jx4TBrEwtxxy6aPxulYCirft4FHjdJsWvsTbUaUt3itvGY25gWqgTdyM13/XOT6DPP3krrdmNlwyuheAsWLd5vxiaDgJ5TJmGIIVJQrWfRTx39KX+RJsvKCc+1Ti05Q2+EI686V6oAJGFzQ8DFfCp4HR1zMPIQzXkhZOWMRdVc5EFYBL02CwaVa40dPaeBqpB4o5ceulNS908oL2rRGCsm9aOSkJ5PAaOX9ApqaXroL77JsIryYQIwpucDAUnFv5CU6KQnqa9XPVJQD81hh1yrIxrrCNYSjB1snRZAoGUNUOLsM9nCppuzeixxydXGNVk+BMg==;7LzM6I8efuXu16hm3X7BIA=="
 ---
 

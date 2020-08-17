@@ -20,17 +20,20 @@ topics:
   - AI
 
 related:
-  - title: "Precision implantation of cutting-edge hearing devices stabilises residual hearing and improves speech recognition"
-    excerpt: "Precision surgical implantation of electrodes for the electric-acoustic stimulation of the inner ear can stabilise the long-term residual hearing of severely hearing-impaired people and significantly improve their speech recognition."
-    publishedDateTime: 2020-08-13T13:20:00Z
-    webUrl: "https://medicalxpress.com/news/2020-08-precision-implantation-cutting-edge-devices-stabilises.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-08-precision-implantation-cutting-edge-devices-stabilises.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-precision-implantation-cutting-edge-devices-stabilises.amp"
+  - title: "UAE denies Israel recognition deal aimed at pressuring Iran"
+    excerpt: "The United Arab Emirates had denied that its recognition agreement with Israel is aimed at Iran. The UAE minister of state for foreign affairs Anwar Gargash said on Monday that the agreement to normalise ties with Israel was a \"sovereign decision\" and rejected criticism from Iran over the deal."
+    publishedDateTime: 2020-08-17T07:16:00Z
+    webUrl: "https://www.middleeasteye.net/news/uae-denies-israel-recognition-deal-aimed-iran"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
+      name: Middle East Eye
+      domain: middleeasteye.net
+    quality: 39
+    images:
+      - url: "http://www.middleeasteye.net/sites/default/files/images-story/000_1NP12Z.jpg"
+        width: 5184
+        height: 3456
+        isCached: true
 
 secured: "PvwZksaYEbX7ipKy+mi4hfM3PAlSV5CfcuSuTWkI29lGcan+0bjJc95KRyXSkYoQjhmRGk9uEEYIaxw8dfjuIAz1vcbvZgMPEmUkdOaRH3tuh5csnM1pyV2eGtq0Bx5StTqnZutKwJs8XHMH8BnECB6t8so93vYHdcZAd3VMutuUZaTR2NpVgC5UZFha6RJ/0BC2GB93AaSXR3hmXIuesA2B9hiVb2GV/YSx7QU2E/6+hFf6TQmYXciZDifItsAM1ZILkvaa2u2Ny8UD0uOskc5KNFaKVDPfG/bjMRBPmWlIrtAuEIQ6JBv/bLcDPXe/oeTNAwPi+p7rmWtE/SlFog==;GA/eXfhUIZfuO6DhXXHG/w=="
 ---
