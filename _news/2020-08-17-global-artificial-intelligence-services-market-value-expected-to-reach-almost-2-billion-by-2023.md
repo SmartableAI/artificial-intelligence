@@ -5,8 +5,8 @@ excerpt: "Baidu Is One Of The Largest Players In The Artificial Intelligence Ser
 publishedDateTime: 2020-08-17T19:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-services-market-value-expected-to-reach-almost-2-billion-by-2023-2020-08-17"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

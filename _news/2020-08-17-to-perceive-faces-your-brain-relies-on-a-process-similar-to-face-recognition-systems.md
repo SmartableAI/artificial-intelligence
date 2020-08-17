@@ -1,26 +1,26 @@
 ---
 category: news
 title: "To perceive faces, your brain relies on a process similar to face recognition systems"
-excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people with hemi-prosopometamophosia (hemi-PMO)."
-publishedDateTime: 2020-08-17T13:11:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-08/dc-tpf081420.php"
+excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people who have a rare condition known as hemi-prosopometamophosia (hemi-PMO),"
+publishedDateTime: 2020-08-17T14:20:00Z
+webUrl: "https://medicalxpress.com/news/2020-08-brain-similar-recognition.html"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/toperceivefa.jpg"
+    width: 1000
+    height: 549
     isCached: true
 
 related:
@@ -85,6 +85,6 @@ related:
         height: 915
         isCached: true
 
-secured: "rM34HmWdy6UErYgli6wGBMkjEcwSG7YYapyStdqtgYraDgVc72tzWZVbdGHSfQVjDdETOThu5Y/CKcJEoz1Arixb3v8nXfckylnZINO6afJ89s44lRgezbTtBelxxv6pxmHPdLIzZHscHRJVvbLVdftKb2KzswpDsPh+d4VNLAtZkFyjdP/elA9e68bRku07SA/2/2BSOWKTYTP2rxU2d54uVsUP2pn8Keiq3Z1E0R3O+03OUUpPR9djuyF+U+ShzpNjnhfl7GrcIotlemtVBru/nlvPghUdGRvCM7T6mYpJsD00L/7jDGHrfTorTSHhEBUdjbZYZAR2uBE9bSD9KFT8iy7VoxR/EDgkQNEtB0JS4SfU2YP+Wfr7T7p532imwqcI9Qs9uGImPVioaLHa+hcfxOaRwKXKNECvg5uDdd4rePF52MFsU/PmSCJsnW5rmyNl4HmKz9Ji6GzXBNEMSR2rvSpgazdxWIX7FvevzWC1Uqv1jK5vyXwZokyZ1kW7JzN24X8WJP9EX8NamYTwEQ==;RRQo0jH8LngnzNOKElclOA=="
+secured: "3zqtIcCUgvfxEDCMENHl3h8I7RWdaZ8ZwdkMxj/EeuxBrjaM3n2RP50w9QusZtwD+1jbAh46hZRwLfhEdMfSHLiRDJ7vGX4bcoLw7jruSyo3ZRaiXJdzuNMLEIYQ2HMSRDnwmOF0SnUKS8FfJf80/9RU6QOAOLvwqoc+GDP+FQ35crfyC71kkWHMCz1jyf3paGzct8/tEfR3pHAN9odmVB8Hpu60vH09+8/jC4TFxT+2ZkF7ca1HOuWJmuvmhTApX4PWkDPu2wJDy3WruKWMnJgkxBaUeMp3g8xJXXg6HD2k/6gLNph/wF0s1cqPvhZhZblgoJaqafeqUBuVE8xR5A==;inYDX6oHNQ/yl6mOu6Zc8g=="
 ---
 

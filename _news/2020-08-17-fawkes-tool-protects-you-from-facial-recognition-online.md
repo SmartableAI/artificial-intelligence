@@ -71,18 +71,18 @@ related:
         height: 1266
         isCached: true
   - title: "To perceive faces, your brain relies on a process similar to face recognition systems"
-    excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people with hemi-prosopometamophosia (hemi-PMO)."
-    publishedDateTime: 2020-08-17T13:11:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/dc-tpf081420.php"
+    excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people who have a rare condition known as hemi-prosopometamophosia (hemi-PMO),"
+    publishedDateTime: 2020-08-17T14:20:00Z
+    webUrl: "https://medicalxpress.com/news/2020-08-brain-similar-recognition.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 47
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/toperceivefa.jpg"
+        width: 1000
+        height: 549
         isCached: true
 
 secured: "GKq46YTAB2saeTopzHXMJNUtB5EEQtRGysv2cbiwXSVEQysWdDIkzuM40QkDO6mnnVk/QHmXMBxll7kCxJeEJ6hpX1GSjKQpa+huuSOS0nYGWWlKJvcJKSsAVvG3NU51Q/gMBcAFpP/MRZwoAi6ElYvAYl+n0YYtiSlJaFf16lnl9x9ecfjNEkmDXyqKD7zDGO9gOLc6lOp4DeE84/M1EMCPJdu+golYpWxpR6Ya7nTVcX0aTrKkjgLwWJloozmCffYUN2IfPOQvKFauL5Ktqx17ZuwEOq1eYzKAXyxRqpRg7HQvkbjMnq1Xw7TP5C3GNKI4Z14TtrjaO5bHfRQFUgF70qBCBaFkpVasSr4KpaHennr/4PH4i3fCoLBjopjm5+fQjtbNnMChcLnFDiFzRuTUho4qp0p5AjMuheol7SKNVdqYWKtxje/Q1aMd6RQad3uwmvfqCA/VDqgg8Cv0rL4xHcMwbyIJZylhN6/XyE+O3u7rttT9ylyAbbWY0BnyubLf9qBp7WY3uTG3FeTy4w==;Ga8BiSxurQ6hcjkzzhK+NQ=="

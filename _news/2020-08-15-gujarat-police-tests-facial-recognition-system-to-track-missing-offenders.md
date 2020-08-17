@@ -57,18 +57,18 @@ related:
         height: 1266
         isCached: true
   - title: "To perceive faces, your brain relies on a process similar to face recognition systems"
-    excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people with hemi-prosopometamophosia (hemi-PMO)."
-    publishedDateTime: 2020-08-17T13:11:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/dc-tpf081420.php"
+    excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people who have a rare condition known as hemi-prosopometamophosia (hemi-PMO),"
+    publishedDateTime: 2020-08-17T14:20:00Z
+    webUrl: "https://medicalxpress.com/news/2020-08-brain-similar-recognition.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 47
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/toperceivefa.jpg"
+        width: 1000
+        height: 549
         isCached: true
   - title: "‘Fawkes’ tool protects you from facial recognition online"
     excerpt: "A new software tool called Fawkes can \"cloak\" photos before you upload them to social media to prevent facial recognition algorithms from identifying you."
