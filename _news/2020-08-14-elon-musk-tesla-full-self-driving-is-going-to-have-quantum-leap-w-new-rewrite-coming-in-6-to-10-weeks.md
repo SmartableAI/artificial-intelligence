@@ -40,6 +40,22 @@ related:
         width: 923
         height: 651
         isCached: true
+  - title: "Tesla's Full Self-Driving Software To Make 'Quantum Leap,' Musk Says"
+    excerpt: "While you can buy a \"Full Self Driving\" package on Tesla's website, the company's cars are not able to drive themselves without human help yet — but that may be changing soon. Tesla's FSD software will make a \"quantum leap\" when it comes to the optional ..."
+    publishedDateTime: 2020-08-17T17:53:00Z
+    webUrl: "https://www.benzinga.com/news/20/08/17119149/teslas-full-self-driving-software-to-make-quantum-leap-musk-says"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17119149"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17119149"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/s3xy_4.jpg"
+        width: 3840
+        height: 1990
+        isCached: true
   - title: "Tesla Smart Summon patent highlights progress in 3D labeling for full self-driving features"
     excerpt: "A recently published Tesla patent application details the machine learning methods behind Smart Summon, specifically highlighting the progress being made with 3D labeling in training data. The application,"
     publishedDateTime: 2020-08-14T06:56:00Z

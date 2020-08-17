@@ -8,8 +8,8 @@ ampWebUrl: "https://phys.org/news/2020-08-cyborg-technology-enable-diagnostics-m
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-cyborg-technology-enable-diagnostics-merger.amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Phys.org
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Groundbreaking new material 'could allow artificial intelligence to merge with the human brain'"
-    excerpt: "Technology could enable new health diagnostics and achieve Elon Musk's goal of integrating with artificial intelligence"
-    publishedDateTime: 2020-08-17T09:02:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-brain-computer-cyborg-elon-musk-neuralink-a9673261.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 40
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/16/19/artificial-intelligence-cyborg-brain.jpg"
-        width: 2349
-        height: 1762
-        isCached: true
   - title: "New ‘Cyborg technology’ could see human brains merged with AI to diagnose disease from inside the human body in future"
     excerpt: "A coating for sensors and other bioelectronic devices could usher in a new era of AI technology integrating man with machine, researchers have claimed"
     publishedDateTime: 2020-08-17T10:45:00Z

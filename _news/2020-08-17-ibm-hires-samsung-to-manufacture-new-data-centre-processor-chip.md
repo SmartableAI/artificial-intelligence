@@ -23,6 +23,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Samsung manufacturing IBM's new data center chips"
+    excerpt: "IBM (IBM -0.3%) reveals the IBM Power10 chip, which is designed for enterprise hybrid cloud computing and use in data centers.IBM says the Power10, which will be available in H2 2021, can perform AI computing tasks up to 20x faster than the previous generation."
+    publishedDateTime: 2020-08-17T16:58:00Z
+    webUrl: "https://seekingalpha.com/news/3606345-samsung-manufacturing-ibms-new-data-center-chips"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+
 secured: "NwDqDnjhrKgWD+tPkAhIIFsdPt0mrx/Uo2RgDii7oYIRGBwQNkBnKyj5gSlIqHl9cuDhpibzzU3RnPg0IMWfiUts2Iq9thJCkFe/XM5UCvz4Ve/AW28dxCBEvYiW4JzuWcAQIai6L2BDiEDCYVYlzSShVoBhMP4GOXZR4/L5ph9ciVrLqYgf4etW1rL/g0/Tv4QU7Yu4sErEX677MLWjHcoSYD5iOpw15/O/9If9K+s3novi7Ql+3SbJLD/V0bdJpDvz8SjuoydFtkw/Dfm0Uv359k1aAc3JPlM5WxDbqb1dVjBlAfl9p46wdBVZhfOEJ+jO/q2K2s1hRKlhv2BZrw==;Cnw/hwRlysHbFprFHxs2qw=="
 ---
 

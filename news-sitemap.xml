@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/</loc>
+    <lastmod>2020-08-17T10:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more/</loc>
+    <lastmod>2020-08-17T10:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/</loc>
+    <lastmod>2020-08-17T10:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/</loc>
+    <lastmod>2020-08-17T09:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/</loc>
+    <lastmod>2020-08-17T09:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news</loc>
+    <lastmod>2020-08-17T09:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/</loc>
+    <lastmod>2020-08-17T09:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up/</loc>
+    <lastmod>2020-08-17T08:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.azorobotics.com/News.aspx?newsID=11551</loc>
     <lastmod>2020-08-17T08:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -49,6 +97,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.engadget.com/colgate-hum-smart-toothbrush-hands-on-120049179.html</loc>
+    <lastmod>2020-08-17T05:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/17/how-can-data-quality-enhance-trust-in-artificial-intelligence/</loc>
     <lastmod>2020-08-17T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,12 +117,6 @@
   <url>
     <loc>https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774</loc>
     <lastmod>2020-08-17T02:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://phys.org/news/2020-08-cyborg-technology-enable-diagnostics-merger.html</loc>
-    <lastmod>2020-08-17T02:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -261,12 +309,6 @@
   <url>
     <loc>https://www.klfy.com/international/melting-frozen-memories-ai-helps-japanese-recall-war-days/</loc>
     <lastmod>2020-08-13T19:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.neowin.net/news/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns</loc>
-    <lastmod>2020-08-13T17:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -643,6 +685,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040</loc>
+    <lastmod>2020-08-11T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy/</loc>
     <lastmod>2020-08-11T14:04:50-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1015,7 +1063,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.research-live.com/article/news/new-funding-for-racial-justice-ai-and-data-projects/id/5072562</loc>
+    <loc>https://www.research-live.com/article/news/new_funding_for_racial_justice_ai_and_data_projects/id/5072562</loc>
     <lastmod>2020-08-10T02:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1035,6 +1083,12 @@
   <url>
     <loc>https://yourstory.com/2020/08/this-tech-platform-developed-by-bits-pilani-studen</loc>
     <lastmod>2020-08-09T17:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin</loc>
+    <lastmod>2020-08-09T12:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1059,12 +1113,6 @@
   <url>
     <loc>https://www.entrepreneur.com/article/354461</loc>
     <lastmod>2020-08-09T01:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381</loc>
-    <lastmod>2020-08-09T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1681,14 +1729,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ai-computer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-1029469033</loc>
-    <lastmod>2020-08-04T13:42:00-07:00</lastmod>
+    <loc>https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/</loc>
+    <lastmod>2020-08-04T13:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.courthousenews.com/ai-helps-doctors-fight-covid-19-in-brazil/</loc>
-    <lastmod>2020-08-04T13:30:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/aicomputer-vision-startup-led-by-industry-veterans-revolutionized-sewer-inspection-301106068.html</loc>
+    <lastmod>2020-08-04T13:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

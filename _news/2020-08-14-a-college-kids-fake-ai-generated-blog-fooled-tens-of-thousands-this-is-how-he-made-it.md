@@ -8,7 +8,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-bl
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/amp/"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 3000
     height: 1688
     isCached: true
+
+related:
+  - title: "A fake blog written by AI shot to the top of Hacker News after people thought it was real — here's how a college student made it"
+    excerpt: "AI text generator, which has shown itself to appear convincingly human under some circumstances."
+    publishedDateTime: 2020-08-17T16:21:00Z
+    webUrl: "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/5f3a8e3ae89ebf001f0452c3?width=1200&format=jpeg"
+        width: 750
+        height: 375
+        isCached: true
 
 secured: "jBWMnssJe0RZUC9gY84sM6HQiiROuflozcuaXtnrvR9VPVdlkt2Pk/lCaM1pzG3QFwFDfrA9nCR7jyd0xNDQUyy3yJVEcUFdmaKUHskdJemFwYPqe9jkOUHiKx7M4vV8WzkKvsaQNrtL2aNfa/wMo0qj4+UNT/LAurVjuPPwT/2F36oh9w7Nwn2WsrVjWCZgckgOEiBfbrSulr2wUuyade52oJ+tPmhtyNqu6roiRvhrpQs9JKc5+emJ8TCDB8uKaMN6FUiELVFRu+lsr2rBid++qmG/nCB5nBtR1VLElPc7tqKaXEugpxj+NfZM8DyAf1HeWgjyxTyACmRVm0LOM4QEnjBb0A4DW33TXO3pLO29ZzdBVEizGKcHhFmJETxIF2l4t0yh98RfxrJVYSJj0FesXWrjiJsLD44AHJYiA6BSEuA73QueS2C4n346wn5LJG80UkTPuUAUzCAfAocUSpo1SRjSLDswNRRLrKRNw6omQTmVEA/ENfW40XW/rX1OGvbM5CMjMwIJwJMejX27WQ==;QRLMvhWfD+m6CjCvOBAOFQ=="
 ---

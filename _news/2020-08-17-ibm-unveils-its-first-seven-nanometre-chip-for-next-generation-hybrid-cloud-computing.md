@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nan
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM POWER10 Mega Chip For Hybrid Cloud Is Revealed"
+    excerpt: "The IBM POWER architecture has always delivered high-performance computing for business-critical workloads and looking to build on that legacy, they’ve just released the POWER10, tilting toward support for cloud workloads."
+    publishedDateTime: 2020-08-17T17:19:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/08/17/ibm-power10-mega-chip-for-hybrid-cloud-is-revealed/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f38a5f091aa14f662ef56fe%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM rolls out seven nano chip"
     excerpt: "Power to the people Big Blue said it introduced its Power 10 microprocessor, which it claims, delivers up to three times greater energy efficiency and workload capacity. The Power 10 is the first seven nanometre processor and has features over and above its previous iteration."
     publishedDateTime: 2020-08-17T13:35:00Z
@@ -45,6 +59,6 @@ related:
         height: 465
         isCached: true
 
-secured: "Z2oLji0lPBDPcVRFzIjzG7Qm9krMXsXdk/F/j37VN7DSa0g/a9eDqdquW+gVwBRAanbBXIQzRAB8lHdNLxoNiJUqr7B62tlDmmYDZpCFzvG8bOB4lA9C8+YbdGri6khb7ewepR9uA0Z97uwo0v1+SeuWN1Zf89XEoGW/C3aLLoYPZofFCRIVWxnvjlRVkaLGpHf3Uo0mchyAppGUpX3/LnZuSJvPHeUkp4h1KGOz6kABvH1vLfeWxSnX5g5Trp4E/iOtTkhtfSnYYrbKbTD47NIz7gtYI+VjVr+y8A14dtyHr06vKYBNz7hrnvTwLkLR+LOBtRLlpupWpfY1hUeoSA==;fdTy4TGFgvy4zmnGoXZQtQ=="
+secured: "3zjnVzs+uWYn8WLioRK/BSEBjWerrWUHuwGSxoXdr2gKu6XtMg67Ae+EhD6KDggUCbvQU7pVvLDUWzy6gP6wx0f2H31zl9W5DS8Mu5CV/z06Qnccds79IYOqXdtBsbqDg9KQ5zAV/jdNQz0A2yUlMoF5KrOuPjRkq0I87HF8sNcZWf6qn3g3auDGsYRHU0wjPdY/14Gp9S4lQb7NF3HWGX7DH/EUCAnNgyaZD9DJ4rd6PFS0p2i3JgOdiG5T5rP09AhFjlpzmAAiwK0OA3SriONxHO80RVUNV5sPpnMW4be0U1d9W2jE8v75f8aI5vV7hC4y6jDWjSWJ9LB9X1JmmQZ8cSZpzZq0RASBMySeDO6mu0+cy93yFkoUz4VsR9JbECrTQ0kxHoVCLsRt+qbvFsODf1pX1Z4ATodv2iy059QJ+uG4Z0+0dOQa6rIUW7AGh/6Fnh7FKPFn43WnP0Ldg9X9qWx1yk/SsK2TDjM+U5MMyHZD7BBapIRskMD4vXI58ehsumeedvjjZ9CdIVqLmA==;kAr/OiPsmD/zio4uOrKq5g=="
 ---
 

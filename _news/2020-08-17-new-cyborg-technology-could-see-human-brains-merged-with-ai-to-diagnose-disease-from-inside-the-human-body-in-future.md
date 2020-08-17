@@ -40,20 +40,6 @@ related:
         width: 926
         height: 992
         isCached: true
-  - title: "Groundbreaking new material 'could allow artificial intelligence to merge with the human brain'"
-    excerpt: "Technology could enable new health diagnostics and achieve Elon Musk's goal of integrating with artificial intelligence"
-    publishedDateTime: 2020-08-17T09:02:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-brain-computer-cyborg-elon-musk-neuralink-a9673261.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 40
-    images:
-      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/16/19/artificial-intelligence-cyborg-brain.jpg"
-        width: 2349
-        height: 1762
-        isCached: true
 
 secured: "GFC7WmTcKWFE9uWOzqEfCCe+zCxqHwgMI0d/c2u85ok7ZGGbuemKKdBO1W2mui5QmEvu9JpKyoBwWoKnXS9G+ZgBMu69kb/844u+egsSPnqsOEsuFy4myNhN7xrY94eCihNtQ2I0BrMeoEShlD+3HSna4R6sFdXNUUnNIibEBgL/79tQdh5exRc3CbM3Axbb+Xir4PygzPGzYrVO4JR8RIuak38/GV2cx0AJ0MLQKOPEl7pZuz+0FaQPTzPhRZGWruwQ51CgtvFkRf9D89ZB96DlRnNcb8po8LkyINhvpMyiO9/qgzZuJ9GS4whzrX4j8NRBG9P3LDkTzyfrSeziNg==;B9J8UeHi7Cm7MxykxHsD4w=="
 ---

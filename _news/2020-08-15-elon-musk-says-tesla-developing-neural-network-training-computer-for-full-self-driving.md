@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-networ
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's Full Self-Driving Software To Make 'Quantum Leap,' Musk Says"
+    excerpt: "While you can buy a \"Full Self Driving\" package on Tesla's website, the company's cars are not able to drive themselves without human help yet — but that may be changing soon. Tesla's FSD software will make a \"quantum leap\" when it comes to the optional ..."
+    publishedDateTime: 2020-08-17T17:53:00Z
+    webUrl: "https://www.benzinga.com/news/20/08/17119149/teslas-full-self-driving-software-to-make-quantum-leap-musk-says"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17119149"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17119149"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/s3xy_4.jpg"
+        width: 3840
+        height: 1990
+        isCached: true
   - title: "Elon Musk: Tesla Full Self-Driving is going to have ‘quantum leap’ w/ new rewrite, coming in ‘6 to 10 weeks’"
     excerpt: "Elon Musk says Tesla’s Autopilot/Full Self-Driving (FSD) rewrite is going to result in “quantum leap” improvements, and the rewrite is going to be pushed to the fleet in the coming “six to 10 weeks.” As we recently reported,"
     publishedDateTime: 2020-08-14T22:39:00Z

@@ -22,15 +22,20 @@ topics:
 related:
   - title: "With self-driving tech was new, a road trip paved the way"
     excerpt: "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan."
-    publishedDateTime: 2020-08-15T07:01:00Z
-    webUrl: "https://www.sacbee.com/entertainment/celebrities/article244877067.html"
-    ampWebUrl: "https://amp.sacbee.com/entertainment/celebrities/article244877067.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/entertainment/celebrities/article244877067.html"
+    publishedDateTime: 2020-08-15T06:01:00Z
+    webUrl: "https://www.kansascity.com/entertainment/article244877067.html"
+    ampWebUrl: "https://amp.kansascity.com/entertainment/article244877067.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/entertainment/article244877067.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 24
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 44
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/be03458d-750a-41bc-8a8d-23e88a431c1e/558f4afd-3c06-4afa-b09d-90ac53bef952/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "With self-driving tech was new, a road trip paved the way | Charlotte Observer"
     excerpt: "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan."
     publishedDateTime: 2020-08-15T07:01:00Z

@@ -2,43 +2,28 @@
 category: news
 title: "Workday and IBM Expand Partnership to Help Customers Plan Return to the Workplace"
 excerpt: "AI Applications, IBM Cloud and Cognitive Software. \"By partnering with Workday on a joint solution, we're extending the capabilities delivered by Watson Works to help customers gain greater ..."
-publishedDateTime: 2020-08-12T20:36:00Z
-webUrl: "https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html"
+publishedDateTime: 2020-08-12T00:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "Workday and IBM team up to help employees get back to work"
-    excerpt: "At the core of the new Return to Workplace Planner product is Workday Adaptive Planning, which is a product that provides comprehensive planning and modeling capabilities, and Workday Human Capital Management,"
-    publishedDateTime: 2020-08-13T01:40:00Z
-    webUrl: "https://siliconangle.com/2020/08/12/workday-ibm-team-help-employees-get-back-work/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/Workday-IBM.jpg"
-        width: 878
-        height: 589
-        isCached: true
-
-secured: "NM4jbMjA6leYexNl1CkUuxpeDew1Xc7jp6iawicUhPKrS21zNKhi5eVj9dNhbvlAiEOHQg7wB4u5OZVIswpPGtKSDW3Y0BSg31PXgeSMCsP1hDpdmY68ReK2RCWPqklo7c1bM6ErPIxucflKhol0Bmd1SXUpsZ0lP+BeSns22CnbtMvXPQRwBT3NPDdL/di3/+LjB4pxZ45vtlSptEuhnw/GE4XQizgD0PhiZmKsC6ONNn3BDVm09E7ZbzCfuMdKgtiL+yzomszZZCajH8XJQeOlneL6N8NWLw3NVVxMF11tqLHX2CLlBKwrvikfffpFNOHDDvHG0a+aFG/kRRZMig==;d2r/dzNz430aFArkVpRxmg=="
+secured: "umxhi83RDYVqRRITkIGpoK/POIZNYPKU6pgsKyFelB1jKdrvRn1fNJ1EhT9iMvWbTlhk+iBLUIpDHsq0a2IpEyo0aLOPvb9OP9uUIojTMn9Mv9koItLmbvQRLABB0JMDp8Z0P/9Sp+bF4q6kUt0IyCMEa+/O0aiaQN7X2HKq5QEQ7XQAsC+RFw3nJyw6T1obdkdBkoSzYJ5jHH7Ta5aFAGiz6j19C0vCC+bVlTMTniMDOXuWvSAUCBSrd91mfBm02SLd4vkh6gem+0Xn0J97m+TrM6JaG7C84q04M8zLCyHYTfHstqFq7RDpWOuxR7BaoxYjtpSdd3JJlAXPGUenVQ==;g3YwEdOsDJTDvSLIt8cAug=="
 ---
 

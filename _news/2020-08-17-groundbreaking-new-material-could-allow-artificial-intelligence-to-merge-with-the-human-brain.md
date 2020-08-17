@@ -23,35 +23,37 @@ images:
     isCached: true
 
 related:
-  - title: "'Cyborg' technology could enable new diagnostics, merger of humans and AI"
-    excerpt: "Although true \"cyborgs\"—part human, part robotic beings—are science fiction, researchers are taking steps toward integrating electronics with the body. Such devices could monitor for tumor development or stand in for damaged tissues."
-    publishedDateTime: 2020-08-17T09:34:00Z
-    webUrl: "https://phys.org/news/2020-08-cyborg-technology-enable-diagnostics-merger.html"
-    ampWebUrl: "https://phys.org/news/2020-08-cyborg-technology-enable-diagnostics-merger.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-cyborg-technology-enable-diagnostics-merger.amp"
+  - title: "Artificial Intelligence: Breakthrough could ‘allow AI to merge with human brain’"
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) experts believe the discovery of a cutting-edge material could finally achieve ambitions of fusing the human brain with machines."
+    publishedDateTime: 2020-08-17T16:40:00Z
+    webUrl: "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news"
+    ampWebUrl: "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 56
+      name: Daily Express
+      domain: express.co.uk
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/cyborgtechno.jpg"
-        width: 926
-        height: 992
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news-1323930.jpg?r=1597682083508"
+        width: 590
+        height: 350
         isCached: true
-  - title: "New ‘Cyborg technology’ could see human brains merged with AI to diagnose disease from inside the human body in future"
-    excerpt: "A coating for sensors and other bioelectronic devices could usher in a new era of AI technology integrating man with machine, researchers have claimed"
-    publishedDateTime: 2020-08-17T10:45:00Z
-    webUrl: "https://inews.co.uk/news/technology/cyborg-technology-merge-human-brains-ai-diagnose-disease-inside-human-body-581112"
+  - title: "Sudden breakthroughs in AI could hold the key to digital progress"
+    excerpt: "TikTok’s recommendation algorithm and OpenAI’s language model are exemplars of key tipping points in deep learning"
+    publishedDateTime: 2020-08-14T03:00:00Z
+    webUrl: "https://www.ft.com/content/f4834814-dcb0-40f8-a47a-f6ab3c501bd1"
+    ampWebUrl: "https://amp.ft.com/content/f4834814-dcb0-40f8-a47a-f6ab3c501bd1"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f4834814-dcb0-40f8-a47a-f6ab3c501bd1"
     type: article
     provider:
-      name: i
-      domain: inews.co.uk
-    quality: 15
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161453473.jpg"
-        width: 2500
-        height: 1664
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4457dbf4-7f0e-4253-a064-1e7b763f5234.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "rVhJ8HDNiyOei6HUaohATZmbEi6zcTKSta+c/Xg2qvmu2CWDKq4Z3bSSSQRmt+oOPuBKT/6czX4PXwIdaSSlhhyD/i0Sl6Vq1+1dMRx9lB8i8CAKnKW3vI0EnLeUsZxxvhncp27x+yQsuKEfIBbU0Dvr1h2pjOaP+hZnQaj5avWj5wBrQyEcoSmifFX92d1GzQBkVK1SJbj14z/1WHnnXB3KIKBjSLQbUXHxNjLhonS6l3PeeHPyNpnweUSlWQoDx4s5Ae53ICeHXHonWruvi+9A9ZCGB3RwVoHdkTYnkrI/B90EVAU1kEqphCFEeryWFx2rWbO+M752hvJefkQEPQ==;MKSQIzvM3892/9TnA7M/Yw=="

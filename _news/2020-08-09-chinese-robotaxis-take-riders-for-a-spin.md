@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Chinese 'robotaxis' take riders for a spin"
-excerpt: "But as China challenges US tech dominance, Chinese players such as Baidu, Alibaba-backed AutoX and ride-sharing king DiDi Chuxing recently launched autonomous taxi pilot projects in cities around the country."
-publishedDateTime: 2020-08-09T07:00:00Z
-webUrl: "https://gulfnews.com/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-ampWebUrl: "https://gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/chinese-robotaxis-take-riders-for-a-spin-1.1596956077381"
+excerpt: "Chinese companies such as Baidu, Alibaba-backed AutoX and ride ... Chinese consumers were lining up for a spin in DiDi Chuxing's self-driving taxis at a Shanghai pilot project launched in June."
+publishedDateTime: 2020-08-09T19:58:00Z
+webUrl: "https://www.euronews.com/2020/08/09/chinese-robotaxis-take-riders-for-a-spin"
 type: article
 
 provider:
-  name: Gulf News
-  domain: gulfnews.com
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://imagevars.gulfnews.com/2020/08/09/auto-robotaxi_173d1fc5940_large.jpg"
-    width: 750
+  - url: "https://static.euronews.com/articles/stories/04/87/45/12/1000x563_cmsv2_99512ff6-54ab-5902-b17f-9ff5f127ed64-4874512.jpg"
+    width: 1000
     height: 563
     isCached: true
 
-secured: "SiFjk5IeQpqeD6CsRHE/edrlskmxvpr2C/if+kxAMtmOuG0R7nZuBltaNFA/z/Xu0dAbz5Wsz1YpsCaE10UIXUDhPtVAFVmGA4Z/NzZ2Hrm2QrB3gv6lnkY9MBwXqcU0ybtfHueHwN0DNOsnkgPCT8XL5qcmPYlE6NyrCKuWXGvrCs6EXClOnr4NFFAII8tHMm9bC9e8udHk/vn0EWajRZ9rVnhq0J0Rpv/dHcAky68pG29jiW75244skw99vVgy1C6ZLUVTe0s4YlKhnjS1W0qEjjnDj06vL5n3X6COLeflN34FKoMVwsj26TR1EzIKij2Phe8hDjpvV9PeqfjTEvMNmAyixigAybYRHfEG/FPA5Y9xi+c5revRMXSRg3jHZJufcIMAAwCk/YM29XKg72e9cvNbf06H4gceXYGn7zBC0oi+lAcXiFy97gUcVhiUWqdPHQfK7q8edx3iwDYKZi3rqd7hZlf29FL7faLiuw/zhl2qfjNh1yA17cRLOfezRVI9FuV6W7INXZWNkrBrCg==;14Q1M/gBWCMaB/y6sDx/5w=="
+secured: "zkQWONY66uhbLqN1R3nR0O/l84nDqVCiz5tjC8oBFZyG7LOwQgOGo4cft3Y/DH8xvK/gKBeIds0bWIWEjzdluyuGqISOA9XazLsH0PBlC3vUYXzGOqMWKuGK9HmLqcNHoqwJG8wfthAGeTaaxXcfCEJZG5s7zUJ7b/DXBvkxTir86imjFqOif5YG73Xl1d/0k4V+Y8YL8OkcrTbwC5xU/gdR3mc8SoqF+ib0EfsbPhidq9Opbh1/VoTvwrxPW+JY8TOahO3HIWf+Q9yE2ikfEkmfFq/8jSl+NVqMQXhjg5Dw9EdlQYYZUHf+/RSKszk5k9+U3wpTcMFYC2xC0bWpvQ==;CQ10mpL8w7K36QZ4duHoug=="
 ---
 
