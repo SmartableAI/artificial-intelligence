@@ -9,7 +9,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -499,17 +499,17 @@
     {
       "path": "_news/2020-08-10-checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-payments.md",
       "title": "CheckAlt and Composable Analytics Launch Scrypt, AI Data Capture for Document Processing and Payments",
-      "excerpt": "CheckAlt partners with MIT big data company to strategically deliver cognitive automation solutions, including machine-learning document processing and payments. LOS ANGELES",
+      "excerpt": "Recognizing the broad impact of artificial intelligence and machine learning in document processing, CheckAlt has launched",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/p17014528/checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-paymen",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17014425/checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-paymen",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17014528",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17014528",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17014425",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17014425",
       "publishedDateTime": "2020-08-10T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1131,23 +1131,32 @@
     {
       "path": "_news/2020-08-05-behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020.md",
       "title": "Behavioral Signals Named as a Sample Vendor in the Gartner Hype Cycle for Natural Language Technologies, 2020",
-      "excerpt": "The report lists Behavioral Signals as a Sample Vendor in Emotion AI LOS ANGELES (PRWEB) August 05, 2020 A Gartner report titled Hype Cycle for Natural Language",
+      "excerpt": "Natural language process (NLP), Large-Scale Pretrained Language Model, Natural Language Processing(NLP) and Natural Language Understanding also have similar adoption rates. Emotion AI technology ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/p16938512/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technol",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16938512",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16938512",
-      "publishedDateTime": "2020-08-05T03:00:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680",
+      "publishedDateTime": "2020-08-05T03:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

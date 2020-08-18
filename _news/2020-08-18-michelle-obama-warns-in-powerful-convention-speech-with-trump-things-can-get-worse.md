@@ -74,12 +74,28 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Michelle Obama Calls America to Action in Moving DNC Speech"
+    excerpt: "Below, her speech in full: Good evening ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone suffering or struggling ..."
+    publishedDateTime: 2020-08-18T07:14:00Z
+    webUrl: "https://www.elle.com/culture/career-politics/a33627392/michelle-obama-dnc-speech/"
+    ampWebUrl: "https://www.elle.com/culture/career-politics/amp33627392/michelle-obama-dnc-speech/"
+    cdnAmpWebUrl: "https://www-elle-com.cdn.ampproject.org/c/s/www.elle.com/culture/career-politics/amp33627392/michelle-obama-dnc-speech/"
+    type: article
+    provider:
+      name: ELLE
+      domain: elle.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/first-lady-michelle-obama-acknowledges-the-crowd-after-news-photo-1597720278.jpg?crop=1xw:0.75xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Michelle Obama’s 2020 Democratic convention speech: Transcript"
-    excerpt: "We know that what’s going on in this country is just not right.” Good evening, everyone. It’s a hard time, and everyone’s feeling it in different ways. And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general."
-    publishedDateTime: 2020-08-18T03:13:00Z
-    webUrl: "https://chicago.suntimes.com/2020/8/17/21373168/former-first-lady-michelle-obamas-2020-democratic-convention-speech-transcript"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/8/17/21373168/former-first-lady-michelle-obamas-2020-democratic-convention-speech-transcript"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/8/17/21373168/former-first-lady-michelle-obamas-2020-democratic-convention-speech-transcript"
+    excerpt: "Below, transcript provided by the Democratic National Committee of former first lady Michelle Obama’s 2020 Democratic convention speech ... else’s shoes; the recognition that someone else ..."
+    publishedDateTime: 2020-08-18T06:17:00Z
+    webUrl: "https://chicago.suntimes.com/2020/8/17/21373168/former-first-lady-michelle-obama-2020-democratic-national-convention-speech-transcript"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/8/17/21373168/former-first-lady-michelle-obama-2020-democratic-national-convention-speech-transcript"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/8/17/21373168/former-first-lady-michelle-obama-2020-democratic-national-convention-speech-transcript"
     type: article
     provider:
       name: Chicago Sun-Times
@@ -89,6 +105,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/Vk3_UotvmeNANh-WmVxi6W73LYQ=/0x0:1440x900/1400x1050/filters:focal(605x335:835x565):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218246/Screen_Shot_2020_08_17_at_10.56.37_PM.0.png"
         width: 1400
         height: 900
+        isCached: true
+  - title: "READ: Michelle Obama's DNC speech"
+    excerpt: "Former first lady Michelle Obama capped off the first night of the DNC with a speech that touted Joe Biden's empathy."
+    publishedDateTime: 2020-08-18T04:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/read-michelle-obamas-dnc-speech/story?id=72434722"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/read-michelle-obamas-dnc-speech/story?id=72434722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/read-michelle-obamas-dnc-speech/story?id=72434722"
+    type: article
+    provider:
+      name: WTVD
+      domain: go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/Politics/dnc-michelle-obama-3-ap-ps-200817_1597719891484_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Michelle Obama’s full speech to the Democratic National Convention, annotated"
     excerpt: "Former first lady Michelle Obama's speech took on Trump and Trumpism more directly than she did in her well-received 2016 DNC speech."
@@ -123,34 +155,36 @@ related:
         height: 629
         isCached: true
   - title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
-    excerpt: "RELATED: Bernie Sanders urges his supporters to vote for Joe Biden in DNC speech RELATED: Republican John Kasich ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this ..."
-    publishedDateTime: 2020-08-18T05:05:00Z
-    webUrl: "https://www.fox43.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    excerpt: "The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention. This transcript was provided by the Democratic National Committee."
+    publishedDateTime: 2020-08-18T07:34:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
     type: article
     provider:
-      name: FOX43
-      domain: fox43.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 39
     images:
-      - url: "https://media.tegna-media.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
+      - url: "https://media.11alive.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "READ: Michelle Obama’s DNC speech"
-    excerpt: "Empathy: that's something I've been thinking a lot about lately. The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or ..."
-    publishedDateTime: 2020-08-18T05:47:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/read-michelle-obamas-dnc-speech/54MX3A6NR5HRDLDJQCTOUT6ABI/"
+  - title: "Michelle Obama Delivers Epic Speech At Democratic National Convention / Slams Donald Trump"
+    excerpt: "The Former First Lady delivered a resonating speech at the 2020 Democratic National ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value ..."
+    publishedDateTime: 2020-08-18T06:19:00Z
+    webUrl: "https://thatgrapejuice.net/culture/2020/08/michelle-obama-convention-speech/"
+    ampWebUrl: "https://thatgrapejuice.net/culture/2020/08/michelle-obama-convention-speech/?amp"
+    cdnAmpWebUrl: "https://thatgrapejuice-net.cdn.ampproject.org/c/s/thatgrapejuice.net/culture/2020/08/michelle-obama-convention-speech/?amp"
     type: article
     provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 24
+      name: That Grape Juice
+      domain: thatgrapejuice.net
+    quality: 34
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/TUEYPPMCXBH5VKNPKSFTTLEB7Y.jpg"
-        width: 1024
-        height: 576
+      - url: "https://thatgrapejuice.net/wp-content/uploads/2020/08/michelle-obama-dnc-speech-thatgrapejuice.jpg"
+        width: 708
+        height: 405
         isCached: true
   - title: "Read Michelle Obama’s full Democratic convention speech"
     excerpt: "And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general. Believe me, I get that. But I am here tonight because I love this country with all my heart,"
@@ -178,6 +212,6 @@ related:
         height: 892
         isCached: true
 
-secured: "QXJdMcNEl3PO4+TQ0GpqdcaCxFbV2DUm9c8XrCNbs0sqk2+BM6sxYJd8Eoxh8rZBZABewo/oVWHfxQ8ijq7HLL1CMSQBRTaDJrRfbq4JQW++cFtjEVRnQpMpS+tfISHKJ3Ga/FYn8WmPlhwMgnyZVWmMUu8rDHtigJ8wRmjkRutXf523hj6ZqCgvw+bqEuRLxEU1vONLPu7u5cNnq2h8F0RJy+cvVZUv0jNBKKf9RYqZaMi99mcMBhr19apRXg0OfT0UFB9Po6xEqTS9YPM0E9zwjKfK1lzrs/ZEzM/J6+k9Fpyj6QRS8yTygruAyyDD6Th/ljpjg+yZ6zwLv5wTUQ==;hOOKMKsLFxjfrTw31iP7og=="
+secured: "lzDAfAaBFLQ2L+Nw3Zuc3f7+Sm3BavQdX+Qx1Hu4bDTjuEBfxXtf7HNyhjNG3TpgCAZSGtV9uQv2+LDxj9LoiEF/WYuxIMKvY+DIX7y6M1XGsJ7zONW98AZJrKd016VV2hqrl6FBQYCn4h7rB3FzvuMMoKu+LRegHmxp5ymt5s4xt8X4EKIjYMnbVRd6Xbppud4pz6lCHS5Qg37eyGmFr82G/pF//XBxvi3wi3PGTcmhS1TLT0UlJWkcKDVkWFM5NBtgrZF1ymHrCfB95DpK+1ci2J6NhO25xua+B6ev5/HPgce1732L1ZlLJU6MruLJnCpmJqsPzkZTDp1Qu4X+Y7KQkfTayU5oI4AsjWmPTm0kvMxsumHSSzyc69Sey3c3a6mds+OyVP4LySt9jfGjGgiXxInfh7d/1jvF2dqQflSFemcqDHRe3iK1ED9pXeecDuzcRqPqAnmySJYRZJCaA46nup6Wl3BGHim386L3dqmPwH/aJY2iv+VxjXiv/n1KQdSTTy7iGjevkKcLT41svA==;2r3jBOI8isxcNhALkMDDWg=="
 ---
 

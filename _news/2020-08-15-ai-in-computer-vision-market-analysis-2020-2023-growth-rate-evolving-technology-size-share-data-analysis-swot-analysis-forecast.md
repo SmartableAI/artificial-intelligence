@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-15T03:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Image Recognition Market 2026 | Share, Global Growth, Overview, Size, Opportunities, Leading Company Analysis and Key Country"
+    excerpt: "and Support and Maintenance), By Technology (Barcode Recognition, Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented ..."
+    publishedDateTime: 2020-08-18T07:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country-2020-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Automotive Recognition System Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025"
     excerpt: "A new offering by MarketsandResearch.biz entitled Global Automotive Recognition System Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 offers a meticulous analysis of the market that carefully examines the market segments,"
     publishedDateTime: 2020-08-16T23:19:00Z

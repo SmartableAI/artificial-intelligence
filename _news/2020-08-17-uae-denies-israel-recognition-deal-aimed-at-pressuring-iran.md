@@ -23,19 +23,6 @@ images:
     height: 3456
     isCached: true
 
-related:
-  - title: "Hearing is Believing: Precision Implantation of Cutting-Edge Hybrid Hearing Devices Stabilises Residual Hearing and Improves Speech Recognition"
-    excerpt: "August 2020 – Precision surgical implantation of electrodes for the electric-acoustic stimulation of the inner ear can stabilise the long-term residual hearing of severely hearing-impaired people and significantly improve their speech recognition."
-    publishedDateTime: 2020-08-13T14:43:00Z
-    webUrl: "https://www.openpr.com/news/2111974/hearing-is-believing-precision-implantation-of-cutting-edge"
-    ampWebUrl: "https://www.openpr.com/amp/2111974/hearing-is-believing-precision-implantation-of-cutting-edge"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2111974/hearing-is-believing-precision-implantation-of-cutting-edge"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 3
-
 secured: "+qJM+fL7I5rU0/i3MPWstp7Zpvg/mm82E/0qM+ssCY7MkahPDuSOdmBDbcbqGXphKZLtr9JZIc4hyPhVf/B1qMILZfxJ+QUA11O4SHGKjxzbfobqAYa72lGj6iwK0Tdbd+g+/OHgBWUzVeFuXxKzw6Rwwxd8mr60nFD5wL4TX23iTPDzIrfp8AKzMBwGEGnUs8LZ/FikruS8RHZpJ5u+l2EiazBv5SYJQo2ph50uIloMqNpXe7ahW6hyjEQBwxKoKmFjIY+h1m5UuU8XG2+PjikH/zxw42nsu9iRG1lqL3n8p2zyeBCMhhu9Hdz7T3VOTz7bdQHSf0YfHxZHU5/0A2a6KrsEryJo/mqpnhWhqLUlQ2l1CzPr2nBqeJOS3PUwH6Yhpl4oCD1qjAYFrlZz3KyzC89bnHdVawUJcopiMvj1Zlm+tqSO1Ts9LMQMOG6tWI3tYfFEmzRMC20IUrgVYEwepRunncEBmWYNK0lNRvFNIwghEgpv2+IKCv5NEX2W;HPz4SiAvxvJCFUkFrZPdrw=="
 ---
 

@@ -2,6 +2,127 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-07-20-global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi.md",
+      "title": "Global Precision Medical Imaging Market: Propelling due to Growing Research and Development - PMI",
+      "excerpt": "Pfizer decided to work with Boston-based Concerto HealthAI for a collaboration that will apply Concerto's eurekaHealth artificial intelligence technology to precision oncology research.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi-1029410565",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-senior-vice-president-apache.md",
+      "title": "AI Fueling The Oil And Gas Industry: Interview With Tim Custer, Senior Vice President, Apache",
+      "excerpt": "In industries where data is key to gaining competitive advantage, artificial intelligence and machine learning have become necessities. This is most definitely the case in the oil and gas industries as market demand waxes and wanes for critical resources we’ve come to depend on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f14c82126d6430006147990%2F0x0.jpg",
+          "width": 360,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/",
+      "publishedDateTime": "2020-07-20T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-weride-chooses-wekaio-to-manage-its-ai-data-pipeline.md",
+      "title": "WeRide Chooses WekaIO to Manage Its AI Data Pipeline",
+      "excerpt": "WekaIO ™ (Weka), the innovation leader in high-performance and scalable file storage, announced today that WeRide, a smart mobility company with industry-leading autonomous driving technologies, has selected the Weka File System (WekaFS™),",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200720005328/en/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-sfl-scientific-named-partner-of-the-year-for-ai-services-delivery-by-nvidia.md",
       "title": "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA",
       "excerpt": "SFL Scientific today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Service Delivery Partner of the Year 2019 for the Americas for the second year in a row. The NPN selected SFL Scientific for its AI consulting and development services,",
@@ -1244,138 +1365,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva.md",
-      "title": "Global AI Chip for Data Centers Market 2020- Impact of COVID-19, Future Growth Analysis and Challenges | NVIDIA, Intel, IBM, Qualcomm, CEVA",
-      "excerpt": "The report on the AI Chip for Data Centers Market gives a foot perspective on the present continuing inside the AI Chip for Data Centers market. Further, the report likewise considers the effect of the novel COVID-19 pandemic on the AI Chip for Data Centers market and offers an away from of the anticipated market variances during the estimate time frame.",
-      "sourceUrl": null,
-      "webUrl": "https://galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galusaustralis.com/wp-content/uploads/2020/05/Automomobile.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/amp/",
-      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/07/761396/global-ai-chip-for-data-centers-market-2020-impact-of-covid-19-future-growth-analysis-and-challenges-nvidia-intel-ibm-qualcomm-ceva/amp/",
-      "publishedDateTime": "2020-07-19T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "galusaustralis.com",
-        "domain": "galusaustralis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-how-ai-can-help-in-a-recession.md",
-      "title": "How AI Can Help In A Recession",
-      "excerpt": "In this recession, some companies will emerge as winners, and many companies will fail. AI can be the key factor between them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2020/07/19/how-ai-can-help-in-a-recession/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f10bc82b7b73b000781148b%2F0x0.jpg",
-          "width": 788,
-          "height": 658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/07/19/how-ai-can-help-in-a-recession/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/07/19/how-ai-can-help-in-a-recession/amp/",
-      "publishedDateTime": "2020-07-19T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-ai-in-healthcare-neglected-area-in-new-zealand-law.md",
-      "title": "AI in healthcare neglected area in New Zealand law",
-      "excerpt": "Researcher warns of potential issues in the technology’s medical usage, while other reports raise concerns about NZ’s healthcare leadership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3567103/ai-in-healthcare-neglected-area-in-new-zealand-law.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/medical-technology-touch-icons-apps-100852042-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3567103/ai-in-healthcare-neglected-area-in-new-zealand-law.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3567103/ai-in-healthcare-neglected-area-in-new-zealand-law.amp.html",
-      "publishedDateTime": "2020-07-19T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

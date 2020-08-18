@@ -28,29 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market 2020-2023, Size, Share, Latest Global Trends, Leading Key Players, Future Growth"
-    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
-    publishedDateTime: 2020-08-15T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-2023-size-share-latest-global-trends-leading-key-players-future-growth-2020-08-15"
+  - title: "Artificial Intelligence In Military Market 2020-2025 / Trends, Development, Revenue, Demand and Forecast"
+    excerpt: "Aug 16, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated ... target recognition, battlefield healthcare, simulation & training, planning & allocation, threat monitoring & situational awareness, information processing ..."
+    publishedDateTime: 2020-08-16T07:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2020-2025-trends-development-revenue-demand-and-forecast-2020-08-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market | Global Industry Trend, Growth Rate, Size, Share, Growth, Trends, and Forecasts 2020-2027"
-    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
-    publishedDateTime: 2020-08-13T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-global-industry-trend-growth-rate-size-share-growth-trends-and-forecasts-2020-2027-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

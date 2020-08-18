@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-15T04:17:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-2023-size-share-latest-global-trends-leading-key-players-future-growth-2020-08-15"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,15 +28,57 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Military Market 2020-2024 / Global Industry Trends, Share, Size and Forecast Report"
-    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
-    publishedDateTime: 2020-08-14T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2020-2024-global-industry-trends-share-size-and-forecast-report-2020-08-14"
+  - title: "Artificial Intelligence In Healthcare Market Growth , Leading Players and Forecast To 2025"
+    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
+    publishedDateTime: 2020-08-18T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "POWER PLAYERS: The 18 leaders at Google Health shaping the tech giant's secretive healthcare business"
+    excerpt: "Starting when Dr. David Feinberg joined the company in 2019, the tech giant is consolidating many of its health efforts onto a single team."
+    publishedDateTime: 2020-08-17T13:20:00Z
+    webUrl: "https://www.businessinsider.com/the-18-power-players-shaping-googles-burgeoning-healthcare-business-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/5f36aa7be89ebf001f04492c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market Research, Development, Top Companies, Trends And Growth 2020 To 2025"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
+    publishedDateTime: 2020-08-13T19:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-research-development-top-companies-trends-and-growth-2020-to-2025-2020-08-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2025"
+    excerpt: "Artificial intelligence technology has been implemented across varied industries such as healthcare and consumer electronics. Global organizations have started exploring and implementing the benefits of AI technologies for effective positioning of their ..."
+    publishedDateTime: 2020-08-14T14:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2025-2020-08-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -56,6 +98,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Healthcare Market Set for Rapid Growth During 2020 - 2027| Alphabet Enlitic, General Vision, iCarbonX, Intel Corporation"
+    excerpt: "CHAPTER 5:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY ALGORITHM CHAPTER 6:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY APPLICATION CHAPTER 7:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY END USER 1. What is the estimated growth rate of the ..."
+    publishedDateTime: 2020-08-17T17:20:00Z
+    webUrl: "https://www.openpr.com/news/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
+    ampWebUrl: "https://www.openpr.com/amp/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114689/ai-in-healthcare-market-set-for-rapid-growth-during-2020-2027"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
 
 secured: "H3HionhCZwdyTDQ/zFUe3EARw+V9m9mjmmZANgw1OdCsbZyGLn2Vx7EkatWdyym9yOEtjXsZynb1Nz3E5u+RYFgpSXha1wFKeiBG06KVygL4BWPdqjMbQ1OiP+YvRaO4P4kJ7kjM8wJx5O6lGD3gq2zqfWcEeG7gkfBUq63dyYZ+7kytPVatL4l0sH5DJNaLDSQ8BE7EWd8qOZVF2c0lDcuz/7svnin5RKZ5u8jhs/4jUfo1BcFaRl0RXNyp+C2hC0zl8nWw85pPTv8H9v0PkSvokqPh4GmQIQ+/K3MZhO2OeOi5C3uXb7RiSxKcFr5JeBzPf/FQJTsXXw3NTQSkBw==;x/yXAKbip23Uj/ldJMDMNg=="
 ---

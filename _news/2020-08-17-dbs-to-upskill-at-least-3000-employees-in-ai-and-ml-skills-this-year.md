@@ -68,7 +68,7 @@ related:
     provider:
       name: Marketing Interactive
       domain: marketing-interactive.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/dbs_building.jpg"
         width: 800
