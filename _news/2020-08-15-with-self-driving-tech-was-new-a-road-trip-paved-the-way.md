@@ -2,22 +2,28 @@
 category: news
 title: "With self-driving tech was new, a road trip paved the way"
 excerpt: "At the end of July 1995, a pair of Carnegie Mellon University researchers embarked on a nearly 3,000-mile road trip across the country — from Pittsburgh to San Diego — in an unsuspecting black minivan."
-publishedDateTime: 2020-08-15T07:01:00Z
-webUrl: "https://www.sacbee.com/entertainment/celebrities/article244877067.html"
-ampWebUrl: "https://amp.sacbee.com/entertainment/celebrities/article244877067.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/entertainment/celebrities/article244877067.html"
+publishedDateTime: 2020-08-15T06:01:00Z
+webUrl: "https://www.kansascity.com/entertainment/article244877067.html"
+ampWebUrl: "https://amp.kansascity.com/entertainment/article244877067.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/entertainment/article244877067.html"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557046001/be03458d-750a-41bc-8a8d-23e88a431c1e/558f4afd-3c06-4afa-b09d-90ac53bef952/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "With self-driving tech was new, a road trip paved the way | Charlotte Observer"
@@ -43,6 +49,6 @@ related:
       domain: newsobserver.com
     quality: 18
 
-secured: "+LPM+uZvKoATwHOmkRPhLev9rvsNLkP2APNKMa4HL8V08Q9z00ULswTO56juYKCV+/inim99mGSoqE8gfF3phVGeEOp/TMXs/TtLj5DK4m6rb9EVO8KuyMlD3vlofyiys8CHzWd5SON4OR8kVSlTKl9n1XP+suj5c081N1VxqU6OnBioGgZ4Hr4wfu8ozyPQuErJD/+sywXKtbj3jM+HHztWHSJfg+ocRFiWxW1fZqaBzaEC5rW8LXP+uNuj/tiBRv6x5YGMEbGQu8INXg3In6DLL+2xZz4gmiK7A37OWVkZZ6CoGbk8Qi8IKIAdcvOeEQt+ibtoVrmbyga0JRNZPQ==;tBHJc0PxI0vMIdm1iQ/48A=="
+secured: "kWCuwt5uhbt39hnmw8GjzE1LpdDhwLCrftOOfCQ6FXR9yDVg7okAAXcv5XaFtMXBaxRqiE08BZ82qo8sRTX60rf2w48mkiACn6kTi6bJ7YxT7DLOPncuVS9zlb3SNxyzluy1un461wxXaHZ8s/E/U/yzqqVJQ1CsoEFcOOW1R5PfGdxygxZFz7kmaSg9dh3xchcUyBdFtqkVB+elxVz1ulPZIa1/BcBlLpMxZ6kaI+Oq74lBESRN4pevB1Pm3/v6/+DBA7i3QQ6Qx1RGqfSZTPrc42nxsey0m7N8r89dzKy0xythOvzIvjLl9BoAb/4A8vwa6KUucg43h9qCGbyKfw==;lfCp3+qlGCQD2dvhoqFPOw=="
 ---
 

@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Miso Robotics Names Mike Bell New CEO to Accelerate Operational Growth"
-    excerpt: "Miso Robotics – the startup leading intelligent automation for commercial kitchens – proudly introduces its newly appointed CEO,"
-    publishedDateTime: 2020-08-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Miso Robotics, Makers of Burger Flipping Robot, Gets New CEO"
     excerpt: "Pasadena-based Miso Robotics, which specializes in intelligent automation technology for commercial kitchens, such as Flippy the burger-flipping robot, announced the selection of a new CEO on Thursday."
     publishedDateTime: 2020-08-14T01:03:00Z

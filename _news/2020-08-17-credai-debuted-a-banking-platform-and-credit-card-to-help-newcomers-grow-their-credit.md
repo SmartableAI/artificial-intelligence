@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T14:15:00Z
 webUrl: "https://www.businessinsider.com/credai-launches-banking-platform-for-credit-building-2020-8"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The newest fintech unicorn is a credit card, and it's betting against big banks"
-    excerpt: "Musician John Legend and former AOL CEO Tim Armstrong are among the big money backers behind credit.ai, a new fintech banking and credit platform, including its Unicorn Card, designed for millennials distrustful of big banks."
-    publishedDateTime: 2020-08-13T12:57:00Z
-    webUrl: "https://www.cnbc.com/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/13/newest-fintech-unicorn-is-a-credit-card-betting-against-big-banks.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 100
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106660564-1597250463719-unicorncard.jpg?v=1597250781"
-        width: 1080
-        height: 800
-        isCached: true
   - title: "U.S. Fintech Cred.ai Launches AI-Powered Credit Card"
     excerpt: "Cred.ai, a U.S.-based startup, has launched its new banking platform specifically for millennials, along with its solid metal credit card. The company reported that it has been operating in “stealth” for more than three years to build its platform,"
     publishedDateTime: 2020-08-14T01:46:00Z

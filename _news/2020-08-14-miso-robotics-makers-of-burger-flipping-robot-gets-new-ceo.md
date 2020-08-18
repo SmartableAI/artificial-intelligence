@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T01:03:00Z
 webUrl: "https://www.pasadenanow.com/main/miso-robotics-makers-of-burger-flipping-robot-gets-new-ceo/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Miso Robotics Names Mike Bell New CEO to Accelerate Operational Growth"
-    excerpt: "Miso Robotics – the startup leading intelligent automation for commercial kitchens – proudly introduces its newly appointed CEO,"
-    publishedDateTime: 2020-08-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/miso-robotics-names-mike-bell-new-ceo-to-accelerate-operational-growth-301111756.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Miso Robotics Names Bell as CEO"
     excerpt: "Miso Robotics Inc., the Pasadena-based robotics and artificial intelligence company, has appointed tech veteran Michael Bell as its new chief executive. Bell will succeed Buck Jordan, Miso Robotics' co-founder,"
     publishedDateTime: 2020-08-14T21:13:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T13:02:00Z
 webUrl: "https://www.prnewswire.com/il/news-releases/huawei-releases-full-stack-ascend-ai-software-to-bridge-the-divide-between-ai-computing-and-application-899729046.html"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1304
     height: 682
     isCached: true
-
-related:
-  - title: "Huawei releases full-stack Ascend AI software"
-    excerpt: "James Pei, President of 4Paradigm, a leading AI startup, shared how 4Paradigm and Huawei build a full-stack AI appliance. The advantage of MindX Edge is that it can deploy edge-cloud collaborative inference services on various devices at one click."
-    publishedDateTime: 2020-08-13T11:46:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Huawei_releases_fullstack_Ascend_AI_software-SNG_181971970/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-        isCached: true
 
 secured: "J9WQQJPtirn97dLsKNsgzwvlZHcO7vFddSJXTwdol32POXu3d3a9msAf9KlTY1zk1SD/7Hle3WljtBadzTs8rKkZox+odoOst+es7slBjaH7Up1+zhHMOwS9Bf/Gu8AwYTD+C5nM775k/Gi00Lp4xq7Zo+2WZtwYytrlJnu5o4SV+fnCuTYfjY9eplVY1t3Fe2o+ASOzI/A7qAL/trSV+qp5wdJ33N0tk1fnoR6F5S16aQ1QD4x+myxvxuTKPYXYnqfdM+ELo2vsA+ZvO6NIaIGY9bwU6mr863AUCuZN3kJKpI6qj8DxgHPciyC0paMLRXj1ug9dl1pxNydB+Up3pJZTUWD8YeDAgq5HthOnhf/yZvXs9uj+JTylR0xWMzJdnQIMLI2zd5/qPR4sC46ABpZyvWJNKQvL+BFVMAk3G1VPTy8g5aaZzgX4I7RPrskfEldj2x+SfpIccyajoU0+c18IrAnnNiBTDMGuBDcO03WiNj52K4RHGI8JMeI+OcTRFTnm6c8puBPkGYldRUWv+A==;DaGN0Ce7qLsL/9pPkv40ZA=="
 ---

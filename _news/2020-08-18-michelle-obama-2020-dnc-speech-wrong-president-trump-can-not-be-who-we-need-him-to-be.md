@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Here's Michelle Obama's Full DNC Keynote Speech, In Case You Missed It"
+    excerpt: "Here is Michelle Obama's 2020 DNC speech, in full: \"Good evening ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
+    publishedDateTime: 2020-08-18T04:25:00Z
+    webUrl: "https://www.cosmopolitan.com/politics/a33627578/michelle-obama-dnc-speech-2020/"
+    ampWebUrl: "https://www.cosmopolitan.com/politics/amp33627578/michelle-obama-dnc-speech-2020/"
+    cdnAmpWebUrl: "https://www-cosmopolitan-com.cdn.ampproject.org/c/s/www.cosmopolitan.com/politics/amp33627578/michelle-obama-dnc-speech-2020/"
+    type: article
+    provider:
+      name: Cosmopolitan
+      domain: cosmopolitan.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/former-us-first-lady-michelle-obama-gestures-on-stage-of-news-photo-1597708224.jpg?crop=1xw:0.74942xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Michelle Obama’s 2020 Democratic convention speech: Transcript"
     excerpt: "We know that what’s going on in this country is just not right.” Good evening, everyone. It’s a hard time, and everyone’s feeling it in different ways. And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general."
     publishedDateTime: 2020-08-18T03:13:00Z
@@ -72,21 +88,83 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
-    excerpt: "Former First Lady Michelle Obama closed out the first night of the 2020 Democratic National Convention. The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention."
-    publishedDateTime: 2020-08-18T03:38:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+  - title: "Michelle Obama’s full speech to the Democratic National Convention, annotated"
+    excerpt: "Former first lady Michelle Obama's speech took on Trump and Trumpism more directly than she did in her well-received 2016 DNC speech."
+    publishedDateTime: 2020-08-18T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/08/18/michelle-obama-dnc-speech-annotated/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/08/18/michelle-obama-dnc-speech-annotated/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/08/18/michelle-obama-dnc-speech-annotated/?outputType=amp"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 41
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-18-2020/t_69f9c80b2f924e00bdc681ba87adc2cd_name_2020_08_17_Obama_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Being President Is Too ‘Hard’ For Trump: Read Michelle Obama’s Full DNC Speech"
+    excerpt: "Read the speech’s full text below ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second ..."
+    publishedDateTime: 2020-08-18T04:52:00Z
+    webUrl: "https://newsone.com/3997504/michelle-obama-dnc-speech-full-text/"
+    ampWebUrl: "https://newsone.com/3997504/michelle-obama-dnc-speech-full-text/amp/"
+    cdnAmpWebUrl: "https://newsone-com.cdn.ampproject.org/c/s/newsone.com/3997504/michelle-obama-dnc-speech-full-text/amp/"
+    type: article
+    provider:
+      name: NewsOne
+      domain: newsone.com
+    quality: 40
+    images:
+      - url: "https://ionenewsone.files.wordpress.com/2020/08/15977258084081.jpg?quality=80&strip=all&w=1024&h=629"
+        width: 1024
+        height: 629
+        isCached: true
+  - title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
+    excerpt: "RELATED: Bernie Sanders urges his supporters to vote for Joe Biden in DNC speech RELATED: Republican John Kasich ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this ..."
+    publishedDateTime: 2020-08-18T05:05:00Z
+    webUrl: "https://www.fox43.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
     quality: 39
     images:
-      - url: "https://media.khou.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
+      - url: "https://media.tegna-media.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Michelle Obama warns in powerful convention speech with Trump, things can get worse"
+    excerpt: "Former first lady Michelle Obama delivered the most important speech of the first night of the virtual Democratic National Convention on Monday, forcefully taking down President D"
+    publishedDateTime: 2020-08-18T04:11:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2020/8/17/21373223/former-first-lady-michelle-obama-democratic-national-convention-speech-trump-biden"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2020/8/17/21373223/former-first-lady-michelle-obama-democratic-national-convention-speech-trump-biden"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2020/8/17/21373223/former-first-lady-michelle-obama-democratic-national-convention-speech-trump-biden"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 38
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/BEG1NIhLeXDQhsuhLVYp9zOaEOg=/0x0:3269x1850/1400x1050/filters:focal(1383x358:1905x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218448/AFP_1WK73T.7.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "READ: Michelle Obama’s DNC speech"
+    excerpt: "Empathy: that's something I've been thinking a lot about lately. The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or ..."
+    publishedDateTime: 2020-08-18T05:47:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/read-michelle-obamas-dnc-speech/54MX3A6NR5HRDLDJQCTOUT6ABI/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 24
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/TUEYPPMCXBH5VKNPKSFTTLEB7Y.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Read Michelle Obama’s full Democratic convention speech"
     excerpt: "And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general. Believe me, I get that. But I am here tonight because I love this country with all my heart,"
@@ -100,6 +178,6 @@ related:
       domain: bostonglobe.com
     quality: 24
 
-secured: "FZWEa+mztDr0a33eF2uYRbzstA6/4tzYV2iBGZAdxzOW435zgVix5b5E6aHzIUFcUSBtONv1dPEGY66PQADFiuu+GYj6alTiSgeEKMcb0Jr8fX6Fn3bj8GeI813nPFymHNX792AOWpNchULlzJOp+nVi6Pa1YM/BRgLvM8G+tVTGub1WX+P7DucKpwYyvo0wiR1NySEk4V8SJoZHkBdQZglh8hgpD/J+0IwwwKKXiC5hKT2jroOUqsW/T68HdBZ5/8mygWkAcnjdvhEzSGY5qu2oYtqZ2VT4tcvlOXOShJcAYVFzXB/rjkkkoWBwPHZc+BfVgavNV9GuyAfu53F+7w==;wRt6cpInVtjyGRQFHUZVKg=="
+secured: "7PONiczGaxvdgY/sfUz9nMUd3xmhHVMYjefqUfdL2YkixN+SzgNZoxaGcwHaH4ocVd6Qgoc8p0SQQMbnIfDp37CRG2M4yLnkyqXu/uIbINik7hvPrRVq82y6yNTgZCcUZQt1cd5h8UZtsdyEMMhb7CkwBLNwa5r26/xubS4uQJONnul2/TMsAc5Enbew7VmNXlKICb0QnYzTRBOQYWgnJ9xR8QeKA8QgHDoX9Lhi+0iId8m52eSZKerE3yAx6FB4RIMwt5nOVTafQqrTKvT3HeQSYuqGsITTPVNlnhNluyG2l2Bu3pLCXwHzIhU18pGUrP9VnLNo2sub6foAm1wOFSxxgQvLNblieyzsXDjKGUpjfpP4rF+h0Cy828QOx+VCcyJ4018YqCNO9ol/OgMb59if8I+pCF8X7u76K1zOdFPiKpoVwEeEMt5Plxh2hLa87mYcobJmLLn7TctTnvFi+2Wkkt1SbxvE73OMiPdnxLa73wIsl07OrttHkPloy5U0cspMXIDiEcI3ni3bMSJseg==;6oPeUoCLQwJTyMRrdX+G2w=="
 ---
 

@@ -3,9 +3,9 @@ category: news
 title: "DBS partners Amazon to upskills 3,000 employees in AI and machine learning"
 excerpt: "Financial services company DBS has collaborated with Amazon Web Services (AWS) to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in artificial intelligence (AI) and machine learning (ML) by the end of the year."
 publishedDateTime: 2020-08-18T03:34:00Z
-webUrl: "https://marketing-interactive.com/dbs-partners-amazon-to-upskills-3000-employees-in-ai-and-machine-learning"
+webUrl: "https://www.marketing-interactive.com/dbs-partners-amazon-to-upskills-3000-employees-in-ai-and-machine-learning"
 type: article
-quality: 52
+quality: 37
 heat: -1
 published: false
 
@@ -14,7 +14,7 @@ provider:
   domain: marketing-interactive.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
 
 images:
@@ -24,35 +24,57 @@ images:
     isCached: true
 
 related:
-  - title: "DBS set to rev up staff’s skills in machine learning, AI"
-    excerpt: "In a bid to ingrain digital learning behaviour at the workplace, DBS Bank is teaming up with Amazon Web Services (AWS) to equip about 3,000 employees with basic skills in artificial intelligence (AI) and machine learning by the end of this year."
-    publishedDateTime: 2020-08-16T22:00:00Z
-    webUrl: "https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai"
+  - title: "DBS Bank looks to train 3,000 employees in AI with AWS partnership"
+    excerpt: "Singapore bank will run online tutorials for DBS employee to pick up fundamentals of artificial intelligence and machine learning, so they can eventually programme their own autonomous race car for the AWS DeepRacer league."
+    publishedDateTime: 2020-08-17T06:29:00Z
+    webUrl: "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 56
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "DBS ties up with AWS to train 3,000 employees in AI and machine learning"
+    excerpt: "DBS is working with Amazon Web Services (AWS) to equip more than 3,000 of its employees with basic skills in artificial intelligence (AI) and machine learning (ML), so that the bank can better tap these new technologies to grow its business."
+    publishedDateTime: 2020-08-17T03:46:00Z
+    webUrl: "https://www.theedgemarkets.com/article/dbs-ties-aws-train-3000-employees-ai-and-machine-learning"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 70
     images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/08/17/st_20200817_mmdbs17_5889484.jpg?itok=-vwDM0yf"
-        width: 763
-        height: 509
+      - url: "https://assets.theedgemarkets.com/DBS_20200817093202_reuters.jpg?null"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "DBS uses gamified learning to give staffers AI skills"
-    excerpt: "Singaporean bank DBS has joined forces with AWS to boost the AI and machine learning skills of thousands of staffers through a gamified learning programme that will see participants develop their own autonomous model race cars."
-    publishedDateTime: 2020-08-17T06:47:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36398/dbs-uses-gamified-learning-to-give-staffers-ai-skills"
+  - title: "DBS Bank teams up with AWS on AI skills"
+    excerpt: "Singapore’s DBS Bank is organising an AWS DeepRacer League to equip thousands of employees with skills in artificial intelligence and machine learning"
+    publishedDateTime: 2020-08-17T04:59:00Z
+    webUrl: "https://www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills"
+    ampWebUrl: "https://www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252487715/DBS-Bank-teams-up-with-AWS-on-AI-skills?amp=1"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+  - title: "DBS to upskill at least 3,000 employees in AI and ML skills this year"
+    excerpt: "To enable this, DBS has collaborated with AWS to launch the DBS x AWS DeepRacer League which will see employees learning the basics of AI and ML in a series of online tutorials before putting their ne"
+    publishedDateTime: 2020-08-17T01:40:00Z
+    webUrl: "https://www.humanresourcesonline.net/dbs-to-upskill-at-least-3-000-employees-in-ai-and-ml-skills-this-year"
+    type: article
+    provider:
+      name: Human Resources Online
+      domain: humanresourcesonline.net
     quality: 39
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/dbsgame.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.humanresourcesonline.net/images/hr-sg/content-images/jerene-aug-2020-machine-learning-123rf.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
-secured: "E3WR0DNUsVWJ3R7lgPk5GIuQQKLpShHdxf3fD3J8LRPaIedN4/Qyes3g3t4/71+hdkZrhU2kibV4/j8ETlKukjvJTypqvUEo9Q1uZbcIu4qvcwl38Dent7TvZXdi1Ufav/KP+k4qpKQR/4PqZOaLm88LkyM63V1yYbQR9g1Y88wMRtIUzRlSTNkl3HGvvvK9AOn4Oow6eMqgw+H0XVxB4iKvGged6i1dr66WCc2SN4tBJwyAmhs/RLsayZofVluvf5tsqAEgM+YHRDWydaG0GvBuiz3yCFBxAsPeCzwTsQF0xKQsXV+CK0FsI0fISKVHn1YNupEGTYnKi+NntvucTw==;nexXIZXkxAZBXfrtHFCIOw=="
+secured: "HZeuEAJ2W5fif/BfW/98sz7sWHpBcWKMLziKgaZFg9kW/wrZJ+rmbshCFKQ5Xs24IUuWNwXv5FSSRja97RLT3O1ElKIQi7rVZkAnqyXQnnXkLLztYBrcIjvV0jVra3cksEXiRSVpmEhnsO1U0rINwCVfli6UtUzxQTGHp0/DdZ65jGmljVGft9kFgmXnYxeSi456pxXM4ydZwA21iSU1vyZEPxJoH8JThDZHUSnvkxqTSv1FPBOGXFIWuJm1aIW8ix71GtY0naOAt9scqT1eBW6ST7EVDJvm4jYABxE2P4RfT/dBIj3emVgtlRJ9AOpjhJqZ3dx38sWIEtGqbDl2Bw==;y7txVvSFajZNBdrR8tvujg=="
 ---
 

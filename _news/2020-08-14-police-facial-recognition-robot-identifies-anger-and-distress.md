@@ -34,22 +34,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Facial Recognition Violates Human Rights, Court Rules"
-    excerpt: "Facial discrimination has been called discriminatory. People fear it will strip our privacy. The latest court ruling from the UK goes as far to say it violates human rights."
-    publishedDateTime: 2020-08-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/"
-    ampWebUrl: "https://www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/08/13/facial-recognition-violates-human-rights-court-rules/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f343b6407c9564efe7f8d48%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
     excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
     publishedDateTime: 2020-08-15T14:57:00Z

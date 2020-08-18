@@ -61,6 +61,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17</loc>
+    <lastmod>2020-08-17T09:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/</loc>
     <lastmod>2020-08-17T09:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -105,12 +111,6 @@
   <url>
     <loc>https://www.zdnet.com/article/ibm-unveils-first-seven-nanometre-chip-for-next-generation-hybrid-cloud-computing/</loc>
     <lastmod>2020-08-17T06:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.zdnet.com/video/how-to-legally-fight-covid-19-with-ai/</loc>
-    <lastmod>2020-08-17T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -181,20 +181,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai</loc>
-    <lastmod>2020-08-16T15:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2020-2025-trends-development-revenue-demand-and-forecast-2020-08-16</loc>
     <lastmod>2020-08-16T00:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.openpr.com/news/2113476/artificial-intelligence-and-machine-learning-market-evolving</loc>
-    <lastmod>2020-08-15T12:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1417,7 +1405,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit</loc>
+    <loc>https://www.fastcompany.com/90537012/this-john-legend-backed-startup-uses-ai-to-improve-your-credit?partner=rss</loc>
     <lastmod>2020-08-06T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
