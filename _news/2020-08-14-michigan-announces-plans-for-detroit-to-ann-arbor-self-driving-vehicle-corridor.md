@@ -36,22 +36,6 @@ related:
         width: 840
         height: 630
         isCached: true
-  - title: "Detroit-to-Ann Arbor self-driving vehicle corridor aims for national leadership"
-    excerpt: "Project would be another step in Southeast Michigan staking its claim as an epicenter of connected and autonomous vehicle technology in the U.S."
-    publishedDateTime: 2020-08-14T03:14:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/08/13/detroit-ann-arbor-self-driving-vehicle-corridor-moving-ahead/3364205001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3364205001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3364205001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDTN/c747aa57-ba4f-4af1-9c8b-cc1f530304b0-Upscaled_stills_Highway.jpg?auto=webp&crop=3823,2151,x16,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Michigan will build a city-connecting highway for self-driving cars"
     excerpt: "Cavnue’s proposed self-driving buses and shuttles would also ferry passengers between a number of smaller stop off points. (Source: Cavnue) Phase one of the project will take place over the next two years and will explore the project’s feasibility on ..."
     publishedDateTime: 2020-08-18T16:10:00Z

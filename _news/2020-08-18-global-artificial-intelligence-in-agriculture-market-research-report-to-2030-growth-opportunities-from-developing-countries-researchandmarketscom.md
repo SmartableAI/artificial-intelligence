@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Agriculture Market Research Report to 2030 - Growth Opportunities from Developing Countries - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue generated in the global AI ..."
-publishedDateTime: 2020-08-18T17:19:00Z
-webUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-agriculture-market-research-report-to-2030---growth-opportunities-from/article_cb9ce5d0-7a05-5970-a3d2-c047f11c3f48.html"
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue ..."
+publishedDateTime: 2020-08-18T16:13:00Z
+webUrl: "https://www.businesswire.com/news/home/20200818005626/en/Global-Artificial-Intelligence-Agriculture-Market-Research-Report"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://mms.businesswire.com/media/20200818005626/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -66,6 +66,6 @@ related:
         height: 627
         isCached: true
 
-secured: "dRLoLJCo5QUYvZwzNtarH9Vkl1mA8Id5fflO6ZSGSN9NmAn5WzsYvDxVAYKKbuFvlq82SKQ+x2S+VaUU+O4pGQU3xTrGQ8RVrKS+vgR/pmK+jGakl+2Bl5nSHNfpjnvi9K2MVi1egunyk3trPgln367yai2JxEv73RZsajg34openLkufdBexeVmjwEK4taL58Lag/YWfVAx7lQeUnsikCOOMihhLd93+9PGafe6ph5KwZThsFxNZkR7IQAQK5+WYPrt1ZcHGgPpshaM79gN3wLI/9kHEx7I3tAYKqClv0eirppNFuRUI/LLIBT7n5LW5DTRn/1TxQvOLr2fqCMhZw==;GP1/wfqnDD0/sbAxYmseVQ=="
+secured: "GwZAS7p6+uaM6zkq0+QbmiV+Kfzg5CrTYwEBO/OfHq+gy2QADjwaZnwKVzFVz/7ntig0RgkoOz9IHh6RBsLvWXOiFpNpfnjkw5wMSA6IJw/qGifabEk4K5XaCq0HMByzlVWFhrH+z6/7THtAwAAVmN60XQbVZe+VJD9bl+NGVJaN6RH8VwKFBMHtPvsDtpUTcEVqv4+F9BUplPsFyUdrzMcyFhxlIgpGqgJOZ4DLrnpzJUQTIJehzhXI9vs3z+u4JRFtUS9MUH0XmEd5ltvpVujDOhau67+9rWwsARwxSduow+WmF9bi2XG8FnFMVpw0D5OJ/RFukuiLG8Ube27aeA==;nW5sfqFYGNj3kJvM1Aqzig=="
 ---
 

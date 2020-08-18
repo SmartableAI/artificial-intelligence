@@ -5,8 +5,8 @@ excerpt: "Deep learning technology has rattled the global financial industry in 
 publishedDateTime: 2020-08-18T18:02:00Z
 webUrl: "https://www.smartdatacollective.com/can-deep-learning-maintain-online-trading-profitability-right-now/"
 type: article
-quality: 54
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/08/deep-learning-and-online-trading.jpg"
@@ -41,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "9gEZccfS2zPhbb1k6bGQv368Nslip6W3Iw0l98O1rlckdJsrt11cP7+uUg2sgGsPC/072fVndbWP05gqpbo7WHRZTQkjeMRKrljtSWFoTFkFVjtaM1HHgoxScdcyb3FvF9wo+S3/bncGza4TMbB5ulihadiH1DtTrDa7VHud6v4h6xgWQHKUfxn9KR0Vn0igjcvqQrM5KpfRQ4ASkO3Hin7I+jsoB4gvxKDSYNij4BZ0FuHgjRf6Klb7znpxInDN62WQzt8wb57t5NdbwFJY6HCpqowIW4pTuUbSgGOoU0PUAkx4eYVUuX0V7FP6URc/QJ+0NrRMCeI+V11zZDpKew==;pJx9xCTTDRFDiHO6c9v2dw=="
+secured: "KjRVIOXZ47BgfZa+9ANDCg7/whPY6tLsMBV3BrWmuz9l4uIK/cBt9cP8S+UOnXPIcp04VqeW/SLaLEfV34j7RiU3qHu91PeGc0y4OWj+u0NlSlZnT5xJUTYSkNfymmCyQ/sCHqmYS0k8FzuDkOkrC7lih4ZtssT2gxSHdg0s9rthtr9nIkH0oBmd3ipYdIyYfLz9JwSDeLU5nfsqgFKNp2JD2lO8+DaTLWFuX4IrZL6MnU3pyPylvoeGO3kyjYBlqKxqWSt8zx1II8OFaEKjUx3iZXwA2WGSXOq7gWNi0rt0tdjOEHy1M3baesMtbhw0gl7RUwrLnBbYYpSo3LGyb3zOdEZcItaNM8JWJM7uFHifzvWlQChh2xLpmuM/tinj6QoOsQCzBxlJfoJrO6/sXDv3EPwPXLZjXurMQmMzyLqc3ySHhgB6eh8ywry1tsVNjfLypmywhlAG0akWpGVqFDZv65xQqjzZ+FaI+Y0kv1BwcwfkMAckrm0D+HkevZ0VYSJ91KJycU4yrx1eeib1bg==;kixCFoiO3rkuOtBZmaYbgg=="
 ---
 

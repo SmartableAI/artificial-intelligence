@@ -8,7 +8,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/leven-develops-a-ventilat
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html/amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 770
     height: 431
     isCached: true
-
-related:
-  - title: "Hyderabad: Start-up develops AI and ML-based smart ventilator"
-    excerpt: "A city-based start-up, under the state government’s initiative — Hyderabad Security Cluster — has developed a smart ventilator which uses artificial i"
-    publishedDateTime: 2020-08-14T04:09:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/start-up-develops-ai-and-ml-based-smart-ventilator/articleshow/77533398.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/start-up-develops-ai-and-ml-based-smart-ventilator/amp_articleshow/77533398.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/start-up-develops-ai-and-ml-based-smart-ventilator/amp_articleshow/77533398.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/photo/msid-77537679/77537679.jpg"
-        width: 635
-        height: 548
-        isCached: true
 
 secured: "IGcS8MdoIkpGFpKrQIC+PgbgXsjWdw4NMLHSkELTj7BJVfkrQpL+DiuuGXJnRWLRyRnMOl7q9qT1ir7mKDiaxYKeu6CcFakj+rLeh7EyXc3J9NDSN1WZIH3Y1qtJWsy+HG0UwY26gv6DQZdcE1IhVAfMOg1ufCePpPPVHxYCIGJ9lSwB47gdW8w9RCl479+le//Gv6G/iqj+XLZ+DHYKy9q9E+iUqqQ4OB+AT+RDUXQ6Co3WOSj/D4jpp1PynXt8adzJMi9lzgABk6afSWUJmdTU6MbLgqYGtdTVeP0jyaJUrMooZnZTXOc6e9AoqSVuRPgLkO5Vv2JQkjlg2tPM+A==;1Fu6K8pNV7k1CQwL6Zzb1A=="
 ---

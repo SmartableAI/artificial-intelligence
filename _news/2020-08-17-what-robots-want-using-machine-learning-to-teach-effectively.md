@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence and Machine Learning: Driving Tangible Value for Business"
+    excerpt: "Interest in AI/ML is soaring, but confusion and hype can mask the real benefits of these technologies. Organizations need to identify use cases that will produce value for them, especially in the areas of enhancing processes, detecting anomalies and ..."
+    publishedDateTime: 2020-08-18T20:44:00Z
+    webUrl: "https://www.computerworld.com/resources/205043/artificial-intelligence-and-machine-learning-driving-tangible-value-for-business"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 49
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Image Recognition Market to Benefit from Applications in Security and Surveillance"
     excerpt: "The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world. According to a report published by Fortune Business Insights(TM), titled, \"Image Recognition Market Size, Share & Industry ..."
     publishedDateTime: 2020-08-18T09:36:00Z

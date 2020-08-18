@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence and Machine Learning: Driving Tangible Value for Business"
+    excerpt: "Interest in AI/ML is soaring, but confusion and hype can mask the real benefits of these technologies. Organizations need to identify use cases that will produce value for them, especially in the areas of enhancing processes, detecting anomalies and ..."
+    publishedDateTime: 2020-08-18T20:44:00Z
+    webUrl: "https://www.computerworld.com/resources/205043/artificial-intelligence-and-machine-learning-driving-tangible-value-for-business"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 49
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "What robots want: Using machine-learning to teach effectively"
     excerpt: "By Hyunsoo (Hyun) Kim, co-founder and CEO of Superb AI AI is having a moment. One need only casually scan the news each week to see that the topics of artificial intelligence and machine learning"
     publishedDateTime: 2020-08-17T13:20:00Z

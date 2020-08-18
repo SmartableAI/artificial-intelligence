@@ -138,19 +138,19 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Covid 19 coronavirus: New World store with facial recognition cameras reverses mask policy"
-    excerpt: "An Auckland supermarket is reversing policy that asked customers to remove their face masks so they could be better scanned by the store's facial recognition software. The Papakura branch of New World had been enforcing the policy,"
-    publishedDateTime: 2020-08-14T03:37:00Z
-    webUrl: "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12356628"
+  - title: "New report points to privacy, accuracy concerns with facial recognition technology"
+    excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
+    publishedDateTime: 2020-08-18T20:21:00Z
+    webUrl: "https://www.wpxi.com/news/washington-news-bureau/new-report-points-privacy-accuracy-concerns-with-facial-recognition-technology/QEWNWCGJAZD5ZJJU3UGHFFOUJM/"
     type: article
     provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 29
+      name: WPXI
+      domain: wpxi.com
+    quality: 33
     images:
-      - url: "https://www.nzherald.co.nz/resizer/mIwzRVbqJtrZu6UeWm0bpPOOiIE=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6WBIJEP4KBEEBGMRZKIHKRQPKI.jpg"
+      - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
         width: 1200
-        height: 798
+        height: 628
         isCached: true
 
 secured: "lQTi5pjbVYp2FMyLl6QWpSGDJ3Tdl8cZ7tVJy8P+opZDhSKse04o0OeFmmoGWOIBXmS4xgPKjub8E5Xoh7N37r1JybF+D+ZtL0DtJFkbxsWWukY0bB+iC7o+ZPRouXQ6TwkqO2Dag4p3HfKXpvD2F4f0dsfc7gFGBAQdQzIOdrTrmiFCJ4i8eDc4/j7P5hKxhlESSAfyES1pZ8+3f9G0Q/CA8CBsLNHCaOP1dRkkm8Q5QdkDV5kJgDcSDTo5m+iNlE3YCFG9jf6bE/Js3uo3ClDr9v2quN2mmheq/TAz3syvjynT+apG5QNiBjy61954bni5AZTJwsLw8mNioo38Bw==;Mq8ykKyvkH0CvB/HuQDhrw=="

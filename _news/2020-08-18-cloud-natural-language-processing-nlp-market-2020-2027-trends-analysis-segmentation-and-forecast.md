@@ -57,18 +57,18 @@ related:
         height: 627
         isCached: true
   - title: "Global Artificial Intelligence in Agriculture Market Research Report to 2030 - Growth Opportunities from Developing Countries - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue generated in the global AI ..."
-    publishedDateTime: 2020-08-18T17:19:00Z
-    webUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-agriculture-market-research-report-to-2030---growth-opportunities-from/article_cb9ce5d0-7a05-5970-a3d2-c047f11c3f48.html"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue ..."
+    publishedDateTime: 2020-08-18T16:13:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200818005626/en/Global-Artificial-Intelligence-Agriculture-Market-Research-Report"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
     images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
+      - url: "https://mms.businesswire.com/media/20200818005626/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "FEVwW0yCFG7loR3bUMooZyjfCHYj1A7k9NNMKBOWCQCwAnqXZp+6TwxjhhOu2IgpFze7CMjZHXoEgcLVVYu7C7J/ZubvRJ0EWyYCxG9smsEu/12ZpSMcUbMbFae1VqSKdxphwxF5dDtljOBkyv0zy+VXbln9S8RoabSK0Zkpj0f1lWcuIswD9Nttjza/3wr4wNpA23hduTgcItyidNbZmqVv6t/+13tQlMmcjzn8sSvLlK98dr9PdJJ1Es8GmHu2yqtrwT1n4ni3JlDaGo/5PuRn7VAVSlcy+Me6Yiyo23Uv2zQiDuVq1oWV+l7UbVqG0dND8eJWznmvc7+u81PDrA==;mDmr2NR4cZYCaLu99maFFA=="

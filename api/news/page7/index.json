@@ -2,6 +2,105 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-08-11-neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams.md",
+      "title": "NeuralCam Live uses ML to turn iPhones into ‘smart’ computer webcams",
+      "excerpt": "After bringing Google Night Sight-like functionality to iOS, NeuralCam now has an app that lets Macs stream live, deep learning-filtered video from iPhones.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/neuralcamlive.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/neuralcam-live-uses-ml-to-turn-iphones-into-smart-computer-webcams/amp/",
+      "publishedDateTime": "2020-08-11T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop.md",
+      "title": "Researchers use AI classifiers to expose potential vulnerabilities in Microsoft remote desktop",
+      "excerpt": "In a new study, researchers use machine learning models to identify vulnerabilities in Microsoft's Remote Desktop Protocol.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/researchers-use-ai-classifiers-to-expose-potential-vulnerabilities-in-microsoft-remote-desktop/amp/",
+      "publishedDateTime": "2020-08-11T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-why-you-should-care-about-ai-even-if-you-dont-want-to.md",
       "title": "Why You Should Care About AI (Even If You Don’t Want To)",
       "excerpt": "Given this morass of conflicting and confusing information, why should you bother to care about AI? Because AI will quickly integrate itself into your life. Here are three ways AI will impact you: 1.",
@@ -51,6 +150,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-11-brain-net-a-deep-learning-methodology-accurately-predicts-surgeon-certification-scores-based-on-neuroimaging-data.md",
+      "title": "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data",
+      "excerpt": "In a new article in IEEE Transactions on Biomedical Engineering, researchers demonstrated how a deep learning framework they call ''Brain-NET'' can accurately predict a person's level of expertise in terms of their surgical motor skills,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-11T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance.md",
       "title": "AI company pivots to helping people who lost their job find a new source of health insurance",
       "excerpt": "An artificial intelligence company has pivoted from finding the right treatment plan for patients to helping them find health insurance to pay for that care. At the start of the pandemic, Jvion used its Eigen Sphere engine to build a map that shows which residents in a community are at highest risk for contracting the coronavirus.",
@@ -96,47 +236,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-brain-net-a-deep-learning-methodology-accurately-predicts-surgeon-certification-scores-based-on-neuroimaging-data.md",
-      "title": "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data",
-      "excerpt": "In order to earn certification in general surgery, residents in the United States need to demonstrate proficiency in the Fundamentals of Laparoscopic program (FLS), a test that requires manipulation of laparoscopic tools within a physical training unit.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/4-surgery.jpg",
-          "width": 1920,
-          "height": 1371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.amp",
-      "publishedDateTime": "2020-08-11T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1080,106 +1179,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-itranslate-launches-ai-powered-writing-assistant-app-grammatica.md",
-      "title": "iTranslate launches AI Powered Writing Assistant App, Grammatica",
-      "excerpt": "PRNewswire/ -- iTranslate, the language technology company behind the world's leading independent translation app with over 200 million global downloads, announced today the launch of its newest product: Grammatica,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/itranslate-launches-ai-powered-writing-assistant-app-grammatica-2020-08-06-14183125",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T18:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-sogou-inc-sogo-q2-2020-earnings-call-transcript.md",
-      "title": "Sogou Inc. (SOGO) Q2 2020 Earnings Call Transcript",
-      "excerpt": "Sogou Inc. Q2 2020 Earnings Call Aug 10, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-          "width": 400,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/08/10/sogou-inc-sogo-q2-2020-earnings-call-transcript.aspx",
-      "publishedDateTime": "2020-08-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

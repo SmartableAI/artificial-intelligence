@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Digital Assistants in Healthcare 2020-2025: Artificial Intelligence (AI) Has Emerged as a Major Boon Amid COVID-19 - ResearchAndMarkets.com"
-excerpt: "The \"Digital Assistants in Healthcare Market - Growth ... the industry has found itself struggling to deal with the crises. In this scenario, Artificial Intelligence (AI) has emerged as a boon. The technology can help in coping with the COVID-19 pandemic ..."
-publishedDateTime: 2020-08-04T10:21:00Z
-webUrl: "https://www.oaoa.com/news/business/digital-assistants-in-healthcare-2020-2025-artificial-intelligence-ai-has-emerged-as-a-major-boon/article_d66d0b58-6b49-570f-b14a-b06e0900a780.html"
+excerpt: "The \"Digital Assistants in Healthcare Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The Global Digital Assistants in the Healthcare Market is projected to register a CAGR of almost 33."
+publishedDateTime: 2020-08-04T09:48:00Z
+webUrl: "https://www.businesswire.com/news/home/20200804005501/en/"
 type: article
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://mms.businesswire.com/media/20200804005501/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "rtUpO4TMqTZx0Tb/q3YKPxKhy0pRz2vZLkdYpGBHalqnJazo+/oTQY0vVgIbhISYUhQDT7Yv2S88BYHxxgFZLKr5zfiCOcD289oXPlzaRWpzDZFBWSgYFDyD39O70bAgddDqFXr7ixBjBU4cRksU5PSS58G4C+OJtLh/8VJGSbON5oLHhcmzgJHlnuJcQZ8Y4yBmaGD3H+6X5DTMpSdbODnIvg4gK9p1Y6Js9zVjF131BXaKWBDJDh0ArCVAhWwXCpzbtHN244Cdt8/elxN+jK6IuyCMFbED4V3jqmNkprft4zjycrAl3xg/aFPJWjJIm/5N4W2t2F4L/RL4NaKF/Q==;INStMIyeqItTqk0RgPg6Qw=="
+secured: "KFPxFPdNWIZ0MUQxofpF8JYr8BRvY6621aliq2qOudInfTykcCecuPWX3iFXVM6NAPXs9pWYqeeo7+Zj0dcv4VQl4X5l7TUhd8B7EBUhc9Lo0QqpqP+60rm2py9kg5dWdF1cv5ooMFTfpZZ3nYe1aAtnt03dCaaPeDRj1BcY8KOLcJ4MU+LkxCHG1AvD2rru5d65WT96AeCFiaoDYpvHYryBAdmn9HGePbP25XNY4ka+4Fnu24FOfe3YnMjVLA9HLhEMGWekq/6zGw80XLp4WUFTQcbkgG9SXRdHz5cvRRNBhsV28aHfbWafXK2MRo+K4RarkEAe3KzSijGAm/IwZw==;E4WwEewiU5wMjPijxqZiBA=="
 ---
 

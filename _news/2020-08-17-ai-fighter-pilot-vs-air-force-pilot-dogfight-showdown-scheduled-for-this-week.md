@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-enabled Air Force unmanned drones will 'dogfight' manned fighter jets"
+    excerpt: "What if an unmanned fighter or advanced drone, operated with various levels of advanced AI-informed algorithms, engaged in fast air-to-air combat maneuvers in a direct dogfight or close-in engagement with a manned enemy fighter? These questions ..."
+    publishedDateTime: 2020-08-18T21:09:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-enabled-air-force-unmanned-drones"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 66
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/a5ad1ce4-f1afb2544a6d29062a0f6a70670046d6.jpg"
+        width: 3000
+        height: 1895
+        isCached: true
   - title: "A US Air Force F-16 pilot is going to take on an AI adversary in a simulated dogfight, and you can watch it live"
     excerpt: "AI will battle AI in the early days of the competition to determine which program should dogfight a human pilot in a final showdown."
     publishedDateTime: 2020-08-14T20:58:00Z

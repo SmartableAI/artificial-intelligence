@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Transportation Market 2020 Global Technology, Development, Trends, Growth and forecasts 2024"
-    excerpt: "Updated Research Report of Artificial Intelligence in Transportation Market 2020 2024 Summary Wiseguyreports Com Adds Artificial Intelligence in Transportation Market Demand Growth Opportunities Manufacturers and Analysis of Top Key Players to 2024 To Its Research Database Artificial Intelligence in Transportation"
-    publishedDateTime: 2020-08-14T04:00:00Z
-    webUrl: "https://www.openpr.com/news/2112349/artificial-intelligence-in-transportation-market-2020-global"
-    ampWebUrl: "https://www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2112349/artificial-intelligence-in-transportation-market-2020-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-    images:
-      - url: "https://cdn.openpr.com/T/8/T814904483_g.jpg"
-        width: 500
-        height: 598
-        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2027"
     excerpt: "The Global Artificial Intelligence in Drug Discovery Market is estimated to value over USD 2.08 billion by 2027 end with a CAGR of over 40.5% during the forecast period 2020 to 2027. The research report titled Artificial Intelligence in Drug Discovery offers comprehensive information on key driving factors,"
     publishedDateTime: 2020-08-14T18:21:00Z

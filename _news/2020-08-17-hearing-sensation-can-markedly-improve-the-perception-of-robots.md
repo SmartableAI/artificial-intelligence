@@ -8,7 +8,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11551"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11551"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://theengineer.markallengroup.com/production/2020/08/Aug-14-Sawyer-bot2.jpg"
         width: 720
         height: 568
-        isCached: true
-  - title: "Sounds of action: Using ears, not just eyes, improves robot perception"
-    excerpt: "People rarely use just one sense to understand the world, but robots usually only rely on vision and, increasingly, touch. Carnegie Mellon University researchers find that robot perception could improve markedly by adding another sense: hearing."
-    publishedDateTime: 2020-08-14T04:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-08/cmu-soa081320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/240227_web.jpg"
-        width: 640
-        height: 360
         isCached: true
 
 secured: "rYIV3NER339YIQ+slGL2gAA/98CVXctftlwlnqaQXgQNpaE/yj1kQiLG133YkGKdBbANGdEmizr52kZ0l7zD+IpxCQkx0qr+8OoR/RAAKZ4APcAHkjtAN2iuHmlNUoMRQXVTySfx6id3igPB+RKSAGQ8vT/6XJVUeOZfwn6I1sWKPHBlckVR/aXbaYRCcvqMmKEyn68mlPeoaNLG8MNAmGDQ1hhoiI4veRlsBiFYhkigQQY30vwsaIsrIDENmWcKhWR9tfcOvpHoVEZcI/iaAAvRUow25iR5EEe6GHoyE72hTIdrPI27Jcsqgq13e6zT4oOUXEHsaj0iWLNZieWfxA==;IOmZaFUVhEVVFYnyA6rSqQ=="

@@ -60,6 +60,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
+  - title: "DBS partners Amazon to upskill 3,000 employees in AI and machine learning"
+    excerpt: "Financial services company DBS has collaborated with Amazon Web Services (AWS) to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in artificial intelligence (AI) and machine learning (ML) by the end of the year."
+    publishedDateTime: 2020-08-18T03:34:00Z
+    webUrl: "https://www.marketing-interactive.com/dbs-partners-amazon-to-upskills-3000-employees-in-ai-and-machine-learning"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 38
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/dbs_building.jpg"
+        width: 800
+        height: 454
+        isCached: true
 
 secured: "Zj0be2VxgtKbxlVPC/WzghGel9WtDNSMV89KI5H5qI5hh2JiDp0M6A1+zP+fi5O0F1iX9dpLy0EguIT6rNFzHLePL809bdhZGKtD8P/XnTbD07F2RTdeXDN+2OviXuwhwkunS6Q2b+kuyQ0O6FE10iXbzdHw6JsXjIb/s94sZl5hsxTmWb8qzHsk6NJJzhp2PZ05h35RDPh1dmBp5MDUpnGFjw+trFqZro3VdScSX9dNwpQZZ6TZ5sSgaQ0KUUhqDNQgyCdwzadWk+Wl9kmmX/XSRP4TH/k9uJti/BSnxtgaLMQnoNcCb7B7VjOxJqM4LCbyNNiKYUWV7+vHOBOh24fFLKBGVrlLlGUA31tHKReqvmONLXhd8vR02pMLUw6g4Xc9J38ytNcDxQp6uagoManjcrR56Q6e+CImsp5zLBweQtGGzMAqaUZ9yFtqna7eGp+uE5R6l1dFSDK4N4lkl9no7nSAMd6jjcSy6MTAX4Irj6n/Q6vI6G20RdluMyYbQwCYYJdcr7FytI185OBjRA==;MixjgDBoA9KRNTZ+7/JqUA=="
 ---

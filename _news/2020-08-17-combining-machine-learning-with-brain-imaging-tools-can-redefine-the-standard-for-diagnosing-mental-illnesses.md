@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200817/Combining-machine-lea
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200817/Combining-machine-learning-with-brain-imaging-tools-can-redefine-the-standard-for-diagnosing-mental-illnesses.aspx"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: SmartData Collective
       domain: smartdatacollective.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/08/deep-learning-and-online-trading.jpg"
         width: 1000
