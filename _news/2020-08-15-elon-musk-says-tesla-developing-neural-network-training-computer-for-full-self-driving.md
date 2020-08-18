@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-networ
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/s3xy_4.jpg"
         width: 3840
         height: 1990
+        isCached: true
+  - title: "Tesla Reportedly Ordering New Processors; Could Hint At Self-Driving Development"
+    excerpt: "At Tesla Inc's (NASDAQ: TSLA) autonomy day in April, the company detailed the progress on its full self-driving software. The automaker also released information about the custom-built computer chip that would run the software to its full potential ..."
+    publishedDateTime: 2020-08-18T19:32:00Z
+    webUrl: "https://www.benzinga.com/tech/20/08/17140592/tesla-reportedly-ordering-new-processors-could-hint-at-self-driving-development"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17140592"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17140592"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/tesla_full_self-driving_computer_4k_0.jpg"
+        width: 8688
+        height: 4887
         isCached: true
   - title: "Elon Musk: Tesla Full Self-Driving is going to have ‘quantum leap’ w/ new rewrite, coming in ‘6 to 10 weeks’"
     excerpt: "Elon Musk says Tesla’s Autopilot/Full Self-Driving (FSD) rewrite is going to result in “quantum leap” improvements, and the rewrite is going to be pushed to the fleet in the coming “six to 10 weeks.” As we recently reported,"

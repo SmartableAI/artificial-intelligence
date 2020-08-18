@@ -5,8 +5,8 @@ excerpt: "Citibot is a technology company that builds AI-powered chat solutions 
 publishedDateTime: 2020-08-14T23:45:49Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-citibots-chatbot-search-engine-uses-ai-to-find-more-answers/"
 type: article
-quality: 69
-heat: 69
+quality: 19
+heat: 19
 published: false
 
 provider:

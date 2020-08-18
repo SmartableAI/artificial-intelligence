@@ -61,20 +61,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "DBS partners Amazon to upskills 3,000 employees in AI and machine learning"
-    excerpt: "Financial services company DBS has collaborated with Amazon Web Services (AWS) to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in artificial intelligence (AI) and machine learning (ML) by the end of the year."
-    publishedDateTime: 2020-08-18T03:34:00Z
-    webUrl: "https://www.marketing-interactive.com/dbs-partners-amazon-to-upskills-3000-employees-in-ai-and-machine-learning"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/dbs_building.jpg"
-        width: 800
-        height: 454
-        isCached: true
 
 secured: "YSzvap1rWY8jQ2+RmxzZ08HvjJtVhvZ58+SAKaCsczcWyuhSQ64ER7lV16pPNo0XzJOJdauUcjdbrTfgeOuAlGZDSkC00VMDeiJXtwmFwiDb9aywiyig2OlzihH1MlaZMUbyN3xxmo1cT4WQnRKtxIj5sEP/iwmVns/Jy/Ex3dBNhaphrPqxWt7PH3pcAQ880Zu4Epwf1Sp2ML3l1LuWasQEWBQEsz6hTGMA+r7ph3w7x2L72oEfd9HNjNFhlIgf+zLYJSreWPpk5oTXKUS8XFdFldvBkZNLlkc7ccA093m7yVcCFpwccxNyznra7gOAhfVTRuaIONb+69XztTo3LQ==;JXuQmciN3nijKJBJ2T/CHQ=="
 ---

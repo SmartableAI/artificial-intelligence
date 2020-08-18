@@ -72,6 +72,22 @@ related:
         width: 3840
         height: 1990
         isCached: true
+  - title: "Tesla Reportedly Ordering New Processors; Could Hint At Self-Driving Development"
+    excerpt: "At Tesla Inc's (NASDAQ: TSLA) autonomy day in April, the company detailed the progress on its full self-driving software. The automaker also released information about the custom-built computer chip that would run the software to its full potential ..."
+    publishedDateTime: 2020-08-18T19:32:00Z
+    webUrl: "https://www.benzinga.com/tech/20/08/17140592/tesla-reportedly-ordering-new-processors-could-hint-at-self-driving-development"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17140592"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17140592"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/tesla_full_self-driving_computer_4k_0.jpg"
+        width: 8688
+        height: 4887
+        isCached: true
   - title: "Tesla Smart Summon patent highlights progress in 3D labeling for full self-driving features"
     excerpt: "A recently published Tesla patent application details the machine learning methods behind Smart Summon, specifically highlighting the progress being made with 3D labeling in training data. The application,"
     publishedDateTime: 2020-08-14T06:56:00Z

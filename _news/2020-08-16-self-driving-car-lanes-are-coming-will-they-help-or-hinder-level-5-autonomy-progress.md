@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Self-driving cars could be allowed on UK motorways next year"
+    excerpt: "Industry welcomes consultation for use of technology in slow lane but risk concerns some Gwyn Topham Transport correspondent Motorists could be allowed to let their cars drive themselves on motorways, using automated technology, as early as next year ..."
+    publishedDateTime: 2020-08-18T18:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/aug/18/self-driving-cars-allowed-motorways-industry-risk"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/aug/18/self-driving-cars-allowed-motorways-industry-risk"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/aug/18/self-driving-cars-allowed-motorways-industry-risk"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/0641f5a38fdc332723e7fa81d9f916ca3f0e17d1/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bce8dafb55ffd04c9f6b9750a9bbabcc"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "rbg/AgdaDsBJ7gZTT0rqBpZFRRad3+clFq3ybUbOP29u1T9Y4y+Y/WozbDm9Lj3QSNvmcafIehhuRWb0ZYje9vXy/OkX+lIT4UmoyiHqlryh0vRNx/GeDgbgYEYJfeeRbDpIVb2y9TB6U7P3s4bLD4DrT40ZUJNeWXRMFMXH02roKA0dbjFRbncVL4ANbHM6KNYxZRxL1X9CaHgct+ckIPJTQFKcT5muODT/vY9eGufumBDFzm8VTP/cwf26CAhS0x05PEAytNRRO3NnBJgB+xdtBf5VfBMOWRmu6gnYZpLppfzcRx8s694wbuoCAQxpMfAeBh4Bki51GzoW/47S2K3t0jQ15RwEtKv4C2q2HUy0uwFrNirTVl0CPY5Uep++HHJr4QJSNMbqcaqpejUHs4W6hbb1EKUs2xo4iFibJxDGHDJxx/uBh2kgO3wSTFMN5cGLLYDoIYXuaWK4RQsZvA1YRwIF6WG8OFShnzOWArH3M+f7dJrZXpiB+syfrla0AZs0KOAY3K9PmIcGDmJT7g==;+J3HhtyN8HQ4zI4bd++v8w=="
 ---

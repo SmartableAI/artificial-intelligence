@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-14T13:19:00Z
 webUrl: "https://www.businessinsider.com/singapore-announces-180-million-fintech-investment-2020-8"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Business Insider
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn01.vulcanpost.com/wp-uploads/2020/08/mas-cyber-hygiene-rules-fi-1024x538-1.png"
         width: 1024
         height: 538
-        isCached: true
-  - title: "Singapore commits SGD250 to drive technology and innovation in fintech sector"
-    excerpt: "Monetary Authority of Singapore (MAS) will commit SGD250 million over the next three years to accelerate technology and innovation-driven growth in the financial sector."
-    publishedDateTime: 2020-08-14T02:35:00Z
-    webUrl: "https://www.connectedtoindia.com/singapore-commits-sgd250-to-drive-technology-and-innovation-in-fintech-sector-8078.html"
-    type: article
-    provider:
-      name: Connected To India
-      domain: connectedtoindia.com
-    quality: 21
-    images:
-      - url: "https://prod-c2i.s3.amazonaws.com/articles/promo_large/xxhdpi/15973713505f35f3d6b197b.jpeg"
-        width: 1024
-        height: 575
         isCached: true
 
 secured: "DqpEfWA8AITfl0J6itSe+BxjQ0pn1lw8ukkbG4B3FqacRjEnQhuHdnhG5a+gNgMsOirYjIQFgop70hxuFCh2WI+VHr9wUMZOHDQSVZ+IrfK7WZ7rJK2rtWwVPZQkzuXAYbstKsOg3aFhjATP3GJwJAwHGkk1zFkNlYf/F3GSyNdADKbJgRoJFjPLwGh4p+Tz3KDpVSZAHItvp3LIOGGRBiuHTcWyl7pavHg2kKkRyyFdmJdWt8yKGvIOcx8OaDFDfhhq/Ewo3U5inR2l7JUQanObZVhvEyHsf7H5WN0ldgV29zq8aUtdclqMkLUt8Rp1SovXy16/lQnGXFUQfm8l8SC/J/bAvHZ0pU4lvhSdUACF799huAofJCxtiC5EJYCs+MHW6RnBNgR/exmfWPatjkLOqIw74mcnzXLLkgtqZCtaqSgsM+KJiQPPu38ccvWohRX243Dcz3PGyHl7ys9/YxL5BziB5zKrQqRaFimAfpDPw5qEKt7cBiE4Z6k/GtSQOwBo0cZsKjdAiRNSrl+etA==;3kGCflcAyIx+R/fRutEXlw=="

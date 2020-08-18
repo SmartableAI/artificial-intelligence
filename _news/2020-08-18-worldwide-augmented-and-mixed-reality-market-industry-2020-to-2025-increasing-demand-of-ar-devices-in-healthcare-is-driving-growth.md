@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence of Things: AIoT Market by Technology and Solutions 2020 - 2025"
+    excerpt: "This AIoT market report provides analysis of technologies, leading companies and solutions. The report also provides quantitative analysis including market sizing and forecasts for AIoT infrastructure, services, and specific solutions for the period 2020 ..."
+    publishedDateTime: 2020-08-18T12:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-of-things-aiot-market-by-technology-and-solutions-2020--2025-301113921.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 44
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AI in Healthcare Market Set for Rapid Growth During 2020 - 2027| Alphabet Enlitic, General Vision, iCarbonX, Intel Corporation"
     excerpt: "CHAPTER 5:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY ALGORITHM CHAPTER 6:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY APPLICATION CHAPTER 7:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY END USER 1. What is the estimated growth rate of the ..."
     publishedDateTime: 2020-08-17T17:20:00Z
