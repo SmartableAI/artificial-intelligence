@@ -84,6 +84,22 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Now, Microsoft translations for Odia"
+    excerpt: "In a welcome move, Microsoft India has announced the launch of translation service for Odia language. The software will offer real-time translation and transliteration for Odia. The service is available on Microsoft Translator application,"
+    publishedDateTime: 2020-08-18T02:58:00Z
+    webUrl: "https://www.newindianexpress.com/states/odisha/2020/aug/18/now-microsoft-translations-for-odia-2184828.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/odisha/2020/aug/18/now-microsoft-translations-for-odia-2184828.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2020/aug/18/now-microsoft-translations-for-odia-2184828.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/logo/nie_logo_600X300.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Microsoft strengthens translation support for Indian languages, adds Odia to Microsoft Translator"
     excerpt: "This will be of great advantage in making computing language-agnostic and more inclusive across India. Language translation is AI and Deep Neural Networks enabled and forms a core part of Microsoft products and services. Microsoft Translator enables ..."
     publishedDateTime: 2020-08-17T05:59:00Z

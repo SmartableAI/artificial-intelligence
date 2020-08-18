@@ -154,6 +154,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Alphabet-Backed Startup To Build Self-Driving 'Road Of The Future'"
+    excerpt: "A startup called Cavnue will build a first-of-its-kind 40-mile connected corridor in Michigan with dedicated lanes for autonomous vehicles. AV companies are paying more"
+    publishedDateTime: 2020-08-17T20:36:00Z
+    webUrl: "https://www.benzinga.com/news/20/08/17121761/alphabet-backed-startup-to-build-self-driving-road-of-the-future"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17121761"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17121761"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/upscaled_stills_highway.png"
+        width: 3840
+        height: 2160
+        isCached: true
   - title: "40 Miles Of Highway Turned Into Testing Ground For Self-Driving Cars In Michigan"
     excerpt: "The future is here, and it’s Google-funded. The state of Michigan in the United States has unveiled its plans to begin testing self-driving cars as part of its long-term initiative to improve public transport over the coming years."
     publishedDateTime: 2020-08-17T14:28:00Z

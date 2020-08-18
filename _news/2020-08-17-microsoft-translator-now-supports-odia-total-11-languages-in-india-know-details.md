@@ -8,7 +8,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-translator
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://www.businessinsider.in/thumb/77587516.cms?height=275&width=412"
         width: 412
         height: 275
+        isCached: true
+  - title: "Now, Microsoft translations for Odia"
+    excerpt: "In a welcome move, Microsoft India has announced the launch of translation service for Odia language. The software will offer real-time translation and transliteration for Odia. The service is available on Microsoft Translator application,"
+    publishedDateTime: 2020-08-18T02:58:00Z
+    webUrl: "https://www.newindianexpress.com/states/odisha/2020/aug/18/now-microsoft-translations-for-odia-2184828.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/odisha/2020/aug/18/now-microsoft-translations-for-odia-2184828.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2020/aug/18/now-microsoft-translations-for-odia-2184828.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/logo/nie_logo_600X300.jpg"
+        width: 600
+        height: 300
         isCached: true
   - title: "Microsoft Translator now supports Odia, total 11 languages in India"
     excerpt: "Microsoft Translator will now offer real-time translation and transliteration for Odia, taking the total number of Indian languages in which one can access the service to 11, the company said on Monday."

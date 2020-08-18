@@ -22,6 +22,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Agriculture: An Industry Overview (2020-2025) Featuring Microsoft, IBM, and Agribotix Among Other Major Players - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market - Growth, Trends and Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The global Artificial Intelligence (AI) in agriculture market is witnessing a CAGR of 26."
+    publishedDateTime: 2020-08-17T16:39:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200817005511/en/Artificial-Intelligence-Agriculture-Industry-Overview-2020-2025-Featuring"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200817005511/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
 secured: "lMzP348FXQ7NTL69rhw5L0VVS6e22Kw4VhvRRKEsGZpm08iPcAJLiu6B11g31lmJ7vuI1V3yoAYwfoT09j7e8dnEnD+3kIZGBiY+Zoqkh5wKa3mSPN9DuVRE9X3j3UYHe9Qo8GKzzBAl1qYbwkBu8FFbhz+PMr7Z2NwzkHN2nwS5gd3aqhe6URfD3QuxyP+xDW7Nk8svKE90Hta2BW1GrtbcKXe54uMZ9XqT61nmiIP7ustexrcF9PcRJDjmroJGtWgNC/pmMooZJgy4N7YDOhQJx3ouVGVkjwDRT5nk4Q/o1gRtMnNcqhMqsfO05YGBFUFbb3F/nJklzcdmLatZWw==;VkC2UiDKI6A2E23CemalLA=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "CheckAlt and Composable Analytics Launch Scrypt, AI Data Capture for Document Processing and Payments"
-excerpt: "Recognizing the broad impact of artificial intelligence and machine learning in document processing, CheckAlt has launched"
+excerpt: "CheckAlt partners with MIT big data company to strategically deliver cognitive automation solutions, including machine-learning document processing and payments. LOS ANGELES"
 publishedDateTime: 2020-08-10T16:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/n17014425/checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-paymen"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17014425"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17014425"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/p17014528/checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-paymen"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17014528"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17014528"
 type: article
 
 provider:
@@ -16,6 +16,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "28gg97zgTt9gxCCykDZaWOdL5MeqZnLPs0sEsU4Tq5INMQPVpas4fSOPgYgVfwAJ4bW04d2dO4wAvduOVo/7nxILoxxaJNlZASiSMpk6UXPy4+qcMINKex0GLLOYV2pLmicDFKYzdpjLKVCeae7+zzpM+Gzc4KCR+ZkeCjlB08GrcGJoZ4DZanwoGKjIIua2fio03Fb91m0LCUkw/PyPUXCO83wvyMbWbIB3d8ISp+z4fHncFeov7TNAjm/Vdm34BSSsoCBJpiU654+Bv/tMlM7nKW8JMo0vbAQeM3Tv9WTXm7uqQRadeqRRGrZCgz9Kq+foGjFSUkH8hmG3tbtNrP9iFHEVpq/YfmYSMxpzaIy4Y6Ura5dB7Mn7iDL5yP2Iuj+BxQlumYa7HKqBXIzx5UYhd8qfV9zkPTOCoNdXguVl+WsF2+fHAdw52/TgAe0Ddd/Zguu6jBn3k45LAVL5qFlX6yCNNp8G1tnJPDqIYLJcdDrhE68nadbUp0AXn5C/kNDWQwJv4rVafMMZFDRrCg==;4WzkZHrtcqZX3yezuKDOcA=="
+secured: "XaLmXgbkJ9adneLS8jovICzizSwhJnrZDkpsL3KsY1din8k+iGo3Vex2+uZjXKFTcsS+SjUGFYRzfvAzsLWJEK8Por1p27W/VoAwhApwtN14owlqCvtw5aG74+cUyJk/Ka4cCOUhp1YVyc9zN+dCGDKEF4slgAXEvDXWBXn+Dgy+6qHOmayDn/6TzgrkEvdn2GW+H9OAbA9nrPsoX3q1sIYQxoSg9agDg24OP8i4RtUKwVRxlcfFypkwNWnRwXskkXb9/cr0n4HZwjMs5/Yg+s09Md+s3v7Yr+uaopfvy4qntghVf4V/v/o/GA7Evzx5I8l9cclamTE4tw4RN2LkHg==;ii9VXLmd5mFr9dGgmv25qg=="
 ---
 

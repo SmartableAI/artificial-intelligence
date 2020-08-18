@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-auto
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/14/urban-autonomy-the-next-stage-of-self-driving/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i2.wp.com/technode.com/wp-content/uploads/2020/08/640.png?fit=579%2C466&ssl=1"
         width: 579
         height: 466
+        isCached: true
+  - title: "Self-Driving Cars Are Predicting Driving Personalities"
+    excerpt: "In a recent study by a team of researchers at MIT, self driving cars are being programmed to identify the social personalities of other drivers in an effort to predict their future actions and dri ..."
+    publishedDateTime: 2020-08-16T00:00:00Z
+    webUrl: "https://hackaday.com/2019/12/02/self-driving-cars-are-predicting-driving-personalities/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2019/11/self-driving-personalities.jpg"
+        width: 800
+        height: 426
         isCached: true
 
 secured: "wD2jr4I3zWGdTKPsf++btAEIPnwFaLFHGwiTztRCZ0/Fgxcnshhkn1GP6q7ZJOnCj7NoHTFu500Vx5DZXkFe6280QzQZl3dV5CR4z8qPMt6qGyomEDTCO2PydYL5jZIvO1UiZACoHnpX4vADPxBlNM8Q5HyS6kjKa5yIGIFgF5TETquNLC3llvRH5tYDfA01jmxhZpj/gu/JDL2h5pM8k2FHBEP8fjNYz84HljLNPbk6BpJbvujALaTNnWrdGUNkuyNGPhoGeFoeQI2eSVo+yGkwbdf7N5vqQh1ILouoN0S95+LgWJCtrrpG347diIy6m5jbPIqZERWXWHJEo8/6zvwYmECZXEfxxP6Lbla7Swjd8kXPi2fQEhROxdAVshigPQ+ROEeHIoz4OYagD9wZw18YzsMOx/DZlQm24yvuOsSCGZs2RTwmPWXmLeWOVRaKFUDbkI/C7q/q/VIU6+Vj9DGxQ+E7UQrLye3wNvgx0nXmwIkX54SR+8ZA36UmZNyze+CuuOO3FcUb/FStSTbviQ==;0Q794PKjiosTcy/JLEHPXw=="

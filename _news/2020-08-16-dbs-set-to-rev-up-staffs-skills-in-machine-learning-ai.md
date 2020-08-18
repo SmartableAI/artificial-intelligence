@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-16T22:00:00Z
 webUrl: "https://www.straitstimes.com/business/dbs-set-to-rev-up-staffs-skills-in-machine-learning-ai"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Straits Times
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DBS partners Amazon to upskills 3,000 employees in AI and machine learning"
+    excerpt: "Financial services company DBS has collaborated with Amazon Web Services (AWS) to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in artificial intelligence (AI) and machine learning (ML) by the end of the year."
+    publishedDateTime: 2020-08-18T03:34:00Z
+    webUrl: "https://marketing-interactive.com/dbs-partners-amazon-to-upskills-3000-employees-in-ai-and-machine-learning"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 52
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/dbs_building.jpg"
+        width: 800
+        height: 454
+        isCached: true
   - title: "DBS uses gamified learning to give staffers AI skills"
     excerpt: "Singaporean bank DBS has joined forces with AWS to boost the AI and machine learning skills of thousands of staffers through a gamified learning programme that will see participants develop their own autonomous model race cars."
     publishedDateTime: 2020-08-17T06:47:00Z

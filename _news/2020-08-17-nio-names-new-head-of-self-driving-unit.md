@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-Driving Cars Are Predicting Driving Personalities"
+    excerpt: "In a recent study by a team of researchers at MIT, self driving cars are being programmed to identify the social personalities of other drivers in an effort to predict their future actions and dri ..."
+    publishedDateTime: 2020-08-16T00:00:00Z
+    webUrl: "https://hackaday.com/2019/12/02/self-driving-cars-are-predicting-driving-personalities/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2019/11/self-driving-personalities.jpg"
+        width: 800
+        height: 426
+        isCached: true
 
 secured: "CbHJwsoiGqqHtes1bMj+XRCwFFGGTmcpNr44L63e8t36YNLeB/NKU6kRkL1i//3nKNtzIj6cbTnyvYt9Ij0b6TS1Zu5dEXS5nQNs5xHB1opW0Zmt+mXrTdgtxTNl/vUKmjwhUxPb5dmB106PmMZZ3bkSPdXS+gQa3Q5DwaZpw9fyR9jepjwu1jlAM3i4MVecD/o+FUEIE33SrS3Wj/Uw+pH9TkTCR6WcXN8a07CblBda1teoHIk6mlj5lEEf9eqp+2ZiXYS+xfowEeLhL+lBLLfHIAyuc5+0Px63cyPXZbuPvgukOaOHdzHb80vkjU4wB4VTLikWw6lPUC0Pljp0JCftnTylUMB80IjuYDLlAs0tNGiK5I2gnyPTQeM9ICKCpJqdJ3OQCUT2RIJS+94JPbTy/6xDg4J1Alux1yhVRoZ33xHB0C6jKWx3MWRnQ4e2JdfX3sA6OGGJ7z7En1tGmDT/JCGrC3lWmuK9sfbn/LaXO78wR+i66HJ3EAPEM5ZO;YCxt54/ocEFKO3ZmiXylew=="
 ---

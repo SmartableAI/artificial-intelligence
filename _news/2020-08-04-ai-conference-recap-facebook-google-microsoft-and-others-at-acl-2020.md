@@ -17,6 +17,7 @@ topics:
   - Microsoft AI
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://res.infoq.com/news/2020/08/conference-recap-acl-2020/en/headerimage/conference-recap-acl-2020-1596386890510.jpg"
