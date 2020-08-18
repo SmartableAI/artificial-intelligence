@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in Agriculture Market Research Report to 2030 - Growth Opportunities from Developing Countries - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue generated in the global AI ..."
+    publishedDateTime: 2020-08-18T17:19:00Z
+    webUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-agriculture-market-research-report-to-2030---growth-opportunities-from/article_cb9ce5d0-7a05-5970-a3d2-c047f11c3f48.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
+        isCached: true
 
 secured: "Bbw4I3MSaFZBjLvft67pVBCec+B0hiLejdy2t8JzerKYRyoAajfnejc9jODkeMfgdr561BVUrOmOjq0v/KHjvMLK26ibP+X4SbcG76B9fvjuqD5OXT2TPIagj6aHEPo1Hdfx19ap8sN3Oa6DE2uaaREk8tRJtoAmy2i+1F2Xs4lE12T4H8MRvId9Ne8N5LgXR2CT3s8N7UcdauWo3Wp8kDne6PVkU4MoE3WGGG8wc89fnppXZChEAkYBatSNmAOdcA0Vzt1MO56E8xhMcliH1NEBUvlhWXeWXH+0Zs4KYJJOivHPlKfnBN+o5sTcEnNSHmueV5WCqx8dacmg5KuLkQ==;fPQbiSybMTskWXX/FyOidA=="
 ---

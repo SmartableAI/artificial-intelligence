@@ -2,6 +2,137 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-08-12-artificial-intelligence-ethics-a-primary-concern-for-ibm.md",
+      "title": "Artificial intelligence ethics a 'primary concern' for IBM",
+      "excerpt": "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adelaide Now",
+        "domain": "adelaidenow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-from-ai-to-medical-research-why-innovation-must-not-be-left-to-innovators-alone.md",
+      "title": "From AI to medical research, why innovation must not be left to innovators alone",
+      "excerpt": "The innovation agenda has been captured by narrow groups of investors and firms whose values and interests don’t necessarily reflect society’s needs. The public sector provides the infrastructure that",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3097020/ai-medical-research-why-innovation-must-not-be-left-innovators",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/08/12/2f8aac06-dc52-11ea-b1d3-42d340dc91a3_image_hires_130620.jpg?itok=FQOjNzac&v=1597208788",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3097020/ai-medical-research-why-innovation-must-not-be-left-innovators",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3097020/ai-medical-research-why-innovation-must-not-be-left-innovators",
+      "publishedDateTime": "2020-08-12T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-gong-raises-200-million-to-surface-sales-insights-with-ai.md",
+      "title": "Gong raises $200 million to surface sales insights with AI",
+      "excerpt": "Gong.io, a startup applying AI to sales call analysis, has raised $200 million in venture capital at a $2.2 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/Gong.IO_-e1596830560832.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/gong-raises-200-million-to-surface-sales-insights-with-ai/amp/",
+      "publishedDateTime": "2020-08-12T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-iit-roorkee-joins-coursera-to-launch-2-artificial-intelligence-machine-learning-programmes.md",
       "title": "IIT Roorkee joins Coursera to launch 2 Artificial Intelligence, Machine Learning programmes",
       "excerpt": "Education News: ​The six-month certificate programme in AI and ML will consist of video lectures, hands-on learning opportunities, team projects, tutorials and worksh",
@@ -1193,47 +1324,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-11-brain-net-a-deep-learning-methodology-accurately-predicts-surgeon-certification-scores-based-on-neuroimaging-data.md",
-      "title": "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data",
-      "excerpt": "In a new article in IEEE Transactions on Biomedical Engineering, researchers demonstrated how a deep learning framework they call ''Brain-NET'' can accurately predict a person's level of expertise in terms of their surgical motor skills,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-11-ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance.md",
       "title": "AI company pivots to helping people who lost their job find a new source of health insurance",
       "excerpt": "An artificial intelligence company has pivoted from finding the right treatment plan for patients to helping them find health insurance to pay for that care. At the start of the pandemic, Jvion used its Eigen Sphere engine to build a map that shows which residents in a community are at highest risk for contracting the coronavirus.",
@@ -1283,132 +1373,33 @@
       ]
     },
     {
-      "path": "_news/2020-08-11-at-prisons-in-finland-inmates-are-learning-ai-and-taking-online-tech-courses-as-a-bridge-to-life-on-the-outside.md",
-      "title": "At prisons in Finland, inmates are learning AI and taking online tech courses as a bridge to life on the outside",
-      "excerpt": "Finland transformed its criminal justice system 70 years ago. Now the country is investing in technology that offers inmates pathways back to society.",
+      "path": "_news/2020-08-11-brain-net-a-deep-learning-methodology-accurately-predicts-surgeon-certification-scores-based-on-neuroimaging-data.md",
+      "title": "Brain-NET, a deep learning methodology, accurately predicts surgeon certification scores based on neuroimaging data",
+      "excerpt": "In order to earn certification in general surgery, residents in the United States need to demonstrate proficiency in the Fundamentals of Laparoscopic program (FLS), a test that requires manipulation of laparoscopic tools within a physical training unit.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f31c3faa6f0e106c119e315?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8?amp",
-      "publishedDateTime": "2020-08-11T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025.md",
-      "title": "Deep Learning Market 2020 by Size, Share, Latest Global Trends, Leading Key Players, Future Growth, Revenue, Demand Forecast To 2025",
-      "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11",
+      "webUrl": "https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/4-surgery.jpg",
+          "width": 1920,
+          "height": 1371,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T06:39:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.amp",
+      "publishedDateTime": "2020-08-11T07:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-artificial-intelligence-drug-discovery-startup-atomwise-raises-123m.md",
-      "title": "Artificial intelligence drug discovery startup Atomwise raises $123M",
-      "excerpt": "Artificial intelligence drug discovery startup Atomwise Inc. announced today it has raised $123 million in new funding to scale up its AI technology platform. The Series B round was led by B Capital Group and Sanabil Investments and included DCVC,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/08/11/artificial-intelligence-drug-discovery-startup-atomwise-raises-123m/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/atom.png",
-          "width": 886,
-          "height": 587,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1419,8 +1410,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     }
   ],

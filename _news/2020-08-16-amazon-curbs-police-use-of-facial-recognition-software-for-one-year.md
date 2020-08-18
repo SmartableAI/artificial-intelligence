@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-16T03:17:00Z
 webUrl: "https://www.foxbusiness.com/technology/amazon-halts-police-use-of-facial-recognition-software-for-one-year"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Amazon’s facial recognition system flags dozens of California lawmakers as criminals"
-    excerpt: "Amazon’s facial scanning software, called Rekognition, won’t unlock your phone, but it is currently being used by some law enforcement agencies to identify criminals based on their mugshots."
-    publishedDateTime: 2020-08-14T00:00:00Z
-    webUrl: "https://bgr.com/2019/08/14/rekognition-test-amazon-facial-software/"
-    ampWebUrl: "https://bgr.com/2019/08/14/rekognition-test-amazon-facial-software/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/08/14/rekognition-test-amazon-facial-software/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2019/05/4496171a-e1565791602437.jpg?quality=70&#038;strip=all"
-        width: 2500
-        height: 1640
-        isCached: true
 
 secured: "nzP/QEM9+fhtFVCMUYhuGAkbNdV/mo8/zlk3MSiiSht6AsVDXzCiRh2TVGos54B35XHYkQ91m0Un5ZuQcszergbuHAMHpx+8wpDVzonzfOLVlc2nwodJ5KttjHxaJDr/5HRo8g3EldSsSXgWNmsAZbYIlFK94TMltVqOr5aoKzMX2d/ILFdzD/QSGwnGksDoO7Tf+8p6rst7rJqDsE+9mvwXXzBU4ik0sSvRqA4wYnTrkf0Wgl5Ujtx7qJpani4ck8JwxCv8GGsQw9FSFatgIYer/BVbjtY+EoOAU4j0YD5BE3nGDJXcK9dfa/mESxvyXCFzj04l2Jm9Sqn5fkTe7g==;OoJ8M/Gt2qhIqlUGTypc8g=="
 ---

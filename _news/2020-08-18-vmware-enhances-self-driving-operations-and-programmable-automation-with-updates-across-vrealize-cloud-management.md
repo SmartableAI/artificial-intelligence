@@ -2,31 +2,27 @@
 category: news
 title: "VMware Enhances Self-Driving Operations and Programmable Automation With Updates Across vRealize Cloud Management"
 excerpt: "Consistent Deployment and Operations of Apps, Infrastructure and Platform Services VMware vRealize Cloud Management offers new and innovative capabilities for modern infrastructure automation supporting DevOps principles and self-driving operations."
-publishedDateTime: 2020-08-18T13:06:00Z
-webUrl: "https://www.marketwatch.com/press-release/vmware-enhances-self-driving-operations-and-programmable-automation-with-updates-across-vrealize-cloud-management-2020-08-18"
+publishedDateTime: 2020-08-18T12:12:00Z
+webUrl: "https://www.businesswire.com/news/home/20200818005307/en/"
 type: article
-quality: 33
-heat: 33
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://mms.businesswire.com/media/20200818005307/en/782362/23/4284573_300DPIxVMware-logo-grey_highres_.jpg"
     width: 1200
-    height: 630
+    height: 627
     isCached: true
 
-secured: "MDVSnIevw9yB5wtM8mJN84FdKqwAV/UBMw62ojJ9o/7x0WKKRnfDlrDACGZYu6KRfrQqAt5F0YBmkfbOF6Zr++FjigRrBWhW+qDvXcL4W0n55W/yP1UWu5jk5ndH0TG6J26fDrBbA/eXOI+EympcWxV2E7jkDSR4whxMXLq9ZZcBoSxMW2MVmB8rqpSIW/nMzqazxGXb6VjpL1I0XW/pI3boBf7sOAqhz7etqPcwbx7tDoDkMPgOInlsibfMeVkQhE8Axfd80I5uhYe817pd3dIulwVAlZfTFDVS3ky7z4jiDJbhOmjBg8YGfdqJf/G9XC0ydFHig4z+1P0toEcXmw==;C41IrpdI2anG4h68NuYb+w=="
+secured: "LDkE7U+3Yh1WDKWk4Pl7PJYDg2U5sElNXgrcAKuRDL4laQ/26NYfc1//HSuTMO6M95Ewqz8AC6vRcW1Kvr7hSUY02AaX7LsAwJnFqrNQIOxlF9pYZ1fMRGVyGCtELi0huyK38nVUqRx9Qaei/D6zBM1QAZ3FLpSE4Z60kIbIJ5IbBToQSMqW1LHvVt1XQrP3jPNLvh6aacHRft+KkOAr7N/rxROMQ7uQjalucNnkUedVQ0p66Fa5mlDhNkObbKLnRRQo53uFk+NeqvYCqY8ZJ9uLeUve5NYL8SqWb4Fd5dDcMbN/HgW73lD/xmgCay+vUIS9/06VLMD3Y+HyeLhqCg==;6FbK9uv5GHkXbRpXozyVNw=="
 ---
 

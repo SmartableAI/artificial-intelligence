@@ -2,6 +2,38 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-21-falling-tech-spending-hurts-ibm-wsj.md",
+      "title": "Falling Tech Spending Hurts IBM — WSJ",
+      "excerpt": "IBM wants to be a leading cloud-computing player, but it is behind the competition, led by Amazon and Microsoft ... and other management services, made $3.89 billion of sales during the quarter, down 7%, IBM said. Its Cloud and Cognitive Software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/dow-jones/202007211155/falling-tech-spending-hurts-ibm-wsj",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T23:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-ibm-works-to-reshape-business-as-coronavirus-uncertainty-lingers.md",
       "title": "IBM Works to Reshape Business as Coronavirus Uncertainty Lingers",
       "excerpt": "International Business Machines Corp.'s earnings declined in the second quarter against the backdrop of a pandemic that has roiled many of its corporate customers. Armonk, N.Y.-based IBM had been searching for growth under new Chief Executive Arvind Krishna after several years of mostly declining revenue under his predecessor,",
@@ -1274,57 +1306,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans.md",
-      "title": "Eighth grader builds IBM Watson-powered AI chatbot for students making college plans",
-      "excerpt": "Harita Suresh, 13, developer of the AI chatbot Rita. Harita ... TensorFlow (up 62%), ChatBots (up 45%), Microsoft Azure (up 38%) are all on the upswing. Udemy's surprise? Bitcoin and cryptocurrency classes gained popularity by fourfold.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/10/f18246a0-d75c-41fd-a7f4-5514fcb4db8a/resize/1200x/545cbe8ab7e80de2653ef37cf6138ed3/harita.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
-      "publishedDateTime": "2020-07-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

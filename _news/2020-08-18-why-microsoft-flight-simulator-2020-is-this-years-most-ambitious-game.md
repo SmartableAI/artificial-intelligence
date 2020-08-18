@@ -62,22 +62,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft Flight Simulator developer Q&A addresses top community questions and concerns"
-    excerpt: "With five days to go until Microsoft Flight Simulator's official PC release, the last development update before the event has now been made available, bringing news on even more deliverables."
-    publishedDateTime: 2020-08-14T00:54:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 81
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594379575_flubberzwans_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
 
 secured: "vePXJuNyc56YxH/jd5767Xhek8XDQdkZbxyRADKJZ+tSfrzGAh8NQTVCdmAyCPb+J60wQsJfTa+zybdycYrucTXh7H3gCOcixAbe4nF0/Zfq3YumognbfumLeILtpKnWJvwUPK6CeCsTr4x8AhEktVVW3KSfmuv/Bo2E9QixAHLGyHClIWnHPLQQJPJnVbBJyQc8RwLu1ah0ONqQf02hLOR4ZtsTcfIgURC8TymTodvBeirrigJsEfpHRdsSoI3+LDEsF5gM75EAkULWcYj9zUda/3h4n68uF9VaqqyusqSr8o/hd7CNDDwhmj9eQcIZl3zw7KEt2ElIrmE+zDJjgA==;TYClCUr6SEk0mSUM9xLewA=="
 ---

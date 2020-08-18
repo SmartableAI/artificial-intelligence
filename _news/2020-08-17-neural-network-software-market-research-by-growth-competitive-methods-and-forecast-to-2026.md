@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T10:54:00Z
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://mms.businesswire.com/media/20200817005260/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Global Artificial Intelligence in Agriculture Market Research Report to 2030 - Growth Opportunities from Developing Countries - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue generated in the global AI ..."
+    publishedDateTime: 2020-08-18T17:19:00Z
+    webUrl: "https://www.oaoa.com/news/business/global-artificial-intelligence-in-agriculture-market-research-report-to-2030---growth-opportunities-from/article_cb9ce5d0-7a05-5970-a3d2-c047f11c3f48.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
 
 secured: "YJIBHH49pBc1ozKOxwvjYSi2sDoktcqR0ZQjxaVYcrmlpS8jnr4orqMjdeI0zER3+L/1ORa79fHhumU1xnTMoF178gd6ZA3jut7HQfQESlNjb6uKMUkK2NIdxFw2Zz1SZtXWk6UIpED5iLcNumyOI6g9Z2LEqOtcUlt+M2hFYCz18bDYEMPLNuDi7KK9IyICITUfCmSsIpEWQO0Nx9SgPLRs9AyMqmfuNpV3GlUVKEk2nehNWJAAG3W9ihejU5e3vpuwlFOOC7yetB8XGMzOr0P0neWJ8MTxxS/6Lx9youcFZSN5005JclhbcZmjnlgrcDPLWrx1yVSZJwNKhAuMLg==;Zmt9CuPOcVrgMId1T8VPGw=="

@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Researchers Use Supercomputing and Machine Learning to Investigate a Dangerous Heart Defect"
-    excerpt: "Coarctation of the aorta (CoA) is a relatively common congenital heart defect that narrows a major artery connected to the heart, affecting thousands of"
-    publishedDateTime: 2020-08-14T00:46:00Z
-    webUrl: "https://www.hpcwire.com/2020/08/13/researchers-use-supercomputing-and-machine-learning-to-investigate-a-dangerous-heart-defect/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 29
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/arterial-blood-flow.jpg"
-        width: 744
-        height: 425
-        isCached: true
 
 secured: "eVHVHxNZ85QwvfIr9RsjOuSnorQIkeeqajiIiE8gQmkONoxdL7m+6GJIKmRz5abojnYEa5ctvRwlKXHFYQ8Sod7LcfPqd2C1rFPkIei+CTRrRIH3A+LoVqeTqJI50KIO5RzP7EwA4iIXC4exahv4b27ZU8JPTIDf0JCHn1KeemBmKzcyX/kEnMUeX4aVo5kpI4u3lijXLjiXpNf5uokpJUEdJVXfsP7WklBv0n/BCKbe9fGR6K8p7i+JO21Jn+ZJ8Rj7QsUJgZCDo8UCyl7FN6K+knKVWU6iHtawlZf6TqLz7cDkn7QedFVxR4mJd001VJsCshtlwgD5msZjCVYgIIw1SCQZSw1KADEjCGFXPEDx7NVZhg1Z4kgk55t50K3hmMlzM3syi78I5CeyF7MYmfT5nxAipesrzPJUOYZqWgZgtTAVslRO4QiD5beppAT/93sncQcFvioRipdNh7KVSPNCnASgO1EKvvRNb5c3NvjKts017TarTkIfsGZ9mjmlvNvfH7pgrqAdjbKqV81iig==;Lu0Q31QLywculqgL9d16qA=="
 ---

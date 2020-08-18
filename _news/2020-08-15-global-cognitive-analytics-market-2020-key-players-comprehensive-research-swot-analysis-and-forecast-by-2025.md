@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Global Cognitive Computing Market 2020 Report Explores Key Regions, Company Profile, Opportunity and Challenge to 2025"
-    excerpt: "Global Cognitive Computing Market by Manufacturers, Countries, Type and Application, Forecast to 2025 offers a much-awaited study on the global market as an honest review of the industry. The report sheds light on insights related to the present scenario of the global Cognitive Computing market and the industry scenario over the forecast timespan from 2020 to 2025."
-    publishedDateTime: 2020-08-16T23:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-2020-report-explores-key-regions-company-profile-opportunity-and-challenge-to-2025-2020-08-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "dyYXKd6ggQABh9HFXD3OKEb0x5+9kn5XAawI6CCP+3I2i6dNp/htaDWSwumNCvJjbwVpUtFcm5Pgwz1LdnoDCaTsqfht9m/9HmEhev9RIGnS+Gadxc32pRaFWdATKBGKz47KOhFdF9GgaS3RdB8A87rYAJSwDdDjr5kIMtQMAH9FiO85RiN5ONlpxW+LMrCZgfiaM9bPmxsKZdYZoXKz2c0827u8nVpYyp+zBY3kXeXcqOE5aKKAB3E50Rnl8maZji8PnvaX5vK5EbaMOukzwg38MtYbQrewL2eLBx7bXPu55h0a7QOhwQDhBghHEfVKHNf1KZC6cx2HgJ2yLhmiOQ==;HzVjTVwcVuMBESH4DfwzMA=="
 ---
 

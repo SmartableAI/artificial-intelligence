@@ -2,6 +2,136 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-29-a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics.md",
+      "title": "A Look At Amazon's (AMZN) Initiatives in the Field of Robotics",
+      "excerpt": "Here’s a look at Amazon’s (AMZN) initiatives in the field of robotics and how it’s becoming an integral part of its supply chain process. Amazon runs more 175 fulfillment centers worldwide. There are different types of robots deployed at its fulfillment centers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
+      "publishedDateTime": "2020-07-29T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human.md",
+      "title": "From vampires to AI, Twilight director Catherine Hardwicke offers a new take on being human",
+      "excerpt": "In Quibi's new sci-fi series Don't Look Deeper, Hardwicke introduces us to a bi-racial teen named Aisha who finds she's an artificial human. The mystery unfolds, 10 minutes at a time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/PdpUjXDlYLgFaMrQwiWd0aSC5AA=/756x567/2020/07/28/943d97c7-37d2-47fa-860c-50d655e4458b/catherine-hardwicke-dont-look-deeper.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
+      "publishedDateTime": "2020-07-29T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-29-scientists-use-ai-to-predict-what-makes-a-successful-relationship.md",
+      "title": "Scientists use AI to predict what makes a successful relationship",
+      "excerpt": "A new AI study led by Western University could provide them with some pointers. The researchers say it’s the first systematic attempt at using machine learning to predict relationship satisfaction. “Satisfaction with romantic relationships has important implications for health,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-29T185605.585-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
+      "publishedDateTime": "2020-07-29T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-leverage-ai-to-optimize-customer-service-outcomes.md",
       "title": "Leverage AI to optimize customer service outcomes",
       "excerpt": "With a more hands-on approach to AI — that is, using the technology to actually augment everyday communications — workers can gain insight into concepts, workflows and ideas that would otherwise go unnoticed.",
@@ -1234,156 +1364,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026.md",
-      "title": "Natural Language Processing Market Segmentation, Research Methodology And Revenue Growth Forecast Till 2026",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 29, 2020 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-segmentation-research-methodology-and-revenue-growth-forecast-till-2026-2020-07-29?mod=mw_quote_news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work.md",
-      "title": "A new AI claims it can help remove racism on the web. So I put it to work",
-      "excerpt": "It was too tempting a challenge. Which site has more problematic pages? FoxNews.com or ESPN.com? You may be surprised.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/11/d4c29a7e-7cdc-4746-80a8-95898573899c/ai.png",
-          "width": 1938,
-          "height": 1258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-ai-claims-it-can-help-remove-racism-on-the-web-so-i-put-it-to-work/",
-      "publishedDateTime": "2020-07-28T19:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-aws-announces-general-availability-of-amazon-fraud-detector.md",
-      "title": "AWS Announces General Availability of Amazon Fraud Detector",
-      "excerpt": "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Fraud Detector, a fully",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-fraud-detector-2020-07-28",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-28T18:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

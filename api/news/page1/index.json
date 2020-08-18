@@ -2,6 +2,146 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-18-amplofly40-now-available-on-microsoft-appsource-and-azure-marketplace.md",
+      "title": "amplofly4.0 Now Available on Microsoft Appsource and Azure Marketplace",
+      "excerpt": "machine learning and design-led strategy necessary to effectively identify, address and achieve their new normal. Brian Bell, Director at Microsoft's Commercial Marketplace, said, \"On Microsoft Azure Marketplace and AppSource, customers around the world ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/ac17142440/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.newswire.com/files/x/26/69/1756aa85fe2bddc31a756e61b382.jpg",
+          "width": 320,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17142440",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17142440",
+      "publishedDateTime": "2020-08-18T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-seattle-startup-vets-raise-13m-for-no-code-workflow-automation-startup-reflective.md",
+      "title": "Seattle startup vets raise $1.3M for no-code workflow automation startup Reflective",
+      "excerpt": "Robotic Process Automation, or RPA, involves systems that use AI to learn and then take over routine and mundane software processes and business workflows from human workers. UiPath is a leading RPA startup and recently raised an additional $225 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/08/reflective-leads-630x365.png",
+          "width": 630,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/amp/",
+      "publishedDateTime": "2020-08-18T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-how-machine-learning-is-driving-new-smart-farming-projects.md",
+      "title": "How machine learning is driving new 'smart' farming projects",
+      "excerpt": "Owen Hughes says a PyTorch-based machine learning system is being used to train 'intelligent' farming machines, which could help farmers save valuable resources. Read more: https://zd.net/3g5g6U1",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-machine-learning-is-driving-new-smart-farming-projects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/08/18/98d3b8f1-e85b-4a80-b8d1-3e1e98d6727b/thumbnail/770x578/d9d427e55bb9c10e44c4830b2a1379fe/20200814-owen-karen-weeds.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml.md",
       "title": "Flipkart signs pact with IIT-Patna for joint research in AI, ML",
       "excerpt": "Walmart-owned Flipkart on Tuesday said it has inked an agreement with IIT-Patna to help create industry-focused applied research in the areas of artificial intelligence (AI ... languages. “At the same time, (it) will ensure that the translation process ...",
@@ -50,7 +190,7 @@
       "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -199,7 +339,7 @@
       "webUrl": "https://www.cnet.com/health/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -481,7 +621,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 264,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -580,7 +720,7 @@
       "webUrl": "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1040,137 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-a-fake-blog-written-by-ai-shot-to-the-top-of-hacker-news-after-people-thought-it-was-real-heres-how-a-college-student-made-it.md",
-      "title": "A fake blog written by AI shot to the top of Hacker News after people thought it was real — here's how a college student made it",
-      "excerpt": "AI text generator, which has shown itself to appear convincingly human under some circumstances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f3a8e3ae89ebf001f0452c3?width=1200&format=jpeg",
-          "width": 750,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp",
-      "publishedDateTime": "2020-08-17T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-microsoft-flight-simulator-is-finally-back-and-the-reviews-are-in.md",
-      "title": "'Microsoft Flight Simulator' is finally back and the reviews are in",
-      "excerpt": "Its latest iteration goes back to the original naming convention of \" Microsoft Flight Simulator ,\" but pretty much everything else about it is shiny and new. The 2020 edition – which is also the first new one since 2014 – gives virtual pilots access to a full planet's worth of skyways.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F08%252F17%252F1e%252Ff7bc72f777f345c4a4a60d886b84fc97.35db3.jpg%252F1200x630.jpg?signature=OdciJ1t1j63J4p3v2fK3hwa06YE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
-      "publishedDateTime": "2020-08-17T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-hearing-sensation-can-markedly-improve-the-perception-of-robots.md",
-      "title": "Hearing Sensation can Markedly Improve the Perception of Robots",
-      "excerpt": "In the so-called first large-scale study of the communications between robotic action and sound, scientists from the Robotics Institute at Carnegie Mellon University discovered that sounds can possibl",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11551",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/news/ImageForNews_11551_15976662335848595.png",
-          "width": 632,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11551",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11551",
-      "publishedDateTime": "2020-08-17T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

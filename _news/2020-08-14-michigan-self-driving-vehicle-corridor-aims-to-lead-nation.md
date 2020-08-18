@@ -8,7 +8,7 @@ ampWebUrl: "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html?AMP"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDTN/c747aa57-ba4f-4af1-9c8b-cc1f530304b0-Upscaled_stills_Highway.jpg?auto=webp&crop=3823,2151,x16,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Michigan will build a city-connecting highway for self-driving cars"
+    excerpt: "Cavnue’s proposed self-driving buses and shuttles would also ferry passengers between a number of smaller stop off points. (Source: Cavnue) Phase one of the project will take place over the next two years and will explore the project’s feasibility on ..."
+    publishedDateTime: 2020-08-18T16:10:00Z
+    webUrl: "https://www.archpaper.com/2020/08/michigan-autonomous-vehicles-corridor/"
+    ampWebUrl: "https://www.archpaper.com/2020/08/michigan-autonomous-vehicles-corridor/amp/"
+    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/08/michigan-autonomous-vehicles-corridor/amp/"
+    type: article
+    provider:
+      name: The Architect's Newspaper
+      domain: archpaper.com
+    quality: 44
+    images:
+      - url: "https://cdn.archpaper.com/wp-content/uploads/2020/08/Upscaled_stills_Highway.jpg"
+        width: 2800
+        height: 1575
         isCached: true
   - title: "Michigan announces plans for Detroit to Ann Arbor self-driving vehicle corridor"
     excerpt: "The state of Michigan Thursday announced a plan to explore the viability of developing a 40-mile corridor for connected and autonomous vehicles between Downtown Detroit and Ann Arbor."

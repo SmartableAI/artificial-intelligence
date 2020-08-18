@@ -2,6 +2,129 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-07-30-how-to-choose-a-data-analytics-platform.md",
+      "title": "How to choose a data analytics platform",
+      "excerpt": "For these reasons, the pipelines that load and process data are critically important in analytics and machine learning. The major public clouds, including AWS, GCP, and Azure, all have data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/ifw_ts_analytics__by-monsitj-getty-images_2400x1600-100851119-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3564537/how-to-choose-a-data-analytics-platform.amp.html",
+      "publishedDateTime": "2020-07-30T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-5-artificial-intelligence-stocks-to-consider.md",
+      "title": "5 Artificial Intelligence Stocks to Consider",
+      "excerpt": "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Then there is Apollo. It is a self-driving platform that powers more than 100 autonomous vehicle types across 17 cities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-consider-2020-07-30",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-consider-2020-07-30?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-consider-2020-07-30?amp",
+      "publishedDateTime": "2020-07-30T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-30-autonomous-cars-five-reasons-they-still-arent-on-our-roads.md",
+      "title": "Autonomous cars: five reasons they still aren’t on our roads",
+      "excerpt": "Read more: Are self-driving cars safe? Expert on how we will drive in the future There are indeed still fundamental challenges to the safe introduction of fully autonomous cars, and we have to ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/350425/original/file-20200730-17-tofe77.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/autonomous-cars-five-reasons-they-still-arent-on-our-roads-143316",
+      "publishedDateTime": "2020-07-30T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-30-machine-learning-and-organizational-change-at-southern-california-edison.md",
       "title": "Machine Learning And Organizational Change At Southern California Edison",
       "excerpt": "The team took all the time needed to get stakeholders engaged. Moore came into the project in the summer of 2018, and he was able to get a machine learning model up and running in a month or so, but presenting it, socializing it, and gaining buy-in for it ...",
@@ -1202,136 +1325,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics.md",
-      "title": "A Look At Amazon's (AMZN) Initiatives in the Field of Robotics",
-      "excerpt": "Here’s a look at Amazon’s (AMZN) initiatives in the field of robotics and how it’s becoming an integral part of its supply chain process. Amazon runs more 175 fulfillment centers worldwide. There are different types of robots deployed at its fulfillment centers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-look-at-amazons-amzn-initiatives-in-the-field-of-robotics-2020-07-29?amp",
-      "publishedDateTime": "2020-07-29T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human.md",
-      "title": "From vampires to AI, Twilight director Catherine Hardwicke offers a new take on being human",
-      "excerpt": "In Quibi's new sci-fi series Don't Look Deeper, Hardwicke introduces us to a bi-racial teen named Aisha who finds she's an artificial human. The mystery unfolds, 10 minutes at a time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/PdpUjXDlYLgFaMrQwiWd0aSC5AA=/756x567/2020/07/28/943d97c7-37d2-47fa-860c-50d655e4458b/catherine-hardwicke-dont-look-deeper.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/from-vampires-to-ai-twilight-director-catherine-hardwicke-offers-a-new-take-on-being-human/",
-      "publishedDateTime": "2020-07-29T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-scientists-use-ai-to-predict-what-makes-a-successful-relationship.md",
-      "title": "Scientists use AI to predict what makes a successful relationship",
-      "excerpt": "A new AI study led by Western University could provide them with some pointers. The researchers say it’s the first systematic attempt at using machine learning to predict relationship satisfaction. “Satisfaction with romantic relationships has important implications for health,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-29T185605.585-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/29/scientists-use-ai-to-predict-what-makes-a-successful-relationship/amp/",
-      "publishedDateTime": "2020-07-29T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

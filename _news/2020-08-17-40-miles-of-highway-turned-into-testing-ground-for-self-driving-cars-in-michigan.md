@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Jaguar Land Rover Cuts That Carsick Feeling in Self-Driving Cars"
-    excerpt: "The automaker believes it has figured out how to cut that nauseated feeling by 60 percent, mainly by making a few changes to ride and lane centering."
-    publishedDateTime: 2020-08-14T00:47:00Z
-    webUrl: "https://www.caranddriver.com/news/a33599429/jaguar-land-rover-reduce-motion-sickness-autonomous-cars/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp33599429/jaguar-land-rover-reduce-motion-sickness-autonomous-cars/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp33599429/jaguar-land-rover-reduce-motion-sickness-autonomous-cars/"
+  - title: "Alphabet-Backed Startup To Build Self-Driving 'Road Of The Future'"
+    excerpt: "A startup called Cavnue will build a first-of-its-kind 40-mile connected corridor in Michigan with dedicated lanes for autonomous vehicles. AV companies are paying more"
+    publishedDateTime: 2020-08-17T20:36:00Z
+    webUrl: "https://www.benzinga.com/news/20/08/17121761/alphabet-backed-startup-to-build-self-driving-road-of-the-future"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17121761"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17121761"
     type: article
     provider:
-      name: Car and Driver
-      domain: caranddriver.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 44
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jlr-motion-sickness-cornering-1597356533.jpg?crop=1xw:0.8888888888888888xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
+      - url: "https://www.benzinga.com/files/images/story/2012/upscaled_stills_highway.png"
+        width: 3840
+        height: 2160
         isCached: true
-  - title: "Self-driving cars: 5 reasons they still aren’t on our roads"
-    excerpt: "Elon Musk thinks Tesla will have fully autonomous cars ready by the end of 2020. That may be wishful thinking."
-    publishedDateTime: 2020-08-14T11:01:00Z
-    webUrl: "https://techcentral.co.za/self-driving-cars-5-reasons-they-still-arent-on-our-roads/100460/"
+  - title: "Self-driving startup finds the middle ground"
+    excerpt: "Most of his counterparts in the self-driving industry chase a moonshot, making enormous efforts to develop systems capable of handling complicated traffic scenarios in an almost-limitless number of areas."
+    publishedDateTime: 2020-08-15T04:00:00Z
+    webUrl: "https://www.autonews.com/technology/self-driving-startup-finds-middle-ground"
     type: article
     provider:
-      name: TechCentral
-      domain: techcentral.co.za
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2020/02/elon-musk-tesla-2156-1120.jpg"
-        width: 2156
-        height: 1120
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/GATIK-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "lcPFZXkoN7CUbfitcuYxADdOpwmOGPKUCN9m2Dz1lLd/whzlB9XRd2O7j+GCKyoZ0g+wy0feiJ/2RxbOyUKu6g+Gotr7xiI5bxoO9ziEsDiVVEgGqpE2twV3EaUqcB7sp95EZAD/BlHjkg/v8ryQ9W3yLmJMgja1O4Mz+pj7gqsDVJzVq7uVUc291DOyhvQUQi36ge1WfjlA729CR8CYDAkM/aBFdFASEFBwEdlwG1XHDOnYzTKPVjzhM+2YAAFAaG69w3VbTUkzmstogus5Y82/eyWOmZQEwMrFApFSdJg1U4Nl/Q6sqDXPIj360TgvG88Z8ykmv7rO8l1DgSYdPA==;DuMWtuar2/J+lXScwSLlZA=="

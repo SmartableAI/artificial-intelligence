@@ -2,6 +2,148 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-08-01-using-machine-learning-to-automate-data-coding-at-the-bureau-of-labor-statistics-bls.md",
+      "title": "Using Machine Learning To Automate Data Coding At The Bureau Of Labor Statistics (BLS)",
+      "excerpt": "Government agencies are awash in documents. Some of them, like Bureau Labor Statistics (BLS), turn to machine learning to help improve and streamline various processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/08/01/using-machine-learning-to-automate-data-coding-at-the-bureau-of-labor-statistics-bls/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25a15e96f17b5412974670%2F0x0.jpg",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-amazons-zoox-acquisition-is-lidar-next.md",
+      "title": "Amazon’s Zoox Acquisition– Is LiDAR Next?",
+      "excerpt": "Amazon and Apple have interests that go way beyond Autonomous Vehicles and have the resources to buy up large LiDAR companies or LUnicorns. They both have significant applications for LiDAR. The competition for good LiDAR companies will intensify over the next 6 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f25a24796857cd70276d476%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D668%26cropY2%3D4606",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2020/08/01/amazons-zoox-acquisition-is-lidar-next/amp/",
+      "publishedDateTime": "2020-08-01T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-01-agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence.md",
+      "title": "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence",
+      "excerpt": "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades.",
+      "sourceUrl": null,
+      "webUrl": "https://roboticstomorrow.com/story/2020/07/agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence/15483/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.roboticstomorrow.com/images/upload/images/Agilox.jpg",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-01T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-01-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in August",
       "excerpt": "Artificial intelligence (AI) is expected to add $15.7 trillion to the global economy by 2030, according to a study by PricewaterhouseCoopers. This huge figure consists of $6.6 trillion in increased productivity,",
@@ -1006,153 +1148,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic.md",
-      "title": "This CTO Says AI Technology Is Transforming The Pharmacy Industry In Time To Battle The Pandemic",
-      "excerpt": "AI technology can help pharmacists improve the speed and efficiency of manually intensive tasks – verifying medication, counting pills and maintaining adequate staff and inventory – while ensuring patient safety and adherence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f22d7618bde96bcd21f8127%2F0x0.jpg",
-          "width": 960,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesmarketplace/2020/07/31/this-cto-says-ai-technology-is-transforming-the-pharmacy-industry-in-time-to-battle-the-pandemic/amp/",
-      "publishedDateTime": "2020-07-31T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-three-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange.md",
-      "title": "Three AI companies join a business development group built by the London Stock Exchange",
-      "excerpt": "The cohort will get help refining their investment pitches as well as access to the group's network of institutional investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/four-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/80f8a384-b6e4-4b6c-84a2-2772265f460f/resize/1200x/df64878ff3f885d95ee20e01cd182572/istock-1148923626.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/four-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/four-ai-companies-join-a-business-development-group-built-by-the-london-stock-exchange/",
-      "publishedDateTime": "2020-07-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-31-ai-generated-text-is-the-scariest-deepfake-of-all.md",
-      "title": "AI-Generated Text Is the Scariest Deepfake of All",
-      "excerpt": "When pundits and researchers tried to guess what sort of manipulation campaigns might threaten the 2018 and 2020 elections, misleading AI-generated videos often topped the list. Though the tech was still emerging,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f2346510a5102775c7122c5/master/pass/Feature-art.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-generated-text-is-the-scariest-deepfake-of-all/amp",
-      "publishedDateTime": "2020-07-31T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

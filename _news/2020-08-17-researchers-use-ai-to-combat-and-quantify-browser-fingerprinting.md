@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Researchers Use Supercomputing and Machine Learning to Investigate a Dangerous Heart Defect"
-    excerpt: "Coarctation of the aorta (CoA) is a relatively common congenital heart defect that narrows a major artery connected to the heart, affecting thousands of"
-    publishedDateTime: 2020-08-14T00:46:00Z
-    webUrl: "https://www.hpcwire.com/2020/08/13/researchers-use-supercomputing-and-machine-learning-to-investigate-a-dangerous-heart-defect/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 29
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/arterial-blood-flow.jpg"
-        width: 744
-        height: 425
         isCached: true
 
 secured: "NhE4O+21xwBVAqXOLl6IWn4XgF5GNZBwLXpum7MaHrK3aQzrB1Kmfdmv0p0tiBbIDCBDQ+UlZxv8dWMXYNoc2PRy45zd1L2ghcGdkbNuSRUvg6p5Wdwt9lGA+vRyU6/t0Esl2DxHXPBluSssOxNPczhIUehA3UCamQc3Bay2lLFm2SIaoEbVgV7/9rn+OjNEdoDXzxWXZ4gWn77ICnolg564djw1DU60m4W3BF86RQG/dQ+RQxtASZNDTn+B8Le7jXl0Z1Ej160DzSKT6EUzAsALsSobC92Br4fDCW94XG7292gOIGGnMTC/9OenElHQTAYx4H5TY7qjjVVIrwx1ObOh+fZyIE4gbwVeqnIglx9gSXIHskb9mACutUqm4hB1633/vtG0pzyw4sbVtSKUsjfyCADyx2aelEecu90GS7SRd8ZUUh8YVtBzwoH9V7YL/LF5usKKJQRLO07ChnCd+W1RqBwkJ9bNS/20joumTMqHJ1NOnaLO+Ci69yxVfHK/;7WTRDb4rK6in8z40tDmc4w=="

@@ -2,6 +2,128 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-07-06-myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts.md",
+      "title": "Myriad Partners OptraHEALTH For AI-Based Information Tool Gene - Quick Facts",
+      "excerpt": "Molecular diagnostics company Myriad Genetics, Inc. (MYGN) announced Monday a new collaboration with AI platform OptraHEALTH to implement a cognitive ChatBOT named Gene to provide pre-test genetic and financial assistance information to prospective patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp",
+      "publishedDateTime": "2020-07-06T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis.md",
+      "title": "Sentieo Drives Improved Sector Investment and Competitive Strategies With New Machine Learning-Driven Analysis",
+      "excerpt": "This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,” said Naman Shah, Co-Founder & President, Sentieo. “Using our leading deep learning models,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change.md",
+      "title": "Neural Network Software Market Report (2020 to 2025) – COVID-19 Growth and Change",
+      "excerpt": "The Neural Network Software Market is expected to exceed more than US$ 22.55 Billion by 2024 at a CAGR of 33.2% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials.md",
       "title": "Learn PyTorch: The best free online courses and tutorials",
       "excerpt": "Look no further than these excellent free resources to master the development of deep learning models using PyTorch",
@@ -1023,159 +1145,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis.md",
-      "title": "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis",
-      "excerpt": "Artificial Intelligence and Machine Learning Market ” Global Report (2020-2026) provides market intelligence on the different segments based on type, application and geography. Market size and forecast has been provided in terms of both,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis-2020-06-23",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-baidu-to-ramp-up-investments-in-cloud-computing-artificial-intelligence.md",
-      "title": "Baidu to Ramp Up Investments in Cloud Computing, Artificial Intelligence",
-      "excerpt": "Baidu (NASDAQ:BIDU) is making a big push into cutting-edge IT segments. The company announced Thursday that it will be allocating more capital to investments in developing corners of the market, particularly artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580974%2Fa-person-using-a-personal-computer.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Baidu to Ramp Up Investments in Cloud Computing, Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx",
-      "publishedDateTime": "2020-07-03T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "A processor and Himax AoS sensor. With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers to develop their NN based edge AI applications targeted for Notebook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers-2020-06-30-6184054",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

@@ -7,8 +7,8 @@ webUrl: "https://saportareport.com/emory-students-win-amazons-alexa-prize-for-ar
 ampWebUrl: "https://saportareport.com/emory-students-win-amazons-alexa-prize-for-artificial-intelligence-social-companion/amp/"
 cdnAmpWebUrl: "https://saportareport-com.cdn.ampproject.org/c/s/saportareport.com/emory-students-win-amazons-alexa-prize-for-artificial-intelligence-social-companion/amp/"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://saportakinsta.s3.amazonaws.com/wp-content/uploads/2020/08/alexa_team.jpg"
@@ -25,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "9p4EE5UeGhCkmyfb/ZlE4jRRWNcqsAbkGyHoxcLxNrn8BoaTDWAtJApnjXDxzruolwso5YeMpVeJ1nRmaXggJ436ZBBoqv4BSfBWm2rYuGrLFgt4VzY2lbyiryTDEGyB2marItMEvAXz3w1f9x0OKWwqlxShBBQ5lEbCQ9j/+qkItzki3pDwBU6vRNEBJrE7LFpUfThf0Aqd83SibMKUGTRIfuCmnjWW0wGBJntRFYmLJbJrPHma/6bUblMUW8mv50cfDRiChrTQYb0Xl6vylsTU1e3aOgeDoA/82vahlsqYwJ6eMCXU8ThtbVmncK72hEThGucBFCwqxAH75fr9YA==;nNNQkZJSAfxeJFt2wXJilg=="
+secured: "uriBVbxebC/Gd2FJUPw2xTkgtgqhKwdQ2svhO0FWx9xzjz74UII5GsN+RMHBvDbPx55fIw/mkKuo7RKZkpWSli9BbOGXX6ZbBDeeg9+dKsdUGD/6Btr92rThNpG/zt5cnHJBAYDdomXyQNoUb3i6HG02qDQlj/2kOCePZl2ElohgyBL0O2nB2ceuZJ+havaZ+Dfy0wvfpRrhpTq08+85fZNIm/BBMXpmX9XMRe/JYYFmj8a97UzVjBro12hToHp6SjxKm1/cCvayX+XLvOS6BhPPkgtXqnjOQQO2yrV0F3uqWyhoexj+ylu+ZP8blOYLvBFVN3zhR+K8FkCmaH8k/JVV0PQTFiDt8d/ORZWeVrNLz86FbxGV/nUK77cUnDC4m4l2puqm3999fFtKX2CwE/HIpCrc67MVD4IZpiugz+TZdm1Ujb5mZGU7Y7qblAT92L4y4SICGTspJqKHtHWqxtltMbQ/eT1hERU357cZboG48iOl3bVJ17OUb4sFcXF0u0jfef5OjAo79393ktWV1A==;d48VnAn8Sgxrje2izjpx5w=="
 ---
 

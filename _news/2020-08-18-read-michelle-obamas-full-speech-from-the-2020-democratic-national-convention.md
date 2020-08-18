@@ -266,6 +266,22 @@ related:
         width: 708
         height: 405
         isCached: true
+  - title: "‘VOTE’ necklace by L.A.-based jeweler tops Google search during Michelle Obama’s DNC speech"
+    excerpt: "The opportunity to have Obama select a piece from a less well-known fashion line often means instant global recognition for the designer. Many iconic looks worn by Obama sell out, sometimes within ..."
+    publishedDateTime: 2020-08-18T16:54:00Z
+    webUrl: "https://ktla.com/news/local-news/vote-necklace-by-l-a-based-jeweler-tops-google-search-during-michelle-obamas-dnc-speech/"
+    ampWebUrl: "https://ktla.com/news/local-news/vote-necklace-by-l-a-based-jeweler-tops-google-search-during-michelle-obamas-dnc-speech/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/vote-necklace-by-l-a-based-jeweler-tops-google-search-during-michelle-obamas-dnc-speech/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 34
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/08/GettyImages-1266882695.jpg"
+        width: 5120
+        height: 2880
+        isCached: true
   - title: "Michelle Obama's DNC speech: read it in full"
     excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
     publishedDateTime: 2020-08-18T15:52:00Z
@@ -317,6 +333,6 @@ related:
         height: 892
         isCached: true
 
-secured: "HlHiDZeT85NDId2J9hghhxxNsqsw9v3/gZ92aQwp6176eCa4Eq1EyRGIlzB20T4OOmJ3YE2pxaEJ7J9oAqsEzp3gzu0iHbGsp9q3GL/KhQBC09uFmCL1/l4tHIerxgJKqMECSbYliI2mQMafxHp6DF2CLvrEZp8Idx7M2yjrCMyqvdNU3lFoqAUlpcZSw6KL+X2pV3/TAjTpZhlgfhsY1YcUetqFLIvtH7rH2LjOOQaorhgQFhm+ZIucQOtmlRbVTqTJ4RIEf5fuyRBhkIWtE097d8IFnA9OxWlEUbUgQ6jH/GTOs706hnUqF6h4lgzrB1MxdevW9l90TETbgap1dw==;MbWlsUUNdBDH+hgTSyHbSg=="
+secured: "XSa9sn0zEcqhIL/K4jYoWM3KP7ZwUlveMjmOk2Cmr7KNzMU7EssoCY+9NrhdfEqbhXVXldxftuPWf91iwrxU9z/ljPZ/Bjum3Hq6+W4hw7LNP2DASo1MFCTj0bQdagBm2RL/whA60qrfY+N8B97FrlRecx7DGDeZnzSTefqtl0NR7t1JbblvsAWVruaLpPIN4rHPpqlFQkp0iRwlViDKDHCqD+cuNzaRwzVf6GYNpRkOBl0LoMCIPVeJM6Yfn5TanhI28st72bscWwFDZKYpjwJxZWbIZTo80pnP0e5Z2kFtlyHOCXnLfThoMrCCJgh+pwqH/FSx4KJpY0GN+kuUzBq18B/pblCQu2EXkLbuB8FzvazmSUqf2819w6/UpbpQuYahSvRCy8w/dtgqr2/gWIHE5lQOWXapAh07JunozDVqyhcrFl0abuBBeM/HCve4/eWNDdITntZFUzc1QrwUjuw3WTznLdWvLTePIaWPxXc9s2e6XJHj8c/pvOWzy3qzSFxMAim6cD/GAo8ZDlNWGw==;Wuth+96AXDkCIOSYq5P7hw=="
 ---
 

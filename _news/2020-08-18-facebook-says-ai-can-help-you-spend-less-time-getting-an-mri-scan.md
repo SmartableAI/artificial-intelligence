@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-s
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,31 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Facebook And NYU Using AI Research To Make MRI Scans Faster, Simpler"
+    excerpt: "The project, titled fastMRI, pairs the resources of Facebook’s artificial intelligence research (FAIR) team and radiologists at NYU’s Langone Health to create machines that can produce MRI results with less data. The two teams have reported teaching an ..."
+    publishedDateTime: 2020-08-18T16:16:00Z
+    webUrl: "https://www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369"
+    ampWebUrl: "https://www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/08/28/mri-scan.jpg"
+        width: 1200
+        height: 814
+        isCached: true
+  - title: "AI can speed up MRI scans, shows Facebook study"
+    excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
+    publishedDateTime: 2020-08-18T16:37:00Z
+    webUrl: "https://www.sify.com/finance/ai-can-speed-up-mri-scans-shows-facebook-study-news-topnews-uisq5fdaacjcc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "H4h8OUvougFupD0zzqnPCatX0XmRU5Fear8OquXS0go8hFjiF24AwCV5SyMjANy93y8CrKbroi6vUJMKHR0AxW+cGYjI9KiSB5osxRotHWwqCZwGFfZjfepZgWp+QYu0tIXjMZdZLyRpYD+oNoD5Rgh0Jj6UDkOg8JzgDa8KR6A7viy5niejwOmzjvmvPgAhL513qOtfZUJMPwnXrp9oPc5o0DU+HLgkYWI6TPJc2MyfS1pwIUoJZwTHvLDiPCRd4gov3TOoQJhWAGQQ3E8qjw+rguiPQCdwaJ2BN7fdXMK664vSQXD5/92S7DQyv7K1XO9PV5ewQpNXF5mMZwpAMpqBHwVXR2WrrBI+CmlcsLdyjd/6Jt5plIn7vIsuNRB0TUM4wjhX5gi4Tdw+sZHpGkbXUT9xZ5RIHryvDUTdtLJBvjVrvQVi67HxtVgvHyx850HF1RnPVpfcwbXENhimSma3gppRg0UQvKoVATiUp5Fq+f6f8LUUPiYulu/Y9jesNGYTkcOIhYV6y7lzklcUDQ==;HOCxuhelUKxdRPrYGYYmRQ=="
 ---

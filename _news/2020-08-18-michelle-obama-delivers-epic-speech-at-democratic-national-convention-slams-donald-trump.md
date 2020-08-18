@@ -266,6 +266,22 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "‘VOTE’ necklace by L.A.-based jeweler tops Google search during Michelle Obama’s DNC speech"
+    excerpt: "The opportunity to have Obama select a piece from a less well-known fashion line often means instant global recognition for the designer. Many iconic looks worn by Obama sell out, sometimes within ..."
+    publishedDateTime: 2020-08-18T16:54:00Z
+    webUrl: "https://ktla.com/news/local-news/vote-necklace-by-l-a-based-jeweler-tops-google-search-during-michelle-obamas-dnc-speech/"
+    ampWebUrl: "https://ktla.com/news/local-news/vote-necklace-by-l-a-based-jeweler-tops-google-search-during-michelle-obamas-dnc-speech/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/vote-necklace-by-l-a-based-jeweler-tops-google-search-during-michelle-obamas-dnc-speech/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 34
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/08/GettyImages-1266882695.jpg"
+        width: 5120
+        height: 2880
+        isCached: true
   - title: "Michelle Obama's DNC speech: read it in full"
     excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
     publishedDateTime: 2020-08-18T15:52:00Z

@@ -46,7 +46,32 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Facebook And NYU Using AI Research To Make MRI Scans Faster, Simpler"
+    excerpt: "The project, titled fastMRI, pairs the resources of Facebook’s artificial intelligence research (FAIR) team and radiologists at NYU’s Langone Health to create machines that can produce MRI results with less data. The two teams have reported teaching an ..."
+    publishedDateTime: 2020-08-18T16:16:00Z
+    webUrl: "https://www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369"
+    ampWebUrl: "https://www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-nyu-using-ai-research-make-mri-scans-faster-simpler-3030369?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/08/28/mri-scan.jpg"
+        width: 1200
+        height: 814
+        isCached: true
+  - title: "AI can speed up MRI scans, shows Facebook study"
+    excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
+    publishedDateTime: 2020-08-18T16:37:00Z
+    webUrl: "https://www.sify.com/finance/ai-can-speed-up-mri-scans-shows-facebook-study-news-topnews-uisq5fdaacjcc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
-secured: "jEKdl1Da0/pGQlNckv3fN9BAz+QOpFCTwLLADp2uKKkvjxWZ8+03NPOb9/4nRwQWwVtSzhk1FPoDVv7LSj5MqEU+RALVC8+2o9wyMGtSyXYovDm2PN7cVb9/hstCNywQdiriA4DLIDa02v9xygyCQGzEoW5Y7fnAeqLTJe3uqMsJ8z7IBuX/OpGTVFN0eZ+21FQi2KdKf6qfYxAcy1wmbRwdxkA07GmQ/TaZKByyQ7hQOb3lhkds6+V6TYNVQvw05rRAQVhaWejL46z1z/CPVdM7ACNJ8BEGgLOaxkjiiXlMQgYMiUuvUjMwG1MKYklJ8XOvumS+UEpviuB/EGiIyg==;B0RcEiOhGU5Or+jHnzNR9Q=="
+secured: "GTucw1AETqg08hfdcUjQK4hrh23M0t0HCT2gfp95HIkRPn4jiuYhUGxez9T0Luljp4dbKmkPLSpK3xpZGA3GQd4StYRbRwSUrOjr17EpSZlcLlk57cVpyFb+R409zBjCdkrFfZJpdnK/yNMDTGFx4MwtoXnMeieZ9riqMshmj27AXBUT0FHYdSWjxGRn2aLyH0xnXAE7MHQzEII6gNQFRkhJm4bbzjH4dfUM76wbAJhNDIOZNgMfYp+XkF+H5wC0swW2U72iQrhTxummkZDd57QSNTWzQCjLe+yOTcrB1xujV5ILLJVZOPLPIHNgEwbw5Dm/xeS/7BphQBl1pGOrMzS1sVMw63UeZ8XGpKNTHCVAgtNXF4h1sfnkhjPRYbmePnmYRudoHbuod/mXjLv7NRsCdCerq1ZmJpkvoHDOI51xSHFYB2la4nk+ZX+TLXri30OGumVuMjOBkok6LmKE0K4/hWIMROXgVCxgtRWEz7YgMYuGgpdbgtIb/m0Cgy9hofIslAnuXWbYIrd8lfxBRg==;M1h1M3tCldeHbhchZf0ptA=="
 ---
 

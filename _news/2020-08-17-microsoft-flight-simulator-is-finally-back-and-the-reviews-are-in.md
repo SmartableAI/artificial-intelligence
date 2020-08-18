@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/microsoft-flight-simulator-2020-review-
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/08/ezgif-4-6790f152bc53.gif"
         width: 800
         height: 450
-        isCached: true
-  - title: "Microsoft Flight Simulator developer Q&A addresses top community questions and concerns"
-    excerpt: "With five days to go until Microsoft Flight Simulator's official PC release, the last development update before the event has now been made available, bringing news on even more deliverables."
-    publishedDateTime: 2020-08-14T00:54:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-flight-simulator-developer-qa-addresses-top-community-questions-and-concerns/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 81
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594379575_flubberzwans_story.jpg"
-        width: 760
-        height: 428
         isCached: true
 
 secured: "Q3jj0QFVfYBWLpjQFsmx+i3yKbEgs2W0xx4AYvRV6Rlpcl3bMScwat7fIjWsVlZMBk6lt81s13onDZnZLH4ey4Y8W/xMIc6+v91HnojpWPe1s2c7mFbcibW2Pr1GyFb9yhBvHcd0hpP5DKmbEEnuFrhj3UNNij2WIO8SHrF8i8fQ1jvlgTDDuNHDIXfmvefhjMtNb3ACFidTYW/rpFwSdZv8HOeT3J0OytKWl7k2LdZtnqYnSN4qRpEY4KM2tFb7w7t5ZHimuNflCxsSt6WOdfg7zD8ug+GfRx9PUa2dyvt7P/yAi9HBvCJ+dOmZoeEZX/T+Tvy4gVeTFyIRn/cUDg==;UiwThq8sLyw86UfmwWlKTw=="

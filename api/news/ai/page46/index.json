@@ -2,6 +2,146 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-07-06-questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model.md",
+      "title": "Questex Enters the Artificial Intelligence Information Market, the First Market to Launch through New Fierce Model",
+      "excerpt": "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI) has never been more promising. Questex today announces it has entered the AI marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model-1029369811",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats.md",
+      "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
+      "excerpt": "The snag is that most CIOs don’t have experience with this form of intellectual property. Trade secret protection doesn’t require CIOs to share details about the methods they use, which is a must-do for patents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef74817accb250006e7ba56%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
+      "publishedDateTime": "2020-07-06T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest.md",
+      "title": "Self-Driving Cars Just Took a Big Leap Forward (Here’s How to Invest)",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Source: Shutterstock When Amazon (NASDAQ:AMZN) drops over a billion dollars",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600e.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
+      "publishedDateTime": "2020-07-06T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores.md",
       "title": "Ximpatico Launches Kickstarter Campaign for Nabot, the Robot That Does Chores",
       "excerpt": "Introduction of Nabot Nabot is a programmable robot that can autonomously perform tasks such as sanitizing packages, mopping the",
@@ -1234,146 +1374,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic.md",
-      "title": "Why AI Continues To Deliver Results In A Pandemic",
-      "excerpt": "AI-at-scale leaders continue to make progress on their AI initiatives at the same pace as before the Covid-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0100437185870006e1613d%2F0x0.jpg",
-          "width": 1200,
-          "height": 571,
-          "title": "Why AI Continues To Deliver Results In A Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
-      "publishedDateTime": "2020-07-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles.md",
-      "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
-      "excerpt": "Volvo and Waymo will integrate Waymo's self-driving tech into an all-new mobility focussed electric vehicle architecture",
-      "sourceUrl": null,
-      "webUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gaadiwaadi.com/wp-content/uploads/2020/06/Volvo-and-Waymo-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
-      "cdnAmpWebUrl": "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
-      "publishedDateTime": "2020-07-05T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gaadiwaadi.com",
-        "domain": "gaadiwaadi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths.md",
-      "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
-      "excerpt": "Will AI hold up a mirror to society forcing us to look not only at how we treat beings unlike us but also how we interact with and treat one another? Is the future of artificial intelligence, human-like robots?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f01c255daf7940006393a4f%2F0x0.jpg",
-          "width": 1199,
-          "height": 725,
-          "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/amp/",
-      "publishedDateTime": "2020-07-05T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

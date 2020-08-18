@@ -2,6 +2,137 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-17-a-fake-blog-written-by-ai-shot-to-the-top-of-hacker-news-after-people-thought-it-was-real-heres-how-a-college-student-made-it.md",
+      "title": "A fake blog written by AI shot to the top of Hacker News after people thought it was real — here's how a college student made it",
+      "excerpt": "AI text generator, which has shown itself to appear convincingly human under some circumstances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f3a8e3ae89ebf001f0452c3?width=1200&format=jpeg",
+          "width": 750,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp",
+      "publishedDateTime": "2020-08-17T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-microsoft-flight-simulator-is-finally-back-and-the-reviews-are-in.md",
+      "title": "'Microsoft Flight Simulator' is finally back and the reviews are in",
+      "excerpt": "Its latest iteration goes back to the original naming convention of \" Microsoft Flight Simulator ,\" but pretty much everything else about it is shiny and new. The 2020 edition – which is also the first new one since 2014 – gives virtual pilots access to a full planet's worth of skyways.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F08%252F17%252F1e%252Ff7bc72f777f345c4a4a60d886b84fc97.35db3.jpg%252F1200x630.jpg?signature=OdciJ1t1j63J4p3v2fK3hwa06YE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp",
+      "publishedDateTime": "2020-08-17T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-hearing-sensation-can-markedly-improve-the-perception-of-robots.md",
+      "title": "Hearing Sensation can Markedly Improve the Perception of Robots",
+      "excerpt": "In the so-called first large-scale study of the communications between robotic action and sound, scientists from the Robotics Institute at Carnegie Mellon University discovered that sounds can possibl",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11551",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/news/ImageForNews_11551_15976662335848595.png",
+          "width": 632,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11551",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11551",
+      "publishedDateTime": "2020-08-17T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19.md",
       "title": "The meatpacking industry is an incubator for AI, automation, and COVID-19",
       "excerpt": "As the pandemic stretches on, the threat to meatpacking, meat processing, and distribution center employees has researchers seeking a new production model.",
@@ -397,7 +528,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1040,156 +1171,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
-      "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
-      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-14T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-white-house-aims-to-boost-funding-for-ai-and-quantum-tech-by-30-in-2021.md",
-      "title": "White House Aims To Boost Funding For AI And Quantum Tech By 30% In 2021",
-      "excerpt": "By committing to invest $2.2 billion next year, the Trump administration says it is on track to honor a pledge to roughly double non-defense R&D spending on the two key technologies between 2020 and 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3725560f3c747c3e65fc5f%2F0x0.jpg",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
-      "publishedDateTime": "2020-08-14T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-clearview-ai-landed-a-new-facial-recognition-contract-with-ice.md",
-      "title": "Clearview AI landed a new facial recognition contract with ICE",
-      "excerpt": "The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trump administration’s harsh",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-992931802.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
-      "publishedDateTime": "2020-08-14T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/ac17142440/amplofly4-0-now-available-on-microsoft-appsource-and-azure-marketplace</loc>
+    <lastmod>2020-08-18T10:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/</loc>
+    <lastmod>2020-08-18T09:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/video/how-machine-learning-is-driving-new-smart-farming-projects/</loc>
+    <lastmod>2020-08-18T08:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/</loc>
     <lastmod>2020-08-18T07:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -883,14 +901,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php</loc>
-    <lastmod>2020-08-11T07:58:00-07:00</lastmod>
+    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
+    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
-    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
+    <loc>https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.html</loc>
+    <lastmod>2020-08-11T07:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,6 +2,156 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-08-15-ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast.md",
+      "title": "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-14T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-15-white-house-aims-to-boost-funding-for-ai-and-quantum-tech-by-30-in-2021.md",
+      "title": "White House Aims To Boost Funding For AI And Quantum Tech By 30% In 2021",
+      "excerpt": "By committing to invest $2.2 billion next year, the Trump administration says it is on track to honor a pledge to roughly double non-defense R&D spending on the two key technologies between 2020 and 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3725560f3c747c3e65fc5f%2F0x0.jpg",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/",
+      "publishedDateTime": "2020-08-14T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-14-clearview-ai-landed-a-new-facial-recognition-contract-with-ice.md",
+      "title": "Clearview AI landed a new facial recognition contract with ICE",
+      "excerpt": "The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trump administration’s harsh",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-992931802.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/",
+      "publishedDateTime": "2020-08-14T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-08-14-how-facebooks-yann-lecun-is-charting-a-path-to-human-level-intelligence.md",
       "title": "How Facebook’s Yann LeCun is charting a path to human-level intelligence",
       "excerpt": "Facebook's chief AI scientist Yann LeCun told TNW about the latest work at FAIR, the social network's research lab.",
@@ -296,7 +446,7 @@
       "webUrl": "https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1028,147 +1178,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-aws-announces-general-availability-of-amazon-braket.md",
-      "title": "AWS Announces General Availability of Amazon Braket",
-      "excerpt": "AWS announced general availability of Amazon Braket, a fully managed AWS service to help organizations get started with quantum computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200813005776/en/812634/4/Amazon_Braket_Console.jpg?download=1",
-          "width": 480,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-blaize-ai-now-in-production-and-trials.md",
-      "title": "Blaize AI: Now In Production And Trials",
-      "excerpt": "What did Blaize announce? Blaize (formerly Thinci) previewed its Graph Streaming Processor (GSP) chip and Picasso software last fall when the company rebranded itself. The recent announcements disclosed availability (sampling now),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f35a10dd692e5ab13c02295%2F0x0.jpg",
-          "width": 1199,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/",
-      "publishedDateTime": "2020-08-13T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-amazon-launches-braket-quantum-computing-service-in-general-availability.md",
-      "title": "Amazon launches Braket quantum computing service in general availability",
-      "excerpt": "Amazon today launched its fully managed quantum computing service -- Braket -- in general availability following a preview.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
-      "publishedDateTime": "2020-08-13T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
