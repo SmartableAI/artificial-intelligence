@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-16T21:40:00Z
 webUrl: "https://www.news-medical.net/?tag=/Tomography"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 310
     height: 240
     isCached: true
-
-related:
-  - title: "Hospital News and Research"
-    excerpt: "A software-based on artificial intelligence (AI), which was developed by researchers at the Eye Clinic of the University Hospital Bonn, Stanford University and University of Utah, enables the precise assessment of (GA),"
-    publishedDateTime: 2020-08-13T18:54:00Z
-    webUrl: "https://www.news-medical.net/?tag=/Hospital"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 24
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2017%2f1%2fAMBULANCE_shutterstock_459995515_3e68759a2ae241e59a5798e360dfed56-310x240.jpg"
-        width: 310
-        height: 240
-        isCached: true
 
 secured: "3862kPm4WKJANSdQLSImYtIynr41b0AD8xWm2RGOMSS8Q2FEgktBMwvsLBdB+YOnO1Hb0GY5G1e6pckcfJXZLF6j0ZLqmvS5LZBf4e7vaQfPL+JO1sW3pM+qqMRxPb03+/iM1mAv+d/8ws9l0bdTgOkHXj+S4OEzDGFM33gFbInftm3Eny86a6cTXZ1Zx2XSM5pJ/CH1SOwu1bxHMtjHuXRUOYSl4/WbJQMRD051oPkUQwmDTTbY+jpwySFwQhb96q3y+JNYF7tuUFlzAmwDzYMC7opV0acNxdpqt9ybThjWiPXnDZ3VA6kTc3WeJh9zzkaFxtJDYgs6rvuBVIHLgA==;WkYqdf0+/vSupv85SHB9RQ=="
 ---

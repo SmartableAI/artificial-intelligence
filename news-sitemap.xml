@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873</loc>
+    <lastmod>2020-08-18T02:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness</loc>
     <lastmod>2020-08-18T00:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -313,12 +319,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.newindianexpress.com/business/2020/aug/14/airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation-2183387.html</loc>
-    <lastmod>2020-08-14T02:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence-2020-08-13</loc>
     <lastmod>2020-08-14T02:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -601,14 +601,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels/</loc>
-    <lastmod>2020-08-12T10:54:55-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/industrial-ai-solutions-startup-makinarocks-raises-10m-in-series-a-1029497922</loc>
+    <lastmod>2020-08-12T11:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR%2520Newswire/255ee2302c213ba96fb3353c0515b813</loc>
-    <lastmod>2020-08-12T10:00:00-07:00</lastmod>
+    <loc>https://aws.amazon.com/blogs/machine-learning/training-a-custom-single-class-object-detection-model-with-amazon-rekognition-custom-labels/</loc>
+    <lastmod>2020-08-12T10:54:55-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1123,7 +1123,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-governance-market-seeking-excellent-growth-ibm-google-facebook-2020-08-10?tesla=y</loc>
     <lastmod>2020-08-09T21:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

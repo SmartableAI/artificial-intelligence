@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-18-iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml.md",
+      "title": "IIT Patna, Flipkart partner for joint research in AI and ML",
+      "excerpt": "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_776851092.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "publishedDateTime": "2020-08-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-artificial-intelligence-ai-in-education-market.md",
       "title": "Artificial Intelligence (AI) in Education Market",
       "excerpt": "Artificial Intelligence (AI) in Education Market Global Report 2020-26: Covid 19 growth and changes in its research report store. It is the most comprehensive report available on this market and will help gain a truly global perspective as it covers 60 ...",
@@ -9,7 +50,7 @@
       "webUrl": "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -50,7 +91,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -100,7 +141,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -497,7 +538,7 @@
       "webUrl": "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -620,7 +661,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -801,7 +842,7 @@
       "webUrl": "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1362,47 +1403,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership.md",
-      "title": "DBS Bank looks to train 3,000 employees in AI with AWS partnership",
-      "excerpt": "Singapore bank will run online tutorials for DBS employee to pick up fundamentals of artificial intelligence and machine learning, so they can eventually programme their own autonomous race car for the AWS DeepRacer league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "publishedDateTime": "2020-08-16T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

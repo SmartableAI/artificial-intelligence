@@ -42,6 +42,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate"
+    excerpt: "The trade group representing many of the largest technological security companies is urging regulators not to overreach on facial recognition restrictions even as U.S. lawmakers push to rein in police use of the software. The Security Industry Association ..."
+    publishedDateTime: 2020-08-18T11:36:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate?srnd=code-wars"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iogtWuFQpWGA/v1/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "NYPD used facial recognition to track down Black Lives Matter activist"
     excerpt: "Photo by Ira L. Black - Corbis/Getty Images The New York City Police Department used facial recognition software to track down a Black Lives Matter activist accused of assault after allegedly shouting into a police officer’s ear with a bullhorn."
     publishedDateTime: 2020-08-18T09:29:00Z

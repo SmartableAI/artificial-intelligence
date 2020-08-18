@@ -46,6 +46,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate"
+    excerpt: "The trade group representing many of the largest technological security companies is urging regulators not to overreach on facial recognition restrictions even as U.S. lawmakers push to rein in police use of the software. The Security Industry Association ..."
+    publishedDateTime: 2020-08-18T11:36:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate?srnd=code-wars"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iogtWuFQpWGA/v1/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
     excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
     publishedDateTime: 2020-08-15T14:57:00Z
@@ -161,6 +177,6 @@ related:
       domain: thetimes.co.uk
     quality: 19
 
-secured: "Dbhvv6NdKp9DObPkhYgbRlev5R69KhyZTN9Rb1D1Qm7WzYK8e7E37MVulK0Tw2y6IRKe5zO36Rm+Bjsu+0cdQEVRET7B0NtkWxxrdGLsSNmHOIj5mAKzZRWmMZQ6HSg9AB6tylN2v4wZkV8BytzVZ755eF6WwlDwnX9o6eBLQGJLS7mTYFkIL0DLJx1jyDccLY0C/DMt3aDry6h8wyTEYiUstHAri0XcwdAzePewgrewmUYmEmsaQY+t7Ym39dTmzPqYaRLR4/pifPuQtuUXiqyIBhpiULCGnDwDLbEleLgxKEXaV5DySsbus5YoFZBwDwlK1HY2wjvKOSGV9uOq+w==;4f1kFKAd1JafUpNdqpW/LA=="
+secured: "tEzIBY+p0ve82jWlN7h2mwrcnzNDOL/Ws30LJo5iDn4u6/+HuLnk5Izyv34DXeqKcduIWCGys+7BZW3WT99oy8KwslS1Niu2fo4/MnGh1m0NFLnigZyamEmVU7vY/beulghvR12vRveqemi1ZUq4u0WiLmviheY+3MOdNqRIBZqxOPa7tA9ZZSKJwMTUg0l/bayqr6CDR4P1xucEG/NsGIGNJmZcz/ty4SF5Ru+COG8qFnAmvlqpNLcT4A1/SOWqTIYd6yBhO+d0J1AU5403nQLJoJqWYaKtUp809I2MnVB4tL6eLl3qTeXDY4IXTN/ifQjrQgg7hi68igI8VD8TLu1u1BaoXg1FUhMsp3zwfMWyRY0qSlNL8gftq237+DMqtOFk+Dc3x9Zo/vgBA6P1QybwARMd8GOWqDsGlKmVu5M9HYKkC+gMlTsw+MizjMItpTMt6pfuJR0YJY7ZVk3P7IgzAJhYkqd5EaeBcLl7itA/cecz7FSRvRGD3KFzoL4wAJK+/vo1KElLFhhU2ZSmYA==;wf+wsbU/z807HD5RB5EKLw=="
 ---
 

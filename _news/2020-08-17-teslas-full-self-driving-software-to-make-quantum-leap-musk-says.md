@@ -42,6 +42,22 @@ related:
         width: 923
         height: 651
         isCached: true
+  - title: "Tesla is working on HW 4.0 self-driving chip with TSMC for mass production in Q4 2021, report says"
+    excerpt: "Tesla is working on HW4.0 self-driving chip with semiconductor company TSMC with a timeline for mass production in Q4 2021, according to a new report coming out of China. Back in 2016, Tesla ..."
+    publishedDateTime: 2020-08-18T10:05:00Z
+    webUrl: "https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/"
+    ampWebUrl: "https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 75
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-computer-hardware-3-e1564566732949.jpeg?quality=82&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Elon Musk: Tesla Full Self-Driving is going to have ‘quantum leap’ w/ new rewrite, coming in ‘6 to 10 weeks’"
     excerpt: "Elon Musk says Tesla’s Autopilot/Full Self-Driving (FSD) rewrite is going to result in “quantum leap” improvements, and the rewrite is going to be pushed to the fleet in the coming “six to 10 weeks.” As we recently reported,"
     publishedDateTime: 2020-08-14T22:39:00Z

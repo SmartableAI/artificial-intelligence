@@ -95,6 +95,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
+  - title: "Worldwide Augmented and Mixed Reality Market Industry (2020 to 2025) - Increasing Demand of AR Devices in Healthcare is Driving Growth"
+    excerpt: "The report also provides specific insights and recommendations for major ecosystem constituents including Advertisers and Media Companies, Artificial Intelligence Providers, Automotive Companies ..."
+    publishedDateTime: 2020-08-18T11:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/worldwide-augmented-and-mixed-reality-market-industry-2020-to-2025-increasing-demand-of-ar-devices-in-healthcare-is-driving-growth-1029512169"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "H3HionhCZwdyTDQ/zFUe3EARw+V9m9mjmmZANgw1OdCsbZyGLn2Vx7EkatWdyym9yOEtjXsZynb1Nz3E5u+RYFgpSXha1wFKeiBG06KVygL4BWPdqjMbQ1OiP+YvRaO4P4kJ7kjM8wJx5O6lGD3gq2zqfWcEeG7gkfBUq63dyYZ+7kytPVatL4l0sH5DJNaLDSQ8BE7EWd8qOZVF2c0lDcuz/7svnin5RKZ5u8jhs/4jUfo1BcFaRl0RXNyp+C2hC0zl8nWw85pPTv8H9v0PkSvokqPh4GmQIQ+/K3MZhO2OeOi5C3uXb7RiSxKcFr5JeBzPf/FQJTsXXw3NTQSkBw==;x/yXAKbip23Uj/ldJMDMNg=="
 ---

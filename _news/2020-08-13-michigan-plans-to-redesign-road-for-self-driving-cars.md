@@ -106,22 +106,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Detroit-to-Ann Arbor self-driving vehicle corridor moving ahead"
-    excerpt: "Project would be another step in Southeast Michigan staking its claim as an epicenter of connected and autonomous vehicle technology in the U.S."
-    publishedDateTime: 2020-08-13T17:31:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/08/13/detroit-ann-arbor-self-driving-vehicle-corridor-moving-ahead/3364205001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3364205001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3364205001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/07/PDTN/39378bc7-3dbc-4d6a-8cd6-c15bd630c54e-Ford-Corktown.JPG?auto=webp&crop=5788,3256,x0,y117&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Michigan Plans 40-Mile Stretch of Highway for Self-Driving Cars"
     excerpt: "The state of Michigan and some private partners are taking steps toward building or assigning dedicated lanes for automated vehicles on a 40-mile (65-kilometer) stretch of highway between Detroit and Ann Arbor."
     publishedDateTime: 2020-08-13T21:34:00Z
@@ -185,22 +169,6 @@ related:
       - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/08/selfdrivingCAVNUE.jpg&quality=70&width=808"
         width: 808
         height: 424
-        isCached: true
-  - title: "Plans for first self-driving corridor announced in Michigan from Detroit to Ann Arbor"
-    excerpt: "Michigan officials are holding a news conference Thursday, August 13 at 1 p.m. to announce a major mobility-related project in southeast Michigan."
-    publishedDateTime: 2020-08-13T18:17:00Z
-    webUrl: "https://www.fox7austin.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor"
-    ampWebUrl: "https://www.fox7austin.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/plans-for-first-self-driving-corridor-announced-in-michigan-from-detroit-to-ann-arbor.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 37
-    images:
-      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2020/08/932/470/wjbk-self-driving-cavnue-081320.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
         isCached: true
   - title: "Self-driving car lanes are coming: Will they help or hinder Level 5 autonomy progress?"
     excerpt: "Tesla’s long-term Robotaxi plans require Level 5 autonomous driving, i.e., no humans involved, and it certainly sounds like things are moving along quite well. CEO Elon Musk has been chatting about the Full Self-Driving progress on Twitter lately,"

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 63
-  - title: "Miso Robotics brings in new CEO to automate restaurant kitchens"
-    excerpt: "Flippy the kitchen robot has a new boss. Miso Robotics Inc., the Pasadena, California-based startup that's automating restaurant kitchens, has tapped Mike Bell to serve as CEO. Company co-founder and former CEO Buck Jordan will focus on raising money as president and chairman of the board."
-    publishedDateTime: 2020-08-13T18:44:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 54
 
 secured: "DPtkQGpSjp6dOnocYnpfpipfQBCupgfqbIjh8NT/L4gr9XAKDQLPtT6eJItvsEPAwU3IR6pS2HEsGy7DCgDoP8Yb3Ch8TdAtDz2tVU1fSSfcobG3UhV8gZZJX+Oq957vribu47q8ZqcWuGEjdJrTY1238hgkq4XQT9kjIB4hc24HaMFg2yviAkkF13Ea3AaQIVK8iBLB8vFQWu85Ax2PFbG+FL74Nkqn31VuHZQ00JoP4z53fe4Nm+dxbExwm+oPOpJbEqQ537fpnGiUGrDUzPpTSVo1Qp7VrVprqYZeVtAa2I4tHNzKTWMtpNpVwMy/lOkhFJooBMKiJ/r2Yz4V+AkhOveMGDb42DBYAnpT+qUUAue9J2NJb1uyGMwZjKQYbTMObAazKcdEbgyMKWWQIRlP+prVJSApboistasYMSBzafWkZ70bbrm9vsWUnhmD/HbXabD0AsyLU1Ij3wxBrFLY6uUZuiLkuavBxyPZR2OpRhn1ClPdMvBC9yOriKIJ;QAVF4ESA9XJiwMLNOxYGpA=="
 ---

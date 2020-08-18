@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-17-dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership.md",
+      "title": "DBS Bank looks to train 3,000 employees in AI with AWS partnership",
+      "excerpt": "Singapore bank will run online tutorials for DBS employee to pick up fundamentals of artificial intelligence and machine learning, so they can eventually programme their own autonomous race car for the AWS DeepRacer league.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
+      "publishedDateTime": "2020-08-16T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads.md",
       "title": "IBM unveils Power10 processor for big data analytics and AI workloads",
       "excerpt": "At the Hot Chips 2020 virtual conference, IBM unveiled the Power10, its first commercial 7-nanometer processor, manufactured by Samsung.",
@@ -248,7 +289,7 @@
       "webUrl": "https://www.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1057,46 +1098,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-14-airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation.md",
-      "title": "AirAsia chooses kerala-based startup Jiffy.ai for robotic process automation",
-      "excerpt": "Jiffy.ai’s Thiruvananthapuram centre is a Centre of Excellence in cutting edge technologies like Artificial Intelligence/ Machine Learning and Natural Language Processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2020/aug/14/airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation-2183387.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/8/14/w600X390/AirAsia_Reuters.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2020/aug/14/airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation-2183387.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/aug/14/airasia-chooses-kerala-based-startup-jiffyai-for-robotic-process-automation-2183387.amp",
-      "publishedDateTime": "2020-08-14T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-14-equalai-challenges-companies-and-leaders-to-pledge-to-reduce-bias-in-artificial-intelligence.md",
       "title": "EqualAI Challenges Companies and Leaders to Pledge to Reduce Bias in Artificial Intelligence",
       "excerpt": "There are immediate actions that organizations can take to identify and reduce bias within their existing systems. EqualAI has been seeking out ways that companies can go beyond m",
@@ -1202,7 +1203,7 @@
       "webUrl": "https://www.reuters.com/article/uk-usa-riteaid-software-methodology-idUKKCN24T1GH",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {

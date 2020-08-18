@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/17/british-police-to-trial-fac
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Brain Relies on Face Recognition Systems to Perceive Faces"
+    excerpt: "just like computer face recognition systems such as those used by Facebook and Google,\" explains co-author Brad Duchaine, a professor of psychological and brain sciences and the principal investigator of the Social Perception Lab at Dartmouth College."
+    publishedDateTime: 2020-08-18T10:30:00Z
+    webUrl: "https://www.medindia.net/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 54
   - title: "To perceive faces, your brain relies on a process similar to face recognition systems"
     excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people who have a rare condition known as hemi-prosopometamophosia (hemi-PMO),"
     publishedDateTime: 2020-08-17T14:20:00Z

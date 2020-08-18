@@ -56,6 +56,17 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Brain Relies on Face Recognition Systems to Perceive Faces"
+    excerpt: "just like computer face recognition systems such as those used by Facebook and Google,\" explains co-author Brad Duchaine, a professor of psychological and brain sciences and the principal investigator of the Social Perception Lab at Dartmouth College."
+    publishedDateTime: 2020-08-18T10:30:00Z
+    webUrl: "https://www.medindia.net/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 54
   - title: "‘Fawkes’ tool protects you from facial recognition online"
     excerpt: "A new software tool called Fawkes can \"cloak\" photos before you upload them to social media to prevent facial recognition algorithms from identifying you."
     publishedDateTime: 2020-08-17T14:35:00Z

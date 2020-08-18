@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump hits back at Michelle Obama after searing DNC speech, says he 'would not be here' if not for Obama"
+    excerpt: "MICHELLE OBAMA, IN DNC SPEECH, RIPS TRUMP WHITE HOUSE FOR 'CHAOS' AND 'LACK ... \"The ability to walk in someone else's shoes. The recognition that someone else's experience has values too,\" she said. \"Most of us practice this without a second thought.”"
+    publishedDateTime: 2020-08-18T11:49:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-responds-michelle-obama-dnc-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 57
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Michelle Obama's Speech to the Democratic Convention"
     excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention, as broadcast Aug. 17, 2020: Good evening, everyone. It’s a hard time, and everyone’s feeling it in different ways. And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general."
     publishedDateTime: 2020-08-18T04:03:00Z
@@ -150,18 +166,18 @@ related:
         height: 629
         isCached: true
   - title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
-    excerpt: "Former First Lady Michelle Obama closed out the first night of the 2020 Democratic National Convention. The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention."
-    publishedDateTime: 2020-08-18T08:34:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    excerpt: "The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention. This transcript was provided by the Democratic National Committee."
+    publishedDateTime: 2020-08-18T11:34:00Z
+    webUrl: "https://www.kgw.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    ampWebUrl: "https://www.kgw.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: KGW8
+      domain: kgw.com
     quality: 39
     images:
-      - url: "https://media.khou.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
+      - url: "https://media.kgw.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
         width: 750
         height: 422
         isCached: true

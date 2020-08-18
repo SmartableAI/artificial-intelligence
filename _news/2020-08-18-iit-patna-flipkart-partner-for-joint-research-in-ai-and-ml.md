@@ -8,8 +8,8 @@ ampWebUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-pa
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Tribune
@@ -42,7 +42,21 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "IIT Patna Associates with Flipkart for Joint Research in AI, NLP & ML"
+    excerpt: "World’s most renowned e-Commerce major Flipkart announced an MoU with IIT Patna to help create industry focused applied research in the areas of Artificial Intelligence (AI), Natural Language Processing ... robust machine translation techniques for ..."
+    publishedDateTime: 2020-08-18T10:26:00Z
+    webUrl: "https://www.siliconindia.com/news/business/IIT-Patna-Associates-with-Flipkart-for-Joint-Research-in-AI-NLP--ML-nid-213687-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Lc4CPGi9.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
-secured: "6+Xs689Fofy8Aq18zEjIDmUuOI+WrWxfrhB/LIDfRdsEVNY+l4HP791qd7uUa4aC8PI4QW8NOcr7gqALLPJd1m1brAL+sNqC0K/8MZOsbthD3sGlhhaS/kluMdIwBEeFY1yP0gl8O3MQ5sbPi2OROADN3RDyTkY+kk1TEUqVLD8c3lcfQuN71oRDQhH8bIWuyk7+Hhgm3q9ezl1iBMHGN+b087j4h0aNA4edWcd3oCC2LP5RHx17jKjmyvirZR40Na/ySejUAykgvv/ehlyOmWRVIhFOsOaj3SpWl6Eu55CdssKXNaU1fgDb9M+oOv2IsUowG73n2dxGoJnQPVrv6Q==;3CN375DfMEorpJ/fckXHWw=="
+secured: "jrhawmOkw0+XVx5APDfnGy/+1e1GTt+5cQt1f5hi5MVx2VduwtVtiBBFjSAgA4cWOz6BuZ2v6ZNUjm2ZRiXqmZ3t2u7PGR/PReJ1jbDHuHSH8mvHeuBal5rWGFSky2X80X1KSQ0Ge9TjghqwL6odGtUl7iSEfqh6BCzivXq30vN70gkqnskK2PSPstNRZXJsncpibO5e51dEd0BzCLCDa2i6Msx9KmGRL9G5xmHDhD63BRDwwHyge+sqOEqYc6Mkzcka7pDoaGQJnXeplCEuSfT/u4PlSm8oHL5m1LgeLyh5UFHuMiH7Zs+k+o9yx7HfPTxj5eMrbKUR8Bx0gsRtQ/ToVfANmfDlZ7UFCbNAOdV8j5lwIavrZNuubqjAx4bfjUpDuDXFT4I03gK7A2783HTA40MFYe/Wvzc5qL41FCAVAOxY7+75rVz2hR+eZOFfvejV6j0qF0kPxVExIHLkv13nuFpCMAg/LzPRgqCIB7rDiDuq9dZAia5om4ndOnjrrBN6oI880caNY736aNfjWQ==;xW2JUDNebsIjtf9IWb8i+Q=="
 ---
 

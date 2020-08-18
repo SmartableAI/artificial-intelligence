@@ -41,6 +41,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "IIT Patna Associates with Flipkart for Joint Research in AI, NLP & ML"
+    excerpt: "World’s most renowned e-Commerce major Flipkart announced an MoU with IIT Patna to help create industry focused applied research in the areas of Artificial Intelligence (AI), Natural Language Processing ... robust machine translation techniques for ..."
+    publishedDateTime: 2020-08-18T10:26:00Z
+    webUrl: "https://www.siliconindia.com/news/business/IIT-Patna-Associates-with-Flipkart-for-Joint-Research-in-AI-NLP--ML-nid-213687-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Lc4CPGi9.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "vVED7Tny0qD5rydD4caYtimAVS6pQ3m+a0I8nY6QGrz7rl+SVfSYYJvk1NkW9oLFHla7AvaF8FD2svHNhg9Lspb6Aj/Yt/INDLwlbhgIWf/Hkix2XeapHmDYixEDmhkOzH5LOfz4ZCkbUDyTdj+mfWmOBE0i4eUfAW/ZdFnznOSJVoYfiWred8WuhMSsJKIhYTBt70E4jmAlXqNqJZq4o64duWYooSyySqAqsHZNNfNTn08COT6QPcQndm8P+ZzqTxR/5khVnqZggqk9c5kRaHdSiS7Bs3piSv666OYR77oL27IpaY+6BZOGm9rmteGc0Xew/fZ++2Dx2sxtR7tyXA==;SqvXNlPIIxIJoa8lxtktSg=="
 ---

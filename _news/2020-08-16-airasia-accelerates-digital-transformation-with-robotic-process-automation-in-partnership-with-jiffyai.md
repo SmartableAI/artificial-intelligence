@@ -44,17 +44,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "AirAsia accelerates digital transformation with robotic process automation in partnership with JIFFY.ai"
-    excerpt: "AirAsia Group is accelerating its ongoing digital transformation journey further by implementing robotic process automation"
-    publishedDateTime: 2020-08-13T18:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/08/n17077288/airasia-accelerates-digital-transformation-with-robotic-process-automation-in-partnership-with-jif"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17077288"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17077288"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
 
 secured: "SKZU0dsbf6l139bvPeN3vDkTxs5t/sEqt/K5W13DG8sFmPzzOyNBb8lh8voZ0in8TcYAqyA9XWVZcmsocQ6++2mTMxRn3DLtfHatiCwHX5TjCU1cL+vK26A0Rbl8MKgW7MaJxl42SyfYvc8Eam3So7Wa2uDYlYsd8F9lEcrI81V21OSN5pJp2krNDMS1bo2BcYBJ374H/+ZUbAY5mcwU+IG2BD5GucdRp/MlPbKJWayMl5zaQ5s69sPJvcDx/6CK84QmxUPEJq7uxf2e7S0YdAtHfAlWWJ2+VyqMxjsDI/tPv9bG2p0s4Bt+4dE9Z938hIfTC8M+/zlPIatdmshlTA==;19O5sBzboMWR7RMQLnzQpg=="
 ---

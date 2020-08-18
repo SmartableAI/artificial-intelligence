@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Miso Robotics brings in new CEO to automate restaurant kitchens"
-    excerpt: "Flippy the kitchen robot has a new boss. Miso Robotics Inc., the Pasadena, California-based startup that's automating restaurant kitchens, has tapped Mike Bell to serve as CEO. Company co-founder and former CEO Buck Jordan will focus on raising money as president and chairman of the board."
-    publishedDateTime: 2020-08-13T18:44:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/08/13/miso-robotics-brings-in-new-ceo-mike-bell.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 54
 
 secured: "OJ5fPyUpJs+A1rtLwHFKca12vIGAHDu81zf9CRkCXxpyzvjSaMjE4GO4WEi4aGDLvQ7JMo3t4y4lvdp6UwN73mvWKOtxrpPw4wCEkpHlHOYucqQczDiQWDXP09fahg6zCDRMP4bNlZj3pf5b/lnOs28atDG0CSLEahY8maa3eecMdf3CyHcC25yX5Nxlrr/v3PfrGReSHMH82B9uMsJgPBo5/tWfzG/l0ukgFz8JH7DD0iz0IQXwsy7tLqO+PAIS1XaoVO//cptF9Li+CsK7g8KK/xvqKzee+rkKFqbIsNI5RaY4Y+WbgwCqRWU3ajlByvIIc0x3sIzTk9yR3wXWA+DS6xib9ezn0yy8rbY/lTOiIiRWFnLUSRyt68X3woKc2EtuHiDUajfB3mQAKpTplTeLLLsOSOoViNStdOA/IryHqWkUg9Wqhp/QaaoYhKGXJayeTSJDaQgus3ohBYVPii+uYhbRW9Cy3cI0OQC/lbYrGxjPC09arKBuE5yOqSRYwh6DOWCw63cJQaEE8RTePw==;1mfsOiVqeFG8OpeU6akIKA=="
 ---

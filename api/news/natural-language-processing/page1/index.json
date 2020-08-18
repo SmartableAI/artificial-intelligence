@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-18-iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml.md",
+      "title": "IIT Patna, Flipkart partner for joint research in AI and ML",
+      "excerpt": "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_776851092.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873",
+      "publishedDateTime": "2020-08-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-full-michelle-obama-dnc-speech-transcript-and-video.md",
       "title": "Full Michelle Obama DNC Speech Transcript and Video",
       "excerpt": "Michelle Obama, the former first lady, was the keynote speaker on the first night of the 2020 Democratic National Convention.",
@@ -9,7 +50,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1408,58 +1449,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-04-syntiant-raises-35-million-for-ai-speech-processing-edge-chips.md",
-      "title": "Syntiant raises $35 million for AI speech-processing edge chips",
-      "excerpt": "Syntiant, a startup developing AI and machine learning edge hardware for voice processing, has raised $35 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/004990b4-5a1a-4216-8477-e262b957b5ab-e1596485443668.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/04/syntiant-raises-35-million-for-ai-speech-processing-edge-chips/amp/",
-      "publishedDateTime": "2020-08-04T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],
