@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI"
-excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI."
-publishedDateTime: 2020-08-18T13:56:00Z
-webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=nwsrl_artificial_intelligence&cx_refModule=nwsrl"
+excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a fourfold increase in the speed of magnetic resonance imaging. The results of the joint effort, which ..."
+publishedDateTime: 2020-08-18T14:11:00Z
+webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 ampWebUrl: "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,7 +44,21 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Facebook and NYU are using AI to dramatically speed up MRI imaging"
+    excerpt: "Researchers have long looked for ways to speed up magnetic resonance imagining (MRI). Two years ago, Facebook’s Artificial Intelligence Research group (FAIR) began collaborating with researchers at New York University’s Medical School on artificial ..."
+    publishedDateTime: 2020-08-18T13:43:00Z
+    webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/08/poster-facebook-NYU-fast-mri-study.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "uu1j65RdzbKm7wBkK7q1MGn+CFsO4kLyzWWiElGWCajkkFVN9P5r6IAv7Mb3ObIJSVdR8+NDOOp5dz9S1FfPJvpYtJL05i6UdyYYwzq5oVtmck8u6fv+3jNppfHZwlxAuiTN8/RwgbgKRBt0dXZ7Vdeva33cdiqUN9X81dBGuv79nRQmCGPsSmFbcWzOFQBYaS0xQqMwFYKcZpwFdh3PLTuwZeVZqGX5a0Lct/traoAa0cMb5U3ONNldA6JdhUXq0iWYj2swhwx/toNz11jJSszAnoHqR8vBwmVEeSXTLjyPYk2DV5/EyR0v6cIlhfCffD2+ogmYS3ugT9J1sZ5hzg==;48pVqED1wtMBNMWCvbrvXw=="
+secured: "J4oll8m+M2fw8nOGNiMaFou6Z9f8czQwQXBdqPqJohW1lS7dyxesjoAf33vuVAozMGkSNs5jTPQmJpqenVhy/GsPYR6oVzYDslhzk40LrbEbkp2eWcmqonfoTFCHF8gyaEhzcFlo61pp0/hJOL6vHHTe74569xIUz3IrNvo2foNLbzd9X9txYscpI7onsZyuGi7xkFNlsnsyksRgpMkBC+XQ58CjWMZdjxS7fGBKsOrfAwg2jTZH7tqMd3OF4Gwjf+oJ/EGVLR1j9BtmjG7HGmmxTDI5QiicpOTWmtuObVO2j0U3P59D9uZFqBoYbz9nYJqShJgDWbwK/XEF2h5ttQ==;rqBM3OdWFHFPofw0hq4NdQ=="
 ---
 

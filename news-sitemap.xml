@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=nwsrl_artificial_intelligence&amp;cx_refModule=nwsrl</loc>
-    <lastmod>2020-08-18T06:56:00-07:00</lastmod>
+    <loc>https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/</loc>
+    <lastmod>2020-08-18T07:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600</loc>
+    <lastmod>2020-08-18T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -39,12 +45,6 @@
   <url>
     <loc>https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/</loc>
     <lastmod>2020-08-18T05:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873</loc>
-    <lastmod>2020-08-18T02:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -883,14 +883,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
-    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
+    <loc>https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php</loc>
+    <lastmod>2020-08-11T07:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.html</loc>
-    <lastmod>2020-08-11T07:37:00-07:00</lastmod>
+    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
+    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1369,12 +1369,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/tcs-a-leader-in-advanced-digital-workplace-services-nelsonhall-120080700787_1.html</loc>
-    <lastmod>2020-08-07T05:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techrepublic.com/article/ai-on-the-high-seas-digital-transformation-is-revolutionizing-global-shipping/</loc>
     <lastmod>2020-08-07T04:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1395,6 +1389,12 @@
   <url>
     <loc>https://www.neowin.net/news/microsoft-partners-with-blacksharkai-on-flight-simulator-provides-sdk-update</loc>
     <lastmod>2020-08-07T02:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.equitybulls.com/admin/news2006/news_det.asp?id=271716</loc>
+    <lastmod>2020-08-07T00:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1795,6 +1795,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://tech.sina.com.cn/roll/2020-08-05/doc-iivhvpwx9330576.shtml</loc>
+    <lastmod>2020-08-04T22:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://mashable.com/article/anthony-levandowski-google-uber-waymo-trade-secret-theft/</loc>
     <lastmod>2020-08-04T20:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1945,12 +1951,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://phys.org/news/2020-08-deep-cell-networks-ai-single-cell.html</loc>
-    <lastmod>2020-08-04T08:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/lanceeliot/2020/08/04/ai-needs-to-gain-famed-macgyver-shrewdness-including-for-ai-self-driving-cars/</loc>
     <lastmod>2020-08-04T08:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1971,6 +1971,12 @@
   <url>
     <loc>https://thenextweb.com/plugged/2020/08/04/roborock-s6-maxv-review/</loc>
     <lastmod>2020-08-04T07:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eurekalert.org/pub_releases/2020-08/crcf-dlo080420.php</loc>
+    <lastmod>2020-08-04T07:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

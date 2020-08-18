@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 63
+  - title: "Conversational AI Is Accelerating in the New Normal"
+    excerpt: "Since the start of the pandemic, 35% of US smart speaker owners say ... While voice has taken center stage in many of these conversations, it is not the only conversational AI technology that can help mitigate the risk of infection. COVID-19-specific ..."
+    publishedDateTime: 2020-08-18T14:49:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/conversational-ai-is-accelerating-in-the-new-normal/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 37
+    images:
+      - url: "https://www.cmswire.com/-/media/f71ceb4c201f4a448f4b309195166e3d.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "DPtkQGpSjp6dOnocYnpfpipfQBCupgfqbIjh8NT/L4gr9XAKDQLPtT6eJItvsEPAwU3IR6pS2HEsGy7DCgDoP8Yb3Ch8TdAtDz2tVU1fSSfcobG3UhV8gZZJX+Oq957vribu47q8ZqcWuGEjdJrTY1238hgkq4XQT9kjIB4hc24HaMFg2yviAkkF13Ea3AaQIVK8iBLB8vFQWu85Ax2PFbG+FL74Nkqn31VuHZQ00JoP4z53fe4Nm+dxbExwm+oPOpJbEqQ537fpnGiUGrDUzPpTSVo1Qp7VrVprqYZeVtAa2I4tHNzKTWMtpNpVwMy/lOkhFJooBMKiJ/r2Yz4V+AkhOveMGDb42DBYAnpT+qUUAue9J2NJb1uyGMwZjKQYbTMObAazKcdEbgyMKWWQIRlP+prVJSApboistasYMSBzafWkZ70bbrm9vsWUnhmD/HbXabD0AsyLU1Ij3wxBrFLY6uUZuiLkuavBxyPZR2OpRhn1ClPdMvBC9yOriKIJ;QAVF4ESA9XJiwMLNOxYGpA=="
 ---

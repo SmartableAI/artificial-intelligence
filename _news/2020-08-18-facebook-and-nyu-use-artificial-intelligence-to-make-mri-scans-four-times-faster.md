@@ -7,7 +7,7 @@ webUrl: "https://www.theverge.com/2020/8/18/21373335/faster-mri-scans-ai-machine
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/CFvrv0zRuSDBkcG0cPzvYDqVkiw=/0x0:4254x2837/1400x933/filters:focal(1787x1079:2467x1759):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67219498/1014361038.jpg.0.jpg"
@@ -47,6 +48,6 @@ related:
         height: 625
         isCached: true
 
-secured: "FhEYK0b4GcdfqCGA6zsKq+BEDfNxjf1yNKQfZJS4mJ6/oDzf1u4HGSmBMNkVYJaGbCIg2yHlOeNqD4rmOiTecazA7ggJy7QJJd2tiSMDdFw9KrL+ifl7ETlcEhfv3a/kAialoF22AihcC6q5blUfSaC/7Er9a4sskklqxdeSrm3bryEcrl05Tc4gv9xH2grhaZnpfIaa34a6KGwVtrFiWRG5BC1IuVgqJsWaeEhyOOl6qkIZzGfyh6HE8945fVmM4g0PwlYh2R0A6G3vIG9zJ6HE5jHVe4mciIKrabBgUs7I0iaWXUDbjrDSjvgxWjSj7kUol9rfW9o8uVvg872PNw==;QXcxEdnqhEQTKVnvDWqinQ=="
+secured: "iG5rQQzr7SHC+LQ1WY+o4cKoBI6dECtspGwlDPr6RNozmUAX5MiR1HHFXh2VIRRp9WIJ8rN0uLPJBd9Wi5kNGG74HEUFAUbSlAL4+AdPT7GIDc7dwpitCKRVg9fJb48f9rUpoLguIHo/vveuN4HDrlAY7CW7MeRqYRxFk/49Oz+6wTxB+2g6lphd+UrMOeu0TteR45Ff9cq2prXcI4IwdXWnLLI79Wgvx6o246K/HoT1AmvXX1/LCmYVHyGVbiKzKUdvRPNbyj47BK469yXHoeywlt+mtb9HZvgASG/FSb58BGwiLHBnJUwkLfcGINodVkuLtVxSxz9jZukDfg/Px3Zfms+Q107EsKY3jhWtD8K1rYVTMOaM5vXXTbEY1pV9xGt3Vd3Q+J8OvZ3VsnuzeDCtciOnY4+Pe/eWyeVgL0yX9MD4rDscgBWGGZOB2gK3PIJb1LJZ8dTzX4T7Ma5pjC9wEeXjMGNywf/HQOC5chi1loGcaco8FdzOq0RhO86g3yABWI6SO/y2ZGEVjp6Ysw==;dJKWWIJLezOFKUA1w7a5Jw=="
 ---
 

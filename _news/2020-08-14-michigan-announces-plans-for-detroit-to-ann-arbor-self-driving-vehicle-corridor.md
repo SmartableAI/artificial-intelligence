@@ -52,38 +52,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Michigan Plans 40-Mile Stretch of Highway for Self-Driving Cars"
-    excerpt: "The state of Michigan and some private partners are taking steps toward building or assigning dedicated lanes for automated vehicles on a 40-mile (65-kilometer) stretch of highway between Detroit and Ann Arbor."
-    publishedDateTime: 2020-08-13T21:34:00Z
-    webUrl: "https://altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/"
-    ampWebUrl: "https://altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-michigan-plans-40-mile-stretch-of-highway-for-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: altdriver.com
-      domain: altdriver.com
-    quality: 44
-    images:
-      - url: "https://placehold.it/300X250/fff/ccc?text=ADVERTISEMENT"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Michigan plans to redesign road for self-driving cars"
-    excerpt: "Michigan announced Thursday that it’s teaming with tech and auto companies to attempt to retrofit a roughly 40-mile stretch of two roads outside Detroit exclusively for self-driving vehicles. Both Interstate 94 and Michigan Avenue between Detroit and Ann Arbor,"
-    publishedDateTime: 2020-08-13T21:15:00Z
-    webUrl: "https://fox2now.com/news/michigan-plans-to-redesign-road-for-self-driving-cars/"
-    ampWebUrl: "https://fox2now.com/news/michigan-plans-to-redesign-road-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/michigan-plans-to-redesign-road-for-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Fox2Now St. Louis
-      domain: fox2now.com
-    quality: 44
-    images:
-      - url: "https://fox2now.com/wp-content/uploads/sites/14/2018/06/s095066321.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "AJf+e6u0biy9mFBCrDmbvkhAMkyR2DX1PsTCxBOGIJrJGs6VXC+i5rHsLaIdOcch7jUc4I1Vjh9mfWQ/BnAsm39+YMSQO9gPE5uofuH8W7aoyURxKUH9/8NI4UnQc5BGYzvSRmh9JIKQ7H6Yun/xxKNZeQ1AuNfRbUiqJsfBkS7kg6a6BttAC4r1CHMvd6fiNYkB8XuJwQoWrIL5NIMC+sTWtiybpvlUfIBuC38pQxGaD7tuBNHXJoSZy8LU7j/Rq9PbjOHExW7NxkPvPqll7DKwvCcEx/qsuRTCzflLERcVbgRrLtX0UEF4D7pTfuPnumzWlBvMwDTkFBak+z6xh6dsPvHQ9WF/Uz35RgESvVjYFa5fxNv/wTNxSaR7BHXtJyXJlAAHdKzKSzrJFmpE/iWgNrKJRmEwMC8XlWk6tHJ9Su+MpZR3y+xkpPH0nJC+24CoJfCuTy4I5KLapbbgfF7meRjiyqAl1flZOFB9ZM37efb0i0SYHdlSSAhe+xspFT4VQ9WcZaDsOPYsJC4duA==;8x6QoOdpRZCd9jn/vFDQLA=="
 ---

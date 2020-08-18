@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Flipkart signs pact with IIT-Patna for joint research in AI, ML"
+    excerpt: "Walmart-owned Flipkart on Tuesday said it has inked an agreement with IIT-Patna to help create industry-focused applied research in the areas of artificial intelligence (AI ... languages. “At the same time, (it) will ensure that the translation process ..."
+    publishedDateTime: 2020-08-18T14:46:00Z
+    webUrl: "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/"
+    ampWebUrl: "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://images.financialexpress.com/2020/08/1-494.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "IIT Patna, Flipkart partner for joint research in AI and ML"
     excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ..."
     publishedDateTime: 2020-08-18T09:05:00Z

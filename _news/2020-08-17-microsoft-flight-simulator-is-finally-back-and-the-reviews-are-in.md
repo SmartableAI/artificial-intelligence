@@ -28,17 +28,17 @@ images:
 related:
   - title: "Why Microsoft Flight Simulator 2020 Is This Year's Most Ambitious Game"
     excerpt: "Those high-quality satellite images are fed through a series of machine learning algorithms to push ... The other major contributor is the company’s Azure cloud computing service, which feeds ..."
-    publishedDateTime: 2020-08-18T12:59:00Z
-    webUrl: "https://uk.pcmag.com/gaming-gear/128227/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game"
-    ampWebUrl: "https://uk.pcmag.com/gaming-gear/128227/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/gaming-gear/128227/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1"
+    publishedDateTime: 2020-08-18T15:47:00Z
+    webUrl: "https://in.pcmag.com/gaming/137580/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game"
+    ampWebUrl: "https://in.pcmag.com/gaming/137580/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1"
+    cdnAmpWebUrl: "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/gaming/137580/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 89
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/why-micros/why-microsoft-flight-simulator-2020-is-this-years-most-ambit_t4yd.620.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/w/why-micros/why-microsoft-flight-simulator-2020-is-this-years-most-ambit_jwm9.620.jpg"
         width: 620
         height: 349
         isCached: true

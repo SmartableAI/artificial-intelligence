@@ -138,6 +138,22 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Michelle Obama's speech to the Democratic convention"
+    excerpt: "Former first lady Michelle Obama's speech to the Democratic National Convention ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought."
+    publishedDateTime: 2020-08-18T14:43:00Z
+    webUrl: "https://www.newsday.com/news/nation/michelle-obama-dnc-speech-1.48240536"
+    ampWebUrl: "https://www.newsday.com/amp/news/nation/michelle-obama-dnc-speech-1.48240536"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/nation/michelle-obama-dnc-speech-1.48240536"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 44
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.48240537.1597724262!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "READ: Michelle Obama's DNC speech"
     excerpt: "Former first lady Michelle Obama capped off the first night of the DNC with a speech that touted Joe Biden's empathy."
     publishedDateTime: 2020-08-18T04:21:00Z
@@ -153,6 +169,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/dnc-michelle-obama-3-ap-ps-200817_1597719891484_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Michelle Obama’s DNC Speech And The Emotional Labor Black Women Have Paid For America Time And Time Again"
+    excerpt: "And I say that with full recognition of her place as a Black woman ... Harris ticket from the comfort of her home. She began her speech on a macro level, contemplating the story of America and ..."
+    publishedDateTime: 2020-08-18T15:30:00Z
+    webUrl: "https://madamenoire.com/1183514/michelle-obama-dnc-speech-joe-biden-trump/"
+    ampWebUrl: "https://madamenoire.com/1183514/michelle-obama-dnc-speech-joe-biden-trump/amp/"
+    cdnAmpWebUrl: "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1183514/michelle-obama-dnc-speech-joe-biden-trump/amp/"
+    type: article
+    provider:
+      name: MadameNoire
+      domain: madamenoire.com
+    quality: 42
+    images:
+      - url: "https://ionemadamenoire.files.wordpress.com/2020/08/15977567981531.jpg?crop=20px%2C26px%2C963px%2C550px&resize=560%2C320"
+        width: 560
+        height: 320
         isCached: true
   - title: "Michelle Obama’s full speech to the Democratic National Convention, annotated"
     excerpt: "Former first lady Michelle Obama's speech took on Trump and Trumpism more directly than she did in her well-received 2016 DNC speech."
@@ -186,6 +218,22 @@ related:
         width: 1024
         height: 629
         isCached: true
+  - title: "Read: Michelle Obama’s full speech from the 2020 Democratic National Convention"
+    excerpt: "Former first lady Michelle Obama delivered a straight-forward, taped speech at the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this ..."
+    publishedDateTime: 2020-08-18T15:48:00Z
+    webUrl: "https://www.ksat.com/news/national/2020/08/18/read-michelle-obamas-full-speech-from-the-2020-democratic-national-convention/"
+    ampWebUrl: "https://www.ksat.com/news/national/2020/08/18/read-michelle-obamas-full-speech-from-the-2020-democratic-national-convention/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/national/2020/08/18/read-michelle-obamas-full-speech-from-the-2020-democratic-national-convention/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 40
+    images:
+      - url: "https://www.ksat.com/resizer/3Lsc5rwtSoaUAh5CKttK_9ZLDYU=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/08-18-2020/t_cf7dcfcd0c394908938e215a26fee9bb_name_image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
     excerpt: "The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention. This transcript was provided by the Democratic National Committee."
     publishedDateTime: 2020-08-18T11:34:00Z
@@ -218,6 +266,17 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "Michelle Obama's DNC speech: read it in full"
+    excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
+    publishedDateTime: 2020-08-18T15:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/aug/18/michelle-obama-dnc-speech-full-transcript"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/aug/18/michelle-obama-dnc-speech-full-transcript"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/aug/18/michelle-obama-dnc-speech-full-transcript"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 24
   - title: "Michelle Obama's Entire DNC Speech"
     excerpt: "(AllHipHop Opinion) Former First Lady Michelle Obama gave a most riveting keynote speech on the first night ... to walk in someone else’s shoes; the recognition that someone else’s experience ..."
     publishedDateTime: 2020-08-18T12:12:00Z
@@ -231,20 +290,6 @@ related:
       - url: "https://images.saymedia-content.com/.image/MTczMzMyMzExMTEzMjEzODEx/michelle-obama.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Michelle Obama's speech to the Democratic convention"
-    excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought."
-    publishedDateTime: 2020-08-18T12:23:00Z
-    webUrl: "https://www.startribune.com/michelle-obama-s-speech-to-the-democratic-convention/572145882/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 24
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1597330052"
-        width: 1680
-        height: 876
         isCached: true
   - title: "Read Michelle Obama’s full Democratic convention speech"
     excerpt: "And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general. Believe me, I get that. But I am here tonight because I love this country with all my heart,"

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T13:43:00Z
 webUrl: "https://www.fastcompany.com/90540465/facebook-and-nyu-are-using-ai-to-dramatically-speed-up-mri-imaging"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     height: 720
     isCached: true
 
-secured: "eGbPE1HMRqAEJBcpJUvzRKhPxsxbmzmvrOJspZqhxkdaYxLLuZAByKyKA/ecJY5Bj/rcjxwOt+/qM/R/UJWOX9TwOPqiaOf+KfC9kaCuE6qmUmMY8nDYYXmb4qEwLx6/3D5j03pLNcjyx5SzptQ2074UJ+an+F8Zhp2+ZEpWLEwfq4Hc9O4LzIMitg9e4GIQnAA5QUHivDeR82LknQFxbuERo7lgftB8pGwdUoEFvp5JFXK308LztbTVEd3WoyRGCQ01BRPo7GtFYvYHPZNn2yQBlrIT6YPtd6kkxfqoAdsIPOM5Ze5zehDopckR7DmORFZPEEGHAsdf2Eo8gxHDyQ==;HRiCHcS3JWnQGmgtIRrx/g=="
+related:
+  - title: "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI"
+    excerpt: "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a fourfold increase in the speed of magnetic resonance imaging. The results of the joint effort, which ..."
+    publishedDateTime: 2020-08-18T14:11:00Z
+    webUrl: "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
+    ampWebUrl: "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-221966/social"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Facebook AI creates MRI images four times faster than normal"
+    excerpt: "Facebook AI researchers worked with doctors and medical imaging experts at NYU Langone Health to solve this problem and advance AI research at the same time. 'We are using AI to create complete images from far less raw data,' Facebook said. 'Since ..."
+    publishedDateTime: 2020-08-18T13:18:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8639049/Facebook-AI-creates-MRI-images-four-times-faster-normal.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 39
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/08/18/13/32088024-0-image-a-2_1597755396069.jpg"
+        width: 636
+        height: 382
+        isCached: true
+
+secured: "N6pvZJU8saCdd/JOU8wQyuJ9JqRW4bwihbfgutwdOlhmoHt4evGqng+2dvDIKQjKsIBbVBtUoVRRnFqwAf7IBaBwRMMKgajwwDXJS1Wd84zORO3iorCC9xzeKqJHIVmR5jSi3fu+dgWbkKgCexYY9GNAZeXBEpsheqxRYyVVz1wM8dcZznEWp5tni5MVGYLKXgGHah7nc3TW3oSPPpQS8aSxzAVoijJ7GSpf9OpHo/BniZOtAHUmr6Tq0O+//LRnYvjADwawTHAlub4RikAwYrc14AEMfruYcdLPzTz+XwTLQoraU7WWujjYvC/+vjwqVkTh+kOFe4Qb93e6tp5woTUO6U0f/OUhbo6myJuDTyc2QxrkWlPMMIH/8sCuDmzWyb19KJnYu36zGSxCYWvz/LjScdbCTPdEZVThP8WyiEIxgyoUmQq+S1r0tCxlnpSPjAZp7yZ+t6jtosATsi9DWvkpJZqV/sTYT61IXI1BV6N5QlapgSJD9KpJlhEeZCsPwHfxt+MZ7JKFRDaRYlX9AQ==;Thb74Fl1mpZaJDJNDWmQMw=="
 ---
 

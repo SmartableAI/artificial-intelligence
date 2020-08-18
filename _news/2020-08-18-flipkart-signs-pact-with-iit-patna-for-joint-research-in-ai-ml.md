@@ -1,0 +1,78 @@
+---
+category: news
+title: "Flipkart signs pact with IIT-Patna for joint research in AI, ML"
+excerpt: "Walmart-owned Flipkart on Tuesday said it has inked an agreement with IIT-Patna to help create industry-focused applied research in the areas of artificial intelligence (AI ... languages. “At the same time, (it) will ensure that the translation process ..."
+publishedDateTime: 2020-08-18T14:46:00Z
+webUrl: "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/"
+ampWebUrl: "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/lite/"
+type: article
+quality: 59
+heat: 89
+published: true
+
+provider:
+  name: The Financial Express
+  domain: financialexpress.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://images.financialexpress.com/2020/08/1-494.jpg"
+    width: 660
+    height: 440
+    isCached: true
+
+related:
+  - title: "IIT Patna, Flipkart partner for joint research in AI and ML"
+    excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ..."
+    publishedDateTime: 2020-08-18T09:05:00Z
+    webUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
+    ampWebUrl: "https://www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-127873"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 59
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_776851092.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "IIT Patna ties up with Flipkart for joint research in artificial intelligence"
+    excerpt: "NEW DELHI: Walmart-owned e-commerce major Flipkart today announced an MoU with IIT Patna to help create industry focused applied research in the areas of Artificial Intelligence (AI), Natural Language Processing (NLP) and Machine Learning (ML). The ..."
+    publishedDateTime: 2020-08-18T07:05:00Z
+    webUrl: "https://www.livemint.com/companies/news/iit-patna-ties-up-with-flipkart-for-joint-research-in-artificial-intelligence-11597732603522.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/iit-patna-ties-up-with-flipkart-for-joint-research-in-artificial-intelligence/amp-11597732603522.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/iit-patna-ties-up-with-flipkart-for-joint-research-in-artificial-intelligence/amp-11597732603522.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://images.livemint.com/img/2020/08/18/600x338/oped1-kC7G--621x414@LiveMint_1597733354727.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "IIT Patna Associates with Flipkart for Joint Research in AI, NLP & ML"
+    excerpt: "World’s most renowned e-Commerce major Flipkart announced an MoU with IIT Patna to help create industry focused applied research in the areas of Artificial Intelligence (AI), Natural Language Processing ... robust machine translation techniques for ..."
+    publishedDateTime: 2020-08-18T10:26:00Z
+    webUrl: "https://www.siliconindia.com/news/business/IIT-Patna-Associates-with-Flipkart-for-Joint-Research-in-AI-NLP--ML-nid-213687-cid-3.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Lc4CPGi9.jpg"
+        width: 570
+        height: 367
+        isCached: true
+
+secured: "+SR2WwUN3wWzH12WY5XEtgwN0tlM4KLgdr9gM09uwTHeF0G/QD2kivVk/DkJyxXussfMU0it4F0d/ltga2fbhXaUqw+P7s6FnmiQ3e4cBp10YyNsS+lQ+tMlXWOCB+t/5BIFIHw8G/mVIT90p2PZZUbHCJZ06QzY+nJc2Tx8W9amIGTGGpSfW/ZYx4jbR6AQ32/BYWPILwKqR6yRXr+kKaloJE/BDJKF5NLvI/b8Sssjv99s3YWDQyml8GLrh7gkcHQ3YhOS+d9QCjkdE/gTurwb8dingz5SLe5aFbOruj0lIGicxLBv5cdbbsqrCIS4rkp9YpibOtAJG+87/Ux+Zg==;4jBOQAcnRVW/9KtlExoNJQ=="
+---
+

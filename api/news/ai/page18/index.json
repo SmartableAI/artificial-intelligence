@@ -2,6 +2,46 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-07-29-ai-chatbot-apps-how-are-the-two-transforming-the-mobile-technology.md",
+      "title": "AI & Chatbot Apps: How Are the Two Transforming The Mobile Technology?",
+      "excerpt": "From small enterprises to some of the giants in the market today, AI and chatbots are being integrated on a large scale and these enhancements are making lives easier in many ways. Speaking of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/1/c85c2f4073de11ea851b2f4e75c7f473/inner1-1595914509259.png?fm=png&auto=format",
+          "width": 700,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology/amp",
+      "publishedDateTime": "2020-07-28T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-softbank-enters-korean-market-with-ai-powered-robot-vacuum.md",
       "title": "SoftBank enters Korean market with AI-powered robot vacuum",
       "excerpt": "SoftBank Robotics, an affiliate of Japanese tech giant SoftBank, has announced its bid to enter the Korean market with its artificial intelligence (AI)-powered robot vacuums, its Korean unit said Tuesday.",
@@ -1324,56 +1364,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-28-rite-aid-deployed-facial-recognition-systems-in-hundreds-of-us-stores.md",
-      "title": "Rite Aid deployed facial recognition systems in hundreds of U.S. stores",
-      "excerpt": "Rite Aid quietly added facial recognition systems to 200 stores across the United States over about eight years, in one of the largest rollouts of such technology among retailers in the country ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106635454-15959354852020-07-28t010549z_506450208_rc212i92ohp1_rtrmadp_0_usa-riteaid-software.jpeg?v=1595935517",
-          "width": 3500,
-          "height": 2333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/28/rite-aid-deployed-facial-recognition-in-hundreds-of-us-stores.html",
-      "publishedDateTime": "2020-07-28T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

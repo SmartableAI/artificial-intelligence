@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Michelle Obama's speech to the Democratic convention"
-excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought."
-publishedDateTime: 2020-08-18T12:23:00Z
-webUrl: "https://www.startribune.com/michelle-obama-s-speech-to-the-democratic-convention/572145882/"
+excerpt: "Former first lady Michelle Obama's speech to the Democratic National Convention ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought."
+publishedDateTime: 2020-08-18T14:43:00Z
+webUrl: "https://www.newsday.com/news/nation/michelle-obama-dnc-speech-1.48240536"
+ampWebUrl: "https://www.newsday.com/amp/news/nation/michelle-obama-dnc-speech-1.48240536"
+cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/nation/michelle-obama-dnc-speech-1.48240536"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: Newsday
+  domain: newsday.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1597330052"
-    width: 1680
-    height: 876
+  - url: "https://cdn.newsday.com/polopoly_fs/1.48240537.1597724262!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+    width: 1280
+    height: 719
     isCached: true
 
 related:
@@ -152,6 +154,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Michelle Obama’s DNC Speech And The Emotional Labor Black Women Have Paid For America Time And Time Again"
+    excerpt: "And I say that with full recognition of her place as a Black woman ... Harris ticket from the comfort of her home. She began her speech on a macro level, contemplating the story of America and ..."
+    publishedDateTime: 2020-08-18T15:30:00Z
+    webUrl: "https://madamenoire.com/1183514/michelle-obama-dnc-speech-joe-biden-trump/"
+    ampWebUrl: "https://madamenoire.com/1183514/michelle-obama-dnc-speech-joe-biden-trump/amp/"
+    cdnAmpWebUrl: "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1183514/michelle-obama-dnc-speech-joe-biden-trump/amp/"
+    type: article
+    provider:
+      name: MadameNoire
+      domain: madamenoire.com
+    quality: 42
+    images:
+      - url: "https://ionemadamenoire.files.wordpress.com/2020/08/15977567981531.jpg?crop=20px%2C26px%2C963px%2C550px&resize=560%2C320"
+        width: 560
+        height: 320
+        isCached: true
   - title: "Michelle Obama’s full speech to the Democratic National Convention, annotated"
     excerpt: "Former first lady Michelle Obama's speech took on Trump and Trumpism more directly than she did in her well-received 2016 DNC speech."
     publishedDateTime: 2020-08-18T04:28:00Z
@@ -183,6 +201,22 @@ related:
       - url: "https://ionenewsone.files.wordpress.com/2020/08/15977258084081.jpg?quality=80&strip=all&w=1024&h=629"
         width: 1024
         height: 629
+        isCached: true
+  - title: "Read: Michelle Obama’s full speech from the 2020 Democratic National Convention"
+    excerpt: "Former first lady Michelle Obama delivered a straight-forward, taped speech at the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this ..."
+    publishedDateTime: 2020-08-18T15:48:00Z
+    webUrl: "https://www.ksat.com/news/national/2020/08/18/read-michelle-obamas-full-speech-from-the-2020-democratic-national-convention/"
+    ampWebUrl: "https://www.ksat.com/news/national/2020/08/18/read-michelle-obamas-full-speech-from-the-2020-democratic-national-convention/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/national/2020/08/18/read-michelle-obamas-full-speech-from-the-2020-democratic-national-convention/?outputType=amp"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 40
+    images:
+      - url: "https://www.ksat.com/resizer/3Lsc5rwtSoaUAh5CKttK_9ZLDYU=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/08-18-2020/t_cf7dcfcd0c394908938e215a26fee9bb_name_image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
     excerpt: "The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention. This transcript was provided by the Democratic National Committee."
@@ -232,6 +266,17 @@ related:
         width: 708
         height: 405
         isCached: true
+  - title: "Michelle Obama's DNC speech: read it in full"
+    excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
+    publishedDateTime: 2020-08-18T15:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/aug/18/michelle-obama-dnc-speech-full-transcript"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/aug/18/michelle-obama-dnc-speech-full-transcript"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/aug/18/michelle-obama-dnc-speech-full-transcript"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 24
   - title: "Michelle Obama's Entire DNC Speech"
     excerpt: "(AllHipHop Opinion) Former First Lady Michelle Obama gave a most riveting keynote speech on the first night ... to walk in someone else’s shoes; the recognition that someone else’s experience ..."
     publishedDateTime: 2020-08-18T12:12:00Z
@@ -272,6 +317,6 @@ related:
         height: 892
         isCached: true
 
-secured: "BvLYvSznZWKV9Sq/49E+LlcHZAsx07jhIU2zkspZW43gfDSOURRJoysYyuyuYh4VYPIKZz/AC+yc33Ejy7aSnUh48pHj+TxKtdDwgzuc8fRnNB+Cl05sj/rAULWPI7CuTR0yUmhb15uGe5kafEgdoRThlZhVkfuNbbXtUo47+ZKtpk5SjGPBlTIUX0olxHCIT4aOXLekwvrmgy5dYgjniDzvd5GiGLubdbOMdF5txrCwe2I3/5lCYv3fvlz8g5xIr4wfbXWeetYJDUsnyDTNNWTca0IYFCOuZiDJR99gTWAP6KWZogXemJhP2YQyBZ4SGZqZcKweM1xDtBL7HMtv2A==;WYpbP+aC1l2NrfsEQ7N1+w=="
+secured: "bLoX3mQPd8KvU6BYnilGzwJPY/f+d1IzT1+DuRhaHULyZRlFgKfoP9wEfagpoTizxoJb9dRRgTKEZwazTL/jTCkIOQsj5iXSww51cxx38LcJ6qKONG2TBSxyfURFwu1LrKHBa9EBGr/R6svCUjnA8rdPGTtKDANoKhfUTTnLjUpQ3DG30j5zE4f78Ov28QfFozzI/oCPAcHX35GBopfmdo6HUUXR8JN1Sd3u35c+JRzveFFsQjIbDDbK7L7+nYuK4Xy8eOK+QhNt0/Hin3V7DbDAIGORhABH8wiSPYojdkbtb0N6x9OcGlKq0ALdVshF6wPB/lll+ZAnllY2wOxh5w==;1FU5b71U+ZsOUpJnX/67Dw=="
 ---
 

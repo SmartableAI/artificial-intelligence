@@ -2,6 +2,55 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-29-leverage-ai-to-optimize-customer-service-outcomes.md",
+      "title": "Leverage AI to optimize customer service outcomes",
+      "excerpt": "With a more hands-on approach to AI — that is, using the technology to actually augment everyday communications — workers can gain insight into concepts, workflows and ideas that would otherwise go unnoticed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1147156422.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/29/leverage-ai-to-optimize-customer-service-outcomes/amp/",
+      "publishedDateTime": "2020-07-29T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-29-nvidia-ai-runs-the-mlperf-table-again.md",
       "title": "NVIDIA AI Runs The Mlperf Table Again",
       "excerpt": "NVIDIA has dominated the AI accelerator business since it created the market, growing it to the point where NVIDIA AI revenues will likely overtake the gaming segment over the next year. It is rare in technology that a single company owns a multi-billion-dollar market space without attracting competition,",
@@ -1335,46 +1384,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-ai-chatbot-apps-how-are-the-two-transforming-the-mobile-technology.md",
-      "title": "AI & Chatbot Apps: How Are the Two Transforming The Mobile Technology?",
-      "excerpt": "From small enterprises to some of the giants in the market today, AI and chatbots are being integrated on a large scale and these enhancements are making lives easier in many ways. Speaking of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/1/c85c2f4073de11ea851b2f4e75c7f473/inner1-1595914509259.png?fm=png&auto=format",
-          "width": 700,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/ai-chatbot-apps-two-transforming-mobile-technology/amp",
-      "publishedDateTime": "2020-07-28T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

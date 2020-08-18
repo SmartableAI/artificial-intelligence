@@ -2,6 +2,56 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-08-04-why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online.md",
+      "title": "Why we need more image masking tools to avoid facial recognition systems from identifying us online",
+      "excerpt": "For the past couple of weeks, a new tool to save your photos from facial recognition algorithms has been doing rounds. The tool, called Fawkes, is developed by researchers at the University of ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/04/why-we-need-more-image-masking-tools-to-avoid-facial-recognition-systems-from-identifying-us-online/amp/",
+      "publishedDateTime": "2020-08-04T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-for-robots-its-a-time-to-shine-and-maybe-disinfect.md",
       "title": "For Robots, It’s a Time to Shine (and Maybe Disinfect)",
       "excerpt": "The pandemic has turned cleaning and other mundane building tasks into a challenge, stoking interest in machines as cost-effective solutions.",
@@ -1275,56 +1325,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits.md",
-      "title": "New ‘unselfie’ AI technique makes your selfies look like posed portraits",
-      "excerpt": "Researchers have developed an AI technique that transforms selfies into 'pose-neutral' portraits with relaxed arms and torsos.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/Screenshot252056_photos_v2_x2_photos_v2_x2-e1596470495839_photos_v2_x2-e1596470569733.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/03/new-unselfie-ai-technique-makes-your-selfies-look-like-posed-portraits/amp/",
-      "publishedDateTime": "2020-08-03T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -2,6 +2,56 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-07-13-renewed-sanity-on-campus-yes-to-free-speech-no-to-football.md",
+      "title": "Renewed Sanity On Campus? Yes To Free Speech, No To Football?",
+      "excerpt": "To borrow from the Bard, “To Open, or Not to Open: That is the Question.” Most schools are planning on reopening in some fashion, and in recognition of the fact that interaction between faculty and students, and students with each other, is at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1246069736%2F0x0.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/amp/",
+      "publishedDateTime": "2020-07-13T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-in-the-money-july-13-7-companies-score-funding-from-tech-to-cpg.md",
       "title": "In the money July 13: 7 companies score funding, from tech to CPG",
       "excerpt": "Once a week we wrap up the local companies who scored cash from investors. For a year like this, last week was pretty strong.",
@@ -1329,57 +1379,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-11-deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism.md",
-      "title": "DeepMind researchers propose rebuilding the AI industry on a base of anticolonialism",
-      "excerpt": "DeepMind researchers argue that anticolonial theory should be part of the AI development process to avoid perpetuating algorithmic oppression.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/25926572291_a495f56110_k.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/amp/",
-      "publishedDateTime": "2020-07-11T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
       ]
     }
   ],

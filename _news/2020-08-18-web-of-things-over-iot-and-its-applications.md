@@ -5,8 +5,8 @@ excerpt: "IoT is another bit of technical jargon in the same line as Artificial 
 publishedDateTime: 2020-08-18T12:12:00Z
 webUrl: "https://www.infoq.com/articles/web-of-things-iot-apps/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://res.infoq.com/articles/web-of-things-iot-apps/en/headerimage/croppted-web-of-things-h-1597617659703.jpeg"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "VYXzpNXLt4rU95ZaLd2pIxymGkR/VZpOWixSvOlz8fAeWpTN2Ev4tHHeFeVjGJwbD3rdTW1fN8UmD+d67Z/G28tQ+lREGl1nOZ5R9h2+0pSbWrSOKYdbDfWYFmMHzZLPOTHU8B6TsYzS2AtRlk4xjsmOKEtJjgT4INL+ks5xiWgswjeYD9owX1/T5donBnLM9xeTczeaDWET0mmPtDFkzR3naFrrOP22cT0NoO8JsJV+eslUwEiCOwWwlojmUsQK+Y6JO4l1FZAEQyYWR79JeR2lRFAZ647Qz5Cwcgc7Iq8+xE/PzzKgnbor079U6sV2S6qW9/rJEb7LswDxPKR8Fw==;cK8bRyhdKhq+AwJ2GKRvuw=="
+secured: "y4PKXLMv/YF+TwH7Bv0XrgP/JyLndt0DUu8woLOMvqa1BuCnR2xUhw+5v+s6qosilVFnjQ2DP06DlGabYqI5Ns6KwpNNO4+6q1muBvqBKui/8T0SdvhlczQC349K3q2W+hS0kHcVKlckY0OG8D3CYDX+YMU22oSB8zp6o8FP21WlolZBuAn2euvhqB1/mCVUtBPv65xtlYVyFeUzksDtPf2ZuBm8CvjYjYAE+oHMsLYjO5Kk3VbEOwcKZNzBRzSkBhu/EaubZwnfkeKgc3zVPwZfX9HOiG9EyVklD2FQFmbb6JIlqOfuPet9NbCYDvr8W6ZR5boCkWVywYUzgRdia6liG25DIdPyBv+CNBHxlv3ZbEcfkVqbC1JdmF7QiXdApI/0ORC72l1sZtsAp0gXMKKjW2mqZ+I2xSfEI0RbCzLwfEYID8Pxqxz1cr45G5mVVknjoJcqb6htpV6gOdJ++YSemk6wQ21e28HGg2MjjgB623fAErMxSr+Zc3hkrps/SRSf6V4UzeVw5ZoHbOaxdQ==;QYnnU6BzXlosuQOOLFlMpw=="
 ---
 

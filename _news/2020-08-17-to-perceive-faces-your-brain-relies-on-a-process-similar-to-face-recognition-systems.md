@@ -67,6 +67,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 54
+  - title: "NYC to ‘Reassess’ Police Facial Recognition Software After Raid on BLM Activist"
+    excerpt: "Ingram echoed the same sentiment as he spoke to the Gothamist following the police siege, saying, “We’re being specifically targeted with this [facial recognition] technology because of what ..."
+    publishedDateTime: 2020-08-18T15:11:00Z
+    webUrl: "https://thecrimereport.org/2020/08/18/nyc-to-reassess-police-facial-recognition-software-after-raid-on-blm-activist/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 50
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/08/Screen-Shot-2020-08-18-at-10.49.37-AM-1170x803.png"
+        width: 1170
+        height: 803
+        isCached: true
   - title: "‘Fawkes’ tool protects you from facial recognition online"
     excerpt: "A new software tool called Fawkes can \"cloak\" photos before you upload them to social media to prevent facial recognition algorithms from identifying you."
     publishedDateTime: 2020-08-17T14:35:00Z

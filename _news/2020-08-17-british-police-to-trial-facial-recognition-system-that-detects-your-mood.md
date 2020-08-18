@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/08/17/british-police-to-trial-fac
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 54
+  - title: "NYC to ‘Reassess’ Police Facial Recognition Software After Raid on BLM Activist"
+    excerpt: "Ingram echoed the same sentiment as he spoke to the Gothamist following the police siege, saying, “We’re being specifically targeted with this [facial recognition] technology because of what ..."
+    publishedDateTime: 2020-08-18T15:11:00Z
+    webUrl: "https://thecrimereport.org/2020/08/18/nyc-to-reassess-police-facial-recognition-software-after-raid-on-blm-activist/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 50
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/08/Screen-Shot-2020-08-18-at-10.49.37-AM-1170x803.png"
+        width: 1170
+        height: 803
+        isCached: true
   - title: "To perceive faces, your brain relies on a process similar to face recognition systems"
     excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people who have a rare condition known as hemi-prosopometamophosia (hemi-PMO),"
     publishedDateTime: 2020-08-17T14:20:00Z

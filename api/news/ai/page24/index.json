@@ -2,6 +2,55 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-07-23-safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes.md",
+      "title": "Safehub taps building-mounted motion sensors and AI to detect earthquakes",
+      "excerpt": "That’s not to mention One Concern, which leverages AI and machine learning to advise fire departments how to plan for earthquakes and respond to them. There’s skepticism among some experts ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/LomaPrietaSFDivisideroCollapseMeyer.jpg?w=1200&#038;strip=all",
+          "width": 1140,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/safehub-taps-building-mounted-motion-sensors-and-ai-to-detect-earthquakes/amp/",
+      "publishedDateTime": "2020-07-23T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-stuffthatworks-raises-9-million-to-build-an-ai-powered-crowdsourced-medical-knowledge-platform.md",
       "title": "StuffThatWorks raises $9 million to build an AI-powered, crowdsourced medical knowledge platform",
       "excerpt": "StuffThatWorks, a startup leveraging AI, crowdsourcing, and machine learning to match patients with treatments, today closed a $9 million seed round. CEO Yael Elish says the proceeds will be used ...",
@@ -1371,56 +1420,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center.md",
-      "title": "Elon Musk claims his brain chip can stimulate your pleasure center",
-      "excerpt": "Neuralink‘s mission has never quite been clear. We know it’s working on a chip designed to be surgically inserted into the human skull called a brain-computer interface (BCI), but exactly what and who it’s for remains a bit of a mystery.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg",
-          "width": 796,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
-      "publishedDateTime": "2020-07-22T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,47 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-07-24-facebook-adds-100-million-to-facial-recognition-settlement-over-tagged-photos.md",
+      "title": "Facebook adds $100 million to facial recognition settlement over tagged photos",
+      "excerpt": "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
+      "publishedDateTime": "2020-07-24T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-python-language-what-you-need-to-know.md",
       "title": "Python Language: What You Need To Know",
       "excerpt": "Python is a high-level programming language, easy for beginners and advanced users to get started with,” said Jory Schwach, who is the CEO of Andium.com . “It’s forgiving in its usage, allowing coders to skip learning the nuances that are necessary in other,",
@@ -1091,56 +1132,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-researchers-ai-system-infers-music-from-silent-videos-of-musicians.md",
-      "title": "Researchers’ AI system infers music from silent videos of musicians",
-      "excerpt": "In a study accepted to the upcoming 2020 European Conference on Computer Vision, MIT and MIT-IBM Watson AI Lab researchers describe an AI system — Foley Music — that can generate “plausible ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screenshot2052_photos_v2_x8-e1595531978839.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/amp/",
-      "publishedDateTime": "2020-07-23T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

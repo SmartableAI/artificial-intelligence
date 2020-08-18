@@ -4,12 +4,12 @@
     {
       "path": "_news/2020-08-18-researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri.md",
       "title": "Researchers at Facebook AI, NYU Langone Push Speed Limits of MRI",
-      "excerpt": "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a ... at NYU Langone Health and a co-author of the research. “Our goal is a five-minute MRI.",
+      "excerpt": "Researchers at Facebook Inc. and NYU Langone Health said Tuesday that a two-year experiment demonstrates how artificial intelligence can produce a fourfold increase in the speed of magnetic resonance imaging. The results of the joint effort, which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600?mod=nwsrl_artificial_intelligence&cx_refModule=nwsrl",
+      "webUrl": "https://www.wsj.com/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -24,7 +24,7 @@
       "type": "article",
       "ampWebUrl": "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600",
-      "publishedDateTime": "2020-08-18T06:56:00-07:00",
+      "publishedDateTime": "2020-08-18T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -59,7 +59,7 @@
       "webUrl": "https://www.cnet.com/health/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {

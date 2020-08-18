@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s Revenue Shrinks Under Pressure from ByteDance in Ads"
-    excerpt: "Baidu Inc.’s quarterly revenue shrank 1% and its projections suggest sales could slide again, as rivals like ByteDance Ltd. continue to chip away at its core advertising business."
-    publishedDateTime: 2020-08-13T21:27:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
   - title: "Baidu Q2 revenue shrinks, warns of further decline"
     excerpt: "Revenue for Chinese search giant Baidu contracted 1% in the second quarter compared with the same year-ago period, with the company warning that the"
     publishedDateTime: 2020-08-14T07:55:00Z
