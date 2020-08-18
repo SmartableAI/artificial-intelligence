@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market | Global Industry Trend, Growth Rate, Size, Share, Growth, Trends, and Forecasts 2020-2027"
-    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
-    publishedDateTime: 2020-08-13T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-global-industry-trend-growth-rate-size-share-growth-trends-and-forecasts-2020-2027-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "sKofpsu1yB11XHEWDZTVHoPotW+UFehd0xQeXXHeVSaw0j6ydg/PgAx8eHefLOyGe17JOWU2KQ7nYlmhsVZ4Gh1yoSzaXGnvNe/e+g0V8vj7zm70iOfU3AcaTpnJuRO7hM8dwHKAv5Zufx2poOanY8ltyOsURPcH51keOI9iwlhdzLUDkZfXLNKJJNbyQHoZx6M6xFHbyTtcu/kstmz+u0A8aijUsQhdB/rJEL0b52X1SVdYzCAYi50JLcgSEU2bcNnFYkvt6+t4xtIRLdBcp47zWx62YkAcQRQKh9DGyXleU73qxkilhvuXBONwBjO3MOPzQtjRx0NZePa/a7r+1A==;V4awkRKZn5hFEf567w+fJw=="
 ---

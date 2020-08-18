@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T07:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market | Global Industry Trend, Growth Rate, Size, Share, Growth, Trends, and Forecasts 2020-2027"
-    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
-    publishedDateTime: 2020-08-13T15:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-global-industry-trend-growth-rate-size-share-growth-trends-and-forecasts-2020-2027-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
-excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
-publishedDateTime: 2020-08-16T03:15:00Z
-webUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/"
-ampWebUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
-cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
+title: "NYPD used facial recognition to track down Black Lives Matter activist"
+excerpt: "Photo by Ira L. Black - Corbis/Getty Images The New York City Police Department used facial recognition software to track down a Black Lives Matter activist accused of assault after allegedly shouting into a police officer’s ear with a bullhorn."
+publishedDateTime: 2020-08-18T09:29:00Z
+webUrl: "https://www.theverge.com/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
+ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
 type: article
-quality: 52
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Kim Komando
-  domain: komando.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.vox-cdn.com/thumbor/wbKDmXcD3f3Xc3Al7cSJGKGlHQs=/0x0:5472x3648/1400x933/filters:focal(2299x1387:3173x2261):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218774/1264758330.jpg.0.jpg"
+    width: 1400
+    height: 933
     isCached: true
 
 related:
@@ -41,22 +45,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200728&t=2&i=1527389975&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6R0QQ"
         width: 816
         height: 545
-        isCached: true
-  - title: "NYPD used facial recognition to track down Black Lives Matter activist"
-    excerpt: "Photo by Ira L. Black - Corbis/Getty Images The New York City Police Department used facial recognition software to track down a Black Lives Matter activist accused of assault after allegedly shouting into a police officer’s ear with a bullhorn."
-    publishedDateTime: 2020-08-18T09:29:00Z
-    webUrl: "https://www.theverge.com/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/wbKDmXcD3f3Xc3Al7cSJGKGlHQs=/0x0:5472x3648/1400x933/filters:focal(2299x1387:3173x2261):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218774/1264758330.jpg.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
     excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
@@ -89,6 +77,22 @@ related:
       - url: "https://media.nbcmiami.com/2020/08/CLEARVIEW-UPDATE-PHOTO.png?fit=1200%2C662"
         width: 1200
         height: 662
+        isCached: true
+  - title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
+    excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
+    publishedDateTime: 2020-08-16T03:15:00Z
+    webUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/"
+    ampWebUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 52
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "De Blasio Will Reassess NYPD's Use Of Facial Recognition Tech After Protester Arrest"
     excerpt: "Currently, the department’s Patrol Guide allows police to run facial recognition searches on anyone suspected of a crime or anyone who may have witnessed a crime."
@@ -157,6 +161,6 @@ related:
       domain: thetimes.co.uk
     quality: 19
 
-secured: "xC5pHHpDV4g+FMZcY49jgO8DOiyZ8NUO/RQ8kBMYZ+M1nSreKG3GxvPn4MHOv5hyLOc7Jr33xj+7vCEJXPcmYbhLX2Ajz/mDpKIXVawQKMdSn+f0v8U43fE01yb5iVB8mBdOuAr5J9ocB/0g08W/EW2DlENEI9a52c8p6ciCS5w32WQdaF4STx5tmD12kab0Y7DL+M5MP9+zejc67UTEI9Yq7sNhBc1a9EtsT9BVg1f4qXxx6G6G7xwe1jUlTmm0uwPWOqX9JpDtlh4oqiFaR3zdQvoZxkOQWRwb0V9qOK7PidAz8PPBLfcQwxJ5WlObV3PaiqLSjEIBfcP6sjQpjKHM8wC58zlsho8KP4dcKIHil8I4t1Q6BINI/eqHdsDWliz0NmZebaPorJ1tBawCI28PlCoyjSKRDH2OQaLC1NmEX4hVmSnqAqkSi9jNn32SeyJxHLyJBPkvxM6goctNyliTCj4786iMce5eazwt3bZC85y54L82PzrRI5SaeXu6wyQVtNBPrkKEEuCkzlgFGw==;ANliOOx/OA778a9g7y6AKQ=="
+secured: "Dbhvv6NdKp9DObPkhYgbRlev5R69KhyZTN9Rb1D1Qm7WzYK8e7E37MVulK0Tw2y6IRKe5zO36Rm+Bjsu+0cdQEVRET7B0NtkWxxrdGLsSNmHOIj5mAKzZRWmMZQ6HSg9AB6tylN2v4wZkV8BytzVZ755eF6WwlDwnX9o6eBLQGJLS7mTYFkIL0DLJx1jyDccLY0C/DMt3aDry6h8wyTEYiUstHAri0XcwdAzePewgrewmUYmEmsaQY+t7Ym39dTmzPqYaRLR4/pifPuQtuUXiqyIBhpiULCGnDwDLbEleLgxKEXaV5DySsbus5YoFZBwDwlK1HY2wjvKOSGV9uOq+w==;4f1kFKAd1JafUpNdqpW/LA=="
 ---
 

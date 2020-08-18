@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Michelle Obama 2020 DNC Speech: \"Wrong President\" Trump Can Not Be Who We Need Him To Be"
-excerpt: "Former First Lady Michelle Obama lambasted President Donald Trump for race relations, the economy, and the state of the union in her keynote address at the virtual Democratic National Convention on Monday night."
-publishedDateTime: 2020-08-18T03:28:00Z
-webUrl: "https://www.realclearpolitics.com/video/2020/08/17/michelle_obama_2020_dnc_speech_wrong_president_trump_can_not_be_who_we_need_him_to_be.html"
+title: "Michelle Obama's Speech to the Democratic Convention"
+excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention, as broadcast Aug. 17, 2020: Good evening, everyone. It’s a hard time, and everyone’s feeling it in different ways. And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general."
+publishedDateTime: 2020-08-18T04:03:00Z
+webUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
 type: article
-quality: 15
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://assets.realclear.com/images/51/518702.jpg"
-    width: 1190
-    height: 892
-    isCached: true
 
 related:
   - title: "Full Michelle Obama DNC Speech Transcript and Video"
@@ -56,17 +56,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Michelle Obama's Speech to the Democratic Convention"
-    excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention, as broadcast Aug. 17, 2020: Good evening, everyone. It’s a hard time, and everyone’s feeling it in different ways. And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general."
-    publishedDateTime: 2020-08-18T04:03:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
   - title: "Here's Michelle Obama's Full DNC Keynote Speech, In Case You Missed It"
     excerpt: "Here is Michelle Obama's 2020 DNC speech, in full: \"Good evening ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
     publishedDateTime: 2020-08-18T04:25:00Z
@@ -222,7 +211,21 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 24
+  - title: "Michelle Obama 2020 DNC Speech: \"Wrong President\" Trump Can Not Be Who We Need Him To Be"
+    excerpt: "Former First Lady Michelle Obama lambasted President Donald Trump for race relations, the economy, and the state of the union in her keynote address at the virtual Democratic National Convention on Monday night."
+    publishedDateTime: 2020-08-18T03:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/08/17/michelle_obama_2020_dnc_speech_wrong_president_trump_can_not_be_who_we_need_him_to_be.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 15
+    images:
+      - url: "https://assets.realclear.com/images/51/518702.jpg"
+        width: 1190
+        height: 892
+        isCached: true
 
-secured: "7PONiczGaxvdgY/sfUz9nMUd3xmhHVMYjefqUfdL2YkixN+SzgNZoxaGcwHaH4ocVd6Qgoc8p0SQQMbnIfDp37CRG2M4yLnkyqXu/uIbINik7hvPrRVq82y6yNTgZCcUZQt1cd5h8UZtsdyEMMhb7CkwBLNwa5r26/xubS4uQJONnul2/TMsAc5Enbew7VmNXlKICb0QnYzTRBOQYWgnJ9xR8QeKA8QgHDoX9Lhi+0iId8m52eSZKerE3yAx6FB4RIMwt5nOVTafQqrTKvT3HeQSYuqGsITTPVNlnhNluyG2l2Bu3pLCXwHzIhU18pGUrP9VnLNo2sub6foAm1wOFSxxgQvLNblieyzsXDjKGUpjfpP4rF+h0Cy828QOx+VCcyJ4018YqCNO9ol/OgMb59if8I+pCF8X7u76K1zOdFPiKpoVwEeEMt5Plxh2hLa87mYcobJmLLn7TctTnvFi+2Wkkt1SbxvE73OMiPdnxLa73wIsl07OrttHkPloy5U0cspMXIDiEcI3ni3bMSJseg==;6oPeUoCLQwJTyMRrdX+G2w=="
+secured: "CCpkMskxyd6J8xLcTx56Sc2N1tmhkSTMWo3SniyyBvoqwDKS4oWWvI9DNCivAm0JQSfExXh1D4RXTJg+l5qxXZLfQRoUys3b+D0cIT6SDkFys/laQwUpxI9TlWHFb8HRZbNQLwV2RmuRR3bkOfBWwfOU5PT6QIswaPk0ebk81MKUC1TCpqMchmldfuaLoRyQ7lBk5Nn8dC5BJnSziZ4+ClZNhUlnomo7YPMArJ1ImnY6O1LPg4dyrq2eYGKEiggowinc8KefNspjIgz/s015p0ispqTlPXrw3TbOiqVy0Gv18j6Oie02lhbkvqUnhFJx48QC0gqLpV4B0RCD/zb5dxyneTo97JMkxX5DkbNyxxehjeJcdgC/jVfFPpM5MQhR0HdJRwl4mhfosAAKBOgH4UOxzU4blEP1OlPgJ6hyWfGiEhGICRqV2z0t+Fx9F72XcaZE0ou44ud/W2Q3SuUv5d0C+RJZyQ38HYWomfGckHaQ8GvLjJv8NBY5AguxbnmZ2L+k3IxFf0xDYIXsjLgN1w==;+6V4q0M/+PLy4cxLk0ee5A=="
 ---
 

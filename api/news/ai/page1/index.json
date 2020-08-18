@@ -9,7 +9,7 @@
       "webUrl": "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -38,7 +38,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -49,7 +50,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -99,7 +100,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -395,7 +396,7 @@
       "webUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {

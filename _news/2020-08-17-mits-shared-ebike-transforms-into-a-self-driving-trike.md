@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-t
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How to hack a self-driving car"
+    excerpt: "A car packed with self-driving features could be the ultimate prize for hackers who can’t resist a challenge. Hacking the Model 3 was the final test in the 2019 round of the prestigious Pwn2Own annual hacking event. The competition is lucrative ..."
+    publishedDateTime: 2020-08-18T09:21:00Z
+    webUrl: "https://physicsworld.com/a/how-to-hack-a-self-driving-car/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 24
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2020/08/car-hacker-1197675498-iStock_peshkov.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ZTFLAx0rbXR0ROaye3zBnAq2EKJ2ErJds/iXrW1Jc2XVNWEWo5ycbenF7RM5uqQfNWZAQobIre9ugRkvhnv3HHCj8+S/IMLQV8J0dA8f/Ic/ejgj6ceNeELtWBcFzVKomH445/aZmsyiz2FRe3JhxB7n0g4ibQm43jjdBRaAbLafHYz4aZlk8YCFMpm5oF9I7qMlCoa1IqkYCSOKCH1cvVmMsDRXipW54CQc0Xw4KuvsM2fk5moCRtZPHyiqK2XCu8IRfhAfdc5DUx55AC2rGfbGdIi36oPK54EK8f+SGnICrrfxPHCfbpnIqxW1HgAUdfmPx/3fN1VOUOGLUz/dybKrWr8E6KOLbjT3q486rJfUtuVWJvfVzQ2v4gnYziji261rCB1wmPnJn9N2i9IAL2fpjoWMcDobuzA/2XBtn1v6GN4nSLdKjBoO6lzsST7VPfngiSQT4eRqTN5yAXthcSJg5h4wj6eDmCr3z0V+95bmTjUAmUrNRTIBz3RWajZoLCBYYa3yUG6u1ZKEFF9RaQ==;bAurqH/bwugG086byXdAaA=="
 ---

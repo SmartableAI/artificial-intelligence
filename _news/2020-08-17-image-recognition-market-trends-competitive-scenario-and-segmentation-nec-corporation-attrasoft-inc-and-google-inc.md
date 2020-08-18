@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T05:49:00Z
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-trends-competitive-scenario-and-segmentation-nec-corporation-attrasoft-inc-and-google-inc-2020-08-17"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Image Recognition Market to Benefit from Applications in Security and Surveillance"
+    excerpt: "Video Analytics Market Size, Share and Industry Analysis By Component (Solutions, Services), By Application (Crowd Management, Facial Recognition, Intrusion Detection, License Plate Recognition, Motion Detection, and Others), End-User (BFSI, City ..."
+    publishedDateTime: 2020-08-18T09:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-benefit-from-applications-in-security-and-surveillance-2020-08-18-51843429"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WMy1VIolkEaHGrlEaFTXlrO/EF9tDSJLJbWk6OrhlKo1zRYqMwoqm6qf4OGpm//CrdEOMLcW2VVfMuBubS2xBo6j854Ye+0VZZG97Zu+VhZwIJcMBhN8akl9kjJAX/sLr2yDcmVfARO8e/8Huovn8fWYEuUOaqIpVwMTZzcsOKN+sSFUY3n0u+FgEiBgiVcLn513rv9XTQmRZ4vADczoV4yfDBcVy2DGbpO/NyF5cvgRXry621ncINPJmEVuV2MT9DDLGdRo4IieoCWDCtPtbR7kn/0v2poDn1g43yguLv/ZNUehb3ifGNZ5Ww+NOP6LwxvtElyi7rtn/7Qn56+mRw==;y0SvQgvcpZj8fwfkRhyOdw=="
 ---

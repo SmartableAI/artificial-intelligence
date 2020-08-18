@@ -7,8 +7,8 @@ webUrl: "https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-educa
 ampWebUrl: "https://www.openpr.com/amp/2115110/artificial-intelligence-ai-in-education-market-to-witness"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115110/artificial-intelligence-ai-in-education-market-to-witness"
 type: article
-quality: 72
-heat: 72
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.openpr.com/T/8/T818695716_g.jpg"
@@ -24,6 +25,6 @@ images:
     height: 313
     isCached: true
 
-secured: "bVFcwWh3m3O1D1v5odW9thlDId/mZheVtOwrLsMsl+DYkQPplztdYZX9epil+VUa2wAlbBVWjHgh8EjT17drfAgKlS4XdadACUOYTJSE8CZTWMyjeD7iUu1AAZOC9lW7vJjEUCsSVLv25JkwAZXL53K7r381ZWUftu4aEy6t8/Ij88ulapm0xxpknTuBswTS2ghah779mwPNOICuIhKxvoEweN5WqjUD29S4aciYWkNp3ELez0VdsruSYgo9QX9D3ANC+RTxhaAeoeGou1WHpLH0FTyEmjTAiuk7doNA2jQNcvacJNy+JFI6Hfhozlpjgf4bkrGw3k3q0q3/aGDpYg==;WxaySnFt0MJ/0JuP40jfHA=="
+secured: "P4gmDuz0zWD/q9so1D6gWZIKCzDsAuzYHtllbQIO/+lwMQXwThyLFlUp3cZpVe1q4fAMiehw7JaCXpfNEV7bI4kT2vbUsxEkGXGsll5KQ3GTFTBzqBUW+BfEADk2GTNSd273QJ19wrmMzjfy4aHFjXMykLWbgyqjiYS7OOTptxPt9dgDn9KqYfftklG8CH0XPy+yNMgXzk/mzwxspABb5Abwg0+zULbBpJrtmvReviyyDF6IPcTfXeDduT/uK8yVpJfBjXKG8zPT61HI8Jw0eZwBdlQph4MDQfPr+CqSyhUSFnW9plVA15+YhDcqb6zc4+eDJQmUt7tjhQ7CRf/RQhmgF+QHYvYua+afAgLPry2+SJqeF2O/f7n0oIpJyUnUnOcvHVww9OnuAhm7uarwcc5DWhwIVK8ZdlzeMvF8pu+DGbyRTMAFFU3Uzuhj7eNlCmcZBFnFBTxJDqToNIXkCC5Jq6NbUOwvM4nqpngJh3IaP5hoPKZ57AhN5bySGsZNOgpgLjUS3RnCNVUaMPH8cQ==;/pAr+03sUC6cxzw3gjxpGg=="
 ---
 

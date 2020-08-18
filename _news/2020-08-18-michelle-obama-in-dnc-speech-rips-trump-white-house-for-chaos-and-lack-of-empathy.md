@@ -46,6 +46,17 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Michelle Obama's Speech to the Democratic Convention"
+    excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention, as broadcast Aug. 17, 2020: Good evening, everyone. It’s a hard time, and everyone’s feeling it in different ways. And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general."
+    publishedDateTime: 2020-08-18T04:03:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "Here's Michelle Obama's Full DNC Keynote Speech, In Case You Missed It"
     excerpt: "Here is Michelle Obama's 2020 DNC speech, in full: \"Good evening ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
     publishedDateTime: 2020-08-18T04:25:00Z
@@ -143,18 +154,18 @@ related:
         height: 629
         isCached: true
   - title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
-    excerpt: "The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention. This transcript was provided by the Democratic National Committee."
-    publishedDateTime: 2020-08-18T07:34:00Z
-    webUrl: "https://www.11alive.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    excerpt: "Former First Lady Michelle Obama closed out the first night of the 2020 Democratic National Convention. The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention."
+    publishedDateTime: 2020-08-18T08:34:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
+      name: KHOU 11
+      domain: khou.com
     quality: 39
     images:
-      - url: "https://media.11alive.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
+      - url: "https://media.khou.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
         width: 750
         height: 422
         isCached: true

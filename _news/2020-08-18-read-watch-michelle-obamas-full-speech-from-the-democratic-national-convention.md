@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
-excerpt: "The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention. This transcript was provided by the Democratic National Committee."
-publishedDateTime: 2020-08-18T07:34:00Z
-webUrl: "https://www.11alive.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
-cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+excerpt: "Former First Lady Michelle Obama closed out the first night of the 2020 Democratic National Convention. The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention."
+publishedDateTime: 2020-08-18T08:34:00Z
+webUrl: "https://www.khou.com/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/michelle-obama-dnc-full-speech/507-e1c2b305-507d-45c1-bd3c-7713e482b71a"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: 11Alive
-  domain: 11alive.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.11alive.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
+  - url: "https://media.khou.com/assets/WZZM/images/cb702bd3-9cd1-4250-9d43-bdafa49dee47/cb702bd3-9cd1-4250-9d43-bdafa49dee47_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -58,6 +58,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Michelle Obama's Speech to the Democratic Convention"
+    excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention, as broadcast Aug. 17, 2020: Good evening, everyone. It’s a hard time, and everyone’s feeling it in different ways. And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general."
+    publishedDateTime: 2020-08-18T04:03:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "Here's Michelle Obama's Full DNC Keynote Speech, In Case You Missed It"
     excerpt: "Here is Michelle Obama's 2020 DNC speech, in full: \"Good evening ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
     publishedDateTime: 2020-08-18T04:25:00Z
@@ -212,6 +223,6 @@ related:
         height: 892
         isCached: true
 
-secured: "FHJm+cMkGoyUrv9LBjrST1DOvKUVW4/q/+/nGyUFNnZqT39XsXN/mhOqNOEgUzt6qOgWRCvzc50Z8njdjkIe1wV45Icx9QErmHh9k60y2W/9XIomRXl7M5IG7ZoH1mLiQYwXTF5FgbKg1Nz/ub7wpt0/F48VzRkAP/dupCxHMRPI4CLuX4jDhEkWBWamAiHxuMDD7wrVR4/wzunA/8E5HtAokoQraAcUx8MHmtrZW+zrPiYyzeXUR8zfXBKiv4JU9iVKa6LXSS4XE2WzvznnFSyur4xxz/8dWr5VRkLdAPWz2OVpjwrO4xUI/ztUW33dDIN7tqd4T22K0NE5dFN9yA==;2uiomfBmn9Obe6pEM4tF1Q=="
+secured: "5B1CYMeEOwT/B6Diu2um/wq2FuIer/yYg7kezRcUVpNPRoncnD/dSlNNw2bgHgm8ZTv4rv3BOigbeiqyGgK7ek3PwdVRJlyW3S8pXrFI3i7QiLLr6veepN61yGqCMsByRDcLkltl8sEzoBAp+pGVz6Xbr+V8go+5jBBYXG63WXfDf/nwyZNdlM1LorvAcZ+xe5biYw5qwl94+Vx+FnogtgWEFZp0UjjVZHPC+1rkjgAvC0i9PVW9hzueQu2DDfyFijbRzQ5KLAFXZpue2d9vsSU9hcHAp+J9gNijb2ktiUQao1BuqGJ/h56IvcWFNNx8UiRYLtUaunCloL9E2gY+Ng==;BrIGBGMU4f934Z6tnNRf8g=="
 ---
 
