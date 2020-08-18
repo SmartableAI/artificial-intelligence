@@ -9,7 +9,7 @@
       "webUrl": "https://www.techrepublic.com/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -81,6 +81,55 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-ai-based-traffic-management-gets-green-light.md",
+      "title": "AI-based traffic management gets green light",
+      "excerpt": "Technology convergence allows for safer automated traffic lights with less waiting. When it's time to contract with an outside vendor for IT solutions, you need an easy way to compare the relative merits and faults of competing providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-based-traffic-management-gets-green-light/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/4583de6c-e053-4b17-b5b9-9a2f1b4b432c/green-go.jpg",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
+      "publishedDateTime": "2020-08-17T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -821,6 +870,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-17-self-driving-wheelchair-market.md",
+      "title": "Self Driving Wheelchair Market",
+      "excerpt": "The Self Driving Wheelchair Market report includes overview which interprets value chain structure industrial environment regional analysis applications market size and forecast This is a latest report covering the current COVID 19 impact on the market The pandemic of Coronavirus",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2114444/self-driving-wheelchair-market-to-2026-high-growth",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T817502014_g.jpg",
+          "width": 800,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth",
+      "publishedDateTime": "2020-08-17T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-colgates-latest-ai-powered-smart-toothbrush-starts-at-50.md",
       "title": "Colgate's latest AI-powered smart toothbrush starts at $50",
       "excerpt": "Smart toothbrushes have been around for a few years now, but they haven’t quite caught on. Colgate, however, has come up with a potential alternative. The rechargeable model is $69.99, while the one with replaceable batteries is only $49.",
@@ -976,7 +1066,7 @@
       "webUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1329,96 +1419,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-artificial-intelligence-and-machine-learning-market-evolving-technology-and-growth-outlook-2020-to-2024.md",
-      "title": "Artificial Intelligence and Machine Learning Market Evolving Technology and Growth Outlook 2020 to 2024",
-      "excerpt": "Global Artificial Intelligence and Machine Learning Market Size, Status and Forecast 2020-2024 is latest research study released, highlighting, opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2113476/artificial-intelligence-and-machine-learning-market-evolving",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/8/T815418051_g.jpg",
-          "width": 562,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2113476/artificial-intelligence-and-machine-learning-market-evolving",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113476/artificial-intelligence-and-machine-learning-market-evolving",
-      "publishedDateTime": "2020-08-15T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-08-15-these-4-drugmakers-are-using-ai-to-improve-their-products-does-it-make-them-better-buys.md",
-      "title": "These 4 Drugmakers Are Using AI to Improve Their Products. Does It Make Them Better Buys?",
-      "excerpt": "AstraZenca, GlaxoSmithKline, Novartis and Eli Lilly are using artificial intelligence systems to help in drug development, decision-making, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F587771%2Fartificial-intelligence-getty-628.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/08/15/these-4-drugmakers-are-using-ai-to-improve-their-p/",
-      "publishedDateTime": "2020-08-15T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

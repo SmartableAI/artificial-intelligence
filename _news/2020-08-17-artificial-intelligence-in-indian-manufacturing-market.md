@@ -26,34 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Robots Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,"
-    publishedDateTime: 2020-08-13T19:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research-2020-08-13"
+  - title: "Self Driving Wheelchair Market"
+    excerpt: "The Self Driving Wheelchair Market report includes overview which interprets value chain structure industrial environment regional analysis applications market size and forecast This is a latest report covering the current COVID 19 impact on the market The pandemic of Coronavirus"
+    publishedDateTime: 2020-08-17T13:29:00Z
+    webUrl: "https://www.openpr.com/news/2114444/self-driving-wheelchair-market-to-2026-high-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: openpr.com
+      domain: openpr.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/8/T817502014_g.jpg"
+        width: 800
+        height: 529
         isCached: true
-  - title: "Artificial Intelligence Market Research Insights 2020, Size, Share, Trends, Competitive Landscape, and COVID-19 Impact Forecast till 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report includeIBMCorp(NYSE:IBM),"
-    publishedDateTime: 2020-08-13T19:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-insights-2020-size-share-trends-competitive-landscape-and-covid-19-impact-forecast-till-2025-2020-08-13"
+  - title: "AutoX corners Shanghai self-driving taxi market"
+    excerpt: "A company that seemingly came out of nowhere in 2018 and has been leading the pack in self-driving services ever since is about to corner its home market, the globally strategic city of Shanghai. Since April,"
+    publishedDateTime: 2020-08-17T11:00:00Z
+    webUrl: "https://www.zdnet.com/article/autox-corners-shanghai-self-driving-taxi-market/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/autox-corners-shanghai-self-driving-taxi-market/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/autox-corners-shanghai-self-driving-taxi-market/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
 
 secured: "x/mFzC4hXc93oaf4malEJVSa0zY0uskvnD1fElovi7Yuay8LCJe1zf9ni4JGB7GrHXQWycr4+97+P/D5VfyFqmUVJAbQ3L2VNZHRNKvOX0CWHpUnVJe8N850Gvhr7NXW7hHIByp3ouR4y0P/DTFTVzpPZDW1rzfdYtAwe6/56dVeRO8LNq8kMYCbacolOzjLYgN+tI4yH4FNlChLH6rYi9q7/DH89HLkYWmRDqMmS5zi8QJ5fKLf+hWkszkAiF7+RIIyHyS/iBLaoMFp9xXeEathoYJsgRCx52oJxJ1vowEGDTHnOlBYNfOp3/d7r63bmxWgmAIkDpav3DdpuerMl1P1X5HEwOcoYCgk0vxhSdJ1RQCEszFjFlkmIE2OeoqYA5Yqmh6k8jcpYjHLufv5gzflZECZZsU2A5SjpHlFSZ0OJp+yZgXR35Ozwewb8E4KALtNCVYiTnWoDkS4S9Y1ERkNyksqZ3Gca38gjlntW1J3B98tKYN63qyP/a553f4Z;Cc7sLpl7/H2ntC9uYGpZSw=="
 ---

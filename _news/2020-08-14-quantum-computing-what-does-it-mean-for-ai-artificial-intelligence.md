@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/08/14/quantum-computing-what-does-it-mean-for-ai-artificial-intelligence/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "What Toshiba’s Investment In AI And Quantum Cryptography Means For The Company"
-    excerpt: "Having given up the nuclear project in the US, the Japanese multinational conglomerate reported an operating profit for fiscal 2019, which tripled in the year to 130.5 billion yen. At the same time, the group has dropped some core operations,"
-    publishedDateTime: 2020-08-13T08:33:00Z
-    webUrl: "https://analyticsindiamag.com/what-does-toshibas-recent-investment-in-ai-and-cryptography-projects-in-japan-mean-for-the-company/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 35
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/08/toshiba-business-investments.jpg"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "aB9q7/c9MeuKMoE8zt/HsrW5j/4nNNeA5vip2T54FpYqBo7GXDZuOujaayH7QHXvInfM/MqTom5ESp1hoCWOLIfnr5no+M3DxAAT07kP+qVHDylKT+b05y/QkX7KrC4IiHv4L5tvNCU3BrV3nnz3dMqDAOVmlyAWxh4K3YVHDhbs4kFrbOwMaH//MjS7YTycwT378hUU3BIAmdHS/MRvcn2fbGG7vEhWYdIHUKthPFBBIg0KWmG3wBQvc3SQS6BnLgwEMn+qOjvjNKW9oVREFSCNLZiv0QsCTa2WEl9CgnAE2iAiljdbl6kWLdAQNnAnkwOSkN0wAqE2pT/DAO9TwnVAocEo9Zhno1MsWFwpguCbO7bcvQhliP7Gq9M0ztsB9mGCAaDB1jsD8neGWpups/nxrcBJC021pXi7EEVpLpTjDAmbMqAU97SdubBFJbk21SiRlirkXrLjqR4azkE3nijOV1zwSbClJ8GLDXODrUzWPQSyQzqdF8zR0MhHrkzW;IODfxXMIj5p1pR6cjbN0pg=="
 ---

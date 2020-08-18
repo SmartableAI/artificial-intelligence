@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-15T00:32:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-08-12"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Analytics Market latest Trends and New Technologies Research Forecast to 2026"
-    excerpt: "A Research study on Cognitive Analytics Market analyzes and offers ideas of exhaustive research on ancient and recent Cognitive Analytics market size. Along with the estimated future possibilities of the market and emerging trends in the Cognitive Analytics market."
-    publishedDateTime: 2020-08-13T07:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-latest-trends-and-new-technologies-research-forecast-to-2026-2020-08-13"
+  - title: "Global Cognitive Computing Market 2020 Report Explores Key Regions, Company Profile, Opportunity and Challenge to 2025"
+    excerpt: "Global Cognitive Computing Market by Manufacturers, Countries, Type and Application, Forecast to 2025 offers a much-awaited study on the global market as an honest review of the industry. The report sheds light on insights related to the present scenario of the global Cognitive Computing market and the industry scenario over the forecast timespan from 2020 to 2025."
+    publishedDateTime: 2020-08-16T23:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-computing-market-2020-report-explores-key-regions-company-profile-opportunity-and-challenge-to-2025-2020-08-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

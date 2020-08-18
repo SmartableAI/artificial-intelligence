@@ -2,6 +2,197 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-12-how-broadcom-may-have-helped-make-googles-latest-ai-chip.md",
+      "title": "How Broadcom May Have Helped Make Google’s Latest AI Chip",
+      "excerpt": "Broadcom’s application-specific integrated circuit business is currently generating $750 million in full-year revenue, up from $50 million in 2016, according to J.P. Morgan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-220164/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076",
+      "publishedDateTime": "2020-08-12T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-research-shows-natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well.md",
+      "title": "Research shows natural language benchmarks don’t measure AI models’ general knowledge well",
+      "excerpt": "Researchers find evidence that popular benchmark data sets do a poor job of measuring natural language models' general knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/amp/",
+      "publishedDateTime": "2020-08-12T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-accessing-data-sources-from-amazon-sagemaker-r-kernels.md",
+      "title": "Accessing data sources from Amazon SageMaker R kernels",
+      "excerpt": "Amazon SageMaker notebooks now support R out-of-the-box, without needing you to manually install R kernels on the instances. Also, the notebooks come pre-installed with the reticulate library, which offers an R interface for the Amazon SageMaker Python SDK and enables you to invoke Python modules from",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accessing-data-sources-from-amazon-sagemaker-r-kernels/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/10/sagemaker_r_datasources-001.jpg",
+          "width": 800,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T12:10:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-12-fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems.md",
+      "title": "Fawkes photo tool lets anyone secretly ‘poison’ facial recognition systems",
+      "excerpt": "Unknown to the public, some companies are quietly downloading this content en masse and using it to create secret facial recognition models of the subjects…but there’s a solution, and it is called Fawkes. Facial recognition models are, quite obviously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/08/fawkes_mask_main_uns.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/fawkes-photo-tool-lets-anyone-secretly-poison-facial-recognition-systems-12633132/amp/",
+      "publishedDateTime": "2020-08-12T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-12-artificial-intelligence-market-2020-2024-trends-market-share-growth-opportunity.md",
       "title": "Artificial Intelligence Market 2020-2024 / Trends, Market Share, Growth, Opportunity",
       "excerpt": "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach",
@@ -1095,56 +1286,6 @@
       ]
     },
     {
-      "path": "_news/2020-08-12-workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace.md",
-      "title": "Workday and IBM Expand Partnership to Help Customers Plan Return to the Workplace",
-      "excerpt": "AI Applications, IBM Cloud and Cognitive Software. \"By partnering with Workday on a joint solution, we're extending the capabilities delivered by Watson Works to help customers gain greater ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-08-11-amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy.md",
       "title": "Amazon Forecast can now use Convolutional Neural Networks (CNNs) to train forecasting models up to 2X faster with up to 30% higher accuracy",
       "excerpt": "We’re excited to announce that Amazon Forecast can now use Convolutional Neural Networks (CNNs) to train forecasting models up to 2X faster with up to 30% higher accuracy. CNN algorithms are a class of neural network-based machine learning (ML) algorithms that play a vital role in Amazon.com’s demand",
@@ -1291,146 +1432,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-seattle-based-threat-response-startup-stabilitas-acquired-by-onsolve.md",
-      "title": "Seattle-based threat response startup Stabilitas acquired by OnSolve",
-      "excerpt": "Critical event management company OnSolve today announced the acquisition of Stabilitas, a 7-year-old Seattle startup that sells threat response software. Stabilitas combines crowdsourced",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/11/5ada3a2ffcceb96958cf2d96_Screen20Shot202017-09-2120at2017.41.18-p-500-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-based-threat-response-startup-stabilitas-acquired-onsolve/amp/",
-      "publishedDateTime": "2020-08-11T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-hyundai-aptiv-name-self-driving-joint-venture-motional.md",
-      "title": "Hyundai, Aptiv name self-driving joint venture Motional",
-      "excerpt": "South Korean automaker Hyundai Motor Co <005380.KS> and auto supplier Aptiv PLC have named their self-driving joint venture Motional, the companies said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-hyundai-motor-self-driving-aptiv/hyundai-aptiv-name-self-driving-joint-venture-motional-idUSKCN2571O6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200811&t=2&i=1529199533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG7A0YZ",
-          "width": 849,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2571O6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2571O6",
-      "publishedDateTime": "2020-08-11T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare.md",
-      "title": "7 AI Stocks to Buy for the Increasing Digitization of Healthcare",
-      "excerpt": "Healthcare digitization accelerated dramatically in response to the coronavirus pandemic, raising prospects for these AI stocks to buy.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/10/artificial-intelligence.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/08/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare/amp/",
-      "publishedDateTime": "2020-08-11T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

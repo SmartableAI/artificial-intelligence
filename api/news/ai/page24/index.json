@@ -2,6 +2,146 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-07-22-googles-ai-based-product-recommendations-tool-is-now-available-in-beta.md",
+      "title": "Google's AI-based product recommendations tool is now available in beta",
+      "excerpt": "Google announced today that its Recommendations AI service, designed to provide a personalized product recommendations to online customers, is now rolling out to the public in beta.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/googles-ai-based-product-recommendations-tool-is-now-available-in-beta",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2018/02/1518707530_google2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/",
+      "publishedDateTime": "2020-07-22T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-new-york-bans-use-of-facial-recognition-in-schools-statewide.md",
+      "title": "New York bans use of facial recognition in schools statewide",
+      "excerpt": "New York state passed legislation that would ban the use of facial recognition in schools, if signed by Governor Andrew Cuomo.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/",
+      "publishedDateTime": "2020-07-22T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-ram-promaster-vans-will-test-waymos-self-driving-technology-for-commercial-use.md",
+      "title": "Ram ProMaster Vans Will Test Waymo's Self-Driving Technology for Commercial Use",
+      "excerpt": "The road to autonomous driving is an extremely long journey. While some companies are going it alone, FCA has decided teaming up with Waymo is the best way to bring Level 4 self-driving to its lineup. This means that, when the technology is ready ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.caranddriver.com/news/a33395020/waymo-fca-ram-promaster-self-driving/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ram-promaster-mmp-1-1593097917.jpg?crop=0.667xw:0.686xh;0.176xw,0.187xh&resize=1200:*",
+          "width": 960,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/",
+      "publishedDateTime": "2020-07-22T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-inference-chips-benefit-from-a-concurrent-design-approach.md",
       "title": "Inference Chips Benefit from a Concurrent Design Approach",
       "excerpt": "Today, customer models are neural networks and they come in Open Neural Network Exchange (ONNX ) or TensorFlow Lite open-source formats. Software takes these neural networks and applies algorithms ...",
@@ -1213,147 +1353,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-did-a-person-write-this-headline-or-a-machine.md",
-      "title": "Did a Person Write This Headline, or a Machine?",
-      "excerpt": "GPT-3 was built by directing machine-learning algorithms to study the statistical patterns in almost a trillion words collected from the web and digitized books. The system memorized the forms of countless genres and situations, from C++ tutorials to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f177a60a5050d907f3c5f70/master/pass/business_text_1202278559.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/amp",
-      "publishedDateTime": "2020-07-22T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-new-look-for-microsoft-office-and-microsoft-365-will-tackle-work-life-distractions-on-desktop-and-mobile.md",
-      "title": "New look for Microsoft Office and Microsoft 365 will tackle work-life distractions on desktop and mobile",
-      "excerpt": "Microsoft readies a new ribbon UI for Office that can move around the window and offers commands the second they're needed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/22/3abb2f18-7749-4c6e-b7e9-b8dc66d38100/thumbnail/1200x675/b2ca1d434b81a43f8b36d8e8ab7e4224/istock-867179816.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-office-redesign-tackles-work-life-distractions-on-desktop-and-mobile/",
-      "publishedDateTime": "2020-07-22T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-police-claim-violent-extremists-exploit-coronavirus-to-defeat-facial-recognition-leaked-files-show.md",
-      "title": "Police claim 'violent extremists' exploit coronavirus to defeat facial recognition, leaked files show",
-      "excerpt": "Leaked documents reveal the message sent to police behind closed doors: face masks \"embolden some individuals to escalate violence.\"",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F22%252F56%252Faa3f838f27ed4b0790aeec22bb0c2b29.eb367.jpg%252F1200x630.jpg?signature=LYdsF0JHdjMt-Mdl8_3CQBS14UU=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition.amp",
-      "publishedDateTime": "2020-07-22T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

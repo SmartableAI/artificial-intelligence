@@ -35,6 +35,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 24
+  - title: "Global recognition for social enterprise"
+    excerpt: "AN initiative to empower refugee families to be self-sufficient and rebuild their lives has earned local food start-up PichaEats the Expo Live Innovation Impact Grant."
+    publishedDateTime: 2020-08-18T00:40:00Z
+    webUrl: "https://www.thestar.com.my/metro/metro-news/2020/08/18/global-recognition-for-social-enterprise"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823671.jpg"
+        width: 1240
+        height: 556
+        isCached: true
 
 secured: "1ZaHNBSDp+u3VQy3umMvETk5MfRZnIGjA701P/xeFdKFFagodSsoVyD1xA+REqXUBYZCA/JoMNhYe7UoJWiOI2A/ViCNGfQdPrRMJ4rifsVnRNwg4m+qnQeOrR6PQQqAVllciCTPRsmGxDCL/T4vULeaj7c3RBim+65kGId3vS62WrbP7g0VUvDWx52TLJancBIU3exnlUQURVoNEM0CC8K43lN57QzBUb9wRb+ssbkVPgcbVE3643ix777BLNCSZ0wLm2SINFiFRvSIxcnrMnmfVzSA89VhWU1/12M42kpDif6XoB7NqLWc+3lRx/U1/IRBuqMGVOnLzm5kIF+qLw==;MpIuqZqNzrixnTSGO/0u1g=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 613
         isCached: true
+  - title: "AI Will Transform How The Air Force's Next Stealth Fighter Fights"
+    excerpt: "Should the Air Force and Navy prioritize the engineering of an entirely new platform with paradigm-changing technologies for a 6th-Generation fighter, or simply keep upgrading the state of the art 5th-Gen aircraft in the near term?"
+    publishedDateTime: 2020-08-18T01:05:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/ai-will-transform-how-air-forces-next-stealth-fighter-fights-167098"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-07-04T000000Z_1501579324_RC2NMH9PG8VW_RTRMADP_3_USA-JULYFOURTH%20%281%29.JPG"
+        width: 1400
+        height: 933
+        isCached: true
 
 secured: "GV+v521b0x7VFNUGrcMtc7SWSgD7ZHO5U5vr3LLDz77bT83a0CzuXEwqS3N24nhQF32xnq2r00epV8tizNNZTcdqdbaskBjRKeWDqFYTTdD4VdWd1S32ySdFHEoFkN9mTy45DffwV+K75zZPA8v9dRgNVTd/ZYxgQGYW2IFoOuNxshXI0yVJNa9z5JiJyDLWAjASOWTjR3siwrXYDkxJ7U1ZOe/zadbsAy05ERjEw1koRDdmw/cIGO3Kc1klBKtJhIieV1jxF8KlrmuSem/6PrKoqxi0wkYeHOWDRGhDuBt1UfpH0BPxz5qQZ1QxLQ+VjRHNpG3P+oc3DIDZ0robuzm95WpAKibsxmIGDGbcitO1iz8WVw/RdoQn+P14RVYKXTmdUsTrJ+B/ErPPt2/e6NlOdc3T5KL1g0qA9nFo/4IcF5VwUE6dItOiHOvWjpjByoAAUgWDDwrth/TFfA869Kl37bE5+tFsb3ACLIDtIHwhgZGxV+z0D0FKE+pDH3JlVrJ6SSvQKpRzuPBTLHgV/A==;WrF8Te3ExBYPSyckULchYQ=="
 ---

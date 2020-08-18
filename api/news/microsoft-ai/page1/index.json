@@ -50,7 +50,7 @@
       "webUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -168,31 +168,22 @@
     {
       "path": "_news/2020-08-11-avanade-named-strategic-go-to-microsoft-azure-partner-in-new-global-alliance-with-databricks.md",
       "title": "Avanade named strategic go-to Microsoft Azure partner in new global alliance with Databricks",
-      "excerpt": "Avanade, the leading digital innovator on the Microsoft ecosystem, and Databricks, the leading provider of unified data analytics solutions, have fo",
+      "excerpt": "Avanade will become Databricks’ key global partner and benefit from its deep knowledge and experience in massive scale data engineering, and collaborative data science, complementing Avanade’s Azure data and AI capabilities.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmo.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/",
+      "webUrl": "https://www.reseller.co.nz/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg",
-          "width": 620,
-          "height": 254,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-10T22:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
         "images": null,
         "publishers": null,
         "authors": null
@@ -396,15 +387,24 @@
       "title": "Google, IBM, Microsoft AI models fail to curb gender bias",
       "excerpt": "Revealing another dark side of trained Artificial Intelligence (AI) models, new research has claimed that Google AI datasets identified most women wearing masks as if their mouths were covered by duct tapes.",
       "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html",
+      "webUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/googlelogoani-tjgpVRcjhjfei.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-education-uiiglLcjcbfhe.html",
+      "ampWebUrl": "https://www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/google-ibm-microsoft-ai-models-fail-to-curb-gender-bias-news-topnews-uiigkBfjdcffj.html",
       "publishedDateTime": "2020-08-07T23:16:00-07:00",
       "updatedDateTime": null,
       "provider": {

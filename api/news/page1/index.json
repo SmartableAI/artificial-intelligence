@@ -9,7 +9,7 @@
       "webUrl": "https://www.techrepublic.com/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -81,6 +81,55 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-ai-based-traffic-management-gets-green-light.md",
+      "title": "AI-based traffic management gets green light",
+      "excerpt": "Technology convergence allows for safer automated traffic lights with less waiting. When it's time to contract with an outside vendor for IT solutions, you need an easy way to compare the relative merits and faults of competing providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-based-traffic-management-gets-green-light/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/4583de6c-e053-4b17-b5b9-9a2f1b4b432c/green-go.jpg",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
+      "publishedDateTime": "2020-08-17T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -821,6 +870,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-17-self-driving-wheelchair-market.md",
+      "title": "Self Driving Wheelchair Market",
+      "excerpt": "The Self Driving Wheelchair Market report includes overview which interprets value chain structure industrial environment regional analysis applications market size and forecast This is a latest report covering the current COVID 19 impact on the market The pandemic of Coronavirus",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2114444/self-driving-wheelchair-market-to-2026-high-growth",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T817502014_g.jpg",
+          "width": 800,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2114444/self-driving-wheelchair-market-to-2026-high-growth",
+      "publishedDateTime": "2020-08-17T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-17-colgates-latest-ai-powered-smart-toothbrush-starts-at-50.md",
       "title": "Colgate's latest AI-powered smart toothbrush starts at $50",
       "excerpt": "Smart toothbrushes have been around for a few years now, but they haven’t quite caught on. Colgate, however, has come up with a potential alternative. The rechargeable model is $69.99, while the one with replaceable batteries is only $49.",
@@ -976,7 +1066,7 @@
       "webUrl": "https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1098,97 +1188,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership.md",
-      "title": "DBS Bank looks to train 3,000 employees in AI with AWS partnership",
-      "excerpt": "Singapore bank will run online tutorials for DBS employee to pick up fundamentals of artificial intelligence and machine learning, so they can eventually programme their own autonomous race car for the AWS DeepRacer league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dbs-bank-looks-to-train-3000-employees-in-ai-with-aws-partnership/",
-      "publishedDateTime": "2020-08-16T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads.md",
-      "title": "IBM unveils Power10 processor for big data analytics and AI workloads",
-      "excerpt": "At the Hot Chips 2020 virtual conference, IBM unveiled the Power10, its first commercial 7-nanometer processor, manufactured by Samsung.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/POWER-10_06-e1597548323219.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/16/ibm-unveils-power10-processor-for-big-data-analytics-and-ai-workloads/amp/",
-      "publishedDateTime": "2020-08-16T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

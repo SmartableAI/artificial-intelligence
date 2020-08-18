@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market | 2020 Industry Analysis By Size, Growth Projection, Share And Global Trends Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market | 2020 Global Industry Forecast by Size, Share, Trends and Growth Forecast"
-    publishedDateTime: 2020-08-13T07:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-industry-analysis-by-size-growth-projection-share-and-global-trends-forecast-to-2026-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence Market | Global Industry Trend, Growth Rate, Size, Share, Growth, Trends, and Forecasts 2020-2027"
     excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
     publishedDateTime: 2020-08-13T15:39:00Z

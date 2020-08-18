@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T11:00:00Z
 webUrl: "https://www.fastcompany.com/90539275/facebooks-ai-for-detecting-hate-speech-is-facing-its-biggest-challenge-yet"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook ramps up artificial intelligence to detect hate speech"
-    excerpt: "The latest data from the social media company shows AI helped it detect 95% of the hate speech it removed between April and June."
-    publishedDateTime: 2020-08-13T08:53:00Z
-    webUrl: "https://www.itweb.co.za/content/Olx4zMknpRo756km"
-    ampWebUrl: "https://amp.itweb.co.za/content/Olx4zMknpRo756km"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Olx4zMknpRo756km"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 57
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/08/facebook-smartphone-2020.jpg"
-        width: 816
-        height: 459
-        isCached: true
   - title: "Facebook’s AI for detecting hate speech is facing its biggest challenge yet"
     excerpt: "Advancements in AI have dramatically improved the company’s ability to identify written hate speech. But when it comes to rooting out hateful images, videos, and memes, Facebook’s AI has a long way to go."
     publishedDateTime: 2020-08-14T11:00:00Z

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Indian Manufacturing Market"
-    excerpt: "A new research document is added in HTF MI database of 56 pages titled as Artificial Intelligence in Indian Manufacturing Industry 2020 with detailed analysis Competitive landscape forecast and strategies The study covers geographic analysis that includes regions and important"
-    publishedDateTime: 2020-08-17T07:35:00Z
-    webUrl: "https://www.openpr.com/news/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
-    ampWebUrl: "https://www.openpr.com/amp/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113931/artificial-intelligence-in-indian-manufacturing-market-may-see"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/8/T817462239_g.jpg"
-        width: 600
-        height: 399
-        isCached: true
 
 secured: "fqVGR+lbvL7lDtOL4eGPr0kcf0hQchNTmhWvHRkSNocMn186idkPMu0a0GDvsBsIhW24GEBhO3ffqa8VtCmyc5o9mVdqLyTWPeUKCxE8TQLfMQIY2n5r1Vb+1VuoPeaROw7UXgHSTodB9gedADtI+gdnWVjj8Ahl7aVaA48OeNXfywmFcti/ybMlaQ5O0oG9b1UAVoC6D4fHvLvAX02DxRRp1jiSuBPuM0gPgObTs6pi4wxftjia7MrHhZ+vKP1kbA0YBvsl1hZrVrw1/rNEDPR0v6f5MoltOa1m6MI8Js/ViEUGsoHleDCWu4EsoBEQQtuZW/hPvuOip3Ul+gayEg==;1Xde17QYJFNidvnvtxOmZg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-translator
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
+  - title: "Microsoft strengthens translation support for Indian languages, adds Odia to Microsoft Translator"
+    excerpt: "This will be of great advantage in making computing language-agnostic and more inclusive across India. Language translation is AI and Deep Neural Networks enabled and forms a core part of Microsoft products and services. Microsoft Translator enables ..."
+    publishedDateTime: 2020-08-17T05:59:00Z
+    webUrl: "https://news.microsoft.com/en-in/translation-support-odia-latest-indian-languages/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/08/17aaug-ms-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "3nPyY6fP0JSNhGA0cssEbx6K6YecgltvUrGOMXRvdL4zBgyN9KKRcQD2zL9SXNfMvSWR3eGkEs4Jqf6uAb7LhLkpGD9x68N3xrBJ4102hlkdMMOVQmCsJgjvWeDYr+rGmuIsWEuGwaCz/OHZvtL4vgz32k3Fngcnlc7TUuMf29u/zfAB6KY/hsSoO+F1BcNvTz7ESWpsia0D9Ixq0M1nehtNaSw+kXXNd94P5tUMDFB7t4ZBf5jB+jO4fKSDDT9oj958WEWO6VPkRKeLR6qng6J4mngcD/VngNDPBjX8req/7/hjqTvNEbcUeEnRxelsZIsHE+ea9vNBrZ0JrY2E6MkGY83zLq5BQFwCkWiDeY7GoH63xt7WZeTVPwsVVuL1mzbehu3sFHAiZrYxfTv+pgEdPgD+Ic18Fw/gytAu2uN+6ojR3FmEwwOG70J9+OJr0C06xiP6lpphWDHTKD8i7pru/3vUsRKmLEz/1cfQovXMHi9UMEkdeSN5S1QIcyEL;RQbDx/tcOazFzGdDnSwleQ=="
 ---
