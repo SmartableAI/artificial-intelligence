@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Size 2020: Notable Growth, Trends, Key Players, Reginal, Product Review and Forecasts Report To 2025"
-    excerpt: "Component (Software, Hardware), Process (Image Recognition, Data Mining, Signal Recognition), Application (Semi-autonomous Driving, Autonomous Driving, Human-Machine Interface), and Regional Market Size,"
-    publishedDateTime: 2020-08-13T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2020-08-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pvHfYUYSIRiOB1ntmy+CVEWMqfESUWJWM6d+8JNUJ8tmULjrJ0oKou+BvEFqPQL4WJUvzGcQUrELx1GTlGoVFxQROiJU42FuIY+oXhMCbsxqNdASOFRluxbUnj8P9XSPvK1mvd70RPk0a8l4E9dwUpQ5ctpHmgu/jXxA1l0AcrWp0gp4GdLXT8sdrpgubq7BvmhkaZW0bOSGhheWcJYgGSRsZoPjhR8Ub87ixhO5T/QGz7FGb5xwUHif/WM2olXxH6ixxXs7ByhtZYWB09YNPahgZh/t338Uvyuy4ZCkoPFjZL/UUqrJhhhKJGI6/iqkAhl8gTEOUYpNJQ0SR6r9pg==;I8mORyocM09Lj6FAMm3Kpw=="
 ---

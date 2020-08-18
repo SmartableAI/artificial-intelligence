@@ -202,6 +202,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Self-driving car lanes are coming: Will they help or hinder Level 5 autonomy progress?"
+    excerpt: "Tesla’s long-term Robotaxi plans require Level 5 autonomous driving, i.e., no humans involved, and it certainly sounds like things are moving along quite well. CEO Elon Musk has been chatting about the Full Self-Driving progress on Twitter lately,"
+    publishedDateTime: 2020-08-16T14:13:00Z
+    webUrl: "https://www.teslarati.com/tesla-full-self-driving-lanes-help-hinder-level-5-autonomy/"
+    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-lanes-help-hinder-level-5-autonomy/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-lanes-help-hinder-level-5-autonomy/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 36
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/02/Tesla-Autopilot-300x217.jpg"
+        width: 300
+        height: 217
+        isCached: true
   - title: "Plans for special lanes for autonomous cars raises questions on evolution of self-driving tech"
     excerpt: "Jonathan Winer, co-CEO of an Alphabet-funded company called Sidewalk Infrastructure Partners, which owns Cavnue, said at first self-driving buses would use the lanes, which would be similar to dedicated rapid transit lanes in other cities. Eventually ..."
     publishedDateTime: 2020-08-14T06:59:00Z
