@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Microsoft Flight Simulator 2020 Is This Year's Most Ambitious Game"
+    excerpt: "Those high-quality satellite images are fed through a series of machine learning algorithms to push ... The other major contributor is the company’s Azure cloud computing service, which feeds ..."
+    publishedDateTime: 2020-08-18T12:59:00Z
+    webUrl: "https://uk.pcmag.com/gaming-gear/128227/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game"
+    ampWebUrl: "https://uk.pcmag.com/gaming-gear/128227/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/gaming-gear/128227/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/why-micros/why-microsoft-flight-simulator-2020-is-this-years-most-ambit_t4yd.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Microsoft Flight Simulator developer Q&A addresses top community questions and concerns"
     excerpt: "With five days to go until Microsoft Flight Simulator's official PC release, the last development update before the event has now been made available, bringing news on even more deliverables."
     publishedDateTime: 2020-08-14T00:54:00Z

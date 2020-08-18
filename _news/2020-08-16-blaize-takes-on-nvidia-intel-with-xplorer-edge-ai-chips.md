@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-16T20:38:00Z
 webUrl: "https://www.crn.com.au/news/blaize-takes-on-nvidia-intel-with-xplorer-edge-ai-chips-551744"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 953
     height: 664
     isCached: true
-
-related:
-  - title: "Blaize Takes On Nvidia, Intel With Xplorer Edge AI Chips"
-    excerpt: "Blaize announces that its Xplorer Accelerator and Pathfinder edge AI chips will go into production by the end of the year, providing companies like Nvidia and Intel with another competitor in the market."
-    publishedDateTime: 2020-08-13T19:38:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/blaize-takes-on-nvidia-intel-with-xplorer-edge-ai-chips"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0260-101f9238f045-59f28fe7d0b1-1000/blaize-screenshot.jpg"
-        width: 610
-        height: 457
-        isCached: true
 
 secured: "507b+OFriiw/jRXgonA8CmNUdZ6npssT4DO18qpaqDAhRp5f49PKj0FfVKj0/CjPpfysBOOOTBHtPKcA/xV6n8y7qLXolGO8qLHz9t1gRW1jumnXIOG85lpqwKC27KuoMS1HVpsAJ74MJsYvI1fp8diD9p6WEngBPC8COb7gFrZYSmkhMmHMaoFCJ4FeYAPaGxLWdcR3nAatGbnsLvTCyD0/xjR6aAUxTHwJG8E9x+4xTqThQh71mw7eoYrx2zBYc3ccYtNFU9wndsYIGZtNiX2Mt4C4hCW6l8wQV9TAXJvAOJkAW73oUYWOOezglY+nSKrkz8Isw5wryALEu+z1ww==;nNI4kKsXFoGct53J9rwHDg=="
 ---

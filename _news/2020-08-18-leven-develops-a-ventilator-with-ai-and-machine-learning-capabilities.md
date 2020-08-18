@@ -1,0 +1,64 @@
+---
+category: news
+title: "LEVEN develops a ventilator with AI and machine learning capabilities"
+excerpt: "An India-Dutch startup mentored by Hyderabad Security Cluster, a Government of Telangana initiative, has developed smart ventilators that are integrated with artificial intelligence (AI) and machine learning (ML). This comes during a time when ventilators ..."
+publishedDateTime: 2020-08-18T13:03:00Z
+webUrl: "https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/leven-develops-a-ventilator-with-ai-and-machine-learning-capabilities-5724331.html/amp"
+type: article
+quality: 74
+heat: 94
+published: true
+
+provider:
+  name: moneycontrol.com
+  domain: moneycontrol.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2020/08/ezgif-7-bacab7698035-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
+    isCached: true
+
+related:
+  - title: "Start-up develops AI and ML-based smart ventilator"
+    excerpt: "A city-based start-up, under the state government’s initiative — Hyderabad Security Cluster — has developed a smart ventilator which uses artificial i."
+    publishedDateTime: 2020-08-13T23:00:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/start-up-develops-ai-and-ml-based-smart-ventilator/articleshow/77533398.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/start-up-develops-ai-and-ml-based-smart-ventilator/amp_articleshow/77533398.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/start-up-develops-ai-and-ml-based-smart-ventilator/amp_articleshow/77533398.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/msid-77533397/77533397.jpg"
+        width: 800
+        height: 672
+        isCached: true
+  - title: "Hyderabad: Start-up develops AI and ML-based smart ventilator"
+    excerpt: "A city-based start-up, under the state government’s initiative — Hyderabad Security Cluster — has developed a smart ventilator which uses artificial i"
+    publishedDateTime: 2020-08-14T04:09:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/start-up-develops-ai-and-ml-based-smart-ventilator/articleshow/77533398.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/start-up-develops-ai-and-ml-based-smart-ventilator/amp_articleshow/77533398.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/start-up-develops-ai-and-ml-based-smart-ventilator/amp_articleshow/77533398.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/msid-77537679/77537679.jpg"
+        width: 635
+        height: 548
+        isCached: true
+
+secured: "IGcS8MdoIkpGFpKrQIC+PgbgXsjWdw4NMLHSkELTj7BJVfkrQpL+DiuuGXJnRWLRyRnMOl7q9qT1ir7mKDiaxYKeu6CcFakj+rLeh7EyXc3J9NDSN1WZIH3Y1qtJWsy+HG0UwY26gv6DQZdcE1IhVAfMOg1ufCePpPPVHxYCIGJ9lSwB47gdW8w9RCl479+le//Gv6G/iqj+XLZ+DHYKy9q9E+iUqqQ4OB+AT+RDUXQ6Co3WOSj/D4jpp1PynXt8adzJMi9lzgABk6afSWUJmdTU6MbLgqYGtdTVeP0jyaJUrMooZnZTXOc6e9AoqSVuRPgLkO5Vv2JQkjlg2tPM+A==;1Fu6K8pNV7k1CQwL6Zzb1A=="
+---
+

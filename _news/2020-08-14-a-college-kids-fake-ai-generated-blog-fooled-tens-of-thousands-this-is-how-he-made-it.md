@@ -43,6 +43,20 @@ related:
         width: 750
         height: 375
         isCached: true
+  - title: "College kid uses AI to create fake blog, one of the AI-generated posts makes it to top of Hacker News"
+    excerpt: "By the end, the college student had used the AI model to produce an entirely fake blog under a fake name. It was meant as a fun experiment. But then one of his posts reached the number-one spot on Hacker News."
+    publishedDateTime: 2020-08-17T15:03:00Z
+    webUrl: "https://www.loopinsight.com/2020/08/17/college-kid-uses-ai-to-create-fake-blog-one-of-the-ai-generated-posts-makes-it-to-top-of-hacker-news/"
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 22
+    images:
+      - url: "https://www.loopinsight.com/images/logo.png"
+        width: 520
+        height: 208
+        isCached: true
 
 secured: "jBWMnssJe0RZUC9gY84sM6HQiiROuflozcuaXtnrvR9VPVdlkt2Pk/lCaM1pzG3QFwFDfrA9nCR7jyd0xNDQUyy3yJVEcUFdmaKUHskdJemFwYPqe9jkOUHiKx7M4vV8WzkKvsaQNrtL2aNfa/wMo0qj4+UNT/LAurVjuPPwT/2F36oh9w7Nwn2WsrVjWCZgckgOEiBfbrSulr2wUuyade52oJ+tPmhtyNqu6roiRvhrpQs9JKc5+emJ8TCDB8uKaMN6FUiELVFRu+lsr2rBid++qmG/nCB5nBtR1VLElPc7tqKaXEugpxj+NfZM8DyAf1HeWgjyxTyACmRVm0LOM4QEnjBb0A4DW33TXO3pLO29ZzdBVEizGKcHhFmJETxIF2l4t0yh98RfxrJVYSJj0FesXWrjiJsLD44AHJYiA6BSEuA73QueS2C4n346wn5LJG80UkTPuUAUzCAfAocUSpo1SRjSLDswNRRLrKRNw6omQTmVEA/ENfW40XW/rX1OGvbM5CMjMwIJwJMejX27WQ==;QRLMvhWfD+m6CjCvOBAOFQ=="
 ---

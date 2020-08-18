@@ -23,21 +23,37 @@ images:
     isCached: true
 
 related:
-  - title: "A Reddit user created a fake, AI-generated voice of famed narrator David Attenborough that reads misguided relationship advice"
-    excerpt: "You can listen to the AI Attenborough read various posts on misguided relationship advice, as well as other topics, on the YouTube Channel ReddiTube."
-    publishedDateTime: 2020-08-13T19:44:00Z
-    webUrl: "https://www.businessinsider.com/david-attenborough-fake-ai-voice-reads-reddit-posts-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/david-attenborough-fake-ai-voice-reads-reddit-posts-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/david-attenborough-fake-ai-voice-reads-reddit-posts-2020-8?amp"
+  - title: "A fake blog written by AI shot to the top of Hacker News after people thought it was real — here's how a college student made it"
+    excerpt: "AI text generator, which has shown itself to appear convincingly human under some circumstances."
+    publishedDateTime: 2020-08-17T16:21:00Z
+    webUrl: "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 59
+    quality: 58
     images:
-      - url: "https://i.insider.com/5f358087b4bb1c001df53205?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/5f3a8e3ae89ebf001f0452c3?width=1200&format=jpeg"
+        width: 750
+        height: 375
+        isCached: true
+  - title: "A college kid’s fake, AI-generated blog fooled tens of thousands. This is how he made it."
+    excerpt: "By the end, the college student had used the AI model to produce an entirely fake blog under a fake name. It was meant as a fun experiment. But then one of his posts found its way to the number-one spot on Hacker News."
+    publishedDateTime: 2020-08-14T09:18:00Z
+    webUrl: "https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/"
+    ampWebUrl: "https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 52
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/08/SA-GettyImages-176838456_web.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
 
 secured: "zBgQSPmUuvrzctf78Lf1m2tb8E/sM8fToT3qg9sygpLkz4gJ7WMQ2ToOTB9ovLuRf5DsiL413Ri/tWxdHZlgdcLK5ffrRJDrWAxvYx22uw7jlYULZ6yyCS/wPJvjm1CQDN/D/4krjrj1SGsvLOvKy7O+T0a3nUNltw0VbkqOji7HV7V7EWHSbjtfsMGxyXhtMkvtPX+7Jx56RqBiK9MMuhBSTUxzXhDT/ajNUKGuclDtvV6MSi1rUdiE4iygDTvrIQW6rjO0INXu9Z3HnbETg1RfxxcEOhhPmWfKsp9vh5NXfVQZG5B8CeNAjXbP8t0wBfbb+kGMutVVYJoBuQ66xQ==;L8LQ57+UeK2bxiiI24foGA=="

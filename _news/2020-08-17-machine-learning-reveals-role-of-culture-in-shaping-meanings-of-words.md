@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-08-machine-reveals-role-culture-words.amp
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-machine-reveals-role-culture-words.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1260
     height: 709
     isCached: true
-
-related:
-  - title: "What robots want: Using machine-learning to teach effectively"
-    excerpt: "By Hyunsoo (Hyun) Kim, co-founder and CEO of Superb AI AI is having a moment. One need only casually scan the news each week to see that the topics of artificial intelligence and machine learning"
-    publishedDateTime: 2020-08-17T13:20:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/08/17/what-robots-want-using-machine-learning-to-teach-effectively/35249/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 21
 
 secured: "ENUkjIn1aME316CMJ6EhkMn3szVCp4Ww96tRv+bzcVyI1UWtq1ytF8icgO5HMreDl+BZ/iub0FxWnajPEVCSfzoocD25qsXOIR+ma0YbQISgvUTDcOW4q6JXzC9FNqt6Y9gKlaOUPEgx1+3sVYFrYeIcOXTOjPJ06nLC9yKpj1p2dvq/g2Nj8If9EsRX87ZSguMPUAQKnU4bZpvNFeNbk+gak0S1VMV7Hgv7WNzq/b2FJ5E7/IU1dku+nBBlfGiuk7sK54agTRpIu2gE4pmRtTeQ/Ss1hC5vzFxfZ5rkTGjBcv47uUb4c32fgUG0xSuAiQGAj57XDM/paD/RuAyoGYFJMcsqA26+d95L+PfUN/LP4D6AMovbO2IvO+Vngo6KZtlyjRpmMseKJuIMbDKQ0L+YNPijN61IVSYyoSHTzLdwwj3+MsD3LxTw9507q/RQTVEfTspwfEgPh58721BNB6nusCwzgp00JrNABjUFqdAaXmxoYgSRZMSGxXft1gv2y71FXdGKLBPYCtg5mdWGWg==;8mTx9SxtGc3wdUMTf2aXmA=="
 ---

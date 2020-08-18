@@ -1,22 +1,26 @@
 ---
 category: news
 title: "WISeKey and ARAGO to Present AIoT: When Artificial Intelligence Meets the Internet of Things"
-excerpt: "WISeKey International Holding Ltd ((\"WISeKey\", NASDAQ:WKEY), a leading cybersecurity and IoT company and ARAGO a leading AI company to discuss AIoT du"
+excerpt: "During the Fireside Chat both experts will discuss the exciting benefits to be had from AIoT resulting from the groundbreaking combination of their industry leading products: ARAGO’s AI based Knowledge Automation and Data platform and WISeKey’s Cybersecurity and IoT technologies."
 publishedDateTime: 2020-08-17T18:03:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/g17124927/wisekey-and-arago-to-present-aiot-when-artificial-intelligence-meets-the-internet-of-things"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17124927"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17124927"
+webUrl: "https://apnews.com/1782e6a777a9fe417da1dfcfdfe4be09"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "2020 and AI: Kickstarting a Push to the Intelligent Enterprise"
@@ -34,6 +38,6 @@ related:
         height: 480
         isCached: true
 
-secured: "EAB8fcZnORCOPmiAMwYJMW8avWWks1A/JoyO2WBv5b3mGrW1PirqXb9VgvuJcFjdklYhEdBOddI0cr8e9bijexfnMBDXyHF+GiSxtR300JSc9rb9EOcRHZmAI7vV+Rosgv7ig2S7XdOj0Jaegy5vX2ph/0jAbH6B8nPUNJjZpeXtj4E2PfWq1qNiTC3ks/BnlQi22koIUs3avsPFjc7MeNbU2Ks3BunPITE2TdDvXgdcSd4vdObGP3w0LREihpfS2NVM6JMTnXh0k/D//sWAVj3jUL27Jy+JtBDUC7vOo2twsyQMpIoHi/YBfISAwui4f8UomH57ewatSKPS5ijFNsmdC+JiMEulSnSi1sbLhLBErQ6PqZcbqI2h87WpZOn4AJbm0QNmIqelU9HAYNRJBJzz6DTlpg6TFsOutM45njuy4QfIzQY+jrwVTPpOgFgauiVBB75cRhHnNTOEXF5FMQuDKj1ZTREx1SpbJItW5GNdTzVuG3x46Dr9Uh4jDZ2ILPRPFc72MpRHlnmQBY1FIw==;CjNk1NzQSDs6dcLeaBLi2Q=="
+secured: "ckaS4Ze4lIKX8cNBHStVaEjbWXuoEwdljgcYSeuy1m0fxUAtBhX7RpJ1/YLJPuS4WfkdwsPtkN1YMGgIU5Os5kO9yGFmJbRSCpmaZZeLCFoNLMEuCtHhUXjHWgEuy2JUEeN9CXbR699yHeCpU30YbxKpBJSAjE//dmt1y2mXfo7cJLRjoXgl1obqeAEVV2/NUD4ubzR2Uaxnf8hsm8qalKuO7EPoTaRyOkSobtp86QpFf6M0kEkz+W1xaMNViMjVb/dsgFSJyzAkFSy60loleamE1hl4yJGjkPRqfPCYWE6fzrpR5n3UbNOHSc1lCn5hgBcZUUDk9gXfQ+v5JW93YA==;bx7bA4tzR16MDLzMYZqW4A=="
 ---
 

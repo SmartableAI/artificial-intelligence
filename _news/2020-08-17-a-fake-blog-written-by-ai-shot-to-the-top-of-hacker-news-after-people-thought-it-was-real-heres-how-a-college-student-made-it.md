@@ -8,8 +8,8 @@ ampWebUrl: "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-n
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Business Insider
@@ -44,6 +44,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/08/SA-GettyImages-176838456_web.jpg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "College kid uses AI to create fake blog, one of the AI-generated posts makes it to top of Hacker News"
+    excerpt: "By the end, the college student had used the AI model to produce an entirely fake blog under a fake name. It was meant as a fun experiment. But then one of his posts reached the number-one spot on Hacker News."
+    publishedDateTime: 2020-08-17T15:03:00Z
+    webUrl: "https://www.loopinsight.com/2020/08/17/college-kid-uses-ai-to-create-fake-blog-one-of-the-ai-generated-posts-makes-it-to-top-of-hacker-news/"
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 22
+    images:
+      - url: "https://www.loopinsight.com/images/logo.png"
+        width: 520
+        height: 208
         isCached: true
 
 secured: "KqOogxaQbK4XiGegQv8IhZjY2H45p5PnNzi/HlSrVx/JUFNFxfZ57uy1NWTSPfHag3hJpBIcT/WOa6tomBxJ6MzlxweOnHTtQBedXDLmbSdMqBwcra14CUF7rWpWF63yLqwljmEefSjnRI9XonS71ybvcOvdsAw71lSL4Ken2NLTYmfKulFIG8vWNvnldgaL1oRRlC8avWz/yqSJajkn8Ox8b1NkVz2dqHdUEj/SRnDda7t3jVCs+OuwZqiOTX8UiD+c0SV2+1ZBYTtuaweqfCqK7K8ZUfmmilnyZL9m5P6HkHH9gZAPxbljl0jWIVTA1WNZHKngGC5NkEtHXWSpfB9xTK3hYo5vciK2H8nhD7HOUc5N58cfN0edL7dm+SYd0usAqc8JphIEougw+DmoMymGXrjSj5vOpxkwwY7L9TRX6fTgBsPu4SHSNfZ1+C7YyfeCcXSmUVx/HbOZrXyLdVNJGZ+D3FMif6FTE5TYHbZwXyVEQdBerPQCjVwPOVRA3+Tob3LNnGcJSzy44INf+w==;70cVMR5l5MnqY0RQfvwucw=="

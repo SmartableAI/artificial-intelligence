@@ -2,8 +2,8 @@
 category: news
 title: "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate"
 excerpt: "The trade group representing many of the largest technological security companies is urging regulators not to overreach on facial recognition restrictions even as U.S. lawmakers push to rein in police use of the software. The Security Industry Association ..."
-publishedDateTime: 2020-08-18T11:36:00Z
-webUrl: "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate?srnd=code-wars"
+publishedDateTime: 2020-08-18T11:50:00Z
+webUrl: "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
 ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
 type: article
@@ -177,6 +177,6 @@ related:
       domain: thetimes.co.uk
     quality: 19
 
-secured: "Na5QgaZU4JcZ/XUKkwlRNy/4JC5/fpcDS6KZWqJP3BR9Pn+NPB/+OYYlqPonzFow7DWmf34dpDVLbxR8fZtdofZxe+Llmimxrd9ZE3LnJDRtpw/bhV4o77E9AVRdYaL1fNrjRTODzj2tberX7UoPJ0EY8zVLvL9Gba5jCM/M7jSgftMehCDeZZDIL/ND1onM36QHV9QH+NFDbrUbMzBJjFJ73ulplEk+k1swuUVYlY/Mflt62ELu4awkasHdFn2iadw1hKPXRazTpMyrbzjGeGMQkiHvEhAdPpKtO5eD8bsVPrjOur9TY8VDzcxdNLbjLHLwqbXLSyym/p0QvrC4bA==;OQIj7IqgIGP2jUZLwTTVpg=="
+secured: "z9InDeLavJP/bmWrKr0nCon5LwcOpbmIYDhw8b/U7KNkRAeN0AEi4UZvwfJaj5bIGlnMfrf6b69Hk7xkds8/CVk+FJFtPVKt2CrU7hv196b/Wm1oBjlkxzayVsZHHZFe60UDxcWkpAfn/x1Jru8v2SmmAZ5OLj7/8HdmRcLzTTVBL8K7/hbvdieqfw9JS/0OMvZq/fcKy6Sma+ex0CeitS7CK387S/Qy3K2rIciHAF9rHjef0KmRNZJEsZRT0f1HGUpkP0VW49tyashA7QdEsc7UKeU7wVO9Fis1w3qeoVM1TlWhFu/JU7mD7dYNhzIgok2gnRvPhIrQ4LVie+YJaA==;BAHqHgxxKWbok+hJ2BZjmA=="
 ---
 

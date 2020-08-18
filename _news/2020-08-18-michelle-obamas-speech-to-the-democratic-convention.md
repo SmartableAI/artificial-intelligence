@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Michelle Obama's Speech to the Democratic Convention"
-excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention, as broadcast Aug. 17, 2020: Good evening, everyone. It’s a hard time, and everyone’s feeling it in different ways. And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general."
-publishedDateTime: 2020-08-18T04:03:00Z
-webUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
+title: "Michelle Obama's speech to the Democratic convention"
+excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought."
+publishedDateTime: 2020-08-18T12:23:00Z
+webUrl: "https://www.startribune.com/michelle-obama-s-speech-to-the-democratic-convention/572145882/"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1597330052"
+    width: 1680
+    height: 876
+    isCached: true
 
 related:
   - title: "Full Michelle Obama DNC Speech Transcript and Video"
@@ -71,6 +71,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Full text: Michelle Obama's speech to Democratic convention"
+    excerpt: "Empathy: That's something I've been thinking a lot about lately. The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or ..."
+    publishedDateTime: 2020-08-18T12:12:00Z
+    webUrl: "https://www.upi.com/Top_News/Voices/2020/08/18/Full-text-Michelle-Obamas-speech-to-Democratic-convention/6231597750743/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/Voices/2020/08/18/Full-text-Michelle-Obamas-speech-to-Democratic-convention/6231597750743/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/Voices/2020/08/18/Full-text-Michelle-Obamas-speech-to-Democratic-convention/6231597750743/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6231597750743/2020/1/15977524468734/v1.5/Full-text-Michelle-Obamas-speech-to-Democratic-convention.jpg"
+        width: 603
+        height: 402
         isCached: true
   - title: "Here's Michelle Obama's Full DNC Keynote Speech, In Case You Missed It"
     excerpt: "Here is Michelle Obama's 2020 DNC speech, in full: \"Good evening ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
@@ -216,6 +232,20 @@ related:
         width: 708
         height: 405
         isCached: true
+  - title: "Michelle Obama's Entire DNC Speech"
+    excerpt: "(AllHipHop Opinion) Former First Lady Michelle Obama gave a most riveting keynote speech on the first night ... to walk in someone else’s shoes; the recognition that someone else’s experience ..."
+    publishedDateTime: 2020-08-18T12:12:00Z
+    webUrl: "https://allhiphop.com/opinion/michelle-obama-s-entire-dnc-speech-vLXpGLRKMkWuKJelbk6xpw"
+    type: article
+    provider:
+      name: AllHipHop
+      domain: allhiphop.com
+    quality: 24
+    images:
+      - url: "https://images.saymedia-content.com/.image/MTczMzMyMzExMTEzMjEzODEx/michelle-obama.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Read Michelle Obama’s full Democratic convention speech"
     excerpt: "And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general. Believe me, I get that. But I am here tonight because I love this country with all my heart,"
     publishedDateTime: 2020-08-18T03:10:00Z
@@ -242,6 +272,6 @@ related:
         height: 892
         isCached: true
 
-secured: "CCpkMskxyd6J8xLcTx56Sc2N1tmhkSTMWo3SniyyBvoqwDKS4oWWvI9DNCivAm0JQSfExXh1D4RXTJg+l5qxXZLfQRoUys3b+D0cIT6SDkFys/laQwUpxI9TlWHFb8HRZbNQLwV2RmuRR3bkOfBWwfOU5PT6QIswaPk0ebk81MKUC1TCpqMchmldfuaLoRyQ7lBk5Nn8dC5BJnSziZ4+ClZNhUlnomo7YPMArJ1ImnY6O1LPg4dyrq2eYGKEiggowinc8KefNspjIgz/s015p0ispqTlPXrw3TbOiqVy0Gv18j6Oie02lhbkvqUnhFJx48QC0gqLpV4B0RCD/zb5dxyneTo97JMkxX5DkbNyxxehjeJcdgC/jVfFPpM5MQhR0HdJRwl4mhfosAAKBOgH4UOxzU4blEP1OlPgJ6hyWfGiEhGICRqV2z0t+Fx9F72XcaZE0ou44ud/W2Q3SuUv5d0C+RJZyQ38HYWomfGckHaQ8GvLjJv8NBY5AguxbnmZ2L+k3IxFf0xDYIXsjLgN1w==;+6V4q0M/+PLy4cxLk0ee5A=="
+secured: "BvLYvSznZWKV9Sq/49E+LlcHZAsx07jhIU2zkspZW43gfDSOURRJoysYyuyuYh4VYPIKZz/AC+yc33Ejy7aSnUh48pHj+TxKtdDwgzuc8fRnNB+Cl05sj/rAULWPI7CuTR0yUmhb15uGe5kafEgdoRThlZhVkfuNbbXtUo47+ZKtpk5SjGPBlTIUX0olxHCIT4aOXLekwvrmgy5dYgjniDzvd5GiGLubdbOMdF5txrCwe2I3/5lCYv3fvlz8g5xIr4wfbXWeetYJDUsnyDTNNWTca0IYFCOuZiDJR99gTWAP6KWZogXemJhP2YQyBZ4SGZqZcKweM1xDtBL7HMtv2A==;WYpbP+aC1l2NrfsEQ7N1+w=="
 ---
 

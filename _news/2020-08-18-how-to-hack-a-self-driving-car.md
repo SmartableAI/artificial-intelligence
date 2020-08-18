@@ -40,6 +40,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Self-Driving Systems are Ushering in a New Era of Transportation"
+    excerpt: "Self-driving vehicles like robo-taxis are one way that people will be able to get around while also social distancing. AVs and other self-driving applications have already proven helpful in the fight against the virus in China by transporting essential ..."
+    publishedDateTime: 2020-08-18T13:45:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21139392/how-selfdriving-systems-are-ushering-in-a-new-era-of-transportation"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/08/Q_A_promo___recrop.5f3bd8d655db4.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "The MIT Autonomous Bicycle Is a Regular Bike That Becomes Self-Driving Trike"
+    excerpt: "As cities expand and become overcrowded, people have started turning to alternative means of transport. Urban mobility is being redefined by a variety of solutions, with bike-sharing being one of them. Many people living in crowded urban areas don’t want ..."
+    publishedDateTime: 2020-08-18T13:10:00Z
+    webUrl: "https://www.autoevolution.com/news/the-mit-autonomous-bicycle-is-a-regular-bike-that-becomes-self-driving-trike-147554.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 21
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/the-mit-autonomous-bicycle-is-a-regular-bike-that-becomes-self-driving-trike-147554-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "nW6RBx9p+UZJHPZPiTX09ocih4++TOGwWKjdDvbl/6J9PNhv7Fa6iwPgc/N2SuPxnOiuUMcLtOkcDt6sFjOnNHhr9Cyg6Pf2Jgtn3j3muQWifQTvLmL6RmOyh1BvDOZGiOyrNNeiXWdHiUXaCWas8hmzTM9Di58N+tulZZfw6p8VZMfPNH5I7G4JIRdWnyjE0ugVHRdR6UYGzvk6Cm3l+etUxMMtpBJq22NtbIKUsF2gHi1eRtuk20CVmIBIv33f49tdX2OOZPisxWsDYtY7Ua4tHhWy2OsOHvTy+6nbxRqFFAZzlScOK2tMLxd7Yq4idmzCpmncxYiq4o03FqryoFtgg3J5LLz75okst/wshyhX7/fU5u0sXCapsDEFd+KoeqXW50FzSV7Jqt6PeMpqZ7oY9bozDDBM1q7Dork9gRtzsZAJGKVDp1LDqjqB99as1RJ+u//wTxtlYfFNSIakq488Z9VP8Xp3n5KOz0EKnX7urcdGaLgc2WT9sLJOkO355KohBiplwuNFsmWSxG+2lA==;Bzm5d9N5i4LPE0left6ROQ=="
 ---

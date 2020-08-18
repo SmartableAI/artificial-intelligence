@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS Announces General Availability of Amazon Braket"
-    excerpt: "AWS announced general availability of Amazon Braket, a fully managed AWS service to help organizations get started with quantum computing."
-    publishedDateTime: 2020-08-13T21:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200813005776/en/812634/4/Amazon_Braket_Console.jpg?download=1"
-        width: 480
-        height: 357
-        isCached: true
   - title: "AWS launches Amazon Braket to help customers explore and design quantum algorithms"
     excerpt: "AWS announced the general availability of Amazon Braket to help customers explore and design quantum algorithms."
     publishedDateTime: 2020-08-17T02:03:00Z

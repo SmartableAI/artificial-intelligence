@@ -74,17 +74,22 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Michelle Obama's Speech to the Democratic Convention"
-    excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention, as broadcast Aug. 17, 2020: Good evening, everyone. It’s a hard time, and everyone’s feeling it in different ways. And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general."
-    publishedDateTime: 2020-08-18T04:03:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-08-17/michelle-obamas-speech-to-the-democratic-convention?context=amp"
+  - title: "Full text: Michelle Obama's speech to Democratic convention"
+    excerpt: "Empathy: That's something I've been thinking a lot about lately. The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or ..."
+    publishedDateTime: 2020-08-18T12:12:00Z
+    webUrl: "https://www.upi.com/Top_News/Voices/2020/08/18/Full-text-Michelle-Obamas-speech-to-Democratic-convention/6231597750743/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/Voices/2020/08/18/Full-text-Michelle-Obamas-speech-to-Democratic-convention/6231597750743/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/Voices/2020/08/18/Full-text-Michelle-Obamas-speech-to-Democratic-convention/6231597750743/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
+      name: UPI.com
+      domain: upi.com
+    quality: 44
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/6231597750743/2020/1/15977524468734/v1.5/Full-text-Michelle-Obamas-speech-to-Democratic-convention.jpg"
+        width: 603
+        height: 402
+        isCached: true
   - title: "Here's Michelle Obama's Full DNC Keynote Speech, In Case You Missed It"
     excerpt: "Here is Michelle Obama's 2020 DNC speech, in full: \"Good evening ... The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
     publishedDateTime: 2020-08-18T04:25:00Z
@@ -213,6 +218,34 @@ related:
         width: 708
         height: 405
         isCached: true
+  - title: "Michelle Obama's Entire DNC Speech"
+    excerpt: "(AllHipHop Opinion) Former First Lady Michelle Obama gave a most riveting keynote speech on the first night ... to walk in someone else’s shoes; the recognition that someone else’s experience ..."
+    publishedDateTime: 2020-08-18T12:12:00Z
+    webUrl: "https://allhiphop.com/opinion/michelle-obama-s-entire-dnc-speech-vLXpGLRKMkWuKJelbk6xpw"
+    type: article
+    provider:
+      name: AllHipHop
+      domain: allhiphop.com
+    quality: 24
+    images:
+      - url: "https://images.saymedia-content.com/.image/MTczMzMyMzExMTEzMjEzODEx/michelle-obama.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Michelle Obama's speech to the Democratic convention"
+    excerpt: "Former First Lady's Michelle Obama's speech to the Democratic National Convention ... The ability to walk in someone else's shoes; the recognition that someone else's experience has value, too. Most of us practice this without a second thought."
+    publishedDateTime: 2020-08-18T12:23:00Z
+    webUrl: "https://www.startribune.com/michelle-obama-s-speech-to-the-democratic-convention/572145882/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 24
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1597330052"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "Read Michelle Obama’s full Democratic convention speech"
     excerpt: "And I know a lot of folks are reluctant to tune into a political convention right now or to politics in general. Believe me, I get that. But I am here tonight because I love this country with all my heart,"
     publishedDateTime: 2020-08-18T03:10:00Z
@@ -239,6 +272,6 @@ related:
         height: 892
         isCached: true
 
-secured: "kbwl1gbDFdJDoROOa4UgpMTkODcqEWJvItgUp1P0ADesvftZefDiTcWirz45MizmESSA4kvr9hKUD5lZ4YToO9itbXwDnJhERi7/If7kPPDkJAgXX4LuNpwmaKWbceBFzOEUgPrWoU0VUHJHKUtwpxIUfbYUZ/ijr9sd56wWKWSf3dH5jDjoas/f0HjrLtW7M6rTGo0IDtgBboXXcWpVITUsbHokp52Xkj2QmP720auTnRc74Z8Rg0l2kXpxKMMBIdPz26RwW0KI5tp0hA1eK2Yrtu3U9GnxFN1wD/E7gn1T8vTF2xATtoe+ySNjhhSGsmXdLjArawuOO3kxXuHBfA==;IKcqaD2cKSSJbggRD6vx5Q=="
+secured: "Ck5JZLnqWY3q2YwWwPyktPNRtHncMTSEH2fUUJKytfC9Ad1PcSTXah5e3paDplEjT4miTnv8u6iYTxxtQg1wtRfSUhEyDjkClCaJufZgX1FVhby/uvVjTp2oknsBuQQjb5xH8ixkKUmZYFxAUWkXY+dx1B73smz+vHkl+jidmS3z/zYUuWkFfeowCSkUdWlJPkrZKHWgMJ/Wc+XXTCfnC16wEaie9WUbZey5S11evfpGa+2nVFhEBUKYyIPlxpc6jgT8n+dim/dTxm58fKzghO28HumIQV/jidWjEPDAGWN5KKlaAAswXrzPegI3GbX6uKNcor4k7zjLk9zJeblJqTy7ttrKqqDfAo6B5iTfFk3d+LZdUmYhDZOgVQzN8s0Eqv7FhpFF9n+Ws1Auk3SBrAGfjAhbg27d0NiiIedPqf9Agk7czjtyqlF2O2y8SV1C086V/uYez/4KajrAZULozDhV7op9RLl3EUw400EvbnQpCUKJUF6TjbOeVf34roxK25tyJA9cJxqDdHCMnQTGIQ==;x/E3g/JV2/ILsRJI4yZipw=="
 ---
 

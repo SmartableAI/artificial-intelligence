@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T02:03:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/08/17/amazon-braket/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces General Availability of Amazon Braket"
-    excerpt: "AWS announced general availability of Amazon Braket, a fully managed AWS service to help organizations get started with quantum computing."
-    publishedDateTime: 2020-08-13T21:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200813005776/en/812634/4/Amazon_Braket_Console.jpg?download=1"
-        width: 480
-        height: 357
-        isCached: true
   - title: "AWS Launches Amazon Braket to Support Quantum Algorithms; Bill Vass Quoted"
     excerpt: "Amazon Web Services (AWS) has announced the general availability of Amazon Braket, a fully managed AWS service that will provide a development environment to explore and design quantum algorithms, the company reported on Thursday."
     publishedDateTime: 2020-08-14T20:43:00Z

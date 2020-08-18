@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/microsoft-flight-simulator-2020-review-
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-flight-simulator-2020-review-round-up.amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Microsoft Flight Simulator 2020 Is This Year's Most Ambitious Game"
+    excerpt: "Those high-quality satellite images are fed through a series of machine learning algorithms to push ... The other major contributor is the company’s Azure cloud computing service, which feeds ..."
+    publishedDateTime: 2020-08-18T12:59:00Z
+    webUrl: "https://uk.pcmag.com/gaming-gear/128227/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game"
+    ampWebUrl: "https://uk.pcmag.com/gaming-gear/128227/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/gaming-gear/128227/why-microsoft-flight-simulator-2020-is-this-years-most-ambitious-game?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/w/why-micros/why-microsoft-flight-simulator-2020-is-this-years-most-ambit_t4yd.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Meet the startup that helped Microsoft build the world of Flight Simulator"
     excerpt: "Microsoft’s new Flight Simulator is a technological marvel that sets a new standard for the genre. But to recreate a world that feels real and alive and contains billions of buildings all in the right spots,"
     publishedDateTime: 2020-08-17T19:46:00Z
