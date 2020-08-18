@@ -32,7 +32,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1295425104080502788/4nfAoFix_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1295751627484405762/7zWWPBD2_400x400.png"
     width: 400
     height: 400
     isCached: true
