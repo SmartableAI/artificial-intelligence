@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-14T16:21:00Z
 webUrl: "https://www.taipeitimes.com/News/biz/archives/2020/08/15/2003741691"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 866
     height: 604
     isCached: true
-
-related:
-  - title: "Baidu Q2 revenue shrinks, warns of further decline"
-    excerpt: "Revenue for Chinese search giant Baidu contracted 1% in the second quarter compared with the same year-ago period, with the company warning that the"
-    publishedDateTime: 2020-08-14T07:55:00Z
-    webUrl: "https://technode.com/2020/08/14/baidu-q2-revenue-shrinks-warns-of-further-decline/"
-    ampWebUrl: "https://technode.com/2020/08/14/baidu-q2-revenue-shrinks-warns-of-further-decline/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/08/14/baidu-q2-revenue-shrinks-warns-of-further-decline/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU1.jpg?fit=1620%2C1080&ssl=1"
-        width: 1620
-        height: 1080
-        isCached: true
 
 secured: "dCQIVm7GA5AQJmnd3U0m498tOpWRJRM26P1SertLMnIhER+KP/72H0WGMQ4Xlq12UvH7W4M3MHwb63/oxuAbpRNYCTDjAKZKSNSx9NhLhscOSNHthq4nlZsY9vtI6ThGIDiLvyeNUrxDQPeOSplEubwBL8LiLT9RsZVcPCt4Pg5GRDBmyRWr199q9l9GRhiSs8j19TO7LXAG7W1Pqwkvi0XccBJRQ7rmDHI3Yh9/N9Lp1sri3GNUGaQFWqhvdBcILE5ej0FLxsaEh4V1/qSXICbECnM9YiLJtLE0QMkpc5snUHUWI3Nl3mwF/3LjDLG87iPD2xrqgv2t0RVSgnxQc86usjHeq+7mKXH55Zw5I0MyX71eD6yn2oA1EiD+sU4txPjrXPt7OuQByvK2VTXNxQIdIoWFtydSa6StUZklxzWNpZOQgDm3zT8bUCAKEsxz1TjzcOcYyr5UjkjEh/56zYZn5BfUBOQuaixjgconQAO27nqArQ8d84FJXUaFi9E55tevKkvn9I680oCEW2x4rA==;OWKP8YpXppHQOPGQCrebzQ=="
 ---

@@ -2,6 +2,199 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-06-ecobank-group-announces-the-2020-fintech-challenge-finalists.md",
+      "title": "Ecobank Group announces the 2020 Fintech Challenge Finalists",
+      "excerpt": "Ecobank Group( announced the finalists from the 2020 Ecobank Fintech Challenge. The challenge, in its third edition, is designed to deepen collaboration between Ecobank and Fintechs with Africa focused products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocdn.eu/pulscms-transforms/1/zb2k9kuTURBXy81OTc0MzEzNS0wYzQyLTQ5MjctOGM2Mi0xZTNlOTBjMTQ0ODQuanBlZ5GTBc0BqczfgaExAA",
+          "width": 425,
+          "height": 223,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
+      "cdnAmpWebUrl": "https://www-pulse-ng.cdn.ampproject.org/c/s/www.pulse.ng/apo/ecobank-group-announces-the-2020-fintech-challenge-finalists/nmbe3r7.amp",
+      "publishedDateTime": "2020-08-06T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Naija Gist - Latest",
+        "domain": "pulse.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-why-human-like-is-a-low-bar-for-most-ai-projects.md",
+      "title": "Why ‘human-like’ is a low bar for most AI projects",
+      "excerpt": "Show me a human-like machine and I’ll show you a faulty piece of tech. The AI market is expected to eclipse $300 billion by 2025. And the vast majority of the companies trying to cash in on that bonanza are marketing some form of “human-like” AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/12/robot_teddybear-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/why-human-like-is-a-low-bar-for-most-ai-projects/amp/",
+      "publishedDateTime": "2020-08-06T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-build-more-effective-conversations-on-amazon-lex-with-confidence-scores-and-increased-accuracy.md",
+      "title": "Build more effective conversations on Amazon Lex with confidence scores and increased accuracy",
+      "excerpt": "In the rush of our daily lives, we often have conversations that contain ambiguous or incomplete sentences. For example, when talking to a banking associate, a customer might say, “What’s my balance?” This request is ambiguous and it is difficult to disambiguate if the intent of the customer is to check",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-more-effective-conversations-on-amazon-lex-with-confidence-scores-and-increased-accuracy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T14:29:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis.md",
+      "title": "Researchers discover evidence of gender bias in major computer vision APIs",
+      "excerpt": "Researchers at Wunderman Thompson say they've found evidence of gender bias in major computer vision APIs from Google, IBM, and Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/b-e1596722973590.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/researchers-discover-evidence-of-gender-bias-in-major-computer-vision-apis/amp/",
+      "publishedDateTime": "2020-08-06T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-verizon-5g-edge-released-in-two-new-cities-with-aws-always-connected-computing.md",
       "title": "Verizon 5G Edge released in two new cities with AWS always-connected computing",
       "excerpt": "This week the folks at Verizon revealed a pair of new cities in which their 5G Edge tech would launch. This system works with AWS, making it the “world’s first mobile edge computing platform ...",
@@ -956,186 +1149,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-deep-learning-for-synthetic-microstructure-generation-in-a-materials-by-design-framework-for-heterogeneous-energetic-materials.md",
-      "title": "Deep learning for synthetic microstructure generation in a materials-by-design framework for heterogeneous energetic materials",
-      "excerpt": "The sensitivity of heterogeneous energetic (HE) materials (propellants, explosives, and pyrotechnics) is critically dependent on their microstructure. Initiation of chemical reactions occurs at hot spots due to energy localization at sites of porosities and other defects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-020-70149-0",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-70149-0/MediaObjects/41598_2020_70149_Fig1_HTML.png",
-          "width": 685,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-ai-health-tech-start-up-infermedica-raises-10-million-series-a-for-rd-and-international-expansion-customers-include-microsoft.md",
-      "title": "AI Health Tech Start-up Infermedica Raises $10 Million Series A for R&D and International Expansion – Customers Include Microsoft",
-      "excerpt": "Infermedica, the AI-based platform for preliminary diagnosis and triage, announced it has raised $10.25 million in Series A funding. The round was led",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200806005063/en/AI-Health-Tech-Start-up-Infermedica-Raises-10",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200806005063/en/810433/23/infermedica-logo-color.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-infermedica-scores-10m-series-a-for-its-ai-driven-diagnosis-and-triage-platform.md",
-      "title": "Infermedica scores $10M Series A for its ‘AI-driven’ diagnosis and triage platform",
-      "excerpt": "Infermedica, the Poland-founded health tech startup that offers an AI-driven platform for preliminary diagnosis and triage, has raised just over $10 million in Series A funding. The round is led by the European Bank for Reconstruction and Development (EBRD) and digital health fund Heal Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/06/infermedica/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/Visuals_Screenshots_03-Symptom-Checker-Chatbots.png?w=680",
-          "width": 680,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/06/infermedica/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/06/infermedica/amp/",
-      "publishedDateTime": "2020-08-06T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-ai-models-need-to-be-interpretable-rather-than-just-explainable.md",
-      "title": "AI models need to be ‘interpretable’ rather than just ‘explainable’",
-      "excerpt": "Apple ran into trouble after customers pointed out on Twitter that its credit card service was discriminating against women. David Heinemeir Hansson, the creator of Ruby on Rails, called Apple Card a sexist program.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/1-2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/amp/",
-      "publishedDateTime": "2020-08-06T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

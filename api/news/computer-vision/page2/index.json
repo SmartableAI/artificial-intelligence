@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-08-04-federal-bill-would-ban-corporate-facial-recognition-without-consent.md",
+      "title": "Federal bill would ban corporate facial recognition without consent",
+      "excerpt": "Senator Jeff Merkley introduced a bill on Tuesday to prevent private corporations from collecting facial recognition data without people’s consent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-silhouette-getty-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/federal-bill-would-ban-corporate-facial-recognition-without-consent/?amp",
+      "publishedDateTime": "2020-08-04T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-04-bernie-sanders-and-jeff-merkley-have-a-plan-to-protect-you-from-facial-recognition.md",
+      "title": "Bernie Sanders and Jeff Merkley have a plan to protect you from facial recognition",
+      "excerpt": "Uncovering and explaining how our digital world is changing — and changing us. Sens. Jeff Merkley and Bernie Sanders are proposing more federal regulation for facial recognition technology. Among other limits, their newly announced National Biometric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/C2_oi-qdv4rsUQVXp7WfmDZD_zA=/0x0:3000x2000/1400x1050/filters:focal(1488x550:1968x1030):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67155167/GettyImages_857192090.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/2020/8/4/21354053/bernie-sanders-jeff-merkley-national-biometric-information-privacy-act",
+      "publishedDateTime": "2020-08-04T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-04-key-brain-region-was-recycled-as-humans-developed-the-ability-to-read.md",
       "title": "Key brain region was 'recycled' as humans developed the ability to read",
       "excerpt": "As one example, they suggest that a part of the visual system that is specialized to perform object recognition has been repurposed for a key component of reading called orthographic processing ...",
@@ -1320,88 +1420,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-facebook-adds-100-million-to-facial-recognition-settlement-over-tagged-photos.md",
-      "title": "Facebook adds $100 million to facial recognition settlement over tagged photos",
-      "excerpt": "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp",
-      "publishedDateTime": "2020-07-24T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-facebook-agrees-to-pay-record-650m-to-settle-facial-recognition-lawsuit.md",
-      "title": "Facebook agrees to pay record $650M to settle facial recognition lawsuit",
-      "excerpt": "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp",
-      "publishedDateTime": "2020-07-24T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -24,6 +24,54 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate"
+    excerpt: "The trade group representing many of the largest technological security companies is urging regulators not to overreach on facial recognition restrictions even as U.S. lawmakers push to rein in police use of the software. The Security Industry Association ..."
+    publishedDateTime: 2020-08-18T11:50:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iogtWuFQpWGA/v1/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "NYPD used facial recognition to track down Black Lives Matter activist"
+    excerpt: "Photo by Ira L. Black - Corbis/Getty Images The New York City Police Department used facial recognition software to track down a Black Lives Matter activist accused of assault after allegedly shouting into a police officer’s ear with a bullhorn."
+    publishedDateTime: 2020-08-18T09:29:00Z
+    webUrl: "https://www.theverge.com/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/wbKDmXcD3f3Xc3Al7cSJGKGlHQs=/0x0:5472x3648/1400x933/filters:focal(2299x1387:3173x2261):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218774/1264758330.jpg.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "The best facial recognition cameras to buy in 2020"
+    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of ..."
+    publishedDateTime: 2020-08-18T23:07:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 3413
+        height: 1920
+        isCached: true
   - title: "British police to trial facial recognition system that detects your mood"
     excerpt: "Lincolnshire police plan to test facial recognition and behavioral tech that infers people's moods and expressions by analyzing CCTV footage."
     publishedDateTime: 2020-08-17T16:22:00Z
@@ -40,22 +88,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Gujarat Police Tests Facial Recognition System To Track Missing Offenders"
-    excerpt: "Gujarat Police has successfully tested a facial recognition system (FRS) based on artificial intelligence in Vadodara city to strengthen its law enforcement system and curb crime."
-    publishedDateTime: 2020-08-15T13:17:00Z
-    webUrl: "https://www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011"
-    ampWebUrl: "https://www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/gujarat-police-tests-artificial-intelligence-based-facial-recognition-system-to-track-missing-offenders-2280011?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
-    images:
-      - url: "https://c.ndtvimg.com/2019-05/ituc17b_cctv-generic_625x300_29_May_19.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Brain Relies on Face Recognition Systems to Perceive Faces"
     excerpt: "just like computer face recognition systems such as those used by Facebook and Google,\" explains co-author Brad Duchaine, a professor of psychological and brain sciences and the principal investigator of the Social Perception Lab at Dartmouth College."
     publishedDateTime: 2020-08-18T10:30:00Z
@@ -67,20 +99,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 54
-  - title: "To perceive faces, your brain relies on a process similar to face recognition systems"
-    excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people who have a rare condition known as hemi-prosopometamophosia (hemi-PMO),"
-    publishedDateTime: 2020-08-17T14:20:00Z
-    webUrl: "https://medicalxpress.com/news/2020-08-brain-similar-recognition.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/toperceivefa.jpg"
-        width: 1000
-        height: 549
-        isCached: true
   - title: "‘Fawkes’ tool protects you from facial recognition online"
     excerpt: "A new software tool called Fawkes can \"cloak\" photos before you upload them to social media to prevent facial recognition algorithms from identifying you."
     publishedDateTime: 2020-08-17T14:35:00Z
@@ -95,6 +113,15 @@ related:
         width: 1600
         height: 915
         isCached: true
+  - title: "Police facial recognition robot identifies anger and distress"
+    excerpt: "A police force hopes to deploy facial recognition and behavioural technology that can spot anger and distress, in a widening use of artificial intelligence.Retrospective facial recognition is under"
+    publishedDateTime: 2020-08-14T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/police-facial-recognition-robot-identifies-anger-and-distress-65h0xfrkg"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 19
 
 secured: "lpuBu5C/KtTOtV4pLS7Q5jIuHej3jDv6YHOz0niwQRFqDpoipmLGHmPDaQoAYLCyDVdY9Y3Mol54xWDKQXtezaOxt1jmLpyzIoEGGTqCy8D8MhRI4kTSgNQF4nt57VEbQTiNvOJuosfaG0HR92E0dx9fL5RS4S5w9GxBsbP/+Lk6PUDu2KE80fhjW7b8kX4ebmZ2BkBKcX1sY/8mlSK58hsJzmryZtiIgNZqZflUFKe1FY69/itjJ3EoQVFDwLCKnsQEGoF1JHpYuhl1yyDPxzHkWupkXFUBuca+o3o9EL0D3CVJ1pfxYou760pHObDJlRoDObTUbi1JSi+Bd6HW+jQlvBPiknRsNm0SadNW9An2u4RSVfB+MyKjOfsR88esE3/Q6qNneTaQffq2Sdh9q6PByHJGugAktOMG3JsdZjvHpqvErz8Rv08GtQfck/Y24NiTFOO/eTHBdX3WQw6lySgwLCJDwICGuB1a6k4xHThn2u69lC6x9T02AR4aDtZm0+UPdq/rLvZgxYJp1TqzCw==;ERyEGaW7kbSkTvoqTys5ag=="
 ---

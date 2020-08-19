@@ -2,6 +2,187 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-28-ciox-health-acquires-biomedical-natural-language-processing-pioneer-medal-inc.md",
+      "title": "Ciox Health Acquires Biomedical Natural Language Processing Pioneer, Medal, Inc.",
+      "excerpt": "today announced its acquisition of San Francisco-based biomedical Natural Language Processing (biomed-NLP) technology company, Medal, Inc., a leader in the application of AI techniques to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200728005115/en/Ciox-Health-Acquires-Biomedical-Natural-Language-Processing",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200728005115/en/808418/23/ciox-logo_%281%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-hillrom-inks-partnership-with-aiva-to-facilitate-voice-enabled-clinical-workflows.md",
+      "title": "Hillrom Inks Partnership With Aiva To Facilitate Voice-Enabled Clinical Workflows",
+      "excerpt": "PRNewswire/ -- Hillrom (NYSE: HRC) today announced a new commercial partnership with Aiva, enabling hands-free communication for both patients and staff utilizing an in-room voice assistant and Hillrom’s Voalte® Mobile solution.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/PR Newswire/67996d718036762ebca7c59be0744f21",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime.md",
+      "title": "ComplyAdvantage nabs $50M for an AI platform and database to detect and stop financial crime",
+      "excerpt": "The growth of digital banking has opened up a wealth of opportunities for making the world of finance more accessible and transparent to a greater number of people. But the darker underbelly is that it has also created more avenues for illicit activity to flourish,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-909208346.jpg?w=1024",
+          "width": 1024,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/28/complyadvantage-nabs-50m-for-an-ai-platform-and-database-to-detect-and-stop-financial-crime/amp/",
+      "publishedDateTime": "2020-07-28T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-28-introducing-microsofts-dataflex-low-code-data-platform.md",
+      "title": "Introducing Microsoft’s Dataflex low-code data platform",
+      "excerpt": "Microsoft’s family of low- and no-code application tools is one of its fastest growing developer platforms. Building on top of technologies from the Dynamics line-of-business applications and from Office,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3568264/introducing-microsofts-dataflex-low-code-data-platform.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/06/woman_working_from_home_remote_worker_work-from-home_by_tempura_gettyimages-1162928061_abstract_binary_by_aleksei_derin_gettyimages-914850254_cso_nw_2400x1600-100849411-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3568264/introducing-microsofts-dataflex-low-code-data-platform.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3568264/introducing-microsofts-dataflex-low-code-data-platform.amp.html",
+      "publishedDateTime": "2020-07-28T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-tasers-a-pink-diary-and-a-bulge-in-the-front-of-his-pants-the-inside-story-of-an-albany-meth-dealers-violent-run-ins-with-police.md",
       "title": "Tasers, a pink diary and a bulge in the front of his pants — the inside story of an Albany meth dealer’s violent run-ins with police",
       "excerpt": "Convicted Albany meth dealer Nicholas Knight broke down in tears in court last week as he was sentenced to prison in a hearing that revealed dramatic details of his violent run-ins with police.",
@@ -1147,170 +1328,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-computer-vision-drives-automated-warehouse-solution.md",
-      "title": "Computer Vision Drives Automated Warehouse Solution",
-      "excerpt": "Taking on the e-commerce picking and sorting challenge is RightHand Robotics' RightPick2, a second-generation piece-picking device that combines a \"smart gripper\" with computer vision to pick and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/20/07/16794158/computer-vision-drives-automated-warehouse-solution",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/righthand-robotics-rightpick2.jpg",
-          "width": 7952,
-          "height": 5304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16794158",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16794158",
-      "publishedDateTime": "2020-07-27T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data.md",
-      "title": "Datavard and Pyramid Analytics Announce Partnership to Help Customers Extend the Value of SAP Data",
-      "excerpt": "Under the partnership, Pyramid Analytics gains the rights to re-sell Datavard’s flagship product—Datavard Glue®. Pyramid is an enterprise BI platform that supports the full analytics workflow, from data modeling to dashboards and reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/datavard-and-pyramid-analytics-announce-partnership-to-help-customers-extend-the-value-of-sap-data/article_569ca5a7-fd83-5731-9fdf-72c42ac6e678.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-27T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine.md",
-      "title": "MIT develops machine learning model to quicken release of COVID-19 vaccine",
-      "excerpt": "OptiVax tests potential vaccines for efficacy and population coverage, then designs vaccines for testing, all with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/02/2fe5b8ac-05e6-4864-af5e-53a826a43cbb/resize/1200x/61d45b868cfcaadf844b70cdcce59491/shutterstock-1703465413.jpg",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/mit-develops-machine-learning-model-to-quicken-release-of-covid-19-vaccine/",
-      "publishedDateTime": "2020-07-27T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-27-nvidia-geforce-vs-amd-radeon-gpu-which-graphics-card-should-you-buy.md",
-      "title": "NVIDIA GeForce vs AMD Radeon GPU: Which graphics card should you buy?",
-      "excerpt": "But there's another highlight in NVIDIA RTX GPUs, and that's deep learning super sampling (DLSS) 2.0, which effectively uses an AI to boost frame ... Still, a GPU is simply that, a graphics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/06/computex-2019-thermaltake-custom-pc-8.jpg",
-          "width": 800,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-geforce-vs-amd-radeon-gpu",
-      "publishedDateTime": "2020-07-27T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

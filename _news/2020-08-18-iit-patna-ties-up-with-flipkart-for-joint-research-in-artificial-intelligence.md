@@ -71,6 +71,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "IIT Patna, Flipkart partner for joint research in AI and ML"
+    excerpt: "The e-commerce platform expects to foster an environment of collaboration in the areas of automation, AI, NLP and ML ... the Indian vernacular languages, according to the Institute. \"And at the same time will ensure that the translation process should ..."
+    publishedDateTime: 2020-08-19T00:14:00Z
+    webUrl: "https://www.sify.com/news/iit-patna-flipkart-partner-for-joint-research-in-ai-and-ml-news-education-uisjlKhbggehb.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 19
 
 secured: "vVED7Tny0qD5rydD4caYtimAVS6pQ3m+a0I8nY6QGrz7rl+SVfSYYJvk1NkW9oLFHla7AvaF8FD2svHNhg9Lspb6Aj/Yt/INDLwlbhgIWf/Hkix2XeapHmDYixEDmhkOzH5LOfz4ZCkbUDyTdj+mfWmOBE0i4eUfAW/ZdFnznOSJVoYfiWred8WuhMSsJKIhYTBt70E4jmAlXqNqJZq4o64duWYooSyySqAqsHZNNfNTn08COT6QPcQndm8P+ZzqTxR/5khVnqZggqk9c5kRaHdSiS7Bs3piSv666OYR77oL27IpaY+6BZOGm9rmteGc0Xew/fZ++2Dx2sxtR7tyXA==;SqvXNlPIIxIJoa8lxtktSg=="
 ---

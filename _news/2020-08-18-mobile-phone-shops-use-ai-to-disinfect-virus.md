@@ -7,8 +7,8 @@ webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200818_19/"
 ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200818_19/amp.html"
 cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200818_19/amp.html"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "b19aQwYXxwzYYR7ZgvwgjEKI6iAugfqccJEf3aP/5rkgsbAAn1VynxeVX2ETcuVARSF3SmyY/eytQ5/oiGpYyjB5jo0hLPuGhAvTo2qZwUGP8A938DO+r/MWulvhCWmmX3iYKnkvxiZgrXu6K8+CIGfZlNPkQwfj0IstFqV0XN+jxxiz6GfNMe5ACL44doLGiaqKcUrN9wvnv4wjprBdA68GnBJmJmG1+4NCltR72yBqssfqtShVc2Pc3heTYQ3OTJHiyMi8ud6R7YHdrYxJwak22RF2lMF57xotWObCqB5rkKEBRmtOJekMImIxOOl50CK5q4BFdBsZGzPdcgEigw==;Un5PIqQ4ySQs5Szf20jy2Q=="
+images:
+  - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200818_19_871382_L.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "6mZPb/bRpCMZfBTWW6cN+laFIpqaOttv4xIGk9v+Di/nGwD5eiiHZ8RyXVBm0itctQpX/Fz+GPGiTg7TDpf1VCevW1HQ5vluGSdv34KVDbNesxhM/i9Q2xMMv3sLZYB0zi28h3zpoOagCeD3biMcN9dky+CYawtqi9Hd4smYCZa8C3L1oIbPB1KJIUUVpcdzDc0f7z1c6dIjsq6K2mruRuETAJDWJ8H6oWboZrmRjRTk1mxbz7mLXLVHplYLs877SI/c0iMRvhC0mNBM8z/wgj4JwIwgqapVzBIti3LjcDKBx3yise9sfLNS+Yioc5vdy4muyAAVBigCuioAROhg+Q==;5SUBOuUPl8oGPNSLOwkS2w=="
 ---
 

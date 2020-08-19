@@ -19,6 +19,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.infoworld.com/resources/207255/5-big-myths-of-ai-and-machine-learning-debunked</loc>
+    <lastmod>2020-08-18T12:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/</loc>
     <lastmod>2020-08-18T12:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -97,6 +103,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate</loc>
+    <lastmod>2020-08-18T04:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.openpr.com/news/2115110/artificial-intelligence-ai-in-education-market-to-witness</loc>
     <lastmod>2020-08-18T00:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -111,6 +123,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html</loc>
     <lastmod>2020-08-17T20:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://rcpmag.com/articles/2020/08/18/microsoft-aiops-azure-outage.aspx</loc>
+    <lastmod>2020-08-17T17:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -171,12 +189,6 @@
   <url>
     <loc>https://www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17</loc>
     <lastmod>2020-08-17T09:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/</loc>
-    <lastmod>2020-08-17T09:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -313,6 +325,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335</loc>
+    <lastmod>2020-08-15T07:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/vid2play-morning-after-130536768.html</loc>
     <lastmod>2020-08-15T06:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -387,6 +405,12 @@
   <url>
     <loc>https://www.govtech.com/transportation/Michigan-Self-Driving-Vehicle-Corridor-Aims-to-Lead-Nation.html</loc>
     <lastmod>2020-08-14T08:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://nerdist.com/article/lawsuit-instagram-face-recognition-california/</loc>
+    <lastmod>2020-08-14T08:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -643,12 +667,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.morningstar.com/news/pr-newswire/20200812ny89611/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace</loc>
-    <lastmod>2020-08-12T16:15:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-08-12T16:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -657,6 +675,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions/</loc>
     <lastmod>2020-08-12T15:49:17-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html</loc>
+    <lastmod>2020-08-12T13:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -751,8 +775,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.dailytelegraph.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
-    <lastmod>2020-08-12T06:48:00-07:00</lastmod>
+    <loc>https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162</loc>
+    <lastmod>2020-08-12T07:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -937,6 +961,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries</loc>
+    <lastmod>2020-08-11T06:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8</loc>
     <lastmod>2020-08-11T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -945,12 +975,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11</loc>
     <lastmod>2020-08-11T06:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries-1029492002</loc>
-    <lastmod>2020-08-11T06:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

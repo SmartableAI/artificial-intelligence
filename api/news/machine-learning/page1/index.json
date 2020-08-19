@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-18-5-big-myths-of-ai-and-machine-learning-debunked.md",
+      "title": "5 Big Myths of AI and Machine Learning Debunked",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are already powering tools that can give your business decision making processes a massive upgrade. Here’s what you really need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/207255/5-big-myths-of-ai-and-machine-learning-debunked",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19.md",
       "title": "How to diagnose and treat machine learning models afflicted by COVID-19",
       "excerpt": "Its impact has been particularly significant on many machine learning (ML) models that companies use to predict human behavior. Companies need to take steps to deeply examine ML models and acquire ...",
@@ -1353,47 +1394,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-08-06-deep-learning-for-synthetic-microstructure-generation-in-a-materials-by-design-framework-for-heterogeneous-energetic-materials.md",
-      "title": "Deep learning for synthetic microstructure generation in a materials-by-design framework for heterogeneous energetic materials",
-      "excerpt": "The sensitivity of heterogeneous energetic (HE) materials (propellants, explosives, and pyrotechnics) is critically dependent on their microstructure. Initiation of chemical reactions occurs at hot spots due to energy localization at sites of porosities and other defects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-020-70149-0",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-70149-0/MediaObjects/41598_2020_70149_Fig1_HTML.png",
-          "width": 685,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-06T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

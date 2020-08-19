@@ -2,18 +2,18 @@
 category: news
 title: "Artificial intelligence ethics a 'primary concern' for IBM"
 excerpt: "Technology Editor at the Australian David Swan says it is “incredibly important” to address the ethics in artificial intelligence in order to protect the use of Australian data."
-publishedDateTime: 2020-08-12T13:48:00Z
-webUrl: "https://www.dailytelegraph.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162"
+publishedDateTime: 2020-08-12T14:18:00Z
+webUrl: "https://www.adelaidenow.com.au/news/national/artificial-intelligence-ethics-a-primary-concern-for-ibm/video/f559da03b8fba8c36c9f97db3073d162"
 type: article
 
 provider:
-  name: The Daily Telegraph
-  domain: dailytelegraph.com.au
+  name: Adelaide Now
+  domain: adelaidenow.com.au
 
 topics:
   - AI Ethics
   - AI
 
-secured: "QbuxGbpN66pyZAUXd4pkIWEhNWyDPfQX6TRngZbakFlag+t0vjOI5ptfh/9FCRkkZ/S7/VGc/3eYURl/HCPNLsPVtyHUdfVA4Y+t3cB0n60LDAXbOW+nVkIDn1vrVgB8mI/9QJpJEY5zFa4U7z8y9gkYS/550eV3dU4bEOP55MH4ntAPG8m4xPz77iMGY42uMNk1guAx5MVtfCJZK3I7OKnbXVTJCXd7/1dB1g0s7uj0XIdCR/3gYtdeLnIDxj8nGxNkJIHOLk8+THavSRMvFnSJ81CL1lXBfBYMCxW5j4mZYlrX4eUWFZK9nvSziIbNKujuehgqDwMODveaWW5SZh5XQGVfaKN/MuUfFf8MZgvVtRidrzfV4U+O+pLZYxMS/zDyfWjTNKicPMOwLCJYAjHQskJjooRvsxgNO3DpoEgH3j1k5a8N4elr6GoSfcGqSsmMEJx/xhECRxvW+Cl+YcrLDAmP0wVAD9n/Eqv5F+BYFQq25tFH/E45MvkFRMIRh0wl+U/XyirH/xXwXkBerw==;y/wJtxHSQY+qQDtgmwNkOw=="
+secured: "ZHlKQB/KCFVDSF5eZnadnF7xg2hM1uNfWeS+4QN8HgS0l5uj2NqKNdD8lKaZhfbRyGhjpHJ0iUE+dDYafqnoN+MaT0pnzh8fIa5QusSwnJZ+FiUu5BQtSsVv7VDycQ2D9/YaoAZQh2Z/e1NSvAJeXRtPj5lZXURn8kd5S2azcDXQN24oUOl+Ys3BFDMXhT2rWfEAFpOl9y5i0La0VpM3BRy1IZNCV7Snbn7jnYXQd8Fj6IAfnOm3ZtkOUKaZVI8o9AturVCzSLBE9UrH+xAVXkme1VaZr2R6SzIC5ByvdYp202wIUF9imH8gBHTjQ9/sX8Ai3csEOV4K9I3Ca5y78gtKR/0MzUbnYRtwsbHBwig2ZuwETx60pvlw+bEPHnuovOey03Larvsx8xP45wdQnrXh0vkzeMjHQRwmgrIHBJUSOMF+C9JnAlCusVDbTW9tVBRISSXsVpLl6QM1lvkmFb5p/jPWnKEu/C1oZoUnwbgvQ0HwdXn5Ns022CmjbzuJW9HvboJSTz0X/J2pQ1v2kA==;U1u+Sje7akvqgZpK2e4pqQ=="
 ---
 

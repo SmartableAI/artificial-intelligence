@@ -234,6 +234,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Read Michelle Obama's Full Speech from the 2020 Democratic National Convention"
+    excerpt: "Read her full speech below. Good evening ... The ability to walk in someone else's shoes, the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or struggling, we ..."
+    publishedDateTime: 2020-08-19T00:08:00Z
+    webUrl: "https://www.harpersbazaar.com/culture/politics/a33627441/michelle-obama-democratic-national-convention-2020/"
+    ampWebUrl: "https://www.harpersbazaar.com/culture/politics/amp33627441/michelle-obama-democratic-national-convention-2020/"
+    cdnAmpWebUrl: "https://www-harpersbazaar-com.cdn.ampproject.org/c/s/www.harpersbazaar.com/culture/politics/amp33627441/michelle-obama-democratic-national-convention-2020/"
+    type: article
+    provider:
+      name: Harper's Bazaar
+      domain: harpersbazaar.com
+    quality: 40
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1266883401.jpg?crop=1.00xw:0.892xh;0,0.0741xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Michelle Obama warns in powerful convention speech with Trump, things can get worse"
     excerpt: "Former first lady Michelle Obama delivered the most important speech of the first night of the virtual Democratic National Convention on Monday, forcefully taking down President D"
     publishedDateTime: 2020-08-18T04:11:00Z

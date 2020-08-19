@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Retail Market: Verint Launches Latest Intelligent Virtual Assistants & Enterprise Chatbots"
-excerpt: "This information is given by Fortune Business Insights(TM) in a recent report, titled, \"Artificial Intelligence (AI) in Retail Market Size, Share & Industry Analysis, By Offering (Solutions, Services), By Function (Operations-Focused, Customer-Facing), By ..."
-publishedDateTime: 2020-08-18T09:09:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18"
+excerpt: "Out of these, the computer vision segment generated 23.7% AI in retail market share in 2018. The natural language processing segment holds ... speech processing, machine translation, and text parsing. Rising Investments by Reputed Companies to Favor ..."
+publishedDateTime: 2020-08-18T12:34:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g17133151/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17133151"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17133151"
 type: article
-quality: 56
-heat: 56
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - Natural Language Processing
   - AI
+  - AI in Healthcare
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "V75UB+XqJcnlJH+UHI1My+apSqRWXRksQuWLgrZigOdA0lvEzykBKU9gMsVV/qWXXZ6khcjT/1To6H+h9wEivnF9hsrgWoPw1TFUrjHoHj7yfnQ/azo+B0hEuRHUJ04NyYKeFg9bajBrtIxkJCUGihkdB7enGhCuoK2NN5DOcTwUyqSNdK6R80IcO/CMiJJxjF4Axy2UGoll7aXHsInkVuORRmSrtTIX5ND/VEvVcxApS3NzppmCvRmSGodLOPojjOe/ncQ0qn9Ku5nIDHedqWNcUSgAaSgbJt07PTmi1EnimljgvGUr55Nuh9Ct4PEmVQR4Lm6b24yrTPnBQwGCGw==;dudCTlTdsN3wxQPxdNWS0w=="
+secured: "6S7xC1iHAN0xcgvF2OZapntSgi/kCRoCKEbV0auhbkifKyZf48YXPb1eXe0ms1cMmJ3wtObbpyFfhouxVhWyUoPmoA9jAgfeokKMXQudE2UM9oWA0eTi+Az42p+gZVbBhcaH0gRelyjwYbMsyX9PKpDPiSVgqp/X+igq689FNvgXaC0nj0dby/yCkkdM2ig2PmXgDBLnYkQXeTXACJvvYYtLSZyaivGc491NVtRFlicwV2baixhE8o/dkEfBkQrRtOiWOb0Ug0XzQ3WVoak3ey1Gg1DgD0TM/1cv4t7CcbhhB4ZVhd/Eezt58PXI0BMdtv3cD8dTwpzzPW/g1HWS0wcMQ7Vght0Z80wNRhAd4vgboNPAltdXjR4UAUwfSpdiKi4P9SmxQuKasgjCCBgBNX8i4UYrhq7E2ffmfIbIC7iaLlJLCmymNgULfy5Jqsty1rEsUa9uHZkOLhMm7fnUfCapCaCJlwUvcYLLiK9JFu0GD9tiw1QOtSMGwNbjZDC0UkJFgnxfPQ4tGCykHPSkhg==;IlXfWYrO5B1BjelD/7Ujjg=="
 ---
 

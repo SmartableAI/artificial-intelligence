@@ -23,6 +23,24 @@ images:
     height: 960
     isCached: true
 
+related:
+  - title: "Brazil’s Money Management Fintech Allya to Use Machine Learning to Create Digital Assistant for Financial Advice after Successful Seed Round"
+    excerpt: "The new solution will be implemented by using machine learning algorithms. The new product from Allya will try to understand consumers’ spending habits or behavior and offer practical advice and tips, so that they can effectively manage their earnings."
+    publishedDateTime: 2020-08-18T22:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/08/165418-brazils-money-management-fintech-allya-to-use-machine-learning-to-create-digital-assistant-for-financial-advice-after-successful-seed-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165418-brazils-money-management-fintech-allya-to-use-machine-learning-to-create-digital-assistant-for-financial-advice-after-successful-seed-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165418-brazils-money-management-fintech-allya-to-use-machine-learning-to-create-digital-assistant-for-financial-advice-after-successful-seed-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 26
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/03/raphael-nogueira-unsplash-Rio-de-Janeiro-Brazil-300x260.jpg"
+        width: 300
+        height: 260
+        isCached: true
+
 secured: "h9q5EMhDNqGc+4aQwg+YOw9HbnohZxymz5ihISKMdjvEmtfo9ENBGqK78DATqSAOmAwOZW82v/yIBkJAj3DRXM5kh79dl217dbkRVKVvuEcIEUBTdo96rem2Iiq4qWpRg4aPVpqUeMDD4ttK0MQHC6wUf1C2JZZAIQjcF5eh2f/2d2ng1/6v4EuaR76J+YMJZW4fWFwBO1sd4Fz9U0teQX3p0kjodvzoR6+boPS50XQ6aElrAaaaQqxbtD11etXivdQQysJsjKiCI4oz3RPkalRlMTZrs20nOryd/IfKRcpuYOtvPqQOvHfwqL1tmGaNZBbgWu+m4mEx5UAQ6+w3dutvqE46i98iF4WrHwH4LJ+y50CQZTZblg75K+WnYdbXeCeCkKLeRpkQKUTuxMK173V9DFVaZrSZodo61hYfraAt162jBiGxFvSKjRpyGpHFksfF4U0eFONVqzjx+xLnZMTwht9p0XSneQe+X0c9ISeKR0pajThpZxx4xBZlXoVUFomy0vNII7WNrWGJ3uj+8A==;8E2nwN2TwHSpEpco7MqNCA=="
 ---
 

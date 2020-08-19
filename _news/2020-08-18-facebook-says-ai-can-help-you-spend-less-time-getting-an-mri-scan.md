@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-s
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -62,6 +62,17 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "AI can speed up MRI scans, shows Facebook study"
+    excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
+    publishedDateTime: 2020-08-19T00:14:00Z
+    webUrl: "https://www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
+    ampWebUrl: "https://www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/ai-can-speed-up-mri-scans-shows-facebook-study-news-education-uisq5Pdcgejcg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
   - title: "AI can speed up MRI scans, shows Facebook study"
     excerpt: "The fastMRI research team removed roughly three ... AI model did not just look like generic MRIs; the AI-generated images matched the ground truth image created by the standard slow MRI process, Facebook said. The study showed that fastMRI can generate ..."
     publishedDateTime: 2020-08-18T16:37:00Z

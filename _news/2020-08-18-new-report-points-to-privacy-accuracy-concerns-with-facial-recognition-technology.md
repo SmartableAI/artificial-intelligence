@@ -143,6 +143,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Global facial recognition company working closely with Government"
+    excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
+    publishedDateTime: 2020-08-19T01:46:00Z
+    webUrl: "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12357892"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/LPJS9sjmabN3rfygjtobjESobCE=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NC7R4CQRM5F37CYKZHOTPN5HQE.jpg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "'Masks' may test facial recognition cameras utility on I-Day!"
     excerpt: "The Delhi police is using cameras equipped with facial recognition software to secure the Red Fort, where Prime Minister Narendra Modi will hoist the national flag on the 74th Independence Day. This is being done to screen suspects around the celebration area matching their faces with the available database of terrorists and criminals with the security agencies."
     publishedDateTime: 2020-08-15T00:57:00Z

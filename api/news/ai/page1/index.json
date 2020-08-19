@@ -142,6 +142,47 @@
       ]
     },
     {
+      "path": "_news/2020-08-18-5-big-myths-of-ai-and-machine-learning-debunked.md",
+      "title": "5 Big Myths of AI and Machine Learning Debunked",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are already powering tools that can give your business decision making processes a massive upgrade. Here’s what you really need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/207255/5-big-myths-of-ai-and-machine-learning-debunked",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-amazon-now-offers-third-party-solutions-for-contact-center-ai.md",
       "title": "Amazon now offers third-party solutions for contact center AI",
       "excerpt": "Amazon today announced the launch of AWS Contact Center Intelligence (CCI) solutions, a combination of services that enables customers to integrate contact centers with AI through partners in the ...",
@@ -149,7 +190,7 @@
       "webUrl": "https://venturebeat.com/2020/08/18/amazon-now-offers-third-party-solutions-for-contact-center-ai/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -389,7 +430,7 @@
       "webUrl": "https://www.financialexpress.com/industry/flipkart-signs-pact-with-iit-patna-for-joint-research-in-ai-ml/2059068/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -579,7 +620,7 @@
       "webUrl": "https://www.cnet.com/health/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -763,6 +804,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-18-facial-recognition-lobby-urges-caution-on-us-zeal-to-regulate.md",
+      "title": "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate",
+      "excerpt": "The trade group representing many of the largest technological security companies is urging regulators not to overreach on facial recognition restrictions even as U.S. lawmakers push to rein in police use of the software. The Security Industry Association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iogtWuFQpWGA/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
+      "publishedDateTime": "2020-08-18T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-artificial-intelligence-ai-in-education-market.md",
       "title": "Artificial Intelligence (AI) in Education Market",
       "excerpt": "Artificial Intelligence (AI) in Education Market Global Report 2020-26: Covid 19 growth and changes in its research report store. It is the most comprehensive report available on this market and will help gain a truly global perspective as it covers 60 ...",
@@ -861,7 +952,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -900,6 +991,47 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-microsoft-turns-to-aiops-for-better-azure-outage-announcements.md",
+      "title": "Microsoft Turns to 'AIOps' for Better Azure Outage Announcements",
+      "excerpt": "Microsoft has streamlined its Azure outage reporting via artificial intelligence (AI) technology. This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://rcpmag.com/articles/2020/08/18/microsoft-aiops-azure-outage.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0814vsm_Bowytz.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Channel Partner",
+        "domain": "rcpmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1298,129 +1430,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-artificial-intelligence-breakthrough-could-allow-ai-to-merge-with-human-brain.md",
-      "title": "Artificial Intelligence: Breakthrough could ‘allow AI to merge with human brain’",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) experts believe the discovery of a cutting-edge material could finally achieve ambitions of fusing the human brain with machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news-1323930.jpg?r=1597682083508",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news/amp",
-      "publishedDateTime": "2020-08-17T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor.md",
-      "title": "IBM Inks Deal With Samsung to Build its Latest Chip Processor",
-      "excerpt": "International Business Machines Corporation IBM recently unveiled its latest chip processor — IBM POWER 10 — which will be manufactured by Samsung Electronics. The chip is primarily meant for use across data center operations and will be based on Samsung’s 7-nanometer (nm) process technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-inks-deal-with-samsung-to-build-its-latest-chip-processor-2020-08-17?amp",
-      "publishedDateTime": "2020-08-17T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-british-police-to-trial-facial-recognition-system-that-detects-your-mood.md",
-      "title": "British police to trial facial recognition system that detects your mood",
-      "excerpt": "Lincolnshire police plan to test facial recognition and behavioral tech that infers people's moods and expressions by analyzing CCTV footage.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-17T150750.023-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/amp/",
-      "publishedDateTime": "2020-08-17T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

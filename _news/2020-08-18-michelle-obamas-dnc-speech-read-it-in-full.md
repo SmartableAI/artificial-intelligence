@@ -232,6 +232,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Read Michelle Obama's Full Speech from the 2020 Democratic National Convention"
+    excerpt: "Read her full speech below. Good evening ... The ability to walk in someone else's shoes, the recognition that someone else's experience has value, too. Most of us practice this without a second thought. If we see someone suffering or struggling, we ..."
+    publishedDateTime: 2020-08-19T00:08:00Z
+    webUrl: "https://www.harpersbazaar.com/culture/politics/a33627441/michelle-obama-democratic-national-convention-2020/"
+    ampWebUrl: "https://www.harpersbazaar.com/culture/politics/amp33627441/michelle-obama-democratic-national-convention-2020/"
+    cdnAmpWebUrl: "https://www-harpersbazaar-com.cdn.ampproject.org/c/s/www.harpersbazaar.com/culture/politics/amp33627441/michelle-obama-democratic-national-convention-2020/"
+    type: article
+    provider:
+      name: Harper's Bazaar
+      domain: harpersbazaar.com
+    quality: 40
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1266883401.jpg?crop=1.00xw:0.892xh;0,0.0741xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Read, watch Michelle Obama's full speech from the Democratic National Convention"
     excerpt: "The following are the full remarks from former First Lady Michelle Obama on the first night of the 2020 Democratic National Convention. This transcript was provided by the Democratic National Committee."
     publishedDateTime: 2020-08-18T11:34:00Z

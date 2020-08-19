@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -132,6 +132,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
         width: 1240
         height: 826
+        isCached: true
+  - title: "Global facial recognition company working closely with Government"
+    excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
+    publishedDateTime: 2020-08-19T01:46:00Z
+    webUrl: "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12357892"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 39
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/LPJS9sjmabN3rfygjtobjESobCE=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NC7R4CQRM5F37CYKZHOTPN5HQE.jpg"
+        width: 1200
+        height: 750
         isCached: true
   - title: "New report points to privacy, accuracy concerns with facial recognition technology"
     excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
