@@ -26,36 +26,106 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet-Backed Startup To Build Self-Driving 'Road Of The Future'"
-    excerpt: "A startup called Cavnue will build a first-of-its-kind 40-mile connected corridor in Michigan with dedicated lanes for autonomous vehicles. AV companies are paying more"
-    publishedDateTime: 2020-08-17T20:36:00Z
-    webUrl: "https://www.benzinga.com/news/20/08/17121761/alphabet-backed-startup-to-build-self-driving-road-of-the-future"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/17121761"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17121761"
+  - title: "Beijing Makes Self-Driving Vehicles A Priority"
+    excerpt: "The Chinese government has designated autonomous driving, along with 5G and artificial intelligence, as one of the strategic technologies to counteract the economic impact of the COVID-19 pandemic, boosted by state investment fund that has breathed new life into the ecosystem."
+    publishedDateTime: 2020-08-19T09:26:00Z
+    webUrl: "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/"
+    ampWebUrl: "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/upscaled_stills_highway.png"
-        width: 3840
-        height: 2160
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ceed42f88cd00669b3aa7%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Self-driving startup finds the middle ground"
-    excerpt: "Most of his counterparts in the self-driving industry chase a moonshot, making enormous efforts to develop systems capable of handling complicated traffic scenarios in an almost-limitless number of areas."
-    publishedDateTime: 2020-08-15T04:00:00Z
-    webUrl: "https://www.autonews.com/technology/self-driving-startup-finds-middle-ground"
+  - title: "Self-driving cars could be on UK roads by spring 2021"
+    excerpt: "The UK government has put out a call for evidence on Automated Lane Keeping Systems (ALKS), a function used on self-driving cars that can take control of a vehicle at low speeds. Industry experts have said that ALKS in new cars would reduce road accidents and could be ready by the start of 2021."
+    publishedDateTime: 2020-08-19T10:04:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/automation/356817/self-driving-cars-uk-roads-2021"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 54
     images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/GATIK-MAIN_i.jpg"
-        width: 800
+      - url: "https://media.itpro.co.uk//image/upload/v1597828845/itpro/AutonomousLaneKeepingSystems_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Michigan is devoting a 40-mile stretch of highway to testing self-driving cars and improving public transportation"
+    excerpt: "The route from Detroit to Ann Arbor will soon have lanes set aside for autonomous buses and cars in the hopes of advancing self-driving tech."
+    publishedDateTime: 2020-08-15T13:25:00Z
+    webUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/5f36e5a9e89ebf001f044d08?width=1200&format=jpeg"
+        width: 1200
         height: 600
         isCached: true
+  - title: "UK government takes the next step in bringing self-driving cars to motorways"
+    excerpt: "A new consultation aims to explore how autonomous technology can be used safely on UK roads. The UK government has launched a call for evidence that self-driving vehicles can be driven safely on city streets and motorways."
+    publishedDateTime: 2020-08-19T09:15:00Z
+    webUrl: "https://www.zdnet.com/article/uk-government-takes-the-next-step-to-bring-self-driving-cars-to-motorways/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/uk-government-takes-the-next-step-to-bring-self-driving-cars-to-motorways/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uk-government-takes-the-next-step-to-bring-self-driving-cars-to-motorways/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 51
+  - title: "Nio names new head of self-driving unit"
+    excerpt: "The change comes as Nio works to catch up with peers in the self-driving car race after securing $1 billion in funding from the Chinese government."
+    publishedDateTime: 2020-08-17T06:55:00Z
+    webUrl: "https://technode.com/2020/08/17/nio-names-new-head-of-self-driving-unit/"
+    ampWebUrl: "https://technode.com/2020/08/17/nio-names-new-head-of-self-driving-unit/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/08/17/nio-names-new-head-of-self-driving-unit/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 44
+    images:
+      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2020/08/640.png?fit=579%2C466&ssl=1"
+        width: 579
+        height: 466
+        isCached: true
+  - title: "Self-driving cars could hit UK motorways in 2021"
+    excerpt: "Self-driving vehicles could be on the British roads as early as spring 2021 after the government launched a consultation on incorporating automated technology into cars. The Transport Ministry said it would allow a system to take control of the car at low speeds to keep in lane on motorways for an extended period of time."
+    publishedDateTime: 2020-08-19T08:55:00Z
+    webUrl: "https://www.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
+    ampWebUrl: "https://amp.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
+    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/self-driving-cars-could-hit-uk-motorways-in-2021-1.1065707"
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 44
+    images:
+      - url: "https://www.thenational.ae/image/policy:1.1065779:1597835831/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Michigan announces plans for Detroit to Ann Arbor self-driving vehicle corridor"
+    excerpt: "The state of Michigan Thursday announced a plan to explore the viability of developing a 40-mile corridor for connected and autonomous vehicles between Downtown Detroit and Ann Arbor."
+    publishedDateTime: 2020-08-14T23:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/politics/michigan-announces-plans-for-detroit-to-ann-arbor-self-driving-vehicle-corridor"
+    ampWebUrl: "https://www.washingtonexaminer.com/politics/michigan-announces-plans-for-detroit-to-ann-arbor-self-driving-vehicle-corridor?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/michigan-announces-plans-for-detroit-to-ann-arbor-self-driving-vehicle-corridor?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 20
 
 secured: "lcPFZXkoN7CUbfitcuYxADdOpwmOGPKUCN9m2Dz1lLd/whzlB9XRd2O7j+GCKyoZ0g+wy0feiJ/2RxbOyUKu6g+Gotr7xiI5bxoO9ziEsDiVVEgGqpE2twV3EaUqcB7sp95EZAD/BlHjkg/v8ryQ9W3yLmJMgja1O4Mz+pj7gqsDVJzVq7uVUc291DOyhvQUQi36ge1WfjlA729CR8CYDAkM/aBFdFASEFBwEdlwG1XHDOnYzTKPVjzhM+2YAAFAaG69w3VbTUkzmstogus5Y82/eyWOmZQEwMrFApFSdJg1U4Nl/Q6sqDXPIj360TgvG88Z8ykmv7rO8l1DgSYdPA==;DuMWtuar2/J+lXScwSLlZA=="
 ---

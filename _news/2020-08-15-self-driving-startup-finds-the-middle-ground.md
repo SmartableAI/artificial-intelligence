@@ -40,22 +40,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "40 Miles Of Highway Turned Into Testing Ground For Self-Driving Cars In Michigan"
-    excerpt: "The future is here, and it’s Google-funded. The state of Michigan in the United States has unveiled its plans to begin testing self-driving cars as part of its long-term initiative to improve public transport over the coming years."
-    publishedDateTime: 2020-08-17T14:28:00Z
-    webUrl: "https://www.unilad.co.uk/technology/40-miles-of-highway-turned-into-testing-ground-for-self-driving-cars-in-michigan/"
-    ampWebUrl: "https://www.unilad.co.uk/technology/40-miles-of-highway-turned-into-testing-ground-for-self-driving-cars-in-michigan/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/40-miles-of-highway-turned-into-testing-ground-for-self-driving-cars-in-michigan/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 39
-    images:
-      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/08/selfdrivingCAVNUE.jpg&quality=70&width=808"
-        width: 808
-        height: 424
-        isCached: true
 
 secured: "TO8hq0ip+jKXfNe+AjUxXIZDmA6ocHVUSwESyD+IOo2LGvYUtsIttu5aBYJ1AcnxkuON1L8m7Dmp47EjoOUaA0x3QnB+uz+kT0T/zpXkPVogY94MEtWPIgkV5nrqC0+qotYbT0JKky3DiSk9/xwYuPRkP6inQjyVCIE8g4yOYcBC7wkq41/CHuRJLwv5SquYIQ6x2bMgC2+S7CKGrYOa3LgWlFBNPZGMt87XIZ9JoyrKJdwWmFnCU6HIjjSrFlJkXxvvdN1XIGsB3EBcY8/SYUqgWJFOGjoZ+NYYsUxd4G7PLqvH95iidYv3s7RGrxaSmUhf92U8UMOS9L91NghIOb1YzJrWWpd/NvEcD3j5seisHGqjYEsZ4cYz5aqFgwAmsOtCZkiScEXa06vnc0w1KO/j1j3N+jhbTZqacXgffL+kNJ414bQWAUjHaNCcQe9EqhesxGfPTzPSe/sbkKL6mGfwyElagD8euFLOJpUWyxyVBa7lJBUsDh5yLbaObSs32Zk7k/7l6suNzROMOeFfmw==;VHr1xOs+603SCWo6JU2y5w=="
 ---

@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/</loc>
+    <lastmod>2020-08-19T04:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/fintech-just-made-a-big-leap-forward-in-this-tiny-country-heres-why/</loc>
+    <lastmod>2020-08-19T03:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/08/19/ikala-an-ai-based-customer-engagement-platform-raises-17-million-to-expand-in-southeast-asia/</loc>
+    <lastmod>2020-08-19T03:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/</loc>
+    <lastmod>2020-08-19T02:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.entrepreneur.com/article/354973</loc>
     <lastmod>2020-08-19T00:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&amp;tesla=y</loc>
     <lastmod>2020-08-19T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -99,6 +123,12 @@
   <url>
     <loc>https://www.zdnet.com/video/how-machine-learning-is-driving-new-smart-farming-projects/</loc>
     <lastmod>2020-08-18T08:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2115681/global-artificial-intelligence-in-medical-imaging-market</loc>
+    <lastmod>2020-08-18T07:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -409,6 +439,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html</loc>
+    <lastmod>2020-08-14T10:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/</loc>
     <lastmod>2020-08-14T10:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -703,6 +739,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html</loc>
+    <lastmod>2020-08-12T13:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12</loc>
     <lastmod>2020-08-12T13:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -889,12 +931,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040</loc>
-    <lastmod>2020-08-11T17:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy/</loc>
     <lastmod>2020-08-11T14:04:50-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -931,12 +967,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-2020-08-11</loc>
-    <lastmod>2020-08-11T09:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.eejournal.com/industry_news/hackster-io-smart-parks-and-key-industry-partners-to-build-worlds-most-advanced-elephant-tracker/</loc>
     <lastmod>2020-08-11T09:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -945,6 +975,12 @@
   <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918</loc>
+    <lastmod>2020-08-11T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -973,14 +1009,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
-    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
+    <loc>https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php</loc>
+    <lastmod>2020-08-11T07:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.html</loc>
-    <lastmod>2020-08-11T07:37:00-07:00</lastmod>
+    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
+    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1783,14 +1819,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/</loc>
-    <lastmod>2020-08-05T07:20:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyland-releases-foundation-version-of-brainware-intelligent-capture/article_9e694b5d-3d3c-5562-9de9-c3aaff952d98.html</loc>
+    <lastmod>2020-08-05T07:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636</loc>
-    <lastmod>2020-08-05T07:05:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/</loc>
+    <lastmod>2020-08-05T07:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1851,6 +1887,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/behavioral-signals-named-as-a-sample-vendor-in-the-gartner-hype-cycle-for-natural-language-technologies-2020-1029471680</loc>
     <lastmod>2020-08-05T03:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05</loc>
+    <lastmod>2020-08-05T03:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

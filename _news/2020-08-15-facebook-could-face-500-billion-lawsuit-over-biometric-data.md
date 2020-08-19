@@ -8,7 +8,7 @@ ampWebUrl: "https://www.tweaktown.com/news/74499/facebook-could-face-500-billion
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/74499/facebook-could-face-500-billion-lawsuit-over-biometric-data/amp.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,40 +24,6 @@ images:
     width: 1500
     height: 996
     isCached: true
-
-related:
-  - title: "Giant Lawsuit Alleges Instagram Used Face Recognition Illegally"
-    excerpt: "A new $500 billion class-action lawsuit alleges Instagram collects and stores people's biometric data without their consent."
-    publishedDateTime: 2020-08-14T15:19:00Z
-    webUrl: "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/"
-    ampWebUrl: "https://nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp"
-    cdnAmpWebUrl: "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lawsuit-instagram-face-recognition-california/?amp"
-    type: article
-    provider:
-      name: Nerdist
-      domain: nerdist.com
-    quality: 59
-    images:
-      - url: "https://nerdist.com/wp-content/uploads/2020/08/Lawsuit-against-Instagram-feature-image-08132020.jpg"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Facebook’s Instagram accused of illegal facial recognition scans of millions of users"
-    excerpt: "Facebook allegedly used facial recognition technology without Instagram users' consent, opening the company up to a lawsuit worth half a trillion dollars."
-    publishedDateTime: 2020-08-16T03:15:00Z
-    webUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/"
-    ampWebUrl: "https://www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/security-privacy/instagram-accused-of-illegal-facial-recognition/749985/?amp"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 52
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2020/08/kk-article-20200816-instagram-harvested-users-biometric-data-lawsuit-1200x675-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "59r/DEgn/valsRrBG6R039V1fvyX6g9LjSNW7l/iqYdCH8RGW1drd4gCeqqRM9b1eRJbsqMWMCKvPKW/Mqxw4HQr2e9M9C/dGUoGj3iz6FeHJZJ2XOEkvsZpmmmTtW7/8aReN2LczjOXKxpLc0hKqO2dcyjXWF0vTFaOMuYENoTy680/h3uR9sh5IT0ZTpwE+ZwwyEoihDoqOvwoREkZwHkvlQ5WNLnZ7RcUnm87AG8C0vdMVDdmPXiKS1GMerB2Z/jl+LFrbHV53YmkEl93ubphKez4qfk7gz1xgpwq29VdiJ6TVpCYuy9mgujhYNl6WBtvaAINzSzBw0CthQm7EQ==;5LvcHaUXTbPay8mcmAL+ag=="
 ---

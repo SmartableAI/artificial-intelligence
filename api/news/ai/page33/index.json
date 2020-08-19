@@ -2,6 +2,328 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-07-16-ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise.md",
+      "title": "IBM and Verizon Business collaborate to merge AI computing with 5G networks for the enterprise",
+      "excerpt": "A joint effort to help companies harness edge computing and a low latency network with AI capabilities for real-time insights. By combining IBM's proven success in AI, with its AI data analytics tool Watson serving a host of industries, and Verizon's long ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/06/11/64aa7866-0d0f-4a42-85d5-2ce16849056b/resize/1200x/380a3db2197135cd6c7eaa58bfbe393e/istock-1019082038.jpg",
+          "width": 1200,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
+      "publishedDateTime": "2020-07-16T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-cloudera-built-its-conversational-ai-chops-by-keeping-things-simple.md",
+      "title": "Cloudera built its conversational AI chops by keeping things simple",
+      "excerpt": "It turns out if you're a data company with modern data architectures at the ready, you have a head start building out internal conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/cloudera-conversational-ai-transform-2020.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "publishedDateTime": "2020-07-16T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-cognitive-services-platform-market.md",
+      "title": "Cognitive Services Platform Market",
+      "excerpt": "The COVID-19 pandemic disruption is estimated to transform the Cognitive Services Platform Market in the years to come drastically, and its after-effects will be persistently seen in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2091693/cognitive-services-platform-market-2023-technology-market",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T716835005_g.jpg",
+          "width": 650,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2091693/cognitive-services-platform-market-2023-technology-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2091693/cognitive-services-platform-market-2023-technology-market",
+      "publishedDateTime": "2020-07-16T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu.md",
+      "title": "Ai Machine Learning Market May See a Big Move | GOOGLE, IBM, BAIDU",
+      "excerpt": "Latest Market intelligence report released by HTF MI with title \"Ai Machine Learning Market Insights 2019, Global and Chinese Analysis and Forecast to 2024\" is designed covering micro level of analysis by manufacturers and key business segments. The Ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T716884054_g.jpg",
+          "width": 539,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "publishedDateTime": "2020-07-16T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-why-diversity-in-ai-is-so-important.md",
+      "title": "Why Diversity In AI Is So Important",
+      "excerpt": "The rapid expansion of artificial intelligence from facial recognition to self-driving cars is having a major impact on business and society, which is why we need more diversity among the people developing AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f8ae4933def000676671c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D38%26cropY2%3D600",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "publishedDateTime": "2020-07-16T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-white-castle-is-testing-a-burger-grilling-robot-named-flippy.md",
+      "title": "White Castle is testing a burger-grilling robot named Flippy",
+      "excerpt": "The privately held restaurant chain on Wednesday announced a partnership with the Pasadena, California-based startup Miso Robotics to introduce Flippy ... An earlier version of Flippy, which uses artificial intelligence to decide when to flip a burger ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/2/aa/2aa4ca08-648c-530f-a824-3d5c1a507c5d/5f120708e7951.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html",
+      "cdnAmpWebUrl": "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html",
+      "publishedDateTime": "2020-07-16T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSMV",
+        "domain": "wsmv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment.md",
+      "title": "Deep Learning AI Needs Tools To Adapt To Changes In The Data Environment",
+      "excerpt": "No market is stagnant while remaining relevant. How and when to update DL systems, as they are used in more and more places, is important. The ability to analyze the data sets is critical, both for initial feature engineering and as an ongoing process to keep the systems relevant and accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "publishedDateTime": "2020-07-16T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-big-backing-to-pair-doctors-with-ai-assist-technology.md",
       "title": "Big backing to pair doctors with AI-assist technology",
       "excerpt": "\"We believe Activ Surgical's platform and technology are poised to transform the surgical space by enabling existing surgical systems and robots to visualize what surgeons can't and guide them, thus making surgeries safer,",
@@ -984,328 +1306,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-the-top-16-companies-using-artificial-intelligence-to-revolutionize-drug-discovery-according-to-experts.md",
-      "title": "The top 16 companies using artificial intelligence to revolutionize drug discovery, according to experts",
-      "excerpt": "In 2014, there were an estimated 89 AI-backed companies focused on drug discovery. Now, there are as many as 214.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f035fb72618b902835797c6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
-      "publishedDateTime": "2020-07-15T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-human-quirks-health-medicine.md",
-      "title": "Human Quirks: Health & Medicine",
-      "excerpt": "July 15, 2020 — In a groundbreaking new study, researchers have 3D printed a functioning centimeter-scale human heart pump in the lab. The discovery could have major implications for studying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/news/strange_offbeat/health_medicine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-mind-controlled-arm-boasts-fine-precision.md",
-      "title": "Mind-Controlled Arm Boasts Fine Precision",
-      "excerpt": "This robotic arm used at the University of Pittsburgh offers ten dimensional control of hand movements. The extra dimensions come from four distinct hand movements: finger abduction, a scoop, thumb extension, and a pinch. These new movements have enabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/mind-controlled-arm-boasts-fine-precision",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-why-supervised-learning-is-more-common-than-reinforcement-learning.md",
-      "title": "Why supervised learning is more common than reinforcement learning",
-      "excerpt": "Unlike supervised learning, reinforcement learning algorithms must observe, and that can take time, said UC Berkeley professor Ion Stoica at Transform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ion-stoica.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
-      "publishedDateTime": "2020-07-15T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024.md",
-      "title": "Artificial Intelligence In Healthcare Market-Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2024",
-      "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-aws-announces-amazon-interactive-video-service-amazon-ivs.md",
-      "title": "AWS Announces Amazon Interactive Video Service (Amazon IVS)",
-      "excerpt": "Amazon IVS gives customers the ability to add live and interactive video in their mobile and web applications in minutes, using same tech as Twitch",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200715005929/en/AWS-Announces-Amazon-Interactive-Video-Service-Amazon",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200715005929/en/805839/23/aws-logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-the-right-data-transforms-panel-of-experts-weigh-in.md",
-      "title": "The right data: Transform’s panel of experts weigh in",
-      "excerpt": "Data is the bedrock of AI and machine learning -- at Transform 2020 we queried some leading data experts about the trends they're seeing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-3.40.29-PM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
-      "publishedDateTime": "2020-07-15T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

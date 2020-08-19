@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan is devoting a 40-mile stretch of highway to testing self-driving cars and improving public transportation"
-    excerpt: "The route from Detroit to Ann Arbor will soon have lanes set aside for autonomous buses and cars in the hopes of advancing self-driving tech."
-    publishedDateTime: 2020-08-15T13:25:00Z
-    webUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-sets-40-mile-highway-aside-for-self-driving-infrastructure-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/5f36e5a9e89ebf001f044d08?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Self-driving cars could be allowed on UK motorways next year"
     excerpt: "Industry welcomes consultation for use of technology in slow lane but risk concerns some Gwyn Topham Transport correspondent Motorists could be allowed to let their cars drive themselves on motorways, using automated technology, as early as next year ..."
     publishedDateTime: 2020-08-18T18:00:00Z

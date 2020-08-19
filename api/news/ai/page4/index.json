@@ -2,6 +2,271 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-08-13-baidus-revenue-shrinks-under-pressure-from-bytedance-in-ads.md",
+      "title": "Baidu’s Revenue Shrinks Under Pressure from ByteDance in Ads",
+      "excerpt": "Baidu Inc.’s quarterly revenue shrank 1% and its projections suggest sales could slide again, as rivals like ByteDance Ltd. continue to chip away at its core advertising business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-13/baidu-tops-revenue-estimates-will-keep-up-heavy-investment",
+      "publishedDateTime": "2020-08-13T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.md",
+      "title": "Healthcare provider and payer execs point to AI, robotics as next industry disruptors: report",
+      "excerpt": "Nearly half of healthcare provider and payer executives (45 percent) believe that rapid advancements in new tech and innovations will disrupt the healthcare industry, according to an Aug. 11 Accenture report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/healthcare-provider-and-payer-execs-point-to-ai-robotics-as-next-industry-disruptors-report.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-artificial-intelligence-warning-ai-will-know-us-better-than-we-know-ourselves.md",
+      "title": "Artificial intelligence warning: AI will know us better than we know ourselves",
+      "excerpt": "ARTIFICIAL Intelligence (AI) is a totalitarian's dream and will have the potential to know you better than you know yourself, a researcher has claimed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-1322607.jpg?r=1597350957986",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1322607/artificial-intelligence-warning-machine-learning-algorithm-social-media-data/amp",
+      "publishedDateTime": "2020-08-13T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-aws-announces-general-availability-of-amazon-braket.md",
+      "title": "AWS Announces General Availability of Amazon Braket",
+      "excerpt": "AWS announced general availability of Amazon Braket, a fully managed AWS service to help organizations get started with quantum computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200813005776/en/AWS-Announces-General-Availability-Amazon-Braket",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200813005776/en/812634/4/Amazon_Braket_Console.jpg?download=1",
+          "width": 480,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-13T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-blaize-ai-now-in-production-and-trials.md",
+      "title": "Blaize AI: Now In Production And Trials",
+      "excerpt": "What did Blaize announce? Blaize (formerly Thinci) previewed its Graph Streaming Processor (GSP) chip and Picasso software last fall when the company rebranded itself. The recent announcements disclosed availability (sampling now),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f35a10dd692e5ab13c02295%2F0x0.jpg",
+          "width": 1199,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/08/13/blaize-ai-now-in-production-and-trials/amp/",
+      "publishedDateTime": "2020-08-13T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-08-13-amazon-launches-braket-quantum-computing-service-in-general-availability.md",
+      "title": "Amazon launches Braket quantum computing service in general availability",
+      "excerpt": "Amazon today launched its fully managed quantum computing service -- Braket -- in general availability following a preview.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/13/amazon-launches-braket-quantum-computing-service-in-general-availability/amp/",
+      "publishedDateTime": "2020-08-13T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-artificial-intelligence-robots-market-research-with-size-growth-manufacturers-segments-and-2026-forecasts-research.md",
       "title": "Artificial Intelligence Robots Market Research With Size, Growth, Manufacturers, Segments And 2026 Forecasts Research",
       "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
@@ -1152,287 +1417,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025.md",
-      "title": "Global Computer Vision Market 2020 Analytical Assessment, Key Drivers, Growth and Opportunities to 2025",
-      "excerpt": "Global Computer Vision Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an orderly representation of the market that contains the historical data and key insights pertaining to market trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-inside-track-covid-19-is-forcing-corporate-legal-departments-to-spend-more-on-outside-counsel.md",
-      "title": "Inside Track: COVID-19 Is Forcing Corporate Legal Departments to Spend More on Outside Counsel",
-      "excerpt": "Recent surveys found in-house counsel are spending more on outside counsel to handle mostly urgent and unplanned matters connected to the novel coronavirus. Also, the pandemic has created so many changes that may be hitting legal departments at unexpected angles.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions.md",
-      "title": "Amazon Textract now available in Asia Pacific (Mumbai) and EU (Frankfurt) Regions ",
-      "excerpt": "You can now use Amazon Textract, a machine learning (ML) service that quickly and easily extracts text and data from forms and tables in scanned documents, for workloads in the AWS Asia Pacific (Mumbai) and EU (Frankfurt) Regions. Amazon Textract goes beyond simple optical character recognition (OCR)",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T15:49:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities.md",
-      "title": "Facial Recognition Market 2020-2024 / Growth, Emerging Trends and Future Opportunities",
-      "excerpt": "As per the latest report published by Variant Market Research, Global Facial Recognition Market is estimated to reach",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-how-broadcom-may-have-helped-make-googles-latest-ai-chip.md",
-      "title": "How Broadcom May Have Helped Make Google’s Latest AI Chip",
-      "excerpt": "Broadcom’s application-specific integrated circuit business is currently generating $750 million in full-year revenue, up from $50 million in 2016, according to J.P. Morgan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-220164/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/how-broadcom-may-have-helped-make-googles-latest-ai-chip-51597267076",
-      "publishedDateTime": "2020-08-12T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-research-shows-natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well.md",
-      "title": "Research shows natural language benchmarks don’t measure AI models’ general knowledge well",
-      "excerpt": "Researchers find evidence that popular benchmark data sets do a poor job of measuring natural language models' general knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/amp/",
-      "publishedDateTime": "2020-08-12T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

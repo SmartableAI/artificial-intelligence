@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/the-meatpacking-industry-is-an-incubator-for-ai-automation-and-covid-19/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 599
     isCached: true
-
-related:
-  - title: "Driving digital transformation with continuous automation and AI-assistance"
-    excerpt: "Even before the pandemic swept the globe, organizations were already deeply invested in digital transformation to improve operational efficiencies and enhance user and customer experiences. Now, as businesses and governments increasingly rely on digital services to create new revenue streams,"
-    publishedDateTime: 2020-08-14T18:28:00Z
-    webUrl: "https://techcrunch.com/sponsor/dynatrace/driving-digital-transformation-with-continuous-automation-and-ai-assistance/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 65
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/IMAGE-10078_EBNR_TechCrunch_PaidSocial_Asset1_TechCrunch_1025x683_FINAL.png?w=599"
-        width: 599
-        height: 400
-        isCached: true
 
 secured: "hD3BKePpp4cgClA4lgN1d/JXxH8wcf1xzjr9rwHpAP2ntjH5mkSroSnMhJt1t1yxN/NClekrWOa9ilRovM1rnpk1x0fxkMJbr6eYIiTj4h4O0Pr8m5dugWneTL4EfKW1/VE+6pXeKPLaUttl2qyeq4nm1dnsXlDn30+VHn+NldnYJHAZfAjuxrZhWIADL33fMdB8QT80rhVY3zsLoRcY1dbWW4RQMyu7LBYTdrCcP6waTSLuwVzPa4ZmST62c175cdULU2Vaj+8VwTuOcKh8eELBxOWq+oHSYiYU7GYYHGprlp0Tc1dUxjEb5VFtW0rZecM9Vvq3KbJVZdTt4bmrwA8BG+nAIToO4V5EUcbinks67oH3xUh/sw0r+L4P4vh6vFYWYFd4Isw3+aDxJQ51FTpq9nMLsFn/mrmuADZ0Yulttgz0+OLHVaiNVGCv54z86SSVBe5azhWZmsPHyGIS1p27IfEDmspueIoz4E3AnriQ8fcdpLDTrmTZ3NRBHt/aBtU7RqaYVvsG3gA2AaQz+w==;Zljgpy7Uhqv2xU90LoyJQQ=="
 ---

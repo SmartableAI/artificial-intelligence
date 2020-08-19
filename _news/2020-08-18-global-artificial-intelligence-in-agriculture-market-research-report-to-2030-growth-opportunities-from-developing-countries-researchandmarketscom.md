@@ -39,6 +39,17 @@ related:
         width: 800
         height: 588
         isCached: true
+  - title: "Change Healthcare buys medical imaging platform Nucleus.io"
+    excerpt: "Nashville-based Change Healthcare Inc. has purchased medical imaging web platform Nucleus.io, according to a news release. Terms of the deal were not disclosed. Nucleus.io is a product of San Diego-based NucleusHealth and is used by more than 7,"
+    publishedDateTime: 2020-08-19T11:30:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2020/08/19/change-healthcare-buys-nucleusio.html"
+    ampWebUrl: "https://www.bizjournals.com/nashville/news/2020/08/19/change-healthcare-buys-nucleusio.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2020/08/19/change-healthcare-buys-nucleusio.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
 
 secured: "0l5cj5bzYhMB9sSvY7ecChaFOoO0r2UMf2/eqCVVLVKolYvs6poVchD81ptU+eblfwwNj4OiQI0nIVWaOBhcfolIJKDX7t9l7OSF1dRmdOo3QNJfFBAEh0Xo0w6iMiqzPtll/Zj4WG+J8fztQ5lnU3Jx2PR9oIDbmVBn+E5PLpDE48UyBSL8U1euZ9j4sgndqJj+UiFQ0Nq8L4pzwbsVMyiGisqeeHhGZpOv2N3OJ19JXDV+j7TbOJCw9Jnlz6sQqaLCdO5QmV78zO1QfJTI7jNH9cSjT7O1xdd21OYOf8Y55mXfXeptDV9cK1VrYvWwGj9+k58TkvRqSwdwnQtCRcnnP5P/oDDt21aI0NerBFRPUuAJHfNAgUCukkpRiwwRPRETMXUpONS7OUgXyEULIjEPaibOUqHni0B5VmyDX+vCpvwPZys2PWUrY5OoBL05sIJ9r763suenJbREOlPD84Wm8CelUkjW81D1bdfdoJDSQONS/kna8OzpRTpqzEMpYfBy63UD3Jfr+QYl7YA+5w==;gFN/mltl/WEMIDAUq4GMJA=="
 ---

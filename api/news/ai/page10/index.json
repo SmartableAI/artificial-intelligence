@@ -2,6 +2,260 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-06-googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy.md",
+      "title": "Google's new voice and audio settings give you more control over your privacy",
+      "excerpt": "Google on Wednesday let people know it's still having humans review voice and audio recordings on devices like Google Home. However, the search giant's email also said it's giving you more control over what's being shared and has automatically turned off the feature for all accounts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/KBR1GYWD2mNrI9tvFINf3uZtuxk=/756x567/2019/01/17/160d0588-c985-400c-9c2b-50604e69486d/jot-google-home-mini-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-voice-and-audio-settings-give-you-more-control-over-your-privacy/",
+      "publishedDateTime": "2020-08-06T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-hylands-latest-advancements-include-handwriting-recognition.md",
+      "title": "Hyland’s latest advancements include handwriting recognition",
+      "excerpt": "Hyland’s latest advancements include handwriting recognition. Hyland, a content services provider for organizations across the globe, is releasing Brainware Foundation, the newe",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=142178",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels.md",
+      "title": "You'll finally be able to run a Windows virtual machine on your Chromebook with Parallels",
+      "excerpt": "Chromebooks were initially designed to be lightweight web-browsing laptops but gradually started gaining more features, especially when it came to offline",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/?amp",
+      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/08/06/youll-finally-be-able-to-run-a-windows-virtual-machine-on-your-chromebook-with-parallels/?amp",
+      "publishedDateTime": "2020-08-06T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-city-of-tucson-water-department-selects-vodaais-machine-learning-to-support-decision-making.md",
+      "title": "City of Tucson Water Department Selects VODA.ai's Machine Learning to Support Decision-Making",
+      "excerpt": "The City of Tucson Water Department has selected VODA.ai as their exclusive provider of artificial intelligence software service for pipe prioritization. VODA.ai is excited to expand the partnership with the City of Tucson and provide continuous virtual condition assessment for the entire water system of over 4,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/city-of-tucson-water-department-selects-voda-ai-s-machine-learning-to-support-decision-making-1029478122",
+      "publishedDateTime": "2020-08-06T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies.md",
+      "title": "Salesforce open-sources the AI Economist, a research environment for exploring tax policies",
+      "excerpt": "Salesforce today open sourced the AI Economist, a research environment that leverages AI to arrive at optimal tax policies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot66_photo_x4-e1596572153473.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/06/salesforce-open-sources-the-ai-economist-a-research-environment-for-exploring-tax-policies/amp/",
+      "publishedDateTime": "2020-08-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-deep-learning-market-size.md",
+      "title": "DEEP LEARNING MARKET SIZE",
+      "excerpt": "DEEP LEARNING MARKET SIZE The Global Deep Learning Market size in 2018 was 2 75 Billion and is Anticipated to Grow Exponentially by 2025 With a 33 64 Percent CAGR in 2018 2025 View Full Report https reports valuates com",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/8/T806326785_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2105583/deep-learning-market-size-share-trends-growth-forecast",
+      "publishedDateTime": "2020-08-06T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-06-artificial-intelligence-system-tops-one-billion-neurons-on-a-desktop-computer.md",
       "title": "Artificial Intelligence System Tops One Billion Neurons on a Desktop Computer",
       "excerpt": "In a significant advance in the development of Artificial General Intelligence (AGI), the Brain Simulator II neural simulator",
@@ -1097,288 +1351,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-expert-system-raises-294-million-for-ai-text-extraction-and-analysis.md",
-      "title": "Expert System raises $29.4 million for AI text extraction and analysis",
-      "excerpt": "Expert System has raised $29.4 million to bolster the development of its natural language processing technologies for enterprise customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/expert-system-raises-29-4-million-for-ai-text-extraction-and-analysis/amp/",
-      "publishedDateTime": "2020-08-05T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-hyland-releases-foundation-version-of-brainware-intelligent-capture.md",
-      "title": "Hyland Releases Foundation Version of Brainware Intelligent Capture",
-      "excerpt": "Hyland, a leading content services provider for organizations across the globe, announces Brainware Foundation, the latest release of Hyland's intelligent data extraction and text analytics software.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/hyland-releases-foundation-version-of-brainware-intelligent-capture-1029473636",
-      "publishedDateTime": "2020-08-05T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-sight-diagnostics-raises-71-million-for-blood-testing-computer-vision.md",
-      "title": "Sight Diagnostics raises $71 million for blood-testing computer vision",
-      "excerpt": "It first “digitizes” blood into over 1,000 high-resolution colored microscope images, and then it runs computer vision algorithms trained on half a petabyte of anonymized data from four years ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/sight1-e1595963985900.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/05/sight-diagnostics-raises-71-million-for-blood-testing-computer-vision/amp/",
-      "publishedDateTime": "2020-08-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-how-blockchain-benefits-from-artificial-intelligence.md",
-      "title": "How Blockchain Benefits From Artificial Intelligence",
-      "excerpt": "Despite being around for many decades, the replication of human intelligence in machines — artificial intelligence — has now become popularized. With many tech companies rushing to adopt the ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81MjU3MmFkODM2NDhkNmIwMmMxNmY1MjJlYzdlNmRiZC5qcGc=.jpg",
-          "width": 370,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-blockchain-benefits-from-artificial-intelligence/amp",
-      "publishedDateTime": "2020-08-05T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025.md",
-      "title": "Artificial Intelligence Robotics Market: A Straight Overview of Growing Market & Future Trend by 2025",
-      "excerpt": "Growing adoption of automated machinery, as well as Artificial Intelligence (AI), enabled robots in personal use such as commercial applications has propelled the demand for artificial intelligence in robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05?dist=bigcharts&tesla=y",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-05-artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre.md",
-      "title": "Artificial Intelligence Robots Market By Size, Growth, Opportunity and Forecast to 2025 – MRE",
-      "excerpt": "Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-by-size-growth-opportunity-and-forecast-to-2025-mre-2020-08-05",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-05T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

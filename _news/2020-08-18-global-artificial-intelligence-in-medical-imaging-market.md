@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2115681/global-artificial-intelligence-in
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115681/global-artificial-intelligence-in-medical-imaging-market"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: openpr.com
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Change Healthcare buys medical imaging platform Nucleus.io"
+    excerpt: "Nashville-based Change Healthcare Inc. has purchased medical imaging web platform Nucleus.io, according to a news release. Terms of the deal were not disclosed. Nucleus.io is a product of San Diego-based NucleusHealth and is used by more than 7,"
+    publishedDateTime: 2020-08-19T11:30:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2020/08/19/change-healthcare-buys-nucleusio.html"
+    ampWebUrl: "https://www.bizjournals.com/nashville/news/2020/08/19/change-healthcare-buys-nucleusio.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2020/08/19/change-healthcare-buys-nucleusio.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
   - title: "Global Artificial Intelligence in Agriculture Market Research Report to 2030 - Growth Opportunities from Developing Countries - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue ..."
     publishedDateTime: 2020-08-18T16:13:00Z

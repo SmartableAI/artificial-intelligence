@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "ICE just signed a contract with facial recognition company Clearview AI"
-    excerpt: "Immigration and Customs Enforcement (ICE) signed a contract with facial recognition company Clearview AI this week for “mission support,” government contracting records show (as first spotted by the tech accountability nonprofit Tech Inquiry)."
-    publishedDateTime: 2020-08-14T17:42:00Z
-    webUrl: "https://www.theverge.com/2020/8/14/21368930/clearview-ai-ice-contract-privacy-immigration"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/14/21368930/clearview-ai-ice-contract-privacy-immigration"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/14/21368930/clearview-ai-ice-contract-privacy-immigration"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 104
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ZQDJ2XFA8IruU3HoubVqjsV2FFQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67205073/acastro_190204_1777_privacy_0002.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE"
     excerpt: "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week."
     publishedDateTime: 2020-08-15T08:19:00Z
@@ -73,22 +57,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Clearview AI wins an ICE contract as it prepares to defend itself in court"
-    excerpt: "The American Civil Liberties Union sued Clearview in May for allegedly violating Illinois’ Biometric Information Privacy Act. Lawsuits accusing the company of breaking privacy and safety laws have been filed in several other states."
-    publishedDateTime: 2020-08-14T18:04:00Z
-    webUrl: "https://www.engadget.com/ice-clearview-ai-facial-recognition-180144627.html"
-    ampWebUrl: "https://www.engadget.com/amp/ice-clearview-ai-facial-recognition-180144627.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ice-clearview-ai-facial-recognition-180144627.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 85
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F37b76ea0-b7ea-11ea-ae6e-0754f7707483&client=amp-blogside-v2&signature=780183f0f0569b4c83b66a9741836ca5bd9c9d11"
-        width: 600
-        height: 350
         isCached: true
   - title: "ICE Signs Contract With Facial Recognition Company Clearview AI"
     excerpt: "U.S. Immigration and Customs Enforcement signed a contract with Clearview AI, a facial-recognition company that has sparked controversy over its use by law enforcement."

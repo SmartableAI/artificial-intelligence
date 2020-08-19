@@ -2,6 +2,294 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-08-11-ai-cybersecurity-startup-elisity-raises-75-million-to-protect-networks-from-attack-with-ai.md",
+      "title": "AI cybersecurity startup Elisity raises $7.5 million to protect networks from attack with AI",
+      "excerpt": "Cybersecurity startup Elisity emerged from stealth with $7.5 million to further develop its tools that protect networks from AI-driven attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/graphic_auto_x1_auto_x2-e1596667702827.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/ai-cybersecurity-startup-elisity-raises-7-5-million-to-protect-networks-from-attack-with-ai/amp/",
+      "publishedDateTime": "2020-08-11T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-a-no-code-environment-brings-ai-to-the-business-user.md",
+      "title": "A No-Code Environment Brings AI To The Business User",
+      "excerpt": "For financial services organizations to truly reap the benefits AI can bring to efficiency and ROI, they need to empower business users to take the lead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f31c65b669f3bb05a4ef108%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/08/11/a-no-code-environment-brings-ai-to-the-business-user/amp/",
+      "publishedDateTime": "2020-08-11T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-atomwises-machine-learning-based-drug-discovery-service-raises-123-million.md",
+      "title": "Atomwise’s machine learning-based drug discovery service raises $123 million",
+      "excerpt": "With a slew of partnerships with large pharmaceutical companies under its belt and the successful spin out of at least one new company, Atomwise has already proved the value of its machine learning platform for discovering and commercializing potential small molecule therapies for a host of",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-20-at-7.58.55-PM.png?w=1024",
+          "width": 1024,
+          "height": 519,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/11/atomwises-machine-learning-based-drug-discovery-service-raises-123-million/amp/",
+      "publishedDateTime": "2020-08-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-peer-reviewed-research-shows-babylons-latest-artificial-intelligence-could-help-doctors-improve-diagnosis-particularly-for-complex-cases.md",
+      "title": "Peer-reviewed research shows Babylon's latest Artificial Intelligence could help doctors improve diagnosis, particularly for complex cases",
+      "excerpt": "This is the first known time that AI has used causation instead of correlations to support doctors with diagnosis in simulated cases.In a peer-reviewed study tasked with diagnosing written test cases it scored higher than 72% (32 of 44) of General Practitioner (GP) doctorsEach GP assessed an average of 159 cases and achieved a mean score of 71.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/peer-reviewed-research-shows-babylons-latest-artificial-intelligence-could-help-doctors-improve-diagnosis-particularly-for/article_5f8fa2d3-727e-575b-bfbe-93ab1b4a2428.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-artificial-intelligence-these-criminal-applications-of-ai-are-a-big-threat.md",
+      "title": "Artificial intelligence: These criminal applications of AI are a big threat",
+      "excerpt": "A new report tells us which criminal applications of AI we should really worry about. Share. Contact. Read full article: Evil AI: These are the 20 most dangerous crimes that artif",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/artificial-intelligence-these-criminal-applications-of-ai-are-a-big-threat/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/08/11/9ce4b925-7033-4a63-aa84-22894e173fe1/thumbnail/770x578/0a6b92c34dfc126b0f0a0859b61af053/artificial-intelligence-these-criminal-a-5f2bce12717231042a0ac533-1-aug-11-2020-11-05-55-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-11T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-simpplr-raises-10-million-for-its-ai-powered-intranet-platform.md",
+      "title": "Simpplr raises $10 million for its AI-powered intranet platform",
+      "excerpt": "Simpplr, a startup developing an AI-powered intranet platform, has raised $10 million in funding to streamline communications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/intranet-simpplr-tiles-e1596649630868.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/11/simpplr-raises-10-million-for-its-ai-powered-intranet-platform/amp/",
+      "publishedDateTime": "2020-08-11T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-hyundai-aptiv-form-joint-venture-motional-to-develop-self-driving-cars.md",
       "title": "Hyundai, Aptiv form joint venture Motional to develop self-driving cars",
       "excerpt": "Motional . Hey, remember Aptiv? You know, that company that's been operating self-driving BMWs around Las Vegas for the last few years? Well, it looks like it's ditching the Germa",
@@ -895,278 +1183,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-solving-common-challenges-in-sentiment-analysis-with-help-from-project-debater.md",
-      "title": "Solving common challenges in sentiment analysis with help from Project Debater",
-      "excerpt": "\nToday, we are going to talk about a feature that isn’t always talked a lot in the AI space: sentiment analysis. What is sentiment analysis? Sentiment analysis is a subset of natural language processing (NLP) capabilities that provides high level filters for users when exploring and evaluating data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/08/solving-common-challenges-in-sentiment-analysis-with-help-from-project-debater/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/08/1124_Sentiment_Analysis_Blog_Chart_Final-1.jpg",
-          "width": 1280,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T10:28:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-sift-healthcare-raises-28-million.md",
-      "title": "Sift Healthcare raises $2.8 million",
-      "excerpt": "Milwaukee-based Sift Healthcare raised $2.8 million in a funding round that included investments from two Badger Fund of Funds, the company recently announced.",
-      "sourceUrl": null,
-      "webUrl": "https://biztimes.com/sift-healthcare-raises-2-8-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.biztimes.com/uploads/2019/05/Medical-Research-shutterstock_348289340-e1460130849457.jpg",
-          "width": 770,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://biztimes.com/sift-healthcare-raises-2-8-million/?amp",
-      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/sift-healthcare-raises-2-8-million/?amp",
-      "publishedDateTime": "2020-08-10T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTimes",
-        "domain": "biztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-machine-learning-best-practices-in-financial-services.md",
-      "title": "Machine learning best practices in financial services",
-      "excerpt": "We recently published a new whitepaper, Machine Learning Best Practices in Financial Services, that outlines security and model governance considerations for financial institutions building machine learning (ML) workflows. The whitepaper discusses common security and compliance considerations and aims",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-best-practices-in-financial-services/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/08/06/financial-services-best-practices-1.jpg",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T09:58:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers.md",
-      "title": "Researchers find ‘inconsistent’ benchmarking across 3,867 AI research papers",
-      "excerpt": "A survey of over 3,000 machine learning and AI research papers found little in the way of consistency with respect to benchmark metrics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/10/researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/10/researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/10/researchers-find-inconsistent-benchmarking-across-3867-ai-research-papers/amp/",
-      "publishedDateTime": "2020-08-10T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-payments.md",
-      "title": "CheckAlt and Composable Analytics Launch Scrypt, AI Data Capture for Document Processing and Payments",
-      "excerpt": "Recognizing the broad impact of artificial intelligence and machine learning in document processing, CheckAlt has launched",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/08/n17014425/checkalt-and-composable-analytics-launch-scrypt-ai-data-capture-for-document-processing-and-paymen",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17014425",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17014425",
-      "publishedDateTime": "2020-08-10T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis.md",
-      "title": "Artificial Intelligence in Healthcare Market 2019 All Major Industrial Aspects and COVID-19 Impact Analysis",
-      "excerpt": "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2019-all-major-industrial-aspects-and-covid-19-impact-analysis-2020-08-10",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
