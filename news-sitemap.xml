@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.techradar.com/news/worlds-largest-chip-gets-beefier-850-thousand-cores-for-ai</loc>
+    <lastmod>2020-08-19T12:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/how-ai-is-helping-find-a-vaccine-for-covid-19/</loc>
+    <lastmod>2020-08-19T12:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/</loc>
     <lastmod>2020-08-19T11:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,12 +55,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519</loc>
-    <lastmod>2020-08-19T09:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027-2020-08-19</loc>
     <lastmod>2020-08-19T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -85,8 +91,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot</loc>
-    <lastmod>2020-08-19T05:14:00-07:00</lastmod>
+    <loc>https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot</loc>
+    <lastmod>2020-08-19T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -147,6 +153,12 @@
   <url>
     <loc>https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/</loc>
     <lastmod>2020-08-18T19:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/is-anthos-the-edge-google-needs-in-enterprise-cloud/</loc>
+    <lastmod>2020-08-18T18:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -547,7 +559,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability</loc>
+    <loc>https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html</loc>
     <lastmod>2020-08-14T10:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -603,6 +615,12 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/14/taking-a-stand-in-uncertain-times-with-ai/</loc>
     <lastmod>2020-08-14T04:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mobile.twitter.com/yoda69?lang=en</loc>
+    <lastmod>2020-08-14T03:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -711,6 +729,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/drug-discovery-informatics-market-sales-insights-growth-impact-future-dynamics-covid-19-impact-size-projection-and-industry-dynamics-by-2023-2020-08-13?mod=mw_quote_news&amp;tesla=y</loc>
     <lastmod>2020-08-13T11:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://edtechmagazine.com/higher/article/2020/08/improving-online-learning-and-more-artificial-intelligence</loc>
+    <lastmod>2020-08-13T11:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2023,7 +2047,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05?dist=bigcharts&amp;tesla=y</loc>
     <lastmod>2020-08-05T03:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

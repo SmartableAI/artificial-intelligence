@@ -23,6 +23,22 @@ images:
     height: 1035
     isCached: true
 
-secured: "HYUrMLjMqT2TlLqkOI1jjlvBiefvCZyMEBmyaYxY6KAR9OZhBekST8WZEmPVeZguawTDzRuKJonO8aaj3WPe5ZFu2s2VoFnh9guu+hH4T0cXojlV572iudB8d1xk3Av7BIVWuwJ6W+lnvjaPJaKFpvR04J8hpoXOFd1dIcAqttvY7NfUTPWElm/Hk4FN50MknsO8B7/6THnuVmRT3/3FuLtvBa0cMzx0BanWWO3v2OW5Bo+6veHpTpEgzyEaB2Vu/VP+ayxbPdeB8qgq64kHohswZtcTOXak8F5UXFnKMGM+YV1+dWS9p+8ikSl126+4Qy9fdZN3EwQHw0lTjBkofg==;1lVX+8L7LOJBg0dPeAoV4w=="
+related:
+  - title: "Now you see me, now you don’t: Using artificial intelligence to identify COVID-19, developing a PPE coating to stop it in its tracks"
+    excerpt: "Since February, University researchers have been working to “develop (artificial intelligence)-based diagnostic and prognostic software or tools that can be used to assist physicians (in) diagnosing COVID-19 accurately using imaging, as well as predict ..."
+    publishedDateTime: 2020-08-19T19:39:00Z
+    webUrl: "https://www.browndailyherald.com/2020/08/19/now-see-now-dont-using-artificial-intelligence-identify-covid-19-developing-ppe-coating-stop-tracks/"
+    type: article
+    provider:
+      name: The Brown Daily Herald
+      domain: browndailyherald.com
+    quality: 6
+    images:
+      - url: "https://www.browndailyherald.com/wp-content/uploads/2020/08/pasted-image-0.png"
+        width: 1241
+        height: 1035
+        isCached: true
+
+secured: "3wRNo08QFQYwHA08KMeT4PDx3dbIZ4+3JMmj5dAvyOsmXucojKUNJNFKsBkojoUUt/otrzHB9IPuyL0s+qNHbWZ7saRcB+XDu8IL5YwR1FyLcuiO2MsO1QPtThhoxvt06uLptdQyn+MepULxAOBmyeI2RZzNraYoGyhsupcKprTP5oJWA0aeNUKTgaiEeXiVZGqblQ+4YWoZGGDGGHhYQNC2TlaKTxW79nP4gq21r2mMnqNd7IVyqV4c17IYFdwa7LG+Z7mcW9WfEMKKIcsvkl8mWBUo5Sht/3hNH50D22KV9We12JVdd088JkPxOiz/ASas8oJwEWjqujfpPzTQveviMhoaLaXglA0VYZ/Jb0jEhBml2WxWeD6Usf5wSh15Lg/JAQOgrUofxbS/oEMayo/o6AMO27A8Sl1mgcv86Q0st4kjWFmclSTt/ek7iX0PX+nRF0hlL1lpHesdhlLipDAgvfTR8FJ+9wL/q8oUzPWJLheuvwiaKuyZ4hYn06hUAZwLu2dazGzKactlDl+h9w==;ewI8UORoJq0mT2b4qfXOvA=="
 ---
 

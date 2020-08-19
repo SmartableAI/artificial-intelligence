@@ -2,8 +2,8 @@
 category: news
 title: "Dragon Professional v15 speech-to-text software review"
 excerpt: "This powerful speech-to-text software boasts excellent accuracy rates and a deep vocabulary, but is let down by a weak recording transcription mode. Dragon Professional v15 from Nuance Communications is a leading speech recognition software, released in ..."
-publishedDateTime: 2020-08-19T17:31:00Z
-webUrl: "https://www.techradar.com/in/reviews/dragon-professional-v15-speech-to-text-software"
+publishedDateTime: 2020-08-19T19:35:00Z
+webUrl: "https://www.techradar.com/sg/reviews/dragon-professional-v15-speech-to-text-software"
 type: article
 quality: 54
 heat: 54
@@ -27,6 +27,6 @@ images:
     height: 539
     isCached: true
 
-secured: "wP8b4b961CUf4lVZ517pdeLVHn79lP5Jf2KbR9Quk4gBTLyhLP3iuBYWKTStCaqQCHjL+JdhykMOFqrT9k22ik6Ztwtrx8DXkRFsoETDotS0VWNmBzK5TaekefjLAcPw9u17dIBjiXsfS9JyQ/Nx+6sdaIK6Iprodk9QDsQM/ozUlmljr8amCs0717DMHHHm1NoK0XD6bGEsQMs5bZBS4YRVyZIu2v7fa6Chblv48M+uYeJpmIBHQ71Gh6lK8YpVbZPNrK26FVn+JbaUK1EU51Phk5NvkY8HV8QvAZx4KKnsmzb0irh3x9OhJQx0qYnBTcyQG4XEiDEYMmUPNNqUuwrc9251vzj5bxzz9QsAUhuzT5fYAnSUdaPmOPIqJjvs28AJZ1Dl2HXh+VzfVLOj3zwo9GEBg2JHJ6o+QjQZYyjELlGGvsg/e5ETcoZ6110lyDvb0exyfV0YPWDIstLmbIL+AcqcG/TfRTPgIzOQvROGLM9G94ZwHBfvrAjIbjVlW5GM6OZ+YdA3LAiCOq9e+w==;+PiIAPL5uLX5Os6eNxkOBw=="
+secured: "U6UuNT9gFhiKmS5yti/2YdCISTQxRXMxcHooAxkENfc1N/pxbHhOY9I97CZ3yjh3aB9tWNNzF8wrqiSgCSg8FIp+4fxPcTpSzVx2SF4qg93wHL94SGjlwChrkTgPCbAvrL0FV1jTPvqp7PAdkJmZpVwzzwVv5syFnSR2fePn6zXkGM4hYTeH7lPP/FU2d73q8HfHH2/Xu3TXW1cbtitwLtlkaGkLI4KRXHi0yMLZtKqOCcrrS3oBJrpwznFe+maj5Hb9WBfYImU7OtHgdeInQ4XWRn+tJpSgA4AnTzOL6GMRYHWC2MttvchlkR8t7OIBwBEkfdzSeDMjH2sbn7bYOg==;8HB+XNpvd0Xl8lJE3+9FuA=="
 ---
 

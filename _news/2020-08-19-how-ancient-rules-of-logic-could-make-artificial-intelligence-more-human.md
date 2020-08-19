@@ -3,12 +3,12 @@ category: news
 title: "How Ancient Rules of Logic Could Make Artificial Intelligence More Human"
 excerpt: "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human."
 publishedDateTime: 2020-08-19T09:00:00Z
-webUrl: "https://www.gizmodo.com.au/?p=1256892"
+webUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
 ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -16,12 +16,13 @@ provider:
   domain: gizmodo.com.au
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-    width: 754
-    height: 922
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
+    width: 1051
+    height: 597
     isCached: true
 
 related:
@@ -42,6 +43,6 @@ related:
         height: 248
         isCached: true
 
-secured: "b3xhxwXglWpLpbHEU9djYVd88qz19JOjTjlkOwHlhS0O2b3U1WTvo3H7SXveY/Mw4J1w3FB1Kn71lbe9tYXrKJ86QXOisLCFws9zPQHhhBO9Fc07l4E7FMzHWyGkHOKptDJhjIW+WNtiYgTwxX0YH3RYb83IBtwhmO++0Uk2zDUYhTZP8q/fJLXp4vNpIqXt92HxKWkxLS/uVVNIr82XlxTn4lsI2S57bt9HcbbT76GFVA2fqdvy/yPyuw7ZpXh30gF8FD0apUKGk3vQe1vtRFF7LP7tfdD3ojKg7CpXczXMNhP3JXGwR+wUlS1BHacNtIHAfapvhBgNCxkxv2hqsg==;EiPZF7EGeq5fUVtwuXP4EA=="
+secured: "ZHmoNnGb0vYA5D711BvWtnsoa6o/bHG77pFKcGhsVVyF4zpBw6FdwSQKCUcafAEIOquWYxtdwyE9s7XuQUa+pu9K4YJrZQk5LwbZHkq2bx4Cfhj6ak2lhlAPJzoI0frUSlCYETs7+55/KCgSumY18fPZoh8CLWJztr3wqCtEFUh1VN6s5QyCESsJj7Qv9qW2RBe5KcSQWGK91KHaNLe2KKWSzdjV8w6GMksXvLmOmDL5IUJS6MhPTUh84W7xG0DFF1IwkGLZuLJ64FBcHhqEmCodBoCxj2lCZY9sNTEj9z8HbYXvQ8dU5XtiHMSRMemequ9iNvSSF+ky+w6ekeyvvw==;TctgVTPXKjKxe1dAp90cKw=="
 ---
 

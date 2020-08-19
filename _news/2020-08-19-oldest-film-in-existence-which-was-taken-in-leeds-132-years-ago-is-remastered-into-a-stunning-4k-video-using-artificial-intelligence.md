@@ -7,8 +7,8 @@ webUrl: "https://www.dailymail.co.uk/sciencetech/article-8643793/Oldest-film-exi
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8643793/amp/Oldest-film-existence-remastered-AI.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8643793/amp/Oldest-film-existence-remastered-AI.html"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2020/08/19/18/32141904-0-image-a-19_1597856818126.jpg"
@@ -24,6 +25,6 @@ images:
     height: 382
     isCached: true
 
-secured: "ZdhOHcbA384bMxggnK2in7e9huG512TjrAytr6LkWVY9rXIlt9mKGchA8BeEQzJhJaxf8F1nL/Ymhju3um5SYxtHaUkYMgpf7W8uxuc+mDYJe/iVx8eqMQWeFfEKD4FfKKD+o33ELV44FXwMmHzquLvOrdGZbwNhJXzDFiAaf/8uyfd37knQpVm2jxiZjjlR21nPWvvKP5ig4My4aSzPJwlvjXAjxb86bfHYmrfP04utc4vXImF5nrFRCjB4vUdIJUY9JxDT1vhutzdHxqSlrIjjL2kWD2ac9c6yo5xr+WbkVVsEHqShBibbu9NKMz9Jtc3oE/Ui9rjyJgmPnYUa2w==;z7nM07JdALHf8rW/EXX3jw=="
+secured: "nweDyYxv4akuxPQaammfSMIViDjaKrQcHtzY7EzFOYea1CfVt/szrU8bViNCM4R2FNS98sAQ6+h8HmlJWnoUgL8u8sAFW0CcNYs7nfNDhfhZ2tSaiV4vKsCV5hDP9sIbo4klVheIAvmFSclL6dxjzBn+XEOI1Ge476Fg17lmrWh9EyMmzr4vYKSPjnOwmJKuEueEDj1J0exRIAo4pO3ef8ezy463F7STdDRLDUDaB0+3aKkREpTmdouD0Zm9pZf0br76h6JoxUJJbKE/ozSR3cL/C1ZkbqCRgw7Apn8ZnfBTmcYdOPuFKb2G+oQmFi+LpynKDKoH5t2uxzTD6tJzI3TunVcOHsDuAxrZQcqgk/lJCbkAZTr2TCnjNyfMdFZqG0TMUAN4ERHGgbftDRgK5D5rjvmllDBzVeFqJCzSH4tyoJY+pUtcqNdz2k4B1lICOEfcsMejQ0+QfZW7ic20JjFgLqTzwQgi5qN6m9es85eZtVrcB82xZAU/meN2kSBt6EDX9FtIhNyzFlu5NxFcDQ==;1tXs1fWzCB4Nu3sxSH7svQ=="
 ---
 
