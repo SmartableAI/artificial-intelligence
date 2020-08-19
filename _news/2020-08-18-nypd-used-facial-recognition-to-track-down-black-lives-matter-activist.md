@@ -62,6 +62,22 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "The best facial recognition cameras to buy in 2020"
+    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of ..."
+    publishedDateTime: 2020-08-18T23:07:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 3413
+        height: 1920
+        isCached: true
   - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
     excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."
     publishedDateTime: 2020-08-15T14:57:00Z

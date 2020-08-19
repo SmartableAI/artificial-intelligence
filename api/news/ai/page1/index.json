@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-18-cerebras-teases-second-generation-wafer-scale-ai-chip.md",
+      "title": "Cerebras teases second-generation wafer-scale AI chip",
+      "excerpt": "The existing Gen-1 has 18 gigabytes of DRAM on die. Lie told the audience to wait for details \"in coming months.\" Cerebras competes with established GPU heavyweight Nvidia and other startups such as Graphcore and Tachyum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cerebras-teases-second-generation-wafer-scale-ai-chip/",
+      "publishedDateTime": "2020-08-18T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-mit-sloan-implementing-ai-from-exploration-to-execution.md",
       "title": "MIT Sloan: Implementing AI from Exploration to Execution",
       "excerpt": "Artificial intelligence is becoming a key component of business transformation ... Many of these enterprises use Amazon Web Services (AWS) as their technology platform for AI initiatives and access NVIDIA GPUs to speed up their machine learning applications.",
@@ -1379,55 +1420,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-a-fake-blog-written-by-ai-shot-to-the-top-of-hacker-news-after-people-thought-it-was-real-heres-how-a-college-student-made-it.md",
-      "title": "A fake blog written by AI shot to the top of Hacker News after people thought it was real — here's how a college student made it",
-      "excerpt": "AI text generator, which has shown itself to appear convincingly human under some circumstances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f3a8e3ae89ebf001f0452c3?width=1200&format=jpeg",
-          "width": 750,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8?amp",
-      "publishedDateTime": "2020-08-17T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

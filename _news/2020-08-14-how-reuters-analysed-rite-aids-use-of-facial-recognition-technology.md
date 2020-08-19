@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN24T1GH"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN24T1GH"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/wbKDmXcD3f3Xc3Al7cSJGKGlHQs=/0x0:5472x3648/1400x933/filters:focal(2299x1387:3173x2261):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218774/1264758330.jpg.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "The best facial recognition cameras to buy in 2020"
+    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of ..."
+    publishedDateTime: 2020-08-18T23:07:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 3413
+        height: 1920
         isCached: true
   - title: "Black Lives Matter Activist Hunted by NYPD Facial Recognition Technology"
     excerpt: "\"We're being specifically targeted with this technology because of what we're protesting,\" Derrick Ingram said."

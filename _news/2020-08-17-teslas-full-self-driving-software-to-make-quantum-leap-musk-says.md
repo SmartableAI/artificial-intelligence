@@ -85,22 +85,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 50
-  - title: "Tesla Smart Summon patent highlights progress in 3D labeling for full self-driving features"
-    excerpt: "A recently published Tesla patent application details the machine learning methods behind Smart Summon, specifically highlighting the progress being made with 3D labeling in training data. The application,"
-    publishedDateTime: 2020-08-14T06:56:00Z
-    webUrl: "https://www.teslarati.com/tesla-smart-summon-patent-fsd-progress-3d-labeling/"
-    ampWebUrl: "https://www.teslarati.com/tesla-smart-summon-patent-fsd-progress-3d-labeling/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-smart-summon-patent-fsd-progress-3d-labeling/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 49
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-smart-summon-1a-1024x554.jpg"
-        width: 1024
-        height: 554
-        isCached: true
 
 secured: "sCkS073j9sRdFHcOwV8mhlq4so1FhaxNOwciuOabVaICEav2M1KizWtb6LSqp0YRxyRz5u8I7/+2boHxlGrOBbh6HQNxlZUuuEwqpSyCZB1qCBllPFXzF1AeF9Xrn18/zcPCEeN+Tr0sCy8tqkCqHr5nmB4zUBOqAFgpDp9fgcv7ukbe8a6xSqXRDmRNuJXxckK0FKFhJpA1iDdXPJgtEi7maS9Ujm0VqWrKY6hLrqP28/L4HOu3apUBk9/pKYWPBV8dKr/cMC9YaqK4Q+3bSqWxRvyNHD2ZXwrNRuStkwBWvcFzzwmuVNhT9dbZylfcSnbpJF+VdSTbT7YP9UH69Q==;FL2AD1/lZ8q2EZTZCCqNvw=="
 ---

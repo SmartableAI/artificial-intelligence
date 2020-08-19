@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T20:35:00Z
 webUrl: "https://www.anandtech.com/show/16004/hot-chips-2020-live-blog-keynote-day-2-dan-belov-of-deepmind-130pm-pt"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 334
     isCached: true
 
-secured: "hcZXIU+ALbphaX6igQk9fVzWBu8aIv5eQkkYrEohY4aCueUe0aEPq1powUqfbeXb3f6ZEO7yRWboT/kNKobydpQN9XB6dxyB45zJesu0Bjm8+Ct98b2p6Wm7aEdGr/YZ2lKhFNqa6+lTcL/91Dr9FDu/fDC8gBw9ylZZu9sf1VrA0v9OU2lS+dBxGzVM3VH8b2IZ1m8OQ/DHY+yuheM8jQpVU4cL9tJf9Llh2nZYWDtMtOWyOgq2JQeF2waX1dXOBvD6RmRlA5ONPynPm/xNnaCt5frzkhfmMq+9/0fTa7IB/Z8pJDwXYmH7PiH5vQQcR8Fw8V2aqYLWbN5tjjCpQg==;sz9ueWsj8FC5NS7pGlz5fw=="
+related:
+  - title: "Hot Chips 2020 Live Blog: Baidu Kunlun AI Processor (4:30pm PT)"
+    excerpt: "as well as HBM2, and packing 260 TOPs into 150 W. 07:29PM EDT - Last session of Hot Chips is all about ML inference. Starting with Baidu, and its Kunlun AI processor"
+    publishedDateTime: 2020-08-18T23:37:00Z
+    webUrl: "https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 54
+    images:
+      - url: "https://images.anandtech.com/doci/16008/8%20-%20Baidu_678x452.png"
+        width: 678
+        height: 334
+        isCached: true
+
+secured: "/AK2hYIdYUv5naen6U08i8jfI4/jLnyEof0G2rAkKD39PEd3X6P/JGeppMUIPyWBdLirOeBbt87y1/U/SA1nL34RQH80EyzSAWdt5GkB8rZbGRjRNHqkwQ60O8K5Mo3c0lxwkUbWxZjV9Iq9qo+3wb2RzTfJ3Xm2yahHEKpZUHJWwU0hnrz80jXpjnksqr6+gSUMvadRGpT8tUw7ptVjxtHyfQRgeBWUB93RBxVkLO2VjIMaEuLBYCh+NaWK3wtRWJ6cXnAtYRHy+2gZG9LMmgrSfjpkWjnrYngm+PTq0elMjcboHKs1xkiU7LRHxE7neI2RnTlUWu9giSpAGvhEp2fdH+v5KidnRx7gec2V2LPD6aA+JueRBoBJi7vEvdPMvHTd4apBTFt41W9ZtRGbXWO23tcFK0NLWFG8f2pBLRqT4OULSohCT9P+tymLcwNz+S17x0r1q7/kbF6xUOvP+n+7D1KqHXZmohxi8Y9WXDdlqSH4K1rz1Ect7AkhoqfsRcysm7zxel0zIof6dpK9+g==;RsnMKziAfK0J0yd+euoeGQ=="
 ---
 

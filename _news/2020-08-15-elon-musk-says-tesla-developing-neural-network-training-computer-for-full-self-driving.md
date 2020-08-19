@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-networ
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -86,22 +86,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 50
-  - title: "Tesla Smart Summon patent highlights progress in 3D labeling for full self-driving features"
-    excerpt: "A recently published Tesla patent application details the machine learning methods behind Smart Summon, specifically highlighting the progress being made with 3D labeling in training data. The application,"
-    publishedDateTime: 2020-08-14T06:56:00Z
-    webUrl: "https://www.teslarati.com/tesla-smart-summon-patent-fsd-progress-3d-labeling/"
-    ampWebUrl: "https://www.teslarati.com/tesla-smart-summon-patent-fsd-progress-3d-labeling/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-smart-summon-patent-fsd-progress-3d-labeling/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 49
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/09/tesla-smart-summon-1a-1024x554.jpg"
-        width: 1024
-        height: 554
-        isCached: true
 
 secured: "hXjP5Kf6UzGzM7x87rc+L0dnnVNjlqiX9Ax8a9b8gt++cs12S9Ata0cCM+/DOhYjgRTnKKB4AEzO3/Ugtw+GfDzBW+dHJ+L2DZIL2Lp0fNViZ3H3uD/Y2xhtFiM3g8wHytqIJKgA7pMzRNIPEzFoFHr0htChqZprgC6nbpwtTFTyk3SbWNQ/g4ugBi1Njv0mpgkM5yNeboylpDoEGy98N5oiT3FsMMBMsRsLS/HdKhGkgOxS/VfmnMsb9WrnpQbZigHL613LC5+Jbn+Mch58fQxo43uHa0bfYRIOOHaa3tRg0c0yd/iL+BE2qLLHJghTW97l0fWD1NAs1zQOngazyvaQJ68pxLB5InkrUSKtMegex2kE6xrXH36z/SDGSt1vXHXduAG4J4FO/ue0hNgwsxLKC3hGk8oU8RnckjjcSBhcVbLp04CeayBMqknhczgQ/VuOPLP1YhH8fuqPUrOAXyHmkSRWtstqJbf2oGWza3duixZEthwxQxkFATYDAvua;De3rCCkQMw9iq6FlFEz8Tw=="
 ---
