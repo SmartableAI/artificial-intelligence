@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Retail Market: Verint Launches Latest Intelligent Virtual Assistants & Enterprise Chatbots"
-excerpt: "Out of these, the computer vision segment generated 23.7% AI in retail market share in 2018. The natural language processing segment holds ... speech processing, machine translation, and text parsing. Rising Investments by Reputed Companies to Favor ..."
-publishedDateTime: 2020-08-18T12:34:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/08/g17133151/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/17133151"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17133151"
+excerpt: "This information is given by Fortune Business Insights(TM) in a recent report, titled, \"Artificial Intelligence (AI) in Retail Market Size, Share & Industry Analysis, By Offering (Solutions, Services), By Function (Operations-Focused, Customer-Facing), By ..."
+publishedDateTime: 2020-08-18T09:09:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-verint-launches-latest-intelligent-virtual-assistants-enterprise-chatbots-2020-08-18"
 type: article
-quality: 30
-heat: 30
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
   - AI
-  - AI in Healthcare
 
-secured: "6S7xC1iHAN0xcgvF2OZapntSgi/kCRoCKEbV0auhbkifKyZf48YXPb1eXe0ms1cMmJ3wtObbpyFfhouxVhWyUoPmoA9jAgfeokKMXQudE2UM9oWA0eTi+Az42p+gZVbBhcaH0gRelyjwYbMsyX9PKpDPiSVgqp/X+igq689FNvgXaC0nj0dby/yCkkdM2ig2PmXgDBLnYkQXeTXACJvvYYtLSZyaivGc491NVtRFlicwV2baixhE8o/dkEfBkQrRtOiWOb0Ug0XzQ3WVoak3ey1Gg1DgD0TM/1cv4t7CcbhhB4ZVhd/Eezt58PXI0BMdtv3cD8dTwpzzPW/g1HWS0wcMQ7Vght0Z80wNRhAd4vgboNPAltdXjR4UAUwfSpdiKi4P9SmxQuKasgjCCBgBNX8i4UYrhq7E2ffmfIbIC7iaLlJLCmymNgULfy5Jqsty1rEsUa9uHZkOLhMm7fnUfCapCaCJlwUvcYLLiK9JFu0GD9tiw1QOtSMGwNbjZDC0UkJFgnxfPQ4tGCykHPSkhg==;IlXfWYrO5B1BjelD/7Ujjg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "VYzstKyD0jwDzGtgTtcQZvUlYXoYimwBd9RSPQoMA0WFavxYqBEqFnOBHpiBtlimMo2wd/AxeKm0rUHujoLx2igr9sXqmU0UFlvqpH7H+MHJK0HTMw9zEwuJ5MFSVF0XldKUHxg3TM1h0y00kTXu+lcUFgZ5wiBwO9FJApif1sz9bE7Q8ot8hFamtpCcFSQ/mTQUpy2hnyfShz1HydUwgEjdyXx339tNyIP9rPkjs4tQe3FGTmQgKEvrV3OQ0Xkyx3MrUzLWVCra7eEwk22g72M4ISF59CSjvyC5ZTN9n+Yt42XX0mhwTnOiy3cbAxQ5pg42zeQAFGJ/2LII/XNjDQ==;wrnlV1/fZz5Kmn/Y+TBPvw=="
 ---
 

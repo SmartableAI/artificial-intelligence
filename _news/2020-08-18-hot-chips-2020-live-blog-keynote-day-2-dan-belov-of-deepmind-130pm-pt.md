@@ -39,6 +39,20 @@ related:
         width: 678
         height: 334
         isCached: true
+  - title: "Hot Chips 2020 Live Blog: Silicon Photonics for AI (6:00pm PT)"
+    excerpt: "08:52PM EDT - Q: Perf on Resnet? A: Not publishing yet, but we have simulator results and demo chips in the lab 08:52PM EDT - Q: MLPerf? A: We're working on it! 08:53PM EDT - Q: Models bigger than on-system memory? A: We know it's an important problem to ..."
+    publishedDateTime: 2020-08-19T02:13:00Z
+    webUrl: "https://www.anandtech.com/show/16010/hot-chips-2020-live-blog-silicon-photonics-for-ai-600pm-pt"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 54
+    images:
+      - url: "https://images.anandtech.com/doci/16010/10%20-%20Lightmatter_678x452.png"
+        width: 678
+        height: 334
+        isCached: true
 
 secured: "/AK2hYIdYUv5naen6U08i8jfI4/jLnyEof0G2rAkKD39PEd3X6P/JGeppMUIPyWBdLirOeBbt87y1/U/SA1nL34RQH80EyzSAWdt5GkB8rZbGRjRNHqkwQ60O8K5Mo3c0lxwkUbWxZjV9Iq9qo+3wb2RzTfJ3Xm2yahHEKpZUHJWwU0hnrz80jXpjnksqr6+gSUMvadRGpT8tUw7ptVjxtHyfQRgeBWUB93RBxVkLO2VjIMaEuLBYCh+NaWK3wtRWJ6cXnAtYRHy+2gZG9LMmgrSfjpkWjnrYngm+PTq0elMjcboHKs1xkiU7LRHxE7neI2RnTlUWu9giSpAGvhEp2fdH+v5KidnRx7gec2V2LPD6aA+JueRBoBJi7vEvdPMvHTd4apBTFt41W9ZtRGbXWO23tcFK0NLWFG8f2pBLRqT4OULSohCT9P+tymLcwNz+S17x0r1q7/kbF6xUOvP+n+7D1KqHXZmohxi8Y9WXDdlqSH4K1rz1Ect7AkhoqfsRcysm7zxel0zIof6dpK9+g==;RsnMKziAfK0J0yd+euoeGQ=="
 ---

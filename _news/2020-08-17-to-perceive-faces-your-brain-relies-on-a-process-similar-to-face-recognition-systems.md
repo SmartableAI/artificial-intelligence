@@ -1,28 +1,28 @@
 ---
 category: news
 title: "To perceive faces, your brain relies on a process similar to face recognition systems"
-excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people who have a rare condition known as hemi-prosopometamophosia (hemi-PMO),"
-publishedDateTime: 2020-08-17T14:20:00Z
-webUrl: "https://medicalxpress.com/news/2020-08-brain-similar-recognition.html"
+excerpt: "Imagine if every time you looked at a face, one side of the face always appeared distorted as if it were melting, resembling a painting by Salvador Dalí. This is the case for people with hemi-prosopometamophosia (hemi-PMO)."
+publishedDateTime: 2020-08-17T13:11:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-08/dc-tpf081420.php"
 type: article
 quality: 47
 heat: 47
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2020/toperceivefa.jpg"
-    width: 1000
-    height: 549
+  - url: "https://www.eurekalert.org/multimedia/pub/web/240517_web.jpg"
+    width: 400
+    height: 220
     isCached: true
 
-secured: "by6edZrpw9L8r1QS3sxfOMYl7xV4yWZvmtUKi8rkqhFHjtiYqpY6aZcDbSMjLVMP6I4Np9gIkaQ7P4OipxMJcEgTmxAWaKKmrWg1T+bpv8x5gdI6DCYjv1EXlcFZHOTzoNZYM+rOQaJ5tyGoC75qVpGYNRs+hiNR4xFsh7WyZoOdaQoNVkLrWTpZSY5i6k3I6I/0t/Ye6mgtUFJ2lY+x05i1Zy2RMyLaiF/T0p5L1iFXNlvXzT/lEpyRZ4CVI3o4V0C21jZRF81bNrzhjJp1QHmqE9xiK63iqoCFyz6/1bS1PU+HGEx7iP+G522LL5PyxxSGE5W2nkcQStb5UJkAYPcVSL9GSsINwe+98UDBwk/ykNmiWkRYUkVI//0u7fwlVD4y+uZBaIqjhQKzFXNxNeE6SpVvgrrQL/PtXC0snO2ctqSC8UihuHsMRICSj53Yu2yiOVnFC76f1wW5JO7b3JpJ0P/VNWL8rhpv8u0z4wzXDJbtnr2WPiZNXIgOPloIJRuFk3JdyMHA5GcoynU5Aw==;aAC+6+650x5NI92hxpmAig=="
+secured: "SYYLC/mj8pyvPXWVEh0gfbP+xRrA/9seulNpSPlYqXU43f9lAI8Xf2Ln1PbxhzgYOcG7vB0q1YrJjtDDbIQs45wvXXQs4rlhmxJ9jxb3cGCuy142d/b1CUJYj+rXolv5JfE8/Rt9rV/crcNFDN6GWJIr3BEqmBBFqZ2X5eR5A03X+E68WSmPmDnwq4okO7+rVHa7Epkxt7h5DAHUBueVJFXRQ5S4psyF+26dzGdkymQgddM5C3UeSkgSkF3IEFtP8+grEg2lsZ8OPGra3XBOgMjsFXFoX7G1KwuTaiByl716LBZQCH/acbaL7d6GRg6eCPFKJ6whcLolntbdh+UYag==;BP8k8RHBjQjFs38J78Q3Mw=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11551"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11551"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Azorobotics
@@ -35,20 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Robot perception enhanced with hearing"
-    excerpt: "Carnegie Mellon University researchers have found that robot perception could improve markedly by adding hearing to the machine’s sensing skills."
-    publishedDateTime: 2020-08-14T09:38:00Z
-    webUrl: "https://www.theengineer.co.uk/robot-perception-hearing-carnegie-mellon-university/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 39
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2020/08/Aug-14-Sawyer-bot2.jpg"
-        width: 720
-        height: 568
-        isCached: true
 
 secured: "rYIV3NER339YIQ+slGL2gAA/98CVXctftlwlnqaQXgQNpaE/yj1kQiLG133YkGKdBbANGdEmizr52kZ0l7zD+IpxCQkx0qr+8OoR/RAAKZ4APcAHkjtAN2iuHmlNUoMRQXVTySfx6id3igPB+RKSAGQ8vT/6XJVUeOZfwn6I1sWKPHBlckVR/aXbaYRCcvqMmKEyn68mlPeoaNLG8MNAmGDQ1hhoiI4veRlsBiFYhkigQQY30vwsaIsrIDENmWcKhWR9tfcOvpHoVEZcI/iaAAvRUow25iR5EEe6GHoyE72hTIdrPI27Jcsqgq13e6zT4oOUXEHsaj0iWLNZieWfxA==;IOmZaFUVhEVVFYnyA6rSqQ=="
 ---

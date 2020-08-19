@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/08/165418-brazils-money-manage
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/08/165418-brazils-money-management-fintech-allya-to-use-machine-learning-to-create-digital-assistant-for-financial-advice-after-successful-seed-round/amp/"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 300
     height: 260
     isCached: true
-
-related:
-  - title: "How This Fintech Startup Is Using AI To Provide Expense Management Solutions"
-    excerpt: "One significant factor that is leading to higher demand for the fintech firms is the willingness to revamp the traditional systems."
-    publishedDateTime: 2020-08-14T09:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-fintech-startup-is-using-ai-to-provide-expense-management-solutions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/08/IMG-20181117-WA0049.jpg"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "VpGTSw8Dp7g/4RwOWv5CZQXkcZLtwW2OMg1GCsIkEbR5wAXZmeJMboeyA4HTQao1ZzhvlCGjHR80hBamSE9HjFwIGV099TR2UPU1X86yA4Nq8V6pOUPkrgEEse/+ZeuKzCtvLy2mdVoxCOh4Sf85tn3siNgBfJpZAkNdIMSjt7vhojyH944VVjBCaew1OLRAT2DvkigKTYa/ZU6klUmr3PGgl5hZOyjFtdi7I8PzmoL9tqUmniYAYrTX52rmZ8ggIsQM7mBX4WeyGDuBVx1sDeNyf3grPEDsYrebNJjkJn1Up9ySKc6bd9M1qllkLj3ICcDSCKexYrNiCnnuMH/mxzhu3DbtGB2grF35yImmrnCY4Y/+GQamZDU1m5ZuMap6ZPv3p47yfrRoNIag0Gn0OVcgMqMOO+9xCZEbpIedBJyD4D8zGg7tvHS1ubK7U+hPh0NzxkU2tWYxlXW7X4gFo2kgFmFE3u4beugZ4vKedzk8/2O99N7+z5O4OIVK555AqoGLjhymH/i+/FKAZMH/zQ==;q8d24ya8Ed94ppaUIkj9gA=="
 ---

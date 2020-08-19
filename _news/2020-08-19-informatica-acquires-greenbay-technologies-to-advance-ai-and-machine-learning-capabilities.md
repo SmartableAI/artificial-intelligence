@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-19T01:15:00Z
 webUrl: "https://www.prnewswire.com/news-releases/informatica-acquires-greenbay-technologies-to-advance-ai-and-machine-learning-capabilities-301113629.html"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:
@@ -34,6 +34,6 @@ related:
       domain: wfmz.com
     quality: 24
 
-secured: "SMMbs3NYmeKvkPeIO7TMJoxUIMsTQ5Rl1pRD5Wd22N6MPINC/t/VPBpaCOVTC2mJGlorlUWR/uQ/JSwdn0wFA9IO2GIY3Xjwnpfk75Ki3wXWpbx+kRD4UPruKFJyiyiALFvq7fSwdvhtY20DJEP1v7LFHfSeX+TqBA3tq6tSr7NjMsdSsJfunbOSB2CgIi2y9flLkkmmWU5gw8xfel8iw3HKdpCBTnFeC4o/RcSWghJ2ggyDd5BPPmXLxZ1WY2vXsTQSlGiyFHDjK5Wms+gPPxpvTzLMDoxuE/lZUwOMjWFlPoq9G/iSf6rF708GhtxyCrOeeFp9sgNSC4pxX5PN7w==;A+eKRb46oJG0GbvWNmsJUg=="
+secured: "vcrAO6GbJ0iW6cbB6OteMBWc5hBKnqBqh5yswvmzUptJDJ8TaPI95ISKFTWXURWQdhG0n8TDrqOaaDYfgw8Vlz/WPlMxUUTjniDUqNCuLX2JumlRroUcKO9HfH37b+oQE4rUzIupCzn9Y2+O2npQXmVqAsdhmKyQ82eA+EpAgt75jm+HmIPuaLr0oFW3sla+EosoLbUjXSr41FnVixrITlF6ms0XiZ0FIp1uTE8ATLm2kGn47rXvOf4LZHUZfcmtVDuzFpXUM5/nttOQIIPSczmH8Z4g6z9DZc2lK85nte7sCRk8PL1jdviOlUKPD28gYBAQuJnkrcfJUkRUus7bhfBTUQNinaE5ZblchJKCrjyvmOsExNfEbXcPzCKOAaSNF8GhWYbT/twnsv/fUoETZmk9lTwE+UusPMWMuFjLAtuRMjP2kFSuwZyMVMOKvH9cT51X0mkHdFLr/WxYs/M2CC75HxzSDpipfFVTwhn4mf2EVf39GdOu/Ncb0Bbtj7eho215epTtDcm8WpuIXr9a1g==;Nf5SsN3YjWZdVIhcHpLKqA=="
 ---
 

@@ -338,6 +338,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 24
+  - title: "Michelle Obama’s speech in full from the 2020 Democratic National Convention"
+    excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
+    publishedDateTime: 2020-08-19T03:38:00Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/us-politics/michelle-obama-2020-dnc-speech-full-trump-george-floyd-a9675441.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 21
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/18/10/gettyimages-1266883426.jpg"
+        width: 2221
+        height: 1666
+        isCached: true
   - title: "Michelle Obama 2020 DNC Speech: \"Wrong President\" Trump Can Not Be Who We Need Him To Be"
     excerpt: "Former First Lady Michelle Obama lambasted President Donald Trump for race relations, the economy, and the state of the union in her keynote address at the virtual Democratic National Convention on Monday night."
     publishedDateTime: 2020-08-18T03:28:00Z

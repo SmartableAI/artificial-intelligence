@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-18T23:37:00Z
 webUrl: "https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: AnandTech
@@ -35,6 +35,20 @@ related:
     quality: 54
     images:
       - url: "https://images.anandtech.com/doci/16004/4%20-%20Keynote2_678x452.png"
+        width: 678
+        height: 334
+        isCached: true
+  - title: "Hot Chips 2020 Live Blog: Silicon Photonics for AI (6:00pm PT)"
+    excerpt: "08:52PM EDT - Q: Perf on Resnet? A: Not publishing yet, but we have simulator results and demo chips in the lab 08:52PM EDT - Q: MLPerf? A: We're working on it! 08:53PM EDT - Q: Models bigger than on-system memory? A: We know it's an important problem to ..."
+    publishedDateTime: 2020-08-19T02:13:00Z
+    webUrl: "https://www.anandtech.com/show/16010/hot-chips-2020-live-blog-silicon-photonics-for-ai-600pm-pt"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 54
+    images:
+      - url: "https://images.anandtech.com/doci/16010/10%20-%20Lightmatter_678x452.png"
         width: 678
         height: 334
         isCached: true

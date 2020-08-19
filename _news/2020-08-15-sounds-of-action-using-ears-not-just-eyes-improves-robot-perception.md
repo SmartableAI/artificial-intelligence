@@ -38,20 +38,6 @@ related:
         width: 632
         height: 700
         isCached: true
-  - title: "Robot perception enhanced with hearing"
-    excerpt: "Carnegie Mellon University researchers have found that robot perception could improve markedly by adding hearing to the machine’s sensing skills."
-    publishedDateTime: 2020-08-14T09:38:00Z
-    webUrl: "https://www.theengineer.co.uk/robot-perception-hearing-carnegie-mellon-university/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 39
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2020/08/Aug-14-Sawyer-bot2.jpg"
-        width: 720
-        height: 568
-        isCached: true
 
 secured: "c6LOY+sYesHjjKWSBku7xhfnT5/zOhAzOZZqAYYJ22YLAzhavJtCXkil25nYxjVq7mdv8kiVxUaexDf9CmaAdddw5iD9Ex2JRf7mmY+TUPy842VF8IvQcTcRqnGSmQ+kuVeFe6zpKiCMCBA2uynxhdmn6r0ci2Y7Lq+zYtclgiSqORihy/5wwzTISXknadbGl3VPNKU3BOj8NRr1l2qLEOXF9pn6Sh2O3EM+7B8y9lBJWwTnHfwH+u87E+9J6aygdnRLnDVZ7+q17NQO9tObu/rfXipZuy6b2hIsVxtbTHbSiLlCvA4AHP4SGGANzk+4CJt338p4DTnOLjgjyseVhw==;6qRxjZehkR2a2+UB3UKIiQ=="
 ---

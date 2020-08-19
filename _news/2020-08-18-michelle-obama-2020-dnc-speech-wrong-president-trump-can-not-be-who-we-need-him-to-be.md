@@ -348,6 +348,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 24
+  - title: "Michelle Obama’s speech in full from the 2020 Democratic National Convention"
+    excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
+    publishedDateTime: 2020-08-19T03:38:00Z
+    webUrl: "https://www.independent.co.uk/news/world/americas/us-politics/michelle-obama-2020-dnc-speech-full-trump-george-floyd-a9675441.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 21
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/18/10/gettyimages-1266883426.jpg"
+        width: 2221
+        height: 1666
+        isCached: true
 
 secured: "7PONiczGaxvdgY/sfUz9nMUd3xmhHVMYjefqUfdL2YkixN+SzgNZoxaGcwHaH4ocVd6Qgoc8p0SQQMbnIfDp37CRG2M4yLnkyqXu/uIbINik7hvPrRVq82y6yNTgZCcUZQt1cd5h8UZtsdyEMMhb7CkwBLNwa5r26/xubS4uQJONnul2/TMsAc5Enbew7VmNXlKICb0QnYzTRBOQYWgnJ9xR8QeKA8QgHDoX9Lhi+0iId8m52eSZKerE3yAx6FB4RIMwt5nOVTafQqrTKvT3HeQSYuqGsITTPVNlnhNluyG2l2Bu3pLCXwHzIhU18pGUrP9VnLNo2sub6foAm1wOFSxxgQvLNblieyzsXDjKGUpjfpP4rF+h0Cy828QOx+VCcyJ4018YqCNO9ol/OgMb59if8I+pCF8X7u76K1zOdFPiKpoVwEeEMt5Plxh2hLa87mYcobJmLLn7TctTnvFi+2Wkkt1SbxvE73OMiPdnxLa73wIsl07OrttHkPloy5U0cspMXIDiEcI3ni3bMSJseg==;6oPeUoCLQwJTyMRrdX+G2w=="
 ---
