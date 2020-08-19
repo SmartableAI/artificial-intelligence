@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-19-five-ways-ai-can-help-revolutionize-mental-healthcare.md",
+      "title": "Five Ways AI Can Help Revolutionize Mental Healthcare",
+      "excerpt": "AI has the potential to revolutionize mental healthcare, ultimately making care more accessible, more responsive and more affordable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bd781a3e144a79d4653a1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/amp/",
+      "publishedDateTime": "2020-08-19T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-global-artificial-intelligence-in-medical-imaging-market.md",
       "title": "Global Artificial Intelligence in Medical Imaging Market",
       "excerpt": "The report, titled “Global Artificial Intelligence in Medical Imaging Market” defines and briefs readers about its products, applications, and specifications. The research lists key companies operating in the global market and also highlights the key ...",
@@ -334,6 +384,39 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-11-artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries.md",
+      "title": "Artificial Intelligence in China 2020: In-Depth Case Studies of Applied AI Across 8 Industries",
+      "excerpt": "The China Artificial Intelligence (AI) Report 2020 gives you exclusive first-hand insights and data-driven analysis into the latest industry developments, including An up-to-date and comprehensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/17029904",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17029904",
+      "publishedDateTime": "2020-08-11T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1262,88 +1345,6 @@
       "provider": {
         "name": "vietreader.com",
         "domain": "vietreader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-30-artificial-intelligence-for-healthcare-insights-from-india.md",
-      "title": "Artificial Intelligence for Healthcare: Insights from India",
-      "excerpt": "This paper describes some of the main opportunities and challenges of using AI in healthcare. It then turns to a case study of the use of AI for healthcare purposes in India, discussing key applications, challenges and risks in this context.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chathamhouse.org/sites/default/files/styles/main_image_800x460/public/images/GettyImages-691077118.jpg?itok=8IV3dmDG",
-          "width": 800,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india?amp",
-      "cdnAmpWebUrl": "https://www-chathamhouse-org.cdn.ampproject.org/c/s/www.chathamhouse.org/publication/artificial-intelligence-healthcare-insights-india?amp",
-      "publishedDateTime": "2020-07-30T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chatham House",
-        "domain": "chathamhouse.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-29-artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.md",
-      "title": "Artificial intelligence can aid in faster, better Alzheimer’s diagnosis, says study",
-      "excerpt": "London: Artificial intelligence (AI ... at the UK’s University of Sheffield’s Neuroscience Institute examines how the routine use of AI in healthcare could help to relieve the time and economic impact that common neurodegenerative diseases, such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asianage.com/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-g4bflmnbi4coegebsi9036ohp2-20200729204429.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
-      "cdnAmpWebUrl": "https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/technology/in-other-news/290720/artificial-intelligence-can-aid-in-faster-better-alzheimers-diagnosis-says-study.html",
-      "publishedDateTime": "2020-07-29T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Asian Age",
-        "domain": "asianage.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -58,6 +58,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Self-Driving Cars Could be Allowed on UK Motorways by 2021"
+    excerpt: "The running joke that is the development of \"self-driving\" cars could be about to take a huge leap forwards next year, thanks to the government opening up a consultation that may allow a simple version of the tech out on the motorways by 2021."
+    publishedDateTime: 2020-08-19T13:38:00Z
+    webUrl: "https://www.gizmodo.co.uk/2020/08/self-driving-cars-on-uk-motorways/"
+    type: article
+    provider:
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 24
+    images:
+      - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/08/motorway-self-driving.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "rbg/AgdaDsBJ7gZTT0rqBpZFRRad3+clFq3ybUbOP29u1T9Y4y+Y/WozbDm9Lj3QSNvmcafIehhuRWb0ZYje9vXy/OkX+lIT4UmoyiHqlryh0vRNx/GeDgbgYEYJfeeRbDpIVb2y9TB6U7P3s4bLD4DrT40ZUJNeWXRMFMXH02roKA0dbjFRbncVL4ANbHM6KNYxZRxL1X9CaHgct+ckIPJTQFKcT5muODT/vY9eGufumBDFzm8VTP/cwf26CAhS0x05PEAytNRRO3NnBJgB+xdtBf5VfBMOWRmu6gnYZpLppfzcRx8s694wbuoCAQxpMfAeBh4Bki51GzoW/47S2K3t0jQ15RwEtKv4C2q2HUy0uwFrNirTVl0CPY5Uep++HHJr4QJSNMbqcaqpejUHs4W6hbb1EKUs2xo4iFibJxDGHDJxx/uBh2kgO3wSTFMN5cGLLYDoIYXuaWK4RQsZvA1YRwIF6WG8OFShnzOWArH3M+f7dJrZXpiB+syfrla0AZs0KOAY3K9PmIcGDmJT7g==;+J3HhtyN8HQ4zI4bd++v8w=="
 ---

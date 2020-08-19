@@ -73,6 +73,20 @@ related:
         width: 562
         height: 313
         isCached: true
+  - title: "Deep Learning Market New Innovations Trends, Research, Global Share and Growth Factor till 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (Global QYResearch via COMTEX) -- The global Deep Learning Market is estimated to grow at a healthy CAGR of over 51.1% from 2020 to 2027 and reach a valuation of ..."
+    publishedDateTime: 2020-08-19T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027-2020-08-19?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North America Machine Learning Market 2020 Global Analysis, Report | Emerging Trends, Growth Drivers To 2023"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (AmericaNewsHour) -- The value of the machine learning market in North America is expected to reach USD 8.07 Bn by 2023, expanding at a compound annual growth ..."
     publishedDateTime: 2020-08-19T04:44:00Z

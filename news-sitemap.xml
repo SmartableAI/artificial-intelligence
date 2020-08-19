@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/</loc>
+    <lastmod>2020-08-19T06:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/19/how-can-businesses-take-deep-learning-out-of-the-lab-and-onto-intelligent-edge-devices/</loc>
+    <lastmod>2020-08-19T05:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/19/the-outside-context-problem-of-the-pandemic-underscores-the-importance-of-human-ai-collaboration/</loc>
+    <lastmod>2020-08-19T05:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/08/19/five-ways-ai-can-help-revolutionize-mental-healthcare/</loc>
+    <lastmod>2020-08-19T05:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbescoachescouncil/2020/08/19/14-ways-artificial-intelligence-will-disrupt-job-searches-and-recruiting/</loc>
+    <lastmod>2020-08-19T05:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot</loc>
+    <lastmod>2020-08-19T05:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/08/19/vroom-vroom-ai-reveals-f1s-fastest-drivers-of-the-past-40-years/</loc>
     <lastmod>2020-08-19T04:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -439,7 +475,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html</loc>
+    <loc>https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability</loc>
     <lastmod>2020-08-14T10:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -595,6 +631,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/drug-discovery-informatics-market-sales-insights-growth-impact-future-dynamics-covid-19-impact-size-projection-and-industry-dynamics-by-2023-2020-08-13?mod=mw_quote_news&amp;tesla=y</loc>
+    <lastmod>2020-08-13T11:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/in/news-releases/bright-pattern-selected-as-finalist-for-disruptive-technology-solution-of-the-year-for-customer-contact-week-ccw-excellence-awards-822616149.html</loc>
+    <lastmod>2020-08-13T11:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.pcmag.com/news/pro-china-propaganda-act-used-fake-followers-made-with-ai-generated-images</loc>
     <lastmod>2020-08-13T10:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -735,12 +783,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-textract-now-available-in-asia-pacific-mumbai-and-eu-frankfurt-regions/</loc>
     <lastmod>2020-08-12T15:49:17-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html</loc>
-    <lastmod>2020-08-12T13:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -927,6 +969,12 @@
   <url>
     <loc>https://pocketnow.com/kirin-980-announcement</loc>
     <lastmod>2020-08-11T17:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040</loc>
+    <lastmod>2020-08-11T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3987,6 +4035,12 @@
   <url>
     <loc>https://english.alarabiya.net/en/business/technology/2020/07/25/UAE-China-to-collaborate-on-fintech-AI-as-part-of-China-s-belt-and-road-initiative</loc>
     <lastmod>2020-07-25T04:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mobile.twitter.com/yoda69?lang=en</loc>
+    <lastmod>2020-07-25T02:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 3000
         height: 1895
         isCached: true
-  - title: "A US Air Force F-16 pilot is going to take on an AI adversary in a simulated dogfight, and you can watch it live"
-    excerpt: "AI will battle AI in the early days of the competition to determine which program should dogfight a human pilot in a final showdown."
-    publishedDateTime: 2020-08-14T20:58:00Z
-    webUrl: "https://www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "AI Will Transform How The Air Force's Next Stealth Fighter Fights"
     excerpt: "Should the Air Force and Navy prioritize the engineering of an entirely new platform with paradigm-changing technologies for a 6th-Generation fighter, or simply keep upgrading the state of the art 5th-Gen aircraft in the near term?"
     publishedDateTime: 2020-08-18T01:05:00Z

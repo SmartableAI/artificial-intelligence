@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "AI Weekly: Announcing our ‘Automation and jobs in the new normal’ special issue"
-    excerpt: "The global pandemic is changing the nature of work, as companies seek efficiency through automation -- and people seek jobs."
-    publishedDateTime: 2020-08-14T20:56:00Z
-    webUrl: "https://venturebeat.com/2020/08/14/ai-weekly-announcing-our-automation-and-jobs-in-the-new-normal-special-issue/"
-    ampWebUrl: "https://venturebeat.com/2020/08/14/ai-weekly-announcing-our-automation-and-jobs-in-the-new-normal-special-issue/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/ai-weekly-announcing-our-automation-and-jobs-in-the-new-normal-special-issue/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
 
 secured: "riYAwi6rlRtSqwKu0gkSYE8kwFF3fWuIoHV2vMWbEn/eQ9/P8nSDX/3VmIMzbnitxDPakKvMIW6NASHVwmZkTMUbzoJqDhmKSKPgcfyYYbXRf8Dn7sOsLpAKzOGowpfWnaYPogElYX+QOygJfi8virCMPqsduc0rP8gBHTRViZLpTea9LgC1Wi5S8LKCsQ5datk0Ju1WEdVxCUZa+LfVppd3CKTyM3XhH6keSZunVlkd6NpSHgvgq3ySQ7TNOhahs48eurPenKiqLgapl18T+7bMGt35oy/pYelpcK9gUwPkAHAvYGZ1Ayabvhm45uOjareAt+812F04LH6N1To2djTI8oqR8Zq+lEpk+lYfd8DXYJi4j22OHJgAjQP6JFJP39SFNvEo8UzuJaR+HdJGlYp9rC7KjqsdnuBpvtRC2Cw3Ln0hVXXtM7vTfLgV664azKFw5ho7p55oal9igWoiA0H/AzO0w2eSGGEgqkEwoiyzaUxGmFUTZpeez324R9/YafeNbcnlx8xYHAEVhx4UzA==;c9wld/QIkonhF9jRnXuUdg=="
 ---

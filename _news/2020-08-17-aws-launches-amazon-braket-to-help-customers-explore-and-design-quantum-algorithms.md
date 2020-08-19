@@ -23,17 +23,6 @@ images:
     height: 430
     isCached: true
 
-related:
-  - title: "AWS Launches Amazon Braket to Support Quantum Algorithms; Bill Vass Quoted"
-    excerpt: "Amazon Web Services (AWS) has announced the general availability of Amazon Braket, a fully managed AWS service that will provide a development environment to explore and design quantum algorithms, the company reported on Thursday."
-    publishedDateTime: 2020-08-14T20:43:00Z
-    webUrl: "https://www.executivegov.com/2020/08/aws-launches-amazon-braket-to-support-quantum-algorithms-bill-vass-quoted/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 17
-
 secured: "ByYfh8vhAggiDw+II8Ksks92Pkor3XmRQUiS9IONqBb/ZbYzYXGI8MjrLFSY61ijC7CL90C5cPmTVoNpjcVNL28S459UbX20gkWsWmYsbIYRism9rh7K7eSnbxI9C2nmoC+s+ZC3LJ0CDYkCMNCTUBHS3l1TZ9j0dnqJGQvFcGyKd5ZjsNKoSCflV46UAZvKrEyknnwxEYWWnSq6u33IyFcieESTEwjcmlPoct6IFCrhuPdyuvsM+zL61P+IN1exQGfk08cZQBOFTxCoyo3IXcQ4suApHCHgSCIpqHT8kMheSMfPTyNbNystVpYgB25yIJHiHgeVMtjMmrTOUhZMd0ojAKbdwfqRdvBS2B+7t+N0rorXJ2PjbiwQZLcNuQ+v0cvwoF92E5ONARD9uahA/cqlTIYHQUpynwtsfl8orxhoQtUwXuQp7dUPdmkYh8+nO+NTOFj6IlCXzJwYU/Ky+Vchkv6VpzOrS9UOo1slOEn03z1OIG0V2o61FktgyE67m/l2STxyvElBA49Al8tbhQ==;ykMy/MkGHlPbYQdiSWU7Ug=="
 ---
 

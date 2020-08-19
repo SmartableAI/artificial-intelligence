@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-19T07:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&tesla=y"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://cdn.openpr.com/T/8/T815418051_g.jpg"
         width: 562
         height: 313
+        isCached: true
+  - title: "Deep Learning Market New Innovations Trends, Research, Global Share and Growth Factor till 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (Global QYResearch via COMTEX) -- The global Deep Learning Market is estimated to grow at a healthy CAGR of over 51.1% from 2020 to 2027 and reach a valuation of ..."
+    publishedDateTime: 2020-08-19T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-new-innovations-trends-research-global-share-and-growth-factor-till-2027-2020-08-19?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Machine learning Market | Size, Share, Trends, Growth, Growing Demand, Industry Analysis & Global Forecast 2025"
     excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others.The trend of using machine learning techniques in the healthcare sector, financial sector and retail sector are widespread. The world is moving towards a connected ..."

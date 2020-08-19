@@ -1,37 +1,24 @@
 ---
 category: news
 title: "MobiusTrend: WIMI Enters Semiconductor Business with 3D Holographic Vision Chip Upgrading"
-excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ' WIMI Enters Semiconductor Business with 3D Holographic Vision Chip Upgrading '. In recent years, with the acceleration of domestic substitution,"
-publishedDateTime: 2020-08-19T11:40:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-wimi-enters-semiconductor-business-with-3d-holographic-vision-chip-upgrading-1029516224"
+excerpt: "According to reports, WIMI's businesses cover multiple links of holographic AR technology, including the holographic computer vision AI synthesis, holographic visual presentation, holographic interactive software development, holographic AR online and ..."
+publishedDateTime: 2020-08-19T11:55:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/g17153210/mobiustrend-wimi-enters-semiconductor-business-with-3d-holographic-vision-chip-upgrading"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17153210"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17153210"
 type: article
-quality: 40
-heat: 40
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI Hardware
+  - Computer Vision
   - AI
 
-related:
-  - title: "MobiusTrend: WIMI Sets Up a Subsidiary to Accelerate Hologram Vision AI Robot and Semiconductor Business"
-    excerpt: "MobiusTrend, a market research organization in Hong Kong, recently released a research report on ' WIMI Sets Up a Subsidiary to Accelerate Hologram Vision AI Robot and Semiconductor Business '. WIMI announced the establishment of a wholly-owned subsidiary Lixin Technology Co."
-    publishedDateTime: 2020-08-17T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mobiustrend-wimi-sets-up-a-subsidiary-to-accelerate-hologram-vision-ai-robot-and-semiconductor-business-1029508486"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-
-secured: "gea0OsjWE9b1KPwFz2ILkggNbf8ZYNPGiiOkmPgxtNKpeeB9QAlShoGaR+51mjdwjv1SZ0cqws6rL8Mj8k28f8jk0MgvLAqdOP7W0fgbwdK0L9kuPzcRaBYqoUUPz+dKS3N6vdKbFY5sTl1G/YoPbx1sXCSeSOOtj0899zaK9dnNjT9hWwZaVY+a2uVyevk7XGlgQFwYGmxHBgXk0X29S4mGn+8Y0lchQBUU6iZVKGO0EleWSkLtgrf4TaybqFc6SXewBjhnuAIPJCSku1BMKWY0ZHeRhVp50rxyp33Cg78P7IHIISj+qfC2E/M2ToZ6HhQCYnHjACWk6y08K+Q8FQ==;NVpO9NO4IAB570CafpIUCQ=="
+secured: "NHvUKSTknc3p1TmJ6OgOeMObTG3Vv44B9Y+DvmPcibj4QKJd5uJ8e+Cs8xrANHEPKaejS+31cihJjtZFD8pFVgHcW9b7PCE4smOWZgy8h2DvSPcSeqxUXDFiT/OWqLV6UWuIM/fQbw3ZPgKdnJPsdGc7yadCLA1C4ylMw8xyLdGoYJ1dQB+Y3d8IOt7qesFkEFF6fI6EDJne08e9aOBdRjtL5JA9jnXRGBPDRXI3OEaEH+icQPlwPOolfwRfH1PMrYyoiSspsy/OchDw/BNBplXgp0rXEcwus6y5iMu7K7LqD1Z9S6GkXVPezdIKiDVBQH23vsw74FUIXbvW3gx9GhFnqf7QSBV6cahJPelPYsTa1Xcy6pVXkWxmy5MSJJAQc+0oZJaS6uJ146qeqcMtZJ8hdzezh7CH/a9gYAZaaoaFRccEbC9oTKUV8eBRihDmR7OM3ZUZ0WZCIDLw+iKUZGlxMa+TkKUNXEXi9OFnJ4PXMo6T9aTxj7fbZRq4fLuRtJDebM/RZXzxLuDFelNQRg==;nalszwwVAe/2tKWP/932hw=="
 ---
 

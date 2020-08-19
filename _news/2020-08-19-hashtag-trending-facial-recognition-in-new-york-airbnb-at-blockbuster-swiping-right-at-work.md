@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Hashtag Trending – Facial recognition in New York; Airbnb at Blockbuster; Swiping right at work"
-excerpt: "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with"
-publishedDateTime: 2020-08-19T11:58:00Z
-webUrl: "https://www.itbusiness.ca/news/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/115950"
-ampWebUrl: "https://www.itbusiness.ca/news/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/115950?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/115950?amp=1"
+excerpt: "The New York City Police Department uses facial recognition to find a man who allegedly shouted into a police officer’s ear with a bullhorn, you may soon be able to experience the nostalgia of BlockBuster,"
+publishedDateTime: 2020-08-19T12:02:00Z
+webUrl: "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727"
+ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-facial-recognition-in-new-york-airbnb-at-blockbuster-swiping-right-at-work/434727?amp=1"
 type: article
 quality: 62
 heat: 62
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2018/01/ht_banner-hashtag-trending-620x250.jpg"
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg"
     width: 620
     height: 250
     isCached: true
 
-secured: "1yfCJKkjasu8qiVaw9OvrW/8RNsrcW0LUSjGiexTlviRzon1N0dT3syvYRy+7G3nDC+YkFiBuRCp8QjjG/GHWhK5VKL3q2UQNyeZK+jYYg3OL2RDBViPoC2KpkcyR33D/Z1mJRlS+k8dHqFHFg+o/HYI0+LweMZPjCUwoPCYZehCiyqkdc1cjLRfs0xPQ2jWfApLOWLQLu5AZWfSLaQ4+ozb8SzqQ/4dnTVTxF+WvwK9QG3KJeSbdtc/YoXAXlPSDgmRKsqBz1whPAjVOQv1UkdKqnyDV1bT/DKZrug0/yQdnqWtIzx60tgKvsmt5Aq2JMU6Sde3MMcTE9b6BFH7og==;HQ+HRUAJfzRR0wpHZkhRWQ=="
+secured: "5NkrKiaNt+43GgIODzlREJHQZ4fkk+51M09G56VXwtg6+gsWVakjQG4oABf53AIAp6ortoC5V58QH2MI96/t6tCbWcXGIqNlhqdyAWXHTTA+2XVYyA5DqycZOiVJyr9wnsQ9diQMyqMfhwP5ketut0YYhMwX+7MVlgZJoChEeiyefoF/09Y+pnZ1BJW1gWR+uh4F/H1lzb93Uvv20EsHz0VaZdJkJVItoyl3E07vxyxbp4+XcCsz8xQp5tR2p8tm9D9e8W1n4CAf6EHIvV9SomNBs+y7zSw648RxVDpnrSVL7PWwe6ZJpXMZhqsUw+KPHkqc8IL3rFLKWwjeY18KmQ==;PXlLc4UwjUAWoKUhIbrK5Q=="
 ---
 

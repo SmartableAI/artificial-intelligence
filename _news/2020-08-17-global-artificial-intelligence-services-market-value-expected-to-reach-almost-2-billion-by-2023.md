@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T19:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-services-market-value-expected-to-reach-almost-2-billion-by-2023-2020-08-17"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence In Construction Market to Reach Approximately USD 2.1 Bn by 2027"
+    excerpt: "The global Artificial Intelligence In Construction Market is estimated to grow at a healthy CAGR of over 29.4% from 2020 to 2027 and reach a valuation of over US$ 2.1 billion. The report provides an analysis of Artificial Intelligence In Construction Market for the period 2016-2027,"
+    publishedDateTime: 2020-08-19T13:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-to-reach-approximately-usd-21-bn-by-2027-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EVfbLFmWDbFz6gBThdHEKeLtaqgc+7wgi/ySaoFFZglt8GHR07RuDEVLcqyUY1xvutZesneevzCdGsFYOTJTFZ08e8CoYllDyO4WrptulNmGHpfzGaC3uzrNxlKNzvTCoR5ZzUCs7T0Vq4wuorkC7qVq6GBS0EbFpVCfWBootVwYMzwuoVttsBmfO2H6ZwOPyZugdlN99loK/iMnR0vEFE53zoZI/s7FY0lHjytJbu1tIHbbSSjXRdVv9WQ0ir3cQcPO/Z7la69K7iuPGQleGbLpGXsnWkCZsMfyCESl7p/OoCtnXonEubFL9Z5eAGpfox/0b589beP8mQeDJVwUQA==;SG8CbUDAh81x4fPE7a3QFg=="
 ---

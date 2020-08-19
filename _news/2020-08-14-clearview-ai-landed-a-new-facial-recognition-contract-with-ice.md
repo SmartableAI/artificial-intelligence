@@ -71,21 +71,19 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 82
-  - title: "ICE just signed a contract with Clearview AI, the controversial facial recognition company that scrapes photos from social media"
-    excerpt: "ICE is known to use facial recognition technology to identify people and subsequently carry out raids that lead to deportations."
-    publishedDateTime: 2020-08-14T19:09:00Z
-    webUrl: "https://www.businessinsider.com/ice-clearview-ai-sign-contract-facial-recognition-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/ice-clearview-ai-sign-contract-facial-recognition-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ice-clearview-ai-sign-contract-facial-recognition-2020-8?amp"
+  - title: "New York City says it will reassess police use of facial recognition"
+    excerpt: "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial"
+    publishedDateTime: 2020-08-17T22:45:00Z
+    webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
+      name: Engadget
+      domain: engadget.com
+    quality: 69
     images:
-      - url: "https://i.insider.com/5f36db44e89ebf001f044c6c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2Fbce7cf20-ecf2-11e9-b372-50ae8ac12a88&client=amp-blogside-v2&signature=e638e7e15835c15f1e753686f1b886881e7c5556"
+        width: 945
+        height: 630
         isCached: true
   - title: "Global facial recognition company working closely with NZ govt"
     excerpt: "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ..."

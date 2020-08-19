@@ -53,17 +53,6 @@ related:
         width: 3000
         height: 1895
         isCached: true
-  - title: "A US Air Force F-16 pilot is going to take on an AI adversary in a simulated dogfight, and you can watch it live"
-    excerpt: "AI will battle AI in the early days of the competition to determine which program should dogfight a human pilot in a final showdown."
-    publishedDateTime: 2020-08-14T20:58:00Z
-    webUrl: "https://www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-f-16-pilot-will-battle-ai-in-simulated-dogfight-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
 
 secured: "yT30tZnRC0EhWd7hERJb8+2fHinObP8bCYb79L1wA5eiG7Oj7Bpgf7mnlRSfyNiZMNIJId+mxjv9qmhXfgl09y+tj+3ri12msKML2+MEn/CyCyuZEJ+XluRnDgP+ro9jVHfqnC4i++x5+Xwe/bScB0fB0j6Lkf4d1iUWbhWuFvOuGjRagGAgXwDNvoQ9GD7pCLom+NE/NnseFfuezcDlfz3dd5ygP3o2IK2JPWousXAGWYet2opoY2Fein9Gn9UbjW4PlsEJ6qYOfLzEHmO4ef7rW7uP6pn8PaFZ6qsyxbk3+dMR6UxxRnqRcpuIqWXAKojnHKKjHE+kTsqmn+tGuhGu9avpKEYsW8is6LV5W7KKOWqfwrS/ZvEHJn0ZILgGwltiUvYAzaSpbsYBzX6S4AW7ofK0e0sHBATy1YyMpvUJH0PQ7W1zb1Jn//PPPMzNLOuEw4FwPJQl7o+XVvSwkzdKmUMi2eidtoLBj0j4WbGr+ORLL6NPacH3NHa+OoPgra9pvDmvk4JuqxrjO2E0uQ==;sZ+2d7JXgtfPnSpUVViM6g=="
 ---

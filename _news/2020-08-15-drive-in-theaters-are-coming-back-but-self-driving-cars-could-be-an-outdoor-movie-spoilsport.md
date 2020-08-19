@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2020/02/Tesla-Autopilot-300x217.jpg"
         width: 300
         height: 217
+        isCached: true
+  - title: "Self-Driving Cars Could be Allowed on UK Motorways by 2021"
+    excerpt: "The running joke that is the development of \"self-driving\" cars could be about to take a huge leap forwards next year, thanks to the government opening up a consultation that may allow a simple version of the tech out on the motorways by 2021."
+    publishedDateTime: 2020-08-19T13:38:00Z
+    webUrl: "https://www.gizmodo.co.uk/2020/08/self-driving-cars-on-uk-motorways/"
+    type: article
+    provider:
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 24
+    images:
+      - url: "https://media.gizmodo.co.uk/wp-content/uploads/2020/08/motorway-self-driving.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "aUjPwjc0QPSFMi9rMiztl95ConMh9fVYQUYFOU9eiD+RXZwxBIF3HIyYpglDfErvz6kj+Nv93s8P6rmjTJzFBY3Aq8EfejqMmsRO9KV1gQngCrvCufBTvxk3YAO26VazcCjbbdNoOqphYP/KqQ4EM+n7dahI5BQEWSOrUTL1x5cN2G2J3tQ67yt2jdDYahiYO7yJbeoly45cchlNkVsgM91GQz6ZKpmO1yLMaOpwzzyy9fw5hP6S50feIfobsl6nuKV4Tr69N8+AmNRo3s19MfouziqcNs+bXx971i3vlKRxEEJzyP6/CBFJwD2yC2WhbAlRXRPNlRdODCx8o40YJnQBqwqkFlKLmg3uiZ+R37tHzkvVa4MaHbT5U8rcDJt5lz9zLp7g2JG82phtBoJdg9EjSDbokCSYsfQM9CssYfuwkgAdxOVOVq9/ov1CihwkwKrF+zzwgBhtd3mJNRc01K8WrMcp9H/soyoMkDZkwly63QM3J4n9Wjho1T9b/Bcl;qjU1NUa7tVuO72h/ZieEgA=="

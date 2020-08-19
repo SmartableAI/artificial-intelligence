@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/17/how-robotics-and-automation-could
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/how-robotics-and-automation-could-create-new-jobs-in-the-new-normal/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: Announcing our ‘Automation and jobs in the new normal’ special issue"
-    excerpt: "The global pandemic is changing the nature of work, as companies seek efficiency through automation -- and people seek jobs."
-    publishedDateTime: 2020-08-14T20:56:00Z
-    webUrl: "https://venturebeat.com/2020/08/14/ai-weekly-announcing-our-automation-and-jobs-in-the-new-normal-special-issue/"
-    ampWebUrl: "https://venturebeat.com/2020/08/14/ai-weekly-announcing-our-automation-and-jobs-in-the-new-normal-special-issue/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/14/ai-weekly-announcing-our-automation-and-jobs-in-the-new-normal-special-issue/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
   - title: "Conversational AI Is Accelerating in the New Normal"
     excerpt: "Since the start of the pandemic, 35% of US smart speaker owners say ... While voice has taken center stage in many of these conversations, it is not the only conversational AI technology that can help mitigate the risk of infection. COVID-19-specific ..."
     publishedDateTime: 2020-08-18T14:49:00Z

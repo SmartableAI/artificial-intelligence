@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Savan Group Delivers Cloud-Based Artificial Intelligence and Machine Learning Capability"
-excerpt: "Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services (AWS)"
+excerpt: "Today, Savan Group, a leader in advanced data analytics and visualization, announced that it has partnered with Amazon Web Services"
 publishedDateTime: 2020-08-14T17:39:00Z
-webUrl: "https://www.prnewswire.com/news-releases/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability-301112589.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17086830/savan-group-delivers-cloud-based-artificial-intelligence-and-machine-learning-capability"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17086830"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17086830"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "YVkIgkz3OEL/1MmubZirlXmq5BHLa6ncugKdpRyxUcVXelPJmHNb5wo9vjgrszdsHZhgCnHMP00yTQ/bxAW/qFfxJtt9rc25zPCu4SKWhbtwMFf7eEYgMZOdvKxILYPh5cPfF2yNPzdvDlDQfjrNjnzqGMEKilMHURh8Vx+Y/crzhvHU2SUqUqaTs6v0ihJpM7wqnZKYsWF5xfXBMqBHgy43Vqtg5h/bsN/ro8YdibR6F/ERF+WdlwCELWTjnXas8KrQyQPRRq+7vSQ2nX5aO7UqI91IIOlwV/am/x4eBt+p75aIm1Lh+D84UVPPb80hCFghXjANpO2AhA/331RxQw==;D0eouOTkN4abCLIpI2hHCQ=="
+secured: "wyQigBhru5t3aTNQZsRTzKFC0t9UrAxFBMQRbapkNCC7i48YW4WdUdLzyK+VlKclW8zdxM5CNyPv7p/qmli1Xn+0RwP+4Fmou1qyyd7xOtbRmx+4C7ZB4evrAkN90d3OIVNfLLvhnDIQa43D0kVCtBwS6e7MjTAT6ZAHsJRrS7+HSixZKlfNmzCA5kWjS5bdmb776sz05NU29xTb93vi9950IAozZxXmPgLWcYtYhae4qAuPEdx+8+CJrE86U95+lPWarq+InXfmh8vdyw4cGz+3KkLuLFqWKz4VT9+3/Cp21c2beJupCkOMRXM/4D+VQHKCzcGjd8JE9SWClDG6+uf49L8V0e1Nxrr+R2T+LfsCxL41wA3HFoC5buI3JeG7of9MyALm9qbZX78zE0t4plHXulQvLW+nifYD6RjgROYXoZDnymQPqPDVhH3PLr5Gog3lWoK0ysipwxwWPFIRNBBExCPr6fKO6/JlzzeuPt+UM8hWRlTeMwCnDrmHkCtYoZsOnqWvK2j73nzZX7mGzw==;oXG65UcaNU4LWDac+cF3KQ=="
 ---
 

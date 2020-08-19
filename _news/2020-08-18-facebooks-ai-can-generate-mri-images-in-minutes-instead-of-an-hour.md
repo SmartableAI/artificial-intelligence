@@ -40,7 +40,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://cnet3.cbsistatic.com/img/6NZnZZ0AB8dzy2ZkAVnZ4My50hc=/756x567/2020/08/17/730ef110-ecbe-451e-a232-5d8aac35ea34/gettyimages-1197376888.jpg"
         width: 756

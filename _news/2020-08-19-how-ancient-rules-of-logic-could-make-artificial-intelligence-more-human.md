@@ -7,8 +7,8 @@ webUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-mak
 ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
@@ -42,6 +43,6 @@ related:
         height: 248
         isCached: true
 
-secured: "QdAFzaJcYXiC206kb+CfLrp4Wv+2Qz50lnDlGtChCCu+GlYIsAsQ6dRgvEx6uzpwQ8f5IJgwKc+jlvCmytRnVTW4zW8pbI75ndflSG50DeLkHQkxg2j9y3kVqMi3egVmc03qrrotNUigLgw/GhF8IVKcc4BwAqHPIKeVBnCwd41RodhiHyOGejSkADVkuWkeQY92rCNVG8g269KDvOVpWyM6dWQgIBpieecxDJfo47ypuDhcdntaIPh5J33eUcLDa9dp4mKaLVXwKy0wb94OzZXKb3EyZoraDZZ7L1b7VtsfP/UYTo0FIg1FNRPZwDp9YnvjlJErBOtmGF4cmuIpGA==;YMlbOhO0dVr7mPd1yEgJ4A=="
+secured: "0IyXUTu1Z5gIdXLzTRT0feb3hH0Frnz373kavpDrpDXQnIffgKZ+bYtUXKAq2jSR5RYHwYKjc24EfcISLWpNUtM27SpT14MePiZWusmI8JT31Q48A1TrIulV4LJMXA35Q8aRZK5dZZYw9LG8W+lz1zHLM/CtmoeNC7hCs5zlYvtcpUkkwDsPGATTZr5nfjvP4ls39EyzgQRwc2JCezsjYvlvlB9wVtVVrICK1HkPCtk2qnOdiCmAy/R/rsO3qx/BL93kL3fSOibyk5j72rml7mCNhMNv8AcC4LgRZNTthbVI6Gpkn6ZSvZwlUMoQMNQuzI5ky78clO6Zilt1PS6WOe1n+Kxqcx4PlPaS5EZGUVsJNFwLrWCqwlSbLiqd3IY5q47B4oUfFEtewl6aPqq0me10P8HKf6gYqug7jrrQoHr6pn6e7s3pKKKVZ3VSiEDyauZfswaFf3dQ05Zrq9ApKg9L9tuWkCYGYy6/yGDYKbczsV0IVqqXWzbJo7lgYLFwMoZpICuIeM8jPoi00HLeGA==;LjjdVP2TXUQ2sLGzpsTRFw=="
 ---
 

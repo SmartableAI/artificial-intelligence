@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/health/facebook-says-ai-can-help-you-spend-less-ti
 ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-says-ai-can-help-you-spend-less-time-getting-an-mri-scan/"
 type: article
-quality: 89
-heat: 129
+quality: 189
+heat: 229
 published: true
 
 provider:
@@ -83,6 +83,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "gzIGqlHAJryMKc9Vf6/kwQYCbKNsK2exBsfkaJLQniqS1LJr+9Xjq6fVaDN8B9mzp41n2yKzkiNKIsHPekNbfW5KPLR3SWajk/Is1ja2iLxeSR433FWKbm48ZorhJ4JNg1T97T6269xfnV4JE6SP6Kr3OsmSERJ4LAvq974UXoG8UOvI4aSc396aQBRtPs6LH5kKespZbHtr2TsQsYuvNxKz87boy+KolH56SboBapdedw/O6ayZxmOY1WSG6VS2SWR5JPns8smUatdhdk07gQe9HUWLqZ6P2/Zx7Weyb1yoBb84Erz+j1zVVgZXASExCT+fU1CT/8cm6sHl/nUr5JNAaNsVWBGsdPXqtwr/JqqwEXKyMlsyvD0iyaBj128zYbKJmgYvEajyKabdkVhaTxBid8Ifwcjf+KhUx/I7b3ueqIALN+5/OlcStaWRj5xTpTI9RlXgdvJJQYX0zZViyaU2zMLhjL+lu8PMPxbEdRGVDSXlC9ZeRRNBzt+WiLyM;fmXdg7siTfLBmpn5l8UmdQ=="
+secured: "12FssKxHpP8HW7j14V70JIDK/7aSLuDqzIhk43RPqZE9AVgArK5YDC+Fx8gdMSHS4Ca5igeBct36xWBb5IJ4bvaaaYAqYw6+1jZwG0TaUrwx6WYsrQwDYH4Xjy+jauJr4j6PYocBpdZ0hhzsJcOIcbFYZXqHB0US9q45sST9d67NjjPK1ahyolKl5aez+HpQIUszv84P3B76UXdpk07Epi06bJo3XMFasNAWthIImvOfWZ9bgwVpeLZqwT6am/zSCUBR63zBRIDWlXI7b4ZMhoNVcrwV3g82bHJTvZ8Den9dkM4WKwxSxToEoDxKGsm3Q5VQW1RRckViyclxIjt5eKgsZsF99TxlhVwTCiEyPv02N8ZbZn4WT9dnONXCY+xy74S27cZxnjoeeRU6dXLbGlJdMa5hJ9i0kxT3VQJLjBKVf0C8CUGL8tQst96M/4dVNgQXVSYVcBk+vz6eG0y50nrs9hcreilRJNc2U2kc9mTdJlhGPYMOeXQVDz5qVwx51oRI4tTQLYR4POSGVowLSSmUpwe+VE74ahiG5CgvHPA=;d1Q3+JfU5rtakBgs88bekg=="
 ---
 

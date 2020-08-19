@@ -36,7 +36,7 @@ related:
     provider:
       name: Gizmodo Australia
       domain: gizmodo.com.au
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
         width: 1051
