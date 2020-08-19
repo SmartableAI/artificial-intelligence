@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T07:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -81,6 +81,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
+  - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
+    excerpt: "Artificial Intelligence in Healthcare Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2029"
+    publishedDateTime: 2020-08-19T18:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266141049/artificial-intelligence-in-healthcare-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2029"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 18
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1597838421142.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Worldwide Augmented and Mixed Reality Market Industry (2020 to 2025) - Increasing Demand of AR Devices in Healthcare is Driving Growth"
     excerpt: "The report also provides specific insights and recommendations for major ecosystem constituents including Advertisers and Media Companies, Artificial Intelligence Providers, Automotive Companies ..."
     publishedDateTime: 2020-08-18T11:56:00Z

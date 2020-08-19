@@ -89,6 +89,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 26
+  - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
+    excerpt: "Artificial Intelligence in Healthcare Market Global Trends Market Share Industry Size Growth Opportunities and Market Forecast 2020 to 2029"
+    publishedDateTime: 2020-08-19T18:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/266141049/artificial-intelligence-in-healthcare-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2029"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 18
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1597838421142.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "M75EHJIk/Pml6h00Uqq+bWRmfL8jF8Ii7XFNLQsF8jQcONfhdI+QmiKBwRivKbC7iwSUXfb/2jMMkI50ZmN+AtwOkAeAZHrJ+QXGo/jB+9NDgsBP36mcd86SL0e1HihCJNF+tETrBrw9iugzHQZhlPdG3f+f6WgaBUlh2o7nZPj5+PUYNAYLknifbtTMwebDdjenFhPmIphEEyRPbxJQutN4TVEuMyeSxvoIl3tHdlgfIdjSr0swcPPofs7F0ds3HRHEHk3G6NJIg4DeX8Bx4j+/zgio1OBusEJhi27YknQldCrzudN6/I5WqkkRiL9GqGh8+dLbfH75Rm8eO35Mew==;jSlS4BzywZVbGy4I3OC/FQ=="
 ---

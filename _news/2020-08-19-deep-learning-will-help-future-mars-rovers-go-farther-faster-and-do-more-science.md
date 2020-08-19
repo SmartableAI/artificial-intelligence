@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Deep learning will help future Mars rovers go farther, faster, and do more science"
-excerpt: "NASA's Mars rovers have been one of the great scientific and space successes of the past two decades. Four generations of rovers have traversed the red planet gathering scientific data, sending back evocative photographs,"
-publishedDateTime: 2020-08-19T16:47:00Z
-webUrl: "https://phys.org/news/2020-08-deep-future-mars-rovers-faster.html"
-ampWebUrl: "https://phys.org/news/2020-08-deep-future-mars-rovers-faster.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-08-deep-future-mars-rovers-faster.amp"
+excerpt: "Training machine learning models on the Maverick2, their team developed and optimized models for Drive-By Science and Energy-Optimal Autonomous Navigation. Four generations of rovers have traversed the red planet gathering scientific data, sending back ..."
+publishedDateTime: 2020-08-19T17:56:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/08/200819120700.htm"
 type: article
-quality: 53
-heat: 53
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/26-deeplearning.jpg"
-    width: 1440
-    height: 683
-    isCached: true
-
-secured: "6QgpEtPfSlLTQbBO5Hv6B3VgGplv1dxgcVyyp1LQiKKFV2v6vELxcjyz20mb7N59gb3UjZ4rdxKqZeoEOp1ghMNfM2gTcL0uaOP5Ldil06RX4pzLdzylY5ZirMhigSER+v00NfNwQKqxbtc8uWJePbeXnO1BIbqgM1J0JDypAYXGtH1dtgEbi1dLIGX6Ej9vIsQ8ClignqnOD2UN+QnPupUv9B5hmB5RA8R/u3LlMtcynvwEEHdHgTHPByRq7Tp61YG4LP90J/EWEgP+CFqnfNp/ZwkDB4UiZi6b9veRXzgEsbuK2VDW6JgVjSZgUI2vWk4Bph7MXzSP0/DZtIbj4g==;/TdCNdeh5/R3/octqRnWnA=="
+secured: "msHDeSeY44tgVO4wGCAPcLvB4NkyCbC7xhpeCjq5r5npEon9ULa8ef46CTh5LwYuDLQyTxGdvEVH8ZYqDSeNsdGwA3dTlFZjzXZ39cA99bT2aLFADzcBeFeiT2Yz9KFXduO0gpUcu6f7swsQcVkd/Sy627W9J/weBipdLrVJLvf0vr34wqgu2bTUJ+tuk0mjh+01ZHG6FF8v62N4f8GeO95c494gwvgkWCGpRqu+/d2LPSFpIh0b7GenknMAjV3FBIbk8ApzHGrW93krt3uVNo3EEWf37DlpEhS/OYkDGmusc4h75wUqum9dzoH03+BzHBhXQ+MgrHskblqzCqRANA==;EZKdnHoKz205uriy94tTww=="
 ---
 

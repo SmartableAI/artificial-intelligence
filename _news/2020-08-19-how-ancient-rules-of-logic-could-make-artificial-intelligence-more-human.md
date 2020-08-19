@@ -3,12 +3,12 @@ category: news
 title: "How Ancient Rules of Logic Could Make Artificial Intelligence More Human"
 excerpt: "Many attempts to develop artificial intelligence are powered by powerful systems of mathematical logic. They tend to produce results that make logical sense to a computer program — but the result is not very human."
 publishedDateTime: 2020-08-19T09:00:00Z
-webUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/"
+webUrl: "https://www.gizmodo.com.au/?p=1256892"
 ampWebUrl: "https://www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/08/how-ancient-rules-of-logic-could-make-artificial-intelligence-more-human/amp/"
 type: article
-quality: 58
-heat: 68
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -17,12 +17,11 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/08/19/aristotle.png"
-    width: 1051
-    height: 597
+  - url: "https://images.theconversation.com/files/348495/original/file-20200720-23-mxxnlu.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+    width: 754
+    height: 922
     isCached: true
 
 related:
@@ -43,6 +42,6 @@ related:
         height: 248
         isCached: true
 
-secured: "0IyXUTu1Z5gIdXLzTRT0feb3hH0Frnz373kavpDrpDXQnIffgKZ+bYtUXKAq2jSR5RYHwYKjc24EfcISLWpNUtM27SpT14MePiZWusmI8JT31Q48A1TrIulV4LJMXA35Q8aRZK5dZZYw9LG8W+lz1zHLM/CtmoeNC7hCs5zlYvtcpUkkwDsPGATTZr5nfjvP4ls39EyzgQRwc2JCezsjYvlvlB9wVtVVrICK1HkPCtk2qnOdiCmAy/R/rsO3qx/BL93kL3fSOibyk5j72rml7mCNhMNv8AcC4LgRZNTthbVI6Gpkn6ZSvZwlUMoQMNQuzI5ky78clO6Zilt1PS6WOe1n+Kxqcx4PlPaS5EZGUVsJNFwLrWCqwlSbLiqd3IY5q47B4oUfFEtewl6aPqq0me10P8HKf6gYqug7jrrQoHr6pn6e7s3pKKKVZ3VSiEDyauZfswaFf3dQ05Zrq9ApKg9L9tuWkCYGYy6/yGDYKbczsV0IVqqXWzbJo7lgYLFwMoZpICuIeM8jPoi00HLeGA==;LjjdVP2TXUQ2sLGzpsTRFw=="
+secured: "b3xhxwXglWpLpbHEU9djYVd88qz19JOjTjlkOwHlhS0O2b3U1WTvo3H7SXveY/Mw4J1w3FB1Kn71lbe9tYXrKJ86QXOisLCFws9zPQHhhBO9Fc07l4E7FMzHWyGkHOKptDJhjIW+WNtiYgTwxX0YH3RYb83IBtwhmO++0Uk2zDUYhTZP8q/fJLXp4vNpIqXt92HxKWkxLS/uVVNIr82XlxTn4lsI2S57bt9HcbbT76GFVA2fqdvy/yPyuw7ZpXh30gF8FD0apUKGk3vQe1vtRFF7LP7tfdD3ojKg7CpXczXMNhP3JXGwR+wUlS1BHacNtIHAfapvhBgNCxkxv2hqsg==;EiPZF7EGeq5fUVtwuXP4EA=="
 ---
 

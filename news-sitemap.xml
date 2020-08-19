@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cosmosmagazine.com/earth/earth-sciences/machine-learning-finds-quake-origin-signatures/</loc>
+    <lastmod>2020-08-19T11:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://siliconangle.com/2020/08/19/microsoft-targets-fastest-azure-ai-instance-date-large-neural-networks/</loc>
+    <lastmod>2020-08-19T10:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/</loc>
     <lastmod>2020-08-19T09:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,6 +39,12 @@
   <url>
     <loc>https://venturebeat.com/2020/08/19/cerebras-puts-worlds-largest-computer-chip-in-lassen-supercomputer/</loc>
     <lastmod>2020-08-19T09:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/webchartai-accelerates-machine-learning-adoption-1029517519</loc>
+    <lastmod>2020-08-19T09:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2005,7 +2023,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05?dist=bigcharts&amp;tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-innovations-trends-technology-and-applications-market-report-to-2020-2025-2020-08-05</loc>
     <lastmod>2020-08-05T03:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

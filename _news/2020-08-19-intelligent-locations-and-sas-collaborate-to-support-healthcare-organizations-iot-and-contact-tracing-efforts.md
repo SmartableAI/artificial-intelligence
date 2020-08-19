@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Intelligent Locations and SAS collaborate to support healthcare organizations' IoT and contact tracing efforts"
-excerpt: "PRNewswire/ -- Key takeaways: Intelligent Locations' cloud-based IoT platform embeds SAS® Event Stream Processing and SAS® Visual Analytics for"
-publishedDateTime: 2020-08-19T14:09:00Z
-webUrl: "https://www.prnewswire.com/news-releases/intelligent-locations-and-sas-collaborate-to-support-healthcare-organizations-iot-and-contact-tracing-efforts-301114734.html"
+excerpt: "Intelligent Locations and SAS have formed a new partnership that gives healthcare organizations access to industry ... organizations will be able to accelerate the use of machine learning and artificial intelligence (AI) technologies in ways that super ..."
+publishedDateTime: 2020-08-19T14:34:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/n17156815/intelligent-locations-and-sas-collaborate-to-support-healthcare-organizations-iot-and-contact-trac"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17156815"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17156815"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "p7y9lySrsvl39GAQ1TAvY/gSHwzETnyPjBPgewdjCmSRGuApUEqh8qdQy2a2rKnyr93fqGd51J7DmdrZKgn9WpZpHvgcPpgeMDQoVEhYOH/FzSuF/51JbkU9GBiGRWj6ze9l2txIR3Dlv5EojS7K2S+jypZprj7glffrv8yfSwOvghrUjogXsowc64I4YVeHOw8Qk3sY32+w7D9kJChCxi4P31Di1DwesrG+QchGsRsyIcifRg42kryQNtZySEhntijxSI1mtNjG7fwSewNg22RNxD6IxuKHxBiBPeBwptMwzkh2dnCidy/WcYqiL3uSq8GUYQyAh4EmbjDHqIN3IA==;Zu9EarYT0Qxs0U//wrkAgA=="
+secured: "kvGbOMk87sitUVlJbbC/aKJkuvgocnGp4y+qRNEAibvwiPkZrF51Ni5rQq41/i+32wTqhg8mlQ1RyrdPcJQa3EtUDTzVuRnK6H6FC996FGWVQx8cY2khUVFqX2SCLIoVlWPHoz5l1Wy0MURQzm5kaIf10xCYr5RuzJl5OmuU+qcMsxEKU+gwQzurXbU8+JdW/emtYLeDeZfNW01er/DQKnnush6sraZ3X39PmERX9Oezzu0KhFyJq9pQfl96fZ+/q5c5NU1mbCNRXYH+4cgEj011HsUfzwawU+TFXPjGx1eTdOzokKv+iBh7L1UgL4qStp4AvFb9fEcTYOWutA8HNYNCAdfeIZcOWUkmbirfFXHZUspfwYTKLtH1g2lENCafNCf2YrZtJW3LpfAvuxGSnOyHyBJAQjX3/XI69WG9mY6LSjlnzQC9aoFgpqy+c21pM+tjKrhGjRz6cu6Ss6XoieozO/chWJ0SXDsWv2wZrg4CUi4gIpP45ZXuBtWeQzqsnidZIwjtBX/eGJJMVR/ZsQ==;Ct+Q+ZMy+/auXeoEcqj4cQ=="
 ---
 

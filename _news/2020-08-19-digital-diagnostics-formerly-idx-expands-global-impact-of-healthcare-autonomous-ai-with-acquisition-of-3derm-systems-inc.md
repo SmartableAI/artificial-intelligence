@@ -5,8 +5,8 @@ excerpt: "Healthcare access and inequity challenges have been exacerbated by the
 publishedDateTime: 2020-08-19T17:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/digital-diagnostics-formerly-idx-expands-global-impact-of-healthcare-autonomous-ai-with-acquisition-of-3derm-systems-inc-301115054.html"
 type: article
-quality: 12
-heat: 12
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1230774/Digital_Diagnostics_Logo.jpg?p=facebook"
@@ -23,6 +24,6 @@ images:
     height: 524
     isCached: true
 
-secured: "qtYA1LFpaiviaHL6dfWVIxDZj1ockrV19DoyPotx6F7ddHvlVoLsigelcpmpOMwTLTRwAt8j2cQk8+sf+zpiEpXGSOCpVyNr6+0buMDyKlVpoiZoSnIxAx6FpKUuwFOQgU6GR+LJ82sOg3Cy5k/tQEkv//cUpJ34PTZ6PbK15mQgOb6uITNclREhdNQ5cgcx/EvXOXHuoIWLmRdl371fTwOEtnfC4BKQAOGOb35mGgRD0DREKWf8vNtS9Fd0O4jLl0NTsimnAVyGoSbvm64fbuQ1TJj2fmO4rxcjjdr7j9/fCn6edDgrvATGT3FC/cHlEg1yh5ESni7UTWYNOmLg5A==;Sv1TCwhcY1BupLqc2VZYEQ=="
+secured: "vyKWTwwucPESKmXGPI324BwwA0fircBJCNqH8iffmX2WHflzfTisvIx4oTA791bNg1dzZW5JrnOaKRBQ5fhFwf7LPOORqPyhh+fKe/8YfjchX9wY9cJfb77GXFrLHpsxb+esSOIRxbEZfyLF9n2tnc6LppsSeo/EeSbUTkaq2UNVJI/m0U0GJh7mBDfQ+F1qMsOm9/9xyqlu60mP3dpCzMRE9Kh2j2AMD52rBRT5Nc/jikwrAZB0Mze1WszJ2wB78GYBQp3QCL/uQ9PQiem2nyvCF1wvRTiBhrLJYmiPeePy1zQ5WwMFp8CD9uN/ldp3SwhACrjLxbODiBYDbkJ5wwC1HoeKAZVTUQ+rRd0v7XmQvW+qA4WK2VQtq24AlPsGefYUe1p5xlXPtT0Hfu08bCLWiJ2tB8xuec+Pp0U3A9nsoTXsvUQq8bUsx5e5vZx1OKyRz8W6487/qlFkgycPUw7noXeV9wcCrhIUY6v4xB3Kf+aGBNF+4yBsWM8GRqzxCqcQq2a+oGKLf9so2AnN2A==;a4WAX/qgRkLJHc+/5/zrSw=="
 ---
 
