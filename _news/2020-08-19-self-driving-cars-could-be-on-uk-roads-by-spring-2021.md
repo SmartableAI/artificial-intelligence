@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "UK to consult on tech that could see self-driving vehicles on freeways by 2021"
+    excerpt: "Self-driving technology could transform the way people undertake car journeys. The U.K. government's announcement was welcomed by a number of organizations. The U.K. government has started a consultation on the use of Automated Lane Keeping System technology on Britain's freeways."
+    publishedDateTime: 2020-08-19T15:38:00Z
+    webUrl: "https://www.cnbc.com/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/08/19/uk-to-consult-on-tech-that-could-see-self-driving-vehicles-on-freeways.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106670012-1597848598442-gettyimages-1060939028-img_7450.jpeg?v=1597848845"
+        width: 3648
+        height: 2736
+        isCached: true
   - title: "Michigan is devoting a 40-mile stretch of highway to testing self-driving cars and improving public transportation"
     excerpt: "The route from Detroit to Ann Arbor will soon have lanes set aside for autonomous buses and cars in the hopes of advancing self-driving tech."
     publishedDateTime: 2020-08-15T13:25:00Z
@@ -119,17 +135,6 @@ related:
         width: 808
         height: 424
         isCached: true
-  - title: "Michigan announces plans for Detroit to Ann Arbor self-driving vehicle corridor"
-    excerpt: "The state of Michigan Thursday announced a plan to explore the viability of developing a 40-mile corridor for connected and autonomous vehicles between Downtown Detroit and Ann Arbor."
-    publishedDateTime: 2020-08-14T23:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/politics/michigan-announces-plans-for-detroit-to-ann-arbor-self-driving-vehicle-corridor"
-    ampWebUrl: "https://www.washingtonexaminer.com/politics/michigan-announces-plans-for-detroit-to-ann-arbor-self-driving-vehicle-corridor?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/michigan-announces-plans-for-detroit-to-ann-arbor-self-driving-vehicle-corridor?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 20
 
 secured: "dTQ0uFiqNEUXbederk/2pvGVhMNJZYWMbeei/SZN28fRLamtEOBfa1kva+ks1rpWDSlYv6AE3e3W3SoC8sXN/UmZyy1y3bS5uTL+fiXWV2qOlKZKiHpxcVgV3bXS0rE2h4N8PEn2QvUV9x9taInswmxZ7D3K+kDCzfOXUceIXUnw2Sm9FvyDfdYIM07odaQF0xPc8dxy7Dcus3WIT4VsjpQ9+liEnXJ7EXk0Ow4LS+js5lUHKIbWFRMu+wxyCHNV3FdjqwP9kz/xA9U1CGeXYf+TAtgNl1CcJQXV/29aIjBLTZXcCpESL62m8W/aScdd4vUTShuEuZUlfC1FOi1XiA==;/fy1/1RXzSD0UBwp+mjr1w=="
 ---

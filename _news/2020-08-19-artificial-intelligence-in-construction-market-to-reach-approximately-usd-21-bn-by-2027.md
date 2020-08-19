@@ -27,15 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Services Market Value Expected To Reach Almost $2 Billion By 2023"
-    excerpt: "Baidu Is One Of The Largest Players In The Artificial Intelligence Services Market, According To The Business Research Company’s Artificial Intelligence Services Market Global Report 2020-30: COVID-19 Growth and Change (Companies Covered: Intel Corp."
-    publishedDateTime: 2020-08-17T19:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-services-market-value-expected-to-reach-almost-2-billion-by-2023-2020-08-17"
+  - title: "Artificial Intelligence (AI) Market is Estimated to Achieve CAGR of 49% By 2027"
+    excerpt: "The global Artificial Intelligence (AI) Market is estimated to grow at a healthy CAGR of over 49% from 2020 to 2027 and reach a valuation of over US$ 49 billion. The report provides an analysis of Artificial Intelligence (AI) Market for the period 2016-2027,"
+    publishedDateTime: 2020-08-19T13:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-estimated-to-achieve-cagr-of-49-by-2027-2020-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market|Top Company Profiles in sector and Key Figures to achieve CAGR of 42.68%"
+    excerpt: "GlobalArtificial Intelligence-as-a-Service (AIaaS) Marketis projected to grow at a CAGR of 42.68% from 2020 to 2024"
+    publishedDateTime: 2020-08-16T09:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-markettop-company-profiles-in-sector-and-key-figures-to-achieve-cagr-of-4268-2020-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

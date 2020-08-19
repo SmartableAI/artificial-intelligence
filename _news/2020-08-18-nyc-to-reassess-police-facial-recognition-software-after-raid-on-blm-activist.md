@@ -113,6 +113,22 @@ related:
         width: 635
         height: 357
         isCached: true
+  - title: "Advancements in Technology is boosting Growth in the Global Facial Recognition Market"
+    excerpt: "Global Facial Recognition Market Forecast” According to a new market research report launched by Inkwood Research, the Global Facial Recognition Market"
+    publishedDateTime: 2020-08-18T18:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17145044/advancements-in-technology-is-boosting-growth-in-the-global-facial-recognition-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17145044"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17145044"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://www.abnewswire.com/uploads/1597752312.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "‘Fawkes’ tool protects you from facial recognition online"
     excerpt: "A new software tool called Fawkes can \"cloak\" photos before you upload them to social media to prevent facial recognition algorithms from identifying you."
     publishedDateTime: 2020-08-17T14:35:00Z
@@ -127,15 +143,15 @@ related:
         width: 1600
         height: 915
         isCached: true
-  - title: "Police facial recognition robot identifies anger and distress"
-    excerpt: "A police force hopes to deploy facial recognition and behavioural technology that can spot anger and distress, in a widening use of artificial intelligence.Retrospective facial recognition is under"
-    publishedDateTime: 2020-08-14T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/police-facial-recognition-robot-identifies-anger-and-distress-65h0xfrkg"
+  - title: "'Masks' may test facial recognition cameras utility on I-Day!"
+    excerpt: "The Delhi police is using cameras equipped with facial recognition software to secure the Red Fort, where Prime Minister Narendra Modi will hoist the national flag on the 74th Independence Day. This is being done to screen suspects around the celebration area matching their faces with the available database of terrorists and criminals with the security agencies."
+    publishedDateTime: 2020-08-15T00:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20200815/3609760.html"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 19
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "lpuBu5C/KtTOtV4pLS7Q5jIuHej3jDv6YHOz0niwQRFqDpoipmLGHmPDaQoAYLCyDVdY9Y3Mol54xWDKQXtezaOxt1jmLpyzIoEGGTqCy8D8MhRI4kTSgNQF4nt57VEbQTiNvOJuosfaG0HR92E0dx9fL5RS4S5w9GxBsbP/+Lk6PUDu2KE80fhjW7b8kX4ebmZ2BkBKcX1sY/8mlSK58hsJzmryZtiIgNZqZflUFKe1FY69/itjJ3EoQVFDwLCKnsQEGoF1JHpYuhl1yyDPxzHkWupkXFUBuca+o3o9EL0D3CVJ1pfxYou760pHObDJlRoDObTUbi1JSi+Bd6HW+jQlvBPiknRsNm0SadNW9An2u4RSVfB+MyKjOfsR88esE3/Q6qNneTaQffq2Sdh9q6PByHJGugAktOMG3JsdZjvHpqvErz8Rv08GtQfck/Y24NiTFOO/eTHBdX3WQw6lySgwLCJDwICGuB1a6k4xHThn2u69lC6x9T02AR4aDtZm0+UPdq/rLvZgxYJp1TqzCw==;ERyEGaW7kbSkTvoqTys5ag=="
 ---

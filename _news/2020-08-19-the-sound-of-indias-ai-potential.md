@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google introduces AI-powered 'Sounds of India' app"
-    excerpt: "Google on Wednesday said it is offering a new AI-powered web app called Sounds of India that will allow you to sing Jana Gana Mana into your phone, karaoke-style and it transforms your voice into one of three traditional Indian instruments."
-    publishedDateTime: 2020-08-19T07:38:00Z
-    webUrl: "https://menafn.com/1100659356/Google-introduces-AI-powered-Sounds-of-India-app"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2020-08/19/I_1f381651-5image_story.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Google launches AI-powered 'Sounds of India' app"
     excerpt: "The Sounds of India experiment was made possible by machine learning models built with Google's ‘TensorFlow' platform to convert sounds into musical instruments (Bansuri, Shehnai and Sarangi). \"The day culminated in a rendition of the national anthem ..."
     publishedDateTime: 2020-08-19T05:34:00Z
@@ -58,6 +44,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Google introduces AI-powered 'Sounds of India' app"
+    excerpt: "Google on Wednesday said it is offering a new AI-powered web app called Sounds of India that will allow you to sing Jana Gana Mana into your phone, karaoke-style and it transforms your voice into one of three traditional Indian instruments."
+    publishedDateTime: 2020-08-19T09:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200819/3612117.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "jx1bq7YoKnyNvYwaMVZ5/kHfAyV+ZdAHPKeElzbO2J3ui4GbM8TlWCss3MJDbLQ9/U/7VD/3FKaAqa4QLXFEuepZ79i4ciKMDE3owG4C2egv+p+3eSr4DZGHtcVSzVWGK6obGvg5C1UyVzODl16UxhGFyjQiT8qTjPM+C2w+uosPPHP2M2TTj6+0/B27tYjFQiG9V5rPMEJvQYdAogeuzIc2gAJYb/TJkzWyJckxTC6zEOd3F4O1NTWwuIuuZ0qEfF1CRBsKola+R+kfc7ruzc/VKy/52qKscn64FUfhxz5IFCvy21MsuJyZlSzxY6QIiB7UEfj1kByf2/zTXVj1Mg==;u2S947CJ1G2DClMM3BwvMQ=="
 ---

@@ -19,134 +19,138 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Clearview AI landed a new facial recognition contract with ICE"
-    excerpt: "The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trump administration’s harsh"
-    publishedDateTime: 2020-08-14T22:48:00Z
-    webUrl: "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/"
-    ampWebUrl: "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/"
+  - title: "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate"
+    excerpt: "The trade group representing many of the largest technological security companies is urging regulators not to overreach on facial recognition restrictions even as U.S. lawmakers push to rein in police use of the software. The Security Industry Association ..."
+    publishedDateTime: 2020-08-18T11:50:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-992931802.jpg?w=1024"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iogtWuFQpWGA/v1/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "NYPD used facial recognition to track down Black Lives Matter activist"
+    excerpt: "Photo by Ira L. Black - Corbis/Getty Images The New York City Police Department used facial recognition software to track down a Black Lives Matter activist accused of assault after allegedly shouting into a police officer’s ear with a bullhorn."
+    publishedDateTime: 2020-08-18T09:29:00Z
+    webUrl: "https://www.theverge.com/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/wbKDmXcD3f3Xc3Al7cSJGKGlHQs=/0x0:5472x3648/1400x933/filters:focal(2299x1387:3173x2261):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67218774/1264758330.jpg.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "The best facial recognition cameras to buy in 2020"
+    excerpt: "Select home security cameras have facial recognition, a feature that lets you make a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of ..."
+    publishedDateTime: 2020-08-18T23:07:00Z
+    webUrl: "https://www.cnet.com/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-home-security-cameras-to-buy-in-2020-google-nest/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/BZx8A20yN8Le8NFHcd363ASKdQM=/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg"
+        width: 3413
+        height: 1920
+        isCached: true
+  - title: "British police to trial facial recognition system that detects your mood"
+    excerpt: "Lincolnshire police plan to test facial recognition and behavioral tech that infers people's moods and expressions by analyzing CCTV footage."
+    publishedDateTime: 2020-08-17T16:22:00Z
+    webUrl: "https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/08/17/british-police-to-trial-facial-recognition-system-that-detects-your-mood/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 88
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/08/Untitled-design-2020-08-17T150750.023-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Brain Relies on Face Recognition Systems to Perceive Faces"
+    excerpt: "just like computer face recognition systems such as those used by Facebook and Google,\" explains co-author Brad Duchaine, a professor of psychological and brain sciences and the principal investigator of the Social Perception Lab at Dartmouth College."
+    publishedDateTime: 2020-08-18T10:30:00Z
+    webUrl: "https://www.medindia.net/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/brain-relies-on-face-recognition-systems-to-perceive-faces-196927-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 54
+  - title: "Victory for campaigners in face recognition case is ‘cautionary tale’"
+    excerpt: "Organisations must absorb the lessons of verdict in South Wales Police case, when it comes to the use of AI and automation, argues HR director."
+    publishedDateTime: 2020-08-19T07:54:00Z
+    webUrl: "https://www.personneltoday.com/hr/victory-for-campaigners-in-face-recognition-case-is-cautionary-tale/"
+    type: article
+    provider:
+      name: Personnel Today
+      domain: personneltoday.com
+    quality: 54
+    images:
+      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2020/08/shutterstock_676438363.jpg"
+        width: 635
+        height: 357
+        isCached: true
+  - title: "Advancements in Technology is boosting Growth in the Global Facial Recognition Market"
+    excerpt: "Global Facial Recognition Market Forecast” According to a new market research report launched by Inkwood Research, the Global Facial Recognition Market"
+    publishedDateTime: 2020-08-18T18:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17145044/advancements-in-technology-is-boosting-growth-in-the-global-facial-recognition-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17145044"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17145044"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://www.abnewswire.com/uploads/1597752312.jpeg"
         width: 1024
         height: 683
         isCached: true
-  - title: "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE"
-    excerpt: "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week."
-    publishedDateTime: 2020-08-15T08:19:00Z
-    webUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876"
-    ampWebUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
+  - title: "NYC to ‘Reassess’ Police Facial Recognition Software After Raid on BLM Activist"
+    excerpt: "Ingram echoed the same sentiment as he spoke to the Gothamist following the police siege, saying, “We’re being specifically targeted with this [facial recognition] technology because of what ..."
+    publishedDateTime: 2020-08-18T15:11:00Z
+    webUrl: "https://thecrimereport.org/2020/08/18/nyc-to-reassess-police-facial-recognition-software-after-raid-on-blm-activist/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 104
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 50
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lvngekwv9r2xiehaguxj.jpg"
-        width: 800
-        height: 450
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/08/Screen-Shot-2020-08-18-at-10.49.37-AM-1170x803.png"
+        width: 1170
+        height: 803
         isCached: true
-  - title: "ICE Signs Contract With Facial Recognition Company Clearview AI"
-    excerpt: "U.S. Immigration and Customs Enforcement signed a contract with Clearview AI, a facial-recognition company that has sparked controversy over its use by law enforcement."
-    publishedDateTime: 2020-08-15T05:52:00Z
-    webUrl: "https://www.wsj.com/articles/ice-signs-contract-with-facial-recognition-company-clearview-ai-11597452727"
+  - title: "‘Fawkes’ tool protects you from facial recognition online"
+    excerpt: "A new software tool called Fawkes can \"cloak\" photos before you upload them to social media to prevent facial recognition algorithms from identifying you."
+    publishedDateTime: 2020-08-17T14:35:00Z
+    webUrl: "https://www.futurity.org/facial-recognition-fawkes-tool-2423462/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-221304/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Controversial facial recognition tech firm Clearview AI inks deal with ICE"
-    excerpt: "The US Department of Homeland Security (DHS) has signed a contract with Clearview AI to give Immigration and Customs Enforcement (ICE) access to the controversial facial recognition firm's technology."
-    publishedDateTime: 2020-08-17T09:21:00Z
-    webUrl: "https://www.zdnet.com/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/controversial-facial-recognition-tech-firm-clearview-ai-inks-deal-with-ice/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-  - title: "New York City says it will reassess police use of facial recognition"
-    excerpt: "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial"
-    publishedDateTime: 2020-08-17T22:45:00Z
-    webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2Fbce7cf20-ecf2-11e9-b372-50ae8ac12a88&client=amp-blogside-v2&signature=e638e7e15835c15f1e753686f1b886881e7c5556"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Global facial recognition company working closely with NZ govt"
-    excerpt: "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ..."
-    publishedDateTime: 2020-08-19T02:46:00Z
-    webUrl: "https://www.tvnz.co.nz/one-news/new-zealand/global-facial-recognition-company-working-closely-nz-govt"
-    ampWebUrl: "https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg=="
-    cdnAmpWebUrl: "https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDglMkYxOSUyRmZhY2lhbC1yZWNvZ25pdGlvbg=="
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 59
-    images:
-      - url: "https://news-image-prod-imgix.tech.tvnz.co.nz/content/dam/images/news/2020/08/19/iStock-1188510725.jpg?w=700&h=393.75&fit=crop&auto=format"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Convenience store boosts security with facial recognition technology"
-    excerpt: "For a start, the 24-hour convenience store has installed facial recognition technology on closed-circuit TV cameras at 100 of its 458 branches throughout the country, with an allocation of RM800,000."
-    publishedDateTime: 2020-08-18T00:46:00Z
-    webUrl: "https://www.thestar.com.my/metro/metro-news/2020/08/18/convenience-store-boosts-security-with-facial-recognition-technology"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Futurity News
+      domain: futurity.org
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "Global facial recognition company working closely with Government"
-    excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
-    publishedDateTime: 2020-08-19T01:46:00Z
-    webUrl: "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12357892"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 39
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/LPJS9sjmabN3rfygjtobjESobCE=/1200x0/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NC7R4CQRM5F37CYKZHOTPN5HQE.jpg"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "New report points to privacy, accuracy concerns with facial recognition technology"
-    excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
-    publishedDateTime: 2020-08-18T20:21:00Z
-    webUrl: "https://www.wpxi.com/news/washington-news-bureau/new-report-points-privacy-accuracy-concerns-with-facial-recognition-technology/QEWNWCGJAZD5ZJJU3UGHFFOUJM/"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 33
-    images:
-      - url: "https://www.wpxi.com/resizer/-nittaDLfS5Blfji2XXyH8wFsH4=/1200x628/d1hfln2sfez66z.cloudfront.net/08-18-2020/t_e409325f18a2475aaa8ef89c032632a0_name_https___www_whio_com__rw_Pub_p5_News965_2014_06_18_Images_photos_medleyphoto_5395453.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/08/fawkes-facial-recognition_1600.jpg"
+        width: 1600
+        height: 915
         isCached: true
 
 secured: "lQTi5pjbVYp2FMyLl6QWpSGDJ3Tdl8cZ7tVJy8P+opZDhSKse04o0OeFmmoGWOIBXmS4xgPKjub8E5Xoh7N37r1JybF+D+ZtL0DtJFkbxsWWukY0bB+iC7o+ZPRouXQ6TwkqO2Dag4p3HfKXpvD2F4f0dsfc7gFGBAQdQzIOdrTrmiFCJ4i8eDc4/j7P5hKxhlESSAfyES1pZ8+3f9G0Q/CA8CBsLNHCaOP1dRkkm8Q5QdkDV5kJgDcSDTo5m+iNlE3YCFG9jf6bE/Js3uo3ClDr9v2quN2mmheq/TAz3syvjynT+apG5QNiBjy61954bni5AZTJwsLw8mNioo38Bw==;Mq8ykKyvkH0CvB/HuQDhrw=="

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI landed a new facial recognition contract with ICE"
-    excerpt: "The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trump administration’s harsh"
-    publishedDateTime: 2020-08-14T22:48:00Z
-    webUrl: "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/"
-    ampWebUrl: "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-992931802.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Controversial Face Recognition Firm Clearview AI Is Teaming Up With ICE"
     excerpt: "In a pairing that has all the makings of a privacy and/or human rights nightmare waiting to happen, the dystopian facial recognition software maker Clearview AI secured an ongoing contract with U.S. Immigration and Customs Enforcement this week."
     publishedDateTime: 2020-08-15T08:19:00Z
@@ -81,20 +65,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 82
-  - title: "New York City says it will reassess police use of facial recognition"
-    excerpt: "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial"
-    publishedDateTime: 2020-08-17T22:45:00Z
-    webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2Fbce7cf20-ecf2-11e9-b372-50ae8ac12a88&client=amp-blogside-v2&signature=e638e7e15835c15f1e753686f1b886881e7c5556"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Global facial recognition company working closely with NZ govt"
     excerpt: "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ..."
     publishedDateTime: 2020-08-19T02:46:00Z
@@ -111,19 +81,19 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Convenience store boosts security with facial recognition technology"
-    excerpt: "For a start, the 24-hour convenience store has installed facial recognition technology on closed-circuit TV cameras at 100 of its 458 branches throughout the country, with an allocation of RM800,000."
-    publishedDateTime: 2020-08-18T00:46:00Z
-    webUrl: "https://www.thestar.com.my/metro/metro-news/2020/08/18/convenience-store-boosts-security-with-facial-recognition-technology"
+  - title: "QNAP QVR Face facial recognition solution for NVR and NAS"
+    excerpt: "Networking, and storage design and manufacturing company QNAP, as this week announced that its rackmount NAS models now support QVR Face, the QNAP"
+    publishedDateTime: 2020-08-17T11:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/facial-recognition-17-08-2020/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
-        width: 1240
-        height: 826
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/08/facial-recognition.jpg"
+        width: 700
+        height: 500
         isCached: true
   - title: "New report points to privacy, accuracy concerns with facial recognition technology"
     excerpt: "WASHINGTON, D.C. — More businesses are using facial recognition technology than in previous years and now it’s even being used to help monitor the spread of COVID-19. “The market is definitely growing,” said Alicia Puente Cackley, Director in the ..."
@@ -139,15 +109,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "'Masks' may test facial recognition cameras utility on I-Day!"
-    excerpt: "The Delhi police is using cameras equipped with facial recognition software to secure the Red Fort, where Prime Minister Narendra Modi will hoist the national flag on the 74th Independence Day. This is being done to screen suspects around the celebration area matching their faces with the available database of terrorists and criminals with the security agencies."
-    publishedDateTime: 2020-08-15T00:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20200815/3609760.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
 
 secured: "FFu9t1wHgo1DuiLqVuk2VM7LoWQBJkoFSJ5BWrIwR4dQYfiHwbmmo7/WkqYzoR3adLS/Fb5LlIL1slXO8R/txN7S0yYMXy9fTnUHpu8sHYpCtljvxCwXbqBkZv8vLmLTUvK8FFUlZtu4Bqe3gfKrqXFLzqe+poXZNV9mn7qWZKX9Qq4yIQ7RDPjtlCe7qqzTfEMhBZJgDbPdCvOqtoDrKEyBN/Z78hFsnVK5QN4+ijO85XZQW93hJXdnUW8mw82iPO/KbxRJ2LUl6bz1Kj2a2wKoN3nUl1eyYRG5ss64/HiDfqPDhVz9+dxINza6MspyMeY1/Acm/hgVjVd35UVFZrTDFgoHjyCH1Q4Dk9+ED+V5i8cVdE4rOtIL8E3FHLdF9r8CWVhL6TMGr/TAja+cRfuri8H2qInJSd+fzKW3nogthuMGISRGhuEpPQnsGqkGg7/3B0SJYZQovHXzTZLW83l8ajiqWHpcGKP/S7rMt2jKrNMT/iEvkv9Q9fTyqFE7T+tB2X/gbIn/cWrsUqLCMA==;oyxDpLCbWtRN15nCwEGOeA=="
 ---

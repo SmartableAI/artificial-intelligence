@@ -84,6 +84,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Convenience store boosts security with facial recognition technology"
+    excerpt: "For a start, the 24-hour convenience store has installed facial recognition technology on closed-circuit TV cameras at 100 of its 458 branches throughout the country, with an allocation of RM800,000."
+    publishedDateTime: 2020-08-18T00:46:00Z
+    webUrl: "https://www.thestar.com.my/metro/metro-news/2020/08/18/convenience-store-boosts-security-with-facial-recognition-technology"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "K7/t/ddLlvRQYG2tO4gijLeQe14faRuxPDOedEB8kZxPrN7YyACwJa/QuJyGEOEuN6M8ZVIUX4945ZWVzVmzusOuVBtFQSt9sYs74LtVSJ2hqe3/pdtBoHAv30ikOw07lrcGze0or0UTxJeGuNtniVJYW+K3N4x/aZxH4LmEYMs2sT5hj84KONZ4QX1ON0fVPGsbjdpj4LqEfMUKEiNTDtNxmexu3UtVfTwjMnKSUvunNyFJ8vx+R9RA8VMft52zn606rWUE7+uWfIKIZzeqLR77kc1jbp4yAZA8WD1qss+eeLF2D8FTuicuqbXsYI6KxQKZxxO44/Xm7w38Wc+nLPddMwFys9qsIhBNY8j0jI0AeLv1PWc+cXvrI/yzkMQOpBlfr0CryFfmt1fDzfJoe+f15ziX+tt8iBSPCl0ZRngFlAXWhHWHgxpTP+ia1R7EuMpQNWpPC8jsnxnEdtfsxoMHSg+zkUZC+xSeISeKdNWuSw9PA2IOAzPgS/ZC7SpP9JekkBFAa2LdfsleZrXomw==;qgm7ZQq8pRJcEAgdxg7FFQ=="
 ---

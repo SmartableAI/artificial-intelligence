@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Convenience store boosts security with facial recognition technology"
+    excerpt: "For a start, the 24-hour convenience store has installed facial recognition technology on closed-circuit TV cameras at 100 of its 458 branches throughout the country, with an allocation of RM800,000."
+    publishedDateTime: 2020-08-18T00:46:00Z
+    webUrl: "https://www.thestar.com.my/metro/metro-news/2020/08/18/convenience-store-boosts-security-with-facial-recognition-technology"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "NYPD Used Facial Recognition Unit In Siege Of Black Lives Matter Activist’s Apartment"
     excerpt: "The NYPD has previously stated that the technology is used to gather leads on suspects for crimes, such as robberies and shootings, not to identify people in crowds or at rallies"
     publishedDateTime: 2020-08-14T23:08:00Z

@@ -66,6 +66,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
+    excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
+    publishedDateTime: 2020-08-19T15:03:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135039/artificial-intelligence-in-education-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "K2X8y6YCImLetCguDF0nRxBnXNZhMDlcnHNqFefNKGKrW55LNOca6O4vw9Hlxc0EbwIfNn3EBXZ2/2V4JysqcXPgBvqy7kfzsKVdzGH36IvYp0Mkv3KmrdLfsFCCFm8zQunMcIHjY/soGUkas/AXWi/llmVF0TQfGN2EGOJEQGywltkku7IiokRr+MJ2UFoPXjXdugWoCf5nlpv6Izd1O7MW/XpW/WuxDVK6fg0dwk4s2ZbaF/uAIl951HtHaprMR3zeQ3Y1iKc1PVejLjvqM89A6ZoNzmJAEK01GcuQ76nKv7pbpjCyPGYGMN3nj3QWonYFh9ingV27zevRHTKq1g==;P+ilvdpFq4KlsY8c721UQg=="
 ---

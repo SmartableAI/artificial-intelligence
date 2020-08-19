@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/19/adobe-launches-ai-powered-charact
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/adobe-launches-ai-powered-character-animator-features-in-beta/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "JHyk3Hgf5eSXKrg1oTc4EfigxyJUTVKkze3bluBv80qoS4roIibxjDgU/tQBQgMEtoHuPNV3DcFAx8FCBhwtnaMhtEcxryUs6lbhGH5Tl2UO0NDV6ImdGo1/T8lKn3mB0DRZkwA1q94SFGX0BE5Km9RYTjA4fNtQnIIfqvB/e36pFIDcpqGZ4vhNXAeDomnoIoSW5kAYgfXbqyqeaZokMQIWzpjBdVzfcZ4ioI759EkC76xnx17+T0JZ/Ru1Y6NDMfJ8twaq8IkVJOCUIiPvPYVTKozNc4Ye/P2TegoVT2g5iaWRMGkxbCdipxJv9Zzijq/ya1UyTFArQamFOuEcog==;P2EALQt5B1K8Gz4C+ZMthA=="
+secured: "10c0MUxPsoHFFaHpp8bZlKjvFOzfPKPr+B/fCaABki9Hqk7Bta6y8kQx3bBGCKG1fT73osL0vnvRSkPmBETctoZQu+9AEFPaE62SMuWGiqBfzVdGefW0vJLG7Aphkyc/IpQks8BtYvJHi9RAYf1TJ8I7wLzIrFGFGAQXux2op8GIm0px1N7uC84i5B7YkZml18SCpjebD3AC01yl4BQiEcJ7jgN/rpYKfZ8vVLIP7GV3WFs58ePLs639oEZfLmSYEM6PRNgTjW3lmmWid5EAcbKR+A4SygvGCPGnj0wFrubAqp5LyPVmh8gS11qW0mXPz6U/y8GniHAG7HpdeAzf5XcrolpwAYsQtbG+I7zsiiYM58pS9dUciNTBeY66BeOFAEtiuQFJCf/jOaI/aF5pE7WLX9NNLfmBZ2k2YNV0pgrvYbIEj2CbD2Z4Puc1F+qV0dOkI8vTF1FTZ7HotGSw4hQVPCd4CkTKKe6D72SHz/45gYRwMhEt5t0kqg8k7FF8J03rno4BGfQAbd4NtBbL+Q==;T7rqCBDxN+ZJi0nyX6h2Ng=="
 ---
 

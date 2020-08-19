@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-lang
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/researchers-at-facebook-ai-nyu-langone-push-speed-limits-of-mri-11597755600"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook and NYU Langone's jointly developed machine learning solution can accelerate MRIs"
+    excerpt: "Facebook AI Research and NYU Langone released results of a blind test revealing the effectiveness of their AI system to accelerate MRI scans."
+    publishedDateTime: 2020-08-19T13:30:00Z
+    webUrl: "https://www.businessinsider.com/facebook-nyu-develop-ai-to-accelerate-mri-scans-2020-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://i.insider.com/5f3d25c6cdf25a001e84e190?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facebook AI researchers give MRI scanners a machine learning boost"
     excerpt: "The AI then compared its reconstructed images with the original full-resolution knee scans to hone its accuracy. Facebook’s researchers experimented with several thousand model variations before ..."
     publishedDateTime: 2020-08-18T17:41:00Z

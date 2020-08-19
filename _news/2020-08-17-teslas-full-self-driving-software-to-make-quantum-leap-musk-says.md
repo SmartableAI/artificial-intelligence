@@ -74,17 +74,6 @@ related:
         width: 8688
         height: 4887
         isCached: true
-  - title: "Elon Musk: Tesla Full Self-Driving is going to have ‘quantum leap’ w/ new rewrite, coming in ‘6 to 10 weeks’"
-    excerpt: "Elon Musk says Tesla’s Autopilot/Full Self-Driving (FSD) rewrite is going to result in “quantum leap” improvements, and the rewrite is going to be pushed to the fleet in the coming “six to 10 weeks.” As we recently reported,"
-    publishedDateTime: 2020-08-14T22:39:00Z
-    webUrl: "https://electrek.co/2020/08/14/elon-musk-tesla-full-self-driving-quantum-leap-new-rewrite/"
-    ampWebUrl: "https://electrek.co/2020/08/14/elon-musk-tesla-full-self-driving-quantum-leap-new-rewrite/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/08/14/elon-musk-tesla-full-self-driving-quantum-leap-new-rewrite/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 50
 
 secured: "sCkS073j9sRdFHcOwV8mhlq4so1FhaxNOwciuOabVaICEav2M1KizWtb6LSqp0YRxyRz5u8I7/+2boHxlGrOBbh6HQNxlZUuuEwqpSyCZB1qCBllPFXzF1AeF9Xrn18/zcPCEeN+Tr0sCy8tqkCqHr5nmB4zUBOqAFgpDp9fgcv7ukbe8a6xSqXRDmRNuJXxckK0FKFhJpA1iDdXPJgtEi7maS9Ujm0VqWrKY6hLrqP28/L4HOu3apUBk9/pKYWPBV8dKr/cMC9YaqK4Q+3bSqWxRvyNHD2ZXwrNRuStkwBWvcFzzwmuVNhT9dbZylfcSnbpJF+VdSTbT7YP9UH69Q==;FL2AD1/lZ8q2EZTZCCqNvw=="
 ---

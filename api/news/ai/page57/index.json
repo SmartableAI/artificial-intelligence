@@ -2,6 +2,304 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-buys-self-driving-technology-company-zoox.md",
+      "title": "Amazon buys self-driving technology company Zoox",
+      "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105525572-1540337875521main.00_02_15_18.still007.jpg?v=1540337919",
+          "width": 1920,
+          "height": 1080,
+          "title": "Amazon buys self-driving technology company Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "publishedDateTime": "2020-06-26T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
+      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo’s global brands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUSKBN23W2V0",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V",
+          "width": 817,
+          "height": 545,
+          "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23W2V0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23W2V0",
+      "publishedDateTime": "2020-06-26T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-artificial-intelligence-market-by-offering-by-technology-by-region-trends-analysis-and-forecast-till-2025.md",
+      "title": "Artificial Intelligence Market By Offering, By Technology, By Region - Trends, Analysis, and Forecast Till 2025",
+      "excerpt": "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-offering-by-technology-by-region---trends-analysis-and-forecast-till-2025-2020-07-01",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market By Offering, By Technology, By Region - Trends, Analysis, and Forecast Till 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-26T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-15-tech-experts-share-potential-impacts-of-ai-on-society.md",
+      "title": "15 Tech Experts Share Potential Impacts Of AI On Society",
+      "excerpt": "AI could prove a powerful tool in addressing certain societal problems; however, as with any new technology, it may cause problems, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/26/15-tech-experts-share-potential-impacts-of-ai-on-society/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef4b263b002b30006d82ab0%2F0x0.jpg",
+          "width": 1200,
+          "height": 683,
+          "title": "15 Tech Experts Share Potential Impacts Of AI On Society",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/26/15-tech-experts-share-potential-impacts-of-ai-on-society/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/26/15-tech-experts-share-potential-impacts-of-ai-on-society/amp/",
+      "publishedDateTime": "2020-06-26T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-robotics-in-business-everything-humans-need-to-know.md",
+      "title": "Robotics in business: Everything humans need to know",
+      "excerpt": "3D gaming sensors are helping robots navigate the clutter of the unstructured human world. And companies like Google, Amazon, and Apple have been hard at work bringing limited Artificial Intelligence platforms online and into homes. This has all been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robotics-in-business-everything-humans-need-to-know/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/02/07/0d0d7aa7-1578-4781-b083-4913601d89dc/resize/1200x900/831cf0856b72eff833dd5e676a5302e9/20170207104736-intro.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Robotics in business: Everything humans need to know",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robotics-in-business-everything-humans-need-to-know/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robotics-in-business-everything-humans-need-to-know/",
+      "publishedDateTime": "2020-06-26T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-embracing-ai-technologies-while-harnessing-the-power-of-the-heart.md",
+      "title": "Embracing AI Technologies While Harnessing The Power Of The Heart",
+      "excerpt": "When the world is moving so fast and the speed of change is dizzying, we must remember who we are to remain fully human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F943181920%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": "Embracing AI Technologies While Harnessing The Power Of The Heart",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/",
+      "publishedDateTime": "2020-06-26T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition.md",
       "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
       "excerpt": "\"My workplace doesn’t work for quiet people.\" Peter describes himself as quietly confident. He's used to being recognized for his achievements by his bosses. However, when the new director (less appreciative and more of an alpha type) appeared in his company,",
@@ -1081,286 +1379,6 @@
         "Facebook AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-ai-system-designed-to-aid-or-perhaps-replace-human-lifeguards.md",
-      "title": "AI system designed to aid – or perhaps replace – human lifeguards",
-      "excerpt": "Lifeguards do play a vital role in the prevention of drownings, but at large busy beaches, they can't always keep track of all the swimmers at all times. That's where Sightbit is designed to come in,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/outdoors/sightbit-ai-lifeguard/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/02e33c7/2147483647/strip/true/crop/884x589+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbb%2F70%2F6ea849894374b9603d9d13d5ba5a%2Fscreen-shot-2020-06-25-at-1.29.25%20PM.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI system designed to aid – or perhaps replace – human lifeguards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/outdoors/sightbit-ai-lifeguard/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/outdoors/sightbit-ai-lifeguard/?amp=true",
-      "publishedDateTime": "2020-06-25T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-building-a-speech-to-text-notification-system-in-different-languages-with-aws-transcribe-and-an-iot-device.md",
-      "title": "Building a speech-to-text notification system in different languages with AWS Transcribe and an IoT device",
-      "excerpt": "Have you ever wished that people visiting your home could leave you a message if you’re not there? What if that solution could support your native language? Here is a straightforward and cost-effective solution that you can build yourself, and you only pay for what you use. This post demonstrates how",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-speech-to-text-notification-system-in-different-languages-with-aws-transcribe-and-an-iot-device/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/10/transcribe-iot-1.gif",
-          "width": 813,
-          "height": 331,
-          "title": "Building a speech-to-text notification system in different languages with AWS Transcribe and an IoT device",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T13:10:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-ohio-using-ai-to-cull-old-laws-and-streamline-regulations.md",
-      "title": "Ohio using AI to cull old laws and streamline regulations",
-      "excerpt": "An AI tool developed by Deloitte is helping Ohio eliminate redundant and unnecessary regulations and rules that cost businesses and taxpayers time and money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ohio-using-ai-to-cull-old-laws-and-streamline-regulations/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/25/418377cc-9cf5-4639-b5f1-d1e8af3939f8/resize/1200x/237d79a99b4d77aaeb03fe8decb12465/istock-1252246565-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Ohio using AI to cull old laws and streamline regulations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ohio-using-ai-to-cull-old-laws-and-streamline-regulations/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ohio-using-ai-to-cull-old-laws-and-streamline-regulations/",
-      "publishedDateTime": "2020-06-25T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-volvo-will-use-waymo-technology-to-power-its-self-driving-cars.md",
-      "title": "Volvo will use Waymo technology to power its self-driving cars",
-      "excerpt": "Volvo will use Waymo technology to guide its self-driving cars, including one built for ride-hailing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/volvo-waymo-self-driving-car-partnership-192450966.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F330f5320-b715-11ea-8bff-ded22acc56bd&client=amp-blogside-v2&signature=aa6885b83be1e636943df5f7d64dfe77790ff3a4",
-          "width": 600,
-          "height": 350,
-          "title": "Volvo will use Waymo technology to power its self-driving cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html",
-      "publishedDateTime": "2020-06-25T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-volvo-waymo-partner-to-build-self-driving-vehicles.md",
-      "title": "Volvo, Waymo partner to build self-driving vehicles",
-      "excerpt": "Waymo will focus on the artificial intelligence for the software \"driver.\" Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo's global brands ...",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/volvo-waymo-partner-build-self-driving-vehicles",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Volvo%20grille%20new%20web_0.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-databricks-donates-mlflow-project-to-linux-foundation.md",
-      "title": "Databricks Donates MLflow Project To Linux Foundation",
-      "excerpt": "MLflow is available on Azure and AWS as a managed MLOps platform which comes with tight integration with Azure ML services and Amazon SageMaker. With MLflow project becoming a part of the Linux ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "publishedDateTime": "2020-06-25T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

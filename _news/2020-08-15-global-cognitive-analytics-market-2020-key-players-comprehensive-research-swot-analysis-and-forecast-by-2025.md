@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-15T00:32:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-08-12"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -26,52 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
-    publishedDateTime: 2020-08-14T23:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2020-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Video Analytics Market 2020: Drivers, Restraints, Opportunities, Threats, Trends, Applications, Growth Analysis and Forecast To 2025"
-    excerpt: "The Global Video Analytics Market was valued at USD 2.06 billion in 2016 and is projected to reach USD 28.6 billion"
-    publishedDateTime: 2020-08-17T07:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-market-2020-drivers-restraints-opportunities-threats-trends-applications-growth-analysis-and-forecast-to-2025-2020-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Next Big Thing | Major Giants Alphabet, Apple, Harman, Inago, Lumenvox"
-    excerpt: "Global Voice Recognition Market Size Status and Forecast 2019 2025 is latest research study released by HTF MI evaluating the market highlighting opportunities risk side analysis and leveraged with strategic and tactical decision making support The study provides information on"
-    publishedDateTime: 2020-08-15T03:55:00Z
-    webUrl: "https://www.openpr.com/news/2113396/voice-recognition-market-next-big-thing-major-giants-alphabet"
-    ampWebUrl: "https://www.openpr.com/amp/2113396/voice-recognition-market-next-big-thing-major-giants-alphabet"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113396/voice-recognition-market-next-big-thing-major-giants-alphabet"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
-    images:
-      - url: "https://cdn.openpr.com/T/8/T815955397_g.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "dyYXKd6ggQABh9HFXD3OKEb0x5+9kn5XAawI6CCP+3I2i6dNp/htaDWSwumNCvJjbwVpUtFcm5Pgwz1LdnoDCaTsqfht9m/9HmEhev9RIGnS+Gadxc32pRaFWdATKBGKz47KOhFdF9GgaS3RdB8A87rYAJSwDdDjr5kIMtQMAH9FiO85RiN5ONlpxW+LMrCZgfiaM9bPmxsKZdYZoXKz2c0827u8nVpYyp+zBY3kXeXcqOE5aKKAB3E50Rnl8maZji8PnvaX5vK5EbaMOukzwg38MtYbQrewL2eLBx7bXPu55h0a7QOhwQDhBghHEfVKHNf1KZC6cx2HgJ2yLhmiOQ==;HzVjTVwcVuMBESH4DfwzMA=="
 ---

@@ -42,18 +42,13 @@ related:
         isCached: true
   - title: "Google introduces AI-powered 'Sounds of India' app"
     excerpt: "Google on Wednesday said it is offering a new AI-powered web app called Sounds of India that will allow you to sing Jana Gana Mana into your phone, karaoke-style and it transforms your voice into one of three traditional Indian instruments."
-    publishedDateTime: 2020-08-19T07:38:00Z
-    webUrl: "https://menafn.com/1100659356/Google-introduces-AI-powered-Sounds-of-India-app"
+    publishedDateTime: 2020-08-19T09:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200819/3612117.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2020-08/19/I_1f381651-5image_story.jpg"
-        width: 400
-        height: 300
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "3K4hm/r3Ql08NCNQK1mj8/pLia8HTT3cnh5E3fWVnh8pxvCzKCqz3eI4vHD/Xl09t/aVblxSBiBFvBZ9y+PJEJbnHPj5paa5Qrl0vs/p+piREDnYUayHJYsmzjj5xrqhIhKHmptjderVVlGJhSYLZpc91XgyX/OHUrl42tnICwgcTk8BLUlIO2C8wtsyaF27TJNXdpNha+2lYC4Gmh5tHbFcEl6VpRZ4JscNF40kA2Fm4APu0V4dUW85G6KW7iIGwtfv/Q72Bz/+e6UODCi+KqunEXmKFUl5Q8rO67GxSPzNUdI2kPyKvveiTlTXphNaB6PReIPThh3YTIy8EYbYuw==;tUXVJtGzT+pSsknWWftSJA=="
 ---

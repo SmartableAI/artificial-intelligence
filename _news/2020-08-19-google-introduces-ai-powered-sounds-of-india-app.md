@@ -2,26 +2,20 @@
 category: news
 title: "Google introduces AI-powered 'Sounds of India' app"
 excerpt: "Google on Wednesday said it is offering a new AI-powered web app called Sounds of India that will allow you to sing Jana Gana Mana into your phone, karaoke-style and it transforms your voice into one of three traditional Indian instruments."
-publishedDateTime: 2020-08-19T07:38:00Z
-webUrl: "https://menafn.com/1100659356/Google-introduces-AI-powered-Sounds-of-India-app"
+publishedDateTime: 2020-08-19T09:57:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200819/3612117.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2020-08/19/I_1f381651-5image_story.jpg"
-    width: 400
-    height: 300
-    isCached: true
 
 related:
   - title: "The sound of India’s AI potential"
@@ -55,6 +49,6 @@ related:
         height: 367
         isCached: true
 
-secured: "FMpSFekanPf5Lpzyr7GoFGgFthmKdC3jvUosjW0SgkIpqL5sYBuKtVZRiicS62m260gRA1IYUn9Yqti+4m3t5cnRRvZNNZiAFTyM86r4oKTDbSKFtdZ5rI0/N+BF8tnvXTRuw2AXHmSqa89vUhVGm7DtbNsfDecqbNBllivetVIMtPbfSOjWbwRXHJ6ZcptkMqnGkq2YRa/AxbVuyNhmtqe1W0apMcYmvntwUg5EJFQQzA0F4gdWTP+IHHacN+BE5S0rzHZOjA0Rf3MWWobvp4yuk+nGk6cxM5hy/Ej/0crSzK35yJLk0K58OBNGgKxzzeKNL/oxr9+ELH1zAqLEy4Ln4vhke3xzStNfJ7SEgWm3zZDCxojV/4bzhb8QOff2ux1pINXUftEd1dK7pmDrqsOUEnreRe51i2U6BOiPfLEyoDNsbf7cFMyepjP+8/XRsH83bIpPHgL2ig+BZWVJipBIIjM1GjxURiio7Z41sPjPLTAM7mX5beYrzAY18ahctUvNpvV8UO3NHgsqFKT3VQ==;Qp+fizRYKFThzPTT0d+Jdw=="
+secured: "EawJ1pkRmTFfVAr6INe5PXfOcJVLiJpFTnOzrscTLDMI3aneM3Bw25ClsaIzvnkSJiix5c7onlyN7ycMBMwE9LYiPF69NT/j9bBVaQDRdVJcnvqCKPSoHMiwCGA7hBwqigf0/uVvMLJuZpPi/YzRGIN0URDBiC7sD8TLpdEWAJTNhBBlR1jqS8HWVrjLc08kP5dudlP+RaiWqKVqngAcvgetm6jRJo8H2hEGWEtc4TSm6rGYLY1Dk+fiIVyng/tA32uojbZFSlELdBSruLOku7w7ez/dyjGQsv1WZFXP4Ro6V9ZRijcS4QSmZpRxxgxVQTLpi7F0V9vsg9jyr4HwbA==;kWps0dAI6e8V0BGkG4X37Q=="
 ---
 

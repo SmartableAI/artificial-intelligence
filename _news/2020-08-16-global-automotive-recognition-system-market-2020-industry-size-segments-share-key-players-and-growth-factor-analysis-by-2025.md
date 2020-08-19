@@ -28,29 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast"
-    excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
-    publishedDateTime: 2020-08-15T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14"
+  - title: "Facial Recognition market - What Are The Main Factors That Contributing Towards Industry Growth?"
+    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
+    publishedDateTime: 2020-08-19T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market 2026 | Share, Global Growth, Overview, Size, Opportunities, Leading Company Analysis and Key Country"
-    excerpt: "and Support and Maintenance), By Technology (Barcode Recognition, Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented ..."
-    publishedDateTime: 2020-08-18T07:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country-2020-08-18"
+  - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
+    excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
+    publishedDateTime: 2020-08-14T23:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2020-08-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

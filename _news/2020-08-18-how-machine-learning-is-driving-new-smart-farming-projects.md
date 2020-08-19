@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T15:47:00Z
 webUrl: "https://www.zdnet.com/video/how-machine-learning-is-driving-new-smart-farming-projects/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

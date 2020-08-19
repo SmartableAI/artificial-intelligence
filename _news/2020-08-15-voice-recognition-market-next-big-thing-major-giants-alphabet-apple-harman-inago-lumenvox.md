@@ -26,15 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
-    publishedDateTime: 2020-08-14T23:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2020-08-09"
+  - title: "Voice Recognition Market to Experience Significant Growth during the Forecast Period 2018-2025"
+    excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
+    publishedDateTime: 2020-08-17T14:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-to-experience-significant-growth-during-the-forecast-period-2018-2025-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -49,20 +49,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cognitive Analytics Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025"
-    excerpt: "Global Cognitive Analytics Market 2020 by Company, Regions, Type and Application, Forecast to 2025 is generated"
-    publishedDateTime: 2020-08-15T00:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

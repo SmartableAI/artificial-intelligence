@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-networ
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/elon-musk-says-tesla-developing-neural-network-training-computer-full-self-driving-50129"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -75,17 +75,6 @@ related:
         width: 8688
         height: 4887
         isCached: true
-  - title: "Elon Musk: Tesla Full Self-Driving is going to have ‘quantum leap’ w/ new rewrite, coming in ‘6 to 10 weeks’"
-    excerpt: "Elon Musk says Tesla’s Autopilot/Full Self-Driving (FSD) rewrite is going to result in “quantum leap” improvements, and the rewrite is going to be pushed to the fleet in the coming “six to 10 weeks.” As we recently reported,"
-    publishedDateTime: 2020-08-14T22:39:00Z
-    webUrl: "https://electrek.co/2020/08/14/elon-musk-tesla-full-self-driving-quantum-leap-new-rewrite/"
-    ampWebUrl: "https://electrek.co/2020/08/14/elon-musk-tesla-full-self-driving-quantum-leap-new-rewrite/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/08/14/elon-musk-tesla-full-self-driving-quantum-leap-new-rewrite/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 50
 
 secured: "hXjP5Kf6UzGzM7x87rc+L0dnnVNjlqiX9Ax8a9b8gt++cs12S9Ata0cCM+/DOhYjgRTnKKB4AEzO3/Ugtw+GfDzBW+dHJ+L2DZIL2Lp0fNViZ3H3uD/Y2xhtFiM3g8wHytqIJKgA7pMzRNIPEzFoFHr0htChqZprgC6nbpwtTFTyk3SbWNQ/g4ugBi1Njv0mpgkM5yNeboylpDoEGy98N5oiT3FsMMBMsRsLS/HdKhGkgOxS/VfmnMsb9WrnpQbZigHL613LC5+Jbn+Mch58fQxo43uHa0bfYRIOOHaa3tRg0c0yd/iL+BE2qLLHJghTW97l0fWD1NAs1zQOngazyvaQJ68pxLB5InkrUSKtMegex2kE6xrXH36z/SDGSt1vXHXduAG4J4FO/ue0hNgwsxLKC3hGk8oU8RnckjjcSBhcVbLp04CeayBMqknhczgQ/VuOPLP1YhH8fuqPUrOAXyHmkSRWtstqJbf2oGWza3duixZEthwxQxkFATYDAvua;De3rCCkQMw9iq6FlFEz8Tw=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
 excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
 publishedDateTime: 2020-08-19T07:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -100,7 +100,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market: Future Technology, Growth ,Trends , Opportunities and Key Players Analysis Report 2023"
+    excerpt: "Global deep learning market is relied upon to observe significant development during the conjecture time frame. North America is assessed to be a prominent area for deep learning market because of the nearness of key market players, vigorously putting ..."
+    publishedDateTime: 2020-08-18T19:45:00Z
+    webUrl: "https://ipsnews.net/business/2020/08/18/deep-learning-market-future-technology-growth-trends-opportunities-and-key-players-analysis-report-2023/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
-secured: "sh97/I0hYfV+3WcCPbWu128WKio9j8YygwLux9beT6qahu+z2SIFuqlwTZoHQs535RW/cu1aKK7cXc3pdLWvBly8Wz54DJdrJ2PhP67YwVu9NaAS1+eCz2FspEddBiidIT0RaAYexx2hrxePJUzc0YIpKBj4mf/o4b+tydS+GmGwYOvVQ+CPCea2UfwGjrIY2f1nY0HWmsoy5VnCimAWtT9m3j9RNxspBpl/movXS6jmBMJ1itNqi1IQyBVyahwB5kth40ct2w6M4hnY5r2v6tS8VK86lnDDGJQWiVCeAbc6K8A3EWlIGzBu4DzHdWLWHZW0APcrTlOI6Q7hskuvyw==;ib3XJp8Qie+H1fWC1WryKQ=="
+secured: "0kpEDTXZjrur6c/lQSi0AHAVp6SCAm7LVkAeeqgdgRGq30GMIl0a9j7eTpxo5A5s8fSXXHPoU5kvR3Mq31SMVr0TqWjwCxN4i26xiRlAbIrnqCS0b/sIIsex6az6VVDJ+ARA+pcWiPlX+gETAhBwDawlK4ryq4iwNJGSpSnjTIFEJGI/qaEFAAgppodM7LneE5DDALpmIPWc9wT3hargTtNnMnkpeVrYrvA5Qc8LeX9t1ogxTBuzmgX/oBKqK1qEZDGqW66r0T8aavHuVYqFkpHI8hsWudRm73eD5FEPWy1mMb2Xu9tE22ckKKfB3y9DrzwIqXhhcyXDPmsAp41nLQ==;JFeAyUu9AwD6S/XbTcRwnw=="
 ---
 

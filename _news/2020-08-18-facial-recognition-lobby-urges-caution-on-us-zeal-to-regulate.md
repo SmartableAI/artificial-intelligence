@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-08-18/facial-recogn
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
         width: 635
         height: 357
         isCached: true
+  - title: "Advancements in Technology is boosting Growth in the Global Facial Recognition Market"
+    excerpt: "Global Facial Recognition Market Forecast” According to a new market research report launched by Inkwood Research, the Global Facial Recognition Market"
+    publishedDateTime: 2020-08-18T18:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17145044/advancements-in-technology-is-boosting-growth-in-the-global-facial-recognition-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17145044"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17145044"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://www.abnewswire.com/uploads/1597752312.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "NYC to ‘Reassess’ Police Facial Recognition Software After Raid on BLM Activist"
     excerpt: "Ingram echoed the same sentiment as he spoke to the Gothamist following the police siege, saying, “We’re being specifically targeted with this [facial recognition] technology because of what ..."
     publishedDateTime: 2020-08-18T15:11:00Z
@@ -131,15 +147,15 @@ related:
         width: 1600
         height: 915
         isCached: true
-  - title: "Police facial recognition robot identifies anger and distress"
-    excerpt: "A police force hopes to deploy facial recognition and behavioural technology that can spot anger and distress, in a widening use of artificial intelligence.Retrospective facial recognition is under"
-    publishedDateTime: 2020-08-14T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/police-facial-recognition-robot-identifies-anger-and-distress-65h0xfrkg"
+  - title: "'Masks' may test facial recognition cameras utility on I-Day!"
+    excerpt: "The Delhi police is using cameras equipped with facial recognition software to secure the Red Fort, where Prime Minister Narendra Modi will hoist the national flag on the 74th Independence Day. This is being done to screen suspects around the celebration area matching their faces with the available database of terrorists and criminals with the security agencies."
+    publishedDateTime: 2020-08-15T00:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20200815/3609760.html"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 19
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 21
 
 secured: "z9InDeLavJP/bmWrKr0nCon5LwcOpbmIYDhw8b/U7KNkRAeN0AEi4UZvwfJaj5bIGlnMfrf6b69Hk7xkds8/CVk+FJFtPVKt2CrU7hv196b/Wm1oBjlkxzayVsZHHZFe60UDxcWkpAfn/x1Jru8v2SmmAZ5OLj7/8HdmRcLzTTVBL8K7/hbvdieqfw9JS/0OMvZq/fcKy6Sma+ex0CeitS7CK387S/Qy3K2rIciHAF9rHjef0KmRNZJEsZRT0f1HGUpkP0VW49tyashA7QdEsc7UKeU7wVO9Fis1w3qeoVM1TlWhFu/JU7mD7dYNhzIgok2gnRvPhIrQ4LVie+YJaA==;BAHqHgxxKWbok+hJ2BZjmA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T13:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "Artificial Intelligence in Education Market Global Industry Analysis Segments Top Key Players Drivers And Trends To 2029"
+    excerpt: "Trends In Artificial Intelligence in Education Market 2020. Straits Research announces the addition of its new research report titled, “Artificial Intelligence in Education Mark"
+    publishedDateTime: 2020-08-19T15:03:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/135039/artificial-intelligence-in-education-market/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "aLdwuAFUep/5omdO2g5vQazmEAcNT7T+7mvqxyf4mPNXdNvMmp51Fwnwpu1M7JRh0iUCocQ9GLkZ2T2NAB35kpsKO3nZgN5Q6EDHjHMfqZSLLsr3d3Y2O+YRiN+48scksCaIfg5MS6Qed/xswSlcQ1Se1/flrGC6P7xsQrFgy2QRFIHDBd6SMXSbfzpvZglXAbCEeEssRDCJ2m03iXqWriMYkRxJCg4KJ3/0qllqHvGtf7gr1FZem8Oo4U5W+6PJMx1wlWX5eE6w4ZSUXx2vovSnw+JCVBTs6rLIpQuO2tlu5EMPiKWLCEb+G+aMug6JYVIMxfP83u8J2zcyOM7Nbw==;42BeLyDpx5vZKESF7qn/YQ=="
 ---

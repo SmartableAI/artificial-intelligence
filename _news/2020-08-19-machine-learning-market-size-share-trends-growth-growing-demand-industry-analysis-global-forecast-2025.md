@@ -32,7 +32,7 @@ related:
   - title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
     excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
     publishedDateTime: 2020-08-19T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news&tesla=y"
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19"
     type: article
     provider:
       name: MarketWatch
@@ -101,6 +101,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market: Future Technology, Growth ,Trends , Opportunities and Key Players Analysis Report 2023"
+    excerpt: "Global deep learning market is relied upon to observe significant development during the conjecture time frame. North America is assessed to be a prominent area for deep learning market because of the nearness of key market players, vigorously putting ..."
+    publishedDateTime: 2020-08-18T19:45:00Z
+    webUrl: "https://ipsnews.net/business/2020/08/18/deep-learning-market-future-technology-growth-trends-opportunities-and-key-players-analysis-report-2023/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 0
 
 secured: "ggF4v+Q9XlAc0qwJkhKw2+RO2Y5gfey45E59/eUA9u1xJIC75rw09v5L2L7oVf7D6cF5YJ9qh6WuA6ZOV9ZAaam8vOFmq7vOGk222zMIBZgIVC0ZfplvumiAEfOAPEnjFwAteUvXhEu5IJpk+YGOR75TmcPUv80plKJ2sKjkeeZKwyrnpr5D2TvHlyvHhwaxJQNDfYLI1MBBFTrQU0dFd4tCMz3UMUTR99WXb3uiDZXm16qgITd+BK2nlXAsU5nDF9B7KBu2/fKx6ZFykvr7tfvXm6IdXSsw73pH36KFgLs7LtjZerH81Y3dHpEXRx+tAVe3IQUOVQ6Uu6pnJZvPtA==;PCMppYofsVUYEcrP46dXBA=="
 ---

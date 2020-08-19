@@ -8,8 +8,8 @@ ampWebUrl: "https://gizmodo.com/controversial-face-recognition-firm-clearview-ai
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/controversial-face-recognition-firm-clearview-ai-is-tea-1844733876/amp"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: Gizmodo
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI landed a new facial recognition contract with ICE"
-    excerpt: "The controversial facial recognition software maker Clearview AI has a new contract with ICE, the most controversial U.S. government agency. Clearview was already known to work with the branch of Homeland Security fiercely criticized for implementing the Trump administration’s harsh"
-    publishedDateTime: 2020-08-14T22:48:00Z
-    webUrl: "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/"
-    ampWebUrl: "https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-992931802.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "ICE Signs Contract With Facial Recognition Company Clearview AI"
     excerpt: "U.S. Immigration and Customs Enforcement signed a contract with Clearview AI, a facial-recognition company that has sparked controversy over its use by law enforcement."
     publishedDateTime: 2020-08-15T05:52:00Z
@@ -71,20 +55,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 82
-  - title: "New York City says it will reassess police use of facial recognition"
-    excerpt: "\"That's something I will do with my team and the NYPD.\" The question came after NYPD admitted it had used facial"
-    publishedDateTime: 2020-08-17T22:45:00Z
-    webUrl: "https://www.engadget.com/new-york-city-facial-recongition-223931035.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2Fbce7cf20-ecf2-11e9-b372-50ae8ac12a88&client=amp-blogside-v2&signature=e638e7e15835c15f1e753686f1b886881e7c5556"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Global facial recognition company working closely with NZ govt"
     excerpt: "NEC itself is on the wrong side of a pushback against facial recognition in the US. There, three tech giants Amazon, IBM and Microsoft in June called a halt to supplying the tech to US police in a moratorium over brutality against black people. But NEC ..."
     publishedDateTime: 2020-08-19T02:46:00Z
@@ -101,19 +71,19 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Convenience store boosts security with facial recognition technology"
-    excerpt: "For a start, the 24-hour convenience store has installed facial recognition technology on closed-circuit TV cameras at 100 of its 458 branches throughout the country, with an allocation of RM800,000."
-    publishedDateTime: 2020-08-18T00:46:00Z
-    webUrl: "https://www.thestar.com.my/metro/metro-news/2020/08/18/convenience-store-boosts-security-with-facial-recognition-technology"
+  - title: "QNAP QVR Face facial recognition solution for NVR and NAS"
+    excerpt: "Networking, and storage design and manufacturing company QNAP, as this week announced that its rackmount NAS models now support QVR Face, the QNAP"
+    publishedDateTime: 2020-08-17T11:02:00Z
+    webUrl: "https://www.geeky-gadgets.com/facial-recognition-17-08-2020/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/08/18/823669.jpg"
-        width: 1240
-        height: 826
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/08/facial-recognition.jpg"
+        width: 700
+        height: 500
         isCached: true
   - title: "Global facial recognition company working closely with Government"
     excerpt: "A major company at the centre of controversies over facial recognition technology in the US and UK is working closely with the Government. Tokyo-based NEC, which has resisted a Black Lives Matter-inspired ban in America, is updating passport systems here ..."
@@ -143,15 +113,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "'Masks' may test facial recognition cameras utility on I-Day!"
-    excerpt: "The Delhi police is using cameras equipped with facial recognition software to secure the Red Fort, where Prime Minister Narendra Modi will hoist the national flag on the 74th Independence Day. This is being done to screen suspects around the celebration area matching their faces with the available database of terrorists and criminals with the security agencies."
-    publishedDateTime: 2020-08-15T00:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20200815/3609760.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
 
 secured: "UEcpCXfTxlTZeKZEN19i1GcY3d2ZShs8RIRB+/sTwbuKcVF8kViiiMRsuLcyCpjzG3V9ZFNXvu6I+NtETDm14x1HZw4gMC2niC+ZSOfCNqWNHX/9eLb/QD7KlPd0FI/4iFDxmgguSdWSkPgi1OZVJr46g/SE2B3DiwEz+0S+R1uyIenVXmA6sAD95kFdToTQeHEPu9c13FtpoKQFPAN8N3/PGNhrgwawcbpTl4t7exaJgOwSEZRasnT+ToL7Cuu3Xfm6EpNtZJ1rLZLeyhN2jkNJGHLadM+lU6pxQZiL6NN4QjRidAxYJ3E1wDrKLN8sCA9Uw89SuwkzveDXRsTwrypaqnVb4xS0pX+49qv2Lo8MqbUuN3cMLq0ogweraFokB7LsHyFnYCiFjDYRM2zn75QAZE1bV5YCXyAKPL2YXbBI/BAaFg/6aosDC6FPx5LSIhbCALjxNoofaR0FBa+TrEe7i759ThqtoiO5w1QunjAzr/xEXD9pLwmTVjgk+Yw6u07HKakRq8uYAHzCeM2GGw==;6gPR4Mai9KDwXz3CJztwZg=="
 ---

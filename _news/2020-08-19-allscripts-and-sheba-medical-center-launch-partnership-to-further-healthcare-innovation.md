@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Allscripts and Sheba Medical Center Launch Partnership to Further Healthcare Innovation"
-excerpt: "Allscripts (NASDAQ: MDRX) and Israel’s Sheba Medical Center have formed a partnership to accelerate the pace of artificial intelligence technologies a"
-publishedDateTime: 2020-08-19T13:02:00Z
-webUrl: "https://www.businesswire.com/news/home/20200819005037/en/"
+excerpt: "Healthcare IT vendor and Israeli hospital collaborate to create network of innovators Allscripts (NASDAQ:MDRX) and Israel's Sheba Medical Center have formed a partnership"
+publishedDateTime: 2020-08-19T12:01:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/b17153786/allscripts-and-sheba-medical-center-launch-partnership-to-further-healthcare-innovation"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17153786"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17153786"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200819005037/en/745337/23/Allscripts-Logo.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "+m4NN56x/7yAFUrFG0F1vGSPfMdBCMu5wUOsDZYUjuUo9Z/MPIpAvGq+eYEnC5H2Fs0z4XU0rnJlBUvyWr0YG8ANACrz4HyHSAtolUaiYmlea6dXngbUhdRR48Jdl/gXnB0tITA7UZm457YbP21vg9fzupG3D81hN26jChkbPTeHSbV9dMsrsKo7ujLLHMbI/kYnubbh0SetM8ns+f86sqn573L537IrmkdxEdrSUDFiV/ifa5lO5D8gSbnLUbdFrTpw8UQd0DMQkIJFClzsowOZVXcdJmxyCUACmud3/DCzGMS1YkciRRMUOiMpqYsLhKWLUtc9BOLX3wbF6SMM3Q==;JgC01egsmRY/gvwp7f+uQw=="
+secured: "kvKCLhcO7Wddu4j+AjvmDXSmgDXDwAuJkz9NInWEEbv6jY+6seq8KQLCwDRClTmwkMQ43f5BrzhECgLXvRb+k45KkRYnFhq7cLWowMSE8gnqKceIE0yhtqVRxz+QzYK8m3yeYJirCNbCLyO0j5VYDpe2hTS3fxOJNujvFvQ5hseVaHoQkyTngVkedgbdEURIdsnpT50M+YQA9VJRGzEnR3pgt72Na73M/u4W2TMNYpJ6lKWOy3bC13gZBsvtLi4r0CEAC1eHjdwBy4Imn5XeN+leS7T+1UequFIG95IOPISbK9ow3mc1OCtHW4e691OhRDDGDbLKPgYDjltoxhiDGx94TINeQgKS3lJrwWvRKHhzECaqnrH5jiQ6JDrKCZNR3fOggNzeKSG0Ei1g1YvBZ89xN8mqmlPYfXOdgJIkihpg09jbO1We7G6qO04Y/kyfsxT0e7Me+6STOUiPUVYG9H7xyY9nlO9ymHeoQVT+Ni5qW4BAjIbqEgg9sExaVwqgJXlBseHyFN8M4pd/Ndn3uw==;jiywVx/vQrosPVMB+CiiAQ=="
 ---
 
