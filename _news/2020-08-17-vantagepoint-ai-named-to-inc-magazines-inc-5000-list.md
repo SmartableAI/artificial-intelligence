@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T12:00:00Z
 webUrl: "https://www.finanzen.net/nachricht/aktien/vantagepoint-ai-named-to-inc-magazine-s-inc-5000-list-9203611"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-19T01:15:00Z
 webUrl: "https://www.prnewswire.com/news-releases/informatica-acquires-greenbay-technologies-to-advance-ai-and-machine-learning-capabilities-301113629.html"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

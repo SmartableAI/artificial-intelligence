@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applicat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
-        isCached: true
-  - title: "Image Recognition Market to Benefit from Applications in Security and Surveillance"
-    excerpt: "The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world. According to a report published by Fortune Business Insights(TM), titled, \"Image Recognition Market Size, Share & Industry ..."
-    publishedDateTime: 2020-08-18T09:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-to-benefit-from-applications-in-security-and-surveillance-2020-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "What robots want: Using machine-learning to teach effectively"
     excerpt: "By Hyunsoo (Hyun) Kim, co-founder and CEO of Superb AI AI is having a moment. One need only casually scan the news each week to see that the topics of artificial intelligence and machine learning"

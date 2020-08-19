@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-31-amd-cdna-gpu-to-rival-nvidia-ampere-in-late-2020.md",
+      "title": "AMD CDNA GPU to rival Nvidia Ampere in late 2020",
+      "excerpt": "AMD has revealed that its first GPU designed specifically for computing and based on CDNA architecture will become available later this year. Being developed primarily for artificial intelligence and high-performance computing (HPC) applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Bd7dkokF6QEnDo8VEnUrrm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amds-big-cdna-gpu-to-rival-nvidias-ampere-in-late-2020",
+      "publishedDateTime": "2020-07-31T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-31-ai-model-training-execution-now-possible-on-mcus-via-one-tech-microai-atom.md",
       "title": "AI Model Training & Execution Now Possible on MCUs via ONE Tech MicroAI Atom",
       "excerpt": "ONE Tech estimates that MicroAI Atom algorithms, which run recursive analysis and reside directly on target MCUs at the edge, reduce the cost of deploying endpoint intelligence by a minimum of 80%.",
@@ -1309,56 +1359,6 @@
         "name": "Asia One",
         "domain": "asiaone.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-wyze-will-try-pay-what-you-want-model-for-its-ai-powered-person-detection.md",
-      "title": "Wyze will try pay-what-you-want model for its AI-powered person detection",
-      "excerpt": "Smart home company Wyze is experimenting with a rather unconventional method for providing customers with artificial intelligence-powered person detection for its smart security cameras: a pay-what-you-want business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/FOfBqFUxP-Z7IBLvzcnvwy2O0-8=/0x0:1599x1066/1400x933/filters:focal(1023x368:1277x622):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67083966/Wyze_Labs_Inc_WyzeCam.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment",
-      "publishedDateTime": "2020-07-20T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

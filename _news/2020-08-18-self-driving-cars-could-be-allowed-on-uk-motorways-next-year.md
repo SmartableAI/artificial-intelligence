@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-driving cars could boost margins for Uber and Lyft — and open the door to competition from Amazon and Tesla"
-    excerpt: "AVs will initially create financial benefits for Uber and Lyft, but in the long run could technology could whittle away their competitive advantages."
-    publishedDateTime: 2020-08-14T13:58:00Z
-    webUrl: "https://www.businessinsider.com/uber-and-lyft-face-long-term-threat-from-amazon-tesla-2020-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://i.insider.com/5f2b1c35a6f0e11455296a77?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Self-driving car lanes are coming: Will they help or hinder Level 5 autonomy progress?"
     excerpt: "Tesla’s long-term Robotaxi plans require Level 5 autonomous driving, i.e., no humans involved, and it certainly sounds like things are moving along quite well. CEO Elon Musk has been chatting about the Full Self-Driving progress on Twitter lately,"
     publishedDateTime: 2020-08-16T14:13:00Z

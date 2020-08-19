@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hour One wants synthetic AI characters to be your digital avatars"
+    excerpt: "If you ever wondered how we’ll populate the metaverse, look no further than Hour One, an Israeli startup that is making replicas of people with AI avatars. These avatars can be a near-perfect ..."
+    publishedDateTime: 2020-08-18T17:58:00Z
+    webUrl: "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/"
+    ampWebUrl: "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/hour-one-3-1.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 605
+        isCached: true
   - title: "Hour One raises $5M Seed to generate AI-driven synthetic characters from real humans"
     excerpt: "All of the people pictured above are real, but what you are seeing are synthetically-generated versions of their real selves. And they can be programmed to say anything. Tech futurists have long warned about humans being replaced by life-like AI-driven figures,"
     publishedDateTime: 2020-08-17T16:45:00Z

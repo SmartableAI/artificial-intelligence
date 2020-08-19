@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-Driving Cars Are Predicting Driving Personalities"
+    excerpt: "In a recent study by a team of researchers at MIT, self driving cars are being programmed to identify the social personalities of other drivers in an effort to predict their future actions and dri ..."
+    publishedDateTime: 2020-08-16T00:00:00Z
+    webUrl: "https://hackaday.com/2019/12/02/self-driving-cars-are-predicting-driving-personalities/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2019/11/self-driving-personalities.jpg"
+        width: 800
+        height: 426
+        isCached: true
   - title: "How to hack a self-driving car"
     excerpt: "A car packed with self-driving features could be the ultimate prize for hackers who can’t resist a challenge. Hacking the Model 3 was the final test in the 2019 round of the prestigious Pwn2Own annual hacking event. The competition is lucrative ..."
     publishedDateTime: 2020-08-18T09:21:00Z

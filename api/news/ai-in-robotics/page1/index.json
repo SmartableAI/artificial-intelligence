@@ -9,7 +9,7 @@
       "webUrl": "https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -29,47 +29,6 @@
       "provider": {
         "name": "Daily Express",
         "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-hearing-sensation-can-markedly-improve-the-perception-of-robots.md",
-      "title": "Hearing Sensation can Markedly Improve the Perception of Robots",
-      "excerpt": "In the so-called first large-scale study of the communications between robotic action and sound, scientists from the Robotics Institute at Carnegie Mellon University discovered that sounds can possibl",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11551",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/news/ImageForNews_11551_15976662335848595.png",
-          "width": 632,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11551",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11551",
-      "publishedDateTime": "2020-08-17T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1362,6 +1321,56 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-08-05-artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025.md",
+      "title": "Artificial Intelligence Robotics Market: A Straight Overview of Growing Market & Future Trend by 2025",
+      "excerpt": "Growing adoption of automated machinery, as well as Artificial Intelligence (AI), enabled robots in personal use such as commercial applications has propelled the demand for artificial intelligence in robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-a-straight-overview-of-growing-market-future-trend-by-2025-2020-08-05?dist=bigcharts&tesla=y",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-05T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

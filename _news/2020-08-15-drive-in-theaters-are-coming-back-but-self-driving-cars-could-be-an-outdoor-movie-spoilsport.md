@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/08/15/drive-in-theaters-are-coming-back-but-self-driving-cars-could-be-an-outdoor-movie-spoilsport/amp/"
 type: article
 quality: 63
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
     quality: 52
     images:
       - url: "https://i.insider.com/5f36e5a9e89ebf001f044d08?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Self-driving cars could boost margins for Uber and Lyft — and open the door to competition from Amazon and Tesla"
-    excerpt: "AVs will initially create financial benefits for Uber and Lyft, but in the long run could technology could whittle away their competitive advantages."
-    publishedDateTime: 2020-08-14T13:58:00Z
-    webUrl: "https://www.businessinsider.com/uber-and-lyft-face-long-term-threat-from-amazon-tesla-2020-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://i.insider.com/5f2b1c35a6f0e11455296a77?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

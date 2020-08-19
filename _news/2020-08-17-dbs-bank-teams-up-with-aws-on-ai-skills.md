@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DBS partners Amazon to upskill 3,000 employees in AI and machine learning"
+    excerpt: "Financial services company DBS has collaborated with Amazon Web Services (AWS) to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in artificial intelligence (AI) and machine learning (ML) by the end of the year."
+    publishedDateTime: 2020-08-18T03:34:00Z
+    webUrl: "https://www.marketing-interactive.com/dbs-partners-amazon-to-upskills-3000-employees-in-ai-and-machine-learning"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 40
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/dbs_building.jpg"
+        width: 800
+        height: 454
+        isCached: true
   - title: "DBS to upskill at least 3,000 employees in AI and ML skills this year"
     excerpt: "To enable this, DBS has collaborated with AWS to launch the DBS x AWS DeepRacer League which will see employees learning the basics of AI and ML in a series of online tutorials before putting their ne"
     publishedDateTime: 2020-08-17T01:40:00Z
@@ -68,20 +82,6 @@ related:
       name: Marketing Interactive
       domain: marketing-interactive.com
     quality: 39
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/dbs_building.jpg"
-        width: 800
-        height: 454
-        isCached: true
-  - title: "DBS partners Amazon to upskill 3,000 employees in AI and machine learning"
-    excerpt: "Financial services company DBS has collaborated with Amazon Web Services (AWS) to launch DBS x AWS DeepRacer League in a bid to equip its employees with fundamental skills in artificial intelligence (AI) and machine learning (ML) by the end of the year."
-    publishedDateTime: 2020-08-18T03:34:00Z
-    webUrl: "https://www.marketing-interactive.com/dbs-partners-amazon-to-upskills-3000-employees-in-ai-and-machine-learning"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 38
     images:
       - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/dbs_building.jpg"
         width: 800

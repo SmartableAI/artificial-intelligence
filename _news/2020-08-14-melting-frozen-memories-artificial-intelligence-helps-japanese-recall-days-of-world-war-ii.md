@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI Helps Japanese Recall 'Frozen' War Memories"
-    excerpt: "When Tokuso Hamai saw the colorized version of an old black-and-white photo of a picnic held under cherry tree blossoms sometime before World War II, forgotten memories of family members, most of whom died in the atomic bombing of Hiroshima in 1945,"
-    publishedDateTime: 2020-08-14T14:44:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21160359/ai-helps-japanese-recall-frozen-war-memories"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://p1-cms-assets.imgix.net/files/base/indm/multi/image/2020/08/16x9/AP20225150727351.5f36a0999da3d.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "7HT0fZ7+4LYYl30kxm3sN1PY/NFD8hVvfZ+rhqafwB5ial2XswKqXZHkpNCSn+Gw1qawCdofZGLjezMy3KUJVYmHbCRuYxKNgl8gfV7nuJbx50nvOOvv0zgu+B00cV5gJSkcEcOQGAmFqxUfFGbQi63L5pYDhLgKyTuclkrO16nWn6A0D8gNRtPfwybNFmwHYEFKO1N/BYMfS1vQ+DE2oVc20tkAgZglXXDIIQsp96UNMcp6oYQ/NmW5vY4PnZ214vZrFlw5AjYAQIeozfSJxjRfYy3MtnwfUpJdvv55RV2UDeSAx13CwxvDQTYklfKrlr3buN4hp0RLLE27V70oB2pH9fDH/7DWSeZMd6+BdfF5CfklCRKDCr6vnR/IoghEIcvJrwiD5he5RT5cOBwZAyGNXDPaadBr/VsrLaczXqkAxSoL4cZ2zbHtM6dzNVuGByghfNX/cn54mz+1o+CvYVNn4fVDYGBzuS/7svj2ps2rz5qRk1XRkGoS3bBOoQBQn26NL5gfasqzlwK9LhyNCw==;yMgnUA2RYcBT3yBX6HgMQQ=="
 ---

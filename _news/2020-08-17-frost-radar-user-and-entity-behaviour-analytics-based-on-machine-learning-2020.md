@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T13:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/frost-radar-user-and-entity-behaviour-analytics-based-on-machine-learning-2020-301113081.html"
 type: article
 quality: 34
-heat: 44
+heat: 34
 published: false
 
 provider:

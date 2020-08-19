@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Helps Japanese Recall 'Frozen' War Memories"
-    excerpt: "When Tokuso Hamai saw the colorized version of an old black-and-white photo of a picnic held under cherry tree blossoms sometime before World War II, forgotten memories of family members, most of whom died in the atomic bombing of Hiroshima in 1945,"
-    publishedDateTime: 2020-08-14T14:44:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21160359/ai-helps-japanese-recall-frozen-war-memories"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://p1-cms-assets.imgix.net/files/base/indm/multi/image/2020/08/16x9/AP20225150727351.5f36a0999da3d.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Melting 'frozen memories,' artificial intelligence helps Japanese recall days of World War II"
     excerpt: "The 75th anniversary of the end of World War II is Saturday, giving attention to a Tokyo University project to painstakingly colorize photos using artificial intelligence."
     publishedDateTime: 2020-08-14T16:30:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2115794/healthcare-cognitive-computing-ma
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2115794/healthcare-cognitive-computing-market-growing-demand"
 type: article
 quality: 37
-heat: 47
+heat: 37
 published: false
 
 provider:

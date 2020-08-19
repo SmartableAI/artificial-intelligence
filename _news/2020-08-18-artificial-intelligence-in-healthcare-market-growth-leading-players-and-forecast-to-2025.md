@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T07:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://i.insider.com/5f36aa7be89ebf001f04492c?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Artificial Intelligence Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2025"
-    excerpt: "Artificial intelligence technology has been implemented across varied industries such as healthcare and consumer electronics. Global organizations have started exploring and implementing the benefits of AI technologies for effective positioning of their ..."
-    publishedDateTime: 2020-08-14T14:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2025-2020-08-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence of Things: AIoT Market by Technology and Solutions 2020 - 2025"
     excerpt: "This AIoT market report provides analysis of technologies, leading companies and solutions. The report also provides quantitative analysis including market sizing and forecasts for AIoT infrastructure, services, and specific solutions for the period 2020 ..."

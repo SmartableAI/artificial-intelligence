@@ -89,6 +89,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 54
+  - title: "Victory for campaigners in face recognition case is ‘cautionary tale’"
+    excerpt: "Organisations must absorb the lessons of verdict in South Wales Police case, when it comes to the use of AI and automation, argues HR director."
+    publishedDateTime: 2020-08-19T07:54:00Z
+    webUrl: "https://www.personneltoday.com/hr/victory-for-campaigners-in-face-recognition-case-is-cautionary-tale/"
+    type: article
+    provider:
+      name: Personnel Today
+      domain: personneltoday.com
+    quality: 54
+    images:
+      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2020/08/shutterstock_676438363.jpg"
+        width: 635
+        height: 357
+        isCached: true
   - title: "NYC to ‘Reassess’ Police Facial Recognition Software After Raid on BLM Activist"
     excerpt: "Ingram echoed the same sentiment as he spoke to the Gothamist following the police siege, saying, “We’re being specifically targeted with this [facial recognition] technology because of what ..."
     publishedDateTime: 2020-08-18T15:11:00Z

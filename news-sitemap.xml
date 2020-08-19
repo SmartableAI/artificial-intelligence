@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.entrepreneur.com/article/354973</loc>
+    <lastmod>2020-08-19T00:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news</loc>
+    <lastmod>2020-08-19T00:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/</loc>
+    <lastmod>2020-08-18T21:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/</loc>
+    <lastmod>2020-08-18T21:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/</loc>
+    <lastmod>2020-08-18T19:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt</loc>
+    <lastmod>2020-08-18T16:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/cerebras-teases-second-generation-wafer-scale-ai-chip/</loc>
     <lastmod>2020-08-18T15:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -31,6 +67,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/</loc>
+    <lastmod>2020-08-18T10:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/08/18/how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19/</loc>
     <lastmod>2020-08-18T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -45,6 +87,12 @@
   <url>
     <loc>https://www.geekwire.com/2020/seattle-startup-vets-raise-1-3m-no-code-workflow-automation-startup-reflective/</loc>
     <lastmod>2020-08-18T09:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/</loc>
+    <lastmod>2020-08-18T09:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -121,6 +169,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-2027-trends-analysis-segmentation-and-forecast-2020-08-18?mod=mw_quote_news</loc>
+    <lastmod>2020-08-17T22:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html</loc>
     <lastmod>2020-08-17T20:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -175,12 +229,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/</loc>
-    <lastmod>2020-08-17T09:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.express.co.uk/news/science/1323930/artificial-intelligence-breakthrough-allow-ai-merge-with-human-brain-ai-news</loc>
     <lastmod>2020-08-17T09:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -193,20 +241,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8</loc>
-    <lastmod>2020-08-17T09:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://mashable.com/article/microsoft-flight-simulator-2020-review-round-up/</loc>
     <lastmod>2020-08-17T08:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.azorobotics.com/News.aspx?newsID=11551</loc>
-    <lastmod>2020-08-17T08:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -259,12 +295,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17</loc>
-    <lastmod>2020-08-17T03:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://electrek.co/2020/08/17/elon-musk-tesla-secret-dojo-ai-training-supercomputer/</loc>
     <lastmod>2020-08-17T03:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -273,12 +303,6 @@
   <url>
     <loc>https://www.indiatvnews.com/technology/news-microsoft-translator-gets-support-for-11-new-indian-languages-642774</loc>
     <lastmod>2020-08-17T02:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.asiaone.com/business/x0pa-ai-integrates-its-new-ai-enabled-assessment-interview-platform-microsoft-teams</loc>
-    <lastmod>2020-08-17T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -679,12 +703,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html</loc>
-    <lastmod>2020-08-12T13:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/facial-recognition-market-2020-2024-growth-emerging-trends-and-future-opportunities-2020-08-12</loc>
     <lastmod>2020-08-12T13:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -871,6 +889,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-2020-08-12-9184040</loc>
+    <lastmod>2020-08-11T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/amazon-forecast-can-now-use-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-higher-accuracy/</loc>
     <lastmod>2020-08-11T14:04:50-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -907,6 +931,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-2020-08-11</loc>
+    <lastmod>2020-08-11T09:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.eejournal.com/industry_news/hackster-io-smart-parks-and-key-industry-partners-to-build-worlds-most-advanced-elephant-tracker/</loc>
     <lastmod>2020-08-11T09:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -915,12 +945,6 @@
   <url>
     <loc>https://techcrunch.com/2020/08/11/argo-ai-co-founder-and-ceo-bryan-salesky-joins-us-at-tc-sessions-mobility-2020/</loc>
     <lastmod>2020-08-11T09:32:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-for-the-increasing-digitization-of-healthcare-1029492918</loc>
-    <lastmod>2020-08-11T09:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -949,14 +973,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.eurekalert.org/pub_releases/2020-08/rpi-bad081120.php</loc>
-    <lastmod>2020-08-11T07:58:00-07:00</lastmod>
+    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
+    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techrepublic.com/article/ai-company-pivots-to-helping-people-who-lost-their-job-find-a-new-source-of-health-insurance/</loc>
-    <lastmod>2020-08-11T07:57:00-07:00</lastmod>
+    <loc>https://medicalxpress.com/news/2020-08-brain-net-deep-methodology-accurately-surgeon.html</loc>
+    <lastmod>2020-08-11T07:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

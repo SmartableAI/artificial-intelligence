@@ -39,6 +39,20 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Groundbreaking new material 'could allow artificial intelligence to merge with the human brain'"
+    excerpt: "A Pedot film is likely to help link human brain with artificial intelligence without any scarring or tissue damage"
+    publishedDateTime: 2020-08-19T06:33:00Z
+    webUrl: "https://www.dhakatribune.com/technology/2020/08/19/groundbreaking-new-material-could-allow-artificial-intelligence-to-merge-with-the-human-brain"
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 40
+    images:
+      - url: "https://media-eng.dhakatribune.com/uploads/2020/08/watermarked/339736/1597818597563bigstock-brain-2819169-1596966809393.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "rVhJ8HDNiyOei6HUaohATZmbEi6zcTKSta+c/Xg2qvmu2CWDKq4Z3bSSSQRmt+oOPuBKT/6czX4PXwIdaSSlhhyD/i0Sl6Vq1+1dMRx9lB8i8CAKnKW3vI0EnLeUsZxxvhncp27x+yQsuKEfIBbU0Dvr1h2pjOaP+hZnQaj5avWj5wBrQyEcoSmifFX92d1GzQBkVK1SJbj14z/1WHnnXB3KIKBjSLQbUXHxNjLhonS6l3PeeHPyNpnweUSlWQoDx4s5Ae53ICeHXHonWruvi+9A9ZCGB3RwVoHdkTYnkrI/B90EVAU1kEqphCFEeryWFx2rWbO+M752hvJefkQEPQ==;MKSQIzvM3892/9TnA7M/Yw=="
 ---

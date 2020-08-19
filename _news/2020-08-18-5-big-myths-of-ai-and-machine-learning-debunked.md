@@ -30,7 +30,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/Abhinav-Joshi-Tushar-Katarki-KubeCon-2020.jpg"
         width: 1579

@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-t
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Cars Are Predicting Driving Personalities"
+    excerpt: "In a recent study by a team of researchers at MIT, self driving cars are being programmed to identify the social personalities of other drivers in an effort to predict their future actions and dri ..."
+    publishedDateTime: 2020-08-16T00:00:00Z
+    webUrl: "https://hackaday.com/2019/12/02/self-driving-cars-are-predicting-driving-personalities/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2019/11/self-driving-personalities.jpg"
+        width: 800
+        height: 426
+        isCached: true
   - title: "How Self-Driving Systems are Ushering in a New Era of Transportation"
     excerpt: "Self-driving vehicles like robo-taxis are one way that people will be able to get around while also social distancing. AVs and other self-driving applications have already proven helpful in the fight against the virus in China by transporting essential ..."
     publishedDateTime: 2020-08-18T13:45:00Z

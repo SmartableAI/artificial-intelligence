@@ -7,8 +7,9 @@ webUrl: "https://yourstory.com/mystory/top-five-latest-advancements-artificial-i
 ampWebUrl: "https://yourstory.com/mystory/top-five-latest-advancements-artificial-intelligence/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/top-five-latest-advancements-artificial-intelligence/amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: Your Story
@@ -17,6 +18,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.yourstory.com/cs/1/8023a190e4f511e9b47323594903e216/images2-1597750738369.png?fm=png&auto=format"
@@ -24,6 +26,6 @@ images:
     height: 388
     isCached: true
 
-secured: "K7bOeCeh8sjNi/cBl5tbWob8YYtT3z6hmTFbtFRjhUe0gKBXV6UmBbPnXg3T46SzJ4syqcB/XqSRziX9uQz1ZLi9YzXNWkL50xJL+PsmljmSCToEaxf70vqfP53K3N1c4lkJ31O8X+mdqciku37riq2Q9LZBaReCz38nPFSwNYKvmLhYEv7dfEbvjKzSJuVZ9hMb5nE41of6JUeiMX7Tk54EKrkHqhrvZl6GBabpA20eTo7xkXGYa5lB9VtD0g4M6IoptG6fQaWrP22L9ZOpRslCNcWTMyk1IOTQ6kCHXoQ/7YzMRM0D6RzBn7xQU5xhVAwzw2awKItSr5j6DE4a8Q==;QsoJYaAY2kTnePZFCPgwRg=="
+secured: "FEXP3xJFMc+gn91RoAMeBQWUMPQObVqCy6IJ2C+M/UDSpcHhbeyfJoeKjqGxxv6+039bxTiA+YpaAq2JGrwhUQnpZnD8nixKwMNKYjtE1tVP6q7WvRUl28iL0+d18hXxS0pS6hfL1XdBbgFEj73loGKb+uhQyWZwZY07rpk5hOVmHRLKaXZoPXpup7+FtwbEDmIYdL4kkiKmCW5Lvd0DGHfO7VSa8qz3RDAyNplfjmmzzblZ4BNC/J+WFgVLbvbZ1QU0l/ODcwlRyFpXEi9dHyUctrcTT1srhpN0suqy+vQ2SRdjmeFjZTm0JDiCN0/sDwt27bTAJ6UqewGzm8+Ztsu0ujCmysq2QpUzTg2Ko/LomT0a1uRGX1537tT/5qSLD7N7+x8jABt6fpFacL9WP1Tu5tMDusYhENFxvoV5OKCZsKmV6sJRfhmg0J5yUsVgK/gYk7deRGWq+gH/N8GtdxRqXz6v5KxK2TJPPykmmYVDgJOvUgJuWdYGsdd0JYsbudwgKnfg6QPUpcyhelTcWg==;vrNv7M8c8mvPtL1ocTfXrQ=="
 ---
 

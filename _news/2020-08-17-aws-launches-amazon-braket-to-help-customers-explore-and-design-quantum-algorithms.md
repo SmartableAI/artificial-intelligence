@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T02:03:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/08/17/amazon-braket/"
 type: article
 quality: 33
-heat: 43
+heat: 33
 published: false
 
 provider:

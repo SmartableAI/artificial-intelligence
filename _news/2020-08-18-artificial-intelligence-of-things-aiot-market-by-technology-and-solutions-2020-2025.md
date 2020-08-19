@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2025"
-    excerpt: "Artificial intelligence technology has been implemented across varied industries such as healthcare and consumer electronics. Global organizations have started exploring and implementing the benefits of AI technologies for effective positioning of their ..."
-    publishedDateTime: 2020-08-14T14:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2025-2020-08-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Healthcare Market Set for Rapid Growth During 2020 - 2027| Alphabet Enlitic, General Vision, iCarbonX, Intel Corporation"
     excerpt: "CHAPTER 5:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY ALGORITHM CHAPTER 6:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY APPLICATION CHAPTER 7:ARTIFICIAL INTELLIGENCE IN HEALTHCARE MARKET, BY END USER 1. What is the estimated growth rate of the ..."
     publishedDateTime: 2020-08-17T17:20:00Z

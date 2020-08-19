@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2113476/artificial-intelligence-and-machi
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2113476/artificial-intelligence-and-machine-learning-market-evolving"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,48 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast"
+    excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
+    publishedDateTime: 2020-08-19T07:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market Research By Growth, Competitive Methods And Forecast To 2026"
+    excerpt: "Aug 17, 2020 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it covers neural network software, services, platform and ..."
+    publishedDateTime: 2020-08-17T10:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-by-growth-competitive-methods-and-forecast-to-2026-2020-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine learning Market | Size, Share, Trends, Growth, Growing Demand, Industry Analysis & Global Forecast 2025"
+    excerpt: "financial services and insurance (BFSI), automotive, healthcare, government and others.The trend of using machine learning techniques in the healthcare sector, financial sector and retail sector are widespread. The world is moving towards a connected ..."
+    publishedDateTime: 2020-08-19T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-share-trends-growth-growing-demand-industry-analysis-global-forecast-2025-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North America Machine Learning Market 2020 Global Analysis, Report | Emerging Trends, Growth Drivers To 2023"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2020 (AmericaNewsHour) -- The value of the machine learning market in North America is expected to reach USD 8.07 Bn by 2023, expanding at a compound annual growth ..."
     publishedDateTime: 2020-08-19T04:44:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T12:00:00Z
 webUrl: "https://www.geeky-gadgets.com/lightmatter-optical-processor-18-08-2020/"
 type: article
 quality: 41
-heat: 51
+heat: 41
 published: false
 
 provider:

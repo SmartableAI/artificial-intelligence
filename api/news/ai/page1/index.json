@@ -2,6 +2,295 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-08-19-how-to-leverage-on-artificial-intelligence-to-transform-the-way-entrepreneurs-do-business.md",
+      "title": "How to Leverage on Artificial Intelligence to Transform the Way Entrepreneurs Do Business",
+      "excerpt": "This situation has raised the importance and prominence of technology. As it recovers from human and economic ravages, AI is positioned to play a critical role",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/354973",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1597821086-artificial-intelligence-4715585.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/354973",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/354973",
+      "publishedDateTime": "2020-08-19T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-deep-learning-market-2020-2023-growth-emerging-trends-and-forecast.md",
+      "title": "Deep Learning Market 2020-2023: Growth, Emerging Trends, And Forecast",
+      "excerpt": "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-growth-emerging-trends-and-forecast-2020-08-19?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-19T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-ai-health-startup-can-get-15-vital-signs-via-your-phone-camera.md",
+      "title": "AI Health Startup Can Get 15 Vital Signs Via Your Phone Camera",
+      "excerpt": "And having the results funneled to your personal medical AI engine to monitor you for any signs of poor health, ready to notify your physician if anything looks out of the ordinary. Like higher temperature,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3ca44b72dedd269d7b253d%2F0x0.jpg",
+          "width": 1000,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/08/19/ai-health-startup-can-get-15-vital-signs-via-your-phone-camera/amp/",
+      "publishedDateTime": "2020-08-18T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-how-duolingo-uses-ai-in-every-part-of-its-app.md",
+      "title": "How Duolingo uses AI in every part of its app",
+      "excerpt": "We spoke to von Ahn about all the ways Duolingo uses AI and then ... Knowing how to translate individual words isn’t enough for effective communication in a new language. Sentence construction ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/duolingo-luis-von-ahn.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/how-duolingo-uses-ai-in-every-part-of-its-app/amp/",
+      "publishedDateTime": "2020-08-18T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-19-the-sound-of-indias-ai-potential.md",
+      "title": "The sound of India’s AI potential",
+      "excerpt": "On August 15, India’s Independence Day, it’s customary to sing Jana Gana Mana: the Indian national anthem, originally composed by the poet Rabindranath Tagore and adopted as the anthem after India gained full independence.  This year, together with Prasar Bharati and Virtual Bharat, we offered Indians",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/500d84ff-924b-400e-9b5f-0c244bc858b2_1.max-1300x1300.png",
+          "width": 1260,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/the-sound-of-indias-ai-potential/amp/",
+      "publishedDateTime": "2020-08-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt.md",
+      "title": "Hot Chips 2020 Live Blog: Baidu Kunlun AI Processor (4:30pm PT)",
+      "excerpt": "as well as HBM2, and packing 260 TOPs into 150 W. 07:29PM EDT - Last session of Hot Chips is all about ML inference. Starting with Baidu, and its Kunlun AI processor",
+      "sourceUrl": null,
+      "webUrl": "https://www.anandtech.com/show/16008/hot-chips-2020-live-blog-baidu-kunlun-ai-processor-430pm-pt",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.anandtech.com/doci/16008/8%20-%20Baidu_678x452.png",
+          "width": 678,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnandTech",
+        "domain": "anandtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-cerebras-teases-second-generation-wafer-scale-ai-chip.md",
       "title": "Cerebras teases second-generation wafer-scale AI chip",
       "excerpt": "The existing Gen-1 has 18 gigabytes of DRAM on die. Lie told the audience to wait for details \"in coming months.\" Cerebras competes with established GPU heavyweight Nvidia and other startups such as Graphcore and Tachyum.",
@@ -100,7 +389,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/chinese-ai-giant-blacklisted-by-trump-mints-money-from-virus",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -233,6 +522,55 @@
       ]
     },
     {
+      "path": "_news/2020-08-18-hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars.md",
+      "title": "Hour One wants synthetic AI characters to be your digital avatars",
+      "excerpt": "If you ever wondered how we’ll populate the metaverse, look no further than Hour One, an Israeli startup that is making replicas of people with AI avatars. These avatars can be a near-perfect ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/hour-one-3-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/hour-one-wants-synthetic-ai-characters-to-be-your-digital-avatars/amp/",
+      "publishedDateTime": "2020-08-18T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-how-to-diagnose-and-treat-machine-learning-models-afflicted-by-covid-19.md",
       "title": "How to diagnose and treat machine learning models afflicted by COVID-19",
       "excerpt": "Its impact has been particularly significant on many machine learning (ML) models that companies use to predict human behavior. Companies need to take steps to deeply examine ML models and acquire ...",
@@ -354,6 +692,55 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-18-researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask.md",
+      "title": "Researchers claim their AI can hear if a speaker is wearing a mask",
+      "excerpt": "Researchers at Duke Kunshan University, Wuhan University, Lenovo, and Sun Yat-sen University in Guangzhou claim to have developed an AI system that detects whether a person is wearing a mask from ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/elderly-at-home-covid-19.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/",
+      "publishedDateTime": "2020-08-18T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -761,7 +1148,7 @@
       "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/08/18/top-3-applications-of-machine-learning-to-transform-your-business/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -811,7 +1198,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -902,7 +1289,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-growth-leading-players-and-forecast-to-2025-2020-08-18",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -945,6 +1332,56 @@
       ]
     },
     {
+      "path": "_news/2020-08-18-cloud-natural-language-processing-nlp-market-2020-2027-trends-analysis-segmentation-and-forecast.md",
+      "title": "Cloud Natural Language Processing (NLP) Market 2020-2027 / Trends, Analysis, Segmentation And Forecast",
+      "excerpt": "Aug 18, 2020 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2020-2027-trends-analysis-segmentation-and-forecast-2020-08-18?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-17T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-full-michelle-obama-dnc-speech-transcript-and-video.md",
       "title": "Full Michelle Obama DNC Speech Transcript and Video",
       "excerpt": "Michelle Obama, the former first lady, was the keynote speaker on the first night of the 2020 Democratic National Convention.",
@@ -952,7 +1389,7 @@
       "webUrl": "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 284,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -992,444 +1429,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-18-microsoft-turns-to-aiops-for-better-azure-outage-announcements.md",
-      "title": "Microsoft Turns to 'AIOps' for Better Azure Outage Announcements",
-      "excerpt": "Microsoft has streamlined its Azure outage reporting via artificial intelligence (AI) technology. This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://rcpmag.com/articles/2020/08/18/microsoft-aiops-azure-outage.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0814vsm_Bowytz.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Channel Partner",
-        "domain": "rcpmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week.md",
-      "title": "AI fighter pilot vs. Air Force pilot: Dogfight showdown scheduled for this week",
-      "excerpt": "DARPA is conducting its third AlphaDogfight Trials. The winning AI will be pitted against a human pilot in a human vs. algorithm aerial showdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/08/17/cd1f7430-be29-406a-aae8-89be51fffecd/resize/1200x/eb87a4489df268a654643e7145b88d8e/darpa.jpg",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-fighter-pilot-vs-air-force-pilot-dogfight-showdown-scheduled-for-this-week/",
-      "publishedDateTime": "2020-08-17T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-researchers-use-ai-to-combat-and-quantify-browser-fingerprinting.md",
-      "title": "Researchers use AI to combat and quantify browser fingerprinting",
-      "excerpt": "To combat fingerprinting in particular, in a recent study, researchers at The University of Iowa, Mozilla, and the University of California, Davis investigated a machine learning-based approach called FP-Inspector that trains classifiers to learn fingerprinting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/GettyImages-1062283972-e1575563910607.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/researchers-use-ai-to-combat-and-quantify-browser-fingerprinting/amp/",
-      "publishedDateTime": "2020-08-17T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ai-based-traffic-management-gets-green-light.md",
-      "title": "AI-based traffic management gets green light",
-      "excerpt": "Technology convergence allows for safer automated traffic lights with less waiting. When it's time to contract with an outside vendor for IT solutions, you need an easy way to compare the relative merits and faults of competing providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-based-traffic-management-gets-green-light/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/4583de6c-e053-4b17-b5b9-9a2f1b4b432c/green-go.jpg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-based-traffic-management-gets-green-light/",
-      "publishedDateTime": "2020-08-17T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips.md",
-      "title": "Intel: Data bandwidth, sparsity are the two biggest challenges for AI chips",
-      "excerpt": "The movement of data into and out of the processor is the biggest challenge for AI chips, but sparsity looms as an even greater challenge, according to Intel engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/08/17/d7c866cd-2e4e-49d6-a72e-56ffd3c5868a/intel-glimpse-into-the-future-of-connectivity-aug-2020.png",
-          "width": 2948,
-          "height": 1652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-data-bandwidth-sparsity-are-the-two-biggest-challenges-for-ai-chips/",
-      "publishedDateTime": "2020-08-17T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more.md",
-      "title": "AI-enabled future crimes ranked: Deepfakes, spearphishing, and more",
-      "excerpt": "A study explores the possible range and risk of attacks from military robots and autonomous attack drones to AI-assisted stalking. Here are the top 5.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-enabled-future-crimes-ranked-deepfakes-spearphishing-and-more/",
-      "publishedDateTime": "2020-08-17T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-mits-shared-ebike-transforms-into-a-self-driving-trike.md",
-      "title": "MIT's shared ebike transforms into a self-driving trike",
-      "excerpt": "While bicycle-sharing systems certainly are proving to be popular, they still have a few problems, such as the limited availability of bikes. Researchers at the MIT Media Lab are working on a solution,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/d421d8e/2147483647/strip/true/crop/1400x933+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F34%2F8c%2Fcfe1f5214b99b661aa1355c22aea%2Fautonomous-bike.jpeg.1400x1400.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/urban-transport/mit-shared-ebike-self-driving-trike/?amp=true",
-      "publishedDateTime": "2020-08-17T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-google-claims-tensorflows-opencl-can-double-inference-performance.md",
-      "title": "Google claims TensorFlow’s OpenCL can double inference performance",
-      "excerpt": "Google has adopted an OpenCL-based inference backened for TensorFlow on mobile devices, which the company claims delivers a significant speedup.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/17/google-claims-tensorflows-new-opencl-inference-backend-can-double-performance/amp/",
-      "publishedDateTime": "2020-08-17T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans.md",
-      "title": "Hour One raises $5M Seed to generate AI-driven synthetic characters from real humans",
-      "excerpt": "All of the people pictured above are real, but what you are seeing are synthetically-generated versions of their real selves. And they can be programmed to say anything. Tech futurists have long warned about humans being replaced by life-like AI-driven figures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/character_sheet3.jpg?w=512",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/08/17/hour-one-raises-5m-seed-to-generate-ai-driven-synthetic-characters-from-real-humans/amp/",
-      "publishedDateTime": "2020-08-17T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
