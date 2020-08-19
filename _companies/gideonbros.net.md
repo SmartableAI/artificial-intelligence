@@ -2,7 +2,7 @@
 name: "Gideon Brothers"
 overview: "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich."
 type: "profile"
-heat: 42
+heat: 64
 
 website: https://www.gideonbros.net/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "GideonBros"
   url: "https://twitter.com/GideonBros"
-  followers: 474
+  followers: 475
 
 size: 11-50 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Dud1F65jkjY"
 
-secured: "vK2Pikbm26pYwtQIjBz64o48yns4T8f1lTmORXgHFlsOOAqw8NMSLbYpBhw2DyI7FsttTbi+P5O5epy/ThXQEG2gutzJ16y42ySz9kmJspgYDrjgeH2F9igPNQIXrC9zDuicjtqFwbUibJTDB84Y88KhXayHJIYu6Taw9aH2hMRymxTAlQ7INNxx9SdGltRqyO550Tx5z+KnTr0swPDqnDEYFupnwdFkMb8p0o7ayGn+qB3dqaECQ2WniAYxNMBrptqV0LWVGAzHQh88T0SOI0Q0CO0hE+/awSPvNdEMUGrB2j/Ashy6xqCqR/gy42tqD1kxl1jTwlXuRoVPw2hXcqOOJzeAmD7C9fzKrKbYFTjieHCwfX94/RZI3E4MQweP;kdSQTN5AOLGsiQk/6R+ghg=="
+secured: "G74kwMeqXlw4tqjZxGQ7P8zBPfBSc4WchtLd7FLaOHBqOGG7f8WiDiW2/cb5zpRx56CKvB5tdX24Gde+MlimuNxJtYZV9/ydQBv6+/RdgxFMZAw1yg5hnqTbfqFvPlL7FCAazO2gqmaUe4UpDIeE1cKMVknqzBM1syOD+yw+Ltoygtcsz4jFHgvRJJvwHUpI/H/w0lQq4QON88RKehev/OwOTzab5uHxCq9dub8OnxW+9yaenIYXTFCV75UeX7TfoC7Pz/lVy9pRSKSoOxRgcheebyfbl1c4jRRT2lfMmE+vNm3P7oEi2cYoCje3Aaxw7usur+lf0bMmqc1ozfSnZNjPLt2ye2+saFyYmtFBfZKQPK9wbJd36PIdADylMZqX;Da0qiveiLx3gmkj4LRfpOw=="
 ---
 

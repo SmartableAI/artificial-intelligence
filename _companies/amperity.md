@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amperity"
   url: "https://twitter.com/amperity"
-  followers: 694
+  followers: 693
 
 size: 51-200 employees
 yearFounded: 2016
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "rcHUsOLQNM9EOfF9iVT+ox3XTmZgP4o8D6IqFAQBjIEicR9UIDgJLmvIUH/ai4aZdPmJSW9asCzdoqvYaeND6YA6AdybcIzTW7bhIWmYD+hQTjoXRY+FT+GOkaQHR96FEgU35nQ6bpYeic87Y99HNLKAWHHz7MLZypcvx/dk6wUZLiNaEye9kxMn2+zrzHkJRrePtYePCzCubaBsqguIJxblFBP/xFMp4dQs/cIantyzAZW0WOg1c0FFPOZsf1SwjxztQy217gPy5W7ZQEzZFqfZsJo7aOjbfeEZdQwOyoijaDCl6T9/wc16iPnIyZaWRuOuWhDXBKMEvyp5X+1e6QwV4xbgQKf0cTGZpb4IjroeGFcbytlXgVt8n3T3MAUY;VXu2W4GQ+V+zwWfct1JByw=="
+secured: "cWVhRncmazq1yIDtbZuGrr8HTryPGZtlufcWNHGZdavvnwXECX4wfNhxAZzZnnY/iWhkdDBqBHIKAjaehI2Aa2ZzI5WT0QuENvtLHxdHfa9qZi/BX82wSQUWMNARqNnTQT8L1CEH1NFqAMBkh/nAgC38LzNVUuFbTZAPsUmdIzDDYNi/qprVH7GHeKMlt4XWAxlhKVKtimWZOIHRY5Lb7XFIYsOF2nVHLCVXSpXLTKcMU4DuaWsCvxSXL6HUeE4fP1REtfZux86JhpXoZ7CtyeVwPTwsaT6AGOfW3iyulbZjsXw39zUVCE6AZ1UfFGX5KGiXRULz7JGNjpskLgVXe23R8Msf4ZRtKSf1U7+mWZw/s+78w3+S7fO09IwWhUFV;/B/GoLvRwq3FbufH7rB0ZA=="
 ---
 

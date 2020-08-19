@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "Microsoft"
   url: "https://twitter.com/Microsoft"
-  followers: 8990582
+  followers: 8990847
 
 size: 10,001+ employees
 yearFounded: 1975
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Microsoft"
 
-secured: "MwIpIN6JgAfTCN4Wh55nEroGexZhyUknLJseeA2TvLeeXbP3bm5GUlIGPn3cLE+IDUzlp3m2XvsJOjtv4FXlF9/wS6HDEZWS9gbT/QijA7GAj19LizHdaGpBLrefhJOfDNsBSnIR4hov74o0/9q/yfrIpN/bnmtVi7iaQpIzM6zJM5G+xG6Rt7Oe95hJXNN80VdfEleRBD024Yk9PdwwZ1Sp6nAzi9xloAKLF8329yWdMZ5hUuZR4sNdbgv2bNwuWhcgXrR8dXdg366JBTFNdCTBPW8kXNhIEm+Wtq1iLTwuhEr03430qTnr/70a8fgp536HJI3eSSPIX35z0vsbesqXbZKux9n+aHomraoQZwdO9RnKTVnYgh/qvOkZ9q1RR5FBWOTnTIkbQJJCnBbkww==;JBBnCseF4//3GmiuAwhy6A=="
+secured: "EN03s33Yn+wOA9NSUiVCsM9z6cY+Yfs/mFywoFqOf1sJL48iaaINrORZ/AIIJuiU+fAIJyBeO5Du6QIchB4o0cDhxB+eeYbJxwInItQ6rrD/+erlY0RrR17PRwOOcq46GpUDd/MpJWp1FEjywOMDK6SAQ8hCp9PK3TLdtipofoF8W3+zmvUFpx8h2HrVvVir6Q6CcUSbNIJp+60RATFunkFdy77wgNKXcGoAeBSL5DSJulNz6YZOJibZA6lfymGByDQidnemIuBqvVn/Cg7p5XA4LCF6msigB6fmhi+2Um48HIQvlarcpXJ1jYlF2WMtHKc05+IfPJ5qUY9ZoM/82anKYIDrPV0u18HEpSypjinAkqKNrWQtnIxMNk9cYjVqEjss4qJWBTqMvqCx3UgsNw==;mal0frNmHb0q3g2EeFyeYA=="
 ---
 
