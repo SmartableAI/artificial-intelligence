@@ -88,17 +88,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "NYPD Used Facial Recognition Unit In Siege Of Black Lives Matter Activist’s Apartment"
-    excerpt: "The NYPD has previously stated that the technology is used to gather leads on suspects for crimes, such as robberies and shootings, not to identify people in crowds or at rallies"
-    publishedDateTime: 2020-08-14T23:08:00Z
-    webUrl: "https://gothamist.com/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
-    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
-    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 32
 
 secured: "cCzEkQlCDx0BeO4lOs8Q3kRAmPd+OkFfQyktkkv0kwlWKtkTwAICQMSwy7H0jGzezEOjBjn7bbsK4cZGj2QYgxNHY2T+c6ncux2XxFSc+KW6ZXiazm5yIZTbGdf7g8n02LjDHnBeBeESNaschfTtGaoNNjkQ2hhcHF87a/mnaX3Xgd8xnrengUiVqkDTr0pude0PvEzn99r4L+sElqryJdPskol/+4fy+AceLG7j/P0L9DbE6YuoT6aAf+iASj9aBvfBYNpyPtUuMdGUinX6OLPwI1XPc/6+wA1mw3PjDCzGzkVLCdKukqKvxwjwYLhuDSea2QIAwnEiWYNtwSTViY46pk+SzQSOSq+8vNOsKaxATKxI5ujDAl1B6KrUT+SFLD+IFqD15xvXJNTNx2Ngfdf+zpggXF+7ehNJZ3cQZbb9C+QANC/kzwWuhxaYOn6YvY5dnAQFtKt3BCJG47j9sMdIEEUa0O833R7avd4zZpNOsYFtpAtXZqawvcSJ0xIwIMzcq1hcgxMODBf4nj+KYg==;Jl+DAc2P0Pc+LN7S9CmpFQ=="
 ---

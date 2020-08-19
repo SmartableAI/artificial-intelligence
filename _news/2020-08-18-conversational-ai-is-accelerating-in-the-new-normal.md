@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "AI the Next Automation: New and Not New"
+    excerpt: "A few years ago, when AI started gaining popularity amongst business thinkers, the term automation was simply not applied into any AI conversation. Now you cannot escape from hearing about it. So, what changed and why does this matter so much for ..."
+    publishedDateTime: 2020-08-19T17:06:00Z
+    webUrl: "https://www.cio.com/article/3571747/ai-the-next-automation-new-and-not-new.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/08/abstract-technology-100855072-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "riYAwi6rlRtSqwKu0gkSYE8kwFF3fWuIoHV2vMWbEn/eQ9/P8nSDX/3VmIMzbnitxDPakKvMIW6NASHVwmZkTMUbzoJqDhmKSKPgcfyYYbXRf8Dn7sOsLpAKzOGowpfWnaYPogElYX+QOygJfi8virCMPqsduc0rP8gBHTRViZLpTea9LgC1Wi5S8LKCsQ5datk0Ju1WEdVxCUZa+LfVppd3CKTyM3XhH6keSZunVlkd6NpSHgvgq3ySQ7TNOhahs48eurPenKiqLgapl18T+7bMGt35oy/pYelpcK9gUwPkAHAvYGZ1Ayabvhm45uOjareAt+812F04LH6N1To2djTI8oqR8Zq+lEpk+lYfd8DXYJi4j22OHJgAjQP6JFJP39SFNvEo8UzuJaR+HdJGlYp9rC7KjqsdnuBpvtRC2Cw3Ln0hVXXtM7vTfLgV664azKFw5ho7p55oal9igWoiA0H/AzO0w2eSGGEgqkEwoiyzaUxGmFUTZpeez324R9/YafeNbcnlx8xYHAEVhx4UzA==;c9wld/QIkonhF9jRnXuUdg=="
 ---

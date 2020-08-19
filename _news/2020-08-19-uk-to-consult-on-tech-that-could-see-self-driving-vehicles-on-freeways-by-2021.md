@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "UK will take a crack at regulating future self-driving car systems"
+    excerpt: "The idea is to get ahead of future technology that could start rolling out as soon as next year. Numerous questions remain surrounding future self-driving cars, and although we're still miles away from seeing such a machine deployed,"
+    publishedDateTime: 2020-08-19T17:47:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/future-self-driving-car-systems-uk-regulation/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/future-self-driving-car-systems-uk-regulation/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/future-self-driving-car-systems-uk-regulation/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving cars could be on UK roads by spring 2021"
     excerpt: "The UK government has put out a call for evidence on Automated Lane Keeping Systems (ALKS), a function used on self-driving cars that can take control of a vehicle at low speeds. Industry experts have said that ALKS in new cars would reduce road accidents and could be ready by the start of 2021."
     publishedDateTime: 2020-08-19T10:04:00Z
@@ -136,6 +152,6 @@ related:
         height: 424
         isCached: true
 
-secured: "PRmQYRQBetR16recOzslLMxcTgn8PUvFJCicfLiaPz97XgGBriYuOUWqwMPCWdz4qnjCkN/qo8C//tnof9A/VzbmM/ehRgnCNhD9ULZk30YOsTY5cYEjlMQqLQFudhOdcFB2qUnADsaIZV+iNG1pA3Kk4DGWzSQQKUOOuSyvX0kKkNwSAW3C8bhxFt4Olz0mXbePXwCfMPSkDNLDl4TyCtnMohyG/9C5eEsFmpzm98NLZxsrLH3cEBHwcq7WbqC2EfXlCjJFc4HQKYecSAirtyh+5Nn9KNu/djQqKd3u2HwmU8VxvV1nWev7/MGMk3RsAlaDZrx21MQjfQ8lRsSGaQ==;aU2KYpn78H9yrYGeZLSd9A=="
+secured: "LQ8Z8qTuxlhmCu3ypcCpUcWfdbi2LqhVw7BX9Fe5HDpX3VGcCBPMAud/w9mCwy6cLK9iiEEs6qs87vZzSYQ5iR1dNA5le5SS4O1eTKEZRkYCBfigq2UCYFXNPh/xszaBRTs7KjafBr/rkX8tvKftI2Wbas3X/ssESgfuEZB+skJaYp/fmeGaSmNgez4nC6MJ2qnYxgHcBLvgI72bMwZEhK+ZF0li563LjQEaBYmL3YkaLunmD6XKIONC7nrVooAd3ACSsFKyPDNMIRWo0vq0FIxArgO0BeAazmN2bnnxN8r5glWz4FBs6AKxUCLas57ww1vbGYZnfNzsYJrJRaPAaq1SvI5Ilw8fM6Pm7Vfu+BFHEu/iv5jYhNXlX3rAqzMWwEIHcMtZwWkbS7Xm5yJ6qFzP4dmhOAg7PjyE9bt97dorCJJy2R1ud9sTXeDRLBj69y+8JKGeDH/mFAyI6Z5Xiqkv58zpVfDkjgOzdGRuzrV9hHF2Ie11UUxe79S37LXw5Xzjs+Xg+VhRk9/u6RtjcQ==;xBNjlWeRqH/+q3alFx8+6g=="
 ---
 

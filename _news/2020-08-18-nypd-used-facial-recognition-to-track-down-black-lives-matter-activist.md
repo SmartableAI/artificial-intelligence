@@ -133,6 +133,22 @@ related:
         width: 1170
         height: 803
         isCached: true
+  - title: "NYPD used facial recognition software during investigation targeting Black Lives Matter activist"
+    excerpt: "The New York Police Department (NYPD) said it used facial recognition software during its investigation targeting Black Lives Matter organizer Derrick Ingram, who saw his apartment surrounded by officers,"
+    publishedDateTime: 2020-08-19T17:49:00Z
+    webUrl: "https://thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black"
+    ampWebUrl: "https://thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 46
+    images:
+      - url: "https://thehill.com/sites/default/files/ingramderrick_facialidentificationreport_nypd_youtube.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "‘Fawkes’ tool protects you from facial recognition online"
     excerpt: "A new software tool called Fawkes can \"cloak\" photos before you upload them to social media to prevent facial recognition algorithms from identifying you."
     publishedDateTime: 2020-08-17T14:35:00Z
@@ -147,15 +163,20 @@ related:
         width: 1600
         height: 915
         isCached: true
-  - title: "'Masks' may test facial recognition cameras utility on I-Day!"
-    excerpt: "The Delhi police is using cameras equipped with facial recognition software to secure the Red Fort, where Prime Minister Narendra Modi will hoist the national flag on the 74th Independence Day. This is being done to screen suspects around the celebration area matching their faces with the available database of terrorists and criminals with the security agencies."
-    publishedDateTime: 2020-08-15T00:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20200815/3609760.html"
+  - title: "Global Facial Recognition Market Forecast 2019-2028"
+    excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
+    publishedDateTime: 2020-08-19T14:34:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-facial-recognition-market-forecast-2019-2028-301114914.html"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "tEzIBY+p0ve82jWlN7h2mwrcnzNDOL/Ws30LJo5iDn4u6/+HuLnk5Izyv34DXeqKcduIWCGys+7BZW3WT99oy8KwslS1Niu2fo4/MnGh1m0NFLnigZyamEmVU7vY/beulghvR12vRveqemi1ZUq4u0WiLmviheY+3MOdNqRIBZqxOPa7tA9ZZSKJwMTUg0l/bayqr6CDR4P1xucEG/NsGIGNJmZcz/ty4SF5Ru+COG8qFnAmvlqpNLcT4A1/SOWqTIYd6yBhO+d0J1AU5403nQLJoJqWYaKtUp809I2MnVB4tL6eLl3qTeXDY4IXTN/ifQjrQgg7hi68igI8VD8TLu1u1BaoXg1FUhMsp3zwfMWyRY0qSlNL8gftq237+DMqtOFk+Dc3x9Zo/vgBA6P1QybwARMd8GOWqDsGlKmVu5M9HYKkC+gMlTsw+MizjMItpTMt6pfuJR0YJY7ZVk3P7IgzAJhYkqd5EaeBcLl7itA/cecz7FSRvRGD3KFzoL4wAJK+/vo1KElLFhhU2ZSmYA==;wf+wsbU/z807HD5RB5EKLw=="
 ---

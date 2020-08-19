@@ -1,0 +1,63 @@
+---
+category: news
+title: "Global Speech and Voice Recognition Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2026"
+excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
+publishedDateTime: 2020-08-19T17:41:00Z
+webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2026-2020-08-19"
+type: article
+quality: 29
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+  - Computer Vision
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Facial Recognition market - What Are The Main Factors That Contributing Towards Industry Growth?"
+    excerpt: "Facial Recognition is a biometric application which captures image of an individual and identify it by applying"
+    publishedDateTime: 2020-08-19T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Automotive Recognition System Market 2020 Industry Size, Segments, Share, Key Players and Growth Factor Analysis by 2025"
+    excerpt: "A new offering by MarketsandResearch.biz entitled Global Automotive Recognition System Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 offers a meticulous analysis of the market that carefully examines the market segments,"
+    publishedDateTime: 2020-08-16T23:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-recognition-system-market-2020-industry-size-segments-share-key-players-and-growth-factor-analysis-by-2025-2020-08-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "/JGuZFxeYWU4N/OTzHdXTJtXRviFuih6RGm8/6bRTC8+sXnCUW71B5+3lwe3GHLnzZC/pmjA0PE0l9jGmxi1VvQ+Ow5D2/QFiIf6/I59Gr7uDYZu6j9snlXEay1STNXRcBEVbqqjs0v7tFpXhEkIh6HN4RqCfsa37uaIOg0aqahSsWjfE8yS2PmRvtvKfvhcs0zq8sHqY1EbYWhkLSIsbZPFLSswvBcQBraJ6rFL9QIN/wcEIAe6dWEM9gwzQjp+LOmAPvsZ5QP8sIeWZ+L1AnsfKrJOCZmUaqJeoDz27+wYjjM9qgn/w09AUeTswRBmKG6XUT9gXn68FDgiGp32DQ==;hKMFOPw3xG6v3nAnQFp6nQ=="
+---
+

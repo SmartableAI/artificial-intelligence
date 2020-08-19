@@ -8,7 +8,7 @@ ampWebUrl: "https://www.newsweek.com/black-lives-matter-activist-hunted-facial-r
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-lives-matter-activist-hunted-facial-recognition-technology-1525335?amp=1"
 type: article
 quality: 88
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -92,17 +92,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "NYPD Used Facial Recognition Unit In Siege Of Black Lives Matter Activist’s Apartment"
-    excerpt: "The NYPD has previously stated that the technology is used to gather leads on suspects for crimes, such as robberies and shootings, not to identify people in crowds or at rallies"
-    publishedDateTime: 2020-08-14T23:08:00Z
-    webUrl: "https://gothamist.com/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
-    ampWebUrl: "https://champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
-    cdnAmpWebUrl: "https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/nypd-used-facial-recognition-unit-in-siege-of-black-lives-matter-activists-apartment"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 32
 
 secured: "268s/21ex39KIn9/QjmTmfd/hoOFAcr0oSPvn8RHKlqyMmCaOP5t3CjF8w5jMHsvxJfcg2E5N5VdG70cGIomikIrzhyqLqooh/QnN04oah95J6ltleG5Ie0RyfgYtdMyGWEwGncd/G7W0dMMYWZKFOLHooZKu3uQBpqrS2YggZKR1djkHDHtELgniay1DY4pVFVdY79fmwLwdDI8as46SlOJey1QFUk37WoMCBZ0Vqb4SBpncVKredNg7e35DvHY1oqG1XTNIy0FM6NSv5EbcTbKVMnOla2/iuWZTtq20WAVII32/CK3bnhzbdfhIfxjcspn/FxWZWBj+6g1cALVKTtws8sBk5U2xrWZYfKNhGYjLOQDx8AIAqj6CPq1Miv+s1Xej0RkBvLz9BPdOdRYqGjFYt92xxUWhH8jH3jzrM3Ms/2cH5NAZ89qh5W0vRWVLNDg6Dz9vDaWi3+FTtBE3Y0DkLUYHt5rjyaN8IlSwpKatAPy5RljZUtC+rVntjw5bOMyiQDFp1hoy/0RAAM67w==;Ge9Gropec9AcM0BWt7XG8Q=="
 ---

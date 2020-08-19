@@ -43,6 +43,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM picks Samsung to manufacture new data centre processor chip"
+    excerpt: "Highlighting the chip’s AI capabilities, the company added that the Power10 will be up to 20 times faster at calculations for inference workloads than before. This will allow enterprises to train AI models faster and deploy them in the field. The company ..."
+    publishedDateTime: 2020-08-19T16:43:00Z
+    webUrl: "https://www.siliconrepublic.com/enterprise/ibm-power-10-chip-data-centres-samsung"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/08/Power10.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "K0RUKNzNRE88mu0wrKVagk+DiOF7fLEpIGqppJvXUIYhDWO7eaOrvjPH8XaQGKPJzhTvm0B8/aE0k4YmksIkmoozeaRAObCdYgLMClXpjGccpmrTN6Ov7/9R1cHQvWmGm7mLHibmk8c1l/O+jowuFRHBNmt7YjzY5X0pOEYyevdiLNCb11aWJB05Yd+WMYcCwtd1xQrT41ES3O/UJP1yAeul+cumCg3XNySMuGV4Dj8As6npw2mAcJv5fuxAVwkG3XjeJ/rPrQCbR2CatyJPn/KwRU0xwBFeqJl8kzds5yT/tTbSFxYkzJu5swK5W/6GNq4XMV/MCw1b/tvQza7bUA==;syCSj0vULPfpJUm0F7oTFQ=="
 ---

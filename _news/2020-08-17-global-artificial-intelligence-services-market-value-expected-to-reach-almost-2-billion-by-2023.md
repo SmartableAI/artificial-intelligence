@@ -2,32 +2,23 @@
 category: news
 title: "Global Artificial Intelligence Services Market Value Expected To Reach Almost $2 Billion By 2023"
 excerpt: "Baidu Is One Of The Largest Players In The Artificial Intelligence Services Market, According To The Business Research Company’s Artificial Intelligence Services Market Global Report 2020-30: COVID-19 Growth and Change (Companies Covered: Intel Corp."
-publishedDateTime: 2020-08-17T19:19:00Z
-webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-services-market-value-expected-to-reach-almost-2-billion-by-2023-2020-08-17"
+publishedDateTime: 2020-08-17T19:05:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/08/ab17125814/global-artificial-intelligence-services-market-value-expected-to-reach-almost-2-billion-by-2023"
+ampWebUrl: "https://amp.benzinga.com/amp/content/17125814"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17125814"
 type: article
-quality: 58
-heat: 58
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Finance
-  - AI
   - AI in Healthcare
+  - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "EVfbLFmWDbFz6gBThdHEKeLtaqgc+7wgi/ySaoFFZglt8GHR07RuDEVLcqyUY1xvutZesneevzCdGsFYOTJTFZ08e8CoYllDyO4WrptulNmGHpfzGaC3uzrNxlKNzvTCoR5ZzUCs7T0Vq4wuorkC7qVq6GBS0EbFpVCfWBootVwYMzwuoVttsBmfO2H6ZwOPyZugdlN99loK/iMnR0vEFE53zoZI/s7FY0lHjytJbu1tIHbbSSjXRdVv9WQ0ir3cQcPO/Z7la69K7iuPGQleGbLpGXsnWkCZsMfyCESl7p/OoCtnXonEubFL9Z5eAGpfox/0b589beP8mQeDJVwUQA==;SG8CbUDAh81x4fPE7a3QFg=="
+secured: "sZSQAVpIamz5M4KNSjHSl+g1pcV7hc6skcxrvRrtq408Y2TTp0gdzUXSmmOs95BIeREGLog2ecaqVsENa6ZWJQJFVQsBqh48ztGbxALe+Xbd0Xm9PVjYWYrhOzvS3fG15Bm9SeQ8806CxPdccxXTRzpeYLyqMO9yFDnGcSixrXbmYRG21qTP3CHUzx0ZpqDzQELby8Xau4KEdcRCOygWlez0clIU0kn7JwrQ4Sp0q3dNSnvPUbuGSxd5c0BBvxpXlCvXrGqW+Z1GZDzCqab5uF9qFZwC3INyXxjRN+fDqCB74csvXWkxjuY4Z3A1SmHkZzXpHgIkNVcavBaPcBAHRQ==;eT/puHR0pj12cF0spy8NRA=="
 ---
 

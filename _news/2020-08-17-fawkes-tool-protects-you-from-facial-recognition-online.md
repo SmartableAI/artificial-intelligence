@@ -143,15 +143,36 @@ related:
         width: 1170
         height: 803
         isCached: true
-  - title: "'Masks' may test facial recognition cameras utility on I-Day!"
-    excerpt: "The Delhi police is using cameras equipped with facial recognition software to secure the Red Fort, where Prime Minister Narendra Modi will hoist the national flag on the 74th Independence Day. This is being done to screen suspects around the celebration area matching their faces with the available database of terrorists and criminals with the security agencies."
-    publishedDateTime: 2020-08-15T00:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20200815/3609760.html"
+  - title: "NYPD used facial recognition software during investigation targeting Black Lives Matter activist"
+    excerpt: "The New York Police Department (NYPD) said it used facial recognition software during its investigation targeting Black Lives Matter organizer Derrick Ingram, who saw his apartment surrounded by officers,"
+    publishedDateTime: 2020-08-19T17:49:00Z
+    webUrl: "https://thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black"
+    ampWebUrl: "https://thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/512729-nypd-used-facial-recognition-software-during-investigation-targeting-black?amp"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 21
+      name: The Hill
+      domain: thehill.com
+    quality: 46
+    images:
+      - url: "https://thehill.com/sites/default/files/ingramderrick_facialidentificationreport_nypd_youtube.png"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Global Facial Recognition Market Forecast 2019-2028"
+    excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
+    publishedDateTime: 2020-08-19T14:34:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-facial-recognition-market-forecast-2019-2028-301114914.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "GKq46YTAB2saeTopzHXMJNUtB5EEQtRGysv2cbiwXSVEQysWdDIkzuM40QkDO6mnnVk/QHmXMBxll7kCxJeEJ6hpX1GSjKQpa+huuSOS0nYGWWlKJvcJKSsAVvG3NU51Q/gMBcAFpP/MRZwoAi6ElYvAYl+n0YYtiSlJaFf16lnl9x9ecfjNEkmDXyqKD7zDGO9gOLc6lOp4DeE84/M1EMCPJdu+golYpWxpR6Ya7nTVcX0aTrKkjgLwWJloozmCffYUN2IfPOQvKFauL5Ktqx17ZuwEOq1eYzKAXyxRqpRg7HQvkbjMnq1Xw7TP5C3GNKI4Z14TtrjaO5bHfRQFUgF70qBCBaFkpVasSr4KpaHennr/4PH4i3fCoLBjopjm5+fQjtbNnMChcLnFDiFzRuTUho4qp0p5AjMuheol7SKNVdqYWKtxje/Q1aMd6RQad3uwmvfqCA/VDqgg8Cv0rL4xHcMwbyIJZylhN6/XyE+O3u7rttT9ylyAbbWY0BnyubLf9qBp7WY3uTG3FeTy4w==;Ga8BiSxurQ6hcjkzzhK+NQ=="
 ---

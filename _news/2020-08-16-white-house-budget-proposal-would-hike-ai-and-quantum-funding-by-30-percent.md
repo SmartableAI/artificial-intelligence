@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/white-house-2021-budget-ai-quantum-fund
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/white-house-2021-budget-ai-quantum-funding-164719748.html"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Engadget
@@ -27,24 +27,6 @@ images:
     width: 600
     height: 350
     isCached: true
-
-related:
-  - title: "White House Aims To Boost Funding For AI And Quantum Tech By 30% In 2021"
-    excerpt: "By committing to invest $2.2 billion next year, the Trump administration says it is on track to honor a pledge to roughly double non-defense R&D spending on the two key technologies between 2020 and 2022."
-    publishedDateTime: 2020-08-15T00:30:00Z
-    webUrl: "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2020/08/14/us-to-boost-ai-quantum-funding-in-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3725560f3c747c3e65fc5f%2F0x0.jpg"
-        width: 1200
-        height: 702
-        isCached: true
 
 secured: "E5bBaCq4+kYIpDQ0vZfqzkPQzCB/zmDywx+A82QepZWWH66jyITlqO90n1MKsbSb5xRgHNaQIX+ExVfvXkvSJ8a7uzdNPFAYedli7WlHCYOg1oKNzE/obUdkeGn49/q2N0Txb2zNDqYZamfC2yFl/htYendNw3yV/bZVw/IorIrTdTajFCUlbhbaRsAGwtdtVz4CU+Mhb0bk2oWE7K95FKwlrhZ8KH5rIOnx+5ZUf8hJaSozPNZt8N4t8Y16uV7iojinMmT4uCngt+tbKu3McU//5piCnh2ZMhG5k8tna1cC/QrZSGZ4yXRA5MVNai1qpoEpNxz/loWXmuZf5SB3//dhHbfPOgRNLb9fsaakd/jpXssll4ZrPJKpY7NyyNc7E3yBa6M7qkR41mvh//CgRAC9WLPfB5xLCvF6GliOdr15UwSMo8JmS3DC8lS6nBOpivUpvumflbgUVYCyu/IJ5E9ShuVkUBORTjGmLNcN52zDd5GkXFGgv91UDWy7qkPSbRUpWkjmLA3tBYTiM1gP7g==;z8XrtA0F5+pFHYx0aCAzUA=="
 ---

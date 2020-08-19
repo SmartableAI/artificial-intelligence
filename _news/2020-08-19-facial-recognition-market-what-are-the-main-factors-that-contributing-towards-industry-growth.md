@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Face Recognition Technology Market 2020 Business Statistics of Report that Emphasizes the impact of COVID-19"
-    excerpt: "The market research report entitled Global Face Recognition Technology Market 2020 by Company, Type and Application, Forecast to 2025 presents an in-depth analysis of industry- and economy-wide databases for the business management that could offer development and profitability for players in this market."
-    publishedDateTime: 2020-08-14T23:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-business-statistics-of-report-that-emphasizes-the-impact-of-covid-19-2020-08-09"
+  - title: "Global Speech and Voice Recognition Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2026"
+    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
+    publishedDateTime: 2020-08-19T17:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2026-2020-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

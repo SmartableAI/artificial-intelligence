@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft has a plan to try to improve Azure outage assistance"
+    excerpt: "And its Azure Support account on Twitter tries to guide users to look ... \"We are also in the early stages of expanding our use of AI-based operations to identify related impacted services automatically and, upon mitigation, send resolution communications ..."
+    publishedDateTime: 2020-08-19T16:48:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/08/19/1c3ed497-d8d2-4f60-877a-4592d3251668/azureoutages.jpg"
+        width: 884
+        height: 441
+        isCached: true
   - title: "Microsoft Turns to 'AIOps' for Better Azure Outage Announcements"
     excerpt: "Microsoft has streamlined its Azure outage reporting via artificial intelligence (AI) technology. This notion was explained in a June Microsoft announcement as \"infusing AI into our cloud platform ..."
     publishedDateTime: 2020-08-18T00:01:00Z
