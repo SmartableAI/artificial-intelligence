@@ -33,7 +33,7 @@ related:
     provider:
       name: Business 2 Community
       domain: business2community.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://cdn.business2community.com/wp-content/uploads/2020/08/aicustomerservice-min-900x506.png"
         width: 900

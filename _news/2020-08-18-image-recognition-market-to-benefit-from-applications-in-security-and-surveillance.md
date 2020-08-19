@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market 2026 | Share, Global Growth, Overview, Size, Opportunities, Leading Company Analysis and Key Country"
+    excerpt: "and Support and Maintenance), By Technology (Barcode Recognition, Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented ..."
+    publishedDateTime: 2020-08-18T07:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country-2020-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Eh54D1sWsBom76yK6gCJX7s67f7v0YSK59Sbj1L5IoSerY1NdYVGLC93HfCrWasm5U4Bctu2CN43DyBi4nvqH3xOvM7FiZGINcPRtCbIhQ9Ve7mAO7IynPCTrWXa8gIRqd/OL0KrcAQh1+BS6KrgaKMVQ0E8H5/uLy7oQ9nFbpytPszMI5QbyKrZPyhY0SqcSHz/in6F614llDAguVJZl1XpdS6Jbyx05KDb/JqxL/9X2KffjLeXhih4ri1q8AOSNfBFs0ey1u39C5quCs66zzKXvPu4EU9AN9kqI5A7h5R576mCnVdCCopkt3+f4QqZelpNeCwr96hIjJM+dYnbPw==;KahuQis3TkNPqK3h8N4nbQ=="
 ---

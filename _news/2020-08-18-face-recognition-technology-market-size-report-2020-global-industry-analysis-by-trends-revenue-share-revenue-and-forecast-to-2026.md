@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-18T13:52:00Z
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -28,33 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market Analysis 2020-2023, Growth Rate Evolving Technology, Size, Share, Data Analysis, SWOT Analysis Forecast"
-    excerpt: "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,"
-    publishedDateTime: 2020-08-15T03:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-analysis-2020-2023-growth-rate-evolving-technology-size-share-data-analysis-swot-analysis-forecast-2020-08-14"
+  - title: "Global Conversational AI Market Worth $13.9 Billion by 2025 - Revenues/Shares by Component, Type, Technology, Application, Deployment Mode, Vertical and Region ..."
+    excerpt: "The \"Conversational AI Market by Component (Platform and Services), Type (IVA and Chatbots), Technology (ML and Deep Learning, NLP, and ASR), Application, Deployment Mode (Cloud and On-premises), Vertical,"
+    publishedDateTime: 2020-08-17T10:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200817005260/en/Global-Conversational-AI-Market-Worth-13.9-Billion"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200817005260/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market 2026 | Share, Global Growth, Overview, Size, Opportunities, Leading Company Analysis and Key Country"
-    excerpt: "and Support and Maintenance), By Technology (Barcode Recognition, Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented ..."
-    publishedDateTime: 2020-08-18T07:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country-2020-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 627
         isCached: true
 
 secured: "9cozRD5RbqIN/vWYmtayZLc26jrgTZVe2IUt0UyKtJ12VcmeNYcxZSxYM2acS/IQZ1wwOxrGYQeVedUjNTatGYLUbavfIz64GIj8DJSi/MdYNaJeTIf9jsoCzwndsWVxIJBDfY4/YSTy4yk7KKHo5fEFy+9oiBoA+u53P4Z46EGHFbuZBULi/jBGpwqUTdohB8AqlDo3LmHNsw1n4K2qVgoYB+xrEhApURmvzENinpXfSIchW0RHKDK0Su11K5YqAHi5HcBXcEGB5RAczb1c6EbgWwmNOC2nefArNU71CGO8BG3hQiNdsCetm5euVrpxiTil5UKwfPVMwFf+iDW9pg==;3lpr0OIGEwvqrZOgfOxCwQ=="

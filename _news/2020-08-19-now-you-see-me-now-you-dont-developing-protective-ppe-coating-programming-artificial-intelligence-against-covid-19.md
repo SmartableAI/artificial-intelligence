@@ -32,7 +32,7 @@ related:
     provider:
       name: The Brown Daily Herald
       domain: browndailyherald.com
-    quality: 6
+    quality: 8
     images:
       - url: "https://www.browndailyherald.com/wp-content/uploads/2020/08/pasted-image-0.png"
         width: 1241

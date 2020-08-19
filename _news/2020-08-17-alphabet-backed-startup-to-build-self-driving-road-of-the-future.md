@@ -25,22 +25,6 @@ images:
     height: 2160
     isCached: true
 
-related:
-  - title: "Self-driving startup finds the middle ground"
-    excerpt: "Most of his counterparts in the self-driving industry chase a moonshot, making enormous efforts to develop systems capable of handling complicated traffic scenarios in an almost-limitless number of areas."
-    publishedDateTime: 2020-08-15T04:00:00Z
-    webUrl: "https://www.autonews.com/technology/self-driving-startup-finds-middle-ground"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/GATIK-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
 secured: "MibywDF/DIevdCLtqMrSwoGMC+Ab3xBbR5DMeMD26byaJJLL9nkWZX5h/OHQ5lijEMJtmnDeWaMUjknVADLh1L7nfgIoULS2gWP9fIv94WH4Sf2lLZhxdAuz9lu/tFFOhktvAzSZx1DZrbY/7T+xQFOlQww1ubpsmQkglVgpj7xg0BuWEhMEAOiEoHC5WBYwuFKGUHiJdbcVvhh9D+jxxyro/wV2L8vaoC3aRIH3Yzbml24r9qcPArbR5bQ3y4fFegUPRaeVgo4u6XGdATY3wdepuk65sXPEiTQD2TFrlq60KzCg/9wPd0vcGvVACy1x21tFmh9WPVyUbM2SIw8Ebj/Umhci04qiu1M1rT9xRQxo2G7h8MqaXWEi2M08gQWWnLNH8Jz02GGocPx+j6/d7qYEXnSOpcGd4usScsF5irEGeTtkKEFgQFRZJsBDQRfkl0LxS0jxxply0ZBtbaUIlSQSx54M2QB8sZLM9IbGpwe8jfCO5I/T4NH95QpS/Kgil6AUoJSHMFdfD9NlLOxZxQ==;8FtVeBBMRFAxVCJESf93OQ=="
 ---
 

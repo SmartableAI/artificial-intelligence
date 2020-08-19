@@ -7,8 +7,8 @@ webUrl: "https://www.business2community.com/customer-experience/can-artificial-i
 ampWebUrl: "https://www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788/amp"
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/customer-experience/can-artificial-intelligence-improve-your-customer-service-02336788/amp"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI in Finance
   - AI
   - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.business2community.com/wp-content/uploads/2020/08/aicustomerservice-min-900x506.png"

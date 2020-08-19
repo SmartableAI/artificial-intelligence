@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/08/18/researchers-claim-their-ai-can-he
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/18/researchers-claim-their-ai-can-hear-if-a-speaker-is-wearing-a-mask/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 603
     isCached: true
-
-related:
-  - title: "Robots who can hear work more like humans: Researchers"
-    excerpt: "Giving robots, who currently rely on vision and touch to move around, power to hear sounds and predict the physical properties of objects around them can be a game changer, say"
-    publishedDateTime: 2020-08-15T03:52:00Z
-    webUrl: "https://www.thekashmirmonitor.net/robots-who-can-hear-work-more-like-humans-researchers/"
-    ampWebUrl: "https://www.thekashmirmonitor.net/robots-who-can-hear-work-more-like-humans-researchers/amp/"
-    cdnAmpWebUrl: "https://www-thekashmirmonitor-net.cdn.ampproject.org/c/s/www.thekashmirmonitor.net/robots-who-can-hear-work-more-like-humans-researchers/amp/"
-    type: article
-    provider:
-      name: The Kashmir Monitor
-      domain: thekashmirmonitor.net
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/www.thekashmirmonitor.net/wp-content/uploads/2020/08/robot.jpg?resize=1024%2C669&ssl=1"
-        width: 1024
-        height: 669
-        isCached: true
 
 secured: "H4037guHV/lXJgM8KZuL2BOCn4dxvNd1hZju/RirP44GG3QTI+m0N2ccV7AJj3eE0+T/lQy22/bvZitpvH1I/jX78O7ZudKSO6M4Z01L5O94W4butg46RGG++fv74RDlZrwPdEoy+YH8qR5Clc9cjIZtR5Z+Md79FCUH9VbmfTp1EpKT879r6LYZLaKqVVZodZPy3m+WT4jusEWlYB2XcfDKamxsXJYMXzeUJoI1aImSf+Olwn2JAu2U39yqx/V5nl8AcWMxlcGDQOAcjl3R2OzMSDzy6OwyJGA3QQarSuFODuoYeV4AVB3FePQ+7ylcqa90mDY0l1qVIiEq801v1Q==;4H+s3lxgM37UGWZ24f1DUw=="
 ---

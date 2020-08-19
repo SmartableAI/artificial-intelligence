@@ -348,6 +348,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 24
+  - title: "Michelle Obama's DNC Speech Is a Powerful Example of Emotional Intelligence"
+    excerpt: "In return, she provided a speech that was highly effective, compelling, and drew on singular emotional intelligence to drive home her points. Here's a look at how she did it. As you might expect, a lot of harsh things were said about president Donald Trump throughout the evening."
+    publishedDateTime: 2020-08-19T21:54:00Z
+    webUrl: "https://www.inc.com/minda-zetlin/michelle-obama-dnc-speech-emotional-intelligence-empathy.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 22
+    images:
+      - url: "https://www.incimages.com/uploaded_files/image/1024x576/GettyImages-1228087357_439425.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Michelle Obama 2020 DNC Speech: \"Wrong President\" Trump Can Not Be Who We Need Him To Be"
     excerpt: "Former First Lady Michelle Obama lambasted President Donald Trump for race relations, the economy, and the state of the union in her keynote address at the virtual Democratic National Convention on Monday night."
     publishedDateTime: 2020-08-18T03:28:00Z
@@ -363,6 +377,6 @@ related:
         height: 892
         isCached: true
 
-secured: "IqEG2Z0K2TvD/Uk2uckiC/YFdI6bwpSseXx5LyLZuu9n48zypZ9cUCBx0sd6vLWAQGRc/DS+zczAqdolay2/f3biwSesTtljWkLzFy2CG5OnNhipRk1D5YsJeUbjv5ChwCdWLA+DAef6od/HAjpwdvxInzF6Ai6ENEIl8HuYe8wXqi9H+BAVIY2PoBonV79G2XXNYgJfQCXZUJ9zcCaPydXjG7rJdBZya/gU89/QcJ/FL5lh/PQ3Q2A4gq+03VpNVoiAWFycHd0OEhD0o0PxVKmSdfRqtWwcJzAzOHlTuMOtv2FePCu7mlOr5ctVMSiC4mPKPnmT1ckau0mut0u7KA==;tO9Vuf1ApAva4T/F+qzn5w=="
+secured: "wLWCsExGtZT9SsACs5S9I3XADyscW7ITH9saWjFQfk90q/PsDqOQ2nkvs7SIz4Cm05pC1N2mtWSBQjV+pwR5Js9J4IE7TRopuCLOBfmbKHshGnzW42ZwdCPdNROFpu1FwS/yfuXJqWCU5D2pDhNJE+6/cslm553WY43RjWn6LU1iNpr1kTiv+iEmG0Vjz5VrMekn515+oR+kP1L6qM5/z8Vs0CCjlCAL9cg7JS8pg8nptF39Xs5oJBYVYC2NpHXeIHfts2EFKLhAouu6nZjZIQemhSZxtPbg2Joi+/3wyYLID2F/9jZH3QRuzWV3DEzTwsdqDN2pspfNAcYzAMqgHyY0x/phlNqee4ffYWclWbxSbWMRATInB2bIz+8D2Sd8oxam9QKa4sCc9wBd7tmIbZTNbxNGNgfYidrVqxH/C11rDgXhMcs+3yf2qdCbHiwawNOho7RrEzuNTwPctEABtl4HEiC/yeVHs7Y0ldKC7/IrWJYDyT3qdJ3jTJ6XTFrKdR40nG0Hai/rDkw9kjv5dw==;4vtvEUlU/C58yxgynUrAjA=="
 ---
 

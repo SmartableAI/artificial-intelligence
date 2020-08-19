@@ -337,6 +337,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 24
+  - title: "Michelle Obama's DNC Speech Is a Powerful Example of Emotional Intelligence"
+    excerpt: "In return, she provided a speech that was highly effective, compelling, and drew on singular emotional intelligence to drive home her points. Here's a look at how she did it. As you might expect, a lot of harsh things were said about president Donald Trump throughout the evening."
+    publishedDateTime: 2020-08-19T21:54:00Z
+    webUrl: "https://www.inc.com/minda-zetlin/michelle-obama-dnc-speech-emotional-intelligence-empathy.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 22
+    images:
+      - url: "https://www.incimages.com/uploaded_files/image/1024x576/GettyImages-1228087357_439425.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Michelle Obama’s speech in full from the 2020 Democratic National Convention"
     excerpt: "Empathy: that’s something I’ve been thinking a lot about lately. The ability to walk in someone else’s shoes; the recognition that someone else’s experience has value, too. Most of us practice this without a second thought. If we see someone ..."
     publishedDateTime: 2020-08-19T03:38:00Z

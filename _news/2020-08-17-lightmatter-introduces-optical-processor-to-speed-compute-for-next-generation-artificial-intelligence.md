@@ -38,6 +38,20 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "Photonics Processor Aimed at AI Inference"
+    excerpt: "The photonic processor runs PyTorch, TensorFlow and other standard machine learning frameworks to generate AI algorithms. Demand for silicon photonics technology is forecast to grow, with some regions expanding at a 25-percent annual clip as optical ..."
+    publishedDateTime: 2020-08-18T00:01:00Z
+    webUrl: "https://www.hpcwire.com/2020/08/18/photonics-processor-aimed-at-ai-inference/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/LightMatter_board-crop_800x.jpg"
+        width: 800
+        height: 522
+        isCached: true
 
 secured: "HpOXeZDxcVYXTZh0BRbR5bjEkJvWB7Vj6hhecxLzBUIArLMPZ9uPXzpOgPqYzFs8EXbiEWj2H5lT+XCespvl1FX6Vm7BKnEslwD1rFuECTG9NVnRsV1mTsgVEvT+cJ1EVy9quHs0snpfPfBVOty/TnAsC1x4msoTzrevnYUneUKVCRBZgJg2g19QpTyA0gjLE6y4mawJQ0r7GF5zVGdLbSOIs/jX7vgm3WULWf9/GsBeyZE1WzCfou4G0BO67c587pzwN0ULFVfUltCFGn1VMwDq/QOqYd2AOC+8DU0uRg1QqKBi9fXLqU+YhvLbT/8CaFwqmmBRfR8eGTPwMBpvzGMzT8pZTfaxQ7u36deRL3R+WI31jxXkdZ//MBMhuFW5sFvBowF56LV3FObYgWso51I3juLeYF364B0IFbXiTE1CAiCPrwSwv4MGGYsKXsPKkzscliyFR9ecX1pDjDLamdslCP4bFrX2YZCOC3yMNx/RUstmp70Dc9T7cEGL4aEc+a2E6VJPa9VsnWT27W2yaA==;84AckOOGWysge0QyTLzDGw=="
 ---

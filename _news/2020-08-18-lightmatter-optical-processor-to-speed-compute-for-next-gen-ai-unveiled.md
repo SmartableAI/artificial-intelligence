@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Photonics Processor Aimed at AI Inference"
+    excerpt: "The photonic processor runs PyTorch, TensorFlow and other standard machine learning frameworks to generate AI algorithms. Demand for silicon photonics technology is forecast to grow, with some regions expanding at a 25-percent annual clip as optical ..."
+    publishedDateTime: 2020-08-18T00:01:00Z
+    webUrl: "https://www.hpcwire.com/2020/08/18/photonics-processor-aimed-at-ai-inference/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/LightMatter_board-crop_800x.jpg"
+        width: 800
+        height: 522
+        isCached: true
   - title: "Lightmatter Introduces Optical Processor to Speed Compute for Next-Generation Artificial Intelligence"
     excerpt: "Lightmatter, a leader in silicon photonics processors, today announces its artificial intelligence (AI) photonic processor, a general-purpose AI infer"
     publishedDateTime: 2020-08-17T14:20:00Z

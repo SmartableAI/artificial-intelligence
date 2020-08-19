@@ -23,15 +23,15 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligent Process Automation Market 2020-2024, North America, Europe, Asia-Pacific and Rest of the World"
-    excerpt: "Global Intelligent Process Automation Market Research Report: by Data Type (Structured and Unstructured), by Component (Solutions and Services), by Deployment (On-Premise and Cloud), by Technology (Machine Learning,"
-    publishedDateTime: 2020-08-15T03:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-process-automation-market-2020-2024-north-america-europe-asia-pacific-and-rest-of-the-world-2020-08-14"
+  - title: "Face Recognition Technology Market Size Report 2020 Global Industry Analysis by Trends, Revenue, Share, Revenue and Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Technology Market” research report offers the breakdown of the industry by market size, rate of development,"
+    publishedDateTime: 2020-08-18T13:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-report-2020-global-industry-analysis-by-trends-revenue-share-revenue-and-forecast-to-2026-2020-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
