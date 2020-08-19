@@ -5,7 +5,7 @@ excerpt: "Banks demand security and compliance across mission-critical environme
 publishedDateTime: 2020-08-19T00:23:00Z
 webUrl: "https://siliconangle.com/2020/08/18/red-hats-openshift-helps-users-deploy-ai-and-machine-learning-solutions-kubecon/"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/08/Abhinav-Joshi-Tushar-Katarki-KubeCon-2020.jpg"

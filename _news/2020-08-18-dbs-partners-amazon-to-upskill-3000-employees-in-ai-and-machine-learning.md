@@ -5,7 +5,7 @@ excerpt: "Financial services company DBS has collaborated with Amazon Web Servic
 publishedDateTime: 2020-08-18T03:34:00Z
 webUrl: "https://www.marketing-interactive.com/dbs-partners-amazon-to-upskills-3000-employees-in-ai-and-machine-learning"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/dbs_building.jpg"
@@ -89,6 +90,6 @@ related:
         height: 454
         isCached: true
 
-secured: "R1WbWKhDCgBrp4Z7CUVpcgho9mUHKKUO7T+ltDRQXWnVfyKrcIyBd4unlLWn3Dtugs5tIjKR2jRGhQ6zLaD6LhGDZKHzDYDLkstsVeA1uiLz5+0sg8Hb+jLP8odrljSQts37IbUUXNbdiSXL1fBFR/3UhVBTxlmZT/4aKtz1bhRMnk8pUeGZTaNAiYushlSErtrithPaNTnZh/zQHLYlxYa9qUGrCbHhphOlFXEx+wAaX42qK6p1Ds9LK5oJQeLMoQq7+oXeIxgEJTx5QlwiX3JffuDM+PVlkI4PXZmAdPYuegtmvv98fICB9u/AWo71QAjT5GEXQ92vi2GGidXQfw==;woUGsrv+9SiOOK/u+R/CmQ=="
+secured: "lDvCmznEu75zq/QpXJ20jud7QHVGlfZH/AdAgG5+H4Vj6p3OFezKfeCEZOPygXk4BBGnSSyLjklq/PVnkh0KNi/7S5gw8SA0+5nmFxXPMLcqroXSrL+SxRFr4v9cV6dBbNyO0sq+EBMdvrYBXcosRJSKSH+3j2jt+jSlFd/zGOBIkwqdH6WenyDQ7L8z8hDz3te3ug2jOT48TXt5njQvc/tEXHNncJ+8owqoFFHBHksDgjnsixX6kzLWBHCulzPSzBSSt5/1aPqTBOGCNztcCiksITn1P4IhYZGva0gmiqVbADTOBxDlHyMtNtZSBKkY7AhuecvWg+7tdRBhh/X1iAyJLskoOXvkgE5SPCS3l02rQxYsq+XsavmFvKLEOK+YPj4aF16ziuUvH+EoElp3Fyo1tJ+TeAe/6F54ff+zu54HwzhHEQxQoOYahhqOQuKH62ZdC9CWIRGRUvjZ7gJGTWXZ0NJvboKka/oVMYelIXh2ayGFKEgyp8/ZAg61k2tVePX3WYugkmCIVvVT3TnoTA==;FUgea+ozHTW3INUWL100/A=="
 ---
 

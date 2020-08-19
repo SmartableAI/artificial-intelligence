@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T16:39:00Z
 webUrl: "https://www.dailyrecordnews.com/ap_news/business/artificial-intelligence-in-agriculture-an-industry-overview-2020-2025-featuring-microsoft-ibm-and-agribotix-among/article_09c94850-1383-5de7-bb29-a94bafb6b950.html"
 type: article
 quality: 8
-heat: 8
+heat: 18
 published: false
 
 provider:
