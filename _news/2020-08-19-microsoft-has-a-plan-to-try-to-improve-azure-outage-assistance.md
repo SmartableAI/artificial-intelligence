@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0716vrm_Take5.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Microsoft strengthens translation support for Indian languages, adds Odia to Microsoft Translator"
+    excerpt: "Microsoft India has announced the addition of Odia as the latest Indian language in Microsoft Translator. The cloud-based translation service will now offer real-time translation and transliteration for Odia."
+    publishedDateTime: 2020-08-20T04:00:00Z
+    webUrl: "https://orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/"
+    ampWebUrl: "https://orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/amp/"
+    cdnAmpWebUrl: "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/amp/"
+    type: article
+    provider:
+      name: Odisha Diary
+      domain: orissadiary.com
+    quality: 48
+    images:
+      - url: "https://i0.wp.com/orissadiary.com/wp-content/uploads/2020/08/17aaug-ms.jpg?fit=960%2C640&#038;ssl=1"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "mlS70TVeBvT7oHB/XOp59rASKYk1u/EbVW1lHJBV3NszDnygS+lS6na7cNEKPa1sbRiI6b/Ioif/lu0o+qO+dXuqerxpxv+jcDWkoRrQM90kvemuMeE+bAdnrCqzsAmVRhvMnY66Q7XKC2cAhhhLEotxuwsLNVkYKBqoBJHK554qKNb88yimBMDm6U/uaakxfhTev6OuD3pfyo7J08HloH571RVnQv9Ij4+Z3sNYeKPgzmgJHKrKoN/Vi5dcNdyjeT9GA5rD3EfQ0QmMs9oEKCO2PplYSBrkuxZbojYOFM2EBNhi4Y5652D5Wih0LVTnVg4fadLK69mLSUiVyVr2IeG8aE14CN+Ho+hI1noU+X67D2SsKdBD6YIdfd8IWqjXFyoLlloLGMYK69Ax9uU7TeumimuyCLFEWNYBVokrFoU6ujNnEoWI+OW30mQ35ydULNu0CW4xRVLHtakWO7Ji00aHDMuaoIVhc7btKQQ4lKfNcDMtwlCqE7GvIEniOyqW;4Vo3O3vs8pwp7W295TkHFA=="

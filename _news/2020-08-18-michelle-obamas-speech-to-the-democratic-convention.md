@@ -44,6 +44,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Full Transcript of Michelle Obama’s D.N.C. Speech"
+    excerpt: "Michelle Obama, the former first lady, was the keynote speaker on the first night of the 2020 Democratic National Convention."
+    publishedDateTime: 2020-08-19T00:05:00Z
+    webUrl: "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.html"
+    ampWebUrl: "https://www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/08/17/us/politics/Michelle-Obama-speech-transcript-video.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2020/08/17/autossell/Michelle/Michelle-facebookJumbo.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Michelle Obama, in DNC speech, rips Trump White House for ‘chaos' and 'lack of empathy’"
     excerpt: "Former first lady Michelle Obama, in a measured but searing address to close out Democrats' opening convention night, accused President Trump's White House of operating in \"chaos\" and without \"empathy\" as she urged voters to cast their ballots for Joe Biden like their lives depend on it."
     publishedDateTime: 2020-08-18T03:38:00Z

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-
 ampWebUrl: "https://venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/08/19/xilinxs-programmable-ai-chip-powers-safety-sensors-in-subaru-car/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 104
+heat: 114
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/xilinx-subaru-automoative-pr-mediakit-1120x560-1.jpg?w=1200&#038;strip=all"
@@ -44,6 +45,6 @@ related:
         height: 649
         isCached: true
 
-secured: "FaFGTBzJmvEjCS3ZKroFEjpvz7sqcJUa9xtfJM2YWEt/1vtlN+HqIDjQXR1ttJpJZ5oqbb3OR0fDq3oXvzbS8DiNJ1qyvmgW5CSNNfhhifoUSx0wYDdE8m9VviZDCqkh9oNeEl+7J7FE8i0JJqzgzeyHtoNJYsM24p1mAO+U5JJqufWopaA4yYLA7RxXI79KtqCsHqeqkWcx0u9eaYz81VkDBSmAsZPA80uTyBSS2lnnP7ebUkr9mUbvW4gqE2OQ+5MhW8OHME1WMW11TGcBcFtsbe1MZJGLnIXaviftAx7+7wbYdCnFShTdrEiFkFLIuybgcycDGuKXaRC0H/SvXQ==;Y9I+j0b8pkDkEYJPjljfZA=="
+secured: "6mWuSMB/DF1jInYwhNtYNFzSgvOSTz3RuXWMojc5Fi7rtEwhh4vVSUFLmq4PYwRaAPH4rY/qT8B93MVFtaQbKbG8MLMlkE+taGi72V9aD0C/fFtWsAXMZkw8lD1TSmL2pjffDFFNVc5g9N2SCKC4eUcZz+4QyIQy9SCs+FFNH4jJ4cX7kQQXTFO5eZll2kqGlcCJ2UBE9PcJKyuKVdEKdfEXy54dL9VuGAbdQ7kYke0hq1YrWu0ivSPzSMYmBxxqaLGDcvFNiU7BuqdKdePkoK8obEj3dDpwynnq0tb7Z/BnALDZTFsw/a2ATK+pd17jpBKu60g5JmDiJE8DJmIr3nmDlDqcg4sMRaUOzaQMSsmZvUuFivdUMs8QOpVH1TA+e73feRMnT3brS7yaTsBLQ0iBDRIoqTAW4+uJm1D8NMehj60PJGKQ6BK8PlNmk9BqcZqFxOIj148divU/IbWlm+vTxfFGR5LKmG9fBWgoHKqvvnlSJcwGOrbdNkiCRaEVCATowwl4KZCbmmBvxM3zEg==;VXNoTNqsmurxAnlclI6Khg=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Global Facial Recognition Market Forecast 2019-2028"
-excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
-publishedDateTime: 2020-08-19T14:34:00Z
-webUrl: "https://www.prnewswire.com/news-releases/global-facial-recognition-market-forecast-2019-2028-301114914.html"
+excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
+publishedDateTime: 2020-08-19T15:28:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-forecast-2019-2028-1029517397"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/global-facial-recognition-market-forecast-2019-2028-1029517397"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-facial-recognition-market-forecast-2019-2028-1029517397"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Facial Recognition Lobby Urges Caution on U.S. Zeal to Regulate"
@@ -258,6 +258,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Violation of Fundamental Rights by using Facial Recognition Technology in Protests"
+    excerpt: "Facial Recognition Technology embodies a software that is capable of identifying and authenticating the identity of an individual by recognizing the physical traits of their face. The underlying"
+    publishedDateTime: 2020-08-20T03:30:00Z
+    webUrl: "https://www.jurist.org/commentary/2020/08/seshadri-sindhu-facial-recognition-technology-in-protests/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 35
+    images:
+      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2020/08/artificial_intelligence_1597778810.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Facial recognition technology riddled with racial bias; cities are fighting back"
     excerpt: "In the wake of the George Floyd protests, many cities and technology conglomerates are banning police agencies from utilizing facial recognition technology, citing racial discrimination as a vital concern."
     publishedDateTime: 2020-08-17T17:53:00Z
@@ -273,6 +287,6 @@ related:
         height: 616
         isCached: true
 
-secured: "pJFf9gIhEbUFJzmAmz2wFzFpjGJC9hfx2CBk8Y9mXcvp357KXGr1AnGCBzF0dk/aBmsBkGYDukvybLaTXpJAaYTQoMaXjE97NBh+R+AUT/BPLV1kM7CvnTz/BdQwSd+hXGQTq03EiJvIOliaz0hS93snQWXcymkqnF0VxYD3dPyb1HnmLfMhbTXuGnwAa5telNkADudeVuDwoM3kgZGFejikof3UGqO+8qrsEhIdElM+WCpku0EHxAcuKyTY2eQVsMxfpz/KBF0utA6BIi3EfTiI2FvB2SRJHU4y3XlpvtUBVr3pFIBPooamtBbf37h0xmAytVKXAzwd4ylcqIgynA==;cd34ZL0utbsoDDcu9z2hlQ=="
+secured: "/uGACST5IlgYeX82u//PR/RSHcVHogcY3WMs6F5KV+9KqEUChIPL3acmWZeIkpEL37YPrB36HbdZ38yJSHVpTO6xENIFaUiiFEF4PEepRzpYRVChFp8AsfiOL5GUakUHmSikpFMKYFCbBfyAvR+v9ZgoGom2Lbu9VV4ESOhOEXQ0L1pGtQ4/O2vc0FaV6EN5DMOuUfNO/qWN8+oM/5iIL7hbc/ZuJN1B/5jhIdZiBgYQ4RfOBqY1sNpx9Cnt53Fz0nQgbkcsvb/aZkSHsR6Tq/Pkbgkfsgc4JT5C9Csl4Yr3yVZhlaJpXEn62y+VtXeyAXJ6beKs/DYy+32+6Ihslg==;ZyA6C9Uzobhqrkt7EqLz3A=="
 ---
 

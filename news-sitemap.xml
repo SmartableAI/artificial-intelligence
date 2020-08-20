@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/adrianbridgwater/2020/08/20/chatbots-are-machine-learning-their-way-to-human-language/</loc>
+    <lastmod>2020-08-19T22:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.vox.com/policy-and-politics/2020/8/19/21376798/read-kamala-harris-acceptance-speech-vice-president-nomination-democratic-national-convention</loc>
     <lastmod>2020-08-19T20:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -145,8 +151,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://uk.pcmag.com/artificial-intelligence-2/128242/meet-your-post-pandemic-coworker-an-ai-bot</loc>
-    <lastmod>2020-08-19T05:00:00-07:00</lastmod>
+    <loc>https://www.pcmag.com/news/meet-your-post-pandemic-coworker-an-ai-bot</loc>
+    <lastmod>2020-08-19T05:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -351,6 +357,12 @@
   <url>
     <loc>https://www.bloomberg.com/news/articles/2020-08-18/facial-recognition-lobby-urges-caution-on-u-s-zeal-to-regulate</loc>
     <lastmod>2020-08-18T04:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://electrek.co/2020/08/18/tesla-hw-4-0-self-driving-chip-tsmc-for-mass-production-q4-2021-report/</loc>
+    <lastmod>2020-08-18T03:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -597,6 +609,24 @@
   <url>
     <loc>https://techcrunch.com/2020/08/14/clearview-ai-ice-hsi-contract-2020/</loc>
     <lastmod>2020-08-14T15:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/ru-ru/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/</loc>
+    <lastmod>2020-08-14T14:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://docs.microsoft.com/cs-cz/azure/databricks/applications/machine-learning/automl-hyperparam-tuning/</loc>
+    <lastmod>2020-08-14T14:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.biometricupdate.com/202008/military-takes-robot-interaction-to-the-next-damn-level-with-new-speech-recognition-system</loc>
+    <lastmod>2020-08-14T14:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -925,6 +955,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fnnews.com/news/202008131602495034</loc>
+    <lastmod>2020-08-13T00:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-witness-huge-growth-by-2025-2020-08-13</loc>
     <lastmod>2020-08-12T22:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -933,6 +969,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/global-computer-vision-market-2020-analytical-assessment-key-drivers-growth-and-opportunities-to-2025-2020-08-12</loc>
     <lastmod>2020-08-12T18:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.morningstar.com/news/pr-newswire/20200812ny89611/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace</loc>
+    <lastmod>2020-08-12T16:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -951,12 +993,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/large-provider-of-veterinary-products-selects-celebros-ai-search-to-power-their-ecommerce-search-experience-2020-08-12</loc>
     <lastmod>2020-08-12T15:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/workday-and-ibm-expand-partnership-to-help-customers-plan-return-to-the-workplace-301110499.html</loc>
-    <lastmod>2020-08-12T13:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1237,6 +1273,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/08/g17029904/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries</loc>
+    <lastmod>2020-08-11T06:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/finland-prisons-technology-ai-online-classes-2020-8</loc>
     <lastmod>2020-08-11T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1245,12 +1287,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-by-size-share-latest-global-trends-leading-key-players-future-growth-revenue-demand-forecast-to-2025-2020-08-11</loc>
     <lastmod>2020-08-11T06:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-china-2020-in-depth-case-studies-of-applied-ai-across-8-industries-1029492002</loc>
-    <lastmod>2020-08-11T06:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1305,6 +1341,12 @@
   <url>
     <loc>https://www.cnet.com/roadshow/news/hyundai-aptiv-joint-venture-motional-self-driving-cars/</loc>
     <lastmod>2020-08-11T05:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.leiphone.com/news/202008/hBACeSbAY8PIOcbh.html</loc>
+    <lastmod>2020-08-11T04:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,6 +2,47 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-09-elon-musk-is-extremely-confident-tesla-will-achieve-fully-autonomous-cars-soon.md",
+      "title": "Elon Musk Is ‘Extremely Confident’ Tesla Will Achieve Fully Autonomous Cars Soon",
+      "excerpt": "In remarks made over video message at Shanghai’s annual World Artificial Intelligence Conference ... is competing with the likes of Alphabet’s Waymo and Uber which are all spending billions ...",
+      "sourceUrl": null,
+      "webUrl": "https://robbreport.com/motors/cars/elon-musk-tesla-close-level-5-autonomous-driving-technology-2934281/#!",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robbreportedit.files.wordpress.com/2020/07/10664640e-1.jpg?w=1000",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://robbreport.com/motors/cars/elon-musk-tesla-close-level-5-autonomous-driving-technology-2934281/amp/",
+      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/elon-musk-tesla-close-level-5-autonomous-driving-technology-2934281/amp/",
+      "publishedDateTime": "2020-07-09T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robb Report",
+        "domain": "robbreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-elon-musk-says-full-self-driving-tesla-tech-very-close.md",
       "title": "Elon Musk says full self-driving Tesla tech 'very close'",
       "excerpt": "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said. It was already \"very close\" to achieving the basic requirements of this \"level-five\" autonomy,",
@@ -1321,56 +1362,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-tusimple-adds-logistics-operators-to-self-driving-trucks-effort.md",
-      "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
-      "excerpt": "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-204436/social",
-          "width": 1280,
-          "height": 640,
-          "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
-      "publishedDateTime": "2020-07-01T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
+    excerpt: "The Global AI in Healthcare Market size was estimated to be US$ 4.7 billion in 2019. The AI in Healthcare market"
+    publishedDateTime: 2020-08-20T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-08-20?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Forecast and Trends Analysis Research Report 2020-2027"
     excerpt: "The rising venture capital investments and the vast availability of big data at the global level are the significant factors contributing to the growth of artificial intelligence in manufacturing market size. Various artificial intelligence technologies ..."
     publishedDateTime: 2020-08-18T06:54:00Z

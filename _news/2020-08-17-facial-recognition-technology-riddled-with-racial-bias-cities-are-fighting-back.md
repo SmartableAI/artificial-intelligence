@@ -117,6 +117,17 @@ related:
     quality: 82
   - title: "Global Facial Recognition Market Forecast 2019-2028"
     excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
+    publishedDateTime: 2020-08-19T15:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-forecast-2019-2028-1029517397"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-facial-recognition-market-forecast-2019-2028-1029517397"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-facial-recognition-market-forecast-2019-2028-1029517397"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "Global Facial Recognition Market Forecast 2019-2028"
+    excerpt: "KEY FINDINGS The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security,"
     publishedDateTime: 2020-08-20T00:12:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-market-forecast-2019-2028-2020-08-19"
     type: article
@@ -258,21 +269,21 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Global Facial Recognition Market Forecast 2019-2028"
-    excerpt: "The global facial recognition market is estimated to grow with a CAGR of 14.41%, during the forecast period of 2019 to 2028. The key factors promoting the market growth include the growing need for surveillance systems to enhance safety and security ..."
-    publishedDateTime: 2020-08-19T14:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-facial-recognition-market-forecast-2019-2028-301114914.html"
+  - title: "Violation of Fundamental Rights by using Facial Recognition Technology in Protests"
+    excerpt: "Facial Recognition Technology embodies a software that is capable of identifying and authenticating the identity of an individual by recognizing the physical traits of their face. The underlying"
+    publishedDateTime: 2020-08-20T03:30:00Z
+    webUrl: "https://www.jurist.org/commentary/2020/08/seshadri-sindhu-facial-recognition-technology-in-protests/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
+      name: Jurist
+      domain: jurist.org
+    quality: 35
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.jurist.org/commentary/wp-content/uploads/sites/3/2020/08/artificial_intelligence_1597778810.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
-secured: "4K8BhwaUBi1zYazc5Y1ICz063tPBc1x4hgyKCsERqSjrJUnb3xCZo7r7UzR9vyW8Md++n9fYaN3tFCEkFvdFcj3DvoY3JjpOJak+O+DcLff8fLFWKHQd66csA8jCC68xrFOgt5suDETu8OH7rPjpD5lS/8su5DJz6VLkhpPTXRVg5fCVPfloLDZJggmuXDhmfrQl/iSJqeNE58575NvKoBEEYhrjmUm8U7FMpB3hnjBa4KBmrc6zdCQ5ffiB/kY9IG4FCHcnoPregF9FSH3bFSCNOEp9iyG4Ctsml1Gp8oljRGP5C5As88RiXdXJhiej9Gagsw973996v8M7EkmrsQ==;zC9kCoVHPB9iygwRo0K3mQ=="
+secured: "XbUylJAiK8R1E9GxY9ulwkZxKRy7HTQQG5xjxmJqm0wQSXCMRxgQ5nhyMnCOuIiWneuYEeqrezvxOQOw6USHzZ9oaJoj2D4KHNDLOLlBsTJvGprkNqYdDWDsLGIrenNiR3DUmFAxMrAfWzf3hLsjDWcFWj5TjurqO9CZYDWKT5/y/39JSEqmAmUwVy99Ab4K3hGqIF9F1qnhqzUwNycAG2VyXLKOgrBZke+JUCOlJ7TAbxeuxEifj/Gx1D8JrEyOa0VywlyJicYoeUuD8jHRd0GxD4N1UOmogObf4IL4VL4cm0q8jZswAOhQDOwC2loH/GhUSobd+HZvLx5Zwa1hkl3dYSsegQHy2yb28jukk+zLF7YAMmZa4U6Y0VwLKGQf1aaXTrlRGIdbSBBg4sjLX572UWJF6Wg5WIaqsOH2bQgHj1QQis6XXJ7KSNf4Nk5eXFMtapzHDqyUrIj2LQKRqL8PHUzn8tWwYextGGcx/TI9rBYZ2HV24raDKgXrdu+SvtUGCjG/xUvZsGaMl2ZLsw==;PB5RsrxLKAwjli17S/xCXA=="
 ---
 

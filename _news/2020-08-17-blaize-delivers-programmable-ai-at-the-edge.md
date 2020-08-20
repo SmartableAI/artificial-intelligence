@@ -33,7 +33,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 104
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/08/xilinx-subaru-automoative-pr-mediakit-1120x560-1.jpg?w=1200&#038;strip=all"
         width: 1200

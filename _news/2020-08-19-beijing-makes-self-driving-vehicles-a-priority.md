@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-se
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2020/08/19/beijing-makes-self-driving-vehicles-apriority/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -180,6 +180,20 @@ related:
       - url: "https://i.inews.co.uk/content/uploads/2020/08/PRI_161652189.jpg"
         width: 1654
         height: 1010
+        isCached: true
+  - title: "Self-driving startup AutoX launches public test rides in its self-driving vehicles"
+    excerpt: "A fleet of self-driving cars are seen at Cangzhou economic development zone in Cangzhou City, north China's Hebei Province, May 14, 2020. The road test area for intelligent connected vehicles (ICVs) was extended from Cangzhou economic development zone to main urban areas of the city on Thursday."
+    publishedDateTime: 2020-08-18T15:46:00Z
+    webUrl: "https://www.globaltimes.cn/content/1198172.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 18
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-05-15/cbdf30ab-ac5d-40a4-9a91-70dddd24472e.jpeg"
+        width: 500
+        height: 300
         isCached: true
 
 secured: "fsR9jL1KNCSGc+tDuGvirGmdNHnILGq+YAjg6tYr8Uk4gk1JP6MnHenR/viTAJRiXcGiHuMl4uWKhz8mT3rVAlzJsfB6Ps7OphfWOzo6aQ9E8pf8sCQDWb6pbFUzNChA2tHAgSRRT7epp/8xDKMRAqUqbe3mjLbc/veo2jNBovAfwOZc5C98zooiKt3JBC/azbxVhkz+ILtf2tvBoXFS7105j2Gm4/W2MALbup+9ou5xgepcmGjVbXNPtj9L+NM4onUV6XI8SunWh/ewd9WoiXrvWmOIU4ppBerbUe/9ZhWpvrDNeYul4HTLAg8DkgzGygPzJaoFtjE35KNxXpoSEltE29DTdx6FWdomow4N5oYvXY96abBIEJi11/W2qEOggmEHd92DAzawQ4mI8WcyjwKg/0RmvF+LdjIarap7MpCyDnNKBNXYNKuAiaMr0mcgtfWA/ImGjjt+UiyImB/MQlKOHaiOO3IvOGK2jXQ9DSpjB8M/Pn0ihMAXMtP5r3QH;M9sJalL0WhfBaWCGibNhzw=="

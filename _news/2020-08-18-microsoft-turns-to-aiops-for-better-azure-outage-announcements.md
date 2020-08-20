@@ -54,6 +54,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft strengthens translation support for Indian languages, adds Odia to Microsoft Translator"
+    excerpt: "Microsoft India has announced the addition of Odia as the latest Indian language in Microsoft Translator. The cloud-based translation service will now offer real-time translation and transliteration for Odia."
+    publishedDateTime: 2020-08-20T04:00:00Z
+    webUrl: "https://orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/"
+    ampWebUrl: "https://orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/amp/"
+    cdnAmpWebUrl: "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/microsoft-strengthens-translation-support-for-indian-languages-adds-odia-to-microsoft-translator/amp/"
+    type: article
+    provider:
+      name: Odisha Diary
+      domain: orissadiary.com
+    quality: 48
+    images:
+      - url: "https://i0.wp.com/orissadiary.com/wp-content/uploads/2020/08/17aaug-ms.jpg?fit=960%2C640&#038;ssl=1"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "GMs//PBUuMkj97ZehJrLwKWn1DggKssSyX0avAhE+V5qzM7qw3bxWHFrFfjB3K8YywRc7BOUNNrfL/MFaK7H8YUo3tVeF48vIpHAzq2cpT8pDupaiQZQN0WM/4X9Fsohk7b71+C7fiEyC4w/c/8p5lsCeYvcGDmd9gR2xYDFYa9iznjE2eJez7MqyRnJbb29iquvRw71yn7pmGCJTYH7vxdIwvYmlgAIDwnUlRWvod97LmDYuLNvQE1vfNRoyHz0e/Gj2TomVE7WboN8f1P1RF4tk4v1akOYnVfoOdtPi+ISLsjeI8t0SwhkynY9EKca345Nk/Lf8IdUNXWY4IANTKlWtPfVpwh7798qjm/r3/JJlOdd3rRDCEWZYPja7jyryp6FykuFcG3mz285W8MF8oM29RCUsktYxGP8Z49gTbSmcpv4aBUbevDuvCq9mPSglv8efHYey1LFUo7t+WHEVBezgoC1H+TsoJUoNaB0gtb4UscDoI+jrxLaW6LoLyKCuwiYiDcjsVL1ObI72bFmig==;iRFVgcqEuNhjZP7ugv5B+g=="
 ---

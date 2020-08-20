@@ -177,6 +177,20 @@ related:
         width: 1654
         height: 1010
         isCached: true
+  - title: "Self-driving startup AutoX launches public test rides in its self-driving vehicles"
+    excerpt: "A fleet of self-driving cars are seen at Cangzhou economic development zone in Cangzhou City, north China's Hebei Province, May 14, 2020. The road test area for intelligent connected vehicles (ICVs) was extended from Cangzhou economic development zone to main urban areas of the city on Thursday."
+    publishedDateTime: 2020-08-18T15:46:00Z
+    webUrl: "https://www.globaltimes.cn/content/1198172.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 18
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-05-15/cbdf30ab-ac5d-40a4-9a91-70dddd24472e.jpeg"
+        width: 500
+        height: 300
+        isCached: true
 
 secured: "CbHJwsoiGqqHtes1bMj+XRCwFFGGTmcpNr44L63e8t36YNLeB/NKU6kRkL1i//3nKNtzIj6cbTnyvYt9Ij0b6TS1Zu5dEXS5nQNs5xHB1opW0Zmt+mXrTdgtxTNl/vUKmjwhUxPb5dmB106PmMZZ3bkSPdXS+gQa3Q5DwaZpw9fyR9jepjwu1jlAM3i4MVecD/o+FUEIE33SrS3Wj/Uw+pH9TkTCR6WcXN8a07CblBda1teoHIk6mlj5lEEf9eqp+2ZiXYS+xfowEeLhL+lBLLfHIAyuc5+0Px63cyPXZbuPvgukOaOHdzHb80vkjU4wB4VTLikWw6lPUC0Pljp0JCftnTylUMB80IjuYDLlAs0tNGiK5I2gnyPTQeM9ICKCpJqdJ3OQCUT2RIJS+94JPbTy/6xDg4J1Alux1yhVRoZ33xHB0C6jKWx3MWRnQ4e2JdfX3sA6OGGJ7z7En1tGmDT/JCGrC3lWmuK9sfbn/LaXO78wR+i66HJ3EAPEM5ZO;YCxt54/ocEFKO3ZmiXylew=="
 ---

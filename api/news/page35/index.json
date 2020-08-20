@@ -2,6 +2,299 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-07-21-nvidia-partners-with-university-of-florida-to-build-ai-supercomputer.md",
+      "title": "Nvidia Partners With University of Florida to Build AI Supercomputer",
+      "excerpt": "Nvidia was long known as a supplier of graphics chips for personal computers to make video games look more realistic, but researchers now also use its chips inside data centers to",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp",
+      "publishedDateTime": "2020-07-21T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set.md",
+      "title": "Researchers seek to advance predictive AI for engineers with CAD model data set",
+      "excerpt": "AI trained using the data set could eventually assist humans in sketching CAD models. CAD models can be anything from a single machine component to an entire building. They’re used by architects ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/princeton-cad.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/amp/",
+      "publishedDateTime": "2020-07-21T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-ibm-providing-ai-solutions-to-government.md",
+      "title": "IBM Providing AI Solutions to Government",
+      "excerpt": "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services delivery and supports social services organizations with AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/whitepapers/2020/07/ibm-watson-providing-ai-solutions-to-government-072120.aspx?tc=page0",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/~/media/GIG/GCN/GCNlogo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-frost-sullivan-applaudes-aws-for-leading-the-automotive-cloud-services-market-with-a-comprehensive-suite-of-solutions.md",
+      "title": "Frost & Sullivan Applaudes AWS for Leading the Automotive Cloud Services Market with a Comprehensive Suite of Solutions",
+      "excerpt": "Based on its recent analysis of global automotive cloud services platforms for the mobility industry, Frost & Sullivan recognizes Amazon Web Services, Inc. (AWS) (aws.amazon.com)",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/173330/Frost-and-Sullivan-Applauds-AWS-for-Leading-the-Automotive-Cloud-Services-Market-with-a-Comprehensive-Suite-of-Solutions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning.md",
+      "title": "Researchers propose game-based benchmark for AI’s common-sense reasoning",
+      "excerpt": "In a paper, researchers propose a new AI and machine learning benchmark for commonsense reasoning based on the video game Little Alchemy 2.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-748334809.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/amp/",
+      "publishedDateTime": "2020-07-21T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-ex-google-ceo-eric-schmidt-is-working-to-launch-a-university-that-would-rival-stanford-and-mit-and-funnel-tech-workers-into-government-work.md",
+      "title": "Ex-Google CEO Eric Schmidt is working to launch a university that would rival Stanford and MIT and funnel tech workers into government work",
+      "excerpt": "Dubbed the US Digital Service Academy, it would offer degrees and coursework for digital skills like cybersecurity and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/ericschmidt?ref_src=twsrc^google|twcamp^serp|twgr^author",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use.md",
+      "title": "Chip Industry Sees Danger of AI in Explosion of Electricity Use",
+      "excerpt": "The increasing use of artificial intelligence is going to extract a heavy price in power unless the chip industry steps up and heads that off, according to one of the industry’s biggest companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
+      "publishedDateTime": "2020-07-21T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning.md",
       "title": "Save half the cost off a 2-Yr subscription to Busuu language learning",
       "excerpt": "Busuu is the world's largest community for language learning, providing courses in 12 different languages on web and mobile to more than 100 million learners worldwide. Save half off today!",
@@ -842,310 +1135,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-d-waves-quantum-computing-cloud-comes-to-india.md",
-      "title": "D-Wave’s quantum computing cloud comes to India",
-      "excerpt": "Canadian quantum computing company D-Wave Systems is launching its cloud service in India ... and software have been used in financial modelling, machine learning and route optimization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/d-waves-quantum-computing-cloud-comes-to-india/article32145904.ece#!",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/incoming/390xp/article32145944.ece/ALTERNATES/LANDSCAPE_615/D-Wavejpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/d-waves-quantum-computing-cloud-comes-to-india/article32145904.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/d-waves-quantum-computing-cloud-comes-to-india/article32145904.ece/amp/",
-      "publishedDateTime": "2020-07-21T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-alipay-allows-pet-owners-to-buy-insurance-by-using-facial-recognition-on-their-cats-and-dogs.md",
-      "title": "Alipay allows pet owners to buy insurance by using facial recognition on their cats and dogs",
-      "excerpt": "In addition to insurance, animal lovers and researchers have found plenty of other applications for animal facial recognition. Jack Ma’s Ant to kick start Shanghai and Hong Kong IPOs, bypassing New York Finding Rover, a US smartphone app, uses a machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/21/3cd591c0-cb20-11ea-9c1b-809cdd34beb3_image_hires_175945.jpg?itok=ylDU3jZF&v=1595325600",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
-      "publishedDateTime": "2020-07-21T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-ameritas-now-offering-enrich-financial-wellness-program-to-employees.md",
-      "title": "Ameritas Now Offering Enrich Financial Wellness Program to Employees",
-      "excerpt": "Ameritas is now offering iGrad’s Enrich™ financial wellness platform to its 2,500 employees nationwide. Ameritas, an insurance, employee benefits and financial services provider, is offering the Enrich online financial literacy platform to its employees through Virgin Pulse,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR.com/dcbe5881f881e89a405cde1e828cb685",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-aws-aws-deepracer-womens-league.md",
-      "title": "AWS เปิดตัว การแข่งขัน AWS DeepRacer Women’s League",
-      "excerpt": "อะเมซอน เว็บ เซอร์วิสเซส อิงค์ (AWS) บริษัทในเครือ Amazon.com เปิดตัวการแข่งขัน AWS DeepRacer Women’s League เป็นครั้งแรกของโลก ในเอเชียตะวันออกเฉียงใต้ โดยเป็นการแข่งขันที่ใช้รถยนต์ย่อส่วนที่ใช้ระบบข",
-      "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/s/prg/3143656",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ryt9.com/img/files/20200721/iqe02c36e6aea65e1bf22cb163e472ac87-0.jpg",
-          "width": 795,
-          "height": 889,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-falling-tech-spending-hurts-ibm-wsj.md",
-      "title": "Falling Tech Spending Hurts IBM — WSJ",
-      "excerpt": "IBM wants to be a leading cloud-computing player, but it is behind the competition, led by Amazon and Microsoft ... and other management services, made $3.89 billion of sales during the quarter, down 7%, IBM said. Its Cloud and Cognitive Software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/202007211155/falling-tech-spending-hurts-ibm-wsj",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025.md",
-      "title": "Artificial Intelligence Market 2020: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025",
-      "excerpt": "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corp(NYSE:IBM),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-qut-researchers-using-ai-enabled-drones-to-identify-koalas-in-bushfire-affected-areas.md",
-      "title": "QUT researchers using AI-enabled drones to identify koalas in bushfire affected areas",
-      "excerpt": "Researchers from the Queensland University of Technology (QUT) have identified how using AI-enabled infrared drones can help provide more accurate estimates about the number of surviving koalas in bushfire affected areas. The new modelling method has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/qut-researchers-using-ai-enabled-drones-to-identify-koalas-in-bushfire-affected-areas/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2014/08/27/a3375578-2dab-11e4-9e6a-00505685119a/koala.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qut-researchers-using-ai-enabled-drones-to-identify-koalas-in-bushfire-affected-areas/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qut-researchers-using-ai-enabled-drones-to-identify-koalas-in-bushfire-affected-areas/",
-      "publishedDateTime": "2020-07-20T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

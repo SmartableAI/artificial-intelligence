@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T13:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-forecast-report-2020---2027---top-key-players-analysis-2020-08-17"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Healthcare Market Size, Growth, Trends, Company Analysis and Forecast 2020 to 2030"
+    excerpt: "The Global AI in Healthcare Market size was estimated to be US$ 4.7 billion in 2019. The AI in Healthcare market"
+    publishedDateTime: 2020-08-20T05:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-growth-trends-company-analysis-and-forecast-2020-to-2030-2020-08-20?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI for Drug Discovery Market 2020-2025 / Trends Adopted by the Competitors, Regions with Forecast"
     excerpt: "The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The"
     publishedDateTime: 2020-08-17T07:35:00Z
